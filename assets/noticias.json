@@ -1,7 +1,17 @@
 {
-  "updated": "2026-06-14T19:19:00Z",
+  "updated": "2026-06-14T21:06:02Z",
   "count": 24,
   "items": [
+    {
+      "title": "El Sagrado Corazón de Jesús, la fuerza y la fe inundan las calles de Córdoba",
+      "link": "https://www.abc.es/espana/andalucia/cordoba/semana-santa/sagrado-corazon-jesus-fuerza-inundan-calles-cordoba-20260614165855-nts.html",
+      "desc": "El Sagrado Corazón de Jesús vuelve a recordar el núcleo central de la fe, todo lo que Dios ama a sus hijos y todo el amor que debe recibir de ellos. La fuerza de este mensaje ha ido calando en calles, plazas y casas del Centro este domingo por la tarde noche. ",
+      "date": "Sun, 14 Jun 2026 22:18:47 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
     {
       "title": "Villablino prohíbe el riego de forma temporal tras llegar arrastres de los incendios al agua de Orallo",
       "link": "https://www.abc.es/espana/castilla-leon/villablino-prohibe-riego-forma-temporal-tras-llegar-20260614202901-nt.html",
@@ -187,16 +197,6 @@
       "link": "https://www.abc.es/espana/pp-lanza-web-mapa-corrupcion-psoe-alcanzar-20260614182914-nt.html",
       "desc": "El PP lanza una web con el «mapa de la corrupción» del PSOE para ayudar a entender los 15 procesos judiciales que cercan al círculo de Sánchez. Los populares detallan que ya hay 94 investigados, 19 tipos de delito y, entre todos, podrían alcanzar los 1.817 año",
       "date": "Sun, 14 Jun 2026 18:29:14 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "1-0: El Atlético Albacete cae en Leioa y se jugará el ascenso en el Carlos Belmonte",
-      "link": "https://www.abc.es/espana/castilla-la-mancha/toledo/deportes/atletico-albacete-cae-leioa-jugara-ascenso-carlos-20260614181800-nt.html",
-      "desc": "El Atlético Albacete perdió por 1-0 en la tarde de este sábado ante la SD Leioa el primer round de la final nacional del play-off de ascenso a Segunda RFEF. Sin ser un buen resultado para la joven escuadra albaceteña, ese 1-0 adverso es perfectamente remontabl",
-      "date": "Sun, 14 Jun 2026 18:18:00 +0200",
       "source": "ABC",
       "color": "#c0392b",
       "feedId": "ABC",
