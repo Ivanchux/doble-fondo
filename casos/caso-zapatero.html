@@ -1,0 +1,1640 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Expediente Zapatero</title>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/d3/7.8.5/d3.min.js"></script>
+<link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@300;400;500;600;700&family=DM+Serif+Display:ital@0;1&family=Courier+Prime:ital,wght@0,400;0,700;1,400&display=swap" rel="stylesheet">
+<style>
+* { margin:0; padding:0; box-sizing:border-box; }
+
+:root {
+  --bg:       #07080f;
+  --surface:  #0d0f1a;
+  --border:   rgba(255,255,255,0.07);
+  --accent:   #2255ff;
+  --accent2:  #ff3355;
+  --amber:    #ffaa00;
+  --text:     #d4d8f0;
+  --muted:    #5a6080;
+  --pago:     #ffaa00;
+  --mando:    #2255ff;
+  --influencia:#ff3355;
+  --control:  #9933ff;
+  --operativa:#334466;
+  --inter:    #00cc88;
+}
+
+html { scroll-behavior:smooth; }
+
+body {
+  background: var(--bg);
+  color: var(--text);
+  font-family: 'Space Grotesk', sans-serif;
+  overflow-x: hidden;
+  min-height: 100vh;
+}
+
+/* ─── PORTADA ─── */
+#portada {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-end;
+  padding: clamp(24px,5vw,64px);
+  position: relative;
+  border-bottom: 1px solid var(--border);
+  overflow: hidden;
+}
+
+.portada-num {
+  position: absolute;
+  top: clamp(20px,4vw,48px);
+  right: clamp(20px,4vw,48px);
+  font-family: 'Courier Prime', monospace;
+  font-size: clamp(10px,1.5vw,13px);
+  color: var(--muted);
+  letter-spacing: 0.1em;
+  text-align: right;
+  line-height: 1.8;
+}
+
+.portada-estado {
+  display: inline-flex;
+  align-items: center;
+  gap: 10px;
+  margin-bottom: clamp(20px,4vw,40px);
+}
+
+.dot-live {
+  width: 8px;
+  height: 8px;
+  background: var(--accent2);
+  border-radius: 50%;
+  animation: blink 2s infinite;
+  flex-shrink: 0;
+}
+
+@keyframes blink {
+  0%,100%{opacity:1} 50%{opacity:0.2}
+}
+
+.portada-estado span {
+  font-size: clamp(10px,1.5vw,12px);
+  letter-spacing: 0.2em;
+  text-transform: uppercase;
+  color: var(--accent2);
+  font-weight: 500;
+}
+
+h1 {
+  font-family: 'DM Serif Display', serif;
+  font-size: clamp(48px, 10vw, 130px);
+  line-height: 0.9;
+  letter-spacing: -0.02em;
+  color: #fff;
+  margin-bottom: clamp(16px,3vw,32px);
+}
+
+h1 em {
+  font-style: italic;
+  color: var(--accent);
+}
+
+.portada-bajada {
+  display: flex;
+  flex-wrap: wrap;
+  gap: clamp(20px,4vw,48px);
+  align-items: flex-end;
+  margin-bottom: clamp(32px,5vw,64px);
+}
+
+.portada-desc {
+  max-width: 520px;
+  font-size: clamp(13px,1.8vw,16px);
+  color: var(--muted);
+  line-height: 1.7;
+  font-weight: 300;
+}
+
+.portada-delitos {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+}
+
+.delito-tag {
+  font-family: 'Courier Prime', monospace;
+  font-size: clamp(10px,1.4vw,12px);
+  color: var(--text);
+  letter-spacing: 0.05em;
+  padding: 6px 14px;
+  border: 1px solid var(--border);
+  width: fit-content;
+}
+
+/* ─── NAV ─── */
+#nav {
+  position: sticky;
+  top: 0;
+  z-index: 200;
+  background: rgba(7,8,15,0.96);
+  backdrop-filter: blur(12px);
+  border-bottom: 1px solid var(--border);
+  display: flex;
+  overflow-x: auto;
+  scrollbar-width: none;
+}
+#nav::-webkit-scrollbar { display:none; }
+
+.nav-btn {
+  background: none;
+  border: none;
+  color: var(--muted);
+  font-family: 'Space Grotesk', sans-serif;
+  font-size: clamp(11px,1.4vw,13px);
+  font-weight: 500;
+  letter-spacing: 0.05em;
+  padding: clamp(14px,2vw,18px) clamp(16px,3vw,28px);
+  cursor: pointer;
+  border-bottom: 2px solid transparent;
+  transition: all 0.2s;
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.nav-btn:hover { color: var(--text); }
+.nav-btn.on {
+  color: #fff;
+  border-bottom-color: var(--accent);
+}
+
+/* ─── SECCIONES ─── */
+.seccion { display: none; }
+.seccion.on { display: block; }
+#grafo-wrap.on { display: flex; }
+
+/* ─── GRAFO ─── */
+#grafo-wrap {
+  display: none;
+  height: calc(100svh - 53px);
+  position: relative;
+}
+
+@media(max-width:768px){
+  #grafo-wrap { flex-direction: column; height: auto; }
+}
+
+#svg-area {
+  flex: 1;
+  position: relative;
+  min-height: 60svh;
+  overflow: hidden;
+}
+
+#grafo-svg {
+  width: 100%;
+  height: 100%;
+  display: block;
+}
+
+/* Panel info grafo */
+#info-panel {
+  width: 320px;
+  flex-shrink: 0;
+  background: var(--surface);
+  border-left: 1px solid var(--border);
+  overflow-y: auto;
+  scrollbar-width: thin;
+}
+
+@media(max-width:768px){
+  #info-panel {
+    width: 100%;
+    border-left: none;
+    border-top: 1px solid var(--border);
+    max-height: 40svh;
+  }
+}
+
+.panel-inner {
+  padding: clamp(16px,3vw,28px);
+}
+
+.panel-vacio {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  min-height: 200px;
+  gap: 12px;
+  text-align: center;
+}
+
+.panel-vacio p {
+  font-size: 12px;
+  color: var(--muted);
+  max-width: 200px;
+  line-height: 1.7;
+}
+
+.panel-chip {
+  font-family: 'Courier Prime', monospace;
+  font-size: 10px;
+  letter-spacing: 0.15em;
+  text-transform: uppercase;
+  color: var(--muted);
+  margin-bottom: 10px;
+}
+
+.panel-nombre {
+  font-family: 'DM Serif Display', serif;
+  font-size: clamp(18px,3vw,24px);
+  color: #fff;
+  line-height: 1.2;
+  margin-bottom: 10px;
+}
+
+.panel-rol {
+  font-size: 13px;
+  color: var(--muted);
+  line-height: 1.7;
+  padding-bottom: 18px;
+  border-bottom: 1px solid var(--border);
+  margin-bottom: 18px;
+}
+
+.conn-titulo {
+  font-size: 10px;
+  letter-spacing: 0.15em;
+  text-transform: uppercase;
+  color: var(--muted);
+  margin-bottom: 10px;
+  margin-top: 18px;
+}
+
+.conn-item {
+  padding: 10px 12px;
+  margin-bottom: 6px;
+  border-left: 2px solid;
+  cursor: default;
+  transition: background 0.15s;
+}
+.conn-item:hover { background: rgba(255,255,255,0.03); }
+
+.conn-label {
+  font-size: 12px;
+  color: var(--text);
+  font-weight: 500;
+  margin-bottom: 3px;
+}
+
+.conn-nodo {
+  font-size: 11px;
+  color: var(--muted);
+}
+
+.evidencia {
+  background: rgba(255,170,0,0.06);
+  border-left: 2px solid rgba(255,170,0,0.4);
+  padding: 10px 12px;
+  margin-bottom: 6px;
+  font-size: 11px;
+  color: var(--text);
+  line-height: 1.7;
+  font-style: italic;
+  font-family: 'Courier Prime', monospace;
+}
+
+/* Controles grafo */
+.grafo-ctrl {
+  position: absolute;
+  bottom: clamp(12px,2vw,24px);
+  left: clamp(12px,2vw,24px);
+  display: flex;
+  gap: 6px;
+  z-index: 10;
+}
+
+.ctrl {
+  width: 34px;
+  height: 34px;
+  background: var(--surface);
+  border: 1px solid var(--border);
+  color: var(--text);
+  font-size: 15px;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  transition: border-color 0.2s;
+}
+.ctrl:hover { border-color: var(--accent); }
+
+/* Filtros grafo */
+.grafo-filtros {
+  position: absolute;
+  top: clamp(12px,2vw,20px);
+  left: clamp(12px,2vw,20px);
+  display: flex;
+  flex-wrap: wrap;
+  gap: 5px;
+  z-index: 10;
+  max-width: calc(100% - 24px);
+}
+
+.f-btn {
+  background: rgba(7,8,15,0.85);
+  backdrop-filter: blur(8px);
+  border: 1px solid var(--border);
+  color: var(--muted);
+  font-family: 'Space Grotesk', sans-serif;
+  font-size: 10px;
+  font-weight: 500;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  padding: 5px 11px;
+  cursor: pointer;
+  transition: all 0.15s;
+}
+.f-btn:hover, .f-btn.on {
+  color: #fff;
+  border-color: rgba(255,255,255,0.25);
+  background: rgba(34,85,255,0.15);
+}
+
+/* Leyenda */
+.leyenda {
+  position: absolute;
+  bottom: clamp(12px,2vw,24px);
+  right: clamp(12px,2vw,24px);
+  background: rgba(7,8,15,0.9);
+  backdrop-filter: blur(8px);
+  border: 1px solid var(--border);
+  padding: 14px 16px;
+  z-index: 10;
+}
+
+@media(max-width:600px){ .leyenda { display:none; } }
+
+.ley-titulo {
+  font-size: 9px;
+  letter-spacing: 0.15em;
+  text-transform: uppercase;
+  color: var(--muted);
+  margin-bottom: 10px;
+}
+
+.ley-row {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  margin-bottom: 6px;
+  font-size: 11px;
+  color: var(--text);
+}
+
+.ley-dot { width:10px; height:10px; border-radius:50%; flex-shrink:0; }
+.ley-line { width:20px; height:2px; flex-shrink:0; }
+.ley-sep { border-top:1px solid var(--border); margin:8px 0; }
+
+/* ─── CRONOLOGÍA ─── */
+#crono-wrap {
+  padding: clamp(24px,5vw,64px);
+  max-width: 800px;
+  margin: 0 auto;
+}
+
+.sec-head {
+  margin-bottom: clamp(32px,5vw,56px);
+}
+
+.sec-eyebrow {
+  font-family: 'Courier Prime', monospace;
+  font-size: 11px;
+  letter-spacing: 0.2em;
+  text-transform: uppercase;
+  color: var(--accent);
+  margin-bottom: 16px;
+}
+
+.sec-h2 {
+  font-family: 'DM Serif Display', serif;
+  font-size: clamp(32px,6vw,64px);
+  line-height: 1;
+  color: #fff;
+  margin-bottom: 16px;
+}
+
+.sec-sub {
+  font-size: clamp(13px,1.8vw,16px);
+  color: var(--muted);
+  line-height: 1.7;
+  font-weight: 300;
+  max-width: 480px;
+}
+
+.crono-lista {
+  position: relative;
+  padding-left: clamp(20px,4vw,36px);
+}
+
+.crono-linea {
+  position: absolute;
+  left: 3px;
+  top: 0;
+  bottom: 0;
+  width: 1px;
+  background: linear-gradient(to bottom, var(--accent), transparent);
+}
+
+.crono-item {
+  position: relative;
+  padding-bottom: clamp(28px,4vw,44px);
+}
+
+.crono-item::before {
+  content: '';
+  position: absolute;
+  left: clamp(-24px,-4vw,-18px);
+  top: 6px;
+  width: 7px;
+  height: 7px;
+  border-radius: 50%;
+  background: var(--surface);
+  border: 1.5px solid var(--muted);
+}
+
+.crono-item.hito::before {
+  background: var(--accent);
+  border-color: var(--accent);
+  box-shadow: 0 0 10px rgba(34,85,255,0.5);
+  width: 9px;
+  height: 9px;
+  left: clamp(-25px,-4vw,-19px);
+  top: 5px;
+}
+
+.crono-fecha {
+  font-family: 'Courier Prime', monospace;
+  font-size: 11px;
+  color: var(--muted);
+  letter-spacing: 0.05em;
+  margin-bottom: 5px;
+}
+
+.crono-item.hito .crono-fecha { color: var(--accent); }
+
+.crono-titulo {
+  font-weight: 600;
+  font-size: clamp(14px,2vw,17px);
+  color: #fff;
+  margin-bottom: 8px;
+  line-height: 1.3;
+}
+
+.crono-desc {
+  font-size: clamp(12px,1.6vw,14px);
+  color: var(--muted);
+  line-height: 1.75;
+  font-weight: 300;
+}
+
+/* ─── FLUJOS ─── */
+#flujos-wrap {
+  padding: clamp(24px,5vw,64px);
+}
+
+.stats-row {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(200px,1fr));
+  gap: clamp(12px,2vw,20px);
+  margin-bottom: clamp(40px,6vw,72px);
+}
+
+.stat-card {
+  background: var(--surface);
+  border: 1px solid var(--border);
+  padding: clamp(20px,3vw,32px);
+  position: relative;
+  overflow: hidden;
+}
+
+.stat-card::before {
+  content: '';
+  position: absolute;
+  top: 0; left: 0;
+  width: 3px;
+  height: 100%;
+  background: var(--c, var(--accent));
+}
+
+.stat-label {
+  font-size: 11px;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  color: var(--muted);
+  margin-bottom: 12px;
+  font-weight: 500;
+}
+
+.stat-num {
+  font-family: 'DM Serif Display', serif;
+  font-size: clamp(24px,4vw,40px);
+  color: var(--c, var(--accent));
+  line-height: 1;
+  margin-bottom: 8px;
+}
+
+.stat-sub {
+  font-size: 12px;
+  color: var(--muted);
+  line-height: 1.5;
+  font-weight: 300;
+}
+
+.flujos-tabla-wrap {
+  overflow-x: auto;
+  margin-bottom: clamp(32px,5vw,56px);
+}
+
+.flujos-tabla {
+  width: 100%;
+  min-width: 540px;
+  border-collapse: collapse;
+}
+
+.flujos-tabla th {
+  text-align: left;
+  font-size: 10px;
+  letter-spacing: 0.15em;
+  text-transform: uppercase;
+  color: var(--muted);
+  padding: 0 16px 14px 0;
+  border-bottom: 1px solid var(--border);
+  font-weight: 500;
+}
+
+.flujos-tabla td {
+  padding: 13px 16px 13px 0;
+  border-bottom: 1px solid rgba(255,255,255,0.03);
+  font-size: 13px;
+  vertical-align: middle;
+}
+
+.flujos-tabla tr:hover td { background: rgba(255,255,255,0.02); }
+
+.td-de { color: var(--muted); font-size: 12px; }
+.td-a  { color: var(--text); font-weight: 500; }
+.td-eur {
+  font-family: 'Courier Prime', monospace;
+  font-weight: 700;
+  font-size: 13px;
+  color: var(--amber);
+  text-align: right;
+  white-space: nowrap;
+}
+.td-año {
+  font-family: 'Courier Prime', monospace;
+  font-size: 11px;
+  color: var(--muted);
+}
+
+.td-barra-wrap { width: 120px; }
+.td-barra {
+  height: 3px;
+  background: rgba(255,255,255,0.05);
+  position: relative;
+}
+.td-barra-fill {
+  height: 100%;
+  background: var(--amber);
+  opacity: 0.6;
+}
+
+#sankey-box {
+  background: var(--surface);
+  border: 1px solid var(--border);
+  padding: clamp(16px,3vw,32px);
+  overflow-x: auto;
+}
+
+#sankey-svg { min-width: 640px; width: 100%; display: block; }
+
+/* ─── LEGAL ─── */
+#legal-wrap {
+  padding: clamp(24px,5vw,64px);
+  max-width: 720px;
+  margin: 0 auto;
+}
+
+.aviso {
+  background: rgba(255,51,85,0.05);
+  border: 1px solid rgba(255,51,85,0.2);
+  padding: clamp(16px,3vw,24px);
+  margin-bottom: clamp(32px,5vw,48px);
+}
+
+.aviso p {
+  font-size: clamp(12px,1.6vw,14px);
+  color: var(--text);
+  line-height: 1.8;
+}
+
+.aviso strong { color: var(--accent2); }
+
+.delito-blk {
+  background: var(--surface);
+  border: 1px solid var(--border);
+  padding: clamp(20px,3vw,36px);
+  margin-bottom: clamp(16px,2vw,20px);
+}
+
+.delito-n {
+  font-family: 'DM Serif Display', serif;
+  font-size: clamp(20px,3vw,28px);
+  color: #fff;
+  margin-bottom: 6px;
+}
+
+.delito-art {
+  font-family: 'Courier Prime', monospace;
+  font-size: 11px;
+  letter-spacing: 0.1em;
+  color: var(--accent);
+  margin-bottom: 16px;
+}
+
+.delito-desc {
+  font-size: clamp(13px,1.7vw,15px);
+  color: var(--muted);
+  line-height: 1.8;
+  margin-bottom: 20px;
+  font-weight: 300;
+}
+
+.elem-lista { display: flex; flex-direction: column; gap: 10px; }
+
+.elem {
+  display: flex;
+  gap: 14px;
+  align-items: flex-start;
+  font-size: clamp(12px,1.6vw,14px);
+  color: var(--text);
+  line-height: 1.6;
+}
+
+.elem-n {
+  font-family: 'Courier Prime', monospace;
+  font-size: 11px;
+  color: var(--accent);
+  flex-shrink: 0;
+  padding-top: 1px;
+}
+
+.estado-blk {
+  border: 1px solid var(--border);
+  padding: clamp(20px,3vw,32px);
+}
+
+.estado-tag {
+  font-family: 'Courier Prime', monospace;
+  font-size: 11px;
+  letter-spacing: 0.15em;
+  text-transform: uppercase;
+  color: var(--amber);
+  margin-bottom: 14px;
+}
+
+.estado-txt {
+  font-size: clamp(13px,1.7vw,15px);
+  color: var(--muted);
+  line-height: 1.8;
+  font-weight: 300;
+}
+
+/* ─── TOOLTIP ─── */
+#tt {
+  position: fixed;
+  background: var(--surface);
+  border: 1px solid var(--border);
+  padding: 10px 14px;
+  font-size: 12px;
+  font-family: 'Space Grotesk', sans-serif;
+  color: var(--text);
+  pointer-events: none;
+  z-index: 9999;
+  max-width: 260px;
+  line-height: 1.5;
+  display: none;
+}
+
+/* ─── SCROLLBAR ─── */
+::-webkit-scrollbar { width: 4px; height: 4px; }
+::-webkit-scrollbar-track { background: transparent; }
+::-webkit-scrollbar-thumb { background: rgba(255,255,255,0.1); }
+/* ── FUENTES / CHANGELOG ── */
+.src-badge{display:inline-block;width:8px;height:8px;border-radius:50%;flex-shrink:0;}
+.src-periodistica{background:#ffaa00;}
+.src-oficial{background:#2255ff;}
+.src-verificado{background:#00cc88;}
+#changelog-wrap{padding:clamp(24px,5vw,64px);max-width:800px;margin:0 auto;}
+.fuente-leyenda{display:flex;flex-direction:column;gap:10px;margin-bottom:clamp(32px,5vw,48px);padding:clamp(16px,2.5vw,24px);background:var(--surface);border:1px solid var(--border);}
+.fuente-pill{display:flex;align-items:center;gap:8px;font-family:'Courier Prime',monospace;font-size:11px;letter-spacing:.05em;color:var(--muted);}
+.cl-entry{padding:clamp(18px,2.5vw,26px) 0 clamp(18px,2.5vw,26px) 28px;border-bottom:1px solid var(--border);position:relative;display:grid;gap:6px;}
+.cl-entry::before{content:'';position:absolute;left:0;top:clamp(26px,3vw,32px);width:8px;height:8px;border-radius:50%;}
+.cl-entry.cl-p::before{background:#ffaa00;}
+.cl-entry.cl-o::before{background:#2255ff;}
+.cl-entry.cl-v::before{background:#00cc88;}
+.cl-meta{display:flex;align-items:center;gap:10px;flex-wrap:wrap;}
+.cl-fecha{font-family:'Courier Prime',monospace;font-size:11px;color:var(--muted);letter-spacing:.04em;}
+.cl-tipo{font-family:'Courier Prime',monospace;font-size:9px;letter-spacing:.14em;text-transform:uppercase;color:var(--muted);}
+.cl-titulo{font-size:clamp(13px,1.7vw,16px);font-weight:600;color:#fff;line-height:1.3;}
+.cl-desc{font-size:13px;color:var(--muted);line-height:1.75;font-weight:300;max-width:640px;}
+.cl-origen{font-family:'Courier Prime',monospace;font-size:10px;color:var(--muted);letter-spacing:.04em;}
+.cl-origen a{color:var(--accent);text-decoration:none;}
+/* ── SITE HEADER ── */
+#site-hdr{background:rgba(7,8,15,0.92);backdrop-filter:blur(12px);border-bottom:1px solid var(--border);display:flex;align-items:center;justify-content:space-between;padding:0 clamp(16px,4vw,48px);height:48px;}
+.shdr-back,.shdr-otro{color:var(--muted);text-decoration:none;font-family:'Courier Prime',monospace;font-size:11px;letter-spacing:.08em;transition:color .2s;}
+.shdr-back:hover,.shdr-otro:hover{color:var(--text);}
+.shdr-logo{font-family:'DM Serif Display',serif;font-size:15px;color:rgba(255,255,255,0.3);pointer-events:none;}
+</style>
+</head>
+<body>
+
+<header id="site-hdr">
+  <a class="shdr-back" href="../index.html">← Doble Fondo</a>
+  <span class="shdr-logo">Doble Fondo</span>
+  <a class="shdr-otro" href="caso-leire-diez.html">Caso Leire Díez →</a>
+</header>
+
+<!-- PORTADA -->
+<section id="portada">
+  <div class="portada-num">
+    Exp. DP 0000077/2024<br>
+    Auto 18.05.2026 · Registro 19.05.2026<br>
+    JCI Nº 4 · Audiencia Nacional
+  </div>
+  <div class="portada-estado">
+    <span class="dot-live"></span>
+    <span>Investigado · Declaración 02/06/2026</span>
+  </div>
+  <h1><em>Zapatero</em><br>en el centro</h1>
+  <div class="portada-bajada">
+    <p class="portada-desc">
+      El juez Calama Teixeira (JCI nº4) acredita indicios racionales de que José Luis Rodríguez Zapatero lideró una red de organización criminal, tráfico de influencias, apropiación indebida y blanqueo que canalizó más de 1,5 millones hacia su entorno. El 19/05/2026 la UDEF registró su oficina de Ferraz 35 durante 5h43min, incautando 60 evidencias: siete agendas presidenciales, contratos de clientes y volcados completos de tres ordenadores.
+    </p>
+    <div class="portada-delitos">
+      <span class="delito-tag">— Organización criminal (art. 570 bis CP)</span>
+      <span class="delito-tag">— Tráfico de influencias (arts. 428-430 CP)</span>
+      <span class="delito-tag">— Apropiación indebida (art. 253 CP)</span>
+      <span class="delito-tag">— Falsedad documental (art. 390 CP)</span>
+      <span class="delito-tag">— Blanqueo de capitales (art. 301 CP)</span>
+    </div>
+  </div>
+</section>
+
+<!-- NAV -->
+<nav id="nav">
+  <button class="nav-btn on"  onclick="tab('grafo',this)">Red de relaciones</button>
+  <button class="nav-btn"     onclick="tab('crono',this)">Cronología</button>
+  <button class="nav-btn"     onclick="tab('flujos',this)">Flujos de dinero</button>
+  <button class="nav-btn"     onclick="tab('legal',this)">Marco legal</button>
+  <button class="nav-btn"     onclick="tab('changelog',this)">Fuentes</button>
+</nav>
+
+<!-- GRAFO -->
+<div id="grafo-wrap" class="seccion on">
+  <div id="svg-area">
+    <div class="grafo-filtros">
+      <button class="f-btn on" data-f="todos"      onclick="filtrar('todos',this)">Todos</button>
+      <button class="f-btn"    data-f="persona"    onclick="filtrar('persona',this)">Personas</button>
+      <button class="f-btn"    data-f="sociedad"   onclick="filtrar('sociedad',this)">Sociedades</button>
+      <button class="f-btn"    data-f="pago"       onclick="filtrar('pago',this)">Solo pagos</button>
+      <button class="f-btn"    data-f="influencia" onclick="filtrar('influencia',this)">Influencias</button>
+    </div>
+    <svg id="grafo-svg"></svg>
+    <div class="grafo-ctrl">
+      <button class="ctrl" onclick="zIn()">+</button>
+      <button class="ctrl" onclick="zOut()">−</button>
+      <button class="ctrl" onclick="zReset()">⊙</button>
+    </div>
+    <div class="leyenda">
+      <div class="ley-titulo">Nodos</div>
+      <div class="ley-row"><div class="ley-dot" style="background:#2255ff"></div>Persona</div>
+      <div class="ley-row"><div class="ley-dot" style="background:#ffaa00"></div>Soc. instrumental</div>
+      <div class="ley-row"><div class="ley-dot" style="background:#9933ff"></div>Cliente</div>
+      <div class="ley-row"><div class="ley-dot" style="background:#00cc88"></div>Institución</div>
+      <div class="ley-sep"></div>
+      <div class="ley-titulo">Conexiones</div>
+      <div class="ley-row"><div class="ley-line" style="background:#2255ff"></div>Mando</div>
+      <div class="ley-row"><div class="ley-line" style="background:#ffaa00"></div>Pago</div>
+      <div class="ley-row"><div class="ley-line" style="background:#ff3355"></div>Influencia</div>
+      <div class="ley-row"><div class="ley-line" style="background:#9933ff"></div>Control</div>
+    </div>
+  </div>
+  <div id="info-panel">
+    <div class="panel-inner">
+      <div class="panel-vacio">
+        <p>Selecciona un nodo o conexión para ver la evidencia del auto judicial</p>
+      </div>
+    </div>
+  </div>
+</div>
+
+<!-- CRONOLOGÍA -->
+<div id="crono-wrap" class="seccion">
+  <div class="sec-head">
+    <div class="sec-eyebrow">Cronología del caso</div>
+    <h2 class="sec-h2">De la pandemia<br>al juzgado</h2>
+    <p class="sec-sub">Los hechos documentados en el auto judicial, de marzo 2020 a junio 2026. Los hitos en azul son los más relevantes.</p>
+  </div>
+  <div class="crono-lista" id="crono-lista">
+    <div class="crono-linea"></div>
+  </div>
+</div>
+
+<!-- FLUJOS -->
+<div id="flujos-wrap" class="seccion">
+  <div class="sec-head">
+    <div class="sec-eyebrow">Flujos económicos</div>
+    <h2 class="sec-h2">El dinero</h2>
+    <p class="sec-sub">Cantidades documentadas en el informe ONIF de 25/02/2026 y en las cuentas bancarias intervenidas.</p>
+  </div>
+  <div class="stats-row" id="stats-row"></div>
+  <div class="sec-head" style="margin-bottom:20px">
+    <div class="sec-eyebrow">Detalle de transferencias</div>
+  </div>
+  <div class="flujos-tabla-wrap">
+    <table class="flujos-tabla" id="flujos-tabla">
+      <thead>
+        <tr>
+          <th>Origen</th>
+          <th>Destino</th>
+          <th>Periodo</th>
+          <th style="text-align:right">Importe</th>
+          <th>Volumen</th>
+        </tr>
+      </thead>
+      <tbody id="flujos-tbody"></tbody>
+    </table>
+  </div>
+  <div class="sec-head" style="margin-bottom:20px; margin-top:40px">
+    <div class="sec-eyebrow">Diagrama origen → beneficiario</div>
+  </div>
+  <div id="sankey-box">
+    <svg id="sankey-svg" height="440"></svg>
+  </div>
+</div>
+
+<!-- LEGAL -->
+<div id="legal-wrap" class="seccion">
+  <div class="sec-head">
+    <div class="sec-eyebrow">Marco legal</div>
+    <h2 class="sec-h2">Calificación<br>jurídica</h2>
+    <p class="sec-sub">Según el auto del juez Calama Teixeira (JCI nº4) de 18/05/2026. Diligencias Previas 0000077/2024.</p>
+  </div>
+  <div class="aviso">
+    <p><strong>Presunción de inocencia:</strong> El auto describe indicios racionales, no hechos probados. Estamos en fase de instrucción. Todos los investigados son inocentes hasta sentencia firme.</p>
+  </div>
+  <div id="delitos-cont"></div>
+  <div class="estado-blk">
+    <div class="estado-tag">Estado procesal · Junio 2026</div>
+    <p class="estado-txt">Zapatero está formalmente investigado y fue citado a declarar el 2 de junio de 2026. El 19/05/2026 la UDEF registró su oficina de Ferraz 35 durante 5h43min incautando 60 evidencias. Para llegar a juicio oral haría falta auto de apertura y escrito de acusación del Ministerio Fiscal. En casos de esta complejidad los plazos habituales son de varios años.</p>
+  </div>
+</div>
+
+<div id="changelog-wrap" class="seccion">
+  <div class="sec-head">
+    <div class="sec-eyebrow">Trazabilidad de fuentes</div>
+    <h2 class="sec-h2">Fuentes<br>y registro</h2>
+    <p class="sec-sub">Lo que está documentado con fuente primaria y lo que no son cosas distintas. El lector sabe en todo momento de dónde viene cada dato.</p>
+  </div>
+  <div class="fuente-leyenda">
+    <div class="fuente-pill"><span class="src-badge src-periodistica"></span>Fuente periodística — información en medios, pendiente documento oficial</div>
+    <div class="fuente-pill"><span class="src-badge src-oficial"></span>Documento oficial — auto, acta, diligencias, informe ONIF</div>
+    <div class="fuente-pill"><span class="src-badge src-verificado"></span>Verificado + archivo — PDF primario disponible y referenciado</div>
+  </div>
+  <div id="cl-lista"></div>
+</div>
+
+<div id="tt"></div>
+
+<!-- CASOS RELACIONADOS -->
+<div id="relacionados-wrap" style="padding:40px clamp(16px,5vw,80px) 80px; border-top:1px solid #111;">
+  <div class="sec-head">
+    <div class="sec-eyebrow">Casos relacionados</div>
+    <h2 class="sec-h2">La red<br>más amplia</h2>
+    <p class="sec-sub">Investigaciones conectadas a través de personas, sociedades o patrones de conducta comunes.</p>
+  </div>
+  <div style="display:grid;grid-template-columns:repeat(auto-fill,minmax(260px,1fr));gap:16px;margin-top:32px;">
+    <a href="caso-leire-diez.html" style="display:block;text-decoration:none;border:1px solid #1a2040;padding:24px;background:#080c1a;transition:border-color .2s;" onmouseover="this.style.borderColor='#2255ff'" onmouseout="this.style.borderColor='#1a2040'">
+      <div style="font-family:'Courier Prime',monospace;font-size:10px;color:#2255ff;letter-spacing:.15em;margin-bottom:10px;">CASO ACTIVO · JCI Nº6</div>
+      <div style="font-family:'DM Serif Display',serif;font-size:20px;color:#e8e0d0;margin-bottom:8px;font-style:italic;">Operación Fidelidad</div>
+      <div style="font-family:'Space Grotesk',sans-serif;font-size:13px;color:#5a6080;line-height:1.5;">Santos Cerdán y Leire Díez. Obstrucción a la justicia, cohecho y tráfico de influencias para neutralizar el caso Koldo. Registros en Ferraz, domicilio de Cerdán y de Zarrías (19.850€ en efectivo). Juez: Santiago Pedraz.</div>
+      <div style="font-family:'Courier Prime',monospace;font-size:10px;color:#2255ff;margin-top:16px;letter-spacing:.1em;">Ver caso →</div>
+    </a>
+    <div style="border:1px solid #111;padding:24px;background:#080c1a;">
+      <div style="font-family:'Courier Prime',monospace;font-size:10px;color:#334466;letter-spacing:.15em;margin-bottom:10px;">CASO CONEXO · AN</div>
+      <div style="font-family:'DM Serif Display',serif;font-size:20px;color:#5a6080;margin-bottom:8px;font-style:italic;">Caso Koldo</div>
+      <div style="font-family:'Space Grotesk',sans-serif;font-size:13px;color:#334466;line-height:1.5;">Comisiones ilegales en contratos de mascarillas. Koldo García Izaguirre aparece en el caso Zapatero como contacto de Ábalos en el Ministerio de Transportes. Nexo directo entre ambas tramas.</div>
+      <div style="font-family:'Courier Prime',monospace;font-size:10px;color:#334466;margin-top:16px;letter-spacing:.1em;">Próximamente</div>
+    </div>
+    <div style="border:1px solid #111;padding:24px;background:#080c1a;">
+      <div style="font-family:'Courier Prime',monospace;font-size:10px;color:#334466;letter-spacing:.15em;margin-bottom:10px;">CASO CONEXO · AN</div>
+      <div style="font-family:'DM Serif Display',serif;font-size:20px;color:#5a6080;margin-bottom:8px;font-style:italic;">Caso Tándem / Villarejo</div>
+      <div style="font-family:'Space Grotesk',sans-serif;font-size:13px;color:#334466;line-height:1.5;">Red de espionaje privado con ramificaciones en el PSOE. Referenciado en el sumario del caso Leire Díez como antecedente de las técnicas de presión sobre fiscales e investigadores.</div>
+      <div style="font-family:'Courier Prime',monospace;font-size:10px;color:#334466;margin-top:16px;letter-spacing:.1em;">Próximamente</div>
+    </div>
+  </div>
+</div>
+
+<script>
+// ═══════════════════════════════════════════
+// DATOS
+// ═══════════════════════════════════════════
+const NODOS = [
+  // PERSONAS — investigados
+  {id:"zapatero",    label:"José Luis Rodríguez\nZapatero",  tipo:"persona",  sub:"investigado", rol:"Líder estratégico. Dirige la red desde su oficina en Ferraz 35. Principal beneficiario final."},
+  {id:"julio_mm",    label:"Julio Martínez\nMartínez",       tipo:"persona",  sub:"investigado", rol:"Lugarteniente principal. Interlocutor directo con clientes. Titular formal del entramado societario."},
+  {id:"fajardo",     label:"Manuel Aarón\nFajardo García",   tipo:"persona",  sub:"investigado", rol:"'La pieza de ZP en Venezuela'. Facilita acceso a Zapatero. Actúa como lugarteniente en Venezuela."},
+  {id:"gertrudis",   label:"Mª Gertrudis\nAlcázar Jiménez",  tipo:"persona",  sub:"investigado", rol:"Secretaria de Zapatero (DNI 05650472Q). Abre voluntariamente la oficina el 19/05/2026 a las 08:17h y cede claves de acceso. Gestiona presidentezapatero@presidentezapatero.com e ideas106@psoe.es. Coordina la facturación ficticia con Cristóbal Cano. Dos teléfonos Samsung intervenidos."},
+  {id:"judith",      label:"Judith Laure\nWells Sutton",      tipo:"persona",  sub:"relacionado", rol:"Empleada de la oficina (DNI 60051688E). Comparece a las 08:35h. Cede claves. Ordenador incautado con correos jwells@psoe.es, zideas@psoe.es y OneDrive 'Portal Corporativo PSOE'. Carpeta compartida VPN PSOE fdpclu98017\\ceffiles."},
+  {id:"brasa",       label:"Mª Carmen\nBrasa Ramos",          tipo:"persona",  sub:"relacionado", rol:"Empleada en despacho nº5 (DNI 07559711W). Comparece a las 09:40h. En su ordenador: carpetas 'Obra Casa Gilmar' y 'Obras Maria'. Su equipo forma parte del volcado digital incautado."},
+  {id:"cano",        label:"Cristóbal\nCano",                 tipo:"persona",  sub:"investigado", rol:"Gestor del entramado societario de Julio MM. Proporciona los conceptos e importes de las facturas falsas."},
+  // PERSONAS — relacionados
+  {id:"rodolfo",     label:"Rodolfo Reyes\nRojas",           tipo:"persona",  sub:"relacionado", rol:"Accionista de facto de Plus Ultra. Quien buscó el contacto con Zapatero. Coordina las gestiones de influencia."},
+  {id:"roselli",     label:"Roberto Roselli\nMiele",         tipo:"persona",  sub:"relacionado", rol:"Director Financiero de Plus Ultra. Interlocutor con la SEPI y con la 'finance boutique' de Zapatero."},
+  {id:"julio_ms",    label:"Julio Martínez\nSola",           tipo:"persona",  sub:"relacionado", rol:"Vicepresidente de Plus Ultra. Habló 11 minutos con Zapatero el 30/04/2020."},
+  {id:"gordils",     label:"Ramón Gordils\nMontes",          tipo:"persona",  sub:"relacionado", rol:"Intermediario inicial. Buscó cómo 'llegarle a ZP' para Plus Ultra (30/03/2020)."},
+  {id:"palomero",    label:"Miguel\nPalomero",               tipo:"persona",  sub:"relacionado", rol:"Contacto con Koldo García / Ministerio de Transportes. Paralela a la vía Zapatero."},
+  {id:"koldo",       label:"Koldo García\nIzaguirre",        tipo:"persona",  sub:"relacionado", rol:"Colaborador de Ábalos. Informó al ministro de la reunión de Zapatero con Escrivá."},
+  {id:"camilo",      label:"Camilo\nIbrahim Issa",           tipo:"persona",  sub:"relacionado", rol:"Accionista de Plus Ultra vía Snip Aviation. Recibió la noticia de la concesión antes que el Consejo Gestor."},
+  {id:"sergio",      label:"Sergio Sánchez\nBenítez",        tipo:"persona",  sub:"relacionado", rol:"25% de Análisis Relevante. Elabora los informes de asesoría que Whathefav maqueta y distribuye."},
+  {id:"teixeira_v",  label:"General Teixeira\nDíaz (INAC)",  tipo:"persona",  sub:"relacionado", rol:"Presidente del INAC Venezuela. Autoriza los vuelos de Plus Ultra tras la intercesión de Julio MM."},
+  {id:"domingo_a",   label:"Domingo Amaro\nChacón",          tipo:"persona",  sub:"relacionado", rol:"Admin. solidario de Inteligencia Prospectiva. Cliente de la red para operaciones internacionales de petróleo, oro y divisas."},
+  {id:"daniel_r",    label:"Daniel\nRomero-Abreu",           tipo:"persona",  sub:"relacionado", rol:"Admin. de Thinking Heads Group. Fundador y presidente de Gate Center. Vincula ambas entidades a Zapatero."},
+  {id:"laura",       label:"Laura Rodríguez\nEspinosa",      tipo:"persona",  sub:"relacionado", rol:"Hija de Zapatero. Administradora solidaria de Whathefav SL. Recibió 247.191€ de Whathefav (2021-2025)."},
+  {id:"alba",        label:"Alba Rodríguez\nEspinosa",       tipo:"persona",  sub:"relacionado", rol:"Hija de Zapatero. Administradora solidaria de Whathefav SL. Recibió 199.904€ de Whathefav (2023-2025)."},
+  {id:"santiago_f",  label:"Santiago\nFernández Lena",       tipo:"persona",  sub:"relacionado", rol:"Controla Caletón Consultores de facto. El admin. formal es un testaferro venezolano que cobra 600€/mes en efectivo."},
+  // SOCIEDADES instrumentales
+  {id:"ar",          label:"Análisis\nRelevante SL",         tipo:"sociedad", sub:"instrumental", rol:"Centro financiero de la red. 959.798€ de ingresos 2020-2025. Recibe de Plus Ultra, Softgestor, Int. Prospectiva y Grupo Aldesa. Paga a Zapatero y Whathefav."},
+  {id:"whathefav",   label:"Whathefav SL",                   tipo:"sociedad", sub:"instrumental", rol:"Sociedad finalista. Admins: hijas de Zapatero. Zapatero autorizado en sus cuentas. Recibe y redistribuye fondos al entorno familiar."},
+  {id:"idella",      label:"Idella Consulenza\nStrategica SL",tipo:"sociedad",sub:"instrumental", rol:"Sociedad de Julio MM. Firmó contrato con Plus Ultra para cobrar el 1% del rescate (530.000€). Sin pago registrado en España."},
+  {id:"landside",    label:"Landside\nDubai Fzco",           tipo:"sociedad", sub:"instrumental", rol:"Sociedad en zona franca de Dubái al 100% de Idella. Constituida tras reunión organizada por Zapatero. Habría servido para recibir el pago del rescate fuera de España."},
+  {id:"caleton",     label:"Caletón\nConsultores SL",        tipo:"sociedad", sub:"instrumental", rol:"Admin. formal testaferro venezolano. Recibe 1.159.558€ de Plus Ultra. Canaliza fondos a Voli Analítica e Iot Domotic. Santiago Fernández Lena gestiona de facto."},
+  {id:"summer",      label:"Summer Wind SL",                  tipo:"sociedad", sub:"instrumental", rol:"Recibe 3.979.182€ de Plus Ultra en 2023. Paga 213.202€ a Afitta (Julio MM). Facturas con concepto adaptado a posteriori."},
+  {id:"voli",        label:"Voli Analítica SL",              tipo:"sociedad", sub:"instrumental", rol:"Sociedad de Julio MM. 141.772€ de Plus Ultra + 108.900€ de Caletón. Sin actividad real acreditada."},
+  {id:"iot",         label:"Iot Domotic\nEurope SL",         tipo:"sociedad", sub:"instrumental", rol:"Sociedad de Julio MM. 155.847€ de Plus Ultra + 60.500€ de Caletón. Factura por 'desarrollo informático' que Caletón 'no tiene'."},
+  {id:"afitta",      label:"Afitta SL",                      tipo:"sociedad", sub:"instrumental", rol:"Sociedad de Julio MM. Recibe 213.202€ de Summer Wind. Factura emitida en 2024 con concepto adaptado retroactivamente."},
+  {id:"intpros",     label:"Int. Prospectiva SL",            tipo:"sociedad", sub:"instrumental", rol:"2.6M€ en movimientos pese a ingresos nulos. Introduce fondos extranjeros simulados como ampliaciones de capital. Paga a AR, Whathefav y Gate Center."},
+  {id:"gate",        label:"Gate Center",                    tipo:"sociedad", sub:"instrumental", rol:"Think tank. Presidente del consejo asesor: Zapatero. Admin.: Daniel Romero-Abreu. Recibe de Int. Prospectiva y devuelve a Zapatero y Whathefav."},
+  // CLIENTES
+  {id:"plusultra",   label:"Plus Ultra\nLíneas Aéreas SA",   tipo:"sociedad", sub:"cliente", rol:"Cliente principal de la red. Obtuvo 53M€ del FASEE. Pagó a múltiples sociedades de Julio MM más de 6M€ en total."},
+  {id:"thinking",    label:"Thinking\nHeads Group SL",       tipo:"sociedad", sub:"cliente", rol:"Admin.: Daniel Romero-Abreu. Pagó 681.318€ a Zapatero y 12.297€ a Whathefav. Thinking Heads Americas sumó 31.766€ más a Zapatero."},
+  {id:"softgestor",  label:"Softgestor SL",                  tipo:"sociedad", sub:"cliente", rol:"145.200€ a Análisis Relevante en dos pagos (2020-2021). Contratos con cliente intercambiable (Apamate/Softgestor). La gestión la hace Francisco Flores, ajeno a la sociedad."},
+  {id:"aldesa",      label:"Grupo Aldesa SA",                tipo:"sociedad", sub:"cliente", rol:"127.050€ a Análisis Relevante (2021-2022). Contratos además con Idella Consulenza a 3% sobre el valor del contrato."},
+  // INSTITUCIONES
+  {id:"sepi",        label:"SEPI",                           tipo:"institucion", sub:"publica", rol:"Gestiona el FASEE. Aprobó los 53M€ a Plus Ultra el 02/03/2021. Julio MM conoció la resolución favorable días antes."},
+  {id:"inac",        label:"INAC Venezuela",                 tipo:"institucion", sub:"publica", rol:"Autoriza los vuelos de Plus Ultra. El General Teixeira fue intermediado por Julio MM para su aprobación (julio 2021)."},
+  {id:"minfomento",  label:"Ministerio de\nTransportes",     tipo:"institucion", sub:"publica", rol:"Reunión clave el 22/07/2020 con Pedro Saura. Los investigados relataron que fueron recibidos 'por altas recomendaciones'."},
+  {id:"udef",        label:"UDEF / Policía\nNacional",       tipo:"institucion", sub:"publica", rol:"Unidad Central de Delincuencia Económica y Fiscal. Ejecuta el registro de Ferraz 35 el 19/05/2026, 08:17-14:00h. Apoya: Unidad Central de Ciberdelincuencia. Incauta 60 evidencias y 3 volcados digitales (hash SHA1 documentados)."},
+];
+
+const LINKS = [
+  // MANDO
+  {s:"zapatero", t:"julio_mm",   tipo:"mando",   label:"Dirige e instruye",               ev:"Mensajes intervenidos. Julio MM se dirige a él como 'Presidente'. Borra sistemáticamente los mensajes enviados a Zapatero."},
+  {s:"zapatero", t:"fajardo",    tipo:"mando",   label:"Lugarteniente en Venezuela",       ev:"'Manuel es la pieza de ZP en Venezuela' (28/04/2020). Fajardo configura el acceso inicial."},
+  {s:"zapatero", t:"gertrudis",  tipo:"mando",   label:"Da instrucciones operativas",      ev:"Gertrudis recibe directrices sobre conceptos, importes y periodificación de facturas. Correos de 22/09/2021 y 21/03/2022."},
+  // CONTROL
+  {s:"zapatero", t:"ar",         tipo:"control", label:"Participa activamente",            ev:"06/07/2021: Zapatero envía a Julio MM 'LISTA AR OK.xlsx' con clientes de Análisis Relevante. Figura en el chat grupal 'AR'."},
+  {s:"zapatero", t:"landside",   tipo:"control", label:"Ordena su constitución en Dubái",  ev:"26/01/2021: Zapatero organiza reunión en Portonovo (su escolta hace la reserva). Al día siguiente Julio MM recibe documentación para Landside Dubai Fzco."},
+  {s:"zapatero", t:"gate",       tipo:"control", label:"Preside el consejo asesor",        ev:"Según la web de Gate Center, Zapatero es presidente de su consejo asesor."},
+  {s:"zapatero", t:"whathefav",  tipo:"control", label:"Autorizado en cuentas bancarias",  ev:"Zapatero figura como autorizado en las cuentas bancarias personales de sus hijas, que reciben fondos de Whathefav."},
+  {s:"julio_mm", t:"ar",         tipo:"control", label:"Administrador único",               ev:"Julio MM es administrador único de Análisis Relevante desde el 10/02/2020."},
+  {s:"julio_mm", t:"idella",     tipo:"control", label:"Administrador y representante",    ev:"Julio MM representa a Idella Consulenza Strategica SL en todos los contratos."},
+  {s:"julio_mm", t:"landside",   tipo:"control", label:"Idella participa al 100%",         ev:"Landside Dubai Fzco es participada íntegramente por Idella Consulenza Strategica SL."},
+  {s:"laura",    t:"whathefav",  tipo:"control", label:"Administradora formal",             ev:"Laura y Alba Rodríguez Espinosa son administradoras solidarias de Whathefav SL."},
+  {s:"alba",     t:"whathefav",  tipo:"control", label:"Administradora formal",             ev:"Laura y Alba Rodríguez Espinosa son administradoras solidarias de Whathefav SL."},
+  {s:"santiago_f",t:"caleton",   tipo:"control", label:"Control de facto",                 ev:"Archivo 19/05/2024: Santiago explica la situación real de Caletón. El admin. formal (Basiliso Gil Carrasquera) es un testaferro venezolano (600€/mes en efectivo)."},
+  {s:"daniel_r", t:"thinking",   tipo:"control", label:"Administrador único",               ev:"Daniel Romero-Abreu Kaup es administrador de Thinking Heads Group SL."},
+  {s:"daniel_r", t:"gate",       tipo:"control", label:"Fundador y presidente",             ev:"Mismo Daniel Romero-Abreu que administra Thinking Heads funda y preside Gate Center."},
+  {s:"domingo_a",t:"intpros",    tipo:"control", label:"Admin. solidario",                 ev:"Domingo y Guillermo Amaro Chacón son administradores solidarios de Inteligencia Prospectiva."},
+  {s:"julio_ms", t:"plusultra",  tipo:"control", label:"Vicepresidente",                   ev:"Julio Martínez Sola es vicepresidente de Plus Ultra Líneas Aéreas SA."},
+  {s:"roselli",  t:"plusultra",  tipo:"control", label:"Director Financiero",              ev:"Roberto Roselli Miele es director financiero de Plus Ultra."},
+  {s:"camilo",   t:"plusultra",  tipo:"control", label:"Accionista (Snip Aviation)",       ev:"Camilo Ibrahim Issa posee acciones de Plus Ultra a través de Snip Aviation."},
+  // PAGOS
+  {s:"ar",       t:"zapatero",   tipo:"pago",    label:"490.780€ (2020-2025)",             ev:"Transferencias de Análisis Relevante a cuenta a nombre de Zapatero y su esposa María Sonsoles Espinosa entre el 11/03/2021 y el 20/06/2025."},
+  {s:"ar",       t:"whathefav",  tipo:"pago",    label:"239.755€",                         ev:"Pagos 09/06/2020 - 02/12/2025 bajo concepto genérico 'servicios agencia'. Sin detalle de prestación real."},
+  {s:"gate",     t:"zapatero",   tipo:"pago",    label:"352.980€",                         ev:"Documentado en informe ONIF de 25/02/2026."},
+  {s:"gate",     t:"whathefav",  tipo:"pago",    label:"171.727€",                         ev:"Documentado en informe ONIF de 25/02/2026."},
+  {s:"thinking", t:"zapatero",   tipo:"pago",    label:"681.318€",                         ev:"37 transferencias de Thinking Heads Group SL más 2 de Thinking Heads Americas LLC (31.766€)."},
+  {s:"thinking", t:"whathefav",  tipo:"pago",    label:"12.297€",                          ev:"Documentado en informe ONIF de 25/02/2026."},
+  {s:"whathefav",t:"laura",      tipo:"pago",    label:"247.191€ (2021-2025)",             ev:"Transferencias de Whathefav a cuenta personal de Laura Rodríguez Espinosa."},
+  {s:"whathefav",t:"alba",       tipo:"pago",    label:"199.904€ (2023-2025)",             ev:"Transferencias de Whathefav a cuenta personal de Alba Rodríguez Espinosa."},
+  {s:"plusultra",t:"ar",         tipo:"pago",    label:"301.290€ (3 contratos)",           ev:"Contratos: 30/07/2020 (72.600€), 01/02/2023 (174.240€), 01/02/2025 (174.240€). Primer pago el 05/11/2020."},
+  {s:"plusultra",t:"voli",       tipo:"pago",    label:"141.772€",                         ev:"14 facturas entre 01/04/2021 y 22/12/2021 por 'gestión de vuelos Madrid-Caracas'."},
+  {s:"plusultra",t:"iot",        tipo:"pago",    label:"155.847€",                         ev:"Pagos en cuentas bancarias sin contratos previos a los mismos según informe ONIF."},
+  {s:"plusultra",t:"caleton",    tipo:"pago",    label:"1.159.558€",                       ev:"Pagos 2020-2025 como 'comisiones por operaciones chárter'. Detectados en dispositivos de Julio MS y Santiago Fernández Lena."},
+  {s:"plusultra",t:"summer",     tipo:"pago",    label:"3.979.182€",                       ev:"Documentado en informe ONIF. Federico Lledó Soria como administrador de Summer Wind."},
+  {s:"plusultra",t:"idella",     tipo:"pago",    label:"Contrato 1% = 530.000€",           ev:"Contrato 19/01/2021. Sin constancia de pago en España según AEAT (informe febrero 2026)."},
+  {s:"caleton",  t:"iot",        tipo:"pago",    label:"60.500€ (2021)",                   ev:"Factura por 'desarrollo de aplicación informática'. Caletón 'no tiene programas' (Santiago Fernández Lena, chat intervenido)."},
+  {s:"caleton",  t:"voli",       tipo:"pago",    label:"108.900€ (2023)",                  ev:"7 facturas con concepto idéntico de 'honorarios de asesoramiento'. Respaldo formal en contrato de 01/06/2023."},
+  {s:"summer",   t:"afitta",     tipo:"pago",    label:"213.202€ (2023)",                  ev:"Factura de 30/12/2023. El concepto fue adaptado a posteriori según conversaciones intervenidas entre Federico Lledó y Julio MS."},
+  {s:"softgestor",t:"ar",        tipo:"pago",    label:"145.200€",                         ev:"Dos transferencias: 72.600€ (30/10/2020) y 72.600€ (16/09/2021). Contrato con cliente intercambiable Apamate/Softgestor."},
+  {s:"intpros",  t:"ar",         tipo:"pago",    label:"368.258€",                         ev:"Transferencias 27/05/2020 - 29/10/2024. Tres contratos idénticos sin firma y sin actividad real acreditada."},
+  {s:"intpros",  t:"whathefav",  tipo:"pago",    label:"561.440€",                         ev:"Principal proveedor de Whathefav según informe ONIF. Sociedad sin ingresos propios."},
+  {s:"intpros",  t:"gate",       tipo:"pago",    label:"266.200€",                         ev:"Pagos en 2023 (121.000€) y 2024 (145.200€) según informe ONIF."},
+  {s:"aldesa",   t:"ar",         tipo:"pago",    label:"127.050€",                         ev:"Contratos de 01/10/2021 y 15/09/2022 a 5.000€/mes + IVA."},
+  // INFLUENCIA
+  {s:"zapatero", t:"sepi",       tipo:"influencia", label:"Influencia en expediente Plus Ultra", ev:"26/02/2021: Julio MM conoce la resolución favorable antes del Consejo Gestor (02/03/2021). Afirma haber sido 'informado y felicitado por la propia SEPI'."},
+  {s:"zapatero", t:"minfomento", tipo:"influencia", label:"Facilita reunión en el Ministerio",  ev:"22/07/2020: Reunión con Pedro Saura. Investigados: 'nos han recibido por altas recomendaciones'. Rodolfo Reyes: 'Nuestro pana Zapatero detrás'."},
+  {s:"julio_mm", t:"inac",       tipo:"influencia", label:"Intercede para autorizar vuelos",     ev:"31/07/2021: 'Z' envía a Julio MM 'En tiempo y forma. Exitosa gestión...' El General Teixeira autoriza los vuelos de Plus Ultra."},
+  // INTERMEDIACIÓN
+  {s:"gordils",  t:"zapatero",   tipo:"inter",   label:"Intermediario inicial",            ev:"30/03/2020: Gordils busca cómo 'llegarle a ZP'. 28/04/2020: Julio MS consigue el puente."},
+  {s:"rodolfo",  t:"gordils",    tipo:"inter",   label:"Solicita acceso a Zapatero",       ev:"30/03/2020: 'Tú crees que podamos pedir ayuda a Zapatero... tema lobby político Plus Ultra'."},
+  {s:"fajardo",  t:"julio_mm",   tipo:"inter",   label:"Conecta a Julio MM con clientes",  ev:"16/05/2020: Fajardo indica a Julio MS que 'se ponga en contacto con Julio Martínez Martínez'. El equipo queda formado."},
+  {s:"rodolfo",  t:"palomero",   tipo:"inter",   label:"Vía paralela Ministerio",          ev:"23/03/2020: Rodolfo contacta a Palomero para buscar acceso a Ábalos. Reunión con Koldo García."},
+  // OPERATIVA
+  {s:"gertrudis",t:"cristobal",  tipo:"operativa",label:"Coordinan facturación ficticia",  ev:"Correos 22/09/2021, 21/03/2022, 29/03/2022: Gertrudis consulta conceptos e importes. Cristóbal da las instrucciones concretas."},
+  {s:"sergio",   t:"ar",         tipo:"operativa",label:"Elabora los informes",             ev:"Informes elaborados por Sergio Sánchez, enviados a Whathefav para maquetación y distribución al listado de clientes de Zapatero."},
+  {s:"whathefav",t:"ar",         tipo:"operativa",label:"Maqueta y distribuye",             ev:"Whathefav distribuye los informes al listado. Análisis Relevante (quien contrata con los clientes) no interviene en la distribución."},
+];
+
+const TIMELINE = [
+  {f:"23/03/2020", t:"Primer contacto político", d:"Rodolfo Reyes contacta a Palomero para acceder a las ayudas. Palomero propone llegar a Ábalos: 'Tocamos a Abalos'.", h:false},
+  {f:"30/03/2020", t:"Se busca a Zapatero", d:"Rodolfo Reyes a Gordils: '¿Tú crees que podamos pedir ayuda a Zapatero... tema lobby político Plus Ultra? Ayudas públicas'. Gordils: 'vayan recorriendo la ruta formal. Y yo busco como llegarle a ZP'.", h:true},
+  {f:"28/04/2020", t:"Puente con Zapatero conseguido", d:"Reyes comunica: 'Acaba de hacerse el puente con ZP'. Identifica a Fajardo como 'la pieza de ZP en Venezuela'.", h:true},
+  {f:"30/04/2020", t:"Julio MS habla 11 min. con Zapatero", d:"El vicepresidente de Plus Ultra habla directamente con Zapatero durante 11 minutos y le explica la situación de la aerolínea.", h:true},
+  {f:"18/05/2020", t:"Se menciona la 'finance boutique'", d:"Roselli a Reyes: 'No con el directo. Hablo con un lacayo... Pues ya le dijo a Julio que montaron su finance boutique. Así que por ahí vendrá la mordida'.", h:false},
+  {f:"25/05/2020", t:"Carta al Santander en nombre de Zapatero", d:"En el ordenador de Roselli se interviene una carta al vicepresidente del Banco Santander: 'Siguiendo instrucciones del Presidente, D. José Luis Rodríguez Zapatero, nos ponemos en contacto con usted, solicitando su ayuda referente a la obtención de un crédito ICO para nuestra compañía'.", h:true},
+  {f:"03/07/2020", t:"Creación del FASEE", d:"Real Decreto-ley 25/2020 crea el Fondo de Apoyo a la Solvencia de Empresas Estratégicas, gestionado por la SEPI.", h:false},
+  {f:"04/07/2020", t:"'Grupo Zapatero' ya trabaja en el FASEE", d:"Un día después de creado el fondo, Julio MS comunica a Reyes: 'Lo tiene Grupo Zapatero desde esta mañana. Ya estaban en ello'. Reyes: 'Solo pedimos el 5% de lo que den a Iberia y Europa'.", h:true},
+  {f:"22/07/2020", t:"Reunión en el Ministerio con Pedro Saura", d:"Reunión en Transportes con el Secretario de Estado. Los investigados: 'Se notaba que nos han recibido por altas recomendaciones. El papel del ministerio será hablar bien de las compañías'. Rodolfo Reyes: 'Nuestro pana Zapatero detrás'.", h:true},
+  {f:"30/07/2020", t:"1er contrato Plus Ultra – Análisis Relevante", d:"Contrato de asesoramiento: 5.000€/mes durante 12 meses (72.600€ total). Se inicia la relación mercantil formal entre Plus Ultra y el entorno de Julio MM.", h:true},
+  {f:"07/09/2020", t:"Zapatero se reúne con el ministro Escrivá", d:"Zapatero se reúne en el Ministerio de Trabajo con el titular de Seguridad Social. Koldo García informa a Ábalos: 'Está Zapatero reunido ahora mismo con el ministro de inclusión y seguridad social en ministerio de trabajo'.", h:false},
+  {f:"16/09/2020", t:"Piden que Zapatero hable con la SEPI", d:"Roselli en audio: 'No sé si será bueno que le hagan un toque técnico desde arriba o que Zapatero hable con alguien en la SEPI' para desbloquear el expediente parado.", h:false},
+  {f:"01/09/2020", t:"Plus Ultra presenta solicitud a la SEPI", d:"Solicitud formal. Julio MM da a Roselli el contacto de Cristóbal Cano que este confunde con un contacto de la SEPI. Julio aclara: 'De mi empresa, para facturas. La sepi, próxima semana'.", h:false},
+  {f:"05/11/2020", t:"1er pago de Plus Ultra a Análisis Relevante", d:"6.050€. Coincide con una conversación donde Roberto Roselli relata que Julio MM escuchaba 'clandestinamente' una llamada de la SEPI.", h:false},
+  {f:"19/01/2021", t:"Contrato Idella – Plus Ultra: 1% del rescate", d:"Idella Consulenza Strategica (Julio MM) y Plus Ultra (Julio MS): 1% + IVA del importe de la ayuda aprobada = 530.000€. Sin constancia de pago en España según AEAT (informe febrero 2026).", h:true},
+  {f:"26/01/2021", t:"Reunión en Portonovo: orden de ir a Dubái", d:"Zapatero organiza reunión en restaurante Portonovo; su escolta hace la reserva para dos personas. Al día siguiente Julio MM recibe documentación para constituir Landside Dubai Fzco en zona franca.", h:true},
+  {f:"26/02/2021", t:"Julio MM felicita antes de la decisión oficial", d:"Julio MM comunica a Camilo Ibrahim la concesión. El Consejo Gestor aún no se ha reunido (lo hará el 02/03/2021). Camilo le agradece 'tu asesoría y tu guía al equipo'. Evidencia de información privilegiada.", h:true},
+  {f:"09/03/2021", t:"Consejo de Ministros aprueba 53M€ a Plus Ultra", d:"Aprobación definitiva: 34M€ en préstamo participativo + 19M€ en préstamo ordinario. SEPI emite certificación el 11/03/2021.", h:true},
+  {f:"18/03/2021", t:"Plus Ultra recibe el primer tramo: 19M€", d:"Se hace efectivo el préstamo ordinario. El 10/08/2021 se desembolsarían los 34M€ del préstamo participativo.", h:false},
+  {f:"06/07/2021", t:"Zapatero envía la lista de clientes de AR", d:"Zapatero envía a Julio MM los archivos Excel 'LISTA AR OK.xlsx' y 'direcciones email JM.xlsx' con los clientes de Análisis Relevante y sus correos electrónicos.", h:true},
+  {f:"31/07/2021", t:"'Z' celebra la 'exitosa gestión' en Venezuela", d:"Plus Ultra pide a Julio MM interceder ante el INAC. Tras lograrse la autorización, persona registrada como 'Z' en el teléfono de Julio MM le envía: 'En tiempo y forma. Exitosa gestión...'. Julio MM agradece al General Teixeira 'muchas gracias por su ayuda'.", h:true},
+  {f:"30/10/2023", t:"Carta de empresa china a la 'Oficina del Pte. Zapatero'", d:"China International Cultural Technology Resources Group CO LTD envía carta de intenciones a la 'Oficina del Presidente Zapatero', a atención de José Luis Rodríguez Zapatero, para operación de petróleo.", h:false},
+  {f:"18/05/2026", t:"Auto judicial: Zapatero investigado (JCI nº4)", d:"El juez Calama Teixeira (JCI nº4, DP 0000077/2024) dicta auto. Cinco delitos: organización criminal (art. 570 bis CP), tráfico de influencias, apropiación indebida, falsedad documental y blanqueo de capitales. Autoriza registros simultáneos.", h:true},
+  {f:"19/05/2026", t:"Registro UDEF en Ferraz 35 — 08:17h a 14:00h (5h43min)", d:"La UDEF y la Unidad de Ciberdelincuencia ejecutan el registro. Gertrudis Alcázar (DNI 05650472Q) abre voluntariamente. 60 evidencias incautadas: siete agendas presidenciales 2019-2025, carpetas KREAB (148f), Thinking Heads (124f+50f), CHINAILNK ASIA (61f), contratos JLRZ (7f), caja fuerte con joyas (declaradas herencia de Sonsoles), volcados de tres ordenadores — presidentezapatero@presidentezapatero.com (Thunderbird IMAP portable), ideas106@psoe.es y jwells@psoe.es. HASH SHA1 de 3 RARs documentados en acta.", h:true},
+  {f:"02/06/2026", t:"Declaración de Zapatero como investigado", d:"Citación para declarar en calidad de investigado a las 09:00h en la Audiencia Nacional, planta 6ª, Sala Polivalente. Debe comparecer con abogado.", h:true},
+];
+
+const FLUJOS = [
+  {de:"Plus Ultra",       a:"Caletón Consultores",    v:1159558,  yr:"2020-25"},
+  {de:"Plus Ultra",       a:"Summer Wind",            v:3979182,  yr:"2023"},
+  {de:"Plus Ultra",       a:"Análisis Relevante",     v:301290,   yr:"2020-24"},
+  {de:"Plus Ultra",       a:"Voli Analítica",         v:141772,   yr:"2021-22"},
+  {de:"Plus Ultra",       a:"Iot Domotic",            v:155847,   yr:"2021-25"},
+  {de:"Plus Ultra",       a:"Idella (contrato)",      v:530000,   yr:"2021*"},
+  {de:"Int. Prospectiva", a:"Whathefav",              v:561440,   yr:"2021-24"},
+  {de:"Int. Prospectiva", a:"Análisis Relevante",     v:368258,   yr:"2020-24"},
+  {de:"Int. Prospectiva", a:"Gate Center",            v:266200,   yr:"2023-24"},
+  {de:"Softgestor",       a:"Análisis Relevante",     v:145200,   yr:"2020-21"},
+  {de:"Grupo Aldesa",     a:"Análisis Relevante",     v:127050,   yr:"2021-22"},
+  {de:"Caletón",          a:"Voli Analítica",         v:108900,   yr:"2023"},
+  {de:"Caletón",          a:"Iot Domotic",            v:60500,    yr:"2021"},
+  {de:"Summer Wind",      a:"Afitta",                 v:213202,   yr:"2023"},
+  {de:"Análisis Relevante",a:"Zapatero",              v:490780,   yr:"2020-25"},
+  {de:"Análisis Relevante",a:"Whathefav",             v:239755,   yr:"2020-25"},
+  {de:"Gate Center",      a:"Zapatero",               v:352980,   yr:"2020-25"},
+  {de:"Gate Center",      a:"Whathefav",              v:171727,   yr:"2020-25"},
+  {de:"Thinking Heads",   a:"Zapatero",               v:681318,   yr:"2020-25"},
+  {de:"Thinking Heads",   a:"Whathefav",              v:12297,    yr:"2020-25"},
+  {de:"Whathefav",        a:"Laura R.E.",             v:247191,   yr:"2021-25"},
+  {de:"Whathefav",        a:"Alba R.E.",              v:199904,   yr:"2023-25"},
+];
+
+const CHANGELOG = [
+  {
+    fecha:"02/06/2026", tipo:"oficial",
+    titulo:"Zapatero declara como investigado — Audiencia Nacional",
+    desc:"Zapatero comparece en calidad de investigado a las 09:00h, planta 6ª de la Audiencia Nacional. Primera declaración formal en el marco de las Diligencias Previas 0000077/2024. Acta de declaración pendiente de publicación.",
+    origen:"JCI Nº4 · Juez Calama Teixeira", pdf:null
+  },
+  {
+    fecha:"19/05/2026", tipo:"verificado",
+    titulo:"Acta de registro Ferraz 35 — UDEF, 08:17h a 14:00h (5h43min)",
+    desc:"La UDEF y la Unidad de Ciberdelincuencia ejecutan el registro. Gertrudis Alcázar (DNI 05650472Q) abre voluntariamente. 60 evidencias: 7 agendas presidenciales 2019-2025, carpetas KREAB (148f), Thinking Heads (124f+50f), CHINAILNK ASIA (61f), contratos JLRZ (7f), caja fuerte, 3 volcados digitales completos (hash SHA1 documentados en acta).",
+    origen:"Acta de entrada y registro · UDEF · JCI Nº4", pdf:null
+  },
+  {
+    fecha:"18/05/2026", tipo:"oficial",
+    titulo:"Auto judicial — Zapatero investigado, 5 delitos, JCI Nº4",
+    desc:"El juez Calama Teixeira dicta auto en el marco de DP 0000077/2024. Cinco delitos: organización criminal (art. 570 bis CP), tráfico de influencias (arts. 428-430), apropiación indebida (art. 253), falsedad documental (art. 390) y blanqueo de capitales (art. 301). Autoriza los registros.",
+    origen:"Auto judicial · JCI Nº4 · Juez Calama Teixeira", pdf:null
+  },
+  {
+    fecha:"25/02/2026", tipo:"oficial",
+    titulo:"Informe ONIF — flujos económicos documentados",
+    desc:"La Oficina Nacional de Investigación del Fraude elabora el informe de flujos económicos que documenta más de 1,5M€ en pagos a Zapatero y su entorno desde Análisis Relevante, Gate Center y Thinking Heads, y más de 6M€ en pagos de Plus Ultra al entramado societario.",
+    origen:"Informe ONIF · 25/02/2026", pdf:null
+  },
+  {
+    fecha:"2020-2025", tipo:"oficial",
+    titulo:"Contratos y transferencias bancarias intervenidas",
+    desc:"El auto documenta contratos con Plus Ultra (3), Softgestor, Grupo Aldesa y Thinking Heads, todos vinculados a Análisis Relevante, Idella y otras sociedades de Julio MM. Las cuentas bancarias de Whathefav, Análisis Relevante, Gate Center y las sociedades de Julio MM fueron objeto de investigación patrimonial.",
+    origen:"Auto judicial + registros bancarios intervenidos · JCI Nº4", pdf:null
+  },
+];
+
+// ═══════════════════════════════════════════
+// COLORES
+// ═══════════════════════════════════════════
+const C_NODO = n => {
+  if(n.tipo==="institucion") return "#00cc88";
+  if(n.tipo==="persona") return n.sub==="investigado" ? "#2255ff" : "#4477dd";
+  if(n.sub==="cliente")  return "#9933ff";
+  return "#ffaa00";
+};
+
+const C_LINK = {
+  mando:"#2255ff", pago:"#ffaa00", influencia:"#ff3355",
+  control:"#9933ff", operativa:"#334466", inter:"#00cc88"
+};
+
+// ═══════════════════════════════════════════
+// GRAFO
+// ═══════════════════════════════════════════
+let svg, sim, zoom, gEl;
+
+function initGrafo(){
+  const area = document.getElementById("svg-area");
+  const W = area.clientWidth, H = area.clientHeight || window.innerHeight * 0.65;
+
+  svg = d3.select("#grafo-svg");
+  svg.selectAll("*").remove();
+
+  const defs = svg.append("defs");
+
+  // filtro glow suave
+  const fl = defs.append("filter").attr("id","glow").attr("x","-50%").attr("y","-50%").attr("width","200%").attr("height","200%");
+  fl.append("feGaussianBlur").attr("stdDeviation","4").attr("result","blur");
+  const fm = fl.append("feMerge");
+  fm.append("feMergeNode").attr("in","blur");
+  fm.append("feMergeNode").attr("in","SourceGraphic");
+
+  // flechas
+  Object.entries(C_LINK).forEach(([k,c])=>{
+    defs.append("marker")
+      .attr("id","arr-"+k)
+      .attr("viewBox","0 -4 8 8")
+      .attr("refX",18).attr("refY",0)
+      .attr("markerWidth",5).attr("markerHeight",5)
+      .attr("orient","auto")
+      .append("path").attr("d","M0,-4L8,0L0,4")
+      .attr("fill",c).attr("opacity",0.7);
+  });
+
+  zoom = d3.zoom().scaleExtent([0.1,4])
+    .on("zoom", e => gEl.attr("transform", e.transform));
+  svg.call(zoom);
+
+  gEl = svg.append("g");
+
+  const nodes = NODOS.map(n=>({...n}));
+  const links = LINKS.map(l=>({...l, source:l.s, target:l.t}));
+
+  // pin zapatero
+  const zap = nodes.find(n=>n.id==="zapatero");
+  if(zap){ zap.fx=W/2; zap.fy=H/2; }
+
+  sim = d3.forceSimulation(nodes)
+    .force("link", d3.forceLink(links).id(d=>d.id)
+      .distance(d=> d.tipo==="mando"?130 : d.tipo==="pago"?190 : 160)
+      .strength(0.35))
+    .force("charge", d3.forceManyBody().strength(-550))
+    .force("center", d3.forceCenter(W/2, H/2).strength(0.04))
+    .force("collide", d3.forceCollide(46))
+    .alphaDecay(0.025);
+
+  // links
+  const lG = gEl.append("g");
+  const lEls = lG.selectAll("line").data(links).enter().append("line")
+    .attr("stroke", d=>C_LINK[d.tipo]||"#334466")
+    .attr("stroke-width", d=>d.tipo==="pago"?2:1.5)
+    .attr("stroke-opacity", 0.55)
+    .attr("marker-end", d=>`url(#arr-${d.tipo})`)
+    .style("cursor","pointer")
+    .on("click",(e,d)=>{ e.stopPropagation(); showLink(d); })
+    .on("mouseenter",(e,d)=>tip(d.label))
+    .on("mouseleave",()=>hideTip());
+
+  // nodos
+  const nG = gEl.append("g");
+  const nEls = nG.selectAll("g.nd").data(nodes).enter()
+    .append("g").attr("class","nd")
+    .style("cursor","pointer")
+    .call(d3.drag()
+      .on("start",(e,d)=>{ if(!e.active)sim.alphaTarget(0.3).restart(); d.fx=d.x;d.fy=d.y; })
+      .on("drag",(e,d)=>{ d.fx=e.x;d.fy=e.y; })
+      .on("end",(e,d)=>{ if(!e.active)sim.alphaTarget(0); d.fx=null;d.fy=null; }))
+    .on("click",(e,d)=>{ e.stopPropagation(); showNode(d, links, nodes); })
+    .on("mouseenter",(e,d)=>tip(d.label.replace(/\n/g," ")))
+    .on("mouseleave",()=>hideTip());
+
+  // anillo exterior investigados
+  nEls.filter(d=>d.sub==="investigado")
+    .append("circle")
+    .attr("r",28).attr("fill","none")
+    .attr("stroke",d=>C_NODO(d)).attr("stroke-width",1)
+    .attr("stroke-opacity",0.25)
+    .attr("filter","url(#glow)");
+
+  // círculo principal
+  nEls.append("circle")
+    .attr("r", d=> d.id==="zapatero"?26 : d.sub==="investigado"?20 : d.tipo==="sociedad"?16 : 15)
+    .attr("fill", d=> d.id==="zapatero" ? C_NODO(d) : "rgba(13,15,26,0.95)")
+    .attr("stroke", d=>C_NODO(d))
+    .attr("stroke-width", d=> d.id==="zapatero"?0:2);
+
+  // etiqueta
+  nEls.each(function(d){
+    const r = d.id==="zapatero"?26 : d.sub==="investigado"?20 : 16;
+    const lines = d.label.split("\n");
+    const g2 = d3.select(this);
+    const t = g2.append("text")
+      .attr("text-anchor","middle")
+      .attr("dy", r + 13)
+      .attr("fill","#d4d8f0")
+      .attr("font-family","'Space Grotesk',sans-serif")
+      .attr("font-size", d.id==="zapatero"?"10px":"8.5px")
+      .attr("font-weight", d.sub==="investigado"?"500":"400");
+    lines.forEach((ln,i)=>{
+      t.append("tspan").attr("x",0).attr("dy",i===0?0:"1.2em").text(ln);
+    });
+  });
+
+  sim.on("tick",()=>{
+    lEls.attr("x1",d=>d.source.x).attr("y1",d=>d.source.y)
+        .attr("x2",d=>d.target.x).attr("y2",d=>d.target.y);
+    nEls.attr("transform",d=>`translate(${d.x},${d.y})`);
+  });
+
+  // liberar zapatero
+  setTimeout(()=>{ if(zap){zap.fx=null;zap.fy=null;} sim.alpha(0.3).restart(); },2200);
+}
+
+function showNode(d, links, nodes){
+  history.replaceState(null,'','#nodo='+d.id);
+  const out = links.filter(l=>l.s===d.id);
+  const inn = links.filter(l=>l.t===d.id);
+  let html = `
+    <div class="panel-chip">${d.tipo} · ${d.sub}</div>
+    <div class="panel-nombre">${d.label.replace(/\n/g," ")}</div>
+    <div class="panel-rol">${d.rol}</div>
+  `;
+  const renderConns = (arr, dir) => {
+    if(!arr.length) return "";
+    let h = `<div class="conn-titulo">${dir} (${arr.length})</div>`;
+    arr.forEach(c=>{
+      const otro = nodes.find(n=>n.id===(dir==="Salientes"?c.t:c.s));
+      const col = C_LINK[c.tipo]||"#334466";
+      h += `<div class="conn-item" style="border-left-color:${col}">
+        <div class="conn-label">${c.label}</div>
+        <div class="conn-nodo">${dir==="Salientes"?"→":"←"} ${otro?otro.label.replace(/\n/g," "):""}</div>
+      </div>
+      <div class="evidencia">${c.ev}</div>`;
+    });
+    return h;
+  };
+  html += renderConns(out,"Salientes") + renderConns(inn,"Entrantes");
+  document.getElementById("info-panel").querySelector(".panel-inner").innerHTML = html;
+}
+
+function showLink(d){
+  const src = NODOS.find(n=>n.id===d.s);
+  const tgt = NODOS.find(n=>n.id===d.t);
+  document.getElementById("info-panel").querySelector(".panel-inner").innerHTML = `
+    <div class="panel-chip">Conexión · ${d.tipo}</div>
+    <div class="panel-nombre">${d.label}</div>
+    <div class="panel-rol">
+      De: <strong>${src?src.label.replace(/\n/g," "):d.s}</strong><br>
+      A: <strong>${tgt?tgt.label.replace(/\n/g," "):d.t}</strong>
+    </div>
+    <div class="conn-titulo">Evidencia del auto</div>
+    <div class="evidencia">${d.ev}</div>
+  `;
+}
+
+function filtrar(tipo, btn){
+  document.querySelectorAll(".f-btn").forEach(b=>b.classList.remove("on"));
+  btn.classList.add("on");
+  gEl.selectAll(".nd").style("opacity", d=>{
+    if(tipo==="todos"||tipo==="pago"||tipo==="influencia") return 1;
+    return d.tipo===tipo ? 1 : 0.08;
+  });
+  gEl.selectAll("line").style("opacity", d=>{
+    if(tipo==="todos") return 0.55;
+    if(tipo==="pago") return d.tipo==="pago"?0.7:0.04;
+    if(tipo==="influencia") return d.tipo==="influencia"?0.9:0.04;
+    const s=NODOS.find(n=>n.id===d.s), t=NODOS.find(n=>n.id===d.t);
+    return (s?.tipo===tipo||t?.tipo===tipo)?0.6:0.04;
+  });
+}
+
+function zIn(){ svg.transition().call(zoom.scaleBy,1.35); }
+function zOut(){ svg.transition().call(zoom.scaleBy,0.72); }
+function zReset(){
+  const a=document.getElementById("svg-area");
+  svg.transition().call(zoom.transform, d3.zoomIdentity
+    .translate(a.clientWidth/2, (a.clientHeight||window.innerHeight*.65)/2).scale(0.55));
+}
+
+// ═══════════════════════════════════════════
+// TOOLTIP
+// ═══════════════════════════════════════════
+const ttEl = document.getElementById("tt");
+function tip(txt){ ttEl.style.display="block"; ttEl.textContent=txt; }
+function hideTip(){ ttEl.style.display="none"; }
+document.addEventListener("mousemove",e=>{
+  ttEl.style.left=(e.clientX+14)+"px";
+  ttEl.style.top=(e.clientY-28)+"px";
+});
+
+// ═══════════════════════════════════════════
+// CRONOLOGÍA
+// ═══════════════════════════════════════════
+function buildCrono(){
+  const c = document.getElementById("crono-lista");
+  TIMELINE.forEach((item,i)=>{
+    const d = document.createElement("div");
+    d.className="crono-item"+(item.h?" hito":"");
+    d.style.animationDelay=`${i*0.035}s`;
+    d.innerHTML=`
+      <div class="crono-fecha">${item.f}</div>
+      <div class="crono-titulo">${item.t}</div>
+      <div class="crono-desc">${item.d}</div>
+    `;
+    c.appendChild(d);
+  });
+}
+
+// ═══════════════════════════════════════════
+// FLUJOS
+// ═══════════════════════════════════════════
+function fmt(n){ return "€"+n.toLocaleString("es-ES"); }
+
+function buildFlujos(){
+  const stats=[
+    {label:"Recibido por Zapatero",     v:490780+352980+681318+31766, sub:"Análisis Relevante + Gate Center + Thinking Heads", c:"#2255ff"},
+    {label:"Recibido por Whathefav SL", v:239755+561440+171727+12297, sub:"AR + Int. Prospectiva + Gate Center + Thinking Heads", c:"#ffaa00"},
+    {label:"Pagado por Plus Ultra",     v:301290+141772+155847+1159558+3979182, sub:"A todo el entramado (sin contar Idella)", c:"#9933ff"},
+    {label:"A hijas de Zapatero",       v:247191+199904, sub:"Laura (247.191€) + Alba (199.904€) desde Whathefav", c:"#00cc88"},
+  ];
+  const row = document.getElementById("stats-row");
+  stats.forEach(s=>{
+    const d=document.createElement("div");
+    d.className="stat-card";
+    d.style.setProperty("--c",s.c);
+    d.innerHTML=`<div class="stat-label">${s.label}</div>
+      <div class="stat-num">${fmt(s.v)}</div>
+      <div class="stat-sub">${s.sub}</div>`;
+    row.appendChild(d);
+  });
+
+  const mx = Math.max(...FLUJOS.map(f=>f.v));
+  const tbody = document.getElementById("flujos-tbody");
+  FLUJOS.forEach(f=>{
+    const pct=Math.round(f.v/mx*100);
+    const tr=document.createElement("tr");
+    tr.innerHTML=`
+      <td class="td-de">${f.de}</td>
+      <td class="td-a">${f.a}</td>
+      <td class="td-año">${f.yr}</td>
+      <td class="td-eur">${fmt(f.v)}</td>
+      <td class="td-barra-wrap"><div class="td-barra"><div class="td-barra-fill" style="width:${pct}%"></div></div></td>
+    `;
+    tbody.appendChild(tr);
+  });
+
+  buildSankey();
+}
+
+function buildSankey(){
+  const svg2=d3.select("#sankey-svg");
+  const box=document.getElementById("sankey-box");
+  const W=Math.max(box.clientWidth-64, 640), H=440;
+  svg2.attr("width",W).attr("height",H);
+  const g=svg2.append("g");
+
+  const cols=[
+    ["Plus Ultra","Int. Prospectiva","Softgestor","Grupo Aldesa","Thinking Heads"],
+    ["Caletón","Summer Wind","Análisis Relevante","Gate Center","Whathefav"],
+    ["Zapatero","Laura R.E.","Alba R.E."],
+  ];
+  const nW=110, nH=22, colX=[0, W/2-nW/2, W-nW];
+  const pos={};
+  cols.forEach((col,ci)=>{
+    const gap=14;
+    const tot=col.length*(nH+gap);
+    let y=(H-tot)/2;
+    col.forEach(nm=>{
+      pos[nm]={x:colX[ci],y,w:nW,h:nH,ci};
+      y+=nH+gap;
+    });
+  });
+
+  // paths
+  const flows2=[
+    {de:"Plus Ultra",a:"Caletón",v:1159558},
+    {de:"Plus Ultra",a:"Summer Wind",v:3979182},
+    {de:"Plus Ultra",a:"Análisis Relevante",v:301290},
+    {de:"Int. Prospectiva",a:"Whathefav",v:561440},
+    {de:"Int. Prospectiva",a:"Análisis Relevante",v:368258},
+    {de:"Int. Prospectiva",a:"Gate Center",v:266200},
+    {de:"Softgestor",a:"Análisis Relevante",v:145200},
+    {de:"Grupo Aldesa",a:"Análisis Relevante",v:127050},
+    {de:"Thinking Heads",a:"Zapatero",v:681318},
+    {de:"Análisis Relevante",a:"Zapatero",v:490780},
+    {de:"Análisis Relevante",a:"Whathefav",v:239755},
+    {de:"Gate Center",a:"Zapatero",v:352980},
+    {de:"Gate Center",a:"Whathefav",v:171727},
+    {de:"Whathefav",a:"Laura R.E.",v:247191},
+    {de:"Whathefav",a:"Alba R.E.",v:199904},
+  ];
+  const mx2=Math.max(...flows2.map(f=>f.v));
+  flows2.forEach(f=>{
+    const s=pos[f.de], t=pos[f.a];
+    if(!s||!t)return;
+    const sw=Math.max(1.5,Math.log(f.v/8000+1)*3.5);
+    const isEnd=t.ci===2;
+    const x1=s.x+nW, y1=s.y+nH/2;
+    const x2=t.x,    y2=t.y+nH/2;
+    const mx=(x1+x2)/2;
+    g.append("path")
+      .attr("d",`M${x1},${y1}C${mx},${y1} ${mx},${y2} ${x2},${y2}`)
+      .attr("fill","none")
+      .attr("stroke", isEnd?"#2255ff":"#ffaa00")
+      .attr("stroke-width",sw)
+      .attr("stroke-opacity",0.28);
+  });
+
+  // nodos
+  Object.entries(pos).forEach(([nm,p])=>{
+    const isEnd=p.ci===2;
+    const isMid=p.ci===1;
+    const col=isEnd?"#2255ff":isMid?"#ffaa00":"#9933ff";
+    g.append("rect")
+      .attr("x",p.x).attr("y",p.y).attr("width",p.w).attr("height",p.h)
+      .attr("fill",`${col}11`).attr("stroke",col).attr("stroke-width",1);
+    g.append("text")
+      .attr("x",p.x+p.w/2).attr("y",p.y+p.h/2)
+      .attr("text-anchor","middle").attr("dominant-baseline","middle")
+      .attr("fill","#d4d8f0")
+      .attr("font-family","'Space Grotesk',sans-serif")
+      .attr("font-size","9px").text(nm);
+  });
+
+  // cabeceras cols
+  ["Origen","Intermediarios","Beneficiarios"].forEach((lb,i)=>{
+    svg2.append("text")
+      .attr("x",colX[i]+nW/2).attr("y",16)
+      .attr("text-anchor","middle")
+      .attr("fill","#5a6080")
+      .attr("font-family","'Space Grotesk',sans-serif")
+      .attr("font-size","9px")
+      .attr("letter-spacing","0.12em")
+      .text(lb.toUpperCase());
+  });
+}
+
+// ═══════════════════════════════════════════
+// LEGAL
+// ═══════════════════════════════════════════
+function buildLegal(){
+  const delitos=[
+    {
+      n:"Organización criminal",
+      art:"Art. 570 bis Código Penal",
+      d:"El auto detecta una estructura estable de personas y sociedades con distribución de roles fijos, jerarquía interna y coordinación sostenida en el tiempo para la obtención de beneficios ilícitos. No se requiere un mínimo de miembros, pero sí permanencia y especialización de funciones.",
+      els:["Pluralidad de personas con roles diferenciados y estables",
+           "Actuación coordinada y continuada en el tiempo",
+           "Finalidad de obtener beneficios económicos mediante actividad delictiva",
+           "Estructura jerárquica documentada en mensajes y correos intervenidos"]
+    },
+    {
+      n:"Tráfico de influencias",
+      art:"Arts. 428-430 Código Penal",
+      d:"Delito de mera actividad: basta con intentar influir en un funcionario para obtener una resolución favorable. No es necesario que la resolución llegue a dictarse ni que el beneficio económico se materialice. El tipo se consuma con el acto de influir.",
+      els:["Influencia real o simulada ante funcionario o autoridad pública",
+           "Orientada a obtener una resolución administrativa concreta (FASEE)",
+           "Con finalidad de obtener un beneficio económico para sí o para tercero",
+           "Abuso de relaciones personales con el funcionario o de la condición de exPresidente"]
+    },
+    {
+      n:"Apropiación indebida",
+      art:"Art. 253 Código Penal",
+      d:"El auto detecta contratos sin actividad real acreditada y facturas con conceptos elaborados a posteriori. Los fondos habrían sido recibidos bajo títulos que obligaban a una devolución o destino específico que no se produjo.",
+      els:["Recepción de fondos bajo título que obliga a su devolución o uso específico",
+           "Negativa a devolver o distracción del fin pactado",
+           "Perjuicio patrimonial para el transmitente (Plus Ultra/clientes)",
+           "Contratos identificados: Idella-Plus Ultra (1% rescate = 530.000€), Análisis Relevante-clientes"]
+    },
+    {
+      n:"Falsedad documental",
+      art:"Art. 390 Código Penal",
+      d:"El auto documenta facturas con conceptos que no se corresponden con servicios realmente prestados, elaboradas o modificadas retroactivamente para dar apariencia mercantil a flujos económicos de otro origen.",
+      els:["Alteración de elementos esenciales de documentos mercantiles",
+           "Simulación de actividad comercial inexistente",
+           "Facturas con conceptos adaptados a posteriori (Summer Wind → Afitta)",
+           "Contratos idénticos sin firma entre distintos clientes (Análisis Relevante)"]
+    },
+    {
+      n:"Blanqueo de capitales",
+      art:"Art. 301 Código Penal",
+      d:"El auto detecta una estructura societaria internacional indiciariamente diseñada para canalizar fondos de origen ilícito, ocultar la titularidad real de activos y desplazar capitales fuera de España. El patrón encaja con las modalidades típicas descritas por el Tribunal Supremo.",
+      els:["Creación de sociedades instrumentales en jurisdicción de baja transparencia (Dubái)",
+           "Uso de estructuras fiduciarias para ocultar titularidad real (testaferros, admins formales)",
+           "Canalización de fondos a través de cuentas en el extranjero (Landside Dubai Fzco)",
+           "Desconexión deliberada entre el origen de los fondos y su destino final"]
+    }
+  ];
+  const c=document.getElementById("delitos-cont");
+  delitos.forEach(d=>{
+    const div=document.createElement("div");
+    div.className="delito-blk";
+    div.innerHTML=`
+      <div class="delito-n">${d.n}</div>
+      <div class="delito-art">${d.art}</div>
+      <div class="delito-desc">${d.d}</div>
+      <div class="elem-lista">${d.els.map((e,i)=>`
+        <div class="elem">
+          <span class="elem-n">0${i+1}</span>
+          <span>${e}</span>
+        </div>`).join("")}
+      </div>`;
+    c.appendChild(div);
+  });
+}
+
+function buildChangelog(){
+  const tipoInfo = {
+    periodistica:{ label:"Fuente periodística", cls:"cl-p" },
+    oficial:{ label:"Documento oficial", cls:"cl-o" },
+    verificado:{ label:"Verificado + archivo", cls:"cl-v" }
+  };
+  const dotCls = { periodistica:"src-periodistica", oficial:"src-oficial", verificado:"src-verificado" };
+  const lista = document.getElementById("cl-lista");
+  CHANGELOG.forEach(e => {
+    const info = tipoInfo[e.tipo];
+    const d = document.createElement("div");
+    d.className = "cl-entry " + info.cls;
+    d.innerHTML = `
+      <div class="cl-meta">
+        <span class="cl-fecha">${e.fecha}</span>
+        <span class="src-badge ${dotCls[e.tipo]}"></span>
+        <span class="cl-tipo">${info.label}</span>
+      </div>
+      <div class="cl-titulo">${e.titulo}</div>
+      <div class="cl-desc">${e.desc}</div>
+      <div class="cl-origen">Fuente: ${e.origen}${e.pdf ? ` · <a href="${e.pdf}" target="_blank">Ver documento →</a>` : " · Pendiente archivo primario"}</div>`;
+    lista.appendChild(d);
+  });
+}
+
+// ═══════════════════════════════════════════
+// TABS
+// ═══════════════════════════════════════════
+function tab(id, btn){
+  document.querySelectorAll(".nav-btn").forEach(b=>b.classList.remove("on"));
+  btn.classList.add("on");
+  document.querySelectorAll(".seccion").forEach(s=>{
+    s.classList.remove("on");
+    if(s.id==="grafo-wrap") s.style.display="none";
+  });
+  const s=document.getElementById(id==="grafo"?"grafo-wrap":id+"-wrap");
+  s.classList.add("on");
+  if(id==="grafo") s.style.display="flex";
+}
+
+// ═══════════════════════════════════════════
+// INIT
+// ═══════════════════════════════════════════
+window.addEventListener("DOMContentLoaded",()=>{
+  initGrafo();
+  buildCrono();
+  buildFlujos();
+  buildLegal();
+  buildChangelog();
+  const hm=window.location.hash.match(/^#nodo=(.+)$/);
+  if(hm){
+    const nd=NODOS.find(n=>n.id===hm[1]);
+    if(nd) setTimeout(()=>showNode(nd,LINKS,NODOS),2000);
+  }
+  window.addEventListener("resize",()=>{
+    if(document.getElementById("grafo-wrap").classList.contains("on")) initGrafo();
+  });
+});
+</script>
+</body>
+</html>

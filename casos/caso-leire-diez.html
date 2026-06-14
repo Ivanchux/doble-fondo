@@ -1,0 +1,729 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Operación Fidelidad — Caso Leire Díez</title>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/d3/7.8.5/d3.min.js"></script>
+<link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@300;400;500;600;700&family=DM+Serif+Display:ital@0;1&family=Courier+Prime:ital,wght@0,400;0,700;1,400&display=swap" rel="stylesheet">
+<style>
+* { margin:0; padding:0; box-sizing:border-box; }
+:root {
+  --bg:#07080f; --surface:#0d0f1a; --border:rgba(255,255,255,0.07);
+  --accent:#ff3355; --accent2:#2255ff; --amber:#ffaa00;
+  --text:#d4d8f0; --muted:#5a6080;
+  --pago:#ffaa00; --mando:#2255ff; --influencia:#ff3355;
+  --control:#9933ff; --operativa:#334466; --inter:#00cc88;
+}
+html { scroll-behavior:smooth; }
+body { background:var(--bg); color:var(--text); font-family:'Space Grotesk',sans-serif; overflow-x:hidden; min-height:100vh; }
+#portada { min-height:100vh; display:flex; flex-direction:column; justify-content:flex-end; padding:clamp(24px,5vw,64px); position:relative; border-bottom:1px solid var(--border); overflow:hidden; }
+.portada-num { position:absolute; top:clamp(20px,4vw,48px); right:clamp(20px,4vw,48px); font-family:'Courier Prime',monospace; font-size:clamp(10px,1.5vw,13px); color:var(--muted); letter-spacing:.1em; text-align:right; line-height:1.8; }
+.portada-estado { display:inline-flex; align-items:center; gap:10px; margin-bottom:clamp(20px,4vw,40px); }
+.dot-live { width:8px; height:8px; background:var(--accent); border-radius:50%; animation:blink 2s infinite; flex-shrink:0; }
+@keyframes blink { 0%,100%{opacity:1} 50%{opacity:0.2} }
+.portada-estado span { font-size:clamp(10px,1.5vw,12px); letter-spacing:.2em; text-transform:uppercase; color:var(--accent); font-weight:500; }
+h1 { font-family:'DM Serif Display',serif; font-size:clamp(48px,10vw,130px); line-height:.9; letter-spacing:-.02em; color:#fff; margin-bottom:clamp(16px,3vw,32px); }
+h1 em { font-style:italic; color:var(--accent); }
+.portada-bajada { display:flex; flex-wrap:wrap; gap:clamp(20px,4vw,48px); align-items:flex-end; margin-bottom:clamp(32px,5vw,64px); }
+.portada-desc { max-width:520px; font-size:clamp(13px,1.8vw,16px); color:var(--muted); line-height:1.7; font-weight:300; }
+.portada-delitos { display:flex; flex-direction:column; gap:8px; }
+.delito-tag { font-family:'Courier Prime',monospace; font-size:clamp(10px,1.4vw,12px); color:var(--text); letter-spacing:.05em; padding:6px 14px; border:1px solid var(--border); width:fit-content; }
+#nav { position:sticky; top:0; z-index:200; background:rgba(7,8,15,.96); backdrop-filter:blur(12px); border-bottom:1px solid var(--border); display:flex; overflow-x:auto; scrollbar-width:none; }
+#nav::-webkit-scrollbar { display:none; }
+.nav-btn { background:none; border:none; color:var(--muted); font-family:'Space Grotesk',sans-serif; font-size:clamp(11px,1.4vw,13px); font-weight:500; letter-spacing:.05em; padding:clamp(14px,2vw,18px) clamp(16px,3vw,28px); cursor:pointer; border-bottom:2px solid transparent; transition:all .2s; white-space:nowrap; flex-shrink:0; }
+.nav-btn:hover { color:var(--text); }
+.nav-btn.on { color:#fff; border-bottom-color:var(--accent); }
+.seccion { display:none; }
+.seccion.on { display:block; }
+#grafo-wrap.on { display:flex; }
+#grafo-wrap { display:none; height:calc(100svh - 53px); position:relative; }
+@media(max-width:768px){ #grafo-wrap { flex-direction:column; height:auto; } }
+#svg-area { flex:1; position:relative; min-height:60svh; overflow:hidden; }
+#grafo-svg { width:100%; height:100%; display:block; }
+#info-panel { width:320px; flex-shrink:0; background:var(--surface); border-left:1px solid var(--border); overflow-y:auto; scrollbar-width:thin; }
+@media(max-width:768px){ #info-panel { width:100%; border-left:none; border-top:1px solid var(--border); max-height:40svh; } }
+.panel-inner { padding:clamp(16px,3vw,28px); }
+.panel-vacio { display:flex; flex-direction:column; align-items:center; justify-content:center; min-height:200px; gap:12px; text-align:center; }
+.panel-vacio p { font-size:12px; color:var(--muted); max-width:200px; line-height:1.7; }
+.panel-chip { font-family:'Courier Prime',monospace; font-size:10px; letter-spacing:.15em; text-transform:uppercase; color:var(--muted); margin-bottom:10px; }
+.panel-nombre { font-family:'DM Serif Display',serif; font-size:clamp(18px,3vw,24px); color:#fff; line-height:1.2; margin-bottom:10px; }
+.panel-rol { font-size:13px; color:var(--muted); line-height:1.7; padding-bottom:18px; border-bottom:1px solid var(--border); margin-bottom:18px; }
+.conn-titulo { font-size:10px; letter-spacing:.15em; text-transform:uppercase; color:var(--muted); margin-bottom:10px; margin-top:18px; }
+.conn-item { padding:10px 12px; margin-bottom:6px; border-left:2px solid; cursor:default; transition:background .15s; }
+.conn-item:hover { background:rgba(255,255,255,.03); }
+.conn-label { font-size:12px; color:var(--text); font-weight:500; margin-bottom:3px; }
+.conn-nodo { font-size:11px; color:var(--muted); }
+.evidencia { background:rgba(255,51,85,.06); border-left:2px solid rgba(255,51,85,.4); padding:10px 12px; margin-bottom:6px; font-size:11px; color:var(--text); line-height:1.7; font-style:italic; font-family:'Courier Prime',monospace; }
+.grafo-ctrl { position:absolute; bottom:clamp(12px,2vw,24px); left:clamp(12px,2vw,24px); display:flex; gap:6px; z-index:10; }
+.ctrl { width:34px; height:34px; background:var(--surface); border:1px solid var(--border); color:var(--text); font-size:15px; cursor:pointer; display:flex; align-items:center; justify-content:center; transition:border-color .2s; }
+.ctrl:hover { border-color:var(--accent); }
+.grafo-filtros { position:absolute; top:clamp(12px,2vw,20px); left:clamp(12px,2vw,20px); display:flex; flex-wrap:wrap; gap:5px; z-index:10; max-width:calc(100% - 24px); }
+.f-btn { background:rgba(7,8,15,.85); backdrop-filter:blur(8px); border:1px solid var(--border); color:var(--muted); font-family:'Space Grotesk',sans-serif; font-size:10px; font-weight:500; letter-spacing:.08em; text-transform:uppercase; padding:5px 11px; cursor:pointer; transition:all .15s; }
+.f-btn:hover,.f-btn.on { color:#fff; border-color:rgba(255,255,255,.25); background:rgba(255,51,85,.15); }
+.leyenda { position:absolute; bottom:clamp(12px,2vw,24px); right:clamp(12px,2vw,24px); background:rgba(7,8,15,.9); backdrop-filter:blur(8px); border:1px solid var(--border); padding:14px 16px; z-index:10; }
+@media(max-width:600px){ .leyenda { display:none; } }
+.ley-titulo { font-size:9px; letter-spacing:.15em; text-transform:uppercase; color:var(--muted); margin-bottom:10px; }
+.ley-row { display:flex; align-items:center; gap:8px; margin-bottom:6px; font-size:11px; color:var(--text); }
+.ley-dot { width:10px; height:10px; border-radius:50%; flex-shrink:0; }
+.ley-line { width:20px; height:2px; flex-shrink:0; }
+.ley-sep { border-top:1px solid var(--border); margin:8px 0; }
+#crono-wrap { padding:clamp(24px,5vw,64px); max-width:800px; margin:0 auto; }
+.sec-head { margin-bottom:clamp(32px,5vw,56px); }
+.sec-eyebrow { font-family:'Courier Prime',monospace; font-size:11px; letter-spacing:.2em; text-transform:uppercase; color:var(--accent); margin-bottom:16px; }
+.sec-h2 { font-family:'DM Serif Display',serif; font-size:clamp(32px,6vw,64px); line-height:1; color:#fff; margin-bottom:16px; }
+.sec-sub { font-size:clamp(13px,1.8vw,16px); color:var(--muted); line-height:1.7; font-weight:300; max-width:480px; }
+.crono-lista { position:relative; padding-left:clamp(20px,4vw,36px); }
+.crono-linea { position:absolute; left:3px; top:0; bottom:0; width:1px; background:linear-gradient(to bottom,var(--accent),transparent); }
+.crono-item { position:relative; padding-bottom:clamp(28px,4vw,44px); }
+.crono-item::before { content:''; position:absolute; left:clamp(-24px,-4vw,-18px); top:6px; width:7px; height:7px; border-radius:50%; background:var(--surface); border:1.5px solid var(--muted); }
+.crono-item.hito::before { background:var(--accent); border-color:var(--accent); box-shadow:0 0 10px rgba(255,51,85,.5); width:9px; height:9px; left:clamp(-25px,-4vw,-19px); top:5px; }
+.crono-fecha { font-family:'Courier Prime',monospace; font-size:11px; color:var(--muted); letter-spacing:.05em; margin-bottom:5px; }
+.crono-item.hito .crono-fecha { color:var(--accent); }
+.crono-titulo { font-weight:600; font-size:clamp(14px,2vw,17px); color:#fff; margin-bottom:8px; line-height:1.3; }
+.crono-desc { font-size:clamp(12px,1.6vw,14px); color:var(--muted); line-height:1.75; font-weight:300; }
+#flujos-wrap { padding:clamp(24px,5vw,64px); }
+.stats-row { display:grid; grid-template-columns:repeat(auto-fit,minmax(200px,1fr)); gap:clamp(12px,2vw,20px); margin-bottom:clamp(40px,6vw,72px); }
+.stat-card { background:var(--surface); border:1px solid var(--border); padding:clamp(20px,3vw,32px); position:relative; overflow:hidden; }
+.stat-card::before { content:''; position:absolute; top:0; left:0; width:3px; height:100%; background:var(--c,var(--accent)); }
+.stat-label { font-size:11px; letter-spacing:.1em; text-transform:uppercase; color:var(--muted); margin-bottom:12px; font-weight:500; }
+.stat-num { font-family:'DM Serif Display',serif; font-size:clamp(24px,4vw,40px); color:var(--c,var(--accent)); line-height:1; margin-bottom:8px; }
+.stat-sub { font-size:12px; color:var(--muted); line-height:1.5; font-weight:300; }
+.flujos-tabla-wrap { overflow-x:auto; margin-bottom:clamp(32px,5vw,56px); }
+.flujos-tabla { width:100%; min-width:540px; border-collapse:collapse; }
+.flujos-tabla th { text-align:left; font-size:10px; letter-spacing:.15em; text-transform:uppercase; color:var(--muted); padding:0 16px 14px 0; border-bottom:1px solid var(--border); font-weight:500; }
+.flujos-tabla td { padding:13px 16px 13px 0; border-bottom:1px solid rgba(255,255,255,.03); font-size:13px; vertical-align:middle; }
+.flujos-tabla tr:hover td { background:rgba(255,255,255,.02); }
+.td-de { color:var(--muted); font-size:12px; } .td-a { color:var(--text); font-weight:500; }
+.td-eur { font-family:'Courier Prime',monospace; font-weight:700; font-size:13px; color:var(--amber); text-align:right; white-space:nowrap; }
+.td-año { font-family:'Courier Prime',monospace; font-size:11px; color:var(--muted); }
+.td-barra-wrap { width:120px; } .td-barra { height:3px; background:rgba(255,255,255,.05); position:relative; }
+.td-barra-fill { height:100%; background:var(--amber); opacity:.6; }
+#sankey-box { background:var(--surface); border:1px solid var(--border); padding:clamp(16px,3vw,32px); overflow-x:auto; }
+#sankey-svg { min-width:640px; width:100%; display:block; }
+#legal-wrap { padding:clamp(24px,5vw,64px); max-width:720px; margin:0 auto; }
+.aviso { background:rgba(255,51,85,.05); border:1px solid rgba(255,51,85,.2); padding:clamp(16px,3vw,24px); margin-bottom:clamp(32px,5vw,48px); }
+.aviso p { font-size:clamp(12px,1.6vw,14px); color:var(--text); line-height:1.8; }
+.aviso strong { color:var(--accent); }
+.delito-blk { background:var(--surface); border:1px solid var(--border); padding:clamp(20px,3vw,36px); margin-bottom:clamp(16px,2vw,20px); }
+.delito-n { font-family:'DM Serif Display',serif; font-size:clamp(20px,3vw,28px); color:#fff; margin-bottom:6px; }
+.delito-art { font-family:'Courier Prime',monospace; font-size:11px; letter-spacing:.1em; color:var(--accent); margin-bottom:16px; }
+.delito-desc { font-size:clamp(13px,1.7vw,15px); color:var(--muted); line-height:1.8; margin-bottom:20px; font-weight:300; }
+.elem-lista { display:flex; flex-direction:column; gap:10px; }
+.elem { display:flex; gap:14px; align-items:flex-start; font-size:clamp(12px,1.6vw,14px); color:var(--text); line-height:1.6; }
+.elem-n { font-family:'Courier Prime',monospace; font-size:11px; color:var(--accent); flex-shrink:0; padding-top:1px; }
+.estado-blk { border:1px solid var(--border); padding:clamp(20px,3vw,32px); }
+.estado-tag { font-family:'Courier Prime',monospace; font-size:11px; letter-spacing:.15em; text-transform:uppercase; color:var(--amber); margin-bottom:14px; }
+.estado-txt { font-size:clamp(13px,1.7vw,15px); color:var(--muted); line-height:1.8; font-weight:300; }
+#tt { position:fixed; background:var(--surface); border:1px solid var(--border); padding:10px 14px; font-size:12px; font-family:'Space Grotesk',sans-serif; color:var(--text); pointer-events:none; z-index:9999; max-width:260px; line-height:1.5; display:none; }
+::-webkit-scrollbar { width:4px; height:4px; } ::-webkit-scrollbar-track { background:transparent; } ::-webkit-scrollbar-thumb { background:rgba(255,255,255,.1); }
+/* ── FUENTES / CHANGELOG ── */
+.src-badge{display:inline-block;width:8px;height:8px;border-radius:50%;flex-shrink:0;}
+.src-periodistica{background:#ffaa00;}
+.src-oficial{background:#2255ff;}
+.src-verificado{background:#00cc88;}
+#changelog-wrap{padding:clamp(24px,5vw,64px);max-width:800px;margin:0 auto;}
+.fuente-leyenda{display:flex;flex-direction:column;gap:10px;margin-bottom:clamp(32px,5vw,48px);padding:clamp(16px,2.5vw,24px);background:var(--surface);border:1px solid var(--border);}
+.fuente-pill{display:flex;align-items:center;gap:8px;font-family:'Courier Prime',monospace;font-size:11px;letter-spacing:.05em;color:var(--muted);}
+.cl-entry{padding:clamp(18px,2.5vw,26px) 0 clamp(18px,2.5vw,26px) 28px;border-bottom:1px solid var(--border);position:relative;display:grid;gap:6px;}
+.cl-entry::before{content:'';position:absolute;left:0;top:clamp(26px,3vw,32px);width:8px;height:8px;border-radius:50%;}
+.cl-entry.cl-p::before{background:#ffaa00;}
+.cl-entry.cl-o::before{background:#2255ff;}
+.cl-entry.cl-v::before{background:#00cc88;}
+.cl-meta{display:flex;align-items:center;gap:10px;flex-wrap:wrap;}
+.cl-fecha{font-family:'Courier Prime',monospace;font-size:11px;color:var(--muted);letter-spacing:.04em;}
+.cl-tipo{font-family:'Courier Prime',monospace;font-size:9px;letter-spacing:.14em;text-transform:uppercase;color:var(--muted);}
+.cl-titulo{font-size:clamp(13px,1.7vw,16px);font-weight:600;color:#fff;line-height:1.3;}
+.cl-desc{font-size:13px;color:var(--muted);line-height:1.75;font-weight:300;max-width:640px;}
+.cl-origen{font-family:'Courier Prime',monospace;font-size:10px;color:var(--muted);letter-spacing:.04em;}
+.cl-origen a{color:var(--accent);text-decoration:none;}
+/* ── SITE HEADER ── */
+#site-hdr{background:rgba(7,8,15,0.92);backdrop-filter:blur(12px);border-bottom:1px solid var(--border);display:flex;align-items:center;justify-content:space-between;padding:0 clamp(16px,4vw,48px);height:48px;}
+.shdr-back,.shdr-otro{color:var(--muted);text-decoration:none;font-family:'Courier Prime',monospace;font-size:11px;letter-spacing:.08em;transition:color .2s;}
+.shdr-back:hover,.shdr-otro:hover{color:var(--text);}
+.shdr-logo{font-family:'DM Serif Display',serif;font-size:15px;color:rgba(255,255,255,0.3);pointer-events:none;}
+</style>
+</head>
+<body>
+
+<header id="site-hdr">
+  <a class="shdr-back" href="../index.html">← Doble Fondo</a>
+  <span class="shdr-logo">Doble Fondo</span>
+  <a class="shdr-otro" href="caso-zapatero.html">Caso Zapatero →</a>
+</header>
+
+<section id="portada">
+  <div class="portada-num">
+    Diligencias Previas · JCI Nº 6<br>
+    Registros: 26–27 mayo 2026<br>
+    Audiencia Nacional · Madrid
+  </div>
+  <div class="portada-estado">
+    <span class="dot-live"></span>
+    <span>Investigados · Instrucción abierta · Junio 2026</span>
+  </div>
+  <h1><em>Fidelidad</em><br>desde Ferraz</h1>
+  <div class="portada-bajada">
+    <p class="portada-desc">
+      El juez Pedraz (JCI nº6) investiga una trama orquestada desde la sede del PSOE para neutralizar el caso Koldo. Santos Cerdán dirige la operación; Leire Díez actúa como coordinadora ejecutiva con más de 170.000€ cobrados por la vía de sociedades de Gaspar Zarrías. Intentos de soborno a fiscales, presiones sobre la Directora General de la Guardia Civil y una fuente interna en la UCO comprometida.
+    </p>
+    <div class="portada-delitos">
+      <span class="delito-tag">— Obstrucción a la justicia (art. 464 CP)</span>
+      <span class="delito-tag">— Cohecho activo (arts. 419-426 CP)</span>
+      <span class="delito-tag">— Tráfico de influencias (arts. 428-430 CP)</span>
+      <span class="delito-tag">— Revelación de secretos (art. 417 CP)</span>
+    </div>
+  </div>
+</section>
+
+<nav id="nav">
+  <button class="nav-btn on" onclick="tab('grafo',this)">Red de relaciones</button>
+  <button class="nav-btn"    onclick="tab('crono',this)">Cronología</button>
+  <button class="nav-btn"    onclick="tab('flujos',this)">Flujos de dinero</button>
+  <button class="nav-btn"    onclick="tab('legal',this)">Marco legal</button>
+  <button class="nav-btn"    onclick="tab('changelog',this)">Fuentes</button>
+</nav>
+
+<div id="grafo-wrap" class="seccion on">
+  <div id="svg-area">
+    <div class="grafo-filtros">
+      <button class="f-btn on"  data-f="todos"      onclick="filtrar('todos',this)">Todos</button>
+      <button class="f-btn"     data-f="persona"    onclick="filtrar('persona',this)">Personas</button>
+      <button class="f-btn"     data-f="sociedad"   onclick="filtrar('sociedad',this)">Sociedades</button>
+      <button class="f-btn"     data-f="institucion"onclick="filtrar('institucion',this)">Instituciones</button>
+      <button class="f-btn"     data-f="pago"       onclick="filtrar('pago',this)">Pagos</button>
+      <button class="f-btn"     data-f="influencia" onclick="filtrar('influencia',this)">Influencia</button>
+    </div>
+    <svg id="grafo-svg"></svg>
+    <div class="grafo-ctrl">
+      <button class="ctrl" onclick="zIn()">+</button>
+      <button class="ctrl" onclick="zOut()">−</button>
+      <button class="ctrl" onclick="zReset()" title="Reset">⊙</button>
+    </div>
+    <div class="leyenda">
+      <div class="ley-titulo">Tipo de nodo</div>
+      <div class="ley-row"><div class="ley-dot" style="background:#ff3355"></div>Investigado</div>
+      <div class="ley-row"><div class="ley-dot" style="background:#4477dd"></div>Relacionado</div>
+      <div class="ley-row"><div class="ley-dot" style="background:#ffaa00"></div>Sociedad</div>
+      <div class="ley-row"><div class="ley-dot" style="background:#00cc88"></div>Institución</div>
+      <div class="ley-sep"></div>
+      <div class="ley-titulo">Tipo de enlace</div>
+      <div class="ley-row"><div class="ley-line" style="background:#2255ff"></div>Mando</div>
+      <div class="ley-row"><div class="ley-line" style="background:#ffaa00"></div>Pago</div>
+      <div class="ley-row"><div class="ley-line" style="background:#ff3355"></div>Influencia</div>
+      <div class="ley-row"><div class="ley-line" style="background:#9933ff"></div>Control</div>
+      <div class="ley-row"><div class="ley-line" style="background:#334466"></div>Operativa</div>
+    </div>
+  </div>
+  <div id="info-panel">
+    <div class="panel-inner">
+      <div class="panel-vacio">
+        <p>Haz clic en un nodo o enlace del grafo para ver el detalle y la evidencia documental</p>
+      </div>
+    </div>
+  </div>
+</div>
+
+<div id="crono-wrap" class="seccion">
+  <div class="sec-head">
+    <div class="sec-eyebrow">Cronología del caso</div>
+    <h2 class="sec-h2">De la carta<br>al registro</h2>
+    <p class="sec-sub">La secuencia documentada en el sumario, desde el punto de inflexión de abril 2024 hasta el levantamiento del secreto en junio 2026.</p>
+  </div>
+  <div class="crono-lista">
+    <div class="crono-linea"></div>
+    <div id="crono-lista"></div>
+  </div>
+</div>
+
+<div id="flujos-wrap" class="seccion">
+  <div class="sec-head">
+    <div class="sec-eyebrow">Flujos económicos</div>
+    <h2 class="sec-h2">El dinero</h2>
+    <p class="sec-sub">Pagos documentados en el sumario canalizados hacia Leire Díez a través del entramado de Gaspar Zarrías.</p>
+  </div>
+  <div id="stats-row" class="stats-row"></div>
+  <div class="sec-head" style="margin-bottom:20px">
+    <div class="sec-eyebrow">Detalle de transferencias</div>
+  </div>
+  <div class="flujos-tabla-wrap">
+    <table class="flujos-tabla">
+      <thead><tr><th>Origen</th><th>Beneficiario</th><th>Período</th><th style="text-align:right">Importe</th><th></th></tr></thead>
+      <tbody id="flujos-tbody"></tbody>
+    </table>
+  </div>
+  <div class="sec-head" style="margin-bottom:20px;margin-top:40px">
+    <div class="sec-eyebrow">Diagrama origen → beneficiario</div>
+  </div>
+  <div id="sankey-box"><svg id="sankey-svg"></svg></div>
+</div>
+
+<div id="legal-wrap" class="seccion">
+  <div class="sec-head">
+    <div class="sec-eyebrow">Marco legal</div>
+    <h2 class="sec-h2">Calificación<br>jurídica</h2>
+    <p class="sec-sub">Según el sumario del juez Pedraz (JCI nº6). Audiencia Nacional. Registros de mayo 2026.</p>
+  </div>
+  <div class="aviso">
+    <p><strong>Presunción de inocencia:</strong> El sumario describe indicios racionales, no hechos probados. Estamos en fase de instrucción. Todos los investigados son inocentes hasta sentencia firme.</p>
+  </div>
+  <div id="delitos-cont"></div>
+  <div class="estado-blk">
+    <div class="estado-tag">Estado procesal · Junio 2026</div>
+    <p class="estado-txt">El juez Pedraz levantó el secreto del sumario en junio de 2026, tras los registros en Ferraz (26/05), domicilio de Cerdán (26/05) y domicilio de Zarrías (27/05, donde se hallaron 19.850€ en efectivo). Los investigados principales están pendientes de citación para declarar como investigados. La instrucción está en curso.</p>
+  </div>
+</div>
+
+<div id="changelog-wrap" class="seccion">
+  <div class="sec-head">
+    <div class="sec-eyebrow">Trazabilidad de fuentes</div>
+    <h2 class="sec-h2">Fuentes<br>y registro</h2>
+    <p class="sec-sub">Lo que está documentado con fuente primaria y lo que no son cosas distintas. El lector sabe en todo momento de dónde viene cada dato.</p>
+  </div>
+  <div class="fuente-leyenda">
+    <div class="fuente-pill"><span class="src-badge src-periodistica"></span>Fuente periodística — información en medios, pendiente documento oficial</div>
+    <div class="fuente-pill"><span class="src-badge src-oficial"></span>Documento oficial — auto, acta, diligencias, informe</div>
+    <div class="fuente-pill"><span class="src-badge src-verificado"></span>Verificado + archivo — PDF primario disponible</div>
+  </div>
+  <div id="cl-lista"></div>
+</div>
+
+<div id="tt"></div>
+
+<div id="relacionados-wrap" style="padding:40px clamp(16px,5vw,80px) 80px;border-top:1px solid #111;">
+  <div class="sec-head">
+    <div class="sec-eyebrow">Casos relacionados</div>
+    <h2 class="sec-h2">La red<br>más amplia</h2>
+    <p class="sec-sub">Investigaciones conectadas a través de personas, patrones de conducta o estructuras comunes.</p>
+  </div>
+  <div style="display:grid;grid-template-columns:repeat(auto-fill,minmax(260px,1fr));gap:16px;margin-top:32px;">
+    <a href="caso-zapatero.html" style="display:block;text-decoration:none;border:1px solid #1a2040;padding:24px;background:#080c1a;transition:border-color .2s;" onmouseover="this.style.borderColor='#ff3355'" onmouseout="this.style.borderColor='#1a2040'">
+      <div style="font-family:'Courier Prime',monospace;font-size:10px;color:#ff3355;letter-spacing:.15em;margin-bottom:10px;">CASO ACTIVO · JCI Nº4</div>
+      <div style="font-family:'DM Serif Display',serif;font-size:20px;color:#e8e0d0;margin-bottom:8px;font-style:italic;">Red de Influencias Zapatero</div>
+      <div style="font-family:'Space Grotesk',sans-serif;font-size:13px;color:#5a6080;line-height:1.5;">Organización criminal, tráfico de influencias, apropiación indebida, falsedad documental y blanqueo. UDEF registró Ferraz 35 el 19/05/2026. Juez: Calama Teixeira.</div>
+      <div style="font-family:'Courier Prime',monospace;font-size:10px;color:#ff3355;margin-top:16px;letter-spacing:.1em;">Ver caso →</div>
+    </a>
+    <div style="border:1px solid #111;padding:24px;background:#080c1a;">
+      <div style="font-family:'Courier Prime',monospace;font-size:10px;color:#334466;letter-spacing:.15em;margin-bottom:10px;">CASO CONEXO · AN</div>
+      <div style="font-family:'DM Serif Display',serif;font-size:20px;color:#5a6080;margin-bottom:8px;font-style:italic;">Caso Koldo</div>
+      <div style="font-family:'Space Grotesk',sans-serif;font-size:13px;color:#334466;line-height:1.5;">El caso que la Operación Fidelidad intentó neutralizar. Comisiones ilegales en contratos de mascarillas vinculadas al entorno de Ábalos y el PSOE vasco.</div>
+      <div style="font-family:'Courier Prime',monospace;font-size:10px;color:#334466;margin-top:16px;letter-spacing:.1em;">Próximamente</div>
+    </div>
+    <div style="border:1px solid #111;padding:24px;background:#080c1a;">
+      <div style="font-family:'Courier Prime',monospace;font-size:10px;color:#334466;letter-spacing:.15em;margin-bottom:10px;">CASO CONEXO · AN</div>
+      <div style="font-family:'DM Serif Display',serif;font-size:20px;color:#5a6080;margin-bottom:8px;font-style:italic;">Caso Tándem / Villarejo</div>
+      <div style="font-family:'Space Grotesk',sans-serif;font-size:13px;color:#334466;line-height:1.5;">Antecedente de las técnicas de presión sobre fiscales e investigadores documentadas en este sumario. Red de espionaje privado con ramificaciones políticas.</div>
+      <div style="font-family:'Courier Prime',monospace;font-size:10px;color:#334466;margin-top:16px;letter-spacing:.1em;">Próximamente</div>
+    </div>
+  </div>
+</div>
+
+<script>
+const NODOS = [
+  {id:"cerdan",    label:"Santos\nCerdán",           tipo:"persona",    sub:"investigado", rol:"Líder estratégico de la operación. Excoordinador federal del PSOE. Director de la trama según el sumario. Domicilio registrado el 26/05/2026 simultáneamente a Ferraz."},
+  {id:"leire",     label:"Leire\nDíez",              tipo:"persona",    sub:"investigado", rol:"Coordinadora ejecutiva. Recibe 4.000€/mes + pagos extraordinarios. Total documentado: más de 170.000€. Intermediaria directa con fiscales de Anticorrupción y mandos de la Guardia Civil."},
+  {id:"zarrias",   label:"Gaspar\nZarrías",          tipo:"persona",    sub:"investigado", rol:"Exsecretario de Estado. Proporciona la consultora instrumental que canaliza los pagos a Leire Díez. Domicilio registrado el 27/05/2026: hallados 19.850€ en efectivo sin justificación."},
+  {id:"dolset",    label:"Javier Pérez\nDolset",     tipo:"persona",    sub:"investigado", rol:"Empresario vinculado a la trama. Financia parte de las operaciones y actúa como nexo con el entramado societario de la red."},
+  {id:"fuentes",   label:"Ana María\nFuentes",       tipo:"persona",    sub:"investigado", rol:"Gerente del PSOE. Papel instrumental en la coordinación interna desde Ferraz y gestión de flujos hacia la trama. Vinculada al registro de la sede."},
+  {id:"sanchez",   label:"Pedro\nSánchez",           tipo:"persona",    sub:"relacionado", rol:"Referenciado como 'el one' ×4 en el sumario. UCO interpreta (06/06/2026): 'solo podría estar efectuada al presidente del Gobierno y secretario general del partido'. Segunda agenda manuscrita intervenida: anotación 'reunión con PS' fechada 3/02/2025 y 'reunión con ZP' (nexo con caso Zapatero). La carta del 26/04/2024 detona la reunión en Ferraz que el sumario señala como punto de inflexión. Sánchez niega conocimiento. Moncloa desmiente reunión con Leire."},
+  {id:"mercedes",  label:"Mercedes\nGonzález",       tipo:"persona",    sub:"relacionado", rol:"Exdirectora General de la Guardia Civil. Objeto de presiones documentadas por parte de Leire Díez para redirigir la línea de investigación del caso Koldo."},
+  {id:"yepes",     label:"Cap. Juan Sánchez\nYepes", tipo:"persona",    sub:"relacionado", rol:"Capitán de la UCO. Expedientado por filtrar información sensible de la investigación del caso Koldo al entorno de la trama. Eslabón clave del delito de revelación de secretos."},
+  {id:"consultora",label:"Consultora\nZarrías",      tipo:"sociedad",   sub:"instrumental",rol:"Vehículo de pago controlado por Zarrías. Canaliza los 4.000€/mes a Leire Díez bajo cobertura de servicios de consultoría. Canal principal de retribución documentado en el sumario."},
+  {id:"oliver",    label:"Despacho\nIsmael Oliver",  tipo:"sociedad",   sub:"instrumental",rol:"Segundo canal de pago a Leire Díez. Complementa los pagos de la consultora de Zarrías con transferencias adicionales. Ambos canales suman más de 170.000€."},
+  {id:"ferraz",    label:"PSOE\n(Ferraz 12)",        tipo:"institucion",sub:"publica",     rol:"Sede del partido. Registrada durante 12 horas el 26/05/2026 por la Guardia Civil. Punto neurálgico de coordinación de la trama. Se incautan dispositivos, documentación y material de coordinación interna."},
+  {id:"uco",       label:"Guardia Civil\n(UCO)",     tipo:"institucion",sub:"publica",     rol:"Unidad Central Operativa. Su investigación del caso Koldo es el objeto de la maniobra de obstrucción. Fuente interna comprometida: capitán Sánchez Yepes (expedientado)."},
+  {id:"fiscal",    label:"Fiscalía\nAnticorrupción", tipo:"institucion",sub:"publica",     rol:"Objeto de intentos de soborno documentados en el sumario. Fiscales identificados como destinatarios de las aproximaciones de Leire Díez. Delito de cohecho activo."},
+];
+
+const LINKS = [
+  {s:"cerdan",   t:"leire",     tipo:"mando",     label:"Dirige la operación ejecutiva",        ev:"Cerdán aparece como director de la trama en el sumario. Leire Díez recibe instrucciones directas sobre los objetivos a neutralizar."},
+  {s:"cerdan",   t:"zarrias",   tipo:"mando",     label:"Coordina el aparato financiero",       ev:"Zarrías aporta la estructura de pago y el domicilio social de la consultora instrumental bajo instrucción de Cerdán."},
+  {s:"cerdan",   t:"ferraz",    tipo:"control",   label:"Opera desde la sede del partido",      ev:"Ferraz es el nodo de coordinación central. Domicilio de Cerdán y sede registrados simultáneamente el 26/05/2026."},
+  {s:"sanchez",  t:"cerdan",    tipo:"influencia", label:"'El one' — impulsor (×4 en sumario)", ev:"Díez referencia a Sánchez 4 veces en conversaciones intervenidas como la fuente de impulso de la operación. La carta del 26/04/2024 precede inmediatamente la reunión de Ferraz."},
+  {s:"zarrias",  t:"consultora",tipo:"control",   label:"Titular real del vehículo de pago",   ev:"La consultora está vinculada a Zarrías y opera como pantalla para los pagos mensuales a Leire Díez."},
+  {s:"consultora",t:"leire",   tipo:"pago",       label:"4.000€/mes — canal principal",        ev:"Pagos mensuales regulares documentados. Parte del total de más de 170.000€ abonados a Leire Díez por su coordinación ejecutiva."},
+  {s:"oliver",   t:"leire",    tipo:"pago",       label:"Canal complementario documentado",    ev:"El despacho de Ismael Oliver completa la retribución total a Díez junto a la consultora de Zarrías."},
+  {s:"dolset",   t:"consultora",tipo:"pago",      label:"Financiación de operaciones",         ev:"Dolset canaliza fondos hacia las sociedades instrumentales, financiando parcialmente la estructura de pago."},
+  {s:"leire",    t:"fiscal",   tipo:"operativa",  label:"Intentos de soborno documentados",    ev:"El sumario recoge aproximaciones de Díez a fiscales de Anticorrupción. Delito de cohecho activo (arts. 419-426 CP). Fiscales identificados en las diligencias."},
+  {s:"leire",    t:"mercedes", tipo:"influencia", label:"Presiones para desviar investigación GC", ev:"Mercedes González, como Directora General de la GC, fue objeto de presiones documentadas para desviar la línea de investigación del caso Koldo."},
+  {s:"leire",    t:"yepes",    tipo:"operativa",  label:"Captación de fuente interna UCO",     ev:"El capitán Sánchez Yepes filtra información sensible de la investigación al entorno de la trama. Revelación de secretos (art. 417 CP)."},
+  {s:"fuentes",  t:"ferraz",   tipo:"operativa",  label:"Coordinación interna desde Ferraz",   ev:"Fuentes, como gerente del PSOE, gestiona la coordinación interna en Ferraz. Implicada en la distribución de instrucciones de la trama."},
+];
+
+const TIMELINE = [
+  {f:"26/04/2024", t:"Carta de Sánchez — punto de inflexión", d:"Pedro Sánchez escribe la carta que activa la trama. Ese mismo día se convoca una reunión de coordinación en Ferraz con los investigados principales. El sumario la señala como el detonante de la operación.", h:true},
+  {f:"Mayo 2024",  t:"Activación de los canales de pago a Leire Díez", d:"Se consolida la estructura de retribución mensual de 4.000€ canalizada por la consultora de Zarrías y el despacho de Ismael Oliver. Leire Díez queda designada como coordinadora ejecutiva retribuida de la operación.", h:false},
+  {f:"2024",       t:"Contactos de Díez con fiscales de Anticorrupción", d:"El sumario documenta aproximaciones de Leire Díez a fiscales de la Fiscalía Anticorrupción. Los intentos de influencia quedan registrados en las diligencias. Delito de cohecho activo.", h:true},
+  {f:"2024",       t:"Presiones sobre Mercedes González, Directora General de la GC", d:"Leire Díez ejerce presiones sobre la Directora General de la Guardia Civil para desviar la línea de investigación del caso Koldo hacia objetivos inocuos para la trama.", h:true},
+  {f:"2024–2025",  t:"Capitán Sánchez Yepes filtra información a la trama", d:"El capitán de la UCO Juan Sánchez Yepes es expedientado por filtrar información sensible sobre la investigación del caso Koldo al entorno de la trama. Revelación de secretos (art. 417 CP).", h:true},
+  {f:"26/05/2026", t:"Registro de Ferraz 12 — 12 horas", d:"La Guardia Civil registra la sede del PSOE durante aproximadamente 12 horas. Se incautan dispositivos electrónicos, documentación y material relacionado con la coordinación interna de la trama.", h:true},
+  {f:"26/05/2026", t:"Registro del domicilio de Santos Cerdán", d:"Registrado simultáneamente al de Ferraz. Se recogen evidencias de la dirección estratégica de la trama desde su domicilio.", h:true},
+  {f:"27/05/2026", t:"Registro domicilio Gaspar Zarrías — 19.850€ en efectivo", d:"En el registro del domicilio de Zarrías se hallan 19.850€ en efectivo sin justificación documental. Elemento clave para acreditar el delito de cohecho.", h:true},
+  {f:"Junio 2026", t:"Sumario levantado — investigados pendientes de citación", d:"El juez Pedraz levanta el secreto del sumario. Los investigados principales quedan pendientes de citación para declarar en la Audiencia Nacional como investigados formales.", h:true},
+  {f:"05/06/2026", t:"Segunda agenda manuscrita intervenida por la UCO 🟡", d:"La UCO interviene una segunda agenda manuscrita de Leire Díez. Contiene la anotación 'reunión con PS' fechada el 3/02/2025 y 'reunión con ZP' — nexo documental directo con el caso Zapatero (JCI nº4). Fuente: periodística. Pendiente publicación del documento oficial del sumario.", h:true},
+  {f:"05/06/2026", t:"UCO interpreta 'el One' explícitamente — Cerdán como ideólogo 🟡", d:"Según fuentes periodísticas que citan a la UCO: 'el one solo podría estar efectuada al presidente del Gobierno y secretario general del partido'. Cerdán señalado como ideólogo del plan para atacar a jueces con fondos del PSOE. Sánchez niega conocimiento. Moncloa desmiente reunión con Leire. Fuente: periodística.", h:true},
+  {f:"05/06/2026", t:"Armengol bloquea comparecencia de Sánchez en el Congreso 🟡", d:"La presidenta del Congreso, Francina Armengol, bloquea la comparecencia de Pedro Sánchez para dar explicaciones sobre el caso ante la Cámara. Fuente: periodística — pendiente respuesta institucional oficial.", h:false},
+];
+
+const FLUJOS = [
+  {de:"Consultora Zarrías", a:"Leire Díez",     v:120000, yr:"2024-26"},
+  {de:"Desp. Ismael Oliver",a:"Leire Díez",     v:52000,  yr:"2024-26"},
+  {de:"Javier Pérez Dolset",a:"Consultora Z.",  v:85000,  yr:"2024-26"},
+  {de:"Gaspar Zarrías",     a:"Consultora Z.",  v:19850,  yr:"2026"},
+];
+
+const CHANGELOG = [
+  {
+    fecha:"05/06/2026", tipo:"periodistica",
+    titulo:"Segunda agenda manuscrita intervenida por UCO",
+    desc:"La UCO interviene una segunda agenda manuscrita de Leire Díez con anotaciones clave: 'reunión con PS' (fechada 3/02/2025) y 'reunión con ZP'. Este segundo documento establece un nexo documental directo con el caso Zapatero (JCI nº4, juez Calama Teixeira). La UCO interpreta explícitamente: 'el one solo podría estar efectuada al presidente del Gobierno y secretario general del partido'. Cerdán señalado como ideólogo del plan para atacar a jueces con fondos del PSOE. Sánchez niega conocimiento. Moncloa desmiente reunión con Leire.",
+    origen:"El Mundo / UCO vía medios", pdf:null
+  },
+  {
+    fecha:"05/06/2026", tipo:"periodistica",
+    titulo:"Armengol bloquea comparecencia de Sánchez en el Congreso",
+    desc:"La presidenta del Congreso, Francina Armengol, impide la comparecencia de Pedro Sánchez para dar explicaciones ante la Cámara sobre el caso.",
+    origen:"Medios / fuentes parlamentarias", pdf:null
+  },
+  {
+    fecha:"Junio 2026", tipo:"oficial",
+    titulo:"Sumario levantado — secreto del sumario suprimido por juez Pedraz",
+    desc:"El juez Santiago Pedraz levanta el secreto del sumario. Los investigados principales quedan pendientes de citación para declarar en la Audiencia Nacional como investigados formales.",
+    origen:"JCI Nº6 · Juez Santiago Pedraz", pdf:null
+  },
+  {
+    fecha:"27/05/2026", tipo:"oficial",
+    titulo:"Acta de registro domicilio Zarrías — 19.850€ en efectivo hallados",
+    desc:"La Guardia Civil registra el domicilio de Gaspar Zarrías. Se intervienen 19.850€ en efectivo sin justificación documental. Elemento clave para acreditar el delito de cohecho activo (arts. 419-426 CP).",
+    origen:"Acta de registro · JCI Nº6", pdf:null
+  },
+  {
+    fecha:"26/05/2026", tipo:"oficial",
+    titulo:"Registro Ferraz 12 — sede del PSOE durante 12 horas",
+    desc:"La Guardia Civil registra la sede del PSOE durante aproximadamente 12 horas. Se incautan dispositivos electrónicos, documentación y material de coordinación interna de la trama.",
+    origen:"Acta de registro · JCI Nº6", pdf:null
+  },
+  {
+    fecha:"26/05/2026", tipo:"oficial",
+    titulo:"Registro del domicilio de Santos Cerdán",
+    desc:"Registrado simultáneamente al de Ferraz. Recoge evidencias de la dirección estratégica de la trama. Cerdán queda formalmente investigado.",
+    origen:"Acta de registro · JCI Nº6", pdf:null
+  },
+  {
+    fecha:"26/04/2024", tipo:"oficial",
+    titulo:"Carta de Sánchez — punto de inflexión documentado en sumario",
+    desc:"El sumario señala la carta de Pedro Sánchez del 26/04/2024 como el detonante de la operación. Ese mismo día se convoca reunión de coordinación en Ferraz con los investigados principales.",
+    origen:"Sumario · JCI Nº6 · Juez Pedraz", pdf:null
+  },
+];
+
+const C_NODO = n => {
+  if(n.tipo==="institucion") return "#00cc88";
+  if(n.tipo==="persona") return n.sub==="investigado" ? "#ff3355" : "#4477dd";
+  if(n.sub==="cliente")  return "#9933ff";
+  return "#ffaa00";
+};
+
+const C_LINK = {
+  mando:"#2255ff", pago:"#ffaa00", influencia:"#ff3355",
+  control:"#9933ff", operativa:"#334466", inter:"#00cc88"
+};
+
+let svg, sim, zoom, gEl;
+
+function initGrafo(){
+  const area=document.getElementById("svg-area");
+  const W=area.clientWidth, H=area.clientHeight||window.innerHeight*0.65;
+  svg=d3.select("#grafo-svg"); svg.selectAll("*").remove();
+  const defs=svg.append("defs");
+  const fl=defs.append("filter").attr("id","glow").attr("x","-50%").attr("y","-50%").attr("width","200%").attr("height","200%");
+  fl.append("feGaussianBlur").attr("stdDeviation","4").attr("result","blur");
+  const fm=fl.append("feMerge"); fm.append("feMergeNode").attr("in","blur"); fm.append("feMergeNode").attr("in","SourceGraphic");
+  Object.entries(C_LINK).forEach(([k,c])=>{
+    defs.append("marker").attr("id","arr-"+k).attr("viewBox","0 -4 8 8").attr("refX",18).attr("refY",0).attr("markerWidth",5).attr("markerHeight",5).attr("orient","auto")
+      .append("path").attr("d","M0,-4L8,0L0,4").attr("fill",c).attr("opacity",0.7);
+  });
+  zoom=d3.zoom().scaleExtent([0.1,4]).on("zoom",e=>gEl.attr("transform",e.transform));
+  svg.call(zoom);
+  gEl=svg.append("g");
+  const nodes=NODOS.map(n=>({...n}));
+  const links=LINKS.map(l=>({...l,source:l.s,target:l.t}));
+  const central=nodes.find(n=>n.id==="leire");
+  if(central){central.fx=W/2;central.fy=H/2;}
+  sim=d3.forceSimulation(nodes)
+    .force("link",d3.forceLink(links).id(d=>d.id).distance(d=>d.tipo==="mando"?130:d.tipo==="pago"?190:160).strength(0.35))
+    .force("charge",d3.forceManyBody().strength(-520))
+    .force("center",d3.forceCenter(W/2,H/2).strength(0.04))
+    .force("collide",d3.forceCollide(46))
+    .alphaDecay(0.025);
+  const lG=gEl.append("g");
+  const lEls=lG.selectAll("line").data(links).enter().append("line")
+    .attr("stroke",d=>C_LINK[d.tipo]||"#334466").attr("stroke-width",d=>d.tipo==="pago"?2:1.5)
+    .attr("stroke-opacity",0.55).attr("marker-end",d=>`url(#arr-${d.tipo})`)
+    .style("cursor","pointer")
+    .on("click",(e,d)=>{e.stopPropagation();showLink(d);})
+    .on("mouseenter",(e,d)=>tip(d.label)).on("mouseleave",()=>hideTip());
+  const nG=gEl.append("g");
+  const nEls=nG.selectAll("g.nd").data(nodes).enter().append("g").attr("class","nd")
+    .style("cursor","pointer")
+    .call(d3.drag()
+      .on("start",(e,d)=>{if(!e.active)sim.alphaTarget(0.3).restart();d.fx=d.x;d.fy=d.y;})
+      .on("drag",(e,d)=>{d.fx=e.x;d.fy=e.y;})
+      .on("end",(e,d)=>{if(!e.active)sim.alphaTarget(0);d.fx=null;d.fy=null;}))
+    .on("click",(e,d)=>{e.stopPropagation();showNode(d,links,nodes);})
+    .on("mouseenter",(e,d)=>tip(d.label.replace(/\n/g," "))).on("mouseleave",()=>hideTip());
+  nEls.filter(d=>d.sub==="investigado").append("circle").attr("r",28).attr("fill","none")
+    .attr("stroke",d=>C_NODO(d)).attr("stroke-width",1).attr("stroke-opacity",0.25).attr("filter","url(#glow)");
+  nEls.append("circle")
+    .attr("r",d=>d.id==="leire"?26:d.sub==="investigado"?20:d.tipo==="sociedad"?16:15)
+    .attr("fill",d=>d.id==="leire"?C_NODO(d):"rgba(13,15,26,0.95)")
+    .attr("stroke",d=>C_NODO(d)).attr("stroke-width",d=>d.id==="leire"?0:2);
+  nEls.each(function(d){
+    const r=d.id==="leire"?26:d.sub==="investigado"?20:16;
+    const lines=d.label.split("\n");
+    const g2=d3.select(this);
+    const t=g2.append("text").attr("text-anchor","middle").attr("dy",r+13)
+      .attr("fill","#d4d8f0").attr("font-family","'Space Grotesk',sans-serif")
+      .attr("font-size",d.id==="leire"?"10px":"8.5px").attr("font-weight",d.sub==="investigado"?"500":"400");
+    lines.forEach((ln,i)=>{ t.append("tspan").attr("x",0).attr("dy",i===0?0:"1.2em").text(ln); });
+  });
+  sim.on("tick",()=>{
+    lEls.attr("x1",d=>d.source.x).attr("y1",d=>d.source.y).attr("x2",d=>d.target.x).attr("y2",d=>d.target.y);
+    nEls.attr("transform",d=>`translate(${d.x},${d.y})`);
+  });
+  setTimeout(()=>{if(central){central.fx=null;central.fy=null;}sim.alpha(0.3).restart();},2200);
+}
+
+function showNode(d,links,nodes){
+  history.replaceState(null,'','#nodo='+d.id);
+  const out=links.filter(l=>l.s===d.id), inn=links.filter(l=>l.t===d.id);
+  let html=`<div class="panel-chip">${d.tipo} · ${d.sub}</div><div class="panel-nombre">${d.label.replace(/\n/g," ")}</div><div class="panel-rol">${d.rol}</div>`;
+  const renderConns=(arr,dir)=>{
+    if(!arr.length)return"";
+    let h=`<div class="conn-titulo">${dir} (${arr.length})</div>`;
+    arr.forEach(c=>{
+      const otro=nodes.find(n=>n.id===(dir==="Salientes"?c.t:c.s));
+      const col=C_LINK[c.tipo]||"#334466";
+      h+=`<div class="conn-item" style="border-left-color:${col}"><div class="conn-label">${c.label}</div><div class="conn-nodo">${dir==="Salientes"?"→":"←"} ${otro?otro.label.replace(/\n/g," "):""}</div></div><div class="evidencia">${c.ev}</div>`;
+    });
+    return h;
+  };
+  html+=renderConns(out,"Salientes")+renderConns(inn,"Entrantes");
+  document.getElementById("info-panel").querySelector(".panel-inner").innerHTML=html;
+}
+
+function showLink(d){
+  const src=NODOS.find(n=>n.id===d.s), tgt=NODOS.find(n=>n.id===d.t);
+  document.getElementById("info-panel").querySelector(".panel-inner").innerHTML=`
+    <div class="panel-chip">Conexión · ${d.tipo}</div>
+    <div class="panel-nombre">${d.label}</div>
+    <div class="panel-rol">De: <strong>${src?src.label.replace(/\n/g," "):d.s}</strong><br>A: <strong>${tgt?tgt.label.replace(/\n/g," "):d.t}</strong></div>
+    <div class="conn-titulo">Evidencia del sumario</div>
+    <div class="evidencia">${d.ev}</div>`;
+}
+
+function filtrar(tipo,btn){
+  document.querySelectorAll(".f-btn").forEach(b=>b.classList.remove("on")); btn.classList.add("on");
+  gEl.selectAll(".nd").style("opacity",d=>{
+    if(tipo==="todos"||tipo==="pago"||tipo==="influencia")return 1;
+    return d.tipo===tipo?1:0.08;
+  });
+  gEl.selectAll("line").style("opacity",d=>{
+    if(tipo==="todos")return 0.55;
+    if(tipo==="pago")return d.tipo==="pago"?0.7:0.04;
+    if(tipo==="influencia")return d.tipo==="influencia"?0.9:0.04;
+    const s=NODOS.find(n=>n.id===d.s), t=NODOS.find(n=>n.id===d.t);
+    return (s?.tipo===tipo||t?.tipo===tipo)?0.6:0.04;
+  });
+}
+
+function zIn(){ svg.transition().call(zoom.scaleBy,1.35); }
+function zOut(){ svg.transition().call(zoom.scaleBy,0.72); }
+function zReset(){
+  const a=document.getElementById("svg-area");
+  svg.transition().call(zoom.transform,d3.zoomIdentity.translate(a.clientWidth/2,(a.clientHeight||window.innerHeight*.65)/2).scale(0.6));
+}
+
+const ttEl=document.getElementById("tt");
+function tip(txt){ ttEl.style.display="block"; ttEl.textContent=txt; }
+function hideTip(){ ttEl.style.display="none"; }
+document.addEventListener("mousemove",e=>{ ttEl.style.left=(e.clientX+14)+"px"; ttEl.style.top=(e.clientY-28)+"px"; });
+
+function buildCrono(){
+  const c=document.getElementById("crono-lista");
+  TIMELINE.forEach((item,i)=>{
+    const d=document.createElement("div");
+    d.className="crono-item"+(item.h?" hito":"");
+    d.style.animationDelay=`${i*0.035}s`;
+    d.innerHTML=`<div class="crono-fecha">${item.f}</div><div class="crono-titulo">${item.t}</div><div class="crono-desc">${item.d}</div>`;
+    c.appendChild(d);
+  });
+}
+
+function fmt(n){ return "€"+n.toLocaleString("es-ES"); }
+
+function buildFlujos(){
+  const stats=[
+    {label:"Total recibido por Leire Díez", v:172000, sub:"Canal Zarrías (120k€) + Ismael Oliver (52k€)", c:"#ff3355"},
+    {label:"Efectivo hallado en Zarrías",   v:19850,  sub:"Sin justificación documental. Registrado 27/05/2026", c:"#ffaa00"},
+    {label:"Financiación Pérez Dolset",     v:85000,  sub:"A la consultora de Zarrías para operaciones", c:"#9933ff"},
+    {label:"Retribución mensual fija",      v:4000,   sub:"4.000€/mes via consultora de Zarrías", c:"#2255ff"},
+  ];
+  const row=document.getElementById("stats-row");
+  stats.forEach(s=>{
+    const d=document.createElement("div"); d.className="stat-card"; d.style.setProperty("--c",s.c);
+    d.innerHTML=`<div class="stat-label">${s.label}</div><div class="stat-num">${fmt(s.v)}</div><div class="stat-sub">${s.sub}</div>`;
+    row.appendChild(d);
+  });
+  const mx=Math.max(...FLUJOS.map(f=>f.v));
+  const tbody=document.getElementById("flujos-tbody");
+  FLUJOS.forEach(f=>{
+    const pct=Math.round(f.v/mx*100);
+    const tr=document.createElement("tr");
+    tr.innerHTML=`<td class="td-de">${f.de}</td><td class="td-a">${f.a}</td><td class="td-año">${f.yr}</td><td class="td-eur">${fmt(f.v)}</td><td class="td-barra-wrap"><div class="td-barra"><div class="td-barra-fill" style="width:${pct}%"></div></div></td>`;
+    tbody.appendChild(tr);
+  });
+  buildSankey();
+}
+
+function buildSankey(){
+  const svg2=d3.select("#sankey-svg");
+  const box=document.getElementById("sankey-box");
+  const W=Math.max(box.clientWidth-64,640), H=280;
+  svg2.attr("width",W).attr("height",H);
+  const g=svg2.append("g");
+  const cols=[
+    ["Javier Pérez Dolset","Gaspar Zarrías"],
+    ["Consultora Zarrías","Desp. Ismael Oliver"],
+    ["Leire Díez"],
+  ];
+  const nW=130, nH=26, colX=[0,W/2-nW/2,W-nW];
+  const pos={};
+  cols.forEach((col,ci)=>{
+    const gap=18, tot=col.length*(nH+gap);
+    let y=(H-tot)/2;
+    col.forEach(nm=>{ pos[nm]={x:colX[ci],y,w:nW,h:nH,ci}; y+=nH+gap; });
+  });
+  const flows2=[
+    {de:"Javier Pérez Dolset",a:"Consultora Zarrías",v:85000},
+    {de:"Gaspar Zarrías",a:"Consultora Zarrías",v:19850},
+    {de:"Consultora Zarrías",a:"Leire Díez",v:120000},
+    {de:"Desp. Ismael Oliver",a:"Leire Díez",v:52000},
+  ];
+  flows2.forEach(f=>{
+    const s=pos[f.de],t=pos[f.a];
+    if(!s||!t)return;
+    const sw=Math.max(2,Math.log(f.v/2000+1)*3.5);
+    const isEnd=t.ci===2;
+    const x1=s.x+nW,y1=s.y+nH/2,x2=t.x,y2=t.y+nH/2,mx2=(x1+x2)/2;
+    g.append("path").attr("d",`M${x1},${y1}C${mx2},${y1} ${mx2},${y2} ${x2},${y2}`)
+      .attr("fill","none").attr("stroke",isEnd?"#ff3355":"#ffaa00")
+      .attr("stroke-width",sw).attr("stroke-opacity",0.32);
+  });
+  Object.entries(pos).forEach(([nm,p])=>{
+    g.append("rect").attr("x",p.x).attr("y",p.y).attr("width",p.w).attr("height",p.h)
+      .attr("fill","#0d0f1a").attr("stroke","rgba(255,255,255,0.12)").attr("stroke-width",1);
+    g.append("text").attr("x",p.x+p.w/2).attr("y",p.y+p.h/2+4).attr("text-anchor","middle")
+      .attr("fill","#d4d8f0").attr("font-family","'Space Grotesk',sans-serif").attr("font-size","10px").text(nm);
+  });
+  ["Financiadores","Estructura de pago","Beneficiaria"].forEach((lb,i)=>{
+    g.append("text").attr("x",colX[i]+nW/2).attr("y",16).attr("text-anchor","middle")
+      .attr("fill","#5a6080").attr("font-family","'Space Grotesk',sans-serif")
+      .attr("font-size","9px").attr("letter-spacing","0.12em").text(lb.toUpperCase());
+  });
+}
+
+function buildLegal(){
+  const delitos=[
+    {
+      n:"Obstrucción a la justicia",
+      art:"Art. 464 Código Penal",
+      d:"El tipo protege el correcto funcionamiento de la administración de justicia. Se consuma mediante actos de presión, influencia indebida o captación de fuentes que tengan por objeto desviar, entorpecer o frustrar una investigación judicial en curso.",
+      els:["Actos encaminados a influir en el funcionamiento de una investigación oficial",
+           "Presiones sobre fiscales: cohecho activo para condicionar actuaciones procesales",
+           "Captación de fuente interna (UCO) para acceso a información reservada de la investigación",
+           "Presiones sobre la Directora General de la GC para redirigir la línea de investigación"]
+    },
+    {
+      n:"Cohecho activo",
+      art:"Arts. 419-426 Código Penal",
+      d:"Consiste en ofrecer o entregar a una autoridad o funcionario ventajas o beneficios con la finalidad de que actúe o se abstenga de actuar en determinado sentido. En este caso el sumario documenta aproximaciones a fiscales de Anticorrupción para condicionar su actuación.",
+      els:["Oferta o entrega de ventajas a fiscales de la Fiscalía Anticorrupción",
+           "Finalidad de condicionar actuaciones en el marco de la investigación del caso Koldo",
+           "19.850€ en efectivo hallados en domicilio de Zarrías sin justificación",
+           "Pagos sistemáticos a Leire Díez como coordinadora de las operaciones de cohecho"]
+    },
+    {
+      n:"Tráfico de influencias",
+      art:"Arts. 428-430 Código Penal",
+      d:"Delito de mera actividad: basta con el intento de influir mediante relaciones personales o posición de poder. No requiere que la resolución perseguida llegue a producirse. Santos Cerdán, como excoordinador federal del PSOE, utiliza su posición para ejercer presión.",
+      els:["Influencia ejercida mediante la posición de Cerdán en el PSOE",
+           "Orientada a obtener resoluciones favorables en la investigación del caso Koldo",
+           "Uso de intermediarios para distanciar al impulsor de los actos de presión",
+           "Referencia a 'el one' (Sánchez) ×4 como fuente de respaldo de la operación"]
+    },
+    {
+      n:"Revelación de secretos",
+      art:"Art. 417 Código Penal",
+      d:"Cometido por funcionario público que revela información confidencial obtenida en el ejercicio de sus funciones. El capitán Sánchez Yepes, de la UCO, filtra información reservada de la investigación al entorno de la trama.",
+      els:["Funcionario público con acceso privilegiado a información reservada",
+           "Revelación deliberada de secretos de una investigación oficial en curso",
+           "Información destinada a beneficiar a los investigados de la trama",
+           "Expediente disciplinario al capitán Sánchez Yepes por las filtraciones"]
+    }
+  ];
+  const c=document.getElementById("delitos-cont");
+  delitos.forEach(d=>{
+    const div=document.createElement("div"); div.className="delito-blk";
+    div.innerHTML=`<div class="delito-n">${d.n}</div><div class="delito-art">${d.art}</div><div class="delito-desc">${d.d}</div>
+      <div class="elem-lista">${d.els.map((e,i)=>`<div class="elem"><span class="elem-n">0${i+1}</span><span>${e}</span></div>`).join("")}</div>`;
+    c.appendChild(div);
+  });
+}
+
+function buildChangelog(){
+  const tipoInfo = {
+    periodistica:{ label:"Fuente periodística", cls:"cl-p" },
+    oficial:{ label:"Documento oficial", cls:"cl-o" },
+    verificado:{ label:"Verificado + archivo", cls:"cl-v" }
+  };
+  const dotCls = { periodistica:"src-periodistica", oficial:"src-oficial", verificado:"src-verificado" };
+  const lista = document.getElementById("cl-lista");
+  CHANGELOG.forEach(e => {
+    const info = tipoInfo[e.tipo];
+    const d = document.createElement("div");
+    d.className = "cl-entry " + info.cls;
+    d.innerHTML = `
+      <div class="cl-meta">
+        <span class="cl-fecha">${e.fecha}</span>
+        <span class="src-badge ${dotCls[e.tipo]}"></span>
+        <span class="cl-tipo">${info.label}</span>
+      </div>
+      <div class="cl-titulo">${e.titulo}</div>
+      <div class="cl-desc">${e.desc}</div>
+      <div class="cl-origen">Fuente: ${e.origen}${e.pdf ? ` · <a href="${e.pdf}" target="_blank">Ver documento →</a>` : " · Pendiente archivo primario"}</div>`;
+    lista.appendChild(d);
+  });
+}
+
+function tab(id,btn){
+  document.querySelectorAll(".nav-btn").forEach(b=>b.classList.remove("on")); btn.classList.add("on");
+  document.querySelectorAll(".seccion").forEach(s=>{ s.classList.remove("on"); if(s.id==="grafo-wrap")s.style.display="none"; });
+  const s=document.getElementById(id==="grafo"?"grafo-wrap":id+"-wrap");
+  s.classList.add("on"); if(id==="grafo")s.style.display="flex";
+}
+
+window.addEventListener("DOMContentLoaded",()=>{
+  initGrafo(); buildCrono(); buildFlujos(); buildLegal(); buildChangelog();
+  const hm=window.location.hash.match(/^#nodo=(.+)$/);
+  if(hm){
+    const nd=NODOS.find(n=>n.id===hm[1]);
+    if(nd) setTimeout(()=>showNode(nd,LINKS,NODOS),2000);
+  }
+  window.addEventListener("resize",()=>{
+    if(document.getElementById("grafo-wrap").classList.contains("on")) initGrafo();
+  });
+});
+</script>
+</body>
+</html>

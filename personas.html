@@ -1,0 +1,587 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Personas — Doble Fondo</title>
+<link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@300;400;500;600;700&family=DM+Serif+Display:ital@0;1&family=Courier+Prime:ital,wght@0,400;0,700;1,400&display=swap" rel="stylesheet">
+<style>
+* { margin:0; padding:0; box-sizing:border-box; }
+:root {
+  --bg:#07080f; --surface:#0d0f1a; --border:rgba(255,255,255,0.07);
+  --zap:#2255ff; --lei:#ff3355; --amber:#ffaa00; --green:#00cc88;
+  --text:#d4d8f0; --muted:#5a6080;
+}
+html { scroll-behavior:smooth; }
+body { background:var(--bg); color:var(--text); font-family:'Space Grotesk',sans-serif; overflow-x:hidden; min-height:100vh; }
+
+/* ── SITE HEADER ── */
+#site-hdr{background:rgba(7,8,15,0.97);backdrop-filter:blur(12px);border-bottom:1px solid var(--border);display:flex;align-items:center;justify-content:space-between;padding:0 clamp(16px,4vw,48px);height:48px;position:sticky;top:0;z-index:100;}
+.shdr-back{color:var(--muted);text-decoration:none;font-family:'Courier Prime',monospace;font-size:11px;letter-spacing:.08em;transition:color .2s;}
+.shdr-back:hover{color:var(--text);}
+.shdr-logo{font-family:'DM Serif Display',serif;font-size:15px;color:rgba(255,255,255,0.3);pointer-events:none;}
+
+/* ── HERO ── */
+.per-hero{padding:clamp(40px,6vw,80px) clamp(24px,5vw,64px) clamp(24px,4vw,48px);border-bottom:1px solid var(--border);}
+.per-eye{font-family:'Courier Prime',monospace;font-size:10px;letter-spacing:.25em;text-transform:uppercase;color:var(--muted);margin-bottom:16px;}
+h1{font-family:'DM Serif Display',serif;font-size:clamp(40px,7vw,80px);line-height:.95;letter-spacing:-.02em;color:#fff;margin-bottom:20px;}
+h1 em{font-style:italic;}
+.per-sub{font-size:clamp(13px,1.7vw,15px);color:var(--muted);line-height:1.8;font-weight:300;max-width:540px;margin-bottom:32px;}
+.per-stat{display:flex;gap:32px;flex-wrap:wrap;}
+.ps-item{display:flex;flex-direction:column;gap:2px;}
+.ps-n{font-family:'DM Serif Display',serif;font-size:clamp(24px,4vw,36px);color:#fff;}
+.ps-l{font-family:'Courier Prime',monospace;font-size:10px;letter-spacing:.12em;text-transform:uppercase;color:var(--muted);}
+.ps-n.zap{color:var(--zap);} .ps-n.lei{color:var(--lei);}
+
+/* ── CONTROLES ── */
+.per-ctrl{display:flex;align-items:center;gap:12px;flex-wrap:wrap;padding:clamp(16px,3vw,28px) clamp(24px,5vw,64px);border-bottom:1px solid var(--border);background:rgba(7,8,15,0.6);position:sticky;top:48px;z-index:90;backdrop-filter:blur(8px);}
+#search-input{background:var(--surface);border:1px solid var(--border);color:var(--text);font-family:'Courier Prime',monospace;font-size:12px;padding:8px 14px;width:200px;outline:none;transition:border-color .2s;}
+#search-input::placeholder{color:var(--muted);}
+#search-input:focus{border-color:rgba(255,255,255,0.2);}
+.filter-btn{background:none;border:1px solid var(--border);color:var(--muted);font-family:'Courier Prime',monospace;font-size:10px;letter-spacing:.1em;text-transform:uppercase;padding:6px 14px;cursor:pointer;transition:all .2s;}
+.filter-btn:hover{border-color:rgba(255,255,255,0.2);color:var(--text);}
+.filter-btn.on{background:rgba(255,255,255,0.06);border-color:rgba(255,255,255,0.2);color:#fff;}
+.filter-btn.on.fzap{background:rgba(34,85,255,0.1);border-color:rgba(34,85,255,0.35);color:var(--zap);}
+.filter-btn.on.flei{background:rgba(255,51,85,0.1);border-color:rgba(255,51,85,0.35);color:var(--lei);}
+#per-count{font-family:'Courier Prime',monospace;font-size:10px;color:var(--muted);margin-left:auto;letter-spacing:.05em;}
+
+/* ── NEXO SECTION ── */
+.nexo-sec{padding:clamp(28px,4vw,48px) clamp(24px,5vw,64px);border-bottom:1px solid var(--border);background:linear-gradient(135deg,rgba(153,51,255,0.03),transparent);}
+.nexo-eye{font-family:'Courier Prime',monospace;font-size:10px;letter-spacing:.2em;text-transform:uppercase;color:#9933ff;margin-bottom:20px;}
+.nexo-h2{font-family:'DM Serif Display',serif;font-size:clamp(20px,3vw,28px);color:#fff;margin-bottom:24px;}
+.nexo-cards{display:grid;grid-template-columns:repeat(auto-fit,minmax(280px,1fr));gap:12px;}
+.nexo-card{background:rgba(153,51,255,0.05);border:1px solid rgba(153,51,255,0.15);padding:20px 22px;}
+.nc-badge{font-family:'Courier Prime',monospace;font-size:9px;letter-spacing:.18em;text-transform:uppercase;color:#9933ff;margin-bottom:10px;}
+.nc-name{font-family:'DM Serif Display',serif;font-size:20px;color:#fff;margin-bottom:8px;line-height:1.2;}
+.nc-desc{font-size:12px;color:var(--muted);line-height:1.7;font-weight:300;}
+.nc-links{display:flex;gap:12px;flex-wrap:wrap;margin-top:14px;}
+.nc-link{font-family:'Courier Prime',monospace;font-size:10px;letter-spacing:.08em;text-decoration:none;padding:4px 10px;border:1px solid;transition:opacity .2s;}
+.nc-link:hover{opacity:.7;}
+.nc-link.zap{color:var(--zap);border-color:rgba(34,85,255,0.35);}
+.nc-link.lei{color:var(--lei);border-color:rgba(255,51,85,0.35);}
+
+/* ── MAIN GRID ── */
+.per-main{padding:clamp(24px,4vw,48px) clamp(24px,5vw,64px);}
+.per-section-label{font-family:'Courier Prime',monospace;font-size:10px;letter-spacing:.2em;text-transform:uppercase;color:var(--muted);margin-bottom:16px;margin-top:32px;padding-bottom:8px;border-bottom:1px solid var(--border);}
+.per-section-label:first-child{margin-top:0;}
+.per-grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(280px,1fr));gap:12px;margin-bottom:8px;}
+
+/* ── CARD ── */
+.p-card{background:var(--surface);border:1px solid var(--border);padding:18px 20px;transition:border-color .2s;display:flex;flex-direction:column;gap:10px;}
+.p-card:hover{border-color:rgba(255,255,255,0.14);}
+.p-card[data-nexo="true"]{border-color:rgba(153,51,255,0.2);}
+.pc-tags{display:flex;align-items:center;gap:6px;flex-wrap:wrap;}
+.pc-caso{font-family:'Courier Prime',monospace;font-size:9px;letter-spacing:.14em;text-transform:uppercase;padding:2px 8px;border-radius:1px;}
+.pc-caso.zap{background:rgba(34,85,255,0.1);color:var(--zap);border:1px solid rgba(34,85,255,0.2);}
+.pc-caso.lei{background:rgba(255,51,85,0.1);color:var(--lei);border:1px solid rgba(255,51,85,0.2);}
+.pc-sub{font-family:'Courier Prime',monospace;font-size:9px;letter-spacing:.12em;text-transform:uppercase;color:var(--muted);}
+.pc-sub.inv{color:var(--amber);}
+.pc-name{font-family:'DM Serif Display',serif;font-size:clamp(17px,2vw,21px);color:#fff;line-height:1.2;}
+.pc-rol{font-size:12px;color:var(--muted);line-height:1.7;font-weight:300;display:-webkit-box;-webkit-line-clamp:3;-webkit-box-orient:vertical;overflow:hidden;}
+.pc-foot{display:flex;align-items:center;justify-content:space-between;margin-top:auto;padding-top:10px;border-top:1px solid var(--border);}
+.pc-link{font-family:'Courier Prime',monospace;font-size:10px;letter-spacing:.06em;text-decoration:none;color:var(--muted);transition:color .2s;}
+.pc-link:hover{color:var(--text);}
+.pc-link.zap:hover{color:var(--zap);}
+.pc-link.lei:hover{color:var(--lei);}
+
+/* ── NO RESULTS ── */
+#no-results{display:none;text-align:center;padding:64px 24px;color:var(--muted);font-family:'Courier Prime',monospace;font-size:13px;letter-spacing:.04em;}
+
+/* ── FOOTER ── */
+footer{border-top:1px solid var(--border);padding:clamp(24px,4vw,40px) clamp(24px,5vw,64px);display:flex;justify-content:space-between;align-items:center;flex-wrap:wrap;gap:16px;margin-top:32px;}
+.footer-logo{font-family:'DM Serif Display',serif;font-size:18px;color:#fff;text-decoration:none;}
+.footer-copy{font-family:'Courier Prime',monospace;font-size:10px;color:var(--muted);letter-spacing:.1em;}
+
+@media(max-width:640px){
+  .per-ctrl{top:48px;}
+  .per-grid{grid-template-columns:1fr;}
+  .nexo-cards{grid-template-columns:1fr;}
+  #search-input{width:100%;}
+}
+@keyframes grain{0%{transform:translate(0,0)}14%{transform:translate(-4%,-10%)}28%{transform:translate(8%,6%)}42%{transform:translate(-9%,14%)}56%{transform:translate(5%,-8%)}70%{transform:translate(-12%,3%)}85%{transform:translate(6%,-15%)}100%{transform:translate(-3%,10%)}}
+</style>
+</head>
+<body>
+
+<header id="site-hdr">
+  <a class="shdr-back" href="index.html">← Doble Fondo</a>
+  <span class="shdr-logo">Doble Fondo</span>
+  <span></span>
+</header>
+
+<!-- HERO -->
+<div class="per-hero">
+  <div class="per-eye">Índice de personas</div>
+  <h1>Quién es quién<br>en <em style="color:var(--amber)">Doble Fondo</em></h1>
+  <p class="per-sub">Todas las personas documentadas en los expedientes activos. Las marcadas como nexo aparecen en más de un caso o son el vínculo explícito entre sumarios.</p>
+  <div class="per-stat">
+    <div class="ps-item"><span class="ps-n">9</span><span class="ps-l">Investigados</span></div>
+    <div class="ps-item"><span class="ps-n zap">4</span><span class="ps-l">Caso Zapatero</span></div>
+    <div class="ps-item"><span class="ps-n lei">5</span><span class="ps-l">Caso Leire Díez</span></div>
+    <div class="ps-item"><span class="ps-n" style="color:#9933ff">3</span><span class="ps-l">Nexo entre casos</span></div>
+  </div>
+</div>
+
+<!-- FILTROS -->
+<div class="per-ctrl">
+  <input type="text" id="search-input" placeholder="Buscar por nombre…" oninput="applyFilter()">
+  <button class="filter-btn on" data-f="todos" onclick="setFilter(this)">Todos</button>
+  <button class="filter-btn fzap" data-f="zap" onclick="setFilter(this)">Caso Zapatero</button>
+  <button class="filter-btn flei" data-f="lei" onclick="setFilter(this)">Caso Leire Díez</button>
+  <button class="filter-btn" data-f="investigado" onclick="setFilter(this)">Investigados</button>
+  <button class="filter-btn" data-f="relacionado" onclick="setFilter(this)">Relacionados</button>
+  <span id="per-count"></span>
+</div>
+
+<!-- NEXO -->
+<section class="nexo-sec" id="nexo-sec">
+  <div class="nexo-eye">Nexo documental entre casos</div>
+  <div class="nexo-h2">Tres personas que unen<br>los dos sumarios</div>
+  <div class="nexo-cards">
+    <div class="nexo-card">
+      <div class="nc-badge">Nexo 01 · Agenda manuscrita</div>
+      <div class="nc-name">José Luis Rodríguez Zapatero</div>
+      <div class="nc-desc">Principal investigado en el Caso Zapatero. Su nombre aparece en la segunda agenda manuscrita intervenida a Leire Díez: "reunión con ZP" — nexo documental directo entre ambos sumarios. Investigado en JCI Nº4.</div>
+      <div class="nc-links">
+        <a class="nc-link zap" href="casos/caso-zapatero.html#nodo=zapatero">Ver en Caso Zapatero →</a>
+      </div>
+    </div>
+    <div class="nexo-card">
+      <div class="nc-badge">Nexo 02 · Investigación obstruida</div>
+      <div class="nc-name">Koldo García Izaguirre</div>
+      <div class="nc-desc">Relacionado en el Caso Zapatero (contacto de Palomero / Ministerio de Transportes). Su investigación — el Caso Koldo — es el objeto de la maniobra de obstrucción del sumario de Leire Díez. Une a la UCO con ambos expedientes.</div>
+      <div class="nc-links">
+        <a class="nc-link zap" href="casos/caso-zapatero.html#nodo=koldo">Ver en Caso Zapatero →</a>
+      </div>
+    </div>
+    <div class="nexo-card">
+      <div class="nc-badge">Nexo 03 · "El One"</div>
+      <div class="nc-name">Pedro Sánchez</div>
+      <div class="nc-desc">Aparece como "el one" ×4 en el sumario de Leire Díez. La UCO interpreta (06/06/2026): "solo podría estar efectuada al presidente del Gobierno". Segunda agenda incluye "reunión con PS" (3/02/2025) y "reunión con ZP" — nexo directo con el Caso Zapatero.</div>
+      <div class="nc-links">
+        <a class="nc-link lei" href="casos/caso-leire-diez.html#nodo=sanchez">Ver en Caso Leire Díez →</a>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- GRID PRINCIPAL -->
+<main class="per-main" id="per-main">
+
+  <div class="per-section-label">Investigados formales — 9 personas</div>
+  <div class="per-grid" id="grid-inv">
+
+    <!-- ─── LEIRE: INVESTIGADOS ─── -->
+    <article class="p-card" data-caso="lei" data-sub="investigado" data-nexo="false" data-search="santos cerdan investigado">
+      <div class="pc-tags">
+        <span class="pc-caso lei">Leire Díez</span>
+        <span class="pc-sub inv">Investigado</span>
+      </div>
+      <div class="pc-name">Santos Cerdán</div>
+      <div class="pc-rol">Líder estratégico de la operación. Excoordinador federal del PSOE. Director de la trama según el sumario. Domicilio registrado el 26/05/2026 simultáneamente a Ferraz.</div>
+      <div class="pc-foot">
+        <a class="pc-link lei" href="casos/caso-leire-diez.html#nodo=cerdan">Ver en grafo →</a>
+      </div>
+    </article>
+
+    <article class="p-card" data-caso="lei" data-sub="investigado" data-nexo="false" data-search="leire diez investigado">
+      <div class="pc-tags">
+        <span class="pc-caso lei">Leire Díez</span>
+        <span class="pc-sub inv">Investigada</span>
+      </div>
+      <div class="pc-name">Leire Díez</div>
+      <div class="pc-rol">Coordinadora ejecutiva. Recibe 4.000€/mes + pagos extraordinarios. Total documentado: más de 170.000€. Intermediaria directa con fiscales de Anticorrupción y mandos de la Guardia Civil.</div>
+      <div class="pc-foot">
+        <a class="pc-link lei" href="casos/caso-leire-diez.html#nodo=leire">Ver en grafo →</a>
+      </div>
+    </article>
+
+    <article class="p-card" data-caso="lei" data-sub="investigado" data-nexo="false" data-search="gaspar zarrias investigado exsecretario">
+      <div class="pc-tags">
+        <span class="pc-caso lei">Leire Díez</span>
+        <span class="pc-sub inv">Investigado</span>
+      </div>
+      <div class="pc-name">Gaspar Zarrías</div>
+      <div class="pc-rol">Exsecretario de Estado. Proporciona la consultora instrumental que canaliza los pagos a Leire Díez. Registro el 27/05/2026: hallados 19.850€ en efectivo sin justificación documental.</div>
+      <div class="pc-foot">
+        <a class="pc-link lei" href="casos/caso-leire-diez.html#nodo=zarrias">Ver en grafo →</a>
+      </div>
+    </article>
+
+    <article class="p-card" data-caso="lei" data-sub="investigado" data-nexo="false" data-search="javier perez dolset investigado empresario">
+      <div class="pc-tags">
+        <span class="pc-caso lei">Leire Díez</span>
+        <span class="pc-sub inv">Investigado</span>
+      </div>
+      <div class="pc-name">Javier Pérez Dolset</div>
+      <div class="pc-rol">Empresario vinculado a la trama. Financia parte de las operaciones y actúa como nexo con el entramado societario de la red.</div>
+      <div class="pc-foot">
+        <a class="pc-link lei" href="casos/caso-leire-diez.html#nodo=dolset">Ver en grafo →</a>
+      </div>
+    </article>
+
+    <article class="p-card" data-caso="lei" data-sub="investigado" data-nexo="false" data-search="ana maria fuentes investigado gerente psoe">
+      <div class="pc-tags">
+        <span class="pc-caso lei">Leire Díez</span>
+        <span class="pc-sub inv">Investigada</span>
+      </div>
+      <div class="pc-name">Ana María Fuentes</div>
+      <div class="pc-rol">Gerente del PSOE. Papel instrumental en la coordinación interna desde Ferraz y gestión de flujos hacia la trama. Vinculada al registro de la sede el 26/05/2026.</div>
+      <div class="pc-foot">
+        <a class="pc-link lei" href="casos/caso-leire-diez.html#nodo=fuentes">Ver en grafo →</a>
+      </div>
+    </article>
+
+    <!-- ─── ZAPATERO: INVESTIGADOS ─── -->
+    <article class="p-card" data-caso="zap" data-sub="investigado" data-nexo="true" data-search="jose luis rodriguez zapatero investigado">
+      <div class="pc-tags">
+        <span class="pc-caso zap">Zapatero</span>
+        <span class="pc-sub inv">Investigado</span>
+      </div>
+      <div class="pc-name">José Luis Rodríguez Zapatero</div>
+      <div class="pc-rol">Líder estratégico. Dirige la red desde su oficina en Ferraz 35. Principal beneficiario final. Declara como investigado en JCI Nº4 el 02/06/2026. Su nombre figura en la agenda de Leire Díez.</div>
+      <div class="pc-foot">
+        <a class="pc-link zap" href="casos/caso-zapatero.html#nodo=zapatero">Ver en grafo →</a>
+      </div>
+    </article>
+
+    <article class="p-card" data-caso="zap" data-sub="investigado" data-nexo="false" data-search="julio martinez martinez investigado julio mm lugarteniente">
+      <div class="pc-tags">
+        <span class="pc-caso zap">Zapatero</span>
+        <span class="pc-sub inv">Investigado</span>
+      </div>
+      <div class="pc-name">Julio Martínez Martínez</div>
+      <div class="pc-rol">Lugarteniente principal. Interlocutor directo con clientes. Titular formal del entramado societario. Opera las sociedades instrumentales (Idella, Voli, IoT Domotic, Afitta).</div>
+      <div class="pc-foot">
+        <a class="pc-link zap" href="casos/caso-zapatero.html#nodo=julio_mm">Ver en grafo →</a>
+      </div>
+    </article>
+
+    <article class="p-card" data-caso="zap" data-sub="investigado" data-nexo="false" data-search="manuel aaron fajardo garcia investigado venezuela">
+      <div class="pc-tags">
+        <span class="pc-caso zap">Zapatero</span>
+        <span class="pc-sub inv">Investigado</span>
+      </div>
+      <div class="pc-name">Manuel Aarón Fajardo García</div>
+      <div class="pc-rol">"La pieza de ZP en Venezuela". Facilita acceso a Zapatero. Actúa como lugarteniente en Venezuela y conecta la red con Plus Ultra y los organismos de aviación venezolanos.</div>
+      <div class="pc-foot">
+        <a class="pc-link zap" href="casos/caso-zapatero.html#nodo=fajardo">Ver en grafo →</a>
+      </div>
+    </article>
+
+    <article class="p-card" data-caso="zap" data-sub="investigado" data-nexo="false" data-search="gertrudis alcazar jimenez secretaria zapatero investigada">
+      <div class="pc-tags">
+        <span class="pc-caso zap">Zapatero</span>
+        <span class="pc-sub inv">Investigada</span>
+      </div>
+      <div class="pc-name">Mª Gertrudis Alcázar Jiménez</div>
+      <div class="pc-rol">Secretaria de Zapatero. Abre voluntariamente la oficina el 19/05/2026 a las 08:17h y cede claves de acceso. Gestiona presidentezapatero@presidentezapatero.com. Coordina la facturación ficticia con Cristóbal Cano.</div>
+      <div class="pc-foot">
+        <a class="pc-link zap" href="casos/caso-zapatero.html#nodo=gertrudis">Ver en grafo →</a>
+      </div>
+    </article>
+
+  </div><!-- /grid-inv -->
+
+  <div class="per-section-label">Personas relacionadas — 19 personas</div>
+  <div class="per-grid" id="grid-rel">
+
+    <!-- ─── LEIRE: RELACIONADOS ─── -->
+    <article class="p-card" data-caso="lei" data-sub="relacionado" data-nexo="true" data-search="pedro sanchez el one presidente gobierno relacionado">
+      <div class="pc-tags">
+        <span class="pc-caso lei">Leire Díez</span>
+        <span class="pc-sub">Relacionado</span>
+      </div>
+      <div class="pc-name">Pedro Sánchez</div>
+      <div class="pc-rol">Referenciado como "el one" ×4 en el sumario. UCO (06/06/2026): "solo podría estar efectuada al presidente del Gobierno y secretario general del partido." Segunda agenda: "reunión con PS" (3/02/2025). Nexo con Caso Zapatero.</div>
+      <div class="pc-foot">
+        <a class="pc-link lei" href="casos/caso-leire-diez.html#nodo=sanchez">Ver en grafo →</a>
+      </div>
+    </article>
+
+    <article class="p-card" data-caso="lei" data-sub="relacionado" data-nexo="false" data-search="mercedes gonzalez exdirectora guardia civil relacionado">
+      <div class="pc-tags">
+        <span class="pc-caso lei">Leire Díez</span>
+        <span class="pc-sub">Relacionada</span>
+      </div>
+      <div class="pc-name">Mercedes González</div>
+      <div class="pc-rol">Exdirectora General de la Guardia Civil. Objeto de presiones documentadas por parte de Leire Díez para redirigir la línea de investigación del Caso Koldo.</div>
+      <div class="pc-foot">
+        <a class="pc-link lei" href="casos/caso-leire-diez.html#nodo=mercedes">Ver en grafo →</a>
+      </div>
+    </article>
+
+    <article class="p-card" data-caso="lei" data-sub="relacionado" data-nexo="false" data-search="juan sanchez yepes capitan uco expedientado relacionado">
+      <div class="pc-tags">
+        <span class="pc-caso lei">Leire Díez</span>
+        <span class="pc-sub">Relacionado</span>
+      </div>
+      <div class="pc-name">Cap. Juan Sánchez Yepes</div>
+      <div class="pc-rol">Capitán de la UCO. Expedientado por filtrar información sensible de la investigación del Caso Koldo al entorno de la trama. Eslabón clave del delito de revelación de secretos.</div>
+      <div class="pc-foot">
+        <a class="pc-link lei" href="casos/caso-leire-diez.html#nodo=yepes">Ver en grafo →</a>
+      </div>
+    </article>
+
+    <!-- ─── ZAPATERO: RELACIONADOS ─── -->
+    <article class="p-card" data-caso="zap" data-sub="relacionado" data-nexo="true" data-search="koldo garcia izaguirre relacionado colaborador abalos">
+      <div class="pc-tags">
+        <span class="pc-caso zap">Zapatero</span>
+        <span class="pc-sub">Relacionado</span>
+      </div>
+      <div class="pc-name">Koldo García Izaguirre</div>
+      <div class="pc-rol">Colaborador de Ábalos. Informó al ministro de la reunión de Zapatero con Escrivá. Su investigación — el Caso Koldo — es el objeto central de la maniobra de obstrucción documentada en el sumario de Leire Díez.</div>
+      <div class="pc-foot">
+        <a class="pc-link zap" href="casos/caso-zapatero.html#nodo=koldo">Ver en grafo →</a>
+      </div>
+    </article>
+
+    <article class="p-card" data-caso="zap" data-sub="relacionado" data-nexo="false" data-search="judith laure wells sutton empleada oficina zapatero">
+      <div class="pc-tags">
+        <span class="pc-caso zap">Zapatero</span>
+        <span class="pc-sub">Relacionada</span>
+      </div>
+      <div class="pc-name">Judith Laure Wells Sutton</div>
+      <div class="pc-rol">Empleada de la oficina. Comparece a las 08:35h el 19/05/2026. Cede claves. Ordenador incautado con correos jwells@psoe.es, zideas@psoe.es y carpeta VPN PSOE fdpclu98017\ceffiles.</div>
+      <div class="pc-foot">
+        <a class="pc-link zap" href="casos/caso-zapatero.html#nodo=judith">Ver en grafo →</a>
+      </div>
+    </article>
+
+    <article class="p-card" data-caso="zap" data-sub="relacionado" data-nexo="false" data-search="carmen brasa ramos empleada oficina zapatero">
+      <div class="pc-tags">
+        <span class="pc-caso zap">Zapatero</span>
+        <span class="pc-sub">Relacionada</span>
+      </div>
+      <div class="pc-name">Mª Carmen Brasa Ramos</div>
+      <div class="pc-rol">Empleada en despacho nº5. Comparece a las 09:40h. En su ordenador: carpetas "Obra Casa Gilmar" y "Obras Maria". Su equipo forma parte del volcado digital incautado el 19/05/2026.</div>
+      <div class="pc-foot">
+        <a class="pc-link zap" href="casos/caso-zapatero.html#nodo=brasa">Ver en grafo →</a>
+      </div>
+    </article>
+
+    <article class="p-card" data-caso="zap" data-sub="relacionado" data-nexo="false" data-search="laura rodriguez espinosa hija zapatero whathefav">
+      <div class="pc-tags">
+        <span class="pc-caso zap">Zapatero</span>
+        <span class="pc-sub">Relacionada</span>
+      </div>
+      <div class="pc-name">Laura Rodríguez Espinosa</div>
+      <div class="pc-rol">Hija de Zapatero. Administradora solidaria de Whathefav SL. Recibió 247.191€ de Whathefav (2021-2025). Sociedad finalista de la red de cobros.</div>
+      <div class="pc-foot">
+        <a class="pc-link zap" href="casos/caso-zapatero.html#nodo=laura">Ver en grafo →</a>
+      </div>
+    </article>
+
+    <article class="p-card" data-caso="zap" data-sub="relacionado" data-nexo="false" data-search="alba rodriguez espinosa hija zapatero whathefav">
+      <div class="pc-tags">
+        <span class="pc-caso zap">Zapatero</span>
+        <span class="pc-sub">Relacionada</span>
+      </div>
+      <div class="pc-name">Alba Rodríguez Espinosa</div>
+      <div class="pc-rol">Hija de Zapatero. Administradora solidaria de Whathefav SL. Recibió 199.904€ de Whathefav (2023-2025). Copartícipe en la sociedad finalista de la red.</div>
+      <div class="pc-foot">
+        <a class="pc-link zap" href="casos/caso-zapatero.html#nodo=alba">Ver en grafo →</a>
+      </div>
+    </article>
+
+    <article class="p-card" data-caso="zap" data-sub="relacionado" data-nexo="false" data-search="rodolfo reyes rojas plus ultra accionista">
+      <div class="pc-tags">
+        <span class="pc-caso zap">Zapatero</span>
+        <span class="pc-sub">Relacionado</span>
+      </div>
+      <div class="pc-name">Rodolfo Reyes Rojas</div>
+      <div class="pc-rol">Accionista de facto de Plus Ultra. Quien buscó el contacto con Zapatero. Coordina las gestiones de influencia ante el FASEE para el rescate de 53M€.</div>
+      <div class="pc-foot">
+        <a class="pc-link zap" href="casos/caso-zapatero.html#nodo=rodolfo">Ver en grafo →</a>
+      </div>
+    </article>
+
+    <article class="p-card" data-caso="zap" data-sub="relacionado" data-nexo="false" data-search="roberto roselli miele director financiero plus ultra">
+      <div class="pc-tags">
+        <span class="pc-caso zap">Zapatero</span>
+        <span class="pc-sub">Relacionado</span>
+      </div>
+      <div class="pc-name">Roberto Roselli Miele</div>
+      <div class="pc-rol">Director Financiero de Plus Ultra. Interlocutor con la SEPI y con la "finance boutique" de Zapatero. Conoce los detalles del contrato con Idella Consulenza.</div>
+      <div class="pc-foot">
+        <a class="pc-link zap" href="casos/caso-zapatero.html#nodo=roselli">Ver en grafo →</a>
+      </div>
+    </article>
+
+    <article class="p-card" data-caso="zap" data-sub="relacionado" data-nexo="false" data-search="julio martinez sola vicepresidente plus ultra">
+      <div class="pc-tags">
+        <span class="pc-caso zap">Zapatero</span>
+        <span class="pc-sub">Relacionado</span>
+      </div>
+      <div class="pc-name">Julio Martínez Sola</div>
+      <div class="pc-rol">Vicepresidente de Plus Ultra. Habló 11 minutos con Zapatero el 30/04/2020. Interlocutor en las gestiones ante el Ministerio de Transportes.</div>
+      <div class="pc-foot">
+        <a class="pc-link zap" href="casos/caso-zapatero.html#nodo=julio_ms">Ver en grafo →</a>
+      </div>
+    </article>
+
+    <article class="p-card" data-caso="zap" data-sub="relacionado" data-nexo="false" data-search="ramon gordils montes intermediario zapatero plus ultra">
+      <div class="pc-tags">
+        <span class="pc-caso zap">Zapatero</span>
+        <span class="pc-sub">Relacionado</span>
+      </div>
+      <div class="pc-name">Ramón Gordils Montes</div>
+      <div class="pc-rol">Intermediario inicial. Buscó cómo "llegarle a ZP" para Plus Ultra (30/03/2020). Punto de partida documentado del acercamiento entre la aerolínea y Zapatero.</div>
+      <div class="pc-foot">
+        <a class="pc-link zap" href="casos/caso-zapatero.html#nodo=gordils">Ver en grafo →</a>
+      </div>
+    </article>
+
+    <article class="p-card" data-caso="zap" data-sub="relacionado" data-nexo="false" data-search="miguel palomero transportes koldo garcia">
+      <div class="pc-tags">
+        <span class="pc-caso zap">Zapatero</span>
+        <span class="pc-sub">Relacionado</span>
+      </div>
+      <div class="pc-name">Miguel Palomero</div>
+      <div class="pc-rol">Contacto con Koldo García / Ministerio de Transportes. Vía paralela a la de Zapatero para lograr el rescate de Plus Ultra. Eslabón entre la aerolínea y el entorno de Ábalos.</div>
+      <div class="pc-foot">
+        <a class="pc-link zap" href="casos/caso-zapatero.html#nodo=palomero">Ver en grafo →</a>
+      </div>
+    </article>
+
+    <article class="p-card" data-caso="zap" data-sub="relacionado" data-nexo="false" data-search="camilo ibrahim issa plus ultra snip aviation accionista">
+      <div class="pc-tags">
+        <span class="pc-caso zap">Zapatero</span>
+        <span class="pc-sub">Relacionado</span>
+      </div>
+      <div class="pc-name">Camilo Ibrahim Issa</div>
+      <div class="pc-rol">Accionista de Plus Ultra vía Snip Aviation. Recibió la noticia de la concesión del rescate (53M€) antes que el Consejo Gestor de la SEPI. Elemento clave para acreditar el tráfico de influencias.</div>
+      <div class="pc-foot">
+        <a class="pc-link zap" href="casos/caso-zapatero.html#nodo=camilo">Ver en grafo →</a>
+      </div>
+    </article>
+
+    <article class="p-card" data-caso="zap" data-sub="relacionado" data-nexo="false" data-search="sergio sanchez benitez analisis relevante">
+      <div class="pc-tags">
+        <span class="pc-caso zap">Zapatero</span>
+        <span class="pc-sub">Relacionado</span>
+      </div>
+      <div class="pc-name">Sergio Sánchez Benítez</div>
+      <div class="pc-rol">25% de Análisis Relevante SL. Elabora los informes de asesoría que Whathefav maqueta y distribuye. Parte del núcleo financiero de la red.</div>
+      <div class="pc-foot">
+        <a class="pc-link zap" href="casos/caso-zapatero.html#nodo=sergio">Ver en grafo →</a>
+      </div>
+    </article>
+
+    <article class="p-card" data-caso="zap" data-sub="relacionado" data-nexo="false" data-search="general teixeira diaz inac venezuela plus ultra">
+      <div class="pc-tags">
+        <span class="pc-caso zap">Zapatero</span>
+        <span class="pc-sub">Relacionado</span>
+      </div>
+      <div class="pc-name">General Teixeira Díaz (INAC)</div>
+      <div class="pc-rol">Presidente del INAC Venezuela. Autoriza los vuelos de Plus Ultra tras la intercesión de Julio MM. Eslabón venezolano de la red de influencias.</div>
+      <div class="pc-foot">
+        <a class="pc-link zap" href="casos/caso-zapatero.html#nodo=teixeira_v">Ver en grafo →</a>
+      </div>
+    </article>
+
+    <article class="p-card" data-caso="zap" data-sub="relacionado" data-nexo="false" data-search="domingo amaro chacon inteligencia prospectiva">
+      <div class="pc-tags">
+        <span class="pc-caso zap">Zapatero</span>
+        <span class="pc-sub">Relacionado</span>
+      </div>
+      <div class="pc-name">Domingo Amaro Chacón</div>
+      <div class="pc-rol">Admin. solidario de Inteligencia Prospectiva SL. Cliente de la red para operaciones internacionales de petróleo, oro y divisas. Aporta capital extranjero a la sociedad.</div>
+      <div class="pc-foot">
+        <a class="pc-link zap" href="casos/caso-zapatero.html#nodo=domingo_a">Ver en grafo →</a>
+      </div>
+    </article>
+
+    <article class="p-card" data-caso="zap" data-sub="relacionado" data-nexo="false" data-search="daniel romero abreu thinking heads gate center">
+      <div class="pc-tags">
+        <span class="pc-caso zap">Zapatero</span>
+        <span class="pc-sub">Relacionado</span>
+      </div>
+      <div class="pc-name">Daniel Romero-Abreu</div>
+      <div class="pc-rol">Admin. de Thinking Heads Group SL. Fundador y presidente de Gate Center. Vincula ambas entidades a Zapatero. Thinking Heads pagó 681.318€ directamente a Zapatero.</div>
+      <div class="pc-foot">
+        <a class="pc-link zap" href="casos/caso-zapatero.html#nodo=daniel_r">Ver en grafo →</a>
+      </div>
+    </article>
+
+    <article class="p-card" data-caso="zap" data-sub="relacionado" data-nexo="false" data-search="santiago fernandez lena caleton consultores">
+      <div class="pc-tags">
+        <span class="pc-caso zap">Zapatero</span>
+        <span class="pc-sub">Relacionado</span>
+      </div>
+      <div class="pc-name">Santiago Fernández Lena</div>
+      <div class="pc-rol">Controla Caletón Consultores de facto. El admin. formal es un testaferro venezolano que cobra 600€/mes en efectivo. Caletón recibió 1.159.558€ de Plus Ultra.</div>
+      <div class="pc-foot">
+        <a class="pc-link zap" href="casos/caso-zapatero.html#nodo=santiago_f">Ver en grafo →</a>
+      </div>
+    </article>
+
+  </div><!-- /grid-rel -->
+
+  <div id="no-results">No se encontraron personas con esos criterios.</div>
+
+</main>
+
+<footer>
+  <a class="footer-logo" href="index.html">Doble Fondo</a>
+  <span class="footer-copy">28 personas documentadas · 2 casos activos · Audiencia Nacional · 2026</span>
+</footer>
+
+<script>
+let currentFilter = 'todos';
+
+function setFilter(btn) {
+  document.querySelectorAll('.filter-btn').forEach(b => b.classList.remove('on'));
+  btn.classList.add('on');
+  currentFilter = btn.dataset.f;
+  applyFilter();
+}
+
+function applyFilter() {
+  const q = document.getElementById('search-input').value.toLowerCase().trim();
+  const cards = document.querySelectorAll('.p-card');
+  let visible = 0;
+
+  const nexoSec = document.getElementById('nexo-sec');
+  nexoSec.style.display = (currentFilter === 'todos' || currentFilter === 'relacionado') ? '' : 'none';
+
+  cards.forEach(card => {
+    const caso = card.dataset.caso;
+    const sub = card.dataset.sub;
+    const nexo = card.dataset.nexo === 'true';
+    const search = card.dataset.search;
+
+    const matchQ = !q || search.includes(q) || card.querySelector('.pc-name').textContent.toLowerCase().includes(q);
+
+    let matchF = true;
+    if(currentFilter === 'zap') matchF = caso === 'zap';
+    else if(currentFilter === 'lei') matchF = caso === 'lei';
+    else if(currentFilter === 'investigado') matchF = sub === 'investigado';
+    else if(currentFilter === 'relacionado') matchF = sub === 'relacionado';
+
+    const show = matchQ && matchF;
+    card.style.display = show ? '' : 'none';
+    if(show) visible++;
+  });
+
+  document.getElementById('per-count').textContent = visible + ' persona' + (visible !== 1 ? 's' : '');
+  document.getElementById('no-results').style.display = visible === 0 ? 'block' : 'none';
+
+  // Hide section labels if all cards below them are hidden
+  document.querySelectorAll('.per-section-label').forEach(label => {
+    const next = label.nextElementSibling;
+    if(next && next.classList.contains('per-grid')) {
+      const anyVisible = [...next.querySelectorAll('.p-card')].some(c => c.style.display !== 'none');
+      label.style.display = anyVisible ? '' : 'none';
+    }
+  });
+}
+
+// Init
+document.addEventListener('DOMContentLoaded', () => {
+  applyFilter();
+});
+
+</script>
+</body>
+</html>

@@ -1,0 +1,188 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Metodología — Doble Fondo</title>
+<link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@300;400;500;600;700&family=DM+Serif+Display:ital@0;1&family=Courier+Prime:ital,wght@0,400;0,700;1,400&display=swap" rel="stylesheet">
+<style>
+* { margin:0; padding:0; box-sizing:border-box; }
+:root {
+  --bg:#07080f; --surface:#0d0f1a; --border:rgba(255,255,255,0.07);
+  --accent:#ffaa00; --zap:#2255ff; --lei:#ff3355; --amber:#ffaa00;
+  --text:#d4d8f0; --muted:#5a6080; --green:#00cc88;
+}
+html { scroll-behavior:smooth; }
+body { background:var(--bg); color:var(--text); font-family:'Space Grotesk',sans-serif; overflow-x:hidden; min-height:100vh; }
+
+/* ── SITE HEADER ── */
+#site-hdr{background:rgba(7,8,15,0.97);backdrop-filter:blur(12px);border-bottom:1px solid var(--border);display:flex;align-items:center;justify-content:space-between;padding:0 clamp(16px,4vw,48px);height:48px;position:sticky;top:0;z-index:100;}
+.shdr-back,.shdr-otro{color:var(--muted);text-decoration:none;font-family:'Courier Prime',monospace;font-size:11px;letter-spacing:.08em;transition:color .2s;}
+.shdr-back:hover{color:var(--text);}
+.shdr-logo{font-family:'DM Serif Display',serif;font-size:15px;color:rgba(255,255,255,0.3);pointer-events:none;}
+
+/* ── PAGE ── */
+.meto-page{max-width:760px;margin:0 auto;padding:clamp(48px,7vw,96px) clamp(24px,5vw,48px);}
+.meto-eye{font-family:'Courier Prime',monospace;font-size:10px;letter-spacing:.25em;text-transform:uppercase;color:var(--muted);margin-bottom:20px;}
+h1{font-family:'DM Serif Display',serif;font-size:clamp(40px,7vw,80px);line-height:.95;letter-spacing:-.02em;color:#fff;margin-bottom:clamp(16px,3vw,32px);}
+h1 em{font-style:italic;color:var(--amber);}
+.meto-sub{font-size:clamp(14px,1.8vw,16px);color:var(--muted);line-height:1.8;font-weight:300;max-width:580px;margin-bottom:clamp(48px,7vw,96px);}
+
+/* ── SECCIONES ── */
+.meto-sec{margin-bottom:clamp(48px,6vw,80px);padding-top:clamp(32px,5vw,56px);border-top:1px solid var(--border);}
+.meto-sec-eyebrow{font-family:'Courier Prime',monospace;font-size:10px;letter-spacing:.2em;text-transform:uppercase;color:var(--muted);margin-bottom:16px;}
+.meto-sec h2{font-family:'DM Serif Display',serif;font-size:clamp(24px,4vw,38px);color:#fff;margin-bottom:24px;line-height:1.1;}
+.meto-sec p{font-size:clamp(13px,1.6vw,15px);color:var(--muted);line-height:1.85;margin-bottom:16px;font-weight:300;}
+.meto-sec p:last-child{margin-bottom:0;}
+
+/* ── FUENTES GRID ── */
+.fuente-grid{display:grid;gap:12px;margin-top:28px;}
+.fuente-item{display:flex;gap:18px;align-items:flex-start;padding:18px 20px;background:var(--surface);border:1px solid var(--border);}
+.fi-dot{width:10px;height:10px;border-radius:50%;flex-shrink:0;margin-top:5px;}
+.fi-label{font-family:'Courier Prime',monospace;font-size:10px;letter-spacing:.15em;text-transform:uppercase;color:var(--muted);margin-bottom:6px;}
+.fi-desc{font-size:13px;color:var(--text);line-height:1.7;font-weight:300;}
+
+/* ── PRINCIPIOS ── */
+.principio{display:flex;gap:20px;align-items:flex-start;padding:20px 0;border-bottom:1px solid var(--border);}
+.principio:last-child{border-bottom:none;}
+.p-num{font-family:'Courier Prime',monospace;font-size:11px;color:var(--muted);flex-shrink:0;width:28px;padding-top:3px;}
+.p-titulo{font-size:14px;font-weight:600;color:#fff;margin-bottom:6px;letter-spacing:.01em;}
+.p-texto{font-size:13px;color:var(--muted);line-height:1.75;font-weight:300;}
+
+/* ── STACK ── */
+.stack-row{display:flex;justify-content:space-between;align-items:baseline;gap:16px;padding:12px 0;border-bottom:1px solid var(--border);}
+.stack-row:last-child{border-bottom:none;}
+.stack-key{font-family:'Space Grotesk',sans-serif;font-size:13px;font-weight:500;color:#fff;}
+.stack-val{font-family:'Courier Prime',monospace;font-size:12px;color:var(--muted);text-align:right;}
+
+/* ── FOOTER ── */
+footer{border-top:1px solid var(--border);padding:clamp(24px,4vw,40px) clamp(24px,5vw,64px);display:flex;justify-content:space-between;align-items:center;flex-wrap:wrap;gap:16px;}
+.footer-logo{font-family:'DM Serif Display',serif;font-size:18px;color:#fff;text-decoration:none;}
+.footer-copy{font-family:'Courier Prime',monospace;font-size:10px;color:var(--muted);letter-spacing:.1em;}
+</style>
+</head>
+<body>
+
+<header id="site-hdr">
+  <a class="shdr-back" href="index.html">← Doble Fondo</a>
+  <span class="shdr-logo">Doble Fondo</span>
+  <span></span>
+</header>
+
+<main class="meto-page">
+
+  <div class="meto-eye">Metodología editorial</div>
+  <h1>Cómo trabaja<br><em>Doble Fondo</em></h1>
+  <p class="meto-sub">Plataforma de periodismo de datos judiciales. Publicamos documentación primaria de casos activos en la Audiencia Nacional con trazabilidad pública de cada dato.</p>
+
+  <!-- 01 · Qué es -->
+  <section class="meto-sec">
+    <div class="meto-sec-eyebrow">01 · Qué es</div>
+    <h2>Tres capas por caso</h2>
+    <p>Cada caso en Doble Fondo se documenta en tres niveles de profundidad: una <strong style="color:var(--text);font-weight:500">visualización interactiva</strong> del entramado de relaciones (quién es quién, cómo se conectan), un análisis <strong style="color:var(--text);font-weight:500">cronológico</strong> con los hechos probados, y un <strong style="color:var(--text);font-weight:500">registro documental</strong> con acceso a los documentos oficiales del sumario cuando están disponibles.</p>
+    <p>La visualización en grafo no es estética: refleja exactamente las conexiones documentadas en los autos judiciales e informes de la UDEF o la UCO. Cada nodo y cada enlace tiene una fuente asignada y visible.</p>
+  </section>
+
+  <!-- 02 · Sistema de fuentes -->
+  <section class="meto-sec">
+    <div class="meto-sec-eyebrow">02 · Sistema de fuentes</div>
+    <h2>Tres niveles de verificación</h2>
+    <p>Cada dato en Doble Fondo lleva un indicador de fiabilidad. No publicamos información sin clasificarla. El nivel se muestra junto al dato en el grafo, en la cronología y en el changelog de cada caso.</p>
+    <div class="fuente-grid">
+      <div class="fuente-item">
+        <div class="fi-dot" style="background:var(--amber)"></div>
+        <div>
+          <div class="fi-label">Periodística</div>
+          <div class="fi-desc">Información proveniente de medios o fuentes periodísticas. No está respaldada aún por documento oficial del sumario. Se publica con esta clasificación de forma explícita y permanece en estado provisional hasta que sea verificada.</div>
+        </div>
+      </div>
+      <div class="fuente-item">
+        <div class="fi-dot" style="background:var(--zap)"></div>
+        <div>
+          <div class="fi-label">Oficial</div>
+          <div class="fi-desc">Dato proveniente de un documento oficial: auto judicial, acta de registro, informe UDEF/UCO, escrito de acusación o resolución del tribunal. El documento existe y ha sido consultado directamente.</div>
+        </div>
+      </div>
+      <div class="fuente-item">
+        <div class="fi-dot" style="background:var(--green)"></div>
+        <div>
+          <div class="fi-label">Verificado + PDF adjunto</div>
+          <div class="fi-desc">Documento oficial con copia adjunta en el archivo de Doble Fondo. Nivel máximo de trazabilidad: el documento es público, está vinculado y puede descargarse directamente desde la plataforma.</div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- 03 · Principios -->
+  <section class="meto-sec">
+    <div class="meto-sec-eyebrow">03 · Principios editoriales</div>
+    <h2>Lo que hacemos<br>y lo que no</h2>
+    <div class="principio">
+      <span class="p-num">01</span>
+      <div>
+        <div class="p-titulo">Presunción de inocencia siempre activa</div>
+        <div class="p-texto">Toda persona documentada en Doble Fondo es investigada, no condenada, salvo que se indique expresamente lo contrario. Los hechos que presentamos son los que obran en el sumario, no juicios de valor sobre culpabilidad.</div>
+      </div>
+    </div>
+    <div class="principio">
+      <span class="p-num">02</span>
+      <div>
+        <div class="p-titulo">Sin opinión editorial</div>
+        <div class="p-texto">Doble Fondo no toma partido político. No hay editoriales, columnas de opinión ni valoraciones sobre la inocencia o culpabilidad de los investigados. Solo datos, documentos y visualizaciones. El lector extrae sus propias conclusiones.</div>
+      </div>
+    </div>
+    <div class="principio">
+      <span class="p-num">03</span>
+      <div>
+        <div class="p-titulo">Trazabilidad pública de actualizaciones</div>
+        <div class="p-texto">Cada actualización queda registrada en el changelog público de cada caso: qué dato se añadió, cuándo y de qué fuente proviene. Si un dato se corrige, el registro de la corrección también es público.</div>
+      </div>
+    </div>
+    <div class="principio">
+      <span class="p-num">04</span>
+      <div>
+        <div class="p-titulo">Fuentes primarias como estándar mínimo</div>
+        <div class="p-texto">El estándar mínimo para publicar un dato como Oficial es que el documento exista y haya sido consultado, aunque no siempre sea posible adjuntar el PDF. Las fuentes exclusivamente periodísticas se señalan siempre con el indicador amarillo.</div>
+      </div>
+    </div>
+    <div class="principio">
+      <span class="p-num">05</span>
+      <div>
+        <div class="p-titulo">Corrección pública de errores</div>
+        <div class="p-texto">Si publicamos algo incorrecto, lo corregimos y lo notamos en el changelog. No silenciamos errores ni borramos información sin dejar constancia pública del cambio.</div>
+      </div>
+    </div>
+  </section>
+
+  <!-- 04 · Stack técnico -->
+  <section class="meto-sec">
+    <div class="meto-sec-eyebrow">04 · Stack técnico</div>
+    <h2>Sin tracking,<br>sin frameworks</h2>
+    <p>Doble Fondo es HTML estático. Sin framework, sin backend, sin base de datos en la capa pública. Todo el código que genera las visualizaciones está en la propia página, inspeccionable por cualquiera que abra las herramientas de desarrollador.</p>
+    <div style="margin-top:28px;">
+      <div class="stack-row"><span class="stack-key">Visualización de grafos</span><span class="stack-val">D3.js v7.8.5 · Force simulation</span></div>
+      <div class="stack-row"><span class="stack-key">Tipografía</span><span class="stack-val">DM Serif Display · Space Grotesk · Courier Prime</span></div>
+      <div class="stack-row"><span class="stack-key">Infraestructura</span><span class="stack-val">HTML estático · Hetzner VPS · Coolify</span></div>
+      <div class="stack-row"><span class="stack-key">Analytics</span><span class="stack-val">Ninguno · Sin cookies · Sin tracking</span></div>
+      <div class="stack-row"><span class="stack-key">Código fuente</span><span class="stack-val">Público · github.com/dobfondo (próximamente)</span></div>
+    </div>
+  </section>
+
+  <!-- 05 · Contacto -->
+  <section class="meto-sec">
+    <div class="meto-sec-eyebrow">05 · Contacto</div>
+    <h2>¿Tienes un documento?</h2>
+    <p>Si tienes acceso a documentación judicial relevante sobre los casos que cubrimos, o quieres señalar un error en nuestra cobertura, puedes contactarnos.</p>
+    <p style="color:var(--muted);font-family:'Courier Prime',monospace;font-size:12px;margin-top:20px;letter-spacing:.04em;">Canal cifrado para fuentes: próximamente.</p>
+  </section>
+
+</main>
+
+<footer>
+  <a class="footer-logo" href="index.html">Doble Fondo</a>
+  <span class="footer-copy">Periodismo de datos judicial · España · 2026</span>
+</footer>
+
+
+</body>
+</html>

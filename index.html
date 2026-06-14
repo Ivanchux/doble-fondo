@@ -1,0 +1,1073 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Doble Fondo — Periodismo de datos judicial</title>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/d3/7.8.5/d3.min.js"></script>
+<link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@300;400;500;600;700&family=DM+Serif+Display:ital@0;1&family=Courier+Prime:ital,wght@0,400;0,700;1,400&display=swap" rel="stylesheet">
+<style>
+*{margin:0;padding:0;box-sizing:border-box;}
+:root{
+  --bg:#07080f; --surface:#0d0f1a; --border:rgba(255,255,255,0.07);
+  --zap:#2255ff; --lei:#ff3355; --bridge:#ffaa00;
+  --text:#d4d8f0; --muted:#5a6080; --amber:#ffaa00;
+  --green:#00cc88;
+}
+html{scroll-behavior:smooth;}
+body{background:var(--bg);color:var(--text);font-family:'Space Grotesk',sans-serif;overflow-x:hidden;}
+
+/* ── HEADER ── */
+#hdr{
+  position:sticky;top:0;z-index:300;
+  background:rgba(7,8,15,0.97);backdrop-filter:blur(16px);
+  border-bottom:1px solid var(--border);
+  display:flex;align-items:center;justify-content:space-between;
+  padding:0 clamp(20px,4vw,56px);height:56px;
+}
+.hdr-marca{display:flex;align-items:baseline;gap:12px;}
+.hdr-df{font-family:'DM Serif Display',serif;font-size:clamp(16px,2vw,20px);color:#fff;}
+.hdr-sep{color:var(--muted);font-size:12px;}
+.hdr-sub{font-size:11px;letter-spacing:0.15em;text-transform:uppercase;color:var(--muted);}
+.hdr-nav{display:flex;gap:clamp(16px,3vw,32px);}
+.hdr-link{
+  color:var(--muted);text-decoration:none;
+  font-size:12px;font-weight:500;letter-spacing:0.06em;transition:color .15s;
+}
+.hdr-link:hover{color:var(--text);}
+
+/* ── HERO ── */
+#hero{
+  position:relative;
+  min-height:calc(100vh - 56px);
+  border-bottom:1px solid var(--border);
+  overflow:hidden;
+}
+#hero-vid{position:absolute;inset:0;width:100%;height:100%;object-fit:cover;opacity:.65;filter:saturate(0.5) brightness(0.7);z-index:0;pointer-events:none;}
+#hero-overlay{
+  position:absolute;inset:0;
+  background:linear-gradient(100deg,rgba(7,8,15,.98) 0%,rgba(7,8,15,.96) 28%,rgba(7,8,15,.72) 52%,rgba(7,8,15,.22) 100%);
+  z-index:1;pointer-events:none;
+}
+#hero-text{
+  position:absolute;left:0;top:0;bottom:0;
+  width:clamp(320px,46%,620px);
+  display:flex;flex-direction:column;justify-content:center;
+  padding:clamp(40px,6vw,88px) clamp(24px,5vw,60px);
+  z-index:3;
+}
+@media(max-width:860px){
+  #hero-text{position:relative;width:100%;padding-bottom:clamp(32px,5vw,56px);}
+}
+.hero-eyebrow{
+  display:flex;align-items:center;gap:10px;
+  margin-bottom:clamp(20px,4vw,40px);
+  font-family:'Courier Prime',monospace;
+  font-size:11px;letter-spacing:0.18em;text-transform:uppercase;color:var(--muted);
+}
+.dot-live{
+  width:7px;height:7px;border-radius:50%;
+  background:var(--lei);flex-shrink:0;animation:blink 2s infinite;
+}
+@keyframes blink{0%,100%{opacity:1}50%{opacity:0.2}}
+.hero-h1{
+  font-family:'DM Serif Display',serif;
+  font-size:clamp(72px,11vw,140px);
+  line-height:0.87;letter-spacing:-0.03em;
+  color:#fff;margin-bottom:clamp(20px,3vw,36px);
+}
+.hero-h1 em{font-style:italic;color:var(--lei);}
+.hero-desc{
+  font-size:clamp(13px,1.5vw,15px);color:var(--muted);
+  line-height:1.8;font-weight:300;max-width:420px;
+  margin-bottom:clamp(24px,4vw,44px);
+}
+/* ── CASE CHIPS ── */
+.hero-chips{display:grid;grid-template-columns:1fr 1fr;gap:10px;}
+@media(max-width:540px){.hero-chips{grid-template-columns:1fr;}}
+.hero-chip{
+  text-decoration:none;display:flex;flex-direction:column;gap:10px;
+  padding:18px 20px 20px;border:1px solid rgba(255,255,255,0.09);
+  background:rgba(7,8,15,0.72);
+  backdrop-filter:blur(12px);-webkit-backdrop-filter:blur(12px);
+  position:relative;overflow:hidden;transition:background .2s,border-color .2s;
+}
+.hero-chip::before{content:'';position:absolute;top:0;left:0;width:3px;height:100%;transition:opacity .2s;}
+.hero-chip.zap::before{background:var(--zap);}
+.hero-chip.lei::before{background:var(--lei);}
+.hero-chip:hover{background:rgba(255,255,255,0.05);}
+.hero-chip.zap:hover{border-color:rgba(34,85,255,0.3);}
+.hero-chip.lei:hover{border-color:rgba(255,51,85,0.3);}
+.hchip-top{display:flex;align-items:center;gap:7px;}
+.hchip-dot{width:6px;height:6px;border-radius:50%;flex-shrink:0;animation:blink 2s infinite;}
+.hero-chip.zap .hchip-dot{background:var(--zap);}
+.hero-chip.lei .hchip-dot{background:var(--lei);}
+.hchip-eye{font-family:'Courier Prime',monospace;font-size:9px;letter-spacing:.15em;text-transform:uppercase;color:var(--muted);}
+.hchip-name{font-family:'DM Serif Display',serif;font-size:clamp(17px,2.2vw,22px);color:#fff;line-height:1.15;}
+.hchip-meta{display:flex;gap:14px;flex-wrap:wrap;}
+.hchip-meta span{font-family:'Courier Prime',monospace;font-size:10px;color:var(--muted);letter-spacing:.04em;}
+.hchip-cta{font-family:'Courier Prime',monospace;font-size:10px;letter-spacing:.1em;text-transform:uppercase;margin-top:2px;}
+.hero-chip.zap .hchip-cta{color:var(--zap);}
+.hero-chip.lei .hchip-cta{color:var(--lei);}
+
+/* ── HERO GRAPH ── */
+#hero-graph-wrap::before{
+  content:'';position:absolute;inset:0;pointer-events:none;z-index:0;
+  background-image:
+    linear-gradient(rgba(255,255,255,0.032) 1px,transparent 1px),
+    linear-gradient(90deg,rgba(255,255,255,0.032) 1px,transparent 1px);
+  background-size:44px 44px;
+}
+#hero-graph-wrap{
+  position:absolute;inset:-24px;
+  overflow:visible;z-index:2;
+  will-change:transform;
+}
+.graph-caption{
+  position:absolute;top:20px;right:24px;z-index:10;
+  font-family:'Courier Prime',monospace;
+  font-size:9px;letter-spacing:0.14em;text-transform:uppercase;color:var(--muted);
+  display:flex;flex-direction:column;align-items:flex-end;gap:10px;pointer-events:none;
+}
+.graph-leyenda{display:flex;flex-wrap:wrap;gap:12px;justify-content:flex-end;}
+.gley-item{display:flex;align-items:center;gap:5px;font-size:9px;color:var(--muted);}
+.gley-dot{width:7px;height:7px;border-radius:50%;flex-shrink:0;}
+#hero-svg{position:absolute;inset:0;width:100%;height:100%;display:block;}
+.graph-hint{
+  position:absolute;bottom:14px;right:18px;
+  font-family:'Courier Prime',monospace;font-size:9px;
+  letter-spacing:0.08em;color:rgba(90,96,128,0.4);pointer-events:none;
+}
+
+/* ── NODE PANEL ── */
+#hero-node-panel{
+  display:none;position:absolute;bottom:40px;right:24px;
+  background:rgba(13,15,26,0.96);backdrop-filter:blur(12px);
+  border:1px solid var(--border);
+  padding:18px 20px;max-width:270px;z-index:20;
+}
+.hpanel-close{
+  position:absolute;top:8px;right:10px;
+  background:none;border:none;color:var(--muted);
+  cursor:pointer;font-size:16px;line-height:1;
+}
+.hpanel-caso{
+  font-family:'Courier Prime',monospace;
+  font-size:9px;letter-spacing:0.15em;text-transform:uppercase;margin-bottom:8px;
+}
+.hpanel-zap{color:var(--zap);}
+.hpanel-lei{color:var(--lei);}
+.hpanel-bridge{color:var(--bridge);}
+.hpanel-nombre{font-family:'DM Serif Display',serif;font-size:20px;color:#fff;margin-bottom:8px;line-height:1.2;}
+.hpanel-info{font-size:12px;color:var(--muted);line-height:1.7;}
+
+/* ── SECTION DIVIDER ── */
+.sec-divider{
+  display:flex;align-items:center;
+  padding:clamp(28px,4.5vw,52px) clamp(24px,5vw,64px) clamp(16px,2.5vw,28px);
+  gap:20px;
+}
+.sec-divider::after{content:'';flex:1;height:1px;background:var(--border);}
+.sec-divider-label{
+  font-family:'Courier Prime',monospace;
+  font-size:10px;letter-spacing:0.2em;text-transform:uppercase;
+  color:var(--muted);white-space:nowrap;
+}
+
+/* ── CASE CARDS ── */
+.casos-grid{
+  display:grid;grid-template-columns:repeat(auto-fit,minmax(320px,1fr));
+  border-top:1px solid var(--border);
+}
+.caso-card{
+  display:block;text-decoration:none;
+  padding:clamp(28px,5vw,56px) clamp(24px,5vw,56px);
+  border-right:1px solid var(--border);
+  border-bottom:1px solid var(--border);
+  position:relative;overflow:hidden;
+  transition:background .2s;
+}
+.caso-card:last-child{border-right:none;}
+.caso-card::before{
+  content:'';position:absolute;
+  left:0;top:0;width:100%;height:4px;
+  background:linear-gradient(90deg,var(--caso-c),transparent 80%);
+  transition:height .2s;
+}
+.caso-card:hover{background:rgba(255,255,255,0.022);}
+.caso-card:hover::before{height:6px;}
+.caso-zap{--caso-c:var(--zap);}
+.caso-lei{--caso-c:var(--lei);}
+
+.card-eyebrow{
+  font-family:'Courier Prime',monospace;
+  font-size:10px;letter-spacing:0.16em;text-transform:uppercase;
+  margin-bottom:16px;display:flex;align-items:center;gap:8px;
+}
+.caso-zap .card-eyebrow{color:var(--zap);}
+.caso-lei .card-eyebrow{color:var(--lei);}
+.card-dot{width:6px;height:6px;border-radius:50%;flex-shrink:0;animation:blink 2s infinite;}
+.caso-zap .card-dot{background:var(--zap);}
+.caso-lei .card-dot{background:var(--lei);}
+
+.card-titulo{
+  font-family:'DM Serif Display',serif;font-style:italic;
+  font-size:clamp(40px,6.5vw,74px);color:#fff;
+  line-height:0.93;margin-bottom:14px;letter-spacing:-0.02em;
+}
+.card-juez{
+  font-family:'Courier Prime',monospace;
+  font-size:11px;color:var(--muted);letter-spacing:0.04em;
+  margin-bottom:clamp(20px,3vw,32px);
+}
+.card-delitos{
+  display:flex;flex-direction:column;gap:0;
+  margin-bottom:clamp(20px,3vw,32px);
+}
+.card-delito{
+  font-size:12px;color:var(--text);
+  padding:7px 0;border-bottom:1px solid var(--border);
+  line-height:1.4;
+}
+.card-stats{
+  display:flex;gap:clamp(20px,4vw,36px);flex-wrap:wrap;
+  margin-bottom:clamp(20px,3vw,32px);padding-top:4px;
+}
+.cstat-n{
+  font-family:'DM Serif Display',serif;
+  font-size:clamp(34px,5vw,54px);line-height:1;
+}
+.caso-zap .cstat-n{color:var(--zap);}
+.caso-lei .cstat-n{color:var(--lei);}
+.cstat-l{font-size:10px;color:var(--muted);letter-spacing:0.06em;text-transform:uppercase;margin-top:3px;}
+
+.card-footer{
+  display:flex;align-items:center;justify-content:space-between;
+  padding-top:clamp(14px,2vw,22px);border-top:1px solid var(--border);
+}
+.card-src{display:flex;align-items:center;gap:7px;}
+.card-src-label{font-size:11px;color:var(--muted);}
+.card-cta{
+  font-family:'Courier Prime',monospace;
+  font-size:11px;letter-spacing:0.1em;text-transform:uppercase;
+}
+.caso-zap .card-cta{color:var(--zap);}
+.caso-lei .card-cta{color:var(--lei);}
+
+/* ── CARD BG NUMBER ── */
+.caso-card::after{
+  content:attr(data-num);
+  position:absolute;right:-10px;bottom:-12px;
+  font-family:'DM Serif Display',serif;font-style:italic;
+  font-size:clamp(130px,20vw,260px);line-height:1;
+  color:var(--caso-c);opacity:0.045;
+  pointer-events:none;letter-spacing:-0.04em;user-select:none;
+  transition:opacity .3s;
+}
+.caso-card:hover::after{opacity:0.07;}
+
+/* ── CARD BADGE NUEVO ── */
+.card-badge{display:none;font-family:'Courier Prime',monospace;font-size:9px;letter-spacing:.18em;text-transform:uppercase;padding:2px 8px;border-radius:2px;margin-left:10px;vertical-align:middle;position:relative;top:-1px;}
+.caso-zap .card-badge{background:rgba(34,85,255,0.1);color:var(--zap);border:1px solid rgba(34,85,255,0.25);}
+.caso-lei .card-badge{background:rgba(255,51,85,0.1);color:var(--lei);border:1px solid rgba(255,51,85,0.25);}
+.card-badge.visible{display:inline;}
+
+/* ── SOURCE BADGES ── */
+.src-badge{display:inline-block;width:8px;height:8px;border-radius:50%;flex-shrink:0;}
+.src-periodistica{background:var(--amber);}
+.src-oficial{background:var(--zap);}
+.src-verificado{background:var(--green);}
+
+/* ── NEXO SECTION ── */
+#nexo{
+  padding:clamp(48px,7vw,96px) clamp(24px,5vw,64px);
+  border-top:1px solid var(--border);border-bottom:1px solid var(--border);
+  background:linear-gradient(to bottom right, rgba(255,170,0,0.02), transparent);
+}
+.nexo-inner{max-width:1100px;margin:0 auto;}
+.nexo-eyebrow{
+  font-family:'Courier Prime',monospace;font-size:10px;
+  letter-spacing:0.2em;text-transform:uppercase;
+  color:var(--bridge);margin-bottom:clamp(12px,2vw,20px);
+}
+.nexo-h2{
+  font-family:'DM Serif Display',serif;
+  font-size:clamp(46px,9vw,100px);line-height:.88;letter-spacing:-0.025em;
+  color:#fff;margin-bottom:clamp(40px,6vw,72px);
+}
+.nexo-h2 em{font-style:italic;color:var(--bridge);}
+.nexo-grid{
+  display:grid;grid-template-columns:repeat(auto-fit,minmax(260px,1fr));
+  background:var(--border);border:1px solid var(--border);gap:1px;
+}
+.nexo-item{background:var(--bg);padding:clamp(24px,4vw,40px);transition:background .25s;}
+.nexo-item:hover{background:rgba(255,170,0,0.03);}
+.nexo-n{
+  font-family:'DM Serif Display',serif;font-style:italic;
+  font-size:clamp(56px,10vw,96px);line-height:1;letter-spacing:-0.03em;
+  color:rgba(255,170,0,0.12);margin-bottom:-4px;
+}
+.nexo-titulo{
+  font-size:clamp(14px,1.8vw,17px);font-weight:600;color:#fff;
+  line-height:1.3;margin-bottom:10px;
+}
+.nexo-desc{
+  font-size:clamp(12px,1.5vw,14px);color:var(--muted);
+  line-height:1.8;font-weight:300;margin-bottom:12px;
+}
+.nexo-fuente{display:flex;align-items:center;gap:7px;font-size:11px;color:var(--muted);}
+
+/* ── ACTIVITY LOG ── */
+#actividad{padding:0 0 clamp(48px,7vw,96px);}
+#log-lista{
+  max-width:860px;margin:0 auto;
+  padding:0 clamp(24px,5vw,64px);
+  position:relative;
+}
+#log-lista::before{
+  content:'';position:absolute;
+  left:calc(clamp(24px,5vw,64px) + 3px);
+  top:0;bottom:0;width:1px;
+  background:linear-gradient(to bottom,transparent,var(--border) 6%,var(--border) 94%,transparent);
+}
+.log-entry{
+  padding:clamp(22px,2.8vw,30px) 0 clamp(22px,2.8vw,30px) 32px;
+  border-bottom:1px solid var(--border);
+  position:relative;z-index:1;
+  display:grid;gap:5px;
+}
+.log-entry::before{
+  content:'';position:absolute;
+  left:0;top:clamp(30px,3.4vw,38px);
+  width:7px;height:7px;border-radius:50%;
+  box-shadow:0 0 0 4px var(--bg);
+}
+.log-entry.log-zap::before{background:var(--zap);}
+.log-entry.log-lei::before{background:var(--lei);}
+.log-meta{display:flex;align-items:center;gap:10px;flex-wrap:wrap;}
+.log-fecha{font-family:'Courier Prime',monospace;font-size:11px;color:var(--muted);letter-spacing:0.04em;}
+.log-caso{
+  font-family:'Courier Prime',monospace;font-size:9px;
+  letter-spacing:0.14em;text-transform:uppercase;padding:2px 9px;border:1px solid;
+}
+.log-caso-zap{color:var(--zap);border-color:rgba(34,85,255,0.3);}
+.log-caso-lei{color:var(--lei);border-color:rgba(255,51,85,0.3);}
+.log-titulo{font-size:clamp(13px,1.7vw,16px);font-weight:600;color:#fff;line-height:1.3;}
+.log-desc{font-size:13px;color:var(--muted);line-height:1.7;font-weight:300;max-width:680px;}
+.log-source{display:flex;align-items:center;gap:7px;font-size:11px;color:var(--muted);}
+.log-origen{font-family:'Courier Prime',monospace;font-size:10px;letter-spacing:0.04em;}
+
+/* ── FOOTER ── */
+#footer{
+  border-top:1px solid var(--border);
+  padding:clamp(32px,5vw,64px) clamp(24px,5vw,64px);
+  background:var(--surface);
+}
+.footer-inner{max-width:860px;margin:0 auto;}
+.footer-marca{font-family:'DM Serif Display',serif;font-size:22px;color:#fff;margin-bottom:20px;}
+.footer-aviso{
+  font-size:13px;color:var(--muted);line-height:1.8;
+  font-weight:300;max-width:640px;margin-bottom:24px;
+  border-left:2px solid var(--border);padding-left:16px;
+}
+.footer-aviso strong{color:var(--text);}
+.footer-meta{display:flex;align-items:center;gap:16px;flex-wrap:wrap;}
+.footer-link{color:var(--muted);text-decoration:none;font-size:12px;letter-spacing:0.06em;transition:color .15s;}
+.footer-link:hover{color:var(--text);}
+.footer-sep{color:var(--border);}
+.footer-date{font-family:'Courier Prime',monospace;font-size:11px;color:var(--muted);}
+
+/* ── NEWS TICKER ── */
+#ticker{
+  background:var(--lei);
+  display:flex;align-items:center;height:36px;overflow:hidden;
+  position:relative;z-index:400;flex-shrink:0;
+}
+.ticker-eye{
+  padding:0 20px;height:100%;display:flex;align-items:center;flex-shrink:0;
+  font-family:'Courier Prime',monospace;font-size:9px;letter-spacing:.22em;
+  text-transform:uppercase;color:#fff;white-space:nowrap;
+  background:rgba(0,0,0,0.25);border-right:1px solid rgba(255,255,255,0.15);
+  gap:8px;
+}
+.ticker-dot-live{width:5px;height:5px;border-radius:50%;background:#fff;animation:blink 1.2s infinite;}
+.ticker-wrap{flex:1;overflow:hidden;height:100%;position:relative;}
+.ticker-inner{
+  display:inline-flex;align-items:center;gap:48px;
+  white-space:nowrap;height:100%;padding-left:24px;
+  animation:tickscroll 50s linear infinite;
+}
+.ticker-item{font-family:'Courier Prime',monospace;font-size:11px;color:rgba(255,255,255,0.9);letter-spacing:.04em;}
+.ticker-sep{color:rgba(255,255,255,0.3);font-size:14px;flex-shrink:0;}
+@keyframes tickscroll{from{transform:translateX(0)}to{transform:translateX(-50%)}}
+
+/* ── STATS BAND ── */
+#stats-band{
+  display:flex;align-items:stretch;overflow-x:auto;
+  border-bottom:1px solid var(--border);
+  background:var(--surface);
+}
+.sband-item{
+  flex:1;min-width:140px;
+  padding:clamp(20px,2.8vw,34px) clamp(12px,2vw,24px);
+  display:flex;flex-direction:column;align-items:center;gap:7px;
+  text-align:center;
+}
+.sband-n{
+  font-family:'DM Serif Display',serif;
+  font-size:clamp(30px,5vw,56px);
+  line-height:1;font-weight:400;
+}
+.sband-l{font-size:9px;color:var(--muted);letter-spacing:.13em;text-transform:uppercase;line-height:1.4;}
+.sband-sep{width:1px;background:var(--border);align-self:stretch;flex-shrink:0;}
+
+/* ── SCROLL HINT ── */
+#hero-scroll{
+  position:absolute;bottom:clamp(20px,3vw,36px);left:50%;
+  transform:translateX(-50%);z-index:4;
+  display:flex;flex-direction:column;align-items:center;gap:6px;
+  font-family:'Courier Prime',monospace;font-size:9px;letter-spacing:.22em;
+  text-transform:uppercase;color:rgba(90,96,128,0.5);pointer-events:none;
+  animation:scrollbounce 2.4s ease-in-out infinite;
+}
+@keyframes scrollbounce{
+  0%,100%{transform:translateX(-50%) translateY(0);opacity:0.5}
+  50%{transform:translateX(-50%) translateY(6px);opacity:0.9}
+}
+
+/* ── HERO SCAN LINE ── */
+@keyframes scandown{0%{transform:translateY(-100%)}100%{transform:translateY(200%)}}
+#hero-scan{
+  position:absolute;left:0;width:40%;height:220px;
+  background:linear-gradient(180deg,transparent 0%,rgba(255,255,255,0.016) 50%,transparent 100%);
+  animation:scandown 7s ease-in-out infinite;
+  pointer-events:none;z-index:3;top:0;
+}
+
+/* Tooltip */
+#tt{position:fixed;background:var(--surface);border:1px solid var(--border);padding:7px 11px;font-size:11px;font-family:'Space Grotesk',sans-serif;color:var(--text);pointer-events:none;z-index:9999;max-width:200px;line-height:1.5;display:none;}
+::-webkit-scrollbar{width:4px;height:4px;}::-webkit-scrollbar-track{background:transparent;}::-webkit-scrollbar-thumb{background:rgba(255,255,255,.1);}
+</style>
+</head>
+<body>
+
+<div id="ticker">
+  <span class="ticker-eye"><span class="ticker-dot-live"></span>Última hora</span>
+  <div class="ticker-wrap">
+    <div class="ticker-inner" id="ticker-inner">
+      <span class="ticker-item">02/06 &nbsp;·&nbsp; Zapatero declara como investigado en la Audiencia Nacional · JCI Nº4</span>
+      <span class="ticker-sep">◆</span>
+      <span class="ticker-item">27/05 &nbsp;·&nbsp; 19.850€ en efectivo hallados en domicilio de Zarrías · Caso Leire Díez</span>
+      <span class="ticker-sep">◆</span>
+      <span class="ticker-item">26/05 &nbsp;·&nbsp; Ferraz 12 registrada durante 12 horas · Operación Fidelidad</span>
+      <span class="ticker-sep">◆</span>
+      <span class="ticker-item">19/05 &nbsp;·&nbsp; 60 evidencias incautadas en Ferraz 35 tras 5h43min de registro · Caso Zapatero</span>
+      <span class="ticker-sep">◆</span>
+    </div>
+  </div>
+</div>
+<header id="hdr">
+  <div class="hdr-marca">
+    <span class="hdr-df">Doble Fondo</span>
+    <span class="hdr-sep">·</span>
+    <span class="hdr-sub">Periodismo de datos</span>
+  </div>
+  <nav class="hdr-nav">
+    <a class="hdr-link" href="#casos">Casos</a>
+    <a class="hdr-link" href="#nexo">Conexiones</a>
+    <a class="hdr-link" href="personas.html">Personas</a>
+    <a class="hdr-link" href="metodologia.html">Metodología</a>
+  </nav>
+</header>
+
+<div id="hero">
+  <video id="hero-vid" autoplay muted loop playsinline>
+    <source src="assets/video_index.mp4" type="video/mp4">
+  </video>
+  <div id="hero-overlay"></div>
+  <div id="hero-scan"></div>
+  <div id="hero-text">
+    <div class="hero-eyebrow">
+      <span class="dot-live"></span>
+      2 casos activos · Audiencia Nacional
+    </div>
+    <h1 class="hero-h1">
+      Dos casos.<br><em>Una red.</em>
+    </h1>
+    <p class="hero-desc">
+      Fuentes primarias, sin filtro editorial. Tres capas de profundidad por caso: visualización interactiva, análisis documental y documentos oficiales adjuntos.
+    </p>
+    <div class="hero-chips">
+      <a class="hero-chip zap" href="casos/caso-zapatero.html">
+        <div class="hchip-top">
+          <span class="hchip-dot"></span>
+          <span class="hchip-eye">JCI Nº4 · Instrucción</span>
+        </div>
+        <div class="hchip-name">Red de influencias<br>Zapatero</div>
+        <div class="hchip-meta">
+          <span>4 investigados</span>
+          <span>+1,5M€</span>
+        </div>
+        <div class="hchip-cta">Abrir expediente →</div>
+      </a>
+      <a class="hero-chip lei" href="casos/caso-leire-diez.html">
+        <div class="hchip-top">
+          <span class="hchip-dot"></span>
+          <span class="hchip-eye">JCI Nº6 · Instrucción</span>
+        </div>
+        <div class="hchip-name">Operación<br>Fidelidad</div>
+        <div class="hchip-meta">
+          <span>5 investigados</span>
+          <span>+170k€</span>
+        </div>
+        <div class="hchip-cta">Abrir expediente →</div>
+      </a>
+    </div>
+  </div>
+
+  <div id="hero-scroll"><span>Explorar</span><span style="font-size:16px;line-height:1.2">↓</span></div>
+  <div id="hero-graph-wrap">
+    <div class="graph-caption">
+      <span>Red de relaciones · 2 casos activos · Junio 2026</span>
+      <div class="graph-leyenda">
+        <span class="gley-item"><span class="gley-dot" style="background:#2255ff"></span>Caso Zapatero</span>
+        <span class="gley-item"><span class="gley-dot" style="background:#ff3355"></span>Caso Leire Díez</span>
+        <span class="gley-item"><span class="gley-dot" style="background:#ffaa00"></span>Nexo / común</span>
+        <span class="gley-item"><span class="gley-dot" style="background:#9933ff"></span>Conexión documental</span>
+      </div>
+    </div>
+    <svg id="hero-svg"></svg>
+    <div id="hero-node-panel">
+      <button class="hpanel-close" onclick="this.parentElement.style.display='none'">×</button>
+    </div>
+    <div class="graph-hint">Clic en un nodo · Arrastra para explorar</div>
+  </div>
+</div>
+
+<section id="stats-band">
+  <div class="sband-item">
+    <div class="sband-n" data-count="9" style="color:var(--lei)">9</div>
+    <div class="sband-l">Investigados total</div>
+  </div>
+  <div class="sband-sep"></div>
+  <div class="sband-item">
+    <div class="sband-n" style="color:var(--zap)">+6M€</div>
+    <div class="sband-l">Flujos documentados</div>
+  </div>
+  <div class="sband-sep"></div>
+  <div class="sband-item">
+    <div class="sband-n" data-count="2" style="color:var(--text)">2</div>
+    <div class="sband-l">Juzgados AN</div>
+  </div>
+  <div class="sband-sep"></div>
+  <div class="sband-item">
+    <div class="sband-n" data-count="60" style="color:var(--zap)">60</div>
+    <div class="sband-l">Evidencias incautadas</div>
+  </div>
+  <div class="sband-sep"></div>
+  <div class="sband-item">
+    <div class="sband-n" data-count="19850" data-suffix="€" style="color:var(--amber)">19.850€</div>
+    <div class="sband-l">En efectivo · Zarrías</div>
+  </div>
+</section>
+
+<section id="casos">
+  <div class="sec-divider">
+    <span class="sec-divider-label">Casos en instrucción · AN 2026</span>
+  </div>
+  <div class="casos-grid">
+    <a href="casos/caso-zapatero.html" class="caso-card caso-zap" data-num="01">
+      <div class="card-eyebrow">
+        <span class="card-dot"></span>
+        Caso activo · JCI Nº4 · Instrucción
+        <span class="card-badge" id="badge-zap">Nuevo</span>
+      </div>
+      <div class="card-titulo">Red de<br>influencias<br>Zapatero</div>
+      <div class="card-juez">Juez: Calama Teixeira · DP 0000077/2024</div>
+      <div class="card-delitos">
+        <div class="card-delito">— Organización criminal (art. 570 bis)</div>
+        <div class="card-delito">— Tráfico de influencias (arts. 428-430)</div>
+        <div class="card-delito">— Apropiación indebida (art. 253)</div>
+        <div class="card-delito">— Falsedad documental + Blanqueo</div>
+      </div>
+      <div class="card-stats">
+        <div class="cstat">
+          <div class="cstat-n">4</div>
+          <div class="cstat-l">Investigados</div>
+        </div>
+        <div class="cstat">
+          <div class="cstat-n">+1,5M€</div>
+          <div class="cstat-l">A Zapatero y familia</div>
+        </div>
+        <div class="cstat">
+          <div class="cstat-n">60</div>
+          <div class="cstat-l">Evidencias</div>
+        </div>
+      </div>
+      <div class="card-footer">
+        <div class="card-src">
+          <span class="src-badge src-verificado"></span>
+          <span class="card-src-label">Acta de registro 19/05/2026</span>
+        </div>
+        <span class="card-cta">Ver expediente →</span>
+      </div>
+    </a>
+
+    <a href="casos/caso-leire-diez.html" class="caso-card caso-lei" data-num="02">
+      <div class="card-eyebrow">
+        <span class="card-dot"></span>
+        Caso activo · JCI Nº6 · Instrucción
+        <span class="card-badge" id="badge-lei">Nuevo</span>
+      </div>
+      <div class="card-titulo">Operación<br>Fidelidad<br>— Leire Díez</div>
+      <div class="card-juez">Juez: Santiago Pedraz · Audiencia Nacional</div>
+      <div class="card-delitos">
+        <div class="card-delito">— Obstrucción a la justicia (art. 464)</div>
+        <div class="card-delito">— Cohecho activo (arts. 419-426)</div>
+        <div class="card-delito">— Tráfico de influencias (arts. 428-430)</div>
+        <div class="card-delito">— Revelación de secretos (art. 417)</div>
+      </div>
+      <div class="card-stats">
+        <div class="cstat">
+          <div class="cstat-n">5</div>
+          <div class="cstat-l">Investigados</div>
+        </div>
+        <div class="cstat">
+          <div class="cstat-n">+170k€</div>
+          <div class="cstat-l">A Leire Díez</div>
+        </div>
+        <div class="cstat">
+          <div class="cstat-n">3</div>
+          <div class="cstat-l">Registros</div>
+        </div>
+      </div>
+      <div class="card-footer">
+        <div class="card-src">
+          <span class="src-badge src-periodistica"></span>
+          <span class="card-src-label">Actualizado 05/06/2026</span>
+        </div>
+        <span class="card-cta">Ver expediente →</span>
+      </div>
+    </a>
+  </div>
+</section>
+
+<section id="nexo">
+  <div class="nexo-inner">
+    <div class="nexo-eyebrow">El nexo documental</div>
+    <h2 class="nexo-h2">Dos investigaciones.<br><em>Una conexión.</em></h2>
+    <div class="nexo-grid">
+      <div class="nexo-item">
+        <div class="nexo-n">01</div>
+        <div class="nexo-titulo">"Reunión con ZP" — agenda manuscrita de Leire Díez</div>
+        <div class="nexo-desc">La UCO interviene una segunda agenda manuscrita con la anotación "reunión con ZP" — nexo documental directo entre los dos expedientes. Junto a ella, "reunión con PS" fechada el 3/02/2025.</div>
+        <div class="nexo-fuente"><span class="src-badge src-periodistica"></span>&thinsp;Fuente periodística · pendiente documento oficial del sumario</div>
+      </div>
+      <div class="nexo-item">
+        <div class="nexo-n">02</div>
+        <div class="nexo-titulo">Koldo García — presente en ambos sumarios</div>
+        <div class="nexo-desc">Koldo García Izaguirre aparece en el caso Zapatero como contacto de Ábalos en el Ministerio de Transportes. El caso Koldo es exactamente la investigación que la Operación Fidelidad intentó obstruir.</div>
+        <div class="nexo-fuente"><span class="src-badge src-oficial"></span>&thinsp;Documentado en autos judiciales</div>
+      </div>
+      <div class="nexo-item">
+        <div class="nexo-n">03</div>
+        <div class="nexo-titulo">Ferraz — epicentro de ambas tramas</div>
+        <div class="nexo-desc">Ferraz 35 (oficina de Zapatero) fue registrada el 19/05/2026 por la UDEF durante 5h43min. Ferraz 12 (sede del PSOE) fue registrada el 26/05/2026 durante 12 horas. Dos investigaciones, un mismo edificio.</div>
+        <div class="nexo-fuente"><span class="src-badge src-oficial"></span>&thinsp;Actas de registro disponibles en ambos casos</div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section id="actividad">
+  <div class="sec-divider">
+    <span class="sec-divider-label">Últimas actualizaciones</span>
+  </div>
+  <div id="log-lista"></div>
+</section>
+
+<footer id="footer">
+  <div class="footer-inner">
+    <div class="footer-marca">Doble Fondo</div>
+    <div class="footer-aviso">
+      <strong>Presunción de inocencia</strong> — Todos los investigados mencionados en este sitio son inocentes hasta sentencia firme. Los autos y sumarios describen indicios racionales recogidos por los juzgados de instrucción, no hechos probados. Estamos en fase de instrucción.
+    </div>
+    <div class="footer-meta">
+      <a class="footer-link" href="personas.html">Personas</a>
+      <span class="footer-sep">·</span>
+      <a class="footer-link" href="metodologia.html">Metodología</a>
+      <span class="footer-sep">·</span>
+      <a class="footer-link" href="archivo.html">Archivo</a>
+      <span class="footer-sep">·</span>
+      <span class="footer-date">Actualizado: junio 2026</span>
+    </div>
+  </div>
+</footer>
+
+<div id="tt"></div>
+
+<script>
+// ═══════════════════════════════════════════
+// LOG DE ACTUALIZACIONES
+// ═══════════════════════════════════════════
+const LOG = [
+  {
+    fecha:"05/06/2026", ts:"2026-06-05", caso:"Caso Leire Díez", casoClass:"lei", fuente:"periodistica",
+    titulo:"Segunda agenda manuscrita intervenida por UCO",
+    desc:"Anotación 'reunión con PS' (3/02/2025) y 'reunión con ZP' en agenda de Leire Díez. Nexo documental directo con el caso Zapatero. Pendiente: documento oficial del sumario.",
+    origen:"El Mundo / UCO vía medios"
+  },
+  {
+    fecha:"05/06/2026", ts:"2026-06-05", caso:"Caso Leire Díez", casoClass:"lei", fuente:"periodistica",
+    titulo:"UCO interpreta 'el One' explícitamente",
+    desc:"'Solo podría estar efectuada al presidente del Gobierno y secretario general del partido.' Cerdán como ideólogo del plan para atacar a jueces con fondos del PSOE. Armengol bloqueó comparecencia de Sánchez en el Congreso el 5/06/2026.",
+    origen:"Medios / UCO vía fuentes"
+  },
+  {
+    fecha:"Junio 2026", ts:"2026-06-01", caso:"Caso Leire Díez", casoClass:"lei", fuente:"oficial",
+    titulo:"Sumario levantado — secreto suprimido",
+    desc:"El juez Pedraz levanta el secreto del sumario. Investigados pendientes de citación para declarar como investigados formales en la Audiencia Nacional.",
+    origen:"JCI Nº6 · Juez Santiago Pedraz"
+  },
+  {
+    fecha:"02/06/2026", ts:"2026-06-02", caso:"Caso Zapatero", casoClass:"zap", fuente:"oficial",
+    titulo:"Zapatero declara como investigado",
+    desc:"Citado a las 09:00h en la Audiencia Nacional, planta 6ª. Primera declaración formal en el marco de las Diligencias Previas 0000077/2024.",
+    origen:"JCI Nº4 · Juez Calama Teixeira"
+  },
+  {
+    fecha:"27/05/2026", ts:"2026-05-27", caso:"Caso Leire Díez", casoClass:"lei", fuente:"oficial",
+    titulo:"Registro domicilio Zarrías — 19.850€ en efectivo hallados",
+    desc:"La Guardia Civil interviene 19.850€ en efectivo sin justificación documental en el domicilio de Gaspar Zarrías. Elemento clave para acreditar el delito de cohecho.",
+    origen:"Acta de registro · JCI Nº6"
+  },
+  {
+    fecha:"19/05/2026", ts:"2026-05-19", caso:"Caso Zapatero", casoClass:"zap", fuente:"verificado",
+    titulo:"Acta de registro Ferraz 35 — 60 evidencias incautadas",
+    desc:"UDEF registra la oficina de Zapatero durante 5h43min. 60 evidencias: 7 agendas presidenciales (2019-2025), contratos, 3 volcados digitales completos con hash SHA1 documentados.",
+    origen:"Acta de entrada y registro · UDEF"
+  },
+];
+
+function addBadges(){
+  const now=Date.now(), w=21*86400000;
+  const chk=(cls)=>LOG.filter(e=>e.casoClass===cls&&e.ts).some(e=>(now-new Date(e.ts))<w);
+  if(chk('zap')) document.getElementById('badge-zap').classList.add('visible');
+  if(chk('lei')) document.getElementById('badge-lei').classList.add('visible');
+}
+
+function buildLog(){
+  const fInfo = {
+    periodistica:{ label:"Fuente periodística", cls:"src-periodistica" },
+    oficial:{ label:"Documento oficial", cls:"src-oficial" },
+    verificado:{ label:"Verificado + archivo", cls:"src-verificado" }
+  };
+  const lista = document.getElementById("log-lista");
+  LOG.forEach(e => {
+    const f = fInfo[e.fuente];
+    const d = document.createElement("div");
+    d.className = `log-entry log-${e.casoClass}`;
+    d.innerHTML = `
+      <div class="log-meta">
+        <span class="log-fecha">${e.fecha}</span>
+        <span class="log-caso log-caso-${e.casoClass}">${e.caso}</span>
+      </div>
+      <div class="log-titulo">${e.titulo}</div>
+      <div class="log-desc">${e.desc}</div>
+      <div class="log-source">
+        <span class="src-badge ${f.cls}"></span>
+        <span class="log-origen">${f.label} · ${e.origen}</span>
+      </div>`;
+    lista.appendChild(d);
+  });
+}
+
+// ═══════════════════════════════════════════
+// GRAFO HERO — DATOS
+// ═══════════════════════════════════════════
+const HNODOS = [
+  // Zapatero cluster
+  {id:"zapatero",   label:"J.L. Zapatero",      caso:"zap", sub:"investigado", info:"Investigado principal. JCI nº4. 5 delitos: organización criminal, tráfico de influencias, apropiación indebida, falsedad documental y blanqueo. Declaró el 02/06/2026."},
+  {id:"julio_mm",   label:"Julio MM",            caso:"zap", sub:"investigado", info:"Lugarteniente principal. Administrador de Análisis Relevante, Idella, Voli Analítica e Iot Domotic. Borra sistemáticamente los mensajes enviados a Zapatero."},
+  {id:"ar",         label:"Análisis\nRelevante", caso:"zap", sub:"sociedad",    info:"Centro financiero del entramado Zapatero. 959.798€ de ingresos (2020-2025). Recibe de clientes y paga a Zapatero, Whathefav."},
+  {id:"plusultra",  label:"Plus Ultra",          caso:"zap", sub:"cliente",     info:"Cliente principal. Obtuvo 53M€ del FASEE. Pagó más de 6M€ al entramado de Julio MM."},
+  {id:"whathefav",  label:"Whathefav",           caso:"zap", sub:"sociedad",    info:"Sociedad de las hijas de Zapatero (Laura y Alba). Recibe y redistribuye fondos del entramado."},
+  // Leire cluster
+  {id:"cerdan",     label:"S. Cerdán",           caso:"lei", sub:"investigado", info:"Líder estratégico de la Operación Fidelidad. Excoordinador federal del PSOE. Domicilio registrado el 26/05/2026."},
+  {id:"leire",      label:"Leire Díez",          caso:"lei", sub:"investigado", info:"Coordinadora ejecutiva. +170.000€ documentados vía consultora de Zarrías y despacho Ismael Oliver. 4.000€/mes."},
+  {id:"zarrias",    label:"G. Zarrías",          caso:"lei", sub:"investigado", info:"Exsecretario de Estado. Proporciona la consultora instrumental de pagos. 19.850€ en efectivo hallados en su domicilio el 27/05/2026."},
+  {id:"sanchez",    label:"P. Sánchez",          caso:"lei", sub:"relacionado", info:"Referenciado como 'el one' ×4 en el sumario. UCO: 'solo podría ser el presidente del Gobierno y secretario general del partido'. Niega conocimiento."},
+  {id:"consultora", label:"Consultora\nZarrías", caso:"lei", sub:"sociedad",    info:"Canal principal de retribución a Leire Díez. 4.000€/mes bajo cobertura de servicios de consultoría."},
+  // Bridge / común
+  {id:"ferraz",     label:"Ferraz",              caso:"bridge", sub:"lugar",        info:"Ferraz 35: oficina de Zapatero, registrada 19/05/2026 (5h43min, 60 evidencias). Ferraz 12: sede PSOE, registrada 26/05/2026 (12 horas)."},
+  {id:"koldo",      label:"Koldo García",        caso:"bridge", sub:"relacionado",  info:"Aparece en el caso Zapatero como contacto de Ábalos en Transportes. El caso Koldo es la investigación que la Operación Fidelidad intentó obstruir."},
+  {id:"an",         label:"Audiencia\nNacional", caso:"bridge", sub:"institucion",  info:"JCI nº4: caso Zapatero, juez Calama Teixeira. JCI nº6: caso Leire Díez, juez Santiago Pedraz."},
+];
+
+const HLINKS = [
+  // ZP interno
+  {s:"zapatero",  t:"julio_mm",   tipo:"zap"},
+  {s:"zapatero",  t:"ar",         tipo:"zap"},
+  {s:"ar",        t:"zapatero",   tipo:"zap"},
+  {s:"ar",        t:"whathefav",  tipo:"zap"},
+  {s:"plusultra", t:"ar",         tipo:"zap"},
+  // Lei interno
+  {s:"cerdan",    t:"leire",      tipo:"lei"},
+  {s:"cerdan",    t:"zarrias",    tipo:"lei"},
+  {s:"sanchez",   t:"cerdan",     tipo:"lei"},
+  {s:"zarrias",   t:"consultora", tipo:"lei"},
+  {s:"consultora",t:"leire",      tipo:"lei"},
+  // Puentes
+  {s:"zapatero",  t:"ferraz",     tipo:"bridge"},
+  {s:"ferraz",    t:"cerdan",     tipo:"bridge"},
+  {s:"koldo",     t:"zapatero",   tipo:"bridge"},
+  {s:"koldo",     t:"cerdan",     tipo:"bridge"},
+  {s:"leire",     t:"zapatero",   tipo:"conexion"},
+  {s:"an",        t:"zapatero",   tipo:"bridge"},
+  {s:"an",        t:"cerdan",     tipo:"bridge"},
+];
+
+const HC_NODE = d => {
+  if(d.caso === "bridge") return "#ffaa00";
+  if(d.caso === "zap") {
+    if(d.sub === "investigado") return "#2255ff";
+    if(d.sub === "cliente")    return "#9933ff";
+    return "rgba(34,85,255,0.55)";
+  }
+  if(d.caso === "lei") {
+    if(d.sub === "investigado") return "#ff3355";
+    return "rgba(255,51,85,0.55)";
+  }
+  return "#5a6080";
+};
+
+const HC_LINK = { zap:"#2255ff", lei:"#ff3355", bridge:"#ffaa00", conexion:"#9933ff" };
+
+// ═══════════════════════════════════════════
+// GRAFO HERO — RENDER
+// ═══════════════════════════════════════════
+let heroSim;
+
+function initHeroGraph(){
+  const wrap = document.getElementById("hero-graph-wrap");
+  const rect = wrap.getBoundingClientRect();
+  const W = rect.width  || 600;
+  const H = rect.height > 100 ? rect.height : Math.max(window.innerHeight - 56, 420);
+
+  const svgEl = d3.select("#hero-svg").attr("width",W).attr("height",H);
+  svgEl.selectAll("*").remove();
+
+  const defs = svgEl.append("defs");
+
+  // Glow filter
+  const gf = defs.append("filter").attr("id","hglow")
+    .attr("x","-50%").attr("y","-50%").attr("width","200%").attr("height","200%");
+  gf.append("feGaussianBlur").attr("stdDeviation","5").attr("result","b");
+  const fm = gf.append("feMerge");
+  fm.append("feMergeNode").attr("in","b");
+  fm.append("feMergeNode").attr("in","SourceGraphic");
+
+  // Arrow markers
+  Object.entries(HC_LINK).forEach(([k,c]) => {
+    defs.append("marker")
+      .attr("id","ha-"+k).attr("viewBox","0 -4 8 8")
+      .attr("refX",14).attr("refY",0)
+      .attr("markerWidth",4).attr("markerHeight",4)
+      .attr("orient","auto")
+      .append("path").attr("d","M0,-4L8,0L0,4")
+      .attr("fill",c).attr("opacity",0.55);
+  });
+
+  const gEl = svgEl.append("g");
+
+  const nodes = HNODOS.map(n => ({...n}));
+  const links = HLINKS.map(l => ({...l, source:l.s, target:l.t}));
+
+  // Pre-position by cluster — shifted right so nodes clear the text overlay (0-46% = text area)
+  nodes.forEach(d => {
+    if(d.caso === "zap")    { d.x = W*0.52+(Math.random()-0.5)*80; d.y = H*0.48+(Math.random()-0.5)*120; }
+    else if(d.caso === "lei"){ d.x = W*0.82+(Math.random()-0.5)*80; d.y = H*0.52+(Math.random()-0.5)*120; }
+    else                    { d.x = W*0.65+(Math.random()-0.5)*60; d.y = H*0.50+(Math.random()-0.5)*80; }
+  });
+
+  // Fix central nodes initially
+  const zn = nodes.find(n => n.id === "zapatero");
+  const cn = nodes.find(n => n.id === "cerdan");
+  const fn = nodes.find(n => n.id === "ferraz");
+  if(zn){ zn.fx = W*0.48; zn.fy = H*0.50; }
+  if(cn){ cn.fx = W*0.82; cn.fy = H*0.50; }
+  if(fn){ fn.fx = W*0.65; fn.fy = H*0.46; }
+
+  if(heroSim) heroSim.stop();
+
+  heroSim = d3.forceSimulation(nodes)
+    .force("link", d3.forceLink(links).id(d=>d.id).distance(110).strength(0.28))
+    .force("charge", d3.forceManyBody().strength(-480))
+    .force("collide", d3.forceCollide(42))
+    .alphaDecay(0.020);
+
+  // Cluster separation force — keep clusters in right half
+  heroSim.force("cluster", alpha => {
+    nodes.forEach(d => {
+      const tx = d.caso === "zap" ? W*0.52 : d.caso === "lei" ? W*0.82 : W*0.65;
+      d.vx += (tx - d.x) * alpha * 0.04;
+    });
+  });
+
+  // Links
+  const lEls = gEl.append("g").selectAll("line").data(links).enter().append("line")
+    .attr("stroke", d => HC_LINK[d.tipo] || "#334466")
+    .attr("stroke-width", d => d.tipo === "conexion" ? 3 : 1.6)
+    .attr("stroke-opacity", d => d.tipo === "conexion" ? 0.9 : d.tipo === "bridge" ? 0.55 : 0.40)
+    .attr("stroke-dasharray", d => d.tipo === "conexion" ? "6,3" : null)
+    .attr("marker-end", d => `url(#ha-${d.tipo})`);
+
+  // Node groups
+  const nEls = gEl.append("g").selectAll("g.hnd").data(nodes).enter()
+    .append("g").attr("class","hnd").style("cursor","pointer")
+    .call(d3.drag()
+      .on("start",(e,d)=>{ if(!e.active) heroSim.alphaTarget(0.3).restart(); d.fx=d.x; d.fy=d.y; })
+      .on("drag", (e,d)=>{ d.fx=e.x; d.fy=e.y; })
+      .on("end",  (e,d)=>{ if(!e.active) heroSim.alphaTarget(0); d.fx=null; d.fy=null; }))
+    .on("click", (e,d) => { e.stopPropagation(); showHeroNode(d); })
+    .on("mouseenter", (e,d) => hTip(d.label.replace(/\n/g," ")))
+    .on("mouseleave", hHideTip);
+
+  // Glow rings — outer pulse
+  nEls.filter(d => d.sub === "investigado").append("circle")
+    .attr("r",32).attr("fill","none")
+    .attr("stroke", d => HC_NODE(d)).attr("stroke-width",1)
+    .attr("stroke-opacity",0.18).attr("filter","url(#hglow)");
+
+  // Main circles
+  nEls.append("circle")
+    .attr("r", d => {
+      if(["zapatero","cerdan","leire"].includes(d.id)) return 28;
+      if(d.sub === "investigado") return 19;
+      if(d.caso === "bridge")     return 16;
+      return 12;
+    })
+    .attr("fill", d => d.sub === "investigado" ? HC_NODE(d) : "rgba(13,15,26,0.88)")
+    .attr("stroke", d => HC_NODE(d))
+    .attr("stroke-width", d => ["zapatero","cerdan","leire"].includes(d.id) ? 2.5 : 1.8)
+    .attr("filter", d => d.sub === "investigado" ? "url(#hglow)" : null);
+
+  // Labels
+  nEls.each(function(d){
+    const r = ["zapatero","cerdan","leire"].includes(d.id) ? 28
+             : d.sub === "investigado" ? 19
+             : d.caso === "bridge" ? 16 : 12;
+    const lines = d.label.split("\n");
+    const t = d3.select(this).append("text")
+      .attr("text-anchor","middle").attr("dy", r+12)
+      .attr("fill","rgba(212,216,240,0.9)")
+      .attr("font-family","'Space Grotesk',sans-serif")
+      .attr("font-size", ["zapatero","cerdan","leire"].includes(d.id)?"10px":d.sub==="investigado"?"9px":"8px")
+      .attr("font-weight", d.sub==="investigado"?"600":"400");
+    lines.forEach((ln,i) => {
+      t.append("tspan").attr("x",0).attr("dy", i===0?0:"1.1em").text(ln);
+    });
+  });
+
+  // Tick — keep nodes in right 55% to avoid overlapping the text overlay
+  const xMin = W * 0.40;
+  heroSim.on("tick",() => {
+    lEls.attr("x1",d=>d.source.x).attr("y1",d=>d.source.y)
+        .attr("x2",d=>d.target.x).attr("y2",d=>d.target.y);
+    nEls.attr("transform",d=>`translate(${Math.max(xMin,Math.min(W-30,d.x))},${Math.max(30,Math.min(H-30,d.y))})`);
+  });
+
+  // Release fixed nodes after simulation settles
+  setTimeout(() => {
+    [zn, cn, fn].forEach(n => { if(n){ n.fx=null; n.fy=null; } });
+    heroSim.alpha(0.1).restart();
+  }, 3500);
+}
+
+function showHeroNode(d){
+  const p = document.getElementById("hero-node-panel");
+  const casoLabel = d.caso==="zap" ? "Caso Zapatero · JCI nº4"
+                  : d.caso==="lei" ? "Caso Leire Díez · JCI nº6"
+                  : "Nexo / común";
+  p.innerHTML = `
+    <button class="hpanel-close" onclick="this.parentElement.style.display='none'">×</button>
+    <div class="hpanel-caso hpanel-${d.caso}">${casoLabel}</div>
+    <div class="hpanel-nombre">${d.label.replace(/\n/g," ")}</div>
+    <div class="hpanel-info">${d.info}</div>`;
+  p.style.display = "block";
+}
+
+// Tooltip
+const ttEl = document.getElementById("tt");
+function hTip(txt){ ttEl.style.display="block"; ttEl.textContent=txt; }
+function hHideTip(){ ttEl.style.display="none"; }
+document.addEventListener("mousemove", e => {
+  ttEl.style.left = (e.clientX+12)+"px";
+  ttEl.style.top  = (e.clientY-24)+"px";
+});
+
+
+// ── TICKER LOOP ──
+(function(){
+  const ti = document.getElementById('ticker-inner');
+  if(ti) ti.innerHTML += ti.innerHTML;
+})();
+
+// ── PARALLAX RATÓN ──
+(function(){
+  const gw = document.getElementById('hero-graph-wrap');
+  if(!gw) return;
+  let tx=0,ty=0,cx=0,cy=0;
+  window.addEventListener('mousemove',e=>{
+    const hero = document.getElementById('hero');
+    if(!hero) return;
+    const r = hero.getBoundingClientRect();
+    if(e.clientY > r.bottom) return;
+    tx=(e.clientX/window.innerWidth-.5)*18;
+    ty=(e.clientY/window.innerHeight-.5)*9;
+  });
+  (function loop(){
+    cx+=(tx-cx)*.055; cy+=(ty-cy)*.055;
+    gw.style.transform=`translate(${cx.toFixed(2)}px,${cy.toFixed(2)}px)`;
+    requestAnimationFrame(loop);
+  })();
+})();
+
+function animateCounters(){
+  const els = document.querySelectorAll('.sband-n[data-count]');
+  if(!els.length) return;
+  const obs = new IntersectionObserver((entries)=>{
+    entries.forEach(e=>{
+      if(!e.isIntersecting) return;
+      const el = e.target;
+      const target = parseInt(el.dataset.count);
+      const suffix = el.dataset.suffix || '';
+      const dur = 1100, t0 = performance.now();
+      const tick = (now)=>{
+        const p = Math.min((now-t0)/dur, 1);
+        const ease = 1-Math.pow(1-p, 3);
+        const val = Math.round(target*ease);
+        el.textContent = val.toLocaleString('es-ES') + suffix;
+        if(p < 1) requestAnimationFrame(tick);
+      };
+      requestAnimationFrame(tick);
+      obs.unobserve(el);
+    });
+  },{threshold:0.6});
+  els.forEach(el=>obs.observe(el));
+}
+
+window.addEventListener("DOMContentLoaded",() => {
+  buildLog();
+  addBadges();
+  animateCounters();
+  initHeroGraph();
+  let resizeTimer;
+  window.addEventListener("resize",() => {
+    clearTimeout(resizeTimer);
+    resizeTimer = setTimeout(initHeroGraph, 120);
+  });
+});
+</script>
+</body>
+</html>
