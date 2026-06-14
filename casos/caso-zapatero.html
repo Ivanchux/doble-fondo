@@ -228,7 +228,7 @@ h1 em {
 /* ─── NAV ─── */
 #nav {
   position: sticky;
-  top: 0;
+  top: 48px;
   z-index: 200;
   background: rgba(7,8,15,0.96);
   backdrop-filter: blur(12px);
@@ -498,6 +498,10 @@ h1 em {
   padding: clamp(24px,5vw,64px);
   max-width: 800px;
   margin: 0 auto;
+  background-image:
+    linear-gradient(rgba(34,85,255,0.018) 1px, transparent 1px),
+    linear-gradient(90deg, rgba(34,85,255,0.018) 1px, transparent 1px);
+  background-size: 52px 52px;
 }
 
 .sec-head {
@@ -598,6 +602,10 @@ h1 em {
 /* ─── FLUJOS ─── */
 #flujos-wrap {
   padding: clamp(24px,5vw,64px);
+  background-image:
+    linear-gradient(rgba(34,85,255,0.018) 1px, transparent 1px),
+    linear-gradient(90deg, rgba(34,85,255,0.018) 1px, transparent 1px);
+  background-size: 52px 52px;
 }
 
 .stats-row {
@@ -721,6 +729,10 @@ h1 em {
   padding: clamp(24px,5vw,64px);
   max-width: 720px;
   margin: 0 auto;
+  background-image:
+    linear-gradient(rgba(34,85,255,0.018) 1px, transparent 1px),
+    linear-gradient(90deg, rgba(34,85,255,0.018) 1px, transparent 1px);
+  background-size: 52px 52px;
 }
 
 .aviso {
@@ -833,7 +845,7 @@ h1 em {
 .src-periodistica{background:#ffaa00;}
 .src-oficial{background:#2255ff;}
 .src-verificado{background:#00cc88;}
-#changelog-wrap{padding:clamp(24px,5vw,64px);max-width:800px;margin:0 auto;}
+#changelog-wrap{padding:clamp(24px,5vw,64px);max-width:800px;margin:0 auto;background-image:linear-gradient(rgba(34,85,255,0.018) 1px,transparent 1px),linear-gradient(90deg,rgba(34,85,255,0.018) 1px,transparent 1px);background-size:52px 52px;}
 .fuente-leyenda{display:flex;flex-direction:column;gap:10px;margin-bottom:clamp(32px,5vw,48px);padding:clamp(16px,2.5vw,24px);background:var(--surface);border:1px solid var(--border);}
 .fuente-pill{display:flex;align-items:center;gap:8px;font-family:'Courier Prime',monospace;font-size:11px;letter-spacing:.05em;color:var(--muted);}
 .cl-entry{padding:clamp(18px,2.5vw,26px) 0 clamp(18px,2.5vw,26px) 28px;border-bottom:1px solid var(--border);position:relative;display:grid;gap:6px;}
