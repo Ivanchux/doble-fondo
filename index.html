@@ -77,6 +77,11 @@ body{background:var(--bg);color:var(--text);font-family:'Space Grotesk',sans-ser
   background:var(--lei);flex-shrink:0;animation:blink 2s infinite;
 }
 @keyframes blink{0%,100%{opacity:1}50%{opacity:0.2}}
+@keyframes fadeUp{from{opacity:0;transform:translateY(18px)}to{opacity:1;transform:translateY(0)}}
+.hero-eyebrow{animation:fadeUp .7s .1s both;}
+.hero-h1{animation:fadeUp .85s .28s both;}
+.hero-desc{animation:fadeUp .7s .5s both;}
+.hero-chips{animation:fadeUp .7s .68s both;}
 .hero-h1{
   font-family:'DM Serif Display',serif;
   font-size:clamp(72px,11vw,140px);
