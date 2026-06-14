@@ -157,11 +157,35 @@ h1 em { font-style:italic; color:var(--accent); }
 .cl-desc{font-size:13px;color:var(--muted);line-height:1.75;font-weight:300;max-width:640px;}
 .cl-origen{font-family:'Courier Prime',monospace;font-size:10px;color:var(--muted);letter-spacing:.04em;}
 .cl-origen a{color:var(--accent);text-decoration:none;}
+/* ─── RELACIONADOS ─── */
+#relacionados-wrap{padding:clamp(40px,6vw,80px) clamp(16px,5vw,80px) clamp(60px,8vw,100px);border-top:1px solid var(--border);}
+.rel-grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(260px,1fr));gap:16px;margin-top:32px;}
+.rel-card{border:1px solid var(--border);padding:24px;background:var(--surface);text-decoration:none;display:block;transition:border-color .2s,background .2s;}
+a.rel-card:hover{border-color:var(--accent);background:rgba(255,51,85,0.04);}
+.rel-card.rel-prox{cursor:default;}
+.rel-eyebrow{font-family:'Courier Prime',monospace;font-size:10px;letter-spacing:.15em;margin-bottom:10px;color:var(--accent);}
+.rel-eyebrow.rel-dim{color:var(--muted);}
+.rel-title{font-family:'DM Serif Display',serif;font-size:20px;margin-bottom:8px;font-style:italic;color:var(--text);}
+.rel-title.rel-dim{color:var(--muted);}
+.rel-desc{font-size:13px;color:var(--muted);line-height:1.55;}
+.rel-cta{font-family:'Courier Prime',monospace;font-size:10px;letter-spacing:.1em;margin-top:16px;color:var(--accent);}
+.rel-cta.rel-dim{color:var(--muted);}
 /* ── SITE HEADER ── */
 #site-hdr{background:rgba(7,8,15,0.92);backdrop-filter:blur(12px);border-bottom:1px solid var(--border);display:flex;align-items:center;justify-content:space-between;padding:0 clamp(16px,4vw,48px);height:48px;position:sticky;top:0;z-index:300;}
 .shdr-back,.shdr-otro{color:var(--muted);text-decoration:none;font-family:'Courier Prime',monospace;font-size:11px;letter-spacing:.08em;transition:color .2s;}
 .shdr-back:hover,.shdr-otro:hover{color:var(--text);}
 .shdr-logo{font-family:'DM Serif Display',serif;font-size:15px;color:rgba(255,255,255,0.3);pointer-events:none;}
+/* ── FOOTER ── */
+#footer{border-top:1px solid var(--border);padding:clamp(32px,5vw,64px) clamp(24px,5vw,64px);background:var(--surface);}
+.footer-inner{max-width:860px;margin:0 auto;}
+.footer-marca{font-family:'DM Serif Display',serif;font-size:22px;color:#fff;margin-bottom:20px;}
+.footer-aviso{font-size:13px;color:var(--muted);line-height:1.8;font-weight:300;max-width:640px;margin-bottom:24px;border-left:2px solid var(--border);padding-left:16px;}
+.footer-aviso strong{color:var(--text);}
+.footer-meta{display:flex;align-items:center;gap:16px;flex-wrap:wrap;}
+.footer-link{color:var(--muted);text-decoration:none;font-size:12px;letter-spacing:.06em;transition:color .15s;}
+.footer-link:hover{color:var(--text);}
+.footer-sep{color:var(--border);}
+.footer-date{font-family:'Courier Prime',monospace;font-size:11px;color:var(--muted);}
 </style>
 </head>
 <body>
@@ -320,30 +344,30 @@ h1 em { font-style:italic; color:var(--accent); }
 
 <div id="tt"></div>
 
-<div id="relacionados-wrap" style="padding:40px clamp(16px,5vw,80px) 80px;border-top:1px solid #111;">
+<div id="relacionados-wrap">
   <div class="sec-head">
     <div class="sec-eyebrow">Casos relacionados</div>
     <h2 class="sec-h2">La red<br>más amplia</h2>
     <p class="sec-sub">Investigaciones conectadas a través de personas, patrones de conducta o estructuras comunes.</p>
   </div>
-  <div style="display:grid;grid-template-columns:repeat(auto-fill,minmax(260px,1fr));gap:16px;margin-top:32px;">
-    <a href="caso-zapatero.html" style="display:block;text-decoration:none;border:1px solid #1a2040;padding:24px;background:#080c1a;transition:border-color .2s;" onmouseover="this.style.borderColor='#ff3355'" onmouseout="this.style.borderColor='#1a2040'">
-      <div style="font-family:'Courier Prime',monospace;font-size:10px;color:#ff3355;letter-spacing:.15em;margin-bottom:10px;">CASO ACTIVO · JCI Nº4</div>
-      <div style="font-family:'DM Serif Display',serif;font-size:20px;color:#e8e0d0;margin-bottom:8px;font-style:italic;">Red de Influencias Zapatero</div>
-      <div style="font-family:'Space Grotesk',sans-serif;font-size:13px;color:#5a6080;line-height:1.5;">Organización criminal, tráfico de influencias, apropiación indebida, falsedad documental y blanqueo. UDEF registró Ferraz 35 el 19/05/2026. Juez: Calama Teixeira.</div>
-      <div style="font-family:'Courier Prime',monospace;font-size:10px;color:#ff3355;margin-top:16px;letter-spacing:.1em;">Ver caso →</div>
+  <div class="rel-grid">
+    <a href="caso-zapatero.html" class="rel-card">
+      <div class="rel-eyebrow">CASO ACTIVO · JCI Nº4</div>
+      <div class="rel-title">Red de Influencias Zapatero</div>
+      <div class="rel-desc">Organización criminal, tráfico de influencias, apropiación indebida, falsedad documental y blanqueo. UDEF registró Ferraz 35 el 19/05/2026. Juez: Calama Teixeira.</div>
+      <div class="rel-cta">Ver caso →</div>
     </a>
-    <div style="border:1px solid #111;padding:24px;background:#080c1a;">
-      <div style="font-family:'Courier Prime',monospace;font-size:10px;color:#334466;letter-spacing:.15em;margin-bottom:10px;">CASO CONEXO · AN</div>
-      <div style="font-family:'DM Serif Display',serif;font-size:20px;color:#5a6080;margin-bottom:8px;font-style:italic;">Caso Koldo</div>
-      <div style="font-family:'Space Grotesk',sans-serif;font-size:13px;color:#334466;line-height:1.5;">El caso que la Operación Fidelidad intentó neutralizar. Comisiones ilegales en contratos de mascarillas vinculadas al entorno de Ábalos y el PSOE vasco.</div>
-      <div style="font-family:'Courier Prime',monospace;font-size:10px;color:#334466;margin-top:16px;letter-spacing:.1em;">Próximamente</div>
+    <div class="rel-card rel-prox">
+      <div class="rel-eyebrow rel-dim">CASO CONEXO · AN</div>
+      <div class="rel-title rel-dim">Caso Koldo</div>
+      <div class="rel-desc">El caso que la Operación Fidelidad intentó neutralizar. Comisiones ilegales en contratos de mascarillas vinculadas al entorno de Ábalos y el PSOE vasco.</div>
+      <div class="rel-cta rel-dim">Próximamente</div>
     </div>
-    <div style="border:1px solid #111;padding:24px;background:#080c1a;">
-      <div style="font-family:'Courier Prime',monospace;font-size:10px;color:#334466;letter-spacing:.15em;margin-bottom:10px;">CASO CONEXO · AN</div>
-      <div style="font-family:'DM Serif Display',serif;font-size:20px;color:#5a6080;margin-bottom:8px;font-style:italic;">Caso Tándem / Villarejo</div>
-      <div style="font-family:'Space Grotesk',sans-serif;font-size:13px;color:#334466;line-height:1.5;">Antecedente de las técnicas de presión sobre fiscales e investigadores documentadas en este sumario. Red de espionaje privado con ramificaciones políticas.</div>
-      <div style="font-family:'Courier Prime',monospace;font-size:10px;color:#334466;margin-top:16px;letter-spacing:.1em;">Próximamente</div>
+    <div class="rel-card rel-prox">
+      <div class="rel-eyebrow rel-dim">CASO CONEXO · AN</div>
+      <div class="rel-title rel-dim">Caso Tándem / Villarejo</div>
+      <div class="rel-desc">Antecedente de las técnicas de presión sobre fiscales e investigadores documentadas en este sumario. Red de espionaje privado con ramificaciones políticas.</div>
+      <div class="rel-cta rel-dim">Próximamente</div>
     </div>
   </div>
 </div>
@@ -756,5 +780,23 @@ window.addEventListener("DOMContentLoaded",()=>{
   });
 });
 </script>
+
+<footer id="footer">
+  <div class="footer-inner">
+    <div class="footer-marca">Doble Fondo</div>
+    <div class="footer-aviso">
+      <strong>Presunción de inocencia</strong> — Todos los investigados mencionados en este sitio son inocentes hasta sentencia firme. Los autos y sumarios describen indicios racionales recogidos por los juzgados de instrucción, no hechos probados. Estamos en fase de instrucción.
+    </div>
+    <div class="footer-meta">
+      <a class="footer-link" href="../index.html">Inicio</a>
+      <span class="footer-sep">·</span>
+      <a class="footer-link" href="../personas.html">Personas</a>
+      <span class="footer-sep">·</span>
+      <a class="footer-link" href="../metodologia.html">Metodología</a>
+      <span class="footer-sep">·</span>
+      <span class="footer-date">Actualizado: junio 2026</span>
+    </div>
+  </div>
+</footer>
 </body>
 </html>
