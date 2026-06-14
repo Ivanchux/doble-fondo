@@ -1,22 +1,46 @@
-# Sistema
+# ── Claude / AI tools ──────────────────────────────────────────
+.claude/
+*.jsonl
+memory/
+CLAUDE.md
+
+# ── Sistema operativo ──────────────────────────────────────────
 .DS_Store
+.DS_Store?
+._*
 Thumbs.db
 desktop.ini
+ehthumbs.db
 
-# Editores
+# ── Editores e IDEs ────────────────────────────────────────────
+.vscode/
+.idea/
 *.swp
 *.swo
 *~
-.vscode/
-.idea/
+*.sublime-project
+*.sublime-workspace
 
-# Archivos grandes / binarios que no deben entrar en git
+# ── Archivos de entorno y secretos ────────────────────────────
+.env
+.env.*
+*.pem
+*.key
+secrets/
+
+# ── Binarios y archivos grandes (no código web) ───────────────
 *.mp4
 *.mov
 *.avi
 *.mkv
 *.zip
 *.tar.gz
+*.rar
+*.7z
 
-# Dependencias (si se añaden en el futuro)
+# ── Dependencias (si se añaden en el futuro) ──────────────────
 node_modules/
+package-lock.json
+
+# ── Herramientas internas (no parte del sitio público) ────────
+doble-fondo-editor.html
