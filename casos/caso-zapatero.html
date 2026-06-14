@@ -46,6 +46,12 @@ body {
   position: relative;
   border-bottom: 1px solid var(--border);
   overflow: hidden;
+  background-image:
+    linear-gradient(to bottom, rgba(7,8,15,0) 40%, rgba(7,8,15,0.97) 100%),
+    radial-gradient(ellipse 55% 55% at 62% 28%, rgba(34,85,255,0.09) 0%, transparent 65%),
+    linear-gradient(rgba(34,85,255,0.04) 1px, transparent 1px),
+    linear-gradient(90deg, rgba(34,85,255,0.04) 1px, transparent 1px);
+  background-size: 100% 100%, 100% 100%, 52px 52px, 52px 52px;
 }
 
 .portada-num {
@@ -129,9 +135,94 @@ h1 em {
   font-size: clamp(10px,1.4vw,12px);
   color: var(--text);
   letter-spacing: 0.05em;
-  padding: 6px 14px;
-  border: 1px solid var(--border);
+  padding: 6px 14px 6px 12px;
+  border: none;
+  border-left: 2px solid var(--accent);
+  background: rgba(34,85,255,0.05);
   width: fit-content;
+  transition: background .2s;
+}
+.delito-tag:hover { background: rgba(34,85,255,0.13); }
+
+/* ─── PORTADA VISUAL ─── */
+.portada-bg-num {
+  position: absolute;
+  top: 48%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  font-family: 'DM Serif Display', serif;
+  font-style: italic;
+  font-size: clamp(260px, 42vw, 560px);
+  line-height: 1;
+  color: var(--accent);
+  opacity: 0.038;
+  pointer-events: none;
+  letter-spacing: -0.04em;
+  user-select: none;
+  z-index: 0;
+  white-space: nowrap;
+}
+.portada-radar {
+  position: absolute;
+  top: clamp(60px, 10vh, 110px);
+  right: clamp(60px, 10vw, 140px);
+  width: clamp(100px, 13vw, 170px);
+  height: clamp(100px, 13vw, 170px);
+  pointer-events: none;
+  z-index: 0;
+}
+.portada-radar-ring {
+  position: absolute;
+  border-radius: 50%;
+  inset: 0;
+  border: 1px solid rgba(34,85,255,0.18);
+}
+.portada-radar-ring:nth-child(1) { animation: radarSpin 22s linear infinite; }
+.portada-radar-ring:nth-child(2) { inset: 22%; border-color: rgba(34,85,255,0.12); animation: radarSpin 16s linear infinite reverse; }
+.portada-radar-ring:nth-child(3) { inset: 44%; border-color: rgba(34,85,255,0.09); }
+.portada-radar::before, .portada-radar::after {
+  content: '';
+  position: absolute;
+  background: rgba(34,85,255,0.14);
+}
+.portada-radar::before { top: 50%; left: 8%; right: 8%; height: 1px; transform: translateY(-50%); }
+.portada-radar::after  { left: 50%; top: 8%; bottom: 8%; width: 1px; transform: translateX(-50%); }
+@keyframes radarSpin { to { transform: rotate(360deg); } }
+.portada-estado, .portada-bajada { position: relative; z-index: 1; }
+#portada h1 { position: relative; z-index: 1; }
+.portada-num { z-index: 2; }
+.portada-scroll {
+  position: absolute;
+  bottom: clamp(18px,2.5vw,28px);
+  left: 50%;
+  transform: translateX(-50%);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 6px;
+  z-index: 1;
+  opacity: 0.35;
+  cursor: pointer;
+  transition: opacity .25s;
+  text-decoration: none;
+}
+.portada-scroll:hover { opacity: 0.75; }
+.portada-scroll-line {
+  width: 1px;
+  height: 38px;
+  background: linear-gradient(to bottom, transparent, var(--accent));
+  animation: scrollPulse 2s ease-in-out infinite;
+}
+.portada-scroll-label {
+  font-family: 'Courier Prime', monospace;
+  font-size: 9px;
+  letter-spacing: 0.22em;
+  text-transform: uppercase;
+  color: var(--text);
+}
+@keyframes scrollPulse {
+  0%,100% { opacity: 0.4; transform: scaleY(0.6); }
+  50%      { opacity: 1;   transform: scaleY(1); }
 }
 
 /* ─── NAV ─── */
@@ -179,6 +270,10 @@ h1 em {
   display: none;
   height: calc(100svh - 53px);
   position: relative;
+  background-image:
+    linear-gradient(rgba(34,85,255,0.025) 1px, transparent 1px),
+    linear-gradient(90deg, rgba(34,85,255,0.025) 1px, transparent 1px);
+  background-size: 44px 44px;
 }
 
 @media(max-width:768px){
@@ -754,7 +849,7 @@ h1 em {
 .cl-origen{font-family:'Courier Prime',monospace;font-size:10px;color:var(--muted);letter-spacing:.04em;}
 .cl-origen a{color:var(--accent);text-decoration:none;}
 /* ── SITE HEADER ── */
-#site-hdr{background:rgba(7,8,15,0.92);backdrop-filter:blur(12px);border-bottom:1px solid var(--border);display:flex;align-items:center;justify-content:space-between;padding:0 clamp(16px,4vw,48px);height:48px;}
+#site-hdr{background:rgba(7,8,15,0.92);backdrop-filter:blur(12px);border-bottom:1px solid var(--border);display:flex;align-items:center;justify-content:space-between;padding:0 clamp(16px,4vw,48px);height:48px;position:sticky;top:0;z-index:300;}
 .shdr-back,.shdr-otro{color:var(--muted);text-decoration:none;font-family:'Courier Prime',monospace;font-size:11px;letter-spacing:.08em;transition:color .2s;}
 .shdr-back:hover,.shdr-otro:hover{color:var(--text);}
 .shdr-logo{font-family:'DM Serif Display',serif;font-size:15px;color:rgba(255,255,255,0.3);pointer-events:none;}
@@ -770,6 +865,12 @@ h1 em {
 
 <!-- PORTADA -->
 <section id="portada">
+  <span class="portada-bg-num">01</span>
+  <div class="portada-radar">
+    <div class="portada-radar-ring"></div>
+    <div class="portada-radar-ring"></div>
+    <div class="portada-radar-ring"></div>
+  </div>
   <div class="portada-num">
     Exp. DP 0000077/2024<br>
     Auto 18.05.2026 · Registro 19.05.2026<br>
@@ -792,6 +893,10 @@ h1 em {
       <span class="delito-tag">— Blanqueo de capitales (art. 301 CP)</span>
     </div>
   </div>
+  <a class="portada-scroll" href="#nav">
+    <div class="portada-scroll-line"></div>
+    <span class="portada-scroll-label">Explorar</span>
+  </a>
 </section>
 
 <!-- NAV -->
@@ -1221,8 +1326,8 @@ function initGrafo(){
   const lG = gEl.append("g");
   const lEls = lG.selectAll("line").data(links).enter().append("line")
     .attr("stroke", d=>C_LINK[d.tipo]||"#334466")
-    .attr("stroke-width", d=>d.tipo==="pago"?2:1.5)
-    .attr("stroke-opacity", 0.55)
+    .attr("stroke-width", d=>d.tipo==="pago"?2.5:1.8)
+    .attr("stroke-opacity", 0.7)
     .attr("marker-end", d=>`url(#arr-${d.tipo})`)
     .style("cursor","pointer")
     .on("click",(e,d)=>{ e.stopPropagation(); showLink(d); })
@@ -1255,7 +1360,8 @@ function initGrafo(){
     .attr("r", d=> d.id==="zapatero"?26 : d.sub==="investigado"?20 : d.tipo==="sociedad"?16 : 15)
     .attr("fill", d=> d.id==="zapatero" ? C_NODO(d) : "rgba(13,15,26,0.95)")
     .attr("stroke", d=>C_NODO(d))
-    .attr("stroke-width", d=> d.id==="zapatero"?0:2);
+    .attr("stroke-width", d=> d.id==="zapatero"?0:2)
+    .attr("filter", d=> d.id==="zapatero" ? "url(#glow)" : null);
 
   // etiqueta
   nEls.each(function(d){
