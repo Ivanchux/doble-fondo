@@ -105,7 +105,8 @@ h1 em { font-style:italic; color:var(--accent); }
 .crono-desc { font-size:clamp(12px,1.6vw,14px); color:var(--muted); line-height:1.75; font-weight:300; }
 #flujos-wrap { padding:clamp(24px,5vw,64px); background-image:linear-gradient(rgba(255,51,85,0.018) 1px,transparent 1px),linear-gradient(90deg,rgba(255,51,85,0.018) 1px,transparent 1px); background-size:52px 52px; }
 .stats-row { display:grid; grid-template-columns:repeat(auto-fit,minmax(200px,1fr)); gap:clamp(12px,2vw,20px); margin-bottom:clamp(40px,6vw,72px); }
-.stat-card { background:var(--surface); border:1px solid var(--border); padding:clamp(20px,3vw,32px); position:relative; overflow:hidden; }
+.stat-card { background:var(--surface); border:1px solid var(--border); padding:clamp(20px,3vw,32px); position:relative; overflow:hidden; transition:border-color .2s,background .2s; }
+.stat-card:hover { border-color:rgba(255,255,255,0.13); background:rgba(255,255,255,0.012); }
 .stat-card::before { content:''; position:absolute; top:0; left:0; width:3px; height:100%; background:var(--c,var(--accent)); }
 .stat-label { font-size:11px; letter-spacing:.1em; text-transform:uppercase; color:var(--muted); margin-bottom:12px; font-weight:500; }
 .stat-num { font-family:'DM Serif Display',serif; font-size:clamp(24px,4vw,40px); color:var(--c,var(--accent)); line-height:1; margin-bottom:8px; }
@@ -134,7 +135,8 @@ h1 em { font-style:italic; color:var(--accent); }
 .elem-lista { display:flex; flex-direction:column; gap:10px; }
 .elem { display:flex; gap:14px; align-items:flex-start; font-size:clamp(12px,1.6vw,14px); color:var(--text); line-height:1.6; }
 .elem-n { font-family:'Courier Prime',monospace; font-size:11px; color:var(--accent); flex-shrink:0; padding-top:1px; }
-.estado-blk { border:1px solid var(--border); padding:clamp(20px,3vw,32px); }
+.estado-blk { border:1px solid var(--border); padding:clamp(20px,3vw,32px); transition:border-color .2s; }
+.estado-blk:hover { border-color:rgba(255,51,85,0.28); }
 .estado-tag { font-family:'Courier Prime',monospace; font-size:11px; letter-spacing:.15em; text-transform:uppercase; color:var(--amber); margin-bottom:14px; }
 .estado-txt { font-size:clamp(13px,1.7vw,15px); color:var(--muted); line-height:1.8; font-weight:300; }
 #tt { position:fixed; background:var(--surface); border:1px solid var(--border); padding:10px 14px; font-size:12px; font-family:'Space Grotesk',sans-serif; color:var(--text); pointer-events:none; z-index:9999; max-width:260px; line-height:1.5; display:none; }
