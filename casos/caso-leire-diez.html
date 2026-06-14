@@ -95,7 +95,8 @@ h1 em { font-style:italic; color:var(--accent); }
 .sec-sub { font-size:clamp(13px,1.8vw,16px); color:var(--muted); line-height:1.7; font-weight:300; max-width:480px; }
 .crono-lista { position:relative; padding-left:clamp(20px,4vw,36px); }
 .crono-linea { position:absolute; left:3px; top:0; bottom:0; width:1px; background:linear-gradient(to bottom,var(--accent),transparent); }
-.crono-item { position:relative; padding-bottom:clamp(28px,4vw,44px); }
+.crono-item { position:relative; padding-bottom:clamp(28px,4vw,44px); padding-right:8px; transition:background .2s; }
+.crono-item:hover { background:rgba(255,51,85,0.025); }
 .crono-item::before { content:''; position:absolute; left:clamp(-24px,-4vw,-18px); top:6px; width:7px; height:7px; border-radius:50%; background:var(--surface); border:1.5px solid var(--muted); }
 .crono-item.hito::before { background:var(--accent); border-color:var(--accent); box-shadow:0 0 10px rgba(255,51,85,.5); width:9px; height:9px; left:clamp(-25px,-4vw,-19px); top:5px; }
 .crono-fecha { font-family:'Courier Prime',monospace; font-size:11px; color:var(--muted); letter-spacing:.05em; margin-bottom:5px; }
@@ -125,7 +126,8 @@ h1 em { font-style:italic; color:var(--accent); }
 .aviso { background:rgba(255,51,85,.05); border:1px solid rgba(255,51,85,.2); padding:clamp(16px,3vw,24px); margin-bottom:clamp(32px,5vw,48px); }
 .aviso p { font-size:clamp(12px,1.6vw,14px); color:var(--text); line-height:1.8; }
 .aviso strong { color:var(--accent); }
-.delito-blk { background:var(--surface); border:1px solid var(--border); padding:clamp(20px,3vw,36px); margin-bottom:clamp(16px,2vw,20px); }
+.delito-blk { background:var(--surface); border:1px solid var(--border); padding:clamp(20px,3vw,36px); margin-bottom:clamp(16px,2vw,20px); transition:border-color .2s,background .2s; }
+.delito-blk:hover { border-color:rgba(255,51,85,0.28); background:rgba(255,51,85,0.02); }
 .delito-n { font-family:'DM Serif Display',serif; font-size:clamp(20px,3vw,28px); color:#fff; margin-bottom:6px; }
 .delito-art { font-family:'Courier Prime',monospace; font-size:11px; letter-spacing:.1em; color:var(--accent); margin-bottom:16px; }
 .delito-desc { font-size:clamp(13px,1.7vw,15px); color:var(--muted); line-height:1.8; margin-bottom:20px; font-weight:300; }

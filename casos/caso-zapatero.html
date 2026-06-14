@@ -550,7 +550,10 @@ h1 em {
 .crono-item {
   position: relative;
   padding-bottom: clamp(28px,4vw,44px);
+  transition: background .2s;
+  padding-right: 8px;
 }
+.crono-item:hover { background: rgba(34,85,255,0.025); }
 
 .crono-item::before {
   content: '';
@@ -755,7 +758,9 @@ h1 em {
   border: 1px solid var(--border);
   padding: clamp(20px,3vw,36px);
   margin-bottom: clamp(16px,2vw,20px);
+  transition: border-color .2s, background .2s;
 }
+.delito-blk:hover { border-color: rgba(34,85,255,0.28); background: rgba(34,85,255,0.02); }
 
 .delito-n {
   font-family: 'DM Serif Display', serif;
