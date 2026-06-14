@@ -1,0 +1,565 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Prensa — Doble Fondo</title>
+<meta name="description" content="Seguimiento mediático de los casos Zapatero y Operación Fidelidad. Noticias en tiempo real de El Mundo, El País, El Confidencial, ABC y La Vanguardia.">
+<meta property="og:title" content="Prensa — Doble Fondo">
+<meta property="og:description" content="Noticias filtradas por relevancia de los principales medios españoles sobre los casos documentados en la Audiencia Nacional.">
+<meta property="og:type" content="website">
+<meta property="og:locale" content="es_ES">
+<meta name="theme-color" content="#07080f">
+<link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'><rect width='32' height='32' fill='%2307080f'/><text x='16' y='24' font-size='20' text-anchor='middle' fill='%23ffaa00' font-family='serif' font-style='italic'>F</text></svg>">
+<link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@300;400;500;600;700&family=DM+Serif+Display:ital@0;1&family=Courier+Prime:ital,wght@0,400;0,700;1,400&display=swap" rel="stylesheet">
+<style>
+* { margin:0; padding:0; box-sizing:border-box; }
+:root {
+  --bg:#07080f; --surface:#0d0f1a; --border:rgba(255,255,255,0.07);
+  --zap:#2255ff; --lei:#ff3355; --amber:#ffaa00;
+  --text:#d4d8f0; --muted:#5a6080;
+}
+html { scroll-behavior:smooth; }
+body { background:var(--bg); color:var(--text); font-family:'Space Grotesk',sans-serif; overflow-x:hidden; min-height:100vh; }
+::-webkit-scrollbar{width:4px;height:4px;}
+::-webkit-scrollbar-track{background:transparent;}
+::-webkit-scrollbar-thumb{background:rgba(255,255,255,.1);}
+::selection{background:rgba(255,51,85,0.28);color:#fff;}
+
+/* ── SITE HEADER ── */
+#site-hdr{
+  background:rgba(7,8,15,0.97);backdrop-filter:blur(12px);
+  border-bottom:1px solid var(--border);
+  display:flex;align-items:center;justify-content:space-between;
+  padding:0 clamp(16px,4vw,48px);height:48px;
+  position:sticky;top:0;z-index:300;
+}
+.shdr-back,.shdr-otro{color:var(--muted);text-decoration:none;font-family:'Courier Prime',monospace;font-size:11px;letter-spacing:.08em;transition:color .2s;}
+.shdr-back:hover,.shdr-otro:hover{color:var(--text);}
+.shdr-logo{font-family:'DM Serif Display',serif;font-size:15px;color:rgba(255,255,255,0.3);pointer-events:none;}
+
+/* ── TICKER ── */
+#ticker{
+  height:32px;background:rgba(255,255,255,0.018);
+  border-bottom:1px solid var(--border);
+  display:flex;align-items:center;overflow:hidden;
+  font-family:'Courier Prime',monospace;
+}
+.ticker-label{
+  padding:0 20px 0 clamp(16px,3vw,40px);
+  font-size:9px;letter-spacing:.22em;text-transform:uppercase;
+  color:rgba(255,255,255,0.25);white-space:nowrap;
+  display:flex;align-items:center;gap:10px;
+  border-right:1px solid var(--border);flex-shrink:0;
+}
+.ticker-dot-live{width:5px;height:5px;border-radius:50%;background:var(--lei);animation:blink 1.2s infinite;}
+@keyframes blink{0%,100%{opacity:1}50%{opacity:.3}}
+.ticker-wrap{flex:1;overflow:hidden;height:100%;position:relative;}
+.ticker-inner{
+  display:inline-flex;align-items:center;gap:48px;
+  white-space:nowrap;height:100%;padding-left:24px;
+  animation:tickscroll 50s linear infinite;
+}
+.ticker-item{font-family:'Courier Prime',monospace;font-size:11px;color:rgba(255,255,255,0.9);letter-spacing:.04em;}
+.ticker-sep{color:rgba(255,255,255,0.3);font-size:14px;flex-shrink:0;}
+@keyframes tickscroll{from{transform:translateX(0)}to{transform:translateX(-50%)}}
+
+/* ── PORTADA ── */
+#portada{
+  padding:clamp(56px,9vw,100px) clamp(24px,5vw,64px) clamp(40px,6vw,72px);
+  position:relative;overflow:hidden;
+  border-bottom:1px solid var(--border);
+  background-image:
+    radial-gradient(ellipse 55% 80% at 90% 10%,rgba(255,51,85,0.07) 0%,transparent 60%),
+    radial-gradient(ellipse 30% 40% at 10% 80%,rgba(34,85,255,0.05) 0%,transparent 55%),
+    linear-gradient(rgba(255,255,255,0.018) 1px,transparent 1px),
+    linear-gradient(90deg,rgba(255,255,255,0.018) 1px,transparent 1px);
+  background-size:100% 100%,100% 100%,52px 52px,52px 52px;
+}
+.port-eyebrow{
+  font-family:'Courier Prime',monospace;font-size:10px;
+  letter-spacing:.28em;text-transform:uppercase;
+  color:var(--muted);margin-bottom:24px;
+  display:flex;align-items:center;gap:14px;
+}
+.port-eyebrow::before{content:'';display:block;width:24px;height:1px;background:var(--lei);}
+.port-h1{
+  font-family:'DM Serif Display',serif;
+  font-size:clamp(52px,9vw,120px);
+  line-height:.88;letter-spacing:-.03em;color:#fff;
+  margin-bottom:clamp(20px,3vw,36px);
+}
+.port-h1 em{font-style:italic;color:var(--lei);}
+.port-desc{
+  font-size:clamp(13px,1.7vw,16px);color:var(--muted);
+  line-height:1.85;font-weight:300;max-width:560px;
+  margin-bottom:clamp(28px,4vw,48px);
+}
+.port-stats{
+  display:flex;align-items:center;gap:clamp(20px,3vw,40px);
+  flex-wrap:wrap;
+}
+.port-stat{display:flex;flex-direction:column;gap:4px;}
+.port-stat-n{
+  font-family:'DM Serif Display',serif;
+  font-size:clamp(22px,3.5vw,36px);color:#fff;line-height:1;
+}
+.port-stat-l{font-size:9px;letter-spacing:.18em;text-transform:uppercase;color:var(--muted);}
+.port-sep{width:1px;height:40px;background:var(--border);}
+.port-bg-text{
+  position:absolute;right:clamp(16px,4vw,48px);bottom:-0.1em;
+  font-family:'DM Serif Display',serif;
+  font-size:clamp(120px,18vw,220px);
+  line-height:1;color:rgba(255,255,255,0.025);
+  pointer-events:none;user-select:none;letter-spacing:-.04em;
+  font-style:italic;
+}
+
+/* ── FILTROS ── */
+#filtros{
+  padding:clamp(20px,2.5vw,28px) clamp(24px,5vw,64px);
+  border-bottom:1px solid var(--border);
+  background:var(--surface);
+  position:sticky;top:48px;z-index:200;
+  display:flex;align-items:center;gap:clamp(8px,1.5vw,16px);
+  flex-wrap:wrap;
+}
+.f-btn{
+  font-family:'Courier Prime',monospace;font-size:10px;
+  letter-spacing:.16em;text-transform:uppercase;
+  padding:6px 14px;border:1px solid var(--border);
+  background:transparent;color:var(--muted);cursor:pointer;
+  transition:color .15s,border-color .15s,background .15s;
+  white-space:nowrap;
+}
+.f-btn:hover{color:var(--text);border-color:rgba(255,255,255,0.2);}
+.f-btn.on{color:#fff;border-color:rgba(255,255,255,0.35);background:rgba(255,255,255,0.05);}
+.f-btn.on-zap{color:var(--zap);border-color:rgba(34,85,255,0.5);background:rgba(34,85,255,0.08);}
+.f-btn.on-lei{color:var(--lei);border-color:rgba(255,51,85,0.5);background:rgba(255,51,85,0.08);}
+.f-divider{width:1px;height:20px;background:var(--border);flex-shrink:0;}
+.f-count{
+  font-family:'Courier Prime',monospace;font-size:10px;
+  letter-spacing:.1em;color:var(--muted);
+  white-space:nowrap;
+}
+.f-spacer{flex:1;}
+.f-ts{
+  font-family:'Courier Prime',monospace;font-size:9px;
+  letter-spacing:.08em;color:var(--muted);white-space:nowrap;
+}
+.f-refresh{
+  font-family:'Courier Prime',monospace;font-size:10px;
+  letter-spacing:.12em;text-transform:uppercase;
+  padding:5px 12px;border:1px solid var(--border);
+  background:transparent;color:var(--muted);cursor:pointer;
+  transition:color .15s,border-color .15s;white-space:nowrap;
+}
+.f-refresh:hover:not(:disabled){color:var(--text);border-color:rgba(255,255,255,0.2);}
+.f-refresh:disabled{opacity:.4;cursor:default;}
+
+/* ── GRID ── */
+#noticias-sec{padding:0 clamp(24px,5vw,64px) clamp(64px,9vw,120px);}
+.noticias-grid{
+  display:grid;
+  grid-template-columns:repeat(auto-fill,minmax(300px,1fr));
+  gap:1px;background:var(--border);
+  border:1px solid var(--border);
+  margin-top:clamp(28px,4vw,48px);
+}
+.news-card{
+  background:var(--bg);
+  padding:clamp(22px,3vw,36px);
+  display:flex;flex-direction:column;gap:14px;
+  transition:background .2s;position:relative;overflow:hidden;
+}
+.news-card:hover{background:rgba(255,255,255,0.018);}
+.news-card::before{
+  content:'';position:absolute;top:0;left:0;right:0;height:2px;
+  background:linear-gradient(90deg,var(--nc-c,var(--border)),transparent 70%);
+}
+.nc-meta{display:flex;align-items:center;gap:10px;flex-wrap:wrap;}
+.nc-source{
+  font-family:'Courier Prime',monospace;font-size:9px;
+  letter-spacing:.18em;text-transform:uppercase;
+  color:var(--nc-c,var(--muted));
+}
+.nc-date{font-family:'Courier Prime',monospace;font-size:9px;color:var(--muted);}
+.nc-caso{
+  margin-left:auto;font-family:'Courier Prime',monospace;font-size:8px;
+  letter-spacing:.2em;text-transform:uppercase;
+  padding:2px 7px;border:1px solid currentColor;
+  opacity:.6;flex-shrink:0;
+}
+.nc-caso-zap{color:var(--zap);}
+.nc-caso-lei{color:var(--lei);}
+.nc-caso-both{color:var(--amber);}
+.nc-titulo{
+  font-family:'DM Serif Display',serif;
+  font-size:clamp(16px,2.2vw,21px);
+  color:#fff;line-height:1.22;flex:1;
+}
+.nc-desc{
+  font-size:13px;color:var(--muted);line-height:1.75;font-weight:300;
+  display:-webkit-box;-webkit-line-clamp:3;-webkit-box-orient:vertical;overflow:hidden;
+}
+.nc-link{
+  font-family:'Courier Prime',monospace;font-size:10px;letter-spacing:.1em;
+  text-transform:uppercase;color:var(--nc-c,var(--muted));
+  text-decoration:none;margin-top:auto;padding-top:10px;
+  border-top:1px solid var(--border);transition:color .15s;
+  display:flex;align-items:center;justify-content:space-between;
+}
+.nc-link:hover{color:#fff;}
+.nc-loading,.nc-empty{
+  grid-column:1/-1;padding:clamp(56px,8vw,96px);
+  text-align:center;font-family:'Courier Prime',monospace;
+  font-size:11px;letter-spacing:.18em;text-transform:uppercase;color:var(--muted);
+}
+.nc-empty-sub{
+  display:block;margin-top:12px;font-size:10px;letter-spacing:.1em;
+  opacity:.6;text-transform:none;
+}
+.nc-spinner{
+  display:inline-block;width:14px;height:14px;border:1px solid var(--border);
+  border-top-color:var(--lei);border-radius:50%;
+  animation:spin .8s linear infinite;margin-right:10px;vertical-align:middle;
+}
+@keyframes spin{to{transform:rotate(360deg)}}
+
+/* ── MEDIOS ── */
+#medios-sec{
+  padding:0 clamp(24px,5vw,64px) clamp(48px,6vw,80px);
+  border-top:1px solid var(--border);
+  padding-top:clamp(32px,5vw,56px);
+}
+.medios-label{
+  font-family:'Courier Prime',monospace;font-size:10px;
+  letter-spacing:.22em;text-transform:uppercase;color:var(--muted);
+  margin-bottom:20px;
+}
+.medios-grid{
+  display:flex;align-items:center;gap:clamp(16px,3vw,32px);flex-wrap:wrap;
+}
+.medio-item{
+  font-family:'DM Serif Display',serif;font-size:clamp(14px,2vw,18px);
+  color:rgba(255,255,255,0.22);transition:color .2s;cursor:default;
+}
+.medio-item.active{color:rgba(255,255,255,0.55);}
+
+/* ── FOOTER ── */
+#footer{
+  border-top:1px solid var(--border);
+  padding:clamp(28px,4vw,48px) clamp(24px,5vw,64px);
+  background:var(--surface);
+}
+.footer-inner{max-width:860px;margin:0 auto;display:flex;align-items:center;justify-content:space-between;flex-wrap:wrap;gap:16px;}
+.footer-marca{font-family:'DM Serif Display',serif;font-size:18px;color:#fff;}
+.footer-meta{display:flex;align-items:center;gap:14px;flex-wrap:wrap;}
+.footer-link{color:var(--muted);text-decoration:none;font-size:12px;letter-spacing:.06em;transition:color .15s;}
+.footer-link:hover{color:var(--text);}
+.footer-sep{color:var(--border);}
+.footer-aviso{
+  width:100%;font-size:11px;color:var(--muted);font-weight:300;
+  border-top:1px solid var(--border);padding-top:16px;margin-top:4px;
+  font-family:'Courier Prime',monospace;letter-spacing:.02em;
+}
+
+/* ── FADE IN ── */
+@keyframes fadeUp{from{opacity:0;transform:translateY(18px)}to{opacity:1;transform:translateY(0)}}
+.port-eyebrow{animation:fadeUp .5s ease both}
+.port-h1{animation:fadeUp .5s .15s ease both}
+.port-desc{animation:fadeUp .5s .28s ease both}
+.port-stats{animation:fadeUp .5s .4s ease both}
+</style>
+</head>
+<body>
+
+<header id="site-hdr">
+  <a class="shdr-back" href="index.html">← Doble Fondo</a>
+  <span class="shdr-logo">Doble Fondo</span>
+  <a class="shdr-otro" href="personas.html">Personas →</a>
+</header>
+
+<div id="ticker">
+  <div class="ticker-label">
+    <span class="ticker-dot-live"></span>
+    Prensa
+  </div>
+  <div class="ticker-wrap">
+    <div class="ticker-inner" id="ticker-inner">
+      <span class="ticker-item">Cargando titulares recientes…</span>
+      <span class="ticker-sep">◆</span>
+    </div>
+  </div>
+</div>
+
+<section id="portada">
+  <div class="port-bg-text">Prensa</div>
+  <div class="port-eyebrow">Seguimiento mediático · 5 medios · Actualización automática</div>
+  <h1 class="port-h1">Cobertura<br><em>mediática</em></h1>
+  <p class="port-desc">Noticias de los principales medios españoles filtradas por relevancia para los casos documentados en Doble Fondo. Actualización automática mediante RSS.</p>
+  <div class="port-stats">
+    <div class="port-stat">
+      <div class="port-stat-n" id="stat-total">—</div>
+      <div class="port-stat-l">Noticias encontradas</div>
+    </div>
+    <div class="port-sep"></div>
+    <div class="port-stat">
+      <div class="port-stat-n">5</div>
+      <div class="port-stat-l">Medios monitorizados</div>
+    </div>
+    <div class="port-sep"></div>
+    <div class="port-stat">
+      <div class="port-stat-n" id="stat-ts">—</div>
+      <div class="port-stat-l">Última actualización</div>
+    </div>
+  </div>
+</section>
+
+<div id="filtros">
+  <button class="f-btn on" data-f="all" onclick="setFilter(this,'all')">Todos</button>
+  <button class="f-btn" data-f="zap" onclick="setFilter(this,'zap')">Caso Zapatero</button>
+  <button class="f-btn" data-f="lei" onclick="setFilter(this,'lei')">Caso Leire Díez</button>
+  <div class="f-divider"></div>
+  <div class="f-count" id="f-count"></div>
+  <div class="f-spacer"></div>
+  <div class="f-ts" id="f-ts"></div>
+  <button class="f-refresh" id="f-refresh" onclick="refreshNews()">↺ Actualizar</button>
+</div>
+
+<section id="noticias-sec">
+  <div class="noticias-grid" id="noticias-grid">
+    <div class="nc-loading"><span class="nc-spinner"></span>Buscando noticias recientes…</div>
+  </div>
+</section>
+
+<section id="medios-sec">
+  <div class="medios-label">Fuentes monitorizadas</div>
+  <div class="medios-grid">
+    <span class="medio-item" id="medio-ElMundo">El Mundo</span>
+    <span class="medio-item" id="medio-ElConfidencial">El Confidencial</span>
+    <span class="medio-item" id="medio-ElPais">El País</span>
+    <span class="medio-item" id="medio-ABC">ABC</span>
+    <span class="medio-item" id="medio-LaVanguardia">La Vanguardia</span>
+  </div>
+</section>
+
+<footer id="footer">
+  <div class="footer-inner">
+    <div class="footer-marca">Doble Fondo</div>
+    <div class="footer-meta">
+      <a class="footer-link" href="index.html">Inicio</a>
+      <span class="footer-sep">·</span>
+      <a class="footer-link" href="personas.html">Personas</a>
+      <span class="footer-sep">·</span>
+      <a class="footer-link" href="metodologia.html">Metodología</a>
+      <span class="footer-sep">·</span>
+      <a class="footer-link" href="archivo.html">Archivo</a>
+    </div>
+    <div class="footer-aviso">Presunción de inocencia — Todos los investigados son inocentes hasta sentencia firme.</div>
+  </div>
+</footer>
+
+<script>
+// ── RSS CONFIG ────────────────────────────────────
+const NEWS_FEEDS = [
+  { url:'https://e00-elmundo.uecdn.es/elmundo/rss/politica.xml',    name:'El Mundo',        color:'#e8400a', id:'ElMundo' },
+  { url:'https://www.elconfidencial.com/rss/espana/',               name:'El Confidencial', color:'#0066cc', id:'ElConfidencial' },
+  { url:'https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/section/politica/portada', name:'El País', color:'#4a90d9', id:'ElPais' },
+  { url:'https://www.abc.es/rss/feeds/abc_Espana.xml',              name:'ABC',             color:'#c0392b', id:'ABC' },
+  { url:'https://www.lavanguardia.com/rss/home.xml',                name:'La Vanguardia',   color:'#8e44ad', id:'LaVanguardia' },
+];
+
+const ZAP_KW = [
+  'zapatero','julio moreno','julio martínez','zarrias','zarrías','ferraz 35',
+  'kreab','thinking heads','plus ultra','gertrudis alcázar','gertrudis alcazar',
+  'diligencias previas 77','udef ferraz','aaron fajardo','fajardo garcia',
+  'venezolano zapatero','red influencias'
+];
+const LEI_KW = [
+  'leire','operacion fidelidad','operación fidelidad','cerdan','cerdán',
+  'ferraz 12','pedraz','mercedes gonzalez','guardia civil pedraz',
+  'juan sanchez yepes','zarrias sede','psoe registro'
+];
+const ALL_KW = [...new Set([...ZAP_KW, ...LEI_KW,
+  'audiencia nacional','koldo','udef','uco','caso zapatero','jci'
+])];
+
+// ── UTILS ─────────────────────────────────────────
+function ncEsc(s){ const d=document.createElement('div'); d.textContent=String(s||''); return d.innerHTML; }
+function ncSafeUrl(u){ try{ const p=new URL(u); return (p.protocol==='https:'||p.protocol==='http:') ? u : '#'; }catch(e){ return '#'; } }
+function ncNorm(s){ return s.toLowerCase().normalize('NFD').replace(/[̀-ͯ]/g,''); }
+function ncFormatDate(raw){
+  try{ const d=new Date(raw); if(isNaN(d)) return raw;
+    return d.toLocaleDateString('es-ES',{day:'2-digit',month:'short',year:'numeric'}); }
+  catch(e){ return raw; }
+}
+
+// ── FETCH ─────────────────────────────────────────
+async function ncFetch(feedUrl){
+  const proxies=[
+    u=>`https://api.allorigins.win/get?disableCache=true&url=${encodeURIComponent(u)}`,
+    u=>`https://corsproxy.io/?${encodeURIComponent(u)}`,
+    u=>`https://api.codetabs.com/v1/proxy?quest=${encodeURIComponent(u)}`,
+  ];
+  for(const p of proxies){
+    try{
+      const ctrl=new AbortController();
+      const tid=setTimeout(()=>ctrl.abort(),8000);
+      const r=await fetch(p(feedUrl),{signal:ctrl.signal});
+      clearTimeout(tid);
+      if(!r.ok) continue;
+      const raw=await r.json().catch(async()=>({contents:await r.text()}));
+      const xml=raw.contents||raw;
+      if(typeof xml!=='string'||!xml.includes('<item')) continue;
+      return xml;
+    }catch(e){ continue; }
+  }
+  return null;
+}
+
+// ── PARSE ─────────────────────────────────────────
+function ncParseXML(xml, feedName, feedColor, feedId){
+  try{
+    const doc=new DOMParser().parseFromString(xml,'text/xml');
+    return [...doc.querySelectorAll('item')].slice(0,15).map(item=>{
+      const raw=item.querySelector('description')?.textContent||'';
+      const tmp=document.createElement('div'); tmp.innerHTML=raw;
+      return {
+        title: (item.querySelector('title')?.textContent||'').trim(),
+        link:  (item.querySelector('link')?.textContent||item.querySelector('guid')?.textContent||'').trim(),
+        desc:  tmp.textContent.trim().slice(0,260),
+        date:  item.querySelector('pubDate')?.textContent?.trim()||'',
+        source:feedName, color:feedColor, feedId,
+      };
+    }).filter(i=>i.title&&i.link);
+  }catch(e){ return []; }
+}
+
+// ── TAGGING ───────────────────────────────────────
+function tagCaso(item){
+  const t=ncNorm(item.title+' '+item.desc);
+  const isZap=ZAP_KW.some(kw=>t.includes(ncNorm(kw)));
+  const isLei=LEI_KW.some(kw=>t.includes(ncNorm(kw)));
+  if(isZap&&isLei) return 'both';
+  if(isZap) return 'zap';
+  if(isLei) return 'lei';
+  // fallback: general AN keywords
+  const isGen=ALL_KW.some(kw=>t.includes(ncNorm(kw)));
+  return isGen ? 'gen' : 'other';
+}
+
+// ── STATE ─────────────────────────────────────────
+let allNews=[];
+let activeFilter='all';
+
+// ── RENDER ────────────────────────────────────────
+function setFilter(btn, f){
+  activeFilter=f;
+  document.querySelectorAll('.f-btn').forEach(b=>{
+    b.classList.remove('on','on-zap','on-lei');
+  });
+  if(f==='all') btn.classList.add('on');
+  else if(f==='zap') btn.classList.add('on-zap');
+  else btn.classList.add('on-lei');
+  renderFiltered();
+}
+
+function renderFiltered(){
+  let items;
+  if(activeFilter==='all') items=allNews;
+  else if(activeFilter==='zap') items=allNews.filter(n=>n.caso==='zap'||n.caso==='both');
+  else items=allNews.filter(n=>n.caso==='lei'||n.caso==='both');
+
+  const count=document.getElementById('f-count');
+  if(count) count.textContent=`${items.length} noticia${items.length!==1?'s':''}`;
+
+  const grid=document.getElementById('noticias-grid');
+  if(!items.length){
+    grid.innerHTML=`<div class="nc-empty">Sin noticias para este filtro<span class="nc-empty-sub">Prueba con "Todos" o actualiza más tarde</span></div>`;
+    return;
+  }
+
+  const casoLabel={'zap':'ZAP','lei':'LEI','both':'AMBOS','gen':'AN','other':''};
+  const casoClass={'zap':'nc-caso-zap','lei':'nc-caso-lei','both':'nc-caso-both','gen':'','other':''};
+
+  grid.innerHTML=items.map(n=>{
+    const tag=casoLabel[n.caso]||'';
+    const tagCls=casoClass[n.caso]||'';
+    return `
+    <article class="news-card" style="--nc-c:${ncEsc(n.color)}">
+      <div class="nc-meta">
+        <span class="nc-source">${ncEsc(n.source)}</span>
+        <span class="nc-date">${ncEsc(ncFormatDate(n.date))}</span>
+        ${tag ? `<span class="nc-caso ${tagCls}">${tag}</span>` : ''}
+      </div>
+      <div class="nc-titulo">${ncEsc(n.title)}</div>
+      ${n.desc ? `<div class="nc-desc">${ncEsc(n.desc)}</div>` : ''}
+      <a class="nc-link" href="${ncSafeUrl(n.link)}" target="_blank" rel="noopener noreferrer">
+        <span>Leer en ${ncEsc(n.source)}</span>
+        <span>→</span>
+      </a>
+    </article>`;
+  }).join('');
+}
+
+function ncUpdateTicker(items){
+  const ti=document.getElementById('ticker-inner');
+  if(!ti||!items.length) return;
+  const html=items.slice(0,8).map(n=>
+    `<span class="ticker-item">${ncEsc(ncFormatDate(n.date))} &nbsp;·&nbsp; ${ncEsc(n.title)}</span><span class="ticker-sep">◆</span>`
+  ).join('');
+  ti.innerHTML=html+html;
+}
+
+function markActiveSources(items){
+  const active=new Set(items.map(i=>i.feedId));
+  document.querySelectorAll('.medio-item').forEach(el=>{
+    const id=el.id.replace('medio-','');
+    el.classList.toggle('active',active.has(id));
+  });
+}
+
+function updateStats(items){
+  const ts=document.getElementById('stat-ts');
+  const total=document.getElementById('stat-total');
+  if(ts) ts.textContent=new Date().toLocaleTimeString('es-ES',{hour:'2-digit',minute:'2-digit'});
+  if(total) total.textContent=items.length;
+  const fts=document.getElementById('f-ts');
+  if(fts) fts.textContent='Actualizado '+new Date().toLocaleTimeString('es-ES',{hour:'2-digit',minute:'2-digit'});
+}
+
+// ── LOAD ──────────────────────────────────────────
+async function loadNews(){
+  const results=await Promise.all(
+    NEWS_FEEDS.map(f=>ncFetch(f.url).then(xml=>xml?ncParseXML(xml,f.name,f.color,f.id):[]))
+  );
+
+  const flat=results.flat()
+    .filter((v,i,a)=>a.findIndex(x=>x.title===v.title)===i)
+    .sort((a,b)=>new Date(b.date)-new Date(a.date))
+    .map(item=>({...item,caso:tagCaso(item)}));
+
+  // mostrar solo relacionados; si hay muy pocos, mostrar todos
+  const related=flat.filter(n=>n.caso!=='other');
+  allNews = related.length>=4 ? related : flat.slice(0,20);
+
+  updateStats(allNews);
+  ncUpdateTicker(allNews.filter(n=>n.caso==='zap'||n.caso==='lei'||n.caso==='both').slice(0,8));
+  markActiveSources(allNews);
+  renderFiltered();
+}
+
+async function refreshNews(){
+  const btn=document.getElementById('f-refresh');
+  if(btn){ btn.disabled=true; btn.textContent='↺ Cargando…'; }
+  const grid=document.getElementById('noticias-grid');
+  grid.innerHTML='<div class="nc-loading"><span class="nc-spinner"></span>Actualizando…</div>';
+  await loadNews();
+  if(btn){ btn.disabled=false; btn.textContent='↺ Actualizar'; }
+}
+
+window.addEventListener('DOMContentLoaded', loadNews);
+</script>
+</body>
+</html>

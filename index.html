@@ -477,7 +477,14 @@ body{background:var(--bg);color:var(--text);font-family:'Space Grotesk',sans-ser
 }
 
 /* ── NOTICIAS ── */
-#noticias{padding:0 0 clamp(56px,8vw,100px);}
+#noticias{padding:0 0 clamp(40px,6vw,72px);}
+.noticias-cta-wrap{padding:clamp(20px,3vw,32px) clamp(24px,5vw,64px) 0;display:flex;justify-content:flex-end;}
+.noticias-cta{
+  font-family:'Courier Prime',monospace;font-size:10px;letter-spacing:.18em;
+  text-transform:uppercase;color:var(--muted);text-decoration:none;
+  transition:color .2s,letter-spacing .25s;
+}
+.noticias-cta:hover{color:var(--text);letter-spacing:.26em;}
 .noticias-grid{
   display:grid;
   grid-template-columns:repeat(auto-fill,minmax(300px,1fr));
@@ -561,6 +568,7 @@ body{background:var(--bg);color:var(--text);font-family:'Space Grotesk',sans-ser
     <a class="hdr-link" href="#casos">Casos</a>
     <a class="hdr-link" href="#nexo">Conexiones</a>
     <a class="hdr-link" href="personas.html">Personas</a>
+    <a class="hdr-link" href="noticias.html">Prensa</a>
     <a class="hdr-link" href="metodologia.html">Metodología</a>
   </nav>
 </header>
@@ -653,6 +661,18 @@ body{background:var(--bg);color:var(--text);font-family:'Space Grotesk',sans-ser
   <div class="sband-item">
     <div class="sband-n" data-count="19850" data-suffix="€" style="color:var(--amber)">19.850€</div>
     <div class="sband-l">En efectivo · Zarrías</div>
+  </div>
+</section>
+
+<section id="noticias">
+  <div class="sec-divider">
+    <span class="sec-divider-label">Prensa · Actualización automática</span>
+  </div>
+  <div class="noticias-grid" id="noticias-grid">
+    <div class="nc-loading"><span class="nc-spinner"></span>Buscando noticias recientes…</div>
+  </div>
+  <div class="noticias-cta-wrap">
+    <a class="noticias-cta" href="noticias.html">Ver toda la cobertura mediática →</a>
   </div>
 </section>
 
@@ -771,15 +791,6 @@ body{background:var(--bg);color:var(--text);font-family:'Space Grotesk',sans-ser
   <div id="log-lista"></div>
 </section>
 
-<section id="noticias">
-  <div class="sec-divider">
-    <span class="sec-divider-label">Prensa · Actualización automática</span>
-  </div>
-  <div class="noticias-grid" id="noticias-grid">
-    <div class="nc-loading"><span class="nc-spinner"></span>Buscando noticias recientes…</div>
-  </div>
-</section>
-
 <footer id="footer">
   <div class="footer-inner">
     <div class="footer-marca">Doble Fondo</div>
@@ -788,6 +799,8 @@ body{background:var(--bg);color:var(--text);font-family:'Space Grotesk',sans-ser
     </div>
     <div class="footer-meta">
       <a class="footer-link" href="personas.html">Personas</a>
+      <span class="footer-sep">·</span>
+      <a class="footer-link" href="noticias.html">Prensa</a>
       <span class="footer-sep">·</span>
       <a class="footer-link" href="metodologia.html">Metodología</a>
       <span class="footer-sep">·</span>
@@ -1152,8 +1165,9 @@ function ncMatch(item){
 
 async function ncFetch(feedUrl){
   const proxies = [
-    u => `https://allorigins.win/get?disableCache=true&url=${encodeURIComponent(u)}`,
+    u => `https://api.allorigins.win/get?disableCache=true&url=${encodeURIComponent(u)}`,
     u => `https://corsproxy.io/?${encodeURIComponent(u)}`,
+    u => `https://api.codetabs.com/v1/proxy?quest=${encodeURIComponent(u)}`,
   ];
   for(const p of proxies){
     try{
@@ -1207,7 +1221,7 @@ function ncRenderCards(items){
     grid.innerHTML = '<div class="nc-empty">No se encontraron noticias recientes relacionadas con los casos. Prueba más tarde.</div>';
     return;
   }
-  grid.innerHTML = items.slice(0,12).map(n=>`
+  grid.innerHTML = items.slice(0,4).map(n=>`
     <article class="news-card" style="--nc-c:${ncEsc(n.color)}">
       <div class="nc-meta">
         <span class="nc-source">${ncEsc(n.source)}</span>
