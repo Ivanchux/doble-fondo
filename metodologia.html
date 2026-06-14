@@ -22,11 +22,22 @@ body { background:var(--bg); color:var(--text); font-family:'Space Grotesk',sans
 .shdr-logo{font-family:'DM Serif Display',serif;font-size:15px;color:rgba(255,255,255,0.3);pointer-events:none;}
 
 /* ── PAGE ── */
+.meto-hero{
+  padding:clamp(64px,10vh,120px) clamp(24px,5vw,64px) clamp(48px,6vw,80px);
+  border-bottom:1px solid var(--border);
+  position:relative;overflow:hidden;
+  background-image:
+    radial-gradient(ellipse 60% 70% at 80% 25%,rgba(255,170,0,0.06) 0%,transparent 65%),
+    linear-gradient(rgba(255,255,255,0.022) 1px,transparent 1px),
+    linear-gradient(90deg,rgba(255,255,255,0.022) 1px,transparent 1px);
+  background-size:100% 100%,52px 52px,52px 52px;
+}
 .meto-page{max-width:760px;margin:0 auto;padding:clamp(48px,7vw,96px) clamp(24px,5vw,48px);}
 .meto-eye{font-family:'Courier Prime',monospace;font-size:10px;letter-spacing:.25em;text-transform:uppercase;color:var(--muted);margin-bottom:20px;}
 h1{font-family:'DM Serif Display',serif;font-size:clamp(40px,7vw,80px);line-height:.95;letter-spacing:-.02em;color:#fff;margin-bottom:clamp(16px,3vw,32px);}
 h1 em{font-style:italic;color:var(--amber);}
 .meto-sub{font-size:clamp(14px,1.8vw,16px);color:var(--muted);line-height:1.8;font-weight:300;max-width:580px;margin-bottom:clamp(48px,7vw,96px);}
+.meto-hero .meto-sub{margin-bottom:0;}
 
 /* ── SECCIONES ── */
 .meto-sec{margin-bottom:clamp(48px,6vw,80px);padding-top:clamp(32px,5vw,56px);border-top:1px solid var(--border);}
@@ -69,11 +80,13 @@ footer{border-top:1px solid var(--border);padding:clamp(24px,4vw,40px) clamp(24p
   <span></span>
 </header>
 
-<main class="meto-page">
-
+<div class="meto-hero">
   <div class="meto-eye">Metodología editorial</div>
   <h1>Cómo trabaja<br><em>Doble Fondo</em></h1>
   <p class="meto-sub">Plataforma de periodismo de datos judiciales. Publicamos documentación primaria de casos activos en la Audiencia Nacional con trazabilidad pública de cada dato.</p>
+</div>
+
+<main class="meto-page">
 
   <!-- 01 · Qué es -->
   <section class="meto-sec">
