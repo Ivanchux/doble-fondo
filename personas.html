@@ -60,7 +60,8 @@ h1 em{font-style:italic;}
 .nexo-eye{font-family:'Courier Prime',monospace;font-size:10px;letter-spacing:.2em;text-transform:uppercase;color:#9933ff;margin-bottom:20px;}
 .nexo-h2{font-family:'DM Serif Display',serif;font-size:clamp(20px,3vw,28px);color:#fff;margin-bottom:24px;}
 .nexo-cards{display:grid;grid-template-columns:repeat(auto-fit,minmax(280px,1fr));gap:12px;}
-.nexo-card{background:rgba(153,51,255,0.05);border:1px solid rgba(153,51,255,0.15);padding:20px 22px;}
+.nexo-card{background:rgba(153,51,255,0.05);border:1px solid rgba(153,51,255,0.15);padding:20px 22px;transition:border-color .2s,background .2s,box-shadow .2s;}
+.nexo-card:hover{border-color:rgba(153,51,255,0.4);background:rgba(153,51,255,0.09);box-shadow:inset 0 0 60px rgba(153,51,255,0.05);}
 .nc-badge{font-family:'Courier Prime',monospace;font-size:9px;letter-spacing:.18em;text-transform:uppercase;color:#9933ff;margin-bottom:10px;}
 .nc-name{font-family:'DM Serif Display',serif;font-size:20px;color:#fff;margin-bottom:8px;line-height:1.2;}
 .nc-desc{font-size:12px;color:var(--muted);line-height:1.7;font-weight:300;}
@@ -79,6 +80,8 @@ h1 em{font-style:italic;}
 /* ── CARD ── */
 .p-card{background:var(--surface);border:1px solid var(--border);padding:18px 20px;transition:border-color .2s,background .2s;display:flex;flex-direction:column;gap:10px;}
 .p-card:hover{border-color:rgba(255,255,255,0.2);background:rgba(255,255,255,0.018);}
+.p-card[data-caso="zap"]:hover{box-shadow:inset 0 0 60px rgba(34,85,255,0.04);}
+.p-card[data-caso="lei"]:hover{box-shadow:inset 0 0 60px rgba(255,51,85,0.04);}
 .p-card[data-nexo="true"]{border-color:rgba(153,51,255,0.2);}
 .p-card[data-nexo="true"]:hover{border-color:rgba(153,51,255,0.45);background:rgba(153,51,255,0.04);}
 .pc-tags{display:flex;align-items:center;gap:6px;flex-wrap:wrap;}

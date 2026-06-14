@@ -96,8 +96,8 @@ body{background:var(--bg);color:var(--text);font-family:'Space Grotesk',sans-ser
 .hero-chip.zap::before{background:var(--zap);}
 .hero-chip.lei::before{background:var(--lei);}
 .hero-chip:hover{background:rgba(255,255,255,0.05);}
-.hero-chip.zap:hover{border-color:rgba(34,85,255,0.3);}
-.hero-chip.lei:hover{border-color:rgba(255,51,85,0.3);}
+.hero-chip.zap:hover{border-color:rgba(34,85,255,0.3);box-shadow:inset 0 0 60px rgba(34,85,255,0.05);}
+.hero-chip.lei:hover{border-color:rgba(255,51,85,0.3);box-shadow:inset 0 0 60px rgba(255,51,85,0.05);}
 .hchip-top{display:flex;align-items:center;gap:7px;}
 .hchip-dot{width:6px;height:6px;border-radius:50%;flex-shrink:0;animation:blink 2s infinite;}
 .hero-chip.zap .hchip-dot{background:var(--zap);}
@@ -106,7 +106,8 @@ body{background:var(--bg);color:var(--text);font-family:'Space Grotesk',sans-ser
 .hchip-name{font-family:'DM Serif Display',serif;font-size:clamp(17px,2.2vw,22px);color:#fff;line-height:1.15;}
 .hchip-meta{display:flex;gap:14px;flex-wrap:wrap;}
 .hchip-meta span{font-family:'Courier Prime',monospace;font-size:10px;color:var(--muted);letter-spacing:.04em;}
-.hchip-cta{font-family:'Courier Prime',monospace;font-size:10px;letter-spacing:.1em;text-transform:uppercase;margin-top:2px;}
+.hchip-cta{font-family:'Courier Prime',monospace;font-size:10px;letter-spacing:.1em;text-transform:uppercase;margin-top:2px;transition:letter-spacing .25s;}
+.hero-chip:hover .hchip-cta{letter-spacing:.18em;}
 .hero-chip.zap .hchip-cta{color:var(--zap);}
 .hero-chip.lei .hchip-cta{color:var(--lei);}
 
@@ -198,6 +199,8 @@ body{background:var(--bg);color:var(--text);font-family:'Space Grotesk',sans-ser
 .caso-card:hover::before{height:6px;}
 .caso-zap{--caso-c:var(--zap);}
 .caso-lei{--caso-c:var(--lei);}
+.caso-zap:hover{box-shadow:inset 0 0 120px rgba(34,85,255,0.06);}
+.caso-lei:hover{box-shadow:inset 0 0 120px rgba(255,51,85,0.06);}
 
 .card-eyebrow{
   font-family:'Courier Prime',monospace;
@@ -250,7 +253,9 @@ body{background:var(--bg);color:var(--text);font-family:'Space Grotesk',sans-ser
 .card-cta{
   font-family:'Courier Prime',monospace;
   font-size:11px;letter-spacing:0.1em;text-transform:uppercase;
+  transition:letter-spacing .25s;
 }
+.caso-card:hover .card-cta{letter-spacing:0.18em;}
 .caso-zap .card-cta{color:var(--zap);}
 .caso-lei .card-cta{color:var(--lei);}
 
@@ -341,7 +346,12 @@ body{background:var(--bg);color:var(--text);font-family:'Space Grotesk',sans-ser
   border-bottom:1px solid var(--border);
   position:relative;z-index:1;
   display:grid;gap:5px;
+  transition:background .2s;
+  border-radius:0;
 }
+.log-entry:hover{background:rgba(255,255,255,0.012);}
+.log-entry.log-zap:hover{background:rgba(34,85,255,0.03);}
+.log-entry.log-lei:hover{background:rgba(255,51,85,0.03);}
 .log-entry::before{
   content:'';position:absolute;
   left:0;top:clamp(30px,3.4vw,38px);
