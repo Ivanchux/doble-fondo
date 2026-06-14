@@ -396,44 +396,63 @@ function ncFormatDate(raw){
 }
 
 // ── FETCH ─────────────────────────────────────────
-async function ncFetch(feedUrl){
+async function ncFetchAndParse(feed){
+  // 1) rss2json.com — API dedicada RSS→JSON
+  try{
+    const ctrl=new AbortController();
+    const tid=setTimeout(()=>ctrl.abort(),9000);
+    const r=await fetch(
+      `https://api.rss2json.com/v1/api.json?rss_url=${encodeURIComponent(feed.url)}&count=15`,
+      {signal:ctrl.signal}
+    );
+    clearTimeout(tid);
+    if(r.ok){
+      const data=await r.json();
+      if(data.status==='ok'&&data.items?.length){
+        return data.items.map(item=>{
+          const tmp=document.createElement('div'); tmp.innerHTML=item.description||'';
+          return {
+            title:(item.title||'').trim(),
+            link:(item.link||'').trim(),
+            desc:tmp.textContent.trim().slice(0,260),
+            date:item.pubDate||'',
+            source:feed.name, color:feed.color, feedId:feed.id,
+          };
+        }).filter(i=>i.title&&i.link);
+      }
+    }
+  }catch(e){}
+
+  // 2) Fallback: proxies CORS con XML crudo
   const proxies=[
     u=>`https://api.allorigins.win/get?disableCache=true&url=${encodeURIComponent(u)}`,
     u=>`https://corsproxy.io/?${encodeURIComponent(u)}`,
-    u=>`https://api.codetabs.com/v1/proxy?quest=${encodeURIComponent(u)}`,
   ];
   for(const p of proxies){
     try{
       const ctrl=new AbortController();
-      const tid=setTimeout(()=>ctrl.abort(),8000);
-      const r=await fetch(p(feedUrl),{signal:ctrl.signal});
+      const tid=setTimeout(()=>ctrl.abort(),7000);
+      const r=await fetch(p(feed.url),{signal:ctrl.signal});
       clearTimeout(tid);
       if(!r.ok) continue;
       const raw=await r.json().catch(async()=>({contents:await r.text()}));
       const xml=raw.contents||raw;
       if(typeof xml!=='string'||!xml.includes('<item')) continue;
-      return xml;
+      const doc=new DOMParser().parseFromString(xml,'text/xml');
+      return [...doc.querySelectorAll('item')].slice(0,15).map(item=>{
+        const tmp=document.createElement('div');
+        tmp.innerHTML=item.querySelector('description')?.textContent||'';
+        return {
+          title:(item.querySelector('title')?.textContent||'').trim(),
+          link:(item.querySelector('link')?.textContent||item.querySelector('guid')?.textContent||'').trim(),
+          desc:tmp.textContent.trim().slice(0,260),
+          date:item.querySelector('pubDate')?.textContent?.trim()||'',
+          source:feed.name, color:feed.color, feedId:feed.id,
+        };
+      }).filter(i=>i.title&&i.link);
     }catch(e){ continue; }
   }
-  return null;
-}
-
-// ── PARSE ─────────────────────────────────────────
-function ncParseXML(xml, feedName, feedColor, feedId){
-  try{
-    const doc=new DOMParser().parseFromString(xml,'text/xml');
-    return [...doc.querySelectorAll('item')].slice(0,15).map(item=>{
-      const raw=item.querySelector('description')?.textContent||'';
-      const tmp=document.createElement('div'); tmp.innerHTML=raw;
-      return {
-        title: (item.querySelector('title')?.textContent||'').trim(),
-        link:  (item.querySelector('link')?.textContent||item.querySelector('guid')?.textContent||'').trim(),
-        desc:  tmp.textContent.trim().slice(0,260),
-        date:  item.querySelector('pubDate')?.textContent?.trim()||'',
-        source:feedName, color:feedColor, feedId,
-      };
-    }).filter(i=>i.title&&i.link);
-  }catch(e){ return []; }
+  return [];
 }
 
 // ── TAGGING ───────────────────────────────────────
@@ -531,18 +550,15 @@ function updateStats(items){
 
 // ── LOAD ──────────────────────────────────────────
 async function loadNews(){
-  const results=await Promise.all(
-    NEWS_FEEDS.map(f=>ncFetch(f.url).then(xml=>xml?ncParseXML(xml,f.name,f.color,f.id):[]))
-  );
+  const results=await Promise.all(NEWS_FEEDS.map(ncFetchAndParse));
 
   const flat=results.flat()
     .filter((v,i,a)=>a.findIndex(x=>x.title===v.title)===i)
     .sort((a,b)=>new Date(b.date)-new Date(a.date))
     .map(item=>({...item,caso:tagCaso(item)}));
 
-  // mostrar solo relacionados; si hay muy pocos, mostrar todos
   const related=flat.filter(n=>n.caso!=='other');
-  allNews = related.length>=4 ? related : flat.slice(0,20);
+  allNews=related.length>=4 ? related : flat.slice(0,20);
 
   updateStats(allNews);
   ncUpdateTicker(allNews.filter(n=>n.caso==='zap'||n.caso==='lei'||n.caso==='both').slice(0,8));
