@@ -1,0 +1,120 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Archivo — Doble Fondo</title>
+<link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@300;400;500;600;700&family=DM+Serif+Display:ital@0;1&family=Courier+Prime:ital,wght@0,400;0,700;1,400&display=swap" rel="stylesheet">
+<style>
+* { margin:0; padding:0; box-sizing:border-box; }
+:root {
+  --bg:#07080f; --surface:#0d0f1a; --border:rgba(255,255,255,0.07);
+  --accent:#ffaa00; --text:#d4d8f0; --muted:#5a6080;
+}
+html { scroll-behavior:smooth; }
+body { background:var(--bg); color:var(--text); font-family:'Space Grotesk',sans-serif; overflow-x:hidden; min-height:100vh; display:flex; flex-direction:column; }
+
+/* ── SITE HEADER ── */
+#site-hdr{background:rgba(7,8,15,0.97);backdrop-filter:blur(12px);border-bottom:1px solid var(--border);display:flex;align-items:center;justify-content:space-between;padding:0 clamp(16px,4vw,48px);height:48px;position:sticky;top:0;z-index:100;}
+.shdr-back{color:var(--muted);text-decoration:none;font-family:'Courier Prime',monospace;font-size:11px;letter-spacing:.08em;transition:color .2s;}
+.shdr-back:hover{color:var(--text);}
+.shdr-logo{font-family:'DM Serif Display',serif;font-size:15px;color:rgba(255,255,255,0.3);pointer-events:none;}
+
+/* ── HERO ── */
+.arch-hero{
+  flex:1;display:flex;flex-direction:column;justify-content:center;align-items:center;
+  text-align:center;
+  padding:clamp(64px,10vh,120px) clamp(24px,5vw,64px);
+  position:relative;overflow:hidden;
+  background-image:
+    radial-gradient(ellipse 55% 60% at 50% 45%,rgba(255,170,0,0.06) 0%,transparent 65%),
+    linear-gradient(rgba(255,255,255,0.022) 1px,transparent 1px),
+    linear-gradient(90deg,rgba(255,255,255,0.022) 1px,transparent 1px);
+  background-size:100% 100%,52px 52px,52px 52px;
+}
+.arch-eye{font-family:'Courier Prime',monospace;font-size:10px;letter-spacing:.25em;text-transform:uppercase;color:var(--muted);margin-bottom:24px;}
+h1{font-family:'DM Serif Display',serif;font-size:clamp(48px,10vw,120px);line-height:.9;letter-spacing:-.03em;color:#fff;margin-bottom:clamp(20px,3vw,36px);}
+h1 em{font-style:italic;color:var(--accent);}
+.arch-sub{font-size:clamp(13px,1.7vw,16px);color:var(--muted);line-height:1.8;font-weight:300;max-width:480px;margin-bottom:clamp(40px,6vw,64px);}
+.arch-badge{
+  display:inline-flex;align-items:center;gap:10px;
+  font-family:'Courier Prime',monospace;font-size:11px;letter-spacing:.12em;text-transform:uppercase;
+  color:var(--accent);border:1px solid rgba(255,170,0,0.3);
+  padding:10px 24px;
+}
+.arch-dot{width:6px;height:6px;border-radius:50%;background:var(--accent);animation:blink 2s infinite;}
+@keyframes blink{0%,100%{opacity:1}50%{opacity:.2}}
+
+/* ── PLANNED ── */
+.arch-plan{
+  padding:clamp(40px,6vw,80px) clamp(24px,5vw,64px);
+  border-top:1px solid var(--border);
+  max-width:760px;margin:0 auto;width:100%;
+}
+.arch-plan-eye{font-family:'Courier Prime',monospace;font-size:10px;letter-spacing:.2em;text-transform:uppercase;color:var(--muted);margin-bottom:24px;}
+.plan-grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(220px,1fr));gap:1px;background:var(--border);border:1px solid var(--border);}
+.plan-item{background:var(--bg);padding:20px 22px;}
+.plan-n{font-family:'Courier Prime',monospace;font-size:9px;letter-spacing:.2em;color:var(--muted);margin-bottom:8px;}
+.plan-titulo{font-family:'DM Serif Display',serif;font-size:17px;color:var(--muted);font-style:italic;}
+
+/* ── FOOTER ── */
+footer{border-top:1px solid var(--border);padding:clamp(24px,4vw,40px) clamp(24px,5vw,64px);display:flex;justify-content:space-between;align-items:center;flex-wrap:wrap;gap:16px;}
+.footer-logo{font-family:'DM Serif Display',serif;font-size:18px;color:#fff;text-decoration:none;}
+.footer-copy{font-family:'Courier Prime',monospace;font-size:10px;color:var(--muted);letter-spacing:.1em;}
+</style>
+</head>
+<body>
+
+<header id="site-hdr">
+  <a class="shdr-back" href="index.html">← Doble Fondo</a>
+  <span class="shdr-logo">Doble Fondo</span>
+  <span></span>
+</header>
+
+<div class="arch-hero">
+  <div class="arch-eye">Archivo documental</div>
+  <h1>En<br><em>construcción</em></h1>
+  <p class="arch-sub">El archivo de documentos primarios — autos judiciales, actas de registro, informes UDEF y UCO — estará disponible en una próxima versión.</p>
+  <div class="arch-badge">
+    <span class="arch-dot"></span>
+    Fase 2 · Próximamente
+  </div>
+</div>
+
+<div class="arch-plan">
+  <div class="arch-plan-eye">Lo que llegará al archivo</div>
+  <div class="plan-grid">
+    <div class="plan-item">
+      <div class="plan-n">01 · DOC</div>
+      <div class="plan-titulo">Autos judiciales</div>
+    </div>
+    <div class="plan-item">
+      <div class="plan-n">02 · DOC</div>
+      <div class="plan-titulo">Actas de registro</div>
+    </div>
+    <div class="plan-item">
+      <div class="plan-n">03 · DOC</div>
+      <div class="plan-titulo">Informes UDEF</div>
+    </div>
+    <div class="plan-item">
+      <div class="plan-n">04 · DOC</div>
+      <div class="plan-titulo">Informes UCO</div>
+    </div>
+    <div class="plan-item">
+      <div class="plan-n">05 · AUDIO</div>
+      <div class="plan-titulo">Declaraciones públicas</div>
+    </div>
+    <div class="plan-item">
+      <div class="plan-n">06 · VID</div>
+      <div class="plan-titulo">Vistas y ruedas de prensa</div>
+    </div>
+  </div>
+</div>
+
+<footer>
+  <a class="footer-logo" href="index.html">Doble Fondo</a>
+  <span class="footer-copy">Periodismo de datos judicial · España · 2026</span>
+</footer>
+
+</body>
+</html>
