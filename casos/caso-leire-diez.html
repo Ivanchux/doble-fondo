@@ -673,11 +673,16 @@ function buildSankey(){
     const x1=s.x+nW,y1=s.y+nH/2,x2=t.x,y2=t.y+nH/2,mx2=(x1+x2)/2;
     g.append("path").attr("d",`M${x1},${y1}C${mx2},${y1} ${mx2},${y2} ${x2},${y2}`)
       .attr("fill","none").attr("stroke",isEnd?"#ff3355":"#ffaa00")
-      .attr("stroke-width",sw).attr("stroke-opacity",0.32);
+      .attr("stroke-width",sw).attr("stroke-linecap","round").attr("stroke-opacity",0.38)
+      .style("transition","stroke-opacity .15s")
+      .on("mouseover",function(){d3.select(this).attr("stroke-opacity",0.75);})
+      .on("mouseout",function(){d3.select(this).attr("stroke-opacity",0.38);});
   });
   Object.entries(pos).forEach(([nm,p])=>{
+    const isEndN=p.ci===2, isMidN=p.ci===1;
+    const nc=isEndN?"#ff3355":isMidN?"#ffaa00":"#9933ff";
     g.append("rect").attr("x",p.x).attr("y",p.y).attr("width",p.w).attr("height",p.h)
-      .attr("fill","#0d0f1a").attr("stroke","rgba(255,255,255,0.12)").attr("stroke-width",1);
+      .attr("fill",`${nc}1e`).attr("stroke",nc).attr("stroke-width",1.5);
     g.append("text").attr("x",p.x+p.w/2).attr("y",p.y+p.h/2+4).attr("text-anchor","middle")
       .attr("fill","#d4d8f0").attr("font-family","'Space Grotesk',sans-serif").attr("font-size","10px").text(nm);
   });

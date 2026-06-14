@@ -1618,7 +1618,11 @@ function buildSankey(){
       .attr("fill","none")
       .attr("stroke", isEnd?"#2255ff":"#ffaa00")
       .attr("stroke-width",sw)
-      .attr("stroke-opacity",0.28);
+      .attr("stroke-linecap","round")
+      .attr("stroke-opacity",0.38)
+      .style("transition","stroke-opacity .15s")
+      .on("mouseover",function(){d3.select(this).attr("stroke-opacity",0.75);})
+      .on("mouseout",function(){d3.select(this).attr("stroke-opacity",0.38);});
   });
 
   // nodos
@@ -1628,7 +1632,7 @@ function buildSankey(){
     const col=isEnd?"#2255ff":isMid?"#ffaa00":"#9933ff";
     g.append("rect")
       .attr("x",p.x).attr("y",p.y).attr("width",p.w).attr("height",p.h)
-      .attr("fill",`${col}11`).attr("stroke",col).attr("stroke-width",1);
+      .attr("fill",`${col}1e`).attr("stroke",col).attr("stroke-width",1.5);
     g.append("text")
       .attr("x",p.x+p.w/2).attr("y",p.y+p.h/2)
       .attr("text-anchor","middle").attr("dominant-baseline","middle")
