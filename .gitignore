@@ -1,0 +1,22 @@
+# Sistema
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editores
+*.swp
+*.swo
+*~
+.vscode/
+.idea/
+
+# Archivos grandes / binarios que no deben entrar en git
+*.mp4
+*.mov
+*.avi
+*.mkv
+*.zip
+*.tar.gz
+
+# Dependencias (si se añaden en el futuro)
+node_modules/
