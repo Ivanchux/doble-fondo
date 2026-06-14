@@ -1198,6 +1198,9 @@ function ncFormatDate(raw){
   }catch(e){ return raw; }
 }
 
+function ncEsc(s){ const d=document.createElement('div'); d.textContent=s; return d.innerHTML; }
+function ncSafeUrl(u){ try{ const p=new URL(u); return (p.protocol==='https:'||p.protocol==='http:') ? u : '#'; }catch(e){ return '#'; } }
+
 function ncRenderCards(items){
   const grid = document.getElementById('noticias-grid');
   if(!items.length){
@@ -1205,14 +1208,14 @@ function ncRenderCards(items){
     return;
   }
   grid.innerHTML = items.slice(0,12).map(n=>`
-    <article class="news-card" style="--nc-c:${n.color}">
+    <article class="news-card" style="--nc-c:${ncEsc(n.color)}">
       <div class="nc-meta">
-        <span class="nc-source">${n.source}</span>
-        <span class="nc-date">${ncFormatDate(n.date)}</span>
+        <span class="nc-source">${ncEsc(n.source)}</span>
+        <span class="nc-date">${ncEsc(ncFormatDate(n.date))}</span>
       </div>
-      <div class="nc-titulo">${n.title}</div>
-      ${n.desc ? `<div class="nc-desc">${n.desc}</div>` : ''}
-      <a class="nc-link" href="${n.link}" target="_blank" rel="noopener noreferrer">
+      <div class="nc-titulo">${ncEsc(n.title)}</div>
+      ${n.desc ? `<div class="nc-desc">${ncEsc(n.desc)}</div>` : ''}
+      <a class="nc-link" href="${ncSafeUrl(n.link)}" target="_blank" rel="noopener noreferrer">
         Leer artículo →
       </a>
     </article>`).join('');
@@ -1222,7 +1225,7 @@ function ncUpdateTicker(items){
   const ti = document.getElementById('ticker-inner');
   if(!ti || !items.length) return;
   const html = items.slice(0,6).map(n=>`
-    <span class="ticker-item">${ncFormatDate(n.date)} &nbsp;·&nbsp; ${n.title}</span>
+    <span class="ticker-item">${ncEsc(ncFormatDate(n.date))} &nbsp;·&nbsp; ${ncEsc(n.title)}</span>
     <span class="ticker-sep">◆</span>`).join('');
   ti.innerHTML = html + html; // duplicar para loop infinito
 }
