@@ -1,7 +1,107 @@
 {
-  "updated": "2026-06-14T17:16:04Z",
+  "updated": "2026-06-14T19:19:00Z",
   "count": 24,
   "items": [
+    {
+      "title": "Villablino prohíbe el riego de forma temporal tras llegar arrastres de los incendios al agua de Orallo",
+      "link": "https://www.abc.es/espana/castilla-leon/villablino-prohibe-riego-forma-temporal-tras-llegar-20260614202901-nt.html",
+      "desc": "El Ayuntamiento de Villablino (León) ha prohibido el riego de forma temporal ya que el suministro será limitado por un trasvase necesario de agua tras verse afectada la captación de la pedanía de Orallo por arrastres de los incendios que afectaron a la zona en",
+      "date": "Sun, 14 Jun 2026 21:06:20 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "La lluvia deja a la Virgen de la Estrella sin procesión, pero no sin el cariño de Toledo",
+      "link": "https://www.abc.es/espana/castilla-la-mancha/toledo/lluvia-deja-virgen-estrella-procesion-carino-toledo-20260614203001-nt.html",
+      "desc": "Las campanas de la ermita de la Virgen de la Estrella no dejaron de sonar durante toda la tarde, como si quisieran anunciar que, aunque la imagen no recorrería las calles de Toledo, la cita con sus devotos seguía intacta . Con llovizna, bajo un cielo encapotad",
+      "date": "Sun, 14 Jun 2026 20:30:01 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "De la A a la Z: diccionario para disfrutar del calendario festivalero del verano",
+      "link": "https://www.abc.es/espana/castilla-leon/diccionario-disfrutar-calendario-festivales-verano-20260611202108-nt.html",
+      "desc": "Este fin de semana, miles de personas han llenado el parque del Sotillo, principal enclave del Palencia Sonora, para entonar las canciones de Siloé y bailar al son del rock desenfadado de los Sexy Cebras o del trovador techno Joe Crepúspulo. Mientras, a hora y",
+      "date": "Sun, 14 Jun 2026 20:21:08 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Galicia suma aliados para acabar con los peajes de las autopistas",
+      "link": "https://www.abc.es/espana/galicia/galicia-suma-aliados-acabar-peaje-autopistas-20260614202025-nt.html",
+      "desc": "El pecado original está en aquella prórroga que hace un cuarto de siglo aprobó el Gobierno de José María Aznar. Alargaba hasta 2048 las concesiones de dos de las principales autopistas del norte de España, la AP-9, que vertebra el eje atlántico gallego de nort",
+      "date": "Sun, 14 Jun 2026 20:20:25 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Dos grandes incendios en Galicia arrasan más de 500 hectáreas en Padrón y Boborás",
+      "link": "https://www.abc.es/espana/galicia/dos-grandes-incendios-galicia-arrasan-500-hectareas-20260614200725-nt.html",
+      "desc": "Fin de semana intenso para los servicios de extinción en Galicia. A las puertas del verano y con el calor pegando fuerte, la comunidad autónoma ha empezado a sufrir sus primeros incendios de consideración. En Padrón (A Coruña), el fuego arrasó en dos días más ",
+      "date": "Sun, 14 Jun 2026 20:07:25 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Los cedidos del Córdoba CF firman una temporada de reivindicaciones e irregularidades",
+      "link": "https://www.abc.es/espana/andalucia/cordoba/cordoba-cf/cedidos-cordoba-firman-temporada-reivindicaciones-irregularidades-20260614200815-nts.html",
+      "desc": "Lejos del foco mediático que ha acaparado el primer equipo durante las últimas semanas, el Córdoba CF también mira con atención el rendimiento de sus futbolistas cedidos. Por primera vez en su etapa reciente, la entidad blanquiverde ha contado con un amplio gr",
+      "date": "Sun, 14 Jun 2026 20:00:03 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Diputación de Toledo acompaña a la Asociación de Mayores La Humanitaria de Torrijos en su 50 aniversario",
+      "link": "https://www.abc.es/espana/castilla-la-mancha/toledo/pueblos/diputacion-toledo-acompana-asociacion-mayores-humanitaria-torrijos-20260614195520-nt.html",
+      "desc": "La presidenta de la Diputación de Toledo, Concepción Cedillo , y el vicepresidente de Bienestar Social, Familia y Juventud, Daniel Arias, han participado hoy en la comida anual de la Asociación de Mayores La Humanitaria de Torrijos, una cita que este año ha te",
+      "date": "Sun, 14 Jun 2026 19:55:20 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "La Barra del Solomillo estrena temporada con tapas, carnes y tardeos en sus terrazas",
+      "link": "https://www.abc.es/espana/cataluna/barra-solomillo-estrena-temporada-tapas-carnes-tardeos-20260614194830-nt.html",
+      "desc": "La gastronomía de hotel hace tiempo que dejó de ser patrimonio exclusivo de los huéspedes y los barceloneses dan buena cuenta de ello. Algunos establecimientos se han convertido en citas obligadas con vida propia para el público local. Es el caso del Alexandra",
+      "date": "Sun, 14 Jun 2026 19:48:31 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Silvia Mellado deja la Alcaldía de Fuente Obejuna y Luisa Mari Rodríguez, también del PSOE, la sucede",
+      "link": "https://www.abc.es/espana/andalucia/cordoba/silvia-mellado-deja-alcaldia-fuente-obejuna-luisa-20260614192357-nts.html",
+      "desc": "El Ayuntamiento de Fuente Obejuna ha celebrado este sábado el Pleno en el que se ha oficializado la salida de la Alcaldía de la socialista Silvia Mellado , que ha logrado acta de parlamentaria en las elecciones del 17M. Su cargo lo ocupa a partir de ahora Luis",
+      "date": "Sun, 14 Jun 2026 19:23:58 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Eva Gutiérrez sustituye a María Luisa López en la Alcaldía de Puebla de Don Rodrigo tras el acuerdo PP-Vox",
+      "link": "https://www.abc.es/espana/castilla-la-mancha/eva-gutierrez-sustituye-maria-luisa-lopez-alcaldia-20260614192015-nt.html",
+      "desc": "El presidente de la Diputación de Ciudad Real, Miguel Ángel Valverde, ha asistido este domingo al acto de toma de posesión de la nueva alcaldesa de Puebla de Don Rodrigo , Eva Gutiérrez García , quien asume la responsabilidad al frente del Ayuntamiento en sust",
+      "date": "Sun, 14 Jun 2026 19:20:16 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
     {
       "title": "Más de 30.000 médicos andaluces vuelven a estar llamados a la huelga contra el Gobierno",
       "link": "https://www.abc.es/espana/andalucia/30000-medicos-andaluces-vuelven-estar-llamados-huelga-20260614190054-nts.html",
@@ -103,96 +203,6 @@
       "caso": "other"
     },
     {
-      "title": "Parapléjicos registró tres ingresos por lesión medular por zambullidas «imprudentes» en 2025",
-      "link": "https://www.abc.es/espana/castilla-la-mancha/toledo/paraplejicos-registro-tres-ingresos-lesion-medular-zambullidas-20260614181716-nt.html",
-      "desc": "Con motivo de la apertura generalizada de piscinas y del incremento de la actividad acuática en playas, ríos, embalses y pantanos, el Hospital Nacional de Parapléjicos , junto con la Federación Nacional de Aspaym, la Sociedad Española de Rehabilitación y Medic",
-      "date": "Sun, 14 Jun 2026 18:17:17 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "La Sagrada Familia cierra la semana de la visita del Papa con un pasacalle de gigantes",
-      "link": "https://www.abc.es/espana/cataluna/sagrada-familia-cierra-semana-visita-papa-pasacalle-20260614180452-nt.html",
-      "desc": "La Sagrada Familia ha cerrado la semana, que tuvo el momento culminante la visita del Papa León XIV, coincidiendo con el centenario de la muerte de Antoni Gaudí, y la bendición de la torre de Jesús, con un pasacalles de gigantes. Según ha informado la basílica",
-      "date": "Sun, 14 Jun 2026 18:04:53 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "The Horse Club Library lleva el espíritu de Montana a la Costa Brava con un restaurante abierto todo el año",
-      "link": "https://www.abc.es/espana/cataluna/the-horse-club-library-lleva-espiritu-montana-20260614180147-nt.html",
-      "desc": "Hay lugares pensados para comer bien y otros concebidos para entrar y v ivir en una película en la que ser protagonista . The Horse Club Library Restaurant, el nuevo restaurante abierto en el interior de The Ranch, en Santa Cristina d'Aro, quiere jugar en la C",
-      "date": "Sun, 14 Jun 2026 18:01:47 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Yepes revive el Siglo de Oro para conquistar con sus textos el siglo XXI",
-      "link": "https://www.abc.es/espana/castilla-la-mancha/toledo/pueblos/yepes-revive-siglo-oro-conquistar-textos-siglo-20260614175806-nt.html",
-      "desc": "El sonido de la trompetilla y el tambor resuena entre las fachadas centenarias. Un grupo de visitantes avanza por una calle estrecha siguiendo a los actores mientras, a pocos metros, una noble altiva discute sobre la conveniencia de expulsar a los enfermos fue",
-      "date": "Sun, 14 Jun 2026 17:58:06 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "El castillo de San Servando se llena de teatro, magia y gastronomía en su 'Noche en Blanco'",
-      "link": "https://www.abc.es/espana/castilla-la-mancha/toledo/pueblos/castillo-san-servando-llena-teatro-magia-gastronomia-20260614175128-nt.html",
-      "desc": "La Diputación de Toledo ha celebrado este sábado en el castillo de San Servando una de las propuestas más innovadoras y participativas de la presente edición de «12 meses, 12 castillos, 12 experiencias », transformando esta fortaleza toledana en el escenario d",
-      "date": "Sun, 14 Jun 2026 17:51:28 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Córdoba Ecuestre rebaja la tensión con el Ayuntamiento por Caballerizas: «Podemos solventar nuestras alegaciones a la cesión»",
-      "link": "https://www.abc.es/espana/andalucia/cordoba/cordoba-ecuestre-rebaja-tension-ayuntamiento-caballerizas-podemos-20260614174520-nts.html",
-      "desc": "La cesión de Caballerizas Reales a Córdoba Ecuestre por parte del Ayuntamiento se ha atascado cuando parecía hallarse en su recta final. El citado colectivo, tal y como avanzó ABC, alegó en contra de las condiciones de dicha cesión al considerar que con ellas ",
-      "date": "Sun, 14 Jun 2026 17:45:21 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Palencia Sonora echa el cierre a una edición «récord»",
-      "link": "https://www.abc.es/espana/castilla-leon/palencia-sonora-echa-cierre-edicion-record-20260614173000-nt.html",
-      "desc": "Palencia Sonora ha despedido este domingo una nueva edición «de récord» tras varias jornadas que han llenado de música en vivo, arte urbano, performance y propuestas solidarias numerosos rincones de la ciudad. El festival superó, de nuevo, los 20.000 espectado",
-      "date": "Sun, 14 Jun 2026 17:30:00 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Núñez promete declarar BIC las rehalas y la montería si es presidente de Castilla-La Mancha",
-      "link": "https://www.abc.es/espana/castilla-la-mancha/nunez-promete-declarar-bic-rehalas-monteria-presidente-20260614172351-nt.html",
-      "desc": "El presidente del Partido Popular de Castilla-La Mancha, Paco Núñez , ha reafirmado su compromiso con el sector cinegético y ha asegurado que impulsará la declaración de Bien de Interés Cultural (BIC) para las rehalas y la montería española si dicha protección",
-      "date": "Sun, 14 Jun 2026 17:23:52 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Un banco de medusas causa picaduras a unos 50 nadadores de un triatlón en Valencia",
-      "link": "https://www.abc.es/espana/comunidad-valenciana/banco-medusas-causa-picaduras-nadadores-triatlon-valencia-20260614171558-nt.html",
-      "desc": "El Ayuntamiento de la localidad valenciana de Tavernes de la Valldigna ha informado este domingo de la detección de un banco de medusas en la playa de la Goleta, donde se ha celebrado una prueba de triatlón. El banco de medusas ha causado picaduras a varias pe",
-      "date": "Sun, 14 Jun 2026 17:15:58 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
       "title": "“Espero que nos encontremos con Lamine Yamal en una final para aclararle si eligió bien”",
       "link": "https://www.lavanguardia.com/deportes/futbol/20260614/11564580/espero-encontremos-lamine-yamal-final-aclararle-eligio.html",
       "desc": "El presidente de la Federación de Marruecos calienta el debut de España con estas provocadoras declaraciones&nbsp;",
@@ -200,16 +210,6 @@
       "source": "La Vanguardia",
       "color": "#8e44ad",
       "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "Salamanca marcha en defensa de la sanidad pública y contra las listas de espera",
-      "link": "https://www.abc.es/espana/castilla-leon/salamanca-marcha-defensa-sanidad-publica-listas-espera-20260614170456-nt.html",
-      "desc": "Varios centenares de personas han marchado este domingo entre el Complejo Asistencial Universitario de Salamanca y la Gerencia de Salud de Área para protestar, entre otras cuestiones, «contra las listas de espera », de hasta 30.000 pacientes en la provincia sa",
-      "date": "Sun, 14 Jun 2026 17:04:56 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
       "caso": "other"
     },
     {
