@@ -1,7 +1,17 @@
 {
-  "updated": "2026-06-14T21:06:02Z",
+  "updated": "2026-06-14T23:03:54Z",
   "count": 24,
   "items": [
+    {
+      "title": "Corte total de tráfico este lunes en la calle San Pablo: recorrido alternativo y cambios en Aucorsa",
+      "link": "https://www.abc.es/espana/andalucia/cordoba/corte-total-trafico-lunes-calle-san-pablo-20260614234002-nts.html",
+      "desc": "El Ayuntamiento de Córdoba ha informado, en un comunicado, de que este lunes , igual que el domingo, estará cortada totalmente al tráfico la calle San Pablo , desde Hermanos López Diéguez hasta Capitulares. El gobierno municipal ha indicado que esta medida ha ",
+      "date": "Sun, 14 Jun 2026 23:40:03 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "gen"
+    },
     {
       "title": "El Sagrado Corazón de Jesús, la fuerza y la fe inundan las calles de Córdoba",
       "link": "https://www.abc.es/espana/andalucia/cordoba/semana-santa/sagrado-corazon-jesus-fuerza-inundan-calles-cordoba-20260614165855-nts.html",
@@ -187,16 +197,6 @@
       "link": "https://www.abc.es/espana/castilla-la-mancha/castillala-mancha-aviso-amarillo-tormentas-lunes-riesgo-20260614183014-nt.html",
       "desc": "Castilla-La Mancha afrontará este lunes una jornada de inestabilidad meteorológica con aviso amarillo por tormentas en gran parte de la región. La Agencia Estatal de Meteorología (Aemet) ha activado la alerta entre las 14:00 y las 20:00 horas ante la previsión",
       "date": "Sun, 14 Jun 2026 18:30:15 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "El PP lanza una web con el «mapa de la corrupción» del PSOE: «Podrían alcanzar los 1.817 años de prisión»",
-      "link": "https://www.abc.es/espana/pp-lanza-web-mapa-corrupcion-psoe-alcanzar-20260614182914-nt.html",
-      "desc": "El PP lanza una web con el «mapa de la corrupción» del PSOE para ayudar a entender los 15 procesos judiciales que cercan al círculo de Sánchez. Los populares detallan que ya hay 94 investigados, 19 tipos de delito y, entre todos, podrían alcanzar los 1.817 año",
-      "date": "Sun, 14 Jun 2026 18:29:14 +0200",
       "source": "ABC",
       "color": "#c0392b",
       "feedId": "ABC",
