@@ -378,111 +378,13 @@ body { background:var(--bg); color:var(--text); font-family:'Space Grotesk',sans
 </footer>
 
 <script>
-// ── RSS CONFIG ────────────────────────────────────
-const NEWS_FEEDS = [
-  { url:'https://e00-elmundo.uecdn.es/elmundo/rss/politica.xml',    name:'El Mundo',        color:'#e8400a', id:'ElMundo' },
-  { url:'https://www.elconfidencial.com/rss/espana/',               name:'El Confidencial', color:'#0066cc', id:'ElConfidencial' },
-  { url:'https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/section/politica/portada', name:'El País', color:'#4a90d9', id:'ElPais' },
-  { url:'https://www.abc.es/rss/feeds/abc_Espana.xml',              name:'ABC',             color:'#c0392b', id:'ABC' },
-  { url:'https://www.lavanguardia.com/rss/home.xml',                name:'La Vanguardia',   color:'#8e44ad', id:'LaVanguardia' },
-];
-
-const ZAP_KW = [
-  'zapatero','julio moreno','julio martínez','zarrias','zarrías','ferraz 35',
-  'kreab','thinking heads','plus ultra','gertrudis alcázar','gertrudis alcazar',
-  'diligencias previas 77','udef ferraz','aaron fajardo','fajardo garcia',
-  'venezolano zapatero','red influencias'
-];
-const LEI_KW = [
-  'leire','operacion fidelidad','operación fidelidad','cerdan','cerdán',
-  'ferraz 12','pedraz','mercedes gonzalez','guardia civil pedraz',
-  'juan sanchez yepes','zarrias sede','psoe registro'
-];
-const ALL_KW = [...new Set([...ZAP_KW, ...LEI_KW,
-  'audiencia nacional','koldo','udef','uco','caso zapatero','jci'
-])];
-
 // ── UTILS ─────────────────────────────────────────
 function ncEsc(s){ const d=document.createElement('div'); d.textContent=String(s||''); return d.innerHTML; }
 function ncSafeUrl(u){ try{ const p=new URL(u); return (p.protocol==='https:'||p.protocol==='http:') ? u : '#'; }catch(e){ return '#'; } }
-function ncNorm(s){ return s.toLowerCase().normalize('NFD').replace(/[̀-ͯ]/g,''); }
 function ncFormatDate(raw){
   try{ const d=new Date(raw); if(isNaN(d)) return raw;
     return d.toLocaleDateString('es-ES',{day:'2-digit',month:'short',year:'numeric'}); }
   catch(e){ return raw; }
-}
-
-// ── FETCH ─────────────────────────────────────────
-async function ncFetchAndParse(feed){
-  // 1) rss2json.com — API dedicada RSS→JSON
-  try{
-    const ctrl=new AbortController();
-    const tid=setTimeout(()=>ctrl.abort(),9000);
-    const r=await fetch(
-      `https://api.rss2json.com/v1/api.json?rss_url=${encodeURIComponent(feed.url)}&count=15`,
-      {signal:ctrl.signal}
-    );
-    clearTimeout(tid);
-    if(r.ok){
-      const data=await r.json();
-      if(data.status==='ok'&&data.items?.length){
-        return data.items.map(item=>{
-          const tmp=document.createElement('div'); tmp.innerHTML=item.description||'';
-          return {
-            title:(item.title||'').trim(),
-            link:(item.link||'').trim(),
-            desc:tmp.textContent.trim().slice(0,260),
-            date:item.pubDate||'',
-            source:feed.name, color:feed.color, feedId:feed.id,
-          };
-        }).filter(i=>i.title&&i.link);
-      }
-    }
-  }catch(e){}
-
-  // 2) Fallback: proxies CORS con XML crudo
-  const proxies=[
-    u=>`https://api.allorigins.win/get?disableCache=true&url=${encodeURIComponent(u)}`,
-    u=>`https://corsproxy.io/?${encodeURIComponent(u)}`,
-  ];
-  for(const p of proxies){
-    try{
-      const ctrl=new AbortController();
-      const tid=setTimeout(()=>ctrl.abort(),7000);
-      const r=await fetch(p(feed.url),{signal:ctrl.signal});
-      clearTimeout(tid);
-      if(!r.ok) continue;
-      const raw=await r.json().catch(async()=>({contents:await r.text()}));
-      const xml=raw.contents||raw;
-      if(typeof xml!=='string'||!xml.includes('<item')) continue;
-      const doc=new DOMParser().parseFromString(xml,'text/xml');
-      return [...doc.querySelectorAll('item')].slice(0,15).map(item=>{
-        const tmp=document.createElement('div');
-        tmp.innerHTML=item.querySelector('description')?.textContent||'';
-        return {
-          title:(item.querySelector('title')?.textContent||'').trim(),
-          link:(item.querySelector('link')?.textContent||item.querySelector('guid')?.textContent||'').trim(),
-          desc:tmp.textContent.trim().slice(0,260),
-          date:item.querySelector('pubDate')?.textContent?.trim()||'',
-          source:feed.name, color:feed.color, feedId:feed.id,
-        };
-      }).filter(i=>i.title&&i.link);
-    }catch(e){ continue; }
-  }
-  return [];
-}
-
-// ── TAGGING ───────────────────────────────────────
-function tagCaso(item){
-  const t=ncNorm(item.title+' '+item.desc);
-  const isZap=ZAP_KW.some(kw=>t.includes(ncNorm(kw)));
-  const isLei=LEI_KW.some(kw=>t.includes(ncNorm(kw)));
-  if(isZap&&isLei) return 'both';
-  if(isZap) return 'zap';
-  if(isLei) return 'lei';
-  // fallback: general AN keywords
-  const isGen=ALL_KW.some(kw=>t.includes(ncNorm(kw)));
-  return isGen ? 'gen' : 'other';
 }
 
 // ── STATE ─────────────────────────────────────────
@@ -492,9 +394,7 @@ let activeFilter='all';
 // ── RENDER ────────────────────────────────────────
 function setFilter(btn, f){
   activeFilter=f;
-  document.querySelectorAll('.f-btn').forEach(b=>{
-    b.classList.remove('on','on-zap','on-lei');
-  });
+  document.querySelectorAll('.f-btn').forEach(b=>b.classList.remove('on','on-zap','on-lei'));
   if(f==='all') btn.classList.add('on');
   else if(f==='zap') btn.classList.add('on-zap');
   else btn.classList.add('on-lei');
@@ -502,17 +402,16 @@ function setFilter(btn, f){
 }
 
 function renderFiltered(){
-  let items;
-  if(activeFilter==='all') items=allNews;
-  else if(activeFilter==='zap') items=allNews.filter(n=>n.caso==='zap'||n.caso==='both');
-  else items=allNews.filter(n=>n.caso==='lei'||n.caso==='both');
+  const items = activeFilter==='all' ? allNews
+    : activeFilter==='zap' ? allNews.filter(n=>n.caso==='zap'||n.caso==='both')
+    : allNews.filter(n=>n.caso==='lei'||n.caso==='both');
 
   const count=document.getElementById('f-count');
   if(count) count.textContent=`${items.length} noticia${items.length!==1?'s':''}`;
 
   const grid=document.getElementById('noticias-grid');
   if(!items.length){
-    grid.innerHTML=`<div class="nc-empty">Sin noticias para este filtro<span class="nc-empty-sub">Prueba con "Todos" o actualiza más tarde</span></div>`;
+    grid.innerHTML=`<div class="nc-empty">Sin noticias para este filtro<span class="nc-empty-sub">Prueba con "Todos" o espera la próxima actualización automática</span></div>`;
     return;
   }
 
@@ -532,8 +431,7 @@ function renderFiltered(){
       <div class="nc-titulo">${ncEsc(n.title)}</div>
       ${n.desc ? `<div class="nc-desc">${ncEsc(n.desc)}</div>` : ''}
       <a class="nc-link" href="${ncSafeUrl(n.link)}" target="_blank" rel="noopener noreferrer">
-        <span>Leer en ${ncEsc(n.source)}</span>
-        <span>→</span>
+        <span>Leer en ${ncEsc(n.source)}</span><span>→</span>
       </a>
     </article>`;
   }).join('');
@@ -551,43 +449,43 @@ function ncUpdateTicker(items){
 function markActiveSources(items){
   const active=new Set(items.map(i=>i.feedId));
   document.querySelectorAll('.medio-item').forEach(el=>{
-    const id=el.id.replace('medio-','');
-    el.classList.toggle('active',active.has(id));
+    el.classList.toggle('active', active.has(el.id.replace('medio-','')));
   });
 }
 
-function updateStats(items){
+function updateStats(items, updated){
+  const el=document.getElementById('stat-total');
   const ts=document.getElementById('stat-ts');
-  const total=document.getElementById('stat-total');
-  if(ts) ts.textContent=new Date().toLocaleTimeString('es-ES',{hour:'2-digit',minute:'2-digit'});
-  if(total) total.textContent=items.length;
   const fts=document.getElementById('f-ts');
-  if(fts) fts.textContent='Actualizado '+new Date().toLocaleTimeString('es-ES',{hour:'2-digit',minute:'2-digit'});
+  if(el) el.textContent=items.length;
+  const hora = updated ? new Date(updated).toLocaleTimeString('es-ES',{hour:'2-digit',minute:'2-digit'}) : '—';
+  if(ts) ts.textContent=hora;
+  if(fts) fts.textContent='Actualizado '+hora;
 }
 
-// ── LOAD ──────────────────────────────────────────
+// ── LOAD desde JSON estático (GitHub Actions) ─────
 async function loadNews(){
-  const results=await Promise.all(NEWS_FEEDS.map(ncFetchAndParse));
-
-  const flat=results.flat()
-    .filter((v,i,a)=>a.findIndex(x=>x.title===v.title)===i)
-    .sort((a,b)=>new Date(b.date)-new Date(a.date))
-    .map(item=>({...item,caso:tagCaso(item)}));
-
-  const related=flat.filter(n=>n.caso!=='other');
-  allNews=related.length>=4 ? related : flat.slice(0,20);
-
-  updateStats(allNews);
-  ncUpdateTicker(allNews.filter(n=>n.caso==='zap'||n.caso==='lei'||n.caso==='both').slice(0,8));
-  markActiveSources(allNews);
-  renderFiltered();
+  try{
+    const r=await fetch('assets/noticias.json');
+    if(!r.ok) throw new Error('no json');
+    const data=await r.json();
+    allNews=data.items||[];
+    updateStats(allNews, data.updated);
+    ncUpdateTicker(allNews.filter(n=>n.caso==='zap'||n.caso==='lei'||n.caso==='both').slice(0,8));
+    markActiveSources(allNews);
+    renderFiltered();
+  }catch(e){
+    const grid=document.getElementById('noticias-grid');
+    if(grid) grid.innerHTML='<div class="nc-empty">Noticias no disponibles aún — se actualizan automáticamente cada 2h.<span class="nc-empty-sub">El workflow de GitHub Actions genera el fichero en cada ciclo.</span></div>';
+    const el=document.getElementById('stat-total'); if(el) el.textContent='0';
+  }
 }
 
 async function refreshNews(){
   const btn=document.getElementById('f-refresh');
   if(btn){ btn.disabled=true; btn.textContent='↺ Cargando…'; }
   const grid=document.getElementById('noticias-grid');
-  grid.innerHTML='<div class="nc-loading"><span class="nc-spinner"></span>Actualizando…</div>';
+  if(grid) grid.innerHTML='<div class="nc-loading"><span class="nc-spinner"></span>Actualizando…</div>';
   await loadNews();
   if(btn){ btn.disabled=false; btn.textContent='↺ Actualizar'; }
 }
