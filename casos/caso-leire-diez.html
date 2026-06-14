@@ -186,8 +186,9 @@ a.rel-card:hover{border-color:var(--accent);background:rgba(255,51,85,0.04);}
 .rel-title{font-family:'DM Serif Display',serif;font-size:20px;margin-bottom:8px;font-style:italic;color:var(--text);}
 .rel-title.rel-dim{color:var(--muted);}
 .rel-desc{font-size:13px;color:var(--muted);line-height:1.55;}
-.rel-cta{font-family:'Courier Prime',monospace;font-size:10px;letter-spacing:.1em;margin-top:16px;color:var(--accent);}
+.rel-cta{font-family:'Courier Prime',monospace;font-size:10px;letter-spacing:.1em;margin-top:16px;color:var(--accent);transition:letter-spacing .25s;}
 .rel-cta.rel-dim{color:var(--muted);}
+a.rel-card:hover .rel-cta{letter-spacing:.18em;}
 /* ── SITE HEADER ── */
 #site-hdr{background:rgba(7,8,15,0.92);backdrop-filter:blur(12px);border-bottom:1px solid var(--border);display:flex;align-items:center;justify-content:space-between;padding:0 clamp(16px,4vw,48px);height:48px;position:sticky;top:0;z-index:300;}
 .shdr-back,.shdr-otro{color:var(--muted);text-decoration:none;font-family:'Courier Prime',monospace;font-size:11px;letter-spacing:.08em;transition:color .2s;}
