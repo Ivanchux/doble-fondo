@@ -539,6 +539,62 @@ body{background:var(--bg);color:var(--text);font-family:'Space Grotesk',sans-ser
 #tt{position:fixed;background:var(--surface);border:1px solid var(--border);padding:7px 11px;font-size:11px;font-family:'Space Grotesk',sans-serif;color:var(--text);pointer-events:none;z-index:9999;max-width:200px;line-height:1.5;display:none;}
 ::-webkit-scrollbar{width:4px;height:4px;}::-webkit-scrollbar-track{background:transparent;}::-webkit-scrollbar-thumb{background:rgba(255,255,255,.1);}
 ::selection{background:rgba(255,170,0,0.22);color:#fff;}
+
+/* ─── RESPONSIVE ──────────────────────────────── */
+@media(max-width:860px){
+  #hero-graph-wrap{opacity:.25;pointer-events:none;}
+  .graph-caption,.graph-hint{display:none;}
+}
+@media(max-width:640px){
+  /* Header */
+  .hdr-sub,.hdr-sep{display:none;}
+  .hdr-nav{overflow-x:auto;padding-right:12px;scrollbar-width:none;flex-shrink:1;}
+  .hdr-nav::-webkit-scrollbar{display:none;}
+  .hdr-link{font-size:10px;letter-spacing:.04em;white-space:nowrap;}
+
+  /* Ticker */
+  .ticker-eye{padding:0 10px;font-size:8px;}
+
+  /* Hero */
+  #hero{min-height:auto;}
+  #hero-text{padding:clamp(32px,8vw,56px) clamp(16px,5vw,24px) 40px;}
+  #hero-graph-wrap{display:none;}
+  #hero-scroll{display:none;}
+  .hero-h1{font-size:clamp(52px,15vw,80px);}
+  .hero-chips{grid-template-columns:1fr;}
+  .hchip-label{font-size:12px;}
+
+  /* Stats */
+  #stats-band{display:grid;grid-template-columns:1fr 1fr;overflow-x:visible;}
+  .sband-sep{display:none;}
+  .sband-item{border-bottom:1px solid var(--border);}
+  .sband-item:nth-child(odd){border-right:1px solid var(--border);}
+
+  /* Cases */
+  .casos-grid{grid-template-columns:1fr;}
+  .caso-card{border-right:none;}
+  .card-titulo{font-size:clamp(36px,12vw,56px);}
+
+  /* Nexo */
+  .nexo-h2{font-size:clamp(36px,11vw,56px);}
+  .nexo-grid{grid-template-columns:1fr;}
+
+  /* Activity log */
+  #log-lista::before{display:none;}
+  .log-entry{padding-left:0;}
+  .log-entry::before{display:none;}
+
+  /* Noticias preview */
+  .noticias-grid{margin-left:16px;margin-right:16px;}
+  .noticias-cta-wrap{padding-right:16px;}
+
+  /* Section dividers */
+  .sec-divider{padding-left:16px;padding-right:16px;}
+
+  /* Footer */
+  .footer-inner{flex-direction:column;gap:20px;}
+  .footer-meta{gap:10px;}
+}
 </style>
 </head>
 <body>

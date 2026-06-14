@@ -264,6 +264,23 @@ body { background:var(--bg); color:var(--text); font-family:'Space Grotesk',sans
   font-family:'Courier Prime',monospace;letter-spacing:.02em;
 }
 
+/* ─── RESPONSIVE ───────────────────────────── */
+@media(max-width:640px){
+  .shdr-logo{display:none;}
+  #portada{padding:56px 16px 36px;}
+  .port-bg-text{display:none;}
+  .port-h1{font-size:clamp(44px,14vw,72px);}
+  .port-stats{gap:16px;}
+  .port-sep{display:none;}
+  #filtros{gap:8px;padding:14px 16px;}
+  .f-spacer{display:none;}
+  .f-ts{display:none;}
+  #noticias-sec{padding-left:16px;padding-right:16px;}
+  .noticias-grid{margin-top:20px;}
+  #medios-sec{padding-left:16px;padding-right:16px;}
+  .footer-inner{flex-direction:column;}
+}
+
 /* ── FADE IN ── */
 @keyframes fadeUp{from{opacity:0;transform:translateY(18px)}to{opacity:1;transform:translateY(0)}}
 .port-eyebrow{animation:fadeUp .5s ease both}

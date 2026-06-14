@@ -913,6 +913,38 @@ a.rel-card:hover .rel-cta { letter-spacing: .18em; }
 .footer-link:hover{color:var(--text);}
 .footer-sep{color:var(--border);}
 .footer-date{font-family:'Courier Prime',monospace;font-size:11px;color:var(--muted);}
+
+/* ─── RESPONSIVE ───────────────────────────── */
+@media(max-width:640px){
+  /* Site header */
+  .shdr-logo{display:none;}
+
+  /* Portada */
+  #portada{min-height:auto;padding-bottom:clamp(48px,8vw,72px);padding-top:72px;}
+  .portada-radar{display:none;}
+  .portada-scroll{display:none;}
+  .portada-bg-num{font-size:clamp(160px,48vw,260px);}
+  .portada-bajada{flex-direction:column;gap:20px;}
+
+  /* Nav tabs: already overflow-x:auto, reduce padding */
+  .nav-btn{padding:12px clamp(12px,3vw,20px);}
+
+  /* Graph */
+  #grafo-wrap{height:auto;min-height:60svh;}
+
+  /* Section heads */
+  .sec-h2{font-size:clamp(28px,8vw,44px);}
+
+  /* Stats row */
+  .stats-row{grid-template-columns:1fr 1fr;}
+
+  /* Legal and changelog */
+  #legal-wrap,#changelog-wrap{padding:clamp(16px,4vw,32px);}
+
+  /* Footer */
+  .footer-inner{flex-direction:column;}
+  .footer-meta{flex-wrap:wrap;gap:10px;}
+}
 </style>
 </head>
 <body>
