@@ -55,7 +55,8 @@ h1 em{font-style:italic;color:var(--amber);}
 .fi-desc{font-size:13px;color:var(--text);line-height:1.7;font-weight:300;}
 
 /* ── PRINCIPIOS ── */
-.principio{display:flex;gap:20px;align-items:flex-start;padding:20px 0;border-bottom:1px solid var(--border);}
+.principio{display:flex;gap:20px;align-items:flex-start;padding:20px 0;border-bottom:1px solid var(--border);transition:background .2s,padding-left .2s;}
+.principio:hover{background:rgba(255,255,255,0.012);padding-left:10px;}
 .principio:last-child{border-bottom:none;}
 .p-num{font-family:'Courier Prime',monospace;font-size:11px;color:var(--muted);flex-shrink:0;width:28px;padding-top:3px;}
 .p-titulo{font-size:14px;font-weight:600;color:#fff;margin-bottom:6px;letter-spacing:.01em;}
