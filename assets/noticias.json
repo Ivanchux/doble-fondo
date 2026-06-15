@@ -1,246 +1,46 @@
 {
-  "updated": "2026-06-15T15:49:48Z",
-  "count": 24,
+  "updated": "2026-06-15T19:43:51Z",
+  "count": 4,
   "items": [
     {
-      "title": "Begoña Gómez comparece ante el juez Peinado, en directo: última hora de la declaración hoy",
-      "link": "https://www.abc.es/espana/begona-gomez-comparece-ante-juez-peinado-directo-20260615174055-di.html",
-      "desc": "Sigue en directo la última hora de la declaración de Begoña Gómez en los Juzgados de Plaza de Castilla ante el juez Juan Carlos Peinado, que la investiga por dos posibles delitos de tráfico de influencias y corrupción",
-      "date": "Mon, 15 Jun 2026 17:40:55 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
+      "title": "La UCO abona más sospechas sobre la directora de la Guardia Civil por su “relación” con Leire Díez",
+      "link": "https://www.lavanguardia.com/politica/20260615/11565525/uco-abona-mas-sospechas-sobre-directora-guardia-civil-relacion-leire-diez.html",
+      "desc": "Un nuevo informe remitido a la Audiencia Nacional apunta a que Mercedes González abrió una investigación interna contra agentes de la UCO un día después de borrar la conversación que manteía con la fontanera del PSOE",
+      "date": "15 Jun 2026 17:08:14 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "lei"
     },
     {
-      "title": "Afanion logra por primera vez representación de las cinco provincias en su Junta Directiva",
-      "link": "https://www.abc.es/espana/castilla-la-mancha/afanion-logra-primera-vez-representacion-cinco-provincias-20260615174014-nt.html",
-      "desc": "Tres décadas después de su nacimiento, Afanion ha dado un paso simbólico y estratégico en su historia. La asociación de familias de niños con cáncer de Castilla-La Mancha contará por primera vez con una Junta Directiva en la que estarán representadas las cinco",
-      "date": "Mon, 15 Jun 2026 17:40:15 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
+      "title": "El PSOE se desmarca de cualquier irregularidad: “Nadie sabe qué pasaba en el despacho de Santos Cerdán”",
+      "link": "https://www.lavanguardia.com/politica/20260615/11565441/psoe-desmarca-irregularidad-nadie-que-pasaba-despacho-santos-cerdan.html",
+      "desc": "Pedro Sánchez inicia una semana crítica de comparecencias judiciales y parlamentarias con una reunión de su ejecutiva de Ferraz, que atribuye toda posible ilegalidad a “comportamientos individuales” de su anterior secretario de organización",
+      "date": "15 Jun 2026 15:03:27 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "lei"
     },
     {
-      "title": "El PP denuncia la situación «crítica del campo» y exige a Page respuestas urgentes",
-      "link": "https://www.abc.es/espana/castilla-la-mancha/pp-denuncia-situacion-critica-campo-exige-page-20260615173515-nt.html",
-      "desc": "El vicepresidente de las Cortes de Castilla-La Mancha, Santiago Lucas-Torres, ha denunciado que el campo de la región atraviesa «uno de los momentos más difíciles de las últimas décadas», marcado por la incertidumbre, la subida de costes y la falta de respuest",
-      "date": "Mon, 15 Jun 2026 17:38:20 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "La Audiencia Nacional condena a la cúpula de los DDP de Seseña por organización criminal",
-      "link": "https://www.abc.es/espana/madrid/audiencia-nacional-condena-cupula-ddp-sesena-organizacion-20260615173712-nt.html",
-      "desc": "La Sección Primera de la Sala de lo Penal de la Audiencia Nacional ha condenado, entre otros delitos, a once cabecillas del 'coro' (célula territorial) de Seseña, Toledo, de los Dominican Don't Play (DDP) por pertenencia a organización criminal. El Tribunal Su",
-      "date": "Mon, 15 Jun 2026 17:37:12 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "gen"
-    },
-    {
-      "title": "Talavera retira 302 toneladas de muebles de las calles en lo que va de año",
-      "link": "https://www.abc.es/espana/castilla-la-mancha/toledo/talavera/talavera-retira-302-toneladas-muebles-calles-ano-20260615173039-nt.html",
-      "desc": "Sofás, colchones, armarios, mesas y todo tipo de enseres han acabado este año junto a las aceras de Talavera de la Reina. Solo en los primeros meses de 2026, el servicio municipal ha retirado de la vía pública 302 toneladas de muebles abandonados , una cifra q",
-      "date": "Mon, 15 Jun 2026 17:30:40 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "El PSOE lamenta las «mentiras y ocurrencias» del PP tras acusarles de veto parlamentario",
-      "link": "https://www.abc.es/espana/castilla-la-mancha/psoe-lamenta-mentiras-ocurrencias-pp-tras-acusarles-20260615171956-nt.html",
-      "desc": "La portavoz del Grupo Socialista en las Cortes de Castilla-La Mancha, Ana Isabel Abengózar, ha respondido a las acusaciones del Partido Popular de « veto parlamentario » este lunes lamentando las «ocurrencias» y «mentiras» con «tal de salir a los medios de com",
-      "date": "Mon, 15 Jun 2026 17:19:57 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Expulsan de España a un padre que se llevó a su hija de 6 años al extranjero sin permiso materno",
-      "link": "https://www.abc.es/espana/galicia/expulsan-espana-padre-llevo-hija-anos-extranjero-20260615171814-nt.html",
-      "desc": "Un hombre, acusado de un delito de sustracción internacional de menores, ha aceptado 2 años de prisión , en una vista preliminar de conformidad celebrada en la sección Penal, plaza 3, del Tribunal de Instancia de Vigo. Según el escrito de acusación de la Fisca",
-      "date": "Mon, 15 Jun 2026 17:18:14 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Ya se pueden solicitar las ayudas para rehabilitar bloques en cinco barrios vulnerables",
-      "link": "https://www.abc.es/espana/madrid/abiertas-ayudas-rehabilitar-edificios-residenciales-cinco-barrios-20260615170700-nt.html",
-      "desc": "El ayuntamiento ha presentado esta mañana la nueva convocatoria del Plan Transforma tu Barrio, que destinará 2,5 millones de euros para reformar edificios residenciales en los barrios de Poblado Dirigido de Orcasitas y Meseta de Orcasitas (Usera), San Cristóba",
-      "date": "Mon, 15 Jun 2026 17:07:00 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Un estudio analizará cómo se cambia de idioma en Galicia y Gibraltar en función del contexto",
-      "link": "https://www.abc.es/espana/galicia/estudio-analizara-cambia-idioma-galicia-gibraltar-funcion-20260615170310-nt.html",
-      "desc": "El proyecto BabelBrain analizará de forma comparativa cómo se cambia de idioma en espacios multilingüísticos como Galicia y Gibraltar «para estudiar cómo la mente humana se adapta a contextos sociales complejos». Este proyecto está liderado por la investigador",
-      "date": "Mon, 15 Jun 2026 17:03:11 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Metro de Madrid forma 17 trabajadores por la automatización de la Línea 6",
-      "link": "https://www.abc.es/espana/madrid/metro-madrid-formara-117-trabajadores-automatizacion-linea-20260615165447-nt.html",
-      "desc": "La Comunidad de Madrid ha iniciado este lunes la formación de los 117 empleados de Metro de Madrid que desempeñarán funciones de gestión, atención y supervisión al usuario. Concretamente un total de 27 gestores, 25 controladores y 65 operadores recibirán una i",
-      "date": "Mon, 15 Jun 2026 16:54:47 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "El audio de la primera llamada de Jonathan Andic al 112: «Mi padre se ha caído»",
-      "link": "https://www.abc.es/espana/cataluna/audio-primera-llamada-jonathan-andic-112-padre-20260615165223-nt.html",
-      "desc": "El 14 de diciembre de 2024, pasado el mediodía, Jonathan Andic llamó a Emergencias para pedir ayuda. En dicha comunicación, tal y como detalló ABC , entre lloros, alertó de que su padre, el fundador de Mango, Isak Andic, había caído al vacío, mientras paseaban",
-      "date": "Mon, 15 Jun 2026 16:52:24 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Piden dos años de cárcel para un hombre que agredió sexualmente a su empleada doméstica en Orense",
-      "link": "https://www.abc.es/espana/galicia/piden-dos-anos-carcel-hombre-agredio-sexualmente-20260615164855-nt.html",
-      "desc": "Fiscalía ha solicitado la pena de dos años y siete meses de prisión, así como el pago de una indemnización de 12.000 euros para un hombre de 74 años por un delito de agresión sexual a una mujer que trabajaba haciendo labores domésticas en su domicilio en Orens",
-      "date": "Mon, 15 Jun 2026 16:48:56 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Los del Río se rompen de emoción en Pamplona y adaptan la Salve rociera ante San Fermín: «No pudimos contenernos»",
-      "link": "https://www.abc.es/espana/andalucia/rio-cantan-salve-rociera-santo-san-fermin-20260615135938-nts.html",
-      "desc": "Pamplona ya se prepara para recibir los sanfermines, la popular fiesta que acontecerá en el mes de julio. Antonio Romero Monge y Rafael Ruiz Perdigones, conocidos como Los del Río , han aprovechado para visitar la parroquia de San Lorenzo, donde se encuentra l",
-      "date": "Mon, 15 Jun 2026 16:47:53 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Los hospitales de Dénia, Doctor Balmis y La Fe refuerzan la formación en donación y trasplante de órganos",
-      "link": "https://www.abc.es/espana/comunidad-valenciana/hospitales-denia-doctor-balmis-refuerzan-formacion-donacion-20260615164026-nt.html",
-      "desc": "Especialistas en donación y trasplantes de órganos de los hospitales universitarios La Fe de València, General Doctor Balmis de Alicante y el Hospital de Dénia han celebrado por primera vez una jornada de formación interdepartamental destinada a reforzar la ca",
-      "date": "Mon, 15 Jun 2026 16:40:26 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Cárcel para tres de los cinco detenidos por la muerte de un hombre a tiros en un pueblo de Almería",
-      "link": "https://www.abc.es/espana/andalucia/almeria/carcel-tres-cinco-detenidos-muerte-hombre-tiros-20260615163718-nts.html",
-      "desc": "Tres hombres han ingresado en prisión provisional, comunicada y sin fianza por su presunta participación en la muerte a tiros de un hombre en un cortijo de Pechina durante la madrugada del pasado 18 de enero, en el marco de un presunto tiroteo. Fuentes judicia",
-      "date": "Mon, 15 Jun 2026 16:39:48 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Pánico y trifulca con un conductor ebrio en una procesión con niños en Valencia",
-      "link": "https://www.abc.es/espana/comunidad-valenciana/panico-trifulca-conductor-ebrio-procesion-ninos-valencia-20260615163321-nt.html",
-      "desc": "Los vecinos de Camí Real, un barrio del sur de Valencia junto San Marcelino y la pedanía de La Torre, vivieron este pasado domingo por la noche momentos de tensión provocados por un conductor ebrio que estuvo a centímetros de embestir con su coche a una proces",
-      "date": "Mon, 15 Jun 2026 16:33:22 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Servicios especiales del TRAM de Alicante por Hogueras 2026: horarios y frecuencia de paso",
-      "link": "https://www.abc.es/espana/comunidad-valenciana/alicante/servicios-especiales-tram-alicante-hogueras-2026-horarios-20260615162724-nt.html",
-      "desc": "La Generalitat ha organizado para las Hogueras de San Juan un dispositivo especial del TRAM de Alicante que ofrecerá 144 horas ininterrumpidas de servicio, desde el próximo 20 de junio hasta la madrugada del 25 al 26 de junio, con el objetivo de facilitar la m",
-      "date": "Mon, 15 Jun 2026 16:27:24 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Piden ocho meses de prisión para un hombre que se masturbó, sentado en su coche, delante de una menor",
-      "link": "https://www.abc.es/espana/galicia/piden-ocho-meses-prision-hombre-masturbo-sentado-20260615162536-nt.html",
-      "desc": "El caso es alarmante y llegó a los tribunales en busca de una condena para el autor de los hechos. La fiscalía ha solicitado la pena de ocho meses de prisión para un hombre acusado de un delito de exhibicionismo tras haberse masturbado desde su vehículo delant",
-      "date": "Mon, 15 Jun 2026 16:25:36 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "La UVa y Renault crean una nueva Cátedra para la innovación tecnológica y transformación digital",
-      "link": "https://www.abc.es/espana/castilla-leon/uva-renault-crean-nueva-catedra-innovacion-tecnologica-20260615160423-nt.html",
-      "desc": "El rector de la Universidad de Valladolid en funciones, Antonio Largo, y el director del Centro I+D+i de Renault Group, César Lorenzo, suscribían este lunes en el Palacio de Santa Cruz el convenio por el que se crea la Cátedra Renault Group para la innovación ",
-      "date": "Mon, 15 Jun 2026 16:04:24 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Galicia bate de nuevo su récord de formación MIR con 725 plazas ofertadas para este 2026",
-      "link": "https://www.abc.es/espana/galicia/galicia-bate-nuevo-record-formacion-mir-725-20260615160417-nt.html",
-      "desc": "La sanidad pública gallega tendrá este año 2026 la oferta más elevada de plazas de formación de su historia. Así lo ha destacado el presidente de la Xunta tras la reunión semanal de su gobierno, anunciando la convocatoria de 725 plazas de las seis especialidad",
-      "date": "Mon, 15 Jun 2026 16:04:17 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "El PP ve con el caso Zapatero un “fin de época” para la izquierda por la “hipocresía política”",
-      "link": "https://www.lavanguardia.com/politica/20260615/11565269/pp-ve-caso-zapatero-epoca-izquierda-hipocresia-politica.html",
-      "desc": "Los populares creen que se está “resquebrajando” la “superioridad moral” que ha tratado de proyectar el PSOE durante los últimos años",
-      "date": "15 Jun 2026 14:04:06 +0200",
+      "title": "Zapatero pide al juez aplazar sus explicaciones sobre el origen de las joyas halladas en su despacho",
+      "link": "https://www.lavanguardia.com/politica/20260615/11565407/zapatero-pide-juez-aplazar-explicaciones-sobre-origen-joyas-incautadas-despacho.html",
+      "desc": "La defensa del expresidente solicita más tiempo para preparar la parte de la declaración relativa a los delitos de contrabando y fiscal que le imputó el magistado el pasado viernes",
+      "date": "15 Jun 2026 14:19:34 +0200",
       "source": "La Vanguardia",
       "color": "#8e44ad",
       "feedId": "LaVanguardia",
       "caso": "zap"
     },
     {
-      "title": "Las claves del acuerdo entre EE.UU. e Irán, un pacto con más incógnitas que certezas",
-      "link": "https://www.lavanguardia.com/internacional/20260615/11565194/claves-acuerdo-ee-uu-e-iran-pacto-mas-incognitas-certezas.html",
-      "desc": "La reapertura de Ormuz y el futuro del programa nuclear iraní, entre los puntos críticos de las negociaciones",
-      "date": "15 Jun 2026 12:49:53 +0200",
+      "title": "La UCO desvela que Cerdán autorizó que el PSOE pagase “cualquier viaje” a Leire Díez para su fontanería",
+      "link": "https://www.lavanguardia.com/politica/20260615/11565225/uco-desvela-cerdan-autorizo-psoe-pagase-viaje-leire-diez-fontaneria.html",
+      "desc": "&nbsp;“Es una orden directa del secretario de Organización, no sé más... Por favor, emite en cuanto tengas la&nbsp;autorización”",
+      "date": "15 Jun 2026 13:50:37 +0200",
       "source": "La Vanguardia",
       "color": "#8e44ad",
       "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "Las mejores imágenes del combate entre Ilia Topuria contra Justin Gaethje",
-      "link": "https://www.lavanguardia.com/deportes/20260615/11565166/combate-ilia-topuria-justin-gaethje-imagenes.html",
-      "desc": "Primera derrota del hispanogeorgiano, destronado por su rival estadounidense en el peso ligero",
-      "date": "15 Jun 2026 12:36:21 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "Trump, Topuria y un baño de sangre: los combates de Lincoln y el boxeador Teddy Roosevelt",
-      "link": "https://www.lavanguardia.com/historiayvida/historia-contemporanea/20260615/11565048/trump-topuria-bano-sangre-combates-lucha-libre-abraham-lincoln-boxeador-teddy-roosevelt-casa-blanca.html",
-      "desc": "El actual presidente de EE.UU. no ha sido el único mandatario en instalar un ring en la residencia presidencial: Teddy Roosevelt hizo lo mismo, pero para su propio uso",
-      "date": "15 Jun 2026 12:27:11 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
-      "caso": "other"
+      "caso": "lei"
     }
   ]
 }
