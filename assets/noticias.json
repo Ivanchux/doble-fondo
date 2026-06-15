@@ -1,7 +1,47 @@
 {
-  "updated": "2026-06-14T23:03:54Z",
-  "count": 24,
+  "updated": "2026-06-15T03:41:52Z",
+  "count": 5,
   "items": [
+    {
+      "title": "Leire era —y es— el PSOE",
+      "link": "https://www.abc.es/espana/leire-era-psoe-20260615024823-nt.html",
+      "desc": "Leire Díez puso en marcha, entre las sombras, una operación cuyos fines y justificación comparte el sanchismo. Lo que llevó a Ferraz, y Ferraz compró, en el sentido figurado y también en el más literal del verbo, es que existen unos guardias civiles fachas y c",
+      "date": "Mon, 15 Jun 2026 02:48:23 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "lei"
+    },
+    {
+      "title": "El peritaje de las joyas de Zapatero no incluye el análisis clave para determinar su origen",
+      "link": "https://www.abc.es/espana/peritaje-joyas-zapatero-incluye-analisis-clave-determinar-20260615024806-nt.html",
+      "desc": "El misterio de las joyas de José Luis Rodríguez Zapatero. La Audiencia Nacional y la Policía Nacional tratan de averiguar la trazabilidad de las piezas incautadas en la caja fuerte del expresidente del Gobierno, que tienen un valor de 1,32 millones de euros. F",
+      "date": "Mon, 15 Jun 2026 02:48:06 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "zap"
+    },
+    {
+      "title": "Santos Cerdán eliminó todos sus mensajes 48 horas antes de publicarse su informe de la UCO",
+      "link": "https://www.abc.es/espana/santos-cerdan-elimino-mensajes-horas-publicarse-informe-20260610024708-nt.html",
+      "desc": "Santos Cerdán eliminó sus mensajes de la aplicación de WhatsApp el mismo día que se conoció que el dispositivo de Koldo García tenía grabaciones sobre las supuestas mordidas por obras . El informe de la Unidad Central Operativa (UCO) de la Guardia Civil sobre ",
+      "date": "Mon, 15 Jun 2026 02:47:08 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "lei"
+    },
+    {
+      "title": "Fuenlabrada adjudicó un contrato de 3 millones a una UTE conectada a los casos de Zapatero y Koldo",
+      "link": "https://www.abc.es/espana/madrid/fuenlabrada-adjudico-contrato-millones-ute-conectada-casos-20260610021941-nt.html",
+      "desc": "Los tentáculos de los casos relacionados con José Luis Rodríguez Zapatero , José Luis Ábalos, Koldo García y Santos Cerdán pueden llegar hasta Fuenlabrada. El Ayuntamiento adjudicó un contrato en 2024, que alcanzó los 3 millones de euros, a una UTE formada por",
+      "date": "Mon, 15 Jun 2026 02:19:41 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "both"
+    },
     {
       "title": "Corte total de tráfico este lunes en la calle San Pablo: recorrido alternativo y cambios en Aucorsa",
       "link": "https://www.abc.es/espana/andalucia/cordoba/corte-total-trafico-lunes-calle-san-pablo-20260614234002-nts.html",
@@ -11,236 +51,6 @@
       "color": "#c0392b",
       "feedId": "ABC",
       "caso": "gen"
-    },
-    {
-      "title": "El Sagrado Corazón de Jesús, la fuerza y la fe inundan las calles de Córdoba",
-      "link": "https://www.abc.es/espana/andalucia/cordoba/semana-santa/sagrado-corazon-jesus-fuerza-inundan-calles-cordoba-20260614165855-nts.html",
-      "desc": "El Sagrado Corazón de Jesús vuelve a recordar el núcleo central de la fe, todo lo que Dios ama a sus hijos y todo el amor que debe recibir de ellos. La fuerza de este mensaje ha ido calando en calles, plazas y casas del Centro este domingo por la tarde noche. ",
-      "date": "Sun, 14 Jun 2026 22:18:47 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Villablino prohíbe el riego de forma temporal tras llegar arrastres de los incendios al agua de Orallo",
-      "link": "https://www.abc.es/espana/castilla-leon/villablino-prohibe-riego-forma-temporal-tras-llegar-20260614202901-nt.html",
-      "desc": "El Ayuntamiento de Villablino (León) ha prohibido el riego de forma temporal ya que el suministro será limitado por un trasvase necesario de agua tras verse afectada la captación de la pedanía de Orallo por arrastres de los incendios que afectaron a la zona en",
-      "date": "Sun, 14 Jun 2026 21:06:20 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "La lluvia deja a la Virgen de la Estrella sin procesión, pero no sin el cariño de Toledo",
-      "link": "https://www.abc.es/espana/castilla-la-mancha/toledo/lluvia-deja-virgen-estrella-procesion-carino-toledo-20260614203001-nt.html",
-      "desc": "Las campanas de la ermita de la Virgen de la Estrella no dejaron de sonar durante toda la tarde, como si quisieran anunciar que, aunque la imagen no recorrería las calles de Toledo, la cita con sus devotos seguía intacta . Con llovizna, bajo un cielo encapotad",
-      "date": "Sun, 14 Jun 2026 20:30:01 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "De la A a la Z: diccionario para disfrutar del calendario festivalero del verano",
-      "link": "https://www.abc.es/espana/castilla-leon/diccionario-disfrutar-calendario-festivales-verano-20260611202108-nt.html",
-      "desc": "Este fin de semana, miles de personas han llenado el parque del Sotillo, principal enclave del Palencia Sonora, para entonar las canciones de Siloé y bailar al son del rock desenfadado de los Sexy Cebras o del trovador techno Joe Crepúspulo. Mientras, a hora y",
-      "date": "Sun, 14 Jun 2026 20:21:08 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Galicia suma aliados para acabar con los peajes de las autopistas",
-      "link": "https://www.abc.es/espana/galicia/galicia-suma-aliados-acabar-peaje-autopistas-20260614202025-nt.html",
-      "desc": "El pecado original está en aquella prórroga que hace un cuarto de siglo aprobó el Gobierno de José María Aznar. Alargaba hasta 2048 las concesiones de dos de las principales autopistas del norte de España, la AP-9, que vertebra el eje atlántico gallego de nort",
-      "date": "Sun, 14 Jun 2026 20:20:25 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Dos grandes incendios en Galicia arrasan más de 500 hectáreas en Padrón y Boborás",
-      "link": "https://www.abc.es/espana/galicia/dos-grandes-incendios-galicia-arrasan-500-hectareas-20260614200725-nt.html",
-      "desc": "Fin de semana intenso para los servicios de extinción en Galicia. A las puertas del verano y con el calor pegando fuerte, la comunidad autónoma ha empezado a sufrir sus primeros incendios de consideración. En Padrón (A Coruña), el fuego arrasó en dos días más ",
-      "date": "Sun, 14 Jun 2026 20:07:25 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Los cedidos del Córdoba CF firman una temporada de reivindicaciones e irregularidades",
-      "link": "https://www.abc.es/espana/andalucia/cordoba/cordoba-cf/cedidos-cordoba-firman-temporada-reivindicaciones-irregularidades-20260614200815-nts.html",
-      "desc": "Lejos del foco mediático que ha acaparado el primer equipo durante las últimas semanas, el Córdoba CF también mira con atención el rendimiento de sus futbolistas cedidos. Por primera vez en su etapa reciente, la entidad blanquiverde ha contado con un amplio gr",
-      "date": "Sun, 14 Jun 2026 20:00:03 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Diputación de Toledo acompaña a la Asociación de Mayores La Humanitaria de Torrijos en su 50 aniversario",
-      "link": "https://www.abc.es/espana/castilla-la-mancha/toledo/pueblos/diputacion-toledo-acompana-asociacion-mayores-humanitaria-torrijos-20260614195520-nt.html",
-      "desc": "La presidenta de la Diputación de Toledo, Concepción Cedillo , y el vicepresidente de Bienestar Social, Familia y Juventud, Daniel Arias, han participado hoy en la comida anual de la Asociación de Mayores La Humanitaria de Torrijos, una cita que este año ha te",
-      "date": "Sun, 14 Jun 2026 19:55:20 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "La Barra del Solomillo estrena temporada con tapas, carnes y tardeos en sus terrazas",
-      "link": "https://www.abc.es/espana/cataluna/barra-solomillo-estrena-temporada-tapas-carnes-tardeos-20260614194830-nt.html",
-      "desc": "La gastronomía de hotel hace tiempo que dejó de ser patrimonio exclusivo de los huéspedes y los barceloneses dan buena cuenta de ello. Algunos establecimientos se han convertido en citas obligadas con vida propia para el público local. Es el caso del Alexandra",
-      "date": "Sun, 14 Jun 2026 19:48:31 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Silvia Mellado deja la Alcaldía de Fuente Obejuna y Luisa Mari Rodríguez, también del PSOE, la sucede",
-      "link": "https://www.abc.es/espana/andalucia/cordoba/silvia-mellado-deja-alcaldia-fuente-obejuna-luisa-20260614192357-nts.html",
-      "desc": "El Ayuntamiento de Fuente Obejuna ha celebrado este sábado el Pleno en el que se ha oficializado la salida de la Alcaldía de la socialista Silvia Mellado , que ha logrado acta de parlamentaria en las elecciones del 17M. Su cargo lo ocupa a partir de ahora Luis",
-      "date": "Sun, 14 Jun 2026 19:23:58 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Eva Gutiérrez sustituye a María Luisa López en la Alcaldía de Puebla de Don Rodrigo tras el acuerdo PP-Vox",
-      "link": "https://www.abc.es/espana/castilla-la-mancha/eva-gutierrez-sustituye-maria-luisa-lopez-alcaldia-20260614192015-nt.html",
-      "desc": "El presidente de la Diputación de Ciudad Real, Miguel Ángel Valverde, ha asistido este domingo al acto de toma de posesión de la nueva alcaldesa de Puebla de Don Rodrigo , Eva Gutiérrez García , quien asume la responsabilidad al frente del Ayuntamiento en sust",
-      "date": "Sun, 14 Jun 2026 19:20:16 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Más de 30.000 médicos andaluces vuelven a estar llamados a la huelga contra el Gobierno",
-      "link": "https://www.abc.es/espana/andalucia/30000-medicos-andaluces-vuelven-estar-llamados-huelga-20260614190054-nts.html",
-      "desc": "Alrededor de 30.000 facultativos , a lo que se suman residentes (MIR) y facultativos no médicos, están llamados desde este lunes a secundar la última semana de huelga convocada hasta la fecha por los sindicatos médicos para reclamar un estatuto marco propio al",
-      "date": "Sun, 14 Jun 2026 19:01:51 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Muere el conductor de un turismo tras salirse de la vía en la pedanía conquense de Mohorte",
-      "link": "https://www.abc.es/espana/castilla-la-mancha/muere-conductor-turismo-tras-salirse-via-pedania-20260614190023-nt.html",
-      "desc": "Un hombre ha perdido la vida tras la salida de la vía del turismo que conducía y salir despedido del vehículo en el kilómetro 440 de la N-420, a la altura de la pedanía conquense de Mohorte . Los hechos, según han informados fuentes del Servicio de Atención y ",
-      "date": "Sun, 14 Jun 2026 19:00:24 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "CCOO exige climatizar los colegios de Toledo y Talavera tras años de quejas por el calor en las aulas",
-      "link": "https://www.abc.es/espana/castilla-la-mancha/toledo/ccoo-exige-climatizar-colegios-toledo-talavera-tras-20260614185235-nt.html",
-      "desc": "Con las últimas semanas del curso marcadas por las altas temperaturas, miles de alumnos y docentes de la provincia de Toledo vuelven a enfrentarse a jornadas lectivas en aulas donde el calor dificulta la actividad diaria. Una situación que, según denuncia CCOO",
-      "date": "Sun, 14 Jun 2026 18:52:36 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Detenido por llevar un machete de grandes dimensiones en las fiestas de Arroyo (Valladolid)",
-      "link": "https://www.abc.es/espana/castilla-leon/detenido-llevar-machete-grandes-dimensiones-fiestas-arroyo-20260614184539-nt.html",
-      "desc": "Un joven ha sido detenido por un presunto delito de tenencia ilícita de armas prohibidas tras haber sido descubierto en posesión de un machete de grandes dimensiones , durante las fiestas de la localidad vallisoletana de Arroyo de la Encomienda, según han info",
-      "date": "Sun, 14 Jun 2026 18:45:40 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Iván Ibáñez, Mar Villapalos, Olga García y Francisco Medina protagonizarán la II edición del 'Mes de Artistas Toledanos'",
-      "link": "https://www.abc.es/espana/castilla-la-mancha/toledo/ivan-ibanez-mar-villapalos-olga-garcia-francisco-20260614184331-nt.html",
-      "desc": "El Ayuntamiento de Toledo , a través de la Concejalía de Cultura, ha dado a conocer la resolución de la comisión técnica encargada de valorar las propuestas presentadas a la segunda edición de la convocatoria del ' Mes de los Artistas Toledanos' 2026 , una ini",
-      "date": "Sun, 14 Jun 2026 18:43:32 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Una pizza de oro  para el Papa",
-      "link": "https://www.abc.es/espana/cataluna/pizza-oro-papa-20260614183816-nt.html",
-      "desc": "Una calle vigilada hasta el último rincón, un mosso d'Esquadra colocado cada diez metros y un pizzero italiano, exageradamente italiano, clamando a los cuatro vientos que necesitaba cruzar la calle. Así estaba este miércoles el tramo de Rosselló comprendido en",
-      "date": "Sun, 14 Jun 2026 18:38:16 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "El servicio pionero que impulsa la inclusión laboral de autistas en Madrid",
-      "link": "https://www.abc.es/espana/madrid/servicio-pionero-impulsa-inclusion-laboral-personas-autismo-20260518183332-nt.html",
-      "desc": "Una mala experiencia en su anterior empleo quebró la confianza de Javier. Lo que comenzó como una oportunidad laboral terminó erosionando poco a poco su bienestar. Cada jornada comenzaba con una fuerte sensación de ansiedad. Habla, en parte, de episodios de ac",
-      "date": "Sun, 14 Jun 2026 18:33:32 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Castilla-La Mancha, en aviso amarillo por tormentas este lunes con riesgo de granizo",
-      "link": "https://www.abc.es/espana/castilla-la-mancha/castillala-mancha-aviso-amarillo-tormentas-lunes-riesgo-20260614183014-nt.html",
-      "desc": "Castilla-La Mancha afrontará este lunes una jornada de inestabilidad meteorológica con aviso amarillo por tormentas en gran parte de la región. La Agencia Estatal de Meteorología (Aemet) ha activado la alerta entre las 14:00 y las 20:00 horas ante la previsión",
-      "date": "Sun, 14 Jun 2026 18:30:15 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "“Espero que nos encontremos con Lamine Yamal en una final para aclararle si eligió bien”",
-      "link": "https://www.lavanguardia.com/deportes/futbol/20260614/11564580/espero-encontremos-lamine-yamal-final-aclararle-eligio.html",
-      "desc": "El presidente de la Federación de Marruecos calienta el debut de España con estas provocadoras declaraciones&nbsp;",
-      "date": "14 Jun 2026 17:12:21 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "Ferran Torres: “No hay que frenar a Lamine, tiene mucha energía y hay que dejarle fluir”",
-      "link": "https://www.lavanguardia.com/deportes/futbol/20260614/11564567/ferran-torres-espana-mundial-2026.html",
-      "desc": "El delantero de la selección española se muestra tranquilo antes del debut en el Mundial",
-      "date": "14 Jun 2026 16:12:43 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "Las pausas de hidratación, una excusa para que las televisiones cuelen publicidad durante los partidos",
-      "link": "https://www.lavanguardia.com/deportes/futbol/mundial-2026/20260614/11564535/pausas-hidratacion-anuncios-televisiones-mundial-americanizacion-futbol.html",
-      "desc": "Los aficionados se perdieron varios segundos del México-Sudáfrica por los anuncios",
-      "date": "14 Jun 2026 13:16:52 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "León XIV agradece al Rey y a la Iglesia española tras su viaje apostólico",
-      "link": "https://www.lavanguardia.com/politica/20260614/11564532/leon-xiv-agradece-rey-iglesia-espanola-viaje-apostolico.html",
-      "desc": "En el primer Ángelus tras su regreso al Vaticano, el Papa volvió a alertar contra la violencia y el consumismo",
-      "date": "14 Jun 2026 13:09:23 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
-      "caso": "other"
     }
   ]
 }
