@@ -1,16 +1,16 @@
 {
-  "updated": "2026-06-16T19:30:54Z",
-  "count": 24,
+  "updated": "2026-06-16T22:08:16Z",
+  "count": 8,
   "items": [
     {
-      "title": "Amancio López lleva la carne de buey gallega del Pazo Recimil a los restaurantes de Eurostars",
-      "link": "https://www.abc.es/espana/cataluna/amancio-lopez-lleva-carne-buey-gallega-pazo-20260616211613-nt.html",
-      "desc": "Amancio López Seijas vuelve a mirar a Galicia, y especialmente al interior lucense, como algo más que un lugar de origen. El presidente de Grupo Hotusa, de Eurostars Hotel Company y de la Asociación de Empresarios Gallegos de Catalunya (Aega-Cat), ha puesto en",
-      "date": "Tue, 16 Jun 2026 21:16:14 +0200",
+      "title": "El truco para disfrutar plenamente del eclipse solar de este verano en Galicia y horarios",
+      "link": "https://www.abc.es/espana/galicia/truco-disfrutar-plenamente-eclipse-solar-verano-galicia-20260616230000-nt.html",
+      "desc": "Galicia será uno de los mejores lugares del mundo para presenciar un fenómeno astronómico que no se producía en la península desde 1905. Sin embargo, la espectacularidad de este evento esconde un gran reto para aquellos que quieran disfrutarlo: el Sol se ocult",
+      "date": "Tue, 16 Jun 2026 23:00:00 +0200",
       "source": "ABC",
       "color": "#c0392b",
       "feedId": "ABC",
-      "caso": "other"
+      "caso": "gen"
     },
     {
       "title": "Daniel Innerarity, nuevo doctor honoris causa de la UCO: «Es fantástico que ocurran revoluciones que nos lleven a pensar»",
@@ -23,224 +23,64 @@
       "caso": "gen"
     },
     {
-      "title": "Rompen el cristal con un coche del concesionario y se llevan el mejor BMW: robo de película en Priego de Córdoba",
-      "link": "https://www.abc.es/espana/andalucia/cordoba/rompen-cristal-coche-concesionario-llevan-mejor-bmv-20260616203940-nts.html",
-      "desc": "Un golpe perfectamente planificado y ejecutado en cuestión de minutos. El concesionario de vehículos Miwecars, ubicado la Avenida de Granada de Priego de Córdoba , sufrió en la madrugada de este martes un audaz robo en el que los asaltantes lograron hacerse co",
-      "date": "Tue, 16 Jun 2026 20:47:31 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Confirman un foco de enfermedad de Newcastle en una granja con 24.000 pollos en la provincia de Valladolid",
-      "link": "https://www.abc.es/espana/castilla-leon/confirman-foco-enfermedad-newcastle-granja-24000-pollos-20260616203352-nt.html",
-      "desc": "El Ministerio de Agricultura, Pesca y Alimentación ha confirmado la detección de un foco de enfermedad de Newcastle en una granja avícola en Aldea de San Miguel, en la provincia de Valladolid, tras la notificación al respecto por parte de las autoridades veter",
-      "date": "Tue, 16 Jun 2026 20:33:53 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "La banda de la Esperanza  acompañará a la Virgen de los Dolores de Córdoba",
-      "link": "https://www.abc.es/espana/andalucia/cordoba/semana-santa/banda-esperanza-acompanara-virgen-dolores-cordoba-20260616201045-nts.html",
-      "desc": "La banda con repertorio más cordobés detrás de la Señora de Córdoba. Dos días después de las elecciones a hermano mayor, la hermandad de los Dolores acaba de anunciar un acuerdo con la banda de música María Santísima de la Esperanza para que vaya con la Virgen",
-      "date": "Tue, 16 Jun 2026 20:30:25 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Yolanda de la Cruz será alcaldesa socialista de Granátula de Calatrava tras el relevo pactado con el PP",
-      "link": "https://www.abc.es/espana/castilla-la-mancha/toledo/yolanda-cruz-alcaldesa-socialista-granatula-calatrava-tras-20260616201534-nt.html",
-      "desc": "La socialista Yolanda de la Cruz asumirá este jueves, previsiblemente, la Alcaldía de Granátula de Calatrava (Ciudad Real) en cumplimiento del acuerdo de alternancia alcanzado por PP y PSOE tras las elecciones municipales de mayo de 2023. El relevo se formaliz",
-      "date": "Tue, 16 Jun 2026 20:15:35 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Transportes invertirá 184 millones en el mantenimiento de las principales autovías de Castilla-La Mancha",
-      "link": "https://www.abc.es/espana/castilla-la-mancha/transportes-invertira-184-millones-mantenimiento-principales-autovias-20260616201000-nt.html",
-      "desc": "Las principales autovías que atraviesan Castilla-La Mancha recibirán una inyección de casi 184 millones de euros para garantizar su conservación y mejorar las condiciones de circulación durante los próximos años. El Consejo de Ministros ha autorizado este mart",
-      "date": "Tue, 16 Jun 2026 20:10:01 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Feijóo se indigna con la decisión de Armengol y estudia llevar el veto a la Justicia",
-      "link": "https://www.abc.es/espana/feijoo-indigna-decision-armengol-estudia-llevar-veto-20260616200830-nt.html",
-      "desc": "El enfado en el grupo parlamentario del PP es mayúsculo. Hasta el punto de que Alberto Núñez Feijóo ha dado orden de estudiar todas las acciones posibles, sin descartar acudir a la Justicia, aunque esa decisión conduce necesariamente al Tribunal Constitucional",
-      "date": "Tue, 16 Jun 2026 20:08:30 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "San Juan 2026 en Galicia: playas permitidas, restricciones y dónde se pueden hacer hogueras",
-      "link": "https://www.abc.es/espana/galicia/san-juan-2026-galicia-playas-permitidas-restricciones-20260616200003-nt.html",
-      "desc": "Llega el 23 de junio y Galicia se prepara para arder por los cuatro costados. Ritual, meigas, olor a sardina y, admitámoslo, un poquito de caos organizado. Sin embargo, los tiempos de la improvisación absoluta ya son historia. Compaginar el espíritu festivo co",
-      "date": "Tue, 16 Jun 2026 20:00:03 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "El Congreso sí aceptó textos de Vox y Junts que exigían elecciones y cuestión de confianza",
-      "link": "https://www.abc.es/espana/mesa-acepto-enmienda-junts-solicitando-cuestion-confianza-20260616195858-nt.html",
-      "desc": "El PP ha presentado este martes un escrito de queja a la Mesa del Congreso de los Diputados tras el veto a las enmiendas del partido de Alberto Núñez Feijóo y Junts en una moción de los populares con las que exigían al Gobierno disolver las Cortes y convocar e",
-      "date": "Tue, 16 Jun 2026 19:58:58 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "El presidente de la patronal en Castilla-La Mancha llama «memos» a los jóvenes: «Quieren trabajar cuatro horas y ganar 3.000 euros»",
-      "link": "https://www.abc.es/espana/castilla-la-mancha/presidente-patronal-castillala-mancha-llama-memos-jovenes-20260616195406-nt.html",
-      "desc": "El presidente de la Confederación Regional de Empresarios de Castilla La-Mancha (Cecam), Ángel Nicolás, ha manifestado a ABC que llamar «memos» a los jóvenes este martes en la jornada 'Todos contamos Absentismo x IT: un problema de país' organizada por CEOE, h",
-      "date": "Tue, 16 Jun 2026 19:54:07 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "La Policía explora otros móviles en el crimen del logopeda frente a la confesión del autor",
-      "link": "https://www.abc.es/espana/comunidad-valenciana/policia-explora-moviles-crimen-logopeda-frente-confesion-20260616195023-nt.html",
-      "desc": "El crimen de un logopeda de Valencia a manos del padre de uno de sus pacientes, un niño de dos años, sigue arrojando incógnitas que el Grupo de Homicidios de la Policía Nacional y los especialistas de la Científica tratan de resolver abriendo otras líneas de i",
-      "date": "Tue, 16 Jun 2026 19:50:23 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "La Diputación inaugura la exposición 'Alicante, paisajes y tradiciones'",
-      "link": "https://www.abc.es/espana/comunidad-valenciana/alicante/diputacion-inaugura-exposicion-alicante-paisajes-tradiciones-20260616195019-nt.html",
-      "desc": "La Diputación de Alicante ha presentado este martes una nueva propuesta cultural del Club Big Arte de Bigastro titulada 'Alicante, paisajes y tradiciones'. Las obras se podrán visitar en el Palacio Provincial hasta el próximo 16 julio. El diputado provincial d",
-      "date": "Tue, 16 Jun 2026 19:50:19 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "El PSOE y sus socios avanzan en la regulación de la actividad de los lobbies en el Congreso, con la abstención de Junts",
-      "link": "https://www.abc.es/espana/psoe-socios-avanzan-regulacion-actividad-lobbies-congreso-20260616194456-nt.html",
-      "desc": "El PSOE y sus socios han avanzado este martes en la regulación de las actividades de los lobbies en el Congreso y sus relaciones con los diputados aprobando el informe de la ponencia encargada de esta reforma del Reglamento de la Cámara, un texto que ha salido",
-      "date": "Tue, 16 Jun 2026 19:46:04 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Milagro gastronómico en la calle Laforja",
-      "link": "https://www.abc.es/espana/cataluna/milagro-gastronomico-calle-laforja-20260616194522-nt.html",
-      "desc": "En la calle Amigó esquina Laforja se obran milagros, si por milagro entendemos un recetario de materias primas selectas, bodega de primeras marcas y una cuenta que no sobrepasa los setenta euros. «Hemos demostrado que se puede hacer alta gstronomía de calle a ",
-      "date": "Tue, 16 Jun 2026 19:45:23 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "El nuevo consejero de Agricultura se estrena al otro lado del «diálogo» con el sector",
-      "link": "https://www.abc.es/espana/castilla-leon/nuevo-consejero-agricultura-estrena-lado-dialogo-sector-20260616191552-nt.html",
-      "desc": "Sin tiempo para coger la medida de la silla y casi todavía requiriendo de indicaciones para llegar al recién estrenado despacho en el gran edificio de la Consejería de Agricultura, Ganadería, Medio Rural y Política Ambiental -todavía sin el rótulo cambiado-, e",
-      "date": "Tue, 16 Jun 2026 19:15:52 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Las diez preguntas que cercarán a Zapatero",
-      "link": "https://www.abc.es/espana/diez-preguntas-cercaran-zapatero-20260616191320-nt.html",
-      "desc": "La Audiencia Nacional será este miércoles escenario de una jornada histórica, la de la declaración del primer presidente de la democracia española como investigado por delitos de corrupción. José Luis Rodríguez Zapatero está citado ante el juez José Luis Calam",
-      "date": "Tue, 16 Jun 2026 19:13:20 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
+      "title": "Zapatero comparecerá este miércoles ante el juez con el “respaldo absoluto” de Sánchez",
+      "link": "https://www.lavanguardia.com/politica/20260616/11566664/zapatero-comparece-miercoles-juez-respaldo-absoluto-sanchez.html",
+      "desc": "El expresidente buscará nulidades en la causa judicial, mientras defiende su inocencia",
+      "date": "16 Jun 2026 20:30:00 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
       "caso": "zap"
     },
     {
-      "title": "Guardia Civil y Policía tienen que 'escoltar' otra vez una intervención en un bloque con okupas de Arroyo",
-      "link": "https://www.abc.es/espana/castilla-leon/guardia-civil-policia-escoltar-vez-intervencion-bloque-20260616190948-nt.html",
-      "desc": "Acompañados y escoltados por varios agentes de la Guardia Civil y la Policía Local de Arroyo de la Encomienda (Valladolid). Así tenían que entrar los trabajadores de varias empresas de suministro de electricidad y agua para 'cortar' el fluido del que se estaba",
-      "date": "Tue, 16 Jun 2026 19:11:31 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "El traspaso de la AP-9 a Galicia avanza en Madrid con el rechazo de Xunta y PP",
-      "link": "https://www.abc.es/espana/galicia/traspaso-ap9-galicia-avanza-madrid-rechazo-xunta-20260616190947-nt.html",
-      "desc": "Compartir el fin pero diferir de manera radical en la manera de conseguirlo. Encima de la mesa, la transferencia de la titularidad de la AP-9 a Galicia. Este martes, PSOE, Sumar y BNG han aprobado el informe de la ponencia de la Comisión de Transportes para la",
-      "date": "Tue, 16 Jun 2026 19:09:47 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Guerra en el Colegio de Arquitectos de Madrid: la Justicia frena la toma de posesión del aspirante a decano",
-      "link": "https://www.abc.es/espana/madrid/guerra-colegio-arquitectos-madrid-justicia-frena-toma-20260616190908-nt.html",
-      "desc": "La guerra por la dirección del Colegio de Arquitectos de Madrid (COAM) continúa más de 12 meses después de las elecciones. El pasado jueves, la Mesa Electoral declaraba no elegible a Todos COAM y al decano en funciones Sigfrido Herráez y anunciaba la toma de p",
-      "date": "Tue, 16 Jun 2026 19:09:08 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "El G-7 escucha a Zelenski",
-      "link": "https://www.lavanguardia.com/internacional/20260616/11566157/g-7-escucha-zelensky.html",
-      "desc": "Las principales potencias democráticas deben reiterar su apoyo a Ucrania y su compromiso para buscar el fin de la guerra",
-      "date": "16 Jun 2026 11:22:27 +0200",
+      "title": "El PSOE informa que se negó a pagar dos facturas a uno de los abogados de la trama de Cerdán",
+      "link": "https://www.lavanguardia.com/politica/20260616/11566609/psoe-informa-nego-pagar-dos-facturas-abogados-trama-cerdan.html",
+      "desc": "El partido sostiene en un escrito entregado a la Audiencia Nacional que tras la salida de Santos Cerdán de la Secretaría de Organización se negó a pagar los facturas a Jacobo Teijelo",
+      "date": "16 Jun 2026 18:02:28 +0200",
       "source": "La Vanguardia",
       "color": "#8e44ad",
       "feedId": "LaVanguardia",
-      "caso": "other"
+      "caso": "lei"
     },
     {
-      "title": "Catalunya paraliza la prueba piloto de poner a Mossos d'Esquadra de paisano en institutos",
-      "link": "https://www.lavanguardia.com/vida/20260616/11566114/catalunya-paraliza-prueba-piloto-poner-mossos-d-esquadra-paisano-institutos.html",
-      "desc": "Según la consellera de Interior, Núria Parlon, la prueba “afloró en un momento totalmente inoportuno” que hacía “inviable que pudiera prosperar”",
-      "date": "16 Jun 2026 10:46:03 +0200",
+      "title": "La directora de la Guardia Civil: “No he participado en ninguna trama influenciada por Leire Díez”",
+      "link": "https://www.lavanguardia.com/politica/20260616/11566525/directora-guardia-civil-desmiente-uco-he-participado-ninguna-trama-influenciada-leire-diez.html",
+      "desc": "Mercedes González asegura, en contra de las sospechas sembradas por la unidad contra la corrupción en los informes remitidos a la Audiencia Nacional, que no abrió investigaciones internas para presionar a agentes",
+      "date": "16 Jun 2026 16:28:40 +0200",
       "source": "La Vanguardia",
       "color": "#8e44ad",
       "feedId": "LaVanguardia",
-      "caso": "other"
+      "caso": "lei"
     },
     {
-      "title": "El juez rechaza suspender la declaración de Zapatero sobre las joyas incautadas",
-      "link": "https://www.lavanguardia.com/politica/20260616/11566083/juez-rechaza-suspender-declaracion-zapatero-hallazgo-joyas.html",
+      "title": "Videoanálisis | ¿De qué se acusa a Zapatero y cómo puede defenderse?",
+      "link": "https://www.lavanguardia.com/politica/20260616/11566369/que-acusa-zapatero-como-defenderse.html",
+      "desc": "La directora adjunta Lola García explica en el siguiente vídeo las claves para seguir la declaración del expresidente este miércoles ante el juez Calama",
+      "date": "16 Jun 2026 15:30:48 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "zap"
+    },
+    {
+      "title": "El Gobierno indica al juez Peinado que “no se entendería” que retirase el pasaporte a Begoña Gómez",
+      "link": "https://www.lavanguardia.com/politica/20260616/11566386/gobierno-advierte-juez-peinado-retirada-pasaporte-begona-gomez-entenderia.html",
+      "desc": "El Ejecutivo asegura afrontar “sin miedo” una semana crítica para su supervivencia política por la sucesión de comparecencias de la mujer del jefe del Ejecutivo, el ex presidente Zapatero y la directora general de la Guardia Civil",
+      "date": "16 Jun 2026 14:05:36 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "zap"
+    },
+    {
+      "title": "El juez rechaza suspender la declaración de Zapatero sobre las joyas guardadas en su despacho",
+      "link": "https://www.lavanguardia.com/politica/20260616/11566083/zapatero-juez-rechaza-suspender-declaracion-joyas-guardadas.html",
       "desc": "La defensa del expresidente del Gobierno había pedido un aplazamiento de su interrogatorio previsto para este miércoles",
-      "date": "16 Jun 2026 10:19:01 +0200",
+      "date": "16 Jun 2026 10:20:00 +0200",
       "source": "La Vanguardia",
       "color": "#8e44ad",
       "feedId": "LaVanguardia",
       "caso": "zap"
-    },
-    {
-      "title": "La CNMC investiga a los seis grandes bancos españoles por prácticas anticompetitivas",
-      "link": "https://www.lavanguardia.com/dinero/20260616/11566022/cnmc-investiga-bancos-posibles-practicas-anticompetitivas-hipotecas.html",
-      "desc": "El expediente se dirige al Santander, BBVA, CaixaBank, Bankinter, Sabadell y Unicaja, y se anuncia en el último día del mandato de Cani Fernández",
-      "date": "16 Jun 2026 09:14:16 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
-      "caso": "other"
     }
   ]
 }
