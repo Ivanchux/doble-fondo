@@ -1,7 +1,37 @@
 {
-  "updated": "2026-06-15T22:14:47Z",
-  "count": 4,
+  "updated": "2026-06-16T03:36:54Z",
+  "count": 7,
   "items": [
+    {
+      "title": "Malú, Hombres G y Leire Martínez, en las Ferias y Fiestas de 2026 de Guadalajara",
+      "link": "https://www.abc.es/espana/castilla-la-mancha/malu-hombres-leire-martinez-ferias-fiestas-2026-20260616053000-nt.html",
+      "desc": "El Ayuntamiento de Guadalajara ha presentado los tres grandes conciertos que protagonizarán las noches principales de las Ferias y Fiestas de 2026 en el recinto de la Fuente de la Niña, una programación que volverá a situar la música como uno de los grandes ej",
+      "date": "Tue, 16 Jun 2026 05:30:14 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "lei"
+    },
+    {
+      "title": "La doctrina del TS desbarata el plan de Zapatero de anular el móvil que le delató",
+      "link": "https://www.abc.es/espana/doctrina-ts-desbarata-plan-zapatero-anular-movil-20260616021257-nt.html",
+      "desc": "Anular la principal prueba de cargo que incrimina a José Luis Rodríguez Zapatero en el caso Plus Ultra: el clonado del móvil del accionista de la aerolínea Rodolfo Reyes que se llevó a cabo en Estados Unidos. Ese es el principal objetivo de la defensa del expr",
+      "date": "Tue, 16 Jun 2026 02:12:57 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "zap"
+    },
+    {
+      "title": "El PSOE mantiene contactos con Zapatero antes de su declaración: «Va a entrar a todo»",
+      "link": "https://www.abc.es/espana/psoe-mantiene-contactos-zapatero-declaracion-entrar-20260616021244-nt.html",
+      "desc": "El PSOE cuenta las horas que quedan para que este miércoles, 17 de junio, José Luis Rodríguez Zapatero comparezca ante el juez de la Audiencia Nacional José Luis Calama. La declaración del expresidente del Gobierno estaba inicialmente prevista para el 2 de jun",
+      "date": "Tue, 16 Jun 2026 02:12:44 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "zap"
+    },
     {
       "title": "La UCO abona más sospechas sobre la directora de la Guardia Civil por su “relación” con Leire Díez",
       "link": "https://www.lavanguardia.com/politica/20260615/11565525/uco-abona-mas-sospechas-sobre-directora-guardia-civil-relacion-leire-diez.html",
