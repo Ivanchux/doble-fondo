@@ -1,59 +1,49 @@
 {
-  "updated": "2026-06-17T03:35:58Z",
-  "count": 11,
+  "updated": "2026-06-17T08:58:36Z",
+  "count": 7,
   "items": [
     {
-      "title": "La jefa de la Guardia Civil incurre al menos en tres contradicciones respecto a los informes de la UCO",
-      "link": "https://www.abc.es/espana/jefa-guardia-civil-incurre-tres-contradicciones-respecto-20260616020748-nt.html",
-      "desc": "El informe de la Unidad Central Operativa (UCO) de la Guardia Civil contradice lo declarado por Mercedes González en el Senado. La jefa de la Benemérita incurrió en al menos tres imprecisiones que no constan en la documentación que aportaron los agentes ante l",
-      "date": "Wed, 17 Jun 2026 02:07:48 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "gen"
-    },
-    {
-      "title": "Zapatero sopesa pedir la suspensión temporal de militancia si el juez le impone medidas cautelares tras su declaración",
-      "link": "https://www.abc.es/espana/zapatero-valora-pedir-suspension-temporal-militancia-juez-20260617020744-nt.html",
-      "desc": "El expresidente del Gobierno y ex secretario general del Partido Socialista José Luis Rodríguez Zapatero sopesa solicitar la suspensión de militancia de forma cautelar si, tras su declaración prevista para las próximas horas, el juez Santiago Pedraz le impone ",
-      "date": "Wed, 17 Jun 2026 02:07:44 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "both"
-    },
-    {
-      "title": "«Zapatero aquí manda», los chats sobre el rescate de Plus Ultra que el expresidente quiere anular",
-      "link": "https://www.abc.es/espana/movil-venezolano-rodolfo-reyes-arroja-nuevos-indicios-20260617020739-nt.html",
-      "desc": "Los mensajes intervenidos por los investigadores al presidente de Plus Ultra, Julio Martínez Sola, y uno de los hombres clave del caso instruido en la Audiencia Nacional, el accionista de la aerolínea Rodolfo Reyes Rojas, revelan los contactos que mantuvieron ",
-      "date": "Wed, 17 Jun 2026 02:07:39 +0200",
+      "title": "Zapatero en la Audiencia y una España que puede volver a perder la virginidad",
+      "link": "https://www.abc.es/espana/zapatero-audiencia-espana-puede-volver-perder-virginidad-20260617101941-nt.html",
+      "desc": "Llegó el expresidente, Rodríguez Zapatero , a la Audiencia Nacional a diez minutos de la hora fija por el juez Calama. Los alrededores de la puerta estaban a reventar de policía secreta, curiosos y currantes que iban a lo suyo, pero que se detenían para ver lo",
+      "date": "Wed, 17 Jun 2026 10:19:42 +0200",
       "source": "ABC",
       "color": "#c0392b",
       "feedId": "ABC",
       "caso": "zap"
     },
     {
-      "title": "Zapatero incurrió en al menos seis falsedades en su declaración en el Senado",
-      "link": "https://www.abc.es/espana/zapatero-incurrio-siete-falsedades-declaracion-ante-cortes-20260616020718-nt.html",
-      "desc": "Cuando José Luis Rodríguez Zapatero compareció en el Senado hace más de tres meses, el 2 de marzo, no se conocía el contenido del sumario de Plus Ultra. Tampoco había trascendido que el expresidente guardaba joyas en una caja fuerte por importe de 1,3 millones",
-      "date": "Wed, 17 Jun 2026 02:07:18 +0200",
+      "title": "Zapatero deberá aclarar tanto la procedencia de las joyas como el tratamiento fiscal que se les ha dado",
+      "link": "https://www.lavanguardia.com/politica/20260617/11566961/jose-luis-rodriguez-zapatero-expresidente-juicio-audiencia-nacional-caso-plus-ultra-joyas-ultima-hora-hoy-en-directo.html",
+      "desc": "José Luis Rodríguez Zapatero se convertirá este miércoles en el primer expresidente del Gobierno que declara como investigado ante un juez",
+      "date": "17 Jun 2026 09:26:47 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "zap"
+    },
+    {
+      "title": "«Sinvergüenza, chorizo...»: así ha sido la llegada de Zapatero a la Audiencia Nacional",
+      "link": "https://www.abc.es/espana/sinverguenza-chorizo-llegada-zapatero-audiencia-nacional-20260617092327-nt.html",
+      "desc": "El expresidente del Gobierno José Luis Rodríguez Zapatero ha llegado a la Audiencia Nacional poco antes de las 9 de la mañana de este miércoles para declarar como investigado en el caso Plus Ultra y por las joyas incautadas por la UCO en un registro en su desp",
+      "date": "Wed, 17 Jun 2026 09:23:27 +0200",
       "source": "ABC",
       "color": "#c0392b",
       "feedId": "ABC",
       "caso": "zap"
     },
     {
-      "title": "El truco para disfrutar plenamente del eclipse solar de este verano en Galicia y horarios",
-      "link": "https://www.abc.es/espana/galicia/truco-disfrutar-plenamente-eclipse-solar-verano-galicia-20260616230000-nt.html",
-      "desc": "Galicia será uno de los mejores lugares del mundo para presenciar un fenómeno astronómico que no se producía en la península desde 1905. Sin embargo, la espectacularidad de este evento esconde un gran reto para aquellos que quieran disfrutarlo: el Sol se ocult",
-      "date": "Tue, 16 Jun 2026 23:00:00 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "gen"
+      "title": "El expresidente, entre salvar a sus hijas y justificar los negocios con su amigo",
+      "link": "https://www.lavanguardia.com/politica/20260617/11566654/expresidente-salvar-hijas-justificar-negocios-amigo.html",
+      "desc": "Zapatero prevé contestar tanto a las preguntas de la Fiscalía Anticorrupción como a las del magistrado Calama",
+      "date": "17 Jun 2026 06:00:00 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "zap"
     },
     {
-      "title": "Zapatero comparecerá este miércoles ante el juez con el “respaldo absoluto” de Sánchez",
+      "title": "Zapatero declara ya en la Audiencia Nacional por el caso Plus Ultra",
       "link": "https://www.lavanguardia.com/politica/20260616/11566664/zapatero-comparece-miercoles-juez-respaldo-absoluto-sanchez.html",
       "desc": "El expresidente buscará nulidades en la causa judicial, mientras defiende su inocencia",
       "date": "16 Jun 2026 20:30:00 +0200",
@@ -63,50 +53,20 @@
       "caso": "zap"
     },
     {
-      "title": "El PSOE informa que se negó a pagar dos facturas a uno de los abogados de la trama de Cerdán",
-      "link": "https://www.lavanguardia.com/politica/20260616/11566609/psoe-informa-nego-pagar-dos-facturas-abogados-trama-cerdan.html",
-      "desc": "El partido sostiene en un escrito entregado a la Audiencia Nacional que tras la salida de Santos Cerdán de la Secretaría de Organización se negó a pagar los facturas a Jacobo Teijelo",
-      "date": "16 Jun 2026 18:02:28 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
-      "caso": "lei"
-    },
-    {
-      "title": "La directora de la Guardia Civil: “No he participado en ninguna trama influenciada por Leire Díez”",
+      "title": "La directora de la Guardia Civil niega haber presionado a la UCO",
       "link": "https://www.lavanguardia.com/politica/20260616/11566525/directora-guardia-civil-desmiente-uco-he-participado-ninguna-trama-influenciada-leire-diez.html",
       "desc": "Mercedes González asegura, en contra de las sospechas sembradas por la unidad contra la corrupción en los informes remitidos a la Audiencia Nacional, que no abrió investigaciones internas para presionar a agentes",
       "date": "16 Jun 2026 16:28:40 +0200",
       "source": "La Vanguardia",
       "color": "#8e44ad",
       "feedId": "LaVanguardia",
-      "caso": "lei"
+      "caso": "gen"
     },
     {
       "title": "Videoanálisis | ¿De qué se acusa a Zapatero y cómo puede defenderse?",
       "link": "https://www.lavanguardia.com/politica/20260616/11566369/que-acusa-zapatero-como-defenderse.html",
       "desc": "La directora adjunta Lola García explica en el siguiente vídeo las claves para seguir la declaración del expresidente este miércoles ante el juez Calama",
       "date": "16 Jun 2026 15:30:48 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
-      "caso": "zap"
-    },
-    {
-      "title": "El Gobierno indica al juez Peinado que “no se entendería” que retirase el pasaporte a Begoña Gómez",
-      "link": "https://www.lavanguardia.com/politica/20260616/11566386/gobierno-advierte-juez-peinado-retirada-pasaporte-begona-gomez-entenderia.html",
-      "desc": "El Ejecutivo asegura afrontar “sin miedo” una semana crítica para su supervivencia política por la sucesión de comparecencias de la mujer del jefe del Ejecutivo, el ex presidente Zapatero y la directora general de la Guardia Civil",
-      "date": "16 Jun 2026 14:05:36 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
-      "caso": "zap"
-    },
-    {
-      "title": "El juez rechaza suspender la declaración de Zapatero sobre las joyas guardadas en su despacho",
-      "link": "https://www.lavanguardia.com/politica/20260616/11566083/zapatero-juez-rechaza-suspender-declaracion-joyas-guardadas.html",
-      "desc": "La defensa del expresidente del Gobierno había pedido un aplazamiento de su interrogatorio previsto para este miércoles",
-      "date": "16 Jun 2026 10:20:00 +0200",
       "source": "La Vanguardia",
       "color": "#8e44ad",
       "feedId": "LaVanguardia",
