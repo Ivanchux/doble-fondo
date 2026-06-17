@@ -1,22 +1,52 @@
 {
-  "updated": "2026-06-16T22:08:16Z",
-  "count": 8,
+  "updated": "2026-06-17T03:35:58Z",
+  "count": 11,
   "items": [
     {
-      "title": "El truco para disfrutar plenamente del eclipse solar de este verano en Galicia y horarios",
-      "link": "https://www.abc.es/espana/galicia/truco-disfrutar-plenamente-eclipse-solar-verano-galicia-20260616230000-nt.html",
-      "desc": "Galicia será uno de los mejores lugares del mundo para presenciar un fenómeno astronómico que no se producía en la península desde 1905. Sin embargo, la espectacularidad de este evento esconde un gran reto para aquellos que quieran disfrutarlo: el Sol se ocult",
-      "date": "Tue, 16 Jun 2026 23:00:00 +0200",
+      "title": "La jefa de la Guardia Civil incurre al menos en tres contradicciones respecto a los informes de la UCO",
+      "link": "https://www.abc.es/espana/jefa-guardia-civil-incurre-tres-contradicciones-respecto-20260616020748-nt.html",
+      "desc": "El informe de la Unidad Central Operativa (UCO) de la Guardia Civil contradice lo declarado por Mercedes González en el Senado. La jefa de la Benemérita incurrió en al menos tres imprecisiones que no constan en la documentación que aportaron los agentes ante l",
+      "date": "Wed, 17 Jun 2026 02:07:48 +0200",
       "source": "ABC",
       "color": "#c0392b",
       "feedId": "ABC",
       "caso": "gen"
     },
     {
-      "title": "Daniel Innerarity, nuevo doctor honoris causa de la UCO: «Es fantástico que ocurran revoluciones que nos lleven a pensar»",
-      "link": "https://www.abc.es/espana/andalucia/cordoba/daniel-innerarity-nuevo-doctor-honoris-causa-uco-20260616205944-nts.html",
-      "desc": "Acumula reconocimientos de todo tipo, desde el ámbito académico al apartado literario. Sin embargo, el que recibió este martes fue especial. «Tengo varios doctorados honoris causa en otros países, pero en España éste es el primero», confesó horas antes de su i",
-      "date": "Tue, 16 Jun 2026 20:59:44 +0200",
+      "title": "Zapatero sopesa pedir la suspensión temporal de militancia si el juez le impone medidas cautelares tras su declaración",
+      "link": "https://www.abc.es/espana/zapatero-valora-pedir-suspension-temporal-militancia-juez-20260617020744-nt.html",
+      "desc": "El expresidente del Gobierno y ex secretario general del Partido Socialista José Luis Rodríguez Zapatero sopesa solicitar la suspensión de militancia de forma cautelar si, tras su declaración prevista para las próximas horas, el juez Santiago Pedraz le impone ",
+      "date": "Wed, 17 Jun 2026 02:07:44 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "both"
+    },
+    {
+      "title": "«Zapatero aquí manda», los chats sobre el rescate de Plus Ultra que el expresidente quiere anular",
+      "link": "https://www.abc.es/espana/movil-venezolano-rodolfo-reyes-arroja-nuevos-indicios-20260617020739-nt.html",
+      "desc": "Los mensajes intervenidos por los investigadores al presidente de Plus Ultra, Julio Martínez Sola, y uno de los hombres clave del caso instruido en la Audiencia Nacional, el accionista de la aerolínea Rodolfo Reyes Rojas, revelan los contactos que mantuvieron ",
+      "date": "Wed, 17 Jun 2026 02:07:39 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "zap"
+    },
+    {
+      "title": "Zapatero incurrió en al menos seis falsedades en su declaración en el Senado",
+      "link": "https://www.abc.es/espana/zapatero-incurrio-siete-falsedades-declaracion-ante-cortes-20260616020718-nt.html",
+      "desc": "Cuando José Luis Rodríguez Zapatero compareció en el Senado hace más de tres meses, el 2 de marzo, no se conocía el contenido del sumario de Plus Ultra. Tampoco había trascendido que el expresidente guardaba joyas en una caja fuerte por importe de 1,3 millones",
+      "date": "Wed, 17 Jun 2026 02:07:18 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "zap"
+    },
+    {
+      "title": "El truco para disfrutar plenamente del eclipse solar de este verano en Galicia y horarios",
+      "link": "https://www.abc.es/espana/galicia/truco-disfrutar-plenamente-eclipse-solar-verano-galicia-20260616230000-nt.html",
+      "desc": "Galicia será uno de los mejores lugares del mundo para presenciar un fenómeno astronómico que no se producía en la península desde 1905. Sin embargo, la espectacularidad de este evento esconde un gran reto para aquellos que quieran disfrutarlo: el Sol se ocult",
+      "date": "Tue, 16 Jun 2026 23:00:00 +0200",
       "source": "ABC",
       "color": "#c0392b",
       "feedId": "ABC",
