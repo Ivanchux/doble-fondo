@@ -1,6 +1,6 @@
 {
-  "updated": "2026-06-17T20:07:31Z",
-  "count": 5,
+  "updated": "2026-06-17T23:20:13Z",
+  "count": 6,
   "items": [
     {
       "title": "Las joyas de Zapatero y las cloacas mediáticas centran la presentación del libro de Ketty Garat en Toledo",
@@ -10,6 +10,16 @@
       "source": "ABC",
       "color": "#c0392b",
       "feedId": "ABC",
+      "caso": "zap"
+    },
+    {
+      "title": "Las joyas de Zapatero son un regalo del rey de Arabia Saudí, según el entorno del expresidente",
+      "link": "https://www.lavanguardia.com/politica/20260617/11567581/joyas-zapatero-son-regalo-rey-arabia-saudi-entorno-expresidente.html",
+      "desc": "Abdalá bin Abdulaziz visitó España en el 2007 y habría entregado esas joyas al entonces presidente del Gobierno",
+      "date": "17 Jun 2026 19:28:00 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
       "caso": "zap"
     },
     {
