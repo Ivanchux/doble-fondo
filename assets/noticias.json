@@ -1,29 +1,59 @@
 {
-  "updated": "2026-06-18T16:54:20Z",
-  "count": 6,
+  "updated": "2026-06-18T20:18:42Z",
+  "count": 7,
   "items": [
     {
-      "title": "Susana Díaz reclama «explicaciones» de Zapatero y ve al PSOE «muy jodido»",
-      "link": "https://www.abc.es/espana/andalucia/susana-diaz-reclama-explicaciones-zapatero-psoe-jodido-20260618175550-nts.html",
-      "desc": "«Está muy jodida». Así califica la senadora socialista y expresidenta de la Junta de Andalucía Susana Díaz la situación en la que se encuentra el PSOE, al tiempo que considera que es necesario que el expresidente del Gobierno José Luis Rodríguez Zapatero ofrez",
-      "date": "Thu, 18 Jun 2026 17:55:51 +0200",
+      "title": "Zapatero, ante el juez: «Propuse a Julio Martínez que mis hijas podrían con su agencia prestar colaboración con Análisis Relevante»",
+      "link": "https://www.abc.es/espana/zapatero-ante-juez-propuse-julio-martinez-hijas-20260618200405-nt.html",
+      "desc": "El expresidente del Gobierno José Luis Rodríguez Zapatero reconoció ante el juez de la Audiencia Nacional José Luis Calama que fue él mismo el que propuso a su amigo Julio Martínez que sus hijas, Alba y Laura Rodríguez, trabajaran para su empresa: «Le propuse ",
+      "date": "Thu, 18 Jun 2026 20:04:06 +0200",
       "source": "ABC",
       "color": "#c0392b",
       "feedId": "ABC",
       "caso": "zap"
     },
     {
-      "title": "La dirección del PSOE rechaza el “linchamiento personal” a Zapatero, sus hijas y su secretaria",
-      "link": "https://www.lavanguardia.com/politica/20260618/11568326/direccion-psoe-rechaza-linchamiento-personal-zapatero-hijas-secretaria.html",
-      "desc": "“Miedo, ninguno”, descarta la portavoz de Ferraz, Montse Mínguez, sobre la información que pueda desvelar la exmilitante socialista Leire Díez",
-      "date": "18 Jun 2026 14:21:48 +0200",
+      "title": "El choque de Zapatero con el juez por sus trabajos: «Estamos en un terreno que no me he preparado. No está en el auto»",
+      "link": "https://www.abc.es/espana/choque-zapatero-juez-calama-terreno-preparado-auto-20260618195417-nt.html",
+      "desc": "José Luis Rodríguez Zapatero rechazó dar detalles al juez José Luis Calama de qué labores ofrece en los contratos con las empresas. «Asesoramiento» fue la escueta palabra que utilizó el expresidente del Gobierno que reprochó al magistrado algunas de las cuesti",
+      "date": "Thu, 18 Jun 2026 19:57:07 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "zap"
+    },
+    {
+      "title": "El audio de la declaración de Zapatero: “Yo era el consultor principal de Análisis Relevante”",
+      "link": "https://www.lavanguardia.com/politica/20260618/11568556/audio-declaracion-zapatero-consultor-principal-analisis-relevante.html",
+      "desc": "El expresidente del Gobierno explicó al juez que conoció a Julio Martínez en el 2011 y que les unió el running hasta que en el 2020 empezó su relación profesional cuando su amigo montó una empresa de consultoría",
+      "date": "18 Jun 2026 19:33:32 +0200",
       "source": "La Vanguardia",
       "color": "#8e44ad",
       "feedId": "LaVanguardia",
-      "caso": "both"
+      "caso": "zap"
     },
     {
-      "title": "El juez del caso Plus Ultra imputa a las hijas de Zapatero",
+      "title": "Sánchez traslada su “empatía” a Zapatero: “Me ha manifestado su inocencia y yo respaldo a José Luis”",
+      "link": "https://www.lavanguardia.com/politica/20260618/11568480/sanchez-traslada-empatia-zapatero-me-manifestado-inocencia-respaldo-jose-luis.html",
+      "desc": "El presidente asume que los socios de investidura se alejen del Gobierno “para ganar autonomía y visibilidad propia” ante las futuras elecciones, pero insiste en “sudar la camiseta” para aprobar los presupuestos del 2027",
+      "date": "18 Jun 2026 17:44:38 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "zap"
+    },
+    {
+      "title": "La pareja de Ayuso ingresó 4,4 millones de Quirón en los primeros tres años de relación",
+      "link": "https://www.lavanguardia.com/politica/20260618/11568457/pareja-ayuso-facturo-4-4-millones-euros-quiron-primeros-tres-anos-relacion.html",
+      "desc": "El empresario González Amador ingresó una media de 1,5 millones de euros de una filial del gigante de la sanidad privada entre 2021 y 2023 a través de sus dos consultoras: una en el punto de mira de la UCO",
+      "date": "18 Jun 2026 17:19:45 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "gen"
+    },
+    {
+      "title": "El juez del caso Plus Ultra acuerda investigar a las hijas de Zapatero y a su secretaria",
       "link": "https://www.lavanguardia.com/politica/20260618/11568265/juez-caso-plus-ultra-acuerda-investigar-hijas-rodriguez-zapatero.html",
       "desc": "El instructor José Luis Calama toma esta decisión después de escuchar las explicaciones del expresidente del Gobierno",
       "date": "18 Jun 2026 13:28:04 +0200",
@@ -33,29 +63,9 @@
       "caso": "zap"
     },
     {
-      "title": "Zapatero destapa su estrategia: niega la mayor y va de la mano de su amigo Julio Martínez",
-      "link": "https://www.lavanguardia.com/politica/20260618/11567610/zapatero-estrategia-declaracion-caso-plus-ultra-julio-martinez.html",
-      "desc": "El expresidente, que no respondió a la Fiscalía Anticorrupción, declara que jamás influyó para el rescate de la compañía Plus Ultra",
-      "date": "18 Jun 2026 06:00:00 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
-      "caso": "zap"
-    },
-    {
-      "title": "El juez Calama marca la diferencia con Rodríguez Zapatero",
-      "link": "https://www.lavanguardia.com/politica/20260618/11567649/juez-calama-marca-diferencia-rodriguez-zapatero.html",
-      "desc": "El instructor evita imponer ninguna medida cautelar al expresidente del Gobierno a pesar de considerarle el jefe de la trama y existir medidas contra otros investigados",
-      "date": "18 Jun 2026 06:00:00 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
-      "caso": "zap"
-    },
-    {
       "title": "Cuenta atrás para las elecciones",
       "link": "https://www.lavanguardia.com/opinion/20260618/11567633/cuenta-elecciones.html",
-      "desc": "Mientras Zapatero declaraba, el PNV le pedía a Sánchez que convoque a las urnas si no logra aprobar los presupuestos, es decir, a partir de noviembre",
+      "desc": "Mientras Zapatero declaraba, el PNV le pedía a Sánchez que convoque a las urnas si no logra aprobar los presupuestos, es decir, a partir de noviembre. Eso llevaría a elecciones entre febrero y marzo",
       "date": "18 Jun 2026 06:00:00 +0200",
       "source": "La Vanguardia",
       "color": "#8e44ad",
