@@ -1,7 +1,17 @@
 {
-  "updated": "2026-06-18T20:18:42Z",
-  "count": 7,
+  "updated": "2026-06-18T23:41:27Z",
+  "count": 6,
   "items": [
+    {
+      "title": "Las hijas de Zapatero, tras la “estructura artificiosa” de la organización liderada por su padre",
+      "link": "https://www.lavanguardia.com/politica/20260619/11568668/hijas-zapatero-estructura-artificiosa-organizacion-liderada-padre.html",
+      "desc": "El juez de la Audiencia Nacional sospecha que la empresa Whathefav fue un instrumento para ocultar el dinero de la trama e imputa a Laura y Alba Rodríguez Espinosa",
+      "date": "19 Jun 2026 00:05:00 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "zap"
+    },
     {
       "title": "Zapatero, ante el juez: «Propuse a Julio Martínez que mis hijas podrían con su agencia prestar colaboración con Análisis Relevante»",
       "link": "https://www.abc.es/espana/zapatero-ante-juez-propuse-julio-martinez-hijas-20260618200405-nt.html",
@@ -13,17 +23,7 @@
       "caso": "zap"
     },
     {
-      "title": "El choque de Zapatero con el juez por sus trabajos: «Estamos en un terreno que no me he preparado. No está en el auto»",
-      "link": "https://www.abc.es/espana/choque-zapatero-juez-calama-terreno-preparado-auto-20260618195417-nt.html",
-      "desc": "José Luis Rodríguez Zapatero rechazó dar detalles al juez José Luis Calama de qué labores ofrece en los contratos con las empresas. «Asesoramiento» fue la escueta palabra que utilizó el expresidente del Gobierno que reprochó al magistrado algunas de las cuesti",
-      "date": "Thu, 18 Jun 2026 19:57:07 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "zap"
-    },
-    {
-      "title": "El audio de la declaración de Zapatero: “Yo era el consultor principal de Análisis Relevante”",
+      "title": "El audio de la declaración de Zapatero: “No hablé absolutamente con nadie del rescate de Plus Ultra”",
       "link": "https://www.lavanguardia.com/politica/20260618/11568556/audio-declaracion-zapatero-consultor-principal-analisis-relevante.html",
       "desc": "El expresidente del Gobierno explicó al juez que conoció a Julio Martínez en el 2011 y que les unió el running hasta que en el 2020 empezó su relación profesional cuando su amigo montó una empresa de consultoría",
       "date": "18 Jun 2026 19:33:32 +0200",
@@ -51,16 +51,6 @@
       "color": "#8e44ad",
       "feedId": "LaVanguardia",
       "caso": "gen"
-    },
-    {
-      "title": "El juez del caso Plus Ultra acuerda investigar a las hijas de Zapatero y a su secretaria",
-      "link": "https://www.lavanguardia.com/politica/20260618/11568265/juez-caso-plus-ultra-acuerda-investigar-hijas-rodriguez-zapatero.html",
-      "desc": "El instructor José Luis Calama toma esta decisión después de escuchar las explicaciones del expresidente del Gobierno",
-      "date": "18 Jun 2026 13:28:04 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
-      "caso": "zap"
     },
     {
       "title": "Cuenta atrás para las elecciones",
