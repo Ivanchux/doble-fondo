@@ -1,7 +1,37 @@
 {
-  "updated": "2026-06-17T23:20:13Z",
-  "count": 6,
+  "updated": "2026-06-18T03:28:15Z",
+  "count": 9,
   "items": [
+    {
+      "title": "Los apuntes de Leire sobre el abogado de Puigdemont soliviantan a Junts",
+      "link": "https://www.abc.es/espana/junts-pone-linea-roja-aparicion-guerra-sucia-20260618022444-nt.html",
+      "desc": "La Unidad Central Operativa (UCO) de la Guardia Civil remitió el pasado lunes un nuevo informe a la Audiencia Nacional en el denominado «caso Leire» en el que sostiene que la denominada 'fontanera' del PSOE mantenía informado de sus actuaciones al exsecretario",
+      "date": "Thu, 18 Jun 2026 02:24:44 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "lei"
+    },
+    {
+      "title": "Las menciones a Sánchez en los mensajes de Plus Ultra: «Veremos si es héroe para nosotros»",
+      "link": "https://www.abc.es/espana/menciones-sanchez-mensajes-plus-ultra-esperemos-heroe-20260618022430-nt.html",
+      "desc": "Los mensajes interceptados a los investigados por el caso Plus Ultra realizaban menciones recurrentes al presidente del Gobierno, Pedro Sánchez. Confiaban en que el dirigente socialista fuera su «héroe» y saliera adelante el ansiado rescate de la aerolínea. Ta",
+      "date": "Thu, 18 Jun 2026 02:24:30 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "zap"
+    },
+    {
+      "title": "Zapatero admite pagos a sus hijas y a él del entorno venezolano pero los desvincula de Plus Ultra",
+      "link": "https://www.abc.es/espana/zapatero-limita-negarlo-historica-declaracion-ante-juez-20260618022422-nt.html",
+      "desc": "La declaración histórica de José Luis Rodríguez Zapatero este miércoles en la Audiencia Nacional como primer presidente de la democracia investigado por delitos de corrupción, fraude fiscal y contrabando de joyas concluyó con las mismas preguntas sin respuesta",
+      "date": "Thu, 18 Jun 2026 02:24:22 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "zap"
+    },
     {
       "title": "Las joyas de Zapatero y las cloacas mediáticas centran la presentación del libro de Ketty Garat en Toledo",
       "link": "https://www.abc.es/espana/castilla-la-mancha/toledo/joyas-zapatero-cloacas-mediaticas-centran-presentacion-libro-20260617210420-nt.html",
