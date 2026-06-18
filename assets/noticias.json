@@ -1,7 +1,17 @@
 {
-  "updated": "2026-06-18T08:41:07Z",
-  "count": 4,
+  "updated": "2026-06-18T12:48:42Z",
+  "count": 5,
   "items": [
+    {
+      "title": "Vox, acerca de la imputación de las hijas de Zapatero: «La cabeza es Sánchez, nadie cree que no supiera nada»",
+      "link": "https://www.abc.es/espana/vox-acerca-imputacion-hijas-zapatero-cabeza-sanchez-20260618141025-nt.html",
+      "desc": "«Quien está en cabeza es Pedro Sánchez . Está metido en todos los ajos, nadie se cree que no supiera nada, nadie se cree ni por asomo que esté desvinculado». Esta es la primera valoración que Vox, representado por el diputado José María Figaredo, ha realizado ",
+      "date": "Thu, 18 Jun 2026 14:10:26 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "zap"
+    },
     {
       "title": "Zapatero destapa su estrategia: niega la mayor y va de la mano de su amigo Julio Martínez",
       "link": "https://www.lavanguardia.com/politica/20260618/11567610/zapatero-estrategia-declaracion-caso-plus-ultra-julio-martinez.html",
