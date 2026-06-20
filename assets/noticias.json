@@ -1,7 +1,97 @@
 {
-  "updated": "2026-06-20T15:43:29Z",
+  "updated": "2026-06-20T17:21:42Z",
   "count": 24,
   "items": [
+    {
+      "title": "Castilla y León estrena el verano con la primera alerta por ola de calor: termómetros próximos a los 40 grados",
+      "link": "https://www.abc.es/espana/castilla-leon/castilla-leon-estrena-verano-primera-alerta-ola-20260620190438-nt.html",
+      "desc": "Castilla y León afrontará este domingo el inicio de la primera ola de calor del verano con temperaturas máximas que alcanzarán valores próximos a los 40 grados en amplias zonas de la Comunidad, especialmente en el Condado de Tréviño (Burgos) y el sur de Ávila,",
+      "date": "Sat, 20 Jun 2026 19:04:38 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "El PP reivindica a Sirera como solución para una Barcelona víctima de Collboni, Illa y Sánchez",
+      "link": "https://www.abc.es/espana/cataluna/pp-reivindica-sirera-solucion-barcelona-victima-collboni-20260620185535-nt.html",
+      "desc": "El secretario general del Partido Popular, Miguel Tellado, ha despejado este sábado cualquier incógnita sobre el futuro del PP en Barcelona al ratificar públicamente a Daniel Sirera como candidato para las próximas elecciones municipales. Lo hizo durante la in",
+      "date": "Sat, 20 Jun 2026 18:55:35 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "La I Maratón Ciudad de Toledo roza los 2.000 inscritos a cinco meses de su celebración",
+      "link": "https://www.abc.es/espana/castilla-la-mancha/toledo/deportes/maraton-ciudad-toledo-roza-2000-inscritos-cinco-20260620185429-nt.html",
+      "desc": "La I Maratón Ciudad de Toledo continúa despertando notable interés entre los aficionados al atletismo. A cinco meses de su celebración, prevista para el próximo 15 de noviembre, la prueba cuenta ya con casi 2.000 inscritos , según ha adelantado el concejal de ",
+      "date": "Sat, 20 Jun 2026 18:54:30 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Ángeles-Felipe Bergé, ganadora del primer premio de Especial Infantil de las Hogueras de Alicante 2026",
+      "link": "https://www.abc.es/espana/comunidad-valenciana/angelesfelipe-berge-ganadora-primer-premio-especial-infantil-20260620184359-nt.html",
+      "desc": "La hoguera Ángeles-Felipe Bergé ha resultado ganadora del primer premio de la Sección Especial del concurso de Hogueras Infantiles 2026 en Alicante. El monumento, titulado 'Mediterrànea', es obra del foguerer Ausias Estrugo Mañó. El segundo puesto ha sido para",
+      "date": "Sat, 20 Jun 2026 18:43:59 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Muere atropellada una mujer de 66 años en una finca de Nohales (Cuenca)",
+      "link": "https://www.abc.es/espana/castilla-la-mancha/muere-atropellada-mujer-anos-finca-nohales-cuenca-20260620183518-nt.html",
+      "desc": "Una mujer de 66 años ha fallecido este sábado tras ser atropellada en una finca privada perteneciente al municipio de Nohales, en la provincia de Cuenca. Según ha informado el Servicio del 112 de Castilla-La Mancha, el siniestro ha tenido lugar sobre las 16:16",
+      "date": "Sat, 20 Jun 2026 18:35:19 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Constatan «una subida progresiva de los principales riesgos para la salud cardiovascular» en Castilla y León",
+      "link": "https://www.abc.es/espana/castilla-leon/constatan-subida-progresiva-principales-riesgos-salud-cardiovascular-20260620182332-nt.html",
+      "desc": "Una «s ubida progresiva de los principales riesgos para la salud cardiovascular». Es una de las principales conclusiones extraídas del Estudio de Riego de Enfermedad Cardiovascular 2024 llevado a cabo a través de la Red Centinela Sanitaria de Castilla y León a",
+      "date": "Sat, 20 Jun 2026 18:23:32 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "El hospital de Ciudad Real incorpora la realidad virtual a la formación de futuros técnicos en radiodiagnóstico",
+      "link": "https://www.abc.es/espana/castilla-la-mancha/hospital-ciudad-real-incorpora-realidad-virtual-formacion-20260620181402-nt.html",
+      "desc": "El Hospital General Universitario de Ciudad Real participa en un innovador proyecto de realidad virtual que permitirá mejorar la formación práctica de los futuros técnicos en Imagen para el Diagnóstico y Medicina Nuclear mediante entornos inmersivos que recrea",
+      "date": "Sat, 20 Jun 2026 18:14:03 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Toledo cumple el deseo del emperador Carlos V",
+      "link": "https://www.abc.es/espana/castilla-la-mancha/toledo/toledo-cumple-deseo-emperador-carlos-20260620180758-nt.html",
+      "desc": "La reapertura del parque de la Vega, tras una remodelación financiada con tres millones de euros de fondos europeos, ha permitido redescubrir uno de los espacios con mayor carga histórica de Toledo . Este sábado, a través de visitas guiadas, con grupos de 25 p",
+      "date": "Sat, 20 Jun 2026 18:07:58 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Cinco heridos en un accidente en el centro de Santiago, con un causante que se dio a la fuga",
+      "link": "https://www.abc.es/espana/galicia/cinco-heridos-accidente-centro-santiago-causante-dio-20260620180418-nt.html",
+      "desc": "Susto en la capital gallega. Hasta cuatro vehículos se han visto implicados en un accidente de tráfico urbano en Santiago de Compostela, por el que dos personas han tenido que ser trasladadas al hospital. El causante se dio a la fuga y todavía no ha sido local",
+      "date": "Sat, 20 Jun 2026 18:04:18 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
     {
       "title": "Todos a una: plataformas, alcaldes y partidos cierran filas en defensa del AVE a Jaén por La Mancha",
       "link": "https://www.abc.es/espana/castilla-la-mancha/alcaldesa-alcazar-exige-ave-permitiremos-venga-arruinarnos-20260620172853-nt.html",
@@ -73,7 +163,7 @@
       "caso": "other"
     },
     {
-      "title": "Jupol rechaza que los escoltas de Begoña Gómez puedan colaborar en su fuga: «Una auténtica barbaridad»",
+      "title": "Sindicatos policiales rechazan que los escoltas de Begoña Gómez puedan colaborar en su fuga: «Una auténtica barbaridad»",
       "link": "https://www.abc.es/espana/jupol-rechaza-escoltas-begona-gomez-puedan-colaborar-20260620162102-nt.html",
       "desc": "El sindicato policial Jupol rechazó este sábado que los agentes adscritos a la seguridad de la Presidencia del Gobierno pudieran colaborar en una hipotética fuga de Begoña Gómez, esposa del presidente Pedro Sánchez, y calificó de «auténtica barbaridad» sugerir",
       "date": "Sat, 20 Jun 2026 16:21:02 +0200",
@@ -107,96 +197,6 @@
       "link": "https://www.abc.es/espana/juez-dice-condicion-presidente-sanchez-efimero-facilitaria-20260620145630-nt.html",
       "desc": "El juez Juan Carlos Peinado considera que «la condición de actual presidente del Gobierno» de Pedro Sánchez «es algo efímero y por trato transitorio», con lo que desecha el argumento de Begoña Gómez de que no hay riesgo de fuga porque se encuentra acompañada d",
       "date": "Sat, 20 Jun 2026 14:58:38 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "La Rabacht reconoce trayectorias e iniciativas en favor de la cultura en su 110º aniversario",
-      "link": "https://www.abc.es/espana/castilla-la-mancha/toledo/rabacht-reconoce-trayectorias-iniciativas-favor-cultura-110o-20260620145402-nt.html",
-      "desc": "La Real Academia de Bellas Artes y Ciencias Histórica de Toledo (Rabacht) ha celebrado en la mañana de este sábado en la Diputación Provincial la gala de los Premios 2026 y el acto conmemorativo del 110º aniversario de la entidad , donde se ha reconocido la tr",
-      "date": "Sat, 20 Jun 2026 14:54:03 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "El PSOE recuerda que la Castilla-La Mancha de Page tiene 200.000 parados menos que la de Cospedal y Núñez",
-      "link": "https://www.abc.es/espana/castilla-la-mancha/psoe-recuerda-castillala-mancha-page-200000-parados-20260620144424-nt.html",
-      "desc": "El PSOE de Castilla-La Mancha ha reivindicado este sábado la evolución del empleo en la comunidad autónoma desde la llegada de Emiliano García-Page al Gobierno regional y ha asegurado que la región cuenta en la actualidad con 200.000 personas menos en paro que",
-      "date": "Sat, 20 Jun 2026 14:44:24 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Núñez defiende que con Feijóo y el PP en la Junta se creará un entorno económico favorable para la región",
-      "link": "https://www.abc.es/espana/castilla-la-mancha/nunez-defiende-feijoo-pp-junta-creara-entorno-20260620143106-nt.html",
-      "desc": "El presidente del Partido Popular de Castilla-La Mancha, Paco Núñez, ha defendido la necesidad de acometer un cambio de modelo económico tanto en España como en Castilla-La Mancha para garantizar el crecimiento de autónomos y pequeñas y medianas empresas, prin",
-      "date": "Sat, 20 Jun 2026 14:31:06 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Siete aviones y helicópteros combaten un incendio en La Carolina",
-      "link": "https://www.abc.es/espana/andalucia/jaen/siete-aviones-helicopteros-combaten-incendio-carolina-20260620142405-nts.html",
-      "desc": "El Servicio de Extinción de Incendios Forestales de Andalucía, el Plan Infoca , ha declarado este sábado un incendio forestal ubicado en el paraje Los Guindos, en el término municipal de La Carolina , lugar hasta donde se han desplazado casi una veintena de ef",
-      "date": "Sat, 20 Jun 2026 14:24:06 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Los bomberos intentan sofocar un incendio forestal en Almodóvar del Río",
-      "link": "https://www.abc.es/espana/andalucia/cordoba/bomberos-intentan-sofocar-incendio-forestal-almodovar-rio-20260620142033-nts.html",
-      "desc": "El Plan INFOCA ha declarado este sábado un incendio forestal activo en el paraje de Villalobillos, en el municipio cordobés de Almodóvar del Río. El aviso se ha producido a las 13.20 horas , momento en el que se ha activado el dispositivo de emergencias para h",
-      "date": "Sat, 20 Jun 2026 14:20:33 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Toledo reivindica su papel como cuna del rugby español con el torneo de Ciudades Patrimonio",
-      "link": "https://www.abc.es/espana/castilla-la-mancha/toledo/deportes/toledo-reivindica-papel-cuna-rugby-espanol-torneo-20260620141627-nt.html",
-      "desc": "Toledo ha vuelto este sábado a mirar a sus orígenes rugbísticos con la celebración de la tercera edición del Campeonato de Rugby de las Ciudades Patrimonio de la Humanidad de España, una cita que reúne a doce equipos, seis masculinos y seis femeninos, y que si",
-      "date": "Sat, 20 Jun 2026 14:16:27 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Antonio Amil, propietario de Fuenseca y Delicias: «Con voluntad de las administraciones, esta situación podría solucionarse»",
-      "link": "https://www.abc.es/espana/andalucia/cordoba/antonio-amil-propietario-fuenseca-delicias-voluntad-administraciones-20260620140950-nts.html",
-      "desc": "El empresario Antonio Amil, propietario de los cines de verano Fuenseca, Delicias y Olimpia, ha expresado en sus redes sociales su malestar ante la negativa del Ayuntamiento de Córdoba a conceder la licencia para que los dos primeros espacios abran al público ",
-      "date": "Sat, 20 Jun 2026 14:09:51 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Moncloa y el PSOE cargan contra el juez Peinado con una cerrada defensa de Begoña Gómez: #YoConBegoña",
-      "link": "https://www.abc.es/espana/moncloa-carga-peinado-constata-obsesion-juez-solo-20260620140837-nt.html",
-      "desc": "La decisión del juez Juan Carlos Peinado de enviar a juicio y retirar el pasaporte a Begoña Gómez ha sorprendido a mediodía de un sábado que transcurría sin sobresaltos tras unas semanas en las que la agenda judicial avanza a ritmo frenético. Pero la reacción ",
-      "date": "Sat, 20 Jun 2026 14:08:37 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Localizan el cuerpo del joven desaparecido mientras nadaba en un embalse en Zamora",
-      "link": "https://www.abc.es/espana/castilla-leon/localizan-cuerpo-joven-desaparecido-nadaba-embalse-zamora-20260620135218-nt.html",
-      "desc": "La «intensa búsqueda ininterrumpida» puesta en marcha desde que sobre las 17.30 de este viernes saltasen las alertas al perderse la pista a un joven que estaba nadando en el embalse de Ricobayo (Zamora) daba como resultado este sábado el hallazgo del cuerpo si",
-      "date": "Sat, 20 Jun 2026 13:52:56 +0200",
       "source": "ABC",
       "color": "#c0392b",
       "feedId": "ABC",
