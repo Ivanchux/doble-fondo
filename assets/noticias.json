@@ -1,7 +1,87 @@
 {
-  "updated": "2026-06-20T13:51:31Z",
+  "updated": "2026-06-20T15:43:29Z",
   "count": 24,
   "items": [
+    {
+      "title": "Todos a una: plataformas, alcaldes y partidos cierran filas en defensa del AVE a Jaén por La Mancha",
+      "link": "https://www.abc.es/espana/castilla-la-mancha/alcaldesa-alcazar-exige-ave-permitiremos-venga-arruinarnos-20260620172853-nt.html",
+      "desc": "Alcázar de San Juan y toda la comarca de La Mancha ha vuelto a alzar la voz este sábado en defensa de su futuro ferroviario y de su crecimiento económico. Unas 1.500 personas de personas , respaldadas por representantes institucionales, plataformas ciudadanas ",
+      "date": "Sat, 20 Jun 2026 17:28:53 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Bienvenidos",
+      "link": "https://www.abc.es/espana/galicia/bienvenidos-20260620171238-nt.html",
+      "desc": "Si cualquier día nos visitan extraterrestres, ¿qué pensarían de nosotros? Imaginemos que tienen cabeza, brazos y un cerebro que nos entiende. De entrada, un guía turístico les explicaría nuestras maravillas naturales y monumentales y los pondría al día sobre l",
+      "date": "Sat, 20 Jun 2026 17:12:38 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Los Puntos de Encuentro Familiar de la región atienden a casi 900 menores en los cinco primeros meses de 2026",
+      "link": "https://www.abc.es/espana/castilla-la-mancha/puntos-encuentro-familiar-region-atienden-900-menores-20260620170955-nt.html",
+      "desc": "El Gobierno de Castilla-La Mancha ha destacado la consolidación de la red regional de Puntos de Encuentro Familiar como un recurso fundamental para garantizar la protección de la infancia y el derecho de niños, niñas y adolescentes a mantener relaciones famili",
+      "date": "Sat, 20 Jun 2026 17:09:55 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Mercadona indica para qué se usa el aceite de coco: «Es ideal como aliño pero también para el cuidado personal»",
+      "link": "https://www.abc.es/espana/comunidad-valenciana/mercadona-indica-usa-aceite-coco-ideal-alino-20260620074024-nt.html",
+      "desc": "El aceite de coco que vende Mercadona en sus supermercados va más allá del uso para cocinar. La compañía valenciana ha aclarado en su página web las dudas de algunos clientes sobre este producto 'todoterreno', ideal tanto para recetas como también para cuidado",
+      "date": "Sat, 20 Jun 2026 17:00:05 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Madrid suspende la emisión del España-Arabia en Colón por el calor extremo",
+      "link": "https://www.abc.es/espana/madrid/madrid-suspende-espanaarabia-colon-calor-extremo-20260620165907-nt.html",
+      "desc": "La emisión del partido de fútbol entre la selección española de fútbol y Arabia Saudí en la pantalla gigante de la Plaza de Colón , con motivo de la copa Mundial de la FIFA, ha sido suspendida debido al intenso calor que se prevé en la capital. El Ayuntamiento",
+      "date": "Sat, 20 Jun 2026 16:59:07 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Galicia se prepara para una ola de calor que disparará los termómetros hasta los 40º",
+      "link": "https://www.abc.es/espana/galicia/galicia-prepara-ola-calor-disparara-termometros-40o-20260620165504-nt.html",
+      "desc": "Los municipios del Miño de Orense y el sur de Lugo estarán esta tarde en alerta amarilla por máximas de 36 ºC o más. Este será el preámbulo al domingo, cuando, en el contexto de la ola de calor que azotará España desde este día, más de la mitad de Galicia tend",
+      "date": "Sat, 20 Jun 2026 16:55:05 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Denuncian «irregularidades» en las elecciones del colegio farmacéutico más antiguo del mundo",
+      "link": "https://www.abc.es/espana/comunidad-valenciana/batalla-judicial-irregularidades-elecciones-farmaceuticos-valencianos-20260620161611-nt.html",
+      "desc": "La crisis electoral del Muy Ilustre Colegio Oficial de Farmacéuticos de Valencia (MICOF) ha desembocado en batalla judicial tras la anulación de las elecciones del pasado 10 de mayo, en las que se impuso la candidatura de Juventino Jiménez. La Mesa Electoral h",
+      "date": "Sat, 20 Jun 2026 16:27:24 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Jupol rechaza que los escoltas de Begoña Gómez puedan colaborar en su fuga: «Una auténtica barbaridad»",
+      "link": "https://www.abc.es/espana/jupol-rechaza-escoltas-begona-gomez-puedan-colaborar-20260620162102-nt.html",
+      "desc": "El sindicato policial Jupol rechazó este sábado que los agentes adscritos a la seguridad de la Presidencia del Gobierno pudieran colaborar en una hipotética fuga de Begoña Gómez, esposa del presidente Pedro Sánchez, y calificó de «auténtica barbaridad» sugerir",
+      "date": "Sat, 20 Jun 2026 16:21:02 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
     {
       "title": "María Jesús Montero defiende a Begoña Gómez: «Es un juicio político contra una inocente»",
       "link": "https://www.abc.es/espana/andalucia/maria-jesus-montero-defiende-begona-gomez-juicio-20260620154238-nts.html",
@@ -117,86 +197,6 @@
       "link": "https://www.abc.es/espana/castilla-leon/localizan-cuerpo-joven-desaparecido-nadaba-embalse-zamora-20260620135218-nt.html",
       "desc": "La «intensa búsqueda ininterrumpida» puesta en marcha desde que sobre las 17.30 de este viernes saltasen las alertas al perderse la pista a un joven que estaba nadando en el embalse de Ricobayo (Zamora) daba como resultado este sábado el hallazgo del cuerpo si",
       "date": "Sat, 20 Jun 2026 13:52:56 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Hallan el cadáver de un hombre flotando en las inmediaciones del puerto de Tragove, en Cambados",
-      "link": "https://www.abc.es/espana/galicia/hallan-cadaver-hombre-flotando-inmediaciones-puerto-tragove-20260620135234-nt.html",
-      "desc": "El cadáver de un hombre ha sido localizado este sábado flotando en el agua en las inmediaciones del puerto de Tragove, en la localidad de Cambados (Pontevedra). Tal y como ha confirmado la Guardia Civil, el hallazgo se produjo sobre las 11.30 horas de la mañan",
-      "date": "Sat, 20 Jun 2026 13:52:34 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Diego Tristán se hace cargo del Córdoba CF B hasta 2027",
-      "link": "https://www.abc.es/espana/andalucia/cordoba/cordoba-cf/diego-tristan-cargo-cordoba-2027-20260620135044-nts.html",
-      "desc": "Diego Tristán seguirá al frente del Córdoba CF B, al menos, una temporada más. Así lo ha confirmado este sábado el Córdoba CF a través de sus redes sociales, anunciando además la ampliación del contrato del técnico hasta 2027. El exfutbolista, que tomó las rie",
-      "date": "Sat, 20 Jun 2026 13:50:45 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Piden 14 años para un hombre que intentó matar a su ex clavándole una lanza artesanal en Vigo",
-      "link": "https://www.abc.es/espana/galicia/piden-anos-hombre-intento-matar-clavandole-lanza-20260620134045-nt.html",
-      "desc": "La Audiencia de Pontevedra acogerá el próximo martes el juicio contra un hombre que se enfrenta a 14 años y seis meses de prisión p or intentar matar a su expareja clavándole una lanza artesanal en Vigo. Los hechos, según recoge el escrito de Fiscalía, sucedie",
-      "date": "Sat, 20 Jun 2026 13:40:46 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Detenido en Móstoles el autor de cuatro robos con violencia en Rivas-Vaciamadrid",
-      "link": "https://www.abc.es/espana/madrid/detenido-mostoles-autor-cuatro-robos-violencia-rivasvaciamadrid-20260620133740-nt.html",
-      "desc": "Agentes de la Guardia Civil han tenido en Móstoles a un joven de 19 años por cuatro robos con violencia cometidos en zonas residenciales de la localidad madrileña de Rivas-Vaciamadrid el pasado mes de noviembre. El autor de estos hechos delictivos ha ingresado",
-      "date": "Sat, 20 Jun 2026 13:40:34 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "«La secuencia de 39 segundos y dos pasos es compatible con la caída accidental de Isak Andic»",
-      "link": "https://www.abc.es/espana/cataluna/secuencia-segundos-dos-pasos-compatible-caida-accidental-20260620132930-nt.html",
-      "desc": "El pasado mayo, en su auto de prisión eludible bajo fianza, la juez de Martorell indicó que Isak Andic no estaba usando su móvil cuando se precipitó al vacío, ya que el terminal apareció en uno de los bolsillos delanteros de su pantalón. Además, las imágenes y",
-      "date": "Sat, 20 Jun 2026 13:29:30 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "El juez envía a Begoña Gómez al banquillo y le retira el pasaporte: «La sola condición de esposa» de Sánchez sirvió «para influir»",
-      "link": "https://www.abc.es/espana/juez-peinado-envia-begona-gomez-juicio-retira-20260620132616-nt.html",
-      "desc": "El juez Juan Carlos Peinado ha acordado enviar a juicio con jurado popular a Begoña Gómez , la esposa del presidente del Gobierno, a la que también ha retirado el pasaporte, prohibido salir de España e instado a comparecer quincenalmente en el juzgado. Su deci",
-      "date": "Sat, 20 Jun 2026 13:26:16 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Una doble avería en la red de abastecimiento deja sin agua a 2.500 abonados del Casco de Toledo",
-      "link": "https://www.abc.es/espana/castilla-la-mancha/toledo/reventon-conduccion-general-deja-agua-zona-alta-20260620132139-nt.html",
-      "desc": "Los operarios de Tagus trabajan para reparar los dos reventones registrados este sábado en la red de abastecimiento del Casco Histórico de Toledo, una incidencia que mantiene sin suministro de agua a aproximadamente 2.500 abonados . La primera rotura se ha loc",
-      "date": "Sat, 20 Jun 2026 13:21:39 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Segovia pone límites a las visitas guiadas: audios individuales y tope a los grupos",
-      "link": "https://www.abc.es/espana/castilla-leon/segovia-pone-limites-visitas-guiadas-audios-individuales-20260619132023-nt.html",
-      "desc": "Ciudad Patrimonio de la Humanidad q ue desde 1985 luce la más alta distinción de la Unesco, cientos de miles de personas visitan cada años Segovia. Capital con al más de 53.000 habitantes que cada día -y especialmente en fechas señaladas- convive con quienes l",
-      "date": "Sat, 20 Jun 2026 13:20:23 +0200",
       "source": "ABC",
       "color": "#c0392b",
       "feedId": "ABC",
