@@ -1,66 +1,246 @@
 {
-  "updated": "2026-06-20T07:46:28Z",
-  "count": 6,
+  "updated": "2026-06-20T10:29:34Z",
+  "count": 24,
   "items": [
     {
-      "title": "El juez espera un informe más exhaustivo del patrimonio de Zapatero",
-      "link": "https://www.abc.es/espana/juez-espera-informe-udef-sobre-patrimonio-zapatero-20260620020757-nt.html",
-      "desc": "El juez de la Audiencia Nacional José Luis Calama, que investiga al expresidente del Gobierno José Luis Rodríguez Zapatero por siete delitos, espera un informe exhaustivo sobre su patrimonio y el de su familia, según trasladan fuentes jurídicas a ABC. La infor",
-      "date": "Sat, 20 Jun 2026 02:07:57 +0200",
+      "title": "Siete heridos tras chocar un camión y dos turismos en la A-4 a su paso por Ontígola",
+      "link": "https://www.abc.es/espana/castilla-la-mancha/toledo/pueblos/siete-heridos-tras-chocar-camion-dos-turismos-20260620122304-nt.html",
+      "desc": "Siete personas resultaron heridas en la noche de este viernes tras un accidente de tráfico en el que se vieron implicados un camión y dos turismos en la autovía A-4, a su paso por el término municipal de Ontígola. El siniestro obligó a movilizar un amplio disp",
+      "date": "Sat, 20 Jun 2026 12:23:05 +0200",
       "source": "ABC",
       "color": "#c0392b",
       "feedId": "ABC",
-      "caso": "zap"
+      "caso": "other"
     },
     {
-      "title": "Las hijas de Zapatero, tras la “estructura artificiosa” de la organización liderada por su padre",
-      "link": "https://www.lavanguardia.com/politica/20260619/11568668/hijas-zapatero-estructura-artificiosa-organizacion-liderada-padre.html",
-      "desc": "El juez de la Audiencia Nacional sospecha que la empresa Whathefav fue un instrumento para ocultar el dinero de la trama e imputa a Laura y Alba Rodríguez Espinosa",
-      "date": "19 Jun 2026 00:05:00 +0200",
+      "title": "Mas de 400 altos cargos de la Junta de Andalucía, en la cuerda floja",
+      "link": "https://www.abc.es/espana/andalucia/400-altos-cargos-junta-andalucia-cuerda-floja-20260620122205-nts.html",
+      "desc": "Entre los efectos colaterales del cambio de legislatura hay uno que, no por obvio, tiene menor trascendencia. Cuando llega un nuevo gobierno, lo lógico es que haya cambios . Y esos cambios se traducen muchas veces en nuevos nombramientos que suponen el cese de",
+      "date": "Sat, 20 Jun 2026 12:22:05 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Nevenka Fernández reaparece ovacionada en Ponferrada un cuarto de siglo después",
+      "link": "https://www.abc.es/espana/castilla-leon/nevenka-fernandez-reaparece-ovacionada-ponferrada-cuarto-siglo-20260620120129-nt.html",
+      "desc": "Un cuarto de siglo después, la exconcejala del PP en Ponferrada Nevenka Fernández reaparecía ovacionada en su ciudad y ofrecía su testimonio durante la jornada 'Justicia, voces y memoria: de la violencia sistémica a la reparación'. Después de abandonar España ",
+      "date": "Sat, 20 Jun 2026 12:01:29 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "La Guardia Civil intercepta al conductor de un patinete que  cuadruplicaba la tasa de alcohol en Gandía",
+      "link": "https://www.abc.es/espana/comunidad-valenciana/guardia-civil-intercepta-conductor-patinete-cuadruplicaba-tasa-20260620120030-nt.html",
+      "desc": "La Guardia Civil ha interceptado en Gandía ( Valencia ) al conductor de un patinete eléctrico que casi cuadruplicaba la tasa de alcoholemia. Además, el vehículo de movilidad personal tampoco estaba inscrito en el Registro Nacional de Vehículos de la Dirección ",
+      "date": "Sat, 20 Jun 2026 12:00:31 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Fedeto reúne a Page y a González en una semana clave para Sánchez y el PSOE",
+      "link": "https://www.abc.es/espana/castilla-la-mancha/fedeto-reune-page-gonzalez-semana-clave-sanchez-20260620120009-nt.html",
+      "desc": "El presidente de Castilla-La Mancha, Emiliano García-Page, y el expresidente del Gobierno Felipe González compartirán escenario el próximo martes 23 de junio en Toledo en un encuentro organizado por la Federación Empresarial Toledana (Fedeto) , una cita que se",
+      "date": "Sat, 20 Jun 2026 12:00:09 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "La Policía Local de Valencia realizará controles para verificar la legalidad de los patinetes eléctricos",
+      "link": "https://www.abc.es/espana/comunidad-valenciana/policia-local-valencia-realizara-controles-verificar-legalidad-20260620115331-nt.html",
+      "desc": "La Unidad de Seguridad Vial de la Policía Local de Valencia llevará a cabo, entre los días 22 y 28 de junio, una campaña específica de vigilancia y control destinada a verificar que los Vehículos de Movilidad Personal (VMP) que circulan por la ciudad se encuen",
+      "date": "Sat, 20 Jun 2026 11:53:31 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Armengol renuncia a ser candidata al Govern balear y enfila su futuro político hacia Madrid",
+      "link": "https://www.abc.es/espana/baleares/armengol-renuncia-candidata-govern-balear-enfila-futuro-20260620114812-nt.html",
+      "desc": "Francina Armengol ha puesto fin este sábado a una etapa política que ha marcado el rumbo del socialismo balear durante más de una década. La secretaria general del PSIB-PSOE ha anunciado ante el Consell Polític de la formación que no volverá a optar a la Presi",
+      "date": "Sat, 20 Jun 2026 11:48:12 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Dónde aparcar en la Noche Blanca del Flamenco 2026: parkings, zonas libres y transporte público",
+      "link": "https://www.abc.es/espana/andalucia/cordoba/aparcar-noche-blanca-flamenco-2026-parkings-zonas-20260620114801-nts.html",
+      "desc": "Miles de personas tomarán las calles de la capital cordobesa este sábado, 20 de junio, con motivo de uno de los eventos más esperados del año: la Noche Blanca del Flamenco. La cita reunirá en distintos escenarios del centro de la ciudad a numerosos artistas de",
+      "date": "Sat, 20 Jun 2026 11:48:02 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "El uso de las pulseras de alejamiento contra la violencia de género baja en Andalucía tras los fallos detectados",
+      "link": "https://www.abc.es/espana/andalucia/uso-pulseras-alejamiento-violencia-genero-baja-andalucia-20260620114702-nts.html",
+      "desc": "De una medida pionera en la lucha contra el maltrato a las mujeres a un recurso que pierde fuelle. El balance del Sistema Viogén de este pasado mes de abril subraya que la evolución de las pulseras de alejamiento impuestas por los juzgados de Violencia de Géne",
+      "date": "Sat, 20 Jun 2026 11:47:03 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Obligan a desalojar a cientos de personas de una discoteca en Valladolid tras rociar gas pimienta",
+      "link": "https://www.abc.es/espana/castilla-leon/obligan-desalojar-cientos-personas-discoteca-valladolid-tras-20260620120239-nt.html",
+      "desc": "Una recompensa de 400 euros. Es lo que parece estar detrás de la acción de un grupo de tres personas que rociaron con gas pimienta una discoteca de Valladolid cuando había cientos de personas en su interior, obligando a su precipitado desalojo, dejando a varia",
+      "date": "Sat, 20 Jun 2026 11:46:29 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Piden siete años para un vecino de O Barco que violó a otro porque se negó a hacerle una felación",
+      "link": "https://www.abc.es/espana/galicia/piden-siete-anos-vecino-barco-violo-nego-20260620113008-nt.html",
+      "desc": "La sección segunda de la Audiencia Provincial de Orense acoge el próximo martes, a partir de las 09.30 horas, el juicio contra un hombre para el que la Fiscalía pide siete años de prisión por agredir sexualmente a otro varón en O Barco de Valdeorras. Tal y com",
+      "date": "Sat, 20 Jun 2026 11:30:09 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Un accidente entre un bus escolar y un camión deja 9 alumnos y 3 profesores heridos leves en Vigo",
+      "link": "https://www.abc.es/espana/galicia/accidente-bus-escolar-camion-deja-alumnos-profesores-20260620111852-nt.html",
+      "desc": "Una colisión por alcance entre un autobús escolar y un camión en la AP-9 , a la altura del barrio vigués de Cabral, ha dejado heridos de carácter leve a nueve alumnos y a tres profesores, que fueron atendidos en el punto sin necesidad de ser trasladados. El co",
+      "date": "Sat, 20 Jun 2026 11:18:52 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Miguel Almirón protagoniza la primera expulsión por cubrirse la boca en el Turquía-Paraguay",
+      "link": "https://www.lavanguardia.com/deportes/futbol/20260620/11570872/miguel-almiron-protagoniza-primera-expulsion-cubrirse-boca-paraguay-turquia.html",
+      "desc": "El futbolista paraguayo del Atlanta United vio la tarjeta roja en el tiempo de descuento de la primera parte por la nueva norma que entró en vigor en este Mundial tras el episodio entre Prestianni y Vinícius Jr",
+      "date": "20 Jun 2026 11:12:40 +0200",
       "source": "La Vanguardia",
       "color": "#8e44ad",
       "feedId": "LaVanguardia",
-      "caso": "zap"
+      "caso": "other"
     },
     {
-      "title": "El audio de la declaración de Zapatero: “No hablé absolutamente con nadie del rescate de Plus Ultra”",
-      "link": "https://www.lavanguardia.com/politica/20260618/11568556/audio-declaracion-zapatero-consultor-principal-analisis-relevante.html",
-      "desc": "El expresidente del Gobierno explicó al juez que conoció a Julio Martínez en el 2011 y que les unió el running hasta que en el 2020 empezó su relación profesional cuando su amigo montó una empresa de consultoría",
-      "date": "18 Jun 2026 19:33:32 +0200",
+      "title": "Aparece un hombre muerto dentro de una caseta de obra del hospital de Santiago",
+      "link": "https://www.abc.es/espana/galicia/aparece-hombre-muerto-dentro-caseta-obra-hospital-20260620110936-nt.html",
+      "desc": "Nuevo incidente en la capital gallega entorno a la indigencia y el consumo de drogas. Este viernes un hombre ha sido hallado muerto en el interior de una de las casetas que los empleados de las obras de ampliación del Complejo Hospitalario Universitario de San",
+      "date": "Sat, 20 Jun 2026 11:09:36 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Oropesa y Toledo registran este viernes dos de las diez temperaturas más altas de España",
+      "link": "https://www.abc.es/espana/castilla-la-mancha/oropesa-toledo-registran-viernes-dos-diez-temperaturas-20260620110247-nt.html",
+      "desc": "Castilla-La Mancha volvió a ocupar este viernes un lugar destacado en los registros meteorológicos nacionales al situar a dos de sus localidades entre las más calurosas del país y a otras dos entre las más frías. Oropesa y la ciudad de Toledo entraron en el to",
+      "date": "Sat, 20 Jun 2026 11:02:47 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "El PSOE denuncia «abucheos y gestos fascistas» durante la marcha del Orgullo de Córdoba y exige medidas a Bellido",
+      "link": "https://www.abc.es/espana/andalucia/cordoba/psoe-denuncia-abucheos-gestos-fascistas-marcha-orgullo-20260620105928-nts.html",
+      "desc": "El PSOE de Córdoba denuncia como «delito de odio» los gestos y abucheos «de corte fascista» registrados durante la marcha del Orgullo. El grupo socialista, a través de un documento hecho público por su portavoz, Antonio Hurtado, expresa su « profunda preocupac",
+      "date": "Sat, 20 Jun 2026 11:00:06 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Muere una mujer tras chocar un coche y una moto en Fuente El Saz de Jarama",
+      "link": "https://www.abc.es/espana/madrid/muere-mujer-tras-chocar-coche-moto-fuente-20260620105321-nt.html",
+      "desc": "Una colisión entre un coche y una motocicleta ha dejado un muerto y un herido de gravedad esta en la M-103 a la altura del municipio de Fuente El Saz del Jarama la tarde de este viernes. La víctima mortal es una mujer de 55 años que viajaba en la moto que mane",
+      "date": "Sat, 20 Jun 2026 10:53:22 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Toda Castilla-La Mancha, salvo Albacete, estará este sábado bajo aviso amarillo por calor intenso",
+      "link": "https://www.abc.es/espana/castilla-la-mancha/castillala-mancha-salvo-albacete-sabado-bajo-aviso-20260620104215-nt.html",
+      "desc": "Toda Castilla-La Mancha, salvo la provincia de Albacete, permanecerá este sábado bajo aviso amarillo de la Agencia Estatal de Meteorología (Aemet). El calor será el principal protagonista de la jornada en Toledo, Ciudad Real, Cuenca y Guadalajara , aunque en l",
+      "date": "Sat, 20 Jun 2026 10:42:15 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "El grupo valenciano Gastroadictos abrirá su primer Bar Mistela en Madrid",
+      "link": "https://www.abc.es/espana/comunidad-valenciana/grupo-valenciano-gastroadictos-abrira-primer-bar-mistela-20260620102938-nt.html",
+      "desc": "Gastroadictos abrirá el próximo mes de septiembre Bar Mistela Chamartín, su primer establecimiento fuera de la ciudad de Valencia . El proyecto, ubicado en la zona de Chamartín y próximo al estadio Santiago Bernabéu, supondrá un nuevo paso en la trayectoria de",
+      "date": "Sat, 20 Jun 2026 10:29:38 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Andalucía se prepara para la primera ola de calor del verano con «temperaturas muy altas y persistentes»",
+      "link": "https://www.abc.es/espana/andalucia/andalucia-prara-primera-ola-calor-verano-temperaturas-20260620101530-nts.html",
+      "desc": "A las puertas del inicio del verano, Andalucía experimenta una subida de las temperaturas este sábado como antesala a la primera ola de calor que comenzará el domingo 21 de junio. Para la jornada de hoy, la Agencia Estatal de Meteorología (Aemet) ha activado a",
+      "date": "Sat, 20 Jun 2026 10:15:30 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "El Hospital La Fe, designado Unidad de Referencia en Consejo Genético de Predisposición al Cáncer Hematológico",
+      "link": "https://www.abc.es/espana/comunidad-valenciana/hospital-designado-unidad-referencia-consejo-genetico-predisposicion-20260620101042-nt.html",
+      "desc": "El Hospital Universitari i Politècnic La Fe ha sido designado como Unidad de Referencia en Consejo Genético de Síndromes de Predisposición al Cáncer Hematológico para toda la Comunidad Valenciana , tras superar el proceso de evaluación de la Dirección General ",
+      "date": "Sat, 20 Jun 2026 10:10:43 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Muere un segundo menor y otro sigue crítico tras ahogarse en una playa de Tarragona",
+      "link": "https://www.lavanguardia.com/local/tarragona/20260620/11570855/fallece-menores-ahogaron-playa-l-arrabassada-tarragona.html",
+      "desc": "Los niños, de 12 y 13 años, tuvieron dificultades para salir del agua mientras se bañaban en una zona rocosa mientras ondeaba la bandera amarilla",
+      "date": "20 Jun 2026 10:00:18 +0200",
       "source": "La Vanguardia",
       "color": "#8e44ad",
       "feedId": "LaVanguardia",
-      "caso": "zap"
+      "caso": "other"
     },
     {
-      "title": "Sánchez traslada su “empatía” a Zapatero: “Me ha manifestado su inocencia y yo respaldo a José Luis”",
-      "link": "https://www.lavanguardia.com/politica/20260618/11568480/sanchez-traslada-empatia-zapatero-me-manifestado-inocencia-respaldo-jose-luis.html",
-      "desc": "El presidente asume que los socios de investidura se alejen del Gobierno “para ganar autonomía y visibilidad propia” ante las futuras elecciones, pero insiste en “sudar la camiseta” para aprobar los presupuestos del 2027",
-      "date": "18 Jun 2026 17:44:38 +0200",
+      "title": "Cinco muertos en ataques israelíes en el sur del Líbano",
+      "link": "https://www.lavanguardia.com/internacional/20260620/11570832/cinco-muertos-ataques-israelies-sur-libano.html",
+      "desc": "El fin de los combates en ese país es una condición para un acuerdo de paz duradero entre Estados Unidos e Irán",
+      "date": "20 Jun 2026 07:56:39 +0200",
       "source": "La Vanguardia",
       "color": "#8e44ad",
       "feedId": "LaVanguardia",
-      "caso": "zap"
+      "caso": "other"
     },
     {
-      "title": "La pareja de Ayuso ingresó 4,4 millones de Quirón en los primeros tres años de relación",
-      "link": "https://www.lavanguardia.com/politica/20260618/11568457/pareja-ayuso-facturo-4-4-millones-euros-quiron-primeros-tres-anos-relacion.html",
-      "desc": "El empresario González Amador ingresó una media de 1,5 millones de euros de una filial del gigante de la sanidad privada entre 2021 y 2023 a través de sus dos consultoras: una en el punto de mira de la UCO",
-      "date": "18 Jun 2026 17:19:45 +0200",
+      "title": "El acuerdo con Irán pone a prueba la relación de EE.UU. con Israel",
+      "link": "https://www.lavanguardia.com/internacional/20260620/11569470/acuerdo-iran-pone-prueba-capacidad-trump-contener-netanyahu.html",
+      "desc": "El vicepresidente J.D. Vance avisa a Tel Aviv: “Si yo fuera ellos, no atacaría al único aliado que les queda”",
+      "date": "20 Jun 2026 06:00:00 +0200",
       "source": "La Vanguardia",
       "color": "#8e44ad",
       "feedId": "LaVanguardia",
-      "caso": "gen"
-    },
-    {
-      "title": "Cuenta atrás para las elecciones",
-      "link": "https://www.lavanguardia.com/opinion/20260618/11567633/cuenta-elecciones.html",
-      "desc": "Mientras Zapatero declaraba, el PNV le pedía a Sánchez que convoque a las urnas si no logra aprobar los presupuestos, es decir, a partir de noviembre. Eso llevaría a elecciones entre febrero y marzo",
-      "date": "18 Jun 2026 06:00:00 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
-      "caso": "zap"
+      "caso": "other"
     }
   ]
 }
