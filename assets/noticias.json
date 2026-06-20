@@ -1,7 +1,37 @@
 {
-  "updated": "2026-06-20T21:11:45Z",
+  "updated": "2026-06-20T23:03:14Z",
   "count": 24,
   "items": [
+    {
+      "title": "3-1: El Almagro se queda a un paso del ascenso a Primera División del fútbol sala femenino",
+      "link": "https://www.abc.es/espana/castilla-la-mancha/toledo/deportes/almagro-queda-paso-ascenso-primera-division-futbol-20260620234204-nt.html",
+      "desc": "Una vez más, y ya van siete, el intento del Almagro FS femenino por llegar a la Primera división del fútbol sala española resultó baldío. Este sábado por la tarde, el equipo encajero derrotó por 3-1 a la escuadra asturiana del Rodiles de Villaviciosa, un marca",
+      "date": "Sat, 20 Jun 2026 23:42:04 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "La Noche Blanca del Flamenco hace de las calles y plazas de Córdoba un río de arte jondo",
+      "link": "https://www.abc.es/espana/andalucia/cordoba/noche-blanca-flamenco-calles-plazas-cordoba-rio-20260620222442-nts.html",
+      "desc": "Si no sucede ya, pronto habrá gente en Córdoba que diga que el verano empieza con la Noche Blanca del Flamenco . Antes hay días de calor, quizá alguna noche tórrida en que dormir cueste un poco, pero conforme llega esa madrugada noctámbula que empieza con quej",
+      "date": "Sat, 20 Jun 2026 23:31:38 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Controlado el incendio forestal de La Carolina en Jaén",
+      "link": "https://www.abc.es/espana/andalucia/jaen/controlado-incendio-forestal-carolina-jaen-20260620232229-nts.html",
+      "desc": "El Servicio de Extinción de Incendios Forestales de Andalucía, el Plan Infoca, ha comunicado que el incendio forestal declarado en el paraje Los Guindos, en el término municipal de La Carolina (Jaén), está controlado . Pese a que los efectivos continúan actuan",
+      "date": "Sat, 20 Jun 2026 23:26:25 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
     {
       "title": "Extinguido el incendio de Mojácar que obligó a desalojar a 50 vecinos",
       "link": "https://www.abc.es/espana/andalucia/almeria/extinguido-incendio-mojacar-obligo-desalojar-vecinos-20260620222130-nts.html",
@@ -167,36 +197,6 @@
       "link": "https://www.abc.es/espana/cataluna/pp-reivindica-sirera-solucion-barcelona-victima-collboni-20260620185535-nt.html",
       "desc": "El secretario general del Partido Popular, Miguel Tellado, ha despejado este sábado cualquier incógnita sobre el futuro del PP en Barcelona al ratificar públicamente a Daniel Sirera como candidato para las próximas elecciones municipales. Lo hizo durante la in",
       "date": "Sat, 20 Jun 2026 18:55:35 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "La I Maratón Ciudad de Toledo roza los 2.000 inscritos a cinco meses de su celebración",
-      "link": "https://www.abc.es/espana/castilla-la-mancha/toledo/deportes/maraton-ciudad-toledo-roza-2000-inscritos-cinco-20260620185429-nt.html",
-      "desc": "La I Maratón Ciudad de Toledo continúa despertando notable interés entre los aficionados al atletismo. A cinco meses de su celebración, prevista para el próximo 15 de noviembre, la prueba cuenta ya con casi 2.000 inscritos , según ha adelantado el concejal de ",
-      "date": "Sat, 20 Jun 2026 18:54:30 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Ángeles-Felipe Bergé, ganadora del primer premio de Especial Infantil de las Hogueras de Alicante 2026",
-      "link": "https://www.abc.es/espana/comunidad-valenciana/angelesfelipe-berge-ganadora-primer-premio-especial-infantil-20260620184359-nt.html",
-      "desc": "La hoguera Ángeles-Felipe Bergé ha resultado ganadora del primer premio de la Sección Especial del concurso de Hogueras Infantiles 2026 en Alicante. El monumento, titulado 'Mediterrànea', es obra del foguerer Ausias Estrugo Mañó. El segundo puesto ha sido para",
-      "date": "Sat, 20 Jun 2026 18:43:59 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Muere atropellada una mujer de 66 años en una finca de Nohales (Cuenca)",
-      "link": "https://www.abc.es/espana/castilla-la-mancha/muere-atropellada-mujer-anos-finca-nohales-cuenca-20260620183518-nt.html",
-      "desc": "Una mujer de 66 años ha fallecido este sábado tras ser atropellada en una finca privada perteneciente al municipio de Nohales, en la provincia de Cuenca. Según ha informado el Servicio del 112 de Castilla-La Mancha, el siniestro ha tenido lugar sobre las 16:16",
-      "date": "Sat, 20 Jun 2026 18:35:19 +0200",
       "source": "ABC",
       "color": "#c0392b",
       "feedId": "ABC",
