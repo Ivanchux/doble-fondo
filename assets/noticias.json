@@ -1,7 +1,77 @@
 {
-  "updated": "2026-06-20T19:18:12Z",
+  "updated": "2026-06-20T21:11:45Z",
   "count": 24,
   "items": [
+    {
+      "title": "Extinguido el incendio de Mojácar que obligó a desalojar a 50 vecinos",
+      "link": "https://www.abc.es/espana/andalucia/almeria/extinguido-incendio-mojacar-obligo-desalojar-vecinos-20260620222130-nts.html",
+      "desc": "El Plan Infoca ha dado por extinguido el incendio forestal que se declaró el pasado miércoles en el término municipal de Mojácar (Almería), donde hasta 50 vecinos fueron desalojados. En concreto, el incendio forestal originó en el paraje El Sopalmo , donde tam",
+      "date": "Sat, 20 Jun 2026 22:21:30 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Los cinco catalanes del crucero MV Hondius reciben el alta y ya pueden salir de sus casas",
+      "link": "https://www.abc.es/espana/cataluna/cinco-catalanes-crucero-hondius-reciben-alta-pueden-20260620215715-nt.html",
+      "desc": "Los cinco catalanes que viajaban en el crucero MV Hondius , donde empezó un brote de hantavirus, y que permanecían aislados en sus casas han sido dados de alta y ya pueden salir de sus domicilios tras dar negativo en la última PCR que les han realizado. Todos ",
+      "date": "Sat, 20 Jun 2026 22:05:04 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Tarragona gana a Toledo (15-7) y se proclama campeona del Trofeo de Rugby 7 de las Ciudades Patrimonio",
+      "link": "https://www.abc.es/espana/castilla-la-mancha/toledo/deportes/tarragona-gana-toledo-157-proclama-campeona-trofeo-20260620213912-nt.html",
+      "desc": "Tarragona se proclamó este sábado campeona de la tercera edición del Trofeo de Rugby Seven de las Ciudades Patrimonio de la Humanidad de España tras derrotar al Rugby Toledo por 15-7 en la final masculina disputada en el campo de rugby de la Escuela Central de",
+      "date": "Sat, 20 Jun 2026 21:39:12 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Me quedo sin beca",
+      "link": "https://www.abc.es/espana/castilla-leon/david-frontela-quedo-beca-20260619212741-nt.html",
+      "desc": "Decía la señora Teresa que antes de suspender a un alumno había que pensar en la madre del mismo porque ella era la que, de verdad, lo pasaba mal. No le faltaba razón y, sin duda, cada vez que entramos en el mes de junio hay que pensar más y más en las sufrida",
+      "date": "Sat, 20 Jun 2026 21:27:41 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "El noveno jirón",
+      "link": "https://www.abc.es/espana/castilla-leon/noveno-jiron-20260620212704-nt.html",
+      "desc": "La bandera de Zamora, la legendaria Seña Bermeja, tiene ocho tiras rojas, ocho jirones tejidos a sangre y sudor. Son las ocho victorias de Viriato ante los romanos, coronadas por una banda verde esmeralda, otorgada por Fernando el Católico en la Batalla de Tor",
+      "date": "Sat, 20 Jun 2026 21:27:04 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "La muerte de un joven en Ricobayo eleva a once los ahogados en Castilla y León en lo que va de año",
+      "link": "https://www.abc.es/espana/castilla-leon/muerte-joven-ricobayo-eleva-once-ahogados-castilla-20260620212547-nt.html",
+      "desc": "Otra vez en un embalse. Otro muerto ahogado en sus aguas . Un joven de unos 20 años es la última víctima registrada en espacios acuáticos en Castilla y León. Su cuerpo sin vida era localizado en torno a las 12.40 de este sábado en las profundidades del embalse",
+      "date": "Sat, 20 Jun 2026 21:25:47 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Los grados de Medicina en León y Burgos rozan ya las 5.000 preinscripciones",
+      "link": "https://www.abc.es/espana/castilla-leon/grados-medicina-leon-burgos-superan-3000-preinscripciones-20260617212513-nt.html",
+      "desc": "El estreno de los grados de Medicina en las universidades de León y Burgos de cara al próximo curso apunta ya al éxito. Las expectativas de partida eran altas porque se trata de una enseñanza que suele estar entre las más demandadas en aquellos que la imparten",
+      "date": "Sat, 20 Jun 2026 21:25:13 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
     {
       "title": "El fiscal pide tres años y medio de cárcel para el acusado de dejar tuerto al agresor de su madre en Sonseca",
       "link": "https://www.abc.es/espana/castilla-la-mancha/toledo/fiscal-pide-tres-anos-medio-carcel-acusado-20260620211057-nt.html",
@@ -127,76 +197,6 @@
       "link": "https://www.abc.es/espana/castilla-la-mancha/muere-atropellada-mujer-anos-finca-nohales-cuenca-20260620183518-nt.html",
       "desc": "Una mujer de 66 años ha fallecido este sábado tras ser atropellada en una finca privada perteneciente al municipio de Nohales, en la provincia de Cuenca. Según ha informado el Servicio del 112 de Castilla-La Mancha, el siniestro ha tenido lugar sobre las 16:16",
       "date": "Sat, 20 Jun 2026 18:35:19 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Constatan «una subida progresiva de los principales riesgos para la salud cardiovascular» en Castilla y León",
-      "link": "https://www.abc.es/espana/castilla-leon/constatan-subida-progresiva-principales-riesgos-salud-cardiovascular-20260620182332-nt.html",
-      "desc": "Una «s ubida progresiva de los principales riesgos para la salud cardiovascular». Es una de las principales conclusiones extraídas del Estudio de Riego de Enfermedad Cardiovascular 2024 llevado a cabo a través de la Red Centinela Sanitaria de Castilla y León a",
-      "date": "Sat, 20 Jun 2026 18:23:32 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "El hospital de Ciudad Real incorpora la realidad virtual a la formación de futuros técnicos en radiodiagnóstico",
-      "link": "https://www.abc.es/espana/castilla-la-mancha/hospital-ciudad-real-incorpora-realidad-virtual-formacion-20260620181402-nt.html",
-      "desc": "El Hospital General Universitario de Ciudad Real participa en un innovador proyecto de realidad virtual que permitirá mejorar la formación práctica de los futuros técnicos en Imagen para el Diagnóstico y Medicina Nuclear mediante entornos inmersivos que recrea",
-      "date": "Sat, 20 Jun 2026 18:14:03 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Toledo cumple el deseo del emperador Carlos V",
-      "link": "https://www.abc.es/espana/castilla-la-mancha/toledo/toledo-cumple-deseo-emperador-carlos-20260620180758-nt.html",
-      "desc": "La reapertura del parque de la Vega, tras una remodelación financiada con tres millones de euros de fondos europeos, ha permitido redescubrir uno de los espacios con mayor carga histórica de Toledo . Este sábado, a través de visitas guiadas, con grupos de 25 p",
-      "date": "Sat, 20 Jun 2026 18:07:58 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Cinco heridos en un accidente en el centro de Santiago, con un causante que se dio a la fuga",
-      "link": "https://www.abc.es/espana/galicia/cinco-heridos-accidente-centro-santiago-causante-dio-20260620180418-nt.html",
-      "desc": "Susto en la capital gallega. Hasta cuatro vehículos se han visto implicados en un accidente de tráfico urbano en Santiago de Compostela, por el que dos personas han tenido que ser trasladadas al hospital. El causante se dio a la fuga y todavía no ha sido local",
-      "date": "Sat, 20 Jun 2026 18:04:18 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Todos a una: plataformas, alcaldes y partidos cierran filas en defensa del AVE a Jaén por La Mancha",
-      "link": "https://www.abc.es/espana/castilla-la-mancha/alcaldesa-alcazar-exige-ave-permitiremos-venga-arruinarnos-20260620172853-nt.html",
-      "desc": "Alcázar de San Juan y toda la comarca de La Mancha ha vuelto a alzar la voz este sábado en defensa de su futuro ferroviario y de su crecimiento económico. Unas 1.500 personas de personas , respaldadas por representantes institucionales, plataformas ciudadanas ",
-      "date": "Sat, 20 Jun 2026 17:28:53 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Bienvenidos",
-      "link": "https://www.abc.es/espana/galicia/bienvenidos-20260620171238-nt.html",
-      "desc": "Si cualquier día nos visitan extraterrestres, ¿qué pensarían de nosotros? Imaginemos que tienen cabeza, brazos y un cerebro que nos entiende. De entrada, un guía turístico les explicaría nuestras maravillas naturales y monumentales y los pondría al día sobre l",
-      "date": "Sat, 20 Jun 2026 17:12:38 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Los Puntos de Encuentro Familiar de la región atienden a casi 900 menores en los cinco primeros meses de 2026",
-      "link": "https://www.abc.es/espana/castilla-la-mancha/puntos-encuentro-familiar-region-atienden-900-menores-20260620170955-nt.html",
-      "desc": "El Gobierno de Castilla-La Mancha ha destacado la consolidación de la red regional de Puntos de Encuentro Familiar como un recurso fundamental para garantizar la protección de la infancia y el derecho de niños, niñas y adolescentes a mantener relaciones famili",
-      "date": "Sat, 20 Jun 2026 17:09:55 +0200",
       "source": "ABC",
       "color": "#c0392b",
       "feedId": "ABC",
