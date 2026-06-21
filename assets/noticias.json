@@ -1,7 +1,117 @@
 {
-  "updated": "2026-06-21T17:24:28Z",
+  "updated": "2026-06-21T19:24:01Z",
   "count": 24,
   "items": [
+    {
+      "title": "El paseo imperial demuestra que el césped es mejor alternativa que el asfalto",
+      "link": "https://www.abc.es/espana/castilla-la-mancha/toledo/paseo-imperial-cesped-mejor-alternativa-asfalto-20260621210006-nt.html",
+      "desc": "Dos siglos después de llegar a Toledo procedentes del Palacio Real de Madrid, las históricas esculturas de Wamba, Sisenando, Sisebuto, Alfonso VI, Alfonso VII y Alfonso VIII han sido testigos pétreos de carreras de velocidad, partidos de fútbol, canastas y rem",
+      "date": "Sun, 21 Jun 2026 21:01:31 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Despliegan un amplio dispositivo para rescatar a un espeleólogo herido en la cueva de Valporquero",
+      "link": "https://www.abc.es/espana/castilla-leon/amplio-dispositivo-trata-rescatar-espeleologo-herido-cueva-20260621203651-nt.html",
+      "desc": "En un paso «angosto» conocido como Paso del Reloj , antes de acceder a la conocida como Sala de Prensa. Ahí sufría una caída de unos siete metros un espeleólogo al que un amplio dispositivo trata de rescatar en l a cueva de Valporquero , en el término municipa",
+      "date": "Sun, 21 Jun 2026 20:55:20 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "El fin de semana acaba con un fallecido en las carreteras de Andalucía",
+      "link": "https://www.abc.es/espana/andalucia/fin-semana-acaba-fallecido-carreteras-andalucia-20260621204742-nts.html",
+      "desc": "El fin de semana acaba en Andalucía con un fallecido por accidente de tráfico . El único accidente mortal registrado desde el pasado viernes hasta última hora de la tarde de hoy ha tenido lugar este domingo en el kilómetro 38,2 de la carretera A-3151 a su paso",
+      "date": "Sun, 21 Jun 2026 20:47:43 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "El ejemplo que ilusiona al Córdoba CF: dos de los tres equipos con los que ascendió a Segunda División ya están en Primera",
+      "link": "https://www.abc.es/espana/andalucia/cordoba/cordoba-cf/ejemplo-ilusiona-cordoba-dos-tres-equipos-ascendio-20260621203126-nts.html",
+      "desc": "El ascenso del Málaga a Primera División tras superar al Almería en el play off ha puesto el punto final a la temporada en Segunda División. El conjunto de La Rosaleda se ha convertido en el tercer equipo en lograr el salto a la máxima categoría y culmina una ",
+      "date": "Sun, 21 Jun 2026 20:31:27 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "El calor extremo tiñe de naranja la provincia de Córdoba: la semana llega con 45 grados de máxima",
+      "link": "https://www.abc.es/espana/andalucia/cordoba/calor-extremo-tine-naranja-provincia-cordoba-semana-20260621203117-nts.html",
+      "desc": "Córdoba se prepara para recibir su primera gran jornada de calor extremo en plena ola teñida de naranja por la Agencia Estatal de Meteorología (Aemet), que prevé un importante repunte de las temperaturas durante la próxima semana. La provincia afronta un episo",
+      "date": "Sun, 21 Jun 2026 20:31:17 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "El convento de Santa Marta de Córdoba cierra tras la muerte de sor Fátima y deja atrás cinco siglos y medio de historia",
+      "link": "https://www.abc.es/espana/andalucia/cordoba/convento-santa-marta-cordoba-cierra-tras-muerte-20260621203051-nts.html",
+      "desc": "La noticia ha recorrido en las últimas horas los teléfonos como un aldabonazo, que no por esperado deja de dolor. El monasterio de Santa Marta , el convento femenino más antiguo de Córdoba, está cerrado. La muerte de su última religiosa, sor Fátima, el pasado ",
+      "date": "Sun, 21 Jun 2026 20:30:51 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Castilla y León estrena el verano con temperaturas por encima de los 40 grados... y la alerta por calor sigue",
+      "link": "https://www.abc.es/espana/castilla-leon/castilla-leon-estrena-verano-temperaturas-encima-grados-20260621202152-nt.html",
+      "desc": "Estación del sol y el calor. El verano entraba este domingo vestido con sus auténticas galas de presentación también en Castilla y León. La Comunidad estaba en alerta por ola de calor, la primera del estío de 2026, y los pronósticos no sólo se han cumplido, si",
+      "date": "Sun, 21 Jun 2026 20:25:06 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Junts elige a Jordi Martí como alcaldable por Barcelona y vence el pulso contra Puigdemont",
+      "link": "https://www.abc.es/espana/cataluna/junts-elige-xxx-alcaldable-barelona-20260621181449-nt.html",
+      "desc": "Junts per Catalunya ha escogido este sábado a Jordi Martí Galvis como candidato a la Alcaldía de Barcelona para las elecciones municipales de 2027, culminando un proceso de primarias que ha servido no solo para designar al cabeza de lista de la formación en la",
+      "date": "Sun, 21 Jun 2026 19:43:34 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Galicia entra en el verano con alerta roja y rozando los 39 grados en el interior",
+      "link": "https://www.abc.es/espana/galicia/galicia-entra-verano-alerta-roja-rozando-grados-20260621193417-nt.html",
+      "desc": "Los termómetros del interior de Galicia han rozado este domingo los 39 grados , como ya advertían las predicciones meteorológicas, durante el primer día de verano, que también ha sido el inicio de una ola de calor que azotará España hasta el miércoles. En este",
+      "date": "Sun, 21 Jun 2026 19:34:18 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "5-4: El Moprisala tumba al FC Barcelona y y conquista el Campeonato de España sub-16 de fútbol sala",
+      "link": "https://www.abc.es/espana/castilla-la-mancha/toledo/deportes/moprisala-tumba-barcelona-conquista-campeonato-espana-sub16-20260621192453-nt.html",
+      "desc": "El Moprisala ha escrito este domingo una de las páginas más brillantes de su historia al proclamarse campeón de España cadete sub-16 de fútbol sala tras derrotar por 5-4 al FC Barcelona en la final disputada en la Ciudad del Fútbol de Las Rozas (Madrid). El co",
+      "date": "Sun, 21 Jun 2026 19:24:54 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "'M4RÍA, Princesa Futbolera Guerrera', el Baby Pelón solidario de la Selección que recuerda a la pequeña salamantina",
+      "link": "https://www.abc.es/espana/castilla-leon/m4ria-princesa-futbolera-guerrera-baby-pelon-solidario-20260621192405-nt.html",
+      "desc": "Como 'Princesa futbolera guerrera'. Así era conocida María Caamaño, la pequeña salmantina a la que un Sarcoma de Ewing se llevó el pasado 16 de abril con solo trece años y media vida luchando contra la enfermedad. Siempre con una sonrisa y, a ser posible, con ",
+      "date": "Sun, 21 Jun 2026 19:24:06 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
     {
       "title": "Xavier Martí reivindica en Macarrilla la cocina marinera de Cambrils con producto, memoria y proyección gastronómica",
       "link": "https://www.abc.es/espana/cataluna/xavier-marti-reivindica-macarrilla-cocina-marinera-cambrils-20260621190610-nt.html",
@@ -87,116 +197,6 @@
       "link": "https://www.abc.es/espana/castilla-la-mancha/26500-firmas-exigen-reabrir-unidad-salud-mental-20260621175338-nt.html",
       "desc": "La Asociación Luz de la Mancha ha reunido 26.500 firmas para reclamar la reapertura de la Unidad de Hospitalización Breve (UHB) y la recuperación de la atención especializada en salud mental del Hospital Mancha Centro de Alcázar de San Juan, cuyos servicios pe",
       "date": "Sun, 21 Jun 2026 17:53:39 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Un acto vandálico obliga al Ayuntamiento de Aranda a recomendar no beber agua del grifo",
-      "link": "https://www.abc.es/espana/castilla-leon/acto-vandalico-obliga-ayuntamiento-aranda-recomendar-beber-20260621173407-nt.html",
-      "desc": "El Ayuntamiento de Aranda de Duero (Burgos) ha dictado este domingo un bando en el que «recomienda no beber agua del grifo» en la zona sur de la localidad ribereña. Firmado por el alcalde en funciones, Juan Manuel Martín, lo hace después de que uno de los punt",
-      "date": "Sun, 21 Jun 2026 17:46:25 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "El PP reacciona al auto del juez Peinado entre el «respeto» al poder judicial y el «respaldo» a la Policía Nacional",
-      "link": "https://www.abc.es/espana/pp-reacciona-auto-juez-peinado-respeto-poder-20260621173901-nt.html",
-      "desc": "El auto del juez Juan Carlos Peinado enviando a juicio y retirando el pasaporte a Begoña Gómez, mujer de Pedro Sánchez, ha generado una nueva polémica —además del ya esperado terremoto político— respecto al papel de la Policía Nacional después de sugerir la po",
-      "date": "Sun, 21 Jun 2026 17:39:02 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Última hora de los incendios en Galicia: dos fuegos activos en A Mezquita y A Capela",
-      "link": "https://www.abc.es/espana/galicia/ultima-hora-incendios-galicia-dos-fuegos-activos-20260621173837-nt.html",
-      "desc": "El incendio forestal que cruzó desde Portugal a A Mezquita (Orense) a primera hora del domingo ha calcinado hasta el momento un total de 45 hectáreas. Estas son las estimaciones comunicadas en torno a las 13.45 horas por la Consellería do Medio Rural, que dos ",
-      "date": "Sun, 21 Jun 2026 17:38:37 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Fernando Valenzuela y Juan Hinojosa, hermanos mayores del Prendimiento y el Calvario de Córdoba",
-      "link": "https://www.abc.es/espana/andalucia/cordoba/semana-santa/fernando-valenzuela-juan-hinojosa-hermanos-mayores-prendimiento-20260621173047-nts.html",
-      "desc": "El domingo por la mañana ha deparado cabildos generales de elecciones en dos cofradías vecinas del barrio de San Lorenzo y en ambos cada candidato ha recibido el respaldo necesario para ser hermano mayor. Fernando Valenzuela estará al frente de la cofradía del",
-      "date": "Sun, 21 Jun 2026 17:30:48 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Las nanopartículas, la esperanza para el tratamiento de las enfermedades del cerebro en Andalucía",
-      "link": "https://www.abc.es/espana/andalucia/nanoparticulas-esperanza-tratamiento-enfermedades-cerebro-andalucia-20260621172414-nts.html",
-      "desc": "Científicos del Sistema Sanitario Público de Andalucía están trabajando en el desarrollo de nanopartículas como «vehículos innovadores para la terapia génica que se espera puedan aplicarse en enfermedades del cerebro y de la retina». Esta línea de investigació",
-      "date": "Sun, 21 Jun 2026 17:24:15 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "El Ayuntamiento habla de «éxito incuestionable» en la Noche Blanca del Flamenco de Córdoba",
-      "link": "https://www.abc.es/espana/andalucia/cordoba/ayuntamiento-habla-exito-incuestionable-noche-blanca-flamenco-20260621172037-nts.html",
-      "desc": "El domingo ha amanecido en Córdoba quizá tarde, después de una madrugada larga. La Noche Blanca del Flamenco llenó las calles y plazas del Casco Histórico hasta una hora inusualmente tardía y el balance que hace el Ayuntamiento , organizador de la cita desde h",
-      "date": "Sun, 21 Jun 2026 17:20:37 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Monasterio Festival cancela su edición 2026",
-      "link": "https://www.abc.es/espana/madrid/monasterio-festival-cancela-edicion-2026-20260619170331-nt.html",
-      "desc": "La cascada de cancelaciones de festivales de verano ha salpicado a Madrid, con la noticia de la suspensión de la que iba a ser la segunda edición del Monasterio Festival, una cita íntima y original que se celebró por primera vez el año pasado en Pelayos de la ",
-      "date": "Sun, 21 Jun 2026 17:03:31 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Los bomberos dan por estabilizado el incendio declarado en Estivella",
-      "link": "https://www.abc.es/espana/comunidad-valenciana/incendio-estivella-movilizan-cinco-medios-aereos-cortan-20260621160804-nt.html",
-      "desc": "El Centro de Coordinación de Emergencias de la Generalitat ha movilizado diferentes dotaciones terrestres y medios aéreos tras registrarse un incendio de vegetación en la localidad valenciana de Estivella , donde también han acudido los efectivos del Consorcio",
-      "date": "Sun, 21 Jun 2026 16:08:04 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "El tiempo para las Hogueras de Alicante: Aemet prevé la temperatura «más alta desde que hay registros»",
-      "link": "https://www.abc.es/espana/comunidad-valenciana/alicante/tiempo-hogueras-alicante-aemet-preve-temperatura-alta-20260621155155-nt.html",
-      "desc": "La Agencia Estatal de Meteorología (Aemet) en la Comunidad Valenciana pronostica que la temperatura media que se registrará en las fiestas de Hogueras de Alicante 2026 será «la más alta desde que hay registros». Ya este domingo se han anotado temperaturas noct",
-      "date": "Sun, 21 Jun 2026 15:52:39 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Muere un motorista  al salirse de la carretera en Hornachuelos",
-      "link": "https://www.abc.es/espana/andalucia/cordoba/muere-motorista-salirse-carretera-hornachuelos-20260621154510-nts.html",
-      "desc": "Un motorista ha fallecido la vida en un accidente de tráfico registrado esta mañana en la carretera A-3151 en el término municipal de Hornachuelos (Córdoba), según informa el 112, perteneciente a la Agencia de Emergencias de Andalucía, adscrita a la Consejería",
-      "date": "Sun, 21 Jun 2026 15:46:11 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Bendodo a Montero: «Un culo calienta un asiento, si quieres dos no vas a estar en ninguno»",
-      "link": "https://www.abc.es/espana/andalucia/elias-bendodo-maria-jesus-montero-culo-calienta-20260621153113-nts.html",
-      "desc": "La situación de María Jesús Montero en Andalucía ha sido criticada por el vicesecretario de Política Autonómica, Municipal y Análisis Electoral del PP, Elías Bendodo, quien ha advertido a la jefa de la oposición con explicaciones muy gráficas de las consecuenc",
-      "date": "Sun, 21 Jun 2026 15:35:36 +0200",
       "source": "ABC",
       "color": "#c0392b",
       "feedId": "ABC",
