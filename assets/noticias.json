@@ -1,7 +1,37 @@
 {
-  "updated": "2026-06-21T19:24:01Z",
+  "updated": "2026-06-21T21:09:44Z",
   "count": 24,
   "items": [
+    {
+      "title": "La romería de la Virgen de la Cabeza de Priego de Córdoba cumple 50 años",
+      "link": "https://www.abc.es/espana/andalucia/cordoba/romeria-virgen-cabeza-priego-cordoba-cumple-anos-20260621223215-nts.html",
+      "desc": "La hermandad de Nuestro Padre Jesús Resucitado y María Santísima de la Cabeza de Priego de Córdoba se encuentra inmersa en una de las ediciones más emotivas y esperadas de su historia. Este año, la tradicional romería de la Virgen de la Cabeza cumple su 50 ani",
+      "date": "Sun, 21 Jun 2026 22:32:15 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "La llamada",
+      "link": "https://www.abc.es/espana/castilla-leon/llamada-20260621211855-nt.html",
+      "desc": "Cuando Quijano le dijo a Almunia que le llamara, Zapatero era un diputado prometedor y un secretario provincial de León proactivo. Malos días para el PSOE frente al PP de Aznar pero ZP defendía su bastión con fortaleza. Había sido ponente de la ley anti contra",
+      "date": "Sun, 21 Jun 2026 21:18:55 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "zap"
+    },
+    {
+      "title": "'Influencers' dentro y fuera de las aulas",
+      "link": "https://www.abc.es/espana/castilla-leon/influencers-dentro-aulas-influencers-educativos-modernizar-aulas-20260604211816-nt.html",
+      "desc": "Más de 300.000 seguidores tan solo en Instagram. Esa es la nómina de 'followers' -a los que habría que sumar Youtube, Tiktok...- que acumulan cuatro 'influencers' educativos de Castilla y León , que han visto en las redes sociales un lugar en el que continuar ",
+      "date": "Sun, 21 Jun 2026 21:18:16 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
     {
       "title": "El paseo imperial demuestra que el césped es mejor alternativa que el asfalto",
       "link": "https://www.abc.es/espana/castilla-la-mancha/toledo/paseo-imperial-cesped-mejor-alternativa-asfalto-20260621210006-nt.html",
@@ -13,7 +43,7 @@
       "caso": "other"
     },
     {
-      "title": "Despliegan un amplio dispositivo para rescatar a un espeleólogo herido en la cueva de Valporquero",
+      "title": "Una «compleja intervención» rescata a un espeleólogo que había caído por un hueco de siete metros en Valporquero",
       "link": "https://www.abc.es/espana/castilla-leon/amplio-dispositivo-trata-rescatar-espeleologo-herido-cueva-20260621203651-nt.html",
       "desc": "En un paso «angosto» conocido como Paso del Reloj , antes de acceder a la conocida como Sala de Prensa. Ahí sufría una caída de unos siete metros un espeleólogo al que un amplio dispositivo trata de rescatar en l a cueva de Valporquero , en el término municipa",
       "date": "Sun, 21 Jun 2026 20:55:20 +0200",
@@ -167,36 +197,6 @@
       "link": "https://www.abc.es/espana/galicia/arranca-huelga-comercio-alimentacion-coruna-afectara-san-20260621182905-nt.html",
       "desc": "La huelga del comercio de la alimentación --convocada por CCOO, CIG, UGT y USO-- ha arrancado este domingo como medida de presión ante la «total paralización» de la negociación de mejoras laborales y salariales. El paro se extenderá hasta el miércoles, 24 de j",
       "date": "Sun, 21 Jun 2026 18:29:39 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Controlado el incendio forestal declarado en el paraje Las Barreras de Órgiva",
-      "link": "https://www.abc.es/espana/andalucia/controlado-incendio-forestal-declarado-paraje-barreras-orgiva-20260621181952-nts.html",
-      "desc": "El Plan Infoca ha controlado a las 16.00 horas el incendio forestal en el paraje Las Barreras declarado a las 4,10 horas, en el término municipal de Órgiva ( Granada ), donde se han movilizado hasta 42 profesionales para su extinción. Según ha informado el dis",
-      "date": "Sun, 21 Jun 2026 18:19:53 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Un incendio de gran magnitud en el centro de tratamiento de residuos de Gomecello moviliza un amplio dispositivo",
-      "link": "https://www.abc.es/espana/castilla-leon/incendio-gran-magnitud-centro-tratamiento-residuos-gomecello-20260621181332-nt.html",
-      "desc": "Poco antes de las 14.50, más de medio centenar de llamadas entraba en el Centro de Emergencias de Castilla y León informado de un incendio declarado en el Centro de Tratamiento de Residuos (CTR) de Gomecello (Salamanca). Desde el primer momento, alertaban de q",
-      "date": "Sun, 21 Jun 2026 18:13:33 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "26.500 firmas exigen reabrir la unidad de salud mental de Alcázar, cerrada desde marzo",
-      "link": "https://www.abc.es/espana/castilla-la-mancha/26500-firmas-exigen-reabrir-unidad-salud-mental-20260621175338-nt.html",
-      "desc": "La Asociación Luz de la Mancha ha reunido 26.500 firmas para reclamar la reapertura de la Unidad de Hospitalización Breve (UHB) y la recuperación de la atención especializada en salud mental del Hospital Mancha Centro de Alcázar de San Juan, cuyos servicios pe",
-      "date": "Sun, 21 Jun 2026 17:53:39 +0200",
       "source": "ABC",
       "color": "#c0392b",
       "feedId": "ABC",
