@@ -1,7 +1,37 @@
 {
-  "updated": "2026-06-21T21:09:44Z",
+  "updated": "2026-06-21T23:07:44Z",
   "count": 24,
   "items": [
+    {
+      "title": "2-0: El Atlético Albacete remonta al Leioa y se va a Segunda RFEF",
+      "link": "https://www.abc.es/espana/castilla-la-mancha/toledo/deportes/atletico-albacete-remonta-leioa-segunda-rfef-20260622005409-nt.html",
+      "desc": "El Atlético Albacete militará la próxima temporada en la Segunda RFEF por primera vez en su historia después de derrotar por 2-0 a la SD Leioa en el partido de vuelta de la final del play-off, una victoria para la joven escuadra blanquilla con la que remonta e",
+      "date": "Mon, 22 Jun 2026 00:57:29 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "La batalla por Barcelona mide la autoridad de Puigdemont ante el avance de Aliança",
+      "link": "https://www.abc.es/espana/cataluna/batalla-barcelona-mide-autoridad-puigdemont-ante-avance-20260622003227-nt.html",
+      "desc": "La elección, este domingo, de Jordi Martí Galvis como candidato de Junts al Ayuntamiento de Barcelona abre una batalla que va mucho más allá de la sucesión de Xavier Trias y que afecta de lleno a la autoridad interna de Carles Puigdemont , al equilibrio del in",
+      "date": "Mon, 22 Jun 2026 00:32:27 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "La comedia negra que pregunta hasta dónde llegarías por sobrevivir llega a los Teatros Luchana",
+      "link": "https://www.abc.es/espana/madrid/agenda/comedia-negra-pregunta-llegarias-sobrevivir-llega-teatros-20260622000957-nt.html",
+      "desc": "Hay comedias que hacen reír e incomodan a partes iguales, un género al que pertenece ¿Dónde está Radojka? Desde el 4 de junio, los Teatros Luchana de Madrid acogen el estreno en España de esta producción de El Tío Caracoles, un texto que ya ha recorrido medio ",
+      "date": "Mon, 22 Jun 2026 00:11:13 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
     {
       "title": "La romería de la Virgen de la Cabeza de Priego de Córdoba cumple 50 años",
       "link": "https://www.abc.es/espana/andalucia/cordoba/romeria-virgen-cabeza-priego-cordoba-cumple-anos-20260621223215-nts.html",
@@ -167,36 +197,6 @@
       "link": "https://www.abc.es/espana/castilla-la-mancha/ola-calor-continuara-lunes-grados-castillala-mancha-20260621184442-nt.html",
       "desc": "La ola de calor continuará este lunes en Castilla-La Mancha con temperaturas superiores a los 40 grados en algunas zonas de la región, especialmente en el valle del Tajo, según la previsión de la Agencia Estatal de Meteorología (Aemet). El episodio, que ha com",
       "date": "Sun, 21 Jun 2026 18:44:42 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Dos subcampeonatos escolares de España para la Selección de Castilla-La Mancha de Ciclismo",
-      "link": "https://www.abc.es/espana/castilla-la-mancha/toledo/deportes/dos-subcampeonatos-escolares-espana-seleccion-castillala-mancha-20260621183125-nt.html",
-      "desc": "Buen arranque para la selección de Castilla-La Mancha en la 1ª jornada del Campeonato de España Escolar de Carretera 2026 que se está celebrando en la localidad madrileña de Torrejón de Ardoz. El combinado regional se llevaba dos subcampeonatos nacionales de l",
-      "date": "Sun, 21 Jun 2026 18:31:25 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Las aseguradoras atienden en  Castilla y León un percance de tráfico cada siete segundos",
-      "link": "https://www.abc.es/espana/castilla-leon/aseguradoras-atienden-castilla-leon-percance-trafico-siete-20260621183107-nt.html",
-      "desc": "Accidentes de tráfico, pero también asistencia en carretera, rotura de lunas... El teléfono de las aseguradoras para atender a los conductores no para de sonar. De hecho, en el cómputo global pasan segundos entre una y otra llamada requiriendo apoyo. Más de 60",
-      "date": "Sun, 21 Jun 2026 18:31:07 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Arranca la huelga del comercio de la alimentación en La Coruña, que también afectará a San Juan: «Va a ser un éxito»",
-      "link": "https://www.abc.es/espana/galicia/arranca-huelga-comercio-alimentacion-coruna-afectara-san-20260621182905-nt.html",
-      "desc": "La huelga del comercio de la alimentación --convocada por CCOO, CIG, UGT y USO-- ha arrancado este domingo como medida de presión ante la «total paralización» de la negociación de mejoras laborales y salariales. El paro se extenderá hasta el miércoles, 24 de j",
-      "date": "Sun, 21 Jun 2026 18:29:39 +0200",
       "source": "ABC",
       "color": "#c0392b",
       "feedId": "ABC",
