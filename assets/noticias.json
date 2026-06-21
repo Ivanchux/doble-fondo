@@ -1,7 +1,187 @@
 {
-  "updated": "2026-06-21T12:08:31Z",
+  "updated": "2026-06-21T15:48:46Z",
   "count": 24,
   "items": [
+    {
+      "title": "El PP reacciona al auto del juez Peinado entre el «respeto» al poder judicial y el «respaldo» a la Policía Nacional",
+      "link": "https://www.abc.es/espana/pp-reacciona-auto-juez-peinado-respeto-poder-20260621173901-nt.html",
+      "desc": "El auto del juez Juan Carlos Peinado enviando a juicio y retirando el pasaporte a Begoña Gómez, mujer de Pedro Sánchez, ha generado una nueva polémica —además del ya esperado terremoto político— respecto al papel de la Policía Nacional después de sugerir la po",
+      "date": "Sun, 21 Jun 2026 17:39:02 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Última hora de los incendios en Galicia: dos fuegos activos en A Mezquita y A Capela",
+      "link": "https://www.abc.es/espana/galicia/ultima-hora-incendios-galicia-dos-fuegos-activos-20260621173837-nt.html",
+      "desc": "El incendio forestal que cruzó desde Portugal a A Mezquita (Orense) a primera hora del domingo ha calcinado hasta el momento un total de 45 hectáreas. Estas son las estimaciones comunicadas en torno a las 13.45 horas por la Consellería do Medio Rural, que dos ",
+      "date": "Sun, 21 Jun 2026 17:38:37 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Fernando Valenzuela y Juan Hinojosa, hermanos mayores del Prendimiento y el Calvario de Córdoba",
+      "link": "https://www.abc.es/espana/andalucia/cordoba/semana-santa/fernando-valenzuela-juan-hinojosa-hermanos-mayores-prendimiento-20260621173047-nts.html",
+      "desc": "El domingo por la mañana ha deparado cabildos generales de elecciones en dos cofradías vecinas del barrio de San Lorenzo y en ambos cada candidato ha recibido el respaldo necesario para ser hermano mayor. Fernando Valenzuela estará al frente de la cofradía del",
+      "date": "Sun, 21 Jun 2026 17:30:48 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Las nanopartículas, la esperanza para el tratamiento de las enfermedades del cerebro en Andalucía",
+      "link": "https://www.abc.es/espana/andalucia/nanoparticulas-esperanza-tratamiento-enfermedades-cerebro-andalucia-20260621172414-nts.html",
+      "desc": "Científicos del Sistema Sanitario Público de Andalucía están trabajando en el desarrollo de nanopartículas como «vehículos innovadores para la terapia génica que se espera puedan aplicarse en enfermedades del cerebro y de la retina». Esta línea de investigació",
+      "date": "Sun, 21 Jun 2026 17:24:15 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "El Ayuntamiento habla de «éxito incuestionable» en la Noche Blanca del Flamenco de Córdoba",
+      "link": "https://www.abc.es/espana/andalucia/cordoba/ayuntamiento-habla-exito-incuestionable-noche-blanca-flamenco-20260621172037-nts.html",
+      "desc": "El domingo ha amanecido en Córdoba quizá tarde, después de una madrugada larga. La Noche Blanca del Flamenco llenó las calles y plazas del Casco Histórico hasta una hora inusualmente tardía y el balance que hace el Ayuntamiento , organizador de la cita desde h",
+      "date": "Sun, 21 Jun 2026 17:20:37 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Monasterio Festival cancela su edición 2026",
+      "link": "https://www.abc.es/espana/madrid/monasterio-festival-cancela-edicion-2026-20260619170331-nt.html",
+      "desc": "La cascada de cancelaciones de festivales de verano ha salpicado a Madrid, con la noticia de la suspensión de la que iba a ser la segunda edición del Monasterio Festival, una cita íntima y original que se celebró por primera vez el año pasado en Pelayos de la ",
+      "date": "Sun, 21 Jun 2026 17:03:31 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Incendio en Estivella: movilizan cinco medios aéreos, cortan una carretera y cierran el puerto de Sagunto",
+      "link": "https://www.abc.es/espana/comunidad-valenciana/incendio-estivella-movilizan-cinco-medios-aereos-cortan-20260621160804-nt.html",
+      "desc": "El Centro de Coordinación de Emergencias de la Generalitat ha movilizado diferentes dotaciones terrestres y medios aéreos tras registrarse un incendio de vegetación en la localidad valenciana de Estivella , donde también han acudido los efectivos del Consorcio",
+      "date": "Sun, 21 Jun 2026 16:08:04 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "El tiempo para las Hogueras de Alicante: Aemet prevé la temperatura «más alta desde que hay registros»",
+      "link": "https://www.abc.es/espana/comunidad-valenciana/alicante/tiempo-hogueras-alicante-aemet-preve-temperatura-alta-20260621155155-nt.html",
+      "desc": "La Agencia Estatal de Meteorología (Aemet) en la Comunidad Valenciana pronostica que la temperatura media que se registrará en las fiestas de Hogueras de Alicante 2026 será «la más alta desde que hay registros». Ya este domingo se han anotado temperaturas noct",
+      "date": "Sun, 21 Jun 2026 15:52:39 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Muere un motorista  al salirse de la carretera en Hornachuelos",
+      "link": "https://www.abc.es/espana/andalucia/cordoba/muere-motorista-salirse-carretera-hornachuelos-20260621154510-nts.html",
+      "desc": "Un motorista ha fallecido la vida en un accidente de tráfico registrado esta mañana en la carretera A-3151 en el término municipal de Hornachuelos (Córdoba), según informa el 112, perteneciente a la Agencia de Emergencias de Andalucía, adscrita a la Consejería",
+      "date": "Sun, 21 Jun 2026 15:46:11 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Bendodo a Montero: «Un culo calienta un asiento, si quieres dos no vas a estar en ninguno»",
+      "link": "https://www.abc.es/espana/andalucia/elias-bendodo-maria-jesus-montero-culo-calienta-20260621153113-nts.html",
+      "desc": "La situación de María Jesús Montero en Andalucía ha sido criticada por el vicesecretario de Política Autonómica, Municipal y Análisis Electoral del PP, Elías Bendodo, quien ha advertido a la jefa de la oposición con explicaciones muy gráficas de las consecuenc",
+      "date": "Sun, 21 Jun 2026 15:35:36 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "La coalición de PP y Vox en Alcalá de Henares, al borde de la ruptura",
+      "link": "https://www.abc.es/espana/madrid/coalicion-pp-vox-alcala-henares-borde-ruptura-20260621153133-nt.html",
+      "desc": "La coalición de gobierno que forman el Partido Popular y Vox en Alcalá de Henares afronta su momento más delicado, justo en la recta final del mandato de la alcaldesa, Judith Piquet, y ya hay voces que advierten de la posibilidad de una ruptura. El rechazo de ",
+      "date": "Sun, 21 Jun 2026 15:31:33 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Calera y Chozas, otro nombre en la lista negra",
+      "link": "https://www.abc.es/espana/castilla-la-mancha/toledo/pueblos/calera-chozas-nombre-lista-negra-20260621150310-nt.html",
+      "desc": "Hoy es Calera y Chozas la población que se suma a la geografía con un punto negro. No un punto en el mapa, sino una herida. Un lugar donde el trabajo, que debería ser sustento, dignidad y pan, ha vuelto a convertirse en muerte. Un trabajador de 57 años ha fall",
+      "date": "Sun, 21 Jun 2026 15:04:54 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Una rama de grandes dimensiones se desploma sobre la plaza de la Bellota de Toledo sin causar heridos",
+      "link": "https://www.abc.es/espana/castilla-la-mancha/toledo/rama-grandes-dimensiones-desploma-sobre-plaza-bellota-20260621144405-nt.html",
+      "desc": "La caída de una rama de grandes dimensiones ha movilizado este domingo a los bomberos de Toledo en la plaza de la Bellota, situada en el Casco histórico de la capital. El aviso fue recibido a las 13.20 horas y una dotación de bomberos del parque de Toeldo se d",
+      "date": "Sun, 21 Jun 2026 14:44:06 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Alianza pionera para la recuperación de lino en Galicia: «Es algo muy nuestro»",
+      "link": "https://www.abc.es/espana/galicia/rueda-impulsa-recuperacion-lino-galicia-20260617141946-nt.html",
+      "desc": "El presidente de la Xunta, Alfonso Rueda, dio este miércoles el primer paso para recuperar un cultivo que convirtió a Galicia en referente europeo hace siglos. El Gobierno gallego presentó, junto a la Fundación Adolfo Domínguez y con el apoyo de la asociación ",
+      "date": "Sun, 21 Jun 2026 14:19:46 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Los vecinos de Santa Bárbara, preocupados por la concatenación de incendios junto al barrio",
+      "link": "https://www.abc.es/espana/castilla-la-mancha/toledo/vecinos-santa-barbara-preocupados-concatenacion-incendios-junto-20260621141110-nt.html",
+      "desc": "La Asociación Vecinal Alcántara ha expresado su preocupación por los incendios que se han registrado en los últimos días en las inmediaciones de Santa Bárbara y ha reclamado explicaciones sobre las causas de estos siniestros , así como medidas para reforzar la",
+      "date": "Sun, 21 Jun 2026 14:12:45 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "La Policía rechaza las afirmaciones del juez Peinado sobre sus agentes y defiende su «honor, integridad y prestigio»",
+      "link": "https://www.abc.es/espana/policia-rechaza-afirmaciones-juez-peinado-sobre-agentes-20260621141056-nt.html",
+      "desc": "La Dirección General de la Policía Nacional ha reiterado «la más absoluta, firme y escrupulosa defensa del honor, la integridad y el prestigio» de sus funcionarios, tras las consideraciones recogidas en el auto del juez Juan Carlos Peinado en el que acuerda ab",
+      "date": "Sun, 21 Jun 2026 14:10:57 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Muere una mujer tras caer por un acantilado del Cabo Prior, en Ferrol",
+      "link": "https://www.abc.es/espana/galicia/muere-mujer-tras-caer-acantilado-cabo-prior-20260621140637-nt.html",
+      "desc": "Una mujer ha fallecido este domingo tras caer por un acantilado del cabo Prior, en Ferrol. Un amplio dispositivo se ha encargado de rescatarla y atenderla, aunque finalmente el 061 ha confirmado su muerte, que liga al fuerte golpe ocasionado por la caída. Un p",
+      "date": "Sun, 21 Jun 2026 14:06:37 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Fin de semana trágico en las playas catalanas: cuatro ahogados, tres de ellos menores, en Tarragona y Barcelona",
+      "link": "https://www.abc.es/espana/cataluna/fin-semana-negro-playas-catalanas-cuatro-muertos-20260621123356-nt.html",
+      "desc": "Arranque de temporada trágico en las playas catalanas. Desde el viernes, cuatro personas, tres de ellas menores de edad, han muerto ahogados en la costa de Tarragona y Barcelona . El accidente que mayor conmoción ha causado, al ser todas las víctimas menores d",
+      "date": "Sun, 21 Jun 2026 14:06:26 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
     {
       "title": "Zapatero y Zaplana, Julito y Javier de Paz",
       "link": "https://www.abc.es/espana/galicia/zapatero-zaplana-julito-javier-paz-20260621135933-nt.html",
@@ -17,186 +197,6 @@
       "link": "https://www.abc.es/espana/castilla-la-mancha/pp-afirma-informe-bbva-research-desmonta-triunfalismo-20260621135738-nt.html",
       "desc": "La portavoz del Partido Popular de Castilla-La Mancha, Alejandra Hernández, ha denunciado que el último informe de BBVA Research «desmonta el relato triunfalista de Emiliano García-Page» y evidencia que «el modelo económico socialista está condenando a Castill",
       "date": "Sun, 21 Jun 2026 13:58:41 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "El Corpus Chico viste de tradición las calles de León",
-      "link": "https://www.abc.es/espana/castilla-leon/corpus-chico-viste-tradicion-calles-leon-20260621133120-nt.html",
-      "desc": "El Corpus Chico vestía este domingo un año más de tradición la calles de la capital leonesa, en una celebración impulsada por la Real Cofradía del Santísimo Sacramento de Minerva y la Santa Vera Cruz, a la que en el siglo XVI la bula del papa Pablo III les oto",
-      "date": "Sun, 21 Jun 2026 13:31:21 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Castilla-La Mancha defenderá ante Hacienda un modelo de financiación pactado con todas las comunidades",
-      "link": "https://www.abc.es/espana/castilla-la-mancha/castillala-mancha-defendera-ante-hacienda-modelo-financiacion-20260621132405-nt.html",
-      "desc": "El secretario general del PSOE provincial de Ciudad Real, José Manuel Caballero, se ha referido este domingo a la reunión que mantendrá Castilla-La Mancha este lunes con el Ministerio de Hacienda para abordar el modelo de financiación autonómica, y ha traslada",
-      "date": "Sun, 21 Jun 2026 13:24:06 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Extinguido el incendio forestal declarado el sábado en La Carolina en Jaén",
-      "link": "https://www.abc.es/espana/andalucia/jaen/extinguido-incendio-forestal-carolina-jaen-20260621130228-nts.html",
-      "desc": "El Servicio de Extinción de Incendios Forestales de Andalucía, el Plan Infoca , ha dado por extinguido a las 12,15 horas de este domingo, 21 de junio, el incendio forestal ubicado en el paraje Los Guindos, en el término municipal de la localidad de La Carolina",
-      "date": "Sun, 21 Jun 2026 13:07:26 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "La Archidiócesis de Toledo celebra la primera Asamblea Sinodal del XXVI Sínodo Diocesano",
-      "link": "https://www.abc.es/espana/castilla-la-mancha/toledo/archidiocesis-toledo-celebra-primera-asamblea-sinodal-xxvi-20260621125400-nt.html",
-      "desc": "La Archidiócesis de Toledo celebró este pasado sábado la primera Asamblea Sinodal del XXVI Sínodo Diocesano , bajo el lema «Caminando juntos con Cristo». La jornada tuvo lugar en el Colegio Nuestra Señora de los Infantes y reunió a unas 160 personas, entre sac",
-      "date": "Sun, 21 Jun 2026 12:54:01 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "El plazo para elegir carrera en Córdoba cierra este lunes: fechas claves, grados demandados y primera adjudicación",
-      "link": "https://www.abc.es/espana/andalucia/cordoba/plazo-elegir-carrera-cordoba-cierra-lunes-fechas-20260621125023-nts.html",
-      "desc": "La cuenta atrás ha comenzado para miles de estudiantes cordobeses que deben elegir carrera, al menos aquellos que hicieron Selectividad en la primera semana de junio. Este lunes 22 se cierra el plazo para solicitar plaza en los grados universitarios para el cu",
-      "date": "Sun, 21 Jun 2026 12:50:24 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Emergencias activa el nivel amarillo por altas temperaturas y calor en Valencia",
-      "link": "https://www.abc.es/espana/comunidad-valenciana/emergencias-activa-nivel-amarillo-altas-temperaturas-calor-20260621124853-nt.html",
-      "desc": "El Centro de Coordinación de Emergencias de la Generalitat ha activado el aviso nivel amarillo por temperaturas máximas en el litoral norte e interior norte de la provincia de Valencia . La Conselleria de Emergencias e Interior recomienda a la población y a lo",
-      "date": "Sun, 21 Jun 2026 12:48:53 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "A juicio una red de explotación sexual de mujeres nigerianas en Málaga",
-      "link": "https://www.abc.es/espana/andalucia/malaga/consejeria-nueva-20260621123219-nts.html",
-      "desc": "La Audiencia de Málaga tiene previsto juzgar esta semana a cinco acusado de formar una red radicada en la capital malagueña, pero con ramificaciones en otros países, que supuestamente se dedicaba a la explotación sexual de mujeres migrantes a las que trasladab",
-      "date": "Sun, 21 Jun 2026 12:44:42 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "La Fiscalía pide 4 años para un hombre que arrancó parte de la oreja de otro en una pelea en Escalona",
-      "link": "https://www.abc.es/espana/castilla-la-mancha/fiscalia-pide-anos-joven-arranco-parte-oreja-20260621123842-nt.html",
-      "desc": "La Audiencia de Toledo juzgará el próximo miércoles, 24 de junio, a A.N.A., A.C.L. y J.A.M.G. por una pelea en Escalona en 2016 en la que A.N.A. habría arrancado de un mordisco parte del pabellón auditivo a A.C.L., unos hechos por los que la Fiscalía solicita ",
-      "date": "Sun, 21 Jun 2026 12:38:43 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "El CGPJ se reunirá este lunes para abordar la sombra de duda del juez Peinado sobre la Policía",
-      "link": "https://www.abc.es/espana/cgpj-reunira-lunes-abordar-sombra-duda-juez-20260621123422-nt.html",
-      "desc": "El Consejo General del Poder Judicial (CGPJ) se reunirá este lunes a las nueve de la mañana, de forma extraordinaria y presencial, para abordar la sombra de duda del juez Juan Carlos Peinado sobre la Policía Nacional, tal y como han confirmado fuentes del órga",
-      "date": "Sun, 21 Jun 2026 12:34:23 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Condenado en Jaén a 18 años de cárcel por agredir sexualmente a tres hermanas menores, hijas de un amigo",
-      "link": "https://www.abc.es/espana/andalucia/jaen/condenado-jaen-anos-carcel-agredir-sexualmente-tres-20260621122656-nts.html",
-      "desc": "La Sección Segunda de la Audiencia de Jaén ha condenado a penas que suman 18 años de cárcel a un hombre de 60 años por agredir sexualmente y de forma continuada durante dos años a tres hermanas menores de edad. En el momento de los hechos, las menores tenían e",
-      "date": "Sun, 21 Jun 2026 12:32:56 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "El Valle mira de frente a Toledo",
-      "link": "https://www.abc.es/espana/castilla-la-mancha/toledo/valle-mira-frente-toledo-20260621121851-nt.html",
-      "desc": "Acostumbrada a contemplar Toledo desde lo alto del cerro, este domingo la Virgen del Valle ha descendido para encontrarse con la ciudad en sus propias calles. No era una mañana cualquiera al otro lado del Tajo. La Reina de las Romerías había emprendido una vue",
-      "date": "Sun, 21 Jun 2026 12:20:52 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "La Xunta cree que se necesitan el «doble de inspectores» para evaluar las bajas de larga duración",
-      "link": "https://www.abc.es/espana/galicia/xunta-cree-necesitan-doble-inspectores-evaluar-bajas-20260621121538-nt.html",
-      "desc": "El conselleiro de Emprego, Comercio e Emigración, José González, ha asegurado que existe un «colapso» respecto a las bajas de larga duración -las de más de 365 días- y cree que «probablemente» sean necesarios «el doble de inspectores» para atender las mismas, ",
-      "date": "Sun, 21 Jun 2026 12:15:38 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Líneas de autobús de la EMT de Valencia para llegar a la playa en San Juan",
-      "link": "https://www.abc.es/espana/comunidad-valenciana/lineas-autobus-emt-valencia-llegar-playa-san-20260621120211-nt.html",
-      "desc": "La EMT de Valencia incrementa su capacidad de transporte público para la noche de San Juan en las líneas de playa ya reforzadas con más de 13 millones de plazas para la campaña de verano. «Para vivir esa noche mágica, y para que los ciudadanos puedan desplazar",
-      "date": "Sun, 21 Jun 2026 12:02:12 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Estafan 5.000 euros a través de un método que introduce mensajes falsos entre los reales de un banco",
-      "link": "https://www.abc.es/espana/madrid/estafan-5000-euros-traves-metodo-introduce-mensajes-20260621115552-nt.html",
-      "desc": "Mensajes falsos dentro de un hilo de conversación legítimo con un banco. Este es el método del 'smishing', una técnica fraudulenta que ha sido utilizada por dos mujeres en Madrid que han logrado estafar hasta 5.000 euros de la cuenta bancaria de una víctima. A",
-      "date": "Sun, 21 Jun 2026 11:55:52 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Fe de Ratas en CyL",
-      "link": "https://www.abc.es/espana/castilla-leon/ratas-cyl-20260619115201-nt.html",
-      "desc": "",
-      "date": "Sun, 21 Jun 2026 11:52:01 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Dos heridos al chocar su coche contra unos jabalíes en la provincia de Soria",
-      "link": "https://www.abc.es/espana/castilla-leon/dos-heridos-chocar-coche-jabalies-provincia-soria-20260621114913-nt.html",
-      "desc": "La irrupción de animales en la carretera supone uno de los principales riesgos en las carreteras. Y con una fauna silvestre al alza , hay lugares en los que es aún mayor. Precisamente la presencia de varios jabalíes en la calzada está detrás de un siniestro vi",
-      "date": "Sun, 21 Jun 2026 11:49:14 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Miles de personas se echan a la calle en Málaga para celebrar la vuelta a Primera",
-      "link": "https://www.abc.es/espana/andalucia/malaga/miles-personas-echan-calle-malaga-celebrar-ascenso-20260621110727-nts.html",
-      "desc": "Después del pitido final que certificó con el 1-2 en Almería el ascenso del Málaga a Primera , la ciudad se inundó este sábado de aficionados que llenaron las calles con sus camisetas, banderas y cánticos. Miles de personas se echaron a la calle hasta altas ho",
-      "date": "Sun, 21 Jun 2026 11:43:46 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Campaña de control de la velocidad en carreteras andaluzas en obras",
-      "link": "https://www.abc.es/espana/andalucia/campana-control-velocidad-carreteras-andaluzas-obras-20260621113612-nts.html",
-      "desc": "Nueva campaña de tráfico. La Dirección General de Tráfico (DGT) desarrollará desde este lunes hasta el domingo 28 de junio una campaña de vigilancia y control de la velocidad en las vías interurbanas en obras que afecten tanto a la calzada como a la modificaci",
-      "date": "Sun, 21 Jun 2026 11:36:13 +0200",
       "source": "ABC",
       "color": "#c0392b",
       "feedId": "ABC",
