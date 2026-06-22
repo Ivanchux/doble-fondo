@@ -1,7 +1,77 @@
 {
-  "updated": "2026-06-22T19:21:59Z",
+  "updated": "2026-06-22T21:59:15Z",
   "count": 24,
   "items": [
+    {
+      "title": "El Málaga Club de Fútbol decreta tres días de fiesta por el ascenso a Primera",
+      "link": "https://www.abc.es/espana/andalucia/malaga/malaga-club-futbol-decreta-tres-dias-fiesta-20260622223019-nts.html",
+      "desc": "El Málaga Club de Fútbol decretó el pasado sábado tres días de fiesta en la ciudad. Y así se ha cumplido desde el final del partido en Almería a este lunes con la recepción oficial. No ha parado la alegría por el ascenso del equipo a Primera. La celebración co",
+      "date": "Mon, 22 Jun 2026 22:31:02 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "La mentira: el veneno silencioso de la política",
+      "link": "https://www.abc.es/espana/castilla-leon/salvador-rus-rufino-mentira-veneno-silencioso-politica-20260622222838-nt.html",
+      "desc": "La política es una actividad noble cuando se entiende como servicio al bien común. A través de ella se organizan las instituciones, se toman decisiones que afectan a millones de personas y se construye el futuro de una sociedad. Sin embargo, existe un enemigo ",
+      "date": "Mon, 22 Jun 2026 22:28:38 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "El campeón olímpico de marcha Alex Schwazer, positivo por tercera vez en un control antidopaje",
+      "link": "https://www.abc.es/espana/campeon-olimpico-marcha-alex-schwazer-positivo-tercera-20260622214759-nt.html",
+      "desc": "Por tercera vez en su carrera, con 41 años, el marchador italiano Alex Schwazer ha dado positivo en un control de 'doping' . La confirmación de la noticia ha llegado este lunes a través de un comunicado de la Agencia Nacional Antidopaje de Alemania (NADA) a úl",
+      "date": "Mon, 22 Jun 2026 21:48:00 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Jueces en Berlín y en las Salesas",
+      "link": "https://www.abc.es/espana/jueces-berlin-salesas-20260622214716-nt.html",
+      "desc": "En la historia judicial de cualquier país democrático y constitucional siempre hay sentencias de sus máximos tribunales que constituyen un hito en la relación entre el Estado y el ciudadano o en la defensa de las libertades y derechos fundamentales. La sentenc",
+      "date": "Mon, 22 Jun 2026 21:47:16 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Juanma Moreno sobre el pacto con Vox en Andalucía: «No hay acuerdo aún. Ya quisiera yo»",
+      "link": "https://www.abc.es/espana/andalucia/juanma-moreno-sobre-pacto-vox-andalucia-acuerdo-20260622214511-nts.html",
+      "desc": "«No hay acuerdo aún. Ya quisiera yo». El presidente de la Junta de Andalucía en funciones, Juanma Moreno , ha salido de la reunión con Vox en el Parlamento de Andalucía a primera hora de la noche de este lunes sin cerrar un pacto con Vox que haga posible su in",
+      "date": "Mon, 22 Jun 2026 21:45:12 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Castilla-La Mancha se abstiene en la votación sobre el informe que avala la caza del lobo",
+      "link": "https://www.abc.es/espana/castilla-la-mancha/castillala-mancha-abstiene-votacion-sobre-informe-avala-20260622214259-nt.html",
+      "desc": "Castilla-La Mancha se ha abstenido este lunes en la votación celebrada durante la Conferencia Sectorial de Medio Ambiente sobre el informe que considera que el lobo se encuentra en un estado de conservación favorable en España y que, por tanto, puede ser objet",
+      "date": "Mon, 22 Jun 2026 21:43:00 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Desiderio Vaquerizo: «Los gladiadores se reivindicaban tras la muerte y reclamaban su profesión y sus victorias»",
+      "link": "https://www.abc.es/espana/andalucia/cordoba/desiderio-vaquerizo-gladiadores-reivindicaban-tras-muerte-reclamaban-20260622170115-nts.html",
+      "desc": "Desiderio Vaquerizo Gil (Herrera del Duque, Badajoz, 1959) aporta un dato: de los 21 epitafios y lápidas funerarias de gladiadores encontradas en España, 17 está en Córdoba, lo que habla de su importancia, pero también de que en Córdoba pudo estar, sin que tod",
+      "date": "Mon, 22 Jun 2026 21:35:45 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
     {
       "title": "Detenido por amenazar con «pegar dos tiros» a tres personas que se encontraban en la terraza de un piso",
       "link": "https://www.abc.es/espana/castilla-leon/detenido-amenazar-pegar-dos-tiros-tres-personas-20260622210307-nt.html",
@@ -127,76 +197,6 @@
       "link": "https://www.abc.es/espana/castilla-leon/alerta-riesgo-incendios-apaga-hogueras-san-juan-20260622193933-nt.html",
       "desc": "La primera ola de calor del veran o no solo ha alterado el final del curso escolar, obligando a los centros a tomar medidas preventivas, parece que también va a trastocar la Noche de San Juan, donde las hogueras y la pirotecnia suelen ser dos de sus protagonis",
       "date": "Mon, 22 Jun 2026 19:39:33 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Patrimonio autoriza la restauración de la torre norte del Castillo de Torreparedones",
-      "link": "https://www.abc.es/espana/andalucia/cordoba/patrimonio-autoriza-restauracion-torre-norte-castillo-torreparedones-20260622193811-nts.html",
-      "desc": "La Comisión Provincial de Patrimonio Histórico de Córdoba ha emitido un informe favorable sobre el proyecto de restauración de muralla y estabilización de la torre norte del castillo de Torreparedones , ubicado entre los términos municipales de Baena y Castro ",
-      "date": "Mon, 22 Jun 2026 19:38:12 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Vox acusa al PP de romper de forma «unilateral» su pacto en Alcalá de Henares",
-      "link": "https://www.abc.es/espana/madrid/vox-acusa-pp-romper-forma-unilateral-pacto-20260622193619-nt.html",
-      "desc": "La crisis entre PP y Vox en Alcalá de Henares se recrudece. La formación de Santiago Abascal acusa a los populares de romper de forma «unilateral» el pacto de Gobierno municipal y se rebela contra la decisión de la alcaldesa, Judith Piquet, de retirar la condi",
-      "date": "Mon, 22 Jun 2026 19:36:19 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Grupo PACC, Clínica Dental Eduardo López, y Esmeting Spain, ganadoras de los premios Concilia Córdoba 2026 de CECO",
-      "link": "https://www.abc.es/espana/andalucia/cordoba/grupo-pacc-clinica-dental-eduardo-lopez-esmeting-20260622193243-nts.html",
-      "desc": "La sede de CECO ha acogido el acto de entrega de los distintivos Concilia Córdoba 2026, otorgados por el Ayuntamiento de Córdoba, y que esta ocasión han recaído en Grupo PACC (categoría mediana empresa), Clínica Dental Eduardo López (categoría pequeña empresa)",
-      "date": "Mon, 22 Jun 2026 19:32:44 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "La invasión de campo deportivista podría costarle un mes de cierre a Riazor",
-      "link": "https://www.abc.es/espana/galicia/invasion-campo-deportivista-costarle-mes-cierre-riazor-20260622193004-nt.html",
-      "desc": "Un mes de cierre y una multa de 80.000 es la sanción propuesta por la Comisión Estatal contra la Violencia, el Racismo, la Xenofobia para el Deportivo de La Coruña. La penalización deriva de la invasión de campo ocurrida el 31 de mayo, cuando el deportivismo s",
-      "date": "Mon, 22 Jun 2026 19:30:04 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Más de 25.000 jóvenes de Castilla-La Mancha ya pueden solicitar el Bono Cultural Joven",
-      "link": "https://www.abc.es/espana/castilla-la-mancha/25000-jovenes-castillala-mancha-pueden-solicitar-bono-20260622192935-nt.html",
-      "desc": "Desde este lunes y hasta el próximo 31 de octubre, más de 25.000 jóvenes de Castilla-La Mancha nacidos en 2008 pueden solicitar la ayuda de 400 euros del Bono Cultural Joven 2026. Por primera vez, se podrá destinar también a la adquisición de instrumentos musi",
-      "date": "Mon, 22 Jun 2026 19:29:35 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Juanma Moreno reanuda las negociaciones con Vox en el Parlamento de Andalucía",
-      "link": "https://www.abc.es/espana/andalucia/juanma-moreno-reanuda-negociaciones-vox-parlamento-andalucia-20260622165832-nts.html",
-      "desc": "A unas horas de que se inicie la ronda de contactos entre el presidente del Parlamento andaluz, Jesús Aguirre, con los grupos parlamentarios, el presidente del PP y de la Junta de Andalucía en funciones, Juanma Moreno , ha reanudado las negociaciones con Vox p",
-      "date": "Mon, 22 Jun 2026 19:26:39 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Indignación en redes por el vídeo de dos jóvenes mostrando dos gatos aparentemente congelados",
-      "link": "https://www.abc.es/espana/galicia/indignacion-redes-video-dos-jovenes-mostrando-dos-20260622192254-nt.html",
-      "desc": "En las imágenes, una pareja muestra entre risas y comentarios jocosos a dos gatos en un estado que aparenta congelación profunda. Uno de los protagonistas ha colgado más tarde, también en sus redes, un vídeo en que niega los hechos y apunta a que el contenido ",
-      "date": "Mon, 22 Jun 2026 19:22:54 +0200",
       "source": "ABC",
       "color": "#c0392b",
       "feedId": "ABC",
