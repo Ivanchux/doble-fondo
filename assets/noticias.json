@@ -1,7 +1,157 @@
 {
-  "updated": "2026-06-21T23:07:44Z",
+  "updated": "2026-06-22T03:42:15Z",
   "count": 24,
   "items": [
+    {
+      "title": "«La pornografía se ha convertido en una escuela que erotiza la violencia y distorsiona el consentimiento»",
+      "link": "https://www.abc.es/espana/cataluna/pornografia-convertido-escuela-erotiza-violencia-distorsiona-consentimiento-20260619033337-nt.html",
+      "desc": "La noticia de una violación grupal perpetrada por menores en un centro comercial de Badalona , Màgic, llevó a la criminóloga Elena Espinosa a alumbrar 'Un delito compartido' (Bosch Editor, 2026). Primero, recurrió a los datos oficiales y constató así que en ci",
+      "date": "Mon, 22 Jun 2026 03:33:37 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Las empresas chinas de piratería asaltan las redes de la mano de ‘influencers’",
+      "link": "https://www.abc.es/espana/madrid/cientos-influencers-cobran-mediadores-chinos-criptomonedas-publicitar-20260617022009-nt.html",
+      "desc": "La digitalización y los nuevos métodos de consumo, el «lo quiero ya y barato», están reconfigurando el tráfico ilegal de prendas y otros productos que pueblan las mantas de los vendedores ambulantes irregulares y también la oferta que hacen los prescriptores d",
+      "date": "Mon, 22 Jun 2026 02:20:09 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "El más allá de Sánchez es la muerte del PSOE",
+      "link": "https://www.abc.es/espana/cataluna/alla-sanchez-muerte-psoe-20260622021333-nt.html",
+      "desc": "Elma Sáiz —Elma, la Mentirosa— emula la chulería del Número Uno desde la portavocía del Gobierno: «Hasta 2027 y más allá». Además de las elecciones suponemos que Sánchez conmemorará el décimo aniversario de las primarias en que tomó la Secretaría General del P",
+      "date": "Mon, 22 Jun 2026 02:13:33 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "El registro desmiente a Moncloa: Sánchez pidió comparecer 77 minutos después de que sus socios lo hicieran inevitable",
+      "link": "https://www.abc.es/espana/sanchez-pidio-comparecer-corrupcion-minutos-despues-socios-20260621021309-nt.html",
+      "desc": "Jueves 28 de mayo. 18.14 horas. Fuentes del Gobierno envían un mensaje a los periodistas que siguen Moncloa indicando que «Pedro Sánchez ha solicitado comparecer ante el Pleno del Congreso de los Diputados, para informar sobre la situación política relacionada",
+      "date": "Mon, 22 Jun 2026 02:13:09 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "La estrategia de Vox hasta las generales: nada que asuste ni movilice a la izquierda",
+      "link": "https://www.abc.es/espana/estrategia-vox-generales-asuste-movilice-izquierda-20260622021232-nt.html",
+      "desc": "En Vox siguen apelando a los mensajes de prudencia, de no dar por segura una victoria de la derecha por mucho que el Gobierno se esté desmoronando, mientras el PP piensa que la situación es ya irreversible. Santiago Abascal mantiene que el presidente del Gobie",
+      "date": "Mon, 22 Jun 2026 02:12:32 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "El PSOE se prepara para «elecciones en cualquier momento»: «Cuando mejor le convenga a Sánchez»",
+      "link": "https://www.abc.es/espana/psoe-prepara-elecciones-momento-mejor-convenga-sanchez-20260622021213-nt.html",
+      "desc": "El maremágnum de escándalos de corrupción que cercan al Gobierno, al PSOE y al entorno de Pedro Sánchez tienen un efecto disolvente sobre la acción del Ejecutivo. En la Moncloa ya han asumido la pérdida absoluta de control sobre la agenda política y se aferran",
+      "date": "Mon, 22 Jun 2026 02:12:13 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "El PSOE tiene su 'Kitchen' con las maniobras de Leire Díez",
+      "link": "https://www.abc.es/espana/psoe-kitchen-maniobras-leire-diez-20260621021009-nt.html",
+      "desc": "El juez de la Audiencia Nacional, Santiago Pedraz, comenzará este miércoles a tomar declaración a una lista de mandos de la Guardia Civil, del Ejército, abogados, empresarios y a la presidenta del PSOE, Cristina Narbona. Una larga agenda de comparecencias que ",
+      "date": "Mon, 22 Jun 2026 02:10:09 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "lei"
+    },
+    {
+      "title": "Las 'cloacas' del PSOE intentaron dinamitar la confesión de Aldama: «Tira de la manta en todas direcciones»",
+      "link": "https://www.abc.es/espana/cloacas-psoe-planearon-dinamitar-confesion-aldama-tira-20260617020149-nt.html",
+      "desc": "La confesión en sede judicial de Víctor de Aldama generó un dolor de muelas a las 'cloacas' del PSOE. Varios de los investigados intercambiaron ideas cuando se conoció que el empresario había pedido declarar de forma voluntaria para mostrar su colaboración con",
+      "date": "Mon, 22 Jun 2026 02:01:49 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Un registro de la UCO confirma el nexo entre la empresa familiar de una secretaria de Estado del PSOE y la trama de Leire Díez",
+      "link": "https://www.abc.es/espana/madrid/registro-uco-confirma-nexo-familia-sumelzo-trama-20260615020144-nt.html",
+      "desc": "Una tarjeta de visita de la empresa de los Sumelzo , pagos a las empresas de Joseba Antxon Alonso y cobros de transferencias de empresas que fueron rescatadas por la Sociedad Estatal de Participaciones Industriales (SEPI). Esta fue la documentación que consigu",
+      "date": "Mon, 22 Jun 2026 02:01:44 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "lei"
+    },
+    {
+      "title": "Piden la suspensión urgente de la reunión del CGPJ y paralizar cualquier decisión sobre  Peinado",
+      "link": "https://www.abc.es/espana/piden-suspension-pleno-cgpj-decida-sobre-juez-20260622020136-nt.html",
+      "desc": "Iustitia Europa, personada como acusación popular en el caso Begoña, ha presentado un escrito urgente ante el Consejo General del Poder Judicial (CGPJ) en el que solicita la suspensión de cualquier deliberación, acuerdo o actuación encaminada a la apertura de ",
+      "date": "Mon, 22 Jun 2026 02:01:36 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "En guardia contra la violencia sexual",
+      "link": "https://www.abc.es/espana/cataluna/guardia-violencia-sexual-20260619014805-nt.html",
+      "desc": "La llamada puede llegar en cualquier momento. A las tres de la mañana de un sábado, o un martes a mediodía, bien desde el juzgado o desde el propio hospital de referencia. Al otro lado del teléfono: un forense de guardia 24 horas, los 356 días del año, para ex",
+      "date": "Mon, 22 Jun 2026 01:48:05 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Prosperidad, San Blas y Estrella estrenan nuevas escaleras mecánicas en el Metro",
+      "link": "https://www.abc.es/espana/madrid/prosperidad-san-blas-estrella-estrenan-nuevas-escaleras-20260620012052-nt.html",
+      "desc": "El Metro de Madrid avanza un poco más en su Plan de Accesibilidad. Varias estaciones, en Prosperidad, San Blas y Estrella, contarán con nuevas escaleras mecánicas para facilitar el desplazamiento de los viajeros y mejorar la conexión entre la vía pública, los ",
+      "date": "Mon, 22 Jun 2026 01:20:52 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Las quejas por la limpieza de las calles de Madrid caen más de un 60% desde 2019",
+      "link": "https://www.abc.es/espana/madrid/quejas-limpieza-calles-madrid-caen-2019-20260620012027-nt.html",
+      "desc": "Los madrileños, en los últimos seis años, están cada vez menos preocupados por el estado de la limpieza de las calles de la capital. Es el sexto problema para los residentes de la ciudad, según recoge la Encuesta municipal de Calidad de Vida, cuando de 2016 a ",
+      "date": "Mon, 22 Jun 2026 01:20:27 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Madrid marca el nivel más bajo de dióxido de nitrógeno de la serie histórica",
+      "link": "https://www.abc.es/espana/madrid/madrid-marca-nivel-bajo-dioxido-nitrogeno-historia-20260620012008-nt.html",
+      "desc": "Madrid continúa mejorando sus registros de calidad del aire . Así lo muestran los datos acumulados entre enero y mayo de 2026, los cuales muestran que el dióxido de nitrógeno (NO₂) se ha rebajado a más de la mitad de lo que se alcanzó en mayo de 2019, pasando ",
+      "date": "Mon, 22 Jun 2026 01:20:08 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Del dispositivo del Papa al Metro: Madrid exhibe su modelo antiterrorista ante expertos internacionales",
+      "link": "https://www.abc.es/espana/madrid/dispositivo-papa-metro-madrid-exhibe-ante-expertos-20260617011940-nt.html",
+      "desc": "Apenas una semana después de que el Papa León XIV recorriera durante cuatro días –sin incidencias ni sobresaltos– las calles de Madrid, autoridades y expertos internacionales en seguridad se reunían para intercambiar conocimientos y experiencias antiterrorista",
+      "date": "Mon, 22 Jun 2026 01:19:40 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
     {
       "title": "2-0: El Atlético Albacete remonta al Leioa y se va a Segunda RFEF",
       "link": "https://www.abc.es/espana/castilla-la-mancha/toledo/deportes/atletico-albacete-remonta-leioa-segunda-rfef-20260622005409-nt.html",
@@ -51,156 +201,6 @@
       "color": "#c0392b",
       "feedId": "ABC",
       "caso": "zap"
-    },
-    {
-      "title": "'Influencers' dentro y fuera de las aulas",
-      "link": "https://www.abc.es/espana/castilla-leon/influencers-dentro-aulas-influencers-educativos-modernizar-aulas-20260604211816-nt.html",
-      "desc": "Más de 300.000 seguidores tan solo en Instagram. Esa es la nómina de 'followers' -a los que habría que sumar Youtube, Tiktok...- que acumulan cuatro 'influencers' educativos de Castilla y León , que han visto en las redes sociales un lugar en el que continuar ",
-      "date": "Sun, 21 Jun 2026 21:18:16 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "El paseo imperial demuestra que el césped es mejor alternativa que el asfalto",
-      "link": "https://www.abc.es/espana/castilla-la-mancha/toledo/paseo-imperial-cesped-mejor-alternativa-asfalto-20260621210006-nt.html",
-      "desc": "Dos siglos después de llegar a Toledo procedentes del Palacio Real de Madrid, las históricas esculturas de Wamba, Sisenando, Sisebuto, Alfonso VI, Alfonso VII y Alfonso VIII han sido testigos pétreos de carreras de velocidad, partidos de fútbol, canastas y rem",
-      "date": "Sun, 21 Jun 2026 21:01:31 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Una «compleja intervención» rescata a un espeleólogo que había caído por un hueco de siete metros en Valporquero",
-      "link": "https://www.abc.es/espana/castilla-leon/amplio-dispositivo-trata-rescatar-espeleologo-herido-cueva-20260621203651-nt.html",
-      "desc": "En un paso «angosto» conocido como Paso del Reloj , antes de acceder a la conocida como Sala de Prensa. Ahí sufría una caída de unos siete metros un espeleólogo al que un amplio dispositivo trata de rescatar en l a cueva de Valporquero , en el término municipa",
-      "date": "Sun, 21 Jun 2026 20:55:20 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "El fin de semana acaba con un fallecido en las carreteras de Andalucía",
-      "link": "https://www.abc.es/espana/andalucia/fin-semana-acaba-fallecido-carreteras-andalucia-20260621204742-nts.html",
-      "desc": "El fin de semana acaba en Andalucía con un fallecido por accidente de tráfico . El único accidente mortal registrado desde el pasado viernes hasta última hora de la tarde de hoy ha tenido lugar este domingo en el kilómetro 38,2 de la carretera A-3151 a su paso",
-      "date": "Sun, 21 Jun 2026 20:47:43 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "El ejemplo que ilusiona al Córdoba CF: dos de los tres equipos con los que ascendió a Segunda División ya están en Primera",
-      "link": "https://www.abc.es/espana/andalucia/cordoba/cordoba-cf/ejemplo-ilusiona-cordoba-dos-tres-equipos-ascendio-20260621203126-nts.html",
-      "desc": "El ascenso del Málaga a Primera División tras superar al Almería en el play off ha puesto el punto final a la temporada en Segunda División. El conjunto de La Rosaleda se ha convertido en el tercer equipo en lograr el salto a la máxima categoría y culmina una ",
-      "date": "Sun, 21 Jun 2026 20:31:27 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "El calor extremo tiñe de naranja la provincia de Córdoba: la semana llega con 45 grados de máxima",
-      "link": "https://www.abc.es/espana/andalucia/cordoba/calor-extremo-tine-naranja-provincia-cordoba-semana-20260621203117-nts.html",
-      "desc": "Córdoba se prepara para recibir su primera gran jornada de calor extremo en plena ola teñida de naranja por la Agencia Estatal de Meteorología (Aemet), que prevé un importante repunte de las temperaturas durante la próxima semana. La provincia afronta un episo",
-      "date": "Sun, 21 Jun 2026 20:31:17 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "El convento de Santa Marta de Córdoba cierra tras la muerte de sor Fátima y deja atrás cinco siglos y medio de historia",
-      "link": "https://www.abc.es/espana/andalucia/cordoba/convento-santa-marta-cordoba-cierra-tras-muerte-20260621203051-nts.html",
-      "desc": "La noticia ha recorrido en las últimas horas los teléfonos como un aldabonazo, que no por esperado deja de dolor. El monasterio de Santa Marta , el convento femenino más antiguo de Córdoba, está cerrado. La muerte de su última religiosa, sor Fátima, el pasado ",
-      "date": "Sun, 21 Jun 2026 20:30:51 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Castilla y León estrena el verano con temperaturas por encima de los 40 grados... y la alerta por calor sigue",
-      "link": "https://www.abc.es/espana/castilla-leon/castilla-leon-estrena-verano-temperaturas-encima-grados-20260621202152-nt.html",
-      "desc": "Estación del sol y el calor. El verano entraba este domingo vestido con sus auténticas galas de presentación también en Castilla y León. La Comunidad estaba en alerta por ola de calor, la primera del estío de 2026, y los pronósticos no sólo se han cumplido, si",
-      "date": "Sun, 21 Jun 2026 20:25:06 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Junts elige a Jordi Martí como alcaldable por Barcelona y vence el pulso contra Puigdemont",
-      "link": "https://www.abc.es/espana/cataluna/junts-elige-xxx-alcaldable-barelona-20260621181449-nt.html",
-      "desc": "Junts per Catalunya ha escogido este sábado a Jordi Martí Galvis como candidato a la Alcaldía de Barcelona para las elecciones municipales de 2027, culminando un proceso de primarias que ha servido no solo para designar al cabeza de lista de la formación en la",
-      "date": "Sun, 21 Jun 2026 19:43:34 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Galicia entra en el verano con alerta roja y rozando los 39 grados en el interior",
-      "link": "https://www.abc.es/espana/galicia/galicia-entra-verano-alerta-roja-rozando-grados-20260621193417-nt.html",
-      "desc": "Los termómetros del interior de Galicia han rozado este domingo los 39 grados , como ya advertían las predicciones meteorológicas, durante el primer día de verano, que también ha sido el inicio de una ola de calor que azotará España hasta el miércoles. En este",
-      "date": "Sun, 21 Jun 2026 19:34:18 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "5-4: El Moprisala tumba al FC Barcelona y y conquista el Campeonato de España sub-16 de fútbol sala",
-      "link": "https://www.abc.es/espana/castilla-la-mancha/toledo/deportes/moprisala-tumba-barcelona-conquista-campeonato-espana-sub16-20260621192453-nt.html",
-      "desc": "El Moprisala ha escrito este domingo una de las páginas más brillantes de su historia al proclamarse campeón de España cadete sub-16 de fútbol sala tras derrotar por 5-4 al FC Barcelona en la final disputada en la Ciudad del Fútbol de Las Rozas (Madrid). El co",
-      "date": "Sun, 21 Jun 2026 19:24:54 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "'M4RÍA, Princesa Futbolera Guerrera', el Baby Pelón solidario de la Selección que recuerda a la pequeña salamantina",
-      "link": "https://www.abc.es/espana/castilla-leon/m4ria-princesa-futbolera-guerrera-baby-pelon-solidario-20260621192405-nt.html",
-      "desc": "Como 'Princesa futbolera guerrera'. Así era conocida María Caamaño, la pequeña salmantina a la que un Sarcoma de Ewing se llevó el pasado 16 de abril con solo trece años y media vida luchando contra la enfermedad. Siempre con una sonrisa y, a ser posible, con ",
-      "date": "Sun, 21 Jun 2026 19:24:06 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Xavier Martí reivindica en Macarrilla la cocina marinera de Cambrils con producto, memoria y proyección gastronómica",
-      "link": "https://www.abc.es/espana/cataluna/xavier-marti-reivindica-macarrilla-cocina-marinera-cambrils-20260621190610-nt.html",
-      "desc": "Cambrils vuelve a reivindicarse como capital gastronómica de la Costa Daurada con una propuesta que mira al norte de Cataluña sin perder el olor a lonja, a brasa marinera y a cocina de producto. La segunda edición del Festival Mar y Montaña consolida el puente",
-      "date": "Sun, 21 Jun 2026 19:06:10 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Florida Portazgo, primer premio de Especial de las Hogueras de Alicante 2026",
-      "link": "https://www.abc.es/espana/comunidad-valenciana/alicante/florida-portazgo-primer-premio-especial-hogueras-alicante-20260621185938-nt.html",
-      "desc": "La hoguera Florida Portazgo ha resultado ganadora del primer premio de la Sección Especial del concurso de Hogueras de Alicante 2026 . El monumento, titulado 'Gènesi', es obra del artista Josué Beitia. Se trata de una creación coronada por un espectacular pulp",
-      "date": "Sun, 21 Jun 2026 18:59:39 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "La ola de calor continuará el lunes con más de 40 grados en Castilla-La Mancha",
-      "link": "https://www.abc.es/espana/castilla-la-mancha/ola-calor-continuara-lunes-grados-castillala-mancha-20260621184442-nt.html",
-      "desc": "La ola de calor continuará este lunes en Castilla-La Mancha con temperaturas superiores a los 40 grados en algunas zonas de la región, especialmente en el valle del Tajo, según la previsión de la Agencia Estatal de Meteorología (Aemet). El episodio, que ha com",
-      "date": "Sun, 21 Jun 2026 18:44:42 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
     },
     {
       "title": "“Más se perdió en la guerra de Irán”",
