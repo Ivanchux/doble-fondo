@@ -1,7 +1,17 @@
 {
-  "updated": "2026-06-23T17:48:28Z",
+  "updated": "2026-06-23T19:54:53Z",
   "count": 4,
   "items": [
+    {
+      "title": "González pide a Zapatero que devuelva las joyas y a Sánchez que dimita o convoque elecciones",
+      "link": "https://www.abc.es/espana/castilla-la-mancha/page-exige-explicaciones-sanchez-tras-sentencia-abalos-20260623193638-nt.html",
+      "desc": "El expresidente del Gobierno, Felipe González , ha elevado el tono de sus críticas al Gobierno de Pedro Sánchez al reclamar por primera vez de forma explícita que el presidente del Ejecutivo dimita o convoque elecciones ante la crisis política derivada del cas",
+      "date": "Tue, 23 Jun 2026 19:36:39 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "zap"
+    },
     {
       "title": "Un empresario asfixiado por una deuda de Bernat Soria denuncia el bloqueo del juicio contra el exministro de Zapatero",
       "link": "https://www.abc.es/espana/andalucia/empresario-asfixiado-deuda-bernat-soria-denuncia-bloqueo-20260623190934-nts.html",
@@ -13,20 +23,10 @@
       "caso": "zap"
     },
     {
-      "title": "La trama de Leire gestionó para Tubos Reunidos encuentros con Cerdán, Ortúzar y Torres",
-      "link": "https://www.lavanguardia.com/politica/20260623/11573210/trama-leire-gestiono-tubos-reunidos-encuentros-cerdan-ortuzar-torres.html",
-      "desc": "La empresa vasca pagó durante años al expresidente de la SEPI Vicente Fernández para, entre otras gestiones, le ayudara a obtener el rescate durante la pandemia&nbsp;&nbsp;",
-      "date": "23 Jun 2026 11:36:08 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
-      "caso": "lei"
-    },
-    {
-      "title": "Aldama: “Ábalos tiene mucho que decir sobre la causa Zapatero y la financiación del PSOE”",
-      "link": "https://www.lavanguardia.com/politica/20260623/11573090/aldama-sobre-abalos-coaccionado-senor-zapatero-ordenes-pedro-sanchez.html",
-      "desc": "El empresario asegura que el exministro “fue coaccionado por el señor Zapatero, a las órdenes de Pedro Sánchez”",
-      "date": "23 Jun 2026 10:02:22 +0200",
+      "title": "Zapatero busca anular los watsaps que originaron la causa contra él",
+      "link": "https://www.lavanguardia.com/politica/20260623/11573362/rodriguez-zapatero-busca-anular-origen-causa.html",
+      "desc": "Pide al juez que pregunte a la Fiscalía Anticorrupción cuál fue la autorización que solicitó para analizar conversaciones de whtasapp que provenían de la causa originaria de Francia y recurre la decisión de Calama de no reclamar las circunstancias de porqué Es",
+      "date": "23 Jun 2026 13:07:29 +0200",
       "source": "La Vanguardia",
       "color": "#8e44ad",
       "feedId": "LaVanguardia",
