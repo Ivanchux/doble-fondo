@@ -1,7 +1,37 @@
 {
-  "updated": "2026-06-23T21:28:31Z",
-  "count": 4,
+  "updated": "2026-06-23T23:04:46Z",
+  "count": 24,
   "items": [
+    {
+      "title": "Miranda de Ebro vuelve a marcar la máxima con 42 grados y el calor no da tregua",
+      "link": "https://www.abc.es/espana/castilla-leon/miranda-ebro-vuelve-marcar-maxima-grados-calor-20260623232542-nt.html",
+      "desc": "La primera ola de calor del verano sigue sin dar tregua a Castilla y León. El termómetro roza los 40 grados en distintos puntos de la Comunidad y la temperatura máxima de este martes en la Comunidad se ha vuelto a registrar en Miranda de Ebro, al norte de Burg",
+      "date": "Tue, 23 Jun 2026 23:26:46 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "El PSOE de Soria solicita la suspensión cautelar de militancia de la concejal detenida y abre un expediente interno",
+      "link": "https://www.abc.es/espana/castilla-leon/psoe-soria-solicita-suspension-cautelar-militancia-concejal-20260623230423-nt.html",
+      "desc": "El PSOE de Soria ha acordado solicitar la suspensión cautelar de militancia de la concejala de Medio Ambiente y Turismo del Ayuntamiento de Soria, Yolanda Santos, detenida durante la investigación y registro en el consistorio y abrir un expediente informativo ",
+      "date": "Tue, 23 Jun 2026 23:05:23 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Un hombre de 68 años en Almería, primera víctima mortal de la ola de calor en Andalucía",
+      "link": "https://www.abc.es/espana/andalucia/almeria/hombre-anos-almeria-primera-victima-mortal-ola-20260623222832-nts.html",
+      "desc": "La ola de calor se cobra su primera víctima mortal en Andalucía en lo que va de verano. Un hombre de 68 años ha perdido la vida este martes en Almería debido a un golpe de calor. La zona central y oriental de la comunidad autónoma encadena varias jornadas de c",
+      "date": "Tue, 23 Jun 2026 22:28:32 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
     {
       "title": "Escoltado un cayuco en El Hierro con 119 personas a bordo, entre ellas 4 niños",
       "link": "https://www.abc.es/espana/canarias/escoltado-cayuco-hierro-119-personas-bordo-ninos-20260623221420-nt.html",
@@ -13,34 +43,204 @@
       "caso": "gen"
     },
     {
-      "title": "González pide a Zapatero que devuelva las joyas y a Sánchez que dimita o convoque elecciones",
-      "link": "https://www.abc.es/espana/castilla-la-mancha/page-exige-explicaciones-sanchez-tras-sentencia-abalos-20260623193638-nt.html",
-      "desc": "El expresidente del Gobierno, Felipe González , ha elevado el tono de sus críticas al Gobierno de Pedro Sánchez al reclamar por primera vez de forma explícita que el presidente del Ejecutivo dimita o convoque elecciones ante la crisis política derivada del cas",
-      "date": "Tue, 23 Jun 2026 19:36:39 +0200",
+      "title": "Una avería eléctrica deja a viajeros del AVE en Villanueva de Córdoba: «Nos han dejado salir y beber agua»",
+      "link": "https://www.abc.es/espana/andalucia/cordoba/averia-electrica-deja-viajeros-ave-villanueva-cordoba-20260623221341-nts.html",
+      "desc": "Nueva avería en la línea de tren de Alta Velocidad Española ( AVE ) entre Madrid y Andalucía. El sistema eléctrico ha vuelto a fallar y este martes, desde las ocho de la tarde, la línea permanece cortada. Hay viajeros que permanecen en la estación de Atocha , ",
+      "date": "Tue, 23 Jun 2026 22:13:42 +0200",
       "source": "ABC",
       "color": "#c0392b",
       "feedId": "ABC",
-      "caso": "zap"
+      "caso": "other"
     },
     {
-      "title": "Zapatero busca anular los watsaps que originaron la causa contra él",
-      "link": "https://www.lavanguardia.com/politica/20260623/11573362/rodriguez-zapatero-busca-anular-origen-causa.html",
-      "desc": "Pide al juez que pregunte a la Fiscalía Anticorrupción cuál fue la autorización que solicitó para analizar conversaciones de whtasapp que provenían de la causa originaria de Francia y recurre la decisión de Calama de no reclamar las circunstancias de porqué Es",
-      "date": "23 Jun 2026 13:07:29 +0200",
+      "title": "La Junta pide a los ayuntamientos que visibilicen el compromiso con el colectivo LGTBI y coloquen banderas",
+      "link": "https://www.abc.es/espana/castilla-la-mancha/junta-pide-ayuntamientos-visibilicen-compromiso-colectivo-lgtbi-20260623214829-nt.html",
+      "desc": "La consejera de Igualdad, Sara Simón, ha hecho un llamamiento a todas las instituciones y ayuntamientos de Castilla-La Mancha para que visibilicen el compromiso con el colectivo LGTBI y coloquen la bandera en sus balcones. «Es el momento de que todas las insti",
+      "date": "Tue, 23 Jun 2026 21:48:30 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Arribas cierra filas con Nicolás tras la polémica por los jóvenes «memos»: «Se ha salido de madre»",
+      "link": "https://www.abc.es/espana/castilla-la-mancha/toledo/arribas-cierra-filas-nicolas-tras-polemica-jovenes-20260623214400-nt.html",
+      "desc": "Las primeras palabras de Javier de Antonio Arribas tras ser reelegido por aclamación como presidente de Fedeto durante otros cuatro años han sido para respaldar públicamente a Ángel Nicolás. En plena polémica por las declaraciones del presidente de Cecam sobre",
+      "date": "Tue, 23 Jun 2026 21:44:00 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "La Diputación de Córdoba destaca a Los Pedroches como «modelo de éxito socioeconómico» con Covap como «motor de su desarrollo»",
+      "link": "https://www.abc.es/espana/andalucia/cordoba/diputacion-cordoba-destaca-pedroches-modelo-exito-socioeconomico-20260623212900-nts.html",
+      "desc": "El presidente de la Diputación de Córdoba, Salvador Fuentes, ha participado durante la jornada de hoy en el II Seminario de la Cátedra de Desarrollo Comarcal, organizado por San Telmo Business School, con la colaboración de COVAP y La Caixa; «un acto que ha se",
+      "date": "Tue, 23 Jun 2026 21:29:01 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Castilla y León es la autonomía con el mayor porcentaje de aprobados en la PAU con el 98,27%",
+      "link": "https://www.abc.es/espana/castilla-leon/castilla-leon-autonomia-mayor-porcentaje-aprobados-pau-20260623212722-nt.html",
+      "desc": "Castilla y León es la autonomía con mayor porcentaje de estudiantes aprobados en la convocatoria ordinaria de la Prueba de Acceso a la Universidad (PAU) en el curso 2025/2026, con un 98,27 por ciento. Todas las comunidades se han situado en datos elevados de a",
+      "date": "Tue, 23 Jun 2026 21:27:22 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "La presunta corrupción en el Ayuntamiento de Soria sacude la política autonómica",
+      "link": "https://www.abc.es/espana/castilla-leon/presunta-corrupcion-ayuntamiento-soria-sacude-cortes-20260623210532-nt.html",
+      "desc": "Desde el Ayuntamiento del que durante casi veinte años fue alcalde el actual portavoz del Grupo Parlamentario Socialista en las Cortes de Castilla y León, Carlos Martínez ha llegado a la política autonómica el primer gran terremoto de la XII Legislatura. Todo ",
+      "date": "Tue, 23 Jun 2026 21:05:32 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "El Festival Curtocircuíto vuelve a Santiago del 30 de junio al 5 de julio: programa, películas y precios",
+      "link": "https://www.abc.es/espana/galicia/festival-curtocircuito-vuelve-santiago-junio-julio-programa-20260623210001-nt.html",
+      "desc": "El Festival Internacional de Cine Curtocircuíto regresa a Santiago de Compostela del 30 de junio al 5 de julio. Durante seis jornadas, la capital gallega se convertirá en punto de encuentro del cine contemporáneo y la creación audiovisual internacional con la ",
+      "date": "Tue, 23 Jun 2026 21:00:01 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Feijóo convertirá este miércoles a Sánchez en el centro de todas las tramas",
+      "link": "https://www.abc.es/espana/feijoo-convertira-hoy-sanchez-centro-tramas-20260624204941-nt.html",
+      "desc": "El PP está convencido de que la sentencia del caso Mascarillas, con una condena de 24 años para el exministro José Luis Ábalos, es el hito más determinante que se ha visto en la legislatura por tratarse de un fallo judicial firme, aunque «podría no ser el defi",
+      "date": "Tue, 23 Jun 2026 20:49:41 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Sánchez no alterará su hoja de ruta y saldrá al ataque en el Congreso",
+      "link": "https://www.abc.es/espana/sanchez-alterara-hoja-ruta-saldra-ataque-comparecencia-20260624204853-nt.html",
+      "desc": "El presidente del Gobierno encara este miércoles una comparecencia clave en el Congreso de los Diputados. En pleno aluvión de casos de corrupción —el último, en el Ayuntamiento de Soria — Pedro Sánchez acude a la Cámara Baja con la vocación de trasladar una im",
+      "date": "Tue, 23 Jun 2026 20:48:53 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "La Feria Taurina de San Antolín 2026 reunirá en Palencia a Morante, Roca Rey, Talavante y Diego Ventura",
+      "link": "https://www.abc.es/espana/castilla-leon/feria-taurina-san-antolin-2026-reunira-palencia-20260623203505-nt.html",
+      "desc": "La Feria Taurina de San Antolín 2026 se celebrará entre los días 29 de agosto y 2 de septiembre en Palencia con un abono compuesto por tres corridas de toros y un festejo de rejones que reunirá en el coso de Campos Góticos a algunas de las máximas figuras del ",
+      "date": "Tue, 23 Jun 2026 20:35:06 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Felipe González ve la sentencia del caso Ábalos «bien hecha, correcta y muy medida»",
+      "link": "https://www.abc.es/espana/castilla-la-mancha/felipe-gonzalez-sentencia-abalos-bien-hecha-correcta-20260623203300-nt.html",
+      "desc": "El expresidente del Gobierno Felipe González ha defendido este martes la sentencia conocida en el caso que afecta al exministro José Luis Ábalos, una resolución que ha calificado de « bien hecha, correcta , muy medida » y adoptada por unanimidad. Durante un di",
+      "date": "Tue, 23 Jun 2026 20:33:00 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "El histórico balneario gallego fundado en 1937 que hoy triunfa convertido en restaurante",
+      "link": "https://www.abc.es/espana/galicia/historico-balneario-gallego-fundado-1937-hoy-triunfa-20260623203000-nt.html",
+      "desc": "El antiguo balneario modernista de Cortegada (Orense), a orillas del río Miño, ha renacido como restaurante de la mano portuguesa de Melgaço, con el bacalao y la ternera gallega como grandes protagonistas. A orillas del Miño, en Cortegada (Orense), el históric",
+      "date": "Tue, 23 Jun 2026 20:30:00 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Una persona de 90 años muere por un golpe de calor en una residencia de Bizkaia",
+      "link": "https://www.lavanguardia.com/vida/20260623/11573704/persona-90-anos-muere-golpe-calor-residencia-bizkaia.html",
+      "desc": "El Servicio de Emergencias vasco ha atendido este martes a 44 personas a consecuencia de las altas temperaturas",
+      "date": "23 Jun 2026 20:08:35 +0200",
       "source": "La Vanguardia",
       "color": "#8e44ad",
       "feedId": "LaVanguardia",
-      "caso": "zap"
+      "caso": "other"
     },
     {
-      "title": "Tres golfos y Pedro Sánchez",
-      "link": "https://www.lavanguardia.com/opinion/20260623/11572762/tres-golfos-pedro-sanchez.html",
-      "desc": "La lectura del fallo­ que condena a Ábalos, Koldo García y Aldama produce indignación",
-      "date": "23 Jun 2026 00:05:00 +0200",
+      "title": "Estabilizan el incendio de As Fragas do Eume tras arrasar 50 hectáreas del parque natural",
+      "link": "https://www.abc.es/espana/galicia/estabilizan-incendio-fragas-eume-tras-arrasar-hectareas-20260623200443-nt.html",
+      "desc": "Los servicios de extinción desplegados han conseguido que el incendio de As Fragas do Eume quedase estabilizado tras arrasar unas 50 hectáreas del parque natural. Fue consecuencia de uno de los dos fuegos registrados en el municipio coruñés de A Capela, que se",
+      "date": "Tue, 23 Jun 2026 20:04:44 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Día trágico con dos fallecidos en las carreteras aragonesas",
+      "link": "https://www.abc.es/espana/aragon/dia-tragico-tres-fallecidos-carreteras-aragonesas-20260623195242-nt.html",
+      "desc": "Al menos dos personas han fallecido en sendos accidentes de tráfico este martes en las carreteras aragonesas. Un día negro sobre el asfalto de la comunidad. Los dos se han registrado en vías de la provincia de Zaragoza, no lejos de la capital. El primer accide",
+      "date": "Tue, 23 Jun 2026 20:03:29 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "El Museo de Pontevedra saca a la luz el cuadro y los documentos del exilio de Castelao que todo gallego debería ver una vez en la vida",
+      "link": "https://www.abc.es/espana/galicia/museo-pontevedra-saca-luz-cuadro-documentos-exilio-20260623200004-nt.html",
+      "desc": "El Museo de Pontevedra abrirá al público este jueves 'A derradeira leición do mestre', una de las obras más representativas de Alfonso Daniel Rodríguez Castelao. La exposición, que podrá visitarse hasta el 27 de septiembre en el Edificio Castelao, gira en torn",
+      "date": "Tue, 23 Jun 2026 20:00:04 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Leapmotor International abre una planta de ensamblaje de baterías en Mallén",
+      "link": "https://www.abc.es/espana/aragon/leapmotor-international-anuncia-apertura-planta-ensamblaje-baterias-20260623193741-nt.html",
+      "desc": "La compañía china Leapmotor , a través de la empresa conjunta que conforma con Stellantis, Leapmotor International, ha dado luz verde a la creación de una planta de ensamblaje de baterías en Mallén (provincia de Zaragoza), en la comarca de Campo de Borja, con ",
+      "date": "Tue, 23 Jun 2026 19:51:05 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Una IA que hace de abogado gana un juicio por impago a un trabajador",
+      "link": "https://www.lavanguardia.com/vida/20260623/11573677/ia-abogado-gana-juicio-impago-trabajador.html",
+      "desc": "El bufete Garfield AI tiene la autorización oficial para operar en contiendas judiciales en Inglaterra",
+      "date": "23 Jun 2026 19:15:34 +0200",
       "source": "La Vanguardia",
       "color": "#8e44ad",
       "feedId": "LaVanguardia",
-      "caso": "gen"
+      "caso": "other"
+    },
+    {
+      "title": "Messi y Mbappé, los goleadores históricos que lideran a sus selecciones con distintas velocidades",
+      "link": "https://www.lavanguardia.com/deportes/futbol/20260623/11573450/messi-mbappe-goleadores-historicos-lideran-selecciones-mundial-distintas-velocidades.html",
+      "desc": "El argentino, que ha anotado los cinco goles de la albiceleste, ya ha superado a Miroslav Klose como el máximo goleador en la historia de la Copa del Mundo gracias a sus 18 tantos",
+      "date": "23 Jun 2026 19:05:18 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
+    {
+      "title": "Sánchez comparece este miércoles ante el Congreso dispuesto a librar la batalla política",
+      "link": "https://www.lavanguardia.com/politica/20260623/11573638/sanchez-comparece-congreso-dispuesto-librar-batalla-politica.html",
+      "desc": "Los socios urgen reformas tangibles para recuperar la confianza de la ciudadanía",
+      "date": "23 Jun 2026 18:20:55 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
     }
   ]
 }
