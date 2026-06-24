@@ -1,9 +1,139 @@
 {
-  "updated": "2026-06-24T17:50:29Z",
+  "updated": "2026-06-24T19:40:12Z",
   "count": 24,
   "items": [
     {
-      "title": "Whitewater apuesta por Tomelloso con una nueva planta que creará 120 empleos",
+      "title": "Rutas del vino de Galicia: enoturismo por Rías Baixas, O Ribeiro y Ribeira Sacra",
+      "link": "https://www.abc.es/espana/galicia/rutas-vino-galicia-enoturismo-rias-baixas-ribeiro-20260624210000-nt.html",
+      "desc": "El verano es buena época para cambiar, al menos un día, la playa por el viñedo. Galicia es tierra de vino desde hace siglos y, en los últimos años, el enoturismo se ha consolidado como una de las formas más agradables de descubrirla. Recorrer las viñas, entrar",
+      "date": "Wed, 24 Jun 2026 21:00:00 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Detenida una turista española acusada de racismo en el aeropuerto de São Paulo",
+      "link": "https://www.abc.es/espana/detenida-turista-espanola-acusada-racismo-aeropuerto-sao-20260624202859-nt.html",
+      "desc": "La Policía Federal brasileña ha detenido este miércoles a una turista española acusada de injuria racial tras desembarcar del avión en el aeropuerto internacional de São Paulo. La mujer, cuyo vuelo provenía de la ciudad de São Luis, ha sido arrestada después d",
+      "date": "Wed, 24 Jun 2026 20:29:00 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Vicente Amigo escribe el prólogo del Festival de la Guitarra de Córdoba",
+      "link": "https://www.abc.es/espana/andalucia/cordoba/vicente-amigo-escribe-prologo-festival-guitarra-cordoba-20260624201554-nts.html",
+      "desc": "Se acabó la espera. Desde este jueves Córdoba empieza a vivir en la clave de las seis cuerdas, que empiezan a sonar en el Festival de la Guitarra . La cita de este año es singular, porque tiene su plato fuerte en la antesala, en los días anteriores, y la tiene",
+      "date": "Wed, 24 Jun 2026 20:15:54 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "El Hospital Quirón de Córdoba incorpora una nueva técnica quirúrgica para tratar las luxaciones de hombro recurrentes",
+      "link": "https://www.abc.es/espana/andalucia/cordoba/hospital-quiron-cordoba-incorpora-nueva-tecnica-quirurgica-20260624201430-nts.html",
+      "desc": "El Hospital Quirón de Córdoba ha encontrado la fórmula para tratar las luxaciones de hombro recurrentes. Ha incorporado la técnica de Latarjet por vía artroscópica para el tratamiento de la inestabilidad recurrente de hombro, una intervención de alta complejid",
+      "date": "Wed, 24 Jun 2026 20:14:31 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "El Gobierno suspende su reunión prevista con los propietarios de los chiringuitos",
+      "link": "https://www.abc.es/espana/andalucia/secretario-estado-medio-ambiente-suspende-reunion-prevista-20260624153115-nts.html",
+      "desc": "Los chiringuitos han decidido dar un paso más ante lo que consideran un nuevo ataque del Ministerio de Transición Ecológica en su afán conservacionista. La sentencia del TSJA, que afecta a uno de los establecimientos en Rota y a varias en Tarifa, ha prendido l",
+      "date": "Wed, 24 Jun 2026 20:06:35 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "PP y Vox tienen una semana para cerrar el acuerdo y hacer presidente a Juanma Moreno",
+      "link": "https://www.abc.es/espana/andalucia/pp-vox-semana-cerrar-acuerdo-haga-presidente-20260624200530-nts.html",
+      "desc": "La fecha del pleno de investidura de Juanma Moreno, fijada para los próximos 29 y 30 de junio, obligará al PP y Vox a intensificar las negociaciones en los próximos días . Será necesario cerrar un acuerdo en menos de una semana si quieren que haya investidura ",
+      "date": "Wed, 24 Jun 2026 20:05:30 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Comienza el traslado de las delegaciones de la Junta en Ciudad Real a la Ciudad Administrativa",
+      "link": "https://www.abc.es/espana/castilla-la-mancha/comienza-traslado-delegaciones-junta-ciudad-real-ciudad-20260624200053-nt.html",
+      "desc": "El Gobierno de Castilla-La Mancha ha iniciado este miércoles el traslado de los servicios de las delegaciones provinciales de la Junta de Comunidades en la provincia de Ciudad Real a la nueva Ciudad Administrativa, antiguo Hospital del Carmen , que se ha conve",
+      "date": "Wed, 24 Jun 2026 20:00:53 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Las entradas para ver a Deep Purple en Castrelos 2026 salen a la venta este jueves",
+      "link": "https://www.abc.es/espana/galicia/entradas-ver-deep-purple-castrelos-2026-salen-20260624200010-nt.html",
+      "desc": "El reloj corre para los fans del rock clásico en Vigo. El Concello ha confirmado que este jueves 25 de junio arrancan las ventas de las entradas para el concierto de Deep Purple en el Auditorio de Castrelos, el primero de los grandes conciertos del verano vigu",
+      "date": "Wed, 24 Jun 2026 20:00:10 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Eurocaja Rural refuerza su equipo directivo con el nombramiento de subdirector general y directora financiera",
+      "link": "https://www.abc.es/espana/castilla-la-mancha/toledo/eurocaja-rural-refuerza-equipo-directivo-nombramiento-subdirector-20260624195601-nt.html",
+      "desc": "La Dirección General de Eurocaja Rural ha acordado el nombramiento de Ignacio Andrés Naranjo Posada como subdirector general y de Cristina María Rubio Casares como directora financiera, en el marco del proceso de fortalecimiento de su estructura organizativa y",
+      "date": "Wed, 24 Jun 2026 19:56:02 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "A Rita Maestre y a Mónica García les salen rivales en las primarias",
+      "link": "https://www.abc.es/espana/madrid/rita-maestre-monica-garcia-salen-rivales-primarias-20260624195107-nt.html",
+      "desc": "Militantes de base de Más Madrid buscan batallar contra el modelo orgánico con el que Rita Maestre y Mónica García dirigen el partido. Esta corriente interna ha formalizado sus quejas en forma de candidatura. Bajo el nombre de Más Madrid Abierto batallarán con",
+      "date": "Wed, 24 Jun 2026 19:51:08 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Sánchez no aclara ni un solo aspecto de las tramas, se enroca y se victimiza",
+      "link": "https://www.abc.es/espana/sanchez-aclara-solo-aspecto-tramas-enroca-victimiza-20260624195100-nt.html",
+      "desc": "Pedro Sánchez pidió hace un mes comparecer a petición propia en el Congreso de los Diputados para rendir cuentas sobre «la situación política relacionada con las últimas investigaciones judiciales conocidas ». La iniciativa, sin embargo, no fue propia, sino qu",
+      "date": "Wed, 24 Jun 2026 19:51:00 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Azcón defiende la entrada del PAR en su gabinete: «Estoy cómodo en un PP aragonesista»",
+      "link": "https://www.abc.es/espana/aragon/azcon-defiende-entrada-par-gabinete-comodo-pp-20260624194703-nt.html",
+      "desc": "El presidente del Gobierno de Aragón, Jorge Azcón, ha reconocido sentirse «especialmente cómodo» en un Partido Popular «aragonesista» y ha avanzado que es una «filosofía» y una «línea política» que el PP «sin ningún género de dudas, tenía, tiene y quiere refor",
+      "date": "Wed, 24 Jun 2026 19:47:04 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Comienza la Feria Nacional del Campo en Manzanares con el fin de seguir aportando utilidad al sector agrario",
+      "link": "https://www.abc.es/espana/castilla-la-mancha/comienza-feria-nacional-campo-manzanares-fin-seguir-20260624194628-nt.html",
+      "desc": "La 64ª edición de la Feria Nacional del Campo (Fercam) se ha inaugurado este miércoles en Manzanares (Ciudad Real) con más de 200 expositores, 120.000 metros cuadrados de superficie expositiva y 50 millones de euros en maquinaria , en una cita que el president",
+      "date": "Wed, 24 Jun 2026 19:46:29 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Whitewater apuesta por Tomelloso con una nueva planta que aspira a crear 120 empleos",
       "link": "https://www.abc.es/espana/castilla-la-mancha/whitewater-apuesta-tomelloso-nueva-planta-creara-120-20260624193343-nt.html",
       "desc": "La colocación de la primera piedra de las nuevas instalaciones de la multinacional irlandesa Whitewater Group en Tomelloso sirvió este miércoles para que el presidente de Castilla-La Mancha, Emiliano García-Page, reivindicara la apuesta de la región por la ind",
       "date": "Wed, 24 Jun 2026 19:33:44 +0200",
@@ -67,136 +197,6 @@
       "link": "https://www.abc.es/espana/andalucia/granada/muere-joven-anos-precipitarse-septima-planta-almunecar-20260624190437-nts.html",
       "desc": "La Guardia Civil investiga un suceso que ha tenido lugar este miércoles 24 de junio en la localidad granadina de Almuñécar y en el que ha perdido la vida un joven de 16 años. Se precipitó desde la séptima planta -en concreto una terraza- de un piso de la calle",
       "date": "Wed, 24 Jun 2026 19:09:51 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "IU Toledo califica de «infame y vergonzosa» la reunión del alcalde con la Embajada de Israel",
-      "link": "https://www.abc.es/espana/castilla-la-mancha/toledo/iu-toledo-califica-infame-vergonzosa-reunion-alcalde-20260624190901-nt.html",
-      "desc": "El grupo municipal de Izquierda Unida en el Ayuntamiento de Toledo ha denunciado la actitud «infame y vergonzosa» del alcalde de la ciudad y de su gobierno «por consentirlo», tras la reunión que han mantenido con Dana Erlich, embajadora en funciones de Israel ",
-      "date": "Wed, 24 Jun 2026 19:09:01 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Arde la futura escuela de música de Rivas",
-      "link": "https://www.abc.es/espana/madrid/dos-heridos-incendio-edificio-municipal-obras-rivasvaciamadrid-20260624190528-nt.html",
-      "desc": "Dos personas han resultado heridas leves por inhalación de humo, de las que una ha tenido que ser trasladado al hospital de Arganda, en un incendio ocurrido sobre las 12 de la mañana de este miércoles 24 de junio en Rivas Vaciamadrid. El incidente se desarroll",
-      "date": "Wed, 24 Jun 2026 19:05:28 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "El alto nivel competitivo marca la categoría Infantil de los Juegos EMDE",
-      "link": "https://www.abc.es/espana/madrid/escuela-deporte/alto-nivel-competitivo-marca-categoria-infantil-juegos-20260624190219-nt.html",
-      "desc": "Los XXIII Juegos Escolares Nacionales EMDE de categoría Infantil han puesto este martes su punto final en Torremolinos tras seis días de competición, convivencia y aprendizaje compartido. La localidad malagueña volvió a convertirse en el epicentro del deporte ",
-      "date": "Wed, 24 Jun 2026 19:02:56 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Page anima a Villacís a volver a la política: «Este país va a necesitar gente como tú»",
-      "link": "https://www.abc.es/espana/castilla-la-mancha/toledo/page-anima-villacis-volver-politica-pais-necesitar-20260624190026-nt.html",
-      "desc": "La colocación de la primera piedra de las nuevas instalaciones de Whitewater Group en Tomelloso dejó este miércoles algo más que mensajes sobre inversión tecnológica. La exvicealcaldesa de Madrid y exdirigente destacada de Ciudadanos, Begoña Villacís, elogió l",
-      "date": "Wed, 24 Jun 2026 19:00:27 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Guía de festivales en Galicia para julio de 2026: Fechas, carteles y grandes conciertos gratuitos",
-      "link": "https://www.abc.es/espana/galicia/guia-festivales-galicia-julio-2026-fechas-carteles-20260624190001-nt.html",
-      "desc": "El mes de julio de 2026 consolida a Galicia como uno de los epicentros musicales de la península con un despliegue de festivales que abarca todos los géneros imaginables. La comunidad autónoma se prepara para recibir a decenas de miles de asistentes en una com",
-      "date": "Wed, 24 Jun 2026 19:00:01 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Santiago Auserón o 'Juan Perro', Premio de las Letras Aragonesas 2025",
-      "link": "https://www.abc.es/espana/aragon/santiago-auseron-juan-perro-premios-letras-aragonesas-20260624185623-nt.html",
-      "desc": "El Gobierno de Aragón ha decidido otorgar y así lo ha comunicado este miércoles la vicepresidenta Mar Vaquero el Premio de las Letras Aragonesas 2025 al cantante, compositor, escritor y filósofo Santiago Auserón Marruedo, nacido en Zaragoza el 25 de julio de 1",
-      "date": "Wed, 24 Jun 2026 18:56:24 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "El alcalde de Toledo, en la mascletà de las Hogueras de Alicante",
-      "link": "https://www.abc.es/espana/castilla-la-mancha/toledo/alcalde-toledo-mascleta-hogueras-alicante-20260624184832-nt.html",
-      "desc": "El alcalde de Toledo, Carlos Velázquez, ha asistido este miércoles a la tradicional mascletà de las Hogueras de Alicante , uno de los actos más emblemáticos y multitudinarios de las fiestas oficiales de la ciudad, declaradas de Interés Turístico Internacional ",
-      "date": "Wed, 24 Jun 2026 18:48:32 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Plantas cortafuego y ascensores de emergencia para evacuar 2.000 personas en 18 minutos en la Torre Moeve",
-      "link": "https://www.abc.es/espana/madrid/blindar-rascacielos-ante-emergencia-tiempos-deben-estar-20260624184529-nt.html",
-      "desc": "Suena la alarma y todos saben qué es lo siguiente. Es la señal inequívoca que precede la evacuación. Los trabajadores deben ponerse en marcha y abandonar el edificio siguiendo los mismos pasos ensayados en simulacros que, como mínimo y por legislación, realiza",
-      "date": "Wed, 24 Jun 2026 18:45:29 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Caos en las Urgencias de Toledo: «Está totalmente colapsado. Los médicos no dan más de sí»",
-      "link": "https://www.abc.es/espana/castilla-la-mancha/toledo/caos-urgencias-toledo-totalmente-colapsado-medicos-dan-20260624184300-nt.html",
-      "desc": "El sindicato CSIF ha denunciado este miércoles la «situación límite» que se está viviendo en el Servicio de Urgencias del Hospital Universitario de Toledo (HUT), donde en estos momentos hay 72 pacientes pendientes de ingreso hospitalario , cinco de ellos acumu",
-      "date": "Wed, 24 Jun 2026 18:43:01 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "El PP exige a Page el cese de Maestre por apoyar en Europa las restricciones al uso del agua para regadío",
-      "link": "https://www.abc.es/espana/castilla-la-mancha/pp-exige-page-cese-maestre-apoyar-europa-20260624184152-nt.html",
-      "desc": "El Partido Popular de Castilla-La Mancha ha exigido este miércoles al presidente regional, Emiliano García-Page, el cese inmediato de Cristina Maestre como número tres del PSOE castellanomanchego por respaldar en Europa una posición que, según los populares, p",
-      "date": "Wed, 24 Jun 2026 18:41:53 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "La declaración de amor de Lola Índigo a Galicia en O Son do Camiño",
-      "link": "https://www.abc.es/espana/galicia/declaracion-amor-lola-indigo-galicia-camino-20260624183017-nt.html",
-      "desc": "El festival O Son do Camiño vivió el pasado sábado 20 de junio uno de sus momentos más emotivos y virales de la edición de 2026. Durante su enérgica actuación en Santiago de Compostela, la cantante Lola Índigo detuvo su espectáculo para proclamar abiertamente ",
-      "date": "Wed, 24 Jun 2026 18:30:18 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "El lujoso hotel de Tenerife donde se rodó 'Oasis', la serie española que arrasa en Netflix: tiene la piscina infinita más larga de Europa",
-      "link": "https://www.abc.es/espana/canarias/lujoso-hotel-tenerife-rodo-oasis-serie-espanola-20260624182921-nt.html",
-      "desc": "'Oasis' acaba de llegar a Netflix y ya se ha colado en las listas de series que ver durante el verano. La ficción protagonizada por Ana Garcés, Tomy Aguilera y Victoria Kantch ha enganchado al público español por algo más que su reparto y su trama a lo 'The Wh",
-      "date": "Wed, 24 Jun 2026 18:29:21 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Detenido un hombre tras agredir a su pareja y tirarse por la ventana en La Coruña",
-      "link": "https://www.abc.es/espana/galicia/detenido-hombre-tras-agredir-pareja-tirarse-ventana-20260624182122-nt.html",
-      "desc": "Agentes de la Policía Nacional de La Coruña detuvieron a un hombre por presuntamente agredir a su pareja y, posteriormente, precipitarse por una ventana de la vivienda , en el Agra do Orzán. Según fuentes consultadas por Europa Press, los hechos ocurrieron a p",
-      "date": "Wed, 24 Jun 2026 18:21:22 +0200",
       "source": "ABC",
       "color": "#c0392b",
       "feedId": "ABC",
