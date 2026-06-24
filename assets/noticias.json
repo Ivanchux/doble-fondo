@@ -1,45 +1,25 @@
 {
-  "updated": "2026-06-24T07:36:20Z",
-  "count": 6,
+  "updated": "2026-06-24T10:44:50Z",
+  "count": 4,
   "items": [
     {
       "title": "Pedro Sánchez comparece en el Congreso, en directo: declaraciones sobre Ábalos, Koldo y los casos de corrupción que afectan al PSOE y última hora hoy",
       "link": "https://www.abc.es/espana/pedro-sanchez-comparece-congreso-directo-declaraciones-sobre-20260624082734-di.html",
       "desc": "El presidente del Gobierno, Pedro Sánchez, y el líder del PP, Alberto Núñez Feijóo, se enfrentan este miércoles en el Congreso en pleno choque por los casos de corrupción que afectan al PSOE y la exigencia de adelanto electoral de los 'populares' y varios soci",
-      "date": "Wed, 24 Jun 2026 08:27:35 +0200",
+      "date": "Wed, 24 Jun 2026 12:29:27 +0200",
       "source": "ABC",
       "color": "#c0392b",
       "feedId": "ABC",
       "caso": "gen"
     },
     {
-      "title": "Leire Díez señaló para «asesorar en las alturas» al bufete que el PSOE contrató para la querella del SAS",
-      "link": "https://www.abc.es/espana/andalucia/leire-diez-bufete-psoe-contrato-querella-sas-20260624140107-nts.html",
-      "desc": "«El único modo de hacer un gran trabajo es amar lo que haces». La frase es de Steve Jobs , el cofundador de Apple , y figuraba, impresa, en una de las libretas de la exmilitante del PSOE Leire Díez , investigada por coordinar una presunta red dedicada a obstac",
-      "date": "Wed, 24 Jun 2026 07:31:43 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "lei"
-    },
-    {
-      "title": "La falta de informes por escrito de Zapatero para Julio Martínez complican el futuro del expresidente",
-      "link": "https://www.abc.es/espana/falta-documentacion-sobre-informes-zapatero-julio-martinez-20260624014714-nt.html",
-      "desc": "El expresidente del Gobierno, José Luis Rodríguez Zapatero , reconoció ante el juez que le investiga por tráfico de influencias y otros seis delitos que no tiene registros documentales del trabajo de consultoría que realizó para Análisis Relevante, la compañía",
-      "date": "Wed, 24 Jun 2026 01:47:14 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "zap"
-    },
-    {
-      "title": "La UCO revela que Leire también presionó al PSE en favor del rescate de Tubos Reunidos",
-      "link": "https://www.abc.es/espana/pais-vasco/uco-revela-leire-presiono-pse-favor-rescate-20260624014705-nt.html",
-      "desc": "Tres años después de que la Sociedad Estatal de Participaciones Industriales (SEPI) autorizara un rescate por valor de 112,8 millones de euros a Tubos Reunidos , la mercantil (ahora en concurso de acreedores) tenía otros objetivos. Según la Unidad Central Oper",
-      "date": "Wed, 24 Jun 2026 01:47:05 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
+      "title": "Sánchez, en el Congreso: “Jamás conocí ni hubiera tolerado ninguna de estas prácticas”",
+      "link": "https://www.lavanguardia.com/politica/20260624/11573295/pedro-sanchez-psoe-congreso-imputacion-zapatero-ultima-hora-en-directo.html",
+      "desc": "Sánchez ha hecho un repaso a las causas que han afectado a Ábalos, Koldo, Cerdán y Leire Díez y ha sostenido que en el PSOE no hay financiación, sino algunos que se han beneficiado de negocios ilícitos",
+      "date": "24 Jun 2026 09:37:07 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
       "caso": "lei"
     },
     {
@@ -53,7 +33,7 @@
       "caso": "zap"
     },
     {
-      "title": "Felipe González pide a Zapatero que devuelva las joyas si son un regalo",
+      "title": "Felipe González pide a Zapatero que devuelva las joyas incautadas si son un regalo",
       "link": "https://www.lavanguardia.com/politica/20260623/11573728/felipe-gonzalez-pide-zapatero-devuelva-joyas-incautadas-son-regalo.html",
       "desc": "El expresidente del Gobierno pide también a Pedro Sánchez a “dimitir o convocar elecciones”",
       "date": "23 Jun 2026 21:24:33 +0200",
