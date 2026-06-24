@@ -1,66 +1,246 @@
 {
-  "updated": "2026-06-24T14:20:27Z",
-  "count": 6,
+  "updated": "2026-06-24T17:50:29Z",
+  "count": 24,
   "items": [
     {
-      "title": "Koldo García pide que no se ejecute la sentencia contra él porque se basa en la declaración «sospechosa» de Aldama",
-      "link": "https://www.abc.es/espana/koldo-garcia-pide-ejecute-sentencia-basa-declaracion-20260624155451-nt.html",
-      "desc": "Koldo García, asesor del exministro de Transportes, José Luis Ábalos, ha presentado un incidente de nulidad contra la sentencia del Tribunal Supremo que le ha condenado a 19 años y medio de prisión por delitos de corrupción. Su abogada, Leticia de la Hoz, cons",
-      "date": "Wed, 24 Jun 2026 15:54:52 +0200",
+      "title": "Whitewater apuesta por Tomelloso con una nueva planta que creará 120 empleos",
+      "link": "https://www.abc.es/espana/castilla-la-mancha/whitewater-apuesta-tomelloso-nueva-planta-creara-120-20260624193343-nt.html",
+      "desc": "La colocación de la primera piedra de las nuevas instalaciones de la multinacional irlandesa Whitewater Group en Tomelloso sirvió este miércoles para que el presidente de Castilla-La Mancha, Emiliano García-Page, reivindicara la apuesta de la región por la ind",
+      "date": "Wed, 24 Jun 2026 19:33:44 +0200",
       "source": "ABC",
       "color": "#c0392b",
       "feedId": "ABC",
-      "caso": "gen"
+      "caso": "other"
     },
     {
-      "title": "Pedro Sánchez comparece en el Congreso, en directo: declaraciones sobre Ábalos, Koldo y los casos de corrupción que afectan al PSOE y última hora hoy",
-      "link": "https://www.abc.es/espana/pedro-sanchez-comparece-congreso-directo-declaraciones-sobre-20260624082734-di.html",
-      "desc": "El presidente del Gobierno, Pedro Sánchez, y el líder del PP, Alberto Núñez Feijóo, se enfrentan este miércoles en el Congreso en pleno choque por los casos de corrupción que afectan al PSOE y la exigencia de adelanto electoral de los 'populares' y varios soci",
-      "date": "Wed, 24 Jun 2026 15:27:24 +0200",
+      "title": "Cuatro menores de Gaza llegarán el 1 de julio a Toledo y Ciudad Real para recibir asistencia sanitaria",
+      "link": "https://www.abc.es/espana/castilla-la-mancha/cuatro-menores-gaza-llegaran-julio-castillala-mancha-20260624192919-nt.html",
+      "desc": "El consejero de Sanidad de Castilla-La Mancha, Jesús Fernández Sanz, ha dado a conocer este miércoles que Castilla-La Mancha acogerá a cuatro niños de Gaza , que serán atendidos en los Hospitales Universitarios de Toledo y Ciudad Real. «Aquí vamos a recibir al",
+      "date": "Wed, 24 Jun 2026 19:29:19 +0200",
       "source": "ABC",
       "color": "#c0392b",
       "feedId": "ABC",
-      "caso": "gen"
+      "caso": "other"
     },
     {
-      "title": "Zapatero, a Gertrudis tras la detención de 'Julito': «Tenemos por delante una temporada ácida»",
-      "link": "https://www.abc.es/espana/zapatero-gertrudis-tras-detencion-julito-delante-temporada-20260624150141-nt.html",
-      "desc": "«Todo esto va a ser inevitable. Hay que asumir que tenemos una temporada por delante ácida». Esa fue la reflexión que el expresidente José Luis Rodríguez Zapatero hizo a su secretaria Gertrudis Alcanzar tras la detención de su amigo y pagador, Julio Martínez M",
-      "date": "Wed, 24 Jun 2026 15:01:42 +0200",
+      "title": "Castilla-La Mancha registra una de las mayores prevalencias de tuberculosis bovina de España",
+      "link": "https://www.abc.es/espana/castilla-la-mancha/castillala-mancha-registra-mayores-prevalencias-tuberculosis-bovina-20260624164901-nt.html",
+      "desc": "Castilla-La Mancha se encuentra entre las comunidades autónomas con mayor prevalencia de tuberculosis bovina de España, una situación que, según Asaja, demuestra la necesidad de modificar la estrategia aplicada hasta ahora para combatir la enfermedad. La organ",
+      "date": "Wed, 24 Jun 2026 19:23:29 +0200",
       "source": "ABC",
       "color": "#c0392b",
       "feedId": "ABC",
-      "caso": "zap"
+      "caso": "other"
     },
     {
-      "title": "Sánchez, en el Congreso: “Jamás conocí ni hubiera tolerado ninguna de estas prácticas”",
-      "link": "https://www.lavanguardia.com/politica/20260624/11573295/pedro-sanchez-psoe-congreso-imputacion-zapatero-ultima-hora-en-directo.html",
-      "desc": "Sánchez ha hecho un repaso a las causas que han afectado a Ábalos, Koldo, Cerdán y Leire Díez y ha sostenido que en el PSOE no hay financiación, sino algunos que se han beneficiado de negocios ilícitos",
-      "date": "24 Jun 2026 09:37:07 +0200",
+      "title": "El Ministerio de Cultura ofrece apoyo técnico a Talavera para analizar el estado de las murallas",
+      "link": "https://www.abc.es/espana/castilla-la-mancha/toledo/talavera/ministerio-cultura-ofrece-apoyo-tecnico-talavera-analizar-20260624192239-nt.html",
+      "desc": "El alcalde de Talavera de la Reina, José Julián Gregorio, ha avanzado que el Ministerio de Cultura le ha trasladado su disposición para colaborar en el análisis de la situación de las murallas de la ciudad tras la carta que le envió el propio alcalde, donde le",
+      "date": "Wed, 24 Jun 2026 19:22:39 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Vox salda su deuda con el banco húngaro que adquirió en los dos ejercicios anteriores",
+      "link": "https://www.abc.es/espana/vox-salda-deuda-banco-hungaro-adquirio-dos-20260624191445-nt.html",
+      "desc": "Vox consiguió durante el año 2025 saldar la deuda que adquirió en los dos ejercicios anteriores con el banco húngaro MBH Bank para hacer frente a las elecciones generales y las europeas, además, ese mismo año obtuvo unos importes que ascienden a 1,7 millones d",
+      "date": "Wed, 24 Jun 2026 19:15:36 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Hallan con su madre, que ya lo secuestró en 2021, al niño de 12 años desaparecido de un centro tutelado",
+      "link": "https://www.abc.es/espana/madrid/hallan-madre-nino-anos-desaparecido-centro-tutelado-20260624191439-nt.html",
+      "desc": "Han sido necesarios 35 largos días para hallar a Izan C. R., el niño de 12 años desaparecido el 19 de mayo de un centro de menores tutelado de Aranjuez. La Policía ha encontrado al menor en Torrevieja, acompañado de su madre, Nieves B. R,, quien está precisame",
+      "date": "Wed, 24 Jun 2026 19:14:39 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Muere un joven de 16 años al precipitarse desde una séptima planta en Almuñécar",
+      "link": "https://www.abc.es/espana/andalucia/granada/muere-joven-anos-precipitarse-septima-planta-almunecar-20260624190437-nts.html",
+      "desc": "La Guardia Civil investiga un suceso que ha tenido lugar este miércoles 24 de junio en la localidad granadina de Almuñécar y en el que ha perdido la vida un joven de 16 años. Se precipitó desde la séptima planta -en concreto una terraza- de un piso de la calle",
+      "date": "Wed, 24 Jun 2026 19:09:51 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "IU Toledo califica de «infame y vergonzosa» la reunión del alcalde con la Embajada de Israel",
+      "link": "https://www.abc.es/espana/castilla-la-mancha/toledo/iu-toledo-califica-infame-vergonzosa-reunion-alcalde-20260624190901-nt.html",
+      "desc": "El grupo municipal de Izquierda Unida en el Ayuntamiento de Toledo ha denunciado la actitud «infame y vergonzosa» del alcalde de la ciudad y de su gobierno «por consentirlo», tras la reunión que han mantenido con Dana Erlich, embajadora en funciones de Israel ",
+      "date": "Wed, 24 Jun 2026 19:09:01 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Arde la futura escuela de música de Rivas",
+      "link": "https://www.abc.es/espana/madrid/dos-heridos-incendio-edificio-municipal-obras-rivasvaciamadrid-20260624190528-nt.html",
+      "desc": "Dos personas han resultado heridas leves por inhalación de humo, de las que una ha tenido que ser trasladado al hospital de Arganda, en un incendio ocurrido sobre las 12 de la mañana de este miércoles 24 de junio en Rivas Vaciamadrid. El incidente se desarroll",
+      "date": "Wed, 24 Jun 2026 19:05:28 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "El alto nivel competitivo marca la categoría Infantil de los Juegos EMDE",
+      "link": "https://www.abc.es/espana/madrid/escuela-deporte/alto-nivel-competitivo-marca-categoria-infantil-juegos-20260624190219-nt.html",
+      "desc": "Los XXIII Juegos Escolares Nacionales EMDE de categoría Infantil han puesto este martes su punto final en Torremolinos tras seis días de competición, convivencia y aprendizaje compartido. La localidad malagueña volvió a convertirse en el epicentro del deporte ",
+      "date": "Wed, 24 Jun 2026 19:02:56 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Page anima a Villacís a volver a la política: «Este país va a necesitar gente como tú»",
+      "link": "https://www.abc.es/espana/castilla-la-mancha/toledo/page-anima-villacis-volver-politica-pais-necesitar-20260624190026-nt.html",
+      "desc": "La colocación de la primera piedra de las nuevas instalaciones de Whitewater Group en Tomelloso dejó este miércoles algo más que mensajes sobre inversión tecnológica. La exvicealcaldesa de Madrid y exdirigente destacada de Ciudadanos, Begoña Villacís, elogió l",
+      "date": "Wed, 24 Jun 2026 19:00:27 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Guía de festivales en Galicia para julio de 2026: Fechas, carteles y grandes conciertos gratuitos",
+      "link": "https://www.abc.es/espana/galicia/guia-festivales-galicia-julio-2026-fechas-carteles-20260624190001-nt.html",
+      "desc": "El mes de julio de 2026 consolida a Galicia como uno de los epicentros musicales de la península con un despliegue de festivales que abarca todos los géneros imaginables. La comunidad autónoma se prepara para recibir a decenas de miles de asistentes en una com",
+      "date": "Wed, 24 Jun 2026 19:00:01 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Santiago Auserón o 'Juan Perro', Premio de las Letras Aragonesas 2025",
+      "link": "https://www.abc.es/espana/aragon/santiago-auseron-juan-perro-premios-letras-aragonesas-20260624185623-nt.html",
+      "desc": "El Gobierno de Aragón ha decidido otorgar y así lo ha comunicado este miércoles la vicepresidenta Mar Vaquero el Premio de las Letras Aragonesas 2025 al cantante, compositor, escritor y filósofo Santiago Auserón Marruedo, nacido en Zaragoza el 25 de julio de 1",
+      "date": "Wed, 24 Jun 2026 18:56:24 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "El alcalde de Toledo, en la mascletà de las Hogueras de Alicante",
+      "link": "https://www.abc.es/espana/castilla-la-mancha/toledo/alcalde-toledo-mascleta-hogueras-alicante-20260624184832-nt.html",
+      "desc": "El alcalde de Toledo, Carlos Velázquez, ha asistido este miércoles a la tradicional mascletà de las Hogueras de Alicante , uno de los actos más emblemáticos y multitudinarios de las fiestas oficiales de la ciudad, declaradas de Interés Turístico Internacional ",
+      "date": "Wed, 24 Jun 2026 18:48:32 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Plantas cortafuego y ascensores de emergencia para evacuar 2.000 personas en 18 minutos en la Torre Moeve",
+      "link": "https://www.abc.es/espana/madrid/blindar-rascacielos-ante-emergencia-tiempos-deben-estar-20260624184529-nt.html",
+      "desc": "Suena la alarma y todos saben qué es lo siguiente. Es la señal inequívoca que precede la evacuación. Los trabajadores deben ponerse en marcha y abandonar el edificio siguiendo los mismos pasos ensayados en simulacros que, como mínimo y por legislación, realiza",
+      "date": "Wed, 24 Jun 2026 18:45:29 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Caos en las Urgencias de Toledo: «Está totalmente colapsado. Los médicos no dan más de sí»",
+      "link": "https://www.abc.es/espana/castilla-la-mancha/toledo/caos-urgencias-toledo-totalmente-colapsado-medicos-dan-20260624184300-nt.html",
+      "desc": "El sindicato CSIF ha denunciado este miércoles la «situación límite» que se está viviendo en el Servicio de Urgencias del Hospital Universitario de Toledo (HUT), donde en estos momentos hay 72 pacientes pendientes de ingreso hospitalario , cinco de ellos acumu",
+      "date": "Wed, 24 Jun 2026 18:43:01 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "El PP exige a Page el cese de Maestre por apoyar en Europa las restricciones al uso del agua para regadío",
+      "link": "https://www.abc.es/espana/castilla-la-mancha/pp-exige-page-cese-maestre-apoyar-europa-20260624184152-nt.html",
+      "desc": "El Partido Popular de Castilla-La Mancha ha exigido este miércoles al presidente regional, Emiliano García-Page, el cese inmediato de Cristina Maestre como número tres del PSOE castellanomanchego por respaldar en Europa una posición que, según los populares, p",
+      "date": "Wed, 24 Jun 2026 18:41:53 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "La declaración de amor de Lola Índigo a Galicia en O Son do Camiño",
+      "link": "https://www.abc.es/espana/galicia/declaracion-amor-lola-indigo-galicia-camino-20260624183017-nt.html",
+      "desc": "El festival O Son do Camiño vivió el pasado sábado 20 de junio uno de sus momentos más emotivos y virales de la edición de 2026. Durante su enérgica actuación en Santiago de Compostela, la cantante Lola Índigo detuvo su espectáculo para proclamar abiertamente ",
+      "date": "Wed, 24 Jun 2026 18:30:18 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "El lujoso hotel de Tenerife donde se rodó 'Oasis', la serie española que arrasa en Netflix: tiene la piscina infinita más larga de Europa",
+      "link": "https://www.abc.es/espana/canarias/lujoso-hotel-tenerife-rodo-oasis-serie-espanola-20260624182921-nt.html",
+      "desc": "'Oasis' acaba de llegar a Netflix y ya se ha colado en las listas de series que ver durante el verano. La ficción protagonizada por Ana Garcés, Tomy Aguilera y Victoria Kantch ha enganchado al público español por algo más que su reparto y su trama a lo 'The Wh",
+      "date": "Wed, 24 Jun 2026 18:29:21 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Detenido un hombre tras agredir a su pareja y tirarse por la ventana en La Coruña",
+      "link": "https://www.abc.es/espana/galicia/detenido-hombre-tras-agredir-pareja-tirarse-ventana-20260624182122-nt.html",
+      "desc": "Agentes de la Policía Nacional de La Coruña detuvieron a un hombre por presuntamente agredir a su pareja y, posteriormente, precipitarse por una ventana de la vivienda , en el Agra do Orzán. Según fuentes consultadas por Europa Press, los hechos ocurrieron a p",
+      "date": "Wed, 24 Jun 2026 18:21:22 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Italia autorizó hasta 500 vuelos militares con destino a Irán, según Mark Rutte",
+      "link": "https://www.lavanguardia.com/internacional/20260624/11574315/italia-autorizo-vuelos-militares-iran-mark-rutte.html",
+      "desc": "Polémica en Italia, que siempre había sostenido que nunca cedió la base de Sigonella para la guerra",
+      "date": "24 Jun 2026 17:29:49 +0200",
       "source": "La Vanguardia",
       "color": "#8e44ad",
       "feedId": "LaVanguardia",
-      "caso": "lei"
+      "caso": "other"
     },
     {
-      "title": "Una mancha difícil de tapar",
-      "link": "https://www.lavanguardia.com/opinion/20260624/11573742/mancha-dificil-tapar.html",
-      "desc": "La ley de Dependencia fue una bienintencionada iniciativa del gobierno de José Luis Rodríguez Zapatero",
-      "date": "24 Jun 2026 00:05:00 +0200",
+      "title": "Dimite el militar de mayor rango de EE.UU. en Europa",
+      "link": "https://www.lavanguardia.com/internacional/20260624/11574305/dimite-militar-mayor-rango-ee-uu-europa.html",
+      "desc": "Chris Donahue fue el último soldado de los Estados Unidos en abandonar Afganistán en 2021",
+      "date": "24 Jun 2026 16:59:23 +0200",
       "source": "La Vanguardia",
       "color": "#8e44ad",
       "feedId": "LaVanguardia",
-      "caso": "zap"
+      "caso": "other"
     },
     {
-      "title": "Felipe González pide a Zapatero que devuelva las joyas incautadas si son un regalo",
-      "link": "https://www.lavanguardia.com/politica/20260623/11573728/felipe-gonzalez-pide-zapatero-devuelva-joyas-incautadas-son-regalo.html",
-      "desc": "El expresidente del Gobierno pide también a Pedro Sánchez a “dimitir o convocar elecciones”",
-      "date": "23 Jun 2026 21:24:33 +0200",
+      "title": "España registra 108 muertes asociadas a las altas temperaturas en solo cuatro días",
+      "link": "https://www.lavanguardia.com/vida/20260624/11574298/espana-registra-108-muertes-asociadas-altas-temperaturas-cuatro-dias.html",
+      "desc": "El 98% de los fallecidos tenía más de 65 años y la mayoría murió este martes",
+      "date": "24 Jun 2026 16:55:39 +0200",
       "source": "La Vanguardia",
       "color": "#8e44ad",
       "feedId": "LaVanguardia",
-      "caso": "zap"
+      "caso": "other"
+    },
+    {
+      "title": "La ola de calor registra los dos días de junio más calurosos en España desde 1950",
+      "link": "https://www.lavanguardia.com/natural/20260624/11574287/ola-calor-registra-dos-dias-junio-mas-calurosos-espana-1950.html",
+      "desc": "La temperatura media de esos dos días supera la del 30 de junio de 2025, que hasta ahora ostentaba el récord.",
+      "date": "24 Jun 2026 16:36:53 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
     }
   ]
 }
