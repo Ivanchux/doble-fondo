@@ -1,16 +1,36 @@
 {
-  "updated": "2026-06-24T10:44:50Z",
-  "count": 4,
+  "updated": "2026-06-24T14:20:27Z",
+  "count": 6,
   "items": [
     {
-      "title": "Pedro Sánchez comparece en el Congreso, en directo: declaraciones sobre Ábalos, Koldo y los casos de corrupción que afectan al PSOE y última hora hoy",
-      "link": "https://www.abc.es/espana/pedro-sanchez-comparece-congreso-directo-declaraciones-sobre-20260624082734-di.html",
-      "desc": "El presidente del Gobierno, Pedro Sánchez, y el líder del PP, Alberto Núñez Feijóo, se enfrentan este miércoles en el Congreso en pleno choque por los casos de corrupción que afectan al PSOE y la exigencia de adelanto electoral de los 'populares' y varios soci",
-      "date": "Wed, 24 Jun 2026 12:29:27 +0200",
+      "title": "Koldo García pide que no se ejecute la sentencia contra él porque se basa en la declaración «sospechosa» de Aldama",
+      "link": "https://www.abc.es/espana/koldo-garcia-pide-ejecute-sentencia-basa-declaracion-20260624155451-nt.html",
+      "desc": "Koldo García, asesor del exministro de Transportes, José Luis Ábalos, ha presentado un incidente de nulidad contra la sentencia del Tribunal Supremo que le ha condenado a 19 años y medio de prisión por delitos de corrupción. Su abogada, Leticia de la Hoz, cons",
+      "date": "Wed, 24 Jun 2026 15:54:52 +0200",
       "source": "ABC",
       "color": "#c0392b",
       "feedId": "ABC",
       "caso": "gen"
+    },
+    {
+      "title": "Pedro Sánchez comparece en el Congreso, en directo: declaraciones sobre Ábalos, Koldo y los casos de corrupción que afectan al PSOE y última hora hoy",
+      "link": "https://www.abc.es/espana/pedro-sanchez-comparece-congreso-directo-declaraciones-sobre-20260624082734-di.html",
+      "desc": "El presidente del Gobierno, Pedro Sánchez, y el líder del PP, Alberto Núñez Feijóo, se enfrentan este miércoles en el Congreso en pleno choque por los casos de corrupción que afectan al PSOE y la exigencia de adelanto electoral de los 'populares' y varios soci",
+      "date": "Wed, 24 Jun 2026 15:27:24 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "gen"
+    },
+    {
+      "title": "Zapatero, a Gertrudis tras la detención de 'Julito': «Tenemos por delante una temporada ácida»",
+      "link": "https://www.abc.es/espana/zapatero-gertrudis-tras-detencion-julito-delante-temporada-20260624150141-nt.html",
+      "desc": "«Todo esto va a ser inevitable. Hay que asumir que tenemos una temporada por delante ácida». Esa fue la reflexión que el expresidente José Luis Rodríguez Zapatero hizo a su secretaria Gertrudis Alcanzar tras la detención de su amigo y pagador, Julio Martínez M",
+      "date": "Wed, 24 Jun 2026 15:01:42 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "zap"
     },
     {
       "title": "Sánchez, en el Congreso: “Jamás conocí ni hubiera tolerado ninguna de estas prácticas”",
