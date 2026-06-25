@@ -1,46 +1,246 @@
 {
-  "updated": "2026-06-25T02:47:31Z",
-  "count": 4,
+  "updated": "2026-06-25T07:38:29Z",
+  "count": 24,
   "items": [
     {
-      "title": "Zapatero pidió a su escolta el «papel» del Pollo Carvajal que decía que tenía una mina de oro",
-      "link": "https://www.abc.es/espana/zapatero-pidio-escolta-informe-pollo-carvajal-decia-20260624013008-nt.html",
-      "desc": "El expresidente del Gobierno José Luis Rodríguez Zapatero pidió a su secretaria, Gertrudis Alcázar, que solicitase a su escolta personal el informe que Hugo Armando el 'Pollo' Carvajal , exjefe de la Inteligencia Militar del chavismo, había remitido en 2021 a ",
-      "date": "Thu, 25 Jun 2026 01:30:08 +0200",
+      "title": "La Guardia Civil esclarece una estafa mediante un falso servicio de reformas en Guadalajara",
+      "link": "https://www.abc.es/espana/castilla-la-mancha/guardia-civil-esclarece-estafa-mediante-falso-servicio-20260625093036-nt.html",
+      "desc": "La Guardia Civil ha esclarecido una presunta estafa cometida contra un vecino de la provincia de Guadalajara , que fue víctima de un fraude relacionado con la contratación de trabajos de mejor a y acondicionamiento en su domicilio. La investigación se inició t",
+      "date": "Thu, 25 Jun 2026 09:30:36 +0200",
       "source": "ABC",
       "color": "#c0392b",
       "feedId": "ABC",
-      "caso": "zap"
+      "caso": "other"
     },
     {
-      "title": "Las agendas de Zapatero revelan citas en un apartamento de Madrid con uno de los pagadores venezolanos de sus hijas",
-      "link": "https://www.abc.es/espana/agendas-zapatero-revelan-citas-apartamento-madrid-pagadores-20260624012958-nt.html",
-      "desc": "Las agendas de José Luis Rodríguez Zapatero revelan al menos una cita con Domingo Amaro Chacón , el empresario venezolano que también está investigado en el caso Plus Ultra, según los documentos a los que ha tenido acceso ABC. Este magnate, que está vinculado ",
-      "date": "Thu, 25 Jun 2026 01:29:58 +0200",
+      "title": "Restablecida la normalidad en la alta velocidad Madrid-Andalucía tras un robo de cable en Ciudad Real",
+      "link": "https://www.abc.es/espana/castilla-la-mancha/restablecida-normalidad-alta-velocidad-madridandalucia-tras-robo-20260625092114-nt.html",
+      "desc": "Renfe ha anunciado a primera hora de este jueves 25 de junio que se ha restablecido la normalidad en la circulación de trenes de alta velocidad entre Madrid y Andalucía que se vio afectada este miércoles con retrasos debido a una incidencia provocada por un ro",
+      "date": "Thu, 25 Jun 2026 09:21:15 +0200",
       "source": "ABC",
       "color": "#c0392b",
       "feedId": "ABC",
-      "caso": "zap"
+      "caso": "other"
     },
     {
-      "title": "Zapatero estudia acciones legales por la filtración del chat con su secretaria y su agenda",
-      "link": "https://www.lavanguardia.com/politica/20260624/11574379/zapatero-estudia-acciones-legales-filtracion-chat-secretaria-agenda.html",
-      "desc": "El PSOE sale en defensa del expresidente y considera ”una cacería” la difusión “de agendas, conversaciones y mensajes privados ajenos a la causa”&nbsp; y fuentes del Gobierno denuncian la “vulneración” de derechos y privacidad",
-      "date": "24 Jun 2026 19:56:08 +0200",
+      "title": "Rescatada una neumática con 66 inmigrantes en aguas de Lanzarote",
+      "link": "https://www.abc.es/espana/canarias/rescatada-neumatica-inmigrantes-aguas-lanzarote-20260625092018-nt.html",
+      "desc": "El avión de Salvamento Marítimo Sasemar 101 ha localizado una neumática con 66 personas de origen magrebí y subsahariano a 28 kilómetros de Lanzarote (15 millas) al este de Lanzarote. Los inmigrantes a bordo, entre los que hay 10 mujeres y dos niños, han sido ",
+      "date": "Thu, 25 Jun 2026 09:20:18 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Extinguido el incendio forestal desatado en Villarejo de Montalbán en Toledo tras el despliegue de medios aéreos",
+      "link": "https://www.abc.es/espana/castilla-la-mancha/extinguido-incendio-forestal-desatado-villarejo-montalban-toledo-20260625091355-nt.html",
+      "desc": "Los servicios de emergencias han dado por extinguido el incendio forestal iniciado en Villarejo de Montalbán en la mañana de este miércoles. Según informa el Gobierno regional a través del Sistema de Información de Incendios Forestales, el incendio, que comenz",
+      "date": "Thu, 25 Jun 2026 09:13:56 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Los rayos de las últimas horas provocan casi una veintena de incendios en León",
+      "link": "https://www.abc.es/espana/castilla-leon/rayos-ultimas-horas-provocan-veintena-incendios-leon-20260625090918-nt.html",
+      "desc": "Las tormentas eléctricas de las últimas horas están detrás de prácticamente todos los incendios declarados en la provincia de León en las últimas horas. Según detallan fuentes de la Consejería de Medio Ambiente, actualmente hay una docena de fuegos activos en ",
+      "date": "Thu, 25 Jun 2026 09:09:18 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Seis personas heridas, cuatro menores, en un accidente de tráfico en Marchamalo en Guadalajara",
+      "link": "https://www.abc.es/espana/castilla-la-mancha/seis-personas-heridas-cuatro-menores-accidente-trafico-20260625090655-nt.html",
+      "desc": "Seis personas, cuatro de ellas menores, han resultado heridas en una colisión entre dos vehículos en Marchamalo siendo trasladadas al Hospital Universitario de Guadalajara. Se trata de dos mujeres de 56 y 43 años, así como un niño de 12 años y tres niñas de 9,",
+      "date": "Thu, 25 Jun 2026 09:06:55 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Jesús Alcalde, experto en ciberseguridad: «Si te apuran para comprar, frena; una oferta que no puedes pensar 30 segundos no es buena»",
+      "link": "https://www.abc.es/espana/andalucia/jesus-alcalde-experto-ciberseguridad-apuran-comprar-frena-20260625090609-nts.html",
+      "desc": "Las rebajas de verano ya han arrancado. Moda, tecnología, hogar... No hay sector en el que no se vean descuentos que permitan acceder a productos y servicios a precios más bajos de lo habitual. Por eso, para muchos compradores, esta época es toda una oportunid",
+      "date": "Thu, 25 Jun 2026 09:06:10 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "El Congreso vota hoy la ley pactada entre PSOE, Sumar y BNG para transferir la AP-9 a Galicia",
+      "link": "https://www.abc.es/espana/galicia/congreso-vota-hoy-ley-pactada-psoe-sumar-20260625090008-nt.html",
+      "desc": "El Pleno del Congreso debatirá y votará este jueves la ley de la AP-9 para transferir la gestión y la titularidad de la vía a Galicia, que continuará su tramitación parlamentaria hasta que el traspaso pueda ser negociado en una comisión bilateral entre la Xunt",
+      "date": "Thu, 25 Jun 2026 09:00:09 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Clavijo cancela su agenda para poder hacer seguimiento del terremoto de Venezuela",
+      "link": "https://www.abc.es/espana/canarias/clavijo-cancela-agenda-poder-seguimiento-terremoto-venezuela-20260625085834-nt.html",
+      "desc": "El presidente de Canarias, Fernando Clavijo, ha suspendido su agenda pública prevista para hoy con el fin de hacer seguimiento de la situación que se vive en Venezuela tras el terremoto registrado anoche. El jefe del Ejecutivo mantiene contacto permanente con ",
+      "date": "Thu, 25 Jun 2026 08:58:34 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "El ocio 'cozy' conquista Castilla y León",
+      "link": "https://www.abc.es/espana/castilla-leon/ocio-cozy-conquista-castilla-leon-20260428085406-nt.html",
+      "desc": "Un ambiente «acogedor», «agradable», «de desconexión» y que incluso puede llevar a la «amistad» cuando su dosis viene repetida con el tiempo. Así se sienten los talleres de Espacio Teselas según las fundadoras del negocio vallisoletano, Ángela Alonso e Isabel ",
+      "date": "Thu, 25 Jun 2026 08:54:06 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "El Infoca da por controlado el incendio de Las Jaras tras una noche de lucha",
+      "link": "https://www.abc.es/espana/andalucia/cordoba/infoca-controlado-incendio-jaras-tras-noche-lucha-20260625084633-nts.html",
+      "desc": "El Infoca ha dado por controlado el incendio que se originó última hora de la tarde este miércoles en el paraje de Las Jaras, de la ciudad de Córdoba. Tras una noche de combate, lo ha dado por controlado. Desde las 6.35 horas los bomberos del Infoca trabajan e",
+      "date": "Thu, 25 Jun 2026 08:46:33 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Protos invierte cuatro millones en «mejorar y ampliar» sus instalaciones en la D.O. Rueda",
+      "link": "https://www.abc.es/espana/castilla-leon/protos-invierte-cuatro-millones-mejorar-ampliar-instalaciones-20260624084408-nt.html",
+      "desc": "Bodegas Protos ha realizado una nueva inversión de cuatro millones de euros en sus instalaciones de La Seca (Valladolid), dentro de un plan de ampliación y modernización orientado «a reforzar su capacidad de elaboración y seguir avanzando en la producción de v",
+      "date": "Thu, 25 Jun 2026 08:44:08 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Palencia invierte en su futuro",
+      "link": "https://www.abc.es/espana/castilla-leon/palencia-invierte-futuro-20260620084146-nt.html",
+      "desc": "Tiene asentando un tejido industrial en el que la automoción y la agroindustria son motores tractores y a la vez disponibilidad de suelo, en una ubicación «estratégica» desde el punto de vista logístico y con «calidad de vida». Son las «fortalezas» que atesora",
+      "date": "Thu, 25 Jun 2026 08:41:46 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Aveiro, la puerta al mar desde el Puerto Seco de Salamanca",
+      "link": "https://www.abc.es/espana/castilla-leon/aveiro-puerta-mar-puerto-seco-salamanca-20260623083811-nt.html",
+      "desc": "Más de 300 kilómetros separan sobre el mapa a Salamanca y la ciudad portuguesa de Aveiro. Pero la distancia no es impedimento para su unión y colaboración. De hecho, ya hace tres años que decidieron navegar -nunca mejor dicho- juntas en la promoción conjunta d",
+      "date": "Thu, 25 Jun 2026 08:38:11 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Hiperbaric: la innovación por bandera",
+      "link": "https://www.abc.es/espana/castilla-leon/innovacion-bandera-20260624083523-nt.html",
+      "desc": "La empresa Hiperbaric, en el polígono industrial burgalés de Villalonquéjar, lleva años trabajando en innovación y tiene un claro papel internacional. Conocida últimamente por su actividad en todo lo relacionado con el hidrógeno verde, sus orígenes y su princi",
+      "date": "Thu, 25 Jun 2026 08:35:23 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Terremoto en Venezuela, en directo: última hora del número de víctimas, desaparecidos y heridos tras los dos seísmos",
+      "link": "https://www.lavanguardia.com/internacional/20260625/11574657/dos-terremotos-sacuden-venezuela-en-directo-ultima-hora-danos-victimas-mortales-desaparecidos-en-vivo.html",
+      "desc": "Un terremoto de magnitud 7,2 sacudió la zona situada a unos 160 km al oeste de Caracas, y menos de un minuto después se produjo otro de magnitud 7,5",
+      "date": "25 Jun 2026 08:33:46 +0200",
       "source": "La Vanguardia",
       "color": "#8e44ad",
       "feedId": "LaVanguardia",
-      "caso": "zap"
+      "caso": "other"
     },
     {
-      "title": "La UDEF localiza otro tráfico de influencias de Zapatero a una empresa peruana por 200.000 euros",
-      "link": "https://www.lavanguardia.com/politica/20260624/11574210/udef-localiza-trafico-influencias-zapatero-empresa-peruana-200-000-euros.html",
-      "desc": "La Policía entrega un nuevo informe contra el expresidente en el que señala que los cobros se producían “simulando servicios de asesoría no prestados”, y creando contratos 'ad hoc' para justificarlos",
-      "date": "24 Jun 2026 13:46:32 +0200",
+      "title": "Pasaporte hacia el empleo y una «vida normalizada»",
+      "link": "https://www.abc.es/espana/castilla-leon/pasaporte-empleo-vida-20260605083217-nt.html",
+      "desc": "Desde que a Irene Perotti le diagnosticaron hace ya siete años un problema de salud mental no es que haya estado desenganchada del mercado laboral, sino que su problema con los trabajos que ha ido logrado y encadenando es que «no he podido mantenerlos mucho». ",
+      "date": "Thu, 25 Jun 2026 08:32:17 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "La sombra sobre Carlos Martínez",
+      "link": "https://www.abc.es/espana/castilla-leon/sombra-sobre-carlos-martinez-20260624082529-nt.html",
+      "desc": "La política tiene una regla no escrita: cuando la Guardia Civil entra en un ayuntamiento y se producen detenciones de cargos públicos, el daño político comienza mucho antes de que exista una sentencia. Y eso es precisamente lo que amenaza ahora a Carlos Martín",
+      "date": "Thu, 25 Jun 2026 08:25:29 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Alejandro Gavilán creará el mástil de la bandera de la Virgen de la Sierra en Córdoba",
+      "link": "https://www.abc.es/espana/andalucia/cordoba/semana-santa/alejandro-gavilan-creara-mastil-bandera-virgen-sierra-20260625082501-nts.html",
+      "desc": "La corporación que rinde culto a la Virgen de la Sierra en Córdoba acaba de encomendar al orfebre cordobés Alejandro Gavilán Santos la creación del mástil de su bandera y del primer juego de varas. A comienzos de junio encargó a Talleres de Bordado Alberto Vic",
+      "date": "Thu, 25 Jun 2026 08:25:02 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Los cedidos del Córdoba CF firman una temporada de reivindicaciones e irregularidades",
+      "link": "https://www.abc.es/espana/andalucia/cordoba/cordoba-cf/cedidos-cordoba-firman-temporada-reivindicaciones-irregularidades-20260625200815-nts.html",
+      "desc": "Lejos del foco mediático que ha acaparado el primer equipo durante las últimas semanas, el Córdoba CF también mira con atención el rendimiento de sus futbolistas cedidos. Por primera vez en su etapa reciente, la entidad blanquiverde ha contado con un amplio gr",
+      "date": "Thu, 25 Jun 2026 08:21:31 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Precintan el entorno de la iglesia de La Compañía de Palencia tras detectarse la rotura de unos tensores de seguridad",
+      "link": "https://www.abc.es/espana/castilla-leon/precintan-entorno-iglesia-compania-palencia-tras-detectarse-20260625081943-nt.html",
+      "desc": "La dotación del Servicio de Prevención, Extinción de Incendios y Salvamento del Ayuntamiento de Palencia intervenía a última hora de la tarde de ayer en el entorno de la iglesia de La Compañía de la capital para revisar el estado de uno de los sillares de la f",
+      "date": "Thu, 25 Jun 2026 08:19:43 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "La zona costera de La Guaira, declarada “zona de desastre” tras el doble terremoto",
+      "link": "https://www.lavanguardia.com/internacional/20260625/11574665/zona-costera-guaira-declarada-zona-desastre-doble-terremoto.html",
+      "desc": "El estado alberga el principal aeropuerto internacional del país, el Internacional Simón Bolívar",
+      "date": "25 Jun 2026 07:43:06 +0200",
       "source": "La Vanguardia",
       "color": "#8e44ad",
       "feedId": "LaVanguardia",
-      "caso": "zap"
+      "caso": "other"
+    },
+    {
+      "title": "Doble terremoto en Venezuela: las imágenes tras el desastre",
+      "link": "https://www.lavanguardia.com/internacional/20260625/11574662/doble-terremoto-venezuela-imagenes-desastre.html",
+      "desc": "Varios usuarios de redes sociales comparten vídeos del estado en el país tras el doble seísmo",
+      "date": "25 Jun 2026 07:23:23 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
+    {
+      "title": "“¡Antonio, soy mamá!”: Venezuela busca a los desaparecidos tras un doble terremoto",
+      "link": "https://www.lavanguardia.com/internacional/20260625/11574654/antonio-mama-venezuela-busca-desaparecidos-potentes-terremotos.html",
+      "desc": "Es el primer terremoto de esta magnitud registrado en el país desde 1967",
+      "date": "25 Jun 2026 06:35:15 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
     }
   ]
 }
