@@ -1,7 +1,37 @@
 {
-  "updated": "2026-06-25T21:27:47Z",
+  "updated": "2026-06-25T23:13:18Z",
   "count": 24,
   "items": [
+    {
+      "title": "Consulta aquí si el eclipse solar se verá al completo desde tu concello",
+      "link": "https://www.abc.es/espana/galicia/consulta-eclipse-solar-vera-completo-concello-20260625000001-nt.html",
+      "desc": "El cielo de Galicia se convertirá en el escenario de uno de los fenómenos astronómicos más espectaculares y esperados de las últimas décadas. Un eclipse solar total cruzará la comunidad autónoma en diagonal, ofreciendo a miles de gallegos la oportunidad única ",
+      "date": "Fri, 26 Jun 2026 00:00:01 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "El primer premio de la Lotería, con 300.000 euros al número, enloquece con Córdoba: ¡Toca por partida triple!",
+      "link": "https://www.abc.es/espana/andalucia/cordoba/primer-premio-loteria-300000-euros-numero-enloquece-20260625235108-nts.html",
+      "desc": "El sorteo de la Lotería Nacional de este jueves se ha dejado sentir con su primer premio en la provincia de Córdoba nada más y nada menos que por partida triple. Porque parte de él se ha comercializado en dos puntos de la capital y en Puente Genil . En el caso",
+      "date": "Thu, 25 Jun 2026 23:51:08 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "La vieja sede de UGT en el Sector Sur, de nuevo foco de problemas: apagan un fuego de ropa y basura en ella",
+      "link": "https://www.abc.es/espana/andalucia/cordoba/vieja-sede-ugt-sector-sur-nuevo-foco-20260625232708-nts.html",
+      "desc": "La vieja sede de UGT en Córdoba , ubicada en la calle Marbella ( Sector Sur ), sigue siendo un foco de problemas a la espera de que se transforme en la mayor oficina de empleo de Córdoba, por parte de la Junta. El Servicio de Extinción de Incendios y Salvament",
+      "date": "Thu, 25 Jun 2026 23:27:09 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
     {
       "title": "Una niña de 13 años grave tras ser atropellada por un autobús urbano en el centro de Valladolid",
       "link": "https://www.abc.es/espana/castilla-leon/nina-anos-herida-atropellada-autobus-centro-valladolid-20260625224654-nt.html",
@@ -167,36 +197,6 @@
       "link": "https://www.abc.es/espana/castilla-la-mancha/toledo/pueblos/abierto-plazo-programa-reconocera-estudiantes-brillantes-provincia-20260625203807-nt.html",
       "desc": "La Diputación de Toledo ha abierto el plazo de solicitud para participar en el nuevo Programa de Excelencia Preuniversitaria , que finaliza el próximo 30 de junio, una iniciativa dirigida a reconocer el mérito académico de los estudiantes de la provincia y ofr",
       "date": "Thu, 25 Jun 2026 20:38:08 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "El Cristo de la Confianza hará estación de penitencia en la Catedral de Córdoba el Viernes de Dolores de 2027",
-      "link": "https://www.abc.es/espana/andalucia/cordoba/semana-santa/cristo-confianza-hara-estacion-penitencia-catedral-cordoba-20260625203425-nts.html",
-      "desc": "La prohermandad del Santísimo Cristo de la Confianza ya mira con ilusión a una fecha que tiene que ser el centro de sus ilusiones: su primera estación de penitencia, que además será a la Catedral de Córdoba . La corporación acaba de anunciar que será el 19 de ",
-      "date": "Thu, 25 Jun 2026 20:34:27 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Falta un mes para el Día de Santiago: todo lo que debes saber sobre el 25 de julio",
-      "link": "https://www.abc.es/espana/galicia/falta-mes-dia-santiago-debes-saber-sobre-20260625203001-nt.html",
-      "desc": "Queda justo un mes para una de las citas más importantes del calendario gallego. El 25 de julio se celebra el Día de Santiago Apóstol, patrón de España y de Galicia, que coincide además con el Día Nacional de Galicia. Es el gran día de la capital, cuando la ci",
-      "date": "Thu, 25 Jun 2026 20:30:01 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Cuatro siglos mirando a Toledo desde el Valle",
-      "link": "https://www.abc.es/espana/castilla-la-mancha/toledo/cuatro-siglos-mirando-toledo-valle-20260625202748-nt.html",
-      "desc": "Hablar de la Virgen del Valle es hablar de una parte esencial de la historia de Toledo. De sus romerías, de sus tradiciones populares, de la ermita que contempla la ciudad desde la otra orilla del Tajo y de generaciones de toledanos que han mantenido vivo un v",
-      "date": "Thu, 25 Jun 2026 20:27:48 +0200",
       "source": "ABC",
       "color": "#c0392b",
       "feedId": "ABC",
