@@ -1,46 +1,246 @@
 {
-  "updated": "2026-06-26T02:52:21Z",
-  "count": 4,
+  "updated": "2026-06-26T07:45:31Z",
+  "count": 24,
   "items": [
     {
-      "title": "Zapatero viajaba con los pagadores de sus hijas para buscar inversores internacionales",
-      "link": "https://www.abc.es/espana/zapatero-viajaba-pagadores-hijas-buscar-inversiones-20260626020031-nt.html",
-      "desc": "La relación de José Luis Rodríguez Zapatero con los hermanos Domingo y Guillermo Amaro Chacón no se basaba únicamente en citas en pisos de Madrid. El teléfono de Gertrudis, la secretaria del expresidente, revela que estos empresarios venezolanos llegaron a via",
-      "date": "Fri, 26 Jun 2026 02:00:31 +0200",
+      "title": "Detenido por agredir a un sanitario en un centro médico de Valladolid",
+      "link": "https://www.abc.es/espana/castilla-leon/detenido-agredir-sanitario-centro-medico-valladolid-20260626093206-nt.html",
+      "desc": "Agentes de la Policía Nacional detuvieron en Valladolid en la mañana del pasado miércoles, 24 de junio, a un hombre por una presunta agresión a un facultativo en un centro médico de la capital. Al parecer, el motivo del violento comportamiento podría estar en ",
+      "date": "Fri, 26 Jun 2026 09:32:06 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "El Servicio Vasco de Salud busca clientes y compañeros de una trabajadora de un prostíbulo contagiada de tuberculosis",
+      "link": "https://www.abc.es/espana/pais-vasco/servicio-vasco-salud-busca-clientes-companeros-trabajadora-20260626091723-nt.html",
+      "desc": "Un caso positivo de tuberculosis de una prostituta de un club de alterne de Vizcaya ha puesto en alerta a trabajadores y clientes del local ante posibles contagios. El Servicio Vasco de Salud, Osakidetza, se encuentra desde hace varias semanas rastreando los c",
+      "date": "Fri, 26 Jun 2026 09:17:23 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Enma López anuncia que competirá con Reyes Maroto en las primarias del PSOE para ser candidata al Ayuntamiento de Madrid",
+      "link": "https://www.abc.es/espana/madrid/enma-lopez-anuncia-competira-reyes-maroto-primarias-20260626090839-nt.html",
+      "desc": "La edil del Ayuntamiento de Madrid y portavoz adjunta de la Comisión Ejecutiva Federal del PSOE, Enma López , se presentará a las primarias del partido para ser candidata socialista al Consistorio, según ha confirmado la concejala en una entrevista a 'El País'",
+      "date": "Fri, 26 Jun 2026 09:08:39 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "El caso Zapatero escala en Bolivia: el expresidente Arce niega influencias y la Magistratura revisará el proceso",
+      "link": "https://www.abc.es/espana/zapatero-escala-bolivia-expresidente-arce-niega-influencias-20260626085939-nt.html",
+      "desc": "El caso abierto en España por las presuntas gestiones de José Luis Rodríguez Zapatero en favor del Grupo Gloria, conglomerado peruano con intereses empresariales en Bolivia, continúa generando repercusiones políticas y judiciales en el país sudamericano. El ex",
+      "date": "Fri, 26 Jun 2026 09:00:20 +0200",
       "source": "ABC",
       "color": "#c0392b",
       "feedId": "ABC",
       "caso": "zap"
     },
     {
-      "title": "La retirada del pasaporte a Begoña Gómez trunca la agenda internacional de la familia Sánchez",
-      "link": "https://www.abc.es/espana/retirada-pasaporte-begona-gomez-trunca-agenda-internacional-20260626020000-nt.html",
-      "desc": "La retirada del pasaporte a Begoña Gómez tendrá consecuencias inmediatas en la agenda familiar a menos que la Audiencia Nacional, el próximo 13 de julio, revierta la decisión del magistrado Juan Carlos Peinado. Es el día que el órgano judicial ha fijado para e",
-      "date": "Fri, 26 Jun 2026 02:00:00 +0200",
+      "title": "Un choque múltiple deja cinco heridos y un excarcelado en Orense",
+      "link": "https://www.abc.es/espana/galicia/choque-multiple-deja-cinco-heridos-excarcelado-orense-20260626085952-nt.html",
+      "desc": "Cinco personas han resultado heridas de diversa consideración y una de ellas tuvo que ser excarcelada tras registrarse un grave accidente múltiple. El siniestro involucró a tres vehículos diferentes y tuvo lugar en el término municipal orensano de Pereiro de A",
+      "date": "Fri, 26 Jun 2026 08:59:53 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "El Ayuntamiento de Puente Genil aprueba reorientar inversiones para acelerar los proyectos prioritarios",
+      "link": "https://www.abc.es/espana/andalucia/cordoba/ayuntamiento-puente-genil-aprueba-reorientar-inversiones-acelerar-20260626084753-nts.html",
+      "desc": "El Pleno del Ayuntamiento de Puente Genil ha aprobado, en sesión ordinaria correspondiente al mes de junio, con los votos a favor del PP e IU, la abstención del PSOE y el voto en contra de VOX, una modificación en la finalidad de varias inversiones municipales",
+      "date": "Fri, 26 Jun 2026 08:47:54 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Galicia recibirá 270 millones más del Estado para la dependencia en 2026 y 2027",
+      "link": "https://www.abc.es/espana/galicia/galicia-recibira-270-millones-estado-dependencia-2026-20260626083727-nt.html",
+      "desc": "Galicia recibirá 270 millones de euros adicionales del Gobierno central para financiar el nivel mínimo del Sistema para la Autonomía y Atención a la Dependencia entre 2026 y 2027. Así lo establece el real decreto-ley aprobado este martes por el Consejo de Mini",
+      "date": "Fri, 26 Jun 2026 08:37:28 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "La línea de tren Huelva-Sevilla sufre un nuevo corte por una incidencia en la catenaria",
+      "link": "https://www.abc.es/espana/andalucia/linea-tren-huelvasevilla-sufre-nuevo-corte-incidencia-20260626082109-nts.html",
+      "desc": "Un nuevo fallo ha dejado a primera hora de la mañana interrumpida la circulación ferroviaria entre la ciudad de Huelva y la localidad sevillana de Benacazón , según explica Adif. El motivo se debe a la falta de tensión en una catenaria lo que ha impedido que e",
+      "date": "Fri, 26 Jun 2026 08:21:09 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Herido grave un hombre tras precipitarse por la ventana de su casa en Villaverde para escapar de un incendio",
+      "link": "https://www.abc.es/espana/madrid/herido-grave-hombre-tras-precipitarse-ventana-casa-20260626081129-nt.html",
+      "desc": "Los Bomberos de Madrid han extinguido un incendio en una vivienda de Villaverde, en el que ha resultado herido muy grave un hombre al precipitarse desde la ventana de su casa intentando escapar , ha informado Emergencias de Madrid. El incendio se ha iniciado s",
+      "date": "Fri, 26 Jun 2026 08:11:29 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "La banda de la Esperanza y el colegio La Milagrosa de Córdoba crean una escuela de música",
+      "link": "https://www.abc.es/espana/andalucia/cordoba/semana-santa/banda-esperanza-impartira-clases-musica-colegio-milagrosa-20260626163956-nts.html",
+      "desc": "La escuela de música Do-Re-Milagrosa abrirá el curso 2026-2027 para ser un semillero de aprendizaje y futura cantera, impulsada por la banda de María Santísima de la Esperanza y el colegio La Milagrosa. Ambas partes han suscrito un convenio de colaboración par",
+      "date": "Fri, 26 Jun 2026 08:11:04 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Colaborar con la justicia",
+      "link": "https://www.abc.es/espana/andalucia/cordoba/jose-calvo-poyato-colaborar-justicia-20260626081051-nts.html",
+      "desc": "Colaborar con la justicia siempre ha tenido premio. Así se ha puesto de manifiesto en la sentencia del Tribunal Supremo que ha condenado a Ávalos a más de veinticuatro años de prisión por una serie de delitos y a Koldo a más de diecinueve. Por el contrario, Al",
+      "date": "Fri, 26 Jun 2026 08:10:51 +0200",
       "source": "ABC",
       "color": "#c0392b",
       "feedId": "ABC",
       "caso": "gen"
     },
     {
-      "title": "Gertrudis, la secretaria para todo de Zapatero",
-      "link": "https://www.abc.es/espana/gertrudis-secretaria-zapatero-20260625015919-nt.html",
-      "desc": "Gertrudis Alcázar . Ese es el nombre de la secretaria personal de José Luis Rodríguez Zapatero que ha saltado a la escena pública tras la imputación del expresidente el pasado mes de mayo. Fue ella quien estuvo presente en el despacho de Ferraz —entregado por ",
-      "date": "Fri, 26 Jun 2026 01:59:19 +0200",
+      "title": "El carbónico total en La Colada desciende, pero aún no permite beber el agua",
+      "link": "https://www.abc.es/espana/andalucia/cordoba/carbonico-total-colada-desciende-permite-beber-agua-20260626081033-nts.html",
+      "desc": "¿Cuándo se podrá beber el agua del embalse de La Colada ? En lo peor de la sequía se intentó que lo que almacenaba esta presa, con agua sin movimiento en los últimos años, pudiera utilizarse para el consumo humano. Era el último cartucho antes de las restricci",
+      "date": "Fri, 26 Jun 2026 08:10:33 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Sepisur hará el gran edificio de vestuarios en el cuartel de El Higuerón de Córdoba",
+      "link": "https://www.abc.es/espana/andalucia/cordoba/sepisur-hara-gran-edificio-vestuarios-cuartel-higueron-20260626081022-nts.html",
+      "desc": "La empresa cordobesa Sepisur XXI será la encargada de realizar el gran centro de vestuarios que irá junto al centro de mantenimiento de vehículos que el Ejército de Tierra tiene en la barriada de El Higuerón. Se trata de un gran complejo que forma parte del em",
+      "date": "Fri, 26 Jun 2026 08:10:22 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Visitas teatralizadas y observaciones astronómicas llenarán el verano en la Villa de Fuente Álamo en Puente Genil",
+      "link": "https://www.abc.es/espana/andalucia/cordoba/visitas-teatralizadas-observaciones-astronomicas-llenaran-verano-villa-20260626081016-nts.html",
+      "desc": "El Ayuntamiento de Puente Genil ha presentado una nueva edición del programa cultural Noches en La Villa, una iniciativa ya consolidada en el calendario estival del municipio, que volverá a llenar de actividades el yacimiento arqueológico de Fuente Álamo entre",
+      "date": "Fri, 26 Jun 2026 08:10:17 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "El restaurante favorito del chef Eneko Fernández para comer en Madrid: donde está, qué platos sirven y por cuánto dinero",
+      "link": "https://www.abc.es/espana/madrid/restaurante-favorito-chef-eneko-fernandez-comer-madrid-20260626130643-nt.html",
+      "desc": "Madrid es una de las ciudades donde mejor se come. La capital tiene una de las mejores ofertas gastronómicas. Y se pueden encontrar desde tabernas, tascas y bares de toda la vida, hasta restaurantes de alta cocina, tanto de comida española como de culturas y p",
+      "date": "Fri, 26 Jun 2026 07:30:00 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Zapatero fue el primero que metió en un cajón el tren litoral de Málaga a Algeciras",
+      "link": "https://www.abc.es/espana/andalucia/malaga/zapatero-primero-metio-cajon-tren-litoral-malaga-20260626064717-nts.html",
+      "desc": "La conexión ferroviaria del Mediterráneo andaluz está atascada por una decisión de José Luis Rodríguez Zapatero en los últimos coletazos de su mandato. El expresidente, que está ahora investigado por recibir dinero a cambio de favores en el rescate de la aerol",
+      "date": "Fri, 26 Jun 2026 06:47:18 +0200",
       "source": "ABC",
       "color": "#c0392b",
       "feedId": "ABC",
       "caso": "zap"
     },
     {
-      "title": "María Dolores Jiménez, reelegida como presidenta de los constructores de Córdoba",
-      "link": "https://www.abc.es/espana/andalucia/cordoba/maria-dolores-jimenez-reelegida-presidenta-constructores-cordoba-20260625224831-nts.html",
-      "desc": "La asamblea general electoral de la Asociación de Empresarios de la Construcción e Infraestructuras de Córdoba ( Construcor ) ha reelegido en la noche de este jueves a María Dolores Jiménez al frente de la organización para un nuevo mandato . Inicia así el ter",
-      "date": "Thu, 25 Jun 2026 22:48:32 +0200",
+      "title": "Un juzgado investiga irregularidades en el mega contrato de 47 millones para la zona azul de Matalascañas",
+      "link": "https://www.abc.es/espana/andalucia/huelva/juzgado-investiga-irregularidades-megacontrato-millones-zona-azul-20260626143103-nts.html",
+      "desc": "La implantación de la zona de estacionamiento regulado (ORA) en el núcleo turístico de Matalascañas se encuentra en un laberinto político, administrativo y, ahora también, penal para el Ayuntamiento de Almonte. Al profundo descontento social que genera y la fa",
+      "date": "Fri, 26 Jun 2026 06:46:31 +0200",
       "source": "ABC",
       "color": "#c0392b",
       "feedId": "ABC",
-      "caso": "gen"
+      "caso": "other"
+    },
+    {
+      "title": "El PSOE se prepara para un Comité Federal «tenso» por la corrupción y las debacles electorales",
+      "link": "https://www.abc.es/espana/psoe-prepara-comite-federal-convulso-corrupcion-debacles-20260626060940-nt.html",
+      "desc": "Pedro Sánchez superó el miércoles la primera de las dos metas volantes fijadas para una semana que arrancaba con la sentencia del Tribunal Supremo que condena a José Luis Ábalos a 24 años de cárcel por el caso Mascarillas. Este sábado, en calidad de secretario",
+      "date": "Fri, 26 Jun 2026 06:09:40 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "El Estado aportará 236 millones más a Castilla-La Mancha hasta 2027 para reforzar la dependencia",
+      "link": "https://www.abc.es/espana/castilla-la-mancha/castillala-mancha-recibira-236-millones-estado-financiar-20260626060501-nt.html",
+      "desc": "Castilla-La Mancha recibirá 236,5 millones de euros más del Gobierno de España entre 2026 y 2027 para financiar el Sistema para la Autonomía y Atención a la Dependencia (SAAD), después de que el Consejo de Ministros aprobara un real decreto-ley que incrementa ",
+      "date": "Fri, 26 Jun 2026 06:05:01 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Qué hacer este fin de semana en Galicia: los mejores planes del 26 al 28 de junio",
+      "link": "https://www.abc.es/espana/galicia/fin-semana-galicia-mejores-planes-junio-20260625060000-nt.html",
+      "desc": "El último fin de semana de junio llega a Galicia con varias actividades culturales, lúdicas y gastronómicas repartidas por las cuatro provincias. Con la temporada estival inaugurada, tenemos con nosotros una agenda de ocio idónea tanto para los que buscan gran",
+      "date": "Fri, 26 Jun 2026 06:00:00 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Terremoto en Venezuela, en directo: última hora del número de víctimas, desaparecidos y heridos tras los dos seísmos",
+      "link": "https://www.lavanguardia.com/internacional/20260625/11574657/dos-terremotos-sacuden-venezuela-en-directo-ultima-hora-danos-victimas-mortales-desaparecidos-en-vivo.html",
+      "desc": "Un terremoto de magnitud 7,2 sacudió la zona situada a unos 160 km al oeste de Caracas, y menos de un minuto después se produjo otro de magnitud 7,5",
+      "date": "25 Jun 2026 08:33:46 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
+    {
+      "title": "La zona costera de La Guaira, declarada “zona de desastre” tras el doble terremoto",
+      "link": "https://www.lavanguardia.com/internacional/20260625/11574665/zona-costera-guaira-declarada-zona-desastre-doble-terremoto.html",
+      "desc": "El estado alberga el principal aeropuerto internacional del país, el Internacional Simón Bolívar",
+      "date": "25 Jun 2026 07:43:06 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
+    {
+      "title": "Doble terremoto en Venezuela: las imágenes tras el desastre",
+      "link": "https://www.lavanguardia.com/internacional/20260625/11574662/doble-terremoto-venezuela-imagenes-desastre.html",
+      "desc": "Varios usuarios de redes sociales comparten vídeos del estado en el país tras el doble seísmo",
+      "date": "25 Jun 2026 07:23:23 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
+    {
+      "title": "“¡Antonio, soy mamá!”: Venezuela busca a los desaparecidos tras un doble terremoto",
+      "link": "https://www.lavanguardia.com/internacional/20260625/11574654/antonio-mama-venezuela-busca-desaparecidos-potentes-terremotos.html",
+      "desc": "Es el primer terremoto de esta magnitud registrado en el país desde 1967",
+      "date": "25 Jun 2026 06:35:15 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
     }
   ]
 }
