@@ -1,46 +1,246 @@
 {
-  "updated": "2026-06-26T10:47:09Z",
-  "count": 4,
+  "updated": "2026-06-26T14:13:24Z",
+  "count": 24,
   "items": [
     {
-      "title": "Caso Mascarillas de Almería: el expresidente de Diputación guarda silencio ante el juez hasta conocer los informes de la UCO",
-      "link": "https://www.abc.es/espana/andalucia/almeria/mascarillas-almeria-expresidente-diputacion-guarda-silencio-ante-20260626121442-nts.html",
-      "desc": "El expresidente de la Diputación Provincial de Almería, Javier Aureliano García, se ha acogido este viernes a su derecho a no declarar ante el juez que instruye el denominado caso Mascarillas de Almería, en el que se investigan presuntas irregularidades en la ",
-      "date": "Fri, 26 Jun 2026 12:16:56 +0200",
+      "title": "Los Gay Games arrancan en Valencia con «la mayor participación española de la historia»",
+      "link": "https://www.abc.es/espana/comunidad-valenciana/gay-games-arrancan-valencia-mayor-participacion-espanola-20260626160100-nt.html",
+      "desc": "Los Gay Games XII València 2026 arrancan este fin de semana con la ceremonia de inauguración de los juegos en el estadio Ciutat de València. El mayor evento por la diversidad llega al Cap i Casal con 10.200 personas inscritas de 81 nacionalidades y 800 volunta",
+      "date": "Fri, 26 Jun 2026 16:01:01 +0200",
       "source": "ABC",
       "color": "#c0392b",
       "feedId": "ABC",
-      "caso": "gen"
+      "caso": "other"
     },
     {
-      "title": "Un informe de la UCO recoge «arbitrariedad» y maniobras del ente público Red.es para beneficiar a Barrabés, protegido de Begoña Gómez",
-      "link": "https://www.abc.es/espana/informe-uco-recoge-arbitrariedad-maniobras-ente-publico-20260626120153-nt.html",
-      "desc": "La Unidad Central Operativa (UCO) de la Guardia Civil ha entregado un informe al juez del caso Begoña Gómez, Juan Carlos Peinado, en el que aprecia «arbitrariedad» por parte de la empresa pública Red.es para adjudicar contratos a la empresa de Juan Carlos Barr",
-      "date": "Fri, 26 Jun 2026 12:01:53 +0200",
+      "title": "Desayuna como en 'Friends' sin salir de Galicia",
+      "link": "https://www.abc.es/espana/galicia/desayuna-friends-salir-galicia-20260626160000-nt.html",
+      "desc": "¿Y si pudieras desayunar en Central Perk sin salir de Galicia? En Cangas (Pontevedra) existe un guiño a la cafetería favorita de Ross, Rachel, Monica, Chandler, Joey y Phoebe: se llama Chulada Perk y se ha convertido en parada para los nostálgicos de la serie ",
+      "date": "Fri, 26 Jun 2026 16:00:00 +0200",
       "source": "ABC",
       "color": "#c0392b",
       "feedId": "ABC",
-      "caso": "gen"
+      "caso": "other"
     },
     {
-      "title": "El juez ofrece a la Abogacía del Estado personarse por las joyas de Zapatero",
-      "link": "https://www.lavanguardia.com/politica/20260626/11575422/juez-ofrece-abogacia-personarse-joyas-zapatero.html",
-      "desc": "Los servicios jurídicos del Estado valoran si actuar por un presunto delito fiscal",
-      "date": "26 Jun 2026 06:00:00 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
+      "title": "Intervenidas unas 3.000 prendas falsificadas en Segovia con valor estimado de 200.000 euros",
+      "link": "https://www.abc.es/espana/castilla-leon/intervenidas-3000-prendas-falsificadas-segovia-valor-estimado-20260626155919-nt.html",
+      "desc": "La Guardia Civil de Segovia ha intervenido cerca de 3.000 prendas textiles de procedencia ilícita, en su mayoría camisetas y prendas asociadas a clubes y selecciones nacionales de fútbol que participan en el Mundial de fútbol , además de polos y sudaderas, con",
+      "date": "Fri, 26 Jun 2026 15:59:20 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "La promesa que Juan Roig cumplió en 1998 y ahora comparte con un fan del Valencia Basket",
+      "link": "https://www.abc.es/espana/comunidad-valenciana/promesa-juan-roig-cumplio-1998-comparte-fan-20260626154755-nt.html",
+      "desc": "Enrique Sales puso su peluca en juego en Granada hace cuatro años si el Valencia Basket conquistaba la Liga ACB, la segunda de su historia. Y el miércoles, minutos después de la victoria en el Palau Blaugrana frente al Barça, fue el máximo accionista del club,",
+      "date": "Fri, 26 Jun 2026 15:47:55 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "La Junta oferta más de 5.800 plazas en campamentos y actividades juveniles",
+      "link": "https://www.abc.es/espana/castilla-leon/junta-oferta-5800-plazas-campamentos-actividades-juveniles-20260626153755-nt.html",
+      "desc": "La Junta de Castilla y León impulsa, durante este verano , 5.865 plazas para niños y jóvenes de toda la Comunidad en los campamentos y actividades juveniles promovidos por el Instituto de la Juventud, que entre los campamentos temáticos y de la Red Activa y lo",
+      "date": "Fri, 26 Jun 2026 15:40:36 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "El nuevo presidente de la Audiencia de Ciudad Real reclama cuatro jueces más por la sobrecarga de trabajo",
+      "link": "https://www.abc.es/espana/castilla-la-mancha/nuevo-presidente-audiencia-ciudad-real-reclama-cuatro-20260626153352-nt.html",
+      "desc": "El magistrado Luis Casero Linares ha tomado posesión este viernes como nuevo presidente de la Audiencia Provincial de Ciudad Real, cargo en el que releva a María Jesús Alarcón Barcos, y ha aprovechado su primer acto para reclamar un refuerzo de la planta judic",
+      "date": "Fri, 26 Jun 2026 15:33:53 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Salamanca estrena nuevas rutas teatralizadas y actividades por el eclipse en 'Salamanca culta y oculta'",
+      "link": "https://www.abc.es/espana/castilla-leon/salamanca-estrena-nuevas-rutas-teatralizadas-actividades-eclipse-20260626151251-nt.html",
+      "desc": "El Ayuntamiento de Salamanca presentaba una nueva edición de 'Salamanca culta y oculta', la programación estival que combinará patrimonio, historia, divulgación y ocio con un total de 28 actividades entre el 1 de julio y el 31 de agosto. El alcalde de Salamanc",
+      "date": "Fri, 26 Jun 2026 15:12:51 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Toledo insta al Ministerio de Transportes a garantizar la parada del AVE en la ciudad",
+      "link": "https://www.abc.es/espana/castilla-la-mancha/toledo/toledo-insta-ministerio-transportes-garantizar-parada-ave-20260626151032-nt.html",
+      "desc": "El pleno del Ayuntamiento de Toledo ha aprobado este viernes, con los votos a favor de PP y Vox y en contra de IU-Podemos y PSOE, tras rechazar una enmienda transaccional de los socialistas, una moción para instar al Ministerio de Transportes y Movilidad Soste",
+      "date": "Fri, 26 Jun 2026 15:10:33 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Último paso para remodelar la estación de autobuses de Toledo: sale a licitación por más de un millón de euros",
+      "link": "https://www.abc.es/espana/castilla-la-mancha/toledo/ultimo-paso-remodelar-estacion-autobuses-toledo-sale-20260626150538-nt.html",
+      "desc": "La Junta de Gobierno Local ha aprobado este viernes, en su sesión ordinaria, el inicio del expediente de contratación del proyecto técnico de acondicionamiento de la Estación de Autobuses de Toledo, con un presupuesto base de licitación de 1.010.327,30 euros y",
+      "date": "Fri, 26 Jun 2026 15:05:39 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Harvard respalda un estudio de  Soto de Medinilla, el yacimiento arqueológico más antiguo de Valladolid",
+      "link": "https://www.abc.es/espana/castilla-leon/harvard-respalda-estudio-soto-medinilla-yacimiento-arqueologico-20260626150423-nt.html",
+      "desc": "La Universidad de Harvard, a través del Shelby White and Leon Levy Program for Archaeological Publications, acaba de conceder una ayuda de noventa mil dólares a un proyecto, liderado por la Universidad de Valladolid (UVa), para culminar el estudio y la publica",
+      "date": "Fri, 26 Jun 2026 15:04:24 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "El fallo en el crecimiento causado por «una conexión defectuosa» entre el cerebro y el hígado",
+      "link": "https://www.abc.es/espana/castilla-leon/fallo-crecimiento-causado-conexion-defectuosa-cerebro-higado-20260626150321-nt.html",
+      "desc": "Una «mala conexión nerviosa» entre el cerebro y el hígado durante las primeras etapas de la vida puede estar detrás de un retraso del crecimiento corporal. Así lo ha descubierto un estudio impulsado por investigadores del Instituto de Biología Funcional y Genó",
+      "date": "Fri, 26 Jun 2026 15:03:22 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Zapatero trata de apartar a las acusaciones representadas por el PP de la pieza de las joyas porque «no tienen legitimidad»",
+      "link": "https://www.abc.es/espana/zapatero-trata-apartar-acusaciones-representadas-pp-pieza-20260626150004-nt.html",
+      "desc": "El expresidente del Gobierno, José Luis Rodríguez Zapatero, quiere apartar a las acusaciones populares de la rama de la investigación en la que el magistrado de la Audiencia Nacional José Luis Calama le investiga por atesorar joyas en su despacho, sin declarar",
+      "date": "Fri, 26 Jun 2026 15:00:04 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
       "caso": "zap"
     },
     {
-      "title": "Zapatero pide la nulidad de la causa y acusa a Anticorrupción de hacer “investigaciones paralelas”",
-      "link": "https://www.lavanguardia.com/politica/20260625/11575154/zapatero-pide-nulidad-causa-acusa-anticorrupcion-investigaciones-paralelas.html",
-      "desc": "Además del contenido de los teléfonos de Rodolfo Reyes y de Miguel Palomero, la defensa del expresidente del Gobierno reclama que se anulen las resoluciones judiciales que originaron la causa",
-      "date": "25 Jun 2026 14:29:21 +0200",
+      "title": "Reabren al tráfico el tramo de la TO-2899 entre Quintanar de la Orden y el límite  con Cuenca",
+      "link": "https://www.abc.es/espana/castilla-la-mancha/toledo/pueblos/reabren-trafico-tramo-to2899-quintanar-orden-limite-20260626144857-nt.html",
+      "desc": "La Diputación de Toledo ha reabierto este viernes al tráfico el tramo de la carretera provincial TO-2899 que une Quintanar de la Orden con el límite de la provincia de Cuenca, donde la vía continúa como la carretera CU-3011 en dirección a la localidad conquens",
+      "date": "Fri, 26 Jun 2026 14:48:58 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "El Ayuntamiento de El Puerto no renueva la licencia de los chiringuitos de Puerto Sherry",
+      "link": "https://www.abc.es/espana/andalucia/cadiz/ayuntamiento-puerto-renueva-licencia-chiringuitos-puerto-sherry-20260626144429-nts.html",
+      "desc": "Los chiringuitos de Puerto Sherry tendrán que cerrar este verano salvo que el juez admita su último recurso y prorrogue de manera cautelar su actividad hasta septiembre, La Autoridad Portuaria de la Bahía de Cádiz ha denegado la prórroga solicitada conjuntamen",
+      "date": "Fri, 26 Jun 2026 14:44:30 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Puy du Fou refuerza su oferta de verano en Toledo con más espectáculos y el regreso de 'El Sueño de Toledo'",
+      "link": "https://www.abc.es/espana/castilla-la-mancha/puy-fou-refuerza-oferta-verano-toledo-espectaculos-20260626144212-nt.html",
+      "desc": "El verano es una de las épocas de mayor afluencia en Puy du Fou España. El parque de espectáculos históricos situado a pocos kilómetros de Toledo, afronta la temporada reforzando su oferta para el público familiar con una programación que combina espectáculos,",
+      "date": "Fri, 26 Jun 2026 14:42:12 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Castilla-La Mancha prepara una ayuda por hectárea para los cultivadores de azafrán",
+      "link": "https://www.abc.es/espana/castilla-la-mancha/toledo/pueblos/castillala-mancha-prepara-ayuda-hectarea-cultivadores-azafran-20260626144117-nt.html",
+      "desc": "El Gobierno de Castilla-La Mancha trabaja en la puesta en marcha de una línea de ayudas por hectárea destinada a los cultivadores de azafrán , una medida que el Ejecutivo regional prevé activar «en los próximos meses» para respaldar la continuidad de este cult",
+      "date": "Fri, 26 Jun 2026 14:41:17 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "El Congreso homenajea a las víctimas del terrorismo: «Existe una deuda moral con ellas»",
+      "link": "https://www.abc.es/espana/congreso-homenajea-victimas-terrorismo-espana-deuda-moral-20260626135624-nt.html",
+      "desc": "El presidente de la Fundación Víctimas del Terrorismo, Juan Francisco Benito Valenciano, ha sido el primero en intervenir en el acto de homenaje a las víctimas del terrorismo celebrado en el Congreso este viernes. Ha centrado su discurso en advertir que «Españ",
+      "date": "Fri, 26 Jun 2026 14:41:05 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Dos trabajadores en estado crítico entre los seis heridos por quemaduras tras un derrame de ácido en la fábrica de cobre verde de Cunext en Córdoba",
+      "link": "https://www.abc.es/espana/andalucia/cordoba/seis-heridos-quemaduras-tras-derrame-acido-fabrica-20260626143739-nts.html",
+      "desc": "Seis personas han resultado heridas con quemaduras tras producirse un derrame de ácido sulfúrico en una instalación industrial de Córdoba, según informa el 1-1-2, perteneciente a la Agencia de Emergencias de Andalucía, adscrita la Consejería de Sanidad, Presid",
+      "date": "Fri, 26 Jun 2026 14:38:17 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "La Junta interviene «de manera inmediata» para climatizar sus cinco escuelas de Infantil en León",
+      "link": "https://www.abc.es/espana/castilla-leon/junta-interviene-manera-inmediata-climatizar-cinco-escuelas-20260626143612-nt.html",
+      "desc": "La Consejería de Educación de la Junta de Castilla y León lleva a cabo una intervención «de manera inmediata», aunque «ya llevaba un tiempo siendo planificada» para climatizar todos los espacios de las cinco escuelas de Educación Infantil dependientes de ella ",
+      "date": "Fri, 26 Jun 2026 14:36:13 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "CSIF alerta de carencias estructurales en el servicio de extinción de incendios en una campaña «compleja»",
+      "link": "https://www.abc.es/espana/castilla-la-mancha/csif-alerta-carencias-estructurales-servicio-extincion-incendios-20260626143157-nt.html",
+      "desc": "La Central Sindical Independiente y de Funcionarios (CSIF), ha alertado este viernes de las carencias estructurales de la empresa pública Gestión Ambiental de Castilla-La Mancha (Geacam) que comprometen a la seguridad de los trabajadores y a la eficacia de res",
+      "date": "Fri, 26 Jun 2026 14:31:58 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Venezuela eleva a 235 muertos y 4.300 heridos los damnificados por el devastador doble terremoto",
+      "link": "https://www.lavanguardia.com/internacional/20260626/11575807/terremoto-venezuela-desaparecidos-muertos-caracas-la-guaira-ultima-hora-hoy-en-directo.html",
+      "desc": "El Ministerio de Exteriores ha confirmado la muerte de dos españoles y ha informado de que otras 80 personas permanecen desaparecidas tras los devastadores terremotos",
+      "date": "26 Jun 2026 09:49:07 +0200",
       "source": "La Vanguardia",
       "color": "#8e44ad",
       "feedId": "LaVanguardia",
-      "caso": "zap"
+      "caso": "other"
+    },
+    {
+      "title": "El caos tras los terremotos en Venezuela: saquean comercios destruidos y se llevan alimentos, medicinas y electrodomésticos",
+      "link": "https://www.lavanguardia.com/vida/20260626/11575897/saqueos-comercios-zonas-costa-central-venezuela-afectadas-terremotos.html",
+      "desc": "Los asaltantes se llevaron alimentos, medicinas y hasta electrodomésticos como televisores, lavadoras o aires acondicionados",
+      "date": "26 Jun 2026 09:27:55 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
+    {
+      "title": "Terremoto en Venezuela | La devastación en La Guaira tiene cifras: 100 edificios derrumbados, 70.000 familias afectadas",
+      "link": "https://www.lavanguardia.com/internacional/20260626/11575898/terremoto-venezuela-devastacion-guaira-cifras-100-edificios-derrumbados-70-000-familias-afectadas.html",
+      "desc": "El ministro del Interior anuncia que se ampliarán a 11.500 hombres y mujeres los efectivos desplegados en la zona para buscar supervivientes",
+      "date": "26 Jun 2026 09:13:25 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
+    {
+      "title": "Las imágenes de la devastación en Venezuela: el antes y el después",
+      "link": "https://www.lavanguardia.com/internacional/20260626/11575876/imagenes-devastacion-venezuela.html",
+      "desc": "El doble terremoto de este jueves ha dejado por el momento más de 230 muertos y 4.300 heridos, con una estimación de 35.000 desaparecidos",
+      "date": "26 Jun 2026 08:37:52 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
     }
   ]
 }
