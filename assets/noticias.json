@@ -1,7 +1,107 @@
 {
-  "updated": "2026-06-26T21:15:03Z",
+  "updated": "2026-06-26T23:01:51Z",
   "count": 24,
   "items": [
+    {
+      "title": "Sandía, patilla en Venezuela",
+      "link": "https://www.lavanguardia.com/opinion/20260627/11576434/sandia-patilla-venezuela.html",
+      "desc": "Gran parte del mundo está partido en dos mitades; opuestas; antitéticas",
+      "date": "27 Jun 2026 00:30:00 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
+    {
+      "title": "Las UTE Dragados-Magtel-Heliopol y Ferrovial-Vías ganan el contrato para construir la Base Logística de Córdoba",
+      "link": "https://www.abc.es/espana/andalucia/cordoba/ute-dragadosmagtelheliopol-ferrovialvias-ganan-contrato-construir-base-20260627001652-nts.html",
+      "desc": "El Ministerio de Defensa ya ha seleccionado a las empresas que construirán la Base Logística del Ejército de Tierra de Córdoba (BLET), según se ha podido conocer este viernes. Las adjudicaciones aún deben formalizarse. En el lote 1 , que es el que cubre los tr",
+      "date": "Sat, 27 Jun 2026 00:16:53 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "De la Fuente introduce dos sorprendentes cambios en su once ante Uruguay",
+      "link": "https://www.lavanguardia.com/deportes/futbol/20260627/11576567/de-la-fuente-uruguay-espana-alineacion.html",
+      "desc": "Porro y Olmo dejan sus puestos a Llorente y Merino",
+      "date": "27 Jun 2026 00:14:53 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
+    {
+      "title": "¿Aznar hablaría en catalán con Puigdemont?",
+      "link": "https://www.lavanguardia.com/politica/20260627/11576491/aznar-hablaria-catalan-puigdemont.html",
+      "desc": "",
+      "date": "27 Jun 2026 00:05:00 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
+    {
+      "title": "El peor negocio de Trump",
+      "link": "https://www.lavanguardia.com/opinion/20260627/11576602/peor-negocio-trump.html",
+      "desc": "Irán ha descubierto que tiene un poder desconocido sobre Ormuz",
+      "date": "27 Jun 2026 00:03:41 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
+    {
+      "title": "El secreto detrás del agua congelada de las playas de las Rías Baixas: por qué está tan fría y cristalina",
+      "link": "https://www.abc.es/espana/galicia/secreto-detras-agua-congelada-playas-rias-baixas-20260626000000-nt.html",
+      "desc": "Las playas de las Rías Baixas son famosas por sus paisajes paradisíacos de arena blanca y aguas de un azul turquesa que recuerdan inevitablemente al Caribe. Sin embargo, cualquier bañista que intente sumergirse en ellas este verano notará de inmediato un contr",
+      "date": "Sat, 27 Jun 2026 00:00:00 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Senegal se aferra al milagro con una goleada histórica a Irak",
+      "link": "https://www.lavanguardia.com/deportes/20260626/11576562/mundial-2026-senegal-goleada-irak-aferra-milagro-clasificacion-dieciseisavos-mejores-terceras.html",
+      "desc": "Los campeones no reconocidos de África se convierten en la primera selección africana que marca 5 goles en un Mundial&nbsp;",
+      "date": "26 Jun 2026 23:16:01 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
+    {
+      "title": "Un 'hat-trick' de Dembélé sentencia a Noruega en media hora",
+      "link": "https://www.lavanguardia.com/deportes/20260626/11576558/hat-trick-dembele-sentencia-noruega-media-hora.html",
+      "desc": "El delantero francés se une a la batalla por el pichichi tras golear a unos nórdicos con rotaciones y sin Haaland",
+      "date": "26 Jun 2026 23:07:12 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
+    {
+      "title": "La ONU cifra en 50.000 los desaparecidos en el doble seísmo de Venezuela",
+      "link": "https://www.lavanguardia.com/internacional/20260626/11576414/responsable-humanitario-onu-cifra-50-000-desaparecidos.html",
+      "desc": "Las autoridades admiten 920 muertos y 3.360 heridos y no se aventuran sobre los no localizados",
+      "date": "26 Jun 2026 22:51:42 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
+    {
+      "title": "Las sanciones estadounidenses dificultan la ayuda a Venezuela tras el doble terremoto",
+      "link": "https://www.lavanguardia.com/internacional/20260626/11575805/sanciones-estadounidenses-dificultan-ayuda-venezuela-doble-terremoto.html",
+      "desc": "Expertos económicos piden el levantamiento de las restricciones para facilitar la asistencia humanitaria",
+      "date": "26 Jun 2026 22:25:14 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
     {
       "title": "Felipe VI se solidariza con «un país tan querido como Venezuela» y habla de «trabajar por el futuro» de México y España",
       "link": "https://www.abc.es/espana/casa-real/felipe-solidariza-pais-querido-venezuela-habla-trabajar-20260626214143-nt.html",
@@ -73,6 +173,16 @@
       "caso": "other"
     },
     {
+      "title": "El Rey, tras reunirse con Sheinbaum: “Hay que hablar del futuro y seguir caminando juntos”",
+      "link": "https://www.lavanguardia.com/politica/20260626/11576480/rey-reunirse-sheinbaum-hay-hablar-futuro-seguir-caminando.html",
+      "desc": "Felipe VI&nbsp; califica de “magníficas” las relaciones con&nbsp; México mientras la presidenta mexicana vuelve a referirse a la relevancia del perdón de España por la conquista",
+      "date": "26 Jun 2026 20:26:40 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
+    {
       "title": "Castilla-La Mancha aspira a varias medallas en el Nacional de Atletismo Máster",
       "link": "https://www.abc.es/espana/castilla-la-mancha/toledo/deportes/castillala-mancha-aspira-varias-medallas-nacional-atletismo-20260626202328-nt.html",
       "desc": "La selección castellanomanchega afronta este fin de semana el Campeonato de España Máster de Atletismo con aspiraciones de subir al podio en varias pruebas. La competición se disputa desde este viernes y hasta el domingo en la renovada pista madrileña de Valle",
@@ -131,116 +241,6 @@
       "color": "#c0392b",
       "feedId": "ABC",
       "caso": "lei"
-    },
-    {
-      "title": "La investidura, al trote o al galope: Moreno aprieta y Gavira pone el freno en la aldea del Rocío",
-      "link": "https://www.abc.es/espana/andalucia/trote-galope-pp-aprieta-vox-pone-freno-20260626182720-nts.html",
-      "desc": "En Almonte, Huelva. En la aldea del R o cío , dentro de la ermita de la Virgen... ¿hay un lugar mejor en Andalucía para aparcar las diferencias y soñar con un futuro en común? Centro espiritual de esta tierra, ha acogido este viernes la visita de los dos grand",
-      "date": "Fri, 26 Jun 2026 19:37:10 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "La CHD cede ante el Ayuntamiento de El Espinar y asume el bombeo para evitar que los vecinos se queden sin agua",
-      "link": "https://www.abc.es/espana/castilla-leon/ayuntamiento-espinar-denuncia-40000-personas-agua-proximos-20260626193127-nt.html",
-      "desc": "El alcalde de El Espinar, Javier Figueredo, había denunciado en la mañana de este viernes que casi 40.000 vecinos se podían ver abocados a no tener agua en los próximos días y, más concretamente, a partir de la tarde. Una situación que se iba a producir, según",
-      "date": "Fri, 26 Jun 2026 19:31:27 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Ojo con los insultos en redes: multa de 1.200 euros para una viguesa que llamó «yonki» a un hombre",
-      "link": "https://www.abc.es/espana/galicia/ojo-insultos-redes-multa-1200-euros-viguesa-20260626192020-nt.html",
-      "desc": "Llamada de atención para el comportamiento cívico, también en redes. Una mujer ha sido condenada por la sección Penal del Tribunal de Instancia de Vigo a pagar una multa de 1.260 euros como autora de un delito de injurias, tras llamar «depredador sexual» y «yo",
-      "date": "Fri, 26 Jun 2026 19:20:21 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Cáritas Diocesana de Toledo se une a la campaña confederal de Emergencia con Venezuela",
-      "link": "https://www.abc.es/espana/castilla-la-mancha/toledo/caritas-diocesana-toledo-une-campana-confederal-emergencia-20260626191757-nt.html",
-      "desc": "Cáritas Diocesana de Toledo se ha sumado de manera oficial a la campaña institucional 'Cáritas con Venezuela' para canalizar la solidaridad de los ciudadanos y entidades ante la grave situación que vive el país. Esta iniciativa responde a la catástrofe ocurrid",
-      "date": "Fri, 26 Jun 2026 19:17:58 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "La palabra imaginada (51): Verano de 1995",
-      "link": "https://www.abc.es/espana/castilla-la-mancha/toledo/palabra-imaginada-verano-1995-20260624190412-nt.html",
-      "desc": "LA BAILARINA DE BALLET Y LA DANZA La distancio de grasas en sus músculos fríos, la estimo en meridianos más exactos que Greenwich y le desvelo el cuerpo que su instinto callaba volviéndome venablo, clavándome en su piel. Con lentitud levanto su boca adormecida",
-      "date": "Fri, 26 Jun 2026 19:04:12 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Ana Redondo defiende que «la diversidad es la normalidad»",
-      "link": "https://www.abc.es/espana/castilla-leon/ana-redondo-defiende-diversidad-normalidad-20260626185147-nt.html",
-      "desc": "El patio del Colegio de San Gregorio, sede del Museo Nacional de Escultura en Valladolid, ha acogido este viernes el acto inaugural del programa 'Cultura Orgullosa 2026' con la representación, a cargo de la compañía madrileña Kor'sia, de la pieza de danza cont",
-      "date": "Fri, 26 Jun 2026 18:51:47 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "JG Ingenieros se suma a Incosa y Quinto Armónico para consolidar el sector de la ingeniería",
-      "link": "https://www.abc.es/espana/cataluna/ingenieros-suma-incosa-quinto-armonico-consolidar-sector-20260626184831-nt.html",
-      "desc": "La ingeniería catalana JG Ingenieros se integrará en el grupo formado por Incosa y Quinto Armónico tras ser adquirida por EC Partners Spanish Bidco, en una operación que se enmarca en el proceso de concentración que vive el sector de la ingeniería en España, i",
-      "date": "Fri, 26 Jun 2026 18:48:32 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "El responsable humanitario de la ONU cifra en 50.000 los desaparecidos",
-      "link": "https://www.lavanguardia.com/internacional/20260626/11576414/responsable-humanitario-onu-cifra-50-000-desaparecidos.html",
-      "desc": "Se trata de la primera estimación con voluntad de rigurosidad de una de las partes implicadas",
-      "date": "26 Jun 2026 18:25:14 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "Trump acusa a Irán de haber violado el alto el fuego con sus drones en Ormuz",
-      "link": "https://www.lavanguardia.com/internacional/20260626/11576410/trump-acusa-iran-haber-violado-alto-fuego-drones-ormuz.html",
-      "desc": "El presidente de EE.UU. reprocha a Teherán haber atacado un buque que atravesaba el Estrecho",
-      "date": "26 Jun 2026 18:15:23 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "Sánchez reúne al comité federal para tratar de inyectar “moral de combate” en el PSOE",
-      "link": "https://www.lavanguardia.com/politica/20260626/11576397/sanchez-reune-comite-federal-tratar-inyectar-moral-combate-psoe.html",
-      "desc": "El presidente del Gobierno intenta reanimar a las filas socialistas pese a los reveses judiciales y electorales",
-      "date": "26 Jun 2026 18:00:24 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "Venezuela suma casi 600 muertos: hay cuatro españoles fallecidos, 14 atrapados y 106 desaparecidos",
-      "link": "https://www.lavanguardia.com/internacional/20260626/11575807/terremoto-venezuela-desaparecidos-muertos-caracas-la-guaira-ultima-hora-hoy-en-directo.html",
-      "desc": "Venezuela agradece ante la ONU las muestras de solidaridad mundial tras los terremotos",
-      "date": "26 Jun 2026 14:44:03 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
-      "caso": "other"
     }
   ]
 }
