@@ -1,12 +1,202 @@
 {
-  "updated": "2026-06-27T15:13:02Z",
+  "updated": "2026-06-27T17:04:56Z",
   "count": 24,
   "items": [
     {
-      "title": "Una cita de trámite y sin autocrítica: «Esto no es un Comité Federal, es un comité central»",
-      "link": "https://www.abc.es/espana/cita-tramite-autocritica-comite-federal-comite-central-20260627165507-nt.html",
-      "desc": "El Comité Federal del PSOE se reunía este sábado en Ferraz después de un año en blanco. La última vez que los miembros del máximo órgano entre congresos se vieron las caras lo hicieron con el semblante serio, marcado por dos polémicas muy dañinas para el PSOE:",
-      "date": "Sat, 27 Jun 2026 16:55:07 +0200",
+      "title": "Zamora ya huele a ajo: 90 agricultores venderá 750 toneladas de producto en una feria «referente nacional»",
+      "link": "https://www.abc.es/espana/castilla-leon/zamora-huele-ajo-agricultores-vendera-750-toneladas-20260627185132-nt.html",
+      "desc": "Un total de 90 agricultores, la mayoría de Zamora, excepto los siete procedentes de Badajoz, Cantabria, Palencia y Salamanca, venderá hasta este domingo 750 toneladas de producto en la tradicional Feria del Ajo de Zamora, que abría este sábado. Los precios de ",
+      "date": "Sat, 27 Jun 2026 18:51:33 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "La tragedia de Venezuela golpea a Galicia: una familia desaparecida y emigrantes en vilo",
+      "link": "https://www.abc.es/espana/galicia/galicia-vuelca-venezuela-20260627130114-nt.html",
+      "desc": "La conexión entre Galicia y Venezuela es histórica, con más de 30.000 gallegos residentes en el país sudamericano fruto, sobre todo, de décadas de emigración. Pero está, si cabe, ahora más viva que nunca, pues ese contacto se establece en una doble dirección, ",
+      "date": "Sat, 27 Jun 2026 18:37:41 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "La Asociación de Venezolanos en Valladolid se moviliza para enviar ayuda a los  afectados por el terremoto",
+      "link": "https://www.abc.es/espana/castilla-leon/asociacion-venezolanos-valladolid-moviliza-enviar-ayuda-afectados-20260627181844-nt.html",
+      "desc": "La Asociación de Venezolanos en Valladolid (Asveva) se ha puesto manos a la obra para reunir todo tipo de ayuda humanitaria con destino a su país de origen, tras los devastadores terremotos que asolaron el norte de la nación el pasado miércoles, 24 de junio. H",
+      "date": "Sat, 27 Jun 2026 18:27:57 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Miles de personas se manifiestan en Málaga contra el precio de la vivienda: «Hemos llegado a un límite»",
+      "link": "https://www.abc.es/espana/andalucia/malaga/miles-personas-manifiestan-malaga-precio-vivienda-llegado-20260627182548-nts.html",
+      "desc": "Bajo el lema de «Ni alquileres por las nubes, ni salarios por los suelos», la capital de la Costa del Sol ha sido el escenario de una masiva movilización ciudadana este sábado. Miles de personas han recorrido las principales plazas y calles del centro de Málag",
+      "date": "Sat, 27 Jun 2026 18:25:48 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Gobierno y CECO resaltan que Magtel, firma de Córdoba, esté entre las constructoras de la Base Logística",
+      "link": "https://www.abc.es/espana/andalucia/cordoba/gobierno-ceco-resaltan-magtel-firma-cordoba-constructoras-20260627182227-nts.html",
+      "desc": "Las Administraciones y la patronal CECO han mostrado este sábado ayer su satisfacción por el nuevo avance en la materialización de la Base Logística del Ejército de Tierra (BLET), que se alzará en La Rinconada: el viernes se conoció que el Ministerio de Defens",
+      "date": "Sat, 27 Jun 2026 18:22:27 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Una mujer de 80 años muere ahogada en la playa tarraconense de l'Arquitecte",
+      "link": "https://www.abc.es/espana/cataluna/mujer-anos-muere-ahogada-playa-tarraconense-larquitecte-20260627182200-nt.html",
+      "desc": "Una mujer de 80 años y nacionalidad española ha muerto ahogada este sábado mientras se bañaba en la playa de l'Arquitecte en La Ampolla (Tarragona). El teléfono de Emergencias 112 ha recibido aviso sobre la una de la tarde, cuando varias personas han alertado ",
+      "date": "Sat, 27 Jun 2026 18:22:00 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Talleres, exposiciones, gastronomía, música y teatro en las Jornadas Quijotescas de Madridejos",
+      "link": "https://www.abc.es/espana/castilla-la-mancha/toledo/pueblos/talleres-exposiciones-gastronomia-musica-teatro-jornadas-quijotescas-20260627181622-nt.html",
+      "desc": "Madridejos celebra este fin de semana las XXII Jornadas Quijotescas . Se trata de un notable evento dedicado a la figura de Don Quijote, que tiene por objeto la puesta en valor de la cultura y las tradiciones locales. Protagonizado por diferentes colectivos ma",
+      "date": "Sat, 27 Jun 2026 18:17:52 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "La Fe tendrá una unidad de aislamiento de patógenos de alto riesgo como el ébola",
+      "link": "https://www.abc.es/espana/comunidad-valenciana/alicante/unidad-aislamiento-patogenos-alto-riesgo-ebola-20260627181427-nt.html",
+      "desc": "La Conselleria de Sanidad ha publicado la licitación de la construcción de una nueva Unidad de Aislamiento de Alto Nivel en el Hospital Universitari i Politècnic La Fe de València, diseñada para la atención de enfermedades infecciosas como el ébola, los virus ",
+      "date": "Sat, 27 Jun 2026 18:14:27 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Claudia de Santos 'teje' el poemario 'La Memoria de la nieve' de Julio Llamazares",
+      "link": "https://www.abc.es/espana/castilla-leon/claudia-santos-teje-poemario-memoria-nieve-julio-20260627180531-nt.html",
+      "desc": "La «historia» de la relación de la artista segoviana Claudia de Santos con 'Memoria de la nieve', de Julio Llamazares, es «muy larga». El poemario llevaba en su casa desde que se publicó, en 1982, y lo había leído varias veces, sin embargo, no fue hasta hace t",
+      "date": "Sat, 27 Jun 2026 18:05:31 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Caen los 'robafarmacias' de Tres Cantos: tres individuos que siempre actuaban de noche",
+      "link": "https://www.abc.es/espana/madrid/caen-robafarmacias-tres-cantos-tres-individuos-actuaban-20260627180523-nt.html",
+      "desc": "De madrugada, encapuchados y en menos de un minuto. Así actuaban los 'robafarmacias' de Tres Cantos, tres individuos que tras dar en enero un primer golpe en un restaurante, decidieron centrarse en las boticas de la localidad madrileña: llegaron a irrumpir en ",
+      "date": "Sat, 27 Jun 2026 18:05:23 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Un herido por arma de fuego tras una pelea en el barrio barcelonés de Bon Pastor",
+      "link": "https://www.abc.es/espana/cataluna/herido-arma-fuego-tras-pelea-barrio-barcelones-20260627180059-nt.html",
+      "desc": "Nuevo incidente con un arma de fuego en Barcelona . Un hombre ha resultado herido de bala este sábado tras una pelea en el barrio del Bon Pastor. Según ha avanzado 'El Caso' y ha confirmado este diario, el suceso se ha producido sobre las tres y media de la ta",
+      "date": "Sat, 27 Jun 2026 18:00:59 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "La alcaldesa socialista de Palencia no entiende que el partido se resista a ver que «el rey va desnudo»",
+      "link": "https://www.abc.es/espana/castilla-leon/alcaldesa-socialista-palencia-entiende-partido-resista-ver-20260627175755-nt.html",
+      "desc": "La alcaldesa de Palencia, Miriam Andrés, tomaba este sábado la palabra en el Comité Federal del PSOE para asegurar que no entiende cómo sus compañeros se resisten a ver que «el rey va desnudo», en alusión al presidente del Gobierno y secretario general del par",
+      "date": "Sat, 27 Jun 2026 17:57:55 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "La Junta lanza un canal de emergencia para atender a los andaluces afectados por los terremotos en Venezuela",
+      "link": "https://www.abc.es/espana/andalucia/junta-lanza-canal-emergencia-atender-andaluces-afectados-20260627175731-nts.html",
+      "desc": "Ante las graves consecuencias derivadas de los terremotos registrados en Venezuela el pasado miércoles, 24 de junio, la Junta de Andalucía ha puesto en marcha un operativo de urgencia para asistir a sus conciudadanos. A través de la Consejería de Turismo y And",
+      "date": "Sat, 27 Jun 2026 17:57:31 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Un fallecido en una colisión frontal entre dos turismos en la AB-304 en Cordovilla (Albacete)",
+      "link": "https://www.abc.es/espana/castilla-la-mancha/fallecido-colision-frontal-dos-turismos-ab304-cordovilla-20260627175714-nt.html",
+      "desc": "Un hombre de 77 años de edad ha fallecido este sábado tras una colisión entre dos turismos en la carretera AB-304, en Cordovilla, pedanía de la localidad albaceteña de Tobarra, ha informado el servicio de Emergencias 112 de Castilla-La Mancha. El accidente ha ",
+      "date": "Sat, 27 Jun 2026 17:57:14 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Declarado un incendio en los terrenos de Meta en Torrehierro, a escasos dos kilómetros de Gamonal (Toledo)",
+      "link": "https://www.abc.es/espana/castilla-la-mancha/toledo/pueblos/declarado-incendio-terrenos-meta-torrehierro-escasos-dos-20260627175544-nt.html",
+      "desc": "Un incendio forestal permanece activo desde las 16:11 horas en el polígono industrial de Torrehierro , situado a escasos kilómetros de Gamonal, en la provincia de Toledo. Según el Sistema de Información de Incendios Forestales de la Junta de Comunidades de Cas",
+      "date": "Sat, 27 Jun 2026 17:55:44 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Localizan muerto a un excursionista desaparecido el jueves en el pico de Baborte (Lleida)",
+      "link": "https://www.abc.es/espana/cataluna/localizan-muerto-excursionista-desaparecido-jueves-pico-baborte-20260627175316-nt.html",
+      "desc": "Los Bombers de la Generalitat han localizado a un excursionista muerto en el pico de Baborte, en Alins ( Lérida ), después de recibir un aviso de su desaparición el jueves a las 22.52 horas tras alertar la familia de que el hombre contactó por última vez sobre",
+      "date": "Sat, 27 Jun 2026 17:53:16 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "El PP subraya que «no es descabellado» pensar que «pudiesen imputar» a Sánchez",
+      "link": "https://www.abc.es/espana/pp-subraya-descabellado-pensar-pudiesen-imputar-sanchez-20260627174612-nt.html",
+      "desc": "La portavoz del PP en el Congreso de los Diputados, Ester Muñoz, subrayó este sábado que «no es descabellado» pensar que «pudiesen imputar» al presidente del Gobierno, Pedro Sánchez, por ser quien «ha nombrado directamente» a personas como José Luis Ábalos o S",
+      "date": "Sat, 27 Jun 2026 17:46:12 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Profesionales de Cirugía de Cuenca se forman en cirugía laparoscópia avanzada a través de un curso pionero",
+      "link": "https://www.abc.es/espana/castilla-la-mancha/profesionales-cirugia-cuenca-forman-cirugia-laparoscopia-avanzada-20260627174540-nt.html",
+      "desc": "El Servicio de Cirugía General y Aparato Digestivo del Hospital Universitario de Cuenca (HUCU), dependiente del Servicio de Salud de Castilla-La Mancha (Sescam), ha desarrollado un taller de cirugía laparoscópica avanzada a través de monopuerto para cirugía tr",
+      "date": "Sat, 27 Jun 2026 17:45:40 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Guadalajara acompaña a la comunidad venezolana en una misa por las víctimas de terremoto",
+      "link": "https://www.abc.es/espana/castilla-la-mancha/guadalajara-acompana-comunidad-venezolana-misa-victimas-terremoto-20260627173059-nt.html",
+      "desc": "El Ayuntamiento de Guadalajara ha participado en la mañana de este sábado en la misa celebrada en la iglesia de San Nicolás El Real en memoria de las víctimas del terremoto que ha sacudido Venezuela. La eucaristía, organizada por la Asociación Planeta Migrante",
+      "date": "Sat, 27 Jun 2026 17:31:00 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Benidorm estrena su primera piscina suspendida en altura en un rascacielos",
+      "link": "https://www.abc.es/espana/comunidad-valenciana/alicante/benidorm-estrena-primera-piscina-suspendida-altura-rascacielos-20260627172146-nt.html",
+      "desc": "Esa imagen tan cinematográfica que da glamour de una piscina en las alturas de un rascacielos se acaba de hacer realidad también en Benidorm, donde el Hotel Villa España se ha inaugurado con este reclamo entre sus atractivos para el alojado. Desde el estableci",
+      "date": "Sat, 27 Jun 2026 17:21:47 +0200",
       "source": "ABC",
       "color": "#c0392b",
       "feedId": "ABC",
@@ -33,36 +223,6 @@
       "caso": "other"
     },
     {
-      "title": "La evolución favorable  permite rebajar de nivel tres  incendios del Bierzo",
-      "link": "https://www.abc.es/espana/castilla-leon/evolucion-favorable-permite-rebajar-nivel-tres-incendios-20260627143839-nt.html",
-      "desc": "La evolución favorable de los incendios forestales de la comarca del Bierzo tras los trabajos desarrollados durante la noche permitía a la Junta de Castilla y León rebajar a nivel 0 del Índice de Gravedad Potencial (IGR) los de Pradela (Sotelo), Vega de Valcar",
-      "date": "Sat, 27 Jun 2026 14:39:58 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Inquietud y tristeza de la comunidad venezolana en Castilla-La Mancha: «Hay imágenes que no quieres ver»",
-      "link": "https://www.abc.es/espana/castilla-la-mancha/sjhgjasdfakga-20260627134039-nt.html",
-      "desc": "Incertidumbre, desolación, impotencia y rabia son algunos de los sentimientos que afloran en los venezolanos residentes en Castilla-La Mancha ante las imágenes que llegan desde su país por los dos seísmos que lo azotaron el pasado miércoles a las seis de la ta",
-      "date": "Sat, 27 Jun 2026 14:37:49 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "La joyería de Córdoba da el primer paso para conseguir el sello europeo de calidad",
-      "link": "https://www.abc.es/espana/andalucia/cordoba/joyeria-cordoba-primer-paso-conseguir-sello-europeo-20260627143422-nts.html",
-      "desc": "El sector joyero cordobés ha sido el primero de España en completar la fase nacional de tramitación para obtener la Indicación Geográfica Protegida (IGP) para productos artesanales e industriales y notificar esta situación ante la Oficina de Propiedad Intelect",
-      "date": "Sat, 27 Jun 2026 14:34:23 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
       "title": "Pujol pide ante las juventudes de Junts “integrar a la gente de fuera y cohesionar”",
       "link": "https://www.lavanguardia.com/politica/20260627/11576483/pujol-pide-juventudes-junts-integrar-gente-viene-fuera-cohesionar.html",
       "desc": "La Joventut Nacionalista de Catalunya, con representantes de la organización juvenil de diversas etapas, homenajea al expresident en Planoles",
@@ -70,166 +230,6 @@
       "source": "La Vanguardia",
       "color": "#8e44ad",
       "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "Diana Morant se presentará a las primarias del PSOE valenciano",
-      "link": "https://www.abc.es/espana/comunidad-valenciana/diana-morant-presentara-primarias-psoe-valenciano-20260627142623-nt.html",
-      "desc": "La ministra de Ciencia, Innovación y Universidades y secretaria general del PSPV, Diana Morant, ha anunciado este sábado en el Comité Federal del PSOE que se presentará como candidata a las primarias tan pronto como se apruebe el calendario, al que se da luz v",
-      "date": "Sat, 27 Jun 2026 14:26:24 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Abascal pide a los suyos «respetar» al PP, aunque advierte que abandonará los Gobiernos si incumplen los pactos autonómicos",
-      "link": "https://www.abc.es/espana/abascal-pide-respeto-pp-advierte-abandonaran-gobiernos-20260627133804-nt.html",
-      "desc": "Santiago Abascal bajaba los escalones del Auditorio de la Mutua rodeado de sus simpatizantes. Mientras tanto, la sala aplaude, vitorea, pide fotos y ondea banderas de Vox y de España . El presidente del partido está en un momento dulce: gobierna en coaliciones",
-      "date": "Sat, 27 Jun 2026 14:15:28 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Los 'Héroes del sábado' también lo fueron del viernes en el 'Conexión Valladolid'",
-      "link": "https://www.abc.es/espana/castilla-leon/heroes-sabado-viernes-conexion-valladolid-20260627140757-nt.html",
-      "desc": "El festival Conexión Valladolid tomaba este viernes posesión del Pingüinos Arena para llenar de conciertos al aire libre su octava edición, que durará hasta el domingo. En los dos escenarios principales, sin más de diez minutos entre pase y pase gracias al jue",
-      "date": "Sat, 27 Jun 2026 14:07:57 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Feijóo presiona a Sánchez: «Lleva dos días gobernando contra el Congreso. Es propio de un caudillismo»",
-      "link": "https://www.abc.es/espana/feijoo-presiona-sanchez-lleva-dos-dias-gobernando-20260627135928-nt.html",
-      "desc": "lberto Núñez Feijóo llegó a Barcelona al congreso que nunca terminaba de celebrarse. Se hizo esperar años, pero el PP catalán coronó de manera oficial a Alejandro Fernández como nuevo líder del partido, en un ambiente pacífico y de unidad inimaginable hasta no",
-      "date": "Sat, 27 Jun 2026 13:59:29 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Luz verde a la primera restauración integral del acceso al Castillo de Almodóvar",
-      "link": "https://www.abc.es/espana/andalucia/cordoba/luz-verde-primera-restauracion-integral-acceso-castillo-20260627135726-nts.html",
-      "desc": "La Comisión Provincial de Patrimonio Histórico de Córdoba ha dado el visto bueno al proyecto de consolidación y restauración de la zona de acceso al Castillo de Almodóvar del Río y del tramo de muralla que conduce hasta la Torre Pequeña. La actuación supone el",
-      "date": "Sat, 27 Jun 2026 13:57:26 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Miss Vaca Galicia 2026: Paloma (Orense) se corona en un reñido certamen entre glamour y mugidos",
-      "link": "https://www.abc.es/espana/galicia/miss-vaca-2026-galicia-paloma-orense-corona-20260627135115-nt.html",
-      "desc": "«¡Miss Vaca 2026 va para Paloma!», gritó la presentadora en el certamen de la Televisión de Galicia, mientras la res candidata que representaba a la provincia de Orense era arrastrada por su dueño, con una sonrisa, hasta el centro del escenario. Paloma, escuet",
-      "date": "Sat, 27 Jun 2026 13:51:16 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "El primer premio de la Lotería Nacional, con 600.000 euros al número, cae en Córdoba y Fernán Núñez",
-      "link": "https://www.abc.es/espana/andalucia/cordoba/primer-premio-loteria-nacional-600000-euros-numero-20260627134607-nts.html",
-      "desc": "El sorteo de la Lotería Nacional de este sábado ha repartido suerte en la provincia cordobesa por partida doble: en concreto, el primer premio, dotado con 600.000 euros al número , 60.000 al décimo, ha caído en la capital y en el municipio de Fernán Núñez, seg",
-      "date": "Sat, 27 Jun 2026 13:46:08 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Alejandro Fernández, reelegido presidente del PP catalán para «reconstruir la confianza de las instituciones y entre los catalanes»",
-      "link": "https://www.abc.es/espana/cataluna/alejandro-fernandez-reelegido-presidente-pp-catalan-reconstruir-20260627133035-nt.html",
-      "desc": "Alejandro Fernández ha sido reelegido presidente del PP catalán, este sábado, en Barcelona, durante la celebración del 16º congreso de la formación en Cataluña, cargando contra Salvador Illa y ofreciendo el partido como solución a los catalanes para superar la",
-      "date": "Sat, 27 Jun 2026 13:30:35 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Un sueño cultural al abrigo de Cervantes",
-      "link": "https://www.abc.es/espana/castilla-leon/sueno-cultural-abrigo-cervantes-20260625130739-nt.html",
-      "desc": "Un busto de Mariano Benlliure rinde homenaje en el jardín de la Casa de Cervantes de Valladolid a Benigno de la Vega-Inclán, impulsor de la recuperación del patrimonio, como comisario regio de Turismo, y creador de los Paradores Nacionales. Al lado de la escul",
-      "date": "Sat, 27 Jun 2026 13:07:39 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "'Asamblea', de Juan Carlos Mestre: el poeta, el bardo",
-      "link": "https://www.abc.es/espana/castilla-leon/mestre-poeta-bardo-20260624130339-nt.html",
-      "desc": "Tuvo que ser en 1985, una tarde parda de sementera. Curraba en aquel tiempo de juventud en tareas agrícolas, acababa de llenar un remolque de pedruscos y losas partidos con la maza en el testaral, pura cantera, de la parcela de Los Barranquillos. Baldado, medi",
-      "date": "Sat, 27 Jun 2026 13:03:39 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Nueve nuevos sacerdotes para la diócesis de Córdoba: «Una Iglesia sin miedo a anunciar que Dios está vivo»",
-      "link": "https://www.abc.es/espana/andalucia/cordoba/nueve-nuevos-sacerdotes-diocesis-cordoba-iglesia-miedo-20260627125343-nts.html",
-      "desc": "La diócesis de Córdoba ha incorporado este sábado a nueve nuevos sacerdotes tras la ceremonia de ordenación presbiteral celebrada a las 11.00 horas en la Santa Iglesia Catedral y presidida por el obispo, monseñor Jesús Fernández . Con esta celebración culmina ",
-      "date": "Sat, 27 Jun 2026 12:53:43 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "'La educación del monstruo', de Elvira Mínguez: memoria y miedo, con eme de matiz mate",
-      "link": "https://www.abc.es/espana/castilla-leon/memoria-miedo-eme-matiz-mate-20260624125242-nt.html",
-      "desc": "Conocíamos a la actriz consagrada que explotó en 'Días contados', que nos dejó un gran sabor de boca con sus 'Tapas' y que nos ofreció su más inmediato banquete en 'La cena'. Descubrimos a la escritora cuando nos cautivó con 'La sombra de la tierra', esa histo",
-      "date": "Sat, 27 Jun 2026 12:52:42 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Juzgan a cuatro acusados de embolsarse la pensión de invalidez de una mujer 10 años",
-      "link": "https://www.abc.es/espana/comunidad-valenciana/alicante/juzgan-cuatro-acusados-embolsarse-pension-invalidez-mujer-20260627125026-nt.html",
-      "desc": "Un matrimonio y a su hija se enfrentan a una petición de siete años de prisión acusados de embolsarse la pensión de invalidez de una mujer durante diez años con la excusa de cobrarse la deuda de un hermano suyo, también juzgado por complicidad. Están acusado t",
-      "date": "Sat, 27 Jun 2026 12:50:26 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Miquel Mont:  «Trabajo de forma intuitiva. Responde a un deseo que no llego a verbalizar»",
-      "link": "https://www.abc.es/espana/castilla-leon/miquel-mont-trabajo-forma-intuitiva-responde-deseo-20260623124805-nt.html",
-      "desc": "Miquel Mont (Barcelona, 1963) viste de negro y blanco. Camina despacio entre algunas de las estructuras tridimensionales que realizó para la serie 'Realismo de Mercado' con el fin de comprobar que todo está en su sitio antes de que comience la presentación de ",
-      "date": "Sat, 27 Jun 2026 12:48:05 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Dos años de cárcel por un robo violento de solo 3 euros en Baena",
-      "link": "https://www.abc.es/espana/andalucia/cordoba/dos-anos-carcel-robo-violento-solo-euros-20260627124524-nts.html",
-      "desc": "El botín apenas alcanzó los tres euros, pero las consecuencias penales han sido mucho más elevadas. La Audiencia Provincial de Córdoba ha confirmado la condena de dos años de prisión impuesta a un hombre que asaltó y golpeó a un viandante en una calle de Baena",
-      "date": "Sat, 27 Jun 2026 12:45:25 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "El PP pide a Page que exija la dimisión de Sánchez porque de no hacerlo «quedará claro que todo ha sido un teatrillo»",
-      "link": "https://www.abc.es/espana/castilla-la-mancha/pp-pide-page-exija-dimision-sanchez-hacerlo-20260627124208-nt.html",
-      "desc": "El Partido Popular de Castilla-La Mancha ha reclamado este sábado al presidente regional, Emiliano García-Page, que aproveche la celebración del Comité Federal del PSOE para exigir la dimisión del presidente del Gobierno, Pedro Sánchez, y la convocatoria de el",
-      "date": "Sat, 27 Jun 2026 12:42:09 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
       "caso": "other"
     },
     {
