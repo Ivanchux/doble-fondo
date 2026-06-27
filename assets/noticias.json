@@ -1,7 +1,17 @@
 {
-  "updated": "2026-06-27T20:57:16Z",
+  "updated": "2026-06-27T22:58:42Z",
   "count": 24,
   "items": [
+    {
+      "title": "El PP de Córdoba: «Estamos donde tenemos que estar, al lado del colectivo Lgtbi»",
+      "link": "https://www.abc.es/espana/andalucia/cordoba/pp-cordoba-estar-lado-colectivo-lgtbi-20260627230053-nts.html",
+      "desc": "El vicesecretario de Educación e Igualdad del Partido Popular , Jaime de los Santos , ha reivindicado este sábado en Córdoba el «firme compromiso» de este partido con la defensa de la igualdad, la libertad y los derechos del colectivo Lgtbi . Lo ha hecho duran",
+      "date": "Sat, 27 Jun 2026 23:00:53 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
     {
       "title": "La Guardia Civil rescata en helicóptero a un barranquista herido en Jaén",
       "link": "https://www.abc.es/espana/andalucia/guardia-civil-rescata-barranquista-herido-helicoptero-jaen-20260627220349-nts.html",
@@ -73,6 +83,16 @@
       "caso": "other"
     },
     {
+      "title": "Yeremy Pino no tiene fractura y Nico Williams sufre una lesión muscular",
+      "link": "https://www.lavanguardia.com/deportes/futbol/mundial-2026/20260627/11577127/yeremy-pino-fractura-nico-williams-sufre-lesion-muscular.html",
+      "desc": "Aunque el comunicado no los descarta, ambos jugadores tienen muy difícil volver a jugar en este Mundial",
+      "date": "27 Jun 2026 21:20:50 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
+    {
       "title": "Sánchez replica a Page por pedir adelanto electoral y le recuerda que en 2016 favoreció la investidura de Rajoy",
       "link": "https://www.abc.es/espana/castilla-la-mancha/sanchez-replica-page-pedir-adelanto-electoral-recuerda-20260627205123-nt.html",
       "desc": "El presidente del Gobierno y secretario general del PSOE, Pedro Sánchez, ha respondido a las críticas del presidente de Castilla La Mancha, Emiliano García-Page, recordándole que en el año 2016 formaba parte del sector socialista que favoreció la investidura d",
@@ -113,6 +133,26 @@
       "caso": "other"
     },
     {
+      "title": "Se elevan a 1.430 los muertos por los terremotos de Venezuela",
+      "link": "https://www.lavanguardia.com/internacional/20260627/11577111/elevan-1-430-personas-fallecidas-terremotos-venezuela.html",
+      "desc": "El número oficial de españoles que han fallecido en el desastre natural asciende a seis",
+      "date": "27 Jun 2026 19:41:38 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
+    {
+      "title": "Los ataques entre Irán y EE.UU. amenazan la reactivación de Ormuz",
+      "link": "https://www.lavanguardia.com/internacional/20260627/11577106/ataques-iran-ee-uu-amenazan-reactivacion-ormuz.html",
+      "desc": "Se trata de la peor escalada desde el alto el fuego sellado el 17 de junio",
+      "date": "27 Jun 2026 19:29:43 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
+    {
       "title": "Muere un motorista en un accidente de tráfico en Arteixo (La Coruña)",
       "link": "https://www.abc.es/espana/galicia/muere-motorista-accidente-trafico-arteixo-coruna-20260627192540-nt.html",
       "desc": "Un motorista ha fallecido este sábado en un accidente de tráfico en el municipio coruñés de Arteixo, en la AC-415, alrededor del kilómetro 5, a su paso por la parroquia de A Pastoriza. Según ha informado el 112, el servicio tuvo constancia del accidente alrede",
@@ -120,6 +160,26 @@
       "source": "ABC",
       "color": "#c0392b",
       "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Ya nadie bromea con Cabo Verde",
+      "link": "https://www.lavanguardia.com/deportes/futbol/20260627/11577105/nadie-bromea-cabo-verde.html",
+      "desc": "La modesta selección africana da la gran campanada y se cita con Argentina en dieciseisavos",
+      "date": "27 Jun 2026 19:22:25 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
+    {
+      "title": "Irán estalla contra la FIFA: “Este Mundial es un desastre”",
+      "link": "https://www.lavanguardia.com/deportes/futbol/20260627/11577097/iran-estalla-fifa-mundial-desastre.html",
+      "desc": "El capitán de la selección iraní muestra su descontento tras el empate contra Egipto: “Nos quieren fuera”",
+      "date": "27 Jun 2026 19:12:38 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
       "caso": "other"
     },
     {
@@ -140,6 +200,16 @@
       "source": "ABC",
       "color": "#c0392b",
       "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "La ola de calor que asfixia a Europa ya afecta a más de 193 millones de personas",
+      "link": "https://www.lavanguardia.com/vida/20260627/11577080/ola-calor-asfixia-europa-afecta-mas-193-millones-personas.html",
+      "desc": "El calor avanza hacia el noreste y ahora se suma a las alertas el riesgo por tormentas muy violentas",
+      "date": "27 Jun 2026 18:49:58 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
       "caso": "other"
     },
     {
@@ -170,76 +240,6 @@
       "source": "ABC",
       "color": "#c0392b",
       "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Gobierno y CECO resaltan que Magtel, firma de Córdoba, esté entre las constructoras de la Base Logística",
-      "link": "https://www.abc.es/espana/andalucia/cordoba/gobierno-ceco-resaltan-magtel-firma-cordoba-constructoras-20260627182227-nts.html",
-      "desc": "Las Administraciones y la patronal CECO han mostrado este sábado ayer su satisfacción por el nuevo avance en la materialización de la Base Logística del Ejército de Tierra (BLET), que se alzará en La Rinconada: el viernes se conoció que el Ministerio de Defens",
-      "date": "Sat, 27 Jun 2026 18:22:27 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Una mujer de 80 años muere ahogada en la playa tarraconense de l'Arquitecte",
-      "link": "https://www.abc.es/espana/cataluna/mujer-anos-muere-ahogada-playa-tarraconense-larquitecte-20260627182200-nt.html",
-      "desc": "Una mujer de 80 años y nacionalidad española ha muerto ahogada este sábado mientras se bañaba en la playa de l'Arquitecte en La Ampolla (Tarragona). El teléfono de Emergencias 112 ha recibido aviso sobre la una de la tarde, cuando varias personas han alertado ",
-      "date": "Sat, 27 Jun 2026 18:22:00 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Talleres, exposiciones, gastronomía, música y teatro en las Jornadas Quijotescas de Madridejos",
-      "link": "https://www.abc.es/espana/castilla-la-mancha/toledo/pueblos/talleres-exposiciones-gastronomia-musica-teatro-jornadas-quijotescas-20260627181622-nt.html",
-      "desc": "Madridejos celebra este fin de semana las XXII Jornadas Quijotescas . Se trata de un notable evento dedicado a la figura de Don Quijote, que tiene por objeto la puesta en valor de la cultura y las tradiciones locales. Protagonizado por diferentes colectivos ma",
-      "date": "Sat, 27 Jun 2026 18:17:52 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "El Gobierno eleva a 133 los españoles desaparecidos en Venezuela y mantiene cinco muertos y 14 atrapados",
-      "link": "https://www.lavanguardia.com/internacional/20260627/11576996/gobierno-eleva-133-espanoles-desaparecidos-venezuela-mantiene-cinco-muertos-14-atrapados.html",
-      "desc": "Albares asegura que ya ha sido entregado el primer paquete financiero de la AECID para las primeras necesidades",
-      "date": "27 Jun 2026 15:06:14 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "Feijóo pide que Catalunya sea la llave que saque a Sánchez de la Moncloa",
-      "link": "https://www.lavanguardia.com/politica/20260627/11576984/feijoo-pide-catalunya-sea-llave-saque-sanchez-moncloa.html",
-      "desc": "Alejandro Fernández es reelegido presidente del PP catalán con el 97,5% de los votos y asume el reto de ser determinante en las próximas generales",
-      "date": "27 Jun 2026 14:42:38 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "Pujol pide ante las juventudes de Junts “integrar a la gente de fuera y cohesionar”",
-      "link": "https://www.lavanguardia.com/politica/20260627/11576483/pujol-pide-juventudes-junts-integrar-gente-viene-fuera-cohesionar.html",
-      "desc": "La Joventut Nacionalista de Catalunya, con representantes de la organización juvenil de diversas etapas, homenajea al expresident en Planoles",
-      "date": "27 Jun 2026 14:26:40 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "Sánchez se defiende ante la corrupción y lanza al PSOE a la “batalla” del 2027",
-      "link": "https://www.lavanguardia.com/politica/20260627/11576942/sanchez-pide-coraje-psoe-han-querido-quebrar-partido-tiro-toalla.html",
-      "desc": "El presidente del Gobierno se defiende ante la sucesión de escándalos de corrupción y lanza a los socialistas a una “cruenta batalla” en el próximo ciclo electoral del 2027, que dirimirá “entre el progreso y la involución”",
-      "date": "27 Jun 2026 12:19:46 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
       "caso": "other"
     }
   ]
