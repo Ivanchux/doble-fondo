@@ -1,7 +1,97 @@
 {
-  "updated": "2026-06-27T02:42:56Z",
+  "updated": "2026-06-27T06:49:28Z",
   "count": 24,
   "items": [
+    {
+      "title": "El emotivo gesto de Álex Baena con la 'Princesa Futbolera Guerrera': «Seguro que María ha dado una patadita a ese balón»",
+      "link": "https://www.abc.es/espana/castilla-leon/emotivo-gesto-alex-baena-princesa-futbolera-guerrera-20260627083656-nt.html",
+      "desc": "El triunfo de España ante Uruguay tuvo esta madrugada dos protagonistas. El primero, Álex Baena, autor del único gol del encuentro: el segundo, la pequeña salmantina María Caamaño, la 'Princesa Futbolera Guerrera', que perdía la vida el pasado mes de abril tra",
+      "date": "Sat, 27 Jun 2026 08:37:54 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Mercadona abre este domingo 28 de junio supermercados con horario especial",
+      "link": "https://www.abc.es/espana/comunidad-valenciana/mercadona-abre-domingo-junio-supermercados-valencianos-horario-20260627190723-nt.html",
+      "desc": "Mercadona abre este domingo, 28 de junio, algunos de sus supermercados en la Comunidad Valenciana, dentro de las aperturas que la compañía tiene previsto realizar durante el verano en tiendas situadas en zonas costeras. Los establecimientos de varios municipio",
+      "date": "Sat, 27 Jun 2026 08:34:27 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Qué abre hoy domingo en Valencia: horario de El Corte Inglés y los centros comerciales",
+      "link": "https://www.abc.es/espana/comunidad-valenciana/abre-hoy-domingo-valencia-horario-corte-ingles-20260627083357-nt.html",
+      "desc": "Algunos establecimientos comerciales de la ciudad de Valencia, ubicados en zonas de gran afluencia turísticas, suben la persiana este domingo, 28 de junio, en plena campaña de rebajas de verano. El Corte Inglés abre sus centros de Pintor Sorolla, Colón, Nuevo ",
+      "date": "Sat, 27 Jun 2026 08:33:58 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "El pueblo conocido como 'la Venecia de Canarias': un paraíso de playas y canales donde es verano todo el año",
+      "link": "https://www.abc.es/espana/canarias/pueblo-conocido-venecia-canarias-paraiso-playas-canales-20260627165929-nt.html",
+      "desc": "Con más de 300 días de sol al año existe en la costa de Gran Canaria un lugar en el que uno podría vivir un verano eterno. Uno de esos destinos con los que fallar es casi imposible cuando se busca buen clima. Escondido entre montañas volcánicas y bañado por el",
+      "date": "Sat, 27 Jun 2026 08:30:22 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Fallece al precipitarse desde un segundo piso cuando trabajaba en un tejado en León",
+      "link": "https://www.abc.es/espana/castilla-leon/fallece-precipitarse-segundo-piso-trabajaba-tejado-leon-20260627074642-nt.html",
+      "desc": "Fallece un hombre de unos 50 años de edad al precipitarse desde un segundo piso a un patio interior mientras trabajaba en un tejado a la altura del número 15 de la calle Rúa, en la capital leonesa El accidente se produjo a las 11.39 horas y, según informó el S",
+      "date": "Sat, 27 Jun 2026 07:47:17 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Los franciscanos de Vélez-Málaga, de expulsados de la ciudad a recibir la medalla de oro",
+      "link": "https://www.abc.es/espana/andalucia/malaga/velezmalaga-orden-franciscana-historia-500-anos-compromiso-20260627135750-nts.html",
+      "desc": "Más de cinco siglos después de que un fraile franciscano pisara Vélez-Málaga con la misión de fundar un convento, y casi doscientos años desde que la Desamortización de Mendizábal obligara a la orden a abandonar la ciudad, los franciscanos van a recibir uno de",
+      "date": "Sat, 27 Jun 2026 07:15:09 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "El alcalde de Almonte maniobra para aprobar al tercer intento la zona azul de Matalascañas investigada por una juez",
+      "link": "https://www.abc.es/espana/andalucia/huelva/alcalde-almonte-maniobra-aprobar-tercer-intento-zona-20260627192019-nts.html",
+      "desc": "«Si os cabía duda, claro que lo vamos a hacer; nuestra insistencia va a ser traer esto una y otra vez hasta que salga». El alcalde de Almonte, Paco Bella (Ilusiona), ha cumplido su advertencia y ha convocado un Pleno extraordinario el próximo jueves 2 de julio",
+      "date": "Sat, 27 Jun 2026 07:13:59 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Andalucía necesita ya formar Gobierno para aprobar a tiempo los presupuestos",
+      "link": "https://www.abc.es/espana/andalucia/andalucia-necesita-formar-gobierno-aprobar-tiempo-presupuestos-20260627115020-nts.html",
+      "desc": "Las cuentas salen... todavía. Pero el tiempo empieza a ser un enemigo. Andalucía necesita de un Gobierno pronto, «cuanto antes», para empezar a trabajar en los presupuestos del 2027 y poder aprobarlos en tiempo y forma para su entrada en vigor el 1 de enero. E",
+      "date": "Sat, 27 Jun 2026 07:12:55 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "El joven que muestra la cara más dura del Alzheimer para cumplir el sueño de su madre",
+      "link": "https://www.abc.es/espana/comunidad-valenciana/2000-seguidores-millon-historia-valenciano-muestra-cara-20260627052350-nt.html",
+      "desc": "Hace poco más de un año, Luis Lozano era un creador de contenido valenciano que compartía vídeos de viajes en sus redes sociales, en las que apenas tenía 2.000 seguidores. Hoy supera el millón. Sin embargo, detrás de ese crecimiento vertiginoso no hay estrateg",
+      "date": "Sat, 27 Jun 2026 05:30:03 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
     {
       "title": "La Milla de Oro de Madrid frena su auge: la compraventa para reformas cae un 60% en el barrio Salamanca",
       "link": "https://www.abc.es/espana/madrid/milla-oro-madrid-roza-techo-compraventa-reformas-20260611015951-nt.html",
@@ -83,6 +173,16 @@
       "caso": "other"
     },
     {
+      "title": "España y Uruguay se juegan la primera plaza de grupo | Sigue el partido al minuto",
+      "link": "https://www.lavanguardia.com/deportes/futbol/20260627/11576067/uruguay-espana-mundial-2026-selecciones-partido-futbol-hoy-en-directo.html",
+      "desc": "Sigue el directo del Uruguay - España, correspondiente a la tercera jornada de la fase de grupos del Mundial",
+      "date": "27 Jun 2026 01:15:13 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
+    {
       "title": "Sandía, patilla en Venezuela",
       "link": "https://www.lavanguardia.com/opinion/20260627/11576434/sandia-patilla-venezuela.html",
       "desc": "Gran parte del mundo está partido en dos mitades; opuestas; antitéticas",
@@ -137,106 +237,6 @@
       "link": "https://www.abc.es/espana/galicia/secreto-detras-agua-congelada-playas-rias-baixas-20260626000000-nt.html",
       "desc": "Las playas de las Rías Baixas son famosas por sus paisajes paradisíacos de arena blanca y aguas de un azul turquesa que recuerdan inevitablemente al Caribe. Sin embargo, cualquier bañista que intente sumergirse en ellas este verano notará de inmediato un contr",
       "date": "Sat, 27 Jun 2026 00:00:00 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Senegal se aferra al milagro con una goleada histórica a Irak",
-      "link": "https://www.lavanguardia.com/deportes/20260626/11576562/mundial-2026-senegal-goleada-irak-aferra-milagro-clasificacion-dieciseisavos-mejores-terceras.html",
-      "desc": "Los campeones no reconocidos de África se convierten en la primera selección africana que marca 5 goles en un Mundial&nbsp;",
-      "date": "26 Jun 2026 23:16:01 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "Un 'hat-trick' de Dembélé sentencia a Noruega en media hora",
-      "link": "https://www.lavanguardia.com/deportes/20260626/11576558/hat-trick-dembele-sentencia-noruega-media-hora.html",
-      "desc": "El delantero francés se une a la batalla por el pichichi tras golear a unos nórdicos con rotaciones y sin Haaland",
-      "date": "26 Jun 2026 23:07:12 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "La ONU cifra en 50.000 los desaparecidos en el doble seísmo de Venezuela",
-      "link": "https://www.lavanguardia.com/internacional/20260626/11576414/responsable-humanitario-onu-cifra-50-000-desaparecidos.html",
-      "desc": "Las autoridades admiten 920 muertos y 3.360 heridos y no se aventuran sobre los no localizados",
-      "date": "26 Jun 2026 22:51:42 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "Las sanciones estadounidenses dificultan la ayuda a Venezuela tras el doble terremoto",
-      "link": "https://www.lavanguardia.com/internacional/20260626/11575805/sanciones-estadounidenses-dificultan-ayuda-venezuela-doble-terremoto.html",
-      "desc": "Expertos económicos piden el levantamiento de las restricciones para facilitar la asistencia humanitaria",
-      "date": "26 Jun 2026 22:25:14 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "Felipe VI se solidariza con «un país tan querido como Venezuela» y habla de «trabajar por el futuro» de México y España",
-      "link": "https://www.abc.es/espana/casa-real/felipe-solidariza-pais-querido-venezuela-habla-trabajar-20260626214143-nt.html",
-      "desc": "El Rey Felipe ha enviado un mensaje de solidaridad al pueblo venezolano y ha asegurado tras su reunión de este viernes con la presidenta mexicana, Claudia Sheinbaum, que hay que «trabajar en el futuro y crear las mejores condiciones» para la relación entre Esp",
-      "date": "Fri, 26 Jun 2026 21:41:44 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Salud, cultura, deporte e inclusión: así repartirá la Fundación Soliss sus Ayudas 2026",
-      "link": "https://www.abc.es/espana/castilla-la-mancha/salud-cultura-deporte-inclusion-repartira-fundacion-soliss-20260626214115-nt.html",
-      "desc": "La Fundación Soliss ha cerrado el proceso de selección de las Ayudas Soliss 2026, una convocatoria con la que financiará proyectos de carácter social, sanitario, cultural, deportivo y medioambiental impulsados por entidades de toda Castilla-La Mancha. La entid",
-      "date": "Fri, 26 Jun 2026 21:41:15 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "El enésimo ultimátum del TSJA al Ayuntamiento de Carboneras para que anule la licencia del Algarrobico, esta vez en 20 días",
-      "link": "https://www.abc.es/espana/andalucia/almeria/enesimo-ultimatum-tsja-ayuntamiento-carboneras-anule-licencia-20260626211725-nts.html",
-      "desc": "El Tribuna Superior de Justicia de Andalucía (TSJA) ha dado un nuevo ultimátum al Ayuntamiento de Carboneras para que complete el procedimiento de anulación de la licencia de obras del hotel de El Algarrobico. En un auto, fija un plazo máximo e improrrogable d",
-      "date": "Fri, 26 Jun 2026 21:20:28 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Page, o con España o con Sánchez",
-      "link": "https://www.abc.es/espana/castilla-la-mancha/page-espana-sanchez-20260626211646-nt.html",
-      "desc": "Ya no quedan alternativas. Emiliano García-Page no puede seguir refugiándose en el ruido de las palabras para tapar el estruendo de sus hechos. Durante años Page ha construido un personaje político basado en la crítica calculada a Pedro Sánchez, en el amago pe",
-      "date": "Fri, 26 Jun 2026 21:16:47 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "La misión más emocionante de la Guardia Civil de Córdoba: jornada en el Campamento para niños con cáncer",
-      "link": "https://www.abc.es/espana/andalucia/cordoba/mision-emocionante-guardia-civil-cordoba-jornada-campamento-20260626210845-nts.html",
-      "desc": "La Asociación Española Contra el Cáncer en Córdoba (AECC) ha informado este viernes, en un comunicado, de que su Campamento de Verano para menores con cáncer y sus hermanos, celebrado en el Hotel El Pilar de La Carlota, ha vivido «una jornada inolvidable» grac",
-      "date": "Fri, 26 Jun 2026 21:08:45 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Comportamiento miserable y cicatero del Gobierno regional",
-      "link": "https://www.abc.es/espana/castilla-la-mancha/comportamiento-miserable-cicatero-gobierno-regional-20260626204455-nt.html",
-      "desc": "Les confieso que me causa una gran tristeza e indignación escribir un año más de este asunto. Considero una actitud deleznable y un comportamiento cicatero y miserable el comportamiento que tiene nuestro Gobierno regional de la Junta de Comunidades con ese bel",
-      "date": "Fri, 26 Jun 2026 20:47:29 +0200",
       "source": "ABC",
       "color": "#c0392b",
       "feedId": "ABC",
