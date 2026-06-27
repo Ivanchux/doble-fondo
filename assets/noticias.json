@@ -1,7 +1,77 @@
 {
-  "updated": "2026-06-27T19:13:30Z",
+  "updated": "2026-06-27T20:57:16Z",
   "count": 24,
   "items": [
+    {
+      "title": "La Guardia Civil rescata en helicóptero a un barranquista herido en Jaén",
+      "link": "https://www.abc.es/espana/andalucia/guardia-civil-rescata-barranquista-herido-helicoptero-jaen-20260627220349-nts.html",
+      "desc": "Durante la tarde de este sábado, un varón de 55 años, vecino de la localidad granadina de Baza, ha resultado herido tras sufrir un accidente mientras practicaba barranquismo en la poza final del Barranco de la Bolera , en el término municipal de Pozo Alcón (Ja",
+      "date": "Sat, 27 Jun 2026 22:26:36 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Buscan a un menor de unos 10 años desaparecido mientras se bañaba en el río Pisuerga, en Valladolid",
+      "link": "https://www.abc.es/espana/castilla-leon/buscan-menor-anos-desaparecido-banaba-rio-pisuerga-20260627221841-nt.html",
+      "desc": "Bomberos, Policía Municipal, Policía Nacional y Emergencias Sanitarias se han desplazado hasta la Playa de las Moreras, en Valladolid, para participar en el rescate de un menor de unos diez años desaparecido en las aguas del río Pisuerga, en concreto en el ent",
+      "date": "Sat, 27 Jun 2026 22:19:36 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "María Jesús Montero reprende a Page en el comité federal del PSOE: «No nos metamos el dedo entre nosotros»",
+      "link": "https://www.abc.es/espana/andalucia/maria-jesus-montero-reprende-page-comite-federal-20260627215549-nts.html",
+      "desc": "El Comité Federal del PSOE celebrado este sábado en Ferraz ha escenificado un choque de trenes entre María Jesús Montero y Emiliano García-Page. La secretaria general de los socialistas andaluzas, ejerciendo como fiel escudera de Pedro Sánchez, ha reprendido a",
+      "date": "Sat, 27 Jun 2026 21:57:03 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Canarias ofrece médicos, arquitectos, psicólogos y trabajadores sociales para ayudar tras los terremotos de Venezuela",
+      "link": "https://www.abc.es/espana/canarias/canarias-ofrece-medicos-arquitectos-psicologos-trabajadores-sociales-20260627213658-nt.html",
+      "desc": "El Gobierno de Canarias ha ofrecido al Estado una capacidad máxima de hasta 19 profesionales especializados para colaborar en la respuesta internacional ante la emergencia registrada en Venezuela. Se ha conformado una propuesta integrada por cinco médicos y mé",
+      "date": "Sat, 27 Jun 2026 21:36:58 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Una ciudad que sonríe",
+      "link": "https://www.abc.es/espana/castilla-leon/ciudad-sonrie-20260626213552-nt.html",
+      "desc": "Hay ciudades que aprendemos de memoria en los mapas y ciudades que viven en la memoria, la guardan y la celebran. Zamora, mi pequeña y hermosa Zamora, durante sus fiestas de San Pedro, pertenece a las segundas. Apenas se anuncia el verano cuando esta pequeña c",
+      "date": "Sat, 27 Jun 2026 21:35:52 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "La cantera gastronómica de Castilla y León pide paso",
+      "link": "https://www.abc.es/espana/castilla-leon/1000-20260528212559-nt.html",
+      "desc": "Castilla y León tiene cantera gastronómica. En sus manos está ahora revindicar y cuidar una tradición culinaria que pide paso. De hecho, ya lo hace y así lo ha demostrado en una comunidad de tan reconocida cocina como es el País Vasco. Quince perfiles vinculad",
+      "date": "Sat, 27 Jun 2026 21:25:59 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Si es progre no es tan grave",
+      "link": "https://www.abc.es/espana/castilla-leon/pogre-grave-20260626212301-nt.html",
+      "desc": "«Ni el Ayuntamiento ni yo somos investigados o acusados» así de desahogado se mostraba este jueves el ex alcalde de Soria y actual secretario autonómico del PSOE, Carlos Martínez, después de la detención de la que fuera su número dos en el ayuntamiento y del i",
+      "date": "Sat, 27 Jun 2026 21:23:01 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
     {
       "title": "Sánchez replica a Page por pedir adelanto electoral y le recuerda que en 2016 favoreció la investidura de Rajoy",
       "link": "https://www.abc.es/espana/castilla-la-mancha/sanchez-replica-page-pedir-adelanto-electoral-recuerda-20260627205123-nt.html",
@@ -127,76 +197,6 @@
       "link": "https://www.abc.es/espana/castilla-la-mancha/toledo/pueblos/talleres-exposiciones-gastronomia-musica-teatro-jornadas-quijotescas-20260627181622-nt.html",
       "desc": "Madridejos celebra este fin de semana las XXII Jornadas Quijotescas . Se trata de un notable evento dedicado a la figura de Don Quijote, que tiene por objeto la puesta en valor de la cultura y las tradiciones locales. Protagonizado por diferentes colectivos ma",
       "date": "Sat, 27 Jun 2026 18:17:52 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "La Fe tendrá una unidad de aislamiento de patógenos de alto riesgo como el ébola",
-      "link": "https://www.abc.es/espana/comunidad-valenciana/alicante/unidad-aislamiento-patogenos-alto-riesgo-ebola-20260627181427-nt.html",
-      "desc": "La Conselleria de Sanidad ha publicado la licitación de la construcción de una nueva Unidad de Aislamiento de Alto Nivel en el Hospital Universitari i Politècnic La Fe de València, diseñada para la atención de enfermedades infecciosas como el ébola, los virus ",
-      "date": "Sat, 27 Jun 2026 18:14:27 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Claudia de Santos 'teje' el poemario 'La Memoria de la nieve' de Julio Llamazares",
-      "link": "https://www.abc.es/espana/castilla-leon/claudia-santos-teje-poemario-memoria-nieve-julio-20260627180531-nt.html",
-      "desc": "La «historia» de la relación de la artista segoviana Claudia de Santos con 'Memoria de la nieve', de Julio Llamazares, es «muy larga». El poemario llevaba en su casa desde que se publicó, en 1982, y lo había leído varias veces, sin embargo, no fue hasta hace t",
-      "date": "Sat, 27 Jun 2026 18:05:31 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Caen los 'robafarmacias' de Tres Cantos: tres individuos que siempre actuaban de noche",
-      "link": "https://www.abc.es/espana/madrid/caen-robafarmacias-tres-cantos-tres-individuos-actuaban-20260627180523-nt.html",
-      "desc": "De madrugada, encapuchados y en menos de un minuto. Así actuaban los 'robafarmacias' de Tres Cantos, tres individuos que tras dar en enero un primer golpe en un restaurante, decidieron centrarse en las boticas de la localidad madrileña: llegaron a irrumpir en ",
-      "date": "Sat, 27 Jun 2026 18:05:23 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Un herido por arma de fuego tras una pelea en el barrio barcelonés de Bon Pastor",
-      "link": "https://www.abc.es/espana/cataluna/herido-arma-fuego-tras-pelea-barrio-barcelones-20260627180059-nt.html",
-      "desc": "Nuevo incidente con un arma de fuego en Barcelona . Un hombre ha resultado herido de bala este sábado tras una pelea en el barrio del Bon Pastor. Según ha avanzado 'El Caso' y ha confirmado este diario, el suceso se ha producido sobre las tres y media de la ta",
-      "date": "Sat, 27 Jun 2026 18:00:59 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "La alcaldesa socialista de Palencia no entiende que el partido se resista a ver que «el rey va desnudo»",
-      "link": "https://www.abc.es/espana/castilla-leon/alcaldesa-socialista-palencia-entiende-partido-resista-ver-20260627175755-nt.html",
-      "desc": "La alcaldesa de Palencia, Miriam Andrés, tomaba este sábado la palabra en el Comité Federal del PSOE para asegurar que no entiende cómo sus compañeros se resisten a ver que «el rey va desnudo», en alusión al presidente del Gobierno y secretario general del par",
-      "date": "Sat, 27 Jun 2026 17:57:55 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "La Junta lanza un canal de emergencia para atender a los andaluces afectados por los terremotos en Venezuela",
-      "link": "https://www.abc.es/espana/andalucia/junta-lanza-canal-emergencia-atender-andaluces-afectados-20260627175731-nts.html",
-      "desc": "Ante las graves consecuencias derivadas de los terremotos registrados en Venezuela el pasado miércoles, 24 de junio, la Junta de Andalucía ha puesto en marcha un operativo de urgencia para asistir a sus conciudadanos. A través de la Consejería de Turismo y And",
-      "date": "Sat, 27 Jun 2026 17:57:31 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Un fallecido en una colisión frontal entre dos turismos en la AB-304 en Cordovilla (Albacete)",
-      "link": "https://www.abc.es/espana/castilla-la-mancha/fallecido-colision-frontal-dos-turismos-ab304-cordovilla-20260627175714-nt.html",
-      "desc": "Un hombre de 77 años de edad ha fallecido este sábado tras una colisión entre dos turismos en la carretera AB-304, en Cordovilla, pedanía de la localidad albaceteña de Tobarra, ha informado el servicio de Emergencias 112 de Castilla-La Mancha. El accidente ha ",
-      "date": "Sat, 27 Jun 2026 17:57:14 +0200",
       "source": "ABC",
       "color": "#c0392b",
       "feedId": "ABC",
