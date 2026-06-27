@@ -1,7 +1,87 @@
 {
-  "updated": "2026-06-26T23:01:51Z",
+  "updated": "2026-06-27T02:42:56Z",
   "count": 24,
   "items": [
+    {
+      "title": "La Milla de Oro de Madrid frena su auge: la compraventa para reformas cae un 60% en el barrio Salamanca",
+      "link": "https://www.abc.es/espana/madrid/milla-oro-madrid-roza-techo-compraventa-reformas-20260611015951-nt.html",
+      "desc": "Más de un lustro de gloria en la compraventa masiva en la Milla de Oro madrileña parece estar llegando a su fin. A la ralentización del cierre de operaciones que se viene detectando en los últimos meses, hay que sumar que el mercado de inversión inmobiliaria r",
+      "date": "Sat, 27 Jun 2026 01:59:51 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "El PP intenta paralizar el tratado que permite 'intercambiar' ministros con Francia",
+      "link": "https://www.abc.es/espana/pp-intenta-paralizar-tratado-permite-intercambiar-ministros-20260627015910-nt.html",
+      "desc": "El PP sigue convencido de que el tratado de amistad entre España y Francia es inconstitucional. Por eso, se prepara para intentar paralizarlo en el Senado, donde, con su mayoría absoluta, ganará tiempo. El Grupo Parlamentario Popular ha registrado una propuest",
+      "date": "Sat, 27 Jun 2026 01:59:10 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Vox no hará «excepciones» con Moreno y apunta a una primera investidura fallida",
+      "link": "https://www.abc.es/espana/andalucia/vox-hara-excepciones-moreno-apunta-primera-investidura-20260627015809-nt.html",
+      "desc": "En la cúpula de Vox sorprendió el anuncio de la fecha en la que se debatirá la investidura de Juanma Moreno. No es que el acuerdo sea imposible, dicen. Pero ven complicado llegar a tiempo el martes, cuando se producirá la primera votación. 48 horas más tarde, ",
+      "date": "Sat, 27 Jun 2026 01:58:09 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "El juez Calama obliga al Gobierno a decidir si rompe con Zapatero y le acusa por las joyas a través de Hacienda",
+      "link": "https://www.abc.es/espana/juez-calama-obliga-gobierno-decidir-rompe-zapatero-20260627015511-nt.html",
+      "desc": "Llegó la hora de la verdad. El momento decisivo en el que el Gobierno debe tomar una decisión respecto a José Luis Rodríguez Zapatero. Al menos, en lo que respecta al ámbito judicial. El juez José Luis Calama ha ofrecido a la Agencia Tributaria personarse en l",
+      "date": "Sat, 27 Jun 2026 01:55:11 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "zap"
+    },
+    {
+      "title": "El Gobierno ha adjudicado 1,6 millones a una empresa del castrismo que le ayuda con la ley de nietos",
+      "link": "https://www.abc.es/espana/gobierno-adjudico-millones-empresa-castrismo-ayuda-ley-20260626015455-nt.html",
+      "desc": "El Gobierno de Pedro Sánchez mantiene vínculos con la dictadura cubana . Así lo revelan las adjudicaciones que el Ejecutivo español ha realizado en los últimos años por un valor de 1.602.217 euros a favor de la firma Grupo Palco, una sociedad «subordinada» al ",
+      "date": "Sat, 27 Jun 2026 01:54:55 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "«¿Que socialista han imputado hoy?»",
+      "link": "https://www.abc.es/espana/diputado-psoe-socialista-imputado-hoy-20260627015436-nt.html",
+      "desc": "Los bares y restaurantes de la calle Zorrilla de Madrid, la paralela a la Carrera de San Jerónimo, se convierten en un ir y venir de diputados a diario. Una de las fachadas del Congreso da precisamente a esta calle y, para llegar a estos locales, los represent",
+      "date": "Sat, 27 Jun 2026 01:54:36 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Neumáticos reciclados para asfaltar 205 calles de todos los distritos",
+      "link": "https://www.abc.es/espana/madrid/madrid-renueva-pavimento-205-calles-asfalto-sostenible-20260626012508-nt.html",
+      "desc": "Las calles de Madrid son pasarela de un constante vaivén de vehículos y ciudadanos que, con su no parar, provocan un inevitable desgaste. Y cada invierno tormentoso, como el vivido esta temporada, deja tras de sí suelos que sufren bajo el ímpetu de las lluvias",
+      "date": "Sat, 27 Jun 2026 01:25:08 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "El verano de la Casa Encendida, un oasis de música, libros, juego y cine",
+      "link": "https://www.abc.es/espana/madrid/verano-casa-encendida-oasis-musica-libros-juego-20260626012430-nt.html",
+      "desc": "Como todos los años, este mes de julio La Casa Encendida se convierte en un oasis para aliviar el calor del verano urbano con cine, música en vivo, juegos, exposiciones e instalaciones artísticas, libros y campamentos juveniles. La primera propuesta, de la que",
+      "date": "Sat, 27 Jun 2026 01:24:30 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
     {
       "title": "Sandía, patilla en Venezuela",
       "link": "https://www.lavanguardia.com/opinion/20260627/11576434/sandia-patilla-venezuela.html",
@@ -161,86 +241,6 @@
       "color": "#c0392b",
       "feedId": "ABC",
       "caso": "other"
-    },
-    {
-      "title": "Los Mossos localizan un cadáver en la calle Joaquim Costa de Barcelona",
-      "link": "https://www.abc.es/espana/cataluna/mossos-localizan-cadaver-calle-joaquim-costa-barcelona-20260626202744-nt.html",
-      "desc": "Los Mossos d'Esquadra han localizado un cadáver este viernes en la calle Joaquim Costa de Barcelona. Emergencias ha recibido el aviso sobre la una de la tarde, y hasta allí se han desplazado agentes de la Policía catalana, donde han encontrado el cuerpo sin vi",
-      "date": "Fri, 26 Jun 2026 20:27:44 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "El Rey, tras reunirse con Sheinbaum: “Hay que hablar del futuro y seguir caminando juntos”",
-      "link": "https://www.lavanguardia.com/politica/20260626/11576480/rey-reunirse-sheinbaum-hay-hablar-futuro-seguir-caminando.html",
-      "desc": "Felipe VI&nbsp; califica de “magníficas” las relaciones con&nbsp; México mientras la presidenta mexicana vuelve a referirse a la relevancia del perdón de España por la conquista",
-      "date": "26 Jun 2026 20:26:40 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "Castilla-La Mancha aspira a varias medallas en el Nacional de Atletismo Máster",
-      "link": "https://www.abc.es/espana/castilla-la-mancha/toledo/deportes/castillala-mancha-aspira-varias-medallas-nacional-atletismo-20260626202328-nt.html",
-      "desc": "La selección castellanomanchega afronta este fin de semana el Campeonato de España Máster de Atletismo con aspiraciones de subir al podio en varias pruebas. La competición se disputa desde este viernes y hasta el domingo en la renovada pista madrileña de Valle",
-      "date": "Fri, 26 Jun 2026 20:23:29 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Cecam reivindica el papel de las empresas y apela a más diálogo social y menos burocracia",
-      "link": "https://www.abc.es/espana/castilla-la-mancha/cecam-reivindica-papel-empresas-apela-dialogo-social-20260626201417-nt.html",
-      "desc": "El presidente de la Confederación Empresarial de Castilla-La Mancha (Cecam), Ángel Nicolás, ha puesto en valor el papel esencial que desempeñan las empresas en el desarrollo económico y social de Castilla-La Mancha y ha reclamado un entorno más favorable para ",
-      "date": "Fri, 26 Jun 2026 20:14:18 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Ocho heridos, entre ellos varios alcaldes, en un accidente múltiple en Santiago de Compostela",
-      "link": "https://www.abc.es/espana/galicia/ocho-heridos-accidente-multiple-santiago-compostela-20260626195833-nt.html",
-      "desc": "Ocho personas han resultado heridas en un accidente múltiple con tres vehículos implicados en Santiago de Compostela. Las ocho han tenido que ser trasladadas al hospital Rosaleda para un mejor examen, si bien la mayoría ya ha recibido el alta. Entre los herido",
-      "date": "Fri, 26 Jun 2026 19:58:33 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "La finca 'El Borril' de la Diputación de Toledo cuenta con un nuevo observatorio de aves",
-      "link": "https://www.abc.es/espana/castilla-la-mancha/toledo/pueblos/finca-borril-diputacion-toledo-cuenta-nuevo-observatorio-20260626195226-nt.html",
-      "desc": "La Diputación de Toledo ha finalizado los trabajos de instalación de un nuevo observatorio de aves acuáticas en la finca 'El Borril', situada en el término municipal de Polán, con el objetivo de seguir mejorando los recursos educativos y medioambientales de un",
-      "date": "Fri, 26 Jun 2026 19:52:26 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Amiab logra la inserción laboral de 194 personas a través de sus programas de formación",
-      "link": "https://www.abc.es/espana/castilla-la-mancha/amiab-logra-insercion-laboral-194-personas-traves-20260626194522-nt.html",
-      "desc": "Amiab ha facilitado la inserción laboral de 194 personas a través de sus programas de formación durante el último ejercicio. Así lo ha destacado este viernes su presidente, Emilio Sáez, durante la Asamblea General Anual de la entidad, celebrada en Albacete. Du",
-      "date": "Fri, 26 Jun 2026 19:51:33 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "La Policía señala a Hamlyn por grabar a Leire Díez y a un exmiembro del CNI y a otro de inteligencia militar",
-      "link": "https://www.abc.es/espana/policia-senala-hamlyn-autor-grabacion-leire-diez-20260629194812-nt.html",
-      "desc": "La reunión por videoconferencia que Leire Díez, Jacobo Teijelo y Javier Pérez Dolset, investigados en el caso de las cloacas del PSOE, mantuvieron con el empresario de hidrocarburos Alejandro Hamlyn en febrero de 2025 tiene un profundo trasfondo. Según los doc",
-      "date": "Fri, 26 Jun 2026 19:48:12 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "lei"
     }
   ]
 }
