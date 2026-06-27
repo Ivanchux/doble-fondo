@@ -1,7 +1,37 @@
 {
-  "updated": "2026-06-27T13:22:54Z",
+  "updated": "2026-06-27T15:13:02Z",
   "count": 24,
   "items": [
+    {
+      "title": "Una cita de trámite y sin autocrítica: «Esto no es un Comité Federal, es un comité central»",
+      "link": "https://www.abc.es/espana/cita-tramite-autocritica-comite-federal-comite-central-20260627165507-nt.html",
+      "desc": "El Comité Federal del PSOE se reunía este sábado en Ferraz después de un año en blanco. La última vez que los miembros del máximo órgano entre congresos se vieron las caras lo hicieron con el semblante serio, marcado por dos polémicas muy dañinas para el PSOE:",
+      "date": "Sat, 27 Jun 2026 16:55:07 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "El Gobierno eleva a 133 los españoles desaparecidos en Venezuela y mantiene cinco muertos y 14 atrapados",
+      "link": "https://www.lavanguardia.com/internacional/20260627/11576996/gobierno-eleva-133-espanoles-desaparecidos-venezuela-mantiene-cinco-muertos-14-atrapados.html",
+      "desc": "Albares asegura que ya ha sido entregado el primer paquete financiero de la AECID para las primeras necesidades",
+      "date": "27 Jun 2026 15:06:14 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
+    {
+      "title": "Feijóo pide que Catalunya sea la llave que saque a Sánchez de la Moncloa",
+      "link": "https://www.lavanguardia.com/politica/20260627/11576984/feijoo-pide-catalunya-sea-llave-saque-sanchez-moncloa.html",
+      "desc": "Alejandro Fernández es reelegido presidente del PP catalán con el 97,5% de los votos y asume el reto de ser determinante en las próximas generales",
+      "date": "27 Jun 2026 14:42:38 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
     {
       "title": "La evolución favorable  permite rebajar de nivel tres  incendios del Bierzo",
       "link": "https://www.abc.es/espana/castilla-leon/evolucion-favorable-permite-rebajar-nivel-tres-incendios-20260627143839-nt.html",
@@ -33,6 +63,16 @@
       "caso": "other"
     },
     {
+      "title": "Pujol pide ante las juventudes de Junts “integrar a la gente de fuera y cohesionar”",
+      "link": "https://www.lavanguardia.com/politica/20260627/11576483/pujol-pide-juventudes-junts-integrar-gente-viene-fuera-cohesionar.html",
+      "desc": "La Joventut Nacionalista de Catalunya, con representantes de la organización juvenil de diversas etapas, homenajea al expresident en Planoles",
+      "date": "27 Jun 2026 14:26:40 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
+    {
       "title": "Diana Morant se presentará a las primarias del PSOE valenciano",
       "link": "https://www.abc.es/espana/comunidad-valenciana/diana-morant-presentara-primarias-psoe-valenciano-20260627142623-nt.html",
       "desc": "La ministra de Ciencia, Innovación y Universidades y secretaria general del PSPV, Diana Morant, ha anunciado este sábado en el Comité Federal del PSOE que se presentará como candidata a las primarias tan pronto como se apruebe el calendario, al que se da luz v",
@@ -45,7 +85,7 @@
     {
       "title": "Abascal pide a los suyos «respetar» al PP, aunque advierte que abandonará los Gobiernos si incumplen los pactos autonómicos",
       "link": "https://www.abc.es/espana/abascal-pide-respeto-pp-advierte-abandonaran-gobiernos-20260627133804-nt.html",
-      "desc": "Santiago Abascal bajaba los escalones del Auditorio de la Mutua rodeado de sus simpatizantes. Mientras tanto, la sala aplaude, vitorea, pide fotos y ondea banderas de Vox y de España. El presidente del partido está en un momento dulce: gobierna en coaliciones ",
+      "desc": "Santiago Abascal bajaba los escalones del Auditorio de la Mutua rodeado de sus simpatizantes. Mientras tanto, la sala aplaude, vitorea, pide fotos y ondea banderas de Vox y de España . El presidente del partido está en un momento dulce: gobierna en coaliciones",
       "date": "Sat, 27 Jun 2026 14:15:28 +0200",
       "source": "ABC",
       "color": "#c0392b",
@@ -193,50 +233,10 @@
       "caso": "other"
     },
     {
-      "title": "El bueno, el feo y el malo de la economía española",
-      "link": "https://www.abc.es/espana/cataluna/bueno-feo-malo-economia-espanola-20260627124038-nt.html",
-      "desc": "Como los cazadores de recompensas en busca del tesoro que ninguno puede encontrar sin la ayuda de los otros dos, papeles que inmortalizaron en el cine unos jóvenes Clint Eastwood, Lee Van Cleef y Eli Wallach, las autoridades, tanto políticas como empresariales",
-      "date": "Sat, 27 Jun 2026 12:40:39 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "España y Uruguay se juegan la primera plaza de grupo | Sigue el partido al minuto",
-      "link": "https://www.lavanguardia.com/deportes/futbol/20260627/11576067/uruguay-espana-mundial-2026-selecciones-partido-futbol-hoy-en-directo.html",
-      "desc": "Sigue el directo del Uruguay - España, correspondiente a la tercera jornada de la fase de grupos del Mundial",
-      "date": "27 Jun 2026 01:15:13 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "Sandía, patilla en Venezuela",
-      "link": "https://www.lavanguardia.com/opinion/20260627/11576434/sandia-patilla-venezuela.html",
-      "desc": "Gran parte del mundo está partido en dos mitades; opuestas; antitéticas",
-      "date": "27 Jun 2026 00:30:00 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "De la Fuente introduce dos sorprendentes cambios en su once ante Uruguay",
-      "link": "https://www.lavanguardia.com/deportes/futbol/20260627/11576567/de-la-fuente-uruguay-espana-alineacion.html",
-      "desc": "Porro y Olmo dejan sus puestos a Llorente y Merino",
-      "date": "27 Jun 2026 00:14:53 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "¿Aznar hablaría en catalán con Puigdemont?",
-      "link": "https://www.lavanguardia.com/politica/20260627/11576491/aznar-hablaria-catalan-puigdemont.html",
-      "desc": "",
-      "date": "27 Jun 2026 00:05:00 +0200",
+      "title": "Sánchez se defiende ante la corrupción y lanza al PSOE a la “batalla” del 2027",
+      "link": "https://www.lavanguardia.com/politica/20260627/11576942/sanchez-pide-coraje-psoe-han-querido-quebrar-partido-tiro-toalla.html",
+      "desc": "El presidente del Gobierno se defiende ante la sucesión de escándalos de corrupción y lanza a los socialistas a una “cruenta batalla” en el próximo ciclo electoral del 2027, que dirimirá “entre el progreso y la involución”",
+      "date": "27 Jun 2026 12:19:46 +0200",
       "source": "La Vanguardia",
       "color": "#8e44ad",
       "feedId": "LaVanguardia",
