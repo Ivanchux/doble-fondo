@@ -1,7 +1,177 @@
 {
-  "updated": "2026-06-28T02:57:41Z",
+  "updated": "2026-06-28T07:46:58Z",
   "count": 24,
   "items": [
+    {
+      "title": "Así queda el mapa del fútbol cordobés para la temporada 2026-2027",
+      "link": "https://www.abc.es/espana/andalucia/cordoba/cordoba-cf/queda-mapa-futbol-cordobes-temporada-20260628-20260628095309-nts.html",
+      "desc": "La temporada 2025-2026 ya es historia y el fútbol cordobés mira al futuro con un escenario renovado. Como figura más visible, el Córdoba CF ha consolidado su evolución en Segunda División, sin embargo, la provincia también ha dado pasos agigantados en el depor",
+      "date": "Sun, 28 Jun 2026 09:30:21 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "La Paz de Córdoba, a un año de las elecciones con al menos dos candidatos en el horizonte",
+      "link": "https://www.abc.es/espana/andalucia/cordoba/semana-santa/paz-cordoba-ano-elecciones-dos-candidatos-horizonte-20260628092747-nts.html",
+      "desc": "Falta más de un año para que la hermandad de María Santísima de la Paz y Esperanza , una de las más populares de Córdoba, celebre elecciones a hermano mayor y el panorama no deja de tener movimiento. Hasta tres candidaturas podrían estar en liza con el posible",
+      "date": "Sun, 28 Jun 2026 09:27:47 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Los vecinos claman contra la suciedad en los barrios de Córdoba: «No se puede soportar el mal olor y vienen ratas»",
+      "link": "https://www.abc.es/espana/andalucia/cordoba/vecinos-claman-suciedad-barrios-cordoba-puede-soportar-20260628092735-nts.html",
+      "desc": "Acaba de pasar el mediodía y la palabra que más se escucha en el barrio de la Fuensanta es vergüenza . La repiten quienes pasan por la Cuesta de la Pólvora, en la parte que esta más cerca del corazón del barrio, y quienes después descienden hasta la plaza del ",
+      "date": "Sun, 28 Jun 2026 09:27:35 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "La escuela de danza que ha convertido la vocación artística de Lucena en un proyecto educativo para más de 10.000 alumnos",
+      "link": "https://www.abc.es/espana/andalucia/cordoba/escuela-convertido-vocacion-artistica-lucena-proyecto-educativo-20260628092731-nts.html",
+      "desc": "La Escuela Municipal de Música y Danza 'Araceli Carrillo Pérez' de Lucena cumple 25 años con más de 10.000 alumnos a sus espaldas, una oferta que supera la veintena de especialidades y una presencia consolidada en la vida cultural de la ciudad. El centro, que ",
+      "date": "Sun, 28 Jun 2026 09:27:31 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Una ciudad sobradamente preparada",
+      "link": "https://www.abc.es/espana/andalucia/cordoba/javier-gomez-ciudad-sobradamente-preparada-20260628014955-nts.html",
+      "desc": "La Base Logística del Ejército de Tierra 'Javier Varela' de Córdoba es más presente que pasado o incluso futuro. El Ministerio de Defensa ha dado esta semana dos pasos decisivos, los últimos, para que la construcción de los más de 50 edificios que compondrán e",
+      "date": "Sun, 28 Jun 2026 09:27:19 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "María Dolores Jiménez, presidenta de Construcor: «Tenemos una ocasión extraordinaria. Córdoba puede ser referente andaluz en la construcción»",
+      "link": "https://www.abc.es/espana/andalucia/cordoba/maria-dolores-jimenez-presidenta-construcor-ocasion-extraordinaria-20260628092653-nts.html",
+      "desc": "La presidenta de Construcor , María Dolores Jiménez (máxima responsable de la veterana y pujante empresa Jicar ), aborda en esta entrevista el momento ilusionante que vive la construcción cordobesa - «Tenemos una oportunidad extraordinaria» - pero también los ",
+      "date": "Sun, 28 Jun 2026 09:26:54 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "gen"
+    },
+    {
+      "title": "Récord desde 1974 de agua para la población que bebe del trasvase Tajo-Segura",
+      "link": "https://www.abc.es/espana/comunidad-valenciana/alicante/record-1974-agua-poblacion-bebe-trasvase-tajosegura-20260628081740-nt.html",
+      "desc": "El trasvase Tajo-Segura no sólo riega 147.000 hectáreas de campo en el Sureste peninsular, también suministra agua para 2,5 millones de habitantes en 80 municipios (3,5 en verano por el turismo). Y ahora mismo la reserva hídrica bate todos los récords desde qu",
+      "date": "Sun, 28 Jun 2026 08:17:40 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "«Los buitres se comen una oveja en tres minutos»: alerta en el campo valenciano",
+      "link": "https://www.abc.es/espana/comunidad-valenciana/buitres-comen-oveja-tres-minutos-alerta-campo-20260628081656-nt.html",
+      "desc": "«Los buitres devoran las ovejas en apenas tres minutos». El testimonio de Óscar Morales, un ganadero que ha sufrido varios ataques mortales de estas aves, pone en evidencia un problema que alerta al campo valenciano y que puede incluso dar algún susto a famili",
+      "date": "Sun, 28 Jun 2026 08:16:56 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "El bar de Madrid donde Santiago Segura rodó 'Torrente presidente': en qué barrio está y precio de su carta",
+      "link": "https://www.abc.es/espana/madrid/bar-madrid-santiago-segura-rodo-torrente-presidente-20260628115615-nt.html",
+      "desc": "'Torrente presidente'ha recibido el apoyo masivo del público. La sexta entrega de la popular saga de Santiago Segura, que llegó a los cines el pasado viernes, 13 de marzo, recaudó 6,9 millones de euros en su primer fin de semana en salas, según datos de Comsco",
+      "date": "Sun, 28 Jun 2026 08:00:10 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Los diez vecinos de Cela (León) pasan la noche confinados por el fuego de Pradela, en nivel 2",
+      "link": "https://www.abc.es/espana/castilla-leon/diez-vecinos-cela-leon-pasan-noche-confinados-20260628074034-nt.html",
+      "desc": "En la noche de ayer, sábado, el CECOPI decidió confinar a los diez vecinos de la localidad de Cela (Leon), núcleo afectado por el incendio forestal de Pradela (municipio de Trabadelo), que se encuentra en nivel IGR 2, aunque según detallan desde la Consejería ",
+      "date": "Sun, 28 Jun 2026 07:41:42 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Hallan el cadáver del niño de 9 años desaparecido en el río Pisuerga, en Valladolid",
+      "link": "https://www.abc.es/espana/castilla-leon/hallan-cadaver-nino-anos-desaparecido-rio-pisuerga-20260628072523-nt.html",
+      "desc": "Final trágico para la noche del último sábado de junio en Valladolid. Eran las 23.30 horas, dos horas después de que se activara la búsqueda cuando los servicios de emergencias hallaban el cuerpo sin vida del niño de 9 años desaparecido en las aguas del río Pi",
+      "date": "Sun, 28 Jun 2026 07:26:17 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "La Sauceda y trágico pueblo abandonado donde se escuchan las voces de nadie",
+      "link": "https://www.abc.es/espana/andalucia/cadiz/sauceda-tragico-pueblo-abandonado-escuchan-voces-20260628070111-nts.html",
+      "desc": "La Sauceda es una pequeña aldea situada entre los términos de Jimena de la Frontera, Alcalá de los Gazules y Jerez de la Frontera, en la provincia de Cádiz. Los amantes de la historia y el misterio la llamamos «el Gernika gaditano» y ya que fue arrasada en 193",
+      "date": "Sun, 28 Jun 2026 07:01:12 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Las claves del recurso de Andalucía al Plan Estatal de Vivienda: invasión de competencias y modelo «único» de gestión",
+      "link": "https://www.abc.es/espana/andalucia/claves-recurso-andalucia-plan-estatal-vivienda-invasion-20260628070101-nts.html",
+      "desc": "La Junta de Andalucía ha iniciado el procedimiento para impugnar el nuevo Plan Estatal de Vivienda 2026-2030 al considerar que vulnera competencias autonómicas y limita la capacidad de las comunidades para diseñar sus propias políticas en una materia que el Es",
+      "date": "Sun, 28 Jun 2026 07:01:02 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Las grandes ciudades de Andalucía refuerzan los refugios climáticos para combatir el calor",
+      "link": "https://www.abc.es/espana/andalucia/grandes-ciudades-andalucia-refuerzan-refugios-climaticos-combatir-20260628124724-nts.html",
+      "desc": "Con el verano deshojando ya el calendario, las ciudades del sur de España aguzan sus estrategias para sobreponerse a las altas temperaturas. Y el recurso más en boga es la habilitación de refugios climáticos, del que tiran la mayoría de los ayuntamientos de lo",
+      "date": "Sun, 28 Jun 2026 06:56:04 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "La escalada del termómetro se cobra el doble de vidas en lo que va de década en Andalucía",
+      "link": "https://www.abc.es/espana/andalucia/escalada-termometro-cobra-doble-vidas-decada-andalucia-20260628155452-nts.html",
+      "desc": "Los golpes de calor se han cobrado en Andalucía 36 vidas en lo que va de década, y lo han hecho de una forma creciente: en 2020 murieron cinco personas por la exposición continuada a las altas temperaturas, y en 2025 perecieron diez, justo el doble. Un informe",
+      "date": "Sun, 28 Jun 2026 06:56:00 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Los restaurantes que recomienda el actor Javier Gutiérrez en Galicia para «comer como en casa»",
+      "link": "https://www.abc.es/espana/galicia/tres-soletes-guia-repsol-recomienda-actor-javier-20260622060004-nt.html",
+      "desc": "El verano arranca y, con él, la búsqueda del destino vacacional perfecto. Playas, pueblos con encanto y, sobre todo, una gastronomía auténtica son los ingredientes indispensables para cualquier escapada estival que se precie. Encontrar ese rincón especial que ",
+      "date": "Sun, 28 Jun 2026 06:00:04 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "De entre los muertos",
+      "link": "https://www.abc.es/espana/comunidad-valenciana/fernando-llopis-muertos-20260628053000-nt.html",
+      "desc": "Me quedé tan sorprendido al ver a Pilar Bernabé hablar sobre la dana en el Congreso como cuando James Stewart vuelve a ver a Kim Novak en la película de Hitchcock 'Vértigo (De entre los muertos)'. Stewart se sorprende porque unos días antes había visto al pers",
+      "date": "Sun, 28 Jun 2026 05:30:03 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
     {
       "title": "Los seis de la SEPI y un ausente (el más listo de todos)",
       "link": "https://www.abc.es/espana/seis-sepi-ausente-listo-20260628024608-nt.html",
@@ -33,210 +203,40 @@
       "caso": "other"
     },
     {
-      "title": "Sánchez inicia el viraje para marcar distancias con Zapatero",
-      "link": "https://www.abc.es/espana/sanchez-inicia-viraje-comienza-marcar-distancias-zapatero-20260628024440-nt.html",
-      "desc": "Comienza el viraje con José Luis Rodríguez Zapatero. Lo que en un primer momento era un apoyo cerrado se va diluyendo. La intensidad en la defensa se va difuminando y se orienta a elementos coyunturales para no entrar en el fondo de la cuestión: las graves acu",
-      "date": "Sun, 28 Jun 2026 02:44:40 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "zap"
-    },
-    {
-      "title": "Geografía de la mentira política: Pedro Sánchez la instala en España como algo legítimo",
-      "link": "https://www.abc.es/espana/geografia-mentira-politica-pedro-sanchez-instala-legitimo-20260628024332-nt.html",
-      "desc": "Era 2023 cuando el presidente del Gobierno, Pedro Sánchez, concedía su última entrevista a un medio de comunicación no afín. Fue en Onda Cero, en el programa 'Más de Uno', y Carlos Alsina le preguntaba: «¿Por qué nos ha mentido tanto, presidente?». Ante tan pe",
-      "date": "Sun, 28 Jun 2026 02:43:32 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Para ir a la cárcel hay que empeñarse",
-      "link": "https://www.abc.es/espana/carcel-empenarse-20260628024237-nt.html",
-      "desc": "La reciente sentencia del denominado caso Mascarillas ha vuelto a poner el foco en una realidad poco conocida: la de las condenas que no suponen finalmente el ingreso en prisión del penado. Hay muchas formas de no entrar en prisión. La más recomendable y efect",
-      "date": "Sun, 28 Jun 2026 02:42:37 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Leire Díez medió para que el Gobierno recondujera la relación con Puigdemont en Waterloo",
-      "link": "https://www.abc.es/espana/leire-diez-medio-gobierno-recondujera-relacion-puigdemont-20260628023953-nt.html",
-      "desc": "Leire Díez gestionó información del abogado Gonzalo Boye para que Santos Cerdán agasajara a Carles Puigdemont durante una de sus reuniones en Waterloo. La Unidad Central Operativa (UCO) de la Guardia Civil obtuvo esta información gracias al análisis de los dis",
-      "date": "Sun, 28 Jun 2026 02:39:53 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "lei"
-    },
-    {
-      "title": "La bentonita, el freno a un cable submarino de 3.000 millones entre España y Francia",
-      "link": "https://www.abc.es/espana/pais-vasco/bentonita-frena-interconexion-electrica-submarina-3000-millones-20260531022441-nt.html",
-      "desc": "El Latxaegarrota está en la parte baja de Gatica (Vizcaya), un pueblo pequeño, rico, verde y húmedo con pocos bloques pequeños y muchas fincas grandes situado a media hora en coche al noreste de Bilbao. El Ayuntamiento de esta 'anteiglesia' luce una pancarta p",
-      "date": "Sun, 28 Jun 2026 02:24:41 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Joaquín Echeverría: «Lo más importante es que la muerte de Ignacio sea útil»",
-      "link": "https://www.abc.es/espana/madrid-londres-unidos-memoria-ignacio-echeverria-20260628022207-nt.html",
-      "desc": "La memoria de Ignacio Echeverría, el joven español que murió al enfrentarse con su monopatín a los terroristas que perpetraron el atentado yihadista de Londres el 3 de junio de 2017 para defender a varias víctimas, podría quedar inmortalizada en dos estatuas: ",
-      "date": "Sun, 28 Jun 2026 02:22:07 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Sacador de corcho: la profesión en peligro de extinción que quiere recuperar Extremadura",
-      "link": "https://www.abc.es/espana/extremadura/sacador-corcho-profesion-peligro-extincion-quiere-recuperar-20260627022121-nt.html",
-      "desc": "Los golpes secos del hacha corchera son parte de la identidad de comarcas enteras en Extremadura desde hace generaciones. Una especie de lenguaje propio, transmitido de padres a hijos, de maestros a aprendices, de cuadrilla en cuadrilla. Es la banda sonora de ",
-      "date": "Sun, 28 Jun 2026 02:21:21 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Los 1.400 alumnos de coles rurales de Madrid donde la edad no impide compartir aula: «Son clases particulares»",
-      "link": "https://www.abc.es/espana/madrid/aula-mixta-solo-ventajas-clases-particulares-20260618021040-nt.html",
-      "desc": "Los alumnos del colegio rural Vega de Tajuña se mezclan indistintamente en el patio. No entienden de edades. Juegan sin prejuicios, de una forma tan natural como hacen las «grandes familias». Entran a las aulas de forma ordenada, se dirigen a sus profesores co",
-      "date": "Sun, 28 Jun 2026 02:10:40 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Sheema Sen Gupta: «Enseñamos a los niños a nadar y cruzar la calle pero les prohibimos internet»",
-      "link": "https://www.abc.es/espana/aragon/sheema-gupta-20260619020954-nt.html",
-      "desc": "Sheema Sen Gupta, que aterriza en Zaragoza procedente del desierto jordano, no se cree el calor asfixiante que hace aquí. La directora mundial de Unicef para la Protección Infantil y Migración participa con una ponencia en el congreso organizado por Fundación ",
-      "date": "Sun, 28 Jun 2026 02:09:54 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "En estas noches de verano",
-      "link": "https://www.abc.es/espana/madrid/noches-verano-20260627020839-nt.html",
-      "desc": "Madrid tiene en estas noches de verano la manía de esperar a que caiga el sol. Como si durante el día las personas funcionáramos por obligaciones y compromisos, tratando de sobrevivir y guardando nuestro momento más especial para los nuestros. Es una realidad ",
-      "date": "Sun, 28 Jun 2026 02:08:39 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "La oportunidad de mirar más allá de la discapacidad: «Nosotros también podemos trabajar»",
-      "link": "https://www.abc.es/espana/madrid/pierden-coste-mirar-alla-discapacidad-20260626014812-nt.html",
-      "desc": "«Ellos se lo pierden». Santiago Hernández no duda cuando se le pregunta qué siente cada vez que una empresa rechaza su candidatura. Tiene 39 años, le apasiona hablar, sueña con trabajar en la radio y desde hace cuatro años forma parte del proyecto 'Empleo Pers",
-      "date": "Sun, 28 Jun 2026 01:48:12 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "CinePlaza de Verano, peliculones bajo las estrellas",
-      "link": "https://www.abc.es/espana/madrid/cineplaza-verano-peliculones-bajo-estrellas-20260628014751-nt.html",
-      "desc": "A partir del próximo viernes la plaza central de Matadero Madrid vuelve a convertirse en un cine de verano al aire libre, con una programación híbrida que conectará el séptimo arte con música en directo. Bajo el título 'Superestrellas 3' , el programa de esta ",
-      "date": "Sun, 28 Jun 2026 01:47:51 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "El auge del enoturismo en la 'Toscana madrileña': 44 bodegas se unen a la IA para atraer con rutas 'ad hoc'",
-      "link": "https://www.abc.es/espana/madrid/auge-enoturismo-toscana-madrilena-bodegas-unen-ia-20260625014728-nt.html",
-      "desc": "Resulta anecdótico ver a un madrileño –ni siquiera ya a un turista– pedir un vino de Madrid en la barra de un bar. Sin embargo, en la región existen 53 bodegas que elaboran más de 200 marcas repartidas por 25 municipios de menos de 20.000 habitantes de las cua",
-      "date": "Sun, 28 Jun 2026 01:47:28 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "El PP de Córdoba: «Estamos donde tenemos que estar, al lado del colectivo Lgtbi»",
-      "link": "https://www.abc.es/espana/andalucia/cordoba/pp-cordoba-estar-lado-colectivo-lgtbi-20260627230053-nts.html",
-      "desc": "El vicesecretario de Educación e Igualdad del Partido Popular , Jaime de los Santos , ha reivindicado este sábado en Córdoba el «firme compromiso» de este partido con la defensa de la igualdad, la libertad y los derechos del colectivo Lgtbi . Lo ha hecho duran",
-      "date": "Sat, 27 Jun 2026 23:00:53 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "La Guardia Civil rescata en helicóptero a un barranquista herido en Jaén",
-      "link": "https://www.abc.es/espana/andalucia/guardia-civil-rescata-barranquista-herido-helicoptero-jaen-20260627220349-nts.html",
-      "desc": "Durante la tarde de este sábado, un varón de 55 años, vecino de la localidad granadina de Baza, ha resultado herido tras sufrir un accidente mientras practicaba barranquismo en la poza final del Barranco de la Bolera , en el término municipal de Pozo Alcón (Ja",
-      "date": "Sat, 27 Jun 2026 22:26:36 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Buscan a un menor de unos 10 años desaparecido mientras se bañaba en el río Pisuerga, en Valladolid",
-      "link": "https://www.abc.es/espana/castilla-leon/buscan-menor-anos-desaparecido-banaba-rio-pisuerga-20260627221841-nt.html",
-      "desc": "Bomberos, Policía Municipal, Policía Nacional y Emergencias Sanitarias se han desplazado hasta la Playa de las Moreras, en Valladolid, para participar en el rescate de un menor de unos diez años desaparecido en las aguas del río Pisuerga, en concreto en el ent",
-      "date": "Sat, 27 Jun 2026 22:19:36 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "María Jesús Montero reprende a Page en el comité federal del PSOE: «No nos metamos el dedo entre nosotros»",
-      "link": "https://www.abc.es/espana/andalucia/maria-jesus-montero-reprende-page-comite-federal-20260627215549-nts.html",
-      "desc": "El Comité Federal del PSOE celebrado este sábado en Ferraz ha escenificado un choque de trenes entre María Jesús Montero y Emiliano García-Page. La secretaria general de los socialistas andaluzas, ejerciendo como fiel escudera de Pedro Sánchez, ha reprendido a",
-      "date": "Sat, 27 Jun 2026 21:57:03 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Yeremy Pino no tiene fractura y Nico Williams sufre una lesión muscular",
-      "link": "https://www.lavanguardia.com/deportes/futbol/mundial-2026/20260627/11577127/yeremy-pino-fractura-nico-williams-sufre-lesion-muscular.html",
-      "desc": "Aunque el comunicado no los descarta, ambos jugadores tienen muy difícil volver a jugar en este Mundial",
-      "date": "27 Jun 2026 21:20:50 +0200",
+      "title": "Croacia vence a Ghana por la mínima y certifica su pase como segunda de grupo",
+      "link": "https://www.lavanguardia.com/deportes/futbol/mundial-2026/20260628/11577468/croacia-vence-ghana-minima-certifica-pase-segunda-grupo.html",
+      "desc": "Tras la victoria de Inglaterra ante Panamá, la selección croata ya espera rival en los dieciseisavos de final, al igual que las Estrellas Negras, clasificadas entre las mejores terceras de grupo",
+      "date": "28 Jun 2026 01:23:09 +0200",
       "source": "La Vanguardia",
       "color": "#8e44ad",
       "feedId": "LaVanguardia",
       "caso": "other"
     },
     {
-      "title": "Se elevan a 1.430 los muertos por los terremotos de Venezuela",
-      "link": "https://www.lavanguardia.com/internacional/20260627/11577111/elevan-1-430-personas-fallecidas-terremotos-venezuela.html",
-      "desc": "El número oficial de españoles que han fallecido en el desastre natural asciende a seis",
-      "date": "27 Jun 2026 19:41:38 +0200",
+      "title": "Nueva noche de intercambio de fuego entre EE.UU. e Irán por el bloqueo de Ormuz",
+      "link": "https://www.lavanguardia.com/internacional/20260628/11577465/segunda-noche-intercambio-fuego-ee-uu-e-iran-nuevo-bloqueo-ormuz.html",
+      "desc": "El Comando Central norteamericano en la región señala que Teherán atacó un petrolero de bandera panameña en la costa de Omán",
+      "date": "28 Jun 2026 01:04:23 +0200",
       "source": "La Vanguardia",
       "color": "#8e44ad",
       "feedId": "LaVanguardia",
       "caso": "other"
     },
     {
-      "title": "Los ataques entre Irán y EE.UU. amenazan la reactivación de Ormuz",
-      "link": "https://www.lavanguardia.com/internacional/20260627/11577106/ataques-iran-ee-uu-amenazan-reactivacion-ormuz.html",
-      "desc": "Se trata de la peor escalada desde el alto el fuego sellado el 17 de junio",
-      "date": "27 Jun 2026 19:29:43 +0200",
+      "title": "Kane bate el récord goleador de Lineker e Inglaterra gana el grupo y evita un cruce duro",
+      "link": "https://www.lavanguardia.com/deportes/futbol/mundial-2026/20260628/11577434/kane-bate-record-goleador-lineker-inglaterra-gana-grupo-evita-cruce-duro.html",
+      "desc": "Los panameños resisten 62 minutos, hasta que Bellingham rompe el cerco tras un saque de córner y su selección evita tener que enfrentarse a Portugal o Colombia en la ronda de dieciseisavos; el rival de los ingleses será Congo",
+      "date": "28 Jun 2026 01:00:35 +0200",
       "source": "La Vanguardia",
       "color": "#8e44ad",
       "feedId": "LaVanguardia",
       "caso": "other"
     },
     {
-      "title": "Ya nadie bromea con Cabo Verde",
-      "link": "https://www.lavanguardia.com/deportes/futbol/20260627/11577105/nadie-bromea-cabo-verde.html",
-      "desc": "La modesta selección africana da la gran campanada y se cita con Argentina en dieciseisavos",
-      "date": "27 Jun 2026 19:22:25 +0200",
+      "title": "El beso de la muerte",
+      "link": "https://www.lavanguardia.com/opinion/20260628/11577018/beso-muerte.html",
+      "desc": "Incluso Abascal se da cuenta de que ser amigo de Trump ya no ayuda a los políticos de derechas",
+      "date": "28 Jun 2026 00:30:00 +0200",
       "source": "La Vanguardia",
       "color": "#8e44ad",
       "feedId": "LaVanguardia",
