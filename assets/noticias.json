@@ -1,7 +1,27 @@
 {
-  "updated": "2026-06-28T20:56:18Z",
+  "updated": "2026-06-28T22:58:42Z",
   "count": 24,
   "items": [
+    {
+      "title": "La Policía señala a Hamlyn por grabar a Leire Díez, a un exmiembro del CNI y a otro de inteligencia militar",
+      "link": "https://www.abc.es/espana/policia-senala-hamlyn-autor-grabacion-leire-diez-20260629194812-nt.html",
+      "desc": "La reunión por videoconferencia que Leire Díez, Jacobo Teijelo y Javier Pérez Dolset, investigados en el caso de las cloacas del PSOE, mantuvieron con el empresario de hidrocarburos Alejandro Hamlyn en febrero de 2025 tiene un profundo trasfondo. Según los doc",
+      "date": "Mon, 29 Jun 2026 00:00:23 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "lei"
+    },
+    {
+      "title": "Dos panameños, declarados culpables por el robo y asesinato de la vasca Eneritz Argintxona",
+      "link": "https://www.abc.es/espana/pais-vasco/dos-panamenos-declarados-culpables-robo-asesinato-vasca-20260628225406-nt.html",
+      "desc": "Casi dos años después de que el cuerpo de Eneritz Argintxona apareciese en una playa de Isla Carenero (Panamá), un tribunal del país caribeño ha declarado culpables a dos hombres de la nación centroamericana. Las penas que deberán cumplir cada uno de los asesi",
+      "date": "Sun, 28 Jun 2026 22:54:06 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
     {
       "title": "Intervienen una embarcación y quince fardos de hachís en una operación contra el petaqueo en Barbate",
       "link": "https://www.abc.es/espana/andalucia/cadiz/intervienen-embarcacion-quince-fardos-hachis-operacion-petaqueo-20260628221034-nts.html",
@@ -90,6 +110,16 @@
       "source": "ABC",
       "color": "#c0392b",
       "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Los terremotos de Venezuela dejan ya 1.450 muertos, 17 de ellos españoles",
+      "link": "https://www.lavanguardia.com/internacional/20260628/11577698/terremotos-venezuela-dejan-1-450-muertos-17-espanoles-fallecidos.html",
+      "desc": "Exteriores cifra en 150 los españoles desaparecidos y confirma que un avión con 29 evacuados regresa a España mientras continúan las labores de rescate",
+      "date": "28 Jun 2026 20:14:20 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
       "caso": "other"
     },
     {
@@ -183,60 +213,30 @@
       "caso": "other"
     },
     {
-      "title": "El Ayuntamiento de Albacete suspende las todas las actividades al aire libre por riesgo de tormentas eléctricas",
-      "link": "https://www.abc.es/espana/castilla-la-mancha/ayuntamiento-albacete-suspende-actividades-aire-libre-riesgo-20260628183931-nt.html",
-      "desc": "El Ayuntamiento de Albacete ha suspendido todas las actividades municipales al aire libre previstas para la tarde de este domingo como medida preventiva tras la declaración por parte de la Agencia Estatal de Meteorología (Aemet) del nivel naranja por riesgo de",
-      "date": "Sun, 28 Jun 2026 18:39:32 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Herido con un traumatismo muy grave tras golpearse la cara al tirarse de cabeza en la piscina de Robledo",
-      "link": "https://www.abc.es/espana/castilla-la-mancha/herido-traumatismo-grave-tras-golpearse-cara-tirarse-20260628182801-nt.html",
-      "desc": "Un hombre de 34 años ha resultado herido tras sufrir un traumatismo muy grave en la piscina municipal de Robledo, en la provincia de Albacete, ha informado el servicio de Emergencias 112 de Castilla-La Mancha. Los hechos han tenido lugar este domingo a las 15:",
-      "date": "Sun, 28 Jun 2026 18:28:01 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Croacia vence a Ghana por la mínima y certifica su pase como segunda de grupo",
-      "link": "https://www.lavanguardia.com/deportes/futbol/mundial-2026/20260628/11577468/croacia-vence-ghana-minima-certifica-pase-segunda-grupo.html",
-      "desc": "Tras la victoria de Inglaterra ante Panamá, la selección croata ya espera rival en los dieciseisavos de final, al igual que las Estrellas Negras, clasificadas entre las mejores terceras de grupo",
-      "date": "28 Jun 2026 01:23:09 +0200",
+      "title": "Prisión para unos padres por la muerte de un bebé de tres meses en Sabadell",
+      "link": "https://www.lavanguardia.com/local/sabadell/20260628/11577650/envian-prision-padres-bebe-tres-meses-muerto-sabadell.html",
+      "desc": "La víctima presentaba fracturas y lesiones compatibles con un violento zarandeo",
+      "date": "28 Jun 2026 17:52:56 +0200",
       "source": "La Vanguardia",
       "color": "#8e44ad",
       "feedId": "LaVanguardia",
       "caso": "other"
     },
     {
-      "title": "Nueva noche de intercambio de fuego entre EE.UU. e Irán por el bloqueo de Ormuz",
-      "link": "https://www.lavanguardia.com/internacional/20260628/11577465/segunda-noche-intercambio-fuego-ee-uu-e-iran-nuevo-bloqueo-ormuz.html",
-      "desc": "El Comando Central norteamericano en la región señala que Teherán atacó un petrolero de bandera panameña en la costa de Omán",
-      "date": "28 Jun 2026 01:04:23 +0200",
+      "title": "Putin reconoce que los drones ucranianos están poniendo a Rusia en dificultades",
+      "link": "https://www.lavanguardia.com/internacional/20260628/11577643/putin-reconoce-que-los-drones-ucranianos-estan-poniendo-a-rusia-en-dificultades-y-garantiza-la-seguridad-de-los-rusos.html",
+      "desc": "El jefe del Kremlin promete a los rusos garantizar su seguridad: “Tenemos suficientes fuerzas y medios”",
+      "date": "28 Jun 2026 17:30:28 +0200",
       "source": "La Vanguardia",
       "color": "#8e44ad",
       "feedId": "LaVanguardia",
       "caso": "other"
     },
     {
-      "title": "Kane bate el récord goleador de Lineker e Inglaterra gana el grupo y evita un cruce duro",
-      "link": "https://www.lavanguardia.com/deportes/futbol/mundial-2026/20260628/11577434/kane-bate-record-goleador-lineker-inglaterra-gana-grupo-evita-cruce-duro.html",
-      "desc": "Los panameños resisten 62 minutos, hasta que Bellingham rompe el cerco tras un saque de córner y su selección evita tener que enfrentarse a Portugal o Colombia en la ronda de dieciseisavos; el rival de los ingleses será Congo",
-      "date": "28 Jun 2026 01:00:35 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "El beso de la muerte",
-      "link": "https://www.lavanguardia.com/opinion/20260628/11577018/beso-muerte.html",
-      "desc": "Incluso Abascal se da cuenta de que ser amigo de Trump ya no ayuda a los políticos de derechas",
-      "date": "28 Jun 2026 00:30:00 +0200",
+      "title": "“Ya basta, Leo”: Messi sigue haciendo historia",
+      "link": "https://www.lavanguardia.com/deportes/futbol/20260628/11577628/basta-leo-otros-records-messi-argentina-mundial-2026-jordania.html",
+      "desc": "Messi sale media hora, marca su sexto gol en el Mundial y amplía su leyenda",
+      "date": "28 Jun 2026 17:03:33 +0200",
       "source": "La Vanguardia",
       "color": "#8e44ad",
       "feedId": "LaVanguardia",
