@@ -1,7 +1,177 @@
 {
-  "updated": "2026-06-28T15:14:21Z",
+  "updated": "2026-06-28T17:03:39Z",
   "count": 24,
   "items": [
+    {
+      "title": "Un camión de cerdos caído a un barranco causa un incendio cinco días después",
+      "link": "https://www.abc.es/espana/comunidad-valenciana/camion-cerdos-caido-barranco-causa-incendio-cinco-20260628185102-nt.html",
+      "desc": "Un camión de transporte de cerdos que había caído tras despeñarse por un barranco ha causado un incendio forestal este domingo -cinco días después del accidente- en el interior de la provincia de Castellón, en Forcall. Por la cercanía de algunas zonas pobladas",
+      "date": "Sun, 28 Jun 2026 18:51:03 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Jácome, el alcalde de los regates judiciales: del «dinero negro» al «pluriempleo»",
+      "link": "https://www.abc.es/espana/galicia/alcalde-orense-abona-esquivar-justicia-20260628184047-nt.html",
+      "desc": "Desde que llegó a la alcaldía de Orense en 2019, Gonzalo Pérez Jácome se ha visto rodeado de polémica. Aunque la Justicia ha puesto el foco sobre él en varias ocasiones, casi siempre ha logrado salir ileso. El regidor afrontaba ahora su situación más delicada ",
+      "date": "Sun, 28 Jun 2026 18:40:47 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "El Ayuntamiento de Albacete suspende las todas las actividades al aire libre por riesgo de tormentas eléctricas",
+      "link": "https://www.abc.es/espana/castilla-la-mancha/ayuntamiento-albacete-suspende-actividades-aire-libre-riesgo-20260628183931-nt.html",
+      "desc": "El Ayuntamiento de Albacete ha suspendido todas las actividades municipales al aire libre previstas para la tarde de este domingo como medida preventiva tras la declaración por parte de la Agencia Estatal de Meteorología (Aemet) del nivel naranja por riesgo de",
+      "date": "Sun, 28 Jun 2026 18:39:32 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Herido con un traumatismo muy grave tras golpearse la cara al tirarse de cabeza en la piscina de Robledo",
+      "link": "https://www.abc.es/espana/castilla-la-mancha/herido-traumatismo-grave-tras-golpearse-cara-tirarse-20260628182801-nt.html",
+      "desc": "Un hombre de 34 años ha resultado herido tras sufrir un traumatismo muy grave en la piscina municipal de Robledo, en la provincia de Albacete, ha informado el servicio de Emergencias 112 de Castilla-La Mancha. Los hechos han tenido lugar este domingo a las 15:",
+      "date": "Sun, 28 Jun 2026 18:28:01 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Prisión para unos padres por la muerte de su bebé en Sabadell (Barcelona)",
+      "link": "https://www.abc.es/espana/cataluna/prision-padres-muerte-bebe-sabadell-barcelona-20260628182614-nt.html",
+      "desc": "Un padre y una madre han ingresado en prisión provisional este domingo, acusados de la muerte de su bebé , de tres meses . Una decisión de la Sección de Instrucción del Tribunal de Instancia, plaza 3, de Sabadell, según ha avanzado la periodista Anna Punsí, y ",
+      "date": "Sun, 28 Jun 2026 18:26:15 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Castilla-La Mancha defiende sus concesiones hídricas frente a la Confederación Hidrográfica del Guadiana",
+      "link": "https://www.abc.es/espana/castilla-la-mancha/castillala-mancha-defiende-concesiones-hidricas-frente-confederacion-20260628181706-nt.html",
+      "desc": "El vicepresidente segundo, José Manuel Caballero, ha confirmado que el Gobierno de Castilla-La Mancha ha presentado alegaciones a la propuesta de la Confederación Hidrográfica del Guadiana (CHG) rechazando la anulación de concesiones que son vitales para el se",
+      "date": "Sun, 28 Jun 2026 18:17:07 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Matan a puñaladas a un hombre a plena luz del día en La Coruña",
+      "link": "https://www.abc.es/espana/galicia/matan-punaladas-hombre-plena-luz-dia-coruna-20260628175728-nt.html",
+      "desc": "Un hombre ha muerto apuñalado este mediodía en La Coruña. La Policía Nacional se ha hecho de la investigación, aunque, por ahora, no han trascendido que se haya practicado ninguna detención. Sucedió en la Travesía dos Rosales, según ha recogido Europa Press. T",
+      "date": "Sun, 28 Jun 2026 17:57:29 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "El PSOE destaca la «coherencia y valentía» de Page frente a un Nuñez que se «pliega ante Génova»",
+      "link": "https://www.abc.es/espana/castilla-la-mancha/psoe-destaca-coherencia-valentia-page-frente-nunez-20260628175620-nt.html",
+      "desc": "El presidente del Grupo Parlamentario Socialista en las Cortes de Castilla-La Mancha, Ángel Tomás Godoy, ha reivindicado este domingo la «coherencia y valentía» del presidente regional y secretario general de los socialistas en la región, Emiliano García-Page,",
+      "date": "Sun, 28 Jun 2026 17:56:20 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "La zona azul será gratuita por las tardes en Ciudad Real durante julio y agosto",
+      "link": "https://www.abc.es/espana/castilla-la-mancha/zona-azul-gratuita-tardes-ciudad-real-julio-20260628175408-nt.html",
+      "desc": "Aparcar en la zona azul de Ciudad Real volverá a ser gratuito durante las tardes de los meses de julio y agosto. El Ayuntamiento ha decidido mantener por tercer verano consecutivo esta medida, con la que busca aliviar el gasto de los conductores, favorecer las",
+      "date": "Sun, 28 Jun 2026 17:54:09 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "La compañía de Nacho Duato y otros artistas se unen: 'No olvidar la dana'",
+      "link": "https://www.abc.es/espana/comunidad-valenciana/compania-nacho-duato-artistas-unen-olvidar-dana-20260628174212-nt.html",
+      "desc": "La compañía de Nacho Duato, encabezada por el prestigioso coreógrafo valenciano y los artistas La María, Jonathan Pocoví, Rei Ortolà y Alejandro y María Laura se han unido este domingo en Silla en un espectáculo benéfico a favor de las víctimas de la dana y cl",
+      "date": "Sun, 28 Jun 2026 17:42:13 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Moprisala, una cantera inagotable de un deporte que tuvo en Toledo su cuna",
+      "link": "https://www.abc.es/espana/castilla-la-mancha/toledo/deportes/moprisala-cantera-inagotable-deporte-toledo-cuna-20260628174116-nt.html",
+      "desc": "Fue el 30 de agosto de 2001 cuando nació en Toledo el Club Deportivo Moprisala, un proyecto impulsado por José Manuel Sánchez Monroy y Jorge Priego, quienes decidieron emprender un nuevo camino al margen de la estructura deportiva del colegio Nuestra Señora de",
+      "date": "Sun, 28 Jun 2026 17:41:17 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Un muerto y varios heridos al perder el control un camión de la basura en Pamplona",
+      "link": "https://www.abc.es/espana/navarra/fallecido-varios-heridos-perder-control-camion-basura-20260628173848-nt.html",
+      "desc": "Una persona ha muerto y varias han resultado heridas de diversa consideración este domingo por la tarde al ser atropelladas por un camión de la basura que ha perdido el control en la plaza de Navarrería, en Pamplona . Algunas de las personas afectadas han qued",
+      "date": "Sun, 28 Jun 2026 17:38:48 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "El PP lamenta que Page fuera «incapaz» de pedir la dimisión de Sánchez en el Comité Federal del PSOE",
+      "link": "https://www.abc.es/espana/castilla-la-mancha/pp-lamenta-page-incapaz-pedir-dimision-sanchez-20260628173655-nt.html",
+      "desc": "El portavoz adjunto del Partido Popular en las Cortes de Castilla-La Mancha, Santiago Serrano, ha asegurado que el Comité Federal del PSOE celebrado este sábado confirmó que el presidente regional y secretario general del PSOE en la región, Emiliano García-Pag",
+      "date": "Sun, 28 Jun 2026 17:36:56 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "La toledana Elina Reoyos conquista el bronce nacional de halterofilia",
+      "link": "https://www.abc.es/espana/castilla-la-mancha/toledo/deportes/toledana-elina-reoyos-conquista-bronce-nacional-halterofilia-20260628173456-nt.html",
+      "desc": "Elina Reoyos Villamor (Toledo, 2005) continúa su progresión en la exigente disciplina de la halterofilia. La joven deportista toledana se ha colgado la medalla de bronce en el Campeonato de España Absoluto, disputado en Alicante, confirmando su constante creci",
+      "date": "Sun, 28 Jun 2026 17:34:56 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "La jueza reconstruye el atropello mortal de O Vao, en Pontevedra, para esclarecer el homicidio",
+      "link": "https://www.abc.es/espana/galicia/jueza-reconstruye-atropello-mortal-vao-pontevedra-esclarecer-20260628173312-nt.html",
+      "desc": "Las autoridades judiciales y la Guardia Civil han reconstruido este domingo el accidente mortal ocurrido en el polígono de O Vao, en Pontevedra, el pasado 22 de abril, de cara a esclarecer los hechos, que se investigan como un supuesto homicidio. Según trascen",
+      "date": "Sun, 28 Jun 2026 17:33:12 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Dobletes de oro para Vega y Llorena en el Nacional de Atletismo",
+      "link": "https://www.abc.es/espana/castilla-la-mancha/toledo/deportes/dobletes-oro-vega-llorena-nacional-atletismo-20260628172541-nt.html",
+      "desc": "Durante tres días, dos de ellos con sesiones de mañana y tarde, se han celebrado en el flamante Estadio Vallehermoso de Madrid el LXI Campeonato de España Máster masculino y el LI Campeonato de España Máster femenino. La participación ha superado el récord ant",
+      "date": "Sun, 28 Jun 2026 17:25:41 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Antonio Moruno e Inmaculadada Aranda, nuevos hermanos mayores de la Estrella y el Amor de Córdoba",
+      "link": "https://www.abc.es/espana/andalucia/cordoba/semana-santa/antonio-moruno-inmaculadada-aranda-nuevos-hermanos-mayores-20260628115105-nts.html",
+      "desc": "Las cofradías de la Estrella y el Amor han respaldado por mayoría absoluta a los candidatos que han concurrido a las elecciones a hermano mayor este domingo y garantizan, así, la continuidad de los proyectos en marcha que seguirán completándose los próximos cu",
+      "date": "Sun, 28 Jun 2026 17:22:02 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
     {
       "title": "Descubren a un 'ciberdepredador' sexual pederasta con 20 víctimas de 8 a 16 años",
       "link": "https://www.abc.es/espana/comunidad-valenciana/alicante/descubren-ciberdepredador-sexual-pederasta-victimas-anos-20260628162321-nt.html",
@@ -27,176 +197,6 @@
       "link": "https://www.abc.es/espana/andalucia/almeria/muere-ahogada-nina-cuatro-anos-piscina-particular-20260628155235-nts.html",
       "desc": "El arranque de la temporada estival deja un rastro trágico en la comunidad andaluza. Una niña de tan solo cuatro años de edad ha fallecido este domingo tras ahogarse en una piscina particular ubicada en el municipio almeriense de Antas , con unos 3.500 habitan",
       "date": "Sun, 28 Jun 2026 15:52:35 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "La Operación Primavera del Banco de Alimentos de Córdoba recauda más de 66.000 euros",
-      "link": "https://www.abc.es/espana/andalucia/cordoba/operacion-primavera-banco-alimentos-cordoba-recauda-66000-20260628151905-nts.html",
-      "desc": "La solidaridad de los cordobeses ha vuelto a traducirse en un importante respaldo al Banco de Alimentos Medina Azahara de Córdoba. La Operación Primavera 2026, celebrada a principios del pasado mes de junio, ha cerrado su balance con una recaudación de 66.434 ",
-      "date": "Sun, 28 Jun 2026 15:19:06 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Aliança Catalana expulsa del partido a su candidato en Figueras por mantener una relación con una menor de edad",
-      "link": "https://www.abc.es/espana/cataluna/alianca-catalana-expulsa-partido-candidato-figueras-mantener-20260628143541-nt.html",
-      "desc": "Aliança Catalana ha apartado este domingo a Arnau Liesa como candidato del partido al Ayuntamiento de Figueras (Gerona) tras conocer una situación personal que, según la formación, no había sido comunicada internamente. En un comunicado, el partido ha anunciad",
-      "date": "Sun, 28 Jun 2026 14:35:42 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Culmina la creación de una red de 18 itinerarios senderistas en la Campana de Oropesa",
-      "link": "https://www.abc.es/espana/castilla-la-mancha/toledo/pueblos/culmina-creacion-red-itinerarios-senderistas-campana-oropesa-20260628141034-nt.html",
-      "desc": "La Diputación Provincial de Toledo continúa avanzando en la ejecución del Plan de Sostenibilidad Turística en Destino (PSTD) 'Campana de Oropesa' con la culminación de una de las actuaciones más relevantes para el impulso del turismo activo y de naturaleza en ",
-      "date": "Sun, 28 Jun 2026 14:10:34 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Así será el verano en Medina Azahara de Córdoba: conciertos, teatro y visitas nocturnas gratis",
-      "link": "https://www.abc.es/espana/andalucia/cordoba/verano-medina-azahara-cordoba-conciertos-teatro-visitas-20260628140204-nts.html",
-      "desc": "El conjunto arqueológico de Madinat al-Zahra , dependiente de la Consejería de Cultura y Deporte, celebra el próximo 1 de julio el VIII aniversario del reconocimiento por parte de la Unesco de la ciudad califal como Patrimonio de la Humanidad y lo hace con la ",
-      "date": "Sun, 28 Jun 2026 14:02:04 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Muere un joven de 26 años tras salirse de la vía su turismo en Villagarcía del Llano (Cuenca)",
-      "link": "https://www.abc.es/espana/castilla-la-mancha/muere-joven-anos-tras-salirse-via-turismo-20260628135524-nt.html",
-      "desc": "Un joven de 26 años de edad ha muerto tras sufrir una salida de vía de el turismo que conducía en la carretera CM-3116 en Villagarcía del Llano (Cuenca), ha informado el servicio de Emergencias 112 de Castilla-La Mancha. El accidente se ha producido a las 8:37",
-      "date": "Sun, 28 Jun 2026 13:55:24 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Aplazado el concierto del maestro Gustavo Dudamel de Venezuela por los terremotos",
-      "link": "https://www.abc.es/espana/comunidad-valenciana/aplazado-concierto-maestro-gustavo-dudamel-venezuela-terremotos-20260628134538-nt.html",
-      "desc": "El concierto extraordinario que el maestro venezolano Gustavo Dudamel tenía previsto protagonizar al frente de la Orquesta Sinfónica Nacional Juvenil de Venezuela el próximo 11 de julio en el Palau de la Música de València ha sido pospuesto a una nueva fecha, ",
-      "date": "Sun, 28 Jun 2026 13:45:38 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "El Coacm llevará las reflexiones de sus Jornadas de Patrimonio al Congreso Mundial de Arquitectos de Barcelona",
-      "link": "https://www.abc.es/espana/castilla-la-mancha/coacm-llevara-reflexiones-jornadas-patrimonio-congreso-mundial-20260628134301-nt.html",
-      "desc": "El Colegio Oficial de Arquitectos de Castilla-La Mancha (Coacm) llevará al Congreso Mundial de Arquitectos UIA 2026 Barcelona una de las iniciativas culturales y profesionales que mejor representan su «compromiso con la defensa del patrimonio ». El próximo mar",
-      "date": "Sun, 28 Jun 2026 13:43:01 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Amor a Extremadura y nostalgia punk y disco en el Conexión Valladolid",
-      "link": "https://www.abc.es/espana/castilla-leon/amor-extremadura-nostalgia-punk-disco-conexion-valladolid-20260628131923-nt.html",
-      "desc": "El segundo 'round' del Conexión en Valladolid reunía a cientos de personas en torno a toda una batería de conciertos entre los que destacaban Sanguijuelas del Guadiana y Pignoise, con Kitai, Walls, Lía Kali, Kate Ryan y el cierre de Peta Zeta para repasar una ",
-      "date": "Sun, 28 Jun 2026 13:19:23 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Huelga de Renfe este lunes: solo operarán el 65% de los trenes de Media Distancia",
-      "link": "https://www.abc.es/espana/castilla-la-mancha/toledo/huelga-renfe-lunes-solo-operaran-trenes-media-20260628131404-nt.html",
-      "desc": "Renfe interrumpirá este lunes 29 de junio un total de 320 trenes entre los servicios de Alta Velocidad, Media Distancia y Cercanías con motivo de la huelga convocada por el Sindicato Ferroviario (SF). Según los servicios mínimos publicados por el Ministerio de",
-      "date": "Sun, 28 Jun 2026 13:14:05 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Muere al precipitarse con su coche por un desnivel en Triacastela (Lugo)",
-      "link": "https://www.abc.es/espana/galicia/muere-precipitarse-coche-desnivel-triacastela-lugo-20260628130157-nt.html",
-      "desc": "El conductor de un vehículo ha fallecido tras sufrir una salida de vía y precipitarse por un desnivel de varios metros en la LU-657, en el municipio lucense de Triacastela. Tal y como ha trasladado el 112 Galicia, el hombre circulaba por la LU-637, a la altura",
-      "date": "Sun, 28 Jun 2026 13:01:57 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Levantan el confinamiento de Cela (León) por la «positiva» evolución del fuego",
-      "link": "https://www.abc.es/espana/castilla-leon/levantan-confinamiento-cela-leon-positiva-evolucion-fuego-20260628130044-nt.html",
-      "desc": "La Junta de Castilla y León levantaba en la mañana de este domingo el confinamiento de los diez vecinos de la localidad de Cela, en el municipio de Villafranca del Bierzo, tras una evolución «muy positiva» del incendio que les cercó a última hora de la tarde d",
-      "date": "Sun, 28 Jun 2026 13:00:44 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Sexto fichaje del Córdoba CF para la temporada 26-27: el delantero Enol Rodríguez llega desde Huesca",
-      "link": "https://www.abc.es/espana/andalucia/cordoba/cordoba-cf/sexto-fichaje-cordoba-temporada-2627-delantero-enol-20260628125504-nts.html",
-      "desc": "El Córdoba CF ya tiene a su sexto fichaje para la temporada 2026-2027. El conjunto blanquiverde ha anunciado la incorporación del delantero Enol Rodríguez, que llega procedente de la SD Huesca para reforzar el ataque de Iván Ania de cara al próximo curso. El d",
-      "date": "Sun, 28 Jun 2026 12:55:05 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Ecologistas piden paralizar el parque de olas del Metropolitano porque perderá por evaporación más agua de la que guarda",
-      "link": "https://www.abc.es/espana/madrid/ecologistas-piden-paralizar-parque-olas-metropolitano-perdera-20260628125300-nt.html",
-      "desc": "La Plataforma Ecologista Madrileña ha reclamado la paralización del complejo Gemswell Surf Madrid , el parque de olas artificiales que se está construyendo junto al estadio Riyadh Air Metropolitano, al advertir de que la instalación perderá cada año por evapor",
-      "date": "Sun, 28 Jun 2026 12:53:01 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Tres detenidos por intentar vender 119 corderos de forma fraudulenta transportados desde Guadalajara",
-      "link": "https://www.abc.es/espana/castilla-la-mancha/tres-detenidos-intentar-vender-119-corderos-forma-20260628125111-nt.html",
-      "desc": "Agentes de la Guardia Civil, en coordinación con la Dirección General de Agricultura, Ganadería y Alimentación de la Comunidad de Madrid y con la Policía Municipal de la capital, han detenido a tres personas en la Cañada Real que trataban de vender 119 cordero",
-      "date": "Sun, 28 Jun 2026 12:51:11 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Andalucía ampliará este año el cribado a 39 enfermedades en la prueba del talón a los recién nacidos",
-      "link": "https://www.abc.es/espana/andalucia/andalucia-ampliara-ano-cribado-enfermedades-prueba-talon-20260628123148-nts.html",
-      "desc": "El Servicio Andaluz de Salud (SAS) dará un paso en la medicina preventiva infantil antes de que termine este año. El consejero en funciones de Sanidad, Presidencia y Emergencias de la Junta de Andalucía, Antonio Sanz, ha anunciado este domingo que el sistema p",
-      "date": "Sun, 28 Jun 2026 12:31:48 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Dos muertos tras chocar un coche que huía de la Policía con otro parado en un semáforo de Barcelona",
-      "link": "https://www.abc.es/espana/cataluna/dos-muertos-tras-chocar-coche-huia-policia-20260628122204-nt.html",
-      "desc": "Dos hombres han muerto este domingo en Barcelona tras el choque entre sendos vehículos. Uno de ellos circulaba de forma temeraria, huyendo de la Policía. Ha sido así como ha colisionado con otro coche, que se encontraba parado en un semáforo en rojo, en la con",
-      "date": "Sun, 28 Jun 2026 12:22:04 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "El audio de Page que incomoda al PSOE: «No podemos aguantar sea como sea hasta 2027»",
-      "link": "https://www.abc.es/espana/castilla-la-mancha/audio-incomoda-psoe-podemos-aguantar-2027-20260628120955-nt.html",
-      "desc": "El discurso de Emiliano García-Page en el Comité Federal del PSOE fue mucho más duro de lo que trascendió en un principio ayer sábado. ABC ha tenido acceso al audio íntegro de la intervención del presidente de Castilla-La Mancha, casi 17 minutos en los que el ",
-      "date": "Sun, 28 Jun 2026 12:09:55 +0200",
       "source": "ABC",
       "color": "#c0392b",
       "feedId": "ABC",
