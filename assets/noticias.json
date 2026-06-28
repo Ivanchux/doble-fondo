@@ -1,7 +1,37 @@
 {
-  "updated": "2026-06-28T19:11:43Z",
+  "updated": "2026-06-28T20:56:18Z",
   "count": 24,
   "items": [
+    {
+      "title": "Intervienen una embarcación y quince fardos de hachís en una operación contra el petaqueo en Barbate",
+      "link": "https://www.abc.es/espana/andalucia/cadiz/intervienen-embarcacion-quince-fardos-hachis-operacion-petaqueo-20260628221034-nts.html",
+      "desc": "Los dispositivos contra el petaqueo han vuelto a desembocar en una incautación relevante, esta vez en las costas de Barbate, donde aproximadamente 75 kilos de hachís han sido intervenidos por la Guardia Civil de Cádiz. Los agentes, que habían desplegado un dis",
+      "date": "Sun, 28 Jun 2026 22:10:34 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "«La diversidad también vive en los pueblos pequeños»",
+      "link": "https://www.abc.es/espana/castilla-la-mancha/diversidad-vive-pueblos-pequenos-20260628212212-nt.html",
+      "desc": "Cuando se habla de diversidad y de la realidad LGTBI, la atención suele centrarse en las grandes ciudades. Parece que estos asuntos pertenecen únicamente a los entornos urbanos, donde existe una mayor visibilidad y donde los debates sociales tienen más presenc",
+      "date": "Sun, 28 Jun 2026 21:22:13 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Velázquez viaja con la Hospitalidad de Lourdes y agradece la labor de los voluntarios tras 50 años de servicio",
+      "link": "https://www.abc.es/espana/castilla-la-mancha/toledo/velazquez-viaja-hospitalidad-lourdes-agradece-labor-voluntarios-20260628211425-nt.html",
+      "desc": "Cerca de 400 personas han partido desde Toledo rumbo al Santuario de Nuestra Señora de Lourdes para participar en la 50 Peregrinación Diocesana organizada por la Hospitalidad de Lourdes de Toledo, una cita que conmemora medio siglo de acompañamiento a personas",
+      "date": "Sun, 28 Jun 2026 21:14:26 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
     {
       "title": "La 'guerra' del agua estalla en Segovia",
       "link": "https://www.abc.es/espana/castilla-leon/guerra-agua-estalla-segovia-20260624210032-nt.html",
@@ -167,36 +197,6 @@
       "link": "https://www.abc.es/espana/castilla-la-mancha/herido-traumatismo-grave-tras-golpearse-cara-tirarse-20260628182801-nt.html",
       "desc": "Un hombre de 34 años ha resultado herido tras sufrir un traumatismo muy grave en la piscina municipal de Robledo, en la provincia de Albacete, ha informado el servicio de Emergencias 112 de Castilla-La Mancha. Los hechos han tenido lugar este domingo a las 15:",
       "date": "Sun, 28 Jun 2026 18:28:01 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Prisión para unos padres por la muerte de su bebé de tres meses en Sabadell (Barcelona)",
-      "link": "https://www.abc.es/espana/cataluna/prision-padres-muerte-bebe-sabadell-barcelona-20260628182614-nt.html",
-      "desc": "Un padre y una madre han ingresado en prisión provisional este domingo, acusados de la muerte de su bebé , de tres meses . Una decisión de la Sección de Instrucción del Tribunal de Instancia, plaza 3, de Sabadell, según ha avanzado la periodista Anna Punsí, y ",
-      "date": "Sun, 28 Jun 2026 18:26:15 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Castilla-La Mancha defiende sus concesiones hídricas frente a la Confederación Hidrográfica del Guadiana",
-      "link": "https://www.abc.es/espana/castilla-la-mancha/castillala-mancha-defiende-concesiones-hidricas-frente-confederacion-20260628181706-nt.html",
-      "desc": "El vicepresidente segundo, José Manuel Caballero, ha confirmado que el Gobierno de Castilla-La Mancha ha presentado alegaciones a la propuesta de la Confederación Hidrográfica del Guadiana (CHG) rechazando la anulación de concesiones que son vitales para el se",
-      "date": "Sun, 28 Jun 2026 18:17:07 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Matan de una puñalada en el cuello a un hombre en plena calle en La Coruña",
-      "link": "https://www.abc.es/espana/galicia/matan-punaladas-hombre-plena-luz-dia-coruna-20260628175728-nt.html",
-      "desc": "Un hombre ha muerto de una puñalada en el cuello este mediodía a plena luz del día en La Coruña, concretamente en el barrio de Os Rosales. La Policía Nacional se ha hecho de la investigación, aunque, por ahora, no han trascendido que se haya practicado ninguna",
-      "date": "Sun, 28 Jun 2026 17:57:29 +0200",
       "source": "ABC",
       "color": "#c0392b",
       "feedId": "ABC",
