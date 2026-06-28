@@ -1,7 +1,137 @@
 {
-  "updated": "2026-06-28T17:03:39Z",
+  "updated": "2026-06-28T19:11:43Z",
   "count": 24,
   "items": [
+    {
+      "title": "La 'guerra' del agua estalla en Segovia",
+      "link": "https://www.abc.es/espana/castilla-leon/guerra-agua-estalla-segovia-20260624210032-nt.html",
+      "desc": "Con el verano encima, la época de menor pluviometría y en la que las reservas hídricas más suelen menguar, a la vez que en lugares de gran afluencia turística aumenta la población y la demanda, en varios puntos de la provincia de Segovia ya saben que este estí",
+      "date": "Sun, 28 Jun 2026 21:00:32 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Coello y Tapia revalidan título en Valladolid Premier Padel tras doblegar en la final a Galán y Chingotto",
+      "link": "https://www.abc.es/espana/castilla-leon/coello-tapia-revalidan-titulo-valladolid-premier-padel-20260628205648-nt.html",
+      "desc": "El vallisoletano Arturo Coello y el argentino Agustín Tapia revalidaban este domingo el título que obtuvieron el pasado año y se alzaban con el Oysho Valladolid Premier Padel P2, tras doblegar por 6-4 y 6-3 a Alejandro Galán y Federico Chingotto. De nuevo, el ",
+      "date": "Sun, 28 Jun 2026 20:56:48 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "El equipo de bomberos, que incluye a tres cordobeses, desplazado a Venezuela tras los terremotos: «Vivimos situaciones extremas»",
+      "link": "https://www.abc.es/espana/andalucia/cordoba/equipo-bomberos-incluye-tres-cordobeses-desplazado-venezuela-20260628204122-nts.html",
+      "desc": "Los tres bomberos del Consorcio de la Diputación de Córdoba , como el resto del equipo del BUSF (Bomberos Unidos sin Fonteras) España, trabajan contrarreloj sobre el terreno sobre La Guaira , el territorio que se ha convertido en la zona cero de los devastador",
+      "date": "Sun, 28 Jun 2026 20:41:23 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Frenan el avance del fuego más virulento del Bierzo tras poner en jaque a los vecinos de Cela",
+      "link": "https://www.abc.es/espana/castilla-leon/evolucion-positiva-fuego-virulento-bierzo-tras-poner-20260628203320-nt.html",
+      "desc": "Los vecinos de la localidad de Cela, en el municipio de Villafranca del Bierzo, desayunaban este domingo más aliviados después de las horas de tensión vividas durante parte de la tarde del día anterior y toda la noche como consecuencia del incendio forestal qu",
+      "date": "Sun, 28 Jun 2026 20:33:20 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Cientos de personas disfrutan en Talavera de una nueva edición de 'La Barrada'",
+      "link": "https://www.abc.es/espana/castilla-la-mancha/toledo/talavera/cientos-personas-disfrutan-talavera-nueva-edicion-barrada-20260628202237-nt.html",
+      "desc": "Cientos de personas se han dado cita este domingo en el Parque Tierno Galván para participar en las actividades que desde la Asociación de Vecinos Fray Hernando de Talavera y la Concejalía de Turismo y Artesanía se han puesto en marcha con motivo de la recuper",
+      "date": "Sun, 28 Jun 2026 20:22:37 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "La Riaño Trail Run cierra su décima edición con las victorias de Mayka Bueno y Luis Javier González",
+      "link": "https://www.abc.es/espana/castilla-leon/riano-trail-run-cierra-decima-edicion-victorias-20260628194222-nt.html",
+      "desc": "La décima edición de la Riaño Trail Run concluía ese domingo con la victoria de Mayka Bueno en la categoría femenina y de Luis Javier González en la masculina, con el emblemático pico Gilbo como telón de fondo de una de las pruebas más importantes del calendar",
+      "date": "Sun, 28 Jun 2026 20:22:19 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Una joven apuñala a un líder de los Trinitarios en Alcalá y agrede a su nueva novia tras un ataque de celos",
+      "link": "https://www.abc.es/espana/madrid/joven-apunala-lider-trinitarios-alcala-agrede-nueva-20260628201113-nt.html",
+      "desc": "Un ataque motivado por los celos a punto ha estado de acabar de la peor manera posible en Alcalá de Henares. Fue a las 9.30 horas de la mañana del sábado, cuando la agresora, una joven española de 20 años, se topó con su expareja y su nueva novia en las cancha",
+      "date": "Sun, 28 Jun 2026 20:11:13 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Disfuncional",
+      "link": "https://www.abc.es/espana/castilla-leon/disfuncional-20260628200518-nt.html",
+      "desc": "«La democracia es un sistema basado en la rendición de cuentas». Esta frase, atribuida a Jeffrey Howe, exministro británico de Hacienda, evidencia a las claras las carencias de rendición de cuentas que experimenta nuestro sistema parlamentario. No aspiramos, o",
+      "date": "Sun, 28 Jun 2026 20:05:18 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Siglo XXII, la música está prohibida y sólo puede salvarla Medina Azahara: ¡Llega el musical de la mítica banda!",
+      "link": "https://www.abc.es/espana/andalucia/cordoba/siglo-xxii-musica-prohibida-solo-puede-salvarla-20260628195053-nts.html",
+      "desc": "Las canciones del mítico grupo cordobés Medina Azahara ayudarán a « salvar la cultura » en un futuro distópico en el que la música está prohibida. Ése es el argumento de un musical creado y producido por José Gutiérrez y cuyo estreno será a principios de 2027.",
+      "date": "Sun, 28 Jun 2026 19:50:54 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Hallan el cuerpo sin vida de una anciana en un riachuelo en Vigo",
+      "link": "https://www.abc.es/espana/galicia/hallan-cuerpo-vida-anciana-riachuelo-vigo-20260628193814-nt.html",
+      "desc": "Una mujer de avanzada edad ha sido hallada sin vida en un riachuelo en la parroquia viguesa de Bembrive. Según la información recogida por el 112 Galicia en la llamada que alertó de lo sucedido, la fallecida se precipitó por un terraplén en las cercanías a su ",
+      "date": "Sun, 28 Jun 2026 19:38:15 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Zamora despide a su cronista oficial: Fallece Herminio Ramos, «un enamorado incondicional de esta tierra»",
+      "link": "https://www.abc.es/espana/castilla-leon/zamora-despide-cronista-oficial-fallece-herminio-ramos-20260628192453-nt.html",
+      "desc": "El cronista oficial de Zamora Herminio Ramos fallecía este domingo, 28 de junio, a los 100 años, según informaba el Ayuntamiento de Zamora. El profesor, nacido el 4 de noviembre de 1925 en la localidad sayaguesa de La Tuda, era el cronista oficial de la ciudad",
+      "date": "Sun, 28 Jun 2026 19:24:53 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Detenido en Soria Domenico Paviglianiti, 'capo de los capos' de la mafia calabresa",
+      "link": "https://www.abc.es/espana/castilla-leon/detenido-soria-domenico-paviglianiti-capo-capos-mafia-20260628191849-nt.html",
+      "desc": "En plena España vaciada, en medio de los áridos campos de Castilla, la Policía Nacional ha puesto fin a la huida de la Justicia de uno de los capos más sanguinarios y buscados de la mafia calabresa. Domenico Paviglianiti , líder del clan que lleva su nombre, h",
+      "date": "Sun, 28 Jun 2026 19:18:50 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Rueda avisa de que no admitirá discriminación entre autonomías: «No somos siervos»",
+      "link": "https://www.abc.es/espana/galicia/rueda-avisa-admitira-discriminacion-autonomias-siervos-20260628190830-nt.html",
+      "desc": "Sin poner nombre y apellido al destinatario de sus mensajes ni citar expresamente a las comunidades autónomas en cuestión, para adaptar el tono a lo que no dejaba de ser un discurso institucional, el presidente de la Xunta no perdió la oportunidad de la ceremo",
+      "date": "Sun, 28 Jun 2026 19:08:30 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
     {
       "title": "Un camión de cerdos caído a un barranco causa un incendio cinco días después",
       "link": "https://www.abc.es/espana/comunidad-valenciana/camion-cerdos-caido-barranco-causa-incendio-cinco-20260628185102-nt.html",
@@ -43,7 +173,7 @@
       "caso": "other"
     },
     {
-      "title": "Prisión para unos padres por la muerte de su bebé en Sabadell (Barcelona)",
+      "title": "Prisión para unos padres por la muerte de su bebé de tres meses en Sabadell (Barcelona)",
       "link": "https://www.abc.es/espana/cataluna/prision-padres-muerte-bebe-sabadell-barcelona-20260628182614-nt.html",
       "desc": "Un padre y una madre han ingresado en prisión provisional este domingo, acusados de la muerte de su bebé , de tres meses . Una decisión de la Sección de Instrucción del Tribunal de Instancia, plaza 3, de Sabadell, según ha avanzado la periodista Anna Punsí, y ",
       "date": "Sun, 28 Jun 2026 18:26:15 +0200",
@@ -63,140 +193,10 @@
       "caso": "other"
     },
     {
-      "title": "Matan a puñaladas a un hombre a plena luz del día en La Coruña",
+      "title": "Matan de una puñalada en el cuello a un hombre en plena calle en La Coruña",
       "link": "https://www.abc.es/espana/galicia/matan-punaladas-hombre-plena-luz-dia-coruna-20260628175728-nt.html",
-      "desc": "Un hombre ha muerto apuñalado este mediodía en La Coruña. La Policía Nacional se ha hecho de la investigación, aunque, por ahora, no han trascendido que se haya practicado ninguna detención. Sucedió en la Travesía dos Rosales, según ha recogido Europa Press. T",
+      "desc": "Un hombre ha muerto de una puñalada en el cuello este mediodía a plena luz del día en La Coruña, concretamente en el barrio de Os Rosales. La Policía Nacional se ha hecho de la investigación, aunque, por ahora, no han trascendido que se haya practicado ninguna",
       "date": "Sun, 28 Jun 2026 17:57:29 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "El PSOE destaca la «coherencia y valentía» de Page frente a un Nuñez que se «pliega ante Génova»",
-      "link": "https://www.abc.es/espana/castilla-la-mancha/psoe-destaca-coherencia-valentia-page-frente-nunez-20260628175620-nt.html",
-      "desc": "El presidente del Grupo Parlamentario Socialista en las Cortes de Castilla-La Mancha, Ángel Tomás Godoy, ha reivindicado este domingo la «coherencia y valentía» del presidente regional y secretario general de los socialistas en la región, Emiliano García-Page,",
-      "date": "Sun, 28 Jun 2026 17:56:20 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "La zona azul será gratuita por las tardes en Ciudad Real durante julio y agosto",
-      "link": "https://www.abc.es/espana/castilla-la-mancha/zona-azul-gratuita-tardes-ciudad-real-julio-20260628175408-nt.html",
-      "desc": "Aparcar en la zona azul de Ciudad Real volverá a ser gratuito durante las tardes de los meses de julio y agosto. El Ayuntamiento ha decidido mantener por tercer verano consecutivo esta medida, con la que busca aliviar el gasto de los conductores, favorecer las",
-      "date": "Sun, 28 Jun 2026 17:54:09 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "La compañía de Nacho Duato y otros artistas se unen: 'No olvidar la dana'",
-      "link": "https://www.abc.es/espana/comunidad-valenciana/compania-nacho-duato-artistas-unen-olvidar-dana-20260628174212-nt.html",
-      "desc": "La compañía de Nacho Duato, encabezada por el prestigioso coreógrafo valenciano y los artistas La María, Jonathan Pocoví, Rei Ortolà y Alejandro y María Laura se han unido este domingo en Silla en un espectáculo benéfico a favor de las víctimas de la dana y cl",
-      "date": "Sun, 28 Jun 2026 17:42:13 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Moprisala, una cantera inagotable de un deporte que tuvo en Toledo su cuna",
-      "link": "https://www.abc.es/espana/castilla-la-mancha/toledo/deportes/moprisala-cantera-inagotable-deporte-toledo-cuna-20260628174116-nt.html",
-      "desc": "Fue el 30 de agosto de 2001 cuando nació en Toledo el Club Deportivo Moprisala, un proyecto impulsado por José Manuel Sánchez Monroy y Jorge Priego, quienes decidieron emprender un nuevo camino al margen de la estructura deportiva del colegio Nuestra Señora de",
-      "date": "Sun, 28 Jun 2026 17:41:17 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Un muerto y varios heridos al perder el control un camión de la basura en Pamplona",
-      "link": "https://www.abc.es/espana/navarra/fallecido-varios-heridos-perder-control-camion-basura-20260628173848-nt.html",
-      "desc": "Una persona ha muerto y varias han resultado heridas de diversa consideración este domingo por la tarde al ser atropelladas por un camión de la basura que ha perdido el control en la plaza de Navarrería, en Pamplona . Algunas de las personas afectadas han qued",
-      "date": "Sun, 28 Jun 2026 17:38:48 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "El PP lamenta que Page fuera «incapaz» de pedir la dimisión de Sánchez en el Comité Federal del PSOE",
-      "link": "https://www.abc.es/espana/castilla-la-mancha/pp-lamenta-page-incapaz-pedir-dimision-sanchez-20260628173655-nt.html",
-      "desc": "El portavoz adjunto del Partido Popular en las Cortes de Castilla-La Mancha, Santiago Serrano, ha asegurado que el Comité Federal del PSOE celebrado este sábado confirmó que el presidente regional y secretario general del PSOE en la región, Emiliano García-Pag",
-      "date": "Sun, 28 Jun 2026 17:36:56 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "La toledana Elina Reoyos conquista el bronce nacional de halterofilia",
-      "link": "https://www.abc.es/espana/castilla-la-mancha/toledo/deportes/toledana-elina-reoyos-conquista-bronce-nacional-halterofilia-20260628173456-nt.html",
-      "desc": "Elina Reoyos Villamor (Toledo, 2005) continúa su progresión en la exigente disciplina de la halterofilia. La joven deportista toledana se ha colgado la medalla de bronce en el Campeonato de España Absoluto, disputado en Alicante, confirmando su constante creci",
-      "date": "Sun, 28 Jun 2026 17:34:56 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "La jueza reconstruye el atropello mortal de O Vao, en Pontevedra, para esclarecer el homicidio",
-      "link": "https://www.abc.es/espana/galicia/jueza-reconstruye-atropello-mortal-vao-pontevedra-esclarecer-20260628173312-nt.html",
-      "desc": "Las autoridades judiciales y la Guardia Civil han reconstruido este domingo el accidente mortal ocurrido en el polígono de O Vao, en Pontevedra, el pasado 22 de abril, de cara a esclarecer los hechos, que se investigan como un supuesto homicidio. Según trascen",
-      "date": "Sun, 28 Jun 2026 17:33:12 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Dobletes de oro para Vega y Llorena en el Nacional de Atletismo",
-      "link": "https://www.abc.es/espana/castilla-la-mancha/toledo/deportes/dobletes-oro-vega-llorena-nacional-atletismo-20260628172541-nt.html",
-      "desc": "Durante tres días, dos de ellos con sesiones de mañana y tarde, se han celebrado en el flamante Estadio Vallehermoso de Madrid el LXI Campeonato de España Máster masculino y el LI Campeonato de España Máster femenino. La participación ha superado el récord ant",
-      "date": "Sun, 28 Jun 2026 17:25:41 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Antonio Moruno e Inmaculadada Aranda, nuevos hermanos mayores de la Estrella y el Amor de Córdoba",
-      "link": "https://www.abc.es/espana/andalucia/cordoba/semana-santa/antonio-moruno-inmaculadada-aranda-nuevos-hermanos-mayores-20260628115105-nts.html",
-      "desc": "Las cofradías de la Estrella y el Amor han respaldado por mayoría absoluta a los candidatos que han concurrido a las elecciones a hermano mayor este domingo y garantizan, así, la continuidad de los proyectos en marcha que seguirán completándose los próximos cu",
-      "date": "Sun, 28 Jun 2026 17:22:02 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Descubren a un 'ciberdepredador' sexual pederasta con 20 víctimas de 8 a 16 años",
-      "link": "https://www.abc.es/espana/comunidad-valenciana/alicante/descubren-ciberdepredador-sexual-pederasta-victimas-anos-20260628162321-nt.html",
-      "desc": "La Guardia Civil ha detenido en Alicante a un ciberdeprededador sexual en serie al que se le imputan 36 delitos contra la libertad sexual a niñas y adolescentes por hacer 'grooming', es decir, hacerse pasar por menor de edad para ganarse la confianza de otros ",
-      "date": "Sun, 28 Jun 2026 16:23:22 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "La Audiencia avala el derribo de una casa ilegal en Córdoba pese a la futura regularización de la urbanización",
-      "link": "https://www.abc.es/espana/andalucia/cordoba/audiencia-avala-derribo-casa-ilegal-cordoba-pese-20260628155608-nts.html",
-      "desc": "La Audiencia Provincial de Córdoba ha confirmado la condena impuesta al propietario de una vivienda construida ilegalmente en suelo no urbanizable de especial protección en la capital y ha rechazado que la posible regularización futura de la zona pueda impedir",
-      "date": "Sun, 28 Jun 2026 15:56:09 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Muere ahogada una niña de cuatro años en una piscina particular en la localidad almeriense de Antas",
-      "link": "https://www.abc.es/espana/andalucia/almeria/muere-ahogada-nina-cuatro-anos-piscina-particular-20260628155235-nts.html",
-      "desc": "El arranque de la temporada estival deja un rastro trágico en la comunidad andaluza. Una niña de tan solo cuatro años de edad ha fallecido este domingo tras ahogarse en una piscina particular ubicada en el municipio almeriense de Antas , con unos 3.500 habitan",
-      "date": "Sun, 28 Jun 2026 15:52:35 +0200",
       "source": "ABC",
       "color": "#c0392b",
       "feedId": "ABC",
