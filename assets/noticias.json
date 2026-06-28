@@ -1,7 +1,37 @@
 {
-  "updated": "2026-06-28T13:26:21Z",
+  "updated": "2026-06-28T15:14:21Z",
   "count": 24,
   "items": [
+    {
+      "title": "Descubren a un 'ciberdepredador' sexual pederasta con 20 víctimas de 8 a 16 años",
+      "link": "https://www.abc.es/espana/comunidad-valenciana/alicante/descubren-ciberdepredador-sexual-pederasta-victimas-anos-20260628162321-nt.html",
+      "desc": "La Guardia Civil ha detenido en Alicante a un ciberdeprededador sexual en serie al que se le imputan 36 delitos contra la libertad sexual a niñas y adolescentes por hacer 'grooming', es decir, hacerse pasar por menor de edad para ganarse la confianza de otros ",
+      "date": "Sun, 28 Jun 2026 16:23:22 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "La Audiencia avala el derribo de una casa ilegal en Córdoba pese a la futura regularización de la urbanización",
+      "link": "https://www.abc.es/espana/andalucia/cordoba/audiencia-avala-derribo-casa-ilegal-cordoba-pese-20260628155608-nts.html",
+      "desc": "La Audiencia Provincial de Córdoba ha confirmado la condena impuesta al propietario de una vivienda construida ilegalmente en suelo no urbanizable de especial protección en la capital y ha rechazado que la posible regularización futura de la zona pueda impedir",
+      "date": "Sun, 28 Jun 2026 15:56:09 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Muere ahogada una niña de cuatro años en una piscina particular en la localidad almeriense de Antas",
+      "link": "https://www.abc.es/espana/andalucia/almeria/muere-ahogada-nina-cuatro-anos-piscina-particular-20260628155235-nts.html",
+      "desc": "El arranque de la temporada estival deja un rastro trágico en la comunidad andaluza. Una niña de tan solo cuatro años de edad ha fallecido este domingo tras ahogarse en una piscina particular ubicada en el municipio almeriense de Antas , con unos 3.500 habitan",
+      "date": "Sun, 28 Jun 2026 15:52:35 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
     {
       "title": "La Operación Primavera del Banco de Alimentos de Córdoba recauda más de 66.000 euros",
       "link": "https://www.abc.es/espana/andalucia/cordoba/operacion-primavera-banco-alimentos-cordoba-recauda-66000-20260628151905-nts.html",
@@ -167,36 +197,6 @@
       "link": "https://www.abc.es/espana/castilla-la-mancha/audio-incomoda-psoe-podemos-aguantar-2027-20260628120955-nt.html",
       "desc": "El discurso de Emiliano García-Page en el Comité Federal del PSOE fue mucho más duro de lo que trascendió en un principio ayer sábado. ABC ha tenido acceso al audio íntegro de la intervención del presidente de Castilla-La Mancha, casi 17 minutos en los que el ",
       "date": "Sun, 28 Jun 2026 12:09:55 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Cuatro muertos y seis heridos en un accidente de tráfico en Benicàssim",
-      "link": "https://www.abc.es/espana/comunidad-valenciana/cuatro-muertos-seis-heridos-accidente-trafico-benicassim-20260628115720-nt.html",
-      "desc": "Cuatro personas han muerto y seis han resultado heridas en un accidente de tráfico múltiple por choque frontal con tres vehículos implicados -uno de ellos un taxi- registrado esta madrugada en la N-340 en el término municipal de Benicàssim (Castellón). El sini",
-      "date": "Sun, 28 Jun 2026 11:58:28 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "La Junta brinda ayuda psicológica a las familias venezolanas de Castilla y León a través del 012",
-      "link": "https://www.abc.es/espana/castilla-leon/junta-brinda-ayuda-psicologica-familias-venezolanas-castilla-20260628115235-nt.html",
-      "desc": "Todas aquellas familias venezolanas asentadas en Castilla y León que lo necesiten podrán, a partir de este lunes, solicitar ayuda psicológica a través del teléfono 012. El servicio se prestará para ayudar a las familias que están viviendo momentos de dificulta",
-      "date": "Sun, 28 Jun 2026 11:53:17 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Un terremoto de magnitud 4,3 sacude las aguas frente a Huelva sin que la población llegue a sentirlo",
-      "link": "https://www.abc.es/espana/andalucia/huelva/terremoto-magnitud-sacude-aguas-frente-huelva-poblacion-20260628115310-nts.html",
-      "desc": "Un terremoto de magnitud 4,3 ha sacudido este domingo las aguas del océano Atlántico frente a las costas de Huelva, un fenómeno geológico que ha pasado totalmente desapercibido en tierra firme. El temblor, cuyo epicentro se ha localizado al suroeste del Cabo d",
-      "date": "Sun, 28 Jun 2026 11:53:11 +0200",
       "source": "ABC",
       "color": "#c0392b",
       "feedId": "ABC",
