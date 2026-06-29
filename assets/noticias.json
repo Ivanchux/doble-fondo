@@ -1,7 +1,27 @@
 {
-  "updated": "2026-06-29T21:21:39Z",
+  "updated": "2026-06-29T22:51:50Z",
   "count": 24,
   "items": [
+    {
+      "title": "El Supremo cree que la regularización masiva de inmigrantes vulnera el derecho de la UE",
+      "link": "https://www.abc.es/espana/supremo-cree-regularizacion-masiva-sanchez-vulnera-derecho-20260630233044-nt.html",
+      "desc": "La política migratoria del Ejecutivo de Sánchez está a punto de recibir un duro varapalo por parte del Tribunal Supremo, que tiene serias dudas de que el decreto de regularización masiva de inmigrantes sea conforme al derecho de la Unión Europea. Por este moti",
+      "date": "Mon, 29 Jun 2026 23:30:44 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Cita de altura en la Feria de Pozoblanco: cartel con Daniel Luque, Borja Jiménez y David de Miranda",
+      "link": "https://www.abc.es/espana/andalucia/cordoba/cita-altura-feria-pozoblanco-cartel-daniel-luque-20260629232532-nts.html",
+      "desc": "La Feria Taurina de Pozoblanco 2026 en honor a Nuestra.Señora de las Mercedes ha sido presentada este lunes en el Ayuntamiento de esta localidad. En el acto, han intervenido Antonio Tejero , gerente de la empresa Caído y Soledad, junto al alcalde pozoalbense, ",
+      "date": "Mon, 29 Jun 2026 23:25:32 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
     {
       "title": "El rector de la UCO alerta en su investidura: «Carecer de financiación es el obstáculo a superar para desarrollar proyectos»",
       "link": "https://www.abc.es/espana/andalucia/cordoba/manuel-torralbo-investidura-universidad-cordoba-uco-20260629164435-nts.html",
@@ -177,26 +197,6 @@
       "link": "https://www.abc.es/espana/andalucia/cordoba/cordoba-cf/dalisson-marcha-cedido-hnk-hajduk-reafirma-apuesta-20260629195459-nts.html",
       "desc": "El Córdoba CF sigue avanzando en su particular 'operación salida'. Tras las recientes despedidas de Xavi Sintes y Pedro Ortiz, el club blanquiverde oficializó este lunes la cesión de Dalisson al HNK Hajduk, conjunto de la Primera División de Croacia que esta t",
       "date": "Mon, 29 Jun 2026 19:55:00 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Las solicitudes en la regularización extraordinaria duplican las previsiones iniciales en Córdoba",
-      "link": "https://www.abc.es/espana/andalucia/cordoba/solicitudes-regularizacion-extraordinaria-duplican-previsiones-iniciales-cordoba-20260629160300-nts.html",
-      "desc": "Aunque no hubiera extensas colas a las puertas de las distintas oficinas de la Seguridad Social, el proceso extraordinario de regularización de personas inmigrantes impulsado por el Gobierno contó con una elevada respuesta en Córdoba. Tanto es así que, a falta",
-      "date": "Mon, 29 Jun 2026 19:46:18 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "El Gobierno niega otra vez la obra de La Colada y pide a la Junta que use los recursos «para la depuración» del agua",
-      "link": "https://www.abc.es/espana/andalucia/cordoba/gobierno-descarta-vez-nueva-obra-trasvase-colada-20260629194608-nts.html",
-      "desc": "No habrá nueva obra dentro de la conexión entre el embalse de La Colada y la presa de Sierra Boyera . Es al menos lo que pudo deducirse de las palabras de la subdelegada del Gobierno en Córdoba, Ana López Losilla , tras asistir a su Comisión de Asistencia. Par",
-      "date": "Mon, 29 Jun 2026 19:46:08 +0200",
       "source": "ABC",
       "color": "#c0392b",
       "feedId": "ABC",
