@@ -1,7 +1,147 @@
 {
-  "updated": "2026-06-29T18:05:55Z",
+  "updated": "2026-06-29T21:21:39Z",
   "count": 24,
   "items": [
+    {
+      "title": "El rector de la UCO alerta en su investidura: «Carecer de financiación es el obstáculo a superar para desarrollar proyectos»",
+      "link": "https://www.abc.es/espana/andalucia/cordoba/manuel-torralbo-investidura-universidad-cordoba-uco-20260629164435-nts.html",
+      "desc": "La Universidad de Córdoba (UCO) ha vivido este lunes la investidura de Manuel Torralbo como rector para su segundo mandato , que se prolongará durante los próximos seis años. Repite en el cargo tras un proceso electoral - obtuvo el 76,1% de los votos emitidos ",
+      "date": "Mon, 29 Jun 2026 22:28:09 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "gen"
+    },
+    {
+      "title": "Nuevo atraco con pistolas en una joyería de un centro comercial de Pinto: «Ha sido terrible»",
+      "link": "https://www.abc.es/espana/madrid/nuevo-atraco-disparos-joyeria-centro-comercial-pinto-20260629210335-nt.html",
+      "desc": "Nuevo atraco a una joyería en un centro comercial de Madrid, esta vez en el Plaza Éboli de la localidad de Pinto, donde al menos tres individuos han irrumpido a punta de pistola y con el rostro tapado en la joyería Roselin, dentro de una superficie que a media",
+      "date": "Mon, 29 Jun 2026 21:42:16 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "El fuego cerca a Huertezuelas en Ciudad Real y obliga a desalojar a todos sus vecinos",
+      "link": "https://www.abc.es/espana/castilla-la-mancha/fuego-cerca-huertezuelas-ciudad-real-obliga-desalojar-20260629213950-nt.html",
+      "desc": "El humo comenzó a cubrir el horizonte a primera hora de la tarde y, con el avance de las llamas, la prioridad dejó de ser únicamente frenar el incendio para convertirse en proteger a la población. La evolución del fuego declarado este lunes en el término munic",
+      "date": "Mon, 29 Jun 2026 21:39:51 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Más de medio centenar de vecinos desalojados por un incendio en Calzada de Calatrava",
+      "link": "https://www.abc.es/espana/castilla-la-mancha/medio-centenar-vecinos-desalojados-incendio-calzada-calatrava-20260629211858-nt.html",
+      "desc": "Medio centenar de vecinos la pedanía ciudadrealeña de Huertezuelas han sido desalojados de sus viviendas y pasarán la noche en el pabellón polideportivo de la localidad de Viso del Marqués a causa de un incendio de nivel 2 declarado en Calzada de Calatrava. En",
+      "date": "Mon, 29 Jun 2026 21:18:58 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "El aparcamiento en las zonas azul y naranja será gratuito por las tardes julio y agosto en Toledo",
+      "link": "https://www.abc.es/espana/castilla-la-mancha/toledo/aparcamiento-zonas-azul-naranja-gratuito-tardes-julio-20260629211234-nt.html",
+      "desc": "El Ayuntamiento de Toledo ha informado en nota de prensa que a partir del jueves, 1 de julio, será gratis aparcar por las tardes en las zonas azul y naranja de la ORA durante los meses de julio y agosto. Así lo ha avanzado el concejal de Movilidad, Iñaki Jimén",
+      "date": "Mon, 29 Jun 2026 21:12:34 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Cádiz busca seducir a Galicia con sus playas",
+      "link": "https://www.abc.es/espana/galicia/cadiz-busca-seducir-galicia-playas-20260629210014-nt.html",
+      "desc": "La provincia de Cádiz se presentó en Santiago de Compostela como destino turístico para el público gallego. La conexión aérea directa entre el aeropuerto compostelano y el de Jerez de la Frontera, operada por Vueling durante todo el verano, fue el principal ar",
+      "date": "Mon, 29 Jun 2026 21:00:14 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "El Supremo inadmite el recurso del Real Madrid y tumba definitivamente los parkings del Bernabéu",
+      "link": "https://www.abc.es/espana/madrid/supremo-inadmite-recurso-real-madrid-tumba-definitivamente-20260629204655-nt.html",
+      "desc": "El segundo macroparking que el Real Madrid iba a construir junto al Bernabéu no verá la luz. La Sección Primera de la Sala de lo Contencioso-Administrativo del Tribunal Supremo ha inadmitido a trámite del recurso de casación presentado esta vez ya solo por el ",
+      "date": "Mon, 29 Jun 2026 20:46:55 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Felipe VI reivindica el liderazgo de España para reforzar la  autonomía estratégica de Europa",
+      "link": "https://www.abc.es/espana/casa-real/felipe-reivindica-liderazgo-espana-reforzar-autonomia-estrategica-20260629204524-nt.html",
+      "desc": "Felipe VI ha reivindicado esta tarde la innovación como uno de los principales instrumentos para fortalecer la capacidad de decisión de Europa en un contexto internacional incierto, marcado por la convulsa situación geopolítica y la aceleración tecnológica, y ",
+      "date": "Mon, 29 Jun 2026 20:45:24 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "'Machos Alfa' abre casting en Marbella: busca figurantes para su temporada final en Netflix",
+      "link": "https://www.abc.es/espana/andalucia/malaga/machos-alfa-abre-casting-marbella-busca-figurantes-20260629203623-nts.html",
+      "desc": "La serie 'Machos alfa' , tras el éxito de cinco temporadas en Netflix , volverá a realizar una nueva entrega para la plataforma. La serie ha elegido como escenario Marbella, donde ya grabó algunas escenas de la segunda temporada, para continuar con la historia",
+      "date": "Mon, 29 Jun 2026 20:36:24 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Las denuncias por violencia de género aumentan un 1,4% en el primer trimestre en Castilla y León",
+      "link": "https://www.abc.es/espana/castilla-leon/denuncias-violencia-genero-aumentan-primer-trimestre-castilla-20260629202252-nt.html",
+      "desc": "Las denuncias por violencia de género recibidas en los órganos judiciales de Castilla y León experimentaron en el primer trimestre de 2026 un crecimiento del 1,4 por ciento, hasta las 1.480, lo que supone 20 más que las 1.460 registras en los tres primeros mes",
+      "date": "Mon, 29 Jun 2026 20:22:52 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "El director de Comunicación de Puente se presentará a las primarias para ser el alcaldable del PSOE en Benidorm",
+      "link": "https://www.abc.es/espana/comunidad-valenciana/director-comunicacion-puente-presentara-primarias-alcaldable-psoe-20260629201334-nt.html",
+      "desc": "El periodista Pere Rostoll, actualmente director de Comunicación del Ministerio de Transportes y Movilidad Sostenible, que dirige Óscar Puente, quiere ser el próximo alcalde de Benidorm (Alicante). Por eso, según ha podido confirmar ABC de fuentes cercanas al ",
+      "date": "Mon, 29 Jun 2026 20:13:34 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "El ramal de la Llanura Manchega a los municipios del Tajo-Segura se pondrá en servicio en el mes de septiembre",
+      "link": "https://www.abc.es/espana/castilla-la-mancha/toledo/ramal-llanura-manchega-municipios-tajosegura-pondra-servicio-20260629201134-nt.html",
+      "desc": "El vicepresidente primero del Gobierno regional, José Luis Martínez Guijarro, ha anunciado la puesta en servicio, en el mes de septiembre, del ramal de la Tubería a la Llanura Manchega de los Núcleos Poblacionales Inmediatos al acueducto Tajo-Segura Se trata d",
+      "date": "Mon, 29 Jun 2026 20:11:35 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Antonio Evans, la despedida por edad del párroco eterno de San Nicolás en Córdoba",
+      "link": "https://www.abc.es/espana/andalucia/cordoba/antonio-evans-despedida-edad-parroco-eterno-san-20260629201019-nts.html",
+      "desc": "Había que buscarlo en San Nicolás , pero también en la avenida del Gran Capitán, en Gondomar, junto a San Hipólito y casi en cualquier rincón del Centro de Córdoba, en busca de sus feligreses , quizá visitando a algún enfermo, siempre pendiente de un saludo a ",
+      "date": "Mon, 29 Jun 2026 20:10:20 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Los efectos electorales de la 'ley de nietos' disparan las alarmas en Génova",
+      "link": "https://www.abc.es/espana/efectos-electorales-ley-nietos-disparan-alarmas-genova-20260630200526-nt.html",
+      "desc": "El debate lleva sobre la mesa varios meses dentro del PP, pero en las últimas semanas las alarmas se han disparado. Mientras el Gobierno aprueba el cuadro macroeconómico que debe acompañar a los Presupuestos Generales -esta vez sí asegura que se presentarán- y",
+      "date": "Mon, 29 Jun 2026 20:05:26 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
     {
       "title": "Vox intenta el asalto a Asaja desde Valladolid al cuestionar la presidencia de Pedro Barato",
       "link": "https://www.abc.es/espana/castilla-leon/vox-intenta-asalto-asaja-valladolid-cuestionar-presidencia-20260629200135-nt.html",
@@ -57,146 +197,6 @@
       "link": "https://www.abc.es/espana/andalucia/cordoba/gobierno-descarta-vez-nueva-obra-trasvase-colada-20260629194608-nts.html",
       "desc": "No habrá nueva obra dentro de la conexión entre el embalse de La Colada y la presa de Sierra Boyera . Es al menos lo que pudo deducirse de las palabras de la subdelegada del Gobierno en Córdoba, Ana López Losilla , tras asistir a su Comisión de Asistencia. Par",
       "date": "Mon, 29 Jun 2026 19:46:08 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Aragón solicita al Estado la declaración de zona afectada tras el incendio de La Litera",
-      "link": "https://www.abc.es/espana/aragon/aragon-solicita-estado-declaracion-zona-afectada-tras-20260629194341-nt.html",
-      "desc": "El Gobierno de Aragón ha acordado solicitar a la Administración General del Estado la declaración de zona afectada gravemente por una emergencia de protección civil para los municipios afectados por el incendio de Tamarite de Litera, registrado el pasado 25 de",
-      "date": "Mon, 29 Jun 2026 19:45:29 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "La Matriz vuelve a reordenar a las hermandades del Rocío con nuevas categorías",
-      "link": "https://www.abc.es/espana/andalucia/rocio/matriz-vuelve-reordenar-hermandades-rocio-nuevas-modalidades-20260629191354-nts.html",
-      "desc": "La hermandad Matriz de Almonte ha vuelto a reformar la regulación de las corporaciones que rinden culto a la Virgen del Rocío dentro del proceso que viene realizando en los últimos años para ordenar el crecimiento del movimiento rociero. La nueva actualización",
-      "date": "Mon, 29 Jun 2026 19:43:12 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Toledo y su histórica devoción inmaculista en la 75ª Semana Mariológica Nacional",
-      "link": "https://www.abc.es/espana/castilla-la-mancha/toledo/toledo-historica-devocion-inmaculista-75a-semana-mariologica-20260629194250-nt.html",
-      "desc": "Toledo se convierte desde este lunes y hasta el próximo jueves en la capital de la mariología española con la celebración de la 75ª Semana Mariológica Nacional , un congreso que reúne a expertos de todo el país y que pone el foco en la profunda tradición maria",
-      "date": "Mon, 29 Jun 2026 19:42:51 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Juanma Moreno señala la sanidad pública y la vivienda como las prioridades de su Gobierno y anuncia medidas",
-      "link": "https://www.abc.es/espana/andalucia/juanma-moreno-senala-sanidad-publica-vivienda-prioridades-20260629193533-nts.html",
-      "desc": "El presidente en funciones de la Junta y único candidato a presidente aprovechó el discurso de investidura para trazar las líneas maestras de su próximo Gobierno, si la Cámara (en este caso Vox) lo respalda con su voto a favor. Juanma Moreno ha marcado la vivi",
-      "date": "Mon, 29 Jun 2026 19:35:33 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "El Marq acoge una muestra de los saberes indígenas con 300 piezas de Colombia",
-      "link": "https://www.abc.es/espana/comunidad-valenciana/alicante/marq-acoge-muestra-saberes-indigenas-300-piezas-20260629192014-nt.html",
-      "desc": "El presidente de la Diputación de Alicante, Toni Pérez, ha inaugurado este lunes la nueva exposición internacional del Marq que, con el título 'El oro y el universo. Saberes indígenas de Colombia', desvela los enigmas de estas comunidades, desde sus rituales, ",
-      "date": "Mon, 29 Jun 2026 19:20:15 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Vox mantiene el pulso para incluir su «prioridad nacional» en los presupuestos de Llorca",
-      "link": "https://www.abc.es/espana/comunidad-valenciana/vox-mantiene-pulso-incluir-prioridad-nacional-presupuestos-20260629155600-nt.html",
-      "desc": "Fue Vox quien anunció un pacto con el PP para sacar adelante los presupuestos de la Generalitat de 2026, que siguen su tramitación en las Cortes Valencianas. Pero desde que se presentaron esas cuentas, la formación de Santiago Abascal no ha escondido su malest",
-      "date": "Mon, 29 Jun 2026 19:16:50 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "La Catedral pide habilitar la venta de entradas en taquilla para facilitar el acceso a 'Primada'",
-      "link": "https://www.abc.es/espana/castilla-la-mancha/catedral-pide-habilitar-venta-entradas-taquilla-facilitar-20260629191519-nt.html",
-      "desc": "La Catedral Primada de Toledo ha trasladado a la Fundación Impulsa Castilla-La Mancha la necesidad de habilitar la venta de entradas en taquilla para la exposición 'Primada', ante las dificultades que encuentran especialmente las personas mayores para adquirir",
-      "date": "Mon, 29 Jun 2026 19:15:19 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "La Diputación destina más de 700.000 euros a mejorar infraestructuras en Herreruela de Oropesa",
-      "link": "https://www.abc.es/espana/castilla-la-mancha/toledo/pueblos/diputacion-destina-700000-euros-mejorar-infraestructuras-herreruela-20260629190938-nt.html",
-      "desc": "Un municipio de poco más de 300 habitantes ha recibido más de 700.000 euros en inversiones provinciales durante la actual legislatura para renovar infraestructuras, mejorar servicios públicos y avanzar en proyectos considerados estratégicos para fijar població",
-      "date": "Mon, 29 Jun 2026 19:09:39 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "La Xunta crea una central de compras sanitaria tras ahorrar 31,5 millones",
-      "link": "https://www.abc.es/espana/galicia/xunta-crea-central-compras-sanitaria-tras-ahorrar-20260629185735-nt.html",
-      "desc": "La Consellería de Sanidade pondrá en marcha una Central de Compras conjunta con el Servizo Galego de Saúde (Sergas) para reforzar la contratación centralizada en el sistema público de salud de Galicia. El Consello de la Xunta dio este lunes el primer paso para",
-      "date": "Mon, 29 Jun 2026 18:59:19 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Ciudad Real planta cara a la ocupación con una oficina para ayudar a los propietarios",
-      "link": "https://www.abc.es/espana/castilla-la-mancha/ciudad-real-planta-cara-ocupacion-oficina-ayudar-20260629185808-nt.html",
-      "desc": "Perder el acceso a una vivienda por una ocupación y no saber cómo actuar es una situación a la que el Ayuntamiento de Ciudad Real quiere dar respuesta con un nuevo servicio de asesoramiento jurídico gratuito para los propietarios afectados. La Junta de Gobiern",
-      "date": "Mon, 29 Jun 2026 18:58:08 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "La magia de 'La historia interminable' busca nuevas estrellas en Valladolid",
-      "link": "https://www.abc.es/espana/castilla-leon/magia-historia-interminable-busca-nuevas-estrellas-valladolid-20260629184545-nt.html",
-      "desc": "La ilusión, los nervios y el sueño de subirse a un gran escenario se dieron cita este lunes en Valladolid durante el casting de 'La historia interminable, el musical'. Cerca de 400 personas se inscribieron en el proceso de selección, aunque únicamente 130 fuer",
-      "date": "Mon, 29 Jun 2026 18:45:46 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "El festival Bigsound repetirá en Torrent en 2027 tras el «éxito» de su primera edición",
-      "link": "https://www.abc.es/espana/comunidad-valenciana/festival-bigsound-repetira-torrent-2027-tras-exito-20260629174934-nt.html",
-      "desc": "El festival Bigsound repetirá en Torrent en 2027. La organización del festival ha confirmado la continuidad del Parc Central como sede tras el estreno de este recinto en la última edición, un cambio obligado por una resolución judicial que impidió mantener su ",
-      "date": "Mon, 29 Jun 2026 18:42:49 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "La leonesa Natalia Serrano se convierten en la primera mujer al frente de la Fundación Santa María la Real",
-      "link": "https://www.abc.es/espana/castilla-leon/leonesa-natalia-serrano-convierten-primera-mujer-frente-20260629183449-nt.html",
-      "desc": "El Patronato de la Fundación Santa María la Real ha acordado este lunes el nombramiento de Natalia Serrano Serrano como nueva directora general de la entidad, convirtiéndose en la primera mujer que asume la dirección de la institución. La designación, aprobada",
-      "date": "Mon, 29 Jun 2026 18:34:49 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Los jóvenes beben cada vez menos: 6 de cada 10 son abstemios o consumen de manera ocasional",
-      "link": "https://www.abc.es/espana/madrid/jovenes-beben-vez-abstemios-consumen-manera-ocasional-20260629183243-nt.html",
-      "desc": "Pedir un vaso de agua mientras el resto levanta una cerveza sigue empieza a ser cada vez menos excepcional. Dos de de cada diez jóvenes declaran no consumir nunca alcohol, y cuatro de cada diez hacerlo solo de manera ocasional. Esos son algunos de los datos de",
-      "date": "Mon, 29 Jun 2026 18:32:43 +0200",
       "source": "ABC",
       "color": "#c0392b",
       "feedId": "ABC",
