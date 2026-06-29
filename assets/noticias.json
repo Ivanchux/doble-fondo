@@ -1,7 +1,157 @@
 {
-  "updated": "2026-06-28T22:58:42Z",
+  "updated": "2026-06-29T02:58:50Z",
   "count": 24,
   "items": [
+    {
+      "title": "El Gobierno vasco deja fuera a Policía Nacional y Guardia Civil del principal órgano de Seguridad del País Vasco",
+      "link": "https://www.abc.es/espana/pais-vasco/gobierno-vasco-deja-policia-nacional-guardia-civil-20260626025638-nt.html",
+      "desc": "La izquierda aberzale, a través de sus cuadros políticos y su masa social, somete a la Ertzaintza a una presión constante. Los episodios de acoso y señalamiento contra sus agentes se suceden en zonas dominadas por el nacionalismo radical y cada actuación en ma",
+      "date": "Mon, 29 Jun 2026 02:56:38 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "El repliegue de la Guardia Civil avanza en Cataluña con el desmantelamiento progresivo de unidades",
+      "link": "https://www.abc.es/espana/cataluna/repliegue-guardia-civil-cataluna-avanza-desmantelamiento-progresivo-20260629025618-nt.html",
+      "desc": "Bajo el argumento de «decisiones operativas», el progresivo repliegue de la Guardia Civil en Cataluña da un paso más. En plena temporada estival, la unidad subacuática de la Costa Brava, con base en L'Estartit (Gerona), dejará de operar. La alternativa propues",
+      "date": "Mon, 29 Jun 2026 02:56:18 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "El comisionista Aldama tiene un centenar de cuentas bloqueadas",
+      "link": "https://www.abc.es/espana/comisionista-aldama-centenar-cuentas-bloqueadas-20260628025515-nt.html",
+      "desc": "El empresario Víctor de Aldama tiene casi un centenar de cuentas bancarias y productos financieros bloqueados por la Justicia española desde hace más de dos años para asegurar que paga la cantidad reflejada en el caso Mascarillas y cualquier otra multa que se ",
+      "date": "Mon, 29 Jun 2026 02:55:15 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Anticorrupción pedirá la máxima rebaja para Aldama en la causa de obras públicas si vuelve a colaborar",
+      "link": "https://www.abc.es/espana/anticorrupcion-pedira-maxima-rebaja-aldama-causa-obras-20260628025446-nt.html",
+      "desc": "La Fiscalía Anticorrupción tiene las esperanzas puestas en que el empresario y comisionista Víctor de Aldama continúe aportando información clave para avanzar en algunas de las causas de corrupción más importantes que se instruyen en este momento en la Audienc",
+      "date": "Mon, 29 Jun 2026 02:54:46 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "La Policía detecta que la estafa del 'falso mena' supone 100.000 euros a las arcas públicas",
+      "link": "https://www.abc.es/espana/policia-detecta-estafa-falso-mena-supone-100000-20260629022308-nt.html",
+      "desc": "La cifra oficial de menores extranjeros no acompañados (menas) que acabaron siendo mayores de edad es todo un misterio. Hace unos meses, una misión del Parlamento Europeo cifró en cerca de la mitad los casos de estos jóvenes. Esta práctica, la del 'falso mena'",
+      "date": "Mon, 29 Jun 2026 02:23:08 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "La solución de Defensa al problema de la vivienda: un 'coliving' para militares con habitaciones por 410 euros al mes",
+      "link": "https://www.abc.es/espana/solucion-defensa-problema-vivienda-coliving-militares-habitaciones-20260629022201-nt.html",
+      "desc": "Los estudios sobre el precio de la vivienda se suceden con datos siempre alarmantes. Un incremento sin fin del valor del metro cuadrado, alquileres inaccesibles para muchos salarios o incluso un impacto directo en la salud mental de los jóvenes. Se trata de un",
+      "date": "Mon, 29 Jun 2026 02:22:01 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "El Gobierno se gasta más de 13 millones de euros en un Plan de Acción por la Democracia en vía muerta",
+      "link": "https://www.abc.es/espana/gobierno-gasta-millones-plan-accion-democracia-via-20260629022132-nt.html",
+      "desc": "Los cinco días de reflexión que Pedro Sánchez se tomó en abril de 2024 tras la apertura de diligencias judiciales contra su esposa, Begoña Gómez, desembocaron meses después en el anuncio del denominado Plan de Acción por la Democracia. El presidente presentó e",
+      "date": "Mon, 29 Jun 2026 02:21:32 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Sánchez y Pujol, los mejores (según Illa)",
+      "link": "https://www.abc.es/espana/cataluna/sergi-doria-sanchez-pujol-mejores-segun-illa-20260629022030-nt.html",
+      "desc": "Con Sánchez descorbatado a punto de desbandada el diputado José Zaragoza disimula cuando aluden a la podredumbre del eje Ferraz-Moncloa: «Yo soy del PSC». Lo contrario de su jefe Salvador Illa , panegirista con Patxi López del Número Uno: «El mejor presidente ",
+      "date": "Mon, 29 Jun 2026 02:20:30 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "La «lluvia fina» de PP con Junts",
+      "link": "https://www.abc.es/espana/paloma-esteban-lluvia-fina-pp-junts-20260629022015-nt.html",
+      "desc": "La expresión es del núcleo duro de Alberto Núñez Feijóo. En Madrid la empezaron a utilizar desde el principio. «Hay que hacer trabajo de lluvia fina en el Congreso». Arrancaba una legislatura muy complicada, tras frustrarse su llegada a la Moncloa contra todo ",
+      "date": "Mon, 29 Jun 2026 02:20:15 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "La comisaría del Senado: fuga de policías por estrés y ansiedad",
+      "link": "https://www.abc.es/espana/legado-comisario-senado-policias-marchado-destino-privilegiado-20260629021951-nt.html",
+      "desc": "La Comisaría Especial del Senado está considerado como uno de los destinos privilegiados dentro de la Policía Nacional. A pesar de ello, los últimos meses han sido un auténtico infierno para los componentes de la plantilla por el mal ambiente generado del jefe",
+      "date": "Mon, 29 Jun 2026 02:19:51 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Diario de una esclava sexual en un piso burdel, enferma y bajo amenaza de 'San La Muerte'",
+      "link": "https://www.abc.es/espana/madrid/tripas-piso-burdel-san-muerte-esclavas-herpes-20260609020606-nt.html",
+      "desc": "La telefonista era una niña de 15 años, familiar de una de las 'mamis' del piso burdel. Una adolescente que atendía a diario media docena de líneas telefónicas a las que llamaban puteros de manera continua. Les explicaba las tarifas, en función de la práctica ",
+      "date": "Mon, 29 Jun 2026 02:06:06 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Sacrificadas cientos de miles de gallinas por un virus y esta vez no es la gripe aviar",
+      "link": "https://www.abc.es/espana/castilla-leon/newcastle-nueva-enfermedad-pone-jaque-sector-avicola-20260624020442-nt.html",
+      "desc": "Ahora que el sector empezaba a levantar el vuelo, una nueva enfermedad vuelve a cortar las alas a las granjas avícolas. Todavía sufriendo las secuelas de la conocida como gripe aviar que obligó a millones de sacrificios e incluso el encierro, otra patología, o",
+      "date": "Mon, 29 Jun 2026 02:04:42 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Los molinos que dividen la Costa Brava: energía limpia sí, pero lejos de mi ventana",
+      "link": "https://www.abc.es/espana/cataluna/molinos-dividen-costa-brava-energia-limpia-lejos-20260629020407-nt.html",
+      "desc": "Un apartamento con vistas al mar, alpargata y lino blanco por decreto. No se nos olvide el aire acondicionado. El mundo es, sin ninguna duda, un lugar mejor desde la Costa Brava. Rodeado por un paisaje irrenunciable, las grandes causas se defienden sin esfuerz",
+      "date": "Mon, 29 Jun 2026 02:04:07 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Los madrileños de más de 85 años se incorporarán a la teleasistencia gratis en 2027",
+      "link": "https://www.abc.es/espana/madrid/teleasistencia-gratis-mayores-anos-partir-enero-alcanzara-20260628012334-nt.html",
+      "desc": "A partir de enero de 2027, los mayores de 85 años se incorporarán a la gratuidad del servicio de teleasistencia. Hasta ahora, solo podían beneficiarse de esta ayuda los madrileños de más de 87 años. No obstante, con la bajada del rango de edad, la ayuda munici",
+      "date": "Mon, 29 Jun 2026 01:23:34 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Más 'cacharros' y reformas: Madrid quiere modernizar el Parque de Atracciones",
+      "link": "https://www.abc.es/espana/madrid/madrid-quiere-modernizar-parque-atracciones-20260629012318-nt.html",
+      "desc": "Renovarse o morir. Madrid quiere dar un impulso a su histórico Parque de Atracciones, que lleva casi 70 años abierto, desde el día de San Isidro de 1968, cuando la entrada costaba 20 pesetas para los adultos y cinco para los más pequeños. Desde entonces, la ge",
+      "date": "Mon, 29 Jun 2026 01:23:18 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
     {
       "title": "La Policía señala a Hamlyn por grabar a Leire Díez, a un exmiembro del CNI y a otro de inteligencia militar",
       "link": "https://www.abc.es/espana/policia-senala-hamlyn-autor-grabacion-leire-diez-20260629194812-nt.html",
@@ -53,66 +203,6 @@
       "caso": "other"
     },
     {
-      "title": "La 'guerra' del agua estalla en Segovia",
-      "link": "https://www.abc.es/espana/castilla-leon/guerra-agua-estalla-segovia-20260624210032-nt.html",
-      "desc": "Con el verano encima, la época de menor pluviometría y en la que las reservas hídricas más suelen menguar, a la vez que en lugares de gran afluencia turística aumenta la población y la demanda, en varios puntos de la provincia de Segovia ya saben que este estí",
-      "date": "Sun, 28 Jun 2026 21:00:32 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Coello y Tapia revalidan título en Valladolid Premier Padel tras doblegar en la final a Galán y Chingotto",
-      "link": "https://www.abc.es/espana/castilla-leon/coello-tapia-revalidan-titulo-valladolid-premier-padel-20260628205648-nt.html",
-      "desc": "El vallisoletano Arturo Coello y el argentino Agustín Tapia revalidaban este domingo el título que obtuvieron el pasado año y se alzaban con el Oysho Valladolid Premier Padel P2, tras doblegar por 6-4 y 6-3 a Alejandro Galán y Federico Chingotto. De nuevo, el ",
-      "date": "Sun, 28 Jun 2026 20:56:48 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "El equipo de bomberos, que incluye a tres cordobeses, desplazado a Venezuela tras los terremotos: «Vivimos situaciones extremas»",
-      "link": "https://www.abc.es/espana/andalucia/cordoba/equipo-bomberos-incluye-tres-cordobeses-desplazado-venezuela-20260628204122-nts.html",
-      "desc": "Los tres bomberos del Consorcio de la Diputación de Córdoba , como el resto del equipo del BUSF (Bomberos Unidos sin Fonteras) España, trabajan contrarreloj sobre el terreno sobre La Guaira , el territorio que se ha convertido en la zona cero de los devastador",
-      "date": "Sun, 28 Jun 2026 20:41:23 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Frenan el avance del fuego más virulento del Bierzo tras poner en jaque a los vecinos de Cela",
-      "link": "https://www.abc.es/espana/castilla-leon/evolucion-positiva-fuego-virulento-bierzo-tras-poner-20260628203320-nt.html",
-      "desc": "Los vecinos de la localidad de Cela, en el municipio de Villafranca del Bierzo, desayunaban este domingo más aliviados después de las horas de tensión vividas durante parte de la tarde del día anterior y toda la noche como consecuencia del incendio forestal qu",
-      "date": "Sun, 28 Jun 2026 20:33:20 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Cientos de personas disfrutan en Talavera de una nueva edición de 'La Barrada'",
-      "link": "https://www.abc.es/espana/castilla-la-mancha/toledo/talavera/cientos-personas-disfrutan-talavera-nueva-edicion-barrada-20260628202237-nt.html",
-      "desc": "Cientos de personas se han dado cita este domingo en el Parque Tierno Galván para participar en las actividades que desde la Asociación de Vecinos Fray Hernando de Talavera y la Concejalía de Turismo y Artesanía se han puesto en marcha con motivo de la recuper",
-      "date": "Sun, 28 Jun 2026 20:22:37 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "La Riaño Trail Run cierra su décima edición con las victorias de Mayka Bueno y Luis Javier González",
-      "link": "https://www.abc.es/espana/castilla-leon/riano-trail-run-cierra-decima-edicion-victorias-20260628194222-nt.html",
-      "desc": "La décima edición de la Riaño Trail Run concluía ese domingo con la victoria de Mayka Bueno en la categoría femenina y de Luis Javier González en la masculina, con el emblemático pico Gilbo como telón de fondo de una de las pruebas más importantes del calendar",
-      "date": "Sun, 28 Jun 2026 20:22:19 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
       "title": "Los terremotos de Venezuela dejan ya 1.450 muertos, 17 de ellos españoles",
       "link": "https://www.lavanguardia.com/internacional/20260628/11577698/terremotos-venezuela-dejan-1-450-muertos-17-espanoles-fallecidos.html",
       "desc": "Exteriores cifra en 150 los españoles desaparecidos y confirma que un avión con 29 evacuados regresa a España mientras continúan las labores de rescate",
@@ -120,96 +210,6 @@
       "source": "La Vanguardia",
       "color": "#8e44ad",
       "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "Una joven apuñala a un líder de los Trinitarios en Alcalá y agrede a su nueva novia tras un ataque de celos",
-      "link": "https://www.abc.es/espana/madrid/joven-apunala-lider-trinitarios-alcala-agrede-nueva-20260628201113-nt.html",
-      "desc": "Un ataque motivado por los celos a punto ha estado de acabar de la peor manera posible en Alcalá de Henares. Fue a las 9.30 horas de la mañana del sábado, cuando la agresora, una joven española de 20 años, se topó con su expareja y su nueva novia en las cancha",
-      "date": "Sun, 28 Jun 2026 20:11:13 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Disfuncional",
-      "link": "https://www.abc.es/espana/castilla-leon/disfuncional-20260628200518-nt.html",
-      "desc": "«La democracia es un sistema basado en la rendición de cuentas». Esta frase, atribuida a Jeffrey Howe, exministro británico de Hacienda, evidencia a las claras las carencias de rendición de cuentas que experimenta nuestro sistema parlamentario. No aspiramos, o",
-      "date": "Sun, 28 Jun 2026 20:05:18 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Siglo XXII, la música está prohibida y sólo puede salvarla Medina Azahara: ¡Llega el musical de la mítica banda!",
-      "link": "https://www.abc.es/espana/andalucia/cordoba/siglo-xxii-musica-prohibida-solo-puede-salvarla-20260628195053-nts.html",
-      "desc": "Las canciones del mítico grupo cordobés Medina Azahara ayudarán a « salvar la cultura » en un futuro distópico en el que la música está prohibida. Ése es el argumento de un musical creado y producido por José Gutiérrez y cuyo estreno será a principios de 2027.",
-      "date": "Sun, 28 Jun 2026 19:50:54 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Hallan el cuerpo sin vida de una anciana en un riachuelo en Vigo",
-      "link": "https://www.abc.es/espana/galicia/hallan-cuerpo-vida-anciana-riachuelo-vigo-20260628193814-nt.html",
-      "desc": "Una mujer de avanzada edad ha sido hallada sin vida en un riachuelo en la parroquia viguesa de Bembrive. Según la información recogida por el 112 Galicia en la llamada que alertó de lo sucedido, la fallecida se precipitó por un terraplén en las cercanías a su ",
-      "date": "Sun, 28 Jun 2026 19:38:15 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Zamora despide a su cronista oficial: Fallece Herminio Ramos, «un enamorado incondicional de esta tierra»",
-      "link": "https://www.abc.es/espana/castilla-leon/zamora-despide-cronista-oficial-fallece-herminio-ramos-20260628192453-nt.html",
-      "desc": "El cronista oficial de Zamora Herminio Ramos fallecía este domingo, 28 de junio, a los 100 años, según informaba el Ayuntamiento de Zamora. El profesor, nacido el 4 de noviembre de 1925 en la localidad sayaguesa de La Tuda, era el cronista oficial de la ciudad",
-      "date": "Sun, 28 Jun 2026 19:24:53 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Detenido en Soria Domenico Paviglianiti, 'capo de los capos' de la mafia calabresa",
-      "link": "https://www.abc.es/espana/castilla-leon/detenido-soria-domenico-paviglianiti-capo-capos-mafia-20260628191849-nt.html",
-      "desc": "En plena España vaciada, en medio de los áridos campos de Castilla, la Policía Nacional ha puesto fin a la huida de la Justicia de uno de los capos más sanguinarios y buscados de la mafia calabresa. Domenico Paviglianiti , líder del clan que lleva su nombre, h",
-      "date": "Sun, 28 Jun 2026 19:18:50 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Rueda avisa de que no admitirá discriminación entre autonomías: «No somos siervos»",
-      "link": "https://www.abc.es/espana/galicia/rueda-avisa-admitira-discriminacion-autonomias-siervos-20260628190830-nt.html",
-      "desc": "Sin poner nombre y apellido al destinatario de sus mensajes ni citar expresamente a las comunidades autónomas en cuestión, para adaptar el tono a lo que no dejaba de ser un discurso institucional, el presidente de la Xunta no perdió la oportunidad de la ceremo",
-      "date": "Sun, 28 Jun 2026 19:08:30 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Un camión de cerdos caído a un barranco causa un incendio cinco días después",
-      "link": "https://www.abc.es/espana/comunidad-valenciana/camion-cerdos-caido-barranco-causa-incendio-cinco-20260628185102-nt.html",
-      "desc": "Un camión de transporte de cerdos que había caído tras despeñarse por un barranco ha causado un incendio forestal este domingo -cinco días después del accidente- en el interior de la provincia de Castellón, en Forcall. Por la cercanía de algunas zonas pobladas",
-      "date": "Sun, 28 Jun 2026 18:51:03 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Jácome, el alcalde de los regates judiciales: del «dinero negro» al «pluriempleo»",
-      "link": "https://www.abc.es/espana/galicia/alcalde-orense-abona-esquivar-justicia-20260628184047-nt.html",
-      "desc": "Desde que llegó a la alcaldía de Orense en 2019, Gonzalo Pérez Jácome se ha visto rodeado de polémica. Aunque la Justicia ha puesto el foco sobre él en varias ocasiones, casi siempre ha logrado salir ileso. El regidor afrontaba ahora su situación más delicada ",
-      "date": "Sun, 28 Jun 2026 18:40:47 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
       "caso": "other"
     },
     {
