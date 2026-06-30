@@ -1,46 +1,246 @@
 {
-  "updated": "2026-06-30T02:52:17Z",
-  "count": 4,
+  "updated": "2026-06-30T07:49:41Z",
+  "count": 24,
   "items": [
     {
-      "title": "Vox planea revisar 22 leyes de Sánchez, Rajoy, Aznar, Zapatero y González si gobiernan",
-      "link": "https://www.abc.es/espana/vox-planea-revisar-leyes-aznar-rajoy-sanchez-20260630021734-nt.html",
-      "desc": "Vox prevé llevar a cabo un gran reforma de la legislación española si logra poder en un futuro Gobierno. La base —el programa de desregulación del partido— con la que llevarán a cabo este plan fue presentada el pasado sábado en su Asamblea General con el objet",
-      "date": "Tue, 30 Jun 2026 02:17:34 +0200",
+      "title": "La Xunta negocia pagar hasta 220 euros por domingos y festivos a los bomberos forestales",
+      "link": "https://www.abc.es/espana/galicia/xunta-negocia-pagar-220-euros-domingos-festivos-20260630092852-nt.html",
+      "desc": "La Consellería do Medio Rural sigue avanzando en las mesas de diálogo con el personal del Servicio de Prevención y Defensa contra los Incendios Forestales (SPIF). En esta ocasión ha trasladado a los sindicatos una propuesta para que los bomberos forestales lab",
+      "date": "Tue, 30 Jun 2026 09:28:52 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "La alerta por calor sube a naranja este martes: los municipios de Córdoba en «riesgo importante», según la Aemet",
+      "link": "https://www.abc.es/espana/andalucia/cordoba/alerta-calor-sube-naranja-martes-municipios-cordoba-20260630092805-nts.html",
+      "desc": "El calor volverá a calentar las calles de la provincia cordobesa este martes. La Agencia Estatal de Meteorología (Aemet) , que había activado la alerta amarilla durante la jornada, la ha elevado a naranja ante la previsión de una subida más acusada del mercuri",
+      "date": "Tue, 30 Jun 2026 09:28:06 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Las denuncias por violencia de género crecen un 4,6% en Canarias, con 2.000 mujeres más en riesgo",
+      "link": "https://www.abc.es/espana/canarias/denuncias-violencia-genero-crecen-canarias-2000-mujeres-20260630092613-nt.html",
+      "desc": "Los órganos judiciales de Canarias registraron 2.974 denuncias por violencia de género en el primer trimestre de 2026, 131 más que en el mismo periodo de 2025, lo que supone un incremento del 4,6%. Según los datos del Observatorio contra la Violencia Doméstica",
+      "date": "Tue, 30 Jun 2026 09:26:13 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Herido grave un trabajador tras caer desde dos metros de altura en Albacete",
+      "link": "https://www.abc.es/espana/castilla-la-mancha/herido-grave-trabajador-tras-caer-dos-metros-20260630092432-nt.html",
+      "desc": "Un trabajador de 42 años ha resultado herido de gravedad este martes tras sufrir una caída desde una altura aproximada de dos metros mientras colocaba una chapa en una obra ubicada en el Camino Casas Viejas, en Albacete . El aviso, según han informado fuentes ",
+      "date": "Tue, 30 Jun 2026 09:24:33 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Muere el etarra Jesús María Zabarte, el 'carnicero de Mondragón'",
+      "link": "https://www.abc.es/espana/pais-vasco/muere-etarra-jesus-maria-zabarte-carnicero-mondragon-20260630091133-nt.html",
+      "desc": "El etarra Jesús María Zabarte Arregi, más conocido como «Carnicero de Mondragón» por la crueldad y sangre fría con la que actuaba, ha muerto este lunes a los 80 años, según ha informado el medio 'Naiz', próximo a la izquierda abertzale. Figura destacada de la ",
+      "date": "Tue, 30 Jun 2026 09:11:33 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "La exconcejal de Móstoles declara ante la juez que rechazó tres proposiciones sexuales del alcalde",
+      "link": "https://www.abc.es/espana/madrid/exconcejal-mostoles-declara-ante-juez-rechazo-tres-20260630090946-nt.html",
+      "desc": "La exedil del PP de Móstoles que denunció al alcalde de la localidad, Manuel Bautista , ratificó ayer la querella presentada contra el regidor, detallando a la jueza instructora que hubo tres presuntas proposiciones sexuales de las que fue objeto y cuyo rechaz",
+      "date": "Tue, 30 Jun 2026 09:09:47 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Debate de investidura de Juanma Moreno, en directo: discursos, votación y última hora desde el Parlamento de Andalucía",
+      "link": "https://www.abc.es/espana/andalucia/debate-investidura-juanma-moreno-directo-discursos-votacion-20260630090616-dis.html",
+      "desc": "El Parlamento de Andalucía acoge este martes la segunda y decisiva jornada del debate de investidura de Juanma Moreno , que concluirá por la tarde con la primera votación por llamamiento para elegir al próximo presidente de la Junta. Tras el discurso inicial d",
+      "date": "Tue, 30 Jun 2026 09:06:17 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "El parque de animales español elegido entre los diez mejores del mundo: más de 600.000 visitantes al año",
+      "link": "https://www.abc.es/espana/comunidad-valenciana/parque-animales-espanol-elegido-diez-mejores-mundo-20260630083918-nt.html",
+      "desc": "El éxito de un destino turístico suele medirse por el número de visitantes, pero lo verdaderamente importante es si se acompaña con la huella de excelencia que deja en quienes lo descubren. Bioparc Valencia sobresale en este sentido, con más de 600.000 visitan",
+      "date": "Tue, 30 Jun 2026 09:03:24 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "La matrícula de las universidades públicas gallegas volverá a ser gratuita en el curso 2026/27",
+      "link": "https://www.abc.es/espana/galicia/matricula-universidades-publicas-gallegas-volvera-gratuita-curso-20260630090256-nt.html",
+      "desc": "La matrícula en las tres universidades públicas gallegas (USC, UDC y UVigo) y en las enseñanzas artísticas superiores volverá a ser gratuita durante el curso 2026/27. Así lo ha acordado este lunes el Consello de la Xunta, que en paralelo ha aprobado la congela",
+      "date": "Tue, 30 Jun 2026 09:02:56 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Vicente Vallés, convencido sobre cuál es la mejor zona de España para irse de vacaciones en verano: «Es una preciosidad»",
+      "link": "https://www.abc.es/espana/canarias/vicente-valles-convencido-sobre-mejor-zona-espana-vacaciones-verano-20260630090151-nt.html",
+      "desc": "No solo es su destino predilecto para el verano, sino también para disfrutar de cualquier invierno. El periodista y presentador Vicente Vallés , que se ha consolidado en los últimos tiempos como uno de los críticos más firmes de Pedro Sánchez, por sus habitual",
+      "date": "Tue, 30 Jun 2026 09:02:50 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Sanidade investiga un brote de hepatitis A con ocho casos en Narón",
+      "link": "https://www.abc.es/espana/galicia/sanidade-investiga-brote-hepatitis-ocho-casos-naron-20260630084025-nt.html",
+      "desc": "La Consellería de Sanidade se encuentra investigando un brote de hepatitis A en el municipio coruñés de Narón que, hasta el momento, ha dejado un balance de ocho casos confirmados, siete de los cuales requirieron ingreso hospitalario. Según han detallado fuent",
+      "date": "Tue, 30 Jun 2026 08:40:25 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Conoce todos los detalles del calendario del Córdoba CF de la temporada 26-27: horario del sorteo, formato y fechas clave",
+      "link": "https://www.abc.es/espana/andalucia/cordoba/cordoba-cf/conoce-detalles-calendario-cordoba-temporada-2627-horario-20260630082014-nts.html",
+      "desc": "El Córdoba CF aún no ha regresado al trabajo, pero este martes conocerá una de las claves que marcarán su próxima temporada. El conjunto blanquiverde descubrirá el calendario de Segunda División 2026-2027 , es decir, el orden de rivales al que deberá enfrentar",
+      "date": "Tue, 30 Jun 2026 08:20:15 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Arranca el juicio contra la exconsejera catalana de Salud por la demora en la vacunación de policías y guardias civiles",
+      "link": "https://www.abc.es/espana/cataluna/arranca-juicio-exconsejera-catalana-salud-demora-vacunacion-20260630082013-nt.html",
+      "desc": "La exconsejera catalana de Salud Alba Vergés, así como otros tres ex altos cargos de su departamento, tendrán que sentarse este martes en el banquillo por la demora premeditada en la vacunación contra el Covid de policías y guardias civiles destinados en Catal",
+      "date": "Tue, 30 Jun 2026 08:20:13 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Clausuradas dos playas  en Vigo por vertidos de aguas fecales",
+      "link": "https://www.abc.es/espana/galicia/clausuradas-dos-playas-vigo-vertidos-aguas-fecales-20260630082004-nt.html",
+      "desc": "En la tarde de este lunes, la Policía Local ha prohibido el baño en diversas playas de Vigo tras detectarse un importante vertido de aguas fecales en la zona de Alcabre. Según fuentes policiales consultadas por la agencia Europa Press, la alerta saltó en torno",
+      "date": "Tue, 30 Jun 2026 08:20:04 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Lucía Aguilera y Ángel Cervera, hermanos mayores de Ánimas y Presentación al Pueblo de Córdoba",
+      "link": "https://www.abc.es/espana/andalucia/cordoba/semana-santa/lucia-aguilera-angel-cervera-hermanos-mayores-animas-20260630121947-nts.html",
+      "desc": "La hermandad del Remedio de Ánimas tiene a Lucía Aguilera como nueva hermana mayor los próximos cuatro años, mientras que en la de Presentación al Pueblo reeligen a Ángel Cervera para que continúe hasta el verano del año 2030. Así lo han decidido los asistente",
+      "date": "Tue, 30 Jun 2026 08:19:50 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "El retablo plateresco de Fuente Obejuna recupera el color y la luz tras la primera fase de su restauración",
+      "link": "https://www.abc.es/espana/andalucia/cordoba/retablo-plateresco-fuente-obejuna-recupera-color-luz-20260630081938-nts.html",
+      "desc": "La parroquia de Nuestra Señora del Castillo de Fuente Obejuna ha presentado este fin de semana la restauración de la primera fase del retablo mayor del templo, una de las grandes joyas del plateresco cordobés y uno de los conjuntos renacentistas más sobresalie",
+      "date": "Tue, 30 Jun 2026 08:19:38 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "El Real Círculo de la Amistad de Córdoba abre sus mejoras con la obra del Salón Liceo",
+      "link": "https://www.abc.es/espana/andalucia/cordoba/real-circulo-amistad-cordoba-abre-mejoras-obra-20260630081935-nts.html",
+      "desc": "Mejorar algo para que todo permanezca igual. El Real Círculo de la Amistad , una de las entidades sociales y culturales más importantes de Córdoba, ya empieza a asomarse a la época en que va a empezar a someter a su patrimonio a restauración para protegerlo y ",
+      "date": "Tue, 30 Jun 2026 08:19:35 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Sánchez y la zafiedad en el mal",
+      "link": "https://www.abc.es/espana/andalucia/cordoba/sanchez-zafiedad-mal-20260630081931-nts.html",
+      "desc": "Pedro Sánchez no es igual que los demás. Es mucho peor que los demás. Comparado con él, el enjoyado Rodríguez Zapatero es un aprendiz de inmoralista. Faltaba en España un subproducto de la especie que hiciera del mal el ambiente apropiado para su crecimiento c",
+      "date": "Tue, 30 Jun 2026 08:19:31 +0200",
       "source": "ABC",
       "color": "#c0392b",
       "feedId": "ABC",
       "caso": "zap"
     },
     {
-      "title": "El rector de la UCO alerta en su investidura: «Carecer de financiación es el obstáculo a superar para desarrollar proyectos»",
-      "link": "https://www.abc.es/espana/andalucia/cordoba/manuel-torralbo-investidura-universidad-cordoba-uco-20260629164435-nts.html",
-      "desc": "La Universidad de Córdoba (UCO) ha vivido este lunes la investidura de Manuel Torralbo como rector para su segundo mandato , que se prolongará durante los próximos seis años. Repite en el cargo tras un proceso electoral - obtuvo el 76,1% de los votos emitidos ",
-      "date": "Mon, 29 Jun 2026 22:28:09 +0200",
+      "title": "La Feria de Artes Escénicas de Palma del Río echa a andar con las mejores propuestas y teatro popular",
+      "link": "https://www.abc.es/espana/andalucia/cordoba/feria-artes-escenicas-palma-rio-echa-andar-20260630081809-nts.html",
+      "desc": "El presidente de la Diputación Provincial de Córdoba, Salvador Fuentes , ha arropado en Palma del Río el comienzo este lunes el inicio de la 43 edición de su Feria de las Artes Escénicas de Andalucía, «una iniciativa consolidada, siendo la segunda muestra de t",
+      "date": "Tue, 30 Jun 2026 08:18:09 +0200",
       "source": "ABC",
       "color": "#c0392b",
       "feedId": "ABC",
-      "caso": "gen"
+      "caso": "other"
     },
     {
-      "title": "Gertrudis Alcazar comparece en el Senado",
-      "link": "https://www.lavanguardia.com/politica/20260629/11578109/secretaria-zapatero-comparece-comision-senado.html",
-      "desc": "",
-      "date": "29 Jun 2026 11:04:57 +0200",
+      "title": "Más de 1.350 estudiantes se presentan a la convocatoria extraordinaria de Selectividad en Córdoba",
+      "link": "https://www.abc.es/espana/andalucia/cordoba/1350-estudiantes-presentan-convocatoria-extraordinaria-selectividad-cordoba-20260630081806-nts.html",
+      "desc": "Un total de 1.353 estudiantes procedentes de Bachillerato y Formación Profesional de Grado Superior se examinarán en Córdoba de la convocatoria extraordinaria de la Prueba de Acceso a la Universidad (PAU) entre el martes 30 de junio y el jueves 2 de julio. El ",
+      "date": "Tue, 30 Jun 2026 08:18:06 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Exteriores eleva a 18 el número de españoles fallecidos en los terremotos de Venezuela",
+      "link": "https://www.lavanguardia.com/internacional/20260630/11578952/exteriores-eleva-18-numero-espanoles-fallecidos-terremotos-venezuela.html",
+      "desc": "Albares cifra el número de compatriotas desaparecidos en 144",
+      "date": "30 Jun 2026 07:43:40 +0200",
       "source": "La Vanguardia",
       "color": "#8e44ad",
       "feedId": "LaVanguardia",
-      "caso": "zap"
+      "caso": "other"
     },
     {
-      "title": "Zapatero estudia acciones legales por la filtración del chat con su secretaria y su agenda",
-      "link": "https://www.lavanguardia.com/politica/20260624/11574379/zapatero-estudia-acciones-legales-filtracion-chat-secretaria-agenda.html",
-      "desc": "El PSOE sale en defensa del expresidente y considera ”una cacería” la difusión “de agendas, conversaciones y mensajes privados ajenos a la causa”&nbsp; y fuentes del Gobierno denuncian la “vulneración” de derechos y privacidad",
-      "date": "24 Jun 2026 19:56:08 +0200",
+      "title": "Marruecos elimina a Países Bajos en la tanda de penaltis",
+      "link": "https://www.lavanguardia.com/deportes/20260630/11578942/marruecos-elimina-paises-bajos-tanda-penaltis.html",
+      "desc": "La selección africana se enfrentará a Canadá en octavos",
+      "date": "30 Jun 2026 06:42:27 +0200",
       "source": "La Vanguardia",
       "color": "#8e44ad",
       "feedId": "LaVanguardia",
-      "caso": "zap"
+      "caso": "other"
+    },
+    {
+      "title": "Aversión al hype: ¿postureo o autenticidad?",
+      "link": "https://www.lavanguardia.com/magazine/lifestyle/20260630/11568385/aversion-hype-postureo-autenticidad.html",
+      "desc": "El rechazo sistemático a todo aquello que sea popular y guste a todos&nbsp;",
+      "date": "30 Jun 2026 06:28:56 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
+    {
+      "title": "PP y Vox abren un nuevo frente con el Gobierno por el censo electoral y el voto exterior",
+      "link": "https://www.lavanguardia.com/politica/20260630/11578753/pp-vox-abren-nuevo-frente-gobierno-censo-electoral-voto-exterior.html",
+      "desc": "Los populares plantean reformar la ley electoral para dar “un plus de diputados” a la lista más votada",
+      "date": "30 Jun 2026 06:00:00 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
     }
   ]
 }
