@@ -1,7 +1,27 @@
 {
-  "updated": "2026-06-30T21:24:28Z",
+  "updated": "2026-06-30T23:06:26Z",
   "count": 24,
   "items": [
+    {
+      "title": "La banda de los atracos a Cash Converters está detrás del asalto a la joyería de Pinto",
+      "link": "https://www.abc.es/espana/madrid/banda-atracos-cash-converters-detras-asalto-joyeria-20260630010353-nt.html",
+      "desc": "La Policía Nacional y la Guardia Civil se encuentran investigando una serie de robos que, aunque en demarcaciones distintas, tienen un nexo en común: los asaltos a una tienda Cash Converters de Alcorcón y el inmediatamente posterior a una joyería de Pinto fuer",
+      "date": "Wed, 01 Jul 2026 01:03:53 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "La Puerta del Sol celebra este jueves una gran fiesta en honor de Madonna",
+      "link": "https://www.abc.es/espana/madrid/puerta-sol-celebra-jueves-gran-fiesta-honor-20260630010339-nt.html",
+      "desc": "Ya está todo listo para que el próximo viernes 3 de julio vea la luz el esperado nuevo disco de Madonna , 'Confessions II'. Pero los fans madrileños de la reina del pop van a tener la oportunidad de escucharlo antes que el resto del mundo, gracias a la 'MDNA R",
+      "date": "Wed, 01 Jul 2026 01:03:39 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
     {
       "title": "Así quedan los derbis andaluces del Córdoba CF para la temporada 2026-2027: calendario, fechas y equipos",
       "link": "https://www.abc.es/espana/andalucia/cordoba/cordoba-cf/fechas-derbis-andalu-20260630193212-nts.html",
@@ -183,23 +203,13 @@
       "caso": "gen"
     },
     {
-      "title": "El PSOE abre la puerta a celebrar primarias en Toledo, Talavera, Illescas y Seseña para elegir a sus candidatos",
-      "link": "https://www.abc.es/espana/castilla-la-mancha/toledo/psoe-abre-puerta-celebrar-primarias-toledo-talavera-20260630184937-nt.html",
-      "desc": "El PSOE de la provincia de Toledo ha comenzado a preparar las elecciones municipales de 2027 con el proceso de elaboración de candidaturas ya en marcha y sin descartar la celebración de elecciones primarias en algunas de sus principales agrupaciones locales. E",
-      "date": "Tue, 30 Jun 2026 18:49:37 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Johnny Marr y Ryan Adams remarcan el toque heterodoxo del Festival 1001 Músicas de Granada",
-      "link": "https://www.abc.es/espana/andalucia/granada/johnny-marr-ryan-adams-acentuan-toque-heterodoxo-20260630131927-nts.html",
-      "desc": "La sexta edición del Festival 1001 Músicas Caixabank de Granada ya tenía un cartel de categoría, con catorce conciertos programados entre julio y octubre, pero la organización ha agregado a otros dos artistas que, sin ser de tanto renombre como los que ya esta",
-      "date": "Tue, 30 Jun 2026 18:49:32 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
+      "title": "El desacato ciudadano se extiende en Venezuela ante la militarización de la tragedia",
+      "link": "https://www.lavanguardia.com/internacional/20260630/11579476/desacato-ciudadano-extiende-venezueela-militarizacion-tragedia.html",
+      "desc": "El Gobierno instaura un cerco en el estado de La Guaira, la zona más afectada por el doble terremoto del 24 de junio, para intentar controlar el flujo informativo y el movimiento de los operativos de rescate",
+      "date": "30 Jun 2026 18:26:39 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
       "caso": "other"
     },
     {
@@ -227,16 +237,6 @@
       "link": "https://www.lavanguardia.com/politica/20260630/11579340/fiscal-senala-fernandez-diaz-origen-operacion-kitchen.html",
       "desc": "Anticorrupción pide 15 años de cárcel al exministro del Interior y le apunta directamente como responsable de la captación del chófer de Luis Bárcenas para sustraerle documentos",
       "date": "30 Jun 2026 14:42:15 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "Gavi: “Si no fuera futbolista, sería policía”",
-      "link": "https://www.lavanguardia.com/deportes/20260630/11579337/gavi-fuera-futbolista-seria-policia.html",
-      "desc": "El centrocampista español considera&nbsp;que su intensidad es la característica que hace que sus compañeros lo elijan como aquel con el que no compartirían piso",
-      "date": "30 Jun 2026 14:40:20 +0200",
       "source": "La Vanguardia",
       "color": "#8e44ad",
       "feedId": "LaVanguardia",
