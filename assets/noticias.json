@@ -1,7 +1,137 @@
 {
-  "updated": "2026-06-30T23:06:26Z",
+  "updated": "2026-07-01T02:57:41Z",
   "count": 24,
   "items": [
+    {
+      "title": "Vox insiste en la prioridad nacional y pide «influencia» en el Gobierno de Andalucía",
+      "link": "https://www.abc.es/espana/andalucia/vox-insiste-prioridad-nacional-tener-influencia-gobierno-20260701013937-nts.html",
+      "desc": "El no que ayer dio Vox a la primera votación de Juanma Moreno como presidente de la Junta no supone que no vaya a apoyarlo en próximas votaciones. Fue una especie de advertencia para recordarle que el PP debió llamarlos antes para empezar a hablar y no esperar",
+      "date": "Wed, 01 Jul 2026 01:39:37 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "La imputación de la presidenta de la SEPI dinamita la ofensiva de María Jesús Montero contra el PP en el caso Leire Díez",
+      "link": "https://www.abc.es/espana/andalucia/imputacion-presidenta-sepi-dinamita-ofensiva-maria-jesus-20260701013841-nts.html",
+      "desc": "La sobreactuación del PSOE andaluz en el caso Leire Díez se ha vuelto en su contra como un bumerán. Hace apenas dos semanas, recién dimitido el interventor general de la Junta de Andalucía Miguel Ángel Figueroa Teva, los socialistas apremiaban al Gobierno regi",
+      "date": "Wed, 01 Jul 2026 01:38:41 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "lei"
+    },
+    {
+      "title": "José Bono es socio en República Dominicana de un empresario que recibió concesiones millonarias",
+      "link": "https://www.abc.es/espana/bono-socio-dominicana-empresario-logrado-contratos-pais-20260630013750-nt.html",
+      "desc": "La red de negocios de José Bono en República Dominicana sigue creciendo tras su salida de la vida política. ABC ha tenido acceso a documentación que acredita que el exministro de Defensa con José Luis Rodríguez Zapatero es socio, en el país latinoamericano, de",
+      "date": "Wed, 01 Jul 2026 01:37:50 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "zap"
+    },
+    {
+      "title": "Moncloa usa el nuevo pacto migratorio europeo para expulsar a los primeros inmigrantes llegados a Canarias",
+      "link": "https://www.abc.es/espana/canarias/moncloa-usa-nuevo-pacto-migratorio-europeo-expulsar-20260701013735-nt.html",
+      "desc": "Justo cuando se cumplen las dos semanas de la entrada en vigor del nuevo Pacto Europeo de Migración y Asilo , que nació con la oposición de España en algunos aspectos, el Ministerio del Interior se acoge a uno de los puntos más polémicos para ejecutar la expul",
+      "date": "Wed, 01 Jul 2026 01:37:35 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "El Gobierno busca agilizar al máximo la regularización de migrantes antes de que se pronuncie el Supremo",
+      "link": "https://www.abc.es/espana/gobierno-trata-agilizar-maximo-regularizacion-migrantes-pronuncie-20260701013647-nt.html",
+      "desc": "El Gobierno vuelve a estar pendiente del Tribunal Supremo (TS). Esta vez no tiene que ver con ninguna causa por corrupción, sino que el foco se ubica en la regularización de migrantes que el Ejecutivo puso en marcha el pasado mes de abril y cuyo plazo para la ",
+      "date": "Wed, 01 Jul 2026 01:36:47 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "La Policía detecta movimientos de inmigrantes desde dentro de Europa a España para regularizarse",
+      "link": "https://www.abc.es/espana/policia-detecta-movimientos-inmigrantes-dentro-europa-espana-20260701013634-nt.html",
+      "desc": "Las mafias de personas han aprovechado la regularización de inmigrantes aprobada por el Gobierno para llenar aún más sus bolsillos. Los expertos de Extranjería de la Policía Nacional llevan meses detectando un importante flujo de movimientos desde el interior ",
+      "date": "Wed, 01 Jul 2026 01:36:34 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Koeman abandona la selección neerlandesa tras la eliminación del Mundial ante Marruecos",
+      "link": "https://www.lavanguardia.com/deportes/futbol/mundial-2026/20260701/11579840/koeman-abandona-seleccion-neerlandesa-eliminacion-mundial-marruecos.html",
+      "desc": "Ha dirigido a Países Bajos en dos periodos. El primero, desde principios de 2018 hasta mediados de 2020 y después de 2023 hasta ahora",
+      "date": "01 Jul 2026 01:34:43 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
+    {
+      "title": "El gran show de la Francia de Olise ante Suecia, que no deja duda de ser la favorita",
+      "link": "https://www.lavanguardia.com/deportes/futbol/mundial-2026/20260701/11579842/gran-show-francia-olise-suecia-deja-duda-favorita-ganar-mundial-2026.html",
+      "desc": "Con un Mbappé que marca dos goles y empata a Messi en el pichichi",
+      "date": "01 Jul 2026 01:32:42 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
+    {
+      "title": "Unidad y lealtad, el debate pendiente del PSOE",
+      "link": "https://www.abc.es/espana/unidad-lealtad-debate-pendiente-psoe-20260630012908-nt.html",
+      "desc": "Existe el riesgo de que se instale en el PSOE un concepto profundamente equivocado: que solo hay unidad si existe apoyo incondicional total y que la autocrítica debilita al partido. Es exactamente lo contrario. La verdadera fortaleza de una organización políti",
+      "date": "Wed, 01 Jul 2026 01:29:08 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Se fuga el violador confeso de una anciana con alzhéimer en una residencia",
+      "link": "https://www.abc.es/espana/madrid/violador-confeso-anciana-alzheimer-residencia-fuga-20260630012555-nt.html",
+      "desc": "Un hombre de 57 años y origen peruano está en busca y captura, acusado de violar, según él mismo confesó a una compañera de trabajo, a una anciana durante al menos ocho meses en la residencia de ancianos donde estaba interna. La mujer, de 83 años, padece un al",
+      "date": "Wed, 01 Jul 2026 01:25:55 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "La Comunidad convoca 330 nuevas plazas para catedráticos no universitarios",
+      "link": "https://www.abc.es/espana/madrid/comunidad-convoca-330-nuevas-plazas-catedraticos-universitarios-20260630010436-nt.html",
+      "desc": "A partir del próximo curso, Madrid contará con un total de 330 nuevas plazas para profesores catedrático de Educación Secundaria, Escuelas Oficiales de Idiomas y Artes Plásticas y Diseño. Así lo ha anunciado, este martes, la Comunidad en una convocatoria a la ",
+      "date": "Wed, 01 Jul 2026 01:04:36 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Boadilla propone combatir el calor en las aulas con la bajada de impuestos a centros privados",
+      "link": "https://www.abc.es/espana/madrid/boadilla-propone-combatir-calor-aulas-bajada-impuestos-20260630010423-nt.html",
+      "desc": "Ocurre cada verano. El calor, fiel compañero de la época estival , se instala en las aulas de escuelas e institutos. Interrumpe, desconcentra. Y, cuando él aparece, la preocupación nace en los padres que ven a sus hijos salir y entrar de colegios pobremente cl",
+      "date": "Wed, 01 Jul 2026 01:04:23 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Los viajeros subterráneos",
+      "link": "https://www.abc.es/espana/madrid/angel-antonio-herrera-viajeros-subterraneos-20260630010411-nt.html",
+      "desc": "Naturalmente, Madrid tiene su censo de ciudadanos de superficie y su censo de ciudadanos de subsuelo. Quiero decir que tenemos los que hacen ciudad a pie, entre escaparates y glorietas, y luego estamos los otros, los viajeros subterráneos, que descendemos a di",
+      "date": "Wed, 01 Jul 2026 01:04:11 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
     {
       "title": "La banda de los atracos a Cash Converters está detrás del asalto a la joyería de Pinto",
       "link": "https://www.abc.es/espana/madrid/banda-atracos-cash-converters-detras-asalto-joyeria-20260630010353-nt.html",
@@ -20,6 +150,16 @@
       "source": "ABC",
       "color": "#c0392b",
       "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "PP, Vox y la normalidad",
+      "link": "https://www.lavanguardia.com/opinion/20260701/11579595/pp-vox-normalidad.html",
+      "desc": "Ambos partidos creen que el ruido de su confrontación solo beneficia al PSOE",
+      "date": "01 Jul 2026 00:05:00 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
       "caso": "other"
     },
     {
@@ -63,6 +203,16 @@
       "caso": "other"
     },
     {
+      "title": "La ley implacable de Haaland sentencia a Costa de Marfil",
+      "link": "https://www.lavanguardia.com/deportes/20260630/11579581/ley-implacable-haaland-sentencia-costa-marfil.html",
+      "desc": "El delantero del City aparece en la recta final para ser decisivo y dar la clasificación a Noruega y cortar el camino a una atrevida Costa de Marfil",
+      "date": "30 Jun 2026 21:18:44 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
+    {
       "title": "Málaga retrasa la tasa de basuras para evitar reclamaciones judiciales",
       "link": "https://www.abc.es/espana/andalucia/malaga/malaga-retrasa-tasa-basuras-evitar-reclamaciones-judiciales-20260630162714-nts.html",
       "desc": "El concejal de Economía y Hacienda del Ayuntamiento de Málaga, Carlos Conde ha anunciado este lunes que se retrasará la aplicación de la tasa de basura y el cobro en el tercer trimestre de este año como se tenía previsto en la agenda municipal, ante la «falta ",
@@ -90,156 +240,6 @@
       "source": "ABC",
       "color": "#c0392b",
       "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Condena a los 14 traficantes de 'coca' en el Puerto de Valencia por mensajes de Sky",
-      "link": "https://www.abc.es/espana/comunidad-valenciana/condena-traficantes-coca-puerto-valencia-mensajes-sky-20260630202906-nt.html",
-      "desc": "La Audiencia de Valencia ha condenado a penas que oscilan entre los siete y los 16 años de prisión a los 14 acusados miembros de una organización que introdujo un alijo de 117 kilos de cocaína que fueron intervenidos en un contenedor en agosto de 2020 en el Pu",
-      "date": "Tue, 30 Jun 2026 20:29:07 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "La obra en la zona del incendio de la Mezquita-Catedral de Córdoba podría estar concluida a inicios de 2027",
-      "link": "https://www.abc.es/espana/andalucia/cordoba/obra-zona-incendio-mezquitacatedral-cordoba-estar-concluida-20260630202203-nts.html",
-      "desc": "El final de este año 2026 o las primeras semanas de 2027 son el horizonte previsto para el final de las obras en la capilla de San Nicolás de la Mezquita-Catedral de Córdoba, que sufrió el incendio en agosto de 2025 y que todavía está pendiente de la última ac",
-      "date": "Tue, 30 Jun 2026 20:22:03 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "El Defensor del Pueblo alerta de la «relevancia crítica» de mantener las infraestructuras ferroviarias",
-      "link": "https://www.abc.es/espana/andalucia/cordoba/defensor-pueblo-alerta-relevancia-critica-mantener-infraestructuras-20260630202155-nts.html",
-      "desc": "El Defensor del Pueblo , Ángel Gabilondo , ha comparecido este martes en el Congreso de los Diputados ante la Comisión Mixta Congreso-Senado de Relaciones con el Defensor del Pueblo, a propuesta de la Mesa de la Comisión y a petición de los grupos parlamentari",
-      "date": "Tue, 30 Jun 2026 20:21:55 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Una mujer muerta y otra herida grave en Córdoba tras una colisión de dos vehículos",
-      "link": "https://www.abc.es/espana/andalucia/cordoba/mujer-muerta-herida-grave-cordoba-tras-colision-20260630200923-nts.html",
-      "desc": "Las carreteras de la capital se han teñido este martes de luto tras perder la vida una mujer en un accidente de tráfico -además otra ha sufrido heridas graves-. Según se ha informado desde la Policía Local de Córdoba y desde el Servicio de Emergencias 112, per",
-      "date": "Tue, 30 Jun 2026 20:09:24 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Los primeros cinco docentes referentes en España, según Fundación Ibercaja",
-      "link": "https://www.abc.es/espana/aragon/primeros-cinco-docentes-referentes-espana-segun-fundacion-20260630190030-nt.html",
-      "desc": "Fundación Ibercaja ha anunciado este martes 30 de junio los cinco ganadores de la primera edición de las ayudas Docentes Referentes, iniciativa que tiene como objetivo impulsar la excelencia, la investigación y la innovación en la educación no universitaria y ",
-      "date": "Tue, 30 Jun 2026 19:48:50 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "30-J: La movilización definitiva por un «ferrocarril digno» en Teruel",
-      "link": "https://www.abc.es/espana/aragon/30j-movilizacion-definitiva-ferrocarril-digno-teruel-20260630194622-nt.html",
-      "desc": "Teruel vuelve a salir a la calle. Este 30 de junio decenas de personas se han manifestado para reclamar un ferrocarril digno y exigir el impulso definitivo del Corredor Cantábrico-Mediterráneo, una infraestructura estratégica para el desarrollo económico, soci",
-      "date": "Tue, 30 Jun 2026 19:46:22 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "El Supremo absuelve a Arturo Torró un año después de su muerte sin resolver",
-      "link": "https://www.abc.es/espana/comunidad-valenciana/supremo-absuelve-arturo-torro-ano-despues-muerte-20260630192715-nt.html",
-      "desc": "El Tribunal Supremo ha absuelto al ex alcalde de Gandía Arturo Torró (PP), que fue condenado a tres años y medio de prisión por malversación en el conocido como 'caso Tele7'. La anulación de la sentencia de la Audiencia de Valencia se produce casi un año y med",
-      "date": "Tue, 30 Jun 2026 19:27:16 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Vuelven los trenes playeros: horarios,  destinos e incidencias para viajar desde Castilla y León",
-      "link": "https://www.abc.es/espana/castilla-leon/vuelven-trenes-playeros-horarios-destinos-incidencias-viajar-20260630192232-nt.html",
-      "desc": "Pasar un día de playa y volver a casa por la noche, y sin necesidad de coger el coche. Es lo que ofrece un año más Renfe, que con la llegada del verano pone de nuevo en marcha desde este 1 de julio los conocidos como 'Trenes Playeros' con los que conectar hast",
-      "date": "Tue, 30 Jun 2026 19:22:33 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Muere el exdiputado y presentador de Aragón TV Manuel Gómez  a los 55 años",
-      "link": "https://www.abc.es/espana/aragon/muere-exdiputado-presentador-aragon-manuel-gomez-anos-20260630191531-nt.html",
-      "desc": "El histórico presentador de Aragón TV Manuel Gómez Fernández, que conducía el informativo matinal, 'Buenos días Aragón', emitido en Aragón TV, desde abril de 2024 a septiembre de 2025, ha fallecido a los 55 años de edad a causa de una larga enfermedad y tras u",
-      "date": "Tue, 30 Jun 2026 19:15:33 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Detenido por 'pitufear' con billetes falsos de 50 euros comida a domicilio y compras online",
-      "link": "https://www.abc.es/espana/madrid/detenido-hombre-tetuan-pagar-billetes-euros-falsos-20260630190540-nt.html",
-      "desc": "La Policía Nacional ha detenido a un hombre que colocó 55 billetes de 50 euros falsos 'pitufeando' en comercios: un total de 2.750 euros en compras de comida a domicilio y paquetería, entre otros. Además, en el registro de su domicilio, en el distrito de Tetuá",
-      "date": "Tue, 30 Jun 2026 19:05:40 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "La Diputación de Córdoba impulsa 22 proyectos en la recta final de su programa Emprende-UCO",
-      "link": "https://www.abc.es/espana/andalucia/cordoba/diputacion-cordoba-impulsa-proyectos-recta-final-programa-20260630185323-nts.html",
-      "desc": "El programa EmprendeUCO-Diputación de Córdoba afronta la recta final de su edición 2025/2026 con 22 proyectos que han completado el itinerario formativo y han presentado sus iniciativas ante el jurado. Cuatro de estos emprendedores han presentado este martes e",
-      "date": "Tue, 30 Jun 2026 18:53:24 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "gen"
-    },
-    {
-      "title": "El desacato ciudadano se extiende en Venezuela ante la militarización de la tragedia",
-      "link": "https://www.lavanguardia.com/internacional/20260630/11579476/desacato-ciudadano-extiende-venezueela-militarizacion-tragedia.html",
-      "desc": "El Gobierno instaura un cerco en el estado de La Guaira, la zona más afectada por el doble terremoto del 24 de junio, para intentar controlar el flujo informativo y el movimiento de los operativos de rescate",
-      "date": "30 Jun 2026 18:26:39 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "Neuer se retira de la selección, de nuevo, tras el fracaso en el Mundial",
-      "link": "https://www.lavanguardia.com/deportes/futbol/mundial-2026/20260630/11579447/neuer-retira-seleccion-nuevo-fracaso-mundial.html",
-      "desc": "Alemania cayó en los penaltis frente a Paraguay después de encajar goles en todos los partidos",
-      "date": "30 Jun 2026 17:28:07 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "El Supremo tumba el decreto de Trump contra el derecho a la ciudadanía por nacimiento",
-      "link": "https://www.lavanguardia.com/internacional/20260630/11579415/supremo-tumba-decreto-trump-elimino-derecho-ciudadania-nacimiento.html",
-      "desc": "El derecho, que otorga de manera automática la ciudadanía a cualquier persona nacida en el país, está protegido por la 14ª Enmienda de la Constitución",
-      "date": "30 Jun 2026 16:44:38 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "El fiscal señala a Jorge Fernández Díaz en el origen de la operación Kitchen",
-      "link": "https://www.lavanguardia.com/politica/20260630/11579340/fiscal-senala-fernandez-diaz-origen-operacion-kitchen.html",
-      "desc": "Anticorrupción pide 15 años de cárcel al exministro del Interior y le apunta directamente como responsable de la captación del chófer de Luis Bárcenas para sustraerle documentos",
-      "date": "30 Jun 2026 14:42:15 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
       "caso": "other"
     }
   ]
