@@ -1,7 +1,47 @@
 {
-  "updated": "2026-07-01T19:46:58Z",
+  "updated": "2026-07-01T21:23:15Z",
   "count": 24,
   "items": [
+    {
+      "title": "Paco Peña, las seis cuerdas eternas para abrir el Festival de la Guitarra de Córdoba",
+      "link": "https://www.abc.es/espana/andalucia/cordoba/paco-pena-seis-cuerdas-eternas-abrir-festival-20260701214244-nts.html",
+      "desc": "En la Mezquita-Catedral, en el Gran Teatro, en la solemnidad de un 'Réquiem' flamenco de estreno o en el espectáculo 'Solera' que ya ha pasado por muchos lugares, la música de Paco Peña no se puede separar del Festival de la Guitarra de Córdoba. Es su creación",
+      "date": "Wed, 01 Jul 2026 22:47:59 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Incidencia en Cercanías: cortada la circulación de los trenes en Atocha por un problema en la vía",
+      "link": "https://www.abc.es/espana/madrid/incidencia-cercanias-cortada-circulacion-trenes-atocha-20260701221941-nt.html",
+      "desc": "La circulación de los trenes de Cercanías Madrid a su paso por Atocha se encuentra interrumpida en la tarde de este miércoles debido a una incidencia. La suspensión del servicio afecta a las líneas C-2,C-3, C-4, C-7, C-8a, C-8b y C-10. En su cuenta de X, Cerca",
+      "date": "Wed, 01 Jul 2026 22:19:41 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Condenado un exdiputado de Yolanda Díaz que violó a una menor, con prácticas sádicas, y le transmitió la sífilis",
+      "link": "https://www.abc.es/espana/galicia/condenado-exdiputado-yolanda-diaz-violo-menor-practicas-20260701215234-nt.html",
+      "desc": "Nueve años y medio de prisión. Es la condena de conformidad que aceptó el mes pasado Xabier Ron -exdiputado de Alternativa Galega de Esquerda (AGE), formación liderada por Yolanda Díaz durante su etapa gallega- por un delito continuado de agresión sexual contr",
+      "date": "Wed, 01 Jul 2026 21:52:35 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Espinosa de los Monteros confirma su expulsión definitiva de Vox",
+      "link": "https://www.abc.es/espana/espinosa-monteros-confirma-expulsion-definitiva-vox-20260701215004-nt.html",
+      "desc": "El exdirigente de Vox Iván Espinosa de los Monteros ha confirmado con «pena» que Vox le ha comunicado este miércoles su expulsión del partido , pero ha advertido que seguirá «en la defensa de España» y que «lo mejor está por llegar» en un vídeo publicado a tra",
+      "date": "Wed, 01 Jul 2026 21:50:05 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
     {
       "title": "El Latin Fest de Benidorm 'rescata' a los espectadores del RBF cancelado",
       "link": "https://www.abc.es/espana/comunidad-valenciana/alicante/latin-fest-benidorm-rescata-espectadores-rbf-cancelado-20260701213201-nt.html",
@@ -167,46 +207,6 @@
       "link": "https://www.abc.es/espana/galicia/xunta-celebra-primer-ano-gestion-litoral-proteccion-20260701192738-nt.html",
       "desc": "No era una cuestión ideológica, sino de necesidad. Ese fue siempre el argumento de la Xunta para insistir al Gobierno central en la urgencia de que fuese la propia Administración autonómica la que gestionase directamente su litoral. Más de 2.500 kilómetros de ",
       "date": "Wed, 01 Jul 2026 19:27:38 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Herido grave un hombre  tras sufrir quemaduras en la mitad de su cuerpo en El Escorial",
-      "link": "https://www.abc.es/espana/madrid/estado-grave-hombre-anos-tras-quemarse-mitad-20260701191943-nt.html",
-      "desc": "Un hombre de 33 años ha resultado herido por un incendio en su domicilio en San Lorenzo de El Escorial. Ha sido traslado intubado, en helicóptero y con un pronóstico grave al Hospital de Getafe por el SUMA112, tras sufrir quemaduras en el 45% de su cuerpo, sie",
-      "date": "Wed, 01 Jul 2026 19:19:43 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "La Córdoba romana inspira la tercera equipación del Córdoba CF para la temporada 2026-27",
-      "link": "https://www.abc.es/espana/andalucia/cordoba/cordoba-cf/cordoba-romana-inspira-tercera-equipacion-cordoba-temporada-20260701191939-nts.html",
-      "desc": "El Córdoba CF ha iniciado la presentación de sus nuevas equipaciones por una vía poco habitual: desvelando en primer lugar la tercera camiseta . En plena semana de lanzamientos del material deportivo para la temporada 2026-2027, la entidad blanquiverde ha abie",
-      "date": "Wed, 01 Jul 2026 19:19:39 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Rescatan en Alemania y trasladan a España a seis tigres nacidos y criados en camiones",
-      "link": "https://www.abc.es/espana/comunidad-valenciana/alicante/rescatan-alemania-rumbo-espana-seis-tigres-nacidos-20260701191758-nt.html",
-      "desc": "El centro AAP de Villena (Alicante) ha puesto a salvo a seis tigres procedentes de una finca particular en Alemania, que habían nacido en remolques de camiones tráilers. La dueña -una domadora- no tenía los permisos y otro felino había escapado y herido de gra",
-      "date": "Wed, 01 Jul 2026 19:17:59 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Los bomberos que han ayudado en Venezuela vuelven a Córdoba: «Íbamos con más esperanza de encontrar vida»",
-      "link": "https://www.abc.es/espana/andalucia/cordoba/bomberos-ayudado-venezuela-vuelven-cordoba-ibamos-esperanza-20260701191203-nts.html",
-      "desc": "El presidente de la Diputación de Córdoba, Salvador Fuentes , acompañado por el delegado de Deportes y Protección Civil, Antonio Martín, ha recibido a los tres bomberos del Consorcio Provincial de Prevención y Extinción de Incendios de la Diputación que han pa",
-      "date": "Wed, 01 Jul 2026 19:12:04 +0200",
       "source": "ABC",
       "color": "#c0392b",
       "feedId": "ABC",
