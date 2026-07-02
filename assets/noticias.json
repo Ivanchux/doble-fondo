@@ -1,7 +1,37 @@
 {
-  "updated": "2026-07-02T19:17:26Z",
+  "updated": "2026-07-02T20:59:26Z",
   "count": 24,
   "items": [
+    {
+      "title": "Taburete actuará en Costa Feira 2026: fecha, cartel y entradas del concierto en Sanxenxo",
+      "link": "https://www.abc.es/espana/galicia/taburete-actuara-costa-feira-2026-fecha-cartel-20260702223005-nt.html",
+      "desc": "Taburete, la banda liderada por Willy Bárcenas y Antón Carreño, ya tiene fecha para su paso por Galicia este verano. El grupo madrileño se subirá al escenario de Costa Feira, el ciclo de conciertos de Sanxenxo, el jueves 20 de agosto de 2026 , dentro de la gir",
+      "date": "Thu, 02 Jul 2026 22:30:05 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "David Bisbal y Ana Mena actuarán en Pontevedra este verano",
+      "link": "https://www.abc.es/espana/galicia/david-bisbal-ana-mena-actuaran-pontevedra-verano-20260702220000-nt.html",
+      "desc": "La temporada de grandes eventos estivales en el norte de España guarda uno de sus ases más cotizados para los próximos días 17 y 18 de julio . . El gran atractivo del encuentro radica en sus exclusivas: será la única oportunidad del año para ver en suelo galle",
+      "date": "Thu, 02 Jul 2026 22:00:00 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "La Xunta amplía la alerta roja por ola de calor a 138 municipios",
+      "link": "https://www.abc.es/espana/galicia/xunta-amplia-alerta-roja-ola-calor-138-20260702213000-nt.html",
+      "desc": "La Consellería de Sanidade de la Xunta de Galicia ha elevado el nivel de riesgo ante la persistencia de las altas temperaturas en la comunidad. A partir de este viernes, un total de 138 ayuntamientos entran en alerta roja (nivel 3), la máxima categoría del pla",
+      "date": "Thu, 02 Jul 2026 21:30:00 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
     {
       "title": "Casi un metro de distancia para empezar a gobernar juntos",
       "link": "https://www.abc.es/espana/andalucia/cronica-debate-20260702210944-nts.html",
@@ -167,36 +197,6 @@
       "link": "https://www.abc.es/espana/castilla-la-mancha/toledo/vecinos-santa-barbara-piden-revisar-nuevo-carril-20260702194753-nt.html",
       "desc": "La Asociación Vecinal Alcántara ha solicitado al Ministerio de Transportes y al Ayuntamiento de Toledo que revisen el nuevo carril bici y senda peatonal que conecta los barrios de Santa Bárbara y Santa María de Benquerencia antes de que la infraestructura sea ",
       "date": "Thu, 02 Jul 2026 19:47:54 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Ochenta efectivos luchan contra un incendio forestal declarado en Robledillo de Mohernando (Guadalajara)",
-      "link": "https://www.abc.es/espana/castilla-la-mancha/ochenta-efectivos-luchan-incendio-forestal-declarado-robledillo-20260702194025-nt.html",
-      "desc": "Un total de 80 efectivos del Plan Infocam trabajan este jueves en la extinción de un incendio forestal declarado en el término municipal de Robledillo de Mohernando (Guadalajara), que ha obligado a activar la situación operativa de nivel 1 debido al denso humo",
-      "date": "Thu, 02 Jul 2026 19:40:26 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Primer varapalo judicial de Ortega Smith: el juez rechaza sus cautelares sobre su expulsión de Vox",
-      "link": "https://www.abc.es/espana/madrid/primer-varapalo-judicial-ortega-smith-juez-rechaza-20260702192950-nt.html",
-      "desc": "La Justicia ha desestimado las cautelares que había presentado el ex diputado y actual concejal de Vox en el Ayuntamiento de Madrid, Javier Ortega Smith , contra la decisión de la dirección nacional de su partido de expulsarle del partido. Tras una vista celeb",
-      "date": "Thu, 02 Jul 2026 19:29:50 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Este es el pacto al que han llegado PP y Vox para la gobernabilidad de Andalucía",
-      "link": "https://www.abc.es/espana/andalucia/pacto-llegado-pp-vox-gobernaibilidad-andalucia-20260702192410-nts.html",
-      "desc": "Juanma Moreno ganó holgadamente las pasadas elecciones de Andalucía pero no consiguió la mayoría absoluta, de modo que tuvo que empezar una negociación con Vox para ver si era posible llegar a un acuerdo que le permitiera conseguir los votos suficientes para s",
-      "date": "Thu, 02 Jul 2026 19:24:11 +0200",
       "source": "ABC",
       "color": "#c0392b",
       "feedId": "ABC",
