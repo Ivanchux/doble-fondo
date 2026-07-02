@@ -1,7 +1,37 @@
 {
-  "updated": "2026-07-02T20:59:26Z",
+  "updated": "2026-07-02T22:59:59Z",
   "count": 24,
   "items": [
+    {
+      "title": "¿Vendrán Mbappé y Ester Expósito este verano a Galicia? La romería que podría tentar al futbolista después del Mundial",
+      "link": "https://www.abc.es/espana/galicia/vendran-mbappe-ester-exposito-verano-galicia-romeria-20260702000000-nt.html",
+      "desc": "La relación sentimental entre la actriz Ester Expósito y la estrella del fútbol mundial Kylian Mbappé copa todas las miradas. Más allá de las exclusivas en las capitales europeas, una pregunta sobrevuela el norte peninsular con fuerza: ¿Veremos al delantero fr",
+      "date": "Fri, 03 Jul 2026 00:00:00 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "La portavoz del PSOE afirma que la directora de la Guardia Civil está imputada «por hacer unos cafés»",
+      "link": "https://www.abc.es/espana/portavoz-psoe-afirma-directora-guardia-civil-imputada-20260702235459-nt.html",
+      "desc": "La portavoz de la Ejectuvia Federal del PSOE, Montse Mínguez , ha asegurado este jueves en televisión que la directora de la Guardia Civil está imputada en la causa de la trama del caso Leire Díez «por hacer unos cafés». La socialista ha insistido en «respetar",
+      "date": "Thu, 02 Jul 2026 23:54:59 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "lei"
+    },
+    {
+      "title": "Investigan el asesinato de una mujer y su hija presuntamente a manos del padre",
+      "link": "https://www.abc.es/espana/comunidad-valenciana/investigan-asesinato-mujer-hija-presuntamente-manos-padre-20260702234327-nt.html",
+      "desc": "La Guardia Civil ha abierto este jueves una investigación por la muerte de una mujer y su hija , presuntamente a manos del padre, en El Fenollar (Alicante). En el suceso también ha resultado herida de gravedad, presuntamente, otra de las hijas de la víctima. L",
+      "date": "Thu, 02 Jul 2026 23:43:27 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
     {
       "title": "Taburete actuará en Costa Feira 2026: fecha, cartel y entradas del concierto en Sanxenxo",
       "link": "https://www.abc.es/espana/galicia/taburete-actuara-costa-feira-2026-fecha-cartel-20260702223005-nt.html",
@@ -167,36 +197,6 @@
       "link": "https://www.abc.es/espana/andalucia/cordoba/cordoba-cf/tres-barras-blancas-dos-verdes-camiseta-cordoba-20260702194950-nts.html",
       "desc": "La segunda es granate, la primera negro y oro con el mapa y la primera no podía ser de otra forma: blanca y verde. El Córdoba CF ha dado a conocer este jueves el diseño de la que será su primera camiseta para la temporada 2026/27, que hace, asegura el club, un",
       "date": "Thu, 02 Jul 2026 19:49:51 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "La hermandad del Rocío de la Macarena viajará al Vaticano con su Simpecado para una audiencia con el Papa",
-      "link": "https://www.abc.es/espana/andalucia/rocio/hermandad-rocio-macarena-viajara-vaticano-simpecado-audiencia-20260702192028-nts.html",
-      "desc": "El Simpecado del Rocío de la Macarena viajará hasta el Vaticano el próximo 21 de octubre. La Prefectura de la Casa Pontificia ha aprobado la visita de 67 personas que serán recibidos por el Papa León XIV en la Audiencia General que se celebrará durante dicha j",
-      "date": "Thu, 02 Jul 2026 19:49:51 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Seguimos sin sentido común",
-      "link": "https://www.abc.es/espana/cataluna/seguimos-sentido-comun-20260702194837-nt.html",
-      "desc": "Hace cinco años, cuando en Vox entramos por primera vez en el Parlament de Cataluña, lo hicimos, por un lado, con la sospecha de que esa institución estaba profundamente corrompida y, por otro, con la convicción de que era necesario desmantelarla por completo.",
-      "date": "Thu, 02 Jul 2026 19:49:36 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Los vecinos de Santa Bárbara piden revisar el nuevo carril bici antes de que lo reciba el Ayuntamiento",
-      "link": "https://www.abc.es/espana/castilla-la-mancha/toledo/vecinos-santa-barbara-piden-revisar-nuevo-carril-20260702194753-nt.html",
-      "desc": "La Asociación Vecinal Alcántara ha solicitado al Ministerio de Transportes y al Ayuntamiento de Toledo que revisen el nuevo carril bici y senda peatonal que conecta los barrios de Santa Bárbara y Santa María de Benquerencia antes de que la infraestructura sea ",
-      "date": "Thu, 02 Jul 2026 19:47:54 +0200",
       "source": "ABC",
       "color": "#c0392b",
       "feedId": "ABC",
