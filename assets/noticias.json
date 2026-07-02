@@ -1,7 +1,127 @@
 {
-  "updated": "2026-07-01T23:08:57Z",
+  "updated": "2026-07-02T02:48:01Z",
   "count": 24,
   "items": [
+    {
+      "title": "Los plazos judiciales dificultan un freno inminente a la 'ley de nietos'",
+      "link": "https://www.abc.es/espana/plazos-judiciales-impiden-freno-inminente-ley-nietos-20260701015237-nt.html",
+      "desc": "La obtención de la nacionalidad por parte de descendientes de españoles que emigraron durante la Guerra Civil y la posguerra y el derecho a votar en este país aun cuando lo han pisado nunca reabre el debate cuatro años después de la aprobación de la llamada 'l",
+      "date": "Thu, 02 Jul 2026 01:52:37 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "El Gobierno amplió la «ley de nietos» más allá de los exiliados sin informes jurídicos ni memoria económica",
+      "link": "https://www.abc.es/espana/trampas-hicieron-ley-nietos-20260701015148-nt.html",
+      "desc": "La instrucción con la que el Ministerio de Justicia amplió, por la puerta de atrás, el alcance de la Ley de Memoria Democrática o «ley de nietos», para nacionalizar no solo a los descendientes de exiliados, sino de cualquier emigrante español, fue aprobada sin",
+      "date": "Thu, 02 Jul 2026 01:51:48 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "La 'ley de nietos' revuelve al PP",
+      "link": "https://www.abc.es/espana/ley-revuelve-pp-20260701015115-nt.html",
+      "desc": "La inquietud por las consecuencias que podría tener la 'ley de nietos' —el proceso que permite la nacionalización de 2,5 millones de personas que viven en el exterior y que son descendientes de exiliados españoles— ha crecido en el seno del PP. En Génova desco",
+      "date": "Thu, 02 Jul 2026 01:51:15 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "El patrimonio inmobiliario de Bono en Dominicana llega a 1,4 millones entre pisos y oficinas de lujo",
+      "link": "https://www.abc.es/espana/patrimonio-inmobiliario-bono-dominicana-llega-millones-pisos-20260701015105-nt.html",
+      "desc": "Seis años son los que lleva José Bono ostentando la nacionalidad dominicana además de la española. En 2020 el expresidente del Congreso y exministro de Defensa con el recién imputado, José Luis Rodríguez Zapatero, recibió la medida extraordinaria por parte del",
+      "date": "Thu, 02 Jul 2026 01:51:05 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "zap"
+    },
+    {
+      "title": "La Agencia Tributaria decide personarse en el caso de las joyas de Zapatero",
+      "link": "https://www.abc.es/espana/agencia-tributaria-decide-personarse-joyas-zapatero-20260702015055-nt.html",
+      "desc": "La Agencia Tributaria recogerá el guante lanzado por el juez Calama y se personará como perjudicada en el caso de las joyas encontradas en el despacho de José Luis Rodríguez Zapatero en la calle Ferraz, que un informe pericial encargado por la Audiencia Nacion",
+      "date": "Thu, 02 Jul 2026 01:50:55 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "zap"
+    },
+    {
+      "title": "Mendizábal, portavoz de ReActívate: «En el PSOE hay mucha gente oculta por miedo»",
+      "link": "https://www.abc.es/espana/cataluna/mendizabal-portavoz-reactivate-psoe-gente-oculta-miedo-20260702014430-nt.html",
+      "desc": "El movimiento ReActívate, la plataforma crítica nacida dentro del PSOE para forzar una alternativa a Pedro Sánchez desde las bases, se presenta este fin de semana en Barcelona después de su puesta de largo el pasado 3 de junio en Madrid. Laura López Mendizábal",
+      "date": "Thu, 02 Jul 2026 01:44:30 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Prioridad nacional y reducción de burocracia, claves del acuerdo programático de PP y Vox en Andalucía",
+      "link": "https://www.abc.es/espana/andalucia/prioridad-nacional-reduccion-burocracia-claves-acuerdo-programatico-20260702161900-nts.html",
+      "desc": "«El PSOE no puede pretender que ellos puedan pactar con independentistas y yo no pueda pactar con el partido donde milita Ortega Lara». La frase la pronunció el presidente del PP andaluz, Juanma Moreno , a las pocas horas de la finalización de las elecciones d",
+      "date": "Thu, 02 Jul 2026 01:42:34 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Desregulación, Agricultura y Turismo, las consejerías que Vox tiene en otras comunidades",
+      "link": "https://www.abc.es/espana/andalucia/desrregulacion-agricultura-turismo-consejerias-vox-comunidades-20260702014224-nts.html",
+      "desc": "La idea de Vox para dar su apoyo a Juanma Moreno y que sea reelegido vicepresidente de la Junta de Andalucía es que se reediten los pactos a los que han llegado en otras comunidades. No se cansan de repetirlo desde el minuto uno tras las elecciones del pasado.",
+      "date": "Thu, 02 Jul 2026 01:42:24 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "La negociación en Andalucía, atascada por la petición de Vox de tres consejerías",
+      "link": "https://www.abc.es/espana/andalucia/negociacion-andalucia-atascada-peticion-vox-tres-consejerias-20260702013842-nts.html",
+      "desc": "Partido Popular y Vox han dado un paso significativo en las últimas horas para cerrar el pacto por el Gobierno en Andalucía, con un acuerdo programático donde se han ido incorporando las demandas de la formación de Abascal al proyecto definido del equipo de Ju",
+      "date": "Thu, 02 Jul 2026 01:38:42 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Confinada parte de la urbanización Nuevo Borox por un incendio forestal que obliga a cortar la TO-2437",
+      "link": "https://www.abc.es/espana/castilla-la-mancha/toledo/pueblos/confinada-parte-urbanizacion-nuevo-borox-incendio-forestal-20260702013802-nt.html",
+      "desc": "Parte de la urbanización Nuevo Borox, en el municipio toledano de Borox, en la comarca de La Sagra, ha tenido que ser confinada en la noche de este jueves como consecuencia de un incendio forestal declarado en el entorno de la localidad sagreña, lo que ha obli",
+      "date": "Thu, 02 Jul 2026 01:38:03 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Mariano de Cavia, caballero de la pluma",
+      "link": "https://www.abc.es/espana/madrid/mariano-cavia-caballero-pluma-20260701012930-nt.html",
+      "desc": "Esta noche se entregan los premios de periodismo ABC. Entre ellos, el Cavia , que viene a ser el premio de premios para quienes escribimos en el periódico. Y todo es por algo, pues hubo un tiempo en España en que los periodistas no necesitaban tertulias televi",
+      "date": "Thu, 02 Jul 2026 01:29:30 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Madrid cose la brecha entre la antigua fábrica Clesa y el Hospital Ramón y Cajal",
+      "link": "https://www.abc.es/espana/madrid/nueva-pasarela-acabar-brecha-antigua-fabrica-clesa-20260629011841-nt.html",
+      "desc": "Hacia la segunda mitad de 2027, cuando ya esté prácticamente rematado el futuro centro de innovación e investigación en ciencias de la vida que se levantará en las instalaciones de la antigua fábrica de Clesa, los vecinos del entorno podrán disfrutar de una co",
+      "date": "Thu, 02 Jul 2026 01:18:41 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
     {
       "title": "Paco Peña, las seis cuerdas eternas para abrir el Festival de la Guitarra de Córdoba",
       "link": "https://www.abc.es/espana/andalucia/cordoba/paco-pena-seis-cuerdas-eternas-abrir-festival-20260701214244-nts.html",
@@ -83,116 +203,6 @@
       "caso": "other"
     },
     {
-      "title": "Un nuevo incendio  se declara en La Fueva (Huesca) y obliga a evacuar Morillo de Monclús",
-      "link": "https://www.abc.es/espana/aragon/nuevo-incendio-forestal-declara-fueva-huesca-obliga-20260701202031-nt.html",
-      "desc": "Un nuevo incendio forestal se ha declarado en La Fueva (población de Huesca), mientras todos los esfuerzos se centran en combatir el de Leciñena, que arde desde el martes. El fuego ha obligado a evacuar el núcleo de Morillo de Monclús, según ha informado el Go",
-      "date": "Wed, 01 Jul 2026 20:20:32 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "¿Cuántas votaciones necesitaron los otros presidentes autonómicos que pactaron con Vox?",
-      "link": "https://www.abc.es/espana/andalucia/cuantas-votaciones-necesitaron-presidentes-autonomicos-pactaron-vox-20260701201720-nts.html",
-      "desc": "El pacto que, si no hay sorpresas de última hora, está a punto de firmar el Partido Popular con Vox para facilitar la investidura de Juanma Moreno como presidente de la Junta de Andalucía tras las elecciones del pasado 17 de mayo, tiene como referencia lo que ",
-      "date": "Wed, 01 Jul 2026 20:17:20 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "La Guardia Civil pide abrochar los cinturones traseros aunque los asientos vayan vacíos: «Evitarás que la carga acabe en el interior»",
-      "link": "https://www.abc.es/espana/andalucia/guardia-civil-pide-abrochar-cinturones-traseros-asientos-20260701201652-nts.html",
-      "desc": "Antes de iniciar un viaje en coche, la mayoría de conductores comprueba que todos los ocupantes lleven puesto el cinturón de seguridad . Sin embargo, existe un gesto mucho menos conocido que puede marcar la diferencia en caso de un frenazo brusco o un accident",
-      "date": "Wed, 01 Jul 2026 20:16:53 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Desalojan a cerca de 200 personas tras un incendio declarado en Santa Elena, en Jaén",
-      "link": "https://www.abc.es/espana/andalucia/jaen/desalojan-personas-tras-incendio-declarado-santa-elena-20260701201154-nts.html",
-      "desc": "El consejero en funciones de Sanidad, Presidencia y Emergencias, Antonio Sanz, como director del plan de Emergencias por incendios Forestales de Andalucía (Plan Infoca) ha elevado a las 19:10 horas a fase de emergencia, situación operativa 1, el plan por la ev",
-      "date": "Wed, 01 Jul 2026 20:12:38 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Cerebros vagos",
-      "link": "https://www.abc.es/espana/castilla-la-mancha/toledo/cerebros-vagos-20260701200729-nt.html",
-      "desc": "Tengo el cerebro vago y me siento libre de no tener que pensar en nada, confiesa fulanito de tal a otro fulanito, también «de tal», algo similar a decir «de tal palo tal astilla», y es que el mundo se está conformando de fulanitos hacinados, por no decir fulan",
-      "date": "Wed, 01 Jul 2026 20:07:30 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "El enólogo Paco Granado, homenajeado por la Asociación de Catadores de Castilla-La Mancha",
-      "link": "https://www.abc.es/espana/castilla-la-mancha/enologo-paco-granado-homenajeado-asociacion-catadores-castillala-20260701200026-nt.html",
-      "desc": "El pasado domingo, la Asociación de Catadores de Castilla-La Mancha (CATA CLM) puso en relieve la trayectoria profesional de uno de los enólogos más prestigiosos de nuestra región, Francisco Luis Granado Falcón , a través de la primera edición de la Cata Homen",
-      "date": "Wed, 01 Jul 2026 20:00:27 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "La isla prohibida de Galicia que estuvo cerrada décadas y ahora puedes visitar",
-      "link": "https://www.abc.es/espana/galicia/isla-prohibida-galicia-cerrada-decadas-puedes-visitar-20260701200014-nt.html",
-      "desc": "Hay islas que se ganan la fama a base de misterio. La Isla de Tambo, en el corazón de la Ría de Pontevedra, es una de ellas: durante décadas estuvo en manos del Ministerio de Defensa y con el acceso vetado, lo que la convirtió en un lugar tan cercano como proh",
-      "date": "Wed, 01 Jul 2026 20:00:14 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "En libertad el Rambo gallego, condenado a siete años tras fugarse de prisión y pasar un año escondido en el monte",
-      "link": "https://www.abc.es/espana/galicia/libertad-rambo-gallego-condenado-siete-anos-tras-20260701200001-nt.html",
-      "desc": "Alfredo Sánchez Chacón, conocido como el 'Rambo gallego', está en libertad a espera de que se resuelva el recurso que su nueva defensa planteó ante la sentencia a siete años y medio por robo que un tribunal ferrolano le impuso el pasado noviembre. Según fuente",
-      "date": "Wed, 01 Jul 2026 20:00:01 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "La Orden de Toledo se viste de largo",
-      "link": "https://www.abc.es/espana/castilla-la-mancha/toledo/orden-toledo-viste-largo-20260701193734-nt.html",
-      "desc": "La Imaginación, la transgresión y el glamúr llenaron el Círculo de Arte. Como no podía ser de otro modo. Había que dar una fe de vida para la regenerada sociedad que en su día, hace 102 años, fundara el gran cineasta Luis Buñuel. Y ampliar la nómina de su elen",
-      "date": "Wed, 01 Jul 2026 19:51:51 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Rectores y empresas se unen para reforzar la transferencia de conocimiento entre universidades y compañías",
-      "link": "https://www.abc.es/espana/castilla-la-mancha/rectores-empresas-unen-reforzar-transferencia-conocimiento-universidades-20260701194558-nt.html",
-      "desc": "La Conferencia de Rectores de las Universidades Españolas (CRUE) y la Confederación Española de Organizaciones Empresariales (CEOE) han firmado este miércoles una alianza para impulsar el proyecto ' Transferencia e Impacto Social '. Se trata de una iniciativa ",
-      "date": "Wed, 01 Jul 2026 19:45:59 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Un safari virtual para familias aterriza en la Costa Brava",
-      "link": "https://www.abc.es/espana/cataluna/safari-virtual-familias-aterriza-costa-brava-20260701193123-nt.html",
-      "desc": "La Costa Brava suma desde este jueves, 2 de julio, una nueva propuesta de ocio familiar con la apertura de La Reserva Digital en Omno Park Costa Brava, en Lloret de Mar. Se trata de una instalación permanente que propone una forma alternativa de acercarse a la",
-      "date": "Wed, 01 Jul 2026 19:31:23 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
       "title": "Zelenski pide a Polonia y Hungría que no ralenticen la adhesión de Ucrania a la UE",
       "link": "https://www.lavanguardia.com/internacional/20260701/11581233/zelenski-pide-polonia-hungria-ralenticen-adhesion-ucrania-ue.html",
       "desc": "Irlanda inaugura su semestre de presidencia rotatoria con el compromiso de abrir el resto de clústeres de negociación",
@@ -200,16 +210,6 @@
       "source": "La Vanguardia",
       "color": "#8e44ad",
       "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "La Xunta celebra su primer año de gestión del litoral: más protección y menos burocracia",
-      "link": "https://www.abc.es/espana/galicia/xunta-celebra-primer-ano-gestion-litoral-proteccion-20260701192738-nt.html",
-      "desc": "No era una cuestión ideológica, sino de necesidad. Ese fue siempre el argumento de la Xunta para insistir al Gobierno central en la urgencia de que fuese la propia Administración autonómica la que gestionase directamente su litoral. Más de 2.500 kilómetros de ",
-      "date": "Wed, 01 Jul 2026 19:27:38 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
       "caso": "other"
     },
     {
