@@ -1,56 +1,246 @@
 {
-  "updated": "2026-07-03T02:30:39Z",
-  "count": 5,
+  "updated": "2026-07-03T06:58:08Z",
+  "count": 24,
   "items": [
     {
-      "title": "El silencio de Zapatero inquieta a Moncloa",
-      "link": "https://www.abc.es/espana/ainhoa-martinez-silencio-zapatero-inquieta-moncloa-hunde-psoe-20260706012829-nt.html",
-      "desc": "«Entre una semana y diez días». Este fue el margen temporal que José Luis Rodríguez Zapatero pidió al juez que instruye el caso Plus Ultra para aportar las explicaciones y la documentación requerida sobre la pieza separada que el magistrado abrió tras hallar u",
-      "date": "Fri, 03 Jul 2026 01:28:29 +0200",
+      "title": "Fuego activo en O Grove y otro estabilizado en Vilanova en una jornada de alerta en O Salnés",
+      "link": "https://www.abc.es/espana/galicia/fuego-activo-grove-estabilizado-vilanova-jornada-alerta-20260703085115-nt.html",
+      "desc": "El municipio pontevedrés de O Grove registra un incendio forestal activo que ya ha calcinado una superficie estimada de dos hectáreas de terreno, según la información proporcionada por la Consellería de Medio Rural a la agencia Europa Press. El fuego se inició",
+      "date": "Fri, 03 Jul 2026 08:51:15 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Problemas técnicos retrasan las notas de corte y la primera adjudicación de plazas en la Universidad de Córdoba",
+      "link": "https://www.abc.es/espana/andalucia/cordoba/problemas-tecnicos-retrasan-notas-corte-primera-adjudicacion-20260703084759-nts.html",
+      "desc": "Los miles de estudiantes que esperan conocer este viernes si han obtenido una plaza universitaria para el curso 2026-2027 deberán armarse de paciencia. La publicación de la primera adjudicación de plazas y de las correspondientes notas de corte está sufriendo ",
+      "date": "Fri, 03 Jul 2026 08:47:59 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Brava Madrid vuelve a la Caja Mágica en la cuarta edición del festival más colorido del otoño",
+      "link": "https://www.abc.es/espana/madrid/agenda/brava-madrid-vuelve-caja-magica-cuarta-edicion-20260703084342-nt.html",
+      "desc": "Cuando en 2023 alguien tuvo la idea de montar un festival orientado a la comunidad LGTBI+ en Madrid, con un cartel de pop de primer nivel y una identidad estética propia, la respuesta del público fue tan contundente que la pregunta evidente fue por qué no se h",
+      "date": "Fri, 03 Jul 2026 08:45:25 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "El estandarte de San Juan de la Cruz de la cofradía del Caído de Córdoba se estrenará en 2027",
+      "link": "https://www.abc.es/espana/andalucia/cordoba/semana-santa/estandarte-san-juan-cruz-20260703171736-nts.html",
+      "desc": "El estandarte de San Juan de la Cruz formará parte del cortejo de la cofradía de Jesús Caído de Córdoba durante la estación de penitencia del Jueves Santo de 2027. El taller de Juan Rosén, de Málaga, se encuentra ya bordando en sedas el medallón central, que r",
+      "date": "Fri, 03 Jul 2026 08:22:37 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "La Asociación de Jóvenes Empresarios de Andalucía entrega en Córdoba sus premios",
+      "link": "https://www.abc.es/espana/andalucia/cordoba/asociacion-jovenes-empresarios-andalucia-entrega-cordoba-premios-20260703082225-nts.html",
+      "desc": "La Asociación de Jóvenes Empresarios de Andalucía (AJE Andalucía) ha celebrado esta tarde la gala de entrega de los Premios AJE Andalucía 26, donde se han reconocido los proyectos empresariales y emprendedores más destacados de la región. En un acto que ha con",
+      "date": "Fri, 03 Jul 2026 08:22:25 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Teddy Bautista y Los Planetas, en el cartel del Festival de la Guitarra de Córdoba",
+      "link": "https://www.abc.es/espana/andalucia/cordoba/teddy-bautista-planetas-cartel-festival-guitarra-cordoba-20260703082221-nts.html",
+      "desc": "Este viernes 3 de julio el 45 Festival de la Guitarra de Córdoba reúne en una misma noche el estreno absoluto de 'Ciclos 5.0. El Periplo de las Heroínas' de Teddy Bautista, una figura tan inclasificable como decisiva en la historia de la música española, y la ",
+      "date": "Fri, 03 Jul 2026 08:22:21 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Una lección de dignidad",
+      "link": "https://www.abc.es/espana/andalucia/cordoba/jose-calvo-poyato-leccion-dignidad-20260703082218-nts.html",
+      "desc": "Hoy a gran parte de los españoles hay cosas que le parecen indignas por razones muy diferentes. Una de ellas fue la sonrisa de desprecio de quien es presidente del Gobierno de España cuando por mayoría absoluta el Congreso de los Diputados -el mismo Congreso d",
+      "date": "Fri, 03 Jul 2026 08:22:18 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Montoro, Fuente Palmera y Córdoba, a la cabeza del calor por encima de los 42 grados",
+      "link": "https://www.abc.es/espana/andalucia/cordoba/montoro-fuente-palmera-cordoba-cabeza-calor-encima-20260703082215-nts.html",
+      "desc": "Alerta naranja por calor, el mercurio con holgura por encima de los 40 grados y la siguiente premisa es que hay puntos en la provincia de Córdoba entre los más calurosos de España. El clima y la situación del territorio casi no dejan otra opción. El jueves 2 d",
+      "date": "Fri, 03 Jul 2026 08:22:15 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Matan a tiros a un menor de 15 años en un parque de Barcelona",
+      "link": "https://www.abc.es/espana/cataluna/matan-tiros-menor-anos-parque-barcelona-20260703082145-nt.html",
+      "desc": "Nuevo suceso con arma de fuego en Barcelona. Un menor de 15 años ha muerto la madrugada de este viernes, tras ser tiroteado en el parque de La Pegaso, en Sant Andreu, zona habitual de reunión de bandas latinas. La víctima, según las primeras informaciones, es ",
+      "date": "Fri, 03 Jul 2026 08:21:45 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "La inversión de 6.200 millones a dependencia reducirá la lista de espera en 70.000 personas",
+      "link": "https://www.lavanguardia.com/vida/20260703/11583009/inversion-6-200-millones-dependencia-reducira-lista-espera-70-000-personas.html",
+      "desc": "El ministerio de Pablo Bustinduy calcula que esa partida extra incrementará en 417.000 usuarios el número de dependientes que entrarán en el sistema",
+      "date": "03 Jul 2026 08:06:25 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
+    {
+      "title": "Este es el número de inmigrantes que se han acogido a la regularización masiva en Madrid y la nacionalidad predominante",
+      "link": "https://www.abc.es/espana/madrid/numero-inmigrantes-acogido-regularizacion-masiva-madrid-nacionalidad-20260703205255-nt.html",
+      "desc": "La regularización extraordinaria de inmigrantes impulsada por el Gobierno ya tiene cifras definitivas de solicitudes. El proceso, que arrancó el pasado 16 de abril y cerró el plazo el 30 de junio, ha terminado con 1.174.978 peticiones en toda España, una cifra",
+      "date": "Fri, 03 Jul 2026 07:35:22 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Susana Díaz, la presidenta que necesitó más intentonas para ser investida",
+      "link": "https://www.abc.es/espana/andalucia/susana-diaz-presidenta-necesito-intentonas-investida-20260703073051-nts.html",
+      "desc": "La investidura de Juanma Moreno en segunda votación, como ha ocurrido este martes no es algo nuevo en la historia del Parlamento andaluz. Ha habido otros presidentes autonómicos que no consiguieron la confianza de la cámara a la primera y que necesitaron repet",
+      "date": "Fri, 03 Jul 2026 07:30:51 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Juanma Moreno, el presidente andaluz que ha logrado más apoyos en su investidura",
+      "link": "https://www.abc.es/espana/andalucia/juanma-moreno-presidente-andaluz-logrado-apoyos-investidura-20260703073028-nts.html",
+      "desc": "Se lo dijo Manuel Gavira, portavoz de Vox, a Juanma Moreno durante su intevención en el pleno de investidura el pasado martes en el Parlamento andaluz. Que si lograban cerrar un pacto y conseguir los votos de sus quince diputados, presidiría el Gobierno con má",
+      "date": "Fri, 03 Jul 2026 07:30:28 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "La regularización de extranjeros en Andalucía duplica el récord del proceso histórico de Zapatero",
+      "link": "https://www.abc.es/espana/andalucia/regularizacion-extranjeros-andalucia-duplica-record-proceso-historico-20260703071303-nts.html",
+      "desc": "El proceso de regularización de inmigrantes que está desarrollando el Gobierno de Pedro Sánchez ya arroja las primeras cifras tras finalizar el plazo de presentación de solicitudes el pasado martes 30 de junio. En Andalucía son 161.557 peticiones cursadas por ",
+      "date": "Fri, 03 Jul 2026 07:13:03 +0200",
       "source": "ABC",
       "color": "#c0392b",
       "feedId": "ABC",
       "caso": "zap"
     },
     {
-      "title": "Zapatero, un expresidente con rango de autoridad en Bolivia",
-      "link": "https://www.abc.es/espana/bolivia-dio-trato-autoridad-zapatero-acto-sobre-20260703012818-nt.html",
-      "desc": "El expresidente del Gobierno, José Luis Rodríguez Zapatero, recibió un trato de autoridad en Bolivia al mismo tiempo que hacía negocios en el país. ABC ha tenido acceso a una foto, publicada por el perfil oficial de la ONU Turismo, en la que se ve a Zapatero o",
-      "date": "Fri, 03 Jul 2026 01:28:18 +0200",
+      "title": "Fiestas del barrio de San Blas en Madrid 2026: programa, fechas, actividades y conciertos gratis",
+      "link": "https://www.abc.es/espana/madrid/fiestas-barrio-san-blas-madrid-2026-programa-20260703175356-nt.html",
+      "desc": "Las Fiestas de San Blas y Simancas ya están aquí. Desde este jueves 2 de julio hasta el domingo 5 hay programadas multitud de actividades, conciertos, torneos de ajedrez, mus, baloncesto y espectáculos infantiles y para toda la familia. Todas las actividades s",
+      "date": "Fri, 03 Jul 2026 06:15:00 +0200",
       "source": "ABC",
       "color": "#c0392b",
       "feedId": "ABC",
-      "caso": "zap"
+      "caso": "other"
     },
     {
-      "title": "Las empresas de Bono en Dominicana desaparecen del edificio donde estaban registradas",
-      "link": "https://www.abc.es/espana/empresas-bono-dominicana-desaparecen-edificio-registradas-20260702012627-nt.html",
-      "desc": "Desaparecen las empresas de José Bono en República Dominicana . El exministro de Defensa con José Luis Rodríguez Zapatero ha trasladado la sede legal de cuatro de las sociedades que posee en la isla del Caribe. En concreto, de las firmas que el socialista dio ",
-      "date": "Fri, 03 Jul 2026 01:26:27 +0200",
+      "title": "Veinte años con las cicatrices del accidente de metro de Valencia",
+      "link": "https://www.abc.es/espana/comunidad-valenciana/veinte-anos-accidente-metro-valencia-20260703082142-nt.html",
+      "desc": "Los hijos pequeños de Ana Esplugues saben que le cuesta a veces andar porque hubo un accidente de metro en Valencia hace veinte años y su madre iba en el primer vagón del tren. Hace unas semanas fueron de visita al parque de bomberos en el que trabajan los efe",
+      "date": "Fri, 03 Jul 2026 06:00:04 +0200",
       "source": "ABC",
       "color": "#c0392b",
       "feedId": "ABC",
-      "caso": "zap"
+      "caso": "other"
     },
     {
-      "title": "La portavoz del PSOE afirma que la directora de la Guardia Civil está imputada «por hacer unos cafés»",
-      "link": "https://www.abc.es/espana/portavoz-psoe-afirma-directora-guardia-civil-imputada-20260702235459-nt.html",
-      "desc": "La portavoz de la Ejectuvia Federal del PSOE, Montse Mínguez , ha asegurado este jueves en televisión que la directora de la Guardia Civil está imputada en la causa de la trama del caso Leire Díez «por hacer unos cafés». La socialista ha insistido en «respetar",
-      "date": "Thu, 02 Jul 2026 23:54:59 +0200",
+      "title": "Escapada romántica de fin de semana: la guía para desconectar en pareja sin salir de Galicia",
+      "link": "https://www.abc.es/espana/galicia/escapada-romantica-fin-semana-guia-desconectar-pareja-20260702060000-nt.html",
+      "desc": "Con el verano ya instalado y la temporada alta a la vuelta de la esquina, julio es uno de los mejores momentos para reservar una escapada corta en pareja antes de que suban los precios en agosto. Repasamos cinco planes por Galicia, del interior termal a la cos",
+      "date": "Fri, 03 Jul 2026 06:00:00 +0200",
       "source": "ABC",
       "color": "#c0392b",
       "feedId": "ABC",
-      "caso": "lei"
+      "caso": "other"
     },
     {
-      "title": "El juez Pedraz imputa a la directora general de la Guardia Civil, Mercedes González",
-      "link": "https://www.lavanguardia.com/politica/20260702/11581826/anticorrupcion-solicita-imputacion-directora-general-guardia-civil.html",
-      "desc": "Santiago Pedraz cita&nbsp; a González para el próximo día 16 a petición de la fiscalía al considerar que hay indicios de delito de prevaricación y obstrucción a la justicia junto al director adjunto operativo del cuerpo",
-      "date": "02 Jul 2026 11:14:42 +0200",
+      "title": "La Fiscalía cree que el PSOE financió a la trama de Leire Díez para tumbar causas judiciales",
+      "link": "https://www.lavanguardia.com/politica/20260703/11583024/fiscalia-cree-psoe-financio-trama-leire-diez-tumbar-causas-judiciales.html",
+      "desc": "Los fiscales advierten que ni&nbsp; Mercedes González, la directora de la Guardia Civil, ni el ministro Grande-Marlaska ordenaron investigar la campaña en curso contra la UCO",
+      "date": "03 Jul 2026 06:00:00 +0200",
       "source": "La Vanguardia",
       "color": "#8e44ad",
       "feedId": "LaVanguardia",
       "caso": "lei"
+    },
+    {
+      "title": "Una mañana pedaleando junto al campeón de España de ruta: Marcel Camprubí",
+      "link": "https://www.lavanguardia.com/deportes/ciclismo/20260703/11579574/manana-pedaleando-campeon-espana-ruta-marcel-camprubi.html",
+      "desc": "'La Vanguardia' recorre los últimos kilómetros de la segunda etapa del Tour, que incluye el recorrido por Montjuïc y la subida al castillo&nbsp;",
+      "date": "03 Jul 2026 06:00:00 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
+    {
+      "title": "“¿Cómo ganaría a Pogacar? No sé”",
+      "link": "https://www.lavanguardia.com/deportes/20260703/11583014/como-ganaria-pogacar-se.html",
+      "desc": "",
+      "date": "03 Jul 2026 06:00:00 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
+    {
+      "title": "Comandante de los Marines en La Guaira: “Yo me quedaría para siempre”",
+      "link": "https://www.lavanguardia.com/internacional/20260703/11582995/comandante-marines-guaira-me-quedaria-siempre.html",
+      "desc": "'La Vanguardia', habla con el general Kevin Jarrard, al mando de la operación de rescate estadounidense",
+      "date": "03 Jul 2026 06:00:00 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
+    {
+      "title": "Messi, el cuarto anfitrión del Mundial juega en su casa",
+      "link": "https://www.lavanguardia.com/deportes/futbol/20260703/11583042/messi-cuarto-anfitrion-mundial-juega-casa-miami-argentina-cabo-verde.html",
+      "desc": "Argentina se juega el pase a octavos de final contra Cabo Verde en Miami, la ciudad que acogió a su capitán, convertido ya en símbolo del Inter",
+      "date": "03 Jul 2026 06:00:00 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
+    {
+      "title": "La Junta crea dos plazas de asesor para el gabinete de Guijarro con un coste superior a 140.000 euros al año",
+      "link": "https://www.abc.es/espana/castilla-la-mancha/toledo/junta-crea-dos-plazas-asesor-gabinete-guijarro-20260703054529-nt.html",
+      "desc": "El Gobierno de Castilla-La Mancha ha aprobado la creación de dos nuevos puestos de asesor de nivel 30 para el gabinete de la Vicepresidencia Primera que dirige José Luis Martínez Guijarro, una modificación de la Relación de Puestos de Trabajo (RPT) que ha susc",
+      "date": "Fri, 03 Jul 2026 05:45:29 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Cines de verano en Madrid 2026: dónde estarán, precio de las entradas, fechas y películas",
+      "link": "https://www.abc.es/espana/madrid/cines-verano-madrid-2026-precio-entradas-fechas-20260703154844-nt.html",
+      "desc": "Las noches veraniegas de Madrid invitan a disfrutar de planes al aire libre . Cuando cae el sol y el calor da un pequeño respiro, pasear, cenar en una terraza o compartir una actividad con familiares y amigos se convierte en una de las mejores formas de aprove",
+      "date": "Fri, 03 Jul 2026 05:45:21 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
     }
   ]
 }
