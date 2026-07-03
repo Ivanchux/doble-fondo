@@ -1,7 +1,77 @@
 {
-  "updated": "2026-07-03T19:12:09Z",
+  "updated": "2026-07-03T20:58:54Z",
   "count": 24,
   "items": [
+    {
+      "title": "IU apremia a elegir marca y candidato del nuevo Sumar para rascar votos a un PSOE «deteriorado»",
+      "link": "https://www.abc.es/espana/iu-apremia-elegir-marca-candidato-nuevo-sumar-20260703224927-nt.html",
+      "desc": "Con el debate ya aplazado a después de parón estival, a septiembre, a causa del revuelo ocasionado por la imputación del expresidente José Luis Rodríguez por presuntos delitos fiscales, de tráfico de influencias y contrabando, y la crisis interna en Movimiento",
+      "date": "Fri, 03 Jul 2026 22:49:27 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "La ruta gastronómica que la cantante Anni B Sweet recomienda por O Grove",
+      "link": "https://www.abc.es/espana/galicia/ruta-gastronomica-cantante-anni-sweet-recomienda-grove-20260622220000-nt.html",
+      "desc": "El verano invita a perderse por la costa gallega, y si hay un destino que capitanea el turismo gastronómico en las Rías Baixas, ese es O Grove. La península pontevedresa se convierte cada temporada en el refugio de miles de viajeros que buscan playas de arena ",
+      "date": "Fri, 03 Jul 2026 22:00:00 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "La empresa peruana por la que intercedió Zapatero reconoce el pago de 200.000 euros",
+      "link": "https://www.abc.es/espana/empresa-peruana-intercedio-zapatero-reconoce-pago-200000-20260703215413-nt.html",
+      "desc": "No es la primera vez que la empresa Gloria, fundada por los hermanos Vito y Jorge Rodríguez Banda, se encuentra con problemas por sus relaciones con políticos poderosos: ya en la década de los noventa, gracias a su cercanía con el brazo derecho de Alberto Fuji",
+      "date": "Fri, 03 Jul 2026 21:54:13 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "zap"
+    },
+    {
+      "title": "Exteriores eleva a 32 la cifra de españoles fallecidos en los terremotos de Venezuela",
+      "link": "https://www.abc.es/espana/exteriores-eleva-cifra-espanoles-fallecidos-terremotos-venezuela-20260703213414-nt.html",
+      "desc": "El Ministerio de Asuntos Exteriores, Unión Europea y Cooperación ha elevado este viernes a 32 los españoles fallecidos en Venezuela y ha situado en 142 el de desaparecidos como consecuencia de los terremotos que asolaron el norte del país la pasada semana. El ",
+      "date": "Fri, 03 Jul 2026 21:34:14 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Alarma en Valladolid por la intensa humareda provocada por el incendio en una fábrica de palés",
+      "link": "https://www.abc.es/espana/castilla-leon/alarma-valladolid-intensa-humareda-provocada-incendio-fabrica-20260703213255-nt.html",
+      "desc": "Una gran columna de humo negro visible desde muchos puntos de la ciudad ha alertado en la tarde de este viernes a los vecinos de Valladolid sorprendidos por cómo la humareda si iba extendiendo por toda la ciudad. Según han informado fuentes municipales, el fue",
+      "date": "Fri, 03 Jul 2026 21:32:55 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Hito en Tenerife: así es el curioso pez navaja que nada en vertical y  se ha logrado reproducir en Canarias",
+      "link": "https://www.abc.es/espana/andalucia/hito-tenerife-curioso-pez-navaja-vertical-logrado-20260703213104-nts.html",
+      "desc": "El zoológico tinerfeño Loro Parque celebra que por primera vez en España ha logrado reproducir con éxito el Aeoliscus strigatus, conocido popularmente como pez navaja , uniéndose a un selecto grupo de solo tres instalaciones en todo el planeta capaces de conse",
+      "date": "Fri, 03 Jul 2026 21:31:04 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "La Fiscalía pide cuatro años de cárcel para un hombre por 'tocar el culo' a una menor en Tenerife",
+      "link": "https://www.abc.es/espana/canarias/fiscalia-pide-cuatro-anos-carcel-hombre-tocar-20260703212049-nt.html",
+      "desc": "La Fiscalía Provincial de Santa Cruz de Tenerife ha solicitado una pena de cuatro años de cárcel para un hombre por 'tocar el culo' a una menor en plena calle cuando volvía del instituto. El escrito de acusación señala que el hombre llevaba varios días esperán",
+      "date": "Fri, 03 Jul 2026 21:20:49 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
     {
       "title": "Un enjambre de mosquitos invade un avión con destino Alicante: pasajeros obligados a bajar y 3 horas de retraso",
       "link": "https://www.abc.es/espana/comunidad-valenciana/enjambre-mosquitos-invade-avion-destino-alicante-pasajeros-20260703205030-nt.html",
@@ -133,110 +203,40 @@
       "caso": "other"
     },
     {
-      "title": "Uno de los denunciantes de la exlíder de Sumar lleva el caso a la Inspección de Trabajo tras archivarlo el partido",
-      "link": "https://www.abc.es/espana/denunciantes-exlider-sumar-lleva-inspeccion-trabajo-tras-20260703193413-nt.html",
-      "desc": "Al menos uno de los trabajadores vinculados con la denuncia que archivó Movimiento Sumar contra la excoordinadora Lara Hernández ha decidido acudir a la Inspección de Trabajo para que ese órgano indague si sufrió maltrato laboral por su parte. Según la documen",
-      "date": "Fri, 03 Jul 2026 19:34:13 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Montero pide a los suyos recuperar la confianza de los ciudadanos: «Vivimos un momento de convulsión y desánimo» en el PSOE",
-      "link": "https://www.abc.es/espana/andalucia/maria-jesus-montero-pide-suyos-recuperar-confianza-20260703192035-nts.html",
-      "desc": "Ensanchar las bases y recuperar la confianza de los ciudadanos. Con un doble objetivo titánico: frenar el retroceso y forjar una alternativa eficaz de una mayoría social andaluza «que no acepta volver atrás en nuestra conquista de los derechos». La secretaria ",
-      "date": "Fri, 03 Jul 2026 19:31:21 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Los cambios en la Mesa del Parlamento de Andalucía y los senadores, primeras cuestiones a abordar",
-      "link": "https://www.abc.es/espana/andalucia/cambios-mesa-parlamento-senadores-primeras-cuestiones-abordar-20260703193047-nts.html",
-      "desc": "Una vez que se ha cerrado el capítulo de la investidura y que tras el acuerdo del PP y Vox se prevé que empiece la XIII legislatura en Andalucía, ahora el Parlamento tendrá que echar a andar y retomar su actividad . Y eso incluye comisiones, plenos y otras cue",
-      "date": "Fri, 03 Jul 2026 19:30:47 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Así se fraguó el pacto PP-Vox: «Nos hemos tenido que dejar pelos en la gatera»",
-      "link": "https://www.abc.es/espana/andalucia/fraguo-pacto-ppvox-dejar-pelos-gatera-20260703192843-nts.html",
-      "desc": "«Lío ha habido. Lo que pasa es que no lo habéis visto, pero lío ha habido». Juanma Moreno ha tenido que asumir algunos, muchos, de los postulados de Vox con los que no comulgaba. El 'informe caritas' reflejaba la incomodidad del presidente junto a su nuevo soc",
-      "date": "Fri, 03 Jul 2026 19:28:43 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "El dispositivo para reforzar la seguridad en Las Lagunas de Ruidera estará hasta el 15 septiembre",
-      "link": "https://www.abc.es/espana/castilla-la-mancha/dispositivo-reforzar-seguridad-lagunas-ruidera-septiembre-20260703192439-nt.html",
-      "desc": "El delegado del Gobierno de España en Castilla-La Mancha, José Pablo Sabrido, ha presentado junto al coronel de la Guardia Civil jefe interino de Castilla-La Mancha, Jesús Manuel Rodrigo, el dispositivo de seguridad de la Guardia Civil con motivo del refuerzo ",
-      "date": "Fri, 03 Jul 2026 19:24:40 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Mercadona en Galicia: 250 nuevos puestos y la apertura de su famosa 'tienda 9'",
-      "link": "https://www.abc.es/espana/galicia/mercadona-galicia-250-nuevos-puestos-apertura-famosa-20260703192253-nt.html",
-      "desc": "Con la llegada de la temporada estival, Mercadona pisa el acelerador en Galicia. En primer lugar, con la contratación temporal de 250 nuevos empleados que se sumarán a los cerca de 3.200 empleados con contratos estables que la firma tiene en la Comunidad galle",
-      "date": "Fri, 03 Jul 2026 19:22:54 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Illescas transforma un antiguo supermercado en un centro deportivo, de empleo y ludoteca",
-      "link": "https://www.abc.es/espana/castilla-la-mancha/toledo/pueblos/illescas-transforma-antiguo-supermercado-centro-deportivo-empleo-20260703192232-nt.html",
-      "desc": "El Ayuntamiento de Illescas ha inaugurado este viernes el nuevo Espacio 'Illescas Activa', un complejo municipal que amplía la oferta deportiva y de servicios públicos del barrio del Señorío tras la reconversión del edificio que hasta hace unos años albergaba ",
-      "date": "Fri, 03 Jul 2026 19:22:34 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "La inversión de 6.200 millones a dependencia reducirá la lista de espera en 70.000 personas",
-      "link": "https://www.lavanguardia.com/vida/20260703/11583009/inversion-6-200-millones-dependencia-reducira-lista-espera-70-000-personas.html",
-      "desc": "El ministerio de Pablo Bustinduy calcula que esa partida extra incrementará en 417.000 usuarios el número de dependientes que entrarán en el sistema",
-      "date": "03 Jul 2026 08:06:25 +0200",
+      "title": "El fuego sin control amenaza tres comarcas y confina a miles de personas",
+      "link": "https://www.lavanguardia.com/local/catalunya/20260703/11583928/fuego-control-amenaza-tres-comarcas-confina-miles-personas.html",
+      "desc": "La violencia de las llamas ha creado un pirocúmulo, una columna vertical de fuego, que acelera su expansión",
+      "date": "03 Jul 2026 18:51:27 +0200",
       "source": "La Vanguardia",
       "color": "#8e44ad",
       "feedId": "LaVanguardia",
       "caso": "other"
     },
     {
-      "title": "La Fiscalía cree que el PSOE financió a la trama de Leire Díez para tumbar causas judiciales",
-      "link": "https://www.lavanguardia.com/politica/20260703/11583024/fiscalia-cree-psoe-financio-trama-leire-diez-tumbar-causas-judiciales.html",
-      "desc": "Los fiscales advierten que ni&nbsp; Mercedes González, la directora de la Guardia Civil, ni el ministro Grande-Marlaska ordenaron investigar la campaña en curso contra la UCO",
-      "date": "03 Jul 2026 06:00:00 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
-      "caso": "lei"
-    },
-    {
-      "title": "Una mañana pedaleando junto al campeón de España de ruta: Marcel Camprubí",
-      "link": "https://www.lavanguardia.com/deportes/ciclismo/20260703/11579574/manana-pedaleando-campeon-espana-ruta-marcel-camprubi.html",
-      "desc": "'La Vanguardia' recorre los últimos kilómetros de la segunda etapa del Tour, que incluye el recorrido por Montjuïc y la subida al castillo&nbsp;",
-      "date": "03 Jul 2026 06:00:00 +0200",
+      "title": "La UME envía 200 militares al incendio de La Bisbal mientras la Generalitat insta a no desplazarse al Empordà, Gironès y Pla de l'Estany",
+      "link": "https://www.lavanguardia.com/vida/20260703/11583934/illa-pide-ayuda-ume-e-insta-desplazarse-emporda-girones-pla-l-estany.html",
+      "desc": "El fuego avanza sin control avivado por la tramontana y ha obligado a confinar varios municipios de la Costa Brava",
+      "date": "03 Jul 2026 17:58:27 +0200",
       "source": "La Vanguardia",
       "color": "#8e44ad",
       "feedId": "LaVanguardia",
       "caso": "other"
     },
     {
-      "title": "“¿Cómo ganaría a Pogacar? No sé”",
-      "link": "https://www.lavanguardia.com/deportes/20260703/11583014/como-ganaria-pogacar-se.html",
-      "desc": "",
-      "date": "03 Jul 2026 06:00:00 +0200",
+      "title": "De Barcelona a París, Pogacar persigue el club de los 5 en el Tour más apasionante",
+      "link": "https://www.lavanguardia.com/deportes/ciclismo/20260703/11583910/tour-de-francia-apasionante-pogacar-barcelona-paris.html",
+      "desc": "La organización ha concentrado la dureza al final para que el esloveno no sentencie la carrera muy pronto",
+      "date": "03 Jul 2026 17:27:49 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
+    {
+      "title": "La Abogacía del Estado apoya la regularización por la seguridad social y la recaudación",
+      "link": "https://www.lavanguardia.com/politica/20260703/11583823/abogacia-defiende-regularizacion-extraordinaria-fortalecera-seguridad-social-recaudacion.html",
+      "desc": "Los servicios jurídicos del Gobierno se oponen a plantear una cuestión prejudicial ante el TJUE como pretende el Supremo al entender que el proceso&nbsp;no afecta a Europa, sino que es política migratoria nacional",
+      "date": "03 Jul 2026 15:30:02 +0200",
       "source": "La Vanguardia",
       "color": "#8e44ad",
       "feedId": "LaVanguardia",
