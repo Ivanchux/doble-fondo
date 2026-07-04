@@ -1,7 +1,37 @@
 {
-  "updated": "2026-07-04T13:13:43Z",
+  "updated": "2026-07-04T15:02:01Z",
   "count": 24,
   "items": [
+    {
+      "title": "Detenidos diez jóvenes por apalizar y atracar a dos menores en Valdemoro",
+      "link": "https://www.abc.es/espana/madrid/detenidos-diez-jovenes-apalizar-atracar-dos-menores-20260704164951-nt.html",
+      "desc": "La Guardia Civil ha desarticulado en Valdemoro a un violento grupo juvenil, en una operación que culminó con diez personas detenidas y un individuo investigado. Ocho de los implicados son menores de edad y contaban con antecedentes previos. A esta banda se le ",
+      "date": "Sat, 04 Jul 2026 16:49:51 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Tercer accidente laboral mortal en 48 horas en Castilla-La Mancha: muere un trabajador de 22 años electrocutado",
+      "link": "https://www.abc.es/espana/castilla-la-mancha/toledo/pueblos/tercer-accidente-laboral-mortal-horas-castillala-mancha-20260704152712-nt.html",
+      "desc": "Un trabajador de 22 años ha fallecido este sábado tras sufrir una electrocución mientras manipulaba un cuadro eléctrico en la calle Salvador Dalí de la urbanización Cerro-Alberche, en el municipio toledano de El Casar de Escalona. Se trata del tercer accidente",
+      "date": "Sat, 04 Jul 2026 15:27:12 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Muere una mujer de 54 años en la piscina municipal de Mislata",
+      "link": "https://www.abc.es/espana/comunidad-valenciana/muere-mujer-anos-piscina-municipal-mislata-20260704152136-nt.html",
+      "desc": "Una mujer de 54 años ha fallecido este sábado en las instalaciones de la piscina de verano municipal de la localidad valenciana de Mislata. La víctima era usuaria de un centro de Quart de Poblet, tal como han indicado fuentes municipales. Según ha informado el",
+      "date": "Sat, 04 Jul 2026 15:21:37 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
     {
       "title": "Sigue en directo la manifestación del Orgullo 2026 en Madrid",
       "link": "https://www.abc.es/espana/madrid/sigue-directo-manifestacion-orgullo-2026-madrid-20260704150224-nt.html",
@@ -55,7 +85,7 @@
     {
       "title": "Mónica Oltra consuma su regreso a la política tras ser proclamada candidata de Compromís en Valencia",
       "link": "https://www.abc.es/espana/comunidad-valenciana/monica-oltra-consuma-regreso-politica-tras-proclamada-20260704134741-nt.html",
-      "desc": "Mónica Oltra ha dado este sábado el primer paso de su regreso a la primera línea política al ser ratificada oficialmente como candidata de Compromís a la Alcaldía de Valencia. La proclamación ha tenido lugar durante la asamblea extraordinaria celebrada en el J",
+      "desc": "Mónica Oltra ha dado este sábado el paso definitivo de su regreso a la primera línea política al ser ratificada oficialmente como candidata de Compromís a la Alcaldía de Valencia. La proclamación ha tenido lugar durante la asamblea extraordinaria celebrada en ",
       "date": "Sat, 04 Jul 2026 13:47:42 +0200",
       "source": "ABC",
       "color": "#c0392b",
@@ -180,36 +210,6 @@
       "source": "La Vanguardia",
       "color": "#8e44ad",
       "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "La Fiscalía pide hasta cuatro años de cárcel por una pelea con palos en Porzuna (Ciudad Real)",
-      "link": "https://www.abc.es/espana/castilla-la-mancha/fiscalia-pide-cuatro-anos-carcel-pelea-palos-20260704120220-nt.html",
-      "desc": "La Sección Segunda de la Audiencia Provincial de Ciudad Real juzgará el próximo martes, 7 de julio, a cinco acusados por una pelea entre dos grupos ocurrida en un parque de Porzuna (Ciudad Real) en junio de 2018, en la que se habrían golpeado mutuamente con pa",
-      "date": "Sat, 04 Jul 2026 12:02:20 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Detenido tras amagar con tirar a su mujer y a su suegra al río en Vilagarcía",
-      "link": "https://www.abc.es/espana/galicia/detenido-tras-amenazar-tirar-mujer-suegra-rio-20260704120101-nt.html",
-      "desc": "La Policía Local de Vilagarcía de Arousa (Pontevedra) ha detenido a un hombre de 37 años como presunto autor de un delito de violencia de género después de insultar y agredir a su pareja y a la madre de esta. Además, las amenazó con tirarlas al río. Los hechos",
-      "date": "Sat, 04 Jul 2026 12:01:01 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Los empresarios gallegos en Cataluña reivindican a los «Balbinos» que han hecho grande Galicia",
-      "link": "https://www.abc.es/espana/cataluna/empresarios-gallegos-cataluna-reivindican-balbinos-grande-galicia-20260704115435-nt.html",
-      "desc": "La Asociación de Empresarios Gallegos de Cataluña ha convertido este viernes por la noche su gala anual de entrega de los Títulos de Excelencia Galega en un homenaje a los «Balbinos», esos rapaces de aldea que salieron de la Galicia rural con poco más patrimon",
-      "date": "Sat, 04 Jul 2026 11:54:35 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
       "caso": "other"
     },
     {
