@@ -1,7 +1,157 @@
 {
-  "updated": "2026-07-04T06:44:05Z",
-  "count": 4,
+  "updated": "2026-07-04T10:04:06Z",
+  "count": 24,
   "items": [
+    {
+      "title": "Los bomberos logran estabilizar el 70% del flanco derecho del incendio en las Gavarres",
+      "link": "https://www.lavanguardia.com/local/girona/20260704/11584278/incendio-forestal-bisbal-emporda-fuego-gavarres-confinamiento-carreteras-cortadas-ultima-hora-hoy-en-directo.html",
+      "desc": "El presidente de la Generalitat, Salvador Illa, ha anunciado&nbsp;el cierre de Les Gavarres, que “en el peor de los escenarios” podría arder entero",
+      "date": "04 Jul 2026 10:53:51 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
+    {
+      "title": "Los vecinos de Calonge temieron que el incendio quemara sus casas: “Esta noche no hemos pegado ojo”",
+      "link": "https://www.lavanguardia.com/local/girona/20260704/11584318/vecinos-calonge-temieron-incendio-quemara-casas-noche-hemos-pegado-ojo.html",
+      "desc": "Algunas personas, que fueron evacuadas ayer, se han acercado esta mañana a sus hogares para comprobar los desperfectos del incendio",
+      "date": "04 Jul 2026 10:37:23 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
+    {
+      "title": "Guía para superar los cortes de tráfico por la visita del Tour de Francia a Barcelona",
+      "link": "https://www.lavanguardia.com/local/barcelona/20260703/11582035/tour-de-francia-2026-en-barcelona-cortes-trafico-recorrido-calles.html",
+      "desc": "La ronda francesa afecta a la movilidad de seis distritos y partirá hoy la ciudad en dos",
+      "date": "04 Jul 2026 08:55:24 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
+    {
+      "title": "El incendio de La Bisbal, estabilizado en un 70%, quema una casa y una masía, sin heridos",
+      "link": "https://www.lavanguardia.com/local/girona/20260704/11584294/incendio-bisbal-estabilizado-70-quema-casa-masia-heridos.html",
+      "desc": "El fuego obliga a que el confinamiento parcial se mantenga en siete municipios",
+      "date": "04 Jul 2026 08:52:30 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
+    {
+      "title": "Los Mossos detienen a uno de los presuntos autores del asesinato del menor en la Pegaso",
+      "link": "https://www.lavanguardia.com/sucesos/20260704/11584286/mossos-detienen-presuntos-autores-asesinato-menor-pegaso.html",
+      "desc": "La policía catalana lo arrestó el viernes por la noche en un piso de la Meridiana de Barcelona&nbsp;",
+      "date": "04 Jul 2026 08:15:20 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
+    {
+      "title": "Jonathan Andic quería crear una sastrería y emprender fuera de Mango",
+      "link": "https://www.lavanguardia.com/local/barcelona/20260704/11584051/jonathan-andic-queria-crear-sastreria-emprender-fuera-mango.html",
+      "desc": "Las hijas de Isak Andic reafirman en el juzgado la confianza en su hermano",
+      "date": "04 Jul 2026 06:00:00 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
+    {
+      "title": "Trump “secuestra” las celebraciones del 250º aniversario de EE.UU.",
+      "link": "https://www.lavanguardia.com/internacional/20260704/11583921/trump-secuestra-celebraciones-250-aniversario-estados-unidos.html",
+      "desc": "Un informe del Congreso alerta que el presidente ha convertido la efeméride en “un foco de corrupción y enriquecimiento personal”",
+      "date": "04 Jul 2026 06:00:00 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
+    {
+      "title": "De los esclavos a la IA",
+      "link": "https://www.lavanguardia.com/economia/20260704/11583993/esclavos-ia.html",
+      "desc": "La economía de EE.UU. cumple 250 años en la cumbre gracias a su capacidad de reinventarse",
+      "date": "04 Jul 2026 06:00:00 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
+    {
+      "title": "Polarización extrema en EE.UU.: ¿riesgo de guerra civil?",
+      "link": "https://www.lavanguardia.com/internacional/vanguardia-dossier/revista/20260704/11569277/polarizacion-extrema-ee-uu-riesgo-guerra-civil.html",
+      "desc": "La violencia política, los indultos a los asaltantes del Capitolio, la radicalización ultra y el debilitamiento de las instituciones alimentan en el país el temor a una inestabilidad crónica",
+      "date": "04 Jul 2026 06:00:00 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
+    {
+      "title": "Nacidos (también) el 4 de julio: así influye la cultura de EE.UU. más allá de sus fronteras",
+      "link": "https://www.lavanguardia.com/cultura/20260704/11583919/4-julio-ee-uu-cultura.html",
+      "desc": "El cine, la literatura, la música, el teatro y el arte estadounidenses impregnan el mundo entero",
+      "date": "04 Jul 2026 06:00:00 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
+    {
+      "title": "El segundo despegue de Vox",
+      "link": "https://www.lavanguardia.com/politica/20260704/11583967/segundo-despegue-vox.html",
+      "desc": "El partido de Santiago Abascal es el que mejor capitaliza la actual convulsión interna española",
+      "date": "04 Jul 2026 06:00:00 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
+    {
+      "title": "Ayuso: “Es posible salir de Barcelona con el amarillo, sería un sueño”",
+      "link": "https://www.lavanguardia.com/deportes/ciclismo/20260704/11583883/juan-ayuso-tour-de-francia-podio-barcelona-maillot-amarillo-sueno.html",
+      "desc": "El líder del Lidl-Trek se fija como objetivo el podio aunque no quiere obsesionarse con ello",
+      "date": "04 Jul 2026 06:00:00 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
+    {
+      "title": "Aleix Espargaró: “¡Pero qué tenso se va en el pelotón!”",
+      "link": "https://www.lavanguardia.com/deportes/ciclismo/20260704/11583882/aleix-espargaro-que-tenso-peloton.html",
+      "desc": "“Veía más riesgos cuando competía como profesional del ciclismo que cuando pilotaba en MotoGP”, dice Espargaró, que fue profesional del motociclismo y el ciclismo",
+      "date": "04 Jul 2026 06:00:00 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
+    {
+      "title": "Cabo Verde lleva a la agonía a Argentina, que solo puede eliminarla en la prórroga y de rebote",
+      "link": "https://www.lavanguardia.com/deportes/futbol/20260704/11584274/cabo-verde-lleva-agonia-argentina-eliminarla-prorroga-rebote.html",
+      "desc": "El cuento del portero Vozinha dura hasta que Romero cabecea un centro de Messi en el minuto 111",
+      "date": "04 Jul 2026 03:01:53 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
+    {
+      "title": "Fabián, el presunto violador de la residencia de esclerosis múltiple",
+      "link": "https://www.abc.es/espana/madrid/fabian-presunto-violador-residencia-esclerosis-multiple-20260702023003-nt.html",
+      "desc": "El juzgado de Instrucción número 12 de Madrid investiga otro presunto caso de agresión sexual en una residencia. En este caso, se trata del centro de esclerosis múltiple Alicia Koplowitz, de la Comunidad de Madrid. El sospechoso es un cuidador colombiano que h",
+      "date": "Sat, 04 Jul 2026 02:30:03 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
     {
       "title": "Clamor en la Guardia Civil ante la doble vara de medir con el DAO",
       "link": "https://www.abc.es/espana/clamor-guardia-civil-ante-doble-vara-medir-20260704014003-nt.html",
@@ -13,34 +163,84 @@
       "caso": "gen"
     },
     {
-      "title": "La empresa peruana por la que intercedió Zapatero reconoce el pago de 200.000 euros",
-      "link": "https://www.abc.es/espana/empresa-peruana-intercedio-zapatero-reconoce-pago-200000-20260703215413-nt.html",
-      "desc": "No es la primera vez que la empresa Gloria, fundada por los hermanos Vito y Jorge Rodríguez Banda, se encuentra con problemas por sus relaciones con políticos poderosos: ya en la década de los noventa, gracias a su cercanía con el brazo derecho de Alberto Fuji",
-      "date": "Fri, 03 Jul 2026 21:54:13 +0200",
+      "title": "Mafias de la inmigración ofrecían el 'pack completo' para la regularización: viaje a España, documentación y cita",
+      "link": "https://www.abc.es/espana/mafias-inmigracion-ofrecian-pack-completo-regularizacion-viaje-20260706013953-nt.html",
+      "desc": "La oferta lo incluye todo : viaje a España, tickets de meses atrás que permita justificar su presencia en territorio nacional, asistencia en la obtención de la documentación e incluso cita para tramitar su petición de regularización masiva. Quienes la ofertan,",
+      "date": "Sat, 04 Jul 2026 01:39:53 +0200",
       "source": "ABC",
       "color": "#c0392b",
       "feedId": "ABC",
-      "caso": "zap"
+      "caso": "other"
     },
     {
-      "title": "El juez imputa a Jéssica Rodríguez, exnovia de Ábalos, y a Joseba, hermano de Koldo García, por los enchufes",
-      "link": "https://www.lavanguardia.com/politica/20260703/11583776/juez-imputa-jessica-rodriguez-exnovia-abalos-joseba-hermano-koldo-garcia.html",
-      "desc": "Ambos tendrán que declarar en calidad de investigados el próximo 20 de julio ante Ismael Moreno, que instruye el llamado caso Koldo",
-      "date": "03 Jul 2026 14:44:38 +0200",
+      "title": "Sánchez aumenta su récord: más del triple de decretos derogados que el resto de presidentes",
+      "link": "https://www.abc.es/espana/sanchez-aumenta-record-duplica-decretos-derogados-gobierno-20260703013747-nt.html",
+      "desc": "«Vamos a sudar la camiseta», repite estos días la Moncloa, aprovechando que el calendario coincide con el Mundial e intentando distraer con una cortina de humo que lo único que evidencia es una férrea resistencia numantina. Sin embargo, se dispersa enseguida c",
+      "date": "Sat, 04 Jul 2026 01:37:47 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "El pacto de Moreno termina de normalizar a Vox y da vía libre a Feijóo",
+      "link": "https://www.abc.es/espana/pacto-moreno-termina-normalizar-vox-via-libre-20260704013612-nt.html",
+      "desc": "«Si Juanma ha pactado, se terminó el debate. Esta página está superada». La conclusión se repite entre todos los dirigentes nacionales tras el acuerdo en Andalucía que ha permitido a Juanma Moreno revalidar la presidencia de la Junta. La mayoría de los territo",
+      "date": "Sat, 04 Jul 2026 01:36:12 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Madrid lidera el número de 'coworking' y mira ya hacia el extrarradio",
+      "link": "https://www.abc.es/espana/madrid/madrid-lider-coworking-concentra-tercio-pais-capital-20260623012436-nt.html",
+      "desc": "La barrera del millón de metros cuadrados destinados al 'coworking' ya se ha superado en España, donde estos espacios ya son una solución para miles de empresas que comenzaron a plantearse esta modalidad justo después de la pandemia impulsados por el trabajo h",
+      "date": "Sat, 04 Jul 2026 01:24:36 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Los vigilantes de la patria",
+      "link": "https://www.lavanguardia.com/opinion/20260704/11584053/vigilantes-patria.html",
+      "desc": "",
+      "date": "04 Jul 2026 00:30:00 +0200",
       "source": "La Vanguardia",
       "color": "#8e44ad",
       "feedId": "LaVanguardia",
-      "caso": "gen"
+      "caso": "other"
     },
     {
-      "title": "La Agencia Tributaria inspecciona a Zapatero y su familia por los ejercicios desde el 2021",
-      "link": "https://www.lavanguardia.com/politica/20260703/11583731/aeat-inspecciona-zapatero-mujer-e-hijas-pide-juez-paralizar-procedimiento.html",
-      "desc": "Hacienda insta al juez a que ordene frenar los expedientes administrativos para dar prioridad al proceso penal&nbsp;",
-      "date": "03 Jul 2026 13:54:02 +0200",
+      "title": "Tramontana, canícula y cero humedad; la historia se repite en el Empordà",
+      "link": "https://www.lavanguardia.com/local/girona/20260704/11584073/tramontana-canicula-cero-humedad-historia-repite-emporda.html",
+      "desc": "En 1986 el fuego empezó en El Pertús y cruzo la frontera, arrasó&nbsp;19.612 hectáreas",
+      "date": "04 Jul 2026 00:29:41 +0200",
       "source": "La Vanguardia",
       "color": "#8e44ad",
       "feedId": "LaVanguardia",
-      "caso": "zap"
+      "caso": "other"
+    },
+    {
+      "title": "La gaita de Feijóo, Abascal y Aznar",
+      "link": "https://www.lavanguardia.com/politica/20260704/11584005/gaita-feijoo-abascal-aznar.html",
+      "desc": "",
+      "date": "04 Jul 2026 00:05:00 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
+    {
+      "title": "IU apremia a elegir marca y candidato del nuevo Sumar para rascar votos a un PSOE «deteriorado»",
+      "link": "https://www.abc.es/espana/iu-apremia-elegir-marca-candidato-nuevo-sumar-20260703224927-nt.html",
+      "desc": "Con el debate ya aplazado a después de parón estival, a septiembre, a causa del revuelo ocasionado por la imputación del expresidente José Luis Rodríguez por presuntos delitos fiscales, de tráfico de influencias y contrabando, y la crisis interna en Movimiento",
+      "date": "Fri, 03 Jul 2026 22:49:27 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
     }
   ]
 }
