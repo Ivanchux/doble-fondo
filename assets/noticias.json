@@ -1,26 +1,16 @@
 {
-  "updated": "2026-07-03T22:57:46Z",
-  "count": 24,
+  "updated": "2026-07-04T02:28:20Z",
+  "count": 4,
   "items": [
     {
-      "title": "IU apremia a elegir marca y candidato del nuevo Sumar para rascar votos a un PSOE «deteriorado»",
-      "link": "https://www.abc.es/espana/iu-apremia-elegir-marca-candidato-nuevo-sumar-20260703224927-nt.html",
-      "desc": "Con el debate ya aplazado a después de parón estival, a septiembre, a causa del revuelo ocasionado por la imputación del expresidente José Luis Rodríguez por presuntos delitos fiscales, de tráfico de influencias y contrabando, y la crisis interna en Movimiento",
-      "date": "Fri, 03 Jul 2026 22:49:27 +0200",
+      "title": "Clamor en la Guardia Civil ante la doble vara de medir con el DAO",
+      "link": "https://www.abc.es/espana/clamor-guardia-civil-ante-doble-vara-medir-20260704014003-nt.html",
+      "desc": "Existe un clamor unánime en la Guardia Civil por la continuidad del DAO Manuel Llamas y de Mercedes González pese a sus imputaciones por el caso de las 'cloacas' del PSOE en la Audiencia Nacional. Cuando se produce esta situación en cualquier agente acaba apar",
+      "date": "Sat, 04 Jul 2026 01:40:03 +0200",
       "source": "ABC",
       "color": "#c0392b",
       "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "La ruta gastronómica que la cantante Anni B Sweet recomienda por O Grove",
-      "link": "https://www.abc.es/espana/galicia/ruta-gastronomica-cantante-anni-sweet-recomienda-grove-20260622220000-nt.html",
-      "desc": "El verano invita a perderse por la costa gallega, y si hay un destino que capitanea el turismo gastronómico en las Rías Baixas, ese es O Grove. La península pontevedresa se convierte cada temporada en el refugio de miles de viajeros que buscan playas de arena ",
-      "date": "Fri, 03 Jul 2026 22:00:00 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
+      "caso": "gen"
     },
     {
       "title": "La empresa peruana por la que intercedió Zapatero reconoce el pago de 200.000 euros",
@@ -33,214 +23,24 @@
       "caso": "zap"
     },
     {
-      "title": "Exteriores eleva a 32 la cifra de españoles fallecidos en los terremotos de Venezuela",
-      "link": "https://www.abc.es/espana/exteriores-eleva-cifra-espanoles-fallecidos-terremotos-venezuela-20260703213414-nt.html",
-      "desc": "El Ministerio de Asuntos Exteriores, Unión Europea y Cooperación ha elevado este viernes a 32 los españoles fallecidos en Venezuela y ha situado en 142 el de desaparecidos como consecuencia de los terremotos que asolaron el norte del país la pasada semana. El ",
-      "date": "Fri, 03 Jul 2026 21:34:14 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Alarma en Valladolid por la intensa humareda provocada por el incendio en una fábrica de palés",
-      "link": "https://www.abc.es/espana/castilla-leon/alarma-valladolid-intensa-humareda-provocada-incendio-fabrica-20260703213255-nt.html",
-      "desc": "Una gran columna de humo negro visible desde muchos puntos de la ciudad ha alertado en la tarde de este viernes a los vecinos de Valladolid sorprendidos por cómo la humareda si iba extendiendo por toda la ciudad. Según han informado fuentes municipales, el fue",
-      "date": "Fri, 03 Jul 2026 21:32:55 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Hito en Tenerife: así es el curioso pez navaja que nada en vertical y  se ha logrado reproducir en Canarias",
-      "link": "https://www.abc.es/espana/andalucia/hito-tenerife-curioso-pez-navaja-vertical-logrado-20260703213104-nts.html",
-      "desc": "El zoológico tinerfeño Loro Parque celebra que por primera vez en España ha logrado reproducir con éxito el Aeoliscus strigatus, conocido popularmente como pez navaja , uniéndose a un selecto grupo de solo tres instalaciones en todo el planeta capaces de conse",
-      "date": "Fri, 03 Jul 2026 21:31:04 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "La Fiscalía pide cuatro años de cárcel para un hombre por 'tocar el culo' a una menor en Tenerife",
-      "link": "https://www.abc.es/espana/canarias/fiscalia-pide-cuatro-anos-carcel-hombre-tocar-20260703212049-nt.html",
-      "desc": "La Fiscalía Provincial de Santa Cruz de Tenerife ha solicitado una pena de cuatro años de cárcel para un hombre por 'tocar el culo' a una menor en plena calle cuando volvía del instituto. El escrito de acusación señala que el hombre llevaba varios días esperán",
-      "date": "Fri, 03 Jul 2026 21:20:49 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Un enjambre de mosquitos invade un avión con destino Alicante: pasajeros obligados a bajar y 3 horas de retraso",
-      "link": "https://www.abc.es/espana/comunidad-valenciana/enjambre-mosquitos-invade-avion-destino-alicante-pasajeros-20260703205030-nt.html",
-      "desc": "Los pasajeros que debían volar de Milán a Alicante vieron cómo el inicio de su viaje se veía truncado cuando un enjambre de mosquitos invadió la cabina de su avión en el aerpouerto de Malpensa y una de las pasajeras aseguraba ser alérgica a la picadura de esto",
-      "date": "Fri, 03 Jul 2026 20:50:31 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "La Junta vuelve a prohibir el baño y deporte en La Colada por presencia de cianobacterias",
-      "link": "https://www.abc.es/espana/andalucia/cordoba/junta-vuelve-prohibir-bano-deporte-colada-presencia-20260703204944-nts.html",
-      "desc": "La Delegación Territorial de Salud y Consumo de la Junta de Andalucía en Córdoba ha decretado la prohibición del baño en el embalse de La Colada, en el municipio de El Viso tras recibir un informe emitido por la Comisaría de Aguas de la Confederación Hidrográf",
-      "date": "Fri, 03 Jul 2026 20:49:44 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "El incendio forestal que amenazó a Nuevo Borox (Toledo) afectó parcialmente a tres viviendas",
-      "link": "https://www.abc.es/espana/castilla-la-mancha/toledo/pueblos/incendio-forestal-borox-toledo-solo-afecto-finalmente-20260703202500-nt.html",
-      "desc": "El incendio forestal declarado en la noche del pasado miércoles en la urbanización Nuevo Borox del municipio toledano de Borox, afectó finalmente a tres viviendas, aunque todos los residentes tuvieron que ser confinados durante varias horas como medida prevent",
-      "date": "Fri, 03 Jul 2026 20:33:44 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "La multinacional francesa Manitou abre sede en Talavera para reforzar su negocio agrícola y crear empleo",
-      "link": "https://www.abc.es/espana/castilla-la-mancha/toledo/talavera/multinacional-francesa-abre-sede-talavera-reforzar-negocio-20260703201551-nt.html",
-      "desc": "La multinacional francesa Manitou ha inaugurado este viernes sus nuevas instalaciones en el polígono industrial Torrehierro de Talavera de la Reina, desde donde dará servicio principalmente al sector agropecuario de la ciudad y su comarca. El alcalde, José Jul",
-      "date": "Fri, 03 Jul 2026 20:18:08 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Esta es la película gallega que lleva 15 días en el Top 10 de HBO Max",
-      "link": "https://www.abc.es/espana/galicia/pelicula-gallega-lleva-dias-top-hbo-max-20260703200018-nt.html",
-      "desc": "'As liñas descontinuas', la segunda longametraje de la cineasta gallega Anxos Fazáns, lleva ya dos semanas seguidas entre las películas más vistas de HBO Max, después de entrar directamente en el Top 10 el mismo día de su estreno en la plataforma. Durante esta",
-      "date": "Fri, 03 Jul 2026 20:00:18 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Las 5 mejores pozas y piscinas naturales de Galicia para pasar la ola de calor",
-      "link": "https://www.abc.es/espana/galicia/mejores-pozas-piscinas-naturales-galicia-20260626200000-nt.html",
-      "desc": "Cuando el termómetro aprieta en Galicia durante los meses de julio y agosto, la reacción automática de la mayoría es poner rumbo a la costa. Sin embargo, las retenciones de tráfico y la dificultad para encontrar un hueco donde plantar la toalla en las playas m",
-      "date": "Fri, 03 Jul 2026 20:00:00 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "La Fiscalía pide 15 años de cárcel para dos acusados de agredir sexualmente a una joven en un bar de Talavera",
-      "link": "https://www.abc.es/espana/castilla-la-mancha/toledo/fiscalia-pide-anos-carcel-dos-acusados-agredir-20260703195726-nt.html",
-      "desc": "La Fiscalía solicita quince años de prisión para el propietario de un bar de Talavera y para su camarero por agredir sexualmente a una joven de 18 años en el interior del establecimiento hostelero en enero de 2021. El juicio se celebrará el próximo martes en l",
-      "date": "Fri, 03 Jul 2026 19:57:27 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Cedillo reclama un cambio político para frenar la despoblación: «Los pueblos se vacían cuando pierden oportunidades»",
-      "link": "https://www.abc.es/espana/castilla-la-mancha/toledo/pueblos/cedillo-reclama-cambio-politico-frenar-despoblacion-pueblos-20260703195651-nt.html",
-      "desc": "La presidenta de la Diputación de Toledo, Concepción Cedillo, ha defendido este viernes que la lucha contra la despoblación pasa por generar oportunidades reales en los municipios y no por acumular anuncios. Durante su intervención en el II Foro de Diputacione",
-      "date": "Fri, 03 Jul 2026 19:56:52 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "UGT denuncia ante la Inspección de Trabajo el aumento de la carga laboral en las Urgencias del Hospital de Toledo",
-      "link": "https://www.abc.es/espana/castilla-la-mancha/toledo/ugt-denuncia-trabajo-aumento-carga-laboral-urgencias-20260703194946-nt.html",
-      "desc": "UGT ha presentado ante la Inspección de Trabajo una denuncia contra la Gerencia del Hospital Universitario de Toledo por la derivación de médicos de distintos servicios hospitalarios al refuerzo asistencial de las Urgencias, una medida que representa una modif",
-      "date": "Fri, 03 Jul 2026 19:49:46 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "El calor no espanta al turismo: «En verano, Córdoba se disfruta sin colas»",
-      "link": "https://www.abc.es/espana/andalucia/cordoba/calor-espanta-turismo-verano-cordoba-disfruta-colas-20260703153337-nts.html",
-      "desc": "Córdoba es visitable todos los días del año, pero recorrer la ciudad en verano tiene una limitación fundamental: la que imponen las elevadas temperaturas que caldean el asfalto y obligan a buscar refugios climáticos durante las horas centrales del día. Pese a ",
-      "date": "Fri, 03 Jul 2026 19:41:02 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "La Rambla lleva la tradición de su cerámica a una feria internacional en Cataluña",
-      "link": "https://www.abc.es/espana/andalucia/cordoba/rambla-lleva-tradicion-ceramica-feria-internacional-cataluna-20260703193913-nts.html",
-      "desc": "La cerámica de La Rambla se da a conocer en el Festival Internacional de Cerámica Argillà 2026, que se desarrolla en Argentona (Barcelona) hasta este domingo 5 de julio. Once artesanos de la localidad están presentes en esta cita, con amplio respaldo instituci",
-      "date": "Fri, 03 Jul 2026 19:39:14 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Toledo podría perder cerca de 10 millones de euros por no implantar la Zona de Bajas Emisiones",
-      "link": "https://www.abc.es/espana/castilla-la-mancha/toledo/toledo-perder-cerca-millones-euros-implantar-zona-20260703193559-nt.html",
-      "desc": "La falta de una Zona de Bajas Emisiones (ZBE) en Toledo puede acabar teniendo un importante impacto económico para las arcas municipales. El concejal de Movilidad, Iñaki Jiménez, ha cifrado en cerca de diez millones de euros las ayudas que el Ayuntamiento podr",
-      "date": "Fri, 03 Jul 2026 19:35:59 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "El agua de Fabero (León) no es apta para el consumo ni para cocinar",
-      "link": "https://www.abc.es/espana/castilla-leon/agua-fabero-leon-apta-consumo-cocinar-20260703185140-nt.html",
-      "desc": "El Ayuntamiento de Fabero (León) ha emitido un bando en el que advierte de que, tras los últimos análisis realizados, el agua de la red de abastecimiento no es apta para el consumo humano ni para su utilización en la preparación de alimentos, según informa Ep.",
-      "date": "Fri, 03 Jul 2026 19:35:56 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "El fuego sin control amenaza tres comarcas y confina a miles de personas",
-      "link": "https://www.lavanguardia.com/local/catalunya/20260703/11583928/fuego-control-amenaza-tres-comarcas-confina-miles-personas.html",
-      "desc": "La violencia de las llamas ha creado un pirocúmulo, una columna vertical de fuego, que acelera su expansión",
-      "date": "03 Jul 2026 18:51:27 +0200",
+      "title": "El juez imputa a Jéssica Rodríguez, exnovia de Ábalos, y a Joseba, hermano de Koldo García, por los enchufes",
+      "link": "https://www.lavanguardia.com/politica/20260703/11583776/juez-imputa-jessica-rodriguez-exnovia-abalos-joseba-hermano-koldo-garcia.html",
+      "desc": "Ambos tendrán que declarar en calidad de investigados el próximo 20 de julio ante Ismael Moreno, que instruye el llamado caso Koldo",
+      "date": "03 Jul 2026 14:44:38 +0200",
       "source": "La Vanguardia",
       "color": "#8e44ad",
       "feedId": "LaVanguardia",
-      "caso": "other"
+      "caso": "gen"
     },
     {
-      "title": "La UME envía 200 militares al incendio de La Bisbal mientras la Generalitat insta a no desplazarse al Empordà, Gironès y Pla de l'Estany",
-      "link": "https://www.lavanguardia.com/vida/20260703/11583934/illa-pide-ayuda-ume-e-insta-desplazarse-emporda-girones-pla-l-estany.html",
-      "desc": "El fuego avanza sin control avivado por la tramontana y ha obligado a confinar varios municipios de la Costa Brava",
-      "date": "03 Jul 2026 17:58:27 +0200",
+      "title": "La Agencia Tributaria inspecciona a Zapatero y su familia por los ejercicios desde el 2021",
+      "link": "https://www.lavanguardia.com/politica/20260703/11583731/aeat-inspecciona-zapatero-mujer-e-hijas-pide-juez-paralizar-procedimiento.html",
+      "desc": "Hacienda insta al juez a que ordene frenar los expedientes administrativos para dar prioridad al proceso penal&nbsp;",
+      "date": "03 Jul 2026 13:54:02 +0200",
       "source": "La Vanguardia",
       "color": "#8e44ad",
       "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "De Barcelona a París, Pogacar persigue el club de los 5 en el Tour más apasionante",
-      "link": "https://www.lavanguardia.com/deportes/ciclismo/20260703/11583910/tour-de-francia-apasionante-pogacar-barcelona-paris.html",
-      "desc": "La organización ha concentrado la dureza al final para que el esloveno no sentencie la carrera muy pronto",
-      "date": "03 Jul 2026 17:27:49 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "La Abogacía del Estado apoya la regularización por la seguridad social y la recaudación",
-      "link": "https://www.lavanguardia.com/politica/20260703/11583823/abogacia-defiende-regularizacion-extraordinaria-fortalecera-seguridad-social-recaudacion.html",
-      "desc": "Los servicios jurídicos del Gobierno se oponen a plantear una cuestión prejudicial ante el TJUE como pretende el Supremo al entender que el proceso&nbsp;no afecta a Europa, sino que es política migratoria nacional",
-      "date": "03 Jul 2026 15:30:02 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
-      "caso": "other"
+      "caso": "zap"
     }
   ]
 }
