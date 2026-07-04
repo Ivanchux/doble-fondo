@@ -1,15 +1,175 @@
 {
-  "updated": "2026-07-04T15:02:01Z",
+  "updated": "2026-07-04T16:59:23Z",
   "count": 24,
   "items": [
     {
+      "title": "Piden 15 años de cárcel por acuchillar a un compañero de trabajo en Rianxo",
+      "link": "https://www.abc.es/espana/galicia/piden-anos-carcel-acuchillar-companero-trabajo-rianxo-20260704184030-nt.html",
+      "desc": "La sección sexta de la Audiencia Provincial de La Coruña, con sede en Santiago, juzgará el próximo miércoles a un hombre acusado de colarse en el garaje de la vivienda de un compañero de trabajo con el que había tenido una desavenencia para acuchillarlo. Según",
+      "date": "Sat, 04 Jul 2026 18:40:30 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "El PPdeG reclama a Sánchez una base permanente de la UME en Orense",
+      "link": "https://www.abc.es/espana/galicia/ppdeg-reclama-sanchez-base-permanente-ume-orense-20260704182854-nt.html",
+      "desc": "Los diputados gallegos del PP de Galicia en el Congreso han reclamado «de forma urgente», a través de una proposición no de ley, una base permanente de la Unidad Militar de Emergencias (UME) en la comunidad autónoma, que estaría situada en el Centro integral d",
+      "date": "Sat, 04 Jul 2026 18:28:54 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Consuegra sale a la calle para exigir una residencia de mayores digna tras años de promesas",
+      "link": "https://www.abc.es/espana/castilla-la-mancha/toledo/consuegra-sale-calle-exigir-residencia-mayores-digna-20260704181617-nt.html",
+      "desc": "Decenas de vecinos de Consuegra se concentraron este sábado para reclamar la construcción de una nueva residencia de mayores y un centro de salud con más recursos, unas demandas que consideran «urgentes» ante la falta de respuesta de las administraciones y la ",
+      "date": "Sat, 04 Jul 2026 18:16:17 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "La ola de calor mantiene en alerta roja a 120 municipios de Galicia tras rozarse los 42 grados",
+      "link": "https://www.abc.es/espana/galicia/ola-calor-mantiene-alerta-roja-120-municipios-20260704181336-nt.html",
+      "desc": "El calor seguirá pegando fuerte también este domingo en Galicia. Las altas temperaturas han llevado a la Xunta a mantener la alerta roja por episodios de calor en 120 de los 313 municipios de la comunidad autónoma. El respiro será mínimo respecto a este sábado",
+      "date": "Sat, 04 Jul 2026 18:13:37 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Una enfermera, agredida por un interno en la prisión de Córdoba durante el reparto de la medicación",
+      "link": "https://www.abc.es/espana/andalucia/cordoba/enfermera-agredida-interno-prision-cordoba-reparto-medicacion-20260704173139-nts.html",
+      "desc": "El sindicato CSIF Prisiones Córdoba ha denunciado en un comunicado la agresión sufrida por una enfermera por parte de un interno en el Centro Penitenciario de Alcolea. El sindicato, que condena este ataque a esta profesional, resalta que fue golpeada en la muñ",
+      "date": "Sat, 04 Jul 2026 18:03:40 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Un nuevo robo de cable en la línea AVE Madrid-Andalucía provoca retrasos en plena operación salida",
+      "link": "https://www.abc.es/espana/castilla-la-mancha/nuevo-robo-cable-linea-ave-madridandalucia-provoca-20260704175210-nt.html",
+      "desc": "La circulación de los trenes de alta velocidad del corredor sur está registrando este sábado demoras de unos 25 minutos como consecuencia de un nuevo robo de cable que ha provocado fallos en la señalización entre el municipio ciudadrealeño de Malagón y Ciudad ",
+      "date": "Sat, 04 Jul 2026 17:52:10 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Narbona muestra «plena confianza» en la directora general de la Guardia Civil",
+      "link": "https://www.abc.es/espana/castilla-leon/narbona-muestra-plena-confianza-directora-general-guardia-20260704174700-nt.html",
+      "desc": "La presidenta del Partido Socialista, Cristina Narbona, ha mostrado este sábado su «plena confianza» por el trabajo desarrollado por la directora general de la Guardia Civil , Mercedes González, tras haber sido imputada por la Audiencia Nacional por su posible",
+      "date": "Sat, 04 Jul 2026 17:47:00 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "gen"
+    },
+    {
+      "title": "Tellado pide elecciones y reclama dimisiones en la Guardia Civil y la SEPI",
+      "link": "https://www.abc.es/espana/galicia/tellado-pide-elecciones-reclama-dimisiones-guardia-civil-20260704174215-nt.html",
+      "desc": "El secretario general del Partido Popular, Miguel Tellado, ha reclamado este sábado la convocatoria de elecciones generales al considerar que la legislatura «está finiquitada» y ha exigido la dimisión de la directora general de la Guardia Civil y de la preside",
+      "date": "Sat, 04 Jul 2026 17:42:15 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Núñez acusa a Page de incumplir diez años después su plan especial para las sierras de Alcaraz y del Segura",
+      "link": "https://www.abc.es/espana/castilla-la-mancha/toledo/nunez-acusa-page-incumplir-diez-anos-despues-20260704174101-nt.html",
+      "desc": "El presidente del Partido Popular de Castilla-La Mancha, Paco Núñez, ha acusado al Gobierno de Emiliano García-Page de incumplir el plan especial anunciado en 2016 para las sierras de Alcaraz y del Segura, asegurando que una década después «no ha llegado nada»",
+      "date": "Sat, 04 Jul 2026 17:41:02 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Un sindicato de estudiantes denuncia el «allanamiento» de su sede por un concejal de Vox en Valencia",
+      "link": "https://www.abc.es/espana/comunidad-valenciana/sindicato-estudiantes-denuncia-allanamiento-sede-concejal-vox-20260704173534-nt.html",
+      "desc": "El Sindicat d'Estudiants ha denunciado que el concejal de Vox en el Ayuntamiento de Valencia Juanma Badenas ha «irrumpido ilegalmente» en el local de la asociación estudiantil. La organización explica, en un comunicado, que cuando el viernes por la tarde algun",
+      "date": "Sat, 04 Jul 2026 17:35:34 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Hacienda ha devuelto ya 395 millones a más de 574.200 contribuyentes de Castilla-La Mancha",
+      "link": "https://www.abc.es/espana/castilla-la-mancha/hacienda-devuelto-395-millones-574200-contribuyentes-castillala-20260704173332-nt.html",
+      "desc": "La Agencia Tributaria ha devuelto ya 395,1 millones de euros a 574.227 contribuyentes de Castilla-La Mancha al término de la campaña de la declaración del Impuesto sobre la Renta de las Personas Físicas (IRPF) correspondiente a 2025, que finalizó el pasado 30 ",
+      "date": "Sat, 04 Jul 2026 17:33:33 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "El PSOE saca pecho por las políticas feministas de Zapatero: «Un hombre muy valiente»",
+      "link": "https://www.abc.es/espana/castilla-leon/psoe-saca-pecho-politicas-feministas-zapatero-hombre-20260704173057-nt.html",
+      "desc": "Bajo el título 'Mujeres creando redes' el PSOE de Valladolid reunía este sábado en Aldea de San Miguel a un centenar de féminas en un encuentro en el que presidenta de la Comisión Ejecutiva Federal, Cristina Narbona, aprobechaba para respaldar las políticas qu",
+      "date": "Sat, 04 Jul 2026 17:30:58 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "zap"
+    },
+    {
+      "title": "Todo preparado en Barcelona para la salida de la primera etapa contrarreloj",
+      "link": "https://www.lavanguardia.com/deportes/ciclismo/20260704/11584359/tour-francia-2026-directo-previa-recorrido-etapa-1-contrarreloj-barcelona.html",
+      "desc": "",
+      "date": "04 Jul 2026 17:04:56 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
+    {
+      "title": "El Albacete Balompié empieza este lunes una temporada con miras muy altas",
+      "link": "https://www.abc.es/espana/castilla-la-mancha/toledo/deportes/albacete-balompie-empieza-lunes-temporada-miras-altas-20260704170402-nt.html",
+      "desc": "Este lunes 6 de julio arranca el Albacete Balompié su andadura para la temporada 2026-2027, una campaña en la que competirá de nuevo en la exigente Segunda división del fútbol español. La plantilla y cuerpo técnico del 'Alba' están citados a primeras horas de ",
+      "date": "Sat, 04 Jul 2026 17:04:03 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Robles también sale en defensa del DAO y descarta sancionarle, pese a que tiene poderes para ello",
+      "link": "https://www.abc.es/espana/robles-sale-defensa-dao-descarta-sancionarle-pese-20260704165538-nt.html",
+      "desc": "El Gobierno, al unísono, ha decidido dar publicidad a su apoyo al director adjunto operativo (DAO) de la Guardia Civil, Manuel Lamas, pese a su reciente imputación judicial. Tras la defensa del ministro del Interior, Fernando Grande - Marlaska, a la directora ",
+      "date": "Sat, 04 Jul 2026 16:55:38 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
       "title": "Detenidos diez jóvenes por apalizar y atracar a dos menores en Valdemoro",
       "link": "https://www.abc.es/espana/madrid/detenidos-diez-jovenes-apalizar-atracar-dos-menores-20260704164951-nt.html",
-      "desc": "La Guardia Civil ha desarticulado en Valdemoro a un violento grupo juvenil, en una operación que culminó con diez personas detenidas y un individuo investigado. Ocho de los implicados son menores de edad y contaban con antecedentes previos. A esta banda se le ",
+      "desc": "La Guardia Civil ha desarticulado en Valdemoro un violento grupo juvenil, en una operación que culminó con diez personas detenidas y un individuo investigado. Ocho de los implicados son menores de edad y contaban con antecedentes previos. A esta banda se la ac",
       "date": "Sat, 04 Jul 2026 16:49:51 +0200",
       "source": "ABC",
       "color": "#c0392b",
       "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Última hora del incendio en Les Gavarres (Girona), en directo | Más de 2.300 hectáreas ya han sido arrasadas por el fuego",
+      "link": "https://www.lavanguardia.com/local/girona/20260704/11584278/incendio-forestal-bisbal-emporda-fuego-gavarres-confinamiento-carreteras-cortadas-ultima-hora-hoy-en-directo.html",
+      "desc": "El presidente de la Generalitat, Salvador Illa, ha anunciado&nbsp;el cierre de Les Gavarres, que “en el peor de los escenarios” podría arder entero",
+      "date": "04 Jul 2026 16:45:12 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
       "caso": "other"
     },
     {
@@ -33,6 +193,16 @@
       "caso": "other"
     },
     {
+      "title": "Guía para superar los cortes de tráfico por la visita del Tour de Francia a Barcelona",
+      "link": "https://www.lavanguardia.com/local/barcelona/20260703/11582035/tour-de-francia-2026-en-barcelona-cortes-trafico-recorrido-calles.html",
+      "desc": "La ronda francesa afecta a la movilidad de seis distritos y partirá hoy la ciudad en dos",
+      "date": "04 Jul 2026 15:06:39 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
+    {
       "title": "Sigue en directo la manifestación del Orgullo 2026 en Madrid",
       "link": "https://www.abc.es/espana/madrid/sigue-directo-manifestacion-orgullo-2026-madrid-20260704150224-nt.html",
       "desc": "Este sábado 4 de julio, a partir de las 19:00 horas, se celebra la manifestación del Orgullo 2026 en Madrid. La marcha parte de la glorieta de Carlos V, frente a la estación de Atocha. Las carrozas recorren el Paseo del Prado, la Plaza de Cánovas del Castillo,",
@@ -53,6 +223,16 @@
       "caso": "lei"
     },
     {
+      "title": "La entrada de la marinada en el incendio de las Gavarres augura “una tarde muy complicada”",
+      "link": "https://www.lavanguardia.com/local/catalunya/20260704/11584399/entrada-marinada-incendio-gavarres-augura-tarde-complicada.html",
+      "desc": "Protecció Civil ordena confinar todos los núcleos habitados al sur de la C-66 entre La Bisbal y Mont-ras mientras en el flanco derecho se teme que las llamas avancen hacia Girona y Llagostera",
+      "date": "04 Jul 2026 14:34:47 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
+    {
       "title": "Así es el exclusivo cigarral de Toledo que acogió la boda de Suso y Marieta",
       "link": "https://www.abc.es/espana/castilla-la-mancha/toledo/exclusivo-cigarral-toledo-acogio-boda-suso-marieta-20260704142203-nt.html",
       "desc": "Toledo volvió a convertirse este viernes en escaparate nacional con la celebración de una de las bodas más televisivas del año. Suso Álvarez y Marieta eligieron el Cigarral del Ángel Custodio, uno de los enclaves más emblemáticos de la capital regional, para d",
@@ -60,186 +240,6 @@
       "source": "ABC",
       "color": "#c0392b",
       "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "La Fiscalía pide 8 años de cárcel para el acusado de golpear y herir con una botella rota a su pareja e intentar asfixiarla",
-      "link": "https://www.abc.es/espana/castilla-la-mancha/toledo/fiscalia-pide-anos-carcel-acusado-golpear-herir-20260704141044-nt.html",
-      "desc": "Ocho años de prisión es la pena que solicita la Fiscalía para el hombre acusado de querer matar a su pareja en Horcajo de Santiago (Cuenca) tras intentar estrangularla y golpearla y herirla con una botella de cristal rota. La Sección Segunda de la Audiencia Pr",
-      "date": "Sat, 04 Jul 2026 14:10:44 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Exteriores eleva a 34 la cifra de españoles fallecidos en los terremotos de Venezuela",
-      "link": "https://www.abc.es/espana/exteriores-eleva-cifra-espanoles-fallecidos-terremotos-venezuela-20260704135424-nt.html",
-      "desc": "El último balance oficial de este sábado eleva a 34 los españoles fallecidos por el doble terremoto que sacudió el norte de Venezuela a finales de junio, dos muertos más que la última estimación del viernes, mientras que el total de desaparecidos ha sido rebaj",
-      "date": "Sat, 04 Jul 2026 13:54:24 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Mónica Oltra consuma su regreso a la política tras ser proclamada candidata de Compromís en Valencia",
-      "link": "https://www.abc.es/espana/comunidad-valenciana/monica-oltra-consuma-regreso-politica-tras-proclamada-20260704134741-nt.html",
-      "desc": "Mónica Oltra ha dado este sábado el paso definitivo de su regreso a la primera línea política al ser ratificada oficialmente como candidata de Compromís a la Alcaldía de Valencia. La proclamación ha tenido lugar durante la asamblea extraordinaria celebrada en ",
-      "date": "Sat, 04 Jul 2026 13:47:42 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Oficial | El polivalente Salim El Jebari se convierte en el noveno fichaje del Córdoba CF",
-      "link": "https://www.abc.es/espana/andalucia/cordoba/cordoba-cf/oficial-polivalente-salim-jebari-convierte-noveno-fichaje-20260704132802-nts.html",
-      "desc": "El Córdoba CF sigue añadiendo piezas a su nuevo proyecto. A las puertas del inicio de la pretemporada, la entidad blanquiverde ha activado de nuevo la maquinaria del mercado para incorporar a Salim El Jebari, extremo izquierdo procedente del Atlético de Madrid",
-      "date": "Sat, 04 Jul 2026 13:28:02 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "La Junta de Andalucía tendrá listo el proyecto para la Variante de Cabra de la Autovía del Olivar en octubre de 2027",
-      "link": "https://www.abc.es/espana/andalucia/cordoba/junta-andalucia-listo-proyecto-variante-cabra-autovia-20260704132643-nts.html",
-      "desc": "La Junta de Andalucía tendrá listo el proyecto definitivo para realizar la Variante de Cabra , uno de los tramos más importantes de la Autovía del Olivar, en octubre del próximo año 2027, según el documento publicado en la Plataforma de Contratación de la admi",
-      "date": "Sat, 04 Jul 2026 13:26:43 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Besteiro ve «operaciones político-judiciales» tras las causas por corrupción que afectan al PSOE",
-      "link": "https://www.abc.es/espana/galicia/besteiro-operaciones-politicojudiciales-tras-causas-corrupcion-afectan-20260704132527-nt.html",
-      "desc": "El secretario xeral del PSdeG, José Ramón Gómez Besteiro, ha recordado este sábado su pasado judicial para hacer un llamamiento a los militantes socialistas a «ser respetuosos» con los «señalados» y la «presunción de inocencia» ante lo que ha calificado de «op",
-      "date": "Sat, 04 Jul 2026 13:25:27 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Nuevo enjambre sísmico en el Teide: 500 terremotos en 10 horas",
-      "link": "https://www.abc.es/espana/canarias/nuevo-enjambre-sismico-teide-500-terremotos-horas-20260704131250-nt.html",
-      "desc": "El Instituto Volcanológico de Canarias (Involcán) ha registrado un nuevo enjambre sísmico bajo las entrañas de Tenerife, con unos 500 terremotos en 10 horas en la zona del Teide. El episodio ha contado con unos 500 seísmos de escasa magnitud bajo la isla de Te",
-      "date": "Sat, 04 Jul 2026 13:12:51 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Rueda: el proyecto de SAIC en Galicia «marcha a buen ritmo»",
-      "link": "https://www.abc.es/espana/galicia/rueda-proyecto-saic-galicia-marcha-buen-ritmo-20260704130328-nt.html",
-      "desc": "El plan para la implantación de la multinacional automovilística china SAIC en Galicia «marcha a buen ritmo». Como prueba, según el presidente de la Xunta, Alfonso Rueda, la llegada la próxima semana a Ferrol de un buque con decenas de vehículos de la compañía",
-      "date": "Sat, 04 Jul 2026 13:03:29 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Núñez defiende que con el agua de Castilla-La Mancha rieguen «primero» los agricultores de la región",
-      "link": "https://www.abc.es/espana/castilla-la-mancha/nunez-defiende-agua-castillala-mancha-rieguen-primero-20260704130031-nt.html",
-      "desc": "El presidente del PP de Castilla-La Mancha, Paco Núñez, ha defendido este sábado que el agua de la región debe destinarse con carácter prioritario a los agricultores y ganaderos castellanomanchegos. «Con el agua de Castilla-La Mancha tienen que regar primero l",
-      "date": "Sat, 04 Jul 2026 13:00:31 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "El Supremo admite a trámite el recurso de la Junta de Castilla y León sobre la regularización de migrantes",
-      "link": "https://www.abc.es/espana/castilla-leon/supremo-admite-tramite-recurso-junta-castilla-leon-20260704123459-nt.html",
-      "desc": "El Tribunal Supremo ha admitido a trámite el recurso interpuesto por la Junta de Castilla y León contra el Real Decreto de 14 de abril de 2026 sobre la regularización de migrantes por el que se modifica el Reglamento de la Ley Orgánica de Extranjería. Cuatro d",
-      "date": "Sat, 04 Jul 2026 12:34:59 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "¿Gobernaría el PP con Vox en Castilla-La Mancha?",
-      "link": "https://www.abc.es/espana/castilla-la-mancha/toledo/gobernaria-pp-vox-castillala-mancha-20260704123302-nt.html",
-      "desc": "Evidentemente sí, siempre que los números lo permitan. ¿Es que hay algún problema? ¿Es que hay que asumir el discurso generalizado y unánime de todos los medios de comunicación, propiciado por los dos grandes partidos, tanto el PSOE, creador del relatito de la",
-      "date": "Sat, 04 Jul 2026 12:33:02 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Herida con quemaduras una mujer en un incendio en un ático de Torremolinos",
-      "link": "https://www.abc.es/espana/andalucia/malaga/herida-quemaduras-mujer-incendio-atico-torremolinos-20260704122342-nts.html",
-      "desc": "Una mujer de 49 años ha resultado herida grave con quemaduras tras el incendio de un ático registrado a última hora de la tarde de este pasado viernes en Torremolinos (Málaga), según ha informado el 112, perteneciente a la Agencia de Emergencias de Andalucía, ",
-      "date": "Sat, 04 Jul 2026 12:25:02 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "La corrupción como sistema político",
-      "link": "https://www.abc.es/espana/castilla-la-mancha/corrupcion-sistema-politico-20260704121805-nt.html",
-      "desc": "Que el uso del poder corrompe es un mantra que se repite desde los orígenes mismos del poder político, pero en los últimos años la corrupción ha adquirido una presencia tan relevante en la vida política de este país que se ha instalado como un problema estruct",
-      "date": "Sat, 04 Jul 2026 12:18:06 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Detienen a una familia por una estafa piramidal de más de un millón de euros en Valencia",
-      "link": "https://www.abc.es/espana/comunidad-valenciana/detienen-familia-estafa-piramidal-millon-euros-valencia-20260704121320-nt.html",
-      "desc": "La Guardia Civil ha detenido a cuatro personas e investigado a otras cuatro, todas ellas integrantes de una misma familia asentada en las localidades valenciana de Silla y El Perellonet, por su presunta implicación en una estafa piramidal que habría afectado a",
-      "date": "Sat, 04 Jul 2026 12:13:20 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Los bomberos logran estabilizar el 70% del flanco derecho del incendio en las Gavarres",
-      "link": "https://www.lavanguardia.com/local/girona/20260704/11584278/incendio-forestal-bisbal-emporda-fuego-gavarres-confinamiento-carreteras-cortadas-ultima-hora-hoy-en-directo.html",
-      "desc": "El presidente de la Generalitat, Salvador Illa, ha anunciado&nbsp;el cierre de Les Gavarres, que “en el peor de los escenarios” podría arder entero",
-      "date": "04 Jul 2026 12:03:52 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "Los vecinos de Calonge temieron que el incendio quemara sus casas: “Esta noche no hemos pegado ojo”",
-      "link": "https://www.lavanguardia.com/local/girona/20260704/11584318/vecinos-calonge-temieron-incendio-quemara-casas-noche-hemos-pegado-ojo.html",
-      "desc": "Algunas personas, que fueron evacuadas ayer, se han acercado esta mañana a sus hogares para comprobar los desperfectos del incendio",
-      "date": "04 Jul 2026 10:37:23 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "Guía para superar los cortes de tráfico por la visita del Tour de Francia a Barcelona",
-      "link": "https://www.lavanguardia.com/local/barcelona/20260703/11582035/tour-de-francia-2026-en-barcelona-cortes-trafico-recorrido-calles.html",
-      "desc": "La ronda francesa afecta a la movilidad de seis distritos y partirá hoy la ciudad en dos",
-      "date": "04 Jul 2026 08:55:24 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "El incendio de La Bisbal, estabilizado en un 70%, quema una casa y una masía, sin heridos",
-      "link": "https://www.lavanguardia.com/local/girona/20260704/11584294/incendio-bisbal-estabilizado-70-quema-casa-masia-heridos.html",
-      "desc": "El fuego obliga a que el confinamiento parcial se mantenga en siete municipios",
-      "date": "04 Jul 2026 08:52:30 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
       "caso": "other"
     }
   ]
