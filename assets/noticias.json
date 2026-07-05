@@ -1,7 +1,17 @@
 {
-  "updated": "2026-07-05T20:53:17Z",
+  "updated": "2026-07-05T22:57:28Z",
   "count": 24,
   "items": [
+    {
+      "title": "Guilherme Fernandes, cerca de recalar en la portería del Córdoba CF",
+      "link": "https://www.abc.es/espana/andalucia/cordoba/cordoba-cf/guilherme-fernandes-cerca-recalar-porteria-cordoba-20260705230116-nts.html",
+      "desc": "Se avecinan movimientos en la portería del Córdoba CF . Aunque el nivel bajo palos ha sido elevado durante la temporada, la posible salida de Carlos Marín en busca de mayor protagonismo obligaría al club blanquiverde a acudir al mercado. La dirección deportiva",
+      "date": "Sun, 05 Jul 2026 23:09:31 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
     {
       "title": "El fundador de Inquiba, Juan Carmona, nombrado Hijo Predilecto de Guareña",
       "link": "https://www.abc.es/espana/extremadura/fundador-inquiba-juan-carmona-nombrado-hijo-predilecto-20260705213431-nt.html",
@@ -183,9 +193,9 @@
       "caso": "other"
     },
     {
-      "title": "Otro incendio forestal afecta al Norte de la provincia de Córdoba: activo un fuego en Peñarroya-Pueblonuevo",
+      "title": "Estabilizado el otro incendio forestal en el Norte de la provincia en Peñarroya-Pueblonuevo",
       "link": "https://www.abc.es/espana/andalucia/cordoba/incendio-forestal-afecta-norte-provincia-cordoba-activo-20260705191118-nts.html",
-      "desc": "El Infoca ha declarado un nuevo incendio forestal en el Norte de la provincia. En este caso, el servicio de extinción ha delcaradoactivo un fuego que ha comenzado sobre las 17.00 horas en el municipio cordobés de Peñarroya-Pueblonuevo . En concreto, el incendi",
+      "desc": "El Infoca ha declarado un nuevo incendio forestal en el Norte de la provincia. En este caso, el servicio de extinción declaró un fuego que ha comenzado en el municipio cordobés de Peñarroya-Pueblonuevo . Tras llegar a cortar durante la tarde la carretera A-430",
       "date": "Sun, 05 Jul 2026 19:11:18 +0200",
       "source": "ABC",
       "color": "#c0392b",
@@ -227,16 +237,6 @@
       "link": "https://www.abc.es/espana/andalucia/final-semana-constituira-nuevo-consejo-gobierno-junta-20260705182606-nts.html",
       "desc": "El recién investido presidente de la Junta de Andalucía, Juanma Moreno, aún se dará unos días más para dar a conocer los nombres de su consejo de gobierno, del que sólo uno está confirmado, el de Manuel Gavira . El líder andaluz de Vox se integra en el ejecuti",
       "date": "Sun, 05 Jul 2026 18:26:06 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "La Xunta encara la recta final de la limpieza del puente de Viana do Bolo tras las riadas",
-      "link": "https://www.abc.es/espana/galicia/xunta-encara-recta-final-limpieza-puente-viana-20260705180913-nt.html",
-      "desc": "La Xunta avanza en la recta final de los trabajos de retirada del material arrastrado por las lluvias en el puente de la carretera OU-533, en Pradocabalos, Viana do Bolo (Orense). La infraestructura pasó momentos críticos por la presión ejercida por los escomb",
-      "date": "Sun, 05 Jul 2026 18:09:13 +0200",
       "source": "ABC",
       "color": "#c0392b",
       "feedId": "ABC",
