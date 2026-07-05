@@ -1,7 +1,137 @@
 {
-  "updated": "2026-07-05T15:09:25Z",
+  "updated": "2026-07-05T17:03:49Z",
   "count": 24,
   "items": [
+    {
+      "title": "El frontón de Pareja celebra 125 años de historia",
+      "link": "https://www.abc.es/espana/castilla-la-mancha/fronton-pareja-celebra-125-anos-historia-20260705185228-nt.html",
+      "desc": "El histórico frontón de Pareja , en Guadalajara, ha celebrado este fin de semana su 125 aniversario consolidado como uno de los escenarios de referencia del frontenis tradicional en España. La conmemoración ha coincidido con la celebración del III Trofeo Villa",
+      "date": "Sun, 05 Jul 2026 18:52:29 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "La Guardia Civil rescata en helicóptero a un parapentista herido en Jaén",
+      "link": "https://www.abc.es/espana/andalucia/jaen/guardia-civil-rescata-helicoptero-parapentista-herido-jaen-20260705183754-nts.html",
+      "desc": "La Guardia Civil de Jaén ha rescatado en helicóptero a un varón de 37 años que resultó herido tras sufrir un accidente mientras participaba en una prueba del Campeonato de Andalucía de Parapente , celebrada en las proximidades de la localidad jiennense de Pega",
+      "date": "Sun, 05 Jul 2026 18:37:54 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Al final de la semana se definirán todas las consejerías de la Junta",
+      "link": "https://www.abc.es/espana/andalucia/final-semana-constituira-nuevo-consejo-gobierno-junta-20260705182606-nts.html",
+      "desc": "El recién investido presidente de la Junta de Andalucía, Juanma Moreno, aún se dará unos días más para dar a conocer los nombres de su consejo de gobierno, del que sólo uno está confirmado, el de Manuel Gavira . El líder andaluz de Vox se integra en el ejecuti",
+      "date": "Sun, 05 Jul 2026 18:26:06 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "La Xunta encara la recta final de la limpieza del puente de Viana do Bolo tras las riadas",
+      "link": "https://www.abc.es/espana/galicia/xunta-encara-recta-final-limpieza-puente-viana-20260705180913-nt.html",
+      "desc": "La Xunta avanza en la recta final de los trabajos de retirada del material arrastrado por las lluvias en el puente de la carretera OU-533, en Pradocabalos, Viana do Bolo (Orense). La infraestructura pasó momentos críticos por la presión ejercida por los escomb",
+      "date": "Sun, 05 Jul 2026 18:09:13 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "UGT exige implantar ya el delegado territorial de prevención tras tres accidentes mortales",
+      "link": "https://www.abc.es/espana/castilla-la-mancha/toledo/ugt-exige-implantar-delegado-territorial-prevencion-tras-20260705180652-nt.html",
+      "desc": "UGT Castilla-La Mancha ha reclamado la puesta en marcha «cuanto antes» de la figura del delegado territorial de prevención de riesgos laborales tras los tres accidentes laborales mortales registrados en apenas 48 horas en la región, e l último de ellos este sá",
+      "date": "Sun, 05 Jul 2026 18:06:52 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Tres colombianos se enfrentan a penas de hasta 9 años por procesar cocaína en el garaje de una vivienda de Ugena",
+      "link": "https://www.abc.es/espana/castilla-la-mancha/toledo/pueblos/tres-colombianos-enfrentan-penas-anos-procesar-cocaina-20260705180511-nt.html",
+      "desc": "Tres ciudadanos colombianos se sentarán esta semana en el banquillo de la Sección Primera de la Audiencia Provincial de Toledo acusados de instalar un laboratorio de extracción y procesamiento de cocaína en el garaje de una vivienda de Ugena. La Fiscalía solic",
+      "date": "Sun, 05 Jul 2026 18:05:12 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Las obras en Conde de Casal provocarán afecciones nocturnas de movilidad esta semana",
+      "link": "https://www.abc.es/espana/madrid/obras-conde-casal-provocaran-afecciones-nocturnas-movilidad-20260705175733-nt.html",
+      "desc": "Desde la noche del 6 de julio a la madrugada del viernes 10, diversos cortes de tráfico afectarán a la movilidad del entorno en horario nocturno. Sucederá con motivo de las obras que la Comunidad de Madrid realiza para la construcción del nuevo intercambiador ",
+      "date": "Sun, 05 Jul 2026 17:57:33 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Cientos de personas secundan la marcha a favor del tren de vía estrecha: «La próxima, hasta el despacho de Puente»",
+      "link": "https://www.abc.es/espana/castilla-leon/cientos-personas-secundan-marcha-favor-tren-via-20260705174059-nt.html",
+      "desc": "«La próxima marcha, hasta el despacho de Óscar Puente ». Es uno de los mensajes lanzados hoy por la Plataforma en Defensa del Ferrocarril de Vía Estrecha de León , tras concluir el recorrido reivindicativo de más de un centenar de kilómetros iniciado el pasado",
+      "date": "Sun, 05 Jul 2026 17:41:00 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Los Montillanos ganan las Olimpiadas de juegos tradicionales de calle en Los Pedroches",
+      "link": "https://www.abc.es/espana/andalucia/cordoba/montillanos-ganan-olimpiadas-juegos-tradicionales-calle-pedroches-20260705174047-nts.html",
+      "desc": "Los Montillanos, equipo procedente de Montilla, ha revalidado el título en el campeonato que recupera los juegos más tradicionales de calle. Lo ha hecho con una importante diferencia, imponiéndose con autoridad a los segundos clasificados, otro clásico fundaci",
+      "date": "Sun, 05 Jul 2026 17:40:47 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Mueren cuatro miembros de una familia en un accidente en la autovía A-67 en la provincia de Palencia",
+      "link": "https://www.abc.es/espana/castilla-leon/varios-fallecidos-accidente-autovia-a67-provincia-palencia-20260705172027-nt.html",
+      "desc": "Cuatro personas, todas de la misma familia, han fallecido en la tarde de este domingo en un accidente de tráfico en la provincia de Palencia. Ocurría sobre las 16.20 horas a la altura del punto kilométrico 83 de la autovía A-67, sentido decreciente, en Prádano",
+      "date": "Sun, 05 Jul 2026 17:20:28 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Castilla-La Mancha suma 30 muertes asociadas al calor en junio",
+      "link": "https://www.abc.es/espana/castilla-la-mancha/castillala-mancha-suma-muertes-asociadas-calor-cuatro-20260705171408-nt.html",
+      "desc": "El calor extremo se ha cobrado 30 muertes en Castilla-La Mancha durante el mes de junio, según las estimaciones del sistema de Monitorización de la Mortalidad Diaria (MoMo) del Instituto de Salud Carlos III. Asimismo, el organismo cifra en 153 los fallecimient",
+      "date": "Sun, 05 Jul 2026 17:16:26 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Castilla y León pedirá iniciar «de cero» la reforma de la financiación autonómica",
+      "link": "https://www.abc.es/espana/castilla-leon/castilla-leon-pedira-iniciar-cero-reforma-financiacion-20260705171413-nt.html",
+      "desc": "En principio, no figura en el orden del día del Consejo de Política Fiscal y Financiera (CPFF) convocado para este lunes por el Ministerio de Hacienda para reunir a la mesa a Gobierno y comunidades autónomas, pero el consejero del ramo del Castilla y León, Car",
+      "date": "Sun, 05 Jul 2026 17:14:13 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "La Rapa das Bestas de Sabucedo desafía al calor entre abanicos y manguerazos",
+      "link": "https://www.abc.es/espana/galicia/rapa-das-bestas-sabucedo-antepone-calor-celebra-20260705171411-nt.html",
+      "desc": "La parroquia de Sabucedo, en el municipio pontevedrés de A Estrada, ha celebrado la Rapa das Bestas en plena ola de calor. Locales y visitantes se equiparon con abanicos, gorros y mucha agua para poder disfrutar de los curros —recintos cerrados—, donde a cabal",
+      "date": "Sun, 05 Jul 2026 17:14:11 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
     {
       "title": "El PSOE acusa a Núñez de usar el «relato del abandono» de las sierras del Segura y de Alcaraz con fines electorales",
       "link": "https://www.abc.es/espana/castilla-la-mancha/psoe-acusa-nunez-usar-relato-abandono-sierras-20260705165337-nt.html",
@@ -67,136 +197,6 @@
       "link": "https://www.abc.es/espana/castilla-la-mancha/toledo/pueblos/dos-hombres-enfrentan-nueve-anos-carcel-dejar-20260705142943-nt.html",
       "desc": "Dos hombres se enfrentan a una petición de nueve años de prisión por parte de la Fiscalía por presuntamente dejar tuerto a otro durante una pelea ocurrida en la localidad toledana de Ocaña en febrero de 2022. La Sección Segunda de la Audiencia Provincial de To",
       "date": "Sun, 05 Jul 2026 14:29:44 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Localizan al hombre perdido en un monte de Orense: cayó desorientado a un riachuelo seco",
-      "link": "https://www.abc.es/espana/galicia/localizan-hombre-perdido-monte-orense-cayo-desorientado-20260705140728-nt.html",
-      "desc": "El hombre que se perdiera en el monte en la noche del sábado en la parroquia de Palmés, en Orense, ha sido localizado, según ha informado el servicio de emergencias 112. Fue en la misma zona en la que se centraban las labores de búsqueda, en la parroquia de Pa",
-      "date": "Sun, 05 Jul 2026 14:07:28 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Varios municipios de La Sagra, sin internet y con escasa cobertura móvil",
-      "link": "https://www.abc.es/espana/castilla-la-mancha/toledo/varios-municipios-sagra-internet-escasa-cobertura-movil-20260705140244-nt.html",
-      "desc": "Una incidencia en la red de telecomunicaciones ha dejado desde la noche de este sábado sin conexión a internet y con importantes problemas de cobertura móvil a varios municipios de la comarca de La Sagra, entre ellos Alameda de la Sagra y Añover, según han con",
-      "date": "Sun, 05 Jul 2026 14:02:45 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Detenida una mujer por apuñalar a otra a la salida de un pub en Lugo",
-      "link": "https://www.abc.es/espana/galicia/detenida-mujer-apunalar-salida-pub-lugo-20260705135002-nt.html",
-      "desc": "Una mujer ha sido detenida en Lugo por apuñalar a otra a la salida de un pub en esta ciudad, según han informado fuentes de la Policía Nacional, que se desplazaron al lugar. También el 112 ha confirmado el suceso que se produjo sobre las 5.30 horas de esta mad",
-      "date": "Sun, 05 Jul 2026 13:50:02 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Un nuevo Talavera pone los cimientos para un futuro con mucha cantera",
-      "link": "https://www.abc.es/espana/castilla-la-mancha/toledo/deportes/nuevo-talavera-pone-cimientos-futuro-cantera-20260705134824-nt.html",
-      "desc": "El CF Talavera inicia en la próxima temporada un nuevo camino en su historia después del traumático descenso que sufrió la pasada campaña hacia la Segunda RFEF. Desde que acabó la fatídica y última jornada del campeonato 2025-2026, el club blanquiazul empezó a",
-      "date": "Sun, 05 Jul 2026 13:48:53 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Juzgan a un hombre que agredió sexualmente a una menor y golpeó a un agente en Vigo",
-      "link": "https://www.abc.es/espana/galicia/juzgan-hombre-agredio-sexualmente-menor-golpeo-agente-20260705134217-nt.html",
-      "desc": "La sección quinta de la Audiencia Provincial de Pontevedra, con sede en Vigo, juzgará el próximo miércoles, día 8, a un hombre acusado de agredir sexualmente a una menor en Vigo, así como de golpear a los agentes que acudieron a la zona. Según el escrito de ac",
-      "date": "Sun, 05 Jul 2026 13:42:17 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Nueva ola de calor: Emergencias decreta alerta naranja en el sur de Valencia y amarilla en Castellón y Alicante",
-      "link": "https://www.abc.es/espana/comunidad-valenciana/nueva-ola-calor-emergencias-decreta-alerta-naranja-20260705133147-nt.html",
-      "desc": "La Comunidad Valenciana afrontará un comienzo de semana marcado por un intenso episodio de calor. La segunda ola de calor del verano dejará, al menos durante tres jornadas, temperaturas máximas excepcionalmente elevadas. Ante esta situación, la Agencia Estatal",
-      "date": "Sun, 05 Jul 2026 13:31:48 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Fichajes Córdoba CF | El equipo gana músculo en la medular con la incorporación de Damián Cáceres",
-      "link": "https://www.abc.es/espana/andalucia/cordoba/cordoba-cf/oficial-cordoba-gana-musculo-medular-incorporacion-damian-20260705131420-nts.html",
-      "desc": "El Córdoba CF refuerza por fin una de las posiciones que más atención reclamaba en este mercado. El conjunto blanquiverde vuelve a mirar hacia los filiales del fútbol profesional para incorporar a Damián Cáceres, mediocentro madrileño de 23 años que llega libr",
-      "date": "Sun, 05 Jul 2026 13:18:50 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "El incendio de la Costa Brava  permite el regreso de los evacuados tras quedar estabilizado el perímetro",
-      "link": "https://www.abc.es/espana/cataluna/incendio-costa-brava-permite-regreso-evacuados-tras-20260705131115-nt.html",
-      "desc": "El incendio forestal declarado el viernes en la Bisbal d'Empordà (Gerona), que ya ha arrasado más de 2.300 hectáreas en el macizo de Les Gavarres, ha dado este domingo un paso decisivo hacia su control con el levantamiento del confinamiento que afectaba a los ",
-      "date": "Sun, 05 Jul 2026 13:11:15 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Núñez afirma que Castilla-La Mancha compartirá en un año el modelo de gestión que «ha transformado Andalucía»",
-      "link": "https://www.abc.es/espana/castilla-la-mancha/nunez-afirma-castillala-mancha-compartira-ano-modelo-20260705130428-nt.html",
-      "desc": "El presidente del Partido Popular de Castilla-La Mancha, Paco Núñez, ha asegurado este domingo que dentro de un año la región compartirá el modelo de gestión del PP que, a su juicio, ha transformado Andalucía. El líder de la oposición ha defendido que Castilla",
-      "date": "Sun, 05 Jul 2026 13:04:29 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Gonzalo Bernardos, economista: «El mejor municipio para comprar una vivienda en Cataluña es este»",
-      "link": "https://www.abc.es/espana/cataluna/gonzalo-bernardos-economista-mejor-municipio-comprar-vivienda-20260705130300-nt.html",
-      "desc": "El mercado de la vivienda en Cataluña se ha convertido en un terreno cada vez más difícil para propietarios, compradores e inquilinos. La Ley de Vivienda y los topes al alquiler han reducido de forma drástica la oferta disponible. Sin ir más lejos, en Barcelon",
-      "date": "Sun, 05 Jul 2026 13:03:00 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Manuel Gavira garantiza que Vox será «un socio fiable» que cumple su palabra",
-      "link": "https://www.abc.es/espana/andalucia/manuel-gavira-garantiza-vox-socio-fiable-cumple-20260705130021-nts.html",
-      "desc": "El líder de Vox en Andalucía, Manuel Gavira , ha acudido este domingo a la investidura de Juanma Moreno, acompañado por un numeroso grupo de compañeras de partido, principalmente mujeres, y tras el acto ha asegurado que «hoy comienza una etapa nueva en Andaluc",
-      "date": "Sun, 05 Jul 2026 13:00:22 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Buscan a un hombre que se perdió en una zona de monte de difícil acceso en Orense",
-      "link": "https://www.abc.es/espana/galicia/buscan-hombre-perdio-zona-monte-dificil-acceso-20260705125951-nt.html",
-      "desc": "En marcha un operativo de búsqueda desde la madrugada de este domingo para localizar a un hombre perdido en el monte, en la parroquia de Palmés, en Orense. Según ha informado el 112 Galicia en su boletín matinal, el dispositivo se activó alrededor de las 3.00 ",
-      "date": "Sun, 05 Jul 2026 12:59:51 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Mañueco felicita a Moreno por su nueva toma de posesión: «Andalucía ha vuelto a elegir estabilidad y buena gestión»",
-      "link": "https://www.abc.es/espana/castilla-leon/manueco-felicita-moreno-nueva-toma-posesion-andalucia-20260705123802-nt.html",
-      "desc": "A través de un mensaje en su perfil de la red social X, el presidente de la Junta de Castilla y León, el popular Alfonso Fernández Mañueco, ha mandado su felicitación y «enhorabuena» a su colega y compañero de partido Juan Manuel Moreno tras su nueva toma de p",
-      "date": "Sun, 05 Jul 2026 12:38:02 +0200",
       "source": "ABC",
       "color": "#c0392b",
       "feedId": "ABC",
