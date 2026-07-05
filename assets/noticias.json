@@ -1,7 +1,167 @@
 {
-  "updated": "2026-07-05T17:03:49Z",
+  "updated": "2026-07-05T19:09:53Z",
   "count": 24,
   "items": [
+    {
+      "title": "Oro y plata para Castilla-La Mancha en los 400 metros del Nacional sub-18",
+      "link": "https://www.abc.es/espana/castilla-la-mancha/toledo/deportes/oro-plata-castillala-mancha-400-metros-nacional-20260705205422-nt.html",
+      "desc": "Castilla-La Mancha ha firmado una destacada actuación en el Campeonato de España de Atletismo sub-18, celebrado este fin de semana en la pista Gaetà Huguet de Castellón de la Plana, al lograr un brillante doblete en la final masculina de los 400 metros , una d",
+      "date": "Sun, 05 Jul 2026 20:54:23 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Las Gavarres tiene más de 2.700 titulares privados y eso dificulta la gestión",
+      "link": "https://www.lavanguardia.com/local/girona/20260705/11585064/gavarres-mas-2-700-titulares-privados-dificulta-gestion.html",
+      "desc": "Solo el 2% de la superficie de este gran macizo boscoso entre el Baix Empordà y el Gironès es pública",
+      "date": "05 Jul 2026 20:07:31 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
+    {
+      "title": "Ocho medios terrestres trabajan para extinguir un incendio forestal en Malpica del Tajo (Toledo)",
+      "link": "https://www.abc.es/espana/castilla-la-mancha/toledo/ocho-medios-terrestres-trabajan-extinguir-incendio-forestal-20260705200336-nt.html",
+      "desc": "Un total de c inco medios aéreos y diez terrestres han llegado a trabajar en la extinción del incendio forestal que se ha declarado este domingo en el término municipal de Malpica del Tajo (Toledo). A última hora de la tarde, ya se han retirado los medios aéro",
+      "date": "Sun, 05 Jul 2026 20:03:37 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Muere un hombre tras ser rescatado del río en A Estrada (Pontevedra)",
+      "link": "https://www.abc.es/espana/galicia/muere-hombre-tras-rescatado-rio-estrada-pontevedra-20260705200242-nt.html",
+      "desc": "Un hombre ha fallecido tras ser rescatado inconsciente del río en A Estrada (Pontevedra), según información facilitada por el servicio de emergencias 112. El suceso ocurrió minutos antes de las 19.30 horas del sábado en la senda fluvial que conduce al Xirimbao",
+      "date": "Sun, 05 Jul 2026 20:02:43 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Valladolid dedica una calle a María Corina Machado «como símbolo de paz, democracia y derechos humanos»",
+      "link": "https://www.abc.es/espana/castilla-leon/valladolid-dedica-calle-maria-corina-machado-simbolo-20260705195536-nt.html",
+      "desc": "El Ayuntamiento de Valladolid ha inaugurado este domingo una calle dedicada a la venezolana María Corina Machado , Premio Nobel de la Paz 2025, coincidiendo con el día de la Independencia de Venezuela. Este hecho supone un «reconocimiento a su trayectoria en d",
+      "date": "Sun, 05 Jul 2026 19:55:36 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Así es Oliva Nova, lugar escogido por el Córdoba CF para su 'stage' de pretemporada",
+      "link": "https://www.abc.es/espana/andalucia/cordoba/cordoba-cf/oliva-nova-lugar-escogido-cordoba-stage-pretemporada-20260705194101-nts.html",
+      "desc": "Se acabaron las vacaciones para los pupilos de Iván Ania. Tras varias semanas de descanso, el Córdoba CF activará esta semana el botón de inicio de la pretemporada el próximo miércoles 8 de julio para completar el primer entrenamiento del nuevo curso. Por dela",
+      "date": "Sun, 05 Jul 2026 19:41:01 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Dos años sin agua en la fuente de Santa Leocadia de Toledo en plena ola de calor",
+      "link": "https://www.abc.es/espana/castilla-la-mancha/toledo/dos-anos-agua-fuente-santa-leocadia-plena-20260705193845-nt.html",
+      "desc": "La fuente de Santa Leocadia continúa sin funcionar dos años después de quedar inutilizada y, en plena ola de calor, vecinos del Casco Histórico vuelven a reclamar al Ayuntamiento de Toledo una solución para recuperar un servicio muy utilizado tanto por residen",
+      "date": "Sun, 05 Jul 2026 19:38:46 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Un escape de cloro obliga a desalojar a 30 personas del Leroy Merlin de Granada",
+      "link": "https://www.abc.es/espana/andalucia/granada/escape-cloro-obliga-desalojar-personas-leroy-merlin-20260705184444-nts.html",
+      "desc": "Hay muchos sucesos que se prestan a la típica expresión: «Pues menos mal que...», porque sin duda las cosas habrían podido ser mucho peores. Si el escape de cloro que se ha producido en el establecimiento que Leroy Merlin tiene en el Nevada Shopping, junto a G",
+      "date": "Sun, 05 Jul 2026 19:36:52 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Jornada negra para el tráfico con cuatro miembros de la misma familia fallecidos en un accidente en Palencia",
+      "link": "https://www.abc.es/espana/castilla-leon/jornada-negra-trafico-cuatro-muertos-familia-a67-20260705192608-nt.html",
+      "desc": "Jornada negra para el tráfico en las carreteras de Castilla y León, con cinco muertos en dos accidentes registrados en Palencia y Valladolid. El siniestro más grave es que el se llevaba por delante la vida de cuatro miembros de una misma familia y dejaba tambi",
+      "date": "Sun, 05 Jul 2026 19:26:08 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "El Tour viene a casa: Un lujo de sitio",
+      "link": "https://www.lavanguardia.com/deportes/20260705/11585056/tour-viene-casa-lujo-sitio.html",
+      "desc": "",
+      "date": "05 Jul 2026 19:25:59 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
+    {
+      "title": "Orense registra 42,5 grados en una de las jornadas más calurosas de su historia",
+      "link": "https://www.abc.es/espana/galicia/orense-registra-425-grados-jornadas-calurosas-historia-20260705192420-nt.html",
+      "desc": "La ciudad de Orense ha alcanzado este domingo los 42.5º, en una jornada enmarcada en el episodio de ola de calor que afecta a España desde hace días. Según los valores máximos, proporcionados por Meteogalicia, la capital termal ha pasado una de las jornadas má",
+      "date": "Sun, 05 Jul 2026 19:24:20 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "El pastor que salvó la masía gracias a su rebaño de cabras",
+      "link": "https://www.lavanguardia.com/local/barcelona/20260705/11585053/pastor-salvo-masia-gracias-rebano-cabras.html",
+      "desc": "El ganado de Albert Ribas, que mantiene la vegetación de la finca a raya, permitió a los bomberos apagar más fácilmente el fuego en la zona de la masía, en las Gavarres",
+      "date": "05 Jul 2026 19:24:20 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
+    {
+      "title": "Córdoba se prepara la segunda ola de calor: aviso naranja y temperaturas de hasta 44 grados",
+      "link": "https://www.abc.es/espana/andalucia/cordoba/tiempo-cordoba-segunda-ola-calor-infierno-aviso-20260705191425-nts.html",
+      "desc": "El calor vuelve a apretar con fuerza en Córdoba . La provincia ha comenzado este domingo a notar los primeros efectos de la segunda ola de calor del verano, un episodio que amenaza con dejar varios días de temperaturas extremas. Según los registros de la Agenc",
+      "date": "Sun, 05 Jul 2026 19:14:25 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Un incendio intencionado en Picos de Europa sube el nivel de riesgo tras una semana ardiendo",
+      "link": "https://www.abc.es/espana/castilla-leon/incendio-intencionado-picos-europa-sube-nivel-riesgo-20260705190333-nt.html",
+      "desc": "Comenzó a arder de forma intencionada sobre las 9.30 horas del pasado 26 de julio. En una zona de gran valor natural, de complicada orografía, elevada pendiente y no fácil acceso por tierra y también complicado para las descargas aéreas. Y una semana después d",
+      "date": "Sun, 05 Jul 2026 19:12:07 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Otro incendio forestal afecta al Norte de la provincia de Córdoba: activo un fuego en Peñarroya-Pueblonuevo",
+      "link": "https://www.abc.es/espana/andalucia/cordoba/incendio-forestal-afecta-norte-provincia-cordoba-activo-20260705191118-nts.html",
+      "desc": "El Infoca ha declarado un nuevo incendio forestal en el Norte de la provincia. En este caso, el servicio de extinción ha delcaradoactivo un fuego que ha comenzado sobre las 17.00 horas en el municipio cordobés de Peñarroya-Pueblonuevo . En concreto, el incendi",
+      "date": "Sun, 05 Jul 2026 19:11:18 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Dos años sin las soluciones del ministro Puente para el atasco del Mediterráneo andaluz",
+      "link": "https://www.abc.es/espana/andalucia/malaga/gobierno-sanchez-olvida-atasco-mediterraneo-andaluz-20260705145312-nts.html",
+      "desc": "En julio de 2024 el Gobierno de España citó a todas las administraciones de la Costa del Sol y a todos agentes del sector de la movilidad para poner soluciones al atasco constante de las carreteras de la provincia. La idea esta descongestionar el litoral de Má",
+      "date": "Sun, 05 Jul 2026 18:58:26 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
     {
       "title": "El frontón de Pareja celebra 125 años de historia",
       "link": "https://www.abc.es/espana/castilla-la-mancha/fronton-pareja-celebra-125-anos-historia-20260705185228-nt.html",
@@ -63,6 +223,16 @@
       "caso": "other"
     },
     {
+      "title": "UAE pasa al ataque: Del Toro gana en la toma 2 de Montjuïc y Pogacar somete a sus rivales",
+      "link": "https://www.lavanguardia.com/deportes/ciclismo/20260705/11585011/del-toro-triunfo-pogacar-barcelona-tour-de-francia-montjuic-grand-depart.html",
+      "desc": "El esloveno juega con sus rivales antes de entrar en la meta de la mano del mexicano",
+      "date": "05 Jul 2026 17:57:34 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
+    {
       "title": "Las obras en Conde de Casal provocarán afecciones nocturnas de movilidad esta semana",
       "link": "https://www.abc.es/espana/madrid/obras-conde-casal-provocaran-afecciones-nocturnas-movilidad-20260705175733-nt.html",
       "desc": "Desde la noche del 6 de julio a la madrugada del viernes 10, diversos cortes de tráfico afectarán a la movilidad del entorno en horario nocturno. Sucederá con motivo de las obras que la Comunidad de Madrid realiza para la construcción del nuevo intercambiador ",
@@ -70,176 +240,6 @@
       "source": "ABC",
       "color": "#c0392b",
       "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Cientos de personas secundan la marcha a favor del tren de vía estrecha: «La próxima, hasta el despacho de Puente»",
-      "link": "https://www.abc.es/espana/castilla-leon/cientos-personas-secundan-marcha-favor-tren-via-20260705174059-nt.html",
-      "desc": "«La próxima marcha, hasta el despacho de Óscar Puente ». Es uno de los mensajes lanzados hoy por la Plataforma en Defensa del Ferrocarril de Vía Estrecha de León , tras concluir el recorrido reivindicativo de más de un centenar de kilómetros iniciado el pasado",
-      "date": "Sun, 05 Jul 2026 17:41:00 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Los Montillanos ganan las Olimpiadas de juegos tradicionales de calle en Los Pedroches",
-      "link": "https://www.abc.es/espana/andalucia/cordoba/montillanos-ganan-olimpiadas-juegos-tradicionales-calle-pedroches-20260705174047-nts.html",
-      "desc": "Los Montillanos, equipo procedente de Montilla, ha revalidado el título en el campeonato que recupera los juegos más tradicionales de calle. Lo ha hecho con una importante diferencia, imponiéndose con autoridad a los segundos clasificados, otro clásico fundaci",
-      "date": "Sun, 05 Jul 2026 17:40:47 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Mueren cuatro miembros de una familia en un accidente en la autovía A-67 en la provincia de Palencia",
-      "link": "https://www.abc.es/espana/castilla-leon/varios-fallecidos-accidente-autovia-a67-provincia-palencia-20260705172027-nt.html",
-      "desc": "Cuatro personas, todas de la misma familia, han fallecido en la tarde de este domingo en un accidente de tráfico en la provincia de Palencia. Ocurría sobre las 16.20 horas a la altura del punto kilométrico 83 de la autovía A-67, sentido decreciente, en Prádano",
-      "date": "Sun, 05 Jul 2026 17:20:28 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Castilla-La Mancha suma 30 muertes asociadas al calor en junio",
-      "link": "https://www.abc.es/espana/castilla-la-mancha/castillala-mancha-suma-muertes-asociadas-calor-cuatro-20260705171408-nt.html",
-      "desc": "El calor extremo se ha cobrado 30 muertes en Castilla-La Mancha durante el mes de junio, según las estimaciones del sistema de Monitorización de la Mortalidad Diaria (MoMo) del Instituto de Salud Carlos III. Asimismo, el organismo cifra en 153 los fallecimient",
-      "date": "Sun, 05 Jul 2026 17:16:26 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Castilla y León pedirá iniciar «de cero» la reforma de la financiación autonómica",
-      "link": "https://www.abc.es/espana/castilla-leon/castilla-leon-pedira-iniciar-cero-reforma-financiacion-20260705171413-nt.html",
-      "desc": "En principio, no figura en el orden del día del Consejo de Política Fiscal y Financiera (CPFF) convocado para este lunes por el Ministerio de Hacienda para reunir a la mesa a Gobierno y comunidades autónomas, pero el consejero del ramo del Castilla y León, Car",
-      "date": "Sun, 05 Jul 2026 17:14:13 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "La Rapa das Bestas de Sabucedo desafía al calor entre abanicos y manguerazos",
-      "link": "https://www.abc.es/espana/galicia/rapa-das-bestas-sabucedo-antepone-calor-celebra-20260705171411-nt.html",
-      "desc": "La parroquia de Sabucedo, en el municipio pontevedrés de A Estrada, ha celebrado la Rapa das Bestas en plena ola de calor. Locales y visitantes se equiparon con abanicos, gorros y mucha agua para poder disfrutar de los curros —recintos cerrados—, donde a cabal",
-      "date": "Sun, 05 Jul 2026 17:14:11 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "El PSOE acusa a Núñez de usar el «relato del abandono» de las sierras del Segura y de Alcaraz con fines electorales",
-      "link": "https://www.abc.es/espana/castilla-la-mancha/psoe-acusa-nunez-usar-relato-abandono-sierras-20260705165337-nt.html",
-      "desc": "La portavoz del PSOE Provincial de Albacete y vicepresidenta de las Cortes de Castilla-La Mancha, Josefina Navarrete, ha rechazado las declaraciones del presidente del PP regional, Paco Núñez, en las que denunciaba un supuesto «abandono absoluto» de la Sierra ",
-      "date": "Sun, 05 Jul 2026 16:53:38 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Un incendio forestal en Soneja (Castellón) obliga a activar la situación 2 del PEIF y moviliza diez medios aéreos",
-      "link": "https://www.abc.es/espana/comunidad-valenciana/incendio-forestal-soneja-castellon-obliga-activar-situacion-20260705164503-nt.html",
-      "desc": "Un incendio forestal declarado este domingo al mediodía en el término municipal de Soneja (Castellón), ha obligado a movilizar a diez medios aéreos y numerosos efectivos terrestres. Según han informado el Centro de Coordinación de Emergencias de la Generalitat",
-      "date": "Sun, 05 Jul 2026 16:45:28 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Nuevas pintadas homófobas vandalizan el mural de la bandera LGTBI de Talavera",
-      "link": "https://www.abc.es/espana/castilla-la-mancha/toledo/talavera/nuevas-pintadas-homofobas-vandalizan-mural-bandera-lgtbi-20260705151740-nt.html",
-      "desc": "El mural con la bandera LGTBI ubicado en el barrio de San Antonio-Puente Romano de Talavera de la Reina ha vuelto a ser objeto de un acto vandálico. La pintura ha aparecido cubierta con numerosas pintadas de carácter homófobo y mensajes que ensalzan el franqui",
-      "date": "Sun, 05 Jul 2026 15:17:40 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Muere una joven en Algeciras al engancharse una bandera en su moto mientras celebraba la victoria de Marruecos",
-      "link": "https://www.abc.es/espana/andalucia/cadiz/muere-accidente-moto-celebraba-victoria-marruecos-algeciras-20260705150021-nts.html",
-      "desc": "Una mujer de 26 años falleció aproximadamente a las 23.00 horas de este sábado en Algeciras tras sufrir un accidente por vuelco de una moto. La víctima mortal portaba una bandera de Marruecos amarrada al cuello , cuya tela habría quedado atrapada en la rueda t",
-      "date": "Sun, 05 Jul 2026 15:01:10 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Muere un motorista en un accidente de tráfico en Valladolid",
-      "link": "https://www.abc.es/espana/castilla-leon/muere-motorista-accidente-trafico-valladolid-20260705144959-nt.html",
-      "desc": "Un motorista ha perdido la vida este domingo, 5 de julio, en un accidente de tráfico en Valladolid. El dramático suceso ha tenido lugar poco antes de las 10.30 horas de la mañana. En ese momento, la sala de operaciones del 1-1-2 Castilla y León recibía una lla",
-      "date": "Sun, 05 Jul 2026 14:50:00 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Toledo vuelve a 'mojarse' por la esclerosis múltiple para apoyar la investigación y dar visibilidad a la enfermedad",
-      "link": "https://www.abc.es/espana/castilla-la-mancha/toledo/toledo-vuelve-mojarse-esclerosis-multiple-apoyar-investigacion-20260705144354-nt.html",
-      "desc": "La piscina municipal de la Escuela Central de Educación Física ha acogido este domingo una nueva edición de la campaña solidaria 'Mójate por la Esclerosis Múltiple', una iniciativa promovida por la Asociación de Esclerosis Múltiple de Toledo (Ademto) que busca",
-      "date": "Sun, 05 Jul 2026 14:43:55 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Dos hombres se enfrentan a nueve años de cárcel por dejar tuerto a otro en una pelea en Ocaña",
-      "link": "https://www.abc.es/espana/castilla-la-mancha/toledo/pueblos/dos-hombres-enfrentan-nueve-anos-carcel-dejar-20260705142943-nt.html",
-      "desc": "Dos hombres se enfrentan a una petición de nueve años de prisión por parte de la Fiscalía por presuntamente dejar tuerto a otro durante una pelea ocurrida en la localidad toledana de Ocaña en febrero de 2022. La Sección Segunda de la Audiencia Provincial de To",
-      "date": "Sun, 05 Jul 2026 14:29:44 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Juanma Moreno toma posesión como presidente de la Junta por tercera vez",
-      "link": "https://www.lavanguardia.com/politica/20260705/11584871/juanma-moreno-toma-posesion-presidente-junta-tercera-vez.html",
-      "desc": "Al acto ha asistido el que será su vicepresidente, el líder de Vox en Andalucía, Manuel Gavira",
-      "date": "05 Jul 2026 10:05:50 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "Los Bombers prevén un “día complicado” en el incendio ya estabilizado del Empordà",
-      "link": "https://www.lavanguardia.com/local/girona/20260705/11584850/bombers-preven-dia-complicado-incendio-estabilizado-emporda.html",
-      "desc": "Presenta un perímetro “muy irregular” que puede provocar nuevos focos debido a las altas temperaturas previstas y a la fuerza del viento",
-      "date": "05 Jul 2026 08:52:01 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "El viento previsto para hoy condiciona el trabajo de los Bombers en las Gavarres",
-      "link": "https://www.lavanguardia.com/local/girona/20260705/11584842/incendio-les-gavarres-directo-ultima-hora-evolucion-incendio-bisbal-d-emporda.html",
-      "desc": "La situación se mantiene bajo control mientras los equipos refuerzan la vigilancia en áreas con riesgo de reactivación",
-      "date": "05 Jul 2026 07:17:32 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "El PSOE retrocede mientras el PP y Vox rozan los 200 diputados",
-      "link": "https://www.lavanguardia.com/politica/20260705/11584509/psoe-retrocede-lentamente-populares-vox-rozan-200-escanos.html",
-      "desc": "Los socialistas caen casi cinco puntos y el PP dos, pero los ultras crecen más de seis",
-      "date": "05 Jul 2026 06:00:00 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
       "caso": "other"
     }
   ]
