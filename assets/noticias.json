@@ -1,7 +1,197 @@
 {
-  "updated": "2026-07-05T07:20:35Z",
+  "updated": "2026-07-05T10:06:34Z",
   "count": 24,
   "items": [
+    {
+      "title": "Restablecida la normalidad en el AVE Madrid-Andalucía tras el nuevo robo de cable entre Malagón y Ciudad Real",
+      "link": "https://www.abc.es/espana/castilla-la-mancha/restablecida-normalidad-ave-madridandalucia-tras-nuevo-robo-20260705114552-nt.html",
+      "desc": "La circulación ferroviaria en la línea de alta velocidad Madrid-Andalucía quedó restablecida con normalidad poco antes de las diez y media de este sábado, una vez repuesto el cable de sustraído. La incidencia había provocado durante gran parte de la jornada fa",
+      "date": "Sun, 05 Jul 2026 11:45:52 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "La Junta de Castilla y León recurrirá también el nuevo reparto del Gobierno de menores migrantes no acompañados",
+      "link": "https://www.abc.es/espana/castilla-leon/junta-castilla-leon-recurrira-nuevo-reparto-gobierno-20260705112259-nt.html",
+      "desc": "El Gobierno central «vuelve a actuar de forma unilateral, sin el acuerdo unánime de todas las comunidades y sin respetar las competencias que corresponden a cada comunidad en materia de protección de menores». Son parte de los argumentos que sostiene y esgrime",
+      "date": "Sun, 05 Jul 2026 11:30:56 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "El Resurrection Fest Estrella Galicia bate récord de participación con más de 140.000 asistentes",
+      "link": "https://www.abc.es/espana/galicia/resurrection-fest-estrella-galicia-bate-record-participacion-20260705112525-nt.html",
+      "desc": "Más de 140.000 personas han asistido en Viveiro (Lugo) a una nueva edición del Resurrection Fest Estrella Galicia 2026, que ha clausurado una nueva edición tras cuatro jornadas con 100 bandas repartidas en cuatro escenarios. «Confirmando, una vez más, el extra",
+      "date": "Sun, 05 Jul 2026 11:25:25 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "La UPV desarrolla Dragonbot, el primer robot para recolectar pitayas de forma autónoma",
+      "link": "https://www.abc.es/espana/comunidad-valenciana/upv-desarrolla-dragonbot-primer-robot-recolectar-pitayas-20260705110137-nt.html",
+      "desc": "La automatización del sector agrícola da un nuevo paso con Dragonbot, un robot inteligente desarrollado para la recolección de pitayas o fruta del dragón, así como de otras frutas delicadas. El sistema permite identificar el grado de maduración de cada pieza y",
+      "date": "Sun, 05 Jul 2026 11:01:37 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "¿Vives en uno de estos 69 pueblos de Córdoba? Estos son los requisitos para ahorrar más de 100 euros en la basura",
+      "link": "https://www.abc.es/espana/andalucia/cordoba/vives-pueblos-cordoba-requisitos-ahorrar-100-euros-20260705103902-nts.html",
+      "desc": "La Diputación de Córdoba ha abierto ya la posibilidad de reducir un 75 por ciento durante tres años el recibo de la tasa por la recogida de basura y tratamiento de residuos de Epremasa en 32 de los 76 municipios de la provincia, que son los acogidos a su servi",
+      "date": "Sun, 05 Jul 2026 10:39:02 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "El restaurante favorito de Carlos Herrera tras acabar el Camino de Santiago: dónde está, carta y qué precio tiene",
+      "link": "https://www.abc.es/espana/galicia/restaurante-favorito-carlos-herrera-tras-acabar-camino-20260705110000-nt.html",
+      "desc": "Carlos Herrera lleva varias décadas siendo una de las voces más reconocibles de las mañanas radiofónicas en España, tanto en RNE, Cadena SER u Onda Cero, y desde 2015 al frente de 'Herrera en COPE'. Pero más allá de los micrófonos, una de sus aficiones más con",
+      "date": "Sun, 05 Jul 2026 10:38:19 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Cae una banda de 'surferos' que asaltaba camiones en marcha y robó mercancía por valor de 481.000 euros",
+      "link": "https://www.abc.es/espana/castilla-la-mancha/toledo/cae-banda-surferos-asaltaba-camiones-marcha-robo-20260705103623-nt.html",
+      "desc": "La Guardia Civil ha desarticulado un grupo criminal especializado en el robo de mercancías de camiones en marcha mediante el conocido como 'método del surfero' . La operación denominada 'New Moon Ceres' se ha saldado con la detención de diez hombres como presu",
+      "date": "Sun, 05 Jul 2026 10:36:23 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Cae una red dedicada al menudeo de marihuana, hachís, tusi y éxtasis en Valencia",
+      "link": "https://www.abc.es/espana/comunidad-valenciana/cae-red-dedicada-menudeo-marihuana-hachis-tusi-20260705103438-nt.html",
+      "desc": "Agentes de la Policía Nacional han detenido en la provincia de Valencia a 12 personas, nueve hombres y tres mujeres, de como presuntos autores de un delito de tráfico de drogas, principalmente marihuana, hachís, otras drogas sintéticas como 'tusi' o cocaína ro",
+      "date": "Sun, 05 Jul 2026 10:34:38 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Grupo Firme inicia su gira europea en el Roig Arena de Valencia el 19 de septiembre",
+      "link": "https://www.abc.es/espana/comunidad-valenciana/grupo-firme-inicia-gira-europea-roig-arena-20260705100848-nt.html",
+      "desc": "La agrupación mexicana Grupo Firme arrancará su gira europea el próximo 19 de septiembre en Roig Arena. Tras el éxito de su reciente gira por Colombia, la banda liderada por Eduin Caz cruzará el Atlántico con «La Primera EuroPeda Tour 2026», una gira con la qu",
+      "date": "Sun, 05 Jul 2026 10:08:48 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Juanma Moreno toma posesión como presidente de la Junta por tercera vez",
+      "link": "https://www.lavanguardia.com/politica/20260705/11584871/juanma-moreno-toma-posesion-presidente-junta-tercera-vez.html",
+      "desc": "Al acto ha asistido el que será su vicepresidente, el líder de Vox en Andalucía, Manuel Gavira",
+      "date": "05 Jul 2026 10:05:50 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
+    {
+      "title": "Muere un bañista en la playa de Mazagón a última hora de este sábado",
+      "link": "https://www.abc.es/espana/andalucia/huelva/muere-banista-playa-mazagon-ultima-hora-sabado-20260705100424-nts.html",
+      "desc": "Un bañista de 79 años falleció a última hora de la tarde del pasado sábado, 5 de julio, en una playa de Palos de la Frontera, en la provincia de Huelva. Según ha informado el Servicio de Emergencias 112 Andalucía, el teléfono 112 atendió a las 20,45 horas vari",
+      "date": "Sun, 05 Jul 2026 10:04:24 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "El Australian Futsal Association, mejor club femenino de la Costa Blanca Cup Futsal 2026",
+      "link": "https://www.abc.es/espana/comunidad-valenciana/australian-futsal-association-mejor-club-femenino-costa-20260705100114-nt.html",
+      "desc": "El club Australian Futsal Association se proclamó campeón absoluto de la Costa Blanca Cup Futsal 2026. La entidad oceánica se alzó con el trofeo de la clasificación general por puntuación de los equipos participantes de un mismo club, tomando el relevo del el ",
+      "date": "Sun, 05 Jul 2026 10:01:15 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Ana Torroja se lleva el calor de Toledo en una noche de nostálgicos y valientes",
+      "link": "https://www.abc.es/espana/castilla-la-mancha/toledo/ana-torroja-lleva-calor-toledo-noche-nostalgicos-20260705095724-nt.html",
+      "desc": "«¿Cuánto nostálgico hay aquí esta noche?», preguntó Ana Torroja apenas unos minutos después de subir al escenario. La respuesta fue un rugido unánime de una Plaza de Toros de Toledo prácticamente llena. Después llegó la segunda cuestión: «¿Y valientes?». La ov",
+      "date": "Sun, 05 Jul 2026 09:57:24 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Lola Baldrich y Silvia Almenara, unidas por el teatro y la libertad en Almagro",
+      "link": "https://www.abc.es/espana/castilla-la-mancha/toledo/lola-baldrich-silvia-almenara-unidas-sangre-teatro-20260616093647-nt.html",
+      "desc": "Hay proyectos que llegan después de una vida entera dedicada al teatro. Para Lola Baldrich, 'La libertad pretendo' es uno de ellos. Después de décadas sobre los escenarios y de varias participaciones en el Festival de Almagro, la actriz toledana regresa este v",
+      "date": "Sun, 05 Jul 2026 09:36:47 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "La Junta quiere reservar agua para el hidrógeno verde y proyectos estratégicos en el nuevo Plan del Tajo",
+      "link": "https://www.abc.es/espana/castilla-la-mancha/junta-quiere-reservar-agua-hidrogeno-verde-proyectos-20260701093556-nt.html",
+      "desc": "La creación de una bolsa del agua para garantizar recursos destinados a proyectos estratégicos de la región constituye una de las propuestas más novedosas incluidas por el Gobierno de Castilla-La Mancha en sus alegaciones al cuarto ciclo de planificación hidro",
+      "date": "Sun, 05 Jul 2026 09:35:56 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "La deuda municipal baja a 411 euros por vecino en Toledo tras amortizar préstamos",
+      "link": "https://www.abc.es/espana/castilla-la-mancha/toledo/deuda-municipal-baja-411-euros-vecino-toledo-20260630093459-nt.html",
+      "desc": "La deuda del Ayuntamiento de Toledo volvió a reducirse durante 2025 hasta situarse en 411 euros por habitante, un indicador que confirma la mejora progresiva de la situación financiera municipal y consolida la política de saneamiento económico desarrollada dur",
+      "date": "Sun, 05 Jul 2026 09:34:59 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Cultura, acción social y asociaciones de vecinos concentran los convenios del Ayuntamiento de Toledo firmados en 2025",
+      "link": "https://www.abc.es/espana/castilla-la-mancha/toledo/cultura-accion-social-asociaciones-vecinos-concentran-convenios-20260630093412-nt.html",
+      "desc": "La cultura, la acción social y la participación vecinal fueron los tres grandes ejes de la política de convenios del Ayuntamiento de Toledo durante 2025. La memoria económica de la Cuenta General recoge decenas de acuerdos de colaboración con instituciones, en",
+      "date": "Sun, 05 Jul 2026 09:34:12 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Las residencias universitarias públicas compiten en precio con los pisos compartidos para estudiantes",
+      "link": "https://www.abc.es/espana/castilla-la-mancha/residencias-publicas-compiten-precio-piso-compartido-varias-20260701093257-nt.html",
+      "desc": "Cada verano, miles de estudiantes comienzan una carrera paralela a la académica: encontrar un lugar donde vivir durante el curso . La búsqueda de un alojamiento se ha convertido en una de las principales preocupaciones tanto para quienes llegan por primera vez",
+      "date": "Sun, 05 Jul 2026 09:32:57 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Toledo arrastra 24 millones pendientes de cobro en impuestos, tasas y multas",
+      "link": "https://www.abc.es/espana/castilla-la-mancha/toledo/toledo-arrastra-millones-pendientes-cobrar-perdidos-seis-20260619093135-nt.html",
+      "desc": "El Ayuntamiento de Toledo cerró el ejercicio 2025 con más de 24 millones de euros pendientes de recaudar, una cifra equivalente a más de una quinta parte de los ingresos reconocidos durante el año y que pone de manifiesto la dificultad que tienen las administr",
+      "date": "Sun, 05 Jul 2026 09:31:35 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
     {
       "title": "Javi Moreno: «Es muy difícil que alguien pueda igualar lo que ha hecho Iván Ania en el Córdoba CF»",
       "link": "https://www.abc.es/espana/andalucia/cordoba/cordoba-cf/javi-moreno-dificil-alguien-pueda-igualar-ivan-20260705085536-nts.html",
@@ -23,220 +213,30 @@
       "caso": "other"
     },
     {
-      "title": "Stanley Clarke, Esther Guzmán y Siloé llenarán este domingo los tres escenarios del Festival de la Guitarra de Córdoba",
-      "link": "https://www.abc.es/espana/andalucia/cordoba/stanley-clarke-esther-guzman-siloe-llenaran-domingo-20260705085514-nts.html",
-      "desc": "Tres escenarios, tres géneros, tres trayectorias que no suelen coincidir en un mismo cartel: el 45 Festival de la Guitarra de Córdoba , organizado por el Instituto Municipal de Artes Escénicas de Córdoba (IMAE), despliega este domingo 5 de julio su jornada más",
-      "date": "Sun, 05 Jul 2026 08:55:14 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Festivales de música y desestacionalización del turismo",
-      "link": "https://www.abc.es/espana/andalucia/cordoba/festivales-musica-desestacionalizacion-turismo-20260705085508-nts.html",
-      "desc": "Hay una clara apuesta por los festivales de música en la ciudad en los últimos años. El Festival de la Guitarra de Córdoba va rumbo hacia su 50 aniversario de vida. El Califa Fest se ha consolidado en los últimos tiempos dentro de la plaza de toros durante el ",
-      "date": "Sun, 05 Jul 2026 08:55:08 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Víctor Manuel Díaz : «Creo que la barrera de altura con la Mezquita-Catedral es más psicológica que física»",
-      "link": "https://www.abc.es/espana/andalucia/cordoba/victor-manuel-diaz-creo-barrera-altura-mezquitacatedral-20260705085501-nts.html",
-      "desc": "Recién elegido nuevo decano, Víctor Manuel Díaz afronta el inicio de su mandato en el Colegio Oficial de Arquitectos con la idea de mantener una línea continuista respecto de su predecesor, a cuya junta de gobierno perteneció. Sin embargo, añade nuevos retos a",
-      "date": "Sun, 05 Jul 2026 08:55:01 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "La huella de Córdoba en la forja de la Base Logística se hace más grande",
-      "link": "https://www.abc.es/espana/andalucia/cordoba/huella-cordoba-forja-base-logistica-grande-20260705085455-nts.html",
-      "desc": "La huella que está dejando Córdoba en la forja física de la Base Logística se hace cada vez más grande , y va mucho más allá de ser su sede territorial. El 26 de junio, se conocía que Magtel , gran grupo empresarial de nuestra tierra, era una de las firmas gan",
-      "date": "Sun, 05 Jul 2026 08:54:55 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Toma de posesión de Juanma Moreno, en directo: el presidente de la Junta de Andalucía asume el cargo en San Telmo",
-      "link": "https://www.abc.es/espana/andalucia/toma-posesion-juanma-moreno-presidente-junta-20260705192153-nts.html",
-      "desc": "Juanma Moreno toma posesión de nuevo como presidente de la Junta de Andalucía este domingo, 5 de julio , cuyo acto institucional se celebrará a partir de las 9.30 horas en el Palacio de San Telmo. La celebración de este acto se produce después de que el candid",
-      "date": "Sun, 05 Jul 2026 08:37:42 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "El colapso de las ITV enciende a los transportistas valencianos: «Nos toman el pelo como contribuyentes»",
-      "link": "https://www.abc.es/espana/comunidad-valenciana/colapso-itv-enciende-transportistas-valencianos-toman-pelo-20260705101040-nt.html",
-      "desc": "En las estaciones de la ITV valencianas , que gestionan la empresa pública SITVAL desde hace tres años, conseguir una cita previa en verano es toda una quimera. Un colapso que, según los datos de la Federación Valenciana de Empresarios del Transporte y la Logí",
-      "date": "Sun, 05 Jul 2026 08:31:29 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "El Gobierno calcula que Castilla-La Mancha reducirá un 67,7% sus listas de espera en dependencia con la nueva financiación",
-      "link": "https://www.abc.es/espana/castilla-la-mancha/toledo/gobierno-calcula-castillala-mancha-reducira-listas-espera-20260705080500-nt.html",
-      "desc": "Las listas de espera de la dependencia en Castilla-La Mancha podrían reducirse un 67,76% de aquí a finales de 2027 gracias al incremento de la financiación estatal aprobado recientemente por el Gobierno de España. Así lo estima el Ministerio de Derechos Social",
-      "date": "Sun, 05 Jul 2026 08:05:00 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "La arqueología confirma la masacre de lliturgi",
-      "link": "https://www.abc.es/espana/andalucia/jaen/arqueologia-confirma-masacre-lliturgi-20260705123830-nts.html",
-      "desc": "Los trabajos de investigación arqueológica desarrollados en el Cerro de La Muela, en el municipio jiennense de Mengíbar ponen de relieve que lo que cuentan las crónicas romanas sobre el asedio de Iliturgi es completamente cierto. Según la tradición escrita Esc",
-      "date": "Sun, 05 Jul 2026 07:22:03 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Una Ley de Familias para fomentar la natalidad, entre las primeras medidas del pacto andaluz PP-Vox",
-      "link": "https://www.abc.es/espana/andalucia/ley-familias-fomentar-natalidad-primeras-normas-20260705070902-nts.html",
-      "desc": "Está incluido en el acuerdo entre el PP y Vox en Andalucía como uno de los puntos relevantes. Igual que en otras comunidades donde ambas formaciones gobiernan juntos, el acuerdo andaluz tendrá como consecuencia que la comunidad tendrá una nueva Ley de Familias",
-      "date": "Sun, 05 Jul 2026 07:09:02 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "El Gobierno perpetúa los atascos en los accesos a las playas andaluzas",
-      "link": "https://www.abc.es/espana/andalucia/gobierno-perpetua-atascos-accesos-playas-andaluzas-20260705131411-nts.html",
-      "desc": "Empieza el verano y las playas andaluzas son un destino preferente para aquellos que tienen unos días de vacaciones. Sin embargo, desde hace años, el Gobierno condena a Andalucía al atasco permanente . Aquel que quiera ir a la playa tiene primero que comerse u",
-      "date": "Sun, 05 Jul 2026 07:07:38 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "La carreteras andaluzas acogen este verano casi la mitad desplazamientos en coche de toda España",
-      "link": "https://www.abc.es/espana/andalucia/carreteras-andaluzas-acogen-verano-mitad-desplazamientos-coche-20260705132651-nts.html",
-      "desc": "La Dirección General de Tráfico (DGT) activó este pasado viernes la primera Operación Especial Verano 2026, que se prolongará hasta el domingo, 5 de julio. Un período en el que se prevén superar los 1,1 millones de desplazamientos en Andalucía. Éste es el prim",
-      "date": "Sun, 05 Jul 2026 07:07:30 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Si Carlos Mazón hubiese sido del PSOE",
-      "link": "https://www.abc.es/espana/comunidad-valenciana/carlos-mazon-psoe-20260705060000-nt.html",
-      "desc": "Hace unos días estábamos celebrando el curso de verano de la Universidad de Alicante que dirijo sobre Inteligencia Artificial, Comunicación y Liderazgo. En uno de los talleres, los distintos grupos de estudiantes debían diseñar una estrategia comunicativa para",
-      "date": "Sun, 05 Jul 2026 06:00:24 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Lo que nadie se atreve a decir sobre la 'ley de nietos'",
-      "link": "https://www.abc.es/espana/galicia/jose-luis-jimenez-atreve-decir-sobre-ley-nietos-20260703060000-nt.html",
-      "desc": "El mayor arma de destrucción masiva de que dispone el ciudadano es su voto. Puede que a título individual, conjugado en una pobre primera persona del singular, no se aprecien sus efectos. Pero cuando se agrupa alrededor de un colectivo lo suficientemente ampli",
-      "date": "Sun, 05 Jul 2026 06:00:00 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "La esquina",
-      "link": "https://www.abc.es/espana/galicia/esquina-20260703050003-nt.html",
-      "desc": "Miro el mapa de Europa y veo que Galicia está en la esquina. Nada nuevo. En otras épocas éramos el límite del mundo, una definición que conlleva misterio y simbolismo. Todo lo que está en la esquina tiene un halo de secreto —no confundir con los extremos, que,",
-      "date": "Sun, 05 Jul 2026 05:00:03 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Las 24 horas de guardia de un abogado de oficio: «La Justicia gratuita no puede sostenerse sobre nuestro sacrificio permanente»",
-      "link": "https://www.abc.es/espana/madrid/horas-guardia-abogado-oficio-hacemos-caridad-garantizamos-20260626025710-nt.html",
-      "desc": "Durante el servicio de guardia, la incertidumbre es la única certeza con la que conviven los abogados del turno de oficio.  A partir de las diez de la noche, el aviso puede producirse a cualquier hora. Y, cuando ocurre, el letrado toma nota de una dirección. N",
-      "date": "Sun, 05 Jul 2026 02:57:10 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "El Gobierno se conjura para llegar al otoño y «remontar»",
-      "link": "https://www.abc.es/espana/gobierno-conjura-llegar-vivo-verano-necesitamos-otono-20260701021106-nt.html",
-      "desc": "Otro fin de curso agónico para el Gobierno. Pedro Sánchez encara el mes de julio contando los días para que llegue el descanso estival y lo hace tratando de contener la ola de casos de corrupción que siguen surgiendo en el entorno del Ejecutivo y del PSOE. En ",
-      "date": "Sun, 05 Jul 2026 02:11:06 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Los escándalos del PSOE revelan corrupción generalizada en al menos seis empresas públicas",
-      "link": "https://www.abc.es/espana/escandalos-psoe-revelan-corrupcion-generalizada-seis-empresa-20260705020700-nt.html",
-      "desc": "Las causas de corrupción que avanzan en los tribunales contra el núcleo duro de Pedro Sánchez al llegar a La Moncloa y contra su mujer, Begoña Gómez, dejan un panorama de corrupción en empresas públicas de primer nivel que avanza un calendario repleto de decla",
-      "date": "Sun, 05 Jul 2026 02:07:00 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Sánchez se cogerá todo el mes de agosto de vacaciones por primera vez desde que llegó al poder en 2018",
-      "link": "https://www.abc.es/espana/sanchez-cogera-mes-agosto-entero-vacaciones-primera-20260630015724-nt.html",
-      "desc": "Pedro Sánchez prepara un verano muy distinto a los anteriores . Tras varios años en los que el mes de agosto no suponía una auténtica desconexión de la actividad política, de hecho desde que llegó al poder en 2018 siempre había trabajado parte del mes de agost",
-      "date": "Sun, 05 Jul 2026 01:57:24 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "El incendio de las Gavarres podría entrar en fase de estabilización en las próximas horas",
-      "link": "https://www.lavanguardia.com/local/catalunya/20260704/11584538/incendio-gavarres-fase-estabilizacion-baix-emporda.html",
-      "desc": "El president de la Generalitat, Salvador Illa, ha explicado que la extinción del fuego avanza de manera favorable, aunque pide prudencia&nbsp;",
-      "date": "04 Jul 2026 21:03:21 +0200",
+      "title": "Los Bombers prevén un “día complicado” en el incendio ya estabilizado del Empordà",
+      "link": "https://www.lavanguardia.com/local/girona/20260705/11584850/bombers-preven-dia-complicado-incendio-estabilizado-emporda.html",
+      "desc": "Presenta un perímetro “muy irregular” que puede provocar nuevos focos debido a las altas temperaturas previstas y a la fuerza del viento",
+      "date": "05 Jul 2026 08:52:01 +0200",
       "source": "La Vanguardia",
       "color": "#8e44ad",
       "feedId": "LaVanguardia",
       "caso": "other"
     },
     {
-      "title": "Jonas Vingegaard: “Soy el maillot amarillo, pero esto es cosa de todo el equipo”",
-      "link": "https://www.lavanguardia.com/deportes/ciclismo/20260704/11584536/jonas-vingegaard-maillot-amarillo-esto-cosa-equipo.html",
-      "desc": "“Todo nos ha salido perfecto: los siete compañeros se han sacrificado por mí”, dice el danés, primer maillot amarillo de la carrera",
-      "date": "04 Jul 2026 20:57:11 +0200",
+      "title": "El viento previsto para hoy condiciona el trabajo de los Bombers en las Gavarres",
+      "link": "https://www.lavanguardia.com/local/girona/20260705/11584842/incendio-les-gavarres-directo-ultima-hora-evolucion-incendio-bisbal-d-emporda.html",
+      "desc": "La situación se mantiene bajo control mientras los equipos refuerzan la vigilancia en áreas con riesgo de reactivación",
+      "date": "05 Jul 2026 07:17:32 +0200",
       "source": "La Vanguardia",
       "color": "#8e44ad",
       "feedId": "LaVanguardia",
       "caso": "other"
     },
     {
-      "title": "Visma encumbra a Vingegaard en Barcelona con una contrarreloj colosal",
-      "link": "https://www.lavanguardia.com/deportes/ciclismo/20260704/11584514/vingegaard-visma-encumbra-pogacar-tour-de-francia-barcelonacontrarreloj.html",
-      "desc": "El UAE acaba tercero pese al esfuerzo final de Pogacar, y Lidl, con Juan Ayuso, es cuarto&nbsp;",
-      "date": "04 Jul 2026 19:36:01 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "Fraternidad en el vientre de las llamas",
-      "link": "https://www.lavanguardia.com/local/barcelona/20260704/11584513/fraternidad-vientre-llamas.html",
-      "desc": "",
-      "date": "04 Jul 2026 19:31:59 +0200",
+      "title": "El PSOE retrocede mientras el PP y Vox rozan los 200 diputados",
+      "link": "https://www.lavanguardia.com/politica/20260705/11584509/psoe-retrocede-lentamente-populares-vox-rozan-200-escanos.html",
+      "desc": "Los socialistas caen casi cinco puntos y el PP dos, pero los ultras crecen más de seis",
+      "date": "05 Jul 2026 06:00:00 +0200",
       "source": "La Vanguardia",
       "color": "#8e44ad",
       "feedId": "LaVanguardia",
