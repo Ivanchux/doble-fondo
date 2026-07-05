@@ -1,7 +1,17 @@
 {
-  "updated": "2026-07-05T19:09:53Z",
+  "updated": "2026-07-05T20:53:17Z",
   "count": 24,
   "items": [
+    {
+      "title": "El fundador de Inquiba, Juan Carmona, nombrado Hijo Predilecto de Guareña",
+      "link": "https://www.abc.es/espana/extremadura/fundador-inquiba-juan-carmona-nombrado-hijo-predilecto-20260705213431-nt.html",
+      "desc": "Guareña (Badajoz) vivió este viernes una jornada especialmente emotiva con el acto de entrega del título de Hijo Predilecto al empresario Juan Carmona, de reconocido prestigio por fundar y convertir Inquiba, desde una localidad de poco más de 6.500 habitantes,",
+      "date": "Sun, 05 Jul 2026 21:35:19 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
     {
       "title": "Oro y plata para Castilla-La Mancha en los 400 metros del Nacional sub-18",
       "link": "https://www.abc.es/espana/castilla-la-mancha/toledo/deportes/oro-plata-castillala-mancha-400-metros-nacional-20260705205422-nt.html",
@@ -10,6 +20,16 @@
       "source": "ABC",
       "color": "#c0392b",
       "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "“El Tour en Barcelona ha sido lo más importante desde los Juegos”",
+      "link": "https://www.lavanguardia.com/deportes/ciclismo/20260705/11585071/tour-barcelona-sido-mas-importante-juegos.html",
+      "desc": "El alcalde barcelonés muestra su satisfacción por el impacto del Grand Départ",
+      "date": "05 Jul 2026 20:25:52 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
       "caso": "other"
     },
     {
@@ -40,6 +60,16 @@
       "source": "ABC",
       "color": "#c0392b",
       "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "En el coche junto a Nicolas Edet, el ciclista al que conoce todo el pelotón",
+      "link": "https://www.lavanguardia.com/deportes/ciclismo/20260705/11585063/coche-nicolas-edet-ciclista-todos-conocen.html",
+      "desc": "'La Vanguardia' se sumerge en la caravana para disfrutar de la segunda etapa, la que une Tarragona y Barcelona",
+      "date": "05 Jul 2026 20:01:56 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
       "caso": "other"
     },
     {
@@ -83,6 +113,16 @@
       "caso": "other"
     },
     {
+      "title": "Del Toro: “Nunca se lo agradeceré bastante a Pogacar”",
+      "link": "https://www.lavanguardia.com/deportes/ciclismo/20260705/11585058/toro-nunca-agradecere-pogacar.html",
+      "desc": "“Pogacar y Del Toro forman una pareja muy fuerte; a ver cómo manejan esta situación en el equipo”, dice Jonas Vingegaard, que sigue de líder",
+      "date": "05 Jul 2026 19:35:28 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
+    {
       "title": "Jornada negra para el tráfico con cuatro miembros de la misma familia fallecidos en un accidente en Palencia",
       "link": "https://www.abc.es/espana/castilla-leon/jornada-negra-trafico-cuatro-muertos-familia-a67-20260705192608-nt.html",
       "desc": "Jornada negra para el tráfico en las carreteras de Castilla y León, con cinco muertos en dos accidentes registrados en Palencia y Valladolid. El siniestro más grave es que el se llevaba por delante la vida de cuatro miembros de una misma familia y dejaba tambi",
@@ -113,7 +153,7 @@
       "caso": "other"
     },
     {
-      "title": "El pastor que salvó la masía gracias a su rebaño de cabras",
+      "title": "El pastor que salvó la masía del fuego de Les Gavarres gracias a su rebaño de cabras",
       "link": "https://www.lavanguardia.com/local/barcelona/20260705/11585053/pastor-salvo-masia-gracias-rebano-cabras.html",
       "desc": "El ganado de Albert Ribas, que mantiene la vegetación de la finca a raya, permitió a los bomberos apagar más fácilmente el fuego en la zona de la masía, en las Gavarres",
       "date": "05 Jul 2026 19:24:20 +0200",
@@ -197,46 +237,6 @@
       "link": "https://www.abc.es/espana/galicia/xunta-encara-recta-final-limpieza-puente-viana-20260705180913-nt.html",
       "desc": "La Xunta avanza en la recta final de los trabajos de retirada del material arrastrado por las lluvias en el puente de la carretera OU-533, en Pradocabalos, Viana do Bolo (Orense). La infraestructura pasó momentos críticos por la presión ejercida por los escomb",
       "date": "Sun, 05 Jul 2026 18:09:13 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "UGT exige implantar ya el delegado territorial de prevención tras tres accidentes mortales",
-      "link": "https://www.abc.es/espana/castilla-la-mancha/toledo/ugt-exige-implantar-delegado-territorial-prevencion-tras-20260705180652-nt.html",
-      "desc": "UGT Castilla-La Mancha ha reclamado la puesta en marcha «cuanto antes» de la figura del delegado territorial de prevención de riesgos laborales tras los tres accidentes laborales mortales registrados en apenas 48 horas en la región, e l último de ellos este sá",
-      "date": "Sun, 05 Jul 2026 18:06:52 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Tres colombianos se enfrentan a penas de hasta 9 años por procesar cocaína en el garaje de una vivienda de Ugena",
-      "link": "https://www.abc.es/espana/castilla-la-mancha/toledo/pueblos/tres-colombianos-enfrentan-penas-anos-procesar-cocaina-20260705180511-nt.html",
-      "desc": "Tres ciudadanos colombianos se sentarán esta semana en el banquillo de la Sección Primera de la Audiencia Provincial de Toledo acusados de instalar un laboratorio de extracción y procesamiento de cocaína en el garaje de una vivienda de Ugena. La Fiscalía solic",
-      "date": "Sun, 05 Jul 2026 18:05:12 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "UAE pasa al ataque: Del Toro gana en la toma 2 de Montjuïc y Pogacar somete a sus rivales",
-      "link": "https://www.lavanguardia.com/deportes/ciclismo/20260705/11585011/del-toro-triunfo-pogacar-barcelona-tour-de-francia-montjuic-grand-depart.html",
-      "desc": "El esloveno juega con sus rivales antes de entrar en la meta de la mano del mexicano",
-      "date": "05 Jul 2026 17:57:34 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "Las obras en Conde de Casal provocarán afecciones nocturnas de movilidad esta semana",
-      "link": "https://www.abc.es/espana/madrid/obras-conde-casal-provocaran-afecciones-nocturnas-movilidad-20260705175733-nt.html",
-      "desc": "Desde la noche del 6 de julio a la madrugada del viernes 10, diversos cortes de tráfico afectarán a la movilidad del entorno en horario nocturno. Sucederá con motivo de las obras que la Comunidad de Madrid realiza para la construcción del nuevo intercambiador ",
-      "date": "Sun, 05 Jul 2026 17:57:33 +0200",
       "source": "ABC",
       "color": "#c0392b",
       "feedId": "ABC",
