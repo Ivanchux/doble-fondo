@@ -1,7 +1,37 @@
 {
-  "updated": "2026-07-05T13:20:53Z",
+  "updated": "2026-07-05T15:09:25Z",
   "count": 24,
   "items": [
+    {
+      "title": "El PSOE acusa a Núñez de usar el «relato del abandono» de las sierras del Segura y de Alcaraz con fines electorales",
+      "link": "https://www.abc.es/espana/castilla-la-mancha/psoe-acusa-nunez-usar-relato-abandono-sierras-20260705165337-nt.html",
+      "desc": "La portavoz del PSOE Provincial de Albacete y vicepresidenta de las Cortes de Castilla-La Mancha, Josefina Navarrete, ha rechazado las declaraciones del presidente del PP regional, Paco Núñez, en las que denunciaba un supuesto «abandono absoluto» de la Sierra ",
+      "date": "Sun, 05 Jul 2026 16:53:38 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Un incendio forestal en Soneja (Castellón) obliga a activar la situación 2 del PEIF y moviliza diez medios aéreos",
+      "link": "https://www.abc.es/espana/comunidad-valenciana/incendio-forestal-soneja-castellon-obliga-activar-situacion-20260705164503-nt.html",
+      "desc": "Un incendio forestal declarado este domingo al mediodía en el término municipal de Soneja (Castellón), ha obligado a movilizar a diez medios aéreos y numerosos efectivos terrestres. Según han informado el Centro de Coordinación de Emergencias de la Generalitat",
+      "date": "Sun, 05 Jul 2026 16:45:28 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Nuevas pintadas homófobas vandalizan el mural de la bandera LGTBI de Talavera",
+      "link": "https://www.abc.es/espana/castilla-la-mancha/toledo/talavera/nuevas-pintadas-homofobas-vandalizan-mural-bandera-lgtbi-20260705151740-nt.html",
+      "desc": "El mural con la bandera LGTBI ubicado en el barrio de San Antonio-Puente Romano de Talavera de la Reina ha vuelto a ser objeto de un acto vandálico. La pintura ha aparecido cubierta con numerosas pintadas de carácter homófobo y mensajes que ensalzan el franqui",
+      "date": "Sun, 05 Jul 2026 15:17:40 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
     {
       "title": "Muere una joven en Algeciras al engancharse una bandera en su moto mientras celebraba la victoria de Marruecos",
       "link": "https://www.abc.es/espana/andalucia/cadiz/muere-accidente-moto-celebraba-victoria-marruecos-algeciras-20260705150021-nts.html",
@@ -167,36 +197,6 @@
       "link": "https://www.abc.es/espana/castilla-leon/manueco-felicita-moreno-nueva-toma-posesion-andalucia-20260705123802-nt.html",
       "desc": "A través de un mensaje en su perfil de la red social X, el presidente de la Junta de Castilla y León, el popular Alfonso Fernández Mañueco, ha mandado su felicitación y «enhorabuena» a su colega y compañero de partido Juan Manuel Moreno tras su nueva toma de p",
       "date": "Sun, 05 Jul 2026 12:38:02 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Un año de cárcel por agredir a una mujer que se besaba con su novia en Málaga",
-      "link": "https://www.abc.es/espana/andalucia/malaga/ano-carcel-agredir-mujer-besas-novia-20260705122943-nts.html",
-      "desc": "La Audiencia de Málaga ha condenado a un hombre por un delito de odio con la agravante de discriminación por homofobia y por un delito leve de lesiones hacia una mujer, a la que agredió, al verla que se besaba con su novia. Así, se le impone un año de prisión.",
-      "date": "Sun, 05 Jul 2026 12:31:07 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Exteriores eleva a 35 los españoles fallecidos por el doble terremoto en Venezuela",
-      "link": "https://www.abc.es/espana/exteriores-eleva-espanoles-fallecidos-doble-terremoto-venezuela-20260705120541-nt.html",
-      "desc": "El último balance oficial de este domingo eleva a 35 los españoles fallecidos por el doble terremoto que sacudió el norte de Venezuela a finales de junio, un muerto más que la última estimación del sábado. Además el total de desaparecidos se mantiene en 140 y ",
-      "date": "Sun, 05 Jul 2026 12:05:41 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "CCOO estudiará personarse en accidentes laborales mortales si detecta fallos de seguridad",
-      "link": "https://www.abc.es/espana/castilla-la-mancha/toledo/ccoo-estudiara-personarse-accidentes-laborales-mortales-detecta-20260705113315-nt.html",
-      "desc": "Comisiones Obreras estudiará personarse en los procedimientos judiciales derivados de accidentes laborales mortales cuando existan indicios de incumplimiento de las medidas de prevención y seguridad por parte de las empresas. La decisión llega después de que C",
-      "date": "Sun, 05 Jul 2026 12:05:29 +0200",
       "source": "ABC",
       "color": "#c0392b",
       "feedId": "ABC",
