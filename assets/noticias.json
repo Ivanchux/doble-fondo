@@ -1,15 +1,165 @@
 {
-  "updated": "2026-07-06T23:03:08Z",
+  "updated": "2026-07-07T02:38:26Z",
   "count": 24,
   "items": [
     {
-      "title": "'Ley de nietos': hasta 13 escaños  quedaron a menos de 3.000 votos de cambiar de manos el 23J",
+      "title": "Koldo, en la 'entrevista' de trabajo de Jessica en Ineco: «Rápido, que tengo que ir a Moncloa a ver a Pedro»",
+      "link": "https://www.abc.es/espana/koldo-entrevista-trabajo-jessica-ineco-rapido-moncloa-20260707024305-nt.html",
+      "desc": "La sentencia del Tribunal Supremo que condenó a José Luis Ábalos y a Koldo García por, entre otros hechos, la contratación fraudulenta de la que fuera pareja del entonces ministro de Transportes estableció que «el día 26 de febrero de 2019, se convocó a Jessic",
+      "date": "Tue, 07 Jul 2026 02:43:05 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "gen"
+    },
+    {
+      "title": "El PSOE en Argentina: «Acá estamos para acompañarte y ayudarte a ejercer tu voto»",
+      "link": "https://www.abc.es/espana/psoe-ofrece-argentina-citas-gratis-nacionalizarse-20260706020456-nt.html",
+      "desc": "El PSOE de Argentina desplegó una estrategia para relacionarse con potenciales nuevos electores españoles tras la aprobación de la Ley de Memoria Democrática, o 'ley de nietos' , y la instrucción posterior que amplió por la puerta de atrás su alcance a todos l",
+      "date": "Tue, 07 Jul 2026 02:04:56 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Robles sopesa tomar medidas contra el DAO si el juez adopta medidas cautelares",
+      "link": "https://www.abc.es/espana/robles-quiere-tomar-medidas-dao-juez-adopta-20260707020430-nt.html",
+      "desc": "La citación como investigado del director adjunto operativo (DAO) de la Guardia Civil, el teniente general Manuel Llamas, ha situado el foco sobre el artículo 92 de la Ley de Régimen del Personal de la Guardia Civil , el precepto que regula la situación admini",
+      "date": "Tue, 07 Jul 2026 02:04:30 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "La protección de Sánchez a Mercedes González enfrenta a Moncloa con Interior y Defensa",
+      "link": "https://www.abc.es/espana/proteccion-sanchez-mercedes-gonzalez-enfrenta-moncloa-interior-20260707020409-nt.html",
+      "desc": "La situación procesal de la cúpula de la Guardia Civil , con sus dos máximos responsables investigados por la Audiencia Nacional por su supuesta colaboración con las cloacas del Partido Socialista, afecta de lleno a dos de los principales ministerios, los del ",
+      "date": "Tue, 07 Jul 2026 02:04:09 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "gen"
+    },
+    {
+      "title": "El primer confidente del caso Koldo dispuesto a tirar de la manta sobre la financiación del PSOE y  Plus Ultra",
+      "link": "https://www.abc.es/espana/primer-confidente-koldo-dispuesto-tirar-manta-presunta-20260707015133-nt.html",
+      "desc": "El primer confidente del caso Koldo piensa seguir el camino de Víctor de Aldama y ofrecer a la Fiscalía Anticorrupción su testimonio como testigo directo de la presunta financiación irregular del PSOE y las supuestas comisiones sobre el rescate de Plus Ultra. ",
+      "date": "Tue, 07 Jul 2026 01:51:33 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "zap"
+    },
+    {
+      "title": "Jordi Aragonès: «No tenemos que enfrentarnos catalanes y castellanos, el enemigo común es el califato»",
+      "link": "https://www.abc.es/espana/cataluna/jordi-aragones-enfrentarnos-catalanes-castellanos-enemigo-comun-20260704015006-nt.html",
+      "desc": "Jordi Aragonès (Pineda de Mar, Barcelona, 1993) es el candidato de Aliança Catalana al Ayuntamiento de Barcelona. Este joven profesor —de la escuela concertada— es, también, el ideólogo de la formación que lidera Sílvia Orriols, encuadrada en el secesionismo r",
+      "date": "Tue, 07 Jul 2026 01:50:06 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "De pandilleros a narcos: el laboratorio de éxtasis y ketamina de los DDP veteranos",
+      "link": "https://www.abc.es/espana/madrid/pandilleros-narcos-laboratorio-extasis-ketamina-ddp-veteranos-20260706014942-nt.html",
+      "desc": "Los pandilleros de hoy, como los de ayer, tienen solo cuatro opciones: salir de la banda y reconducir sus vidas, acabar asesinados o dedicarse en la edad adulta al verdadero crimen organizado. Esa última opción es la que tomaron un grupo de veteranos Dominican",
+      "date": "Tue, 07 Jul 2026 01:49:42 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Metro abre una nueva tienda en la Terminal 4 con una colección de F1",
+      "link": "https://www.abc.es/espana/madrid/nuevos-productos-fans-formula-tiendas-metro-20260706010314-nt.html",
+      "desc": "Una nueva línea de sudaderas, gorras y camisetas inspiradas en la Fórmula 1 se sumarán a la gran variedad de artículos que ya se podían adquirir en las tiendas de Metro Madrid . Este original diseño surge como homenaje al regreso de la competición automovilíst",
+      "date": "Tue, 07 Jul 2026 01:03:14 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Feijóo incluye la ley del 'concebido no nacido' de Ayuso en su alternativa a Sánchez",
+      "link": "https://www.abc.es/espana/feijoo-asume-ley-ayuso-sobre-concebido-nacido-20260707010038-nt.html",
+      "desc": "Una semana después de que la Comunidad de Madrid aprobara su esperada ley del 'concebido no nacido' —una norma que cuenta a los bebés en proceso de gestación como parte de la unidad familiar aunque todavía no hayan sido alumbrados y permitiendo a sus familias ",
+      "date": "Tue, 07 Jul 2026 01:00:38 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Luis de la Fuente: “Merino no falla nunca, es de los mejores del mundo en su posición”",
+      "link": "https://www.lavanguardia.com/deportes/20260707/11586037/de-la-fuente-reacciones-espana-portugal-mundial-2026-rodri-robert-martinez.html",
+      "desc": "De la Fuente elogia a su equipo tras la “agonía” sufrida ante Portugal y ensalza especialmente el papel de los jugadores suplentes, entre ellos el goleador",
+      "date": "07 Jul 2026 00:13:27 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
+    {
+      "title": "Lamine aparca a Cristiano",
+      "link": "https://www.lavanguardia.com/deportes/futbol/20260707/11586039/lamine-aparca-cristiano.html",
+      "desc": "",
+      "date": "07 Jul 2026 00:13:17 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
+    {
+      "title": "Chupinazo de Mikel Merino",
+      "link": "https://www.lavanguardia.com/deportes/futbol/20260707/11586036/chupinazo-mikel-merino.html",
+      "desc": "Como en los cuartos de final de la Eurocopa ante Alemania, el centrocampista pamplonica se convierte en el jugador clave que impulsa a España",
+      "date": "07 Jul 2026 00:10:42 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
+    {
+      "title": "Trump ridiculiza a la FIFA",
+      "link": "https://www.lavanguardia.com/opinion/20260707/11586022/trump-ridiculiza-fifa.html",
+      "desc": "El drama es que la FIFA no le diga a Trump que el fútbol tiene normas que deberían ser iguales",
+      "date": "07 Jul 2026 00:05:00 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
+    {
+      "title": "Los incendios no dan tregua y ponen en jaque amplias zonas de Catalunya",
+      "link": "https://www.lavanguardia.com/local/catalunya/20260707/11586009/incendios-dan-tregua-ponen-jaque-amplias-zonas-catalunya.html",
+      "desc": "El fuego prende en las últimas horas en varias comarcas sin que el siniestro de les Gavarres esté aún controlado",
+      "date": "07 Jul 2026 00:05:00 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
+    {
+      "title": "'Ley de nietos': hasta 13 escaños quedaron a menos de 3.000 votos de cambiar de manos el 23J",
       "link": "https://www.abc.es/espana/provincias-susceptibles-cambiar-voto-ley-nietos-20260706231325-nt.html",
       "desc": "No es necesario que los consulados culminen la nacionalización masiva de descendientes de españoles al amparo de la Ley de Memoria Democrática y de la instrucción de Justicia para que la ampliación del censo pueda tener impacto electoral. El análisis de los re",
       "date": "Mon, 06 Jul 2026 23:13:25 +0200",
       "source": "ABC",
       "color": "#c0392b",
       "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Un heroico Merino acaba con la resistencia de Portugal y mete a España en cuartos del Mundial",
+      "link": "https://www.lavanguardia.com/deportes/futbol/20260706/11586023/heroico-merino-acaba-resistencia-portugal-mete-espana-cuartos-mundial.html",
+      "desc": "El jugador del Arsenal anotó el único gol del partido en el añadido tras una gran asistencia de Ferran Torres",
+      "date": "06 Jul 2026 23:03:41 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
       "caso": "other"
     },
     {
@@ -30,6 +180,16 @@
       "source": "ABC",
       "color": "#c0392b",
       "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "“Dios quiera que podamos vengarlo”",
+      "link": "https://www.lavanguardia.com/internacional/20260706/11586008/dios-quiera-podamos-vengarlo.html",
+      "desc": "Marea humana en Teherán para dar el último adiós al líder supremo asesinado por EE.UU. e Israel el pasado 28 de febrero",
+      "date": "06 Jul 2026 20:51:19 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
       "caso": "other"
     },
     {
@@ -80,166 +240,6 @@
       "source": "ABC",
       "color": "#c0392b",
       "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Extinguido el incendio forestal de Malpica del Tajo tras un día de lucha contra las llamas",
-      "link": "https://www.abc.es/espana/castilla-la-mancha/toledo/pueblos/incendio-forestal-malpica-tajo-queda-extinguido-tras-20260706200220-nt.html",
-      "desc": "El incendio forestal declarado el pasado domingo en el término municipal de Malpica del Tajo (Toledo) ha quedado extinguido este lunes, poco después de las tres y media de la tarde, tras algo más de un día de trabajo ininterrumpido de los efectivos del Infocam",
-      "date": "Mon, 06 Jul 2026 20:02:21 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Melque expone la mirada crítica de Jaime López Molina sobre la sociedad actual",
-      "link": "https://www.abc.es/espana/castilla-la-mancha/toledo/melque-expone-mirada-critica-jaime-lopez-molina-20260706200152-nt.html",
-      "desc": "El Sitio Histórico de Santa María de Melque vuelve a convertirse en escenario para el arte contemporáneo con la exposición 'El espíritu de nuestro tiempo', del artista y diseñador gráfico Jaime López Molina. La muestra, organizada por la Diputación de Toledo, ",
-      "date": "Mon, 06 Jul 2026 20:01:52 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "El peor 'engaño' del verano a un sevillano en El Portil: «No se puede jugar así con los sentimientos»",
-      "link": "https://www.abc.es/espana/andalucia/huelva/peor-engano-verano-sevillano-portil-puede-jugar-20260706195148-nts.html",
-      "desc": "Hay historias de comunes mortales que superan la ficción, incluso ambientadas en lugares tan normales como puede ser una calle de El Portil. Esta es la historia de Dani Casellas, un padre de familia « indignado » tras 'sufrir' un hecho «denunciable» que se enc",
-      "date": "Mon, 06 Jul 2026 19:51:48 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "La enfermedad de Newcastle ha obligado ya a sacrificar más de un millón de gallinas y pollos en Valladolid",
-      "link": "https://www.abc.es/espana/castilla-leon/enfermedad-newcastle-obligado-sacrificar-millon-gallinas-pollos-20260706192315-nt.html",
-      "desc": "El goteo de positivos no cesa y la confirmación de otros dos nuevos focos de la enfermedad de Newcastle en sendas granjas también de la provincia de Valladolid eleva a 13 los brotes del virus y el obligado sacrificio ya de más de un millón de aves de corral. L",
-      "date": "Mon, 06 Jul 2026 19:40:22 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "El  enfoque que Vox dará al turismo andaluz, más proteccionismo y menos promoción: «Andalucía se vende sola»",
-      "link": "https://www.abc.es/espana/andalucia/vox-marca-hoja-ruta-consejerias-turismo-justicia-20260706192642-nts.html",
-      "desc": "El nuevo Gobierno de coalición de la Junta de Andalucía abre nuevos escenarios en esta recién estrenada legislatura. Partido Popular y Vox rubricaron por escrito el pacto programático que define las líneas principales de los próximos cuatro años de gestión. So",
-      "date": "Mon, 06 Jul 2026 19:26:42 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Aragón rechaza el reparto del déficit del 0,1% del Ministerio de España",
-      "link": "https://www.abc.es/espana/aragon/aragon-rechaza-reparto-deficit-ministerio-espana-20260706192204-nt.html",
-      "desc": "El Ministerio de Hacienda ha ofrecido a las comunidades autónomas en el Consejo de Política Fiscal y Financiera un margen de déficit público del 0,1% del PIB anual en cada uno de los ejercicios de 2027, 2028 y 2029. De esta forma, las regiones podrán tener un ",
-      "date": "Mon, 06 Jul 2026 19:22:04 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Castilla-La Mancha respalda un déficit asimétrico mientras no haya un modelo de financiación justo",
-      "link": "https://www.abc.es/espana/castilla-la-mancha/castillala-mancha-respalda-deficit-asimetrico-modelo-financiacion-20260706192036-nt.html",
-      "desc": "Castilla-La Mancha ha respaldado este lunes en el Consejo de Política Fiscal y Financiera (CPFF) la propuesta del Gobierno para fijar un objetivo de déficit del 0,1% para las comunidades autónomas entre 2027 y 2029, aunque se ha mostrado partidaria de que, mie",
-      "date": "Mon, 06 Jul 2026 19:20:37 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Los niños de 2 a 3 años tendrán plaza gratuita el próximo curso en las escuelas de Talavera",
-      "link": "https://www.abc.es/espana/castilla-la-mancha/toledo/talavera/ninos-anos-plaza-gratuita-proximo-curso-escuelas-20260706191148-nt.html",
-      "desc": "La educación infantil de 0 a 3 años en Talavera de la Reina va a recibir un impulso por parte del Gobierno de Castilla-La Mancha en el próximo curso 2026-2027 que va a suponer un incremento del número de plazas en las escuelas infantiles públicas con la apertu",
-      "date": "Mon, 06 Jul 2026 19:15:53 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Cataluña pide ayuda a la UME por tres incendios simultáneos que han obligado a confinar a 33.000 personas",
-      "link": "https://www.abc.es/espana/cataluna/incendio-sentmenat-obliga-confinar-siete-urbanizaciones-zona-20260706190923-nt.html",
-      "desc": "La consejera de Interior de la Generalitat de Cataluña, Núria Parlon, ha explicado que se ha pedido la ayuda de la Unidad Militar de Emergencias (UME) para hacer frente a los tres incendios simultáneos que se han declarado este lunes: en Sentmenat (Barcelona),",
-      "date": "Mon, 06 Jul 2026 19:09:23 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Granada recupera el Carmen del Negro, hogar del renacentista Juan Latino",
-      "link": "https://www.abc.es/espana/andalucia/granada/granada-recupera-carmen-negros-hogar-renacentista-juan-20260706124103-nts.html",
-      "desc": "En una fecha que todavía no ha sido concretada, pero antes de que finalice este año 2026, quedará rehabilitado el Carmen del Negro, una joya arquitectónica del bajo Albaicín de Granada que ha permanecido durante décadas en un estado de conservación lamentable.",
-      "date": "Mon, 06 Jul 2026 19:08:07 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "La Guardia Civil manda un recordatorio para estas vacaciones: «En España puedes viajar con 10.000 euros en efectivo sin declarar»",
-      "link": "https://www.abc.es/espana/andalucia/guardia-civil-manda-recordatorio-vacaciones-espana-puedes-20260706190757-nts.html",
-      "desc": "Durante las vacaciones de verano n o todo es desconexión, paz y tranquilidad , antes de llegar al destino, hay que prepararlo todo con detalle y estar lo más informados posibles porque una mala gestión puede arruinar esos días tan ansiados de descanso . A la h",
-      "date": "Mon, 06 Jul 2026 19:07:58 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Serrería Belga se unirá en 2027 a la milla de oro de los museos con la colección privada de Pérez Simón",
-      "link": "https://www.abc.es/espana/madrid/serreria-belga-unira-2027-milla-oro-museos-20260706185615-nt.html",
-      "desc": "Pese a su valor arquitectónico y su privilegiada ubicación, Serrería Belga nunca ha logrado hacerse un hueco entre los grandes museos de Madrid. Se encuentra a apenas cuatro minutos a pie del Reina Sofía, a dos más del Prado y a 850 metros del Thyssen. Es, ade",
-      "date": "Mon, 06 Jul 2026 18:56:15 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "“El Tour en Barcelona ha sido lo más importante desde los Juegos”",
-      "link": "https://www.lavanguardia.com/deportes/ciclismo/20260705/11585071/tour-barcelona-sido-mas-importante-juegos.html",
-      "desc": "El alcalde barcelonés muestra su satisfacción por el impacto del Grand Départ",
-      "date": "05 Jul 2026 20:25:52 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "Las Gavarres tiene más de 2.700 titulares privados y eso dificulta la gestión",
-      "link": "https://www.lavanguardia.com/local/girona/20260705/11585064/gavarres-mas-2-700-titulares-privados-dificulta-gestion.html",
-      "desc": "Solo el 2% de la superficie de este gran macizo boscoso entre el Baix Empordà y el Gironès es pública",
-      "date": "05 Jul 2026 20:07:31 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "En el coche junto a Nicolas Edet, el ciclista al que conoce todo el pelotón",
-      "link": "https://www.lavanguardia.com/deportes/ciclismo/20260705/11585063/coche-nicolas-edet-ciclista-todos-conocen.html",
-      "desc": "'La Vanguardia' se sumerge en la caravana para disfrutar de la segunda etapa, la que une Tarragona y Barcelona",
-      "date": "05 Jul 2026 20:01:56 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "Del Toro: “Nunca se lo agradeceré bastante a Pogacar”",
-      "link": "https://www.lavanguardia.com/deportes/ciclismo/20260705/11585058/toro-nunca-agradecere-pogacar.html",
-      "desc": "“Pogacar y Del Toro forman una pareja muy fuerte; a ver cómo manejan esta situación en el equipo”, dice Jonas Vingegaard, que sigue de líder",
-      "date": "05 Jul 2026 19:35:28 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
       "caso": "other"
     }
   ]
