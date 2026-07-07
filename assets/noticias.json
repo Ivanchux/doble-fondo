@@ -1,7 +1,17 @@
 {
-  "updated": "2026-07-07T21:19:11Z",
+  "updated": "2026-07-07T22:56:05Z",
   "count": 24,
   "items": [
+    {
+      "title": "Tres 'fervenzas' en Galicia ideales para visitar en verano: cascadas espectaculares para ver a pocos metros del coche",
+      "link": "https://www.abc.es/espana/galicia/tres-fervenzas-galicia-ideales-visitar-verano-cascadas-20260707235900-nt.html",
+      "desc": "El turismo de naturaleza consolida su liderazgo en la comunidad autónoma durante la temporada estival. Sin embargo, el acceso a algunos de los entornos fluviales más espectaculares de la región requiere a menudo completar largas caminatas o salvar desniveles c",
+      "date": "Tue, 07 Jul 2026 23:59:00 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
     {
       "title": "Este aclamado musical llega a Galicia: fechas, horarios y cómo conseguir las entradas",
       "link": "https://www.abc.es/espana/galicia/aclamado-musical-llega-galicia-fechas-horarios-conseguir-20260707230000-nt.html",
@@ -23,7 +33,17 @@
       "caso": "other"
     },
     {
-      "title": "Tres helicópteros militares españoles sufren daños por un tifón en Nueva York",
+      "title": "Leandro Paredes resume el sentir de Argentina: “Que no llegue nunca el último partido de Leo”",
+      "link": "https://www.lavanguardia.com/deportes/20260707/11586893/paredes-argentina-mundial-egipto-reacciones-llegue-nunca-ultimo-partido-leo-messi.html",
+      "desc": "Los jugadores de Egipto claman contra el arbitraje del francés Letexier: “Ha sido una injusticia clara y evidente durante todo el partido; es un torneo arreglado”",
+      "date": "07 Jul 2026 22:17:25 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
+    {
+      "title": "Tres helicópteros militares españoles sufren daños por reventón de aire en Nueva York",
       "link": "https://www.abc.es/espana/tres-helicopteros-militares-espanoles-sufren-danos-tifon-20260707221208-nt.html",
       "desc": "Tres helicópteros del Ejército de Tierra sufrieron importantes daños materiales el pasado 14 de junio cuando un fenómeno meteorológico inesperado los sorprendió durante su estancia en Nueva York, donde formaban parte del despliegue español en un ejercicio mult",
       "date": "Tue, 07 Jul 2026 22:12:09 +0200",
@@ -40,6 +60,16 @@
       "source": "ABC",
       "color": "#c0392b",
       "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Los bomberos se enfrentan en Catalunya a siete incendios de consideración a la vez",
+      "link": "https://www.lavanguardia.com/local/catalunya/20260707/11586880/bomberos-enfrentan-catalunya-siete-incendios-consideracion-vez.html",
+      "desc": "El fuego del Vallès sigue activo mientras que ha podido frenarse el avance del de l’Anoia",
+      "date": "07 Jul 2026 22:00:24 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
       "caso": "other"
     },
     {
@@ -113,6 +143,26 @@
       "caso": "other"
     },
     {
+      "title": "Messi, el pie de D10S",
+      "link": "https://www.lavanguardia.com/deportes/futbol/20260707/11586876/messi-pie-d10s.html",
+      "desc": "",
+      "date": "07 Jul 2026 20:46:11 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
+    {
+      "title": "Argentina obra lo imposible en una remontada épica contra Egipto",
+      "link": "https://www.lavanguardia.com/deportes/futbol/20260707/11586874/argentina-obra-imposible-remontada-epica-egipto.html",
+      "desc": "Messi lidera la rebeldía de los muchachos que levantan un 0-2 en 14 minutos de absoluta locura",
+      "date": "07 Jul 2026 20:31:08 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
+    {
       "title": "García-Page anuncia la reforma del centro de salud Cuenca II, que ganará consultas y nuevos servicios",
       "link": "https://www.abc.es/espana/castilla-la-mancha/garciapage-anuncia-reforma-centro-salud-cuenca-ganara-20260707201317-nt.html",
       "desc": "El Gobierno de Castilla-La Mancha ha adjudicado las obras de ampliación y reforma del Centro de Salud Cuenca II, ubicado en la calle Radio Nacional de España, una actuación que permitirá modernizar las instalaciones, ampliar la cartera de servicios y mejorar l",
@@ -183,60 +233,10 @@
       "caso": "other"
     },
     {
-      "title": "El C.D. Palencia Fútbol Femenin y la micropoetisa AJO, pregoneras de las fiestas palentinas de San Antolín 2026",
-      "link": "https://www.abc.es/espana/castilla-leon/palencia-futbol-femenin-micropoetisa-ajo-pregoneras-fiestas-20260707191129-nt.html",
-      "desc": "La poeta María José Martín de la Hoz- AJO y las jugadoras del C.D. Palencia Fútbol Femenino serán las encargadas de pronunciar los pregones literario y popular de las Fiestas de San Antolín 2026 de Palencia los días 27 y 28 de agosto. Se trata del único club d",
-      "date": "Tue, 07 Jul 2026 19:12:29 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Dónde ver en pantalla gigante el España-Bélgica en Santiago",
-      "link": "https://www.abc.es/espana/galicia/ver-pantalla-gigante-espanabelgica-santiago-20260707190001-nt.html",
-      "desc": "La fiebre mundialista ruge con fuerza en la capital gallega tras la vibrante victoria de la selección española frente a Portugal. El combinado nacional ya se encuentra entre los ocho mejores equipos del torneo y la expectación de los aficionados locales crece ",
-      "date": "Tue, 07 Jul 2026 19:00:01 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "La OTAN anuncia contratos millonarios en defensa para apaciguar a Trump",
-      "link": "https://www.lavanguardia.com/internacional/20260707/11586574/otan-anuncia-contratos-multimillonarios-defensa-apaciguar-trump.html",
-      "desc": "La Alianza Atlántica muestra músculo en Ankara con una lluvia de compras de armamento, entre ellos 40.000 millones en sistemas antidrones",
-      "date": "07 Jul 2026 13:29:37 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "Dos detenidos en Pamplona durante San Fermín como presuntos autores de dos agresiones por tocamientos",
-      "link": "https://www.lavanguardia.com/vida/20260707/11586567/dos-detenidos-pamplona-san-fermin-presuntos-autores-dos-agresiones-tocamientos.html",
-      "desc": "El Ayuntamiento ha habilitado un punto de información de la Plaza del Castillo para atender este tipo de casos",
-      "date": "07 Jul 2026 13:15:40 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "El Gobierno aprueba un nuevo techo de gasto récord, de 226.000 millones, un 6,6% más",
-      "link": "https://www.lavanguardia.com/economia/20260707/11586290/gobierno-aprueba-nuevo-techo-gasto-record-226-000-millones-6-6-mas.html",
-      "desc": "El Consejo de Ministros ha aprobado también la senda fiscal, con la que España cerrará el 2026 con un déficit público del 1,8%",
-      "date": "07 Jul 2026 12:59:45 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "Duro mazazo para Bélgica: contra España sin Onana",
-      "link": "https://www.lavanguardia.com/deportes/futbol/20260707/11586499/duro-mazazo-belgica-espana-onana.html",
-      "desc": "El centrocampista del Aston Villa sufre una rotura del ligamento cruzado anterior, según 'The Athletic' y dice adiós al Mundial&nbsp;",
-      "date": "07 Jul 2026 12:28:22 +0200",
+      "title": "Feijóo cuestiona que un trabajador cobre lo mismo si trabaja o si está de baja",
+      "link": "https://www.lavanguardia.com/politica/20260707/11586859/feijoo-cuestiona-trabajador-cobre-trabaja-esta-baja.html",
+      "desc": "Pedro Sánchez replica al líder del PP que los trabajadores merecen protección cuando la salud les falla",
+      "date": "07 Jul 2026 19:35:33 +0200",
       "source": "La Vanguardia",
       "color": "#8e44ad",
       "feedId": "LaVanguardia",
