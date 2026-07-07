@@ -1,7 +1,107 @@
 {
-  "updated": "2026-07-07T17:55:14Z",
+  "updated": "2026-07-07T19:48:00Z",
   "count": 24,
   "items": [
+    {
+      "title": "Madrid se solidariza con la diáspora venezolana en la Puerta del Sol",
+      "link": "https://www.abc.es/espana/madrid/madrid-solidariza-diaspora-venezolana-puerta-sol-20260707211841-nt.html",
+      "desc": "Venezuela vive un duelo, el de haber perdido a más de 3.500 personas por un doble terremoto y, también el de curar las heridas físicas de otras 11.000. Porque luego están las heridas del alma, y esas a ver quién las alivia. Madrid ha decidido intentarlo o, al ",
+      "date": "Tue, 07 Jul 2026 21:18:41 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "El Gobierno colocará tres barreras flotantes en el río Guadalquivir para luchar contra las narcolanchas",
+      "link": "https://www.abc.es/espana/andalucia/gobierno-colocara-tres-barreras-flotantes-rio-guadalquivir-20260707210329-nts.html",
+      "desc": "El Gobierno ha reaccionado y responderá a una de las peticiones de las Fuerzas y Cuerpos de Seguridad del Estado para luchar contra el narcotráfico. El Ejecutivo instalará tres barreras flotantes en el río Guadalquivir para controlar y evitar la entrada de emb",
+      "date": "Tue, 07 Jul 2026 21:03:30 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Dónde ver en pantalla gigante el España-Bélgica del Mundial en La Coruña",
+      "link": "https://www.abc.es/espana/galicia/ver-pantalla-gigante-espanabelgica-mundial-coruna-20260707210005-nt.html",
+      "desc": "La fiebre por el Mundial de fútbol 2026 sacudirá con fuerza el centro de la ciudad herculina este fin de semana. Tras la agónica victoria de la selección española frente a Portugal , el combinado nacional ya prepara su próximo compromiso de cuartos de final. P",
+      "date": "Tue, 07 Jul 2026 21:00:05 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Rosalía, Cabanillas, Lorca y ahora Castelao: la lista que no para de crecer de un traductor japonés",
+      "link": "https://www.abc.es/espana/galicia/rosalia-cabanillas-lorca-castelao-lista-crecer-traductor-20260707210000-nt.html",
+      "desc": "Que un profesor japonés traduzca a Rosalía de Castro ya sería noticia. Que lleve cuatro décadas haciéndolo, con una lista de autores que no deja de crecer año tras año, empieza a rozar la leyenda local. Eso es lo que ha vuelto a ocurrir este martes en el Pazo ",
+      "date": "Tue, 07 Jul 2026 21:00:00 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "García-Page anuncia la reforma del centro de salud Cuenca II, que ganará consultas y nuevos servicios",
+      "link": "https://www.abc.es/espana/castilla-la-mancha/garciapage-anuncia-reforma-centro-salud-cuenca-ganara-20260707201317-nt.html",
+      "desc": "El Gobierno de Castilla-La Mancha ha adjudicado las obras de ampliación y reforma del Centro de Salud Cuenca II, ubicado en la calle Radio Nacional de España, una actuación que permitirá modernizar las instalaciones, ampliar la cartera de servicios y mejorar l",
+      "date": "Tue, 07 Jul 2026 20:13:18 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "La Comunidad de Madrid destinará un millón de euros a Venezuela para ayuda humanitaria",
+      "link": "https://www.abc.es/espana/madrid/edmundo-gonzalez-20260707182753-nt.html",
+      "desc": "La presidenta de la Comunidad de Madrid, Isabel Díaz Ayuso, ha anunciado este martes que el Gobierno regional destinará un millón de euros para ayuda humanitaria en Venezuela tras el doble terremoto del pasado 24 de junio. Ayuso ha recibido esta tarde en la Re",
+      "date": "Tue, 07 Jul 2026 20:12:30 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Castilla y León reclama al Gobierno más fondos ante el sobrecoste de la enfermedad de Newcastle",
+      "link": "https://www.abc.es/espana/castilla-leon/castilla-leon-reclama-gobierno-fondos-ante-sobrecoste-20260707201014-nt.html",
+      "desc": "El consejero de Agricultura, Ganadería, Medio Rural y Política Ambiental de la Junta, Joaquín Antonio Pino, ha reclamado al Ministerio un incremento de la financiación destinada a los Programas Estatales de Erradicación de Enfermedades Animales, al tiempo que ",
+      "date": "Tue, 07 Jul 2026 20:10:15 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Sánchez llega debilitado a la cumbre de la OTAN",
+      "link": "https://www.abc.es/espana/sanchez-llega-debilitado-cumbre-otan-20260707200941-nt.html",
+      "desc": "El presidente del Gobierno, Pedro Sánchez llega en una situación muy incómoda a la cumbre anual de la OTAN. A diferencia de lo que sucedió el año pasado en la de La Haya, la posición del líder del Ejecutivo español se ha convertido en un viejo argumento para l",
+      "date": "Tue, 07 Jul 2026 20:09:42 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Magos de Hollywood y Got Talent actúan mañana en Santiago por 5 euros",
+      "link": "https://www.abc.es/espana/galicia/manana-cita-euros-santiago-magos-conquistaron-hollywood-20260707200000-nt.html",
+      "desc": "Este miércoles, por primera vez, cuatro de sus nombres propios comparten cartel en un mismo espectáculo. La cita es mañana, 8 de julio, a las 20:00 horas, en el Auditorio del Edificio Fontán (Cidade da Cultura de Galicia, Santiago de Compostela), y las entrada",
+      "date": "Tue, 07 Jul 2026 20:00:00 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "El Gobierno concede otros 6.200 millones a Defensa sin especificar el destino: «Necesidades de financiación»",
+      "link": "https://www.abc.es/espana/gobierno-concede-6200-millones-defensa-especificar-destino-20260707195810-nt.html",
+      "desc": "Sin Presupuestos Generales del Estado y con el compromiso de consolidar el 2% del PIB en gasto militar , el Gobierno continúa aprobando partidas en el Consejo de Ministros que permitan al Ministerio de Defensa cumplir con sus objetivos y con el pago de las nue",
+      "date": "Tue, 07 Jul 2026 19:58:10 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
     {
       "title": "Defensa desautoriza una parada militar en Ciudad Rodrigo y su alcalde recuerda a la ministra su «lealtad institucional»",
       "link": "https://www.abc.es/espana/castilla-leon/defensa-desautoriza-parada-militar-ciudad-rodrigo-alcalde-20260707193856-nt.html",
@@ -97,106 +197,6 @@
       "link": "https://www.abc.es/espana/comunidad-valenciana/alicante/localizan-ladron-camaras-comercios-tras-varios-robos-20260707183718-nt.html",
       "desc": "La coordinación entre la Policía Local de Orihuela y la Policía Nacional permitió esclarecer en pocas horas un robo con violencia cometido de madrugada en un restaurante. Con la descripción física facilitada por los trabajadores y las imágenes de cámaras de se",
       "date": "Tue, 07 Jul 2026 18:37:19 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Andalucía licita la gestión del servicio 112 por  63 millones con un estricto control de cada segundo de respuesta",
-      "link": "https://www.abc.es/espana/andalucia/andalucia-licita-gestion-servicio-112-millones-estricto-20260707183432-nts.html",
-      "desc": "Se busca gestor para el número que salva vidas en Andalucía. La Junta ha abierto la carrera por uno de los contratos más importantes para la seguridad civil de la comunidad autónoma: la gestión integral de las salas operativas del 112 Andalucía, una licitación",
-      "date": "Tue, 07 Jul 2026 18:34:32 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "El campamento de caravanas insalubre que se resiste a ser desalojado en Málaga",
-      "link": "https://www.abc.es/espana/andalucia/malaga/campamento-caravanas-insalubre-resiste-desalojado-malaga-20260707130044-nts.html",
-      "desc": "La situación que se vive en la parcela ubicada en el Camino de la Térmica , utilizada como campamento de caravanas, ha obligado a las autoridades a tomar cartas en el asunto. El Ayuntamiento de Málaga, a través del distrito Carretera de Cádiz y en coordinación",
-      "date": "Tue, 07 Jul 2026 18:29:51 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Polémica por una conferencia del Ministerio de Transición Ecológica sobre la «petromasculinidad», que vincula el coche con el franquismo",
-      "link": "https://www.abc.es/espana/polemica-conferencia-ministerio-transicion-ecologica-sobre-petromasculinidad-20260707182713-nt.html",
-      "desc": "El Ministerio de Transición Ecológica y Reto Demográfico liderado por Sara Aaegesen, se encuentra en el punto de mira de la opinión pública por una nueva polémica relacionada con las políticas medioambientales . Esto ocurre tras las sorprendentes declaraciones",
-      "date": "Tue, 07 Jul 2026 18:27:14 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "El Constitucional devuelve la vigencia de la Ley de Memoria de Baleares",
-      "link": "https://www.abc.es/espana/baleares/constitucional-devuelve-vigencia-ley-memoria-baleares-20260707182443-nt.html",
-      "desc": "El Tribunal Constitucional (TC) ha acordado suspender cautelarmente la derogación de la Ley de Memoria y Reconocimiento Democráticos de Baleares , impulsada por el PP y Vox y aprobada por el Parlament el pasado mes de marzo. La decisión llega tras admitir a tr",
-      "date": "Tue, 07 Jul 2026 18:24:43 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Aviso naranja de las 13.00 a las 21.00 horas por temperaturas máximas este miércoles",
-      "link": "https://www.abc.es/espana/aragon/aviso-naranja-1300-2100-horas-temperaturas-maximas-20260707181934-nt.html",
-      "desc": "La Dirección General de Interior y Emergencias del Gobierno de Aragón se hace eco del aviso de la Agencia Estatal de Meteorología (Aemet) para Aragón. En realidad, son varios, debido a los fenómenos meteorológicos adversos que afectarán a la comunidad durante ",
-      "date": "Tue, 07 Jul 2026 18:19:35 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Un hombre irrumpe en la Catedral de Valencia, se lleva una cruz y causa daños en la Basílica",
-      "link": "https://www.abc.es/espana/comunidad-valenciana/hombre-irrumpe-catedral-valencia-lleva-cruz-causa-20260707181813-nt.html",
-      "desc": "Un hombre ha irrumpido este martes por la mañana en la Catedral de Valencia, ha cogido una cruz situada en el altar mayor y ha cargado con la misma hasta la Basílica de la Virgen de los Desamparados, a pocos metros, donde también ha provocado desperfectos. Fue",
-      "date": "Tue, 07 Jul 2026 18:18:14 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Vuelve la alerta naranja por calor en Galicia: la Xunta activa el aviso solo en esta zona",
-      "link": "https://www.abc.es/espana/galicia/vuelve-alerta-naranja-calor-galicia-xunta-activa-20260707181459-nt.html",
-      "desc": "Las previsiones meteorológicas obligan a extremar las precauciones ante el repunte térmico de los próximos días . La Xunta de Galicia activa oficialmente para este miércoles una alerta naranja por altas temperaturas que afectará de forma específica a una comar",
-      "date": "Tue, 07 Jul 2026 18:14:59 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Sanidad forma a un centenar de agentes de Salud Pública para la vigilancia del mosquito tigre",
-      "link": "https://www.abc.es/espana/sanidad-forma-110-agentes-salud-publica-vigilancia-20260707124959-nt.html",
-      "desc": "La Consejería de Sanidad, Presidencia y Emergencias ha realizado un curso de formación práctica a 110 agentes de Salud Pública para reforzar la vigilancia entomológica del mosquito tigre en Andalucía. Se celebró el pasado mes de junio en la Universidad de Córd",
-      "date": "Tue, 07 Jul 2026 18:14:06 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "El regreso de las pinturas a Sijena afronta «una fase crítica», según el Gobierno de Aragón",
-      "link": "https://www.abc.es/espana/aragon/regreso-pinturas-sijena-afronta-fase-critica-segun-20260707180940-nt.html",
-      "desc": "El regreso a Aragón de las pinturas murales del Monasterio de Sijena desde el Museo de Arte Nacional de Cataluña (MNAC) ha entrado en una fase «crítica», según indicó en un programa 'Buenos Días' de Aragón Radio, la radio pública autonómica, el director genera",
-      "date": "Tue, 07 Jul 2026 18:09:41 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "El Córdoba CF arrancará la pretemporada a puerta cerrada: este es su plan de trabajo semanal",
-      "link": "https://www.abc.es/espana/andalucia/cordoba/cordoba-cf/cordoba-arrancara-pretemporada-puerta-cerrada-plan-trabajo-20260707164016-nts.html",
-      "desc": "El Córdoba CF 2026-2027 ya está en marcha. Después de completar las dos jornadas de reconocimientos médicos en el Hospital San Juan de Dios de Córdoba, el conjunto blanquiverde empieza a dar los primeros pasos al establecer el plan semanal de trabajo de cara a",
-      "date": "Tue, 07 Jul 2026 17:56:26 +0200",
       "source": "ABC",
       "color": "#c0392b",
       "feedId": "ABC",
