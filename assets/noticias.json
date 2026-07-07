@@ -1,7 +1,77 @@
 {
-  "updated": "2026-07-07T19:48:00Z",
+  "updated": "2026-07-07T21:19:11Z",
   "count": 24,
   "items": [
+    {
+      "title": "Este aclamado musical llega a Galicia: fechas, horarios y cómo conseguir las entradas",
+      "link": "https://www.abc.es/espana/galicia/aclamado-musical-llega-galicia-fechas-horarios-conseguir-20260707230000-nt.html",
+      "desc": "El teatro musical de gran formato se despide de los escenarios españoles con una última parada de excepción en territorio gallego. Tras cosechar un rotundo éxito de público a lo largo de tres temporadas consecutivas en Madrid y completar un extenso recorrido p",
+      "date": "Tue, 07 Jul 2026 23:00:00 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "El incendio en Barbate queda estabilizado, con vecinos desalojados y reapertura parcial de la carretera",
+      "link": "https://www.abc.es/espana/andalucia/cadiz/incendio-barbate-queda-estabilizado-vecinos-desalojados-reapertura-20260707223922-nts.html",
+      "desc": "El Plan Infoca ha dado por estabilizado en la noche de este martes el incendio forestal declarado en la zona de Los Visos en Barbate (Cádiz), entre el polígono industrial y el parque de la Breña. Asimismo, el alcalde de la localidad, Miguel Molina , ha expresa",
+      "date": "Tue, 07 Jul 2026 22:39:22 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Tres helicópteros militares españoles sufren daños por un tifón en Nueva York",
+      "link": "https://www.abc.es/espana/tres-helicopteros-militares-espanoles-sufren-danos-tifon-20260707221208-nt.html",
+      "desc": "Tres helicópteros del Ejército de Tierra sufrieron importantes daños materiales el pasado 14 de junio cuando un fenómeno meteorológico inesperado los sorprendió durante su estancia en Nueva York, donde formaban parte del despliegue español en un ejercicio mult",
+      "date": "Tue, 07 Jul 2026 22:12:09 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Muere un hombre tras precipitarse desde un balcón en la Plaza Mayor",
+      "link": "https://www.abc.es/espana/madrid/muere-hombre-tras-precipitarse-balcon-plaza-mayor-20260707220619-nt.html",
+      "desc": "Un hombre ha muerto este martes en Madrid tras preciptarse desde un balcón en la céntrica Plaza Mayor de la capital. El incidente ha sido pasadas las nueve de la noche y ha supuesto la movilización de equipos de 112, Policía Municipal y Bomberos. Según ha podi",
+      "date": "Tue, 07 Jul 2026 22:06:20 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Las algas que «ensucian» las playas gallegas cada verano ya fertilizan viñedos de las mejores bodegas de España",
+      "link": "https://www.abc.es/espana/galicia/algas-ensucian-playas-gallegas-verano-fertilizan-vinedos-20260707220000-nt.html",
+      "desc": "Cada verano y cada otoño, toneladas de algas arrastradas por las corrientes llegan a las playas gallegas. Para las cofradías y los ayuntamientos, esas algas de arribazón han sido tradicionalmente un quebradero de cabeza: hay que retirarlas y gestionarlas, y es",
+      "date": "Tue, 07 Jul 2026 22:00:00 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Luz verde a nueve proyectos de urbanización en el Parque Científico y Tecnológico de Cuenca",
+      "link": "https://www.abc.es/espana/castilla-la-mancha/luz-verde-nueve-proyectos-urbanizacion-parque-cientifico-20260707215245-nt.html",
+      "desc": "El presidente de Castilla-La Mancha, Emiliano García-Page, ha anunciado este martes la aprobación de los nueve proyectos de urbanización del Plan de Singular Interés (PLSI) del Parque Científico y Tecnológico Los Palancares, un trámite que permitirá avanzar en",
+      "date": "Tue, 07 Jul 2026 21:52:46 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Medios aéreos y terrestres combaten un incendio en Porqueros (León)",
+      "link": "https://www.abc.es/espana/castilla-leon/medios-aereos-terrestres-combaten-incendio-porqueros-leon-20260707215242-nt.html",
+      "desc": "Medios aéreos y terrestres trabajan para controlar un incendio que se ha iniciado en la localidad leonesa de Porqueros, en la comarca de Astorg a, en el que se ha declarado un Índice de Gravedad Potencial 2 (IGR 2) ante la previsión de que se produzcan cortes ",
+      "date": "Tue, 07 Jul 2026 21:52:43 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
     {
       "title": "Madrid se solidariza con la diáspora venezolana en la Puerta del Sol",
       "link": "https://www.abc.es/espana/madrid/madrid-solidariza-diaspora-venezolana-puerta-sol-20260707211841-nt.html",
@@ -127,76 +197,6 @@
       "link": "https://www.abc.es/espana/galicia/ver-pantalla-gigante-espanabelgica-santiago-20260707190001-nt.html",
       "desc": "La fiebre mundialista ruge con fuerza en la capital gallega tras la vibrante victoria de la selección española frente a Portugal. El combinado nacional ya se encuentra entre los ocho mejores equipos del torneo y la expectación de los aficionados locales crece ",
       "date": "Tue, 07 Jul 2026 19:00:01 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Kandy, la granadina de 91 años que ha visitado más de 80 países desde que se jubiló: «Prefiero cansarme que oxidarme»",
-      "link": "https://www.abc.es/espana/andalucia/granada/kandy-granadina-anos-visitado-paises-jubilo-prefiero-20260707185809-nts.html",
-      "desc": "España afronta un reto demográfico sin precedentes, la tasa de natalidad se sitúa en 1,16 hijos por mujer, más del 25% de la población tiene más de 65 años y se espera que en 2076 un tercio de españoles tengan o superen esta edad . Pero, encontrarse en esta et",
-      "date": "Tue, 07 Jul 2026 18:58:50 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Podemos amaga con frustrar el nuevo decreto de vivienda del Gobierno",
-      "link": "https://www.abc.es/espana/podemos-amaga-frustrar-nuevo-decreto-vivienda-gobierno-20260707185623-nt.html",
-      "desc": "La estrategia del Gobierno de PSOE y Sumar antes de irse de vacaciones estivales -en especial, la de los socialistas- pasa por convertir julio en un escaparate de banderas electorales para intentar marcar agenda y desplazar el foco del cerco judicial a Ferraz,",
-      "date": "Tue, 07 Jul 2026 18:56:23 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "La A-67, la autovía de la tragedia del bodeguero Iván Sanz: años de quejas y «parcheados»",
-      "link": "https://www.abc.es/espana/castilla-leon/autovia-tragedia-murio-bodeguero-valladolid-familia-20260707185550-nt.html",
-      "desc": "La autovía A-67 (Cantabria-Meseta) permite la salida hacia el mar a palentinos y vallisoletanos. También a los burgaleses, que enlazan en Aguilar de Campoo después de recorrer un tramo de la carretera N-627, y a los madrileños, que se sirven de ella para llega",
-      "date": "Tue, 07 Jul 2026 18:55:50 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Luto en el deporte canario: localizado sin vida el jugador del CV Guaguas, Willner Rivas, y su familia en los terremotos de Venezuela",
-      "link": "https://www.abc.es/espana/canarias/luto-deporte-canario-localizado-vida-jugador-guaguas-20260707184629-nt.html",
-      "desc": "El deporte canario lamenta una nueva pérdida en los terremotos de Venezuela. El Club Voleibol Guaguas ha confirmado que su jugador y capitán de la selección de Venezuela de Voleibol, Willner Rivas, ha sido encontrado sin vida tras quedar sepultado como consecu",
-      "date": "Tue, 07 Jul 2026 18:46:30 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "El PP exige a Sabrido que asuma la «chapuza» del carril bici de Toledo y deje de buscar «chivos expiatorios»",
-      "link": "https://www.abc.es/espana/castilla-la-mancha/toledo/pp-exige-sabrido-asuma-chapuza-carril-bici-20260707184148-nt.html",
-      "desc": "El enfrentamiento entre el Ayuntamiento de Toledo y la Delegación del Gobierno por el nuevo carril bici que une Santa Bárbara y Santa María de Benquerencia continúa aumentando de tono. El concejal de Movilidad, Iñaki Jiménez , ha reclamado este martes al deleg",
-      "date": "Tue, 07 Jul 2026 18:41:49 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Bolaños saca pecho con 700 plazas judiciales en pleno caos en los tribunales de instancia",
-      "link": "https://www.abc.es/espana/bolanos-saca-pecho-700-plazas-judiciales-pleno-20260708183958-nt.html",
-      "desc": "Todo empezó con un enigmático mensaje en las redes sociales. En plena oleada de escándalos de corrupción cercando al Gobierno, el domingo 14 de junio, el ministro de Justicia, Félix Bolaños, utilizó su cuenta en la red social X —la del tecno-oligarca Elon Musk",
-      "date": "Tue, 07 Jul 2026 18:39:58 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Localizan a un ladrón por las cámaras de los comercios tras varios robos el mismo día",
-      "link": "https://www.abc.es/espana/comunidad-valenciana/alicante/localizan-ladron-camaras-comercios-tras-varios-robos-20260707183718-nt.html",
-      "desc": "La coordinación entre la Policía Local de Orihuela y la Policía Nacional permitió esclarecer en pocas horas un robo con violencia cometido de madrugada en un restaurante. Con la descripción física facilitada por los trabajadores y las imágenes de cámaras de se",
-      "date": "Tue, 07 Jul 2026 18:37:19 +0200",
       "source": "ABC",
       "color": "#c0392b",
       "feedId": "ABC",
