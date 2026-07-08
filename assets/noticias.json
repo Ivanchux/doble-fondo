@@ -1,7 +1,177 @@
 {
-  "updated": "2026-07-07T22:56:05Z",
+  "updated": "2026-07-08T02:11:55Z",
   "count": 24,
   "items": [
+    {
+      "title": "Una inversión china en el puerto de Ferrol hace saltar las alarmas en la OTAN",
+      "link": "https://www.abc.es/espana/entrada-china-puerto-ferrol-inquieta-otan-20260708014509-nt.html",
+      "desc": "Ankara acoge, de martes a miércoles, la cumbre anual de la OTAN. La cita en la capital turca tiene como objetivo prioritario la paz en Ucrania y Oriente Próximo, pero también aspira a alcanzar progresos en otros frentes abiertos. Ninguno tan estructural como l",
+      "date": "Wed, 08 Jul 2026 01:45:09 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Zapatero cancela sus vacaciones en plena investigación judicial y por primera vez no viajará a Lanzarote",
+      "link": "https://www.abc.es/espana/zapatero-cancela-vacaciones-plena-investigacion-judicial-primera-20260708014400-nt.html",
+      "desc": "Otros años, por estas fechas, el expresidente del Gobierno, José Luis Rodríguez Zapatero , ya estaba instalado en su lujoso chalé de la Playa de Famara, en la isla de Lanzarote. Junto a su esposa, Sonsoles Espinosa, y en ocasiones sus dos hijas, Laura y Alba, ",
+      "date": "Wed, 08 Jul 2026 01:44:00 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "zap"
+    },
+    {
+      "title": "Los contactos entre Leire Díez y altos cargos del PSOE abren la posibilidad de imputar al partido",
+      "link": "https://www.abc.es/espana/contactos-leire-altos-cargos-psoe-acercan-imputacion-20260707014348-nt.html",
+      "desc": "Los próximos días serán claves para que la Fiscalía Anticorrupción decida si pide al juez de la Audiencia Nacional, Santiago Pedraz, que impute al PSOE como persona jurídica por las maniobras de su exmilitante Leire Díez con las que, según la investigación abi",
+      "date": "Wed, 08 Jul 2026 01:43:48 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "lei"
+    },
+    {
+      "title": "Abascal y Trump, cronología del fin de un idilio a la baja",
+      "link": "https://www.abc.es/espana/abascal-trump-cronologia-distanciamiento-publico-20260708014017-nt.html",
+      "desc": "Quedan ya lejanos aquellos elogios de Donald Trump el 23 de febrero de 2025 a Santiago Abascal en la Conferencia de Acción Política Conservadora (CPAC, en inglés) en Washington. «Qué gran tipo el líder del partido Vox de España, Santiago Abascal. Gracias, Sant",
+      "date": "Wed, 08 Jul 2026 01:40:17 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Feijóo advierte al empresariado vasco del fin de Sánchez y mira al votante de un PNV en declive",
+      "link": "https://www.abc.es/espana/feijoo-advierte-empresariado-vasco-fin-sanchez-mira-20260708013844-nt.html",
+      "desc": "Alberto Núñez Feijóo desembarcó en Bilbao con la intención de convencer a los empresarios vascos -la plana mayor acudió a la cita con el líder del PP- de que la legislatura tiene los días contados y que deben empezar a mirar al futuro. Además de denunciar la «",
+      "date": "Wed, 08 Jul 2026 01:38:44 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "La batería de Miguel Ángel Blanco y el monopatín de Echevarría serán Memoria de las Víctimas",
+      "link": "https://www.abc.es/espana/madrid/bateria-miguel-angel-blanco-monopatin-echevarria-memoria-20260707013816-nt.html",
+      "desc": "La Comunidad de Madrid tiene un compromiso pendiente con las víctimas del terrorismo: abrir un Centro de Memoria destinado a reflexionar y a recordar una realidad que marcó para siempre a la sociedad española y madrileña. El Centro Interactivo para la Memoria ",
+      "date": "Wed, 08 Jul 2026 01:38:16 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Así prepara un 'booker' del Bilbao BBK live el 20 cumpleaños del festival: «El cartel es similar a un Spotify Wrap»",
+      "link": "https://www.abc.es/espana/pais-vasco/prepara-booker-bilbao-bbk-live-cumpleanos-festival-20260708012911-nt.html",
+      "desc": "El trabajo de Sergio Moreno consiste en asegurar las condiciones para que este jueves entre 30 y 50 mil personas puedan vibrar con la música. Planifica desde hace un año el cartel para el 20 aniversario del Bilbao BBK live. Una labor «meticulosa y ardua» para ",
+      "date": "Wed, 08 Jul 2026 01:29:11 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Evaristo, Marky Ramone y cincuenta bandas más en el regreso del festival punk más mítico de España a Villena",
+      "link": "https://www.abc.es/espana/madrid/agenda/evaristo-marky-ramone-cincuenta-bandas-regreso-festival-20260707011313-nt.html",
+      "desc": "El Aúpa Lumbreiras!! es un festival que para varias generaciones de aficionados al punk rock español evoca noches interminables en Villena, pogos, canciones coreadas con el puño en alto y una sensación de comunidad que pocos eventos musicales han sabido constr",
+      "date": "Wed, 08 Jul 2026 01:15:02 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Alianza entre los DDP y Los 18 de Parla para laminar a la banda de los Trinitarios",
+      "link": "https://www.abc.es/espana/madrid/alianza-ddp-parla-banda-trinitarios-20260707010834-nt.html",
+      "desc": "El odio y la lucha por el poder territorial entre las principales bandas latinas en Madrid arroja algunas alianzas llamativas. La Brigada Provincial de Información ha constatado como un grupo llamado Los 18, con epicentro en Parla, ha 'firmado' una especie de ",
+      "date": "Wed, 08 Jul 2026 01:08:34 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Pan de quiosco",
+      "link": "https://www.abc.es/espana/madrid/pan-quiosco-20260707010819-nt.html",
+      "desc": "Hay oficios que sostienen un país sin hacer ruido. Entre ellos, el oficio de quiosquero . Va este empleo en declive, porque el quiosco ya está a dos tardes de la extremaunción, reliquia de un tiempo en el que el periódico era el pan nuestro de cada mañana. El ",
+      "date": "Wed, 08 Jul 2026 01:08:19 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Sara Carbonero, convencida sobre cuál es la mejor zona de España para irse de vacaciones en verano: «Me perdería en esta isla»",
+      "link": "https://www.abc.es/espana/canarias/sara-carbonero-convencida-sobre-mejor-zona-espana-20260707152544-nt.html",
+      "desc": "El verano suele abrir debates sobre cuál es el mejor destino para desconectar, pero Sara Carbonero lo tiene claro. Una isla pequeña, silenciosa, sin carreteras asfaltadas y con playas que parecen detener el tiempo. Ese ese es el refugio al que seguro no tardar",
+      "date": "Wed, 08 Jul 2026 01:05:06 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Silvana Estrada : «Me alejo de la industria para tener espacio para jugar»",
+      "link": "https://www.abc.es/espana/madrid/silvana-estrada-alejo-industria-tener-espacio-jugar-20260707010343-nt.html",
+      "desc": "Una de las artistas más relevantes de la escena latina actual, Silvana Estrada, va a liderar la velada de Noches del Botánico este jueves, compartiendo escenario con la brasileña Mari Froes, cantautora revelación que combina magistralmente bossa, soul, jazz y ",
+      "date": "Wed, 08 Jul 2026 01:03:43 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Suiza sella en los penaltis sus primeros cuartos de final en siete décadas",
+      "link": "https://www.lavanguardia.com/deportes/futbol/20260708/11587079/suiza-sella-penaltis-primeros-cuartos-final-siete-decadas.html",
+      "desc": "El conjunto europeo jugará el sábado en Kansas contra Argentina tras derrotar a Colombia en un partido sin goles",
+      "date": "08 Jul 2026 01:01:33 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
+    {
+      "title": "Así quedan los cuartos de final del Mundial 2026",
+      "link": "https://www.lavanguardia.com/deportes/futbol/20260708/11586889/asi-quedan-cuartos-final-mundial-2026.html",
+      "desc": "España, Bélgica, Francia, Marruecos, Noruega, Inglaterra, Argentina y Suiza son las ocho selecciones clasificadas",
+      "date": "08 Jul 2026 00:54:26 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
+    {
+      "title": "Secretos a voces",
+      "link": "https://www.lavanguardia.com/opinion/20260708/11586475/secretos-voces.html",
+      "desc": "El caso Andic es un sumario convertido en espectáculo y del que sabemos demasiadas cosas que no deberíamos saber",
+      "date": "08 Jul 2026 00:30:00 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
+    {
+      "title": "¿Le Pen, una condenada en el Elíseo?",
+      "link": "https://www.lavanguardia.com/internacional/20260708/11586890/le-pen-condenada-eliseo.html",
+      "desc": "La líder ultraderechista será candidata pese a otra sentencia que le impone brazalete electrónico",
+      "date": "08 Jul 2026 00:05:00 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
+    {
+      "title": "Los ultras y la justicia",
+      "link": "https://www.lavanguardia.com/opinion/20260708/11586894/ultras-justicia.html",
+      "desc": "Veremos si su electorado les pasa factura como sucede a los partidos tradicionales",
+      "date": "08 Jul 2026 00:05:00 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
     {
       "title": "Tres 'fervenzas' en Galicia ideales para visitar en verano: cascadas espectaculares para ver a pocos metros del coche",
       "link": "https://www.abc.es/espana/galicia/tres-fervenzas-galicia-ideales-visitar-verano-cascadas-20260707235900-nt.html",
@@ -10,6 +180,26 @@
       "source": "ABC",
       "color": "#c0392b",
       "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "EE. UU. lanza una ofensiva contra Irán tras el ataque a tres petroleros en el estrecho de Ormuz",
+      "link": "https://www.lavanguardia.com/internacional/20260707/11587076/ee-uu-lanza-ofensiva-iran-ataque-tres-petroleros-estrecho-ormuz.html",
+      "desc": "El Pentágono acusa a Teherán de romper “el alto el fuego”, aunque el régimen iraní no ha reivindicado el sabotaje a los cargueros",
+      "date": "07 Jul 2026 23:47:03 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
+    {
+      "title": "La Verona de los 15 minutos",
+      "link": "https://www.lavanguardia.com/local/barcelona/20260707/11586979/verona-15-minutos.html",
+      "desc": "",
+      "date": "07 Jul 2026 23:26:02 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
       "caso": "other"
     },
     {
@@ -33,7 +223,7 @@
       "caso": "other"
     },
     {
-      "title": "Leandro Paredes resume el sentir de Argentina: “Que no llegue nunca el último partido de Leo”",
+      "title": "Leandro Paredes: “Que no llegue nunca el último partido de Leo”",
       "link": "https://www.lavanguardia.com/deportes/20260707/11586893/paredes-argentina-mundial-egipto-reacciones-llegue-nunca-ultimo-partido-leo-messi.html",
       "desc": "Los jugadores de Egipto claman contra el arbitraje del francés Letexier: “Ha sido una injusticia clara y evidente durante todo el partido; es un torneo arreglado”",
       "date": "07 Jul 2026 22:17:25 +0200",
@@ -50,196 +240,6 @@
       "source": "ABC",
       "color": "#c0392b",
       "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Muere un hombre tras precipitarse desde un balcón en la Plaza Mayor",
-      "link": "https://www.abc.es/espana/madrid/muere-hombre-tras-precipitarse-balcon-plaza-mayor-20260707220619-nt.html",
-      "desc": "Un hombre ha muerto este martes en Madrid tras preciptarse desde un balcón en la céntrica Plaza Mayor de la capital. El incidente ha sido pasadas las nueve de la noche y ha supuesto la movilización de equipos de 112, Policía Municipal y Bomberos. Según ha podi",
-      "date": "Tue, 07 Jul 2026 22:06:20 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Los bomberos se enfrentan en Catalunya a siete incendios de consideración a la vez",
-      "link": "https://www.lavanguardia.com/local/catalunya/20260707/11586880/bomberos-enfrentan-catalunya-siete-incendios-consideracion-vez.html",
-      "desc": "El fuego del Vallès sigue activo mientras que ha podido frenarse el avance del de l’Anoia",
-      "date": "07 Jul 2026 22:00:24 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "Las algas que «ensucian» las playas gallegas cada verano ya fertilizan viñedos de las mejores bodegas de España",
-      "link": "https://www.abc.es/espana/galicia/algas-ensucian-playas-gallegas-verano-fertilizan-vinedos-20260707220000-nt.html",
-      "desc": "Cada verano y cada otoño, toneladas de algas arrastradas por las corrientes llegan a las playas gallegas. Para las cofradías y los ayuntamientos, esas algas de arribazón han sido tradicionalmente un quebradero de cabeza: hay que retirarlas y gestionarlas, y es",
-      "date": "Tue, 07 Jul 2026 22:00:00 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Luz verde a nueve proyectos de urbanización en el Parque Científico y Tecnológico de Cuenca",
-      "link": "https://www.abc.es/espana/castilla-la-mancha/luz-verde-nueve-proyectos-urbanizacion-parque-cientifico-20260707215245-nt.html",
-      "desc": "El presidente de Castilla-La Mancha, Emiliano García-Page, ha anunciado este martes la aprobación de los nueve proyectos de urbanización del Plan de Singular Interés (PLSI) del Parque Científico y Tecnológico Los Palancares, un trámite que permitirá avanzar en",
-      "date": "Tue, 07 Jul 2026 21:52:46 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Medios aéreos y terrestres combaten un incendio en Porqueros (León)",
-      "link": "https://www.abc.es/espana/castilla-leon/medios-aereos-terrestres-combaten-incendio-porqueros-leon-20260707215242-nt.html",
-      "desc": "Medios aéreos y terrestres trabajan para controlar un incendio que se ha iniciado en la localidad leonesa de Porqueros, en la comarca de Astorg a, en el que se ha declarado un Índice de Gravedad Potencial 2 (IGR 2) ante la previsión de que se produzcan cortes ",
-      "date": "Tue, 07 Jul 2026 21:52:43 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Madrid se solidariza con la diáspora venezolana en la Puerta del Sol",
-      "link": "https://www.abc.es/espana/madrid/madrid-solidariza-diaspora-venezolana-puerta-sol-20260707211841-nt.html",
-      "desc": "Venezuela vive un duelo, el de haber perdido a más de 3.500 personas por un doble terremoto y, también el de curar las heridas físicas de otras 11.000. Porque luego están las heridas del alma, y esas a ver quién las alivia. Madrid ha decidido intentarlo o, al ",
-      "date": "Tue, 07 Jul 2026 21:18:41 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "El Gobierno colocará tres barreras flotantes en el río Guadalquivir para luchar contra las narcolanchas",
-      "link": "https://www.abc.es/espana/andalucia/gobierno-colocara-tres-barreras-flotantes-rio-guadalquivir-20260707210329-nts.html",
-      "desc": "El Gobierno ha reaccionado y responderá a una de las peticiones de las Fuerzas y Cuerpos de Seguridad del Estado para luchar contra el narcotráfico. El Ejecutivo instalará tres barreras flotantes en el río Guadalquivir para controlar y evitar la entrada de emb",
-      "date": "Tue, 07 Jul 2026 21:03:30 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Dónde ver en pantalla gigante el España-Bélgica del Mundial en La Coruña",
-      "link": "https://www.abc.es/espana/galicia/ver-pantalla-gigante-espanabelgica-mundial-coruna-20260707210005-nt.html",
-      "desc": "La fiebre por el Mundial de fútbol 2026 sacudirá con fuerza el centro de la ciudad herculina este fin de semana. Tras la agónica victoria de la selección española frente a Portugal , el combinado nacional ya prepara su próximo compromiso de cuartos de final. P",
-      "date": "Tue, 07 Jul 2026 21:00:05 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Rosalía, Cabanillas, Lorca y ahora Castelao: la lista que no para de crecer de un traductor japonés",
-      "link": "https://www.abc.es/espana/galicia/rosalia-cabanillas-lorca-castelao-lista-crecer-traductor-20260707210000-nt.html",
-      "desc": "Que un profesor japonés traduzca a Rosalía de Castro ya sería noticia. Que lleve cuatro décadas haciéndolo, con una lista de autores que no deja de crecer año tras año, empieza a rozar la leyenda local. Eso es lo que ha vuelto a ocurrir este martes en el Pazo ",
-      "date": "Tue, 07 Jul 2026 21:00:00 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Messi, el pie de D10S",
-      "link": "https://www.lavanguardia.com/deportes/futbol/20260707/11586876/messi-pie-d10s.html",
-      "desc": "",
-      "date": "07 Jul 2026 20:46:11 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "Argentina obra lo imposible en una remontada épica contra Egipto",
-      "link": "https://www.lavanguardia.com/deportes/futbol/20260707/11586874/argentina-obra-imposible-remontada-epica-egipto.html",
-      "desc": "Messi lidera la rebeldía de los muchachos que levantan un 0-2 en 14 minutos de absoluta locura",
-      "date": "07 Jul 2026 20:31:08 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "García-Page anuncia la reforma del centro de salud Cuenca II, que ganará consultas y nuevos servicios",
-      "link": "https://www.abc.es/espana/castilla-la-mancha/garciapage-anuncia-reforma-centro-salud-cuenca-ganara-20260707201317-nt.html",
-      "desc": "El Gobierno de Castilla-La Mancha ha adjudicado las obras de ampliación y reforma del Centro de Salud Cuenca II, ubicado en la calle Radio Nacional de España, una actuación que permitirá modernizar las instalaciones, ampliar la cartera de servicios y mejorar l",
-      "date": "Tue, 07 Jul 2026 20:13:18 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "La Comunidad de Madrid destinará un millón de euros a Venezuela para ayuda humanitaria",
-      "link": "https://www.abc.es/espana/madrid/edmundo-gonzalez-20260707182753-nt.html",
-      "desc": "La presidenta de la Comunidad de Madrid, Isabel Díaz Ayuso, ha anunciado este martes que el Gobierno regional destinará un millón de euros para ayuda humanitaria en Venezuela tras el doble terremoto del pasado 24 de junio. Ayuso ha recibido esta tarde en la Re",
-      "date": "Tue, 07 Jul 2026 20:12:30 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Castilla y León reclama al Gobierno más fondos ante el sobrecoste de la enfermedad de Newcastle",
-      "link": "https://www.abc.es/espana/castilla-leon/castilla-leon-reclama-gobierno-fondos-ante-sobrecoste-20260707201014-nt.html",
-      "desc": "El consejero de Agricultura, Ganadería, Medio Rural y Política Ambiental de la Junta, Joaquín Antonio Pino, ha reclamado al Ministerio un incremento de la financiación destinada a los Programas Estatales de Erradicación de Enfermedades Animales, al tiempo que ",
-      "date": "Tue, 07 Jul 2026 20:10:15 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Sánchez llega debilitado a la cumbre de la OTAN",
-      "link": "https://www.abc.es/espana/sanchez-llega-debilitado-cumbre-otan-20260707200941-nt.html",
-      "desc": "El presidente del Gobierno, Pedro Sánchez llega en una situación muy incómoda a la cumbre anual de la OTAN. A diferencia de lo que sucedió el año pasado en la de La Haya, la posición del líder del Ejecutivo español se ha convertido en un viejo argumento para l",
-      "date": "Tue, 07 Jul 2026 20:09:42 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Magos de Hollywood y Got Talent actúan mañana en Santiago por 5 euros",
-      "link": "https://www.abc.es/espana/galicia/manana-cita-euros-santiago-magos-conquistaron-hollywood-20260707200000-nt.html",
-      "desc": "Este miércoles, por primera vez, cuatro de sus nombres propios comparten cartel en un mismo espectáculo. La cita es mañana, 8 de julio, a las 20:00 horas, en el Auditorio del Edificio Fontán (Cidade da Cultura de Galicia, Santiago de Compostela), y las entrada",
-      "date": "Tue, 07 Jul 2026 20:00:00 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "El Gobierno concede otros 6.200 millones a Defensa sin especificar el destino: «Necesidades de financiación»",
-      "link": "https://www.abc.es/espana/gobierno-concede-6200-millones-defensa-especificar-destino-20260707195810-nt.html",
-      "desc": "Sin Presupuestos Generales del Estado y con el compromiso de consolidar el 2% del PIB en gasto militar , el Gobierno continúa aprobando partidas en el Consejo de Ministros que permitan al Ministerio de Defensa cumplir con sus objetivos y con el pago de las nue",
-      "date": "Tue, 07 Jul 2026 19:58:10 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Defensa desautoriza una parada militar en Ciudad Rodrigo y su alcalde recuerda a la ministra su «lealtad institucional»",
-      "link": "https://www.abc.es/espana/castilla-leon/defensa-desautoriza-parada-militar-ciudad-rodrigo-alcalde-20260707193856-nt.html",
-      "desc": "La Subdelegación del Gobierno en Salamanca ha trasladado al Ayuntamiento de Ciudad Rodrigo que el Ministerio de Defensa desautoriza este año participación del Regimiento de Especialidades de Ingenieros número 11 en las Jornadas Napoleónicas en Homenaje a Herra",
-      "date": "Tue, 07 Jul 2026 19:38:57 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Feijóo cuestiona que un trabajador cobre lo mismo si trabaja o si está de baja",
-      "link": "https://www.lavanguardia.com/politica/20260707/11586859/feijoo-cuestiona-trabajador-cobre-trabaja-esta-baja.html",
-      "desc": "Pedro Sánchez replica al líder del PP que los trabajadores merecen protección cuando la salud les falla",
-      "date": "07 Jul 2026 19:35:33 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
       "caso": "other"
     }
   ]
