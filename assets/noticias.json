@@ -1,7 +1,17 @@
 {
-  "updated": "2026-07-08T21:02:06Z",
+  "updated": "2026-07-08T23:00:38Z",
   "count": 24,
   "items": [
+    {
+      "title": "Las llamas mantienen en vilo a La Guardia y Villatobas en Toledo en una madrugada de cielos rojos y humo intenso",
+      "link": "https://www.abc.es/espana/castilla-la-mancha/toledo/llamas-mantienen-vilo-guardia-villatobas-toledo-madrugada-20260709005311-nt.html",
+      "desc": "El incendio forestal declarado en la tarde del 8 de julio, en el paraje de Las Pinillas, dentro del término municipal de La Guardia (Toledo), permanece activo durante esta madrugada. El fuego avanza entre los municipios de La Guardia y Villatobas , mientras lo",
+      "date": "Thu, 09 Jul 2026 00:53:12 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
     {
       "title": "El Tribunal Constitucional rechaza el recurso de Page contra la amnistía al 'procés'",
       "link": "https://www.abc.es/espana/castilla-la-mancha/tribunal-constitucional-rechaza-recurso-page-amnistia-proces-20260708220611-nt.html",
@@ -186,16 +196,6 @@
       "title": "Wizz Air anuncia tres nuevas rutas directas de Santiago a Madrid, Valencia y Bilbao",
       "link": "https://www.abc.es/espana/galicia/wizz-air-anuncia-tres-nuevas-rutas-directas-20260708184820-nt.html",
       "desc": "La aerolínea de bajo coste Wizz Air ha anunciado este miércoles la apertura de sus primeras bases operativas en España, localizadas en Madrid y Valencia. Este movimiento beneficiará de forma directa a la terminal compostelana, que sumará de golpe tres nuevas r",
-      "date": "Wed, 08 Jul 2026 18:49:39 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Esta es la carrera con la nota de corte más alta de la Universidad de Zaragoza",
-      "link": "https://www.abc.es/espana/aragon/carrera-nota-corte-alta-universidad-zaragoza-20260708184938-nt.html",
-      "desc": "17.172 estudiantes han recibido hoy el resultado de su solicitud de admisión a los estudios de Grado de la Universidad de Zaragoza. Lo han conocido a través de un correo electrónico personal e individualizado en el que se les informaba si habían sido admitidos",
       "date": "Wed, 08 Jul 2026 18:49:39 +0200",
       "source": "ABC",
       "color": "#c0392b",
