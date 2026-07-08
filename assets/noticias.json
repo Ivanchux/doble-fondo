@@ -1,7 +1,37 @@
 {
-  "updated": "2026-07-08T19:17:42Z",
+  "updated": "2026-07-08T21:02:06Z",
   "count": 24,
   "items": [
+    {
+      "title": "El Tribunal Constitucional rechaza el recurso de Page contra la amnistía al 'procés'",
+      "link": "https://www.abc.es/espana/castilla-la-mancha/tribunal-constitucional-rechaza-recurso-page-amnistia-proces-20260708220611-nt.html",
+      "desc": "El Tribunal Constitucional ha desestimado el recurso de inconstitucionalidad presentado por el Gobierno de Castilla-La Mancha contra la Ley Orgánica de Amnistía a los responsables del 'procés'. La resolución, de la que ha sido ponente la vicepresidenta del tri",
+      "date": "Wed, 08 Jul 2026 22:06:12 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Un legislador de EE.UU. dimite del grupo de coordinación con España acusando a Sánchez de antisemitismo",
+      "link": "https://www.abc.es/espana/legislador-eeuu-dimite-grupo-coordinacion-espana-acusando-20260708214352-nt.html",
+      "desc": "La tensión entre Estados Unidos y el Gobierno de Pedro Sánchez ya ha llegado al Capitolio. El republicano Carlos Giménez ha anunciado este miércoles que abandona la copresidencia del Grupo de Amistad con España, creado para estrechar la relación bilateral, en ",
+      "date": "Wed, 08 Jul 2026 21:43:53 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Condenan una presunta agresión homófoba tras la celebración del Orgullo en Almansa (Albacete)",
+      "link": "https://www.abc.es/espana/castilla-la-mancha/condenan-presunta-agresion-homofoba-tras-celebracion-orgullo-20260708213211-nt.html",
+      "desc": "La asociación Almansa Entiende ha condenado públicamente la presunta agresión motivada por LGTBIfobia ocurrida durante la madrugada del pasado fin de semana en la calle Corredera de Almansa, al término de los actos organizados con motivo del Día del Orgullo . ",
+      "date": "Wed, 08 Jul 2026 21:32:12 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
     {
       "title": "Sánchez aterriza con un avión oficial de 80 plazas en Londres, donde se gradúa su hija este viernes",
       "link": "https://www.abc.es/espana/sanchez-usa-avion-oficial-plazas-acudir-graduacion-20260708205617-nt.html",
@@ -167,36 +197,6 @@
       "link": "https://www.abc.es/espana/aragon/carrera-nota-corte-alta-universidad-zaragoza-20260708184938-nt.html",
       "desc": "17.172 estudiantes han recibido hoy el resultado de su solicitud de admisión a los estudios de Grado de la Universidad de Zaragoza. Lo han conocido a través de un correo electrónico personal e individualizado en el que se les informaba si habían sido admitidos",
       "date": "Wed, 08 Jul 2026 18:49:39 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "El colegio Santa Teresa de Toledo contará con un techado en sus pistas deportivas",
-      "link": "https://www.abc.es/espana/castilla-la-mancha/toledo/colegio-santa-teresa-toledo-contara-techado-pistas-20260708183841-nt.html",
-      "desc": "El colegio público Santa Teresa de Toledo podría poner fin a una de las reivindicaciones históricas de su comunidad educativa. El centro, el único de los 17 colegios públicos de la capital que carece de un espacio cubierto en sus pistas deportivas, figura entr",
-      "date": "Wed, 08 Jul 2026 18:38:41 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Tres aviones por separado en menos de dos horas para llevar a Sánchez, Robles y Albares a la cumbre de la OTAN",
-      "link": "https://www.abc.es/espana/gobierno-manda-tres-aviones-cumbre-otan-sanchez-20260709183437-nt.html",
-      "desc": "Tres aviones del Ejército del Aire y del Espacio con configuración para el transporte de personalidades VIP aterrizaron este martes al mediodía en el aeropuerto turco de Etimesgust, en la ciudad de Ankara. En ellos, según ha podido saber ABC, viajaban los tres",
-      "date": "Wed, 08 Jul 2026 18:34:37 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Almería entra en alerta naranja y cuatro provincias andaluzas en nivel amarillo por temperaturas de hasta 41 grados",
-      "link": "https://www.abc.es/espana/andalucia/almeria-entra-alerta-naranja-cuatro-provincias-andaluzas-20260708182900-nts.html",
-      "desc": "Andalucía oriental se prepara para afrontar una de las jornadas más calurosas de lo que va de verano. La Agencia Estatal de Meteorología (Aemet) ha activado para este jueves, 9 de julio, el aviso naranja por altas temperaturas en la provincia de Almería, donde",
-      "date": "Wed, 08 Jul 2026 18:30:39 +0200",
       "source": "ABC",
       "color": "#c0392b",
       "feedId": "ABC",
