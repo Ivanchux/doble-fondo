@@ -1,7 +1,107 @@
 {
-  "updated": "2026-07-09T17:51:27Z",
+  "updated": "2026-07-09T19:37:33Z",
   "count": 24,
   "items": [
+    {
+      "title": "Un incendio en la provincia de Almería obliga a desalojar vecinos de barriadas cercanas a Bédar",
+      "link": "https://www.abc.es/espana/andalucia/almeria/incendio-provincia-almeria-obliga-desalojar-vecinos-barriadas-20260709212738-nts.html",
+      "desc": "La evolución del incendio forestal declarado este jueves en un paraje del municipio de Los Gallardos en la provincia de Almería ha obligado a activar la fase de emergencia, situación operativa 1, del Plan de Emergencia por Incendios Forestales de Andalucía (Pl",
+      "date": "Thu, 09 Jul 2026 21:28:43 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Toledo abre San Marcos a sus artistas con una exposición que reivindica el talento local",
+      "link": "https://www.abc.es/espana/castilla-la-mancha/toledo/toledo-abre-san-marcos-artistas-exposicion-reivindica-20260709212748-nt.html",
+      "desc": "El Centro Cultural San Marcos vuelve a convertirse este mes de julio en escaparate del talento artístico vinculado a la ciudad con la inauguración este jueves de la segunda edición del ' Mes de los artistas toledanos ', una iniciativa impulsada por el Ayuntami",
+      "date": "Thu, 09 Jul 2026 21:27:49 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Un incendio próximo a las vías afecta a los trenes de alta velocidad entre Córdoba y Madrid",
+      "link": "https://www.abc.es/espana/andalucia/cordoba/incendio-proximo-vias-afecta-trenes-alta-velocidad-20260709210058-nts.html",
+      "desc": "Nuevo problema en la circulación de alta velocidad en Córdoba, aunque en esta ocasión ha sido con carácter leve y por motivos externos. Un incendio declarado en la zona próxima a las vías ha provocado que la circulación se suspenda entre la capital y la barria",
+      "date": "Thu, 09 Jul 2026 21:00:59 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Un incendio corta la autovía de la Costa del Sol y obliga a desalojar vecinos en Estepona",
+      "link": "https://www.abc.es/espana/andalucia/malaga/incendio-corta-autovia-costa-sol-obliga-desalojar-20260709205003-nts.html",
+      "desc": "Un incendio forestal se ha desatado este jueves por la tarde en el municipio malagueño de Estepona. La proliferación de las llamas ha obligado a las autoridades a cortar la AP-7 y a desalojar varias viviendas de la zona. A causa de la magnitud del fuego, a las",
+      "date": "Thu, 09 Jul 2026 20:59:14 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "El Museo del Prado lleva sus obras a los pueblos de Sanabria un año después de los incendios",
+      "link": "https://www.abc.es/espana/castilla-leon/museo-prado-lleva-obras-pueblos-sanabria-ano-20260709204527-nt.html",
+      "desc": "El Museo del Prado llevará del 9 de julio al 7 de septiembre un total de 15 réplicas de sus obras más conocidas a trece localidades zamoranas de las comarcas de Sanabria y La Carballeda con el objetivo de devolver la mirada a unos paisajes naturales que el año",
+      "date": "Thu, 09 Jul 2026 20:45:28 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Qué son las balizas inteligentes de la A-8 en O Fiouco (Lugo) y cómo evitan accidentes por niebla",
+      "link": "https://www.abc.es/espana/galicia/balizas-inteligentes-fiouco-lugo-evitan-accidentes-niebla-20260709203001-nt.html",
+      "desc": "Con la llegada del verano y el aumento de los desplazamientos por carretera hacia Galicia, la Dirección General de Tráfico (DGT) ha querido recordar cómo funciona el sistema de balizas inteligentes instalado en la autovía A-8 a la altura del alto de O Fiouco, ",
+      "date": "Thu, 09 Jul 2026 20:30:01 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "gen"
+    },
+    {
+      "title": "Juanma Serrano, de arruinar Correos a consultor del pelotazo del hidrógeno verde",
+      "link": "https://www.abc.es/espana/juanma-serrano-presidente-correos-consultor-hidrogeno-verde-20260709202806-nt.html",
+      "desc": "Considerado durante años uno de los principales arquitectos en la sombra del proyecto político de Pedro Sánchez, la carrera de Juanma Serrano se centra hoy en su reciente reinvención profesional en el sector de las energías verdes, un refugio privado muy aleja",
+      "date": "Thu, 09 Jul 2026 20:28:06 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Aviso amarillo en siete provincias de Castilla y León por tormentas y lluvia",
+      "link": "https://www.abc.es/espana/castilla-leon/aviso-amarillo-siete-provincias-castilla-leon-tormentas-20260709201438-nt.html",
+      "desc": "La ola de calor que estos últimos cuatro días ha atravesado Castilla y León dará paso a las tormentas. Así lo advierten los avisos de la Agencia Estatal de Meteorología, que, si bien prevé desde este viernes un descenso en las temperaturas, tiñe de alerta amar",
+      "date": "Thu, 09 Jul 2026 20:14:40 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "El Córdoba tendrá al Real Jaén como rival de pretemporada el día de su 72 aniversario",
+      "link": "https://www.abc.es/espana/andalucia/cordoba/cordoba-real-jaen-rival-pretemporada-dia-aniversario-20260709200416-nts.html",
+      "desc": "Poco a poco, el calendario estival del Córdoba CF toma forma. El cuadro califal comenzó el miércoles con su pretemporada, dentro de la cual tendrá, mínimo, cuatro partidos. Serán más, pero hasta ahora ésa es la cifra de amistosos que se confirmó. Y el último q",
+      "date": "Thu, 09 Jul 2026 20:04:17 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Martínez (PSCL) ve «injustas» las ponderaciones en la financiación pero acusa al PP de «inhibirse»",
+      "link": "https://www.abc.es/espana/castilla-leon/martinez-pscl-injustas-ponderaciones-financiacion-acusa-pp-20260709195027-nt.html",
+      "desc": "El secretario general del PSOE de Castilla y León (PSCL), Carlos Martínez, ha afirmado este jueves que es «injusto e insuficiente» el resultado final de la propuesta de reforma del modelo de financiación autonómica por los criterios de ponderación aplicados, p",
+      "date": "Thu, 09 Jul 2026 19:50:27 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
     {
       "title": "El incendio de Guimerà se reactiva y obliga a confinar a 21.000 personas",
       "link": "https://www.abc.es/espana/cataluna/incendio-guimera-reactiva-obliga-confinar-21000-personas-20260709193947-nt.html",
@@ -97,106 +197,6 @@
       "link": "https://www.abc.es/espana/aragon/paguitas-inmigrantes-ilegales-vox-describe-prioridad-nacional-20260709124810-nt.html",
       "desc": "Primera gran medida de la nueva etapa política en Aragón tras las últimas elecciones autonómicas. El Gobierno de Aragón, que echó a andar hace dos meses, ha anunciado este jueves que va a endurecer los requisitos de acceso a la Prestación Aragonesa Complementa",
       "date": "Thu, 09 Jul 2026 18:43:49 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "El Gobierno de Sánchez acorrala a                  los chiringuitos en pleno verano",
-      "link": "https://www.abc.es/espana/andalucia/gobierno-sanchez-negocia-jaque-chiringuitos-andalucia-20260709184223-nts.html",
-      "desc": "El Gobierno de Sánchez ha impuesto su criterio con la nueva normativa para los chiringuitos y esto pone a muchos en jaque. Andalucía tiene casi 1.000 kilómetros de costa, en la que se desarrolla una actividad económica que puede ser golpeada con dureza. Muchos",
-      "date": "Thu, 09 Jul 2026 18:43:37 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Los bomberos de Córdoba estabilizan el incendio de pastos junto al Montón de la Tierra",
-      "link": "https://www.abc.es/espana/andalucia/cordoba/bomberos-cordoba-actuan-incendio-pastos-junto-monton-20260709184246-nts.html",
-      "desc": "Los efectivos del Servicio de Extinción de Incendios y Salvamento del Ayuntamiento de Córdoba han estabilizado en la tarde de este jueves el incendio que se ha declarado junto a la parcelación El Montón de la Tierra, entre el núcleo de Córdoba y la barriada de",
-      "date": "Thu, 09 Jul 2026 18:42:47 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "La Policicía Nacional pide no colgar fotos durante las vacaciones este verano: «Puede revelar que una vivienda permanece deshabitada»",
-      "link": "https://www.abc.es/espana/andalucia/policicia-nacional-pide-colgar-fotos-vacaciones-verano-20260709184139-nts.html",
-      "desc": "Uno de los grandes temores al salir de vacaciones es dejar la vivienda vacía con el riesgo de sufrir robos de nuestras pertenencias. Como cada verano, Policía Nacional ofrece algunos consejos que pueden minimizar las posibilidades de ser víctimas de los ladron",
-      "date": "Thu, 09 Jul 2026 18:41:40 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Afectado por inhalación de humo un bombero en un incendio de vehículos en Herencia (Ciudad Real)",
-      "link": "https://www.abc.es/espana/castilla-la-mancha/afectado-inhalacion-humo-bombero-incendio-vehiculos-herencia-20260709183919-nt.html",
-      "desc": "Un bombero ha resultado afectado por inhalación de humo durante el despliegue para extinguir un incendio que se ha desatado este jueves en una nave industrial en Herencia, Ciudad Real. El bombero, de 43 años, ha sido atendido in situ por una UVI desplazada en ",
-      "date": "Thu, 09 Jul 2026 18:39:20 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Valle García renuncia a su puesto como directora del Servicio Andaluz de Salud (SAS)",
-      "link": "https://www.abc.es/espana/andalucia/valle-garcia-renuncia-puesto-directora-servicio-andaluz-20260709183507-nts.html",
-      "desc": "La directora-gerente del Servicio Andaluz de Salud (SAS), Valle García Sánchez , ya no ejerce como tal. Y no porque el Gobierno regional esté de mudanza -este mismo jueves se han nombrado los nuevos consejeros, entre ellos el de Sanidad, Antonio Sanz- sino por",
-      "date": "Thu, 09 Jul 2026 18:35:08 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "George Andrews deja de ser jugador del Córdoba CF y se marcha traspasado al Getafe",
-      "link": "https://www.abc.es/espana/andalucia/cordoba/cordoba-cf/george-andrews-deja-cordoba-marcha-traspasado-getafe-20260709181614-nts.html",
-      "desc": "Aunque era una apuesta de futuro dentro de la cúpula blanquiverde, George Andrews no jugará en El Arcángel en competición oficial pese a contar con un año más de contrato. En un movimiento lejos de lo esperado, el Córdoba CF ha cerrado el traspaso del extremo ",
-      "date": "Thu, 09 Jul 2026 18:23:47 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Sánchez «inutilizará y almacenará» la pistola que Erdogan le regaló en la cumbre de la OTAN",
-      "link": "https://www.abc.es/espana/sanchez-inutilizara-almacenara-pistola-erdogan-regalo-cumbre-20260709182331-nt.html",
-      "desc": "En pleno debate sobre los regalos que reciben los presidentes, a cuenta de la investigación sobre las joyas que aparecieron en la caja fuerte del despacho profesional de José Luis Rodríguez Zapatero, irrumpe el obsequio que Pedro Sánchez se ha traído de Ankara",
-      "date": "Thu, 09 Jul 2026 18:23:32 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "zap"
-    },
-    {
-      "title": "Jugar para combatir el calor: el Círculo de Bellas Artes reinventa su refugio climático",
-      "link": "https://www.abc.es/espana/madrid/jugar-combatir-calor-circulo-bellas-artes-reinventa-20260709181749-nt.html",
-      "desc": "Basta con cruzar la puerta del Salón de Baile para notar la diferencia. El aire fresco sustituye de golpe al calor, que uno trae del exterior, y un ligero escalofrío agradable recorre el cuerpo, antes incluso de descubrir qué se esconde bajo la imponente cúpul",
-      "date": "Thu, 09 Jul 2026 18:17:49 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Finaliza el proyecto de señalización turística que facilitará los recorridos a pie en Illescas",
-      "link": "https://www.abc.es/espana/castilla-la-mancha/toledo/pueblos/finaliza-proyecto-senalizacion-turistica-facilitara-recorridos-pie-20260709181435-nt.html",
-      "desc": "La Concejalía de Turismo del Ayuntamiento de Illescas ha concluido el proyecto de suministro e instalación de la nueva señalización turística peatonal que contribuirá en la mejora de la accesibilidad, la movilidad y la promoción del municipio . Con esta interv",
-      "date": "Thu, 09 Jul 2026 18:14:36 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Los mensajes de Mazón y Catalá la noche de la dana: «Es horrible. Va a haber muchos muertos»",
-      "link": "https://www.abc.es/espana/comunidad-valenciana/mensajes-mazon-catala-noche-dana-horrible-haber-20260709181244-nt.html",
-      "desc": "«Es horrible. Va a haber muchos muertos. Decenas seguro ya». Son los mensajes que el ex presidente de la Generalitat Valenciana Carlos Mazón envió a la alcaldesa de Valencia, María José Catalá, alrededor de las 23.15 horas del 29 de octubre de 2024, la noche d",
-      "date": "Thu, 09 Jul 2026 18:12:44 +0200",
       "source": "ABC",
       "color": "#c0392b",
       "feedId": "ABC",
