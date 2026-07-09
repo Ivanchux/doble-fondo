@@ -1,9 +1,29 @@
 {
-  "updated": "2026-07-09T19:37:33Z",
+  "updated": "2026-07-09T21:18:46Z",
   "count": 24,
   "items": [
     {
-      "title": "Un incendio en la provincia de Almería obliga a desalojar vecinos de barriadas cercanas a Bédar",
+      "title": "Pedro Sánchez visita este lunes La Línea por la retirada de la Verja de Gibraltar",
+      "link": "https://www.abc.es/espana/andalucia/cadiz/pedro-sanchez-visita-lunes-linea-retirada-verja-20260709222600-nts.html",
+      "desc": "El presidente del Gobierno, Pedro Sánchez, se desplazará el próximo lunes 13 de julio a la Línea de la Concepción (Cádiz) con ocasión de la entrada en vigor del acuerdo sobre Gibraltar y la demolición de la Verja , previstos para el miércoles. Su visita, que s",
+      "date": "Thu, 09 Jul 2026 22:27:28 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "La Lotería Nacional deja en El Carpio un premio de 30.000 euros al décimo",
+      "link": "https://www.abc.es/espana/andalucia/cordoba/loteria-nacional-deja-carpio-premio-30000-euros-20260709214535-nts.html",
+      "desc": "El sorteo de los jueves de la Lotería Nacional ha vuelto a sonreír a la provincia de Córdoba. El primer premio ha recaído en el número 56.177 que en parte se ha vendido en la localidad de El Carpio , según ha informado Loterías y Apuestas del Estado. Ha sido e",
+      "date": "Thu, 09 Jul 2026 21:45:35 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Un incendio en la provincia de Almería obliga a desalojar vecinos de barriadas cercanas a Bédar y cortar la autovía A7",
       "link": "https://www.abc.es/espana/andalucia/almeria/incendio-provincia-almeria-obliga-desalojar-vecinos-barriadas-20260709212738-nts.html",
       "desc": "La evolución del incendio forestal declarado este jueves en un paraje del municipio de Los Gallardos en la provincia de Almería ha obligado a activar la fase de emergencia, situación operativa 1, del Plan de Emergencia por Incendios Forestales de Andalucía (Pl",
       "date": "Thu, 09 Jul 2026 21:28:43 +0200",
@@ -177,26 +197,6 @@
       "link": "https://www.abc.es/espana/castilla-leon/luz-verde-reconstruccion-abside-iglesia-siglo-xii-20260709184848-nt.html",
       "desc": "El Arzobispado de Valladolid ha recibido la aprobación de la Comisión Territorial de Patrimonio a la reconstrucción del ábside colapsado , en enero de este año, en la iglesia de la localidad vallisoletana de Muriel de Zapardiel, que previsiblemente «comenzará ",
       "date": "Thu, 09 Jul 2026 18:48:49 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "San Andrés de Teixido: el santuario gallego donde hay que ir de muerto si no se va de vivo",
-      "link": "https://www.abc.es/espana/galicia/san-andres-teixido-santuario-gallego-muerto-vivo-20260709184701-nt.html",
-      "desc": "Galicia cuenta con rincones donde la frontera entre lo sagrado, lo mágico y la tradición popular se difumina por completo. El máximo exponente de este misticismo es San Andrés de Teixido, un pequeño núcleo de casas blancas situado en el municipio de Cedeira (L",
-      "date": "Thu, 09 Jul 2026 18:47:01 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "«No habrá paguitas para inmigrantes ilegales»: Vox aplica ya la prioridad nacional en Aragón",
-      "link": "https://www.abc.es/espana/aragon/paguitas-inmigrantes-ilegales-vox-describe-prioridad-nacional-20260709124810-nt.html",
-      "desc": "Primera gran medida de la nueva etapa política en Aragón tras las últimas elecciones autonómicas. El Gobierno de Aragón, que echó a andar hace dos meses, ha anunciado este jueves que va a endurecer los requisitos de acceso a la Prestación Aragonesa Complementa",
-      "date": "Thu, 09 Jul 2026 18:43:49 +0200",
       "source": "ABC",
       "color": "#c0392b",
       "feedId": "ABC",
