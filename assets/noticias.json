@@ -1,7 +1,77 @@
 {
-  "updated": "2026-07-08T23:00:38Z",
+  "updated": "2026-07-09T02:30:35Z",
   "count": 24,
   "items": [
+    {
+      "title": "La ampliación masiva de la 'ley de nietos' se vuelve contra los descendientes de exiliados",
+      "link": "https://www.abc.es/espana/ampliacion-masiva-ley-nietos-perjudica-descendientes-exiliados-20260709020721-nt.html",
+      "desc": "La instrucción con la que el Ministerio de Justicia amplió masivamente el número de personas que podían solicitar nacionalidad española por la Ley de Memoria Democrática o 'ley de nietos' ha provocado un colapso en los consulados que está perjudicando precisam",
+      "date": "Thu, 09 Jul 2026 02:07:21 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Moncloa ve en los ataques de Trump un balón de oxígeno en pleno asedio por la corrupción",
+      "link": "https://www.abc.es/espana/moncloa-ataques-trump-balon-oxigeno-pleno-asedio-20260709020132-nt.html",
+      "desc": "En pleno asedio por los casos de corrupción, Pedro Sánchez ha vuelto a encontrar en Donald Trump un aliado , no tan inesperado como cabría esperar, en los márgenes de la cumbre de la OTAN en Ankara. El enfrentamiento de la Administración norteamericana con Esp",
+      "date": "Thu, 09 Jul 2026 02:01:32 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "El Gobierno no se compromete a presentar los Presupuestos en septiembre como marca la Constitución",
+      "link": "https://www.abc.es/espana/gobierno-compromete-presentar-presupuestos-septiembre-marca-constitucion-20260708015347-nt.html",
+      "desc": "Conviene hacer una prevención antes de iniciar o continuar la lectura. Cualquier información que verse sobre los Presupuestos Generales del Estado (PGE) debe partir de una premisa y consumirse en base a la experiencia previa. Esto es, todas las veces que el Go",
+      "date": "Thu, 09 Jul 2026 01:53:47 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Don Benito entierra la fusión con Villanueva: así murió el proyecto que pudo cambiar el mundo rural en España",
+      "link": "https://www.abc.es/espana/extremadura/don-benito-entierra-definitivamente-fusion-villanueva-serena-20260702014826-nt.html",
+      "desc": "Los grandes proyectos, que así se venden desde el principio, como impulsores de cambio, normalmente nacen o mueren cuando se unen dos variables: el clamor popular y la voluntad política. Cuatro años después de que, en referéndum, las poblaciones de Villanueva ",
+      "date": "Thu, 09 Jul 2026 01:48:26 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Cuando vivir en garajes de 30 metros cuadrados es la mejor opción en Orcasur: «Es inhumano»",
+      "link": "https://www.abc.es/espana/madrid/orcasur-viven-garajes-habitan-jovenes-hijos-20260701014358-nt.html",
+      "desc": "Orcasur es uno de esos barrios que son duros porque no han tenido más opción. Lo llamaban el barrio del carburo porque, cuando se instalaron en él sus primeros moradores, les entregaron las viviendas sin luz eléctrica. Y salían los jóvenes a las discotecas enf",
+      "date": "Thu, 09 Jul 2026 01:43:58 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Nicanor Briceño, la revolución de un Villaverde hasta el cuello de burro",
+      "link": "https://www.abc.es/espana/madrid/nicanor-briceno-revolucion-villaverde-cuello-burro-20260708014302-nt.html",
+      "desc": "A principios de los noventa, Madrid comenzaba a tener una resaca de la que no despertaba del todo. Del «que todo el mundo se coloque» de Tierno Galván a la peseta de Lola Flores , había pasado de todo. El sur de la ciudad atravesaba también uno de los peores m",
+      "date": "Thu, 09 Jul 2026 01:43:02 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Los sicarios del ucraniano planearon el crimen en alojamientos para 'anónimos'",
+      "link": "https://www.abc.es/espana/madrid/sicarios-ucraniano-planearon-crimen-alojamientos-anonimos-20260708012953-nt.html",
+      "desc": "El enorme agujero de seguridad que pueden suponer ciertos hospedajes y alquileres turístico queda reflejado en uno de los informes más recientes del Grupo V de Homicidios de Madrid sobre el asesinato del político y abogado ucraniano Andrii Portnov , a las puer",
+      "date": "Thu, 09 Jul 2026 01:29:53 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
     {
       "title": "Las llamas mantienen en vilo a La Guardia y Villatobas en Toledo en una madrugada de cielos rojos y humo intenso",
       "link": "https://www.abc.es/espana/castilla-la-mancha/toledo/llamas-mantienen-vilo-guardia-villatobas-toledo-madrugada-20260709005311-nt.html",
@@ -127,76 +197,6 @@
       "link": "https://www.abc.es/espana/extremadura/guardiola-desmarca-ley-concebido-nacido-feijoo-ayuso-20260708194620-nt.html",
       "desc": "La Junta de Extremadura no se plantea, al menos por el momento, impulsar una ley que reconozca al concebido no nacido, como ya ocurre en la Comunidad de Madrid. La posición del gobierno de María Guardiola se desmarca de la iniciativa impulsada por la president",
       "date": "Wed, 08 Jul 2026 19:46:20 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Un exjugador de la selección y el Real Madrid, de paseo por Santiago",
-      "link": "https://www.abc.es/espana/galicia/exjugador-seleccion-real-madrid-paseo-santiago-20260708193000-nt.html",
-      "desc": "Las calles de Santiago de Compostela registraron una visita de primer nivel deportivo que no pasó desapercibida para los viandantes ni para las plataformas digitales locales. Uno de los integrantes más laureados de la historia del Real Madrid fue visto mientra",
-      "date": "Wed, 08 Jul 2026 19:30:00 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Europa toma conciencia de la amenaza narco en Andalucía: «No queremos homenajes en los funerales»",
-      "link": "https://www.abc.es/espana/andalucia/europa-toma-conciencia-amenaza-narco-andalucia-queremos-20260708192550-nts.html",
-      "desc": "El Parlamento Europeo ha tomado conciencia este miércoles de lo que suponen la amenaza del narco en Andalucía para las fronteras de la UE. La sede de Estrasburgo ha acogido varias intervenciones en las que se ha puesto de relevancia el problema y lo que supone",
-      "date": "Wed, 08 Jul 2026 19:27:19 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Un robo de cable provoca retrasos en los trenes de alta velocidad entre Madrid y Andalucía",
-      "link": "https://www.abc.es/espana/andalucia/robo-cable-paraliza-corredor-sur-provoca-retrasos-20260708192234-nts.html",
-      "desc": "La circulación ferroviaria en el corredor más emblemático de la alta velocidad española sufre un serio revés. Los trenes que conectan Madrid con Andalucía están acumulando significativos retrasos este miércoles como consecuencia de un acto vandálico. Han robad",
-      "date": "Wed, 08 Jul 2026 19:22:34 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "La Junta impulsará la declaración como proyecto prioritario de Substrate IA en Talavera de la Reina",
-      "link": "https://www.abc.es/espana/castilla-la-mancha/toledo/talavera/junta-impulsara-declaracion-proyecto-prioritario-substrate-ia-20260708191107-nt.html",
-      "desc": "El Gobierno de Castilla-La Mancha solicitará en los próximos días al Ayuntamiento de Talavera de la Reina el informe preceptivo para continuar la tramitación de la declaración como proyecto prioritario para la región de la implantación de Substrate IA, empresa",
-      "date": "Wed, 08 Jul 2026 19:11:08 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Reivindicaciones de alto voltaje: Juanfe Pérez en el Festival de la Guitarra de Córdoba",
-      "link": "https://www.abc.es/espana/andalucia/cordoba/reivindicaciones-alto-voltaje-juanfe-perez-festival-guitarra-20260708190632-nts.html",
-      "desc": "¿Quién puede ponerle puertas al campo? ¿Quién decide lo que es o no flamenco ? Hacerse un hueco en el universo de lo jondo no es fácil. Lo saben bien quienes se dedican a esto. Pero la cosa se pone aún más cuesta arriba cuando ni siquiera se es reconocido dent",
-      "date": "Wed, 08 Jul 2026 19:06:32 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Vecinos de Santa Bárbara denuncian una «grave plaga de cucarachas y roedores» en sus calles",
-      "link": "https://www.abc.es/espana/castilla-la-mancha/toledo/vecinos-santa-barbara-denuncian-grave-plaga-cucarachas-20260708185312-nt.html",
-      "desc": "La Asociación Vecinal Alcántara ha denunciado una «grave plaga de cucarachas y roedores» en todas las calles del barrio toledano de Santa Bárbara después de que este miércoles « cientos de cucarachas » salieran de las alcantarillas sobre las 12:00 horas e inva",
-      "date": "Wed, 08 Jul 2026 18:53:13 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Wizz Air anuncia tres nuevas rutas directas de Santiago a Madrid, Valencia y Bilbao",
-      "link": "https://www.abc.es/espana/galicia/wizz-air-anuncia-tres-nuevas-rutas-directas-20260708184820-nt.html",
-      "desc": "La aerolínea de bajo coste Wizz Air ha anunciado este miércoles la apertura de sus primeras bases operativas en España, localizadas en Madrid y Valencia. Este movimiento beneficiará de forma directa a la terminal compostelana, que sumará de golpe tres nuevas r",
-      "date": "Wed, 08 Jul 2026 18:49:39 +0200",
       "source": "ABC",
       "color": "#c0392b",
       "feedId": "ABC",
