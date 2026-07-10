@@ -1,7 +1,17 @@
 {
-  "updated": "2026-07-10T21:02:24Z",
+  "updated": "2026-07-10T22:56:11Z",
   "count": 24,
   "items": [
+    {
+      "title": "Fallece un joven de 16 años por las graves quemaduras sufridas en un incendio en Jaén",
+      "link": "https://www.abc.es/espana/andalucia/jaen/fallece-joven-anos-graves-quemaduras-sufridas-incendio-20260710190702-nts.html",
+      "desc": "El joven de 16 años que sufrió ayer graves quemaduras en un incendio en el municipio jiennense de Andújar ha fallecido esta mañana. Pese a ser evacuado en un helicóptero desde el Hospital Alto Guadalquivir al Virgen del Rocío de Sevilla no se ha podido salvar ",
+      "date": "Fri, 10 Jul 2026 23:50:47 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
     {
       "title": "García Page ofrece su ayuda y dice que hoy «se siente Andalucía»",
       "link": "https://www.abc.es/espana/andalucia/almeria/garcia-page-ofrece-ayuda-dice-hoy-siente-20260710223444-nts.html",
@@ -187,16 +197,6 @@
       "link": "https://www.abc.es/espana/andalucia/almeria/cuatro-britanicos-borde-carretera-ocho-rechazaron-evacuacion-20260710191304-nts.html",
       "desc": "Cuatro personas calcinadas en el interior de su vehículo a tan solo unos metros de alcanzar la carretera y otras ocho fallecidas mientras huían a pie por el monte tras desoír los avisos conforman el trágico balance de doce muertos que deja hasta el momento el ",
       "date": "Fri, 10 Jul 2026 19:13:05 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Bédar, el refugio británico de Almería del que doce vecinos no lograron escapar al fuego",
-      "link": "https://www.abc.es/espana/andalucia/almeria/bedar-refugio-britanico-almeria-doce-vecinos-lograron-20260710183359-nts.html",
-      "desc": "En Bédar el inglés nunca ha sonado extraño. En los bares, en las terrazas, en las reuniones vecinales o en los pequeños comercios convive desde hace años con el español con absoluta naturalidad. Este municipio del Levante almeriense, de apenas 950 habitantes ,",
-      "date": "Fri, 10 Jul 2026 18:41:46 +0200",
       "source": "ABC",
       "color": "#c0392b",
       "feedId": "ABC",
