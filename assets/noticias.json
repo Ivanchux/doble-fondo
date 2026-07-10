@@ -1,92 +1,202 @@
 {
-  "updated": "2026-07-10T02:32:23Z",
+  "updated": "2026-07-10T07:30:48Z",
   "count": 24,
   "items": [
     {
-      "title": "Las 'vacaciones' de los diputados: solo plenos extraordinarios por urgencia o necesidad",
-      "link": "https://www.abc.es/espana/vacaciones-diputados-solo-plenos-extraordinarios-urgencia-necesidad-20260710031231-nt.html",
-      "desc": "Ya entrada la segunda semana del mes de julio, en plena ola de calor en Madrid, lo único que trabaja a pleno rendimiento en el Congreso de los Diputados es el aire acondicionado . El Reglamento de la Cámara Baja establece que sus señorías se reúnen por norma g",
-      "date": "Fri, 10 Jul 2026 03:12:31 +0200",
+      "title": "Pantallas gigantes en Valencia para ver el el partido de cuartos de final España-Bélgica",
+      "link": "https://www.abc.es/espana/comunidad-valenciana/pantallas-gigantes-valencia-ver-partido-cuartos-final-20260710092255-nt.html",
+      "desc": "El Ayuntamiento de València abrirá esta tarde el Pabellón de la Fuente de San Luis para seguir el enfrentamiento en cuartos de la Copa Mundial de la FIFA 2026 entre España y Bélgica. El partido entre ambas selecciones, que se celebra esta tarde a las 21:00h, s",
+      "date": "Fri, 10 Jul 2026 09:22:56 +0200",
       "source": "ABC",
       "color": "#c0392b",
       "feedId": "ABC",
       "caso": "other"
     },
     {
-      "title": "Investigan si la explosión de una batería de litio desató el incendio de la Torre Moeve",
-      "link": "https://www.abc.es/espana/madrid/investigan-explosion-bateria-litio-desato-incendio-torre-20260709014433-nt.html",
-      "desc": "La Policía Nacional mantiene abierta la investigación en torno a las circunstancias del incendio que se desató el pasado 23 de junio , en plena canícula y sobre las cinco de la tarde, en la Torre Moeve, una de las cinco que coronan el paseo de la Castellana de",
-      "date": "Fri, 10 Jul 2026 01:44:33 +0200",
+      "title": "Castilla y León extenderá en septiembre la vacunación obligatoria frente a la enfermedad de Newcastle",
+      "link": "https://www.abc.es/espana/castilla-leon/castilla-leon-extendera-septiembre-vacunacion-obligatoria-frente-20260710092142-nt.html",
+      "desc": "La Junta de Castilla y León ha acordado ampliar la vacunación obligatoria frente a la enfermedad de Newcastle a todas las explotaciones avícolas de producción y reproducción de la Comunidad, excepto las de autoconsumo, para reforzar el control de esta enfermed",
+      "date": "Fri, 10 Jul 2026 09:22:47 +0200",
       "source": "ABC",
       "color": "#c0392b",
       "feedId": "ABC",
       "caso": "other"
     },
     {
-      "title": "'Ley de nietos': los funcionarios piden a la JEC que excluya del censo a los nacionalizados sin prueba de exilio",
-      "link": "https://www.abc.es/espana/funcionarios-piden-junta-electoral-revise-instruccion-nacionalizaciones-20260709013438-nt.html",
-      "desc": "CSIF, el sindicato mayoritario de los funcionarios, da un paso al frente para proteger a los empleados públicos ante la elevada inseguridad jurídica en la que se encuentran quienes tramitan expedientes de nacionalidad por la instrucción de Justicia que amplía ",
-      "date": "Fri, 10 Jul 2026 01:34:38 +0200",
+      "title": "Las víctimas del incendio murieron intentando huir por una «topografía malísima» y serían en su mayoría extranjeros",
+      "link": "https://www.abc.es/espana/andalucia/victimas-incendio-murieron-intentando-huir-topografia-malisima-20260710091858-nts.html",
+      "desc": "Al menos 11 personas han muerto durante el grave incendio de Los Gallardos, en Almería, en lo que ya es el peor fuego en Andalucía por número de víctimas, a las que se suman ocho heridos, cuatro de ellos de gravedad por quemaduras y 19 desaparecidos . A falta ",
+      "date": "Fri, 10 Jul 2026 09:18:58 +0200",
       "source": "ABC",
       "color": "#c0392b",
       "feedId": "ABC",
       "caso": "other"
     },
     {
-      "title": "Sánchez gastó con su avión casi un millón de euros solo en 2025",
-      "link": "https://www.abc.es/espana/uso-avion-presidencial-parte-sanchez-supuso-gasto-20260710013415-nt.html",
-      "desc": "El uso del avión presidencial para viajar a Londres, donde este viernes se gradúa en la universidad privada su hija mayor, ha reabierto el debate sobre el empleo de las aeronaves del Estado por parte del presidente del Gobierno, Pedro Sánchez. El jefe del Ejec",
-      "date": "Fri, 10 Jul 2026 01:34:15 +0200",
+      "title": "Juanma Moreno no descarta más muertos en el incendio de Los Gallardos (Almería): «Hay 19 personas sin localizar, ha sido una ratonera»",
+      "link": "https://www.abc.es/espana/andalucia/almeria/juanma-moreno-descarta-muertos-incendio-gallardos-personas-20260710090846-nts.html",
+      "desc": "Desde anoche la tragedia se ha cebado con la comarca de Los Gallardos, en Almería , donde un incendio forestal se propagó muy rápido y ha provocado, por el momento, la muerte de once personas . Hasta la zona se está trasladando Juanma Moreno , quien ha hecho b",
+      "date": "Fri, 10 Jul 2026 09:08:46 +0200",
       "source": "ABC",
       "color": "#c0392b",
       "feedId": "ABC",
       "caso": "other"
     },
     {
-      "title": "La UCO señala a otro de los hombres clave de Sánchez por el caso cloacas",
-      "link": "https://www.abc.es/espana/uco-estrecha-cerco-sobre-moncloa-senalar-exjefe-20260710011819-nt.html",
-      "desc": "El último informe aportado por la Unidad Central Operativa (UCO) de la Guardia Civil al caso Leire Díez que instruye el juez Santiago Pedraz en la Audiencia Nacional implica a otro de los hombres de máxima confianza de Pedro Sánchez. Su jefe de Gabinete hasta ",
-      "date": "Fri, 10 Jul 2026 01:18:19 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "lei"
-    },
-    {
-      "title": "Alarma en el PSOE ante la escalada del caso Leire y el horizonte de la imputación",
-      "link": "https://www.abc.es/espana/alarma-psoe-ante-escalada-leire-horizonte-imputacion-20260710011626-nt.html",
-      "desc": "La falta de respuesta de Ferraz en el caso Leire Díez está quedando cada vez más en evidencia. La falta de respuesta judicial: el PSOE no ha procedido todavía a querellarse contra la que fuera militante socialista , pese a que la calificaron de «resentida, far",
-      "date": "Fri, 10 Jul 2026 01:16:26 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "lei"
-    },
-    {
-      "title": "Tercer intento por resucitar las cocheras de Cuatro Caminos: los vecinos y el Ayuntamiento encaran un nuevo plan",
-      "link": "https://www.abc.es/espana/madrid/tercer-intento-resucitar-cocheras-cuatro-caminos-vecinos-20260709005551-nt.html",
-      "desc": "«No desistiremos; si hace falta, acamparemos». Ese fue el compromiso que lanzó uno de los primeros propietarios de las cocheras de Cuatro Caminos el pasado mes de marzo, cuando el Tribunal Supremo rechazó su recurso de casación contra la sentencia que anulaba ",
-      "date": "Fri, 10 Jul 2026 00:55:51 +0200",
+      "title": "La «trampa mortal» del incendio de Almería: «Las once víctimas buscaron una salida que no era la de evacuación»",
+      "link": "https://www.abc.es/espana/andalucia/almeria/trampa-mortal-incendio-almeria-once-victimas-buscaron-20260710090655-nts.html",
+      "desc": "El incendio forestal declarado en la localidad almeriense de Los Gallardos es, según palabras del propio consejero de Presidencia, Sanidad y Emergencias, Antonio Sanz, el «más grave hasta la fecha» en Andalucía. El recuento de víctimas, hasta el momento, ascie",
+      "date": "Fri, 10 Jul 2026 09:06:55 +0200",
       "source": "ABC",
       "color": "#c0392b",
       "feedId": "ABC",
       "caso": "other"
     },
     {
-      "title": "López contra López en el PSOE de Madrid: «Es un aviso a Ferraz y a Sánchez»",
-      "link": "https://www.abc.es/espana/madrid/lopez-lopez-psoe-madrid-aviso-ferraz-sanchez-20260708005540-nt.html",
-      "desc": "En el PSOE de Madrid el sanchismo ejerce un control total sobre el partido. El poder y la influencia de La Moncloa y de Ferraz se dejan sentir en cada decisión, cada gesto y cada mensaje. La supuesta autonomía y rebeldía de la federación madrileña ha quedado a",
-      "date": "Fri, 10 Jul 2026 00:55:40 +0200",
+      "title": "Bioparc Valencia estrena una nueva instalación para la segunda tortuga terrestre más grande del mundo",
+      "link": "https://www.abc.es/espana/comunidad-valenciana/bioparc-valencia-estrena-nueva-instalacion-segunda-tortuga-20260710085923-nt.html",
+      "desc": "Contemplar a la t ortuga gigante de Aldabra , la segunda terrestre más grande del mundo, impresiona; y si en el mismo parque puede verse también a la tercera, la de espolones africana y a la peculiar tortuga leopardo, a la de escudo africana y la articulada de",
+      "date": "Fri, 10 Jul 2026 08:59:24 +0200",
       "source": "ABC",
       "color": "#c0392b",
       "feedId": "ABC",
       "caso": "other"
     },
     {
-      "title": "Al menos doce personas muertas en el incendio de Los Gallardos, en Almería",
-      "link": "https://www.abc.es/espana/andalucia/seis-personas-muertas-incendio-almeria-20260710005517-nts.html",
-      "desc": "Doce personas han fallecido en el incendio forestal declarado esta tarde en el municipio almeriense de Los Gallardos , según ha confirmado la Junta de Andalucía . Las muertes se han producido en una pedanía de Bédar y, algunos de los fallecimientos han sido en",
-      "date": "Fri, 10 Jul 2026 00:55:17 +0200",
+      "title": "Habilitan una oficina  para buscar a desaparecidos en el incendio de Los Gallardos",
+      "link": "https://www.abc.es/espana/andalucia/almeria/habilitan-oficina-buscar-desaparecidos-incendio-gallardos-20260710085508-nts.html",
+      "desc": "La Guardia Civil ha habilitado en el puesto de la Guardia Civil de Garrucha una oficina temporal para recibir denuncias de familiares desaparecidos en el incendio sucedido en la tarde de ayer en Los Gallardos, en el que la cifra de fallecidos se eleva por el m",
+      "date": "Fri, 10 Jul 2026 08:55:08 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Condenado a 270 euros por colarse en una casa y violar a una vaca en Lugo",
+      "link": "https://www.abc.es/espana/galicia/condenado-270-euros-colarse-casa-violar-vaca-20260710085430-nt.html",
+      "desc": "«Le dije, tú no estarás violando a la vaca? Y él me contestó que sí». Con este testimonio, el dueño de una granja de la localidad lucense de Castro de Rei explicó el pasado noviembre cómo una madrugada, después de que fuese alertado por su madre de unos ruidos",
+      "date": "Fri, 10 Jul 2026 08:54:30 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "La Costa Blanca Cup resolverá seis de sus finales este viernes",
+      "link": "https://www.abc.es/espana/comunidad-valenciana/alicante/costa-blanca-cup-resolvera-seis-finales-viernes-20260710085246-nt.html",
+      "desc": "La Costa Blanca Cup 2026 desarrolló el primer tramo de eliminatorias este jueves, como antesala de una viernes en el que se resolverán los primeros títulos. En el caso del cuadro femenino, se disputarán todas las finales por categoría de edad, lo que supondrá,",
+      "date": "Fri, 10 Jul 2026 08:52:46 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Los cuatro heridos más graves del incendio de Almería serán trasladados a la Unidad de Quemados del Virgen del Rocío",
+      "link": "https://www.abc.es/espana/andalucia/cuatro-heridos-graves-incendio-almeria-trasladados-unidad-20260710085217-nts.html",
+      "desc": "El incendio forestal declarado en localidad almeriense de Los Gallardos (Almería) deja, por ahora, nce fallecidos y ocho heridos, cuatro de ellos graves, según la última actualización difundida sobre las 07.00 horas por el consejero de Presidencia, Sanidad y E",
+      "date": "Fri, 10 Jul 2026 08:52:18 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Hosteleros de la Plaza Mayor de Toledo valoran las obras como «un mojón»",
+      "link": "https://www.abc.es/espana/castilla-la-mancha/toledo/hosteleros-plaza-mayor-toledo-valoran-obras-mojon-20260709083147-nt.html",
+      "desc": "Los hosteleros de la Plaza Mayor de Toledo no están nada conformes con las obras que el Ayuntamiento está realizando en el entorno. Tras más de dos meses de espera, sin poder poner su terraza, ahora que se acerca el final de las mismas, el resultado no es el q",
+      "date": "Fri, 10 Jul 2026 08:31:47 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "La Junta suspende la toma de posesión de los consejeros por el incendio en Los Gallardos",
+      "link": "https://www.abc.es/espana/andalucia/junta-suspende-toma-posesion-consejeros-incendio-gallardos-20260710082710-nts.html",
+      "desc": "La Junta de Andalucía ha anunciado que la toma de posesión de los consejeros del nuevo Gobierno, prevista para este viernes 10, se aplaza por las «trágicas consecuencias» del incendio de Los Gallardos, en Almería, que ha dejado ya once muertos y y ocho heridos",
+      "date": "Fri, 10 Jul 2026 08:27:10 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Incendio en Almería en directo: última hora de Los Gallardos, víctimas, desalojos y cortes de tráfico",
+      "link": "https://www.abc.es/espana/andalucia/incendio-forestal-almeria-directo-ultima-hora-gallardos-20260710080512-dis.html",
+      "desc": "Un incendio forestal declarado durante la tarde del miércoles en el municipio de Los Gallardos (Almería) se ha cobrado la vida de al menos once personas, según ha confirmado oficialmente la Junta de Andalucía. La gravedad del fuego ha obligado a activar de urg",
+      "date": "Fri, 10 Jul 2026 08:05:45 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "La UME llega al incendio de Los Gallardos y habilitan un teléfono para los familiares afectados",
+      "link": "https://www.abc.es/espana/andalucia/almeria/ume-llega-incendio-gallardos-habilitan-telefonos-familiares-20260710080213-nts.html",
+      "desc": "El Grupo de Intervención Psicológica en Emergencias y Desastres ha habilitado el número de teléfono 677904624 para ofrecer atención e información a familiares de las personas afectadas por el incendio forestal de Los Gallardos (Almería), que se salda por el mo",
+      "date": "Fri, 10 Jul 2026 08:02:13 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Juanma Moreno y Antonio Sanz trasladan su pésame a las familias de Los Gallardos: «Es el incendio de mayores consecuencias hasta la fecha en Andalucía»",
+      "link": "https://www.abc.es/espana/andalucia/almeria/juanma-moreno-antonio-sanz-trasladan-pesame-familias-20260710073416-nts.html",
+      "desc": "Antes de la medianoche de este jueves se tenía constancia de que el incendio de Los Gallardos era de gravedad. Comenzaba entonces a conocerse que había sido necesario el desalojo de los vecinos de Bédar para evitar pérdidas personales pero, desgraciadamente, h",
+      "date": "Fri, 10 Jul 2026 07:34:17 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "La plantilla del Córdoba CF sigue en obras: Ania arranca la pretemporada con demasiadas piezas y varias necesidades",
+      "link": "https://www.abc.es/espana/andalucia/cordoba/cordoba-cf/plantilla-cordoba-sigue-obras-ania-arranca-pretemporada-20260710071026-nts.html",
+      "desc": "Entre más dudas que certezas, el Córdoba CF de la temporada 2026-2027 ya ha echado a andar. Pese a que ya son doce las incorporaciones estivales -incluyendo la adquisición de Diego Bri- el plantel de Iván Ania está lejos de estar cerrado. Pese al gran número d",
+      "date": "Fri, 10 Jul 2026 07:10:26 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "La Sentencia inicia los preparativos de la cena benéfica del 50 aniversario de Gracia y Amparo en Córdoba",
+      "link": "https://www.abc.es/espana/andalucia/cordoba/semana-santa/sentencia-inicia-preparativos-cena-benefica-aniversario-gracia-20260710071013-nts.html",
+      "desc": "María Santísima de Gracia y Amparo luce radiante en el altar mayor de la parroquia de San Nicolás ataviada en tonos celeste y rosado, en el medio siglo de su llegada como titular a la cofradía de la Sentencia. Es verano, pero no por ello deja de ser el centro ",
+      "date": "Fri, 10 Jul 2026 07:10:13 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Sólo han pasado diez años",
+      "link": "https://www.abc.es/espana/andalucia/cordoba/jose-calvo-poyato-solo-pasado-diez-anos-20260710070948-nts.html",
+      "desc": "Recientemente presentó su dimisión el primer ministro británico, Keir Starmer. Era el sexto que pasaba por el número 10 de Downing Street en los años que van desde 2016, cuando un referéndum materializó el llamado Brexit : la salida de Gran Bretaña de la Unión",
+      "date": "Fri, 10 Jul 2026 07:09:48 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "El Cabildo impulsa un plan de turismo religioso a monasterios y visitas con realidad aumentada a la Mezquita-Catedral",
+      "link": "https://www.abc.es/espana/andalucia/cordoba/cabildo-impulsa-plan-turismo-religioso-monasterios-visitas-20260710070936-nts.html",
+      "desc": "El Cabildo Catedral de Córdoba trabaja desde hace meses e impulsa un plan de turismo religioso para alcanzar a los hitos eclesiásticos de la provincia. Un reto que asume en paralelo al objetivo de mejorar las experiencias que pretende ofrecer a los más de dos ",
+      "date": "Fri, 10 Jul 2026 07:09:36 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Del diálogo musical de 'Leo & Leo' al tributo flamenco a Paco de Lucía en el Festival de la Guitarra",
+      "link": "https://www.abc.es/espana/andalucia/cordoba/dialogo-musical-leo-leo-tributo-flamenco-paco-20260710070922-nts.html",
+      "desc": "El Festival Internacional de la Guitarra de Córdoba vislumbra este viernes el final de su cuadragésima quinta edición. Dos son las citas con las que llega a su penúltima fecha, la una muy diferente a la otra, y viceversa. Por un lado, el Teatro Góngora acogerá",
+      "date": "Fri, 10 Jul 2026 07:09:22 +0200",
       "source": "ABC",
       "color": "#c0392b",
       "feedId": "ABC",
@@ -131,116 +241,6 @@
       "color": "#8e44ad",
       "feedId": "LaVanguardia",
       "caso": "other"
-    },
-    {
-      "title": "Pedro Sánchez visita este lunes La Línea por la retirada de la Verja de Gibraltar",
-      "link": "https://www.abc.es/espana/andalucia/cadiz/pedro-sanchez-visita-lunes-linea-retirada-verja-20260709222600-nts.html",
-      "desc": "El presidente del Gobierno, Pedro Sánchez, se desplazará el próximo lunes 13 de julio a la Línea de la Concepción (Cádiz) con ocasión de la entrada en vigor del acuerdo sobre Gibraltar y la demolición de la Verja , previstos para el miércoles. Su visita, que s",
-      "date": "Thu, 09 Jul 2026 22:27:28 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "La Lotería Nacional deja en El Carpio un premio de 30.000 euros al décimo",
-      "link": "https://www.abc.es/espana/andalucia/cordoba/loteria-nacional-deja-carpio-premio-30000-euros-20260709214535-nts.html",
-      "desc": "El sorteo de los jueves de la Lotería Nacional ha vuelto a sonreír a la provincia de Córdoba. El primer premio ha recaído en el número 56.177 que en parte se ha vendido en la localidad de El Carpio , según ha informado Loterías y Apuestas del Estado. Ha sido e",
-      "date": "Thu, 09 Jul 2026 21:45:35 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Un libro (de ciencia) abierto",
-      "link": "https://www.lavanguardia.com/vida/20260709/11588523/libro-ciencia-abierto.html",
-      "desc": "",
-      "date": "09 Jul 2026 21:44:50 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "Josep Tabernero: “El cáncer no va a desaparecer, pero cada vez lo controlaremos más”",
-      "link": "https://www.lavanguardia.com/vida/20260709/11588521/josep-tabernero-cancer-desaparecer-vez-controlaremos-mas.html",
-      "desc": "El director del VHIO aseguró que&nbsp;“en Barcelona se da un mejor servicio para combatir un tumor que en EE.UU.”",
-      "date": "09 Jul 2026 21:40:21 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "Desalojan a vecinos de Bédar, Almería, por el incendio forestal de Los Gallardos",
-      "link": "https://www.abc.es/espana/andalucia/almeria/incendio-provincia-almeria-obliga-desalojar-vecinos-barriadas-20260709212738-nts.html",
-      "desc": "Al menos seis muertos por el incendio forestal en el municipio de Los Gallardos. El fuego ha sido declarado este jueves en un paraje y ha obligado a activar la fase de emergencia, situación operativa 2, del Plan de Emergencia por Incendios Forestales de Andalu",
-      "date": "Thu, 09 Jul 2026 21:28:43 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Toledo abre San Marcos a sus artistas con una exposición que reivindica el talento local",
-      "link": "https://www.abc.es/espana/castilla-la-mancha/toledo/toledo-abre-san-marcos-artistas-exposicion-reivindica-20260709212748-nt.html",
-      "desc": "El Centro Cultural San Marcos vuelve a convertirse este mes de julio en escaparate del talento artístico vinculado a la ciudad con la inauguración este jueves de la segunda edición del ' Mes de los artistas toledanos ', una iniciativa impulsada por el Ayuntami",
-      "date": "Thu, 09 Jul 2026 21:27:49 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Volkswagen reducirá hasta un 50% su gama de modelos y recortará producción en las fábricas",
-      "link": "https://www.lavanguardia.com/dinero/20260709/11588519/volkswagen-fabricas-modelos-empleo-recorte.html",
-      "desc": "La compañía acelera su plan de reestructuración para centrarse en segmentos de mercado de mayor rentabilidad",
-      "date": "09 Jul 2026 21:24:11 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "Un incendio próximo a las vías afecta a los trenes de alta velocidad entre Córdoba y Madrid",
-      "link": "https://www.abc.es/espana/andalucia/cordoba/incendio-proximo-vias-afecta-trenes-alta-velocidad-20260709210058-nts.html",
-      "desc": "Nuevo problema en la circulación de alta velocidad en Córdoba, aunque en esta ocasión ha sido con carácter leve y por motivos externos. Un incendio declarado en la zona próxima a las vías ha provocado que la circulación se suspenda entre la capital y la barria",
-      "date": "Thu, 09 Jul 2026 21:00:59 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Un incendio corta la autovía de la Costa del Sol y obliga a desalojar vecinos en Estepona",
-      "link": "https://www.abc.es/espana/andalucia/malaga/incendio-corta-autovia-costa-sol-obliga-desalojar-20260709205003-nts.html",
-      "desc": "Un incendio forestal se ha desatado este jueves por la tarde en el municipio malagueño de Estepona. La proliferación de las llamas ha obligado a las autoridades a cortar la AP-7 y a desalojar varias viviendas de la zona. A causa de la magnitud del fuego, a las",
-      "date": "Thu, 09 Jul 2026 20:59:14 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "El Museo del Prado lleva sus obras a los pueblos de Sanabria un año después de los incendios",
-      "link": "https://www.abc.es/espana/castilla-leon/museo-prado-lleva-obras-pueblos-sanabria-ano-20260709204527-nt.html",
-      "desc": "El Museo del Prado llevará del 9 de julio al 7 de septiembre un total de 15 réplicas de sus obras más conocidas a trece localidades zamoranas de las comarcas de Sanabria y La Carballeda con el objetivo de devolver la mirada a unos paisajes naturales que el año",
-      "date": "Thu, 09 Jul 2026 20:45:28 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Qué son las balizas inteligentes de la A-8 en O Fiouco (Lugo) y cómo evitan accidentes por niebla",
-      "link": "https://www.abc.es/espana/galicia/balizas-inteligentes-fiouco-lugo-evitan-accidentes-niebla-20260709203001-nt.html",
-      "desc": "Con la llegada del verano y el aumento de los desplazamientos por carretera hacia Galicia, la Dirección General de Tráfico (DGT) ha querido recordar cómo funciona el sistema de balizas inteligentes instalado en la autovía A-8 a la altura del alto de O Fiouco, ",
-      "date": "Thu, 09 Jul 2026 20:30:01 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "gen"
     }
   ]
 }
