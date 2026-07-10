@@ -1,7 +1,137 @@
 {
-  "updated": "2026-07-09T23:07:21Z",
+  "updated": "2026-07-10T02:32:23Z",
   "count": 24,
   "items": [
+    {
+      "title": "Las 'vacaciones' de los diputados: solo plenos extraordinarios por urgencia o necesidad",
+      "link": "https://www.abc.es/espana/vacaciones-diputados-solo-plenos-extraordinarios-urgencia-necesidad-20260710031231-nt.html",
+      "desc": "Ya entrada la segunda semana del mes de julio, en plena ola de calor en Madrid, lo único que trabaja a pleno rendimiento en el Congreso de los Diputados es el aire acondicionado . El Reglamento de la Cámara Baja establece que sus señorías se reúnen por norma g",
+      "date": "Fri, 10 Jul 2026 03:12:31 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Investigan si la explosión de una batería de litio desató el incendio de la Torre Moeve",
+      "link": "https://www.abc.es/espana/madrid/investigan-explosion-bateria-litio-desato-incendio-torre-20260709014433-nt.html",
+      "desc": "La Policía Nacional mantiene abierta la investigación en torno a las circunstancias del incendio que se desató el pasado 23 de junio , en plena canícula y sobre las cinco de la tarde, en la Torre Moeve, una de las cinco que coronan el paseo de la Castellana de",
+      "date": "Fri, 10 Jul 2026 01:44:33 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "'Ley de nietos': los funcionarios piden a la JEC que excluya del censo a los nacionalizados sin prueba de exilio",
+      "link": "https://www.abc.es/espana/funcionarios-piden-junta-electoral-revise-instruccion-nacionalizaciones-20260709013438-nt.html",
+      "desc": "CSIF, el sindicato mayoritario de los funcionarios, da un paso al frente para proteger a los empleados públicos ante la elevada inseguridad jurídica en la que se encuentran quienes tramitan expedientes de nacionalidad por la instrucción de Justicia que amplía ",
+      "date": "Fri, 10 Jul 2026 01:34:38 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Sánchez gastó con su avión casi un millón de euros solo en 2025",
+      "link": "https://www.abc.es/espana/uso-avion-presidencial-parte-sanchez-supuso-gasto-20260710013415-nt.html",
+      "desc": "El uso del avión presidencial para viajar a Londres, donde este viernes se gradúa en la universidad privada su hija mayor, ha reabierto el debate sobre el empleo de las aeronaves del Estado por parte del presidente del Gobierno, Pedro Sánchez. El jefe del Ejec",
+      "date": "Fri, 10 Jul 2026 01:34:15 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "La UCO señala a otro de los hombres clave de Sánchez por el caso cloacas",
+      "link": "https://www.abc.es/espana/uco-estrecha-cerco-sobre-moncloa-senalar-exjefe-20260710011819-nt.html",
+      "desc": "El último informe aportado por la Unidad Central Operativa (UCO) de la Guardia Civil al caso Leire Díez que instruye el juez Santiago Pedraz en la Audiencia Nacional implica a otro de los hombres de máxima confianza de Pedro Sánchez. Su jefe de Gabinete hasta ",
+      "date": "Fri, 10 Jul 2026 01:18:19 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "lei"
+    },
+    {
+      "title": "Alarma en el PSOE ante la escalada del caso Leire y el horizonte de la imputación",
+      "link": "https://www.abc.es/espana/alarma-psoe-ante-escalada-leire-horizonte-imputacion-20260710011626-nt.html",
+      "desc": "La falta de respuesta de Ferraz en el caso Leire Díez está quedando cada vez más en evidencia. La falta de respuesta judicial: el PSOE no ha procedido todavía a querellarse contra la que fuera militante socialista , pese a que la calificaron de «resentida, far",
+      "date": "Fri, 10 Jul 2026 01:16:26 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "lei"
+    },
+    {
+      "title": "Tercer intento por resucitar las cocheras de Cuatro Caminos: los vecinos y el Ayuntamiento encaran un nuevo plan",
+      "link": "https://www.abc.es/espana/madrid/tercer-intento-resucitar-cocheras-cuatro-caminos-vecinos-20260709005551-nt.html",
+      "desc": "«No desistiremos; si hace falta, acamparemos». Ese fue el compromiso que lanzó uno de los primeros propietarios de las cocheras de Cuatro Caminos el pasado mes de marzo, cuando el Tribunal Supremo rechazó su recurso de casación contra la sentencia que anulaba ",
+      "date": "Fri, 10 Jul 2026 00:55:51 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "López contra López en el PSOE de Madrid: «Es un aviso a Ferraz y a Sánchez»",
+      "link": "https://www.abc.es/espana/madrid/lopez-lopez-psoe-madrid-aviso-ferraz-sanchez-20260708005540-nt.html",
+      "desc": "En el PSOE de Madrid el sanchismo ejerce un control total sobre el partido. El poder y la influencia de La Moncloa y de Ferraz se dejan sentir en cada decisión, cada gesto y cada mensaje. La supuesta autonomía y rebeldía de la federación madrileña ha quedado a",
+      "date": "Fri, 10 Jul 2026 00:55:40 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Al menos doce personas muertas en el incendio de Los Gallardos, en Almería",
+      "link": "https://www.abc.es/espana/andalucia/seis-personas-muertas-incendio-almeria-20260710005517-nts.html",
+      "desc": "Doce personas han fallecido en el incendio forestal declarado esta tarde en el municipio almeriense de Los Gallardos , según ha confirmado la Junta de Andalucía . Las muertes se han producido en una pedanía de Bédar y, algunos de los fallecimientos han sido en",
+      "date": "Fri, 10 Jul 2026 00:55:17 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Mueren seis personas en el incendio forestal de Los Gallardos",
+      "link": "https://www.lavanguardia.com/local/andalucia/20260710/11588570/mueren-seis-personas-incendio-forestal-gallardos.html",
+      "desc": "Algunas víctimas han sido halladas en el interior de vehículos alcanzados por las llamas",
+      "date": "10 Jul 2026 00:50:17 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
+    {
+      "title": "Francia, un poder absolutista que arrolla lo que encuentra a su paso",
+      "link": "https://www.lavanguardia.com/deportes/futbol/20260710/11588567/francia-poder-absolutista-arrolla-encuentra-paso-marruecos.html",
+      "desc": "El conjunto 'bleu' ejerce de favorito desde el minuto 1, minimiza a un Marruecos muy cohibido y lo elimina con goles de Mbappé y Dembélé",
+      "date": "10 Jul 2026 00:27:55 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
+    {
+      "title": "Risas con sordina en el 'Falstaff' del Liceu",
+      "link": "https://www.lavanguardia.com/cultura/20260710/11588565/risas-sordina-falstaff-liceu-verdi-pons.html",
+      "desc": "El público del Gran Teatre sortea el calor y las obras de la Rambla para celebrar a Verdi y despedir a Pons",
+      "date": "10 Jul 2026 00:05:22 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
+    {
+      "title": "El ‘lawfare’ no lo tapa todo",
+      "link": "https://www.lavanguardia.com/opinion/20260710/11588527/lawfare-tapa.html",
+      "desc": "Estaría bien que los dirigentes socialistas admitieran los errores que se han cometido y que dejan en un segundo plano la gestión del Gobierno",
+      "date": "10 Jul 2026 00:05:00 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
     {
       "title": "Pedro Sánchez visita este lunes La Línea por la retirada de la Verja de Gibraltar",
       "link": "https://www.abc.es/espana/andalucia/cadiz/pedro-sanchez-visita-lunes-linea-retirada-verja-20260709222600-nts.html",
@@ -23,7 +153,27 @@
       "caso": "other"
     },
     {
-      "title": "Al menos seis muertos en un incendio forestal en la provincia de Almería",
+      "title": "Un libro (de ciencia) abierto",
+      "link": "https://www.lavanguardia.com/vida/20260709/11588523/libro-ciencia-abierto.html",
+      "desc": "",
+      "date": "09 Jul 2026 21:44:50 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
+    {
+      "title": "Josep Tabernero: “El cáncer no va a desaparecer, pero cada vez lo controlaremos más”",
+      "link": "https://www.lavanguardia.com/vida/20260709/11588521/josep-tabernero-cancer-desaparecer-vez-controlaremos-mas.html",
+      "desc": "El director del VHIO aseguró que&nbsp;“en Barcelona se da un mejor servicio para combatir un tumor que en EE.UU.”",
+      "date": "09 Jul 2026 21:40:21 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
+    {
+      "title": "Desalojan a vecinos de Bédar, Almería, por el incendio forestal de Los Gallardos",
       "link": "https://www.abc.es/espana/andalucia/almeria/incendio-provincia-almeria-obliga-desalojar-vecinos-barriadas-20260709212738-nts.html",
       "desc": "Al menos seis muertos por el incendio forestal en el municipio de Los Gallardos. El fuego ha sido declarado este jueves en un paraje y ha obligado a activar la fase de emergencia, situación operativa 2, del Plan de Emergencia por Incendios Forestales de Andalu",
       "date": "Thu, 09 Jul 2026 21:28:43 +0200",
@@ -40,6 +190,16 @@
       "source": "ABC",
       "color": "#c0392b",
       "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Volkswagen reducirá hasta un 50% su gama de modelos y recortará producción en las fábricas",
+      "link": "https://www.lavanguardia.com/dinero/20260709/11588519/volkswagen-fabricas-modelos-empleo-recorte.html",
+      "desc": "La compañía acelera su plan de reestructuración para centrarse en segmentos de mercado de mayor rentabilidad",
+      "date": "09 Jul 2026 21:24:11 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
       "caso": "other"
     },
     {
@@ -81,166 +241,6 @@
       "color": "#c0392b",
       "feedId": "ABC",
       "caso": "gen"
-    },
-    {
-      "title": "Juanma Serrano, de arruinar Correos a consultor del pelotazo del hidrógeno verde",
-      "link": "https://www.abc.es/espana/juanma-serrano-presidente-correos-consultor-hidrogeno-verde-20260709202806-nt.html",
-      "desc": "Considerado durante años uno de los principales arquitectos en la sombra del proyecto político de Pedro Sánchez, la carrera de Juanma Serrano se centra hoy en su reciente reinvención profesional en el sector de las energías verdes, un refugio privado muy aleja",
-      "date": "Thu, 09 Jul 2026 20:28:06 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Aviso amarillo en siete provincias de Castilla y León por tormentas y lluvia",
-      "link": "https://www.abc.es/espana/castilla-leon/aviso-amarillo-siete-provincias-castilla-leon-tormentas-20260709201438-nt.html",
-      "desc": "La ola de calor que estos últimos cuatro días ha atravesado Castilla y León dará paso a las tormentas. Así lo advierten los avisos de la Agencia Estatal de Meteorología, que, si bien prevé desde este viernes un descenso en las temperaturas, tiñe de alerta amar",
-      "date": "Thu, 09 Jul 2026 20:14:40 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "El Córdoba tendrá al Real Jaén como rival de pretemporada el día de su 72 aniversario",
-      "link": "https://www.abc.es/espana/andalucia/cordoba/cordoba-real-jaen-rival-pretemporada-dia-aniversario-20260709200416-nts.html",
-      "desc": "Poco a poco, el calendario estival del Córdoba CF toma forma. El cuadro califal comenzó el miércoles con su pretemporada, dentro de la cual tendrá, mínimo, cuatro partidos. Serán más, pero hasta ahora ésa es la cifra de amistosos que se confirmó. Y el último q",
-      "date": "Thu, 09 Jul 2026 20:04:17 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Martínez (PSCL) ve «injustas» las ponderaciones en la financiación pero acusa al PP de «inhibirse»",
-      "link": "https://www.abc.es/espana/castilla-leon/martinez-pscl-injustas-ponderaciones-financiacion-acusa-pp-20260709195027-nt.html",
-      "desc": "El secretario general del PSOE de Castilla y León (PSCL), Carlos Martínez, ha afirmado este jueves que es «injusto e insuficiente» el resultado final de la propuesta de reforma del modelo de financiación autonómica por los criterios de ponderación aplicados, p",
-      "date": "Thu, 09 Jul 2026 19:50:27 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "El incendio de Guimerà se reactiva y obliga a confinar a 21.000 personas",
-      "link": "https://www.abc.es/espana/cataluna/incendio-guimera-reactiva-obliga-confinar-21000-personas-20260709193947-nt.html",
-      "desc": "Los Bomberos de la Generalitat tratan de sofocar el incendio de la localidad ilerdense de Guimerà , que se ha reactivado la tarde de este jueves y donde trabajan una veintena dotaciones terrestres, cinco aviones y cuatro helicópteros. Unas llamas que han oblig",
-      "date": "Thu, 09 Jul 2026 19:39:47 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Retenido un barco en Las Palmas después de que su capitán diese positivo en un control de alcoholemia",
-      "link": "https://www.abc.es/espana/canarias/retenido-barco-palmas-despues-capitan-diese-positivo-20260709193232-nt.html",
-      "desc": "La Capitanía Marítima de Las Palmas ha abierto un expediente sancionador y ha impuesto una garantía de 50.000 euros a un buque de bandera de Países Bajos después de confirmar que el capitán superaba el límite nacional e internacional de alcoholemia de 0,25mg/l",
-      "date": "Thu, 09 Jul 2026 19:32:33 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "El nuevo jefe superior de Policía de Castilla y León apela al «cumplimiento riguroso» del código ético",
-      "link": "https://www.abc.es/espana/castilla-leon/nuevo-jefe-superior-policia-castilla-leon-apela-20260709192842-nt.html",
-      "desc": "«Actuaremos siempre con las herramientas técnicas y legales del Estado de derecho, el imperio de la ley y bajo el cumplimiento riguroso de nuestro código ético ». Con esa premisa ha tomado este jueves posesión como nuevo jefe superior de Policía en Castilla y ",
-      "date": "Thu, 09 Jul 2026 19:28:42 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "'Abierto por vacaciones': el programa en coles de educación especial que permite conciliar en las casas de 4.500 alumnos",
-      "link": "https://www.abc.es/espana/aragon/abierto-vacaciones-programa-coles-educacion-especial-permite-20260709191429-nt.html",
-      "desc": "Jorge Azcón, presidente de Aragón, y la consejera de Educación, Ciencia y Universidades, Carmen Susín, han visitado este jueves un colegio. Un 10 de julio. Y sigue en plena actividad. El centro escogido es de Educación Especial, el Jean Piaget de Zaragoza. Amb",
-      "date": "Thu, 09 Jul 2026 19:17:49 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Condenado a tres años de prisión por estrellar un vaso en la cara de un joven durante una pelea",
-      "link": "https://www.abc.es/espana/galicia/condenado-tres-anos-prision-estrellar-vaso-cara-20260709190815-nt.html",
-      "desc": "La Sección Segunda de la Audiencia Provincial de Lugo ha condenado a tres años de prisión a un joven acusado de agredir a otro con un vaso durante una pelea ocurrida en la madrugada del 5 de junio de 2022 en un establecimiento de ocio de la rúa da Cruz, en ple",
-      "date": "Thu, 09 Jul 2026 19:08:16 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Riesgo extremo de incendios para Huesca: segunda alerta rojo plus este verano",
-      "link": "https://www.abc.es/espana/aragon/riesgo-extremo-incendios-huesca-segunda-alerta-rojo-20260709190215-nt.html",
-      "desc": "El Gobierno de Aragón toma la decisión de decretar por segunda vez en lo que llevamos de verano la alerta rojo plus en seis comarcas de Huesca con gravísimo riesgo de incendios, y lo hace un día después de confinar el municipio de Albelda por el último fuego q",
-      "date": "Thu, 09 Jul 2026 19:04:40 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Juanma Moreno eleva la Sanidad y crea dos vicepresidencias para contrapesar la entrada de Vox en la Junta de Andalucía",
-      "link": "https://www.abc.es/espana/andalucia/juanma-moreno-eleva-sanidad-crea-dos-vicepresidencias-20260709185057-nts.html",
-      "desc": "En política, los experimentos suelen salir caros cuando se acercan curvas, y Juanma Moreno ha preferido no arriesgar lo más mínimo. Ante el reto inédito de tener que cohabitar con Vox en el Gobierno andaluz tras no revalidar la mayoría absoluta, el presidente ",
-      "date": "Thu, 09 Jul 2026 18:52:06 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Luz verde a la reconstrucción del ábside de la iglesia del siglo XII que se desplomó hace seis meses en un pueblo de Valladolid",
-      "link": "https://www.abc.es/espana/castilla-leon/luz-verde-reconstruccion-abside-iglesia-siglo-xii-20260709184848-nt.html",
-      "desc": "El Arzobispado de Valladolid ha recibido la aprobación de la Comisión Territorial de Patrimonio a la reconstrucción del ábside colapsado , en enero de este año, en la iglesia de la localidad vallisoletana de Muriel de Zapardiel, que previsiblemente «comenzará ",
-      "date": "Thu, 09 Jul 2026 18:48:49 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Foment carga contra la ley catalana para limitar la compra de vivienda: “Agravará la crisis”",
-      "link": "https://www.lavanguardia.com/economia/20260709/11588294/foment-carga-ley-limitar-compra-vivienda-agravara-crisis.html",
-      "desc": "La patronal considera que la iniciativa pactada entre el Govern y los Comuns ataca la propiedad privada",
-      "date": "09 Jul 2026 14:08:55 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "El envejecimiento ha convertido las bajas laborales en un problema estructural",
-      "link": "https://www.lavanguardia.com/economia/20260709/11588284/envejecimiento-convertido-bajas-laborales-problema-estructural.html",
-      "desc": "Un informe del Consejo General de los Graduados Sociales muestra cómo se disparan todos los indicadores: procesos iniciados, activos, incidencia mensual y prevalencia&nbsp;&nbsp;",
-      "date": "09 Jul 2026 13:49:48 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "Detenido un chamán por hacer tocamientos a mujeres en sesiones espirituales en Vallvidrera",
-      "link": "https://www.lavanguardia.com/sucesos/20260709/11588278/detenido-chaman-tocamientos-mujeres-sesiones-espirituales-vallvidrera.html",
-      "desc": "Los Mossos arrestan al líder de un grupo de meditación por drogar presuntamente a sus víctimas y agredirlas sexualmente",
-      "date": "09 Jul 2026 13:43:45 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "Courtois, antes de enfrentarse a España: “La gente se ha equivocado con nosotros”",
-      "link": "https://www.lavanguardia.com/deportes/futbol/20260709/11588155/reivindicacion-courtois-enfrentarse-espana-belgica-mundial-gente-equivocado.html",
-      "desc": "El portero del Real Madrid aseguró que “Lamine es una estrella”, pero que Bélgica no puede fijarse únicamente en él porque el combinado español “tiene muchísimas virtudes”",
-      "date": "09 Jul 2026 12:59:37 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
-      "caso": "other"
     }
   ]
 }
