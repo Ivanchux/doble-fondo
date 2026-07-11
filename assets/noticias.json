@@ -1,7 +1,117 @@
 {
-  "updated": "2026-07-11T14:47:55Z",
+  "updated": "2026-07-11T16:51:28Z",
   "count": 24,
   "items": [
+    {
+      "title": "Un policía se enfrenta a cárcel acusado de agredir a un joven en un control: «Si te pego no me la aguantas»",
+      "link": "https://www.abc.es/espana/comunidad-valenciana/policia-enfrenta-carcel-acusado-agredir-joven-hondureno-20260711182542-nt.html",
+      "desc": "La Sección Tercera de la Audiencia Provincial de Valencia juzga el próximo jueves 16 de julio a un agente de la Policía Local de Rocafort por presuntamente propinar un puñetazo en el abdomen y dirigirse a un joven hondureño con expresiones humillantes en un co",
+      "date": "Sat, 11 Jul 2026 18:41:15 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Fallece un bañista en la playa de O Bao (A Illa de Arousa)",
+      "link": "https://www.abc.es/espana/galicia/fallece-banista-playa-bao-illa-arousa-20260711183714-nt.html",
+      "desc": "Un hombre ha fallecido este sábado, 11 de julio, en la playa de O Bao, en A Illa de Arousa (Pontevedra). El hombre se encontraba nadando en las proximidades del puente de la localidad cuando se aferró a una boya para pedir auxilio. Tal y como ha trasladado el ",
+      "date": "Sat, 11 Jul 2026 18:37:14 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Un matrimonio y sus dos hijos menores resultan heridos tras una colisión en la autovía de los Viñedos",
+      "link": "https://www.abc.es/espana/castilla-la-mancha/matrimonio-dos-hijos-menores-resultan-heridos-tras-20260711182215-nt.html",
+      "desc": "Cuatro personas, integrantes de una misma familia, han resultado heridas este sábado tras la colisión de dos turismos registrada en la CM-42, a la altura del kilómetro 89, en sentido Toledo, dentro del término municipal de Alcázar de San Juan (Ciudad Real). El",
+      "date": "Sat, 11 Jul 2026 18:22:15 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "El AD Villa de Madrid, campeón absoluto masculino de la Costa Blanca Cup 2026",
+      "link": "https://www.abc.es/espana/comunidad-valenciana/alicante/villa-madrid-campeon-absoluto-masculino-costa-blanca-20260711180539-nt.html",
+      "desc": "El AD Villa de Madrid conquistó el trofeo de club campeón absoluto masculino de la 32ª edición de la Costa Blanca Cup. El torneo internacional de fútbol base, organizado por Tour-Sport Promociones Deportivas, codirigido por Fernando Brotons y Daniel Artíguez, ",
+      "date": "Sat, 11 Jul 2026 18:05:40 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Pedro Sánchez visitará la zona afectada cuatro días después del incendio de Almería",
+      "link": "https://www.abc.es/espana/andalucia/almeria/pedro-sanchez-visitara-zona-afectada-cuatro-dias-20260711173636-nts.html",
+      "desc": "El presidente del Gobierno acudirá este lunes a visitar la zona afectada por el incendio de Los Gallardos en Almería. Lo hará cuando se hayan cumplido cuatro días desde la tragedia y después de que hayan estado ya en la zona cero varios ministros como el de In",
+      "date": "Sat, 11 Jul 2026 17:38:50 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Baja el consumo de alcohol y tabaco en los adolescentes, pero preocupa el uso de las pantallas",
+      "link": "https://www.abc.es/espana/castilla-leon/baja-consumo-alcohol-tabaco-adolescentes-preocupa-uso-20260624172653-nt.html",
+      "desc": "El escenario y la percepción de los adolescentes sobre sustancias como el alcohol y el tabaco ha cambiado en los últimos diez años. Las modificaciones sociales y el impacto de las campañas de sensibilización han tenido su efecto «positivo» y han hecho que el c",
+      "date": "Sat, 11 Jul 2026 17:26:53 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Ortega destaca el descenso del paro juvenil con Page y acusa a Núñez de «vivir de espaldas a la realidad»",
+      "link": "https://www.abc.es/espana/castilla-la-mancha/ortega-destaca-descenso-paro-juvenil-page-acusa-20260711170317-nt.html",
+      "desc": "El secretario general de Juventudes Socialistas de Castilla-La Mancha, Lázaro Ortega , ha asegurado que las políticas impulsadas por el Gobierno de Emiliano García-Page han permitido reducir el paro juvenil a más de la mitad desde 2015 y consolidar a Castilla-",
+      "date": "Sat, 11 Jul 2026 17:03:18 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Los sindicatos acuerdan ir a la huelga el 8 de septiembre: “El curso no arrancará con normalidad”",
+      "link": "https://www.lavanguardia.com/vida/20260711/11589943/assemblea-educativa-catalunya-acuerda-huelga-8-septiembre.html",
+      "desc": "Emplazan al Govern a convocar con urgencia la mesa de negociación para “lograr unos consensos y una mejora del sistema público”",
+      "date": "11 Jul 2026 17:00:03 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
+    {
+      "title": "El BNG resucita de nuevo el debate estatutario y pide «un estatus de nación»",
+      "link": "https://www.abc.es/espana/galicia/bng-resucita-nuevo-debate-estatutario-pide-estatus-20260711170000-nt.html",
+      "desc": "El BNG echó mano este sábado de alguna de sus reivindicaciones de siempre para anunciar que tomará «la iniciativa» para completar el marco competencial recogido en el actual Estatuto de Autonomía, como primer paso para «avanzar» en un nuevo reconocimiento de G",
+      "date": "Sat, 11 Jul 2026 17:00:00 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Un incendio de vegetación en Camarasa obliga a confinar el núcleo de Fontllonga",
+      "link": "https://www.lavanguardia.com/local/lleida/20260711/11589941/incendio-vegetacion-camarasa-obliga-confinar-nucleo-fontllonga.html",
+      "desc": "Los bomberos trabajan con veinte dotaciones terrestres y 5 aéreas para extinguir el fuego",
+      "date": "11 Jul 2026 16:59:24 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
+    {
+      "title": "Todos los evacuados de Los Gallardos han sido realojados en establecimientos de la zona",
+      "link": "https://www.abc.es/espana/andalucia/almeria/evacuados-gallardos-realojados-establecimientos-zona-20260711164515-nts.html",
+      "desc": "El Servicio de Emergencias 112 Andalucía ha precisado en la tarde de este sábado, 11 de julio, que todas las personas evacuadas por el incendio de Los Gallardos, en Almería, ya han sido trasladadas a establecimientos de la zona . Según ha concretado la entidad",
+      "date": "Sat, 11 Jul 2026 16:45:15 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
     {
       "title": "La nueva Ley de Voluntariado de Castilla-La Mancha se llevará en septiembre al Consejo de Gobierno",
       "link": "https://www.abc.es/espana/castilla-la-mancha/nueva-ley-voluntariado-castillala-mancha-llevara-septiembre-20260711164405-nt.html",
@@ -30,6 +140,16 @@
       "source": "ABC",
       "color": "#c0392b",
       "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Jayden Adams, futbolista que disputó el Mundial con Sudáfrica, fallece a los 25 años",
+      "link": "https://www.lavanguardia.com/deportes/futbol/20260711/11589929/jayden-adams-futbolista-disputo-mundial-sudafrica-fallece-25-anos.html",
+      "desc": "El centrocampista participó en los tres partidos de la fase de grupos de su selección en la Copa del Mundo de Estados Unidos, México y Canadá",
+      "date": "11 Jul 2026 16:23:40 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
       "caso": "other"
     },
     {
@@ -63,6 +183,16 @@
       "caso": "other"
     },
     {
+      "title": "El polémico comentario del expresidente Rajoy sobre la selección francesa",
+      "link": "https://www.lavanguardia.com/deportes/futbol/20260711/11589920/polemico-comentario-expresidente-rajoy-sobre-seleccion-francia-espana-mundial-2026.html",
+      "desc": "El gallego escribe periódicamete un artículo sobre el Mundial 2026 para el diario digital 'El Debate'&nbsp;",
+      "date": "11 Jul 2026 16:00:39 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
+    {
       "title": "El PPdeG recuerda a Miguel Ángel Blanco y afea a PSOE y BNG sus pactos con Bildu",
       "link": "https://www.abc.es/espana/galicia/ppdeg-recuerda-miguel-angel-blanco-afea-psoe-20260711154336-nt.html",
       "desc": "Como cada 11 de julio, el PP gallego quiso recordar la memoria de Miguel Ángel Blanco, el concejal popular de Ermua secuestrado y asesinado por la banda terrorista ETA en 1997, y cuyos restos descansan en el cementerio orensano de A Merca, de donde es originar",
@@ -73,9 +203,19 @@
       "caso": "other"
     },
     {
-      "title": "Muere la joven de 24 años herida en un accidente en el Motorbeach de Vinuesa (Soria)",
+      "title": "Una clasificación desde el aire: Así se vivió el España-Bélgica dentro de un avión",
+      "link": "https://www.lavanguardia.com/deportes/futbol/20260711/11589917/clasificacion-aire-asi-vivio-espana-belgica-avion.html",
+      "desc": "Crónica del vuelo DL314, donde hubo suspense y pasión en la segunda parte del partido de Los Ángeles",
+      "date": "11 Jul 2026 15:41:08 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
+    {
+      "title": "Muere una joven de 24 años herida en un accidente en el Motorbeach de Vinuesa (Soria)",
       "link": "https://www.abc.es/espana/castilla-leon/muere-joven-anos-herida-accidente-motorbeach-vinuesa-20260711152903-nt.html",
-      "desc": "La joven de 24 años , natural de Asturias, que resultó herida tras sufrir un accidente de moto en el interior donde se celebra el Motorbeach Festival , en Vinuesa (Soria), ha muerto este sábado como consecuencia de las heridas sufridas, según han informado a E",
+      "desc": "La joven de 24 años , natural de Asturias, que resultó herida tras sufrir un accidente de moto en el interior del recinto donde se celebra el Motorbeach Festival , en Vinuesa (Soria), ha muerto este sábado como consecuencia de las gravedad de las heridas sufri",
       "date": "Sat, 11 Jul 2026 15:31:36 +0200",
       "source": "ABC",
       "color": "#c0392b",
@@ -93,150 +233,10 @@
       "caso": "other"
     },
     {
-      "title": "La Guardia Civil realiza una nueva batida, aunque confía en que no haya más muertos en el incendio de Los Gallardos",
-      "link": "https://www.abc.es/espana/andalucia/almeria/guardia-civil-realiza-nueva-batida-confia-muertos-20260711151356-nts.html",
-      "desc": "La Guardia Civil llevará a cabo esta tarde una nueva batida en las zonas ya calcinadas por el incendio forestal que afecta a Los Gallardos, Bédar, Lubrín y Antas con el objetivo de descartar la existencia de nuevas víctimas mortales. No obstante, las autoridad",
-      "date": "Sat, 11 Jul 2026 15:13:57 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "El deseo sexual no falla en la cama sino en la mente de quien lo practica por experiencias previas",
-      "link": "https://www.abc.es/espana/castilla-la-mancha/deseo-sexual-falla-cama-mente-practica-experiencias-20260711143538-nt.html",
-      "desc": "Hay muchas mujeres y también hombres, sí, que piensan que han dejado de funcionar porque no les apetece, si también a los hombres les pasa. Siempre hay alguna experiencia que el cerebro no olvidó y como yo pienso y digo: el mayor órgano sexual no está entre la",
-      "date": "Sat, 11 Jul 2026 14:35:38 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Cortes parciales de tráfico este lunes en la avenida del Aeropuerto de Córdoba por obras",
-      "link": "https://www.abc.es/espana/andalucia/cordoba/cortes-parciales-trafico-lunes-avenida-aeropuerto-cordoba-20260711143009-nts.html",
-      "desc": "La Delegación de Movilidad del Consistorio cordobés ha anunciado este sábado que para el próximo lunes 13 están previstos cortes parciales de tráfico entre la avenida Aeropuerto y su intersección con avenida Vallellano. Tal y como ha concretado la Administraci",
-      "date": "Sat, 11 Jul 2026 14:30:10 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Bolaños evita cuestionar a la Junta por no activar Es-Alert en el incendio de Los Gallardos y se desmarca de las críticas de Puente",
-      "link": "https://www.abc.es/espana/andalucia/almeria/bolanos-evita-cuestionar-junta-activar-esalert-incendio-20260711141736-nts.html",
-      "desc": "El ministro de Presidencia, Justicia y Relaciones con las Cortes, Félix Bolaños, ha evitado este sábado cuestionar la decisión de la Junta de Andalucía de no activar el sistema de alertas Es-Alert durante el incendio forestal declarado jueves en Los Gallardos ",
-      "date": "Sat, 11 Jul 2026 14:22:39 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Feijóo llama a los jóvenes a liderar el «cambio» y ser «propietarios de su vida»",
-      "link": "https://www.abc.es/espana/castilla-leon/feijoo-llama-jovenes-liderar-cambio-propietarios-vida-20260711141514-nt.html",
-      "desc": "«La regeneración y el cambio no tiene edad». Con esas palabras ha animado este sábado el presidente del PP, Alberto Núñez Feijóo , a los jóvenes de Nuevas Generaciones a liderar el cambio de rumbo y «regeneración» del país y servir como «altavoz» de que existe",
-      "date": "Sat, 11 Jul 2026 14:15:15 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "La Policía desmantela en Manacor una red de tráfico de drogas con diez detenidos",
-      "link": "https://www.abc.es/espana/baleares/policia-desmantela-manacor-red-trafico-drogas-diez-20260711140553-nt.html",
-      "desc": "La Policía Nacional ha desmantelado en Manacor (Mallorca) una organización criminal dedicada al tráfico de cocaína y marihuana en el marco de la operación Brooks , una investigación que ha culminado con la detención de diez personas, la práctica de seis regist",
-      "date": "Sat, 11 Jul 2026 14:05:53 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "El CD Toledo lanza su nueva campaña de abonos con la esperanza de llegar a los 4.000 socios",
-      "link": "https://www.abc.es/espana/castilla-la-mancha/toledo/deportes/toledo-lanza-campana-abonos-esperanza-llegar-cifra-20260711133957-nt.html",
-      "desc": "El CD Toledo ha puesto ya en circulación su nueva campaña de abonos para la temporada 2026-2027. Lo ha hecho con un ligero aumento del precio de los carnets de entre 10 y 15 euros con respecto a los del ejercicio anterior. Un inicio de solicitudes online que y",
-      "date": "Sat, 11 Jul 2026 13:53:09 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Núñez reclama «más oportunidades y menos obstáculos» para que los jóvenes construyan su futuro en la región",
-      "link": "https://www.abc.es/espana/castilla-la-mancha/nunez-reclama-oportunidades-obstaculos-jovenes-construyan-futuro-20260711132915-nt.html",
-      "desc": "El presidente del Partido Popular de Castilla-La Mancha, Paco Núñez , ha reivindicado la necesidad de ofrecer a los jóvenes « más oportunidades y menos obstáculos» para que puedan desarrollar su proyecto de vida, con acceso a un empleo digno, una vivienda y un",
-      "date": "Sat, 11 Jul 2026 13:29:15 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "La Comunidad Valenciana moviliza cerca de un millón de euros para financiar 16 proyectos de ayuda en Venezuela",
-      "link": "https://www.abc.es/espana/comunidad-valenciana/comunidad-valenciana-moviliza-cerca-millon-euros-financiar-20260711132242-nt.html",
-      "desc": "La Generalitat va a movilizar cerca de un millón de euros a través del Comité Permanente de Acción Humanitaria y de Emergencia de la Comunidad Valenciana (CAHE) para financiar 16 proyectos de ayuda destinados a la población afectada por los terremotos registra",
-      "date": "Sat, 11 Jul 2026 13:22:42 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Theo Zidane y el Córdoba CF mantienen abierta la negociación para su continuidad",
-      "link": "https://www.abc.es/espana/andalucia/cordoba/cordoba-cf/theo-zidane-cordoba-mantienen-abierta-negociacion-continuidad-20260711115324-nts.html",
-      "desc": "No todo está dicho en la relación entre Theo Zidane y el Córdoba CF . Oficialmente, el contrato del marsellés con la entidad blanquiverde caducó el pasado 30 de junio, lo que le convierte actualmente en un agente libre y poder firmar con cualquier equipo. Sin ",
-      "date": "Sat, 11 Jul 2026 13:21:48 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "gen"
-    },
-    {
-      "title": "La segunda ola de calor extremo deja una decena de muertes en Córdoba en apenas ocho días",
-      "link": "https://www.abc.es/espana/andalucia/cordoba/segunda-ola-calor-extremo-deja-decena-muertes-20260711131741-nts.html",
-      "desc": "Los últimos episodios de temperaturas extremas ya han dejado un preocupante balance en Córdoba en lo que va de verano. El sistema de Monitorización de la Mortalidad Diaria (MoMo) , dependiente del Instituto de Salud Carlos III y del Ministerio de Sanidad, atri",
-      "date": "Sat, 11 Jul 2026 13:17:41 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Mueren seis personas en el incendio forestal de Los Gallardos",
-      "link": "https://www.lavanguardia.com/local/andalucia/20260710/11588570/mueren-seis-personas-incendio-forestal-gallardos.html",
-      "desc": "Algunas víctimas han sido halladas en el interior de vehículos alcanzados por las llamas",
-      "date": "10 Jul 2026 00:50:17 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "Francia, un poder absolutista que arrolla lo que encuentra a su paso",
-      "link": "https://www.lavanguardia.com/deportes/futbol/20260710/11588567/francia-poder-absolutista-arrolla-encuentra-paso-marruecos.html",
-      "desc": "El conjunto 'bleu' ejerce de favorito desde el minuto 1, minimiza a un Marruecos muy cohibido y lo elimina con goles de Mbappé y Dembélé",
-      "date": "10 Jul 2026 00:27:55 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "Risas con sordina en el 'Falstaff' del Liceu",
-      "link": "https://www.lavanguardia.com/cultura/20260710/11588565/risas-sordina-falstaff-liceu-verdi-pons.html",
-      "desc": "El público del Gran Teatre sortea el calor y las obras de la Rambla para celebrar a Verdi y despedir a Pons",
-      "date": "10 Jul 2026 00:05:22 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "El ‘lawfare’ no lo tapa todo",
-      "link": "https://www.lavanguardia.com/opinion/20260710/11588527/lawfare-tapa.html",
-      "desc": "Estaría bien que los dirigentes socialistas admitieran los errores que se han cometido y que dejan en un segundo plano la gestión del Gobierno",
-      "date": "10 Jul 2026 00:05:00 +0200",
+      "title": "Detenidas dos personas por desobediencia en la evacuación del incendio de Los Gallardos",
+      "link": "https://www.lavanguardia.com/vida/20260711/11589909/detenidas-dos-personas-desobediencia-evacuacion-incendio-gallardos.html",
+      "desc": "Los dos implicados trataban de volver a sus domicilios la pasada madrugada",
+      "date": "11 Jul 2026 15:18:08 +0200",
       "source": "La Vanguardia",
       "color": "#8e44ad",
       "feedId": "LaVanguardia",
