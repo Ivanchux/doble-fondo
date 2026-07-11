@@ -1,7 +1,37 @@
 {
-  "updated": "2026-07-11T18:54:30Z",
+  "updated": "2026-07-11T20:41:42Z",
   "count": 24,
   "items": [
+    {
+      "title": "El incendio se estanca y podría quedar estabilizado en las próximas horas",
+      "link": "https://www.abc.es/espana/andalucia/almeria/incendio-estanca-quedar-estabilizado-proximas-horas-20260711215046-nts.html",
+      "desc": "«Hoy podemos mirar ya con optimismo». Con estas palabras, Antonio Sanz, consejero de la Presidencia, Interior, Diálogo Social y Simplificación Administrativa y responsable de Emergencias, resumió la evolución del incendio de Los Gallardos (Almería), donde perm",
+      "date": "Sat, 11 Jul 2026 21:50:46 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "La Guardia Civil obtiene el perfil genético de las doce víctimas del incendio de Los Gallardos, a la espera de su identificación",
+      "link": "https://www.abc.es/espana/andalucia/almeria/guardia-civil-obtiene-perfil-genetico-doce-victimas-20260711214713-nts.html",
+      "desc": "El departamento de Biología del Servicio de Criminalística de la Guardia Civil ha obtenido el perfil genético de los doce fallecidos en el incendio de Los Gallardos, según ha informado el Tribunal Superior de Justicia de Andalucía (TSJA) a última hora de este ",
+      "date": "Sat, 11 Jul 2026 21:48:45 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "El Córdoba CF refuerza su masa social al registrar 15.572 socios al término de la primera fase de la campaña de abonados",
+      "link": "https://www.abc.es/espana/andalucia/cordoba/cordoba-cf/cordoba-refuerza-masa-social-registrar-15572-socios-20260711205650-nts.html",
+      "desc": "El cordobesismo ha vuelto a responder. El Córdoba CF afrontará su tercera temporada consecutiva en Segunda División con un respaldo masivo de su afición después de cerrar la primera fase de la campaña con 15.572 renovaciones de socios , un 89,65% del máximo po",
+      "date": "Sat, 11 Jul 2026 20:56:50 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
     {
       "title": "A prisión cuatro detenidos de una banda por robos con fuerza en un polígono de Valladolid",
       "link": "https://www.abc.es/espana/castilla-leon/prision-cuatro-detenidos-banda-robos-fuerza-poligono-20260711204228-nt.html",
@@ -45,7 +75,7 @@
     {
       "title": "Bolaños: «El fuego no ha avanzado y el terreno afectado sigue siendo de 6.600 hectáreas»",
       "link": "https://www.abc.es/espana/andalucia/almeria/bolanos-fuego-avanzado-terreno-afectado-sigue-6600-20260711203216-nts.html",
-      "desc": "El ministro de la Presidencia, Justicia y Relaciones con las Cortes, Félix Bolaños, ha asegurado este sábado que el incendio declarado este jueves en Los Gallardos (Almería) mantiene estable su perímetro y que la superficie afectada continúa siendo de 6.600 he",
+      "desc": "El ministro de la Presidencia, Justicia y Relaciones con las Cortes, Félix Bolaños, ha asegurado este sábado por la tarde que el incendio declarado este jueves en Los Gallardos (Almería) mantiene estable su perímetro y que la superficie afectada continúa siend",
       "date": "Sat, 11 Jul 2026 20:32:17 +0200",
       "source": "ABC",
       "color": "#c0392b",
@@ -167,36 +197,6 @@
       "link": "https://www.abc.es/espana/castilla-la-mancha/matrimonio-dos-hijos-menores-resultan-heridos-tras-20260711182215-nt.html",
       "desc": "Cuatro personas, integrantes de una misma familia, han resultado heridas este sábado tras la colisión de dos turismos registrada en la CM-42, a la altura del kilómetro 89, en sentido Toledo, dentro del término municipal de Alcázar de San Juan (Ciudad Real). El",
       "date": "Sat, 11 Jul 2026 18:22:15 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "El AD Villa de Madrid, campeón absoluto masculino de la Costa Blanca Cup 2026",
-      "link": "https://www.abc.es/espana/comunidad-valenciana/alicante/villa-madrid-campeon-absoluto-masculino-costa-blanca-20260711180539-nt.html",
-      "desc": "El AD Villa de Madrid conquistó el trofeo de club campeón absoluto masculino de la 32ª edición de la Costa Blanca Cup. El torneo internacional de fútbol base, organizado por Tour-Sport Promociones Deportivas, codirigido por Fernando Brotons y Daniel Artíguez, ",
-      "date": "Sat, 11 Jul 2026 18:05:40 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Pedro Sánchez visitará la zona afectada cuatro días después del incendio de Almería",
-      "link": "https://www.abc.es/espana/andalucia/almeria/pedro-sanchez-visitara-zona-afectada-cuatro-dias-20260711173636-nts.html",
-      "desc": "El presidente del Gobierno acudirá este lunes a visitar la zona afectada por el incendio de Los Gallardos en Almería. Lo hará cuando se hayan cumplido cuatro días desde la tragedia y después de que hayan estado ya en la zona cero varios ministros como el de In",
-      "date": "Sat, 11 Jul 2026 17:38:50 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Baja el consumo de alcohol y tabaco en los adolescentes, pero preocupa el uso de las pantallas",
-      "link": "https://www.abc.es/espana/castilla-leon/baja-consumo-alcohol-tabaco-adolescentes-preocupa-uso-20260624172653-nt.html",
-      "desc": "El escenario y la percepción de los adolescentes sobre sustancias como el alcohol y el tabaco ha cambiado en los últimos diez años. Las modificaciones sociales y el impacto de las campañas de sensibilización han tenido su efecto «positivo» y han hecho que el c",
-      "date": "Sat, 11 Jul 2026 17:26:53 +0200",
       "source": "ABC",
       "color": "#c0392b",
       "feedId": "ABC",
