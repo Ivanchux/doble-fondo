@@ -1,7 +1,167 @@
 {
-  "updated": "2026-07-11T09:22:48Z",
+  "updated": "2026-07-11T10:59:58Z",
   "count": 24,
   "items": [
+    {
+      "title": "Los Gallardos pide no entrar en la zona desalojada sin autorización ni acompañamiento policial",
+      "link": "https://www.abc.es/espana/andalucia/almeria/gallardos-pide-entrar-zona-desalojada-autorizacion-acompanamiento-20260711125250-nts.html",
+      "desc": "El Ayuntamiento de Los Gallardos ha solicitado a los vecinos que no accedan por sus propios medios a las zonas del término municipal que permanecen desalojadas como consecuencia del incendio forestal declarado este jueves. El Consistorio ha indicado a través d",
+      "date": "Sat, 11 Jul 2026 12:52:50 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Amenazan con un parón en el tren extremeño por fallos continuos en los aires acondicionados",
+      "link": "https://www.abc.es/espana/extremadura/amenazan-paron-tren-extremeno-fallos-continuos-aires-20260711125105-nt.html",
+      "desc": "Con Extremadura registrando máximas de hasta 43 grados, en plena ola de calor, el tren extremeño, rodeado de polémica desde hace años , ha vuelto a dar que hablar por un problema recurrente los últimos veranos. Según denuncia Comisiones Obreras (CCOO), ha habi",
+      "date": "Sat, 11 Jul 2026 12:51:05 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Galicia rebaja a 380 millones su incremento en el nuevo modelo de financiación",
+      "link": "https://www.abc.es/espana/galicia/galicia-rebaja-380-millones-incremento-nuevo-modelo-20260711124325-nt.html",
+      "desc": "La Xunta ha anunciado esté sábado su «total disconformidad» con la «inaceptable propuesta» que el Ministerio de Hacienda remitió este viernes a las Comunidades de su nuevo modelo de financiación autonómica. De cara a la reunión convocada el próximo martes en M",
+      "date": "Sat, 11 Jul 2026 12:43:26 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "La Junta convocará antes de finalizar julio 381 plazas fijas de funcionarios en turno libre",
+      "link": "https://www.abc.es/espana/castilla-leon/junta-convocara-finalizar-julio-381-plazas-fijas-20260711121419-nt.html",
+      "desc": "La Junta de Castilla y León convocará antes de que finalice el mes de julio 381 plazas fijas para funcionarios a través del acceso de turno libre correspondientes a distintos cuerpos y escalas de la Administración General de la Comunidad. De estas plazas, una ",
+      "date": "Sat, 11 Jul 2026 12:23:24 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Aparece el cuerpo sin vida de una persona flotando en la playa de Oza (La Coruña)",
+      "link": "https://www.abc.es/espana/galicia/aparece-cuerpo-vida-persona-flotando-playa-oza-20260711120943-nt.html",
+      "desc": "Trágico suceso en La Coruña. El cuerpo sin vida de una persona de unos 70 años ha aparecido flotando en la mañana de este sábado en la playa herculina de Oza. El equipo acuático de bomberos de la ciudad se ha encargado del rescate y del traslado del mismo hast",
+      "date": "Sat, 11 Jul 2026 12:09:43 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Los 10 juegos de mesa que recomiendan los expertos para que los niños aprendan este verano sin depender del móvil",
+      "link": "https://www.abc.es/espana/andalucia/cordoba/juegos-mesa-recomiendan-expertos-ninos-aprendan-verano-20260711120026-nts.html",
+      "desc": "Las vacaciones escolares suponen un cambio de rutina para miles de familias cordobesas. Con más tiempo libre y menos obligaciones, también aumenta el uso de móviles, tabletas y ordenadores entre los más pequeños. En España, el 96% de los menores ha utilizado I",
+      "date": "Sat, 11 Jul 2026 12:00:27 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "PSOE y BNG celebran el archivo de Altri como una «derrota de Rueda»",
+      "link": "https://www.abc.es/espana/galicia/psoe-bng-celebran-archivo-altri-derrota-rueda-20260711115555-nt.html",
+      "desc": "La oposición en Galicia ha celebrado triunfalmente la decisión de la Xunta de archivar definitivamente el expediente del proyecto industrial de Altri para instalar una fábrica de fibras textiles a partir de celulosa en Palas de Rei. A pesar de que ha sido deci",
+      "date": "Sat, 11 Jul 2026 11:55:55 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "El incendio de Almería, a vista de dron",
+      "link": "https://www.abc.es/espana/andalucia/almeria/incendio-almeria-vista-dron-20260711115407-nts.html",
+      "desc": "El incendio que ha afectado a Almería en los últimos días ha dejado al menos 6.600 hectáreas quemadas. En este vídeo, hecho con un dron, se puede ver la zona de Alfaix, pedanía española perteneciente al municipio de Los Gallardos.",
+      "date": "Sat, 11 Jul 2026 11:54:08 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Un hombre de 61 años pierde la vida tras volcar su coche en la Axarquía de Málaga",
+      "link": "https://www.abc.es/espana/andalucia/malaga/hombre-anos-pierde-vida-tras-volcar-coche-20260711115155-nts.html",
+      "desc": "El fin de semana ha comenzado de forma trágica en las carreteras de la provincia de Málaga. Un hombre de 61 años ha perdido la vida en la mañana de este sábado en un aparatoso accidente de tráfico registrado en el término municipal de Canillas de Aceituno, en ",
+      "date": "Sat, 11 Jul 2026 11:51:56 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Un nuevo robo de cable entre Mora y Orgaz y La Sagra provoca retrasos en la línea AVE Madrid-Extremadura",
+      "link": "https://www.abc.es/espana/castilla-la-mancha/toledo/pueblos/nuevo-robo-cable-mora-orgaz-sagra-provoca-20260711113846-nt.html",
+      "desc": "El Administrador de Infraestructuras Ferroviarias (Adif) ha informado este sábado, 11 de julio, de que la circulación de trenes de alta velocidad en la línea Madrid-Andalucía vuelve a desarrollarse con normalidad tras la reparación de los daños ocasionados por",
+      "date": "Sat, 11 Jul 2026 11:38:46 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Sanidad estudia unas 2.000 garrapatas al año en Castilla y León para vigilar las enfermedades que transmiten",
+      "link": "https://www.abc.es/espana/castilla-leon/sanidad-estudia-2000-garrapatas-ano-castilla-leon-20260711113525-nt.html",
+      "desc": "El Servicio de Alertas y Respuesta Rápida, departamento dependiente de la Dirección de Salud Pública de Castilla y León, estudia cada año alrededor de 2.000 garrapatas retiradas de personas para conocer qué especies están detrás de las picaduras y qué patógeno",
+      "date": "Sat, 11 Jul 2026 11:35:26 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "El cordobés Jesús Aguirre dejará la Presidencia del Parlamento para ser senador autonómico",
+      "link": "https://www.abc.es/espana/andalucia/cordoba/cordobes-jesus-aguirre-dejara-presidencia-parlamento-senador-20260711113412-nts.html",
+      "desc": "El Grupo Popular tiene previsto proponer a la actual vicepresidenta primera del Parlamento y diputada por Cádiz, Ana Mestre , como nueva presidenta de la Cámara en sustitución de Jesús Aguirre , a quien, a su vez, su partido propondría como senador por designa",
+      "date": "Sat, 11 Jul 2026 11:34:12 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Galicia inicia la cuenta atrás a un mes del esperado eclipse solar",
+      "link": "https://www.abc.es/espana/galicia/galicia-inicia-cuenta-atras-mes-esperado-eclipse-20260711113348-nt.html",
+      "desc": "Treinta días exactos para que todo se vaya a negro, aunque sea por un minuto y pico. Un mes resta para que el eclipse total de sol del 12 de agosto se pueda disfrutar en Galicia, lo que ha despertado una enorme expectación, aunque con matices, ya que este fenó",
+      "date": "Sat, 11 Jul 2026 11:33:48 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Muere un hombre de 47 años ahogado en una de las playas de Cambrils (Tarragona)",
+      "link": "https://www.abc.es/espana/cataluna/muere-hombre-anos-ahogado-playas-cambrils-tarragona-20260711113224-nt.html",
+      "desc": "Un hombre de 47 años ha muerto ahogado, el viernes por la noche, mientras se bañaba en la playa de Prat d'En Forés-Regueral en Cambrils (Tarragona), ha informado Protección Civil de la Generalitat de Cataluña en un comunicado el sábado. El aviso al teléfono de",
+      "date": "Sat, 11 Jul 2026 11:32:24 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Investigan el hallazgo de un cadáver con signos de violencia en un chalé de lujo en Torrevieja",
+      "link": "https://www.abc.es/espana/comunidad-valenciana/alicante/investigan-hallazgo-cadaver-signos-violencia-chale-lujo-20260711112012-nt.html",
+      "desc": "La Guardia Civil investiga el hallazgo de un cadáver con signos de violencia en el interior de un chalé ubicado en un residencial de lujo de la localidad alicantina de Torrevieja. El cuerpo sin vida, al parecer, presentaba heridas mortales por arma blanca. El ",
+      "date": "Sat, 11 Jul 2026 11:20:12 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Adif restablece el AVE entre Madrid y Andalucía tras el segundo robo de cable en una misma semana",
+      "link": "https://www.abc.es/espana/andalucia/adif-restablece-ave-madrid-andalucia-tras-segundo-20260711111214-nts.html",
+      "desc": "La circulación de trenes de alta velocidad entre Madrid y Andalucía ha recuperado la normalidad a primera hora de este sábado tras el segundo robo de cable de cobre registrado en apenas cinco días. Los técnicos del Administrador de Infraestructuras Ferroviaria",
+      "date": "Sat, 11 Jul 2026 11:16:21 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
     {
       "title": "La Junta pide diferenciar entre desaparecidos e ilocalizados tras el incendio de Los Gallardos",
       "link": "https://www.abc.es/espana/andalucia/almeria/junta-pide-diferenciar-desaparecidos-ilocalizados-tras-incendio-20260711111057-nts.html",
@@ -37,166 +197,6 @@
       "link": "https://www.abc.es/espana/castilla-la-mancha/toledo/residentes-radiodiagnostico-hospital-toledo-campeones-liga-casos-20260711105147-nt.html",
       "desc": "Los médicos internos residentes del servicio de Radiodiagnóstico del Complejo Hospitalario Universitario de Toledo , dependiente del Servicio de Salud de Castilla-La Mancha (Sescam), se han proclamado campeones de la Liga de Casos Clínicos organizada por la So",
       "date": "Sat, 11 Jul 2026 10:51:48 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Roig Arena abre sus puertas para la semifinal del Mundial entre España y Francia",
-      "link": "https://www.abc.es/espana/comunidad-valenciana/roig-arena-abre-puertas-semifinal-mundial-espana-20260711104938-nt.html",
-      "desc": "Roig Arena abrirá las puertas el próximo martes, 14 de julio, para que los aficionados puedan seguir en directo en sus pantallas gigantes el partido de semifinales del Mundial que enfrentará a las selecciones de España y Francia. Los aficionados podrán acceder",
-      "date": "Sat, 11 Jul 2026 10:49:38 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "El Ayuntamiento de Córdoba lanza 30 plazas de empleo público: así puedes optar a las vacantes de técnico y peón",
-      "link": "https://www.abc.es/espana/andalucia/cordoba/ayuntamiento-cordoba-lanza-plazas-empleo-publico-puedes-20260711102944-nts.html",
-      "desc": "El Ayuntamiento de Córdoba mantiene abiertas dos importantes convocatorias de empleo público que suman un total de 30 plazas para incorporarse a la plantilla municipal. Se trata de 22 plazas de técnico de administración general , como funcionarios de carrera, ",
-      "date": "Sat, 11 Jul 2026 10:29:44 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Un estudio internacional sitúa al pistacho de Castilla-La Mancha entre los cultivos «más sostenibles» del mundo",
-      "link": "https://www.abc.es/espana/castilla-la-mancha/estudio-internacional-situa-pistacho-castillala-mancha-cultivos-20260711102922-nt.html",
-      "desc": "Una investigación realizada por la Universidad Politécnica de Madrid (Ceigram), la Universidad Complutense de Madrid y la Universidad Davis de California (Estados Unidos), con la colaboración del Instituto Regional de Investigación y Desarrollo Agroalimentario",
-      "date": "Sat, 11 Jul 2026 10:29:23 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Muere una persona durante un accidente en una pista forestal en Salamanca",
-      "link": "https://www.abc.es/espana/castilla-leon/muere-persona-accidente-pista-forestal-salamanca-20260711102855-nt.html",
-      "desc": "Una persona ha fallecido este viernes tras sufrir un accidente de tráfico en una pista forestal ubicada entre los términos municipales de Miranda del Castañar y Villanueva del Conde, en la provincia de Salamanca . En concreto, el cuerpo sin vida fue hallado du",
-      "date": "Sat, 11 Jul 2026 10:28:55 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "El Infoca inicia el ataque directo al incendio de Los Gallardos tras la mejora de las condiciones meteorológicas",
-      "link": "https://www.abc.es/espana/andalucia/almeria/infoca-inicia-ataque-directo-incendio-gallardos-tras-20260711101754-nts.html",
-      "desc": "El dispositivo del Plan Infoca comenzará este sábado a atacar de forma directa el incendio declarado el pasado jueves en Los Gallardos (Almería), después de que la mejora de las condiciones meteorológicas haya permitido cambiar la estrategia seguida hasta ahor",
-      "date": "Sat, 11 Jul 2026 10:17:55 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Page destaca la «fraternidad entre territorios» en Benetússer y Alfafar, municipios afectados por la Dana de 2024",
-      "link": "https://www.abc.es/espana/castilla-la-mancha/page-destaca-fraternidad-territorios-benetusser-alfafar-municipios-20260711101310-nt.html",
-      "desc": "El presidente de Castilla-La Mancha, Emiliano García-Page , ha visitado este sábado las sedes de las comunidades originarias de Castilla-La Mancha en Benetússer y Alfafar, dos municipios de la provincia de Valencia gravemente afectados por la Dana de 2024. Dur",
-      "date": "Sat, 11 Jul 2026 10:13:10 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Muere un joven de 17 años atropellado por un coche en la A-1, en Madrid",
-      "link": "https://www.abc.es/espana/madrid/muere-joven-anos-atropellado-coche-20260711101255-nt.html",
-      "desc": "Un joven de 17 años ha muerto en la madrugada de este sábado tras ser atropellado por un turismo en la autovía A-1, según ha informado Emergencias 112 de la Comunidad de Madrid . El suceso, que está investigando la Guardia Civil, ha ocurrido a las 5:15 horas. ",
-      "date": "Sat, 11 Jul 2026 10:12:55 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Estabilizado el incendio forestal de Humilladero, Málaga",
-      "link": "https://www.abc.es/espana/andalucia/malaga/estabilizado-incendio-forestal-humilladero-malaga-20260711095537-nts.html",
-      "desc": "El Servicio de Extinción de Incendios Forestales, Plan Infoca, ha dado por estabilizado el incendio declarado en la tarde de este pasado viernes en el término municipal de Humilladero, en la provincia de Málaga. El fuego fue declarado sobre las 18,00 horas y a",
-      "date": "Sat, 11 Jul 2026 09:56:34 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "La ley del Concebido no nacido de Ayuso entra en vigor en la Comunidad de Madrid",
-      "link": "https://www.abc.es/espana/madrid/ley-concebido-nacido-ayuso-vigor-comunidad-madrid-20260711093841-nt.html",
-      "desc": "La ley del Concebido no nacido de la Comunidad de Madrid, una de las normas que ha originado más debate entre los partidos políticos no solo regionales, sino también nacionales, ha entrado en vigor este sábado, al día siguiente de su publicación en el Boletín ",
-      "date": "Sat, 11 Jul 2026 09:51:00 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "La Guardia Civil se incauta de 34.000 puros habanos falsos que eran distribuidos por Europa",
-      "link": "https://www.abc.es/espana/comunidad-valenciana/vivienda-mislata-esconde-fabrica-ilegal-34000-puros-20260711094345-nt.html",
-      "desc": "La Guardia Civil de Valencia ha detenido a tres personas e investiga a otras cuatro por falsificar puros habanos y distribuirlos por Europa. Se les imputan delitos de contrabando, contra la propiedad industrial, pertenencia a organización criminal y contra los",
-      "date": "Sat, 11 Jul 2026 09:43:45 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "La A-7 reabre al tráfico a la altura de Los Gallardos tras un día cortada por el incendio",
-      "link": "https://www.abc.es/espana/andalucia/almeria/reabre-trafico-altura-gallardos-tras-dia-cortada-20260711094232-nts.html",
-      "desc": "La evolución de las tareas de extinción unido a la cierta mejora de las condiciones climatológicas con el descenso de la fuerza del viento permitió además la apertura a las 3,00 horas de la Autovía A-7 entre los kilómetros 709 y 714 , la cual se había mantenid",
-      "date": "Sat, 11 Jul 2026 09:42:32 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "El nuevo Córdoba CF despierta la ilusión entre el cordobesismo: «El club está trabajando muy bien para construir un proyecto sostenible»",
-      "link": "https://www.abc.es/espana/andalucia/cordoba/cordoba-cf/nuevo-cordoba-despierta-ilusion-cordobesismo-club-trabajando-20260711061954-nts.html",
-      "desc": "No estaba previsto, pero el Córdoba CF rectificó dentro de su programa semanal y abrió este viernes las puertas de la Ciudad Deportiva a los medios de comunicación y aficionados para presenciar de cerca una de las sesiones de trabajo de la pretemporada en una ",
-      "date": "Sat, 11 Jul 2026 09:12:56 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Pérez Artés restaura el simpecado de la cofradía de la Sentencia de Córdoba",
-      "link": "https://www.abc.es/espana/andalucia/cordoba/semana-santa/perez-artes-restaura-simpecado-cofradia-sentencia-cordoba-20260711091242-nts.html",
-      "desc": "El bordador cordobés Francisco Pérez Artés se encuentra inmerso en la restauración del simpecado de la cofradía de la Sentencia , una insignia del siglo XVIII que tiene forma de lábaro con dos caídas laterales bordada en oro. El plazo previsto para su terminac",
-      "date": "Sat, 11 Jul 2026 09:12:42 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "El trombonista Rafa M. Guillén lanza desde Córdoba su tercer disco de jazz",
-      "link": "https://www.abc.es/espana/andalucia/cordoba/jazz-dialogo-brasil-flamenco-trombonista-rafa-guillen-20260711091000-nts.html",
-      "desc": "El título es importante: 'Always forward'. Siempre hacia delante. Para el músico Rafa M. Guillén , trombonista de la Orquesta de Córdoba e intérprete de jazz, es la expresión de su mirada optimista, tras haber superado una grave enfermedad que le hizo replante",
-      "date": "Sat, 11 Jul 2026 09:10:00 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "El Festival de la Guitarra de Córdoba dice adiós con los estrenos de Omega y Blanca del Rey",
-      "link": "https://www.abc.es/espana/andalucia/cordoba/festival-guitarra-cordoba-dice-adios-estrenos-omega-20260711090957-nts.html",
-      "desc": "El Festival de la Guitarra de Córdoba escribe este sábado su última página con carteles de lujo. Se vive el estreno absoluto de dos espectáculos, el de Blanca del Rey y el que celebra el aniversario de ' Omega' , el mítico disco de Enrique Morente y Lagartija ",
-      "date": "Sat, 11 Jul 2026 09:09:57 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "El Ayuntamiento de Córdoba activa la obra del carril bici y el acceso peatonal desde el Guadalquivir al polígono de la Torrecilla",
-      "link": "https://www.abc.es/espana/andalucia/cordoba/ayuntamiento-cordoba-activa-obra-carril-bici-acceso-20260711090954-nts.html",
-      "desc": "El Ayuntamiento de Córdoba ha licitado el contrato para ejecutar la demanda conexión peatonal y también el carril bici que tiene que unir el barrio del Guadalquivir con los polígonos industriales de la Torrecilla y la Amargacena. Actualmente, ni los peatones n",
-      "date": "Sat, 11 Jul 2026 09:09:54 +0200",
       "source": "ABC",
       "color": "#c0392b",
       "feedId": "ABC",
