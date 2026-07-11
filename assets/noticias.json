@@ -1,9 +1,149 @@
 {
-  "updated": "2026-07-11T16:51:28Z",
+  "updated": "2026-07-11T18:54:30Z",
   "count": 24,
   "items": [
     {
-      "title": "Un policía se enfrenta a cárcel acusado de agredir a un joven en un control: «Si te pego no me la aguantas»",
+      "title": "A prisión cuatro detenidos de una banda por robos con fuerza en un polígono de Valladolid",
+      "link": "https://www.abc.es/espana/castilla-leon/prision-cuatro-detenidos-banda-robos-fuerza-poligono-20260711204228-nt.html",
+      "desc": "La Sección de Instrucción del Tribunal de Instancia de Valladolid, Plaza nº4, ha decretado el ingreso en prisión de los cuatro detenidos en Valladolid en una operación realizada por la Guardia Civil que investiga, presuntamente, a una banda dedicada a los robo",
+      "date": "Sat, 11 Jul 2026 20:42:28 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Una biblioteca con nombre de mujer",
+      "link": "https://www.abc.es/espana/castilla-leon/biblioteca-nombre-mujer-20260710203400-nt.html",
+      "desc": "A Rufi Velázquez le danzaban los libros en derredor como si fuesen mariposas. Las palabras, las oraciones, los versos, las canciones. Todo lo escrito, incluso los corazones de tiza en la pared, en las cortezas de los árboles. Esos amores eternos que lo mismo d",
+      "date": "Sat, 11 Jul 2026 20:34:00 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Banda de ladrones",
+      "link": "https://www.abc.es/espana/castilla-leon/banda-ladrones-20260710203343-nt.html",
+      "desc": "El presidente de la Conferencia Episcopal, Luis Argüello, ha logrado cerrar el círculo. El obispo vallisoletano ha logrado que la extrema derecha y el populismo gubernamental le presenten con cuernos y tridente en medio de las llamas del infierno. Los unos le ",
+      "date": "Sat, 11 Jul 2026 20:33:43 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "La vuelta de los vecinos a recoger sus enseres a la zona cero del incendio de Almería: «Ha sido una pesadilla»",
+      "link": "https://www.abc.es/espana/andalucia/vecinos-vuelven-minutos-zona-cero-incendio-almeria-20260711200125-nts.html",
+      "desc": "Ni los oriundos con más años a sus espaldas saben a ciencia cierta por qué las nubes están tan bajas, como si se hubieran desplomado, cansadas, pero no se atrevieran del todo a recostarse en las crestas de los montes menudos que aún humean en este lado del Lev",
+      "date": "Sat, 11 Jul 2026 20:32:41 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Bolaños: «El fuego no ha avanzado y el terreno afectado sigue siendo de 6.600 hectáreas»",
+      "link": "https://www.abc.es/espana/andalucia/almeria/bolanos-fuego-avanzado-terreno-afectado-sigue-6600-20260711203216-nts.html",
+      "desc": "El ministro de la Presidencia, Justicia y Relaciones con las Cortes, Félix Bolaños, ha asegurado este sábado que el incendio declarado este jueves en Los Gallardos (Almería) mantiene estable su perímetro y que la superficie afectada continúa siendo de 6.600 he",
+      "date": "Sat, 11 Jul 2026 20:32:17 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Sumar finiquita sin pena ni gloria el congreso que entierra a Yolanda Díaz",
+      "link": "https://www.abc.es/espana/sumar-finiquita-pena-gloria-congreso-entierra-yolanda-20260711202820-nt.html",
+      "desc": "Yolanda Díaz suelta definitivamente la mano de Movimiento Sumar, que, a partir de ahora, deberá aprender a caminar solo. En el organigrama del pequeño partido, no quedará ni rastro de la vicepresidenta segunda del Gobierno, que se borra finalmente de la plataf",
+      "date": "Sat, 11 Jul 2026 20:28:21 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Continúa grave un vecino de Castro del Río tras resultar herido en el encierro de San Fermín",
+      "link": "https://www.abc.es/espana/andalucia/cordoba/continua-grave-vecino-castro-rio-tras-resultar-20260711201418-nts.html",
+      "desc": "Un vecino de Castro del Río , de 65 años, permanece ingresado con pronóstico grave en el Hospital Universitario de Navarra tras resultar herido durante el encierro de San Fermín celebrado este viernes. El corredor sufrió un neumotórax bilateral en el tramo de ",
+      "date": "Sat, 11 Jul 2026 20:14:18 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Descafeinado homenaje al legado de Paco de Lucía",
+      "link": "https://www.abc.es/espana/andalucia/cordoba/descafeinado-homenaje-legado-paco-lucia-20260711194557-nts.html",
+      "desc": "La recta final del Festival de la Guitarra de Córdoba nos citó en el Teatro Axerquía la noche del pasado viernes. Un encuentro con parte de la flor y nata del flamenco para reivindicar el legado y honrar la memoria del artista más grande e internacional que ha",
+      "date": "Sat, 11 Jul 2026 19:45:58 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Madrid supera ya las 150 muertes atribuidas al calor en lo que va de verano",
+      "link": "https://www.abc.es/espana/madrid/madrid-supera-150-muertes-atribuidas-calor-verano-20260711193231-nt.html",
+      "desc": "La Comunidad de Madrid acumula ya más de un mes combatiendo las olas de calor que azotan a la región una tras otra. Unas altas temperaturas a las que se le atribuyen, en el mes de junio y los primeros diez días de julio, en torno a 170 muertes, según las estim",
+      "date": "Sat, 11 Jul 2026 19:32:31 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Más de 10.600 castellanos y leoneses residentes en el extranjero regresan a la Comunidad en el último lustro",
+      "link": "https://www.abc.es/espana/castilla-leon/10600-castellanos-leoneses-residentes-extranjero-regresan-comunidad-20260711192926-nt.html",
+      "desc": "Un total de 10.635 castellanos y leoneses residentes en el extranjero regresaron a la Comunidad durante el último lustro, según los registros de bajas consulares. Los datos reflejan una trayectoria ascendente a partir de 2023, tras los peores años de la pandem",
+      "date": "Sat, 11 Jul 2026 19:29:27 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "La Diputación desafía al Concello de Vigo: habrá pantalla gigante para el España-Francia",
+      "link": "https://www.abc.es/espana/galicia/diputacion-desafia-concello-vigo-pantalla-espanafrancia-20260711191800-nt.html",
+      "desc": "El nuevo punto de fricción política entre la Diputación de Pontevedra y el Concello de Vigo es un asunto de la máxima relevancia... televisiva. Se trata de la instalación (o no) de una pantalla gigante en la Plaza de la Estrella de Vigo por parte de la institu",
+      "date": "Sat, 11 Jul 2026 19:18:00 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Muere un trabajador tras vencer un muro en la localidad valenciana de Paterna",
+      "link": "https://www.abc.es/espana/comunidad-valenciana/muere-trabajador-tras-vencer-muro-localidad-valenciana-20260711191516-nt.html",
+      "desc": "Un trabajador ha fallecido este sábado tras desprenderse un muro en el polígono industrial Fuente del Jarro, en Paterna (Valencia), según ha adelantado 'Las Provincias' y han confirmado a Europa Press fuentes de la Policía Nacional. El suceso se ha producido s",
+      "date": "Sat, 11 Jul 2026 19:15:16 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Un total de 60 entidades sociosanitarias de Albacete reciben ayuda de la Diputación para sus proyectos",
+      "link": "https://www.abc.es/espana/castilla-la-mancha/total-entidades-sociosanitarias-albacete-reciben-ayuda-diputacion-20260711190616-nt.html",
+      "desc": "El equipo de Gobierno de la Diputación de Albacete ha resuelto su convocatoria de ayudas para proyectos sociosanitarios desarrollados por entidades de este ámbito que trabajan en la provincia, acompañando a quienes viven en situación de enfermedad, dependencia",
+      "date": "Sat, 11 Jul 2026 19:06:16 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Milagro en La Abadía: Un joven de 20 años sale ileso tras empotrar su coche contra un muro de hormigón",
+      "link": "https://www.abc.es/espana/castilla-la-mancha/toledo/milagro-abadia-joven-anos-sale-ileso-tras-20260711184628-nt.html",
+      "desc": "Lo que a simple vista parecía un accidente con consecuencias muy graves acabó, afortunadamente, sin daños personales. Un joven de 20 años resultó ileso este sábado después de que el turismo que conducía se empotrara contra el muro de hormigón de la rotonda de ",
+      "date": "Sat, 11 Jul 2026 18:46:29 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Un policía se enfrenta a cárcel acusado de agredir a un joven en un control: «Te mando a tu país»",
       "link": "https://www.abc.es/espana/comunidad-valenciana/policia-enfrenta-carcel-acusado-agredir-joven-hondureno-20260711182542-nt.html",
       "desc": "La Sección Tercera de la Audiencia Provincial de Valencia juzga el próximo jueves 16 de julio a un agente de la Policía Local de Rocafort por presuntamente propinar un puñetazo en el abdomen y dirigirse a un joven hondureño con expresiones humillantes en un co",
       "date": "Sat, 11 Jul 2026 18:41:15 +0200",
@@ -63,16 +203,6 @@
       "caso": "other"
     },
     {
-      "title": "Ortega destaca el descenso del paro juvenil con Page y acusa a Núñez de «vivir de espaldas a la realidad»",
-      "link": "https://www.abc.es/espana/castilla-la-mancha/ortega-destaca-descenso-paro-juvenil-page-acusa-20260711170317-nt.html",
-      "desc": "El secretario general de Juventudes Socialistas de Castilla-La Mancha, Lázaro Ortega , ha asegurado que las políticas impulsadas por el Gobierno de Emiliano García-Page han permitido reducir el paro juvenil a más de la mitad desde 2015 y consolidar a Castilla-",
-      "date": "Sat, 11 Jul 2026 17:03:18 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
       "title": "Los sindicatos acuerdan ir a la huelga el 8 de septiembre: “El curso no arrancará con normalidad”",
       "link": "https://www.lavanguardia.com/vida/20260711/11589943/assemblea-educativa-catalunya-acuerda-huelga-8-septiembre.html",
       "desc": "Emplazan al Govern a convocar con urgencia la mesa de negociación para “lograr unos consensos y una mejora del sistema público”",
@@ -80,16 +210,6 @@
       "source": "La Vanguardia",
       "color": "#8e44ad",
       "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "El BNG resucita de nuevo el debate estatutario y pide «un estatus de nación»",
-      "link": "https://www.abc.es/espana/galicia/bng-resucita-nuevo-debate-estatutario-pide-estatus-20260711170000-nt.html",
-      "desc": "El BNG echó mano este sábado de alguna de sus reivindicaciones de siempre para anunciar que tomará «la iniciativa» para completar el marco competencial recogido en el actual Estatuto de Autonomía, como primer paso para «avanzar» en un nuevo reconocimiento de G",
-      "date": "Sat, 11 Jul 2026 17:00:00 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
       "caso": "other"
     },
     {
@@ -103,46 +223,6 @@
       "caso": "other"
     },
     {
-      "title": "Todos los evacuados de Los Gallardos han sido realojados en establecimientos de la zona",
-      "link": "https://www.abc.es/espana/andalucia/almeria/evacuados-gallardos-realojados-establecimientos-zona-20260711164515-nts.html",
-      "desc": "El Servicio de Emergencias 112 Andalucía ha precisado en la tarde de este sábado, 11 de julio, que todas las personas evacuadas por el incendio de Los Gallardos, en Almería, ya han sido trasladadas a establecimientos de la zona . Según ha concretado la entidad",
-      "date": "Sat, 11 Jul 2026 16:45:15 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "La nueva Ley de Voluntariado de Castilla-La Mancha se llevará en septiembre al Consejo de Gobierno",
-      "link": "https://www.abc.es/espana/castilla-la-mancha/nueva-ley-voluntariado-castillala-mancha-llevara-septiembre-20260711164405-nt.html",
-      "desc": "El Gobierno de Castilla-La Mancha llevará el próximo mes de septiembre al Consejo de Gobierno el proyecto de la nueva Ley de Voluntariado , con el objetivo de que pueda iniciar su tramitación en las Cortes regionales antes de que finalice este año y quedar apr",
-      "date": "Sat, 11 Jul 2026 16:44:05 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Piden nueve años de prisión a un hombre por embestir el coche de su expareja y amenazarla",
-      "link": "https://www.abc.es/espana/galicia/piden-nueve-anos-prision-hombre-embestir-coche-20260711163000-nt.html",
-      "desc": "La Audiencia Provincial de La Coruña acogerá, el próximo martes, el juicio contra un hombre que se enfrenta a nueve años de prisión por embestir con su vehículo el coche en el que viajaba su expareja en el municipio coruñés de Miño y amenazarla de muerte momen",
-      "date": "Sat, 11 Jul 2026 16:30:00 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Sanidad declara área en alerta por virus del Nilo occidental el municipio jienense de Torredonjimeno",
-      "link": "https://www.abc.es/espana/andalucia/jaen/sanidad-declara-area-alerta-virus-nilo-occidental-20260711142909-nts.html",
-      "desc": "La Dirección General de Salud Pública y Ordenación Farmacéutica de la Consejería de Presidencia, Sanidad y Emergencias de la Junta de Andalucía ha declarado área en alerta por circulación del virus del Nilo Occidental (VNO) el municipio jienense de Torredonjim",
-      "date": "Sat, 11 Jul 2026 16:24:25 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
       "title": "Jayden Adams, futbolista que disputó el Mundial con Sudáfrica, fallece a los 25 años",
       "link": "https://www.lavanguardia.com/deportes/futbol/20260711/11589929/jayden-adams-futbolista-disputo-mundial-sudafrica-fallece-25-anos.html",
       "desc": "El centrocampista participó en los tres partidos de la fase de grupos de su selección en la Copa del Mundo de Estados Unidos, México y Canadá",
@@ -153,90 +233,10 @@
       "caso": "other"
     },
     {
-      "title": "Enma López pasa el corte de los avales y se enfrentará a Reyes Maroto en primarias",
-      "link": "https://www.abc.es/espana/madrid/enma-lopez-pasa-corte-avales-enfrentara-reyes-20260711155703-nt.html",
-      "desc": "La candidatura del PSOE de Madrid para la Alcaldía de la capital no está resultando tan sencilla como la de la Comunidad de Madrid, donde Óscar López ya ha sido proclamado este sábado cabeza de lista para enfrentarse a Isabel Díaz Ayuso en las urnas al ser el ",
-      "date": "Sat, 11 Jul 2026 16:22:17 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Un incendio forestal en Rute moviliza a 70 efectivos del Infoca y un amplio despliegue aéreo",
-      "link": "https://www.abc.es/espana/andalucia/cordoba/incendio-forestal-rute-moviliza-efectivos-infoca-amplio-20260711161553-nts.html",
-      "desc": "Un incendio forestal declarado en la tarde de este sábado en el término municipal de Rute ha obligado a movilizar un amplio dispositivo del Plan Infoca para tratar de contener las llamas. El fuego se ha originado en torno a las 14.30 horas en la zona de la car",
-      "date": "Sat, 11 Jul 2026 16:15:53 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Page reivindica la identidad como símbolo de arraigo y «no como arma arrojadiza»",
-      "link": "https://www.abc.es/espana/castilla-la-mancha/page-reivindica-identidad-simbolo-arraigo-arma-arrojadiza-20260711161431-nt.html",
-      "desc": "El presidente de Castilla-La Mancha, Emiliano García-Page, ha reivindicado este sábado el valor de las raíces, la convivencia y la solidaridad como elementos que definen la identidad compartida entre Castilla-La Mancha y la Comunidad Valenciana. Lo ha hecho du",
-      "date": "Sat, 11 Jul 2026 16:14:31 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
       "title": "El polémico comentario del expresidente Rajoy sobre la selección francesa",
       "link": "https://www.lavanguardia.com/deportes/futbol/20260711/11589920/polemico-comentario-expresidente-rajoy-sobre-seleccion-francia-espana-mundial-2026.html",
       "desc": "El gallego escribe periódicamete un artículo sobre el Mundial 2026 para el diario digital 'El Debate'&nbsp;",
       "date": "11 Jul 2026 16:00:39 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "El PPdeG recuerda a Miguel Ángel Blanco y afea a PSOE y BNG sus pactos con Bildu",
-      "link": "https://www.abc.es/espana/galicia/ppdeg-recuerda-miguel-angel-blanco-afea-psoe-20260711154336-nt.html",
-      "desc": "Como cada 11 de julio, el PP gallego quiso recordar la memoria de Miguel Ángel Blanco, el concejal popular de Ermua secuestrado y asesinado por la banda terrorista ETA en 1997, y cuyos restos descansan en el cementerio orensano de A Merca, de donde es originar",
-      "date": "Sat, 11 Jul 2026 15:43:36 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Una clasificación desde el aire: Así se vivió el España-Bélgica dentro de un avión",
-      "link": "https://www.lavanguardia.com/deportes/futbol/20260711/11589917/clasificacion-aire-asi-vivio-espana-belgica-avion.html",
-      "desc": "Crónica del vuelo DL314, donde hubo suspense y pasión en la segunda parte del partido de Los Ángeles",
-      "date": "11 Jul 2026 15:41:08 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "Muere una joven de 24 años herida en un accidente en el Motorbeach de Vinuesa (Soria)",
-      "link": "https://www.abc.es/espana/castilla-leon/muere-joven-anos-herida-accidente-motorbeach-vinuesa-20260711152903-nt.html",
-      "desc": "La joven de 24 años , natural de Asturias, que resultó herida tras sufrir un accidente de moto en el interior del recinto donde se celebra el Motorbeach Festival , en Vinuesa (Soria), ha muerto este sábado como consecuencia de las gravedad de las heridas sufri",
-      "date": "Sat, 11 Jul 2026 15:31:36 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Mañueco pide a los jóvenes del PP que sean «valientes» y «exigentes» para lograr el «cambio» en el Gobierno",
-      "link": "https://www.abc.es/espana/castilla-leon/manueco-pide-cantera-pp-valiente-exigente-lograr-20260711151515-nt.html",
-      "desc": "El mandato para la cantera del PP estaba claro. Cierre de filas, ser «valientes, exigentes, inconformistas» y comprometidos para conseguir un «cambio» de rumbo en el Gobierno de España que permita construir un «país mejor». Así se lo transmitía este sábado el ",
-      "date": "Sat, 11 Jul 2026 15:20:08 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Detenidas dos personas por desobediencia en la evacuación del incendio de Los Gallardos",
-      "link": "https://www.lavanguardia.com/vida/20260711/11589909/detenidas-dos-personas-desobediencia-evacuacion-incendio-gallardos.html",
-      "desc": "Los dos implicados trataban de volver a sus domicilios la pasada madrugada",
-      "date": "11 Jul 2026 15:18:08 +0200",
       "source": "La Vanguardia",
       "color": "#8e44ad",
       "feedId": "LaVanguardia",
