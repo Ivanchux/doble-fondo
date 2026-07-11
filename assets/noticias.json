@@ -1,7 +1,17 @@
 {
-  "updated": "2026-07-11T20:41:42Z",
+  "updated": "2026-07-11T22:41:42Z",
   "count": 24,
   "items": [
+    {
+      "title": "El cordobés Andrés Cuenca se proclama campeón de Europa sub-19 con España",
+      "link": "https://www.abc.es/espana/andalucia/cordoba/cordobes-andres-cuenca-proclama-campeon-europa-sub19-20260711222543-nts.html",
+      "desc": "Europa tiene sabor cordobés. Después de que Alba Cerrato conquistara el Europeo femenino sub-19, este sábado ha sido el turno del adamuceño Andrés Cuenca en la categoría masculina. La selección española se ha proclamado campeona continental en Gales tras impon",
+      "date": "Sat, 11 Jul 2026 23:11:23 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
     {
       "title": "El incendio se estanca y podría quedar estabilizado en las próximas horas",
       "link": "https://www.abc.es/espana/andalucia/almeria/incendio-estanca-quedar-estabilizado-proximas-horas-20260711215046-nts.html",
@@ -187,16 +197,6 @@
       "link": "https://www.abc.es/espana/galicia/fallece-banista-playa-bao-illa-arousa-20260711183714-nt.html",
       "desc": "Un hombre ha fallecido este sábado, 11 de julio, en la playa de O Bao, en A Illa de Arousa (Pontevedra). El hombre se encontraba nadando en las proximidades del puente de la localidad cuando se aferró a una boya para pedir auxilio. Tal y como ha trasladado el ",
       "date": "Sat, 11 Jul 2026 18:37:14 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Un matrimonio y sus dos hijos menores resultan heridos tras una colisión en la autovía de los Viñedos",
-      "link": "https://www.abc.es/espana/castilla-la-mancha/matrimonio-dos-hijos-menores-resultan-heridos-tras-20260711182215-nt.html",
-      "desc": "Cuatro personas, integrantes de una misma familia, han resultado heridas este sábado tras la colisión de dos turismos registrada en la CM-42, a la altura del kilómetro 89, en sentido Toledo, dentro del término municipal de Alcázar de San Juan (Ciudad Real). El",
-      "date": "Sat, 11 Jul 2026 18:22:15 +0200",
       "source": "ABC",
       "color": "#c0392b",
       "feedId": "ABC",
