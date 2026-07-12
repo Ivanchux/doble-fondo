@@ -1,7 +1,27 @@
 {
-  "updated": "2026-07-12T20:39:07Z",
+  "updated": "2026-07-12T22:41:43Z",
   "count": 24,
   "items": [
+    {
+      "title": "Aumentan a diez los desaparecidos en el incendio de Almería",
+      "link": "https://www.abc.es/espana/andalucia/almeria/aumentan-diez-desaparecidos-incendio-almeria-20260712231604-nts.html",
+      "desc": "El incendio de Los Gallardos ha dejado dos nuevos datos durante las últimas horas del domingo. Una mujer de 93 años perdía la vida en el Hospital Torrecárdenas de Almería dónde permanecía ingresada. Minutos más tarde, El Centro Integrado de Datos (CID) ha anun",
+      "date": "Sun, 12 Jul 2026 23:16:05 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Al menos 27 personas mueren en el incendio de un pub de Bangkok",
+      "link": "https://www.lavanguardia.com/internacional/20260712/11590529/27-personas-mueren-incendio-pub-bangkok.html",
+      "desc": "Se desconoce la identidad y origen de las víctimas, aunque no se descarta que haya extranjeros",
+      "date": "12 Jul 2026 23:00:09 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
     {
       "title": "Susto por un incendio junto a las Urgencias del Hospital Reina Sofía de Córdoba",
       "link": "https://www.abc.es/espana/andalucia/cordoba/susto-incendio-junto-urgencias-hospital-reina-sofia-20260712221328-nts.html",
@@ -43,9 +63,9 @@
       "caso": "other"
     },
     {
-      "title": "El incendio de Peñarroya de Tastavins (Teruel) obliga a activar el nivel 2 y pedir ayuda a la UME",
+      "title": "El incendio de Peñarroya de Tastavins (Teruel) pone a cuatro pueblos en alerta y desaloja varias masías y un hotel",
       "link": "https://www.abc.es/espana/aragon/incendio-penarroya-tastavins-teruel-obliga-activar-nivel-20260712212135-nt.html",
-      "desc": "El Gobierno de Aragón ha activado el Plan especial por incendios forestales (Procinfo) en situación operativa 2-nivel 2, por el incendio forestal en el término municipal de Peñarroya de Tastavins (en la comarca del Matarraña, de alto valor ecológico, en la pro",
+      "desc": "El Gobierno de Aragón ha activado el Plan especial por incendios forestales (Procinfo) en situación operativa 2-nivel 2, por el incendio forestal declarado este domingo pasadas las 15.40 horas de la tarde en el término municipal de Peñarroya de Tastavins (en l",
       "date": "Sun, 12 Jul 2026 21:21:35 +0200",
       "source": "ABC",
       "color": "#c0392b",
@@ -60,6 +80,36 @@
       "source": "ABC",
       "color": "#c0392b",
       "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Sinner demuestra quién manda al conquistar ante Zverev su segundo Wimbledon seguido",
+      "link": "https://www.lavanguardia.com/deportes/20260712/11590510/sinner-demuestra-manda-conquistar-zverev-segundo-wimbledon-seguido.html",
+      "desc": "El italiano remonta frente a un rival correoso y se impone por 6-7 (9), 7-6 (2), 6-3 y 6-4 en 3 horas 46 minutos",
+      "date": "12 Jul 2026 21:03:24 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
+    {
+      "title": "¿Debió anularse el gol de Bellingham? Así nació el 'cable-gate', el escándalo tecnológico del Mundial",
+      "link": "https://www.lavanguardia.com/deportes/futbol/20260712/11590497/debio-anularse-gol-bellingham-asi-nacio-cable-gate-escandalo-tecnologico-mundial-noruega-inglaterra-2026.html",
+      "desc": "El supuesto impacto del balón con el cable de la cámara aérea antes del empate de Inglaterra en el Hard Rock de Miami desata una gran controversia",
+      "date": "12 Jul 2026 20:27:19 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
+    {
+      "title": "Rajoy y las birras en el Mundial",
+      "link": "https://www.lavanguardia.com/opinion/20260712/11590457/rajoy-birras-mundial.html",
+      "desc": "Rajoy convierte cada partido en un manual de instrucciones del sentido común pero...",
+      "date": "12 Jul 2026 20:04:47 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
       "caso": "other"
     },
     {
@@ -190,56 +240,6 @@
       "source": "ABC",
       "color": "#c0392b",
       "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Treinta centros de Castilla y León ofertarán el próximo curso el Bachillerato de Investigación/Excelencia",
-      "link": "https://www.abc.es/espana/castilla-leon/treinta-centros-castilla-leon-ofertaran-proximo-curso-20260712185335-nt.html",
-      "desc": "La Junta de Castilla y León ha reconocido el esfuerzo y la vocación investigadora del alumnado de la Comunidad con la entrega de los Premios de Bachillerato de Investigación/Excelencia (BIE) correspondientes al curso 2025-2026. Estos galardones distinguen a qu",
-      "date": "Sun, 12 Jul 2026 18:55:07 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Prisión sin fianza para el presunto violador detenido durante los Sanfermines",
-      "link": "https://www.lavanguardia.com/sucesos/20260712/11590423/prision-fianza-presunto-violador-detenido-pamplona.html",
-      "desc": "El Movimiento Feminista de Iruñerria ha convocado una concentración en la plaza del Castillo en protesta por las agresiones sexistas en lo que va de Sanfermines",
-      "date": "12 Jul 2026 16:34:39 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "Catalunya vive su tercera ola de calor del verano, que se alargará como mínimo hasta el miércoles",
-      "link": "https://www.lavanguardia.com/local/catalunya/20260712/11590415/catalunya-encara-tercera-ola-calor-verano-alargara-minimo-miercoles.html",
-      "desc": "Los Bombers establecen un refuerzo operativo en todas las regiones de emergencias",
-      "date": "12 Jul 2026 15:22:14 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "Márquez se impulsa en su jardín de Sachsenring al tercer puesto del Mundial, a 18 puntos del liderato",
-      "link": "https://www.lavanguardia.com/deportes/20260712/11590409/motogp-gp-alemania-sachsenring-marc-marquez-carrera-jardin-alex-jorge-martin.html",
-      "desc": "El catalán logró su décima victoria en el circuito alemán, igualando el récord histórico de Giacomo Agostini",
-      "date": "12 Jul 2026 14:48:02 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "Indignación en Francia por las palabras de Rajoy: “Es absolutamente inaceptable”",
-      "link": "https://www.lavanguardia.com/deportes/futbol/20260712/11590402/indignacion-francia-palabras-rajoy-absolutamente-inaceptable.html",
-      "desc": "El ministro del Interior francés responde al expresidente español después de afirmar que Francia tiene una plantilla “de altísimo nivel” pero “sin franceses”&nbsp;",
-      "date": "12 Jul 2026 14:00:39 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
       "caso": "other"
     }
   ]
