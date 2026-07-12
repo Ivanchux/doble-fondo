@@ -1,7 +1,147 @@
 {
-  "updated": "2026-07-11T22:41:42Z",
+  "updated": "2026-07-12T02:13:15Z",
   "count": 24,
   "items": [
+    {
+      "title": "El crimen sin respuesta de Manuela Barbosa: la familia se rebela contra el archivo del caso",
+      "link": "https://www.abc.es/espana/galicia/manuela-barbosa-engrosa-lista-crimenes-gallegos-resueltos-20260703014137-nt.html",
+      "desc": "La tarde del 13 de julio de 2021, Manuela Barbosa, de 66 años, salió de su casa, en Redondela (Pontevedra), cogió un taxi para ir a casa de una de sus hijas y visitar a su única nieta. Ya nunca volvieron a verla. Se le perdió el rastro hasta que, casi tres año",
+      "date": "Sun, 12 Jul 2026 01:41:37 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Los jueces ven el 'lawfare' como un «invento político inoculado» a la sociedad",
+      "link": "https://www.abc.es/espana/judicatura-lawfare-invento-politico-inoculado-sociedad-20260712014118-nt.html",
+      "desc": "En un momento en el que el Gobierno se encuentra nuevamente cercado por la acción de la justicia —con Begoña Gómez a las puertas del banquillo, la inminente sentencia del hermano de Sánchez, la imputación de la directora general de la Guardia Civil o el cerco ",
+      "date": "Sun, 12 Jul 2026 01:41:18 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Del barro de Zaragoza al cielo de San Javier: el camino militar de Leonor como futura jefa de los ejércitos",
+      "link": "https://www.abc.es/espana/casa-real/barro-zaragoza-cielo-san-javier-camino-militar-20260711014107-nt.html",
+      "desc": "En una de las calles paralelas al paseo marítimo de San Javier, en Murcia, a escasos cuarenta metros de la Academia General del Ejército del Aire y del Espacio (AGA), hay una tienda que hace esquina y que vende todo tipo de artículos militares. Desde gorras de",
+      "date": "Sun, 12 Jul 2026 01:41:07 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "El juez quiere saber si Zapatero comió con Sánchez antes del rescate de Plus Ultra",
+      "link": "https://www.abc.es/espana/juez-sospecha-zapatero-comio-sanchez-tratar-rescate-20260709014050-nt.html",
+      "desc": "«¿Usted entre julio y septiembre de 2020 tuvo alguna comida con el presidente del Gobierno , con el ministro Escrivá, con algún alto cargo del Ministerio de Hacienda, en relación con este tema, o sin que fuera por este tema?». Es una de las muchas preguntas, r",
+      "date": "Sun, 12 Jul 2026 01:40:50 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "zap"
+    },
+    {
+      "title": "La primera 'cloaca' de Leire Díez en sus inicios en Cantabria: «Estoy convencido de que amañó el voto por correo»",
+      "link": "https://www.abc.es/espana/cantabria/primera-cloaca-leire-diez-inicios-cantabria-convencido-20260712014041-nt.html",
+      "desc": "El día en que la UCO detuvo a Leire Díez en un atasco en plena Castellana , el impacto llegó también a Vega de Pas , el municipio cántabro donde empezó la 'fontanera' del PSOE. Fue el 10 de diciembre de 2025. «Recuerdo perfectamente aquel día. Alguien del pueb",
+      "date": "Sun, 12 Jul 2026 01:40:41 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "lei"
+    },
+    {
+      "title": "Bono y la historia de las furgonetas blancas",
+      "link": "https://www.abc.es/espana/bono-historia-furgonetas-blancas-20260712014030-nt.html",
+      "desc": "Es de esos personajes de la fauna política que parecen tener bula Papal. Sobre todo él, que es tan religioso . Socialista, sí, pero también de misa y catecismo. De esos socialistas a los que cierta derechita cobarde les hace ojitos. Lo que pasa es que en esta ",
+      "date": "Sun, 12 Jul 2026 01:40:30 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "El asesinato a tiros de Marlon destapa el resurgir de las bandas latinas en Cataluña",
+      "link": "https://www.abc.es/espana/cataluna/asesinato-tiros-marlon-destapa-resurgir-bandas-latinas-20260712014022-nt.html",
+      "desc": "Un niño de 15 años asesinado a tiros en un parque de Barcelona, La Pegaso. Allí se encontraba Marlon, con su hermano pequeño, cuando sus atacantes lo ejecutaron, la noche del 2 de julio. Los Mossos d'Esquadra, que mantienen las pesquisas bajo secreto, sospecha",
+      "date": "Sun, 12 Jul 2026 01:40:22 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Cataluña pone a prueba los límites constitucionales de la intervención en la vivienda",
+      "link": "https://www.abc.es/espana/cataluna/cataluna-pone-prueba-limites-constitucionales-intervencion-vivienda-20260710013906-nt.html",
+      "desc": "Choque constitucional a la vista. La proposición de ley impulsada por los partidos de izquierda en Cataluña con el objeto de vetar la compra de viviendas cuando no se destinen a residencia habitual ha abierto ya una intensa batalla jurídica, una colisión de de",
+      "date": "Sun, 12 Jul 2026 01:39:06 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Los vecinos que decidieron resistir en Bédar: «Si se hubieran quedado en las casas ahora estarían vivos»",
+      "link": "https://www.abc.es/espana/andalucia/almeria/vecinos-decidieron-resistir-bedar-quedado-casas-vivos-20260712013456-nts.html",
+      "desc": "Hay incendios que sólo arrasan el monte. Y hay otros que obligan a quienes los sufren a decidir qué están dispuestos a perder. Cuando el jueves las llamas cercaron Bédar, para muchos vecinos toda una vida quedó reducida a una disyuntiva tan sencilla como sinie",
+      "date": "Sun, 12 Jul 2026 01:34:56 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "África, la joven con altas capacidades que empezará la universidad con 16 años: «Algunos profesores no lo entendían»",
+      "link": "https://www.abc.es/espana/comunidad-valenciana/africa-joven-altas-capacidades-empezara-universidad-anos-20260712013349-nt.html",
+      "desc": "Con solo 16 años, África Mateos Bou comenzará el próximo curso el grado de Química en la Universitat Jaume I de Castellón después de obtener un 12,7 en la PAU y finalizar Bachillerato con Premio Extraordinario. Llegará a la universidad dos años antes de lo hab",
+      "date": "Sun, 12 Jul 2026 01:33:49 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Salvado por el AirTag: 24 horas agónicas para encontrar a un anciano japonés con alzhéimer",
+      "link": "https://www.abc.es/espana/madrid/salvado-airtag-horas-agonicas-encontrar-anciano-japones-20260711004529-nt.html",
+      "desc": "El primer pensamiento de los agentes es el de una desaparición inquietante. Hace casi siete horas que la familia de un hombre japonés de 77 años no sabe nada de él, en concreto, desde que saliera de casa a eso de las 8.30 de la mañana. «Me dijo que iba a dar u",
+      "date": "Sun, 12 Jul 2026 00:45:29 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "El refugio para niños abandonados que sufren enfermedades graves: «Intentamos normalizar sus vidas»",
+      "link": "https://www.abc.es/espana/madrid/refugio-acompano-ninos-sida-hoy-cuida-menores-20260709004516-nt.html",
+      "desc": "Lejos de cohibirse, Lucía (nombre ficticio para preservar su identidad) corrió hacia los brazos de Yoy. Sabía que aparecería a lo largo de aquella tarde. Aguardaba impaciente frente a una pequeña portería instalada en el jardín. Llevaba días preparándose para ",
+      "date": "Sun, 12 Jul 2026 00:45:16 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Gran Vía, ciudad fantasma",
+      "link": "https://www.abc.es/espana/madrid/gran-via-ciudad-fantasma-20260711004243-nt.html",
+      "desc": "La Gran Vía de Madrid parece un pueblo olvidado cuando aprieta el calor en la ciudad. Su asfalto quema tanto como el infierno; sus aceras son pasillos solitarios de pisadas, y los turistas se meten en las tiendas en busca del aire acondicionado. Me recuerda a ",
+      "date": "Sun, 12 Jul 2026 00:42:43 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "¿Votar? Lo más lejos posible",
+      "link": "https://www.lavanguardia.com/opinion/20260712/11590083/votar-mas-lejos-posible.html",
+      "desc": "Pedro Sánchez convocará las elecciones lo más tarde que pueda, es decir, en julio del 2027",
+      "date": "12 Jul 2026 00:05:00 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
     {
       "title": "El cordobés Andrés Cuenca se proclama campeón de Europa sub-19 con España",
       "link": "https://www.abc.es/espana/andalucia/cordoba/cordobes-andres-cuenca-proclama-campeon-europa-sub19-20260711222543-nts.html",
@@ -73,170 +213,30 @@
       "caso": "other"
     },
     {
-      "title": "La vuelta de los vecinos a recoger sus enseres a la zona cero del incendio de Almería: «Ha sido una pesadilla»",
-      "link": "https://www.abc.es/espana/andalucia/vecinos-vuelven-minutos-zona-cero-incendio-almeria-20260711200125-nts.html",
-      "desc": "Ni los oriundos con más años a sus espaldas saben a ciencia cierta por qué las nubes están tan bajas, como si se hubieran desplomado, cansadas, pero no se atrevieran del todo a recostarse en las crestas de los montes menudos que aún humean en este lado del Lev",
-      "date": "Sat, 11 Jul 2026 20:32:41 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Bolaños: «El fuego no ha avanzado y el terreno afectado sigue siendo de 6.600 hectáreas»",
-      "link": "https://www.abc.es/espana/andalucia/almeria/bolanos-fuego-avanzado-terreno-afectado-sigue-6600-20260711203216-nts.html",
-      "desc": "El ministro de la Presidencia, Justicia y Relaciones con las Cortes, Félix Bolaños, ha asegurado este sábado por la tarde que el incendio declarado este jueves en Los Gallardos (Almería) mantiene estable su perímetro y que la superficie afectada continúa siend",
-      "date": "Sat, 11 Jul 2026 20:32:17 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Sumar finiquita sin pena ni gloria el congreso que entierra a Yolanda Díaz",
-      "link": "https://www.abc.es/espana/sumar-finiquita-pena-gloria-congreso-entierra-yolanda-20260711202820-nt.html",
-      "desc": "Yolanda Díaz suelta definitivamente la mano de Movimiento Sumar, que, a partir de ahora, deberá aprender a caminar solo. En el organigrama del pequeño partido, no quedará ni rastro de la vicepresidenta segunda del Gobierno, que se borra finalmente de la plataf",
-      "date": "Sat, 11 Jul 2026 20:28:21 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Continúa grave un vecino de Castro del Río tras resultar herido en el encierro de San Fermín",
-      "link": "https://www.abc.es/espana/andalucia/cordoba/continua-grave-vecino-castro-rio-tras-resultar-20260711201418-nts.html",
-      "desc": "Un vecino de Castro del Río , de 65 años, permanece ingresado con pronóstico grave en el Hospital Universitario de Navarra tras resultar herido durante el encierro de San Fermín celebrado este viernes. El corredor sufrió un neumotórax bilateral en el tramo de ",
-      "date": "Sat, 11 Jul 2026 20:14:18 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Descafeinado homenaje al legado de Paco de Lucía",
-      "link": "https://www.abc.es/espana/andalucia/cordoba/descafeinado-homenaje-legado-paco-lucia-20260711194557-nts.html",
-      "desc": "La recta final del Festival de la Guitarra de Córdoba nos citó en el Teatro Axerquía la noche del pasado viernes. Un encuentro con parte de la flor y nata del flamenco para reivindicar el legado y honrar la memoria del artista más grande e internacional que ha",
-      "date": "Sat, 11 Jul 2026 19:45:58 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Madrid supera ya las 150 muertes atribuidas al calor en lo que va de verano",
-      "link": "https://www.abc.es/espana/madrid/madrid-supera-150-muertes-atribuidas-calor-verano-20260711193231-nt.html",
-      "desc": "La Comunidad de Madrid acumula ya más de un mes combatiendo las olas de calor que azotan a la región una tras otra. Unas altas temperaturas a las que se le atribuyen, en el mes de junio y los primeros diez días de julio, en torno a 170 muertes, según las estim",
-      "date": "Sat, 11 Jul 2026 19:32:31 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Más de 10.600 castellanos y leoneses residentes en el extranjero regresan a la Comunidad en el último lustro",
-      "link": "https://www.abc.es/espana/castilla-leon/10600-castellanos-leoneses-residentes-extranjero-regresan-comunidad-20260711192926-nt.html",
-      "desc": "Un total de 10.635 castellanos y leoneses residentes en el extranjero regresaron a la Comunidad durante el último lustro, según los registros de bajas consulares. Los datos reflejan una trayectoria ascendente a partir de 2023, tras los peores años de la pandem",
-      "date": "Sat, 11 Jul 2026 19:29:27 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "La Diputación desafía al Concello de Vigo: habrá pantalla gigante para el España-Francia",
-      "link": "https://www.abc.es/espana/galicia/diputacion-desafia-concello-vigo-pantalla-espanafrancia-20260711191800-nt.html",
-      "desc": "El nuevo punto de fricción política entre la Diputación de Pontevedra y el Concello de Vigo es un asunto de la máxima relevancia... televisiva. Se trata de la instalación (o no) de una pantalla gigante en la Plaza de la Estrella de Vigo por parte de la institu",
-      "date": "Sat, 11 Jul 2026 19:18:00 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Muere un trabajador tras vencer un muro en la localidad valenciana de Paterna",
-      "link": "https://www.abc.es/espana/comunidad-valenciana/muere-trabajador-tras-vencer-muro-localidad-valenciana-20260711191516-nt.html",
-      "desc": "Un trabajador ha fallecido este sábado tras desprenderse un muro en el polígono industrial Fuente del Jarro, en Paterna (Valencia), según ha adelantado 'Las Provincias' y han confirmado a Europa Press fuentes de la Policía Nacional. El suceso se ha producido s",
-      "date": "Sat, 11 Jul 2026 19:15:16 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Un total de 60 entidades sociosanitarias de Albacete reciben ayuda de la Diputación para sus proyectos",
-      "link": "https://www.abc.es/espana/castilla-la-mancha/total-entidades-sociosanitarias-albacete-reciben-ayuda-diputacion-20260711190616-nt.html",
-      "desc": "El equipo de Gobierno de la Diputación de Albacete ha resuelto su convocatoria de ayudas para proyectos sociosanitarios desarrollados por entidades de este ámbito que trabajan en la provincia, acompañando a quienes viven en situación de enfermedad, dependencia",
-      "date": "Sat, 11 Jul 2026 19:06:16 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Milagro en La Abadía: Un joven de 20 años sale ileso tras empotrar su coche contra un muro de hormigón",
-      "link": "https://www.abc.es/espana/castilla-la-mancha/toledo/milagro-abadia-joven-anos-sale-ileso-tras-20260711184628-nt.html",
-      "desc": "Lo que a simple vista parecía un accidente con consecuencias muy graves acabó, afortunadamente, sin daños personales. Un joven de 20 años resultó ileso este sábado después de que el turismo que conducía se empotrara contra el muro de hormigón de la rotonda de ",
-      "date": "Sat, 11 Jul 2026 18:46:29 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Un policía se enfrenta a cárcel acusado de agredir a un joven en un control: «Te mando a tu país»",
-      "link": "https://www.abc.es/espana/comunidad-valenciana/policia-enfrenta-carcel-acusado-agredir-joven-hondureno-20260711182542-nt.html",
-      "desc": "La Sección Tercera de la Audiencia Provincial de Valencia juzga el próximo jueves 16 de julio a un agente de la Policía Local de Rocafort por presuntamente propinar un puñetazo en el abdomen y dirigirse a un joven hondureño con expresiones humillantes en un co",
-      "date": "Sat, 11 Jul 2026 18:41:15 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Fallece un bañista en la playa de O Bao (A Illa de Arousa)",
-      "link": "https://www.abc.es/espana/galicia/fallece-banista-playa-bao-illa-arousa-20260711183714-nt.html",
-      "desc": "Un hombre ha fallecido este sábado, 11 de julio, en la playa de O Bao, en A Illa de Arousa (Pontevedra). El hombre se encontraba nadando en las proximidades del puente de la localidad cuando se aferró a una boya para pedir auxilio. Tal y como ha trasladado el ",
-      "date": "Sat, 11 Jul 2026 18:37:14 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Los sindicatos acuerdan ir a la huelga el 8 de septiembre: “El curso no arrancará con normalidad”",
-      "link": "https://www.lavanguardia.com/vida/20260711/11589943/assemblea-educativa-catalunya-acuerda-huelga-8-septiembre.html",
-      "desc": "Emplazan al Govern a convocar con urgencia la mesa de negociación para “lograr unos consensos y una mejora del sistema público”",
-      "date": "11 Jul 2026 17:00:03 +0200",
+      "title": "La Guardia Civil mantiene batidas en la zona afectada y trabaja en la identificación de fallecidos y vehículos calcinados",
+      "link": "https://www.lavanguardia.com/vida/20260711/11589977/guardia-civil-mantiene-batidas-zona-afectada-trabaja-identificacion-fallecidos-vehiculos-calcinados.html",
+      "desc": "Los agentes buscan en el área comprendida entre Los Gallardos y Vera",
+      "date": "11 Jul 2026 18:51:09 +0200",
       "source": "La Vanguardia",
       "color": "#8e44ad",
       "feedId": "LaVanguardia",
       "caso": "other"
     },
     {
-      "title": "Un incendio de vegetación en Camarasa obliga a confinar el núcleo de Fontllonga",
-      "link": "https://www.lavanguardia.com/local/lleida/20260711/11589941/incendio-vegetacion-camarasa-obliga-confinar-nucleo-fontllonga.html",
-      "desc": "Los bomberos trabajan con veinte dotaciones terrestres y 5 aéreas para extinguir el fuego",
-      "date": "11 Jul 2026 16:59:24 +0200",
+      "title": "El calor dará un respiro mañana, pero el nordeste, Cantábrico y Mallorca rozarán los 40 grados",
+      "link": "https://www.lavanguardia.com/natural/20260711/11589963/semana-40-grados-nordeste-peninsular-tormentas.html",
+      "desc": "Las capitales más calurosas el domingo serán Bilbao, Logroño, Zaragoza, Pamplona y Lleida",
+      "date": "11 Jul 2026 18:10:05 +0200",
       "source": "La Vanguardia",
       "color": "#8e44ad",
       "feedId": "LaVanguardia",
       "caso": "other"
     },
     {
-      "title": "Jayden Adams, futbolista que disputó el Mundial con Sudáfrica, fallece a los 25 años",
-      "link": "https://www.lavanguardia.com/deportes/futbol/20260711/11589929/jayden-adams-futbolista-disputo-mundial-sudafrica-fallece-25-anos.html",
-      "desc": "El centrocampista participó en los tres partidos de la fase de grupos de su selección en la Copa del Mundo de Estados Unidos, México y Canadá",
-      "date": "11 Jul 2026 16:23:40 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "El polémico comentario del expresidente Rajoy sobre la selección francesa",
-      "link": "https://www.lavanguardia.com/deportes/futbol/20260711/11589920/polemico-comentario-expresidente-rajoy-sobre-seleccion-francia-espana-mundial-2026.html",
-      "desc": "El gallego escribe periódicamete un artículo sobre el Mundial 2026 para el diario digital 'El Debate'&nbsp;",
-      "date": "11 Jul 2026 16:00:39 +0200",
+      "title": "Evacuados por el fuego en Los Gallardos: “Si se ha quemado mi casa, lo habré perdido todo”",
+      "link": "https://www.lavanguardia.com/vida/20260711/11589918/evacuada-fuego-gallardos-quemado-mi-casa-habre-perdido.html",
+      "desc": "Los desalojados que se encontraban en los albergues de Garrucha y Lubrín han podido ser reubicados en hoteles y casas de familiares cercanos",
+      "date": "11 Jul 2026 17:14:52 +0200",
       "source": "La Vanguardia",
       "color": "#8e44ad",
       "feedId": "LaVanguardia",
