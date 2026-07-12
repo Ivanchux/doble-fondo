@@ -1,9 +1,159 @@
 {
-  "updated": "2026-07-12T16:54:20Z",
+  "updated": "2026-07-12T18:58:36Z",
   "count": 24,
   "items": [
     {
-      "title": "El pantano de San Juan suma otra víctima: encuentran el cadáver de un joven de 28 años",
+      "title": "El PP, tensionado con los candidatos de Ávila, Soria y Zamora",
+      "link": "https://www.abc.es/espana/castilla-leon/candidatos-pp-alcaldias-avila-soria-zamora-solo-20260709200409-nt.html",
+      "desc": "Sorprendió a propios y a extraños el anuncio del PP de que su presidente nacional, Alberto Núñez Feijóo , dará a conocer el sábado 18 de julio en un acto público en Santiago a los candidatos a las alcaldías de las capitales de provincia de toda España. En Cast",
+      "date": "Sun, 12 Jul 2026 20:04:09 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Detenido por intentar violar a una mujer a la salida de una discoteca en la Malvarrosa de Valencia",
+      "link": "https://www.abc.es/espana/comunidad-valenciana/detenido-intentar-violar-mujer-salida-discoteca-malvarrosa-20260712200328-nt.html",
+      "desc": "La Policía Local de Valencia ha detenido a un hombre como presunto autor de un delito de agresión sexual a una mujer a la salida de una discoteca en la zona de la playa de la Malvarrosa. Dos agentes impidieron la violación justo antes de que se produjera y fue",
+      "date": "Sun, 12 Jul 2026 20:03:29 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Medicina y los dobles grados copan las notas de corte más altas de las universidades",
+      "link": "https://www.abc.es/espana/castilla-leon/medicina-dobles-grados-acaparan-notas-corte-altas-20260710200206-nt.html",
+      "desc": "Una vez publicadas las primeras listas de admitidos, las universidades han dado a conocer las notas de corte de aquellas titulaciones que tienen plazas limitadas. Una calificación que marca la exigencia para quienes quieren acceder a ellas y sirve de orientaci",
+      "date": "Sun, 12 Jul 2026 20:02:06 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Muere un hombre de nacionalidad francesa cuando se bañaba en un pueblo de Gerona",
+      "link": "https://www.abc.es/espana/cataluna/muere-hombre-nacionalidad-francesa-banaba-pueblo-gerona-20260712195948-nt.html",
+      "desc": "Un francés de 54 años ha muerto el domingo por la tarde cuando se bañaba en la playa de Ampuriabrava en Castellón de Ampurias (Gerona), según ha informado Protección Civil de la Generalitat de Cataluña en un comunicado. El teléfono 112 recibió el aviso a las 1",
+      "date": "Sun, 12 Jul 2026 19:59:48 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "El sistema de los pescadores para repartirse la Albufera de Valencia desde el siglo XIII",
+      "link": "https://www.abc.es/espana/comunidad-valenciana/sistema-pescadores-repartirse-albufera-valencia-siglo-xiii-20260712195728-nt.html",
+      "desc": "La Cofradía de Pescadores de El Palmar, en Valencia , ha celebrado, como cada segundo domingo de julio, tradicional sorteo de 'redolins', con el que distribuye los 50 puestos de pesca del lago. Se trata de un sistema de reparto con orígenes en el siglo XIII qu",
+      "date": "Sun, 12 Jul 2026 19:57:28 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Dos bomberos del Infoca, heridos en accidente de tráfico en la zona del incendio",
+      "link": "https://www.abc.es/espana/andalucia/almeria/dos-bomberos-infoca-heridos-accidente-trafico-20260712195357-nts.html",
+      "desc": "Dos ocupantes de un camión de bomberos del Plan Infoca han resultado heridos este domingo tras sufrir un accidente cuando circulaba por la AL-6109 de Bédar (Almería ), que permanece cortada al tráfico para los usuarios a consecuencia del incendio forestal de L",
+      "date": "Sun, 12 Jul 2026 19:57:08 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "El pueblo donde veranea José Mota: un refugio manchego con un castillo medieval y una rica tradición culinaria",
+      "link": "https://www.abc.es/espana/castilla-la-mancha/pueblo-castillala-mancha-vio-nacer-jose-mota-20260712174805-nt.html",
+      "desc": "Humorista, actor, guionista, imitador... José Mota es uno de los hombres más conocidos en el panorama del entretenimiento en televisión de nuestro país. Se dio a conocer por 'Cruz y Raya' y ha cosechado otros éxitos como 'La hora de José Mota' o sus populares ",
+      "date": "Sun, 12 Jul 2026 19:42:53 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Nuevo apuñalamiento en Lavapiés: la víctima es un joven de 25 años que iba indocumentado",
+      "link": "https://www.abc.es/espana/madrid/nuevo-apunalamiento-lavapies-joven-anos-ingresado-gravedad-20260712193203-nt.html",
+      "desc": "Un hombre de 25 años se encuentra ingresado en estado grave en el Hospital Clínico San Carlos, tras sufrir una agresión por arma blanca en el distrito madrileño de Lavapiés. Las alarmas saltaron cuando el joven, de origen magrebí, entró por su propio pie en un",
+      "date": "Sun, 12 Jul 2026 19:35:14 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Un nuevo robo de cables provoca retrasos en la Alta Velocidad entre Andalucía y Madrid",
+      "link": "https://www.abc.es/espana/andalucia/nuevo-robo-cables-provoca-retrasos-alta-velocidad-20260712193013-nts.html",
+      "desc": "Nuevos retrasos en los trenes de Alta Velocidad. Otra vez por un supuesto robo de cables. La circulación de trenes de Alta Velocidad entre Madrid y Andalucía se encuentra afectada en la tarde de este domingo , 12 de julio con retrasos debido a una incidencia p",
+      "date": "Sun, 12 Jul 2026 19:32:06 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Los fuegos de Vimianzo y Laxe (La Coruña) se unen y forman uno único que arrasa ya 165 hectáreas",
+      "link": "https://www.abc.es/espana/galicia/fuegos-vimianzo-laxe-coruna-unen-forman-unico-20260712191205-nt.html",
+      "desc": "Los dos incendios forestales iniciados, cada uno por su lado, en los municipios coruñeses limítrofes de Vimianzo y Laxe se han unido y forman ahora un único fuego , según la Consellería do Medio Rural, que ha apreciado que mantiene «una evolución favorable». L",
+      "date": "Sun, 12 Jul 2026 19:12:06 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "La CM-4017 de Retuerta del Bullaque a Horcajo de los Montes, cerrada hasta el 24 de julio por obras de mejora",
+      "link": "https://www.abc.es/espana/castilla-la-mancha/cm4017-retuerta-bullaque-horcajo-montes-cerrada-julio-20260712190530-nt.html",
+      "desc": "El Gobierno de Castilla-La Mancha, a través de la Consejería de Fomento, va a realizar obras de mejora de drenaje en la carretera CM-4017 que une las localidades de Retuerta del Bullaque con Horcajo de los Montes , en la provincia de Ciudad Real. Para realizar",
+      "date": "Sun, 12 Jul 2026 19:05:53 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "'Omega. 30 aniversario': Vibrante reencuentro con un directo mítico",
+      "link": "https://www.abc.es/espana/andalucia/cordoba/omega-aniversario-vibrante-reencuentro-directo-mitico-20260712190309-nts.html",
+      "desc": "La noche del pasado sábado el Teatro Axerquía fue la pista de despegue de la gira de 'Omega. 30 aniversario' , el espectáculo del mítico disco con el que Enrique Morente y Lagartija Nick pusieron patas arriba el flamenco a finales de los noventa. Fue la traca ",
+      "date": "Sun, 12 Jul 2026 19:03:09 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Hallan sin vida al hombre desaparecido en la localidad valenciana de Aldaia",
+      "link": "https://www.abc.es/espana/comunidad-valenciana/hallan-vida-hombre-desaparecido-localidad-valenciana-aldaia-20260712190124-nt.html",
+      "desc": "El Consorcio Provincial de Bomberos de Valencia ha confirmado el hallazgo del cuerpo sin vida de Pedro, el hombre de 66 años desaparecido desde el viernes que diferentes dotaciones estaban buscando por zonas agrícolas de la localidad de Aldaia. Los bomberos ha",
+      "date": "Sun, 12 Jul 2026 19:01:24 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Treinta centros de Castilla y León ofertarán el próximo curso el Bachillerato de Investigación/Excelencia",
+      "link": "https://www.abc.es/espana/castilla-leon/treinta-centros-castilla-leon-ofertaran-proximo-curso-20260712185335-nt.html",
+      "desc": "La Junta de Castilla y León ha reconocido el esfuerzo y la vocación investigadora del alumnado de la Comunidad con la entrega de los Premios de Bachillerato de Investigación/Excelencia (BIE) correspondientes al curso 2025-2026. Estos galardones distinguen a qu",
+      "date": "Sun, 12 Jul 2026 18:55:07 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Los equipos de emergencia suspenden la búsqueda de víctimas en el incendio sin hallar nuevos cuerpos",
+      "link": "https://www.abc.es/espana/andalucia/almeria/equipos-emergencia-suspenden-busqueda-victimas-incendio-hallar-20260712184514-nts.html",
+      "desc": "El incendio forestal de Los Gallardos (Almería) ya no es solo la mayor catástrofe ecológica de la historia de Andalucía por las 7.000 hectáreas devoradas, sino también la más trágica en términos humanos. Los equipos de rescate han dado por finalizadas las tare",
+      "date": "Sun, 12 Jul 2026 18:45:15 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "El pantano de San Juan suma otra víctima: hallan el cadáver de un joven de 28 años en una zona de gran profundidad",
       "link": "https://www.abc.es/espana/madrid/pantano-san-juan-suma-victima-encuentran-cadaver-20260712184302-nt.html",
       "desc": "Nueva tragedia en el pantano de San Juan . Un joven peruano de 28 años ha fallecido este domingo mientras se bañaba en el principal embalse de la Comunidad de Madrid, un suceso que devuelve la atención sobre los riesgos que entrañan las presas. La alerta llegó",
       "date": "Sun, 12 Jul 2026 18:43:03 +0200",
@@ -53,106 +203,6 @@
       "caso": "other"
     },
     {
-      "title": "El cantante Dani Martín, último en la lista de famosos que buscan casa en Galicia",
-      "link": "https://www.abc.es/espana/galicia/cantante-dani-martin-ultimo-lista-famosos-buscan-20260712180841-nt.html",
-      "desc": "El cantante Dani Martín (Madrid, 1977) lleva medio verano en Galicia por trabajo. De su concierto en el festival O Son do Camiño el mes pasado en la capital gallega a su regreso al Portamérica, esta vez en Pontevedra. Y de estas continuas visitas a este rincón",
-      "date": "Sun, 12 Jul 2026 18:08:41 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Los pueblos afectados por el incendio abrirán este lunes una oficina para coordinar las ayudas",
-      "link": "https://www.abc.es/espana/andalucia/almeria/pueblos-afectados-incendio-abriran-lunes-oficina-coordinar-20260712180837-nts.html",
-      "desc": "Los municipios de Los Gallardos, Bédar, Antas y Lubrín , cuyos términos municipales se han visto afectados por el incendio forestal de Almería que ha arrasado unas 7.000 hectáreas de terreno y ha dejado abundantes daños humanos y materiales, tienen previsto ha",
-      "date": "Sun, 12 Jul 2026 18:08:38 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "UGT denuncia amenazas con palos y barras de hierro de 'gorrillas' en el Centro de Salud Levante Sur de Córdoba",
-      "link": "https://www.abc.es/espana/andalucia/cordoba/ugt-denuncia-amenazas-palos-barras-hierro-gorrillas-20260712180759-nts.html",
-      "desc": "La Federación de Servicios, Movilidad y Consumo (FeSMC) de UGT en Córdoba ha presentado una denuncia ante la Subdelegación del Gobierno en la que reclama medidas urgentes para reforzar la seguridad en el entorno del Punto de Urgencias del Centro de Salud Levan",
-      "date": "Sun, 12 Jul 2026 18:08:00 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Agricultores y ganaderos de Guadalajara reprochan a la Junta su «inacción» ante la plaga de conejos",
-      "link": "https://www.abc.es/espana/castilla-la-mancha/agricultores-ganaderos-guadalajara-reprochan-junta-inaccion-ante-20260712180559-nt.html",
-      "desc": "La Asociación Provincial de Agricultores y Ganaderos (APAG-Asaja) de Guadalajara ha cargado contra la gestión de la Junta de Castilla-La Mancha frente a la plaga de conejos que afecta al campo de la provincia y de otros puntos de la región y ha asegurado que, ",
-      "date": "Sun, 12 Jul 2026 18:05:59 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "La Virgen del Carmen vuelve a navegar por las aguas del Pisuerga en Valladolid",
-      "link": "https://www.abc.es/espana/castilla-leon/virgen-carmen-vuelve-navegar-aguas-pisuerga-valladolid-20260712175836-nt.html",
-      "desc": "Decenas de personas han presenciado este domingo la XXVII Procesión Fluvial de la Virgen del Carmen por el río Pisuerga de Valladolid, un «lugar icónico» desde el que se ha pedido por el fin de las guerras y la retención del talento en la ciudad. La procesión ",
-      "date": "Sun, 12 Jul 2026 17:58:37 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "La provincia de León registra cinco incendios activos",
-      "link": "https://www.abc.es/espana/castilla-leon/provincia-leon-registra-cinco-incendios-activos-20260712173827-nt.html",
-      "desc": "La provincia de León registraba este domingo un total de cinco incendios activos . De ellos, el que más preocupaba fue el de Navatejera , en el término municipal de Villaquilambre, que fue declarado al inicio de la tarde de nivel 2 del índice de Gravedad ante ",
-      "date": "Sun, 12 Jul 2026 17:38:27 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Las Jornadas Medievales de Sigüenza reúnen a 20.000 personas y consolidan su liderazgo como cita histórica",
-      "link": "https://www.abc.es/espana/castilla-la-mancha/jornadas-medievales-siguenza-reunen-20000-personas-consolidan-20260712173708-nt.html",
-      "desc": "Sigüenza (Guadalajara) ha vuelto a demostrar este fin de semana por qué sus Jornadas Medievales se han convertido en una de las grandes citas de la recreación histórica en España. La XXVII edición de este evento, declarado Fiesta de Interés Turístico Regional ",
-      "date": "Sun, 12 Jul 2026 17:37:08 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Carlos de Inglaterra traslada sus condolencias al Rey por el incendio",
-      "link": "https://www.abc.es/espana/andalucia/almeria/carlos-inglaterra-traslada-condolencias-rey-incendio-20260712172158-nts.html",
-      "desc": "El Rey de Inglaterra, Carlos III, ha trasladado sus condolencias al Rey Felipe VI por el trágico incendio en Los Gallardos (Almería), que ha dejado hasta el momento 12 muertos. El embajador británico en España, Alex Ellis, ha confirmado este domingo en redes s",
-      "date": "Sun, 12 Jul 2026 17:21:59 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "El hotel de Richard Rogers cumple 20 años como puerta turística y empresarial de Barcelona",
-      "link": "https://www.abc.es/espana/cataluna/hotel-richard-rogers-cumple-anos-puerta-turistica-20260712171944-nt.html",
-      "desc": "La torre proyectada por el arquitecto británico Richard Rogers en la entrada sur de Barcelona cumple veinte años convertida en una pieza singular de la oferta hotelera y arquitectónica metropolitana. Inaugurado en 2006 como Hesperia Tower y rebautizado en 2020",
-      "date": "Sun, 12 Jul 2026 17:19:44 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "La Fiscalía pide tres años de cárcel a un empresario de Talavera por apropiarse de casi 30.000 euros de una empresa de mensajería",
-      "link": "https://www.abc.es/espana/castilla-la-mancha/toledo/fiscalia-pide-tres-anos-carcel-empresario-talavera-20260712171807-nt.html",
-      "desc": "La Sección Segunda de la Audiencia Provincial de Toledo juzgará el próximo miércoles, 15 de julio, a A.S.R., administrador de una empresa de envíos urgentes con sede en Talavera de la Reina, acusado de apropiarse de 29.552,32 euros que había cobrado a clientes",
-      "date": "Sun, 12 Jul 2026 17:18:08 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
       "title": "Prisión sin fianza para el presunto violador detenido durante los Sanfermines",
       "link": "https://www.lavanguardia.com/sucesos/20260712/11590423/prision-fianza-presunto-violador-detenido-pamplona.html",
       "desc": "El Movimiento Feminista de Iruñerria ha convocado una concentración en la plaza del Castillo en protesta por las agresiones sexistas en lo que va de Sanfermines",
@@ -160,26 +210,6 @@
       "source": "La Vanguardia",
       "color": "#8e44ad",
       "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "Prisión provisional sin fianza para el hombre acusado de matar a su pareja y a la hija de ella en Mijas",
-      "link": "https://www.abc.es/espana/andalucia/malaga/prision-provisional-fianza-hombre-acusado-matar-pareja-20260712160944-nts.html",
-      "desc": "Prisión provisional comunicada y sin fianza para el supuesto autor del asesinato de su pareja y de la hija de esta en una vivienda de Mijas. El asesino presuntamente acabó con la vida de María y Patricia e intentó quemar la vivienda para así poder eliminar las",
-      "date": "Sun, 12 Jul 2026 16:09:45 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Un hostelero paga cinco euros a personas vulnerables para que roben comida para su bar",
-      "link": "https://www.abc.es/espana/comunidad-valenciana/alicante/hostelero-paga-cinco-euros-personas-vulnerables-roben-20260712154325-nt.html",
-      "desc": "La Policía Nacional ha arrestado al propietario de un bar de la localidad alicantina de Elche por supuestamente pagar a personas en situación de vulnerabilidad para que robasen latas de conservas que después servía en su establecimiento sin control alguno. Seg",
-      "date": "Sun, 12 Jul 2026 15:43:26 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
       "caso": "other"
     },
     {
@@ -193,16 +223,6 @@
       "caso": "other"
     },
     {
-      "title": "Francia busca a una mujer entre los desaparecidos en el incendio de Los Gallardos",
-      "link": "https://www.abc.es/espana/andalucia/almeria/francia-busca-mujer-desaparecidos-incendio-gallardos-20260712145508-nts.html",
-      "desc": "La ministra delegada de Francofonía y Colaboración Internacional de Francia, Éléonore Caroit, ha avisado de que una mujer francesa podría haber desaparecido en el incendio forestal de Los Gallardos. Desde el Ejecutivo francés se explica que «están en contacto ",
-      "date": "Sun, 12 Jul 2026 14:56:29 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
       "title": "Márquez se impulsa en su jardín de Sachsenring al tercer puesto del Mundial, a 18 puntos del liderato",
       "link": "https://www.lavanguardia.com/deportes/20260712/11590409/motogp-gp-alemania-sachsenring-marc-marquez-carrera-jardin-alex-jorge-martin.html",
       "desc": "El catalán logró su décima victoria en el circuito alemán, igualando el récord histórico de Giacomo Agostini",
@@ -211,26 +231,6 @@
       "color": "#8e44ad",
       "feedId": "LaVanguardia",
       "caso": "other"
-    },
-    {
-      "title": "La DGT destapa nuestro peor hábito al volante: la infracción masiva por la que ya han multado a más de 15.000 personas",
-      "link": "https://www.abc.es/espana/andalucia/dgt-destapa-peor-habito-volante-infraccion-masiva-20260712144620-nts.html",
-      "desc": "La combinación de vacaciones, desplazamientos masivos y obras de mantenimiento en la red vial española se ha convertido en el nuevo caballo de batalla de la Dirección General de Tráfico (DGT). La Agrupación de Tráfico de la Guardia Civil ha cerrado su última c",
-      "date": "Sun, 12 Jul 2026 14:46:20 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Uno de los empresario del caso Leire le grabó varias conversaciones que ponen en aprietos al PSOE",
-      "link": "https://www.abc.es/espana/empresario-leire-grabo-varias-conversaciones-ponen-aprietos-20260713151125-nt.html",
-      "desc": "El empresario sevillano Joaquín Parra, al que Leire Díez se aproximó en 2024 en busca, presuntamente, de información en contra de la juez de Badajoz Beatriz Biedma, que abrió la causa por prevaricación y tráfico de influencias a David Sánchez, el hermano de Pe",
-      "date": "Sun, 12 Jul 2026 14:41:02 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "lei"
     },
     {
       "title": "Indignación en Francia por las palabras de Rajoy: “Es absolutamente inaceptable”",
