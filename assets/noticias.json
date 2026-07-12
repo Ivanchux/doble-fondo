@@ -1,7 +1,67 @@
 {
-  "updated": "2026-07-12T18:58:36Z",
+  "updated": "2026-07-12T20:39:07Z",
   "count": 24,
   "items": [
+    {
+      "title": "Susto por un incendio junto a las Urgencias del Hospital Reina Sofía de Córdoba",
+      "link": "https://www.abc.es/espana/andalucia/cordoba/susto-incendio-junto-urgencias-hospital-reina-sofia-20260712221328-nts.html",
+      "desc": "Un incendio registrado en la tarde de este domingo ha provocado momentos de preocupación junto al área de Urgencias del Hospital Reina Sofía de Córdoba . El fuego se ha originado en unos setos situados frente al acceso al servicio sanitario y ha generado una n",
+      "date": "Sun, 12 Jul 2026 22:13:28 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Carmen Martín Gaite vuelve a Piñor: una exposición revela las raíces gallegas de su vocación literaria",
+      "link": "https://www.abc.es/espana/galicia/carmen-martin-gaite-vuelve-pinor-exposicion-revela-20260629220101-nt.html",
+      "desc": "Durante décadas, hasta nueve cajas repletas de recortes y fotografías del llamado 'álbum Gaite' guardaron un tesoro que ahora sale a la luz. Arquitectura popular, trajes tradicionales y tipos humanos de la Galicia rural del primer tercio del siglo XX, retratad",
+      "date": "Sun, 12 Jul 2026 22:01:01 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Muere una mujer de 93 años y eleva a 13 los fallecidos por el incendio de Almería",
+      "link": "https://www.abc.es/espana/andalucia/almeria/muere-mujer-anos-eleva-fallecidos-incendio-20260712215402-nts.html",
+      "desc": "Ya son trece las víctimas del incendio de Los Gallardos en Almería. La muerte de una de las heridas, una mujer británica de 93 años, este domingo en el hospital Torrecárdenas de Almería ha elevado la cifra de víctimas del siniestro que ha arrasado 7.000 hectár",
+      "date": "Sun, 12 Jul 2026 21:56:45 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Sánchez, Montero y Juanma Moreno coincidirán este lunes en el incendio",
+      "link": "https://www.abc.es/espana/andalucia/almeria/sanchez-montero-juanma-moreno-coincidiran-lunes-incendio-20260712212055-nts.html",
+      "desc": "Pedro Sánchez, María Jesús Montero y Juanma Moreno coincidirán este lunes en la zona cero del incendio de Los Gallardos en Almería. Sánchez visitará este lunes l as zonas afectadas por el incendio forestal de Los Gallardos que se declaró el pasado jueves día 9",
+      "date": "Sun, 12 Jul 2026 21:22:26 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "El incendio de Peñarroya de Tastavins (Teruel) obliga a activar el nivel 2 y pedir ayuda a la UME",
+      "link": "https://www.abc.es/espana/aragon/incendio-penarroya-tastavins-teruel-obliga-activar-nivel-20260712212135-nt.html",
+      "desc": "El Gobierno de Aragón ha activado el Plan especial por incendios forestales (Procinfo) en situación operativa 2-nivel 2, por el incendio forestal en el término municipal de Peñarroya de Tastavins (en la comarca del Matarraña, de alto valor ecológico, en la pro",
+      "date": "Sun, 12 Jul 2026 21:21:35 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Luto en el corazón de Sierra Cabrera: «Nuestros vecinos han muerto, no puede ser verdad»",
+      "link": "https://www.abc.es/espana/andalucia/almeria/luto-corazon-sierra-cabrera-vecinos-muerto-puede-20260712211817-nts.html",
+      "desc": "En la parte alta de un risco, en el paraje de La Cerca, a unos tres kilómetros de Bédar, destaca una pequeña casa blanca con zócalo de piedras que ha quedado totalmente a salvo de las llamas. Es una isla, en medio de ese gris denso, de una tristeza oscura, que",
+      "date": "Sun, 12 Jul 2026 21:18:17 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
     {
       "title": "El PP, tensionado con los candidatos de Ávila, Soria y Zamora",
       "link": "https://www.abc.es/espana/castilla-leon/candidatos-pp-alcaldias-avila-soria-zamora-solo-20260709200409-nt.html",
@@ -137,66 +197,6 @@
       "link": "https://www.abc.es/espana/castilla-leon/treinta-centros-castilla-leon-ofertaran-proximo-curso-20260712185335-nt.html",
       "desc": "La Junta de Castilla y León ha reconocido el esfuerzo y la vocación investigadora del alumnado de la Comunidad con la entrega de los Premios de Bachillerato de Investigación/Excelencia (BIE) correspondientes al curso 2025-2026. Estos galardones distinguen a qu",
       "date": "Sun, 12 Jul 2026 18:55:07 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Los equipos de emergencia suspenden la búsqueda de víctimas en el incendio sin hallar nuevos cuerpos",
-      "link": "https://www.abc.es/espana/andalucia/almeria/equipos-emergencia-suspenden-busqueda-victimas-incendio-hallar-20260712184514-nts.html",
-      "desc": "El incendio forestal de Los Gallardos (Almería) ya no es solo la mayor catástrofe ecológica de la historia de Andalucía por las 7.000 hectáreas devoradas, sino también la más trágica en términos humanos. Los equipos de rescate han dado por finalizadas las tare",
-      "date": "Sun, 12 Jul 2026 18:45:15 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "El pantano de San Juan suma otra víctima: hallan el cadáver de un joven de 28 años en una zona de gran profundidad",
-      "link": "https://www.abc.es/espana/madrid/pantano-san-juan-suma-victima-encuentran-cadaver-20260712184302-nt.html",
-      "desc": "Nueva tragedia en el pantano de San Juan . Un joven peruano de 28 años ha fallecido este domingo mientras se bañaba en el principal embalse de la Comunidad de Madrid, un suceso que devuelve la atención sobre los riesgos que entrañan las presas. La alerta llegó",
-      "date": "Sun, 12 Jul 2026 18:43:03 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Jesús Fernández, obispo de Córdoba: «La dignidad de la persona no depende de dónde nace, sino de la ayuda que necesita»",
-      "link": "https://www.abc.es/espana/andalucia/cordoba/jesus-fernandez-obispo-cordoba-dignidad-persona-depende-20260712183706-nts.html",
-      "desc": "El obispo de Córdoba, Jesús Fernández , ha destacado el compromiso de Cáritas con la atención a las personas necesitadas, sin establecer divisiones por su procedencia , al afirmar que «la dignidad de la persona, de cada persona, no depende de dónde nace, sino ",
-      "date": "Sun, 12 Jul 2026 18:37:06 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "A juicio el hombre que intentó quemar viva a su exnovia: «Te vas a enterar... adiós»",
-      "link": "https://www.abc.es/espana/galicia/juicio-hombre-intento-quemar-viva-exnovia-vas-20260712183644-nt.html",
-      "desc": "Le prendió fuego y la despidió con un «adiós» . Borja Rial, el hombre acusado de tentativa de asesinato tras prender fuego a su expareja en septiembre de 2024 en Vigo, será juzgado esta semana en la sección cuarta de la Audiencia Provincial de Pontevedra. Para",
-      "date": "Sun, 12 Jul 2026 18:36:44 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "La nueva normativa de la RFEF condiciona la política de cesiones del Córdoba CF",
-      "link": "https://www.abc.es/espana/andalucia/cordoba/cordoba-cf/nueva-normativa-rfef-condiciona-politica-cesiones-cordoba-20260712182029-nts.html",
-      "desc": "El nuevo límite de cesiones fijado por la Real Federación Española de Fútbol ha obligado al Córdoba CF a replantear una de sus vías habituales de crecimiento de talento. Desde este verano, los clubes nacionales solo podrán contar con seis préstamos de entrada ",
-      "date": "Sun, 12 Jul 2026 18:20:30 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Marimar Blanco carga contra Sánchez en el aniversario del asesinato de su hermano Miguel Ángel: «Han elegido ponerse al lado de los verdugos»",
-      "link": "https://www.abc.es/espana/pais-vasco/marimar-blanco-carga-gobierno-aniversario-asesinato-hermano-20260712181711-nt.html",
-      "desc": "El Partido Popular ha anunciado este domingo, durante el homenaje a Miguel Ángel Blanco en Ermua, su compromiso de reformar la ley penitenciaria para impedir beneficios a condenados por terrorismo que no colaboren con la justicia ni muestren arrepentimiento. E",
-      "date": "Sun, 12 Jul 2026 18:17:11 +0200",
       "source": "ABC",
       "color": "#c0392b",
       "feedId": "ABC",
