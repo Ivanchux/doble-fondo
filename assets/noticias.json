@@ -1,7 +1,27 @@
 {
-  "updated": "2026-07-12T13:08:33Z",
+  "updated": "2026-07-12T14:51:31Z",
   "count": 24,
   "items": [
+    {
+      "title": "Prisión provisional sin fianza para el hombre acusado de matar a su pareja y a la hija de ella en Mijas",
+      "link": "https://www.abc.es/espana/andalucia/malaga/prision-provisional-fianza-hombre-acusado-matar-pareja-20260712160944-nts.html",
+      "desc": "Prisión provisional comunicada y sin fianza para el supuesto autor del asesinato de su pareja y de la hija de esta en una vivienda de Mijas. El asesino presuntamente acabó con la vida de María y Patricia e intentó quemar la vivienda para así poder eliminar las",
+      "date": "Sun, 12 Jul 2026 16:09:45 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Un hostelero paga cinco euros a personas vulnerables para que roben comida para su bar",
+      "link": "https://www.abc.es/espana/comunidad-valenciana/alicante/hostelero-paga-cinco-euros-personas-vulnerables-roben-20260712154325-nt.html",
+      "desc": "La Policía Nacional ha arrestado al propietario de un bar de la localidad alicantina de Elche por supuestamente pagar a personas en situación de vulnerabilidad para que robasen latas de conservas que después servía en su establecimiento sin control alguno. Seg",
+      "date": "Sun, 12 Jul 2026 15:43:26 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
     {
       "title": "Francia busca a una mujer entre los desaparecidos en el incendio de Los Gallardos",
       "link": "https://www.abc.es/espana/andalucia/almeria/francia-busca-mujer-desaparecidos-incendio-gallardos-20260712145508-nts.html",
@@ -21,6 +41,16 @@
       "color": "#c0392b",
       "feedId": "ABC",
       "caso": "other"
+    },
+    {
+      "title": "Uno de los empresario del caso Leire le grabó varias conversaciones que ponen en aprietos al PSOE",
+      "link": "https://www.abc.es/espana/empresario-leire-grabo-varias-conversaciones-ponen-aprietos-20260713151125-nt.html",
+      "desc": "El empresario sevillano Joaquín Parra, al que Leire Díez se aproximó en 2024 en busca, presuntamente, de información en contra de la juez de Badajoz Beatriz Biedma, que abrió la causa por prevaricación y tráfico de influencias a David Sánchez, el hermano de Pe",
+      "date": "Sun, 12 Jul 2026 14:41:02 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "lei"
     },
     {
       "title": "El corazón gris de Sierra Cabrera comienza a recibir a los desalojados",
@@ -70,16 +100,6 @@
       "source": "ABC",
       "color": "#c0392b",
       "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Indignación en Francia por las palabras de Rajoy: “Es absolutamente inaceptable”",
-      "link": "https://www.lavanguardia.com/deportes/futbol/20260712/11590402/indignacion-francia-palabras-rajoy-absolutamente-inaceptable.html",
-      "desc": "El ministro del Interior francés responde al expresidente español después de afirmar que Francia tiene una plantilla “de altísimo nivel” pero “sin franceses”&nbsp;",
-      "date": "12 Jul 2026 14:00:39 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
       "caso": "other"
     },
     {
@@ -183,49 +203,9 @@
       "caso": "other"
     },
     {
-      "title": "Este es el pueblo de Castilla y León que inaugurará la temporada del 'Gran Prix del verano' 2026",
-      "link": "https://www.abc.es/espana/castilla-leon/pueblo-castilla-leon-inaugurara-temporada-gran-prix-20260712125100-nt.html",
-      "desc": "El único representante de Castilla y León en el clásico programa televisivo del verano 'Grand Prix' será, además, uno de los encargados de inaugurar la temporada de 2026. El espacio, emitido en RTVE, comenzará a emitirse el próximo lunes 13 de julio y, según h",
-      "date": "Sun, 12 Jul 2026 12:51:56 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Las Jornadas Ibero-Romanas de Alhambra convierten al municipio en un escaparate de la historia del Campo de Montiel",
-      "link": "https://www.abc.es/espana/castilla-la-mancha/jornadas-iberoromanas-alhambra-convierten-municipio-escaparate-historia-20260712122355-nt.html",
-      "desc": "El delegado provincial de Economía, Empresas y Empleo en Ciudad Real, Miguel Ángel Díaz Brazales, ha puesto en valor la celebración de las XI Jornadas Ibero-Romanas Laminitanas de Alhambra , una cita que, a su juicio, permite acercar la historia y el patrimoni",
-      "date": "Sun, 12 Jul 2026 12:23:56 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "El posible golpeo del balón a la cámara en el gol o la roja: la polémica rodea el pase a las semifinales",
-      "link": "https://www.lavanguardia.com/deportes/futbol/20260712/11590346/hay-cosas-han-sucedido-hoy-son-poco-extranas-polemica-arbitral-rodea-pase-semifinales.html",
-      "desc": "El posible golpeo del balón en la cámara ‘spider’ en el gol de Bellingham y la roja a Embolo, bajo la lupa",
-      "date": "12 Jul 2026 12:16:24 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "El recuerdo de Alejandro Sanz a las víctimas del incendio de Almería, del terremoto de Venezuela y de la dana",
-      "link": "https://www.abc.es/espana/comunidad-valenciana/recuerdo-alejandro-sanz-victimas-incendio-almeria-terremoto-20260712121506-nt.html",
-      "desc": "El estadio Ciutat de Valencia acogió este sábado a miles de personas para disfrutar del concierto de Alejandro Sanz, que hizo parada en la ciudad con su gira '¿Y ahora qué?', un espectáculo con el que el artista continúa recorriendo algunos de los principales ",
-      "date": "Sun, 12 Jul 2026 12:15:07 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Estabilizado el incendio de Almería tras quemar más de 7.000 hectáreas",
+      "title": "El incendio de Los Gallardos evoluciona de forma favorable y se acerca a su estabilización",
       "link": "https://www.lavanguardia.com/vida/20260712/11590324/incendio-gallardos-evoluciona-favorablemente-acerca-estabilizacion.html",
-      "desc": "Las autoridades autorizan el regreso paulatino del millar de personas desalojadas&nbsp;",
+      "desc": "El consejero Sanz Cabello autorizó el sábado por la noche el regreso de 600 desalojados y se realizan nuevas batidas para descartar más víctimas",
       "date": "12 Jul 2026 10:40:37 +0200",
       "source": "La Vanguardia",
       "color": "#8e44ad",
@@ -237,6 +217,26 @@
       "link": "https://www.lavanguardia.com/deportes/futbol/20260712/11590318/messi-volvemos-cuatro-mejores-mundo.html",
       "desc": "El astro argentino se medirá por primera vez a Inglaterra en semifinales, tras eliminar a Suiza en un partido “extremadamente difícil”",
       "date": "12 Jul 2026 10:09:59 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
+    {
+      "title": "Una mujer francesa figura entre las personas no localizadas tras el incendio de Almería",
+      "link": "https://www.lavanguardia.com/vida/20260712/11590313/mujer-francesa-figura-personas-localizadas-incendio-almeria.html",
+      "desc": "La mayoría de las víctimas mortales son de nacionalidad británica o belga",
+      "date": "12 Jul 2026 09:40:44 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
+    {
+      "title": "EE.UU. e Irán reavivan la escalada bélica con una nueva oleada de ataques",
+      "link": "https://www.lavanguardia.com/internacional/20260712/11590292/eeuu-bombardea-iran-ormuz.html",
+      "desc": "La Guardia Revolucionaria anuncia que el estrecho de Ormuz permanecerá cerrado “hasta nuevo aviso”",
+      "date": "12 Jul 2026 07:19:32 +0200",
       "source": "La Vanguardia",
       "color": "#8e44ad",
       "feedId": "LaVanguardia",
