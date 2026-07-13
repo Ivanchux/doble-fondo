@@ -1,7 +1,17 @@
 {
-  "updated": "2026-07-13T20:53:12Z",
+  "updated": "2026-07-13T22:51:48Z",
   "count": 24,
   "items": [
+    {
+      "title": "Muere el escritor y académico Luis Goytisolo, autor de la 'Antagonía'",
+      "link": "https://www.lavanguardia.com/cultura/20260713/11591487/muere-91-anos-escritor-academico-luis-goytisolo-autor-monumental-antagonia.html",
+      "desc": "El autor de 'Las afueras' y 'Estatua con palomas' era el hermano menor de Juan y José Agustín Goytisolo",
+      "date": "13 Jul 2026 22:55:28 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
     {
       "title": "Hospitalizada una mujer tras sufrir una agresión de su pareja",
       "link": "https://www.abc.es/espana/galicia/hospitalizada-mujer-tras-sufrir-agresion-pareja-20260713220932-nt.html",
@@ -73,6 +83,16 @@
       "caso": "other"
     },
     {
+      "title": "Simeone, Beckham, Owen y los cinco Inglaterra-Argentina después del de Maradona",
+      "link": "https://www.lavanguardia.com/deportes/futbol/20260713/11591464/simeone-beckham-owen-cinco-inglaterra-argentina-maradona.html",
+      "desc": "Messi no pudo jugar el último, en el 2005, por culpa de una sanción del día de su debut con la albiceleste",
+      "date": "13 Jul 2026 20:40:06 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
+    {
       "title": "Vigo dona dos camiones de bomberos a Ucrania: «Queremos contribuir a la lucha por su libertad»",
       "link": "https://www.abc.es/espana/galicia/vigo-dona-dos-camiones-bomberos-ucrania-queremos-20260713203004-nt.html",
       "desc": "El Ayuntamiento de Vigo ha oficializado este lunes la donación de dos camiones de bomberos a Ucrania, como a una petición directa del cónsul honorario del país en Galicia , Antonio Corredoira Alfonso. Se trata de dos vehículos que se encontraban en desuso dent",
@@ -90,6 +110,16 @@
       "source": "ABC",
       "color": "#c0392b",
       "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Un pirómano reincidente convierte en pesadilla el verano en Aiguamúrcia",
+      "link": "https://www.lavanguardia.com/local/barcelona/20260713/11591457/piromano-reincidente-convierte-pesadilla-verano-aiguamurcia.html",
+      "desc": "Los Mossos refuerzan la vigilancia en el perímetro del fuego y las urbanizaciones desalojadas",
+      "date": "13 Jul 2026 20:13:21 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
       "caso": "other"
     },
     {
@@ -173,6 +203,16 @@
       "caso": "other"
     },
     {
+      "title": "España será el segundo país de Europa en el que más crecerá el precio de la vivienda este año",
+      "link": "https://www.lavanguardia.com/economia/20260713/11591343/espana-precio-vivienda.html",
+      "desc": "La agencia de calificación S&amp;P estima un encarecimiento del 9,1%, más del doble de la media europea&nbsp;",
+      "date": "13 Jul 2026 19:23:35 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
+    {
       "title": "Eurocaja Rural y Recamder impulsan el campo con 60 millones",
       "link": "https://www.abc.es/espana/castilla-la-mancha/eurocaja-rural-recamder-impulsan-campo-millones-20260713192225-nt.html",
       "desc": "Eurocaja Rural y la Red Castellano Manchega de Desarrollo Rural (Recamder) han firmado este lunes un convenio con el que se movilizan 60 millones de euros para apoyar proyectos vinculados a Leader y apalancar todos los proyectos desarrollados en el marco de la",
@@ -200,46 +240,6 @@
       "source": "ABC",
       "color": "#c0392b",
       "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Albares pide al PP que deje de “boicotear” la política exterior española y la relación con Francia",
-      "link": "https://www.lavanguardia.com/politica/20260713/11590814/albares-pide-pp-deje-boicotear-politica-exterior-espanola-relacion-francia.html",
-      "desc": "“Una cosa es no saber idiomas, otra cosa es no entender dónde están los intereses y los sentimientos de los españoles”, asegura en Bruselas",
-      "date": "13 Jul 2026 10:06:00 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "El árbitro salvadoreño Iván Barton pitará la semifinal entre Francia y España",
-      "link": "https://www.lavanguardia.com/deportes/20260713/11590792/salvadoreno-ivan-barton-arbitro-semifinal-francia-espana.html",
-      "desc": "Será el cuarto partido que dirigirá el colegiado centroamericano en el Mundial tras pitar el Turquía-Paraguay y el Japón-Suecia, en la fase de grupos, y el Suiza-Colombia de los octavos de final.",
-      "date": "13 Jul 2026 09:43:16 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "El incendio en Aiguamúrcia habría sido provocado",
-      "link": "https://www.lavanguardia.com/local/catalunya/20260713/11590716/orden-evacuacion-preventiva-nucleos-habitados-incendio-aiguamurcia.html",
-      "desc": "Mossos y Agents Rurals trabajan en esta hipótesis, según la consellera Parlon",
-      "date": "13 Jul 2026 07:20:26 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "Los impuestos en España frenan la inversión del ahorro de los hogares",
-      "link": "https://www.lavanguardia.com/economia/20260713/11590461/elevada-fiscalidad-espana-frena-hogares-inviertan-ahorro.html",
-      "desc": "El esquema resulta más lesivo en depósitos, acciones o planes de pensiones, según un estudio del IEE y EFPA",
-      "date": "13 Jul 2026 06:00:00 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
       "caso": "other"
     }
   ]
