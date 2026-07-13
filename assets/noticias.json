@@ -1,7 +1,67 @@
 {
-  "updated": "2026-07-13T19:17:58Z",
+  "updated": "2026-07-13T20:53:12Z",
   "count": 24,
   "items": [
+    {
+      "title": "Hospitalizada una mujer tras sufrir una agresión de su pareja",
+      "link": "https://www.abc.es/espana/galicia/hospitalizada-mujer-tras-sufrir-agresion-pareja-20260713220932-nt.html",
+      "desc": "Una mujer permanece hospitalizada en Pontevedra debido a las lesiones sufridas en un supuesto episodios de violencia de género ocurrido este fin de semana en Cerdedo-Cotobade. El supuesto autor de la agresión fue detenido por los hechos , ocurridos en la tarde",
+      "date": "Mon, 13 Jul 2026 22:09:32 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "El Córdoba Patrimonio de la Humanidad suma su sexta incorporación con el fichaje del pívot Pablo Ibarra",
+      "link": "https://www.abc.es/espana/andalucia/cordoba/cordoba-patrimonio-suma-sexta-incorporacion-fichaje-pivot-20260713220405-nts.html",
+      "desc": "El Córdoba Patrimonio de la Humanidad continúa dando forma a su plantilla para la próxima temporada, curso que ya comenzará el próximo lunes a rodar en materia social con la presentación de su campaña de abonados. En este sentido, y con la misión de mostrar a ",
+      "date": "Mon, 13 Jul 2026 22:06:32 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Un herido por arma de fuego en un tiroteo en Rivas",
+      "link": "https://www.abc.es/espana/madrid/herido-arma-fuego-tiroteo-rivas-20260713214210-nt.html",
+      "desc": "Un hombre de 43 años ha resultado herido en el muslo por arma de fuego en un tiroteo en la localidad madrileña de Rivas-Vaciamadrid . La bala no ha afectado a ninguna arteria vital, y el afectado se encuentra estable en el hospital. La Policía Local ha acudido",
+      "date": "Mon, 13 Jul 2026 21:42:10 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Identificadas tres víctimas más del incendio de Almería: un matrimonio belga y una mujer británica",
+      "link": "https://www.abc.es/espana/andalucia/identificadas-tres-victimas-incendio-almeria-matrimonio-belga-20260713214106-nts.html",
+      "desc": "Ya se conoce la identidad de otras tres víctimas del incendio de Los Gallardos, en Almería : se trata de un matrimonio de origen belga y de una mujer natural del Reino Unido . Con estas tres últimas identificaciones, quedarían otras tres personas por documenta",
+      "date": "Mon, 13 Jul 2026 21:41:06 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "La Fundación Cajasol se convierte en patrocinador principal del Coto Córdoba tras su ascenso a Primera FEB: «Es un proyecto con muchas aspiraciones»",
+      "link": "https://www.abc.es/espana/andalucia/cordoba/fundacion-cajasol-convierte-patrocinador-principal-coto-cordoba-20260713214044-nts.html",
+      "desc": "El Coto Córdoba ha llegado para quedarse. El club blanquiverde ya trabaja en los últimos detalles de su ilusionante y ambicioso salto a Primera FEB . Un nuevo escenario que obligará a la entidad a reforzar su estructura y aumentar sus recursos para competir de",
+      "date": "Mon, 13 Jul 2026 21:40:45 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Edmundo González recibe el Premio de Convivencia en el Senado y clama contra la tiranía en Venezuela",
+      "link": "https://www.abc.es/espana/comunidad-valenciana/edmundo-gonzalez-recibe-premio-convivencia-senado-clama-20260713211104-nt.html",
+      "desc": "Los líderes opositores venezolanos Edmundo González y María Corina Machado defendieron este lunes la «convivencia» en Venezuela frente al «régimen tiránico y criminal» del Gobierno venezolano, que usa la «división» como «instrumento del poder». Así se pronunci",
+      "date": "Mon, 13 Jul 2026 21:11:05 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
     {
       "title": "Sumar se ufana de hoja de servicios en un final de legislatura «crítico»",
       "link": "https://www.abc.es/espana/sumar-ufana-hoja-servicios-final-legislatura-critico-20260713205136-nt.html",
@@ -137,66 +197,6 @@
       "link": "https://www.abc.es/espana/castilla-leon/blanco-proclama-firme-compromiso-junta-lucha-violencia-20260713191218-nt.html",
       "desc": "La vicepresidenta segunda, Isabel Blanco , ha proclamado este lunes con «absoluta claridad» el «firme» compromiso de la Junta con la lucha contra la violencia machista y ha avanzado que las víctimas podrán acceder a viviendas colaborativas, una vez abandonan l",
       "date": "Mon, 13 Jul 2026 19:12:18 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "León XIV recibirá a Marsodeto",
-      "link": "https://www.abc.es/espana/castilla-la-mancha/toledo/leon-xiv-recibira-marsodeto-20260713190945-nt.html",
-      "desc": "En una rueda de prensa en la que estaba presente, se daba a conocer un hecho histórico para la familia de la Federación Provincial de Personas con Discapacidad Intelectual MARSODETO. Su Santidad el Papa León XIV, el mismo que hace pocas semanas estuvo en nuest",
-      "date": "Mon, 13 Jul 2026 19:09:45 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Silvia Rey y Ana Gálvez suben al podio en el Nacional Sub-23 de Cáceres",
-      "link": "https://www.abc.es/espana/castilla-la-mancha/toledo/deportes/silvia-rey-ana-galvez-suben-podio-nacional-20260713190400-nt.html",
-      "desc": "El atletismo de Castilla-La Mancha cerró una destacada participación en el Campeonato de España Sub-23 , celebrado este fin de semana en Cáceres y que reunió a alrededor de 700 atletas de todo el país. La primera medalla llegó de la mano de Silvia Rey Veiga , ",
-      "date": "Mon, 13 Jul 2026 19:04:00 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "El hermano de Antonio Anglés niega que participara en un secuestro: «Fui a la bolera y a la discoteca»",
-      "link": "https://www.abc.es/espana/comunidad-valenciana/hermano-antonio-angles-niega-participara-secuestro-bolera-20260713190330-nt.html",
-      "desc": "Mauricio Anglés, uno de los hermanos de Antonio Anglés, desaparecido y acusado del triple asesinato de las niñas de Alcàsser, ha negado haber secuestrado y torturado a otro hombre en noviembre de 2021. «Esa tarde fui a la bolera y luego a una discoteca», ha de",
-      "date": "Mon, 13 Jul 2026 19:03:31 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "¿Conoces las 5 catedrales gallegas? Los secretos mejor guardados de su patrimonio",
-      "link": "https://www.abc.es/espana/galicia/conoces-catedrales-gallegas-secretos-mejor-guardados-patrimonio-20260713190001-nt.html",
-      "desc": "Cuando pensamos en el patrimonio eclesiástico de Galicia, la mente viaja de forma automática a la plaza del Obradoiro. Es inevitable. Sin embargo, reducir la riqueza monumental de la comunidad a una sola fachada es perderse una de las rutas históricas más espe",
-      "date": "Mon, 13 Jul 2026 19:00:01 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Maroto y López buscan un careo para convencer a la militancia del PSOE",
-      "link": "https://www.abc.es/espana/madrid/maroto-lopez-piden-careo-convencer-militancia-psoe-20260713185107-nt.html",
-      "desc": "La actual líder socialista en Cibeles lograba retener este fin de semana la confianza de la militancia que obtuvo en 2023 con 1.376 avales. Pero también lo hacía su número dos , con 1.028, sobrepasando en 200 los mínimos exigidos por el partido para concurrir ",
-      "date": "Mon, 13 Jul 2026 18:51:07 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "El ministro Puente vuelve a visitar la zona cero de la dana y convoca solo a cargos del PSOE",
-      "link": "https://www.abc.es/espana/comunidad-valenciana/ministro-puente-vuelve-visitar-zona-cero-dana-20260713184758-nt.html",
-      "desc": "Sin detallarlo en su agenda, sin convocar a los medios de comunicación y acompañado de cargos del PSOE. El ministro de Transportes, Óscar Puente, ha vuelto a repetir el modus operandi que ya utilizó hace unos meses para dejarse ver por un municipio de la zona ",
-      "date": "Mon, 13 Jul 2026 18:47:58 +0200",
       "source": "ABC",
       "color": "#c0392b",
       "feedId": "ABC",
