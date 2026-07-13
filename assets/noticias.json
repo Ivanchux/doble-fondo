@@ -1,7 +1,77 @@
 {
-  "updated": "2026-07-13T17:51:13Z",
+  "updated": "2026-07-13T19:17:58Z",
   "count": 24,
   "items": [
+    {
+      "title": "Sumar se ufana de hoja de servicios en un final de legislatura «crítico»",
+      "link": "https://www.abc.es/espana/sumar-ufana-hoja-servicios-final-legislatura-critico-20260713205136-nt.html",
+      "desc": "Día uno sin Yolanda Díaz. A las puertas del parón vacacional estival, Sumar vuelve a tratar de exhibir músculo frente a un PSOE cercado por los escándalos de corrupción con una reunión al más alto nivel celebrada este lunes en la Sala Constitucional del Congre",
+      "date": "Mon, 13 Jul 2026 20:51:37 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Vigo dona dos camiones de bomberos a Ucrania: «Queremos contribuir a la lucha por su libertad»",
+      "link": "https://www.abc.es/espana/galicia/vigo-dona-dos-camiones-bomberos-ucrania-queremos-20260713203004-nt.html",
+      "desc": "El Ayuntamiento de Vigo ha oficializado este lunes la donación de dos camiones de bomberos a Ucrania, como a una petición directa del cónsul honorario del país en Galicia , Antonio Corredoira Alfonso. Se trata de dos vehículos que se encontraban en desuso dent",
+      "date": "Mon, 13 Jul 2026 20:30:04 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Dos muertos y cinco heridos graves al arder un camión en la AP-7 a la altura de Benahavís",
+      "link": "https://www.abc.es/espana/andalucia/malaga/dos-muertos-cinco-heridos-graves-arder-camion-20260713201846-nts.html",
+      "desc": "Un incendio en un camión cisterna ha acabado con la vida de dos personas y ha herido de gravedad a otras cinco , según ha podido confirmar el Diario SUR. El siniestro se ha declarado en torno las 17.15 horas de la tarde de este lunes en la autopista de peaje A",
+      "date": "Mon, 13 Jul 2026 20:18:47 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Un documental relata la filosofía y el trabajo del restaurante Noor en Córdoba",
+      "link": "https://www.abc.es/espana/andalucia/cordoba/documental-relata-filosofia-trabajo-restaurante-noor-cordoba-20260713200913-nts.html",
+      "desc": "Ya está disponible el 'teaser-póster' de 'Noor. Cocinar pasados posibles' el largometraje documental que se adentra en el entorno creativo de Paco Morales y en la manera en la que en el restaurante cordobés Noor transforma la historia de Al-Ándalus en una expe",
+      "date": "Mon, 13 Jul 2026 20:09:13 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Estos son los nuevos artistas del Festival Noroeste Estrella Galicia",
+      "link": "https://www.abc.es/espana/galicia/nuevos-artistas-festival-noroeste-estrella-galicia-20260713200000-nt.html",
+      "desc": "El Noroeste es una de las grandes citas musicales del verano gallego. Con 39 ediciones a sus espaldas, se ha consolidado como un festival gratuito, organizado conjuntamente por el Ayuntamiento de La Coruña, la Xunta de Galicia y Hijos de Rivera, la compañía re",
+      "date": "Mon, 13 Jul 2026 20:00:00 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Guerra abierta en el concello de Vigo y la Diputación a cuenta de las pantallas para ver el mundial: «La mía es más grande»",
+      "link": "https://www.abc.es/espana/galicia/guerra-abierta-concello-vigo-diputacion-cuenta-pantallas-20260713195527-nt.html",
+      "desc": "La peculiar 'guerra' entre Diputación de Pontevedra y Ayuntamiento de Vigo por la instalación de pantallas para poder ver el mundial de fútbol continúa, y este lunes se ha escrito un nuevo capítulo, con el alcalde llamando a los vigueses para que acudan este m",
+      "date": "Mon, 13 Jul 2026 19:55:27 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "El pueblo de Bédar recobra la vida sin olvidar a las víctimas: «Quienes no van a venir ya son los amigos que se nos marcharon»",
+      "link": "https://www.abc.es/espana/andalucia/almeria/pueblo-bedar-recobra-vida-olvidar-victimas-venir-20260713193505-nts.html",
+      "desc": "Persianas que se levantan, conversaciones que vuelven a escucharse en las calles, un ir y venir de vecinos que este lunes ha recobrado la vida de Bédar en Almería. Tras tres días de evacuación obligatoria por el incendio declarado en Los Gallardos, el municipi",
+      "date": "Mon, 13 Jul 2026 19:46:49 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
     {
       "title": "La Operación Paso del Estrecho registra 7.500 pasajeros y 3.000 coches en un mes en Alicante",
       "link": "https://www.abc.es/espana/comunidad-valenciana/alicante/operacion-paso-estrecho-registra-7500-pasajeros-3000-20260713194254-nt.html",
@@ -123,80 +193,10 @@
       "caso": "other"
     },
     {
-      "title": "El ministro Puente vuelve a visitar la zona cero de la dana convocando solo a cargos del PSOE",
+      "title": "El ministro Puente vuelve a visitar la zona cero de la dana y convoca solo a cargos del PSOE",
       "link": "https://www.abc.es/espana/comunidad-valenciana/ministro-puente-vuelve-visitar-zona-cero-dana-20260713184758-nt.html",
       "desc": "Sin detallarlo en su agenda, sin convocar a los medios de comunicación y acompañado de cargos del PSOE. El ministro de Transportes, Óscar Puente, ha vuelto a repetir el modus operandi que ya utilizó hace unos meses para dejarse ver por un municipio de la zona ",
       "date": "Mon, 13 Jul 2026 18:47:58 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "El dueño de los cines de verano ofrece el derecho de tanteo al Ayuntamiento de Córdoba para que los compre",
-      "link": "https://www.abc.es/espana/andalucia/cordoba/dueno-cines-verano-ofrece-derecho-tanteo-ayuntamiento-20260713183851-nts.html",
-      "desc": "Hay un nuevo movimiento en los cines de verano de Córdoba. Su propietario, el empresario Antonio Amil , ha presentado en el registro de entrada en el Ayuntamiento una opción de derecho de tanteo para que el Consistorio compre los tres recintos que ahora le per",
-      "date": "Mon, 13 Jul 2026 18:41:31 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Las Cortes debatirán una ley para dar más poder a los ayuntamientos ante proyectos con impacto ambiental",
-      "link": "https://www.abc.es/espana/castilla-la-mancha/cortes-debatiran-ley-dar-poder-ayuntamientos-ante-20260713184109-nt.html",
-      "desc": "Las Cortes de Castilla-La Mancha afrontan este jueves un pleno marcado por la reforma de la Ley de Evaluación Ambiental. El Parlamento regional debatirá la toma en consideración de una proposición de ley presentada por el Grupo Socialista que pretende reforzar",
-      "date": "Mon, 13 Jul 2026 18:41:10 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "El paso de un tren desata seis incendios forestales en Orense y obliga a cortar la circulación ferroviaria",
-      "link": "https://www.abc.es/espana/galicia/paso-tren-desata-seis-incendios-forestales-orense-20260713183953-nt.html",
-      "desc": "La tarde de este lunes se ha complicado drásticamente para los efectivos de lucha contra el fuego en Galicia. Alrededor de las 14:00 horas, el paso de un tren por la vía de ancho convencional ha provocado, según apuntan las primeras hipótesis de la Consellería",
-      "date": "Mon, 13 Jul 2026 18:39:53 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "El Ayuntamiento intervendrá de urgencia en Montesión para solucionar el problema del agua",
-      "link": "https://www.abc.es/espana/castilla-la-mancha/toledo/ayuntamiento-intervendra-urgencia-montesion-solucionar-problema-agua-20260713183835-nt.html",
-      "desc": "El Ayuntamiento de Toledo realizará este martes una intervención urgente y provisional para intentar solucionar el problema del agua que llevan sufriendo durante cinco días más de 40 viviendas de la Urbanización de Montesión, que han visto cómo desde el pasado",
-      "date": "Mon, 13 Jul 2026 18:38:35 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "El PSOE defiende una financiación autonómica basada en la igualdad y sin privilegios entre comunidades",
-      "link": "https://www.abc.es/espana/castilla-la-mancha/psoe-defiende-financiacion-autonomica-basada-igualdad-privilegios-20260713183607-nt.html",
-      "desc": "La portavoz del grupo socialista en las Cortes de Castilla-La Mancha, Ana Isabel Abengózar, ha defendido este lunes una financiación autonómica basada en la igualdad y en que no haya privilegios entre comunidades autónomas . Un modelo de financiación «justo, q",
-      "date": "Mon, 13 Jul 2026 18:36:08 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "El Gobierno vasco no logra localizar a miles de usuarios de su renta universal",
-      "link": "https://www.abc.es/espana/pais-vasco/gobierno-vasco-logra-localizar-miles-usuarios-renta-20260713183150-nt.html",
-      "desc": "En lo que llevamos de 2026, el Servicio Público Vasco de Empleo ha emitido a través del BOPV casi 41.400 notificaciones para beneficiarios de la Renta de Garantía de Ingresos al no poder localizarlos de otra manera. Un volumen inusualmente alto para un procedi",
-      "date": "Mon, 13 Jul 2026 18:31:51 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "El TSJCyL ordena repetir el juicio por la agresión a Olegario Ramón",
-      "link": "https://www.abc.es/espana/castilla-leon/tsjcyl-ordena-repetir-juicio-agresion-olegario-ramon-20260713183021-nt.html",
-      "desc": "La Sala de lo Civil y Penal del Tribunal Superior de Justicia de Castilla y León ha emitido una sentencia por la que ordena la repetición del juicio celebrado en la Audiencia Provincial de León contra los dos acusados de agredir al presidente del Consejo Comar",
-      "date": "Mon, 13 Jul 2026 18:30:21 +0200",
       "source": "ABC",
       "color": "#c0392b",
       "feedId": "ABC",
