@@ -1,7 +1,187 @@
 {
-  "updated": "2026-07-13T02:20:51Z",
+  "updated": "2026-07-13T06:48:56Z",
   "count": 24,
   "items": [
+    {
+      "title": "Condenada la Federación de Servicios Públicos de UGT CLM por mantener 5 años como falsa autónoma a una abogada",
+      "link": "https://www.abc.es/espana/castilla-la-mancha/condenada-federacion-servicios-publicos-ugt-clm-mantener-20260704084227-nt.html",
+      "desc": "La figura del falso autónomo ha sido durante años uno de los principales focos de actuación de la Inspección de Trabajo y una de las reivindicaciones más recurrentes de las organizaciones sindicales para combatir el fraude laboral. Precisamente, un procedimien",
+      "date": "Mon, 13 Jul 2026 08:42:27 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Un coche acaba en las escaleras del Metro de Begoña tras un choque en la Castellana",
+      "link": "https://www.abc.es/espana/madrid/coche-acaba-escaleras-metro-begona-tras-choque-20260713084135-nt.html",
+      "desc": "Un hombre ha resultado herido de gravedad y otro con lesiones leves este domingo tras un aparatoso accidente de tráfico ocurrido en el paseo de la Castellana , a la altura del número 263, donde dos turismos colisionaron y uno de ellos terminó empotrado en las ",
+      "date": "Mon, 13 Jul 2026 08:41:35 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Ofensiva parlamentaria del PP contra Bolaños por no prorrogar los refuerzos de juzgados asfixiados",
+      "link": "https://www.abc.es/espana/ofensiva-pp-bolanos-prorrogar-refuerzos-juzgados-asfixiados-20260713083909-nt.html",
+      "desc": "El Grupo Parlamentario Popular ha lanzado una ofensiva parlamentaria en el Congreso de los Diputados para exigir explicaciones urgentes al ministro de Presidencia, Justicia y Relaciones con las Cortes, Félix Bolaños, tras la decisión de su departamento de supr",
+      "date": "Mon, 13 Jul 2026 08:39:09 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Fallece el copiloto de un coche tras dar varias vueltas de campana en la A-6 a su paso por Lugo",
+      "link": "https://www.abc.es/espana/galicia/fallece-copiloto-coche-tras-dar-varias-vueltas-20260713082835-nt.html",
+      "desc": "Un grave accidente de tráfico registrado este domingo en la autovía A-6, a su paso por el municipio de Lugo, se ha cobrado la vida del copiloto de un turismo. El vehículo en el que viajaba se salió de la calzada y dio varias vueltas de campana, dejando además ",
+      "date": "Mon, 13 Jul 2026 08:28:35 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Estos son los 28 jugadores con los que el Córdoba CF afronta la pretemporada",
+      "link": "https://www.abc.es/espana/andalucia/cordoba/cordoba-cf/jugadores-cordoba-afronta-pretemporada-20260713082137-nts.html",
+      "desc": "El Córdoba CF tendrá esta semana su primera prueba de fuego real. El conjunto blanquiverde, tras cuatro jornadas de entrenamiento en la Ciudad Deportiva, afronta este miércoles en Marbella su primer partido de la pretemporada ante el Orlando Pirates , vigente ",
+      "date": "Mon, 13 Jul 2026 08:21:38 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "'Tú eres Victoria', la marcha de Córdoba que se abre paso en Sevilla",
+      "link": "https://www.abc.es/espana/andalucia/cordoba/semana-santa/victoria-marcha-cordoba-abre-paso-sevilla-20260713224149-nts.html",
+      "desc": "Se escriben muchas marchas procesionales a lo largo del año y no todas pasan de una ciudad a otra y mucho menos llegan a calar en Sevilla. Al revés: de la capital de Andalucía es desde donde vienen muchas composiciones que calan al resto de provincias. Pero en",
+      "date": "Mon, 13 Jul 2026 08:21:04 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Montilla-Moriles aspira a aumentar este año su cosecha hasta un 85%",
+      "link": "https://www.abc.es/espana/andalucia/cordoba/montillamoriles-aspira-aumentar-ano-cosecha-20260713082028-nts.html",
+      "desc": "Todo indica que a finales de julio dará comienzo la vendimia en la zona de la Denominación de Origen Protegida (DOP) Montilla-Moriles , el primer sello vitivinícola que inicia en Europa estas labores de recolección. Las fuentes consultadas por ABC apuntan que ",
+      "date": "Mon, 13 Jul 2026 08:20:29 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "La Virgen del Carmen, muy presente en Córdoba",
+      "link": "https://www.abc.es/espana/andalucia/cordoba/juan-jose-primo-jurado-virgen-carmen-presente-cordoba-20260713082026-nts.html",
+      "desc": "El próximo jueves 16 de julio se celebra la festividad de la Virgen del Carmen , una advocación mariana universal desde principios del siglo XIII, que tiene su origen en la devoción de unos ermitaños, que acabaron fundando la Orden de los Carmelitas , a Nuestr",
+      "date": "Mon, 13 Jul 2026 08:20:26 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Jueces, sobre el descenso de asuntos en los tribunales: «No responde a una menor litigiosidad»",
+      "link": "https://www.abc.es/espana/andalucia/cordoba/jueces-sobre-descenso-asuntos-tribunales-responde-menor-20260713082005-nts.html",
+      "desc": "Los juzgados de la provincia de Córdoba registraron durante el primer trimestre del año un descenso en el número de asuntos ingresados , especialmente en la jurisdicción Civil. Sin embargo, tanto el presidente de la Audiencia Provincial de Córdoba, Miguel Ánge",
+      "date": "Mon, 13 Jul 2026 08:20:05 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Las demandas en los juzgados de Córdoba caen un 22%, con 7.368 asuntos menos tras la reforma judicial",
+      "link": "https://www.abc.es/espana/andalucia/cordoba/litigiosidad-cae-cordoba-7368-asuntos-marzo-20260713081959-nts.html",
+      "desc": "El inicio de 2026 ha marcado un cambio de tendencia en los juzgados cordobeses . Tras varios ejercicios de incremento continuado, el volumen de nuevas demandas ha experimentado un notable descenso en el primer trimestre del ejercicio. Según los últimos datos d",
+      "date": "Mon, 13 Jul 2026 08:19:59 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "El Festival de la Guitarra cierra con un gran nivel musical, pero con una identidad por recuperar",
+      "link": "https://www.abc.es/espana/andalucia/cordoba/festival-guitarra-cierra-gran-nivel-musical-identidad-20260713081956-nts.html",
+      "desc": "Su prólogo fue inconmensurable. Además, el protagonismo del instrumento que daba y debería dar sentido a la programación era absoluto. Vicente Amigo, Hijo Adoptivo de la ciudad, deleitó en el Gran Teatro en dos días consecutivos. Para ambos conciertos se agota",
+      "date": "Mon, 13 Jul 2026 08:19:56 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Juzgan a un hombre acusado de intentar matar a su hermana por un piso en herencia",
+      "link": "https://www.abc.es/espana/comunidad-valenciana/juzgan-hombre-acusado-intentar-matar-hermana-piso-20260713081335-nt.html",
+      "desc": "La Sección Tercera de la Audiencia Provincial de Valencia juzga este martes a un hombre acusado de intentar matar a su hermana durante una discusión motivada por un piso que les había dejado en herencia el padre de ambos. Los hechos sucedieron el 31 de agosto ",
+      "date": "Mon, 13 Jul 2026 08:14:17 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "El pueblo de Palencia que quiere crecer en clave de verso",
+      "link": "https://www.abc.es/espana/castilla-leon/pueblo-palencia-quiere-repoblarse-base-versos-20260619080217-nt.html",
+      "desc": "En la céntrica Plaza de España, frente a la iglesia principal de Paredes de Nava (Palencia) luce imponente la gran escultura que Julio López Hernández dedicó a Jorge Manrique. El poeta, esculpido en bronce, mira ensimismado mientras sostiene entre sus manos un",
+      "date": "Mon, 13 Jul 2026 08:02:17 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Fuego fatuo",
+      "link": "https://www.abc.es/espana/castilla-leon/fuego-fatuo-20260712080139-nt.html",
+      "desc": "Yo no le encuentro más que ventajas y cada vez se comenta más: si el calentamiento es global, el abordaje no puede ser regional. El campo no tiene puertas y ponerlas, un gasto redundante. Yo no le encuentro más que ventajas a la renacionalización de la extinci",
+      "date": "Mon, 13 Jul 2026 08:01:39 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Juanma Moreno blinda las áreas estratégicas y las pone a resguardo de Vox",
+      "link": "https://www.abc.es/espana/andalucia/juanma-moreno-blinda-areas-estrategicas-pone-resguardo-20260713071638-nts.html",
+      "desc": "El PP y Vox son partidos diferentes. Es la frase que ha repetido Juanma Moreno en numerosas ocasiones desde que el pasado 2 de julio se firmó el pacto entre ambas formaciones para lograr la investidura y dar comienzo a la legislatura. Ese pacto ha obligado a l",
+      "date": "Mon, 13 Jul 2026 07:16:38 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Festivales, brujas y miles de casas rurales: la Alpujarra se reinventa",
+      "link": "https://www.abc.es/espana/andalucia/granada/festivales-brujas-miles-casas-rurales-alpujarra-reinventa-20260713071623-nts.html",
+      "desc": "Quien se meta este verano en el coche y ponga rumbo a la Alpujarra de Granada pensando que se va a encontrar un lugar precioso y despoblado, únicamente acertará en lo primero. Porque lo segundo hace ya varios años que no se cumple. De hecho, el nivel de ocupac",
+      "date": "Mon, 13 Jul 2026 07:16:23 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Denuncian al alcalde de Muras por los pagos a bufetes legales próximos al BNG",
+      "link": "https://www.abc.es/espana/galicia/denuncian-alcalde-muras-pagos-bufetes-legales-proximos-20260712060006-nt.html",
+      "desc": "El Concello de Muras, gobernado en minoría por el nacionalista Manuel Requeijo desde 2015, habría estado durante todos estos años abonando facturas por prestación de servicios a despachos de abogados vulnerando los límites del contrato menor que establece la l",
+      "date": "Mon, 13 Jul 2026 06:00:06 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "La historia al revés",
+      "link": "https://www.abc.es/espana/galicia/historia-reves-20260710050007-nt.html",
+      "desc": "Ánxel Fole -buen corazón y buena literatura en una pieza- se fue de este mundo, hace ya cuarenta años, sin ver cumplido el deseo de que la ciudad que habito, que era la suya, hubiese dedicado una calle a don Avelino González, tantas veces reclamada por nuestro",
+      "date": "Mon, 13 Jul 2026 05:00:07 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
     {
       "title": "El incendio en Bédar saca a la luz décadas de urbanismo ilegal en Sierra Cabrera",
       "link": "https://www.abc.es/espana/andalucia/almeria/incendio-bedar-saca-luz-decadas-urbanismo-ilegal-20260713020231-nts.html",
@@ -33,66 +213,6 @@
       "caso": "lei"
     },
     {
-      "title": "Iñaki Subijana: «Vivo con pesar y dolor ser retratado como un enemigo de la identidad vasca»",
-      "link": "https://www.abc.es/espana/pais-vasco/inaki-subijana-necesaria-deslegitimacion-discurso-justifico-existencia-20260713013257-nt.html",
-      "desc": "Iñaki Subijana (San Sebastián, 1963) comenzó a ejercer el 5 de marzo de 1990 en Azpeitia (Guipúzcoa): «Era un contexto complicado. Existía ETA y nosotros representábamos al Estado. Esa situación derivó en el asesinato del magistrado de la Audiencia de Vizcaya ",
-      "date": "Mon, 13 Jul 2026 01:32:57 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Voces del PP piden afinar la estrategia: «Nos hemos metido en todos los charcos posibles»",
-      "link": "https://www.abc.es/espana/voces-pp-piden-afinar-estrategia-metido-charcos-20260712013248-nt.html",
-      "desc": "En un espacio de una semana y media y coincidiendo con una menor presión judicial sobre el Gobierno, el PP ha ido encadenando polémicas que han salido del propio partido. Sucedió primero con la llamada 'ley de nietos', una disposición adicional de la Ley de Me",
-      "date": "Mon, 13 Jul 2026 01:32:48 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "La «revolución cultural» de Sánchez",
-      "link": "https://www.abc.es/espana/revolucion-cultural-sanchez-20260713013241-nt.html",
-      "desc": "El doble aniversario de la «revolución cultural» de Mao pasa desapercibido: sesenta años de su inicio y cincuenta de su clausura a la muerte del Gran Timonel. Para desviar la atención sobre su fracaso, el maoísmo convirtió a los estudiantes en Guardias Rojos: ",
-      "date": "Mon, 13 Jul 2026 01:32:41 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Yolanda Díaz rescata con casi medio millón de euros la cafetería de su ministerio, vacía por el teletrabajo",
-      "link": "https://www.abc.es/espana/yolanda-diaz-rescata-medio-millon-euros-cafeteria-20260709013231-nt.html",
-      "desc": "El viaje político de Yolanda Díaz parece estar viviendo sus últimos meses y, en consecuencia, el espacio a la izquierda del PSOE afronta ahora una etapa de transición estructural de cara a los comicios de 2027. Mientras, el Ministerio de Trabajo y Economía Soc",
-      "date": "Mon, 13 Jul 2026 01:32:31 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Génova se enfrenta otra vez al polvorín valenciano del PP",
-      "link": "https://www.abc.es/espana/genova-enfrenta-vez-polvorin-valenciano-pp-20260713013222-nt.html",
-      "desc": "«Está en nuestros genes tener crisis en la Comunidad Valenciana. Es como si no lo pudiéramos evitar». En el PP tienen asumida una realidad que se repite desde hace décadas . El partido en esa región siempre ha sido uno de los grandes quebraderos de cabeza orgá",
-      "date": "Mon, 13 Jul 2026 01:32:22 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Joaquín Parra, el 'Jesús Gil' del Badajoz que quiso ser alcalde",
-      "link": "https://www.abc.es/espana/extremadura/joaquin-parra-jesus-gil-badajoz-quiso-alcalde-20260712013213-nt.html",
-      "desc": "A Joaquín Parra no le incomodan los focos. No son tampoco una novedad para él. Hubo un tiempo en el que las cámaras y las miradas le acompañaban, prácticamente, a cada paso que daba en una ciudad, Badajoz, en la que era un auténtico ídolo. Como propietario del",
-      "date": "Mon, 13 Jul 2026 01:32:13 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
       "title": "Laporta lanza un mensaje al Atlético por Julián y confirma a Adeyemi",
       "link": "https://www.lavanguardia.com/deportes/futbol/20260713/11590696/joan-laporta-mundial-2026-julian-alvarez-adeyemi.html",
       "desc": "El presidente del Barça asistirá a la semifinal entre España y Francia",
@@ -100,36 +220,6 @@
       "source": "La Vanguardia",
       "color": "#8e44ad",
       "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "Varapalo al alcalde de Fuenlabrada: la Justicia avala el centro de menores de La Cantueña",
-      "link": "https://www.abc.es/espana/madrid/varapalo-alcalde-fuenlabrada-justicia-avala-centro-menores-20260710010634-nt.html",
-      "desc": "Golpe de mazo de la Justicia sobre el centro de primera acogida de menores extranjeros no acompañados (menas) ubicado en la finca de La Cantueña , en el municipio de Fuenlabrada. La guerra política que el alcalde de esta localidad, Javier Ayala, emprendió hace",
-      "date": "Mon, 13 Jul 2026 01:06:34 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "El renacer del cine de verano de Usera que ardió en un descampado",
-      "link": "https://www.abc.es/espana/madrid/renacer-cinema-usera-20260711010625-nt.html",
-      "desc": "Apenas unas cajas de pizza vacías y varias botellas de refrescos, olvidadas sobre el hormigón, evidencian que la noche del pasado viernes volvió a haber cine en el Mirador de Pradolongo (calle de Primitiva Gañán). A su alrededor, vallas y materiales de obra de",
-      "date": "Mon, 13 Jul 2026 01:06:25 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Vivir por 500 euros en una tienda del centro comercial de Orcasur: «Nos tienen tirados, muertos»",
-      "link": "https://www.abc.es/espana/madrid/vivir-local-abandonado-centro-comercial-orcasur-tirados-20260709010616-nt.html",
-      "desc": "Con un gesto de desdén, cerveza en mano, señala una valla frente al asiento improvisado que ha tomado para contar su historia, en lo alto de unas escaleras en forma de espiral. «Me tiras por ahí y sin movida, no me importaría», dice. Y es que Juan, aunque no l",
-      "date": "Mon, 13 Jul 2026 01:06:16 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
       "caso": "other"
     },
     {
@@ -147,96 +237,6 @@
       "link": "https://www.lavanguardia.com/vida/20260713/11590531/estabilizacion-fuego-vislumbra-principio-gallardos.html",
       "desc": "Muere una hospitalizada de 93 años y la cifra de fallecidos en el incendio asciende a 13; los desaparecidos se elevan a 10&nbsp;después de que se hayan interpuesto dos nuevas denuncias",
       "date": "13 Jul 2026 00:05:00 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "Aumentan a diez los desaparecidos en el incendio de Almería",
-      "link": "https://www.abc.es/espana/andalucia/almeria/aumentan-diez-desaparecidos-incendio-almeria-20260712231604-nts.html",
-      "desc": "El incendio de Los Gallardos ha dejado dos nuevos datos durante las últimas horas del domingo. Una mujer de 93 años perdía la vida en el Hospital Torrecárdenas de Almería dónde permanecía ingresada. Minutos más tarde, El Centro Integrado de Datos (CID) ha anun",
-      "date": "Sun, 12 Jul 2026 23:16:05 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Al menos 27 personas mueren en el incendio de un pub de Bangkok",
-      "link": "https://www.lavanguardia.com/internacional/20260712/11590529/27-personas-mueren-incendio-pub-bangkok.html",
-      "desc": "Se desconoce la identidad y origen de las víctimas, aunque no se descarta que haya extranjeros",
-      "date": "12 Jul 2026 23:00:09 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "Susto por un incendio junto a las Urgencias del Hospital Reina Sofía de Córdoba",
-      "link": "https://www.abc.es/espana/andalucia/cordoba/susto-incendio-junto-urgencias-hospital-reina-sofia-20260712221328-nts.html",
-      "desc": "Un incendio registrado en la tarde de este domingo ha provocado momentos de preocupación junto al área de Urgencias del Hospital Reina Sofía de Córdoba . El fuego se ha originado en unos setos situados frente al acceso al servicio sanitario y ha generado una n",
-      "date": "Sun, 12 Jul 2026 22:13:28 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Carmen Martín Gaite vuelve a Piñor: una exposición revela las raíces gallegas de su vocación literaria",
-      "link": "https://www.abc.es/espana/galicia/carmen-martin-gaite-vuelve-pinor-exposicion-revela-20260629220101-nt.html",
-      "desc": "Durante décadas, hasta nueve cajas repletas de recortes y fotografías del llamado 'álbum Gaite' guardaron un tesoro que ahora sale a la luz. Arquitectura popular, trajes tradicionales y tipos humanos de la Galicia rural del primer tercio del siglo XX, retratad",
-      "date": "Sun, 12 Jul 2026 22:01:01 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Muere una mujer de 93 años y eleva a 13 los fallecidos por el incendio de Almería",
-      "link": "https://www.abc.es/espana/andalucia/almeria/muere-mujer-anos-eleva-fallecidos-incendio-20260712215402-nts.html",
-      "desc": "Ya son trece las víctimas del incendio de Los Gallardos en Almería. La muerte de una de las heridas, una mujer británica de 93 años, este domingo en el hospital Torrecárdenas de Almería ha elevado la cifra de víctimas del siniestro que ha arrasado 7.000 hectár",
-      "date": "Sun, 12 Jul 2026 21:56:45 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Sánchez, Montero y Juanma Moreno coincidirán este lunes en el incendio",
-      "link": "https://www.abc.es/espana/andalucia/almeria/sanchez-montero-juanma-moreno-coincidiran-lunes-incendio-20260712212055-nts.html",
-      "desc": "Pedro Sánchez, María Jesús Montero y Juanma Moreno coincidirán este lunes en la zona cero del incendio de Los Gallardos en Almería. Sánchez visitará este lunes l as zonas afectadas por el incendio forestal de Los Gallardos que se declaró el pasado jueves día 9",
-      "date": "Sun, 12 Jul 2026 21:22:26 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "El incendio de Peñarroya de Tastavins (Teruel) pone a cuatro pueblos en alerta y desaloja varias masías y un hotel",
-      "link": "https://www.abc.es/espana/aragon/incendio-penarroya-tastavins-teruel-obliga-activar-nivel-20260712212135-nt.html",
-      "desc": "El Gobierno de Aragón ha activado el Plan especial por incendios forestales (Procinfo) en situación operativa 2-nivel 2, por el incendio forestal declarado este domingo pasadas las 15.40 horas de la tarde en el término municipal de Peñarroya de Tastavins (en l",
-      "date": "Sun, 12 Jul 2026 21:21:35 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Luto en el corazón de Sierra Cabrera: «Nuestros vecinos han muerto, no puede ser verdad»",
-      "link": "https://www.abc.es/espana/andalucia/almeria/luto-corazon-sierra-cabrera-vecinos-muerto-puede-20260712211817-nts.html",
-      "desc": "En la parte alta de un risco, en el paraje de La Cerca, a unos tres kilómetros de Bédar, destaca una pequeña casa blanca con zócalo de piedras que ha quedado totalmente a salvo de las llamas. Es una isla, en medio de ese gris denso, de una tristeza oscura, que",
-      "date": "Sun, 12 Jul 2026 21:18:17 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Sinner demuestra quién manda al conquistar ante Zverev su segundo Wimbledon seguido",
-      "link": "https://www.lavanguardia.com/deportes/20260712/11590510/sinner-demuestra-manda-conquistar-zverev-segundo-wimbledon-seguido.html",
-      "desc": "El italiano remonta frente a un rival correoso y se impone por 6-7 (9), 7-6 (2), 6-3 y 6-4 en 3 horas 46 minutos",
-      "date": "12 Jul 2026 21:03:24 +0200",
       "source": "La Vanguardia",
       "color": "#8e44ad",
       "feedId": "LaVanguardia",
