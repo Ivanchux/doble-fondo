@@ -1,7 +1,157 @@
 {
-  "updated": "2026-07-12T22:41:43Z",
+  "updated": "2026-07-13T02:20:51Z",
   "count": 24,
   "items": [
+    {
+      "title": "El incendio en Bédar saca a la luz décadas de urbanismo ilegal en Sierra Cabrera",
+      "link": "https://www.abc.es/espana/andalucia/almeria/incendio-bedar-saca-luz-decadas-urbanismo-ilegal-20260713020231-nts.html",
+      "desc": "La tragedia provocada por el incendio declarado en Los Gallardos, que ha golpeado con especial dureza el término municipal de Bédar en la provincia de Almería, ha vuelto a poner el foco sobre una realidad que desde hace años acompaña a Sierra Cabrera. Durante ",
+      "date": "Mon, 13 Jul 2026 02:02:31 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Una menor muere aplastada por un desprendimiento en unas pozas de Gandesa",
+      "link": "https://www.lavanguardia.com/local/terres-de-l-ebre/20260713/11590703/menor-muere-aplastada-desprendimiento-pozas-gandesa.html",
+      "desc": "Una joven de 24 años se encuentra herida de gravedad",
+      "date": "13 Jul 2026 01:52:15 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
+    {
+      "title": "Leire Díez, la sorprendente defensora del empleo femenino",
+      "link": "https://www.abc.es/espana/leire-diez-asesora-sombra-empleo-femenino-20260701013556-nt.html",
+      "desc": "Leire Díez pasó de ser un 'caballo de Troya' en la Administración a una 'asesora en la sombra'. La Unidad Central Operativa (UCO) de la Guardia Civil refleja en su informe sobre el caso de la Sociedad Estatal de Participaciones Industriales (SEPI) que la exmil",
+      "date": "Mon, 13 Jul 2026 01:35:56 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "lei"
+    },
+    {
+      "title": "Iñaki Subijana: «Vivo con pesar y dolor ser retratado como un enemigo de la identidad vasca»",
+      "link": "https://www.abc.es/espana/pais-vasco/inaki-subijana-necesaria-deslegitimacion-discurso-justifico-existencia-20260713013257-nt.html",
+      "desc": "Iñaki Subijana (San Sebastián, 1963) comenzó a ejercer el 5 de marzo de 1990 en Azpeitia (Guipúzcoa): «Era un contexto complicado. Existía ETA y nosotros representábamos al Estado. Esa situación derivó en el asesinato del magistrado de la Audiencia de Vizcaya ",
+      "date": "Mon, 13 Jul 2026 01:32:57 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Voces del PP piden afinar la estrategia: «Nos hemos metido en todos los charcos posibles»",
+      "link": "https://www.abc.es/espana/voces-pp-piden-afinar-estrategia-metido-charcos-20260712013248-nt.html",
+      "desc": "En un espacio de una semana y media y coincidiendo con una menor presión judicial sobre el Gobierno, el PP ha ido encadenando polémicas que han salido del propio partido. Sucedió primero con la llamada 'ley de nietos', una disposición adicional de la Ley de Me",
+      "date": "Mon, 13 Jul 2026 01:32:48 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "La «revolución cultural» de Sánchez",
+      "link": "https://www.abc.es/espana/revolucion-cultural-sanchez-20260713013241-nt.html",
+      "desc": "El doble aniversario de la «revolución cultural» de Mao pasa desapercibido: sesenta años de su inicio y cincuenta de su clausura a la muerte del Gran Timonel. Para desviar la atención sobre su fracaso, el maoísmo convirtió a los estudiantes en Guardias Rojos: ",
+      "date": "Mon, 13 Jul 2026 01:32:41 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Yolanda Díaz rescata con casi medio millón de euros la cafetería de su ministerio, vacía por el teletrabajo",
+      "link": "https://www.abc.es/espana/yolanda-diaz-rescata-medio-millon-euros-cafeteria-20260709013231-nt.html",
+      "desc": "El viaje político de Yolanda Díaz parece estar viviendo sus últimos meses y, en consecuencia, el espacio a la izquierda del PSOE afronta ahora una etapa de transición estructural de cara a los comicios de 2027. Mientras, el Ministerio de Trabajo y Economía Soc",
+      "date": "Mon, 13 Jul 2026 01:32:31 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Génova se enfrenta otra vez al polvorín valenciano del PP",
+      "link": "https://www.abc.es/espana/genova-enfrenta-vez-polvorin-valenciano-pp-20260713013222-nt.html",
+      "desc": "«Está en nuestros genes tener crisis en la Comunidad Valenciana. Es como si no lo pudiéramos evitar». En el PP tienen asumida una realidad que se repite desde hace décadas . El partido en esa región siempre ha sido uno de los grandes quebraderos de cabeza orgá",
+      "date": "Mon, 13 Jul 2026 01:32:22 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Joaquín Parra, el 'Jesús Gil' del Badajoz que quiso ser alcalde",
+      "link": "https://www.abc.es/espana/extremadura/joaquin-parra-jesus-gil-badajoz-quiso-alcalde-20260712013213-nt.html",
+      "desc": "A Joaquín Parra no le incomodan los focos. No son tampoco una novedad para él. Hubo un tiempo en el que las cámaras y las miradas le acompañaban, prácticamente, a cada paso que daba en una ciudad, Badajoz, en la que era un auténtico ídolo. Como propietario del",
+      "date": "Mon, 13 Jul 2026 01:32:13 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Laporta lanza un mensaje al Atlético por Julián y confirma a Adeyemi",
+      "link": "https://www.lavanguardia.com/deportes/futbol/20260713/11590696/joan-laporta-mundial-2026-julian-alvarez-adeyemi.html",
+      "desc": "El presidente del Barça asistirá a la semifinal entre España y Francia",
+      "date": "13 Jul 2026 01:14:56 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
+    {
+      "title": "Varapalo al alcalde de Fuenlabrada: la Justicia avala el centro de menores de La Cantueña",
+      "link": "https://www.abc.es/espana/madrid/varapalo-alcalde-fuenlabrada-justicia-avala-centro-menores-20260710010634-nt.html",
+      "desc": "Golpe de mazo de la Justicia sobre el centro de primera acogida de menores extranjeros no acompañados (menas) ubicado en la finca de La Cantueña , en el municipio de Fuenlabrada. La guerra política que el alcalde de esta localidad, Javier Ayala, emprendió hace",
+      "date": "Mon, 13 Jul 2026 01:06:34 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "El renacer del cine de verano de Usera que ardió en un descampado",
+      "link": "https://www.abc.es/espana/madrid/renacer-cinema-usera-20260711010625-nt.html",
+      "desc": "Apenas unas cajas de pizza vacías y varias botellas de refrescos, olvidadas sobre el hormigón, evidencian que la noche del pasado viernes volvió a haber cine en el Mirador de Pradolongo (calle de Primitiva Gañán). A su alrededor, vallas y materiales de obra de",
+      "date": "Mon, 13 Jul 2026 01:06:25 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Vivir por 500 euros en una tienda del centro comercial de Orcasur: «Nos tienen tirados, muertos»",
+      "link": "https://www.abc.es/espana/madrid/vivir-local-abandonado-centro-comercial-orcasur-tirados-20260709010616-nt.html",
+      "desc": "Con un gesto de desdén, cerveza en mano, señala una valla frente al asiento improvisado que ha tomado para contar su historia, en lo alto de unas escaleras en forma de espiral. «Me tiras por ahí y sin movida, no me importaría», dice. Y es que Juan, aunque no l",
+      "date": "Mon, 13 Jul 2026 01:06:16 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Rajoy y las birras en el Mundial",
+      "link": "https://www.lavanguardia.com/opinion/20260713/11590457/rajoy-birras-mundial.html",
+      "desc": "Rajoy convierte cada partido en un manual de instrucciones del sentido común pero...",
+      "date": "13 Jul 2026 00:30:00 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
+    {
+      "title": "La estabilización del fuego vislumbra “el principio del fin” en Los Gallardos",
+      "link": "https://www.lavanguardia.com/vida/20260713/11590531/estabilizacion-fuego-vislumbra-principio-gallardos.html",
+      "desc": "Muere una hospitalizada de 93 años y la cifra de fallecidos en el incendio asciende a 13; los desaparecidos se elevan a 10&nbsp;después de que se hayan interpuesto dos nuevas denuncias",
+      "date": "13 Jul 2026 00:05:00 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
     {
       "title": "Aumentan a diez los desaparecidos en el incendio de Almería",
       "link": "https://www.abc.es/espana/andalucia/almeria/aumentan-diez-desaparecidos-incendio-almeria-20260712231604-nts.html",
@@ -90,156 +240,6 @@
       "source": "La Vanguardia",
       "color": "#8e44ad",
       "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "¿Debió anularse el gol de Bellingham? Así nació el 'cable-gate', el escándalo tecnológico del Mundial",
-      "link": "https://www.lavanguardia.com/deportes/futbol/20260712/11590497/debio-anularse-gol-bellingham-asi-nacio-cable-gate-escandalo-tecnologico-mundial-noruega-inglaterra-2026.html",
-      "desc": "El supuesto impacto del balón con el cable de la cámara aérea antes del empate de Inglaterra en el Hard Rock de Miami desata una gran controversia",
-      "date": "12 Jul 2026 20:27:19 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "Rajoy y las birras en el Mundial",
-      "link": "https://www.lavanguardia.com/opinion/20260712/11590457/rajoy-birras-mundial.html",
-      "desc": "Rajoy convierte cada partido en un manual de instrucciones del sentido común pero...",
-      "date": "12 Jul 2026 20:04:47 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "El PP, tensionado con los candidatos de Ávila, Soria y Zamora",
-      "link": "https://www.abc.es/espana/castilla-leon/candidatos-pp-alcaldias-avila-soria-zamora-solo-20260709200409-nt.html",
-      "desc": "Sorprendió a propios y a extraños el anuncio del PP de que su presidente nacional, Alberto Núñez Feijóo , dará a conocer el sábado 18 de julio en un acto público en Santiago a los candidatos a las alcaldías de las capitales de provincia de toda España. En Cast",
-      "date": "Sun, 12 Jul 2026 20:04:09 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Detenido por intentar violar a una mujer a la salida de una discoteca en la Malvarrosa de Valencia",
-      "link": "https://www.abc.es/espana/comunidad-valenciana/detenido-intentar-violar-mujer-salida-discoteca-malvarrosa-20260712200328-nt.html",
-      "desc": "La Policía Local de Valencia ha detenido a un hombre como presunto autor de un delito de agresión sexual a una mujer a la salida de una discoteca en la zona de la playa de la Malvarrosa. Dos agentes impidieron la violación justo antes de que se produjera y fue",
-      "date": "Sun, 12 Jul 2026 20:03:29 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Medicina y los dobles grados copan las notas de corte más altas de las universidades",
-      "link": "https://www.abc.es/espana/castilla-leon/medicina-dobles-grados-acaparan-notas-corte-altas-20260710200206-nt.html",
-      "desc": "Una vez publicadas las primeras listas de admitidos, las universidades han dado a conocer las notas de corte de aquellas titulaciones que tienen plazas limitadas. Una calificación que marca la exigencia para quienes quieren acceder a ellas y sirve de orientaci",
-      "date": "Sun, 12 Jul 2026 20:02:06 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Muere un hombre de nacionalidad francesa cuando se bañaba en un pueblo de Gerona",
-      "link": "https://www.abc.es/espana/cataluna/muere-hombre-nacionalidad-francesa-banaba-pueblo-gerona-20260712195948-nt.html",
-      "desc": "Un francés de 54 años ha muerto el domingo por la tarde cuando se bañaba en la playa de Ampuriabrava en Castellón de Ampurias (Gerona), según ha informado Protección Civil de la Generalitat de Cataluña en un comunicado. El teléfono 112 recibió el aviso a las 1",
-      "date": "Sun, 12 Jul 2026 19:59:48 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "El sistema de los pescadores para repartirse la Albufera de Valencia desde el siglo XIII",
-      "link": "https://www.abc.es/espana/comunidad-valenciana/sistema-pescadores-repartirse-albufera-valencia-siglo-xiii-20260712195728-nt.html",
-      "desc": "La Cofradía de Pescadores de El Palmar, en Valencia , ha celebrado, como cada segundo domingo de julio, tradicional sorteo de 'redolins', con el que distribuye los 50 puestos de pesca del lago. Se trata de un sistema de reparto con orígenes en el siglo XIII qu",
-      "date": "Sun, 12 Jul 2026 19:57:28 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Dos bomberos del Infoca, heridos en accidente de tráfico en la zona del incendio",
-      "link": "https://www.abc.es/espana/andalucia/almeria/dos-bomberos-infoca-heridos-accidente-trafico-20260712195357-nts.html",
-      "desc": "Dos ocupantes de un camión de bomberos del Plan Infoca han resultado heridos este domingo tras sufrir un accidente cuando circulaba por la AL-6109 de Bédar (Almería ), que permanece cortada al tráfico para los usuarios a consecuencia del incendio forestal de L",
-      "date": "Sun, 12 Jul 2026 19:57:08 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "El pueblo donde veranea José Mota: un refugio manchego con un castillo medieval y una rica tradición culinaria",
-      "link": "https://www.abc.es/espana/castilla-la-mancha/pueblo-castillala-mancha-vio-nacer-jose-mota-20260712174805-nt.html",
-      "desc": "Humorista, actor, guionista, imitador... José Mota es uno de los hombres más conocidos en el panorama del entretenimiento en televisión de nuestro país. Se dio a conocer por 'Cruz y Raya' y ha cosechado otros éxitos como 'La hora de José Mota' o sus populares ",
-      "date": "Sun, 12 Jul 2026 19:42:53 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Nuevo apuñalamiento en Lavapiés: la víctima es un joven de 25 años que iba indocumentado",
-      "link": "https://www.abc.es/espana/madrid/nuevo-apunalamiento-lavapies-joven-anos-ingresado-gravedad-20260712193203-nt.html",
-      "desc": "Un hombre de 25 años se encuentra ingresado en estado grave en el Hospital Clínico San Carlos, tras sufrir una agresión por arma blanca en el distrito madrileño de Lavapiés. Las alarmas saltaron cuando el joven, de origen magrebí, entró por su propio pie en un",
-      "date": "Sun, 12 Jul 2026 19:35:14 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Un nuevo robo de cables provoca retrasos en la Alta Velocidad entre Andalucía y Madrid",
-      "link": "https://www.abc.es/espana/andalucia/nuevo-robo-cables-provoca-retrasos-alta-velocidad-20260712193013-nts.html",
-      "desc": "Nuevos retrasos en los trenes de Alta Velocidad. Otra vez por un supuesto robo de cables. La circulación de trenes de Alta Velocidad entre Madrid y Andalucía se encuentra afectada en la tarde de este domingo , 12 de julio con retrasos debido a una incidencia p",
-      "date": "Sun, 12 Jul 2026 19:32:06 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Los fuegos de Vimianzo y Laxe (La Coruña) se unen y forman uno único que arrasa ya 165 hectáreas",
-      "link": "https://www.abc.es/espana/galicia/fuegos-vimianzo-laxe-coruna-unen-forman-unico-20260712191205-nt.html",
-      "desc": "Los dos incendios forestales iniciados, cada uno por su lado, en los municipios coruñeses limítrofes de Vimianzo y Laxe se han unido y forman ahora un único fuego , según la Consellería do Medio Rural, que ha apreciado que mantiene «una evolución favorable». L",
-      "date": "Sun, 12 Jul 2026 19:12:06 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "La CM-4017 de Retuerta del Bullaque a Horcajo de los Montes, cerrada hasta el 24 de julio por obras de mejora",
-      "link": "https://www.abc.es/espana/castilla-la-mancha/cm4017-retuerta-bullaque-horcajo-montes-cerrada-julio-20260712190530-nt.html",
-      "desc": "El Gobierno de Castilla-La Mancha, a través de la Consejería de Fomento, va a realizar obras de mejora de drenaje en la carretera CM-4017 que une las localidades de Retuerta del Bullaque con Horcajo de los Montes , en la provincia de Ciudad Real. Para realizar",
-      "date": "Sun, 12 Jul 2026 19:05:53 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "'Omega. 30 aniversario': Vibrante reencuentro con un directo mítico",
-      "link": "https://www.abc.es/espana/andalucia/cordoba/omega-aniversario-vibrante-reencuentro-directo-mitico-20260712190309-nts.html",
-      "desc": "La noche del pasado sábado el Teatro Axerquía fue la pista de despegue de la gira de 'Omega. 30 aniversario' , el espectáculo del mítico disco con el que Enrique Morente y Lagartija Nick pusieron patas arriba el flamenco a finales de los noventa. Fue la traca ",
-      "date": "Sun, 12 Jul 2026 19:03:09 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Hallan sin vida al hombre desaparecido en la localidad valenciana de Aldaia",
-      "link": "https://www.abc.es/espana/comunidad-valenciana/hallan-vida-hombre-desaparecido-localidad-valenciana-aldaia-20260712190124-nt.html",
-      "desc": "El Consorcio Provincial de Bomberos de Valencia ha confirmado el hallazgo del cuerpo sin vida de Pedro, el hombre de 66 años desaparecido desde el viernes que diferentes dotaciones estaban buscando por zonas agrícolas de la localidad de Aldaia. Los bomberos ha",
-      "date": "Sun, 12 Jul 2026 19:01:24 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
       "caso": "other"
     }
   ]
