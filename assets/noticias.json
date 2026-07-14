@@ -1,7 +1,127 @@
 {
-  "updated": "2026-07-14T17:09:18Z",
+  "updated": "2026-07-14T19:11:46Z",
   "count": 24,
   "items": [
+    {
+      "title": "Esta spin-off de la USC acelera el desarrollo de fármacos con fluorescencia y ya opera en Europa, Estados Unidos y Asia",
+      "link": "https://www.abc.es/espana/galicia/spinoff-usc-acelera-desarrollo-farmacos-fluorescencia-opera-20260714210013-nt.html",
+      "desc": "La biotecnológica gallega Celtarys, especializada en tecnología para acelerar el desarrollo de fármacos, suma en apenas cinco años de vida más de 40 clientes repartidos en 14 países de Europa, Estados Unidos y Asia, además de acuerdos de colaboración con varia",
+      "date": "Tue, 14 Jul 2026 21:00:13 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Muere un trabajador al caerle encima una pieza de hierro en una nave de Torredonjimeno",
+      "link": "https://www.abc.es/espana/andalucia/jaen/muere-trabajador-caerle-encima-pieza-hierro-nave-20260714205537-nts.html",
+      "desc": "Un trabajador de 55 años ha muerto este martes al caerle encima una pieza de hierro en una nave de la localidad jiennense de Torredonjimeno. El accidente se produjo durante la tarde en una nave de la calle Nicaragua, según han explicado desde el 112, que acudi",
+      "date": "Tue, 14 Jul 2026 20:55:37 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "¿Por qué no hay conciertos en los chiringuitos de Vigo? La Xunta señala al Concello",
+      "link": "https://www.abc.es/espana/galicia/conciertos-chiringuitos-vigo-xunta-senala-concello-20260714204532-nt.html",
+      "desc": "La Xunta de Galicia ha salido al paso de la polémica por la suspensión de conciertos en los chiringuitos de Vigo recordando que fue el propio Ayuntamiento el que asumió, de forma voluntaria, la gestión de los servicios de temporada en el dominio público maríti",
+      "date": "Tue, 14 Jul 2026 20:45:32 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Vía Crucis bajo la canícula",
+      "link": "https://www.abc.es/espana/via-crucis-bajo-canicula-20260714202603-nt.html",
+      "desc": "Había coronado Pogačar las montañas de Cantal, la Selección salía camino de Arlington y David Sánchez cambiaba la danza de las chirimoyas por el nocturno a la prevaricación. Sobre todo esto último copó la atención informativa dentro del hemiciclo, con sus seño",
+      "date": "Tue, 14 Jul 2026 20:26:04 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "El Palau de la Música de Valencia celebrará sus 40 años con medio centenar de conciertos",
+      "link": "https://www.abc.es/espana/comunidad-valenciana/palau-musica-valencia-celebrara-anos-medio-centenar-20260714200530-nt.html",
+      "desc": "El Palau de la Música de Valencia celebrará su 40 aniversario durante la temporada 2026-2027 con cerca de sesenta conciertos. Además, el director titular de la Orquesta de València, Alexander Liebreich, ostentará durante cinco temporadas más la batuta del conj",
+      "date": "Tue, 14 Jul 2026 20:05:31 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "PP, Vox y Junts tumban otra vez la senda de déficit y no dan margen a los presupuestos",
+      "link": "https://www.abc.es/espana/pp-vox-junts-tumban-vez-senda-deficit-20260714163113-nt.html",
+      "desc": "El Congreso , en una jornada estival, extraordinaria, ha escenificado este martes una obra teatral. El tiempo, caluroso, era el de un campamento de verano. Y a los diputados, en el patio y los pasillos de la Cámara Baja, los acompañaban amigos y familiares lle",
+      "date": "Tue, 14 Jul 2026 20:02:17 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "«No hay ciudad en el mundo donde dure tanto»: el reto histórico de La Coruña ante el eclipse",
+      "link": "https://www.abc.es/espana/galicia/ciudad-mundo-dure-reto-historico-coruna-ante-20260714200004-nt.html",
+      "desc": "El próximo 12 de agosto, La Coruña no será una ciudad más en el mapa: será el epicentro astronómico del planeta. La urbe se prepara para presenciar un eclipse total de sol con una ventaja que no tiene ningún otro rincón del globo. «No hay ninguna ciudad del mu",
+      "date": "Tue, 14 Jul 2026 20:00:04 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "El Gobierno destina 4 millones de euros a Canarias para la acogida de menores migrantes no acompañados",
+      "link": "https://www.abc.es/espana/canarias/gobierno-destina-millones-euros-canarias-acogida-menores-20260714195129-nt.html",
+      "desc": "El Gobierno ha autorizado destinar 4 millones de euros a Canarias para la acogida de infancia migrante no acompañada. El Consejo de Ministros ha aprobado el reparto de un total de 35 millones de euros a las comunidades y ciudades autónomas con los que «el Gobi",
+      "date": "Tue, 14 Jul 2026 19:51:30 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Horario y dónde ver en directo el Córdoba CF - Orlando Pirates",
+      "link": "https://www.abc.es/espana/andalucia/cordoba/cordoba-cf/horario-ver-directo-cordoba-orlando-pirates-20260714184010-nts.html",
+      "desc": "El Córdoba CF abre fuego a su calendario de amistosos este miércoles 15 de julio. No lo hará en tierras cordobesas, ya que los pupilos de Iván Ania se desplazarán a Marbella para verse las caras con el Orlando Pirates , un histórico del fútbol sudáfricano y qu",
+      "date": "Tue, 14 Jul 2026 19:46:12 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Muere a los 87 años Luis de Velasco, portavoz de UPyD en la Asamblea de Madrid",
+      "link": "https://www.abc.es/espana/madrid/muere-anos-luis-velasco-portavoz-upyd-asamblea-20260714192817-nt.html",
+      "desc": "Luis de Velasco, quien fue portavoz de UPyD en la Asamblea de Madrid entre 2011 y 2015 –IX Legislatura– y diputado del PSOE en el Congreso en los 80, ha fallecido a los 87 años. De Velasco acudía como candidato a la Presidencia de la Comunidad de Madrid por el",
+      "date": "Tue, 14 Jul 2026 19:28:18 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Carriedo reclama el apoyo «unánime » de las Cortes para negociar con el Gobierno «desde cero» la financiación",
+      "link": "https://www.abc.es/espana/castilla-leon/carriedo-reclama-apoyo-unanime-cortes-negociar-gobierno-20260714192538-nt.html",
+      "desc": "Densa comparecencia en las Cortes de Castilla y León de Carlos Fernández Carriedo, como corresponde al titular de la Consejería de Economía y Hacienda. Casi hora y media para dar a conocer el programa de su departamento que, además de cifras y porcentajes, en ",
+      "date": "Tue, 14 Jul 2026 19:26:41 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Cancelan los conciertos de UB40 y Ana Torroja en Valencia ante la alerta roja por calor",
+      "link": "https://www.abc.es/espana/comunidad-valenciana/cancelan-concierto-ub40-valencia-ante-alerta-roja-20260714191320-nt.html",
+      "desc": "El Ayuntamiento de Valencia, como organizador de los Conciertos de Viveros, ha decidido suspender el concierto de UB40 feat Ali Campbell previsto para este miércoles 15 de julio en los Jardines de Viveros, ante la situación meteorológica excepcional y los avis",
+      "date": "Tue, 14 Jul 2026 19:13:20 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
     {
       "title": "«¿Cómo hacen para vivir así los gallegos?»: un influencer alucina con lo que ocurre en Galicia",
       "link": "https://www.abc.es/espana/galicia/vivir-gallegos-influencer-alucina-ocurre-galicia-20260714190001-nt.html",
@@ -23,9 +143,9 @@
       "caso": "other"
     },
     {
-      "title": "La Familia Real preside esta tarde la ceremonia de los premios Princesa de Girona 2026",
+      "title": "La Princesa Leonor reivindica a los «Inteligentes Naturales»: «Son mis influencers favoritos»",
       "link": "https://www.abc.es/espana/casa-real/familia-real-preside-tarde-ceremonia-premios-princesa-20260714185612-nt.html",
-      "desc": "La Familia Real preside este martes la entrega de los premios Princesa de Girona 2026 , un galardón que reconoce el talento joven de nuestro país. El Gran Teatre del Liceu será una vez más el escenario de la ceremonia, cuyos protagonistas son Patricia Aymà, Ge",
+      "desc": "El Gran Teatre del Liceu de Barcelona volvió a convertirse esta tarde en el escaparate del talento joven. Científicos capaces de acercar a la humanidad a la respuesta de si existe vida fuera de la Tierra, emprendedoras que quieren acabar con los plásticos o fa",
       "date": "Tue, 14 Jul 2026 18:56:12 +0200",
       "source": "ABC",
       "color": "#c0392b",
@@ -83,116 +203,6 @@
       "caso": "other"
     },
     {
-      "title": "El incendio de Peñarroya está estabilizado, pero se mantienen 80 efectivos por los rebrotes",
-      "link": "https://www.abc.es/espana/aragon/incendio-penarroya-estabilizado-mantienen-medios-rebrotes-20260714183425-nt.html",
-      "desc": "Ocho brigadas del servicio autonómico de extinción de incendios forestales (Infoar) se mantienen trabajando en la zona perimetrada del fuego declarado el domingo en Peñarroya de Tastavins (Teruel) bajo un sol de infarto. Esta tarde de martes y mañana miércoles",
-      "date": "Tue, 14 Jul 2026 18:34:27 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "El Festival Hondo reúne a seis generaciones del flamenco en una gran «tanganada»",
-      "link": "https://www.abc.es/espana/madrid/agenda/festival-hondo-reune-seis-generaciones-flamenco-gran-20260713173924-nt.html",
-      "desc": "Hay un cantante y artista madrileño que ha puesto la palabra hasta en la sopa, en una muestra de ambición desmedida. Sin embargo, la tanganada es ese estado de alboroto colectivo, de reunión que se descontrola por exceso de energía, de encuentro que acaba sien",
-      "date": "Tue, 14 Jul 2026 18:32:54 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Núñez propone una Ley de Vivienda Joven para combatir la baja emancipación en Castilla-La Mancha",
-      "link": "https://www.abc.es/espana/castilla-la-mancha/nunez-propone-ley-vivienda-joven-combatir-baja-20260714182847-nt.html",
-      "desc": "El acceso a la vivienda será una de las primeras medidas del Partido Popular si alcanza el Gobierno de Castilla-La Mancha en 2027. Así lo ha anunciado este martes el presidente regional del PP, Paco Núñez, quien ha avanzado la aprobación de una Ley de Acceso a",
-      "date": "Tue, 14 Jul 2026 18:28:47 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "La Sierra del Segura se llena de música con la décima edición del FEST-YN",
-      "link": "https://www.abc.es/espana/castilla-la-mancha/sierra-segura-llena-musica-decima-edicion-festyn-20260714181956-nt.html",
-      "desc": "La Sierra del Segura volverá a convertirse este verano en un gran escenario al aire libre. El Festival Internacional de Música de Yetas-Nerpio (FEST-YN) celebrará del 30 de julio al 2 de agosto su décima edición con una programación que combinará música clásic",
-      "date": "Tue, 14 Jul 2026 18:19:57 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Palomino protagoniza su primera exposición monográfica en el Bellas Artes de Valencia",
-      "link": "https://www.abc.es/espana/comunidad-valenciana/palomino-protagoniza-primera-exposicion-monografica-bellas-artes-20260714181908-nt.html",
-      "desc": "El pintor Antonio Palomino 'encuentra su lugar' en el Museo de Bellas Artes de Valencia (MuBAV) con la exposición 'Antonio Palomino y la noche barroca', la primera muestra monográfica dedicada al artista. En ella, el museo reivindica su figura como uno de los ",
-      "date": "Tue, 14 Jul 2026 18:19:09 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "La falta de matronas lleva al límite el paritorio del Hospital de Guadalajara",
-      "link": "https://www.abc.es/espana/castilla-la-mancha/falta-matronas-lleva-limite-paritorio-hospital-guadalajara-20260714180600-nt.html",
-      "desc": "El Sindicato de Enfermería Satse ha denunciado el «grave deterioro» del servicio de Paritorio del Hospital Universitario de Guadalajara, donde, según asegura, la reducción del número de matronas por turno está comprometiendo la seguridad asistencial y aumentan",
-      "date": "Tue, 14 Jul 2026 18:06:00 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Límites al tabaco y fin de la diferencia de precio en la gasolina y el alcohol: las claves del fin de la verja de Gibraltar a partir de mañana",
-      "link": "https://www.abc.es/espana/andalucia/cadiz/gibraltar-cambia-precio-tabaco-gasolina-alcohol-claves-20260714175947-nts.html",
-      "desc": "A partir de este miércoles 15 de julio entrará en vigor el nuevo Tratado entre la Unión Europea y el Reino Unido sobre Gibraltar , un acuerdo histórico que marcará el derribo definitivo de la Verja y pondrá fin a más de un siglo de controles fronterizos terres",
-      "date": "Tue, 14 Jul 2026 18:02:37 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "El queso gallego que tiene un 'Oscar' de la gastronomía y que puedes comprar por muy poco",
-      "link": "https://www.abc.es/espana/galicia/queso-gallego-oscar-gastronomia-puedes-comprar-poco-20260714180005-nt.html",
-      "desc": "Galicia es una potencia mundial indiscutible en el universo lácteo, y así quedó demostrado en la última edición de los World Cheese Awards. Aunque han pasado los meses desde que se celebró el certamen internacional —considerado unánimemente como los 'Oscar' de",
-      "date": "Tue, 14 Jul 2026 18:00:05 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Adif deberá aportar a la juez expedientes sobre las obras en el tramo del accidente de Adamuz",
-      "link": "https://www.abc.es/espana/andalucia/cordoba/adif-debera-aportar-juez-expedientes-sobre-obras-20260714175707-nts.html",
-      "desc": "La juez de Montoro que lleva la investigación por el accidente ferroviario de Adamuz , que costó la vida a 46 personas el pasado 18 de enero, ha dictado una providencia en la que solicita al ente público Adif varios expedientes necesarios para esclarecer lo su",
-      "date": "Tue, 14 Jul 2026 17:57:08 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Aprueban un protocolo antiviolencia para proteger a las trabajadoras de Axuda a Domicilio",
-      "link": "https://www.abc.es/espana/galicia/aprueban-protocolo-antiviolencia-proteger-trabajadoras-axuda-domicilio-20260714175644-nt.html",
-      "desc": "La Federación Gallega de Municipios y Provincias (Fegamp) ha acogido hoy la firma de un nuevo acuerdo para prevenir y actuar frente a la violencia laboral externa que puede sufrir el personal del Servicio de Axuda a Domicilio (SAF) en Galicia. El acto contó co",
-      "date": "Tue, 14 Jul 2026 17:56:44 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Sube a gravedad 2 el incendio de Íscar (Valladolid) por «amenaza seria a poblaciones» y «grave riesgo»",
-      "link": "https://www.abc.es/espana/castilla-leon/sube-gravedad-incendio-iscar-valladolid-amenaza-poblaciones-20260714175118-nt.html",
-      "desc": "La Junta de Castilla y León ha declarado el Índice de Gravedad Potencial (IGR) 2 un incendio forestal , por amenaza seria a poblaciones y por poder comportar «grave riesgo para la población y bienes no forestales», que se ha originado a primera hora de la tard",
-      "date": "Tue, 14 Jul 2026 17:54:44 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
       "title": "De la Fuente: “El gran partido de Lamine está por llegar y espero que sea ante Francia”",
       "link": "https://www.lavanguardia.com/deportes/futbol/20260714/11591490/de-la-fuente-rajoy-espana-francia-mundial-2026.html",
       "desc": "El seleccionador español se mostró tranquilo a pesar de la trascendencia de una semifinal de un Mundial",
@@ -227,16 +237,6 @@
       "link": "https://www.lavanguardia.com/politica/20260714/11591461/rajoy-enoja-francia-gobierno-acusa-pp-torpedear-politica-exterior.html",
       "desc": "El Elíseo ve “estupidez o racismo” en el artículo del expresidente donde los populares ven una broma",
       "date": "14 Jul 2026 00:05:00 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "Trump sobre un nuevo ataque a Irán: “Vamos a golpearlos muy duro esta noche y mañana”",
-      "link": "https://www.lavanguardia.com/internacional/20260714/11591493/trump-sobre-nuevo-ataque-iran-golpearlos-duro-noche-manana.html",
-      "desc": "Washington&nbsp;lanza una tercera noche de bombardeos con el objetivo de imponer “un alto coste” a Teherán",
-      "date": "14 Jul 2026 00:03:04 +0200",
       "source": "La Vanguardia",
       "color": "#8e44ad",
       "feedId": "LaVanguardia",
