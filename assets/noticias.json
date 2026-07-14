@@ -1,7 +1,67 @@
 {
-  "updated": "2026-07-14T02:00:35Z",
+  "updated": "2026-07-14T06:06:27Z",
   "count": 24,
   "items": [
+    {
+      "title": "Educación da marcha atrás y exime a Lydia Dorado de devolver la beca que le reclamó tras una grave enfermedad",
+      "link": "https://www.abc.es/espana/castilla-la-mancha/toledo/educacion-marcha-atras-exime-lydia-dorado-devolver-20260713075107-nt.html",
+      "desc": "La historia de Lydia Dorado termina, al menos en el plano administrativo, con un desenlace muy distinto al que parecía inevitable. Después de meses de incertidumbre, alegaciones y de que su caso se hiciera público, el Ministerio de Educación, Formación Profesi",
+      "date": "Tue, 14 Jul 2026 07:51:07 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "La Junta deja sin gastar más de 908 millones de euros presupuestados para Bienestar Social desde 2016",
+      "link": "https://www.abc.es/espana/castilla-la-mancha/junta-deja-gastar-908-millones-euros-presupuestados-20260713075018-nt.html",
+      "desc": "Cada otoño, el Gobierno de Castilla-La Mancha presenta sus Presupuestos y fija cuánto dinero destinará a sanidad, educación, dependencia, mayores, discapacidad o servicios sociales, entre otras áreas. Sin embargo, una cosa es el dinero que se aprueba sobre el ",
+      "date": "Tue, 14 Jul 2026 07:50:18 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "El aviso de un urólogo sobre la disfunción eréctil en verano: «La demanda sexual aumenta»",
+      "link": "https://www.abc.es/espana/comunidad-valenciana/aviso-urologo-sobre-disfuncion-erectil-verano-demanda-20260714214431-nt.html",
+      "desc": "En verano se pueden experimentar una mayor frecuencia de problemas urológicos, principalmente infecciones urinarias y cálculos renales, además de problemas prostáticos en el caso de los hombres. Estas afecciones pueden ser más comunes debido al aumento de la s",
+      "date": "Tue, 14 Jul 2026 07:45:35 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "«Modifica lo que estimes»: así fabricó un letrado de la Junta de Andalucía un puesto para Leire Díez en Correos",
+      "link": "https://www.abc.es/espana/andalucia/modifica-estimes-fabrico-letrado-junta-andalucia-puesto-20260714070336-nts.html",
+      "desc": "Un letrado que representa a la Junta de Andalucía en causas contra la corrupción bajo la gestión del PSOE confeccionó un puesto a la medida de Leire Díez cuando era directivo de Correos. José Luis Pérez Pastor, conocido como 'Tote' , fabricó este traje laboral",
+      "date": "Tue, 14 Jul 2026 07:03:36 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "lei"
+    },
+    {
+      "title": "Los 'téntaculos' legales del nacionalismo: abogados, eólicos y colocaciones",
+      "link": "https://www.abc.es/espana/galicia/tentaculos-legales-bng-abogados-eolicos-colocaciones-20260713050014-nt.html",
+      "desc": "La denuncia presentada el pasado viernes en los juzgados por el PP contra el alcalde de Muras, el nacionalista Manuel Requeijo, por supuestas irregularidades en los pagos desde el Concello a dos despachos de abogados, incurriendo en una presunta prevaricación ",
+      "date": "Tue, 14 Jul 2026 05:00:14 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Tarta de queso gratis en Santiago: así es el regalo de Delirio por su nueva tienda",
+      "link": "https://www.abc.es/espana/galicia/tarta-queso-gratis-santiago-regalo-delirio-nueva-20260713050000-nt.html",
+      "desc": "La pastelería especializada en tartas de queso Delirio abrirá su segunda tienda en Santiago de Compostela, según ha anunciado la marca en sus redes sociales. Para celebrarlo, este viernes 17 de julio a las 17:00 horas regalará 200 porciones de tarta de queso a",
+      "date": "Tue, 14 Jul 2026 05:00:00 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
     {
       "title": "Adiós a la torre del 12 de Octubre: una gran plaza verde integrará el hospital con Madrid",
       "link": "https://www.abc.es/espana/madrid/adios-torre-octubre-gran-plaza-verde-integrara-20260713033629-nt.html",
@@ -93,6 +153,16 @@
       "caso": "other"
     },
     {
+      "title": "De la Fuente: “El gran partido de Lamine está por llegar y espero que sea ante Francia”",
+      "link": "https://www.lavanguardia.com/deportes/futbol/20260714/11591490/de-la-fuente-rajoy-espana-francia-mundial-2026.html",
+      "desc": "El seleccionador español se mostró tranquilo a pesar de la trascendencia de una semifinal de un Mundial",
+      "date": "14 Jul 2026 01:36:28 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
+    {
       "title": "Lamine Yamal: “¿Rajoy? Si el fútbol sirve para algo, es para integrar a la sociedad”",
       "link": "https://www.lavanguardia.com/deportes/futbol/20260714/11591492/lamine-yamal-espana-francia-mundial-2026.html",
       "desc": "La estrella de la selección española intentó centrarse en el fútbol antes de la semifinal Francia - España",
@@ -167,76 +237,6 @@
       "link": "https://www.abc.es/espana/madrid/herido-arma-fuego-tiroteo-rivas-20260713214210-nt.html",
       "desc": "Un hombre de 43 años ha resultado herido en el muslo por arma de fuego en un tiroteo en la localidad madrileña de Rivas-Vaciamadrid . La bala no ha afectado a ninguna arteria vital, y el afectado se encuentra estable en el hospital. La Policía Local ha acudido",
       "date": "Mon, 13 Jul 2026 21:42:10 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Identificadas tres víctimas más del incendio de Almería: un matrimonio belga y una mujer británica",
-      "link": "https://www.abc.es/espana/andalucia/identificadas-tres-victimas-incendio-almeria-matrimonio-belga-20260713214106-nts.html",
-      "desc": "Ya se conoce la identidad de otras tres víctimas del incendio de Los Gallardos, en Almería : se trata de un matrimonio de origen belga y de una mujer natural del Reino Unido . Con estas tres últimas identificaciones, quedarían otras tres personas por documenta",
-      "date": "Mon, 13 Jul 2026 21:41:06 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "La Fundación Cajasol se convierte en patrocinador principal del Coto Córdoba tras su ascenso a Primera FEB: «Es un proyecto con muchas aspiraciones»",
-      "link": "https://www.abc.es/espana/andalucia/cordoba/fundacion-cajasol-convierte-patrocinador-principal-coto-cordoba-20260713214044-nts.html",
-      "desc": "El Coto Córdoba ha llegado para quedarse. El club blanquiverde ya trabaja en los últimos detalles de su ilusionante y ambicioso salto a Primera FEB . Un nuevo escenario que obligará a la entidad a reforzar su estructura y aumentar sus recursos para competir de",
-      "date": "Mon, 13 Jul 2026 21:40:45 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Edmundo González recibe el Premio de Convivencia en el Senado y clama contra la tiranía en Venezuela",
-      "link": "https://www.abc.es/espana/comunidad-valenciana/edmundo-gonzalez-recibe-premio-convivencia-senado-clama-20260713211104-nt.html",
-      "desc": "Los líderes opositores venezolanos Edmundo González y María Corina Machado defendieron este lunes la «convivencia» en Venezuela frente al «régimen tiránico y criminal» del Gobierno venezolano, que usa la «división» como «instrumento del poder». Así se pronunci",
-      "date": "Mon, 13 Jul 2026 21:11:05 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Sumar se ufana de hoja de servicios en un final de legislatura «crítico»",
-      "link": "https://www.abc.es/espana/sumar-ufana-hoja-servicios-final-legislatura-critico-20260713205136-nt.html",
-      "desc": "Día uno sin Yolanda Díaz. A las puertas del parón vacacional estival, Sumar vuelve a tratar de exhibir músculo frente a un PSOE cercado por los escándalos de corrupción con una reunión al más alto nivel celebrada este lunes en la Sala Constitucional del Congre",
-      "date": "Mon, 13 Jul 2026 20:51:37 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Simeone, Beckham, Owen y los cinco Inglaterra-Argentina después del de Maradona",
-      "link": "https://www.lavanguardia.com/deportes/futbol/20260713/11591464/simeone-beckham-owen-cinco-inglaterra-argentina-maradona.html",
-      "desc": "Messi no pudo jugar el último, en el 2005, por culpa de una sanción del día de su debut con la albiceleste",
-      "date": "13 Jul 2026 20:40:06 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "Vigo dona dos camiones de bomberos a Ucrania: «Queremos contribuir a la lucha por su libertad»",
-      "link": "https://www.abc.es/espana/galicia/vigo-dona-dos-camiones-bomberos-ucrania-queremos-20260713203004-nt.html",
-      "desc": "El Ayuntamiento de Vigo ha oficializado este lunes la donación de dos camiones de bomberos a Ucrania, como a una petición directa del cónsul honorario del país en Galicia , Antonio Corredoira Alfonso. Se trata de dos vehículos que se encontraban en desuso dent",
-      "date": "Mon, 13 Jul 2026 20:30:04 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Dos muertos y cinco heridos graves al arder un camión en la AP-7 a la altura de Benahavís",
-      "link": "https://www.abc.es/espana/andalucia/malaga/dos-muertos-cinco-heridos-graves-arder-camion-20260713201846-nts.html",
-      "desc": "Un incendio en un camión cisterna ha acabado con la vida de dos personas y ha herido de gravedad a otras cinco , según ha podido confirmar el Diario SUR. El siniestro se ha declarado en torno las 17.15 horas de la tarde de este lunes en la autopista de peaje A",
-      "date": "Mon, 13 Jul 2026 20:18:47 +0200",
       "source": "ABC",
       "color": "#c0392b",
       "feedId": "ABC",
