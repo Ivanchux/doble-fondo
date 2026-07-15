@@ -1,11 +1,141 @@
 {
-  "updated": "2026-07-15T13:25:54Z",
+  "updated": "2026-07-15T15:23:23Z",
   "count": 24,
   "items": [
     {
+      "title": "Nuevo incendio en Zaragoza: dos pueblos evacuados tras un ES-Alert y se pide ayuda a la UME",
+      "link": "https://www.abc.es/espana/aragon/nuevo-incendio-zaragoza-dos-pueblos-evacuados-tras-20260715165857-nt.html",
+      "desc": "Un incendio forestal permanece activo desde la mañana de este miércoles 15 de julio en el término municipal de Orés, en la comarca de las Cinco Villas zaragozana. Aquí se ha informado del despliegue de un amplio dispositivo de extinción autonómico (Infoar) com",
+      "date": "Wed, 15 Jul 2026 16:58:58 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Valencia tendrá un centro de inteligencia climática para prevenir catástrofes como la dana",
+      "link": "https://www.abc.es/espana/comunidad-valenciana/valencia-centro-inteligencia-climatica-prevenir-catastrofes-dana-20260715164209-nt.html",
+      "desc": "El presidente de la Generalitat Valenciana, Juanfran Pérez Llorca, ha anunciado la puesta en marcha en los próximos meses del Centro del Mediterráneo de Inteligencia Climática, que tendrá su sede en el Centro de Investigación Príncipe Felipe y que se encargará",
+      "date": "Wed, 15 Jul 2026 16:42:09 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Premian un medidor de glucosa sin pinchazos y un 96% de precisión en diabetes",
+      "link": "https://www.abc.es/espana/comunidad-valenciana/alicante/premian-medidor-glucosa-pinchazos-precision-diabetes-20260715163624-nt.html",
+      "desc": "Una joven investigadora alicantina -hermana de un paciente diabético- ha recibido un premio por el diseño y la validación clínica de un prototipo no invasivo -sin pinchazos- para medir la glucosa en sangre que alcanza un 96% de precisión en sus resultados. «De",
+      "date": "Wed, 15 Jul 2026 16:37:52 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "gen"
+    },
+    {
+      "title": "Extremadura plantará batalla judicial a la `ley de nietos´: «Pretenden robar las próximas elecciones»",
+      "link": "https://www.abc.es/espana/extremadura/extremadura-plantara-batalla-judicial-ley-nietos-pretenden-20260715163315-nt.html",
+      "desc": "La Junta de Extremadura vuelve a chocar frontalmente con el Gobierno en materia migratoria. El gobierno regional a ya ha encargado un informe jurídico para determinar si la llamada `ley de nietos´ de Sánchez invade competencias de las comunidades autónoma. De ",
+      "date": "Wed, 15 Jul 2026 16:33:15 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Los autobuses de EMT Madrid contarán con nuevos desfibriladores inteligentes",
+      "link": "https://www.abc.es/espana/madrid/autobuses-emt-madrid-contaran-nuevos-desfibriladores-inteligentes-20260715162713-nt.html",
+      "desc": "A partir del próximo mes de octubre toda la flota de autobuses de EMT Madrid contarán con un nuevo desfibrilador inteligente. Unos dispositivos que actúan en caso de que alguien sufra una arritmia severa o un paro cardíaco pero que, como novedad, tendrán la ca",
+      "date": "Wed, 15 Jul 2026 16:27:13 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "La nueva ley que entra en vigor el 12 de agosto: por qué pagarás 10 céntimos más por cada lata o botella",
+      "link": "https://www.abc.es/espana/andalucia/nueva-ley-entra-vigor-agosto-pagaras-centimos-20260715142400-nts.html",
+      "desc": "Dentro de unos días, cuando vayas a tu bar de siempre a pedir un refresco o vayas al supermercado a hacer la compra, vas a ver que te cobran 10 céntimos más por cada envase . No es que haya subido la inflación de golpe ni que los hosteleros se hayan puesto de ",
+      "date": "Wed, 15 Jul 2026 16:20:22 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Comillas y el Ayuntamiento de Madrid clausuran la formación de la Cátedra de Gastronomía e Innovación Culinarias",
+      "link": "https://www.abc.es/espana/madrid/comillas-ayuntamiento-madrid-clausuran-segunda-edicion-programas-20260715161752-nt.html",
+      "desc": "La Universidad Pontificia Comillas acogió la clausura de la segunda edición de los programas 'Gestión inteligente en cocina: costes de producción y rentabilidad' e 'Innovación y gestión empresarial en el sector de la restauración', impartidos por Madrid Culina",
+      "date": "Wed, 15 Jul 2026 16:17:52 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "El TSXG vuelve a eximir a la Xunta de pagar el IBI del Álvaro Cunqueiro",
+      "link": "https://www.abc.es/espana/galicia/tsxg-vuelve-eximir-xunta-pagar-ibi-alvaro-20260715155857-nt.html",
+      "desc": "El Tribunal Superior de Xustiza de Galicia concluyó que el pago del Impuesto sobre Bienes Inmuebles (IBI) del Hospital Álvaro Cunqueiro de Vigo le corresponde a la concesionaria, por lo que anula la sentencia del Juzgado de lo Contencioso-Administrativo número",
+      "date": "Wed, 15 Jul 2026 15:58:57 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Begoña Gómez aporta los billetes de su viaje a Londres y critica al juez por cuestionar su presunción de inocencia",
+      "link": "https://www.abc.es/espana/begona-gomez-aporta-billetes-viaje-londres-critica-20260715155146-nt.html",
+      "desc": "Begoña Gómez , la esposa del presidente del Gobierno, ha entregado al juez Juan Carlos Peinado los billetes de avión que certifican que viajó a Londres para acudir a la celebración de la graduación de su hija y que, por tanto, no quebrantó la medida cautelar i",
+      "date": "Wed, 15 Jul 2026 15:51:47 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Las fundaciones Castilla y León y Duques de Soria impulsarán el Premio FDS de Hispanismo Internacional",
+      "link": "https://www.abc.es/espana/castilla-leon/fundaciones-castilla-leon-duques-soria-impulsaran-premio-20260715154649-nt.html",
+      "desc": "El presidente de las Cortes y de la Fundación Castilla y León , Francisco Vázquez, y el presidente de la Fundación Duques de Soria , Rafael Benjumea, firmaron esta miércoles un convenio de colaboración con el objetivo de respaldar la segunda edición del Premio",
+      "date": "Wed, 15 Jul 2026 15:46:50 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Gregorio, ante la polémica por las plantas de biometano: «No voy a hacer de Talavera un vertedero»",
+      "link": "https://www.abc.es/espana/castilla-la-mancha/toledo/talavera/gregorio-ante-polemica-plantas-biometano-talavera-vertedero-20260715154137-nt.html",
+      "desc": "La posible instalación de cuatro plantas de biometano en la comarca de Talavera , con capacidad para tratar hasta 935.000 toneladas de residuos al año, continúa generando un intenso debate político y social. El alcalde de Talavera de la Reina, José Julián Greg",
+      "date": "Wed, 15 Jul 2026 15:41:38 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Córdoba CF - Orlando Pirates: posibles alineaciones para el primer amistoso blanquiverde",
+      "link": "https://www.abc.es/espana/andalucia/cordoba/cordoba-cf/cordoba-orlando-pirates-posibles-alineaciones-primer-amistoso-20260715115152-nts.html",
+      "desc": "La hora ya ha llegado. Después de una semana de trabajo, el Córdoba CF da el pistoletazo de salida al calendario de encuentros de pretemporada ante un exigente Orlando Pirates , equipo campeón de Sudáfrica. El principal objetivo de este tipo de duelos no es ot",
+      "date": "Wed, 15 Jul 2026 15:27:56 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Alarma en los vecinos de Poniente y carretera del Aeropuerto por un reavivado y aparatoso incendio en la N-437: «Hay un intenso olor a quemado»",
+      "link": "https://www.abc.es/espana/andalucia/cordoba/alarma-vecinos-poniente-carretera-aeropuerto-reavivado-aparatoso-20260715152419-nts.html",
+      "desc": "Un incendio muy próximo a las cunetas de la carretera del Aeropuerto (N-437) en Córdoba capital ha hecho saltar las alarmas entre los vecinos de la zona de expansión de Poniente y de las urbanizaciones próximas al aeródromo cordobés. El Servicio de Prevención ",
+      "date": "Wed, 15 Jul 2026 15:24:19 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
       "title": "Los Bomberos tratan de sofocar un nuevo incendio con varios focos en Querol",
       "link": "https://www.abc.es/espana/cataluna/bomberos-tratan-sofocar-nuevo-incendio-varios-focos-20260715152152-nt.html",
-      "desc": "Un nuevo incendio forestal con varios focos ha obligado este miércoles a movilizar a una decena de dotaciones de los Bomberos de la Generalitat. En este caso, en la localidad tarraconense de Querol. Según ha informado el Cuerpo de emergencias, ha sido minutos ",
+      "desc": "Un nuevo incendio forestal con varios focos ha obligado este miércoles a movilizar a una decena de dotaciones de los Bomberos de la Generalitat. En este caso, en la localidad tarraconense de Querol . Según ha informado el Cuerpo de emergencias, ha sido minutos",
       "date": "Wed, 15 Jul 2026 15:21:52 +0200",
       "source": "ABC",
       "color": "#c0392b",
@@ -33,7 +163,7 @@
       "caso": "other"
     },
     {
-      "title": "Gavira nombra viceconsejero a un ex rector del CEU",
+      "title": "Manuel Gavira nombra viceconsejero a un exrector de la Universidad CEU San Pablo",
       "link": "https://www.abc.es/espana/andalucia/gavira-nombra-viceconsejero-rector-ceu-20260715151314-nts.html",
       "desc": "Manuel Gavira ya tiene viceconsejero en la Junta de Andalucía. El Consejo de Gobierno andaluz ha aprobado en su reunión de este miércoles, 15 de julio, una serie de nombramientos entre los que figuran dos vinculados a la Vicepresidencia segunda y Consejería de",
       "date": "Wed, 15 Jul 2026 15:13:14 +0200",
@@ -73,170 +203,40 @@
       "caso": "other"
     },
     {
-      "title": "Carolina España sobre las diferencias con Vox: «No hay que darle importancia»",
-      "link": "https://www.abc.es/espana/andalucia/carolina-espana-sobre-choque-vox-darle-importancia-20260715143957-nts.html",
-      "desc": "La entrada de Vox en el Gobierno andaluz ha sido prácticamente el monotema por el que se ha preguntado a la portavoz del ejecutivo andaluz t ras la primera reunión del equipo de Juanma Moreno en San Telmo . Una entrada en una primera reunión con Manuel Gavira ",
-      "date": "Wed, 15 Jul 2026 14:55:20 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Pontón acusa al PP de una «cacería política» contra el alcalde de Muras por plantar cara a las eléctricas",
-      "link": "https://www.abc.es/espana/galicia/ponton-acusa-pp-caceria-politica-alcalde-muras-20260715145050-nt.html",
-      "desc": "La portavoz nacional del BNG, Ana Pontón, ha acusado al PP de emprender una «cacería política» contra el alcalde nacionalista de Muras (Lugo) por «plantarle cara a las eléctricas» y por «defender los intereses de los vecinos» del municipio. Pontón realizó esta",
-      "date": "Wed, 15 Jul 2026 14:50:50 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Cuidado con tocar el claxon para celebrar la victoria de tu equipo: la DGT puede multarte con 80 euros",
-      "link": "https://www.abc.es/espana/andalucia/cuidado-tocar-claxon-celebrar-victoria-equipo-dgt-20260715123542-nts.html",
-      "desc": "Cada vez que un equipo gana un título o la Selección consigue una victoria importante, miles de aficionados salen a la calle para celebrarlo. En ese contexto es habitual ver coches circulando con banderas, gente asomada por las ventanillas y un ruido que nunca",
-      "date": "Wed, 15 Jul 2026 14:39:05 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "La Junta pide activar el Fondo de Solidaridad de la UE para el incendio de Almería",
-      "link": "https://www.abc.es/espana/andalucia/rueda-prensa-20260715133227-nts.html",
-      "desc": "Primer consejo de gobierno de la XIII legislatura en Andalucía. El nuevo equipo de Juanma Moreno se ha reunido en San Telmo ya con Vox sentado en esa mesa. Una cita rápida tras la cual Carolina España, que repite en su cargo de consejera de Economía y portavoz",
-      "date": "Wed, 15 Jul 2026 14:30:27 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Sanxenxo intentará batir el récord Guinness de la tortilla más grande del mundo el 5 de septiembre",
-      "link": "https://www.abc.es/espana/galicia/sanxenxo-intentara-batir-record-guinness-tortilla-grande-20260715143000-nt.html",
-      "desc": "Sanxenxo vivirá el próximo 5 de septiembre uno de los espectáculos gastronómicos más comentados del verano gallego. El Concello de la localidad pontevedresa ha llegado a un acuerdo de colaboración con la empresa familiar El Huevo de la Abuela para acoger la te",
-      "date": "Wed, 15 Jul 2026 14:30:00 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Sánchez no prevé acudir a la final del Mundial en Nueva York",
-      "link": "https://www.abc.es/espana/sanchez-acudira-final-mundial-nueva-york-20260715123355-nt.html",
-      "desc": "El presidente del Gobierno, Pedro Sánchez, no prevé acudir al partido de la final del Mundial en el que ya es seguro que participará España tras ganar este martes a Francia . En el Ejecutivo no tenían en agenda que Sánchez asistiera a ninguno de los encuentros",
-      "date": "Wed, 15 Jul 2026 14:23:12 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "El PP vuelve a tumbar, por ser «un perfil activista», la propuesta de vicevaledor del BNG",
-      "link": "https://www.abc.es/espana/galicia/pp-vuelve-tumbar-perfil-activista-propuesta-vicevaledor-20260715141155-nt.html",
-      "desc": "El PPdeG ha vuelto a tumbar la propuesta del BNG a la vicevaledoría do Pobo , el jurista y profesor de Derecho Administrativo de la USC Fernando de Abel Vilela, poniendo en tela de juicio su idoneidad para el puesto. Los populares consideran, como ya habían ar",
-      "date": "Wed, 15 Jul 2026 14:11:55 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Un informe sobre la red de saneamiento abre una nueva batalla política en Talavera por la gestión de las inundaciones de Entretorres",
-      "link": "https://www.abc.es/espana/castilla-la-mancha/toledo/talavera/informe-sobre-red-saneamiento-abre-nueva-batalla-20260715141104-nt.html",
-      "desc": "El conflicto político por las inundaciones registradas en la zona de Entretorres continúa abierto en Talavera de la Reina. El Grupo Municipal Socialista ha acusado al Gobierno local de PP y Vox de conocer el deterioro de la red de saneamiento y de los colector",
-      "date": "Wed, 15 Jul 2026 14:11:05 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Hasta 6.500 personas podrán seguir la final de España este domingo en la plaza de Toros de Toledo",
-      "link": "https://www.abc.es/espana/castilla-la-mancha/toledo/6500-personas-podran-seguir-final-espana-domingo-20260715140145-nt.html",
-      "desc": "Toledo ya tiene preparado el dispositivo especial con el que garantizar la seguridad durante la retransmisión de la final del Mundial de fútbol este domingo en la plaza de Toros. El Ayuntamiento prevé una importante afluencia de público para seguir el encuentr",
-      "date": "Wed, 15 Jul 2026 14:01:46 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "El IPC modera su subida en Galicia hasta el 3,3% en junio, pero la vivienda se dispara al 6,2%",
-      "link": "https://www.abc.es/espana/galicia/ipc-modera-subida-galicia-junio-vivienda-dispara-20260715140001-nt.html",
-      "desc": "La inflación interanual bajó dos décimas en junio en Galicia , hasta el 3,3%, frente al 3,5% de mayo , según los datos definitivos del Índice de Precios de Consumo (IPC) publicados este miércoles por el Instituto Nacional de Estadística (INE). Pese al descenso",
-      "date": "Wed, 15 Jul 2026 14:00:01 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Atendidas seis personas por inhalación de humo tras el incendio en un hostal de Pancorbo (Burgos)",
-      "link": "https://www.abc.es/espana/castilla-leon/atendidas-seis-personas-inhalacion-humo-tras-incendio-20260715135853-nt.html",
-      "desc": "Seis personas han tenido que ser atendidas este miércoles por inhalación de humo tras el incendio declarado en las cocina de un hostal ubicado en el área de servicio de Pancorbo (Burgos) , según informaron fuentes del 112 de Castilla y León. La sala de operaci",
-      "date": "Wed, 15 Jul 2026 13:58:53 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Las partes explorarán un posible acuerdo en el caso de la maestra investigada por maltrato en Córdoba",
-      "link": "https://www.abc.es/espana/andalucia/cordoba/partes-exploraran-posible-acuerdo-maestra-investigada-maltrato-20260715135809-nts.html",
-      "desc": "La investigación judicial abierta contra la profesora de un centro de Educación Infantil de Córdoba por los presuntos malos tratos a 17 alumnos de entre tres y cuatro años encara una nueva fase. Una vez practicadas las principales declaraciones acordadas por e",
-      "date": "Wed, 15 Jul 2026 13:58:40 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Castilla-La Mancha estudia actualizar dos veces al día el riesgo de incendios durante la cosecha",
-      "link": "https://www.abc.es/espana/castilla-la-mancha/castillala-mancha-estudia-actualizar-dos-veces-dia-20260715135339-nt.html",
-      "desc": "El Gobierno de Castilla-La Mancha estudiará la posibilidad de actualizar dos veces al día el Índice de Propagación Potencial (IPP) para ajustar con mayor precisión las restricciones a las labores de cosecha durante la época de riesgo extremo de incendios fores",
-      "date": "Wed, 15 Jul 2026 13:53:40 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "El CIS sitúa al PSOE de nuevo a ocho puntos por delante del PP pese a la condena de Ábalos",
-      "link": "https://www.lavanguardia.com/politica/20260715/11592878/cis-situa-psoe-nuevo-ocho-puntos-delante-pp-pese-condena-abalos.html",
-      "desc": "El ministro de Economía, Carlos Cuerpo, se mantiene como el mejor valorado, con 5,62 sobre 10, seguido de Bustinduy (Asuntos Sociales), con 5,36",
-      "date": "15 Jul 2026 12:41:39 +0200",
+      "title": "El golazo de un joven Porro cuando jugaba en el Peralada",
+      "link": "https://www.lavanguardia.com/deportes/futbol/20260715/11593014/golazo-joven-porro-jugaba-peralada-espana-francia-mundial-2026.html",
+      "desc": "El lateral, ahora una de las sensaciones de España en el Mundial, comenzó su carrera en Girona",
+      "date": "15 Jul 2026 14:41:01 +0200",
       "source": "La Vanguardia",
       "color": "#8e44ad",
       "feedId": "LaVanguardia",
       "caso": "other"
     },
     {
-      "title": "La presidenta del PSOE reconoce los “indicios preocupantes” del caso Leire Díez",
-      "link": "https://www.lavanguardia.com/politica/20260715/11592873/presidenta-psoe-cristina-narbona-reconoce-indicios-preocupantes-caso-leire.html",
-      "desc": "La socialista declara en calidad de testigo ante el juez Santiago Pedraz por la presuntas maniobras para desestabilizar procesos judiciales que afectasen al partido a al entorno de Pedro Sánchez",
-      "date": "15 Jul 2026 12:35:43 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
-      "caso": "lei"
-    },
-    {
-      "title": "Estos son los motivos por los que David Sánchez no tiene que devolver el dinero pese a su condena",
-      "link": "https://www.lavanguardia.com/politica/20260715/11592785/son-motivos-david-sanchez-devolver-dinero-pese-condena.html",
-      "desc": "Los únicos que podían haber pedido la restitución de los fondos eran la Diputación de Badajoz o el Ministerio Fiscal y no lo hicieron",
-      "date": "15 Jul 2026 11:48:12 +0200",
+      "title": "La pantalla gigante de Barcelona para seguir la final del Mundial estará en la calle Martí i Franquès de Les Corts",
+      "link": "https://www.lavanguardia.com/local/barcelona/20260715/11593001/pantalla-gigante-barcelona-seguir-final-mundial-estara-calle-marti-i-franques-les-corts.html",
+      "desc": "No se permitirá la entrada de bebidas alcohólicas ni de botellas de cristal",
+      "date": "15 Jul 2026 14:15:35 +0200",
       "source": "La Vanguardia",
       "color": "#8e44ad",
       "feedId": "LaVanguardia",
       "caso": "other"
     },
     {
-      "title": "El motor en España vive su peor año en beneficios, con una caída del 56%, con el mayor nivel de inversión de su historia",
-      "link": "https://www.lavanguardia.com/economia/20260715/11592414/motor-espana-vive-peor-ano-beneficios-caida-56-mayor-nivel-inversion-historia.html",
-      "desc": "La menor producción, la transformación de las fábricas al vehículo eléctrico y los mayores costes ponen las cuentas contra las cuerdas",
-      "date": "15 Jul 2026 11:45:00 +0200",
+      "title": "La prensa nacional se rinde a la exhibición de España ante Francia",
+      "link": "https://www.lavanguardia.com/deportes/20260715/11592820/prensa-nacional-rinde-exhibicion-espana-francia.html",
+      "desc": "La selección española es la protagonista de las portadas de los principales diarios deportivos y generalistas",
+      "date": "15 Jul 2026 13:29:05 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
+    {
+      "title": "Sánchez celebra el fin de la verja de Gibraltar: “Hoy cae el último muro de la Europa continental”",
+      "link": "https://www.lavanguardia.com/politica/20260715/11592914/sanchez-celebra-desaparicion-verja-gibraltar-hoy-cae-ultimo-muro-europa-continental.html",
+      "desc": "El presidente del Gobierno destaca que “la convergencia fiscal pondrá fin a desequilibrios históricos” en la zona, tras el histórico acuerdo sellado entre la Unión Europea y el Reino Unido que hoy entra en vigor",
+      "date": "15 Jul 2026 13:10:46 +0200",
       "source": "La Vanguardia",
       "color": "#8e44ad",
       "feedId": "LaVanguardia",
