@@ -1,7 +1,77 @@
 {
-  "updated": "2026-07-15T19:03:31Z",
+  "updated": "2026-07-15T20:55:12Z",
   "count": 24,
   "items": [
+    {
+      "title": "Restablecida la circulación de AVE en Córdoba tras un robo de cable",
+      "link": "https://www.abc.es/espana/andalucia/cordoba/restablecida-circulacion-ave-cordoba-tras-robo-cable-20260715222352-nts.html",
+      "desc": "La incidencia que en la tarde de este miércoles provocaba retrasos en la línea de Alta Velocidad entre Madrid y Andalucía , por un suceso en la provincia de Córdoba, ha quedado solucionada. Así lo ha confirmado Adif a través de su cuenta oficial de 'X', si bie",
+      "date": "Wed, 15 Jul 2026 22:23:53 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Don Omar actuará en Galicia en 2027: fecha y gira europea",
+      "link": "https://www.abc.es/espana/galicia/don-omar-actuara-galicia-2027-fecha-gira-20260715220000-nt.html",
+      "desc": "El cantante puertorriqueño Don Omar ha confirmado una actuación en Galicia el próximo 18 de julio de 2027, dentro del tramo europeo de su gira 'The Last King World Tour'. La ciudad y el recinto concretos todavía no han trascendido. La cita gallega forma parte ",
+      "date": "Wed, 15 Jul 2026 22:00:00 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Entregados a sus familias los cinco primeros cuerpos de víctimas en el incendio de Los Gallardos",
+      "link": "https://www.abc.es/espana/andalucia/almeria/entregados-familias-cinco-primeros-cuerpos-victimas-incendio-20260715215515-nts.html",
+      "desc": "Ha comenzado el doloroso proceso de duelo y repatriación tras la tragedia vivida en el mortal incendio de Los Gallardos, en Almería. En las últimas horas, los primeros cuerpos de cinco de las trece víctimas mortales del devastador incendio han sido finalmente ",
+      "date": "Wed, 15 Jul 2026 21:55:15 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Cuatro chiringuitos catalanes para comerse el Mediterráneo este verano",
+      "link": "https://www.abc.es/espana/cataluna/cuatro-chiringuitos-catalanes-comerse-mediterraneo-verano-20260715214719-nt.html",
+      "desc": "El chiringuito ha dejado de ser únicamente el refugio informal donde aliviar una jornada de playa con unas sardinas, una cerveza fría o una paella compartida de dudosa calidad. Sin renunciar a la arena, la brisa y las sobremesas sin reloj, algunos establecimie",
+      "date": "Wed, 15 Jul 2026 21:47:19 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Un Córdoba CF de más a menos firma tablas en su primer test de pretemporada ante el Orlando Pirates (1-1)",
+      "link": "https://www.abc.es/espana/andalucia/cordoba/cordoba-cf/cordoba-firma-tablas-primer-test-pretemporada-ante-20260715212137-nts.html",
+      "desc": "El Córdoba CF completó un buen primer rodaje de pretemporada ante el Orlando Pirates (1-1). Los pupilos de Iván Ania mostraron una mejor versión durante la primera mitad que en una segunda algo más trabada, aunque los signos de competitividad se mantuvieron pr",
+      "date": "Wed, 15 Jul 2026 21:26:07 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "El PP lanza a dos diputadas y un senador a conquistar Ávila, Zamora y Soria",
+      "link": "https://www.abc.es/espana/castilla-leon/pp-lanza-dos-diputadas-senador-conquistar-avila-20260715211832-nt.html",
+      "desc": "Finalmente se han despejado las tres incógnitas y el PP ha elegido ya a quienes serán sus candidatos a las alcaldías de Ávila, Soria y Zamora. Los populares han decidido tirar del Congreso y del Senado para el cartel electoral con el que concurrirán a las muni",
+      "date": "Wed, 15 Jul 2026 21:18:32 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Heces en la piscina del Parque Escolar de Toledo: cierran el vaso grande y dejan a los usuarios sin baño hasta mañana",
+      "link": "https://www.abc.es/espana/castilla-la-mancha/toledo/heces-piscina-parque-escolar-toledo-cierran-vaso-20260715211658-nt.html",
+      "desc": "Lo que parecía una tarde más de verano terminó con los bañistas abandonando el agua antes de tiempo. Eran alrededor de las 19:20 horas de este miércoles cuando el personal de la piscina del Parque Escolar detectó la presencia de heces en el vaso grande , una i",
+      "date": "Wed, 15 Jul 2026 21:16:59 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
     {
       "title": "La Junta superará en dos años los 100 millones de gasto en cuadrillas contra el fuego",
       "link": "https://www.abc.es/espana/castilla-leon/junta-superara-100-millones-gasto-cuadrillas-2028-20260715201255-nt.html",
@@ -127,76 +197,6 @@
       "link": "https://www.abc.es/espana/castilla-la-mancha/laguna-salada-petrola-albacete-cuenta-filtro-verde-20260715185239-nt.html",
       "desc": "El Gobierno de Castilla-La Mancha continúa impulsando la restauración de los humedales en la región puesto que son «ecosistemas esenciales para la biodiversidad, la gestión sostenible del agua y la lucha contra el cambio climático». Así lo ha señalado la conse",
       "date": "Wed, 15 Jul 2026 18:52:40 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "La Audiencia de Zaragoza pide investigar a un reincidente por violencia de género que se cambió de sexo",
-      "link": "https://www.abc.es/espana/aragon/audiencia-zaragoza-pide-investigar-cambio-sexo-persona-20260715182517-nt.html",
-      "desc": "La Audiencia Provincial de Zaragoza ha pedido a un magistrado de Violencia sobre la Mujer del Tribunal de Instancia de Zaragoza que compruebe documentalmente el cambio registral, relativo al sexo, de una persona denunciada por su esposa por delitos de violenci",
-      "date": "Wed, 15 Jul 2026 18:51:58 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Sánchez cierra 407 millones extra para el País Vasco en ayudas a la dependencia al margen de lo aprobado en el Congreso",
-      "link": "https://www.abc.es/espana/pais-vasco/sanchez-cierra-407-millones-pais-vasco-ayudas-20260715185013-nt.html",
-      "desc": "El Gobierno de España ha alcanzado un acuerdo para aumentar los recursos que el País Vasco destina a las ayudas a la dependencia a través de las Diputaciones Forales. El pacto supone un notable incremento, con 407 millones de euros en transferencias a la comun",
-      "date": "Wed, 15 Jul 2026 18:50:13 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Jesús Aguirre se despide del Parlamento andaluz pidiendo perdón a los grupos políticos por sus «equivocaciones»",
-      "link": "https://www.abc.es/espana/andalucia/jesus-aguirre-despide-parlamento-andaluz-pidiendo-perdon-20260715184918-nts.html",
-      "desc": "Jesús Aguirre ha presidido este miércoles la que será su última reunión de la Junta de Portavoces como presidente del Parlamento de Andalucía. En un ambiente marcado por los relevos institucionales tras el pacto de gobierno entre el PP y Vox, el dirigente ha a",
-      "date": "Wed, 15 Jul 2026 18:49:28 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Un pleno exprés en el Parlamento de Andalucía resolverá la mesa, los senadores y las comisiones antes de irse de vacaciones",
-      "link": "https://www.abc.es/espana/andalucia/mesa-senadores-comisiones-explicaciones-pleno-manana-20260715181533-nts.html",
-      "desc": "No será un pleno ordinario sino un mini pleno o pleno express en el que se abordarán el relevo de la presidencia del Parlamento de Andalucía, que asumirá Ana Mestre en sustitución de Jesús Aguirre, y otros asuntos como la elección de los senadores o las explic",
-      "date": "Wed, 15 Jul 2026 18:44:37 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Ministerio, Junta y Diputación de Valladolid 'atascan' la apertura de 31 nuevos kilómetros de la Autovía del Duero",
-      "link": "https://www.abc.es/espana/castilla-leon/ministerio-junta-diputacion-atascan-apertura-nuevos-kilometros-20260715184125-nt.html",
-      "desc": "Han sido días de tiras y aflojas entre la Junta, la Diputación de Valladolid y el Ministerio de Transportes para poder llevar a cabo la apertura de 31 nuevos kilómetros de la Autovía del Duero (A-11) entre Tudela y Valbuena de Duero, una puesta en servicio a l",
-      "date": "Wed, 15 Jul 2026 18:42:25 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "El músico vasco que sobrevivió a la tragedia de Biescas y la evoca 30 años después: «Vi cosas que...»",
-      "link": "https://www.abc.es/espana/aragon/musico-vasco-sobrevivio-tragedia-biescas-evoca-anos-20260715184204-nt.html",
-      "desc": "«Mi familia y yo estábamos allí». Ander Zubillaga , joven nacido en Tolosa (Guipúzcoa) vuelve a Biesca (Huesca) tres décadas después de la tragedia que los sacudió para siempre. El joven músico tenía solo 6 años. Decide regresar y presentar su nueva composició",
-      "date": "Wed, 15 Jul 2026 18:42:04 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Liberada una mujer en Málaga sometida a violencia continuada por parte de su pareja",
-      "link": "https://www.abc.es/espana/andalucia/malaga/liberada-mujer-malaga-sometida-continua-violencia-parte-20260715134820-nts.html",
-      "desc": "La Policía Nacional ha liberado en Málaga a una mujer sometida durante más de dos años a violencia continuada. La investigación inició cuando la víctima susurró al personal sanitario en una consulta que su pareja la agredía física y sexualmente de forma contin",
-      "date": "Wed, 15 Jul 2026 18:41:56 +0200",
       "source": "ABC",
       "color": "#c0392b",
       "feedId": "ABC",
