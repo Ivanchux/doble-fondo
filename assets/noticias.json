@@ -1,7 +1,127 @@
 {
-  "updated": "2026-07-15T17:12:44Z",
+  "updated": "2026-07-15T19:03:31Z",
   "count": 24,
   "items": [
+    {
+      "title": "La Junta superará en dos años los 100 millones de gasto en cuadrillas contra el fuego",
+      "link": "https://www.abc.es/espana/castilla-leon/junta-superara-100-millones-gasto-cuadrillas-2028-20260715201255-nt.html",
+      "desc": "La Junta de Castilla y León incorporará el próximo ejercicio siete nuevos helicópteros con su personal correspondiente y en 2028 tiene previsto superar los 100 millones de euros de gasto en cuadrillas terrestres por el aumento progresivo de su tiempo de trabaj",
+      "date": "Wed, 15 Jul 2026 20:12:55 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "La Universidad de Córdoba crea una nueva cátedra para impulsar la industria de la madera y el mueble",
+      "link": "https://www.abc.es/espana/andalucia/cordoba/universidad-cordoba-crea-nueva-catedra-impulsar-industria-20260715200526-nts.html",
+      "desc": "El sector de la madera y el mueble en la provincia cordobesa contará a partir de ahora con una nueva herramienta para potenciar esta actividad económica y mejorar su competitividad. La Universidad de Córdoba ha creado la Cátedra de la Industria de la Madera y ",
+      "date": "Wed, 15 Jul 2026 20:05:26 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Defensa lanza una oferta de empleo para cubrir 330 plazas en la Base Logística de Córdoba",
+      "link": "https://www.abc.es/espana/andalucia/cordoba/defensa-lanza-oferta-empleo-cubrir-330-plazas-20260715200522-nts.html",
+      "desc": "El Ayuntamiento de Córdoba, a través del Instituto Municipal de Desarrollo Económico y Empleo de Córdoba (Imdeec), la Delegación Territorial de Desarrollo Educativo y Formación Profesional de la Junta de Andalucía, y representantes del Ejército de Tierra vincu",
+      "date": "Wed, 15 Jul 2026 20:05:22 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "La Diputación de Córdoba libera 300.000 euros para que los municipios luchen contra el virus del Nilo",
+      "link": "https://www.abc.es/espana/andalucia/cordoba/diputacion-cordoba-libera-300000-euros-municipios-luchen-20260715200519-nts.html",
+      "desc": "El Pleno de la Diputación de Córdoba ha aprobado en la sesión ordinaria del mes de julio, celebrada este miércoles, la resolución provisional del programa de ayudas para que los municipios de menos de 50.000 habitantes puedan afrontar los gastos derivados de i",
+      "date": "Wed, 15 Jul 2026 20:05:19 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "El nuevo centro de mayores de Buenavista en Toledo encara su recta final con la adquisición del mobiliario",
+      "link": "https://www.abc.es/espana/castilla-la-mancha/toledo/nuevo-centro-mayores-buenavista-toledo-encara-recta-20260715194402-nt.html",
+      "desc": "El compromiso del alcalde Carlos Velázquez con el barrio de Buenavista y el nuevo centro de mayores avanza un paso más. La Junta de Gobierno Local ha autorizado el inicio del expediente para contratar el mobiliario y el equipamiento de las futuras instalacione",
+      "date": "Wed, 15 Jul 2026 19:44:03 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "El Gobierno obligará a registrar el riesgo de las casas en zonas inundables antes de su venta",
+      "link": "https://www.abc.es/espana/comunidad-valenciana/gobierno-obligara-advertir-sobre-riesgo-casas-zonas-20260715182750-nt.html",
+      "desc": "El nuevo real decreto del Gobierno de España sobre zonas inundables obligará a incluir información en el Registro de la Propiedad sobre si una vivienda -tanto si es de nueva construcción como si no- está en un área de riesgo antes de su compraventa. El texto, ",
+      "date": "Wed, 15 Jul 2026 19:38:38 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Vox estudiará denunciar la 'ley de nietos' en sus Gobiernos por tratar de «engordar» el censo electoral",
+      "link": "https://www.abc.es/espana/vox-estudiara-ley-nietos-gobiernos-tratar-engordar-20260715193759-nt.html",
+      "desc": "Los servicios jurídicos de los Gobiernos autonómicos en los que Vox forma parte estudiarán una posible invasión de competencias de la Ley de Memoria Democrática, conocida como 'ley de nietos' , para analizar «en profundidad» las consecuencias de la nacionaliza",
+      "date": "Wed, 15 Jul 2026 19:38:00 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Toledo invertirá cerca de 275.000 euros en el asfaltado y las aceras de calles en Santa Teresa y Santa Bárbara",
+      "link": "https://www.abc.es/espana/castilla-la-mancha/toledo/toledo-invertira-cerca-275000-euros-asfaltado-aceras-20260715192924-nt.html",
+      "desc": "La Junta de Gobierno Local de Toledo ha dado un nuevo impulso a varias actuaciones de mejora urbana en los barrios de Santa Teresa y Santa Bárbara y al funcionamiento de los remontes mecánicos de la ciudad. El portavoz municipal, Juan José Alcalde, ha informad",
+      "date": "Wed, 15 Jul 2026 19:29:25 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Mueren una mujer y sus dos hijos en la presa de Roncal (Navarra)",
+      "link": "https://www.abc.es/espana/navarra/mueren-mujer-dos-hijos-presa-roncal-navarra-20260715192134-nt.html",
+      "desc": "Una mujer y sus dos hijos menores de edad han fallecido este miércoles en la presa de la localidad navarra de Roncal, en el río Esca, según ha detallado la Guardia Civil en un comunicado. La causa de la muerte es presuntamente un ahogamiento, extremo que deber",
+      "date": "Wed, 15 Jul 2026 19:21:35 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Mora presenta a la Junta el proyecto de 3.000 millones para crear un gran campus de inteligencia artificial",
+      "link": "https://www.abc.es/espana/castilla-la-mancha/toledo/pueblos/mora-presenta-junta-proyecto-3000-millones-crear-20260715191254-nt.html",
+      "desc": "Mora aspira a convertirse en uno de los principales polos tecnológicos de Castilla-La Mancha con un proyecto de inteligencia artificial valorado en 3.000 millones de euros. El Ayuntamiento y las empresas promotoras del proyecto DC Malpica IA 300 MW han present",
+      "date": "Wed, 15 Jul 2026 19:12:55 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Pollán pedirá un informe a los servicios jurídicos de la Junta para explorar «todas» las vías legales contra la 'ley de nietos'",
+      "link": "https://www.abc.es/espana/castilla-leon/pollan-pedira-informe-servicios-juridicos-junta-explorar-20260715191007-nt.html",
+      "desc": "El vicepresidente primero y consejero de Desregulación, Familia y Ayudas Sociales, Carlos Pollán , ha adelantado este miércoles que solicitará un informe a los servicios jurídicos de la Junta para explorar «todas» las vías legales frente a la denominada 'ley d",
+      "date": "Wed, 15 Jul 2026 19:10:07 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Un incendio en Hinojosa de Calatrava obliga a la población a confinarse en sus casas tras recibir el mensaje Es-Alert",
+      "link": "https://www.abc.es/espana/castilla-la-mancha/fuego-hinojosa-afecta-600-hectareas-poblacion-debe-20260715190447-nt.html",
+      "desc": "El incendio que se ha declarado este miércoles en el término municipal de Hinojosa de Calatrava (Ciudad Real) afecta ya a unas 600 hectáreas , según las primeras estimaciones del Infocam. Se mantiene por tanto en situación operativa de Nivel 2 por el confinami",
+      "date": "Wed, 15 Jul 2026 19:04:47 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
     {
       "title": "La Laguna Salada de Pétrola (Albacete) cuenta ya con un filtro verde para garantizar la calidad de sus aguas",
       "link": "https://www.abc.es/espana/castilla-la-mancha/laguna-salada-petrola-albacete-cuenta-filtro-verde-20260715185239-nt.html",
@@ -23,7 +143,7 @@
       "caso": "other"
     },
     {
-      "title": "Sánchez cierra 407 millones para el País Vasco en ayudas a la dependencia al margen de lo aprobado en el Congreso",
+      "title": "Sánchez cierra 407 millones extra para el País Vasco en ayudas a la dependencia al margen de lo aprobado en el Congreso",
       "link": "https://www.abc.es/espana/pais-vasco/sanchez-cierra-407-millones-pais-vasco-ayudas-20260715185013-nt.html",
       "desc": "El Gobierno de España ha alcanzado un acuerdo para aumentar los recursos que el País Vasco destina a las ayudas a la dependencia a través de las Diputaciones Forales. El pacto supone un notable incremento, con 407 millones de euros en transferencias a la comun",
       "date": "Wed, 15 Jul 2026 18:50:13 +0200",
@@ -73,7 +193,7 @@
       "caso": "other"
     },
     {
-      "title": "Liberada una mujer en Málaga sometida a continua violencia por parte de su pareja",
+      "title": "Liberada una mujer en Málaga sometida a violencia continuada por parte de su pareja",
       "link": "https://www.abc.es/espana/andalucia/malaga/liberada-mujer-malaga-sometida-continua-violencia-parte-20260715134820-nts.html",
       "desc": "La Policía Nacional ha liberado en Málaga a una mujer sometida durante más de dos años a violencia continuada. La investigación inició cuando la víctima susurró al personal sanitario en una consulta que su pareja la agredía física y sexualmente de forma contin",
       "date": "Wed, 15 Jul 2026 18:41:56 +0200",
@@ -83,160 +203,40 @@
       "caso": "other"
     },
     {
-      "title": "Las fiestas de Facundo en su ático, en el punto de mira de la investigación de su asesinato",
-      "link": "https://www.abc.es/espana/madrid/fiestas-facundo-punto-mira-investigacion-asesinato-20260715183312-nt.html",
-      "desc": "La Policía Nacional investiga los últimos contactos de Facundo R., el hombre asesinado la mañana de este martes en su piso de Las Tablas (Fuencarral-El Pardo) porque cree que fue un varón que estuvo en su casa hasta casi el momento del descubrimiento del cadáv",
-      "date": "Wed, 15 Jul 2026 18:33:12 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Justicia para Francis: culpable de homicidio el acusado de matarlo y enterrarlo en la cocina",
-      "link": "https://www.abc.es/espana/madrid/justicia-francis-anos-carcel-amigo-mato-golpes-20260715183104-nt.html",
-      "desc": "El telón judicial casi se ha cerrado este miércoles para uno de los crímenes que más ha conmocionado al distrito de Hortaleza en los últimos años. Un jurado popular ha declarado culpable de homicidio a Israel C. R., el hombre que acabó con la vida de Francisco",
-      "date": "Wed, 15 Jul 2026 18:31:04 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "El cartel de Alfredo Copeiro anunciará la Feria y Fiestas de agosto de Toledo 2026",
-      "link": "https://www.abc.es/espana/castilla-la-mancha/toledo/cartel-alfredo-copeiro-anunciara-feria-fiestas-agosto-20260715183053-nt.html",
-      "desc": "El Ayuntamiento de Toledo ha elegido el cartel anunciador de la Feria y Fiestas de agosto 2026. La obra realizada por Alfredo Copeiro del Villar ha sido la ganadora del concurso convocado por el Consistorio tras la deliberación del jurado, reunido este miércol",
-      "date": "Wed, 15 Jul 2026 18:30:53 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Vox pregunta a la Comisión Europa si conoce el «riesgo» a la «libertad» de la 'ley de nietos' de Sánchez",
-      "link": "https://www.abc.es/espana/vox-cuestiona-comision-europa-conoce-riesgo-libertad-20260716181710-ntp.html",
-      "desc": "La delegación de Vox en Bruselas ha presentando una batería de preguntas ante la Comisión Europea con el objetivo de conocer la posición del órgano ejecutivo de la Unión Europea sobre la Ley de Memoria Democrática —conocida como 'ley de nietos' —. Los de Santi",
-      "date": "Wed, 15 Jul 2026 18:27:33 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Ayuso pide a la UE que escuche a Feijóo y actúe frente a la «deriva autoritaria» de Sánchez",
-      "link": "https://www.abc.es/espana/madrid/ayuso-pide-ue-escuche-feijoo-actue-frente-20260715181634-nt.html",
-      "desc": "Isabel Díaz Ayuso ha aprovechado un encuentro organizado por el Partido Popular Europeo en Madrid con líderes internacionales para alertar a todos los dirigentes congregados de la «deriva autoritaria» que sufre España y del «efecto contagio» que puede tener en",
-      "date": "Wed, 15 Jul 2026 18:25:06 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "La Junta acomete este verano 650 mejoras en centros educativos de la región",
-      "link": "https://www.abc.es/espana/castilla-la-mancha/junta-acomete-verano-650-mejoras-centros-educativos-20260715182143-nt.html",
-      "desc": "El Gobierno de Castilla-La Mancha está desarrollando durante este verano unas 650 obras de reforma, mejora y mantenimiento en centros educativos de toda la región, con una inversión que ronda los 12 millones de euros, para que las instalaciones estén preparada",
-      "date": "Wed, 15 Jul 2026 18:21:44 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Los Reyes y sus hijas estarán en Nueva York en la final del mundial de fútbol",
-      "link": "https://www.abc.es/espana/reyes-hijas-nueva-york-final-mundial-futbol-20260715180948-nt.html",
-      "desc": "Los Reyes y sus hijas viajaran el domingo a Nueva York para apoyar a España en la final del Mundial de Fútbol. Después de que Felipe VI dijera esta mañana en el yacimiento de Empúries, en Gerona, que estaban decidiendo quién iría al partido, el Palacio de la Z",
-      "date": "Wed, 15 Jul 2026 18:09:48 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "El PP denuncia que uno de cada tres castellanomanchegos está en riesgo de pobreza",
-      "link": "https://www.abc.es/espana/castilla-la-mancha/pp-denuncia-tres-castellanomanchegos-riesgo-pobreza-20260715180645-nt.html",
-      "desc": "El vicesecretario de comunicación del PP de Castilla-La Mancha, Santiago Serrano, ha lamentado el «fracaso» de una década de políticas socialistas de Emiliano García-Page, al señalar que uno de cada tres castellanomanchegos está en riesgo de pobreza o exclusió",
-      "date": "Wed, 15 Jul 2026 18:06:46 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Manuel Gavira tendrá su despacho en la Casa Rosa, con pavos reales en sus jardines",
-      "link": "https://www.abc.es/espana/andalucia/manuel-gavira-despacho-casa-rosa-pavos-reales-20260715180326-nts.html",
-      "desc": "La Casa Rosa. Esa será la sede de la vicepresidencia segunda de la Junta y allí tendrá su despacho Manuel Gavira, el líder de Vox en Andalucía que se ha convertido en el primer miembro de esta formación en entrar en el ejecutivo andaluz. Fuentes del ejecutivo ",
-      "date": "Wed, 15 Jul 2026 18:04:44 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "La Xunta activa 700 medidas para que el gallego «arraigue», y se abre a permitirlo en cualquier asignatura",
-      "link": "https://www.abc.es/espana/galicia/xunta-activa-700-nuevas-medidas-gallego-arraigue-20260715142144-nt.html",
-      "desc": "Reforzar la presencia del gallego de una manera transversal y en todos los sectores sociales, desde la administración a la sanidad, pasando por la educación, un ámbito sobre el que ahora recaen todas las miradas. El nuevo Plan Xeral de Normalización da Lingua ",
-      "date": "Wed, 15 Jul 2026 17:58:35 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Un nuevo fuego en Sant Quirze Safaja obliga a evacuar una casa de colonias y a confinar un centro de menores",
-      "link": "https://www.abc.es/espana/cataluna/nuevo-fuego-sant-quirze-safaja-obliga-evacuar-20260715175557-nt.html",
-      "desc": "Los Bombers de la Generalitat trabajan la tarde de este miércoles para apagar otro incendio en Sant Quirze Safaja (Barcelona) con 18 dotaciones terrestres y tres aéreas. El fuego ha 'saltado' a la carretera que va de Centelles a Sant Feliu de Codines (Barcelon",
-      "date": "Wed, 15 Jul 2026 17:55:57 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Córdoba CF - Orlando Pirates en directo: resumen, goles y minuto a minuto del primer partido amistoso del conjunto blanquiverde",
-      "link": "https://www.abc.es/espana/andalucia/cordoba/cordoba-cf/cordoba-orlando-pirates-directo-resumen-goles-minuto-20260715103222-nts.html",
-      "desc": "E l Córdoba CF 2026-2027 comenzará a rodar hoy. Lo hará lejos de Córdoba, más concretamente en Marbella, lugar elegido por los pupilos de Iván Ania para abrir boca con el primer test de pretemporada ante el Orlando Pirates , equipo que llega en un gran momento",
-      "date": "Wed, 15 Jul 2026 17:55:28 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "¿Cuál es el horizonte judicial de Puigdemont y la amnistía tras el fallo de la justicia europea?",
-      "link": "https://www.lavanguardia.com/politica/20260715/11592964/cual-horizonte-judicial-puigdemont-amnistia-sentencia-justicia-europea.html",
-      "desc": "El fallo del Tribunal de Justicia de la Unión Europea (TJUE) de Luxemburgo no incluirá una ejecución y es meramente interpretativo, de modo que son los magistrados españoles los encargados de aplicar la resolución",
-      "date": "15 Jul 2026 17:12:15 +0200",
+      "title": "El CIS sitúa al PSOE de nuevo a ocho puntos por delante del PP pese a la condena de Ábalos",
+      "link": "https://www.lavanguardia.com/politica/20260715/11592878/cis-situa-psoe-nuevo-ocho-puntos-delante-pp-pese-condena-abalos.html",
+      "desc": "El ministro de Economía, Carlos Cuerpo, se mantiene como el mejor valorado, con 5,62 sobre 10, seguido de Bustinduy (Asuntos Sociales), con 5,36",
+      "date": "15 Jul 2026 12:41:39 +0200",
       "source": "La Vanguardia",
       "color": "#8e44ad",
       "feedId": "LaVanguardia",
       "caso": "other"
     },
     {
-      "title": "El juez defiende ampliar nuevas líneas contra Zapatero y niega que se esté fiscalizando su vida",
-      "link": "https://www.lavanguardia.com/politica/20260715/11593110/juez-defiende-amplien-nuevas-lineas-zapatero-niega-este-fiscalizando-vida.html",
-      "desc": "El instructor José Luis Calama rechaza el intento del expresidente del Gobierno de frenar una nueva investigación por otro presunto tráfico de influencias vinculado a favorecer a una empresa peruana",
-      "date": "15 Jul 2026 16:50:14 +0200",
+      "title": "La presidenta del PSOE reconoce los “indicios preocupantes” del caso Leire Díez",
+      "link": "https://www.lavanguardia.com/politica/20260715/11592873/presidenta-psoe-cristina-narbona-reconoce-indicios-preocupantes-caso-leire.html",
+      "desc": "La socialista declara en calidad de testigo ante el juez Santiago Pedraz por la presuntas maniobras para desestabilizar procesos judiciales que afectasen al partido a al entorno de Pedro Sánchez",
+      "date": "15 Jul 2026 12:35:43 +0200",
       "source": "La Vanguardia",
       "color": "#8e44ad",
       "feedId": "LaVanguardia",
-      "caso": "zap"
+      "caso": "lei"
     },
     {
-      "title": "El golazo de un joven Porro cuando jugaba en el Peralada",
-      "link": "https://www.lavanguardia.com/deportes/futbol/20260715/11593014/golazo-joven-porro-jugaba-peralada-espana-francia-mundial-2026.html",
-      "desc": "El lateral, ahora una de las sensaciones de España en el Mundial, comenzó su carrera en Girona",
-      "date": "15 Jul 2026 14:41:01 +0200",
+      "title": "Estos son los motivos por los que David Sánchez no tiene que devolver el dinero pese a su condena",
+      "link": "https://www.lavanguardia.com/politica/20260715/11592785/son-motivos-david-sanchez-devolver-dinero-pese-condena.html",
+      "desc": "Los únicos que podían haber pedido la restitución de los fondos eran la Diputación de Badajoz o el Ministerio Fiscal y no lo hicieron",
+      "date": "15 Jul 2026 11:48:12 +0200",
       "source": "La Vanguardia",
       "color": "#8e44ad",
       "feedId": "LaVanguardia",
       "caso": "other"
     },
     {
-      "title": "La pantalla gigante de Barcelona para seguir la final del Mundial estará en la calle Martí i Franquès de Les Corts",
-      "link": "https://www.lavanguardia.com/local/barcelona/20260715/11593001/pantalla-gigante-barcelona-seguir-final-mundial-estara-calle-marti-i-franques-les-corts.html",
-      "desc": "No se permitirá la entrada de bebidas alcohólicas ni de botellas de cristal",
-      "date": "15 Jul 2026 14:15:35 +0200",
+      "title": "El motor en España vive su peor año en beneficios, con una caída del 56%, con el mayor nivel de inversión de su historia",
+      "link": "https://www.lavanguardia.com/economia/20260715/11592414/motor-espana-vive-peor-ano-beneficios-caida-56-mayor-nivel-inversion-historia.html",
+      "desc": "La menor producción, la transformación de las fábricas al vehículo eléctrico y los mayores costes ponen las cuentas contra las cuerdas",
+      "date": "15 Jul 2026 11:45:00 +0200",
       "source": "La Vanguardia",
       "color": "#8e44ad",
       "feedId": "LaVanguardia",
