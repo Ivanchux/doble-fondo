@@ -1,7 +1,187 @@
 {
-  "updated": "2026-07-15T04:52:39Z",
+  "updated": "2026-07-15T07:59:13Z",
   "count": 24,
   "items": [
+    {
+      "title": "Rescatadas 56 personas subsaharianas, entre ellas un menor, en aguas de Lanzarote",
+      "link": "https://www.abc.es/espana/canarias/rescatadas-personas-subsaharianas-menor-aguas-lanzarote-20260715094942-nt.html",
+      "desc": "La salvamar Acrux de Salvamento Marítimo ha rescatado un total de 56 personas , entre ellas un menor de edad, cuando navegaban en una neumática en aguas cercanas a la isla de Lanzarote. Salvamento localizó la embarcación a 153 kilómetros (83 millas) de Arrecif",
+      "date": "Wed, 15 Jul 2026 09:50:22 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Detenido a un varón que no había regresado a la prisión de León tras un permiso",
+      "link": "https://www.abc.es/espana/castilla-leon/detenido-varon-regresado-prision-leon-tras-permiso-20260715094513-nt.html",
+      "desc": "La Policía Local de León ha detenido en la madrugada del día de este martes a un hombre que no había regresado al Centro Penitenciario de León , donde cumple condena, tras disfrutar de un permiso. Agentes policiales interceptaron al varón en la avenida Ingenie",
+      "date": "Wed, 15 Jul 2026 09:45:13 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Dos detenidos por robar un transformador eléctrico en un polígono industrial de Jadraque",
+      "link": "https://www.abc.es/espana/castilla-la-mancha/dos-detenidos-robar-transformador-electrico-poligono-industrial-20260715094456-nt.html",
+      "desc": "La Guardia Civil de la Comandancia de Guadalajara ha detenido a dos hombres como presuntos autores del robo de un transformador eléctrico cometido en el polígono industrial de Jadraque . El material sustraído, valorado en aproximadamente 20.000 euros , dejó si",
+      "date": "Wed, 15 Jul 2026 09:44:56 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Madrid reunirá a 15.000 aficionados en el Movistar Arena para ver la final del Mundial",
+      "link": "https://www.abc.es/espana/madrid/madrid-reunira-15000-aficionados-movistar-arena-ver-20260715094044-nt.html",
+      "desc": "La Comunidad de Madrid convertirá el Movistar Arena en el gran punto de encuentro de la afición para seguir la final de la Copa del Mundo de fútbol que disputará la selección española comandada por Luis de la Fuente ante Argentina o Inglaterra, tras imponerse ",
+      "date": "Wed, 15 Jul 2026 09:40:44 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Dónde ir de fiesta este miércoles 15 de julio en la provincia de Toledo",
+      "link": "https://www.abc.es/espana/castilla-la-mancha/toledo/fiesta-miercoles-julio-provincia-toledo-20260715062000-nt.html",
+      "desc": "Yuncler -A las 13 horas: vermú musical con la actuación del dúo Secuencia. -A la 1,00: fuegos artificiales. -A las 1,30: verbena con la orquesta 'Maxims' y a continuación discoteca móvil. Las Ventas de Retamosa -A las 21,00 horas: ofrenda floral a la Virgen de",
+      "date": "Wed, 15 Jul 2026 09:35:39 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Dramático rescate de una niña de ocho años tras fracturarse la cadera en un parque de trampolines de Córdoba",
+      "link": "https://www.abc.es/espana/andalucia/cordoba/dramatico-rescate-nina-ocho-anos-tras-fracturarse-20260715092907-nts.html",
+      "desc": "Una tarde de ocio terminó convirtiéndose en una compleja operación de rescate en Córdoba. Una niña de ocho años tuvo que ser evacuada este martes por los Bomberos tras sufrir una fractura de cadera mientras jugaba en un parque de trampolines situado en la aven",
+      "date": "Wed, 15 Jul 2026 09:29:07 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "La Xunta invertirá 6 millones para frenar las inundaciones en Gondomar",
+      "link": "https://www.abc.es/espana/galicia/xunta-invertira-millones-frenar-inundaciones-gondomar-20260715092555-nt.html",
+      "desc": "Gondomar, en la provincia de Pontevedra, tendrá por fin una solución frente a las inundaciones que sufre cada temporada de lluvias. La Xunta de Galicia invertirá cerca de 6 millones de euros en un proyecto que busca poner fin a los desbordamientos de los ríos ",
+      "date": "Wed, 15 Jul 2026 09:25:56 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Un hombre de 47 años se persona en el centro de salud de Illescas con un corte en el costado",
+      "link": "https://www.abc.es/espana/castilla-la-mancha/toledo/pueblos/hombre-anos-persona-centro-salud-illescas-corte-20260715092238-nt.html",
+      "desc": "Un hombre de 47 años de edad se ha personado este miércoles en el centro de salud de la localidad toledana de Illescas tras sufrir una herida de arma blanca en el costado. El varón , según han informado fuentes del Servicio de Emergencias 112, se personó por s",
+      "date": "Wed, 15 Jul 2026 09:22:38 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "IA, drones y una app contra el fuego: el modelo gallego que Andalucía quiere imitar",
+      "link": "https://www.abc.es/espana/galicia/ia-drones-app-fuego-modelo-gallego-andalucia-20260715090217-nt.html",
+      "desc": "Santiago de Compostela reunió este martes a responsables de dos comunidades autónomas para compartir estrategias frente a los incendios forestales. La conselleira do Medio Rural, María José Gómez, recibió en el Centro de Coordinación Central (CCC) a una delega",
+      "date": "Wed, 15 Jul 2026 09:02:18 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Detienen a un hombre por hacerse pasar por menor para obtener imágenes íntimas de adolescentes",
+      "link": "https://www.abc.es/espana/comunidad-valenciana/detienen-hombre-hacerse-pasar-menor-obtener-imagenes-20260715085017-nt.html",
+      "desc": "Agentes de la Policía Nacional han detenido a un hombre de 42 años como presunto autor de varios delitos relacionados con la explotación sexual de menores. El arrestado utilizaba perfiles falsos haciéndose pasar por menor para contactar con adolescentes y coac",
+      "date": "Wed, 15 Jul 2026 08:50:18 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Controlado el incendio de Ribas de Sil y activo un nuevo foco en Brión (La Coruña)",
+      "link": "https://www.abc.es/espana/galicia/controlado-incendio-ribas-sil-activo-nuevo-foco-20260715083006-nt.html",
+      "desc": "El incendio forestal registrado en la parroquia de Soutordei, perteneciente al municipio lucense de Ribas de Sil, ha quedado controlado a las 19.47 horas de este martes tras afectar a una superficie aproximada de 180 hectáreas. Según los datos oficiales aporta",
+      "date": "Wed, 15 Jul 2026 08:30:07 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "El nuevo Córdoba CF levanta el telón con un exigente examen ante el Orlando Pirates",
+      "link": "https://www.abc.es/espana/andalucia/cordoba/cordoba-cf/nuevo-cordoba-levanta-telon-exigente-examen-ante-20260715210724-nts.html",
+      "desc": "La pretemporada entra en una nueva fase. Después de varios días de trabajo y carga física en la Ciudad Deportiva, al Córdoba CF le llega el momento de ponerse a prueba sobre el césped. El conjunto blanquiverde viajará este miércoles a Marbella para disputar el",
+      "date": "Wed, 15 Jul 2026 08:18:08 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "La transformación del hábito en la larga devoción a Jesús Nazareno de Córdoba",
+      "link": "https://www.abc.es/espana/andalucia/cordoba/semana-santa/transformacion-habito-larga-devocion-jesus-nazareno-cordoba-20260715003146-nts.html",
+      "desc": "El hábito nazareno habla de manera silenciosa en las calles, por su capacidad para reflejar la identidad y estética de cada cofradía. Visto a través de los siglos, es un modo de pulsar cómo ha sido la historia y la espiritualidad. En el caso de la hermandad de",
+      "date": "Wed, 15 Jul 2026 08:17:50 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "La SGAE crea un premio de rap y música urbana con el nombre de Gata Cattana",
+      "link": "https://www.abc.es/espana/andalucia/cordoba/sgae-crea-premio-rap-musica-urbana-nombre-20260715081734-nts.html",
+      "desc": "El nombre de la poeta y rapera adamuceña Gata Cattana , una figura de la creatividad que murió con apenas 26 años, pervivirá en un premio con su nombre que cada año otorgará la Fundación SGAE, que promueve la Sociedad General de Autores de España (SGAE). Funda",
+      "date": "Wed, 15 Jul 2026 08:17:34 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Ven muerte sin esconderte",
+      "link": "https://www.abc.es/espana/andalucia/cordoba/jose-javier-amoros-ven-muerte-esconderte-20260715081731-nts.html",
+      "desc": "El artículo de hoy trata de una noticia que siempre está de actualidad. Es más persistente que Pedro Sánchez . A menos que ella misma sea Pedro Sánchez. Hace pocos días, leí en este periódico un reportaje que recogía datos del Instituto Nacional de Estadística",
+      "date": "Wed, 15 Jul 2026 08:17:31 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "El aeropuerto de Córdoba roza ya el récord de pasajeros anual en el primer semestre de 2026",
+      "link": "https://www.abc.es/espana/andalucia/cordoba/aeropuerto-cordoba-roza-record-pasajeros-anual-solo-20260715081728-nts.html",
+      "desc": "El aeropuerto de Córdoba sigue volando alto, muy alto. Al menos, en línea ascendente. Sus números pueden ser modestos en comparación con los gigantes aeródromos de su alrededor como Málaga o Sevilla, pero la realidad es que suponen la constatación de que ha de",
+      "date": "Wed, 15 Jul 2026 08:17:28 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Fin a la Verja entre España y Gibraltar: un emotivo adiós al ritmo del Himno de la Alegría",
+      "link": "https://www.abc.es/espana/andalucia/cadiz/fin-verja-espana-gibraltar-20260715081333-nts.html",
+      "desc": "Esta medianoche, el ministro principal de Gibraltar, Fabián Picardo, y el alcalde de La Línea de la Concepción, Juan Franco, han escenificado el fin de la Verja que durante un siglo ha separado el Peñón . Los dirigentes han atravesado la valla cada uno al otro",
+      "date": "Wed, 15 Jul 2026 08:13:34 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "El pacto PP-Vox en Andalucía refuerza la lucha contra el fuego pese a las críticas de la izquierda",
+      "link": "https://www.abc.es/espana/andalucia/pacto-ppvox-incide-medios-fuego-limpieza-montes-20260715070354-nts.html",
+      "desc": "El incendio en Los Gallardos y el reconocimiento por parte del presidente de la Junta de Andalucía de que lo que está pasando, que la superficie quemada sea tres veces superior a la del año pasado, sea consecuencia del cambio climático, ha servido a la izquier",
+      "date": "Wed, 15 Jul 2026 07:03:54 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
     {
       "title": "Fiestas del Carmen en el barrio de Chamberí en Madrid 2026: programa, fechas, actividades y conciertos gratis",
       "link": "https://www.abc.es/espana/madrid/fiestas-carmen-barrio-chamberi-madrid-2026-programa-20260715061500-nt.html",
@@ -23,223 +203,43 @@
       "caso": "other"
     },
     {
-      "title": "Orgullo de Barcelona 2026: programa completo, fechas, horarios y conciertos gratis",
-      "link": "https://www.abc.es/espana/cataluna/orgullo-barcelona-2026-programa-completo-fechas-horarios-20260715060000-nt.html",
-      "desc": "Vuelve un año más el Orgullo de Barcelona, una de las grandes citas del verano en la capital catalana. El Pride Barcelona 2026 llenará el centro de la ciudad de música, espectáculos, actividades culturales y reivindicación, con decenas de actuaciones gratuitas",
-      "date": "Wed, 15 Jul 2026 06:00:02 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Navidad en julio",
-      "link": "https://www.abc.es/espana/madrid/navidad-julio-20260714024953-nt.html",
-      "desc": "Madrid tiene una rara costumbre que no figura en las guías turísticas, alcalde: aquí la Navidad dura doce meses. Me explico. Llamo Navidad a una manera de recibir al prójimo que hace del desconocido un conocido, o casi, antes del segundo café. En esta ciudad u",
-      "date": "Wed, 15 Jul 2026 02:49:53 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Las doce puñaladas que acabaron con Facundo en su piso de lujo de Las Tablas",
-      "link": "https://www.abc.es/espana/madrid/doce-punaladas-facundo-piso-lujo-tablas-20260714023658-nt.html",
-      "desc": "Calurosa mañana de julio en Las Tablas. Una vecina del número 4 de la calle Cirauqui, en el distrito de Fuencarral-El Pardo, el de mayor extensión de Europa pero también uno de los más tranquilos de Madrid, se levanta escamada: un fuerte olor a producto químic",
-      "date": "Wed, 15 Jul 2026 02:36:58 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "El robo en un súper destapa a un agresor sexual de menores en el barrio de Salamanca",
-      "link": "https://www.abc.es/espana/madrid/robo-supermercado-destapa-agresor-sexual-traficante-drogas-20260714023618-nt.html",
-      "desc": "Lo que en un principio comenzó como un simple robo en un supermercado acabó en un atraco con paliza y, lo más sorprendente, con la detención del sospechoso a manos de un policía nacional fuera de servicio. El arrestado, con condenas firmes, entre otras cosas p",
-      "date": "Wed, 15 Jul 2026 02:36:18 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Los cubitos de hielo que detectan la droga de sumisión química y que impiden que sigas bebiendo en las fiestas",
-      "link": "https://www.abc.es/espana/madrid/cubitos-hielo-antidroga-sumision-quimica-fiestas-pozuelo-20260714023556-nt.html",
-      "desc": "Desde festivales o encuentros multitudinarios como los sanfermines hasta las fiestas de los barrios más discretos de los municipios más pequeños, bajar la guardia puede suponer un disgusto al final de la noche, sobre todo para las mujeres. Por ello, y con el o",
-      "date": "Wed, 15 Jul 2026 02:35:56 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "«¿Qué porcentaje te parece?»: Vicente Fernández cobraba comisiones a un bufete sevillano por los contratos públicos",
-      "link": "https://www.abc.es/espana/andalucia/porcentaje-parece-vicente-fernandez-cobraba-comisiones-bufete-20260715023241-nts.html",
-      "desc": "Vicente Fernández Guerrero, el primer presidente de la Sociedad Estatal de Participaciones Industriales (SEPI) nombrado por María Jesús Montero tras su etapa como interventor general en la Junta de Andalucía, cobró comisiones de los contratos públicos que la e",
-      "date": "Wed, 15 Jul 2026 02:32:41 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Gallardo y Sánchez tendrán vetado cualquier contrato público",
-      "link": "https://www.abc.es/espana/fallo-supone-muerte-civil-gallardo-sanchez-administracion-20260715022917-nt.html",
-      "desc": "La sentencia de la Audiencia de Badajoz que condena a David Sánchez Pérez-Castejón y a Miguel Ángel Gallardo por prevaricación administrativa tiene unas consecuencias jurídicas de enorme calado , pues más allá del reproche penal, la pena de inhabilitación espe",
-      "date": "Wed, 15 Jul 2026 02:29:17 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "El PP alerta de que el Gobierno trabaja «en el relato del golpe de Estado» desde hace tiempo",
-      "link": "https://www.abc.es/espana/pp-asume-moncloa-recrudecera-relato-golpe-estado-20260715022909-nt.html",
-      "desc": "La condena al hermano de Pedro Sánchez -nueve años de inhabilitación- implica un nuevo golpe al presidente del Gobierno y confirma, según afirman fuentes del PP, que el «deterioro» que sufre el Ejecutivo es «irreversible» ante el amontonamiento de casos invest",
-      "date": "Wed, 15 Jul 2026 02:29:09 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Moncloa cree que la sentencia le permite alimentar el discurso del 'lawfare' contra Sánchez",
-      "link": "https://www.abc.es/espana/moncloa-cree-sentencia-permite-alimentar-discurso-lawfare-20260715022859-nt.html",
-      "desc": "Gesto serio y palabras gruesas. La sentencia que condena a nueve años de inhabilitación a David Sánchez , hermano del presidente del Gobierno, por un delito de prevaricación ha generado un profundo malestar en Moncloa. Fuentes gubernamentales tildan el fallo j",
-      "date": "Wed, 15 Jul 2026 02:28:59 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "La sombra del presidente planea por toda la sentencia: aparece hasta seis veces",
-      "link": "https://www.abc.es/espana/sombra-presidente-planea-sentencia-20260715022849-nt.html",
-      "desc": "La sombra del presidente del Gobierno, Pedro Sánchez, planea por toda la sentencia de 378 páginas de la Audiencia de Badajoz que condena a su hermano, David Sánchez. Los magistrados recuerdan su posición en el PSOE tanto en el momento de la contratación del mú",
-      "date": "Wed, 15 Jul 2026 02:28:49 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Córdoba grita en las calles el paso de la sección española a la final del Mundial",
-      "link": "https://www.abc.es/espana/andalucia/cordoba/cordoba-grita-calles-paso-seccion-espanola-final-20260715002526-nts.html",
-      "desc": "La noche es de cláxones en las calles, de coches de los que llegan gritos, de celebración y de banderas. Muchos cordobeses se han echado a la calle para festejar el pase de la selección española a la final del mundial de fútbol , por segunda vez en 16 años. La",
-      "date": "Wed, 15 Jul 2026 00:25:26 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "La estrella es España",
-      "link": "https://www.lavanguardia.com/deportes/futbol/20260715/11592446/estrella-espana.html",
-      "desc": "El equipo español añade la final del Mundial a los títulos en la Eurocopa y la Nations y al oro olímpico, en cuatro años descomunales que le encumbran como una auténtica potencia",
-      "date": "15 Jul 2026 00:21:15 +0200",
+      "title": "Dominio, Lamine, Porro y otras claves de la victoria de España contra Francia",
+      "link": "https://www.lavanguardia.com/deportes/futbol/20260715/11592448/dominio-lamine-porro-claves-victoria-espana-francia.html",
+      "desc": "España salió con la personalidad necesaria para imponer su fútbol y superar al combinado galo",
+      "date": "15 Jul 2026 06:00:00 +0200",
       "source": "La Vanguardia",
       "color": "#8e44ad",
       "feedId": "LaVanguardia",
       "caso": "other"
     },
     {
-      "title": "Un (impensable) baño de fútbol",
-      "link": "https://www.lavanguardia.com/deportes/futbol/mundial-2026/20260715/11592444/mundial-2026-francia-espana-impensable-bano-futbol.html",
+      "title": "Messi ante el desafío del gran símbolo que supone Inglaterra",
+      "link": "https://www.lavanguardia.com/deportes/futbol/20260715/11592383/messi-desafio-gran-simbolo-inglaterra-argentina-mundial.html",
+      "desc": "Más de 20 años después, Argentina e Inglaterra se juegan un puesto en la final y el honor, en un reto emblemático y desconocido para Leo Messi",
+      "date": "15 Jul 2026 06:00:00 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
+    {
+      "title": "Dibu Martínez, el héroe de Qatar se reconcilia con el Mundial",
+      "link": "https://www.lavanguardia.com/deportes/futbol/20260715/11592359/dibu-martinez-heroe-qatar-reconcilia-mundial-argentina-inglaterra.html",
+      "desc": "El portero supera los 13 partidos del Pato Fillol y será el guardameta argentino con más apariciones en el gran torneo&nbsp;",
+      "date": "15 Jul 2026 06:00:00 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
+    {
+      "title": "“¡El que no salta es un inglés!”",
+      "link": "https://www.lavanguardia.com/deportes/futbol/mundial-2026/20260715/11592407/salta-ingles.html",
       "desc": "",
-      "date": "15 Jul 2026 00:17:25 +0200",
+      "date": "15 Jul 2026 06:00:00 +0200",
       "source": "La Vanguardia",
       "color": "#8e44ad",
       "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "El hermano del César",
-      "link": "https://www.lavanguardia.com/opinion/20260715/11592425/hermano-cesar.html",
-      "desc": "El hermano del candidato a secretario general y a presidente del gobierno debe ser muy cauteloso con su actividad profesional",
-      "date": "15 Jul 2026 00:05:00 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "Las notas del triunfo de España en las semifinales ante Francia",
-      "link": "https://www.lavanguardia.com/deportes/futbol/20260714/11592394/notas-espana-semifinal-francia-mundial-futbol-2026-victoria.html",
-      "desc": "Oyarzabal y Pedro Porro marcaron, Rodri fue la brújula, Dani Olmo aportó dinamismo en ataque y la defensa de España mermó el todopoderoso ataque francés",
-      "date": "14 Jul 2026 23:55:02 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "Un edificio de tres plantas se derrumba en la localidad valenciana de Benetússer",
-      "link": "https://www.abc.es/espana/comunidad-valenciana/edificio-tres-plantas-derrumba-localidad-valenciana-benetusser-20260714234138-nt.html",
-      "desc": "Un edificio de tres plantas se ha derrumbado este martes por la noche en la localidad valenciana de Benetússer . Los vecinos fueron desalojados a tiempo, por lo que no se han registrado heridos ni víctimas durante la caída repentina del inmueble ubicado en la ",
-      "date": "Tue, 14 Jul 2026 23:48:13 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Las notas de Francia en la semifinal contra España",
-      "link": "https://www.lavanguardia.com/deportes/20260714/11592397/notas-francia-semifinales-mundial-2026.html",
-      "desc": "Los 'Bleus' se quedan si su quinta final de un Mundial tras firmar su peor partido del torneo, desarbolados en todas las líneas por España",
-      "date": "14 Jul 2026 23:42:43 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "«Me emociona también escuchar a Kiki»: en el concierto de 'Omega' con el «hermano» de Morente",
-      "link": "https://www.abc.es/espana/madrid/emociona-escuchar-kiki-concierto-omega-hermano-morente-20260715233425-nt.html",
-      "desc": "«Me gusta el fútbol, pero Morente me gusta más», bromea Juan Santos (Encinas Real, Córdoba, 1949). Estamos esperando a que empiece el concierto en las Noches del Botánico a la misma hora que la semifinal de España en el Mundial. En realidad, esta crónica comen",
-      "date": "Tue, 14 Jul 2026 23:34:47 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "“Nunca estás formado del todo”",
-      "link": "https://www.lavanguardia.com/vida/20260714/11592436/nunca-estas-formado.html",
-      "desc": "",
-      "date": "14 Jul 2026 23:20:38 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "Finaliza la identificación de todas las víctimas del incendio de Los Gallardos",
-      "link": "https://www.abc.es/espana/andalucia/almeria/finaliza-identificacion-victimas-incendio-gallardos-20260714231951-nts.html",
-      "desc": "Durante la tarde de este martes ha finalizado la identificación de todas las víctimas del incendio de Los Gallardos. Además, se han interpuesto denuncias por las doce personas fallecidas en el incendio. Además de estas doce víctimas , otra mujer inglesa de 93 ",
-      "date": "Tue, 14 Jul 2026 23:19:52 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "España toma la Bastilla y se planta en la final del Mundial",
-      "link": "https://www.lavanguardia.com/deportes/futbol/20260714/11592413/francia-espana-semifinales-mundial-2026-resumen.html",
-      "desc": "Oyarzábal y Porro plasmaron la superioridad de un equipo que minimizó a Francia",
-      "date": "14 Jul 2026 22:59:22 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "La incidencia que provocó retrasos en la Alta Velocidad entre Madrid y Andalucía ya está solucionada, según Adif",
-      "link": "https://www.abc.es/espana/andalucia/nuevo-robo-cables-provoca-retrasos-alta-velocidad-20260714224955-nts.html",
-      "desc": "La línea de Alta Velocidad entre Madrid y Andalucía ha sufrido, de nuevo, retrasos. Apenas 48 horas después de la última incidencia en la infraestructura, vuelven los problemas, ahora debido a un fallo en la señalización provocado por un posible robo de cable.",
-      "date": "Tue, 14 Jul 2026 22:49:55 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
       "caso": "other"
     }
   ]
