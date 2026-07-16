@@ -1,7 +1,77 @@
 {
-  "updated": "2026-07-16T19:02:28Z",
+  "updated": "2026-07-16T20:52:26Z",
   "count": 24,
   "items": [
+    {
+      "title": "Las notas de cortes de la Universidad de Córdoba en la segunda adjudicación",
+      "link": "https://www.abc.es/espana/andalucia/cordoba/notas-cortes-universidad-cordoba-segunda-adjudicacion-20260716222058-nts.html",
+      "desc": "El grado de Medicina, con un 13,125, y el doble grado de Biotecnología y Bioquímica, con un 12,861, vuelven a marcar las notas de corte más altas en la Universidad de Córdoba (UCO) , esta vez en la segunda adjudicación, para el próximo curso 26/27. Según la in",
+      "date": "Thu, 16 Jul 2026 22:20:59 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "gen"
+    },
+    {
+      "title": "Medicina Legal de Almería entrega otros tres cuerpos del incendio de Los Gallardos",
+      "link": "https://www.abc.es/espana/andalucia/almeria/medicina-legal-almeria-entrega-tres-cuerpos-incendio-20260716220925-nts.html",
+      "desc": "Los cuerpos de las víctimas del trágico incendio de Los Gallardos se siguen entregando a sus familiares. Este jueves, han sido entregados los de otras tres víctimas, según ha informado el TSJA. Quedan, por tanto, después de los cinco cuerpos entregados ayer, c",
+      "date": "Thu, 16 Jul 2026 22:09:25 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "El PSOE quiere evitar las primarias de su ideario para elegir en septiembre al candidato a la alcaldía de Córdoba",
+      "link": "https://www.abc.es/espana/andalucia/cordoba/psoe-quiere-evitar-primarias-ideario-elegir-candidato-20260716215132-nts.html",
+      "desc": "El PSOE no tiene aún candidato para pelear con José María Bellido (PP) la alcaldía de Córdoba a falta de diez meses para que se celebren las elecciones municipales el próximo 23 de mayo de 2027 y no lo tendrá, al menos, hasta septiembre, apenas algo más de med",
+      "date": "Thu, 16 Jul 2026 21:52:07 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Primeros avances y aspectos por pulir en el nuevo Córdoba CF tras el primer test de pretemporada",
+      "link": "https://www.abc.es/espana/andalucia/cordoba/cordoba-cf/primeras-certezas-aspectos-pulir-nuevo-cordoba-primer-20260716204826-nts.html",
+      "desc": "El Córdoba CF cerró con empate su primer amistoso de pretemporada ante el Orlando Pirates (1-1). Más allá del resultado, secundario en este tipo de encuentros, casi todos los jugadores disponibles de Iván Ania sumaron minutos, con las excepciones de Vilarrasa ",
+      "date": "Thu, 16 Jul 2026 21:22:21 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Isabel Azañón será candidata del PP a la Alcaldía de Jaén",
+      "link": "https://www.abc.es/espana/andalucia/juanma-moreno-anuncia-isabel-azanon-candidata-pp-20260716211526-nts.html",
+      "desc": "El PP ya tiene candidata en Jaén para las próximas elecciones municipales que tendrán lugar el próximo 23 de mayo de 2027. El presidente del PP andaluz, Juanma Moreno, ha anunciado que la candidata del PP a la Alcaldía de Jaén será Isabel Azañón, a quien ha de",
+      "date": "Thu, 16 Jul 2026 21:21:38 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "España estrena su comandancia de la marina atlántica de la OTAN con ejercicios junto a Japón y Canadá",
+      "link": "https://www.abc.es/espana/espana-estrena-comandancia-fuerza-atlantica-otan-ejercicios-20260716210728-nt.html",
+      "desc": "La Armada española ha estrenado su comandancia de la Fuerza Operativa del Atlántico de la OTAN en unos ejercicios conjuntos con Japón y Canadá bajo mando del vicealmirante Juan Bautista Pérez Puig. Unos 3.000 soldados de 14 nacionalidades diferentes participan",
+      "date": "Thu, 16 Jul 2026 21:07:28 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Una bandada de aves habría causado el mortal accidente de helicóptero de la familia catalana",
+      "link": "https://www.lavanguardia.com/vida/20260716/11594096/impacto-ave-pudo-provocar-accidente-helicoptero-murio-familia-catalana-ee-uu.html",
+      "desc": "Así lo apunta la investigación de la Junta Nacional de Seguridad del Transporte estadounidense",
+      "date": "16 Jul 2026 20:40:21 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
     {
       "title": "¿Qué requisitos debo cumplir para ser miembro de un jurado popular como el de Begoña Gómez?",
       "link": "https://www.abc.es/espana/requisitos-debo-cumplir-miembro-jurado-popular-begona-20260716204009-nt.html",
@@ -60,6 +130,16 @@
       "source": "ABC",
       "color": "#c0392b",
       "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Santacreu gana la batalla por las sillas de plata de la Cambra tras una votación muy ajustada",
+      "link": "https://www.lavanguardia.com/economia/20260716/11594015/santacreu-gana-batalla-sillas-plata-cambra-barcelona.html",
+      "desc": "La medida para ampliarlas de dos a diez tira hacia adelante pese a la oposición de Pimec y Eines de País",
+      "date": "16 Jul 2026 19:54:56 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
       "caso": "other"
     },
     {
@@ -123,6 +203,16 @@
       "caso": "other"
     },
     {
+      "title": "Lola García: “Es un aval claro a los argumentos que sustentaban la ley de amnistía y destierra la idea de que no tenía encaje legal”",
+      "link": "https://www.lavanguardia.com/videos/claves-del-dia/20260716/11594056/lola-garcia-hay-motivos-pensar-constitucional-frene-amnistia-puigdemont.html",
+      "desc": "La directora adjunta de La Vanguardia considera que la sentencia del TJUE refuerza plenamente la ley de amnistía, aunque el regreso del expresident aún dependerá de los tiempos y decisiones de la justicia española",
+      "date": "16 Jul 2026 18:52:48 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
+    {
       "title": "Adnane Ghailan y Salim El Jebari ya lucen como jugadores blanquiverdes: «Pocos jugadores pueden encontrar algo más atractivo que venir al Córdoba CF»",
       "link": "https://www.abc.es/espana/andalucia/cordoba/cordoba-cf/adnane-ghailan-salim-jebari-lucen-jugadores-blanquiverdes-20260716185034-nts.html",
       "desc": "Entre historia y color, el Córdoba CF ha mantenido su apuesta por convertir algunos de los rincones más emblemáticos de la ciudad en el escenario de las presentaciones de sus fichajes. En esta ocasión , Adnane Ghailan y Salim El Jebari han realizado sus primer",
@@ -143,100 +233,10 @@
       "caso": "other"
     },
     {
-      "title": "Llega a Andalucía una ola de calor extremo que durará veinte días",
-      "link": "https://www.abc.es/espana/andalucia/llega-ola-calor-extremo-durara-veinte-dias-20260716184455-nts.html",
-      "desc": "Se avecina una ola de calor que durará unos veinte días según las previsiones que ha hecho la Junta de Andalucía. De hecho el vicepresidente primero y consejero de Presidencia, Sanidad y Emergencias, Antonio Sanz, ha pedido «responsabilidad y concienciación» a",
-      "date": "Thu, 16 Jul 2026 18:47:10 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "La petición de Vox de auditar Geacam fracasa entre críticas de la oposición",
-      "link": "https://www.abc.es/espana/castilla-la-mancha/peticion-vox-auditar-geacam-fracasa-criticas-oposicion-20260716184218-nt.html",
-      "desc": "El Pleno de las Cortes de Castilla-La Mancha ha rechazado la propuesta presentada por Vox para poner en marcha una auditoría sobre la gestión presupuestaria y la actividad de la empresa pública de gestión ambiental Geacam. La iniciativa ha contado con el respa",
-      "date": "Thu, 16 Jul 2026 18:42:18 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Detenidos dos trabajadores por el robo de 2.300 metros de cable de cobre en el aeropuerto de Palma",
-      "link": "https://www.abc.es/espana/baleares/detenidos-dos-trabajadores-robo-2300-metros-cable-20260716184126-nt.html",
-      "desc": "La Guardia Civil ha detenido a dos trabajadores por supuestamente robar más de 2.300 metros de cable de cobre , valorado en cerca de 73.000 euros, de las instalaciones de la terminal D del aeropuerto de Palma. La investigación comenzó el pasado mayo, después d",
-      "date": "Thu, 16 Jul 2026 18:41:26 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Zendaya, Tom Holland y Grúas Eugenio: la empresa extremeña que se cuela en lo último de Nolan",
-      "link": "https://www.abc.es/espana/extremadura/zendaya-tom-holland-gruas-eugenio-empresa-extremena-20260716183447-nt.html",
-      "desc": "Lo nuevo de Christopher Nolan, `La Odisea´, llega a los cines españoles este 17 de julio. Lo hace con un presupuesto astronómico ,el inconfundible sello del cineasta y con un reparto de lujo. Matt Damon, Tom Holland, Zendaya, Anne Hataway, Robert Pattinson, Mi",
-      "date": "Thu, 16 Jul 2026 18:35:45 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Un «error humano» retrasa cerca de 90 obras hidráulicas y servicios de la Junta de Andalucía",
-      "link": "https://www.abc.es/espana/andalucia/error-humano-retrasa-obras-hidraulicas-servicios-junta-20260716183103-nts.html",
-      "desc": "Un «error humano» obliga a la Consejería de Agricultura, Pesca, Agua y Desarrollo Rural de la Junta de Andalucía a anular y licitar de nuevo cerca de 90 obras hidráulicas y servicios de ingeniería valorados en más de 280 millones de euros que se encontraban en",
-      "date": "Thu, 16 Jul 2026 18:31:04 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Ciudad Real calienta motores con la recepción al candidato a Pandorgo 2026",
-      "link": "https://www.abc.es/espana/castilla-la-mancha/ciudad-real-calienta-motores-recepcion-candidato-pandorgo-20260716182914-nt.html",
-      "desc": "La cuenta atrás para la Pandorga ya ha comenzado en Ciudad Real. A poco más de dos semanas de la celebración de los actos centrales de la fiesta, el Ayuntamiento ha acogido la tradicional recepción institucional a la Hermandad de Pandorgos , un acto con el que",
-      "date": "Thu, 16 Jul 2026 18:29:15 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "El TJUE avala la ley de amnistía: última hora y reacciones, en directo",
-      "link": "https://www.lavanguardia.com/politica/20260716/11593577/tjue-ley-de-amnistia-ultima-hora-reacciones-en-directo-hoy.html",
-      "desc": "La justicia europea considera que la ley tuvo por objeto”reducir tensiones institucionales y políticas”",
-      "date": "16 Jul 2026 10:43:21 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "El TJUE avala la ley de amnistía porque sirvió para la “reconciliación”",
-      "link": "https://www.lavanguardia.com/politica/20260716/11593519/tjue-avala-mayor-parte-ley-amnistia.html",
-      "desc": "La justicia europea considera que el olvido penal no afectó a los intereses económicos comunitarios ni a la directiva europea sobre el terrorismo",
-      "date": "16 Jul 2026 10:24:07 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "¿Cuál es el recorrido judicial de Puigdemont tras el aval de la justicia europea a la amnistía?",
-      "link": "https://www.lavanguardia.com/politica/20260716/11593540/cual-recorrido-judicial-puigdemont-aval-justicia-europea-amnistia.html",
-      "desc": "El fallo del Tribunal de Justicia de la Unión Europea (TJUE) de Luxemburgo supone un espaldarazo a la apuesta del Gobierno de Pedro Sánchez, pero los tribunales españoles son los que tienen que ejecutarlo ahora",
-      "date": "16 Jul 2026 10:23:28 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "Messi elogia a España y al Barça antes de la final: “Un club que amo y sigo”",
-      "link": "https://www.lavanguardia.com/deportes/futbol/20260716/11593548/messi-elogia-espana-barca-final-club-amo-sigo.html",
-      "desc": "El delantero argentino no oculta su emoción por enfrentarse a muchos de sus excompañeros este domingo en la gran final del Mundial",
-      "date": "16 Jul 2026 10:16:26 +0200",
+      "title": "Lamine Yamal entrena al margen del grupo a tres días de la final del Mundial",
+      "link": "https://www.lavanguardia.com/deportes/futbol/20260716/11593999/lamine-yamal-espana-final-mundial-2026.html",
+      "desc": "La estrella no participó en los rondos iniciales tras abandonar cojeando el duelo ante Francia",
+      "date": "16 Jul 2026 17:48:46 +0200",
       "source": "La Vanguardia",
       "color": "#8e44ad",
       "feedId": "LaVanguardia",
