@@ -1,7 +1,47 @@
 {
-  "updated": "2026-07-16T20:52:26Z",
+  "updated": "2026-07-16T22:53:01Z",
   "count": 24,
   "items": [
+    {
+      "title": "La ciudad reafirma su devoción marinera con la «guapa de Toledo»",
+      "link": "https://www.abc.es/espana/castilla-la-mancha/toledo/ciudad-reafirma-devocion-marinera-guapa-toledo-20260716002802-nt.html",
+      "desc": "En un mundo, el cofrade toledano, en el que parece predominar el incorporar características de otras vertientes como la andaluza, resulta llamativo cómo se mantiene viva la devoción a la Virgen del Carmen sin ser una ciudad de tradición marinera. La premisa ha",
+      "date": "Fri, 17 Jul 2026 00:28:02 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "El accidente de helicóptero en Nueva York en el que murió una familia española pudo deberse a un choque con gansos",
+      "link": "https://www.abc.es/espana/accidente-helicoptero-nueva-york-murio-familia-espanola-20260716231659-nt.html",
+      "desc": "Los restos del accidente de un helicóptero turístico de Nueva York que cayó al río Hudson y en el que murieron cinco españoles y el piloto han mostrado indicios de un impacto con aves, según los investigadores del siniestro. Un alto ejecutivo español, su espos",
+      "date": "Thu, 16 Jul 2026 23:17:00 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "La Virgen del Carmen, el buen puerto al que llegar desde Córdoba",
+      "link": "https://www.abc.es/espana/andalucia/cordoba/semana-santa/virgen-carmen-puerto-seguro-llegar-cordoba-20260716132255-nts.html",
+      "desc": "Día de entrañables evocaciones el que regala julio en mitad del verano, el del Carmen . Su nombre lo dice todo, atado a entrañables personas en cada familia, a amistades, a la devoción muy extendida que surca mares, ríos y calles latiendo plena de vida en cada",
+      "date": "Thu, 16 Jul 2026 23:04:10 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Veinte efectivos trabajan en el remate del incendio de Los Gallardos",
+      "link": "https://www.abc.es/espana/andalucia/almeria/veinte-efectivos-trabajan-remate-incendio-gallardos-20260716230001-nts.html",
+      "desc": "Unos 20 efectivos y dos autobombas trabajan en la noche de este jueves, 16 de julio, en las labores de remate y liquidación del incendio de Los Gallardos (Almería), que se encuentra no obstante controlado. Así lo ha detallado el Plan Infoca a través de su cuen",
+      "date": "Thu, 16 Jul 2026 23:00:01 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
     {
       "title": "Las notas de cortes de la Universidad de Córdoba en la segunda adjudicación",
       "link": "https://www.abc.es/espana/andalucia/cordoba/notas-cortes-universidad-cordoba-segunda-adjudicacion-20260716222058-nts.html",
@@ -173,30 +213,10 @@
       "caso": "other"
     },
     {
-      "title": "Castilla-La Mancha pide la intervención de la UME en el incendio de La Mierla en Guadalajara",
+      "title": "El fuego de La Mierla obliga a evacuar a unas 100 personas y afecta a una superficie de 1.500 hectáreas",
       "link": "https://www.abc.es/espana/castilla-la-mancha/castillala-mancha-pide-intervencion-ume-incendio-mierla-20260716191410-nt.html",
-      "desc": "El Gobierno de Castilla-La Mancha ha solicitado la intervención de la Unidad Militar de Emergencias (UME) en el incendio declarado este jueves en el término municipal de La Mierla (Guadalajara), que sigue en situación operativa de Nivel 2 por el confinamiento ",
+      "desc": "El incendio forestal que se ha declarado este jueves en el término municipal de La Mierla (Guadalajara) ha obligado a evacuar a unas 100 personas que se encuentran en albergues o en las casas de otros familiares , y ha quemado ya aproximadamente 1.500 hectárea",
       "date": "Thu, 16 Jul 2026 19:14:11 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "El bebé maltratado de Barcelona no tenía lesiones graves tres días antes de ingresar en la UCI",
-      "link": "https://www.abc.es/espana/cataluna/bebe-maltratado-barcelona-lesiones-graves-tres-dias-20260716191249-nt.html",
-      "desc": "La pediatra del centro de salud que atendió al bebé de Barcelona, cuyos padres ingresaron en prisión -la progenitora luego quedó en libertad - por violarlo y maltratarlo, ha asegurado este jueves en el juzgado que los investiga que el pequeño no tenía lesiones",
-      "date": "Thu, 16 Jul 2026 19:12:50 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "El PP afirma que la región contará en 2027 con un Pacto por los Mayores con 12 medidas",
-      "link": "https://www.abc.es/espana/castilla-la-mancha/pp-afirma-region-contara-2027-pacto-mayores-20260716190317-nt.html",
-      "desc": "El diputado regional del Partido Popular José Martín-Buro ha afirmado este jueves en el pleno de las Cortes de Castilla-La Mancha que la región contará en 2027 con un Pacto por los Mayores compuesto por 12 medidas clave si Paco Núñez accede a la Presidencia de",
-      "date": "Thu, 16 Jul 2026 19:04:20 +0200",
       "source": "ABC",
       "color": "#c0392b",
       "feedId": "ABC",
@@ -213,30 +233,10 @@
       "caso": "other"
     },
     {
-      "title": "Adnane Ghailan y Salim El Jebari ya lucen como jugadores blanquiverdes: «Pocos jugadores pueden encontrar algo más atractivo que venir al Córdoba CF»",
-      "link": "https://www.abc.es/espana/andalucia/cordoba/cordoba-cf/adnane-ghailan-salim-jebari-lucen-jugadores-blanquiverdes-20260716185034-nts.html",
-      "desc": "Entre historia y color, el Córdoba CF ha mantenido su apuesta por convertir algunos de los rincones más emblemáticos de la ciudad en el escenario de las presentaciones de sus fichajes. En esta ocasión , Adnane Ghailan y Salim El Jebari han realizado sus primer",
-      "date": "Thu, 16 Jul 2026 18:50:35 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Casa del Rey publica fotos inéditas que resumen los tres años de formación militar de la Princesa Leonor",
-      "link": "https://www.abc.es/espana/casa-real/casa-rey-publica-fotos-ineditas-resumen-tres-20260716185001-nt.html",
-      "desc": "La Casa del Rey ha querido despedir la etapa de formación militar de la Princesa Leonor con un vídeo conmemorativo donde recopila algunos de los momentos más destacados de los tres años que la Heredera ha pasado en el Ejército de Tierra, la Armada y el Ejércit",
-      "date": "Thu, 16 Jul 2026 18:50:01 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Lamine Yamal entrena al margen del grupo a tres días de la final del Mundial",
-      "link": "https://www.lavanguardia.com/deportes/futbol/20260716/11593999/lamine-yamal-espana-final-mundial-2026.html",
-      "desc": "La estrella no participó en los rondos iniciales tras abandonar cojeando el duelo ante Francia",
-      "date": "16 Jul 2026 17:48:46 +0200",
+      "title": "El enredo para seleccionadores y preparadores físicos por el inédito descanso",
+      "link": "https://www.lavanguardia.com/deportes/futbol/20260716/11594051/inedita-media-hora-descanso-galimatias-seleccionadores-preparadores-fisicos.html",
+      "desc": "La FIFA se regala otro capricho para la final: un intermedio en formato Super Bowl",
+      "date": "16 Jul 2026 18:45:29 +0200",
       "source": "La Vanguardia",
       "color": "#8e44ad",
       "feedId": "LaVanguardia",
