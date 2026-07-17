@@ -1,7 +1,167 @@
 {
-  "updated": "2026-07-17T15:09:50Z",
+  "updated": "2026-07-17T17:06:50Z",
   "count": 24,
   "items": [
+    {
+      "title": "Los hospitales de Madrid emitirán gratis la final del Mundial: «No es lugar para hacer negocio»",
+      "link": "https://www.abc.es/espana/madrid/madrid-emitira-gratis-final-mundial-hospitales-futbol-20260717185007-nt.html",
+      "desc": "Para Rafael, ingresado por un ictus en el Severo Ochoa de Leganés, el fútbol es mucho más que un deporte: es su principal vía de escape frente a la «nube negra» que supone la enfermedad. Cuando su hija, Lola Martín (de 55 años), descubrió que ver la final del ",
+      "date": "Fri, 17 Jul 2026 18:50:07 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Orden de alejamiento al exjugador de la UD Las Palmas Sergio Araujo respecto a su expareja y su hija",
+      "link": "https://www.abc.es/espana/canarias/orden-alejamiento-exjugador-palmas-sergio-araujo-respecto-20260717184213-nt.html",
+      "desc": "El Juzgado de Violencia sobre la Mujer número 2 de Las Palmas de Gran Canaria ha impuesto una orden de alejamiento al futbolista Sergio Araujo , exjugador de la U.D. Las Palmas , respecto a su expareja y su hija y le ha ordenado devolver a la denunciante la ca",
+      "date": "Fri, 17 Jul 2026 18:42:14 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "El surrealista vídeo de dos cabras entrando en un banco en Lugo",
+      "link": "https://www.abc.es/espana/galicia/surrealista-video-dos-cabras-entrando-banco-lugo-20260717183935-nt.html",
+      "desc": "Galicia nunca deja de sorprender, y la última prueba de ello ha tardado muy poco en hacerse viral en las redes sociales. Los vecinos de Ferreira, en el municipio lucense de O Valadouro , se toparon con una escena totalmente insólita a primera hora de la mañana",
+      "date": "Fri, 17 Jul 2026 18:39:35 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Las administraciones coinciden en que el Motorbeach habría superado las dimensiones autorizadas",
+      "link": "https://www.abc.es/espana/castilla-leon/administraciones-coinciden-motorbeach-superado-dimensiones-autorizadas-20260717183920-nt.html",
+      "desc": "Las administraciones implicadas en la celebración del Motorbeach 2026 investigan posibles incumplimientos durante el desarrollo del festival, que habría superado las condiciones y dimensiones recogidas en la documentación presentada por el promotor. El balance",
+      "date": "Fri, 17 Jul 2026 18:39:21 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "El incendio de Árchez (Málaga) obliga a desalojar viviendas, confinar un municipio y cortar una carretera",
+      "link": "https://www.abc.es/espana/andalucia/malaga/incendio-obliga-desalojar-viviendas-confinar-municipio-cortar-20260717181503-nts.html",
+      "desc": "Un incendio forestal se ha declarado este viernes en Árchez, un municipio de la provincia de Málaga. La proliferación de las llamas ha obligado a desalojar, de forma preventiva, varios núcleos de viviendas diseminadas en zonas cercanas al fuego, además de decr",
+      "date": "Fri, 17 Jul 2026 18:27:14 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Talavera la Nueva planta cara a los proyectos de biometano y anuncia una oposición total a su instalación",
+      "link": "https://www.abc.es/espana/castilla-la-mancha/toledo/pueblos/talavera-nueva-planta-cara-proyectos-biometano-anuncia-20260717181515-nt.html",
+      "desc": "El malestar ha dejado de ser un sentimiento compartido en las calles para convertirse en una declaración institucional. Con un mensaje contundente dirigido tanto a los vecinos como a los medios de comunicación, el Ayuntamiento de Talavera la Nueva ha hecho púb",
+      "date": "Fri, 17 Jul 2026 18:15:19 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Blindan 800 metros de playa en El Portil por riesgo real de derrumbe",
+      "link": "https://www.abc.es/espana/andalucia/huelva/blindan-800-metros-playa-portil-riesgo-real-20260717181023-nts.html",
+      "desc": "El acceso a unos 800 metros de la playa urbana de El Portil continua prohibido por motivos «exclusivamente de seguridad», debido «al grave proceso de erosión que sufre este tramo del litoral y al deterioro de sus infraestructuras». Según ha indicado el Ayuntam",
+      "date": "Fri, 17 Jul 2026 18:10:46 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "La Plataforma de Gamonal ve «positiva» la modificación de la Ley de Evaluación Ambiental pero pide «límites» a la Junta",
+      "link": "https://www.abc.es/espana/castilla-la-mancha/toledo/talavera/gamonal-positiva-modificacion-ley-evaluacion-ambiental-pide-20260716180405-nt.html",
+      "desc": "La Plataforma Cívica de Gamonal, municipio de Toledo, ha valorado de forma positiva, «entre comillas», la aprobación este jueves en las Cortes de Castilla-La Mancha de la modificación de la Ley de Evaluación Ambiental por la que los ayuntamientos tendrán capac",
+      "date": "Fri, 17 Jul 2026 18:04:05 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Los usuarios de la alta velocidad Madrid-Andalucía vuelven a sufrir retrasos por un robo de cable",
+      "link": "https://www.abc.es/espana/andalucia/cordoba/usuarios-alta-velocidad-madridandalucia-vuelve-sufrir-retrasos-20260717180204-nts.html",
+      "desc": "Otra vez más problemas y retrasos en la línea de alta velocidad que une Madrid con Andalucía y, esta vez, también con Toledo. Los usuarios de los trenes de Renfe (y su filial Avlo), Iryo y Ouigo están sufriendo retrasos en las llegadas y las salidas en los pun",
+      "date": "Fri, 17 Jul 2026 18:02:05 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "La Princesa Leonor y la Infanta Sofía escuchan los problemas de cuatro jóvenes con discapacidad",
+      "link": "https://www.abc.es/espana/casa-real/princesa-leonor-infanta-sofia-escuchan-problemas-enfrentan-20260717180038-nt.html",
+      "desc": "Día de apariciones sorpresa por parte de la Princesa Leonor y la Infanta Sofía. Las hijas de los Reyes se han desplazado hoy a mediodía hasta el comedor de la Residencia de Estudiantes de Madrid, donde han mantenido un encuentro con jóvenes con discapacidad, q",
+      "date": "Fri, 17 Jul 2026 18:00:38 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Un agricultor bajo sospecha por el incendio forestal de La Mierla que ya ha arrasado más de 2.000 hectáreas",
+      "link": "https://www.abc.es/espana/castilla-la-mancha/cosechadora-presuntamente-alcalde-vox-posible-origen-incendio-20260717175739-nt.html",
+      "desc": "La Guardia Civil investiga a un agricultor como presunto responsable del incendio forestal declarado este jueves en La Mierla (Guadalajara), un fuego que ya ha arrasado unas 2.000 hectáreas y ha obligado a evacuar a unas 260 personas de distintos municipios de",
+      "date": "Fri, 17 Jul 2026 17:57:39 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Page se traslada al puesto de mando avanzado para seguir el incendio de La Mierla en Guadalajara",
+      "link": "https://www.abc.es/espana/castilla-la-mancha/page-traslada-puesto-mando-avanzado-seguir-incendio-20260717174904-nt.html",
+      "desc": "El presidente de Castilla-La Mancha, Emiliano García-Page, se trasladará esta tarde al puesto de mando avanzado ubicado en Tamajón (Guadalajara) para conocer la evolución del incendio forestal de La Mierla, que afecta ya a más de 2.00 hectáreas. En la lucha co",
+      "date": "Fri, 17 Jul 2026 17:49:05 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Pino se compromete con las organizaciones agrarias a habilitar ayudas ante la «complicada» situación del cereal",
+      "link": "https://www.abc.es/espana/castilla-leon/pino-promete-ayudas-organizaciones-agrarias-ante-complicada-20260717173826-nt.html",
+      "desc": "El consejero de Agricultura, Ganadería, Medio Rural y Política Ambiental, Joaquín Antonio Pino, ha trasladado este viernes a las organizaciones profesionales agrarias durante la celebración del Consejo Regional Agrario en Santa María la Real de Nieva (Segovia)",
+      "date": "Fri, 17 Jul 2026 17:38:26 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Chimú eleva la cocina nikkei sobre el nuevo skyline del distrito Sant Martí",
+      "link": "https://www.abc.es/espana/cataluna/chimu-eleva-cocina-nikkei-sobre-nuevo-skyline-20260717173648-nt.html",
+      "desc": "Barcelona suma una nueva dirección gastronómica en las alturas. Chimú ha estrenado propuesta en la azotea o «rooftop» del hotel LabTwentyTwo Barcelona, en pleno distrito de Sant Martí, con una panorámica poco habitual de la ciudad , porque desde su atalaya se ",
+      "date": "Fri, 17 Jul 2026 17:36:49 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Las gasolineras más baratas de Galicia: las paradas clave en la AP-9, A-6 y A-8",
+      "link": "https://www.abc.es/espana/galicia/gasolineras-baratas-galicia-paradas-clave-ap9-20260717173552-nt.html",
+      "desc": "Llenar el depósito antes de poner rumbo a las vacaciones duele un poco menos si sabes elegir el surtidor. Con los precios al alza en plena temporada estival, la Organización de Consumidores y Usuarios (OCU) acaba de publicar su mapa de tarifas para las grandes",
+      "date": "Fri, 17 Jul 2026 17:35:52 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Cortes en Colón, Serrano y Castellana desde primera hora de la tarde por el España-Argentina",
+      "link": "https://www.abc.es/espana/madrid/cortes-colon-serrano-castellana-primera-hora-tarde-20260717164628-nt.html",
+      "desc": "En los alrededores de Colón los grupos de aficionados de la selección española de fútbol podrán empezar a ocupar la calzada a primera hora de la tarde del domingo, cuando están previstos los primeros cortes de tráfico en la céntrica plaza y en las calles aleda",
+      "date": "Fri, 17 Jul 2026 17:27:23 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
     {
       "title": "El PP ratifica como candidatos a todos los alcaldes de las capitales andaluzas",
       "link": "https://www.abc.es/espana/andalucia/pp-ratifica-candidatos-alcaldes-capitales-andaluzas-20260717170027-nts.html",
@@ -37,166 +197,6 @@
       "link": "https://www.abc.es/espana/castilla-la-mancha/muere-ahogado-hombre-anos-piscina-albalate-zorita-20260717164300-nt.html",
       "desc": "Un hombre de 70 años ha fallecido este viernes por ahogamiento en una piscina en Albalate de Zorita (Guadalajara). Según han informado a ABC fuentes del Servicio de Emergencias 112 de Castilla-La Mancha, el aviso se ha producido a las 13.22 horas en la urbaniz",
       "date": "Fri, 17 Jul 2026 16:43:00 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "El Rey recibirá en audiencia a Juanma Moreno el martes tras su reelección",
-      "link": "https://www.abc.es/espana/andalucia/rey-recibira-juanma-moreno-martes-tras-reeleccion-20260717163919-nts.html",
-      "desc": "El Rey Felipe VI recibirá en audiencia el martes 21 de julio en el Palacio de la Zarzuela al presidente de la Junta de Andalucía, Juanma Moreno, tras su reelección en el cargo. Según ha informado la Casa Real, la audiencia tendrá lugar a las 11.30 y se enmarca",
-      "date": "Fri, 17 Jul 2026 16:39:19 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Mañueco reprocha al Gobierno que vea un «complot maquiavélico» cuando hay imputados en sus filas",
-      "link": "https://www.abc.es/espana/castilla-leon/manueco-reprocha-gobierno-vea-complot-maquiavelico-imputados-20260717163642-nt.html",
-      "desc": "El presidente de la Junta de Castilla y León, Alfonso Fernández Mañueco, ha elogiado la práctica de una política basada en valores frente a la actitud de un Gobierno central al que ha reprochado que vea un «complot maquiavélico» cada vez que se produce una imp",
-      "date": "Fri, 17 Jul 2026 16:36:43 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Condenado por irrumpir con su moto en una romería y negarse a la prueba de drogas",
-      "link": "https://www.abc.es/espana/comunidad-valenciana/alicante/condenado-irrumpir-moto-romeria-negarse-prueba-drogas-20260717162131-nt.html",
-      "desc": "La Sección Tercera de la Audiencia Provincial de Alicante ha ratificado la condena a seis meses de prisión a un hombre que se negó a hacerse las pruebas de detección de drogas al ser requerido por la Policía Local de Monforte del Cid tras irrumpir con su motoc",
-      "date": "Fri, 17 Jul 2026 16:21:31 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "¿Estrechará la mano Borja Iglesias a Trump si España gana? Esto decía antes del mundial",
-      "link": "https://www.abc.es/espana/galicia/estrechara-mano-borja-iglesias-trump-espana-gana-20260717161359-nt.html",
-      "desc": "Borja Iglesias nunca ha sido un futbolista de molde. El delantero gallego, a un paso de disputar la final del Mundial 2026 con la selección española, siempre ha hablado claro sobre lo que piensa dentro y fuera del campo . Y justo antes de poner rumbo al torneo",
-      "date": "Fri, 17 Jul 2026 16:14:00 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Dónde ver la final del Mundial en Lugo: el casco histórico instalará una pantalla gigante",
-      "link": "https://www.abc.es/espana/galicia/ver-final-mundial-lugo-casco-historico-instalara-20260717160000-nt.html",
-      "desc": "La capital lucense también se suma a la gran cita deportiva de este domingo. Tras la victoria de la selección frente a Francia en las semifinales, los aficionados ya buscan el mejor rincón para vivir el histórico choque que cerrará el Mundial de Canadá, México",
-      "date": "Fri, 17 Jul 2026 16:00:00 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Morata pide «replantear el calendario de cierre» de la central de Cofrentes tras el informe de Almaraz",
-      "link": "https://www.abc.es/espana/comunidad-valenciana/morata-pide-replantear-calendario-cierre-central-cofrentes-20260717152440-nt.html",
-      "desc": "El presidente de las Cámaras de Comercio de la Comunidad Valenciana y de Cámara Valencia, José Vicente Morata, ha defendido que «la decisión del Consejo de Seguridad Nuclear (CSN) sobre Almaraz (Cáceres) refuerza la necesidad de replantear el calendario de cie",
-      "date": "Fri, 17 Jul 2026 15:24:40 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "La embajadora de Sudáfrica conmemora en Toledo el Día de Nelson Mandela",
-      "link": "https://www.abc.es/espana/castilla-la-mancha/toledo/embajadora-sudafrica-conmemora-toledo-dia-nelson-mandela-20260717151240-nt.html",
-      "desc": "La embajadora de Sudáfrica, Sankie D. Mthembi-Mahanyele, ha elegido visitar la ciudad de Toledo este viernes para acercar a los niños del campamento urbano del colegio Garcilaso de la Vega la figura de Nelsón Mandela , en la víspera de la celebración de su Día",
-      "date": "Fri, 17 Jul 2026 15:12:41 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Ortega Smith abandona el Grupo de Vox en el Congreso y acusa a Abascal de «secuestrar» el partido",
-      "link": "https://www.abc.es/espana/ortega-smith-abandona-paso-grupo-mixto-congreso-20260717151014-nt.html",
-      "desc": "El diputado nacional Javier Ortega Smith solicitó este viernes su baja como miembro del Grupo Parlamentario Vox en el Congreso para adscribirse al Mixto. Anunció la decisión en una misiva en la que acusa al presidente del partido, Santiago Abascal, de «secuest",
-      "date": "Fri, 17 Jul 2026 15:10:15 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "La Audiencia Nacional rechaza la extradición de Pipo a EEUU, líder del cártel de 'Los Lobos'",
-      "link": "https://www.abc.es/espana/andalucia/malaga/audiencia-nacional-rechaza-extradicion-pipo-eeuu-lider-20260717145254-nts.html",
-      "desc": "La Audiencia Nacional ha rechazado la petición de extradición emitida por los Estados Unidos por Wilmer Chavarría, alias 'Pipo', líder del cartel ecuatoriano de Los Lobos. La Audiencia Nacional ha mostrado su negativa ante la «falta de información» y al consid",
-      "date": "Fri, 17 Jul 2026 15:02:28 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "gen"
-    },
-    {
-      "title": "El PP en Jaén opta por un perfil moderado para luchar por la alcaldía de Jaén",
-      "link": "https://www.abc.es/espana/andalucia/jaen/pp-jaen-insiste-perfil-moderado-luchar-alcaldia-20260717134924-nts.html",
-      "desc": "Pese a que hasta última hora de este jueves no se hizo oficial que la candidata a la alcaldía de la capital de   Jaén sería Isabel Azañón , su nombre llevaba ya tiempo resonando en los mentideros políticos. El presidente de los populares en Andalucía, Juanma M",
-      "date": "Fri, 17 Jul 2026 14:59:40 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "El CEPA Bécquer de Toledo impulsa la inclusión e innovación educativa con su primer Erasmus+",
-      "link": "https://www.abc.es/espana/castilla-la-mancha/toledo/cepa-becquer-toledo-impulsa-inclusion-innovacion-educativa-20260716145454-nt.html",
-      "desc": "El CEPA Gustavo Adolfo Bécquer de Toledo desarrolla el proyecto Erasmus+ KA122-ADU «Inclusión y aprendizaje digital para adultos en un contexto intercultural e intergeneracional», financiado por la Unión Europea y con vigencia hasta marzo de 2027. Se trata de ",
-      "date": "Fri, 17 Jul 2026 14:54:54 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "El Córdoba CF añade al Cádiz a su exigente calendario de amistosos de pretemporada",
-      "link": "https://www.abc.es/espana/andalucia/cordoba/cordoba-cf/cordoba-anade-cadiz-exigente-calendario-amistosos-pretemporada-20260717145321-nts.html",
-      "desc": "El Córdoba CF ya empieza a establecer los últimos detalles de su pretemporada. Además de tener muy adelantado el trabajo respecto al plantel de la próxima temporada, el calendario de amistosos ya se encuentra prácticamente perfilado con el anuncio del duelo an",
-      "date": "Fri, 17 Jul 2026 14:53:22 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Presentación de Damián Cáceres y Jacobo Martí en el Córdoba CF: «Si estamos aquí es porque creen que tenemos nivel»",
-      "link": "https://www.abc.es/espana/andalucia/cordoba/cordoba-cf/damian-caceres-jacobo-marti-afrontan-ilusion-ambicion-20260717135143-nts.html",
-      "desc": "Damián Cáceres y Jacobo Martí , dos de las apuestas del Córdoba CF en este mercado de fichajes, han sido presentados este viernes en el Museo Arqueológico de Córdoba. Ambos llegan con la vitola de ser grandes promesas de Segunda y Primera Federación, pero sin ",
-      "date": "Fri, 17 Jul 2026 14:52:48 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "El Gobierno de Ayuso se estrena como acusación popular por atentado natural en el incendio de Lozoyuela",
-      "link": "https://www.abc.es/espana/madrid/incendio-20260717131058-nt.html",
-      "desc": "El Gobierno regional que preside Isabel Díaz Ayuso estrenará con motivo del incendio de Lozoyuela la reforma legal que se aprobó el pasado mes de abril en la Asamblea de Madrid y que permite a la Comunidad personarse como acusación popular en caso de atentado ",
-      "date": "Fri, 17 Jul 2026 14:51:06 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Torres pide responsabilidades a Feijóo por anticipar un «varapalo» a la amnistía",
-      "link": "https://www.abc.es/espana/canarias/torres-pide-responsabilidades-feijoo-anticipar-varapalo-amnistia-20260717144731-nt.html",
-      "desc": "El ministro de Política Territorial, Ángel Víctor Torres, ha recordado las palabras del líder del PP Alberto Núñez Feijóo cuando aseguró que la Justicia europea «daría un varapalo al Gobierno de España» con la Ley de Amnistía, y le pide responsabilidades. Lejo",
-      "date": "Fri, 17 Jul 2026 14:48:07 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Suspendido el segundo programa educativo estival en Umbralejo por el incendio de La Mierla",
-      "link": "https://www.abc.es/espana/castilla-la-mancha/suspendido-segundo-programa-educativo-estival-umbralejo-incendio-20260717143647-nt.html",
-      "desc": "El segundo turno del programa educativo estival ' Recuperación y utilización educativa de pueblos abandonados ' que se desarrolla en Umbralejo (Guadalajara), se ha suspendido este viernes con motivo del incendio declarado este jueves en la Sierra Norte de Guad",
-      "date": "Fri, 17 Jul 2026 14:36:47 +0200",
       "source": "ABC",
       "color": "#c0392b",
       "feedId": "ABC",
