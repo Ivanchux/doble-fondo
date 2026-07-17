@@ -1,7 +1,37 @@
 {
-  "updated": "2026-07-17T02:10:34Z",
+  "updated": "2026-07-17T06:11:12Z",
   "count": 24,
   "items": [
+    {
+      "title": "Gavira se sentará a la derecha de Juanma Moreno en el Parlamento de Andalucía",
+      "link": "https://www.abc.es/espana/andalucia/gavira-20260717071536-nts.html",
+      "desc": "Sentarse al lado del jefe siempre tiene un valor simbólico. En política, aún más. En el Congreso de los Diputados, por ejemplo, junto a Pedro Sánchez se sienta Carlos Cuerpo , que ha pasado a ocupar el lugar que hasta hace poco correspondía a María Jesús Monte",
+      "date": "Fri, 17 Jul 2026 07:15:36 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Churrasco a 10 euros y raciones de pulpo: así será la gran fiesta gastronómica de este domingo en Vigo",
+      "link": "https://www.abc.es/espana/galicia/churrasco-euros-raciones-pulpo-gran-fiesta-gastronomica-20260716060017-nt.html",
+      "desc": "Vigo se prepara para uno de los grandes planazos gastronómicos de este fin de semana. Si buscas disfrutar de una buena comida tradicional sin dejarte el sueldo, la parroquia de Matamá tiene la respuesta. Este domingo 19 de julio, el Parque Forestal Maruxento s",
+      "date": "Fri, 17 Jul 2026 06:00:17 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Dónde ir de fiesta este viernes 17 de julio en la provincia de Toledo",
+      "link": "https://www.abc.es/espana/castilla-la-mancha/toledo/pueblos/fiesta-viernes-julio-provincia-toledo-20260717050000-nt.html",
+      "desc": "Yuncler - A la 20.00 horas: encierro y suelta del toro. - A las 24.00 horas: verbena con la orquesta 'Panther'. Las Ventas de Retamosa - A las 20.00 horas: fiesta 'Holi'. - A las 24.00 horas: verbena con la orquesta 'Estrella central' y a continuación discotec",
+      "date": "Fri, 17 Jul 2026 05:00:03 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
     {
       "title": "Felipe VI y Leonor volarán separados a Nueva York: la seguridad detrás del viaje de la Familia Real a la final del Mundial",
       "link": "https://www.abc.es/espana/casa-real/felipe-leonor-volaran-separados-nueva-york-seguridad-20260717032223-nt.html",
@@ -197,36 +227,6 @@
       "link": "https://www.abc.es/espana/andalucia/cordoba/semana-santa/virgen-carmen-puerto-seguro-llegar-cordoba-20260716132255-nts.html",
       "desc": "Día de entrañables evocaciones el que regala julio en mitad del verano, el del Carmen . Su nombre lo dice todo, atado a entrañables personas en cada familia, a amistades, a la devoción muy extendida que surca mares, ríos y calles latiendo plena de vida en cada",
       "date": "Thu, 16 Jul 2026 23:04:10 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Veinte efectivos trabajan en el remate del incendio de Los Gallardos",
-      "link": "https://www.abc.es/espana/andalucia/almeria/veinte-efectivos-trabajan-remate-incendio-gallardos-20260716230001-nts.html",
-      "desc": "Unos 20 efectivos y dos autobombas trabajan en la noche de este jueves, 16 de julio, en las labores de remate y liquidación del incendio de Los Gallardos (Almería), que se encuentra no obstante controlado. Así lo ha detallado el Plan Infoca a través de su cuen",
-      "date": "Thu, 16 Jul 2026 23:00:01 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Las notas de cortes de la Universidad de Córdoba en la segunda adjudicación",
-      "link": "https://www.abc.es/espana/andalucia/cordoba/notas-cortes-universidad-cordoba-segunda-adjudicacion-20260716222058-nts.html",
-      "desc": "El grado de Medicina, con un 13,125, y el doble grado de Biotecnología y Bioquímica, con un 12,861, vuelven a marcar las notas de corte más altas en la Universidad de Córdoba (UCO) , esta vez en la segunda adjudicación, para el próximo curso 26/27. Según la in",
-      "date": "Thu, 16 Jul 2026 22:20:59 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "gen"
-    },
-    {
-      "title": "Medicina Legal de Almería entrega otros tres cuerpos del incendio de Los Gallardos",
-      "link": "https://www.abc.es/espana/andalucia/almeria/medicina-legal-almeria-entrega-tres-cuerpos-incendio-20260716220925-nts.html",
-      "desc": "Los cuerpos de las víctimas del trágico incendio de Los Gallardos se siguen entregando a sus familiares. Este jueves, han sido entregados los de otras tres víctimas, según ha informado el TSJA. Quedan, por tanto, después de los cinco cuerpos entregados ayer, c",
-      "date": "Thu, 16 Jul 2026 22:09:25 +0200",
       "source": "ABC",
       "color": "#c0392b",
       "feedId": "ABC",
