@@ -1,7 +1,37 @@
 {
-  "updated": "2026-07-18T13:03:03Z",
+  "updated": "2026-07-18T14:46:50Z",
   "count": 24,
   "items": [
+    {
+      "title": "La pesadilla de una mujer quemada viva: diez operaciones, rechazo a su cuerpo y a espera de sentencia",
+      "link": "https://www.abc.es/espana/galicia/pesadilla-mujer-quemada-viva-diez-operaciones-rechazo-20260718155344-nt.html",
+      "desc": "Tenía 29 años cuando una mañana salió de su casa y el hombre con el que había mantenido una relación sentimental, rota semanas antes, se abalanzó sobre ella. Después, y según el recuerdo de la víctima, la cogió violentamente por la coleta, le dio varios rodill",
+      "date": "Sat, 18 Jul 2026 15:53:44 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Lo importante",
+      "link": "https://www.abc.es/espana/galicia/carlos-principe-importante-20260717154323-nt.html",
+      "desc": "Perdonen mi atrevimiento. Voy a hablar del Alzheimer en vísperas de la final del Mundial y con las elites del PP y PSOE pasando por los juzgados. Mi madre murió de Alzheimer y viví esa experiencia, que destroza al enfermo pero también destruye la familia. El 1",
+      "date": "Sat, 18 Jul 2026 15:43:23 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Rueda llama al PPdeG a «conseguir lo que nos falta» para gobernar más ciudades",
+      "link": "https://www.abc.es/espana/galicia/rueda-llama-ppdeg-conseguir-falta-gobernar-ciudades-20260718145452-nt.html",
+      "desc": "El PP de Galicia está afinando sus objetivos para las próximas elecciones municipales, y entre ellos está indiscutiblemente alcanzar el gobierno de algunas de las ciudades en las que ganó pero se quedó a unos pocos votos de la mayoría absoluta. Alfonso Rueda e",
+      "date": "Sat, 18 Jul 2026 14:54:52 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
     {
       "title": "Carlos Martínez: «El programa de gobierno de la Junta no es más que la gestión de la inercia y el declive de la Comunidad»",
       "link": "https://www.abc.es/espana/castilla-leon/carlos-martinez-programa-gobierno-junta-gestion-inercia-20260718145035-nt.html",
@@ -173,16 +203,6 @@
       "caso": "other"
     },
     {
-      "title": "Detenido un joven e investigado otro, como presuntos autores de 15 incendios intencionados en  Zamora",
-      "link": "https://www.abc.es/espana/castilla-leon/detenido-joven-investigado-presuntos-autores-incendios-intencionados-20260718122051-nt.html",
-      "desc": "Agentes de la Guardia Civil detuvieron este pasado viernes a un varón e investigan a otro, como supuestos autores de los delitos de incendio e incendio forestal de manera intencionada. Los encausados son sendos hombres de 31 y 32 años, y estarían implicados en",
-      "date": "Sat, 18 Jul 2026 12:29:42 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
       "title": "Evacuados doce municipios por el incendio de la Mierla en Guadalajara",
       "link": "https://www.lavanguardia.com/sucesos/20260718/11595401/evacuados-doce-municipios-incendio-mierla-guadalajara.html",
       "desc": "El fuego afecta a 5.400 hectáreas, deja 600 evacuados y 12 pueblos desalojados",
@@ -190,26 +210,6 @@
       "source": "La Vanguardia",
       "color": "#8e44ad",
       "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "Galicia suma 7.390 afiliados a la Seguridad Social tras el proceso de regularización de personas migrantes",
-      "link": "https://www.abc.es/espana/galicia/galicia-suma-7390-afiliados-seguridad-social-tras-20260718120754-nt.html",
-      "desc": "Galicia ha sumado 7.390 personas afiliadas a la Seguridad Social relacionadas con el proceso de regularización extraordinario de personas extranjeras, a 30 de junio. Supone así el 4,6% del total de regularizados en alta. Así lo ha trasladado la Delegación del ",
-      "date": "Sat, 18 Jul 2026 12:07:54 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Junts exhibe como un triunfo el aval europeo a la amnistía pero reconoce el momento electoral «exigente»",
-      "link": "https://www.abc.es/espana/cataluna/junts-exhibe-triunfo-aval-europeo-amnistia-reconoce-20260718120719-nt.html",
-      "desc": "Como era previsible, Junts convirtió este sábado la sentencia del Tribunal de Justicia de la Unión Europea (TJUE) sobre la ley de amnistía en un argumento de celebración política. La dirección del partido reivindicó el fallo como una confirmación de la estrate",
-      "date": "Sat, 18 Jul 2026 12:07:20 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
       "caso": "other"
     },
     {
