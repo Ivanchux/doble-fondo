@@ -1,46 +1,246 @@
 {
-  "updated": "2026-07-18T04:54:59Z",
-  "count": 4,
+  "updated": "2026-07-18T07:41:30Z",
+  "count": 24,
   "items": [
     {
-      "title": "La UCO sostiene que Cerdán dejó de usar su tarjeta de crédito al llegar Ábalos al Ministerio",
-      "link": "https://www.lavanguardia.com/politica/20260717/11594815/uco-sostiene-cerdan-dejo-tarjeta-credito-llegar-abalos-ministerio.html",
-      "desc": "Los agentes apuntan a que no cuadra el dinero devuelto por el PSOE por sus gastos y sus movimientos bancarios",
-      "date": "17 Jul 2026 14:51:18 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
-      "caso": "lei"
+      "title": "¡España, a por el oro en Budapest!",
+      "link": "https://www.abc.es/espana/madrid/escuela-deporte/espana-oro-budapest-20260718093218-nt.html",
+      "desc": "La delegación española firmó este viernes su mejor jornada en los Juegos FISEC 2026 . Con pleno de victorias en todas las disciplinas, España certificó la clasificación para dos finales y mantiene intactas sus aspiraciones de cerrar una brillante participación",
+      "date": "Sat, 18 Jul 2026 09:32:18 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
     },
     {
-      "title": "La directora de la Guardia Civil niega presiones a la UCO y dice ser víctima de la trama de Cerdán",
-      "link": "https://www.lavanguardia.com/politica/20260717/11594700/directora-guardia-civil-niega-presiones-uco-dice-victima-trama-cerdan.html",
-      "desc": "Mercedes González ha declarado como investigada ante el juez de la Audiencia Nacional Santiago Pedraz",
-      "date": "17 Jul 2026 13:10:54 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
-      "caso": "lei"
+      "title": "La procesión extraordinaria de la Merced de Córdoba pasará por Colón y San Agustín",
+      "link": "https://www.abc.es/espana/andalucia/cordoba/semana-santa/procesion-extraordinaria-merced-cordoba-pasara-colon-san-20260718004910-nts.html",
+      "desc": "La hermandad de la Merced ya ha perfilado el recorrido de la procesión extraordinaria de Santa María de la Merced del 17 de octubre, que festejará el 50 aniversario de la bendición y llegada de la imagen obra de Francisco Buiza a Córdoba. Saldrá la Virgen bajo",
+      "date": "Sat, 18 Jul 2026 09:21:42 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
     },
     {
-      "title": "El DAO de la Guardia Civil: “Son mis superiores quienes han decidido que siga en el puesto”",
-      "link": "https://www.lavanguardia.com/politica/20260717/11594522/dao-guardia-civil-son-mis-superiores-quienes-han-decidido-siga-puesto.html",
-      "desc": "Manuel Llamas, que está imputado en el caso Leire, reconoce que “pude decir a mis agentes que no fueran proactivos porque hay un exceso de protagonismo y vanidad y quien investiga es el juez, no nosotros”",
-      "date": "17 Jul 2026 11:59:14 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
-      "caso": "lei"
+      "title": "El Cabildo 'afina' la música para la procesión de la Virgen de la Fuensanta de Córdoba",
+      "link": "https://www.abc.es/espana/andalucia/cordoba/semana-santa/cabildo-afina-musica-procesion-virgen-fuensanta-cordoba-20260718132342-nts.html",
+      "desc": "La planificación de la música de la procesión de la Patrona de Córdoba, Nuestra Señora de la Fuensanta, está en marcha. El Cabildo Catedral tiene ya 'afinados' los acuerdos con dos de las tres bandas participantes el mes de septiembre. El canónigo chantre-maes",
+      "date": "Sat, 18 Jul 2026 09:20:39 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
     },
     {
-      "title": "Tras la sentencia de la amnistía, ¿qué debería pasar?",
-      "link": "https://www.lavanguardia.com/politica/20260717/11594088/sentencia-que-deberia-pasar.html",
-      "desc": "El Tribunal de Cuentas y la Audiencia Nacional deberán resolver tras el TJUE",
-      "date": "17 Jul 2026 00:05:00 +0200",
+      "title": "El Córdoba CF afrontará una temporada con un peaje que supera los 30.000 kilómetros",
+      "link": "https://www.abc.es/espana/andalucia/cordoba/cordoba-cf/cordoba-afrontara-temporada-peaje-supera-30000-kilometros-20260718091742-nts.html",
+      "desc": "La nueva temporada obligará al Córdoba CF a competir también contra la distancia. La composición de Segunda División dibuja un mapa especialmente exigente para el conjunto blanquiverde que recorrerá 30.132 kilómetros para completar sus 21 desplazamientos ligue",
+      "date": "Sat, 18 Jul 2026 09:17:42 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "0-0: El Albacete empieza sus amistosos con un empate ante el Leganés",
+      "link": "https://www.abc.es/espana/castilla-la-mancha/toledo/deportes/albacete-empieza-amistosos-empate-ante-leganes-20260718091654-nt.html",
+      "desc": "El Albacete Balompié disputó en la matinal de este viernes su primer partido amistoso de pretemporada y lo hizo con un empate a cero goles en su visita al CD Leganés, un encuentro disputado en la Ciudad Deportiva del club blanquiazul. El encuentro se desarroll",
+      "date": "Sat, 18 Jul 2026 09:16:54 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Nuevas plazas de jueces en Córdoba: estos son los juzgados que se reforzarán",
+      "link": "https://www.abc.es/espana/andalucia/cordoba/nuevas-plazas-jueces-cordoba-juzgados-reforzaran-20260718090927-nts.html",
+      "desc": "La reorganización de la Justicia en el marco del plan gubernamental para descongestionar esta colapsada administración, que solo en Córdoba arrastra 66.975 procedimientos en trámite (últimos datos), sigue dando pasos. El Gobierno ha anunciado un importante ref",
+      "date": "Sat, 18 Jul 2026 09:09:27 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Dos cordobeses completan el Mundial con España hasta la final con Argentina: «Ha sido una aventura y estamos viviendo un sueño»",
+      "link": "https://www.abc.es/espana/andalucia/cordoba/marea-roja-cordobesa-empujara-espana-segunda-estrella-20260718090924-nts.html",
+      "desc": "La segunda estrella está cada vez más cerca. España acaricia la posibilidad de conquistar la Copa del Mundo de 2026 , sin embargo, los pupilos de Luis de la Fuente deberán superar a una correosa Argentina que ha alcanzado la final a base de carácter, resistenc",
+      "date": "Sat, 18 Jul 2026 09:09:24 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "El Colegio Mayor Séneca de Córdoba reabre sus puertas en septiembre como centro de FP con 250 alumnos",
+      "link": "https://www.abc.es/espana/andalucia/cordoba/colegio-mayor-seneca-cordoba-reabre-puertas-septiembre-20260718090852-nts.html",
+      "desc": "Córdoba contará a partir de septiembre con un nuevo centro de Formación Profesional . Gestionado por la empresa malagueña Cesur , el nuevo complejo abrirá sus puertas en Colegio Mayor Universitario Lucio Anneo Séneca , espacio del que consiguió en febrero la c",
+      "date": "Sat, 18 Jul 2026 09:08:52 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "La cabra menguante",
+      "link": "https://www.abc.es/espana/andalucia/cordoba/luis-miranda-cabra-menguante-20260718110715-nts.html",
+      "desc": "Tantos años después, cuando Alfonso Guerra ha pasado de ser un político taimado y algo marrullero a digno custodio de los valores de la democracia, el PSOE que ahora reniega de él sigue con la idea de poner candidatos clonados. «Si presentamos a una cabra, gan",
+      "date": "Sat, 18 Jul 2026 09:08:37 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Carolina Palencia, la maestra que abre puertas y ventanas al folclore musical",
+      "link": "https://www.abc.es/espana/castilla-la-mancha/carolina-palencia-maestra-abre-puertas-ventanas-folclore-20260717084343-nt.html",
+      "desc": "«El folclore necesita que se abran puertas y ventanas». La frase resume una forma de entender la música, la educación y hasta la vida . No es una consigna ni un eslogan. Es una declaración de intenciones que Carolina Palencia lleva años poniendo en práctica de",
+      "date": "Sat, 18 Jul 2026 08:43:43 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Toledo activa la reconstrucción de la Casa de Corcho con una inversión de 264.700 euros",
+      "link": "https://www.abc.es/espana/castilla-la-mancha/toledo/toledo-activa-reconstruccion-casa-corcho-inversion-264700-20260717084324-nt.html",
+      "desc": "La Casa de Corcho estuvo a punto de estrenar una nueva etapa justo cuando el fuego cambió por completo su destino. Un incendio declarado el 22 de mayo arrasó buena parte de su cubierta y truncó un proyecto que ya estaba listo para arrancar. Dos meses después, ",
+      "date": "Sat, 18 Jul 2026 08:43:24 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Urbanismo avala la construcción de hasta 90 viviendas en el barrio toledano de la Legua en un edificio de 4 plantas",
+      "link": "https://www.abc.es/espana/castilla-la-mancha/toledo/urbanismo-avala-construccion-viviendas-barrio-toledano-legua-20260716084306-nt.html",
+      "desc": "Los técnicos municipales de la Concejalía de Urbanismo del Ayuntamiento de Toledo han informado favorablemente el cambio de uso de una parcela de La Legua para permitir la construcción de un edificio residencial de cuatro plantas y hasta 90 viviendas. El Plan ",
+      "date": "Sat, 18 Jul 2026 08:43:06 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Estados Unidos bombardea Irán por séptima noche consecutiva",
+      "link": "https://www.lavanguardia.com/internacional/20260718/11595318/estados-unidos-bombardea-iran-septima-noche-consecutiva.html",
+      "desc": "Teherán ha respondido atacando objetivos en&nbsp;Jordania, Kuwait y Baréin",
+      "date": "18 Jul 2026 06:30:46 +0200",
       "source": "La Vanguardia",
       "color": "#8e44ad",
       "feedId": "LaVanguardia",
-      "caso": "gen"
+      "caso": "other"
+    },
+    {
+      "title": "Orgullo de Barcelona 2026: horario, recorrido de la manifestación y cortes de tráfico previstos por la marcha hoy",
+      "link": "https://www.abc.es/espana/cataluna/orgullo-barcelona-2026-horario-recorrido-manifestacion-cortes-20260718060000-nt.html",
+      "desc": "Vuelve un año más la manifestación del Orgullo de Barcelona, uno de los actos más multitudinarios del verano en la capital catalana. Miles de personas saldrán este sábado 18 de julio a las calles del centro de la ciudad para defender los derechos del colectivo",
+      "date": "Sat, 18 Jul 2026 06:00:07 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Trenes, chispas y maleza: el cóctel fatal de los incendios en Galicia",
+      "link": "https://www.abc.es/espana/galicia/trenes-chispas-maleza-coctel-fatal-incendios-galicia-20260716060000-nt.html",
+      "desc": "Ocho fuegos consecutivos a la vera de una misma línea ferroviaria sembraron el caos el pasado lunes en Orense. Las llamas obligaron a cancelaciones y retrasos en el tramo afectado entre la capital aurea y O Irixo, con una circulación que tardó un día entero en",
+      "date": "Sat, 18 Jul 2026 06:00:00 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Poliamor futbolístico",
+      "link": "https://www.lavanguardia.com/deportes/20260718/11595049/poliamor-futbolistico.html",
+      "desc": "",
+      "date": "18 Jul 2026 06:00:00 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
+    {
+      "title": "Iniesta: “Te identificas con esta selección, da mucha alegría”",
+      "link": "https://www.lavanguardia.com/deportes/futbol/20260718/11594991/iniesta-te-identificas-seleccion-da-alegria.html",
+      "desc": "El héroe del Mundial de Sudáfrica analiza para 'La Vanguardia' la final contra Argentina",
+      "date": "18 Jul 2026 06:00:00 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
+    {
+      "title": "La entrevista definitiva con el autor de la foto que unió a Messi y Lamine hace 20 años",
+      "link": "https://www.lavanguardia.com/deportes/20260718/11594888/entrevista-definitiva-autor-fotografia-milagro-unio-messi-lamine-20-anos.html",
+      "desc": "Cara a cara en la redacción de La Vanguardia con el fotógrafo que disparó la instantánea más famosa del momento",
+      "date": "18 Jul 2026 06:00:00 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
+    {
+      "title": "Menuda fiesta de la hispanidad...",
+      "link": "https://www.lavanguardia.com/deportes/20260718/11595010/espana-argentina-final-mundial-hispanidad-fiesta.html",
+      "desc": "",
+      "date": "18 Jul 2026 06:00:00 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
+    {
+      "title": "No congelen a Messi",
+      "link": "https://www.lavanguardia.com/deportes/20260718/11595016/argentina-espana-final-mundial-messi.html",
+      "desc": "",
+      "date": "18 Jul 2026 06:00:00 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
+    {
+      "title": "El Estado invirtió más del doble en Madrid que en Catalunya en el 2025",
+      "link": "https://www.lavanguardia.com/economia/20260718/11595038/estado-espana-inversion-catalunya-madrid.html",
+      "desc": "La comunidad catalana recibió el 8,6% del total estatal, la mitad de su peso en el PIB",
+      "date": "18 Jul 2026 06:00:00 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
+    {
+      "title": "Las patronales claman contra la baja inversión: “Asfixia a la economía catalana”",
+      "link": "https://www.lavanguardia.com/economia/20260718/11595034/patronal-inversion-catalunya-estado-espana.html",
+      "desc": "Exigen elevar los desembolsos para poner fin a años de retrasos y mecanismos para garantizar que las cifras se cumplan",
+      "date": "18 Jul 2026 06:00:00 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
+    {
+      "title": "La ley de Cambres se retrasa por la polémica de las sillas de plata",
+      "link": "https://www.lavanguardia.com/economia/20260718/11595035/ley-cambres-retrasa-polemica-sillas-plata.html",
+      "desc": "Los Comuns y la CUP recurren al Consell de Garanties Estatutàries para protestar por la medida",
+      "date": "18 Jul 2026 06:00:00 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
+    {
+      "title": "Enganchados a internet: así redibujan la vejez los séniors digitales",
+      "link": "https://www.lavanguardia.com/vida/20260718/11586833/senior-digitales-redibujan-vejez.html",
+      "desc": "El 85% de los que tienen entre 65 y 74 usan internet; el 75% de manera “intensa”",
+      "date": "18 Jul 2026 06:00:00 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
     }
   ]
 }
