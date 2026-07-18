@@ -1,7 +1,157 @@
 {
-  "updated": "2026-07-18T16:51:50Z",
+  "updated": "2026-07-18T18:56:06Z",
   "count": 24,
   "items": [
+    {
+      "title": "Comunidad",
+      "link": "https://www.abc.es/espana/castilla-leon/comunidad-20260717204133-nt.html",
+      "desc": "Fue una sorpresa, ninguno esperábamos que Ángel nos fuera a dejar en los albores del verano. Una enfermedad fulminante y todo se acabó. El tanatorio fue reconfortante al ver a Tere como siempre, apenada pero encarando la vida como una castellana de Valladolid,",
+      "date": "Sat, 18 Jul 2026 20:41:33 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "El fuego calcina en La Mierla 9.000 hectáreas y obliga a evacuar 15 municipios",
+      "link": "https://www.abc.es/espana/castilla-la-mancha/a-20260718184312-nt.html",
+      "desc": "La provincia de Guadalajara sufre un verano más la devastación de las llamas con cifras para la desesperanza. Si en septiembre de 2025 el incendio forestal del Pico del Lobo se daba por extinguido 22 días después de iniciarse y calcinar 2.500 hectáreas en terr",
+      "date": "Sat, 18 Jul 2026 20:39:59 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Vamos, España",
+      "link": "https://www.abc.es/espana/castilla-leon/vamos-espana-20260717203846-nt.html",
+      "desc": "Millones de españoles depositamos hoy sobre once futbolistas nuestra esperanza. Ondearemos banderas de España con orgullo sin que ningún gilitonto nos llame fachas. Ojalá brindemos esta noche con vino en la copa del mundo. Más allá de lo futbolístico, estas do",
+      "date": "Sat, 18 Jul 2026 20:38:46 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Trump venderá sus mensajes en redes a los inversores de Wall Street antes de ser públicos",
+      "link": "https://www.lavanguardia.com/economia/20260718/11595563/trump-vendera-mensajes-redes-inversores-wall-street.html",
+      "desc": "Los operadores dispondrán información antes de que se publique para especular",
+      "date": "18 Jul 2026 20:08:59 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
+    {
+      "title": "El alcalde de Nueva York estudia si tiene autoridad para arrestar a Netanyahu en su visita a la ONU",
+      "link": "https://www.lavanguardia.com/internacional/20260718/11595558/alcalde-nueva-york-estudia-autoridad-arrestar-netanyahu-visita-onu.html",
+      "desc": "El primer ministro israelí&nbsp;se plantea asistir a la Asamblea General el próximo septiembre",
+      "date": "18 Jul 2026 20:05:08 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
+    {
+      "title": "Dos militares estadounidenses mueren en Jordania en un ataque iraní",
+      "link": "https://www.lavanguardia.com/internacional/20260718/11595553/dos-militares-estadounidenses-mueren-jordania-ataque-irani.html",
+      "desc": "Un tercer soldado permanece desaparecido, confirmó el Comando Central de Estados Unidos en un comunicado",
+      "date": "18 Jul 2026 20:01:53 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
+    {
+      "title": "El Banco de Alimentos de Córdoba reparte 386.915 kilos de comida de abril a junio",
+      "link": "https://www.abc.es/espana/andalucia/cordoba/banco-alimentos-cordoba-reparte-386915-kilos-comida-20260718195843-nts.html",
+      "desc": "Un total de 14.645 se han beneficiado en el segundo trimestre de este año de la atención del Banco de Alimentos Medina Azahara, que desde hace unos años realiza en Córdoba la tarea de recoger comida y hacerla llegar a organizaciones que las reparten entre las ",
+      "date": "Sat, 18 Jul 2026 19:58:43 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "El «corazón partido» de los argentinos en Córdoba ante la final del Mundial con España",
+      "link": "https://www.abc.es/espana/andalucia/cordoba/corazon-partido-argentinos-cordoba-ante-final-mundial-20260718195840-nts.html",
+      "desc": "En 1573, concretamente el 6 de julio, un sevillano fundó una ciudad llamada Córdoba . Fue Jerónimo Luis de Cabrera, uno de los muchos españoles que se lanzaron a surcar el ancho océano. Hoy el lugar en el que se estableció ese municipio se llama Argentina y es",
+      "date": "Sat, 18 Jul 2026 19:58:40 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Córdoba será la provincia de Andalucía con más extensión de dehesa para la montanera",
+      "link": "https://www.abc.es/espana/andalucia/cordoba/cordoba-provincia-andalucia-extension-dehesa-montanera-20260718195630-nts.html",
+      "desc": "La capa de montanera definitiva de Andalucía para 2026 está formada por 189.442 recintos con una superficie de 1.596.810 hectáreas y suponen un valor medio de la Superficie Arbolada Cubierta de Quercus (SAC) de 31. Así lo recoge un informe elaborado por la Con",
+      "date": "Sat, 18 Jul 2026 19:57:20 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Una cámara térmica delata a dos menores como presuntos autores de unas fogatas en Benalmádena",
+      "link": "https://www.abc.es/espana/andalucia/malaga/camara-termica-delata-dos-menores-presuntos-autores-20260718193154-nts.html",
+      "desc": "La Policía Local de Benalmádena identificó en la madrugada de este sábado a dos menores de edad como presuntos autores de las reiteradas fogatas detectadas en el Monte Calamorro de dicha localidad de Málaga. La intervención fue posible gracias a la cámara térm",
+      "date": "Sat, 18 Jul 2026 19:31:55 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Las cabezas monumentales de Antonio López en Atocha recuperan su esplendor",
+      "link": "https://www.abc.es/espana/madrid/madrid-recupera-esplendor-cabezas-monumentales-antonio-lopez-20260718191153-nt.html",
+      "desc": "La estación de trenes de Atocha recupera uno de sus grandes símbolos visuales y emocionales. El emblemático grupo escultórico 'Día y Noche', obra del reconocido artista de Tomelloso Antonio López, vuelve a lucir con todo su esplendor en el exterior de la termi",
+      "date": "Sat, 18 Jul 2026 19:11:53 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Dónde estarán las pantallas gigantes para ver la final del Mundial, concello a concello",
+      "link": "https://www.abc.es/espana/galicia/pantallas-gigantes-ver-final-mundial-concello-concello-20260718190540-nt.html",
+      "desc": "Ayuntamientos de las cuatro provincias gallegas colocarán pantallas este domingo para poder ver en directo la final del Mundial 2026 -- 21.00 horas--, en la que España se batirá con Argentina, la selección que ganó la pasada Copa del Mundo. A pesar de que algu",
+      "date": "Sat, 18 Jul 2026 19:05:41 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Detenido un joven tras golpear con un puño americano en la cabeza a un vecino de Valladolid",
+      "link": "https://www.abc.es/espana/castilla-leon/detenido-joven-tras-golpear-puno-americano-cabeza-20260718190403-nt.html",
+      "desc": "Agentes de la Policía Nacional detuvieron el pasado jueves, 16 de julio, en Valladolid a un joven como presunto autor de un delito de lesiones. La agresión se había producido días antes, el 12 de julio, sobre las 06.00 horas. La víctima, un hombre joven, se en",
+      "date": "Sat, 18 Jul 2026 19:04:03 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Hospitalizadas una mujer y su hija de un año tras el incendio de su cocina en Puente Genil",
+      "link": "https://www.abc.es/espana/andalucia/cordoba/hospitalizadas-mujer-hija-ano-tras-incendio-cocina-20260718185628-nts.html",
+      "desc": "Una mujer y su bebé han tenido que ser trasladadas a un hospital tras producirse un incendio en una cocina de Puente Genil, según ha informado el 1-1-2, perteneciente a la Agencia de Emergencias de Andalucía , adscrita la Consejería de Presidencia, Sanidad y E",
+      "date": "Sat, 18 Jul 2026 18:56:29 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "La tortuga Yellow predice que España ganará el Mundial de fútbol de 2026 frente a Argentina y ya acertó con la Eurocopa",
+      "link": "https://www.abc.es/espana/andalucia/malaga/tortuga-yellow-predice-espana-ganara-mundial-futbol-20260718185318-nts.html",
+      "desc": "La selección española de fútbol bordará su segunda estrella en la camiseta este domingo 19 de julio en la gran final del Mundial de Fútbol de 2026 frente a Argentina. Al menos, así lo ha pronosticado Yellow, la célebre tortuga verde del Sea Life Benalmádena (M",
+      "date": "Sat, 18 Jul 2026 18:53:18 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
     {
       "title": "Los exámenes de valenciano del B2, C1 y C2 registran 16.139 matrículados",
       "link": "https://www.abc.es/espana/comunidad-valenciana/examenes-valenciano-registran-16139-matriculados-20260718182758-nt.html",
@@ -10,6 +160,16 @@
       "source": "ABC",
       "color": "#c0392b",
       "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Estabilizado el incendio forestal en Pontils, en la Conca de Barberà",
+      "link": "https://www.lavanguardia.com/local/tarragona/20260718/11595516/bomberos-tratan-sofocar-incendio-forestal-pontils-conca-barbera.html",
+      "desc": "Han participado en las tareas de extinción una veintena de dotaciones terrestres y seis aéreas, que han contado con la ayuda de los agricultores y su maquinaria pesada",
+      "date": "18 Jul 2026 18:15:34 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
       "caso": "other"
     },
     {
@@ -30,6 +190,16 @@
       "source": "ABC",
       "color": "#c0392b",
       "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Suspendido el último entrenamiento de España antes de la final del Mundial por mal tiempo",
+      "link": "https://www.lavanguardia.com/deportes/futbol/20260718/11595497/aplazado-entrenamiento-espana-tormenta-electrica.html",
+      "desc": "Los jugadores se entrenaron en el gimnasio",
+      "date": "18 Jul 2026 17:31:49 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
       "caso": "other"
     },
     {
@@ -70,176 +240,6 @@
       "source": "ABC",
       "color": "#c0392b",
       "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Rescatan a 11 personas en el naufragio de un catamarán hundido en Alicante",
-      "link": "https://www.abc.es/espana/comunidad-valenciana/alicante/rescatan-personas-naufragio-catamaran-hundido-alicante-20260718163523-nt.html",
-      "desc": "Los 11 tripulantes de un catamarán de buceo han sido rescatados tras un naufragio en el que la embarcación se ha hundido en aguas situadas al sureste de Tabarca -la isla poblada más pequeña de España- en Alicante. La emergencia fue comunicada por Salvamento Ma",
-      "date": "Sat, 18 Jul 2026 16:35:23 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Trump culpa a Canadá por el humo de los incendios forestales y dice que sumará el costo a los aranceles",
-      "link": "https://www.lavanguardia.com/internacional/20260718/11595460/trump-culpa-canada-humo-incendios-forestales-dice-sumara-costo-aranceles.html",
-      "desc": "Canadá ha invertido 8.560 millones de dólares en la sostenibilidad forestal y prevención de incendios desde el 2020",
-      "date": "18 Jul 2026 15:54:01 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "La pesadilla de una mujer quemada viva: diez operaciones, rechazo a su cuerpo y a espera de sentencia",
-      "link": "https://www.abc.es/espana/galicia/pesadilla-mujer-quemada-viva-diez-operaciones-rechazo-20260718155344-nt.html",
-      "desc": "Tenía 29 años cuando una mañana salió de su casa y el hombre con el que había mantenido una relación sentimental, rota semanas antes, se abalanzó sobre ella. Después, y según el recuerdo de la víctima, la cogió violentamente por la coleta, le dio varios rodill",
-      "date": "Sat, 18 Jul 2026 15:53:44 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Lo importante",
-      "link": "https://www.abc.es/espana/galicia/carlos-principe-importante-20260717154323-nt.html",
-      "desc": "Perdonen mi atrevimiento. Voy a hablar del Alzheimer en vísperas de la final del Mundial y con las elites del PP y PSOE pasando por los juzgados. Mi madre murió de Alzheimer y viví esa experiencia, que destroza al enfermo pero también destruye la familia. El 1",
-      "date": "Sat, 18 Jul 2026 15:43:23 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Dimite el jefe del grupo conservador de Merz tras recurrir a la gestación subrogada",
-      "link": "https://www.lavanguardia.com/internacional/20260718/11595452/jens-spahn-merz-jefe-grupo-conservador-alemania-gestacion-subrogada-vientre-alquiler.html",
-      "desc": "Jens Spahn admite en una carta a sus correligionarios que su opción para ser padre es incompatible con la postura oficial de la democristiana CDU, que rechaza los vientres de alquiler",
-      "date": "18 Jul 2026 14:56:13 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "Rueda llama al PPdeG a «conseguir lo que nos falta» para gobernar más ciudades",
-      "link": "https://www.abc.es/espana/galicia/rueda-llama-ppdeg-conseguir-falta-gobernar-ciudades-20260718145452-nt.html",
-      "desc": "El PP de Galicia está afinando sus objetivos para las próximas elecciones municipales, y entre ellos está indiscutiblemente alcanzar el gobierno de algunas de las ciudades en las que ganó pero se quedó a unos pocos votos de la mayoría absoluta. Alfonso Rueda e",
-      "date": "Sat, 18 Jul 2026 14:54:52 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Carlos Martínez: «El programa de gobierno de la Junta no es más que la gestión de la inercia y el declive»",
-      "link": "https://www.abc.es/espana/castilla-leon/carlos-martinez-programa-gobierno-junta-gestion-inercia-20260718145035-nt.html",
-      "desc": "El secretario general del PSOE de Castilla y León y portavoz en las Cortes autonómicas, Carlos Martínez, manifestaba este sábado que las comparecencias protagonizadas esta semana por las diferentes consejerías de la Junta están sirviendo para poner de manifies",
-      "date": "Sat, 18 Jul 2026 14:50:35 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Álvaro González, en narrativa, y Diego Braña, en poesía, se alzan con el Certamen Literario Valpuesta para jóvenes",
-      "link": "https://www.abc.es/espana/castilla-leon/alvaro-gonzalez-narrativa-diego-brana-poesia-alzan-20260718143852-nt.html",
-      "desc": "El vallisoletano Álvaro González Villoria, en la categoría de narrativa, y el zamorano Diego Braña Linares, en poesía, recibían este sábado los galardones de la primera edición del Certamen Literario Valpuesta para Jóvenes Escritores de Castilla y León, una in",
-      "date": "Sat, 18 Jul 2026 14:39:26 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Los nueve candidatos del PP a las alcaldías empiezan a mostrar sus cartas para las municipales de 2027",
-      "link": "https://www.abc.es/espana/castilla-leon/nueve-candidatos-pp-alcaldias-empiezan-mostrar-cartas-20260718141613-nt.html",
-      "desc": "Tras el visto bueno recibido por el Comité Electoral Nacional el pasado viernes, el presidente del PP, Alberto Núñez Feijóo, bendecía en la mañana de este sábado en un acto celebrado en Santiago de Compostela a los aspirantes a las alcaldías del más de medio c",
-      "date": "Sat, 18 Jul 2026 14:16:13 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Juanma Moreno pide precaución ante la próxima ola de calor: «Puede durar 20 días»",
-      "link": "https://www.abc.es/espana/andalucia/juanma-moreno-pide-precaucion-ante-proxima-ola-20260718135505-nts.html",
-      "desc": "Andalucía afronta en los próximos días la tercera ola de calor del verano . Un episodio que, según las previsiones, puede alargarse y bastante. Este fin de semana arranca un periodo de 20 días de «alerta de calor extraordinaria», tal y como avanzó Antonio Sanz",
-      "date": "Sat, 18 Jul 2026 13:55:05 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Los alcaldes del PP en la región activan la precampaña con el aval de Feijóo: «España nos necesita»",
-      "link": "https://www.abc.es/espana/castilla-la-mancha/alcaldes-pp-region-activan-precampana-aval-feijoo-20260718134841-nt.html",
-      "desc": "El Partido Popular ha puesto en marcha su maquinaria electoral de cara a las municipales de 2027. Alberto Núñez Feijóo reunió en Santiago de Compostela a los candidatos de las capitales de provincia españolas en un acto con el que la dirección nacional escenif",
-      "date": "Sat, 18 Jul 2026 13:48:41 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "El Córdoba CF se pondrá a prueba frente al Elche durante su concentración en Oliva",
-      "link": "https://www.abc.es/espana/andalucia/cordoba/cordoba-cf/cordoba-pondra-prueba-frente-elche-concentracion-oliva-20260718134744-nts.html",
-      "desc": "El Córdoba CF está a un paso de completar su calendario de amistosos de pretemporada. Los pupilos de Iván Ania afrontarán una preparación exigente, en la que también se medirán al Elche , otro rival de Primera División que servirá como una prueba de nivel para",
-      "date": "Sat, 18 Jul 2026 13:47:45 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Feijóo vaticina que «las urnas serán también la sentencia» del sanchismo",
-      "link": "https://www.abc.es/espana/galicia/feijoo-vaticina-urnas-sentencia-sanchismo-20260718120339-nt.html",
-      "desc": "En la semana en que se ha conocido el tercer fallo judicial relacionado con los escándalos que afectan al Gobierno, Alberto Núñez Feijóo ha vaticinado que «las urnas también serán la sentencia» de un sanchismo «que ya ha sido condenado en todas sus formas de c",
-      "date": "Sat, 18 Jul 2026 13:41:42 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "El PSOE acusa a Feijóo de «marcar la agenda» a Núñez y de dejarle «sin autonomía» política",
-      "link": "https://www.abc.es/espana/castilla-la-mancha/psoe-acusa-feijoo-marcar-agenda-nunez-dejarle-20260718133724-nt.html",
-      "desc": "La portavoz del Grupo Socialista en las Cortes de Castilla-La Mancha, Ana Isabel Abengózar, ha respondido este sábado al acto celebrado por el Partido Popular en Santiago de Compostela, donde Alberto Núñez Feijóo presentó a los candidatos de las capitales de p",
-      "date": "Sat, 18 Jul 2026 13:37:24 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Velatorio de recuerdos",
-      "link": "https://www.abc.es/espana/galicia/velatorio-recuerdos-20260718133110-nt.html",
-      "desc": "El otro día asistí a una despedida de recuerdos. Ocurrió delante de mi ventana. Abajo, junto al contenedor de basura, los vecinos iban dejando cosas (hierros, aparatos, muebles) y algunos se quedaban un instante mirando su objeto, como si estuvieran despidiénd",
-      "date": "Sat, 18 Jul 2026 13:31:10 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Evacuados doce municipios por el incendio de la Mierla en Guadalajara",
-      "link": "https://www.lavanguardia.com/sucesos/20260718/11595401/evacuados-doce-municipios-incendio-mierla-guadalajara.html",
-      "desc": "El fuego afecta a 5.400 hectáreas, deja 600 evacuados y 12 pueblos desalojados",
-      "date": "18 Jul 2026 12:25:18 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "La Finalissima en la redacción: el análisis desde la óptica de un español y un argentino",
-      "link": "https://www.lavanguardia.com/deportes/20260718/11595378/final-mundial-espana-argentina-partido-aficion.html",
-      "desc": "La final del Mundial esconde historias y visiones en todas partes",
-      "date": "18 Jul 2026 11:52:32 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
       "caso": "other"
     }
   ]
