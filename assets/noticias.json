@@ -1,7 +1,17 @@
 {
-  "updated": "2026-07-18T20:40:57Z",
+  "updated": "2026-07-18T22:42:54Z",
   "count": 24,
   "items": [
+    {
+      "title": "Mercadona abierto hoy: supermercados con horario especial este domingo 19 de julio",
+      "link": "https://www.abc.es/espana/comunidad-valenciana/mercadona-abierto-hoy-supermercados-horario-especial-domingo-20260719000000-nt.html",
+      "desc": "Los supermercados Mercadona abiertos este domingo, 19 de julio, en la Comunidad Valenciana se concentran en las zonas costeras. Las tiendas de una treintena de municipios de Valencia, Alicante y Castellón suben la persiana durante esta jornada no laborable con",
+      "date": "Sun, 19 Jul 2026 00:05:00 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
     {
       "title": "Observar el eclipse sin protección adecuada puede causar lesiones irreversibles en los ojos: ¿Por qué no sirve cualquier gafa?",
       "link": "https://www.abc.es/espana/castilla-leon/observar-eclipse-proteccion-adecuada-puede-causar-lesiones-20260718220918-nt.html",
@@ -230,16 +240,6 @@
       "source": "La Vanguardia",
       "color": "#8e44ad",
       "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "Cae una 'banda del Rólex' que atracaba a sus víctimas con pistolas en centros comerciales",
-      "link": "https://www.abc.es/espana/madrid/cae-banda-rolex-atracaba-victimas-pistolas-centros-20260718170743-nt.html",
-      "desc": "Eran cinco, llevaban armas simuladas y sabían perfectamente dónde encontrar y, después, asaltar a sus víctimas. Cada uno tenía un rol muy determinado y con un 'modus operandi' muy medido. ¿El objetivo de esta banda criminal? Relojes de lujo . ¿El lugar de los ",
-      "date": "Sat, 18 Jul 2026 17:30:31 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
       "caso": "other"
     }
   ]
