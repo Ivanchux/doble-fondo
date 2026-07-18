@@ -1,7 +1,37 @@
 {
-  "updated": "2026-07-18T18:56:06Z",
+  "updated": "2026-07-18T20:40:57Z",
   "count": 24,
   "items": [
+    {
+      "title": "Observar el eclipse sin protección adecuada puede causar lesiones irreversibles en los ojos: ¿Por qué no sirve cualquier gafa?",
+      "link": "https://www.abc.es/espana/castilla-leon/observar-eclipse-proteccion-adecuada-puede-causar-lesiones-20260718220918-nt.html",
+      "desc": "¿Sirven unas gafas de sol? ¿Pueden utilizarse radiografías? ¿Es seguro mirar durante la totalidad? ¿Qué ocurre si solo se observa el sol durante unos segundos? ¿Es diferente un eclipse del 99 por ciento de uno total? Son algunas de las dudas que tratan de reso",
+      "date": "Sat, 18 Jul 2026 22:09:18 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Paredes de Nava, la 'zona cero' del eclipse",
+      "link": "https://www.abc.es/espana/castilla-leon/1400-maximo-20260702220902-nt.html",
+      "desc": "Un pequeño municipio palentino, Paredes de Nava, se ha convertido en uno de los puntos más codiciados de Europa para ver el eclipse total de Sol del 12 de agosto. Dos cazadores de eclipses, ambos atraídos por el Astro Rey desde fuera de España, y un vallisolet",
+      "date": "Sat, 18 Jul 2026 22:09:02 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "El último vuelo a la segunda estrella de España",
+      "link": "https://www.abc.es/espana/vuelo-ilusion-20260718210936-nt.html",
+      "desc": "Los aeropuertos constituyen un paisaje de emociones y sensaciones tan dispares como difíciles de describir. Pero este fin de semana, las distintas terminales del aeropuerto madrileño de Adolfo Suárez - Madrid Barajas, así como las de otros aeródromos españoles",
+      "date": "Sat, 18 Jul 2026 21:09:36 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
     {
       "title": "Comunidad",
       "link": "https://www.abc.es/espana/castilla-leon/comunidad-20260717204133-nt.html",
@@ -207,36 +237,6 @@
       "link": "https://www.abc.es/espana/madrid/cae-banda-rolex-atracaba-victimas-pistolas-centros-20260718170743-nt.html",
       "desc": "Eran cinco, llevaban armas simuladas y sabían perfectamente dónde encontrar y, después, asaltar a sus víctimas. Cada uno tenía un rol muy determinado y con un 'modus operandi' muy medido. ¿El objetivo de esta banda criminal? Relojes de lujo . ¿El lugar de los ",
       "date": "Sat, 18 Jul 2026 17:30:31 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Cinco heridos, uno de ellos grave, al explotar un vehículo en Lérida",
-      "link": "https://www.abc.es/espana/cataluna/cinco-heridos-grave-explotar-vehiculo-lerida-20260718172245-nt.html",
-      "desc": "Una explosión en el interior de un vehículo estacionado en la calle Lluís Companys de Lérida este sábado ha causado heridas a un total de cinco personas, incluyendo el conductor y cuatro peatones que se encontraban en la zona en el momento de los hechos, según",
-      "date": "Sat, 18 Jul 2026 17:22:45 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Luis Barcala, proclamado alcaldable: «A responder a la confianza de Feijóo'",
-      "link": "https://www.abc.es/espana/comunidad-valenciana/alicante/luis-barcala-proclamado-alcaldable-responder-confianza-feijoo-20260718171530-nt.html",
-      "desc": "Luis Barcala ha sido proclamado como alcaldable para Alicante en las próximas elecciones municipales de 2027 con un mensaje de compromiso frente la dirección de su partido. «Vamos a responder a la confianza de Feijóo», ha afirmado en el acto de presentación ju",
-      "date": "Sat, 18 Jul 2026 17:15:30 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Aviso de la Aemet: llega otra ola de calor a Andalucía desde este martes con temperaturas de hasta 45 grados",
-      "link": "https://www.abc.es/espana/andalucia/aviso-aemet-llega-ola-calor-martes-temperaturas-20260718170951-nts.html",
-      "desc": "El calor extremo llegará a Andalucía previsiblemente a partir del martes. Así lo estima la Agencia Estatal de Meteorología (Aemet) que ya ha avisado de una nueva ola de calor para la semana que viene y que se prolongará, al menos, hasta el jueves, con temperat",
-      "date": "Sat, 18 Jul 2026 17:09:52 +0200",
       "source": "ABC",
       "color": "#c0392b",
       "feedId": "ABC",
