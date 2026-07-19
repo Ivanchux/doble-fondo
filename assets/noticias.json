@@ -1,7 +1,117 @@
 {
-  "updated": "2026-07-19T09:47:43Z",
+  "updated": "2026-07-19T11:06:31Z",
   "count": 24,
   "items": [
+    {
+      "title": "Núñez traslada su apoyo al operativo y vecinos evacuados y lamenta que le impidan acceder al Puesto de Mando Avanzado",
+      "link": "https://www.abc.es/espana/castilla-la-mancha/nunez-traslada-apoyo-operativo-vecinos-evacuados-lamenta-20260719124544-nt.html",
+      "desc": "El presidente del Partido Popular de Castilla-La Mancha, Paco Núñez, ha denunciado este domingo que la Junta de Comunidades le ha impedido acceder al Puesto de Mando Avanzado (PMA) instalado en Tamajón para coordinar las labores de extinción del incendio fores",
+      "date": "Sun, 19 Jul 2026 12:45:44 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "La colombiana Luz Mary Giraldo gana el XIII Premio Internacional de Poesía 'Pilar Fernández Labrador'",
+      "link": "https://www.abc.es/espana/castilla-leon/colombiana-luz-mary-giraldo-gana-xiii-premio-20260719124256-nt.html",
+      "desc": "La poeta colombiana Luz Mary Giraldo se alzó con el XIII Premio Internacional de Poesía 'Pilar Fernández Labrador' gracias a su obra 'Orden en la casa', elegida por el jurado entre 1.802 originales enviados desde 23 países. El fallo, dado a conocer este doming",
+      "date": "Sun, 19 Jul 2026 12:45:39 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "El Hospital La Fe estrena un avanzado implante cerebral para sordera compleja",
+      "link": "https://www.abc.es/espana/comunidad-valenciana/hospital-estrena-avanzado-implante-cerebral-sordera-compleja-20260719124104-nt.html",
+      "desc": "El Hospital Universitari i Politècnic La Fe de València ha realizado su primera cirugía de implante auditivo en el tronco cerebral para tratar un caso de sordera profunda compleja. Con esta paciente no habían dado resultado varios dispositivos de la cirugía má",
+      "date": "Sun, 19 Jul 2026 12:41:04 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Detenida en Valladolid una pareja tras activar de madrugada la alarma antiincendios de un hotel",
+      "link": "https://www.abc.es/espana/castilla-leon/detenida-valladolid-pareja-tras-activar-madrugada-alarma-20260719122834-nt.html",
+      "desc": "Agentes de la Policía Nacional detuvieron el pasado viernes en Valladolid a un hombre y una mujer como presuntos autores de un delito de desórdenes públicos, después de que en la madrugada del lunes, en torno a las dos de la mañana, accedieran al hall de un ho",
+      "date": "Sun, 19 Jul 2026 12:29:22 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Investigan la muerte violenta de una mujer en Soses (Lérida)",
+      "link": "https://www.abc.es/espana/cataluna/investigan-muerte-violenta-mujer-soses-lerida-20260719122742-nt.html",
+      "desc": "Nuevo suceso en Cataluña este fin de semana. Los Mossos d'Esquadra investigan la muerte violenta de una mujer en Soses (Léida), según ha informado este domingo el cuerpo policial autonómico en su cuenta de X. Sobre las 22.45 horas del sábado, los Mossos recibi",
+      "date": "Sun, 19 Jul 2026 12:27:43 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "La Guardia Civil investiga el presunto asesinato de una mujer de 86 años en Alcaudete, en Jaén",
+      "link": "https://www.abc.es/espana/andalucia/jaen/guardia-civil-jaen-investiga-presunto-asesinato-mujer-20260719122130-nts.html",
+      "desc": "La Guardia Civil de Jaén está investigando el presunto asesinato de una mujer de 86 años en el municipio jiennense de Alcaudete. La mujer ha sido hallada muerta en su domicilio en la madrugada de este sábado 18 de julio. Los efectivos del Cuerpo armado están t",
+      "date": "Sun, 19 Jul 2026 12:26:48 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Temperaturas de más de 36 ºC y tormentas activan esta tarde la alerta amarilla en municipios de las cuatro provincias",
+      "link": "https://www.abc.es/espana/galicia/temperaturas-tormentas-activan-tarde-alerta-amarilla-municipios-20260719122530-nt.html",
+      "desc": "Municipios de las cuatro provincias gallega estarán esta tarde bajo alerta amarilla, aunque el motivo varía en función del lugar. En los 27 municipios que integran las zonas isoclimáticas del Miño de Orense y Valdeorras , el aviso será por temperaturas máximas",
+      "date": "Sun, 19 Jul 2026 12:25:30 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "El adiós de Jesús Aguirre: el médico rural que «pastoreó» el Parlamento andaluz con humor y «un poquito de por favor»",
+      "link": "https://www.abc.es/espana/andalucia/adios-jesus-aguirre-medico-rural-pastoreo-parlamento-20260719122440-nts.html",
+      "desc": "El Parlamento de Andalucía vivirá el próximo jueves 23 de julio el fin de una época singular con la celebración del último pleno presidido por Jesús Aguirre Muñoz . Tras cuatro años al frente de la institución, el médico cordobés cede el testigo a la diputada ",
+      "date": "Sun, 19 Jul 2026 12:24:40 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Una disputa entre clanes deriva en un tiroteo con cuatro heridos en Badalona",
+      "link": "https://www.abc.es/espana/cataluna/disputa-clanes-deriva-tiroteo-cuatro-heridos-badalona-20260719121316-nt.html",
+      "desc": "Nuevo suceso violento con armas de fuego en Barcelona. Cuatro personas resultaron heridas el sábado por la noche, dos de ellas por arma, otra por arma blanca, y una cuarta por un golpe en la cabeza, durante una pelea entre clanes en el barrio de Sant Roc Badal",
+      "date": "Sun, 19 Jul 2026 12:13:16 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Citas sexuales y amenazas de sicarios: cae una banda de extorsionadores del amor que operaba desde Ciudad Real",
+      "link": "https://www.abc.es/espana/castilla-la-mancha/citas-sexuales-amenazas-sicarios-cae-banda-extorsionadores-20260719114307-nt.html",
+      "desc": "Todo comenzaba con un mensaje aparentemente inofensivo tras contactar con un supuesto anuncio de servicios sexuales en internet. Horas después, el tono cambiaba por completo. Al otro lado del teléfono aparecía una voz que aseguraba pertenecer a una organizació",
+      "date": "Sun, 19 Jul 2026 11:43:07 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "La provincia de Córdoba enloquece con la final del Mundial: pantallas para ver el partido de España",
+      "link": "https://www.abc.es/espana/andalucia/cordoba/provincia-cordoba-enloquece-final-mundial-pantallas-ver-20260719113428-nts.html",
+      "desc": "Faltan pocas horas para la final del Mundial de fútbol 2026 entre España y Argentina y muchos buscan un espacio para disfrutar con todos sus paisanos de lo que sueñan que sea una victoria de la selección nacional. En muchos puntos de la provincia podrá hacerse",
+      "date": "Sun, 19 Jul 2026 11:34:29 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
     {
       "title": "Los agentes medioambientales denuncian trabas de la Guardia Civil en la investigación de incendios",
       "link": "https://www.abc.es/espana/castilla-la-mancha/agentes-medioambientales-denuncian-trabas-guardia-civil-investigacion-20260719112958-nt.html",
@@ -87,116 +197,6 @@
       "link": "https://www.abc.es/espana/castilla-leon/ratas-cyl-20260717095925-nt.html",
       "desc": "",
       "date": "Sun, 19 Jul 2026 09:59:25 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Un muerto al salir despedido de un coche que se ha estrellado con otros tres heridos",
-      "link": "https://www.abc.es/espana/comunidad-valenciana/muerto-salir-despedido-coche-estrellado-tres-heridos-20260719091035-nt.html",
-      "desc": "Una persona ha muerto -al salir despedida del coche en el que viajaba- y otras tres han resultado heridas en un accidente ocurrido el sábado en la autovía A-35, a la altura de Montesa (Valencia), según el Centro de Información y Coordinación de Urgencias (CICU",
-      "date": "Sun, 19 Jul 2026 09:10:35 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Francisco Roldán, elegido nuevo hermano mayor de la O de Córdoba",
-      "link": "https://www.abc.es/espana/andalucia/cordoba/semana-santa/francisco-roldan-elegido-nuevo-hermano-mayor-cordoba-20260719174430-nts.html",
-      "desc": "La cofradía de la O de Córdoba ya tiene nuevo hermano mayor. Es Francisco Roldán , quien ha resultado elegido este sábado para ocupar este puesto los próximos cuatro años, al obtener un total de 69 votos a favor y 12 en contra. Pertenece a la corporación del b",
-      "date": "Sun, 19 Jul 2026 09:09:51 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "El palio de la Encarnación de Córdoba se bordará en el taller Hermanas Rama",
-      "link": "https://www.abc.es/espana/andalucia/cordoba/semana-santa/bordado-palio-encarnacion-recae-taller-hermanas-rama-20260719175648-nts.html",
-      "desc": "La hermandad del Amor confía el bordado del palio de María Santísima de la Encarnación al taller Hermanas Rama, de Brenes (Sevilla). El trabajo va a comenzar por la bambalina frontal y, al ir en malla, se tiene que bordar tanto el exterior como el interior, po",
-      "date": "Sun, 19 Jul 2026 09:09:46 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Los vecinos urgen al Ayuntamiento de Córdoba a definir la obra de Ollerías tras haber hecho sugerencias",
-      "link": "https://www.abc.es/espana/andalucia/cordoba/vecinos-urgen-ayuntamiento-cordoba-definir-obra-ollerias-20260719090927-nts.html",
-      "desc": "Una artería verde, con gran protagonismo del peatón, con menos tráfico y medianas amplias. El Ayuntamiento de Córdoba había anunciado hace diez meses una ambiciosa reforma de la avenida de las Ollerías , una de las vías fundamentales en el Centro de la ciudad ",
-      "date": "Sun, 19 Jul 2026 09:09:27 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Un país, una selección y una ilusión",
-      "link": "https://www.abc.es/espana/andalucia/cordoba/javier-gomez-pais-seleccion-ilusion-20260719090924-nts.html",
-      "desc": "Córdoba y los cordobeses amenacen hoy con la ilusión de que puede ser un gran día. Quizás es una de esas pocas jornadas en muchos años que este país despierta más unido que nunca. Lo hace por el lazo de una selección que está a un paso de conquistar una estrel",
-      "date": "Sun, 19 Jul 2026 09:09:24 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Salvador Fuentes, presidente de la Diputación de Córdoba: «Vamos a movilizar 100 millones de euros para vivienda hasta 2030»",
-      "link": "https://www.abc.es/espana/andalucia/cordoba/salvador-fuentes-presidente-diputacion-cordoba-vamos-movilizar-20260719090922-nts.html",
-      "desc": "Salvador Fuentes (Palma del Río, 1960) es presidente de la Diputación de Córdoba desde julio 2023. Acaba de cumplir el tercer año de mandato y afronta el último con ilusión. Repasa en ABC logros, retos y adelanta su plan para caminar en la solución del primer ",
-      "date": "Sun, 19 Jul 2026 09:09:22 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "El Centro Impulsa Duque de Rivas, fuente de empleo y felicidad: «Me ha realizado como persona»",
-      "link": "https://www.abc.es/espana/andalucia/cordoba/centro-impulsa-duque-rivas-fuente-empleo-felicidad-20260719090919-nts.html",
-      "desc": "Los casos de Miguel e Isabel son sólo un par de ejemplos del éxito del Centro Impulsa Duque de Rivas , cuyo cometido es ofrecer una ventana de oportunidad en formación e inserción laboral. Ambos cuentan con empleo tras participar en la iniciativa promovida por",
-      "date": "Sun, 19 Jul 2026 09:09:19 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Seis bares de Córdoba donde vivir la final del Mundial entre España y Argentina",
-      "link": "https://www.abc.es/espana/andalucia/cordoba/seis-bares-cordoba-disfrutar-final-mundial-espana-20260719090915-nts.html",
-      "desc": "El fútbol es emoción y la final de un Mundial , sobre todo si España es uno de los dos equipos, es una ocasión única que muchos quieren disfrutar en compañía. Los bares con pantallas grandes suelen tener ambientes muy especiales para disfrutar de los partidos.",
-      "date": "Sun, 19 Jul 2026 09:09:15 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "La Junta perfila un plan estratégico para impulsar el sector primario y el turismo tras el incendio de La Mierla",
-      "link": "https://www.abc.es/espana/castilla-la-mancha/junta-perfila-plan-estrategico-impulsar-sector-primario-20260719090537-nt.html",
-      "desc": "El Gobierno de Castilla-La Mancha ya ha avanzado que se encuentra perfilando una estrategia de actuación en la zona afectada por el incendio de La Mierla, Guadalajara, de cara a impulsar tanto al sector primario como al turístico una vez que se dé por extingui",
-      "date": "Sun, 19 Jul 2026 09:05:38 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Lagartera encuentra, al fin, la casa de su memoria",
-      "link": "https://www.abc.es/espana/castilla-la-mancha/toledo/lagartera-encuentra-fin-casa-memoria-20260715085514-nt.html",
-      "desc": "Durante siglos, el mayor tesoro de Lagartera jamás se expuso tras una vitrina. Permaneció cuidadosamente doblado en arcas familiares, protegido del paso del tiempo entre manteles, colchas, gorgueras e indumentarias que iban pasando de generación en generación ",
-      "date": "Sun, 19 Jul 2026 08:55:14 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "La revolución 'single' llega a Castilla-La Mancha",
-      "link": "https://www.abc.es/espana/castilla-la-mancha/revolucion-single-llega-castillala-mancha-20260630085453-nt.html",
-      "desc": "Hace tiempo que vivir solo dejó de ser una situación asociada casi exclusivamente a la viudedad o a una etapa transitoria tras una separación. Hoy forma parte de una transformación social que ya tiene nombre propio: la tendencia single . Cada vez son más quien",
-      "date": "Sun, 19 Jul 2026 08:54:53 +0200",
       "source": "ABC",
       "color": "#c0392b",
       "feedId": "ABC",
