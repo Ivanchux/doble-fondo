@@ -1,7 +1,27 @@
 {
-  "updated": "2026-07-19T18:58:59Z",
+  "updated": "2026-07-19T20:40:22Z",
   "count": 24,
   "items": [
+    {
+      "title": "Muere ahogado un niño de seis años en una piscina de Calella",
+      "link": "https://www.abc.es/espana/cataluna/muere-ahogado-nino-seis-anos-piscina-calella-20260719214025-nt.html",
+      "desc": "Un menor de seis años ha muerto este domingo tras ahogarse en la piscina de un hotel de Calella (Barcelona). Según han informado a ABC otros alojados en el establecimiento el niño fallecido, de nacionalidad belga, había venido con su madre a pasar unos días en",
+      "date": "Sun, 19 Jul 2026 21:40:25 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "España - Argentina, máxima expectación ante una final histórica",
+      "link": "https://www.lavanguardia.com/deportes/futbol/20260719/11596058/espana-argentina-final-mundial-2026-ultima-hora-partido-futbol-hoy-en-directo.html",
+      "desc": "La selección española se juega ante la Albiceleste ganar su segunda estrella",
+      "date": "19 Jul 2026 20:50:43 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
     {
       "title": "Has llegado",
       "link": "https://www.abc.es/espana/castilla-leon/llegado-20260719204600-nt.html",
@@ -83,7 +103,27 @@
       "caso": "other"
     },
     {
-      "title": "El Infoca trabaja en sofocar un incendio forestal en Cardeña",
+      "title": "Sánchez, Trump, Carney y Sheinbaum coinciden en un tenso palco con la ausencia de Milei",
+      "link": "https://www.lavanguardia.com/deportes/20260719/11596050/sanchez-trump-carney-sheinbaum-coinciden-tenso-palco-destacada-ausencia-milei.html",
+      "desc": "El presidente de EE.UU., que acude por primera vez a un partido del Mundial pese a ser anfitrión, se encontrará con algunos de sus principales adversarios geopolíticos",
+      "date": "19 Jul 2026 19:54:46 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
+    {
+      "title": "Messi capitanea el once de Scaloni y es el primer futbolista en ser titular en tres finales de Mundial",
+      "link": "https://www.lavanguardia.com/deportes/futbol/20260719/11596048/messi-capitanea-once-scaloni-primer-futbolista-titular-tres-finales-mundial.html",
+      "desc": "Argentina introduce tres cambios en su equipo: Montiel en el lateral derecho y De Paul y Nico González en el centro del campo",
+      "date": "19 Jul 2026 19:53:44 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
+    {
+      "title": "El Infoca estabiliza el incendio forestal en Cardeña",
       "link": "https://www.abc.es/espana/andalucia/cordoba/infoca-trabaja-sofocar-incendio-forestal-cardena-20260719194521-nts.html",
       "desc": "El mapa del fuego que recorre las tierras de España durante el verano tiene en este domingo una señal en la provincia de Córdoba, en concreto en el término municipal de Cardeña , un paraje de sierra y dehesa. Desde las 18.50 trabaja el Infoca allí en un incend",
       "date": "Sun, 19 Jul 2026 19:45:22 +0200",
@@ -143,6 +183,26 @@
       "caso": "other"
     },
     {
+      "title": "Estabilizado el incendio de Orés tras quemar 14.400 hectáreas",
+      "link": "https://www.lavanguardia.com/vida/20260719/11596035/estabilizado-incendio-ores-quemar-14-400-hectareas.html",
+      "desc": "Ahora queda comprobar el estado de las viviendas y las infraestructuras de los cinco municipios evacuados&nbsp;para que sus vecinos puedan regresar a sus casas",
+      "date": "19 Jul 2026 19:09:26 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
+    {
+      "title": "Estos son los once elegidos por De la Fuente para disputar la gran final del Mundial",
+      "link": "https://www.lavanguardia.com/deportes/futbol/20260719/11596037/son-once-elegidos-fuente-disputar-gran-final-mundial.html",
+      "desc": "España repetirá once ante Argentina",
+      "date": "19 Jul 2026 19:08:41 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
+    {
       "title": "Cae una ladrona que desvalijaba a ancianos en Colmenar Viejo tras embaucarlos en centros de mayores",
       "link": "https://www.abc.es/espana/madrid/cae-ladrona-desvalijaba-ancianos-colmenar-viejo-tras-20260719185218-nt.html",
       "desc": "La vulnerabilidad de la tercera edad se ha convertido, una vez más, en el blanco de la delincuencia en la Comunidad de Madrid. La Guardia Civi l ha logrado poner fin a la actividad criminal de una mujer que había hecho del engaño a las personas mayores su 'mod",
@@ -163,6 +223,16 @@
       "caso": "other"
     },
     {
+      "title": "Evenepoel roba una victoria a Pogacar el día del adiós de Vingegaard",
+      "link": "https://www.lavanguardia.com/deportes/ciclismo/20260719/11596023/evenepoel-gana-tour-de-francia-pogacar-vingegaard.html",
+      "desc": "El belga logra su primer triunfo en este Tour y se afianza en el segundo puesto, mientras Ayuso pierde de vista el podio",
+      "date": "19 Jul 2026 18:17:26 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
+    {
       "title": "Herida grave una octogenaria en El Molar al estallar su bombona de oxígeno por encender un cigarro",
       "link": "https://www.abc.es/espana/madrid/herida-grave-octogenaria-molar-estallar-bombona-oxigeno-20260719175513-nt.html",
       "desc": "Susto mayúsculo en la localidad madrileña de El Molar . Una mujer de 80 años ha resultado herida de carácter grave tras sufrir severas quemaduras en el rostro a causa de la explosión de su bombona de oxígeno. Los acontecimientos, que obligaron a una rápida int",
@@ -170,76 +240,6 @@
       "source": "ABC",
       "color": "#c0392b",
       "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Absentismo cancerígeno",
-      "link": "https://www.abc.es/espana/castilla-la-mancha/absentismo-cancerigeno-20260719173703-nt.html",
-      "desc": "La última vez que estuvieron juntos, padecieron una infección de oído, un daño producido por el agua de una piscina de cortas dimensiones, no sé si podrían escuchar lo que se decían, el caso es que sí interpretaban las palabras sin siquiera gesticular. Fueron ",
-      "date": "Sun, 19 Jul 2026 17:37:03 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Investigan el incendio intencionado de noche de ocho coches aparcados en Guardamar",
-      "link": "https://www.abc.es/espana/comunidad-valenciana/alicante/investigan-incendio-intencionado-noche-ocho-coches-aparcados-20260719172217-nt.html",
-      "desc": "La Guardia Civil investiga el incendio múltiple aparentemente intencionado de ocho coches aparcados en varias calles de Guardamar del Segura (Alicante), cometido de noche. El aviso por el fuego llegó a las 23 horas de este sábado a los Bomberos, que han trabaj",
-      "date": "Sun, 19 Jul 2026 17:22:17 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Del tiempo ido",
-      "link": "https://www.abc.es/espana/galicia/tiempo-ido-20260717170023-nt.html",
-      "desc": "Concebido para capilla de un hospital nonato, el hoy salón de plenos de mi provincia vio muchas cosas: desde el consejo de guerra que sentenció a muerte al médico Vega Barrera al gracejo granadino de Lorca hablando de María Blanchard, la pintora genial y jorob",
-      "date": "Sun, 19 Jul 2026 17:00:23 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Lamine Yamal versus Messi, el triunfo de la Masia",
-      "link": "https://www.lavanguardia.com/deportes/futbol/20260719/11595635/lamine-yamal-versus-messi-triunfo-masia.html",
-      "desc": "",
-      "date": "19 Jul 2026 06:00:00 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "Félix Bolaños: “El TS podría haber interpretado la ley de Amnistía de forma más acorde a su letra y espíritu”",
-      "link": "https://www.lavanguardia.com/politica/20260719/11595470/felix-bolanos-ts-haber-interpretado-ley-amnistia-forma-mas-acorde-letra-espiritu.html",
-      "desc": "El ministro de la Presidència y Justicia&nbsp;reivindica los efectos de la amnistía y reclama que se aplique por completo cuanto antes.",
-      "date": "19 Jul 2026 06:00:00 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "La legislatura de la amnistía (para bien y para mal)",
-      "link": "https://www.lavanguardia.com/politica/20260719/11595455/legislatura-amnistia-mal.html",
-      "desc": "",
-      "date": "19 Jul 2026 06:00:00 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "Objetivo: revertir la amnistía",
-      "link": "https://www.lavanguardia.com/politica/20260719/11595646/objetivo-revertir-amnistia.html",
-      "desc": "",
-      "date": "19 Jul 2026 06:00:00 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
       "caso": "other"
     }
   ]
