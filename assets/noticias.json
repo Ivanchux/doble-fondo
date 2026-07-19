@@ -1,7 +1,27 @@
 {
-  "updated": "2026-07-19T20:40:22Z",
+  "updated": "2026-07-19T22:45:38Z",
   "count": 24,
   "items": [
+    {
+      "title": "Una película inmersiva y gafas gratis para recibir al eclipse en el Planetario de Madrid",
+      "link": "https://www.abc.es/espana/madrid/pelicula-inmersiva-recibir-eclipse-apuesta-planetario-madrid-20260717223902-nt.html",
+      "desc": "Este verano, la luna se interpondrá entre la Tierra y el Sol en un espectáculo que podrá verse desde distintas partes de España. En Madrid, el eclipse será parcial , pero la capital quiere recibirlo de igual manera porque es el primer eclipse solar total en la",
+      "date": "Sun, 19 Jul 2026 22:39:02 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Adiós al desvío de Batán: la A-5 empieza a recuperar su trazado (recto) original",
+      "link": "https://www.abc.es/espana/madrid/adios-bypass-batan-empieza-recuperar-trazado-recto-20260720223853-nt.html",
+      "desc": "Con la excavación de los túneles ya finalizada, la A-5 comienza a recuperar su forma original, sin las curvas que estos meses se han ido realizando a lo largo de los distintos cruces para facilitar la circulación durante las obras. El primero de estos baipás q",
+      "date": "Sun, 19 Jul 2026 22:38:53 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
     {
       "title": "Muere ahogado un niño de seis años en una piscina de Calella",
       "link": "https://www.abc.es/espana/cataluna/muere-ahogado-nino-seis-anos-piscina-calella-20260719214025-nt.html",
@@ -217,26 +237,6 @@
       "link": "https://www.abc.es/espana/comunidad-valenciana/demuestran-usar-piedras-luna-construir-llevar-material-20260719185043-nt.html",
       "desc": "Científicos de una Universidad española y otra británica han anunciado «un paso más hacia la posible construcción de infraestructuras en la Luna» tras demostrar cómo aprovechar piedras de la superficie del propio satélite sin necesidad de transportar materiale",
       "date": "Sun, 19 Jul 2026 18:50:43 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Evenepoel roba una victoria a Pogacar el día del adiós de Vingegaard",
-      "link": "https://www.lavanguardia.com/deportes/ciclismo/20260719/11596023/evenepoel-gana-tour-de-francia-pogacar-vingegaard.html",
-      "desc": "El belga logra su primer triunfo en este Tour y se afianza en el segundo puesto, mientras Ayuso pierde de vista el podio",
-      "date": "19 Jul 2026 18:17:26 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "Herida grave una octogenaria en El Molar al estallar su bombona de oxígeno por encender un cigarro",
-      "link": "https://www.abc.es/espana/madrid/herida-grave-octogenaria-molar-estallar-bombona-oxigeno-20260719175513-nt.html",
-      "desc": "Susto mayúsculo en la localidad madrileña de El Molar . Una mujer de 80 años ha resultado herida de carácter grave tras sufrir severas quemaduras en el rostro a causa de la explosión de su bombona de oxígeno. Los acontecimientos, que obligaron a una rápida int",
-      "date": "Sun, 19 Jul 2026 17:55:13 +0200",
       "source": "ABC",
       "color": "#c0392b",
       "feedId": "ABC",
