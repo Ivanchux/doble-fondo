@@ -1,7 +1,167 @@
 {
-  "updated": "2026-07-19T16:52:44Z",
+  "updated": "2026-07-19T18:58:59Z",
   "count": 24,
   "items": [
+    {
+      "title": "Has llegado",
+      "link": "https://www.abc.es/espana/castilla-leon/llegado-20260719204600-nt.html",
+      "desc": "Fue sábado, como este año, el de tu 90 cumpleaños, aquel día de 1936 en que naciste a un mundo atónito por la reyerta familiar de odios en España. Quizá tu padre marchó al frente de Teruel o, si pudo quedarse, rebañó aquí y allá para procuraros el sustento. El",
+      "date": "Sun, 19 Jul 2026 20:46:00 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Cae en un tren el peligroso prófugo que disparó a una abogada de El Ejido que le ganó un pleito",
+      "link": "https://www.abc.es/espana/andalucia/almeria/cae-tren-peligroso-profugo-disparo-abogada-ejido-20260719203901-nts.html",
+      "desc": "Agentes de la Policía Nacional han detenido este domingo a las 17:50 horas, en el interior de un vagón de tren a su paso por Murcia, al presunto autor del disparo de bala que el pasado miércoles hirió de gravedad a una abogada en El Ejido (Almería). El móvil d",
+      "date": "Sun, 19 Jul 2026 20:39:02 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "El boom de las piscinas privadas se consolida en Galicia: ya hay una por cada 58 gallegos",
+      "link": "https://www.abc.es/espana/galicia/piscinas-galicia-pasan-capricho-inversion-bienestar-calidad-20260710202700-nt.html",
+      "desc": "«Cada vez son más los clientes que ya no consideran la piscina un capricho estacional, sino una inversión en bienestar y calidad de vida para disfrutar de su vivienda», sentencia Luis Louzao, gerente de Aquadiseño, una empresa especializada en instalación y ma",
+      "date": "Sun, 19 Jul 2026 20:27:00 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "El incendio de La Mierla devora ya una superficie mayor que París: 16.000 hectáreas arrasadas en 72 horas",
+      "link": "https://www.abc.es/espana/castilla-la-mancha/incendio-mierla-devora-superficie-mayor-paris-16000-20260719201332-nt.html",
+      "desc": "Las llamas del incendio forestal de La Mierla (Guadalajara) han calcinado ya 16.000 hectáreas, una superficie equivalente a 160 kilómetros cuadrados, mayor que la ciudad de París (105 km²) o que Barcelona (101 km²) y similar a la extensión que ocupan más de 3.",
+      "date": "Sun, 19 Jul 2026 20:13:32 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Reyes Maroto gana las primarias en el PSOE de Madrid con una participación mínima",
+      "link": "https://www.abc.es/espana/madrid/reyes-maroto-20260719201244-nt.html",
+      "desc": "El PSOE de Madrid ya sabe quién será su candidata para enfrentarse a José Luis Martínez-Almeida en las elecciones al Ayuntamiento de la capital en 2027. La actual portavoz municipal socialista, Reyes Maroto, se ha impuesto este domingo a su compañera de filas ",
+      "date": "Sun, 19 Jul 2026 20:12:44 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "La nueva semana llega a Córdoba con aviso naranja y una ola de calor que puede ser corta",
+      "link": "https://www.abc.es/espana/andalucia/cordoba/nueva-semana-llega-cordoba-aviso-naranja-ola-20260719193225-nts.html",
+      "desc": "Llega el último tercio de julio, el mes más cálido del año en Córdoba y el termómetro no puede sino estar alto. Una nueva ola de calor , tan intensa como en principio breve, puede ser protagonista en los primeros días de la nueva semana . La Agencia Estatal de",
+      "date": "Sun, 19 Jul 2026 20:05:58 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Rescatan a cuatro personas en kajaks arrastrados mar adentro por la corriente",
+      "link": "https://www.abc.es/espana/comunidad-valenciana/alicante/rescatan-cuatro-personas-kajaks-arrastrados-mar-adentro-20260719200409-nt.html",
+      "desc": "Con las «primeras luces del día», en Salvamento Marítimo han recibido la alerta de Emergencias de la Generalitat Valenciana (@GVA112) por que cuatro personas que navegaban en dos kajaks estaban en apuros, ya que la corriente arrastraba sus pequeñas embarcacion",
+      "date": "Sun, 19 Jul 2026 20:04:09 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Muere ahogada una adolescente en el río Duero, en Toro (Zamora)",
+      "link": "https://www.abc.es/espana/castilla-leon/muere-ahogada-adolescente-rio-duero-toro-zamora-20260719200207-nt.html",
+      "desc": "Trágica tarde de verano en Toro (Zamora). Una menor adolescente fallecía ahogada en el río Duero, en el entorno del puente de piedra de la localidad zamorana de Toro. Ha sido en torno a las 17.13 horas de este domingo cuando la sala de operaciones 1-1-2 Castil",
+      "date": "Sun, 19 Jul 2026 20:02:45 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "El Infoca trabaja en sofocar un incendio forestal en Cardeña",
+      "link": "https://www.abc.es/espana/andalucia/cordoba/infoca-trabaja-sofocar-incendio-forestal-cardena-20260719194521-nts.html",
+      "desc": "El mapa del fuego que recorre las tierras de España durante el verano tiene en este domingo una señal en la provincia de Córdoba, en concreto en el término municipal de Cardeña , un paraje de sierra y dehesa. Desde las 18.50 trabaja el Infoca allí en un incend",
+      "date": "Sun, 19 Jul 2026 19:45:22 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "El tráfico de mercancías se contrae en el inicio de año por el precio del carburante",
+      "link": "https://www.abc.es/espana/castilla-leon/trafico-mercancias-contrae-mal-inicio-ano-tras-20260719194510-nt.html",
+      "desc": "Mal arranque de 2026 para el sector del transporte que ha visto como su actividad se reducía un 7,8 por ciento entre enero y marzo, en plena escalada del precio del petróleo, tras el conflicto bélico desatado en Oriente Medio. En los primeros tres meses, los c",
+      "date": "Sun, 19 Jul 2026 19:45:10 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Aparatoso incendio junto al colegio  Dominicos en Valladolid",
+      "link": "https://www.abc.es/espana/castilla-leon/aparatoso-incendio-junto-colegio-dominicos-valladolid-20260719192806-nt.html",
+      "desc": "Una decena de medios trabajan para sofocar un incendio en la carretera de Arcas Reales, junto al colegio Dominicos, en Valladolid capital, un fuego que ya está estabilizado tras presentar «momentos críticos», según han indicado los Bomberos del Ayuntamiento a ",
+      "date": "Sun, 19 Jul 2026 19:28:06 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Entrar con un 11,5 en una carrera de 5: la historia real detrás de las notas de corte más bajas de la USC",
+      "link": "https://www.abc.es/espana/galicia/entrar-115-carrera-historia-real-detras-notas-20260717192800-nt.html",
+      "desc": "Ana Bermúdez Trillo acaba de entrar en el Grado en Lengua y Literatura Española de la Universidade de Santiago de Compostela (USC). Le ha bastado un 5,122 sobre 14, la nota de corte que ha dejado esta titulación en la primera adjudicación del curso 2026-2027, ",
+      "date": "Sun, 19 Jul 2026 19:28:00 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Dan por estabilizado el incendio de Zaragoza tras arrasar 14.400 hectáreas",
+      "link": "https://www.abc.es/espana/aragon/dan-estabilizado-incendio-zaragoza-tras-arrasar-14400-20260719192255-nt.html",
+      "desc": "El incendio forestal iniciado el pasado miércoles 15 de julio en Orés (Zaragoza) y que ha obligado a evacuar a un millar de personas de las localidades de la propia Orés, Asín, Luesia, Malpica de Arba, Uncastillo y de la navarra Petilla de Aragón tras alcanzar",
+      "date": "Sun, 19 Jul 2026 19:22:55 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Madame Saigon permite viajar gastronómicamente al sur de Vietnam sin salir de Barcelona",
+      "link": "https://www.abc.es/espana/cataluna/madame-saigon-permite-viajar-gastronomicamente-sur-vietnam-20260719190942-nt.html",
+      "desc": "Viajar durante el verano no siempre exige tomar un avión. También puede comenzar al sentarse a una mesa, pedir un cóctel refrescante o un coco natural abierto con una cañita y dejar que los aromas de la hierba limón, el anís, la canela y las carnes a la barbac",
+      "date": "Sun, 19 Jul 2026 19:09:42 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Cae una ladrona que desvalijaba a ancianos en Colmenar Viejo tras embaucarlos en centros de mayores",
+      "link": "https://www.abc.es/espana/madrid/cae-ladrona-desvalijaba-ancianos-colmenar-viejo-tras-20260719185218-nt.html",
+      "desc": "La vulnerabilidad de la tercera edad se ha convertido, una vez más, en el blanco de la delincuencia en la Comunidad de Madrid. La Guardia Civi l ha logrado poner fin a la actividad criminal de una mujer que había hecho del engaño a las personas mayores su 'mod",
+      "date": "Sun, 19 Jul 2026 18:52:18 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Demuestran cómo usar piedras en la Luna para construir sin llevar material de la Tierra",
+      "link": "https://www.abc.es/espana/comunidad-valenciana/demuestran-usar-piedras-luna-construir-llevar-material-20260719185043-nt.html",
+      "desc": "Científicos de una Universidad española y otra británica han anunciado «un paso más hacia la posible construcción de infraestructuras en la Luna» tras demostrar cómo aprovechar piedras de la superficie del propio satélite sin necesidad de transportar materiale",
+      "date": "Sun, 19 Jul 2026 18:50:43 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
     {
       "title": "Herida grave una octogenaria en El Molar al estallar su bombona de oxígeno por encender un cigarro",
       "link": "https://www.abc.es/espana/madrid/herida-grave-octogenaria-molar-estallar-bombona-oxigeno-20260719175513-nt.html",
@@ -37,166 +197,6 @@
       "link": "https://www.abc.es/espana/galicia/tiempo-ido-20260717170023-nt.html",
       "desc": "Concebido para capilla de un hospital nonato, el hoy salón de plenos de mi provincia vio muchas cosas: desde el consejo de guerra que sentenció a muerte al médico Vega Barrera al gracejo granadino de Lorca hablando de María Blanchard, la pintora genial y jorob",
       "date": "Sun, 19 Jul 2026 17:00:23 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Julio Iglesias pone en venta su mansión gallega, con trece baños, solo un año después de comprarla",
-      "link": "https://www.abc.es/espana/galicia/julio-iglesias-pone-venta-mansion-gallega-trece-20260719165840-nt.html",
-      "desc": "Solo un año después de que se anunciase, a bombo y platillo, la compra de una mansión en el municipio orensano de Piñor, el cantante Julio Iglesias (82 años) ha decidido deshacerse de esta villa ubicada en el interior de Galicia por un precio, por el momento, ",
-      "date": "Sun, 19 Jul 2026 16:58:40 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Abatido un toro y buscan tres vacas de seis que escaparon de las fiestas en Valencia",
-      "link": "https://www.abc.es/espana/comunidad-valenciana/abatido-toro-buscan-tres-vacas-seis-escaparon-20260719165536-nt.html",
-      "desc": "Un toro ha sido abatido tras escaparse durante la celebración de los festejos taurinos de la localidad valenciana de Gátova, mientras se busca a tres vacas que huyeron también y se tiene localizadas, aunque no capturadas. Fuentes de la Guardia Civil, cuyos efe",
-      "date": "Sun, 19 Jul 2026 16:55:36 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "El Ayuntamiento de Torremolinos acelera los trámites para la creación de su campus universitario",
-      "link": "https://www.abc.es/espana/andalucia/malaga/ayuntamiento-torremolinos-acelera-tramites-creacion-campus-universitario-20260719144316-nts.html",
-      "desc": "El Ayuntamiento de Torremolinos ha aprobado el expediente para la concesión demanial del edificio de propiedad municipal ubicado en la Plaza Pablo Ruiz Picasso. Además se someterá a información pública, como trámite necesario antes de la tramitación definitiva",
-      "date": "Sun, 19 Jul 2026 16:40:04 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "La Junta niega trabas en la investigación del incendio y defiende la coordinación con la Guardia Civil",
-      "link": "https://www.abc.es/espana/castilla-la-mancha/junta-niega-trabas-investigacion-incendio-defiende-coordinacion-20260719140353-nt.html",
-      "desc": "La consejera de Desarrollo Sostenible de Castilla-La Mancha, Mercedes Gómez, ha rechazado este domingo las críticas lanzadas desde la Asociación Profesional de Agentes Medioambientales de Castilla-La Mancha sobre un supuesto entorpecimiento de la investigación",
-      "date": "Sun, 19 Jul 2026 14:03:54 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Tres años de prisión a una exconcejal de Los Verdes por favorecer a un chiringuito",
-      "link": "https://www.abc.es/espana/comunidad-valenciana/alicante/tres-anos-prision-exconcejal-verdes-favorecer-chiringuito-20260719135211-nt.html",
-      "desc": "La exconcejal de Los Verdes en Orihuela (Alicante) Martina Scheurer, ha sido condenada a dos penas que suman tres años de prisión por varios delitos al favorecer a una empresa en la adjudicación del servicio de chiringuito en la playa hace más de una década. S",
-      "date": "Sun, 19 Jul 2026 13:52:11 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "El PP pide la dimisión de Mercedes González, tras la exclusiva de ABC: «Es imperdonable y repugnante»",
-      "link": "https://www.abc.es/espana/pp-pide-dimision-mercedes-gonzalez-tras-exclusiva-20260719134235-nt.html",
-      "desc": "El vicesecretario de Educación e Igualdad del PP, Jaime de los Santos, ha pedido este domingo la dimisión de la directora general de la Guardia Civil, Mercedes González, por intentar «dinamitar» los actos institucionales del Dos de Mayo en la Comunidad de Madr",
-      "date": "Sun, 19 Jul 2026 13:42:36 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "«Ni ha sido citado, ni filiado dentro de la investigación», incide Vox sobre el alcalde señalado por el incendio de La Mierla",
-      "link": "https://www.abc.es/espana/castilla-la-mancha/citado-filiado-dentro-investigacion-incide-vox-sobre-20260719133959-nt.html",
-      "desc": "Vox Castilla-La Mancha ha salido este domingo al paso de las informaciones relacionadas con la investigación abierta para esclarecer el origen del incendio forestal de La Mierla (Guadalajara) y ha defendido que el alcalde de Villares de Jadraque, Rubén Marcham",
-      "date": "Sun, 19 Jul 2026 13:40:00 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Iván Ania, una referencia de longevidad en Segunda ante la oportunidad de seguir haciendo historia en el Córdoba CF",
-      "link": "https://www.abc.es/espana/andalucia/cordoba/cordoba-cf/i-20260719220212-nts.html",
-      "desc": "El Córdoba CF de la temporada 2026-2027 ya ha echado a rodar. El conjunto blanquiverde, tras cumplir las dos primeras semanas de pretemporada, ahora es tiempo que el verde dictamine los primeros pasos de un proyecto cordobesista cuyo objetivo es el de seguir c",
-      "date": "Sun, 19 Jul 2026 13:30:31 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Europa para formarse, trabajar o ser voluntario: una oficina de la Diputación de Córdoba asesora a los jóvenes",
-      "link": "https://www.abc.es/espana/andalucia/cordoba/europa-formarse-trabajar-voluntario-oficina-diputacion-cordoba-20260719133015-nts.html",
-      "desc": "Los meses estivales son propicios para buscar qué hacer con el futuro, principalmente entre la población más joven de la provincia de Córdoba. De ahí la importancia de conocer cuáles son las oportunidades que la Unión Europea ofrece. En este punto desempeña un",
-      "date": "Sun, 19 Jul 2026 13:30:15 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Castilla y León ampliará su oferta de formación sanitaria especializada hasta alcanzar el récord de 790 plazas para 2027",
-      "link": "https://www.abc.es/espana/castilla-leon/castilla-leon-ampliara-oferta-formacion-sanitaria-especializada-20260719132631-nt.html",
-      "desc": "Castilla y León ampliará de cara a 2027 su oferta de formación sanitaria especializada por el sistema de residencia, hasta alcanzar la cifra récord de 790 plazas. Son 30 más que las ofertadas para este año (770) y supone el 97,2 por ciento de las 813 acreditad",
-      "date": "Sun, 19 Jul 2026 13:26:31 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "El PSOE cuestiona las «mentiras y contradicciones» del alcalde de Vox señalado por el incendio",
-      "link": "https://www.abc.es/espana/castilla-la-mancha/psoe-cuestiona-mentiras-contradicciones-alcalde-vox-senalado-20260719131755-nt.html",
-      "desc": "El presidente del grupo socialista en las Cortes de Castilla-La Mancha, Ángel Tomás Godoy, ha respaldado este domingo el trabajo de los efectivos que participan en la extinción del incendio forestal de La Mierla (Guadalajara), al tiempo que ha cuestionado las ",
-      "date": "Sun, 19 Jul 2026 13:17:55 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Núñez traslada su apoyo al operativo y vecinos evacuados y lamenta que le impidan acceder al Puesto de Mando Avanzado",
-      "link": "https://www.abc.es/espana/castilla-la-mancha/nunez-traslada-apoyo-operativo-vecinos-evacuados-lamenta-20260719124544-nt.html",
-      "desc": "El presidente del Partido Popular de Castilla-La Mancha, Paco Núñez, ha denunciado este domingo que la Junta de Comunidades le ha impedido acceder al Puesto de Mando Avanzado (PMA) instalado en Tamajón para coordinar las labores de extinción del incendio fores",
-      "date": "Sun, 19 Jul 2026 12:45:44 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "La colombiana Luz Mary Giraldo gana el XIII Premio Internacional de Poesía 'Pilar Fernández Labrador'",
-      "link": "https://www.abc.es/espana/castilla-leon/colombiana-luz-mary-giraldo-gana-xiii-premio-20260719124256-nt.html",
-      "desc": "La poeta colombiana Luz Mary Giraldo se alzó con el XIII Premio Internacional de Poesía 'Pilar Fernández Labrador' gracias a su obra 'Orden en la casa', elegida por el jurado entre 1.802 originales enviados desde 23 países. El fallo, dado a conocer este doming",
-      "date": "Sun, 19 Jul 2026 12:45:39 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "El Hospital La Fe estrena un avanzado implante cerebral para sordera compleja",
-      "link": "https://www.abc.es/espana/comunidad-valenciana/hospital-estrena-avanzado-implante-cerebral-sordera-compleja-20260719124104-nt.html",
-      "desc": "El Hospital Universitari i Politècnic La Fe de València ha realizado su primera cirugía de implante auditivo en el tronco cerebral para tratar un caso de sordera profunda compleja. Con esta paciente no habían dado resultado varios dispositivos de la cirugía má",
-      "date": "Sun, 19 Jul 2026 12:41:04 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Detenida en Valladolid una pareja tras activar de madrugada la alarma antiincendios de un hotel",
-      "link": "https://www.abc.es/espana/castilla-leon/detenida-valladolid-pareja-tras-activar-madrugada-alarma-20260719122834-nt.html",
-      "desc": "Agentes de la Policía Nacional detuvieron el pasado viernes en Valladolid a un hombre y una mujer como presuntos autores de un delito de desórdenes públicos, después de que en la madrugada del lunes, en torno a las dos de la mañana, accedieran al hall de un ho",
-      "date": "Sun, 19 Jul 2026 12:29:22 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Investigan la muerte violenta de una mujer en Soses (Lérida)",
-      "link": "https://www.abc.es/espana/cataluna/investigan-muerte-violenta-mujer-soses-lerida-20260719122742-nt.html",
-      "desc": "Nuevo suceso en Cataluña este fin de semana. Los Mossos d'Esquadra investigan la muerte violenta de una mujer en Soses (Léida), según ha informado este domingo el cuerpo policial autonómico en su cuenta de X. Sobre las 22.45 horas del sábado, los Mossos recibi",
-      "date": "Sun, 19 Jul 2026 12:27:43 +0200",
       "source": "ABC",
       "color": "#c0392b",
       "feedId": "ABC",
