@@ -1,7 +1,97 @@
 {
-  "updated": "2026-07-19T02:11:14Z",
+  "updated": "2026-07-19T06:26:11Z",
   "count": 24,
   "items": [
+    {
+      "title": "El Triángulo de la Muerte en Cuevas de San Marcos",
+      "link": "https://www.abc.es/espana/andalucia/malaga/triangulo-muerte-cuevas-san-marcos-20260719073700-nts.html",
+      "desc": "La sucesión de varias muertes ha generado una profunda conmoción en Cuevas de San Marcos , municipio malagueño de poco más de 3.500 habitantes donde prácticamente todos los vecinos mantienen algún vínculo personal o familiar a decir de mi testigo: Antonio Ramó",
+      "date": "Sun, 19 Jul 2026 07:37:00 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Todos a una: los residentes extranjeros se vuelcan para reconstruir Bédar mientras esperan las ayudas",
+      "link": "https://www.abc.es/espana/andalucia/almeria/residentes-extranjeros-vuelcan-reconstruir-bedar-esperan-ayudas-20260719094612-nts.html",
+      "desc": "El trágico incendio forestal que azotó hace una semana varios municipios de Sierra Cabrera en Almería ha dejado tras de sí, además de trece víctimas mortales y siete heridos graves, viviendas dañadas, instalaciones calcinadas, explotaciones agrícolas afectadas",
+      "date": "Sun, 19 Jul 2026 07:20:19 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "La desaparición de la agricultura extensiva aumenta el riesgo de incendios",
+      "link": "https://www.abc.es/espana/andalucia/desaparicion-agricultura-extensiva-aumenta-riesgo-incendios-20260719071417-nts.html",
+      "desc": "Inmersos en plena época de riesgo de incendios forestales, desde el sector agrario piden a las administraciones, en especial a la Junta de Andalucía, que «cuente con los agricultores» para prevenir incendios. De hecho, la organización Asaja Jaén ha reclamado r",
+      "date": "Sun, 19 Jul 2026 07:14:17 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "El abandono forestal activa la «bomba de fuego» en los montes andaluces",
+      "link": "https://www.abc.es/espana/andalucia/abandono-forestal-activa-bomba-fuego-montes-andaluces-20260719071409-nts.html",
+      "desc": "El cambio climático, con unas temperaturas cada vez más altas y episodios extremos, ha sido destacado por las autoridades en los últimos días como uno de los factores que contribuyó a volver «más virulento» el incendio de Los Gallardos, en Almería. «Genera sit",
+      "date": "Sun, 19 Jul 2026 07:14:09 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "El crimen de Maruchi Rivas: un cromosoma de más y una sentencia que salvó cientos de vidas",
+      "link": "https://www.abc.es/espana/galicia/crimen-maruchi-rivas-cromosoma-sentencia-salvo-cientos-20260716070100-nt.html",
+      "desc": "El hermano pequeño de Maruchi Rivas siempre pensó que a su hermana la habían atropellado volviendo del colegio. Nadie, mientras fue niño, se atrevió a contarle el verdadero destino de la pequeña de 9 años, a la que un hombre secuestró en la parada del autobús ",
+      "date": "Sun, 19 Jul 2026 07:01:00 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Batalla Naval de Vallecas: horario, recorrido y cortes de tráfico hoy por la fiesta",
+      "link": "https://www.abc.es/espana/madrid/batalla-naval-vallecas-horario-recorrido-cortes-trafico-20260719060000-nt.html",
+      "desc": "El calor es el protagonista indiscutible del verano, pero, ligado a ello, las fiestas populares también ocupan un lugar destacado en estos meses. En el caso de Madrid, muchos de sus barrios, pueblos y localidades de la región celebran sus festejos tradicionale",
+      "date": "Sun, 19 Jul 2026 06:00:16 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Dónde ir de fiesta este domingo 19 de julio en la provincia de Toledo",
+      "link": "https://www.abc.es/espana/castilla-la-mancha/toledo/pueblos/fiesta-domingo-julio-provincia-toledo-20260719053000-nt.html",
+      "desc": "Yuncler - A la 9.30 horas: encierro de toros. Noblejas - A las 7.00 horas: pasacalles mañanero. - A las 13.00 horas: tradicional convite en la bodega grande. - A las 18.00 horas: parque acuático. La Puebla de Montalbán - A las 12.00 horas: vaca enmaromada. - A",
+      "date": "Sun, 19 Jul 2026 05:30:17 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Los 'enchufaos'",
+      "link": "https://www.abc.es/espana/comunidad-valenciana/enchufaos-20260719145940-nt.html",
+      "desc": "El primer reproductor de video que entró en mi casa fue un Sony Betamax. Ese dispositivo era la única forma que teníamos para ver algo alternativo a lo que emitían las dos únicas cadenas de televisión de la época, o incluso para grabar programas y disfrutarlos",
+      "date": "Sun, 19 Jul 2026 05:30:03 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Francia despierta demasiado tarde, pero Mbappé ya acaricia la Bota de Oro tras un doblete",
+      "link": "https://www.lavanguardia.com/deportes/futbol/20260719/11595835/francia-despierta-demasiado-tarde-mbappe-acaricia-bota-oro-doblete.html",
+      "desc": "Inglaterra, que se fue al descanso ganando 0-4, conquista el tercer puesto, su mejor posición en 60 años pero el delantero francés, con 22 goles, ya supera a Messi en la historia de los Mundiales",
+      "date": "19 Jul 2026 01:53:00 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
     {
       "title": "El PP exige la comparecencia de Marlaska y Mercedes González por el intento de boicot de la Guardia Civil a Ayuso",
       "link": "https://www.abc.es/espana/pp-exige-comparecencia-marlaska-mercedes-gonzalez-intento-20260719011842-nt.html",
@@ -123,120 +213,30 @@
       "caso": "other"
     },
     {
-      "title": "Mercadona abierto hoy: supermercados con horario especial este domingo 19 de julio",
-      "link": "https://www.abc.es/espana/comunidad-valenciana/mercadona-abierto-hoy-supermercados-horario-especial-domingo-20260719000000-nt.html",
-      "desc": "Los supermercados Mercadona abiertos este domingo, 19 de julio, en la Comunidad Valenciana se concentran en las zonas costeras. Las tiendas de una treintena de municipios de Valencia, Alicante y Castellón suben la persiana durante esta jornada no laborable con",
-      "date": "Sun, 19 Jul 2026 00:05:00 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Observar el eclipse sin protección adecuada puede causar lesiones irreversibles en los ojos: ¿Por qué no sirve cualquier gafa?",
-      "link": "https://www.abc.es/espana/castilla-leon/observar-eclipse-proteccion-adecuada-puede-causar-lesiones-20260718220918-nt.html",
-      "desc": "¿Sirven unas gafas de sol? ¿Pueden utilizarse radiografías? ¿Es seguro mirar durante la totalidad? ¿Qué ocurre si solo se observa el sol durante unos segundos? ¿Es diferente un eclipse del 99 por ciento de uno total? Son algunas de las dudas que tratan de reso",
-      "date": "Sat, 18 Jul 2026 22:09:18 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Paredes de Nava, la 'zona cero' del eclipse",
-      "link": "https://www.abc.es/espana/castilla-leon/1400-maximo-20260702220902-nt.html",
-      "desc": "Un pequeño municipio palentino, Paredes de Nava, se ha convertido en uno de los puntos más codiciados de Europa para ver el eclipse total de Sol del 12 de agosto. Dos cazadores de eclipses, ambos atraídos por el Astro Rey desde fuera de España, y un vallisolet",
-      "date": "Sat, 18 Jul 2026 22:09:02 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "El último vuelo a la segunda estrella de España",
-      "link": "https://www.abc.es/espana/vuelo-ilusion-20260718210936-nt.html",
-      "desc": "Los aeropuertos constituyen un paisaje de emociones y sensaciones tan dispares como difíciles de describir. Pero este fin de semana, las distintas terminales del aeropuerto madrileño de Adolfo Suárez - Madrid Barajas, así como las de otros aeródromos españoles",
-      "date": "Sat, 18 Jul 2026 21:09:36 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Comunidad",
-      "link": "https://www.abc.es/espana/castilla-leon/comunidad-20260717204133-nt.html",
-      "desc": "Fue una sorpresa, ninguno esperábamos que Ángel nos fuera a dejar en los albores del verano. Una enfermedad fulminante y todo se acabó. El tanatorio fue reconfortante al ver a Tere como siempre, apenada pero encarando la vida como una castellana de Valladolid,",
-      "date": "Sat, 18 Jul 2026 20:41:33 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "El fuego calcina en La Mierla 9.000 hectáreas y obliga a evacuar 15 municipios",
-      "link": "https://www.abc.es/espana/castilla-la-mancha/a-20260718184312-nt.html",
-      "desc": "La provincia de Guadalajara sufre un verano más la devastación de las llamas con cifras para la desesperanza. Si en septiembre de 2025 el incendio forestal del Pico del Lobo se daba por extinguido 22 días después de iniciarse y calcinar 2.500 hectáreas en terr",
-      "date": "Sat, 18 Jul 2026 20:39:59 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Vamos, España",
-      "link": "https://www.abc.es/espana/castilla-leon/vamos-espana-20260717203846-nt.html",
-      "desc": "Millones de españoles depositamos hoy sobre once futbolistas nuestra esperanza. Ondearemos banderas de España con orgullo sin que ningún gilitonto nos llame fachas. Ojalá brindemos esta noche con vino en la copa del mundo. Más allá de lo futbolístico, estas do",
-      "date": "Sat, 18 Jul 2026 20:38:46 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Trump venderá sus mensajes en redes a los inversores de Wall Street antes de ser públicos",
-      "link": "https://www.lavanguardia.com/economia/20260718/11595563/trump-vendera-mensajes-redes-inversores-wall-street.html",
-      "desc": "Los operadores dispondrán información antes de que se publique para especular",
-      "date": "18 Jul 2026 20:08:59 +0200",
+      "title": "El Mundial visto desde el más allá",
+      "link": "https://www.lavanguardia.com/opinion/20260719/11595485/mundial-visto-mas.html",
+      "desc": "El fútbol emerge de los mismos sentimientos de odio al prójimo que la guerra con balas",
+      "date": "19 Jul 2026 00:30:00 +0200",
       "source": "La Vanguardia",
       "color": "#8e44ad",
       "feedId": "LaVanguardia",
       "caso": "other"
     },
     {
-      "title": "El alcalde de Nueva York estudia si tiene autoridad para arrestar a Netanyahu en su visita a la ONU",
-      "link": "https://www.lavanguardia.com/internacional/20260718/11595558/alcalde-nueva-york-estudia-autoridad-arrestar-netanyahu-visita-onu.html",
-      "desc": "El primer ministro israelí&nbsp;se plantea asistir a la Asamblea General el próximo septiembre",
-      "date": "18 Jul 2026 20:05:08 +0200",
+      "title": "Rick Astley mete a Cap Roig en la máquina del tiempo de los 80",
+      "link": "https://www.lavanguardia.com/cultura/20260719/11595833/rick-astley-mete-cap-roig-maquina-80.html",
+      "desc": "El autor de ‘Never gonna give you up’ demostró buena forma vocal  y querencia por el soul clásico",
+      "date": "19 Jul 2026 00:27:45 +0200",
       "source": "La Vanguardia",
       "color": "#8e44ad",
       "feedId": "LaVanguardia",
       "caso": "other"
     },
     {
-      "title": "Dos militares estadounidenses mueren en Jordania en un ataque iraní",
-      "link": "https://www.lavanguardia.com/internacional/20260718/11595553/dos-militares-estadounidenses-mueren-jordania-ataque-irani.html",
-      "desc": "Un tercer soldado permanece desaparecido, confirmó el Comando Central de Estados Unidos en un comunicado",
-      "date": "18 Jul 2026 20:01:53 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "El Banco de Alimentos de Córdoba reparte 386.915 kilos de comida de abril a junio",
-      "link": "https://www.abc.es/espana/andalucia/cordoba/banco-alimentos-cordoba-reparte-386915-kilos-comida-20260718195843-nts.html",
-      "desc": "Un total de 14.645 se han beneficiado en el segundo trimestre de este año de la atención del Banco de Alimentos Medina Azahara, que desde hace unos años realiza en Córdoba la tarea de recoger comida y hacerla llegar a organizaciones que las reparten entre las ",
-      "date": "Sat, 18 Jul 2026 19:58:43 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Estabilizado el incendio forestal en Pontils, en la Conca de Barberà",
-      "link": "https://www.lavanguardia.com/local/tarragona/20260718/11595516/bomberos-tratan-sofocar-incendio-forestal-pontils-conca-barbera.html",
-      "desc": "Han participado en las tareas de extinción una veintena de dotaciones terrestres y seis aéreas, que han contado con la ayuda de los agricultores y su maquinaria pesada",
-      "date": "18 Jul 2026 18:15:34 +0200",
+      "title": "Spot mundial de Barcelona",
+      "link": "https://www.lavanguardia.com/opinion/20260719/11595632/spot-mundial-barcelona.html",
+      "desc": "La capital catalana puede sacar rendimiento de la enorme repercusión de la final del Mundial",
+      "date": "19 Jul 2026 00:05:00 +0200",
       "source": "La Vanguardia",
       "color": "#8e44ad",
       "feedId": "LaVanguardia",
