@@ -1,7 +1,67 @@
 {
-  "updated": "2026-07-19T14:50:51Z",
+  "updated": "2026-07-19T16:52:44Z",
   "count": 24,
   "items": [
+    {
+      "title": "Herida grave una octogenaria en El Molar al estallar su bombona de oxígeno por encender un cigarro",
+      "link": "https://www.abc.es/espana/madrid/herida-grave-octogenaria-molar-estallar-bombona-oxigeno-20260719175513-nt.html",
+      "desc": "Susto mayúsculo en la localidad madrileña de El Molar . Una mujer de 80 años ha resultado herida de carácter grave tras sufrir severas quemaduras en el rostro a causa de la explosión de su bombona de oxígeno. Los acontecimientos, que obligaron a una rápida int",
+      "date": "Sun, 19 Jul 2026 17:55:13 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Absentismo cancerígeno",
+      "link": "https://www.abc.es/espana/castilla-la-mancha/absentismo-cancerigeno-20260719173703-nt.html",
+      "desc": "La última vez que estuvieron juntos, padecieron una infección de oído, un daño producido por el agua de una piscina de cortas dimensiones, no sé si podrían escuchar lo que se decían, el caso es que sí interpretaban las palabras sin siquiera gesticular. Fueron ",
+      "date": "Sun, 19 Jul 2026 17:37:03 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Investigan el incendio intencionado de noche de ocho coches aparcados en Guardamar",
+      "link": "https://www.abc.es/espana/comunidad-valenciana/alicante/investigan-incendio-intencionado-noche-ocho-coches-aparcados-20260719172217-nt.html",
+      "desc": "La Guardia Civil investiga el incendio múltiple aparentemente intencionado de ocho coches aparcados en varias calles de Guardamar del Segura (Alicante), cometido de noche. El aviso por el fuego llegó a las 23 horas de este sábado a los Bomberos, que han trabaj",
+      "date": "Sun, 19 Jul 2026 17:22:17 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Del tiempo ido",
+      "link": "https://www.abc.es/espana/galicia/tiempo-ido-20260717170023-nt.html",
+      "desc": "Concebido para capilla de un hospital nonato, el hoy salón de plenos de mi provincia vio muchas cosas: desde el consejo de guerra que sentenció a muerte al médico Vega Barrera al gracejo granadino de Lorca hablando de María Blanchard, la pintora genial y jorob",
+      "date": "Sun, 19 Jul 2026 17:00:23 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Julio Iglesias pone en venta su mansión gallega, con trece baños, solo un año después de comprarla",
+      "link": "https://www.abc.es/espana/galicia/julio-iglesias-pone-venta-mansion-gallega-trece-20260719165840-nt.html",
+      "desc": "Solo un año después de que se anunciase, a bombo y platillo, la compra de una mansión en el municipio orensano de Piñor, el cantante Julio Iglesias (82 años) ha decidido deshacerse de esta villa ubicada en el interior de Galicia por un precio, por el momento, ",
+      "date": "Sun, 19 Jul 2026 16:58:40 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Abatido un toro y buscan tres vacas de seis que escaparon de las fiestas en Valencia",
+      "link": "https://www.abc.es/espana/comunidad-valenciana/abatido-toro-buscan-tres-vacas-seis-escaparon-20260719165536-nt.html",
+      "desc": "Un toro ha sido abatido tras escaparse durante la celebración de los festejos taurinos de la localidad valenciana de Gátova, mientras se busca a tres vacas que huyeron también y se tiene localizadas, aunque no capturadas. Fuentes de la Guardia Civil, cuyos efe",
+      "date": "Sun, 19 Jul 2026 16:55:36 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
     {
       "title": "El Ayuntamiento de Torremolinos acelera los trámites para la creación de su campus universitario",
       "link": "https://www.abc.es/espana/andalucia/malaga/ayuntamiento-torremolinos-acelera-tramites-creacion-campus-universitario-20260719144316-nts.html",
@@ -137,66 +197,6 @@
       "link": "https://www.abc.es/espana/cataluna/investigan-muerte-violenta-mujer-soses-lerida-20260719122742-nt.html",
       "desc": "Nuevo suceso en Cataluña este fin de semana. Los Mossos d'Esquadra investigan la muerte violenta de una mujer en Soses (Léida), según ha informado este domingo el cuerpo policial autonómico en su cuenta de X. Sobre las 22.45 horas del sábado, los Mossos recibi",
       "date": "Sun, 19 Jul 2026 12:27:43 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "La Guardia Civil investiga el presunto asesinato de una mujer de 86 años en Alcaudete, en Jaén",
-      "link": "https://www.abc.es/espana/andalucia/jaen/guardia-civil-jaen-investiga-presunto-asesinato-mujer-20260719122130-nts.html",
-      "desc": "La Guardia Civil de Jaén está investigando el presunto asesinato de una mujer de 86 años en el municipio jiennense de Alcaudete. La mujer ha sido hallada muerta en su domicilio en la madrugada de este sábado 18 de julio. Los efectivos del Cuerpo armado están t",
-      "date": "Sun, 19 Jul 2026 12:26:48 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Temperaturas de más de 36 ºC y tormentas activan esta tarde la alerta amarilla en municipios de las cuatro provincias",
-      "link": "https://www.abc.es/espana/galicia/temperaturas-tormentas-activan-tarde-alerta-amarilla-municipios-20260719122530-nt.html",
-      "desc": "Municipios de las cuatro provincias gallega estarán esta tarde bajo alerta amarilla, aunque el motivo varía en función del lugar. En los 27 municipios que integran las zonas isoclimáticas del Miño de Orense y Valdeorras , el aviso será por temperaturas máximas",
-      "date": "Sun, 19 Jul 2026 12:25:30 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "El adiós de Jesús Aguirre: el médico rural que «pastoreó» el Parlamento andaluz con humor y «un poquito de por favor»",
-      "link": "https://www.abc.es/espana/andalucia/adios-jesus-aguirre-medico-rural-pastoreo-parlamento-20260719122440-nts.html",
-      "desc": "El Parlamento de Andalucía vivirá el próximo jueves 23 de julio el fin de una época singular con la celebración del último pleno presidido por Jesús Aguirre Muñoz . Tras cuatro años al frente de la institución, el médico cordobés cede el testigo a la diputada ",
-      "date": "Sun, 19 Jul 2026 12:24:40 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Una disputa entre clanes deriva en un tiroteo con cuatro heridos en Badalona",
-      "link": "https://www.abc.es/espana/cataluna/disputa-clanes-deriva-tiroteo-cuatro-heridos-badalona-20260719121316-nt.html",
-      "desc": "Nuevo suceso violento con armas de fuego en Barcelona. Cuatro personas resultaron heridas el sábado por la noche, dos de ellas por arma, otra por arma blanca, y una cuarta por un golpe en la cabeza, durante una pelea entre clanes en el barrio de Sant Roc Badal",
-      "date": "Sun, 19 Jul 2026 12:13:16 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Citas sexuales y amenazas de sicarios: cae una banda de extorsionadores del amor que operaba desde Ciudad Real",
-      "link": "https://www.abc.es/espana/castilla-la-mancha/citas-sexuales-amenazas-sicarios-cae-banda-extorsionadores-20260719114307-nt.html",
-      "desc": "Todo comenzaba con un mensaje aparentemente inofensivo tras contactar con un supuesto anuncio de servicios sexuales en internet. Horas después, el tono cambiaba por completo. Al otro lado del teléfono aparecía una voz que aseguraba pertenecer a una organizació",
-      "date": "Sun, 19 Jul 2026 11:43:07 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "La provincia de Córdoba enloquece con la final del Mundial: pantallas para ver el partido de España",
-      "link": "https://www.abc.es/espana/andalucia/cordoba/provincia-cordoba-enloquece-final-mundial-pantallas-ver-20260719113428-nts.html",
-      "desc": "Faltan pocas horas para la final del Mundial de fútbol 2026 entre España y Argentina y muchos buscan un espacio para disfrutar con todos sus paisanos de lo que sueñan que sea una victoria de la selección nacional. En muchos puntos de la provincia podrá hacerse",
-      "date": "Sun, 19 Jul 2026 11:34:29 +0200",
       "source": "ABC",
       "color": "#c0392b",
       "feedId": "ABC",
