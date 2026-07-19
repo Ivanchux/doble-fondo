@@ -1,7 +1,17 @@
 {
-  "updated": "2026-07-19T13:05:44Z",
+  "updated": "2026-07-19T14:50:51Z",
   "count": 24,
   "items": [
+    {
+      "title": "El Ayuntamiento de Torremolinos acelera los trámites para la creación de su campus universitario",
+      "link": "https://www.abc.es/espana/andalucia/malaga/ayuntamiento-torremolinos-acelera-tramites-creacion-campus-universitario-20260719144316-nts.html",
+      "desc": "El Ayuntamiento de Torremolinos ha aprobado el expediente para la concesión demanial del edificio de propiedad municipal ubicado en la Plaza Pablo Ruiz Picasso. Además se someterá a información pública, como trámite necesario antes de la tramitación definitiva",
+      "date": "Sun, 19 Jul 2026 16:40:04 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
     {
       "title": "La Junta niega trabas en la investigación del incendio y defiende la coordinación con la Guardia Civil",
       "link": "https://www.abc.es/espana/castilla-la-mancha/junta-niega-trabas-investigacion-incendio-defiende-coordinacion-20260719140353-nt.html",
@@ -187,16 +197,6 @@
       "link": "https://www.abc.es/espana/andalucia/cordoba/provincia-cordoba-enloquece-final-mundial-pantallas-ver-20260719113428-nts.html",
       "desc": "Faltan pocas horas para la final del Mundial de fútbol 2026 entre España y Argentina y muchos buscan un espacio para disfrutar con todos sus paisanos de lo que sueñan que sea una victoria de la selección nacional. En muchos puntos de la provincia podrá hacerse",
       "date": "Sun, 19 Jul 2026 11:34:29 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Los agentes medioambientales denuncian trabas de la Guardia Civil en la investigación de incendios",
-      "link": "https://www.abc.es/espana/castilla-la-mancha/agentes-medioambientales-denuncian-trabas-guardia-civil-investigacion-20260719112958-nt.html",
-      "desc": "La Asociación Profesional de Agentes Medioambientales de Castilla-La Mancha (APAM-CLM) ha denunciado este domingo la «falta de reconocimiento» que, a su juicio, sufre el colectivo y ha criticado tanto las declaraciones de la consejera de Desarrollo Sostenible,",
-      "date": "Sun, 19 Jul 2026 11:29:58 +0200",
       "source": "ABC",
       "color": "#c0392b",
       "feedId": "ABC",
