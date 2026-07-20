@@ -1,7 +1,117 @@
 {
-  "updated": "2026-07-20T02:31:54Z",
+  "updated": "2026-07-20T06:41:35Z",
   "count": 24,
   "items": [
+    {
+      "title": "El Córdoba CF cambia de marcha en su pretemporada con dos exigentes pruebas ante Sevilla y Cádiz",
+      "link": "https://www.abc.es/espana/andalucia/cordoba/cordoba-cf/cordoba-cambia-marcha-pretemporada-dos-exigentes-pruebas-20260720083233-nts.html",
+      "desc": "El Córdoba CF sube el ritmo de su preparación de forma exponencial esta semana. Después de completar sus dos primeras semanas de trabajo y estrenarse con un empate ante el Orlando Pirates el pasado miércoles, el conjunto de Iván Ania afronta una semana marcada",
+      "date": "Mon, 20 Jul 2026 08:32:34 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Ferraz abre la puerta a unas primarias contra Page si las reclama el 40% de la militancia de Castilla-La Mancha",
+      "link": "https://www.abc.es/espana/castilla-la-mancha/ferraz-abre-puerta-primarias-page-reclama-militancia-20260714082513-nt.html",
+      "desc": "Hay normas que apenas alteran la vida de un partido y otras que, sin citar un solo nombre, cambian por completo el tablero político. El nuevo Reglamento Federal de Desarrollo de los Estatutos del PSOE, aprobado el pasado 27 de junio por el Comité Federal, pert",
+      "date": "Mon, 20 Jul 2026 08:25:13 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "El sector de las tejas y ladrillos crece un 5% hasta los 755 millones y reclama un papel «más destacado» ante los retos de la vivienda",
+      "link": "https://www.abc.es/espana/castilla-la-mancha/sector-tejas-ladrillos-crece-755-millones-reclama-20260715082431-nt.html",
+      "desc": "El 2025 no ha sido un mal año sino todo lo contrario para el sector de las tejas y ladrillos, clave a la hora de afrontar uno de los problemas prioritarios y más preocupantes de España como es el de la vivienda. Además, este tipo de empresas son un referente e",
+      "date": "Mon, 20 Jul 2026 08:24:31 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "San Francisco saldrá en procesión en octubre en Córdoba para conmemorar el 800 aniversario de su tránsito",
+      "link": "https://www.abc.es/espana/andalucia/cordoba/semana-santa/san-francisco-saldra-procesion-octubre-cordoba-conmemorar-20260720073243-nts.html",
+      "desc": "Durante todo el año 2026 se están conmemorando los 800 años del tránsito de San Francisco de Asís y en Córdoba la gran familia franciscana, que aglutina congregaciones, cofradías y colegios, se une para darle un realce visible, con una procesión y una gran exp",
+      "date": "Mon, 20 Jul 2026 07:32:43 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Los regantes cordobeses afrontan un verano plácido por la disponibilidad de agua",
+      "link": "https://www.abc.es/espana/andalucia/cordoba/regantes-cordobeses-afrontan-verano-placido-disponibilidad-agua-20260720073234-nts.html",
+      "desc": "Ha tenido que pasar una década para que los regantes cordobeses, que suman unas 130.000 hectáreas, puedan disfrutar de un verano con la tranquilidad de tener dotaciones hídricas suficientes para sus cultivos tras varios años de restricciones marcados por la se",
+      "date": "Mon, 20 Jul 2026 07:32:34 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Alatriste y Córdoba",
+      "link": "https://www.abc.es/espana/andalucia/cordoba/juan-jose-primo-jurado-alatriste-cordoba-20260720073232-nts.html",
+      "desc": "He acabado de leer mi primer libro del verano, la octava entrega de las aventuras del capitán Alatriste , 'Misión en París' de Arturo Pérez-Reverte . Me gusta su forma de escribir y que se saque partido a esa etapa de nuestra historia donde los españoles fuimo",
+      "date": "Mon, 20 Jul 2026 07:32:32 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "El corazón monumental de Córdoba crece: en marcha la manzana patrimonial del Alcázar, Caballerizas y el Jardín del Obispo",
+      "link": "https://www.abc.es/espana/andalucia/cordoba/corazon-monumental-cordoba-crece-marcha-manzana-patrimonial-20260720073229-nts.html",
+      "desc": "El corazón monumental de Córdoba continúa ampliándose. El núcleo no se discute y continuará en la Mezquita-Catedral, su entorno más inmediato y el Puente Romano, pero crecerá hacia el oeste con las obras que se van a desarrollar entre el Alcázar de los Reyes C",
+      "date": "Mon, 20 Jul 2026 07:32:29 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "La Diputación de Córdoba recupera la idea del aparcamiento junto a su sede",
+      "link": "https://www.abc.es/espana/andalucia/cordoba/aparcamiento-diputacion-cordoba-plaza-polivalente-20260720073226-nts.html",
+      "desc": "Un aparcamiento subterráneo bajo una plaza polivalente y diáfana. La Diputación Provincial de Córdoba rescata la idea para la reforma definitiva del solar que está situado al norte del Palacio de la Merced , y que siempre se había pensado para el estacionamien",
+      "date": "Mon, 20 Jul 2026 07:32:26 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "El aceite de oliva de la almazara más importante de Hispania viajaba de Jaén a Roma desde el siglo I d.C",
+      "link": "https://www.abc.es/espana/andalucia/jaen/jaen-era-importante-centro-produccion-aceite-oliva-20260720072338-nts.html",
+      "desc": "Continúa la actividad arqueológica para restaurar, conservar y poner en valor la villa romana Cortijo de Los Robles y la almazara colindante que, de momento, es la más importante de todas las estudiadas y recuperadas en la península ibérica. Su antigüedad se r",
+      "date": "Mon, 20 Jul 2026 07:23:38 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "La Junta reclama al Gobierno el mismo blindaje para la dependencia que concedió al País Vasco",
+      "link": "https://www.abc.es/espana/andalucia/junta-reclama-gobierno-blindaje-dependencia-concedio-pais-20260720071938-nts.html",
+      "desc": "El sistema de la dependencia en Andalucía es un gigante al que se le saltan las costuras y las vestiduras se mantienen hecha jirones. El volumen poblacional de esta comunidad, envejecida en gran parte por la inversión de la pirámide y la pobreza histórica de l",
+      "date": "Mon, 20 Jul 2026 07:19:38 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Celebración de España tras ganar el Mundial: horario, recorrido y cortes de tráfico en Madrid hoy",
+      "link": "https://www.abc.es/espana/madrid/celebracion-espana-ganar-mundial-horario-recorrido-cortes-trafico-20260720070000-nt.html",
+      "desc": "España lucirá una segunda estrella en la camiseta tras ganar el Mundial 2026 de México, Canadá y Estados Unidos. La selección completó una brillante participación en el torneo con el triunfo ante Argentina (1-0) en la noche del domingo 19 de julio en Nueva Yor",
+      "date": "Mon, 20 Jul 2026 07:00:03 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
     {
       "title": "A julio le gustan los clásicos",
       "link": "https://www.abc.es/espana/castilla-leon/julio-gustan-clasicos-20260718021130-nt.html",
@@ -23,9 +133,9 @@
       "caso": "other"
     },
     {
-      "title": "Un fallecido tras derrumbarse una fuente en Ciudad Rodrigo durante la celebración de la victoria española en el Mundial",
+      "title": "Muere un menor y tres personas resultan heridas tras el derrumbe de una fuente en Ciudad Rodrigo durante las celebraciones del Mundial",
       "link": "https://www.abc.es/espana/castilla-leon/fallecido-tras-derrumbarse-fuente-ciudad-rodrigo-celebracion-20260720020905-nt.html",
-      "desc": "Una persona ha fallecido en la madrugada de este lunes durante la celebración de la victoria de España en el Mundial tras el derrumbe de la conocida como fuente del Árbol Gordo en Ciudad Rodrigo. Ha sido en torno a las 00.33 horas cuando la sala de operaciones",
+      "desc": "Un adolescente de trece años ha fallecido en la madrugada de este lunes y otras tres personas han resultado gravemente heridas durante la celebración de la victoria de España en el Mundial tras el derrumbe de la conocida como fuente del Árbol Gordo en Ciudad R",
       "date": "Mon, 20 Jul 2026 02:09:28 +0200",
       "source": "ABC",
       "color": "#c0392b",
@@ -130,116 +240,6 @@
       "source": "ABC",
       "color": "#c0392b",
       "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "La FEMP, cantera del primer sanchismo",
-      "link": "https://www.abc.es/espana/femp-cantera-primer-sanchismo-20260716010001-nt.html",
-      "desc": "«En el Partido Socialista ni ha existido ni existe el sanchismo ni el madinismo, existe el socialismo». Cuando César Luena, entonces recién nombrado secretario de Organización del PSOE, pronunció esta frase en el verano de 2014, su objetivo principal era apaga",
-      "date": "Mon, 20 Jul 2026 01:00:01 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "El Congreso consumará esta semana su penúltima cesión al nacionalismo",
-      "link": "https://www.abc.es/espana/congreso-consumara-semana-penultima-cesion-nacionalismo-20260720005936-nt.html",
-      "desc": "Mientras el Gobierno se parapeta en la Moncloa, cercado por los casos judiciales en su contra y sin mayoría en el Parlamento, el Congreso de los Diputados ultima la penúltima cesión al nacionalismo. En una legislatura cimentada sobre la amnistía a los encausad",
-      "date": "Mon, 20 Jul 2026 00:59:36 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Las dos Españas, plato único del sanchismo",
-      "link": "https://www.abc.es/espana/cataluna/sergi-doria-dos-espanas-plato-unico-sanchismo-20260720005918-nt.html",
-      "desc": "«Dicen los viejos que en este país hubo una guerra. Que hay dos Españas que guardan aún el rencor de viejas deudas», cantaba Jarcha en 'Libertad sin ira'. El director Jaime Camino filmaba 'La vieja memoria': confrontaba, sin comentarios, entrevistas a los prot",
-      "date": "Mon, 20 Jul 2026 00:59:18 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Vox impone su prioridad nacional en los nuevos presupuestos valencianos",
-      "link": "https://www.abc.es/espana/comunidad-valenciana/vox-presupuestos-llorca-prioridad-nacional-20260719005839-nt.html",
-      "desc": "El PP y Vox aprobarán este miércoles los presupuestos de la Generalitat valenciana de 2026, los primeros con Juanfran Pérez Llorca al frente del Gobierno autonómico. Las cuentas están listas para el debate en un pleno que empezará el martes en las Cortes Valen",
-      "date": "Mon, 20 Jul 2026 00:58:39 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Al menos tres socialistas extremeños condenados en el caso del hermanísimo se enfrentan a un desierto laboral",
-      "link": "https://www.abc.es/espana/extremadura/tres-socialistas-extremenos-condenados-hermanisimo-enfrentan-desierto-20260719005831-nt.html",
-      "desc": "Una semana después de que la Audiencia Provincial de Badajoz condenase a nueve años de inhabilitación a once personas por prevaricación administrativa por la contratación y posterior modificación del puesto de David Sánchez Pérez-Castejón, hermano del presiden",
-      "date": "Mon, 20 Jul 2026 00:58:31 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Messi: No llores por mí, Argentina",
-      "link": "https://www.lavanguardia.com/deportes/futbol/20260720/11596129/messi-llores-mi-argentina.html",
-      "desc": "El rosarino encaja con dignidad la derrota en su tercera final mundialista tras no poder desequilibrar el partido al ser su equipo muy inferior",
-      "date": "20 Jul 2026 00:49:25 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "La selección española también arrasa en los premios individuales del Mundial",
-      "link": "https://www.lavanguardia.com/deportes/futbol/20260720/11596130/seleccion-espanola-arrasa-premios-individuales-rodri-cubarsi-unai-simon-mundial.html",
-      "desc": "Rodri, Unai Simón y Pau Cubarsí recibieron respectivamente los trofeos al mejor jugador, mejor portero y mejor futbolista joven del campeonato",
-      "date": "20 Jul 2026 00:49:17 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "Todo rojo y un despistado",
-      "link": "https://www.lavanguardia.com/deportes/futbol/20260720/11596124/rojo-despistado.html",
-      "desc": "El Fòrum es el templo de las culturas, pero esta es la noche del fútbol español y ahí no caben Messi ni la albiceleste: 30.000 almas vocean ante el mar",
-      "date": "20 Jul 2026 00:47:42 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "Las cábalas del 304: Rocafonda estalla de alegría con el primer Mundial de Lamine Yamal",
-      "link": "https://www.lavanguardia.com/deportes/futbol/20260720/11596127/final-mundial-2026-cabalas-304-rocafonda-estalla-alegria-primer-mundial-lamine-yamal-mataro-familia.html",
-      "desc": "“Por ti. Y por la calle”, había publicado Lamine pensando en un barrio que vibra y agradece a su ídolo",
-      "date": "20 Jul 2026 00:46:28 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "El futbol ganó al show",
-      "link": "https://www.lavanguardia.com/opinion/20260720/11596120/futbol-gano-show.html",
-      "desc": "Argentina estuvo genial homenajeando el cine quinqui de José Antonio de la Loma",
-      "date": "20 Jul 2026 00:30:00 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "Ferran Torres: “El gol no ha sido mío, ha sido de 47 millones de personas”",
-      "link": "https://www.lavanguardia.com/deportes/futbol/20260720/11596119/ferran-torres-gol-sido-sido-47-millones-personas.html",
-      "desc": "El delantero valenciano, autor del único tanto de la final, señaló que “el guion estaba escrito” para que la selección española ganase su segundo Mundial",
-      "date": "20 Jul 2026 00:23:57 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
       "caso": "other"
     }
   ]
