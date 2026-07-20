@@ -1,7 +1,147 @@
 {
-  "updated": "2026-07-20T13:55:17Z",
+  "updated": "2026-07-20T15:47:12Z",
   "count": 24,
   "items": [
+    {
+      "title": "Burgos reunirá a 400 expertos de todo el mundo en el mayor congreso europeo sobre evolución humana",
+      "link": "https://www.abc.es/espana/castilla-leon/burgos-reunira-400-expertos-mundo-mayor-congreso-20260720134527-nt.html",
+      "desc": "Burgos reunirá del 16 al 20 de septiembre a cerca de 400 investigadores de todo el mundo con motivo de la XVI edición del congreso anual de la European Society for the Study of Human Evolution (ESHE), considerado uno de los principales encuentros científicos i",
+      "date": "Mon, 20 Jul 2026 17:23:57 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Dos policías locales de Nules salvan la vida a un hombre inconsciente que se asfixiaba",
+      "link": "https://www.abc.es/espana/comunidad-valenciana/dos-policias-locales-nules-salvan-vida-hombre-20260720171809-nt.html",
+      "desc": "La rápida actuación de dos agentes de la Policía Local de Nules (Castellón) ha permitido salvar la vida de un hombre de 53 años de edad que sufrió una parada cardiorrespiratoria. Lo auxiliaron con un desfibibrilador cuando estaba inconsciente y con síntomas ev",
+      "date": "Mon, 20 Jul 2026 17:18:09 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "El refugio en Valencia donde Ferran Torres encuentra la calma: un encantador pueblo entre naturaleza y buena mesa",
+      "link": "https://www.abc.es/espana/comunidad-valenciana/refugio-valencia-ferran-torres-encuentra-calma-encantador-20260720170859-nt.html",
+      "desc": "Ferrán Torres ha escrito su nombre en los libros de historia del deporte español. Gracias a su gol la Selección ha podido ganar la final del Mundial contra Argentina y sumar la segunda estrella a su equipación. El valenciano marcó el tanto en el minuto 107' co",
+      "date": "Mon, 20 Jul 2026 17:08:59 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "El Tribunal de Cuentas retoma el procedimiento contable del 'proces' tras el fallo del TJUE",
+      "link": "https://www.abc.es/espana/tribunal-cuentas-retoma-procedimiento-contable-proces-tras-20260720170857-nt.html",
+      "desc": "Cuatro días después del fallo del Tribunal de Justicia de la Unión Europea (TJUE) sobre la amnistía, el Tribunal de Cuentas (TCu) ha acordado reanudar la tramitación del procedimiento de reintegro por alcance del 'procés' que estaba suspendido tras el planteam",
+      "date": "Mon, 20 Jul 2026 17:08:57 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Encapuchados agreden a militares que veían la final del Mundial en un bar de Berriozar (Navarra)",
+      "link": "https://www.abc.es/espana/encapuchados-agreden-militares-veian-final-mundial-bar-20260720165620-nt.html",
+      "desc": "La final de la Copa del Mundo del fútbol que disputaron ayer España y Argentina paralizó todo el país. Miles de personas siguieron el encuentro desde sus casas o apostados en alguna de las pantallas gigantes que numerosos municipios y grandes ciudadanos coloca",
+      "date": "Mon, 20 Jul 2026 16:56:21 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "El presidente de Plus Ultra respalda a Martínez y dice que Zapatero cobró medio millón, 69.000 euros en «especie»",
+      "link": "https://www.abc.es/espana/presidente-plus-ultra-respalda-martinez-dice-zapatero-20260720163856-nt.html",
+      "desc": "Julio Martínez Sola, el presidente de Plus Ultr a, ha remitido un escrito al juez José Luis Calama de la Audiencia Nacional donde detalla punto por punto los movimientos y los presuntos cobros de José Luis Rodríguez Zapatero en el rescate de la aerolínea. En l",
+      "date": "Mon, 20 Jul 2026 16:39:37 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "zap"
+    },
+    {
+      "title": "Abren juicio oral al joven que injurió a Mazón con el mensaje «la horca te espera»",
+      "link": "https://www.abc.es/espana/comunidad-valenciana/abren-juicio-oral-joven-injurio-mazon-mensaje-20260720163757-nt.html",
+      "desc": "La magistrada titular de la Plaza 21 de la Sección de Instrucción del Tribunal de Instancia de Valencia ha dictado auto de apertura de juicio oral para un joven estudiante acusado de injuriar al expresidente de la Generalitat y diputado en Les Corts, Carlos Ma",
+      "date": "Mon, 20 Jul 2026 16:37:58 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "El Sergas ampliará las plazas de enfermería en Primaria hasta alcanzar una por cada médico en 2030",
+      "link": "https://www.abc.es/espana/galicia/sergas-ampliara-plazas-enfermeria-primaria-alcanzar-medico-20260720163607-nt.html",
+      "desc": "El plan integral de reforma de la Atención Primaria avanza con nuevas medidas que van saliendo a la luz, y que afectan directamente a las plantillas presentes, y futuras, de los centros de salud de la Comunidad. El último anuncio en esta dirección lo realizó e",
+      "date": "Mon, 20 Jul 2026 16:36:08 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Al menos tres muertos en Argentina durante la final del Mundial e incidentes posteriores",
+      "link": "https://www.lavanguardia.com/deportes/20260720/11596899/tres-muertos-argentina-final-mundial-e-incidentes-posteriores.html",
+      "desc": "Decenas de miles de argentinos salen a las calles para agradecer a su selección su entrega en el torneo&nbsp;",
+      "date": "20 Jul 2026 16:35:28 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
+    {
+      "title": "Investigan la muerte violenta de una mujer en Antequera",
+      "link": "https://www.abc.es/espana/andalucia/investigan-muerte-violenta-mujer-antequera-20260720163451-nts.html",
+      "desc": "Agentes de la Policía Naciona l mantienen abierta una investigación tras el hallazgo de una mujer, de 30 años, con signos de muerte violenta en el municipio malagueño de Antequera . Los hechos han tenido lugar sobre las 14.00 horas. Así, según han informado de",
+      "date": "Mon, 20 Jul 2026 16:35:18 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "La nueva Ley del Deporte de Castilla-La Mancha incluirá una comisión contra la violencia y el racismo",
+      "link": "https://www.abc.es/espana/castilla-la-mancha/nueva-ley-deporte-castillala-mancha-incluira-comision-20260720163230-nt.html",
+      "desc": "La nueva Ley del Ejercicio, la Actividad Física y el Deporte de Castilla-La Mancha incluirá la creación de una comisión autonómica contra la violencia, el racismo, la xenofobia y la intolerancia, con la que el Gobierno regional pretende reforzar la prevención ",
+      "date": "Mon, 20 Jul 2026 16:32:30 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "El Ayuntamiento de Talavera dice que la  Junta contempla «entre cinco y diez plantas de biogás» en la comarca",
+      "link": "https://www.abc.es/espana/castilla-la-mancha/toledo/talavera/ayuntamiento-talavera-dice-junta-contempla-cinco-diez-20260720162357-nt.html",
+      "desc": "El portavoz del equipo de Gobierno del Ayuntamiento de Talavera de la Reina, Jesús García-Barroso, ha desmentido las recientes declaraciones realizadas por representantes de la Junta de Comunidades de Castilla-La Mancha y del PSOE local sobre la instalación de",
+      "date": "Mon, 20 Jul 2026 16:23:58 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Bomberos de la Diputación de Toledo y de  la Comunidad de Madrid se suman al dispositivo de extinción del incendio de La Mierla",
+      "link": "https://www.abc.es/espana/castilla-la-mancha/bomberos-diputacion-toledo-comunidad-madrid-suman-dispositivo-20260720160018-nt.html",
+      "desc": "El Consorcio Provincial de Extinción de Incendios y Salvamento (Cpeis) de la Diputación de Toledo ha movilizado una dotación de bomberos hasta la localidad de Villares del Jadraque para colaborar en las labores de extinción del incendio forestal declarado en L",
+      "date": "Mon, 20 Jul 2026 16:03:51 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Vox carga contra Page tras la alerta de la AIReF sobre el gasto: «La región se le ha escapado de las manos»",
+      "link": "https://www.abc.es/espana/castilla-la-mancha/vox-carga-page-tras-alerta-airef-sobre-20260720155632-nt.html",
+      "desc": "El Grupo Parlamentario Vox ha cargado contra el presidente de Castilla-La Mancha, Emiliano García-Page, tras la advertencia de la Autoridad Independiente de Responsabilidad Fiscal (AIReF) sobre el riesgo elevado de que la comunidad autónoma incumpla la regla d",
+      "date": "Mon, 20 Jul 2026 15:57:09 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
     {
       "title": "La falta de inversión estatal aviva la crisis de la vivienda en Málaga",
       "link": "https://www.abc.es/espana/andalucia/malaga/falta-inversion-estatal-aviva-crisis-vivienda-malaga-20260720153732-nts.html",
@@ -53,7 +193,7 @@
       "caso": "other"
     },
     {
-      "title": "El director técnico del dispositivo de emergencia de La Mierla: «El fuego continúa muy lejos de estar controlado»",
+      "title": "«El fuego continúa muy lejos de estar controlado; está fuera de capacidad de extinción»",
       "link": "https://www.abc.es/espana/castilla-la-mancha/director-tecnico-dispositivo-emergencia-mierla-fuego-continua-20260720150832-nt.html",
       "desc": "El director técnico del dispositivo de emergencia que trabaja en e l incendio forestal de La Mierla (Guadalajara), Juan José Fernández, ha advertido este lunes de que el fuego continúa «muy lejos» de estar controlado y ha señalado la extrema complejidad de un ",
       "date": "Mon, 20 Jul 2026 15:09:45 +0200",
@@ -73,170 +213,30 @@
       "caso": "other"
     },
     {
-      "title": "El Plan Diputación Invierte permitirá el desarrollo de 784 actuaciones en la provincia de Córdoba",
-      "link": "https://www.abc.es/espana/andalucia/cordoba/plan-diputacion-invierte-permitira-desarrollo-784-actuaciones-20260720145730-nts.html",
-      "desc": "El presidente de la Diputación de Córdoba , Salvador Fuentes, ha informado de los detalles del Plan Diputación Invierte 2026 , «un plan que dotado con un crédito final de 20.600.000 euros, permitirá desarrollar un total de 784 actuaciones en 76 ayuntamientos, ",
-      "date": "Mon, 20 Jul 2026 14:57:30 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Núñez denuncia el «deterioro» de la atención sanitaria en el Mancha Centro con 7.000 personas en lista de espera",
-      "link": "https://www.abc.es/espana/castilla-la-mancha/nunez-denuncia-deterioro-atencion-sanitaria-mancha-centro-20260720145634-nt.html",
-      "desc": "El presidente del Partido Popular de Castilla-La Mancha, Paco Núñez, ha denunciado el deterioro de la atención sanitaria en el Hospital Mancha Centro de Alcázar de San Juan, donde actualmente 7.000 personas permanecen en lista de espera para ser atendidas por ",
-      "date": "Mon, 20 Jul 2026 14:56:35 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "El PP pide la nulidad de la instrucción que aplica la 'ley de nietos' para dar la nacionalidad",
-      "link": "https://www.abc.es/espana/pp-pide-nulidad-instruccion-aplica-ley-nietos-20260720144728-nt.html",
-      "desc": "El Partido Popular ha pedido este lunes al Gobierno que «paralice» la inscripción de nacionalidades a través de la conocida como 'ley de nietos' hasta que se aclaren los criterios «homogéneos» que se han pedido. Durante una rueda de prensa posterior al comité ",
-      "date": "Mon, 20 Jul 2026 14:47:28 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Begoña Gómez pide a la Audiencia de Madrid una nueva fecha para resolver su recurso contra el archivo de la denuncia a Vito Quiles",
-      "link": "https://www.abc.es/espana/begona-gomez-pide-audiencia-madrid-nueva-fecha-20260720144646-nt.html",
-      "desc": "Begoña Gómez, esposa del presidente del Gobierno, Pedro Sánchez, ha presentado un escrito en la sección cuarta de la Audiencia Provincial de Madrid en la que pide que la Sala fije una nueva fecha para resolver el recurso qe presentó contra el archivo de su den",
-      "date": "Mon, 20 Jul 2026 14:46:46 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Detenido tras amenazar a un repartidor con una escopeta e intentar huir por los tejados en Córdoba",
-      "link": "https://www.abc.es/espana/andalucia/cordoba/detenido-tras-amenazar-repartidor-escopeta-intentar-huir-20260720143721-nts.html",
-      "desc": "La Policía Nacional ha detenido a un hombre en la zona de El Granadal después de que presuntamente amenazara con una escopeta de plomillos a un repartidor de comida a domicilio y se atrincherara posteriormente en su vivienda para evitar su arresto. La interven",
-      "date": "Mon, 20 Jul 2026 14:37:22 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Álex Baena recuerda a la 'Princesa Futbolera Guerrera' en la celebración del Mundial: «La segunda estrella eres tú»",
-      "link": "https://www.abc.es/espana/castilla-leon/alex-baena-recuerda-nina-salmantina-maria-caamano-20260720141338-nt.html",
-      "desc": "El futbolista de la Selección Española de Fútbol Álex Baena ha querido recordar una vez más, en esta ocasión tras proclamarse Campeón del Mundo, a María Caamaño , la 'Princesa Futbolera Guerrera', fallecida el pasado mes de abril a los 13 años tras luchar cont",
-      "date": "Mon, 20 Jul 2026 14:37:03 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "La empresa Villafuel solicita al juez que escuche a asesores y auditores de su sistema antidelitos",
-      "link": "https://www.abc.es/espana/empresa-villafuel-solicita-juez-escuche-asesores-auditores-20260720143621-nt.html",
-      "desc": "La empresa Villafuel, epicentro de la presunta trama del 'caso hidrocarburos' que se investiga en la Audiencia Nacional, ha pedido al juez instructor, Santiago Pedraz, que cite a dos auditores y tres asesores que trabajaron en un sistema de prevención de riesg",
-      "date": "Mon, 20 Jul 2026 14:36:21 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "lei"
-    },
-    {
-      "title": "«Hasta el CIS de Tezanos nos da representación parlamentaria»: Se Acabó La Fiesta llega a Galicia",
-      "link": "https://www.abc.es/espana/galicia/cis-tezanos-representacion-parlamentaria-acabo-fiesta-llega-20260720143000-nt.html",
-      "desc": "Tras lograr representación en el Parlamento Europeo bajo el liderazgo de Alvise Pérez , la formación política Se Acabó La Fiesta (SALF) ha dado el pistoletazo de salida oficial a su implantación en Galicia. El partido celebró este viernes su primer gran encuen",
-      "date": "Mon, 20 Jul 2026 14:30:00 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Un ladrón condenado intenta eludir la cárcel fingiendo que era un 'okupa'",
-      "link": "https://www.abc.es/espana/comunidad-valenciana/confirman-prision-ladron-trato-exculparse-fingiendo-okupa-20260720142204-nt.html",
-      "desc": "El Tribunal Superior de Justicia de la Comunitat Valenciana (TSJCV) ha confirmado la condena a tres años y medio de prisión impuesta a un ladrón que entró a robar en dos viviendas de la localidad de Gandia y que había intentado ser exculpado fingiendo que en r",
-      "date": "Mon, 20 Jul 2026 14:27:34 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Plus Ultra y Julito Martínez envían escritos al juez confesando las mediaciones de Zapatero en el rescate de la aerolínea",
-      "link": "https://www.abc.es/espana/plus-ultra-julito-martinez-envian-escritos-juez-20260720142541-nt.html",
-      "desc": "Plus Ultra y Julio Martínez Martínez han enviado sendos escritos a la Audiencia Nacional donde muestran su deseo de colaborar con la Justicia y confiesan que José Luis Rodríguez Zapatero medió en el rescate de la aerolínea, según explican fuentes judiciales a ",
-      "date": "Mon, 20 Jul 2026 14:25:41 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "zap"
-    },
-    {
-      "title": "La Junta inaugura en Villaviciosa de Córdoba el aeródromo de Cabeza Aguda, clave en lucha contra los incendios",
-      "link": "https://www.abc.es/espana/andalucia/cordoba/junta-inaugura-villaviciosa-cordoba-aerodromo-cabeza-aguda-20260720142118-nts.html",
-      "desc": "La Junta de Andalucía ha inaugurado este lunes el nuevo aeródromo de Cabeza Aguda, en el término municipal de Villaviciosa de Córdoba, una infraestructura destinada a reforzar la capacidad de respuesta del Plan Infoca frente a los incendios forestales. El proy",
-      "date": "Mon, 20 Jul 2026 14:21:19 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Castilla-La Mancha participa en el primer estudio español para predecir el riesgo personalizado de cáncer de mama",
-      "link": "https://www.abc.es/espana/castilla-la-mancha/castillala-mancha-participa-primer-estudio-espanol-predecir-20260720141405-nt.html",
-      "desc": "Castilla-La Mancha participará en el primer estudio que se desarrolla en España para predecir de forma personalizada el riesgo de cada mujer de desarrollar cáncer de mama. La comunidad se incorporará al 'Proyecto MamoRisk' a través del servicio de Radiodiagnós",
-      "date": "Mon, 20 Jul 2026 14:19:13 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Maestre acusa a Vox de difundir «tres versiones distintas» sobre el incendio de La Mierla",
-      "link": "https://www.abc.es/espana/castilla-la-mancha/maestre-acusa-vox-difundir-tres-versiones-distintas-20260720140617-nt.html",
-      "desc": "La vicesecretaria general del PSOE de Castilla-La Mancha y eurodiputada, Cristina Maestre, ha criticado este miércoles las declaraciones realizadas por Vox en relación con el incendio de La Mierla , un fuego que, según ha señalado, « ha sobrepasado las 26.000 ",
-      "date": "Mon, 20 Jul 2026 14:06:18 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Última hora de la victoria de España en el Mundial 2026, en directo: reacciones y celebración del triunfo ante Argentina",
-      "link": "https://www.lavanguardia.com/deportes/futbol/20260720/11596116/espana-victoria-final-mundial-2026-argentina-reacciones-ultima-hora-hoy-en-directo.html",
-      "desc": "España se impone a Argentina en la prórroga por 1 gol a 0 y gana el Mundial 16 años después",
-      "date": "20 Jul 2026 09:01:30 +0200",
+      "title": "Los campeones del mundo ya están en España para celebrar el triunfo con la afición",
+      "link": "https://www.lavanguardia.com/deportes/futbol/20260720/11596833/campeones-mundo-espana-celebrar-triunfo-aficion.html",
+      "desc": "La selección española ha aterrizado en el aeropuerto Adolfo Suárez a las 14:35 horas",
+      "date": "20 Jul 2026 14:57:50 +0200",
       "source": "La Vanguardia",
       "color": "#8e44ad",
       "feedId": "LaVanguardia",
       "caso": "other"
     },
     {
-      "title": "Cibeles se va a convertir en el epicentro de la fiesta: cortes de tráfico, horario y refuerzo de autobuses y metro",
-      "link": "https://www.lavanguardia.com/local/madrid/20260720/11596353/cibeles-convertir-epicentro-fiesta-cortes-trafico-horario-refuerzo-autobuses-metro.html",
-      "desc": "El autobús con los campeones saldrá de Moncloa y llegará a la Plaza de Cibeles de 18 a 23 horas",
-      "date": "20 Jul 2026 08:51:32 +0200",
+      "title": "El intercambio de monedas entre el Rey y Donald Trump",
+      "link": "https://www.lavanguardia.com/gente/20260720/11596563/intercambio-monedas-rey-donald-trump.html",
+      "desc": "El presidente de Estados Unidos entrega a la familia real cuatro piezas conmemorativas de sus dos mandatos en la Casa Blanca y Felipe VI le corresponde con una de su reinado",
+      "date": "20 Jul 2026 13:28:13 +0200",
       "source": "La Vanguardia",
       "color": "#8e44ad",
       "feedId": "LaVanguardia",
       "caso": "other"
     },
     {
-      "title": "Los jugadores argentinos dan la espalda a España en un feo gesto durante la entrega del trofeo",
-      "link": "https://www.lavanguardia.com/deportes/futbol/mundial-2026/20260720/11596337/seleccion-argentina-da-espalda-espana-feo-gesto-entrega-copa-mundo.html",
-      "desc": "La albiceleste se negó a mirar cómo la selección española levantaba el triunfo en el podio de campeones",
-      "date": "20 Jul 2026 08:17:14 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "Rodri desafía la voluntad de Trump y levanta la copa sin el presidente en la foto",
-      "link": "https://www.lavanguardia.com/deportes/futbol/mundial-2026/20260720/11596329/rodri-desafia-voluntad-trump-levanta-copa-presidente-foto.html",
-      "desc": "El presidente estadounidense quiso ser protagonista apareciendo en la fotografía de campeones, pero el centrocampista y capitán de la selección española esperó para levantar el trofeo",
-      "date": "20 Jul 2026 07:51:18 +0200",
+      "title": "La liberación de Ferran Torres: así se reconstruyó el goleador de la final del Mundial",
+      "link": "https://www.lavanguardia.com/deportes/futbol/20260720/11596568/liberacion-ferran-torres-asi-reconstruyo-goleador-final-mundial-2026-barca-futuro.html",
+      "desc": "La resiliencia del delantero azulgrana encontró su recompensa en la final tras una etapa complicada",
+      "date": "20 Jul 2026 13:13:04 +0200",
       "source": "La Vanguardia",
       "color": "#8e44ad",
       "feedId": "LaVanguardia",
