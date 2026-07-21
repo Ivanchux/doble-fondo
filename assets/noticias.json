@@ -1,7 +1,17 @@
 {
-  "updated": "2026-07-21T02:10:10Z",
-  "count": 4,
+  "updated": "2026-07-21T06:24:21Z",
+  "count": 5,
   "items": [
+    {
+      "title": "El abogado del exconsejero Vallejo,  condenado por una ayuda de 1,2 millones, diseñó la plaza para Leire Díez en Correos",
+      "link": "https://www.abc.es/espana/andalucia/abogado-intento-apartar-juez-alaya-salvar-exconsejero-20260721070633-nts.html",
+      "desc": "El abogado que batalló en los tribunales para intentar sin éxito salvar al exconsejero socialista Francisco Vallejo Serrano en el caso Invercaria es el mismo exdirectivo que, desde la cúpula de Correos, fabricó un puesto de trabajo a la medida para colocar a l",
+      "date": "Tue, 21 Jul 2026 07:06:33 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "lei"
+    },
     {
       "title": "Julio Martínez consolida la figura del delator tras los beneficios del TS a Aldama",
       "link": "https://www.abc.es/espana/julio-martinez-consolida-figura-delator-tras-beneficios-20260720021730-nt.html",
