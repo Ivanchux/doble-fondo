@@ -1,246 +1,46 @@
 {
-  "updated": "2026-07-20T22:54:39Z",
-  "count": 24,
+  "updated": "2026-07-21T02:10:10Z",
+  "count": 4,
   "items": [
     {
-      "title": "El Gobierno destaca que el incendio de Guadalajara no ha causado daños personales pese a su magnitud",
-      "link": "https://www.abc.es/espana/castilla-la-mancha/gobierno-destaca-incendio-guadalajara-causado-danos-personales-20260720221058-nt.html",
-      "desc": "El Gobierno de España ha destacado que el incendio de La Mierla (Guadalajara), que ha arrasado más de 26.000 hectáreas, no haya causado daños personales pese a su magnitud y a las dificultades que están encontrando los equipos de extinción para combatir unas l",
-      "date": "Mon, 20 Jul 2026 22:10:59 +0200",
+      "title": "Julio Martínez consolida la figura del delator tras los beneficios del TS a Aldama",
+      "link": "https://www.abc.es/espana/julio-martinez-consolida-figura-delator-tras-beneficios-20260720021730-nt.html",
+      "desc": "Si la colaboración con la Justicia de Víctor de Aldama en la trama de las mascarillas podría interpretarse como un hecho aislado en la lucha contra la corrupción, el papel de Julio Martínez, el amigo y socio de Rodríguez Zapatero en Plus Ultra, apunta a que lo",
+      "date": "Tue, 21 Jul 2026 02:17:30 +0200",
       "source": "ABC",
       "color": "#c0392b",
       "feedId": "ABC",
-      "caso": "other"
+      "caso": "zap"
     },
     {
-      "title": "Vuelve el rey del electrolatino: Juan Magán anuncia dos grandes conciertos en Galicia este verano",
-      "link": "https://www.abc.es/espana/galicia/vuelve-rey-electrolatino-juan-magan-anuncia-dos-20260720220000-nt.html",
-      "desc": "Juan Magán vuelve a Galicia este verano, y lo hace por partida doble: el artista pondrá la primera y la última nota al ciclo 'Electrolatino by Juan Magán', dentro del Festival Costa Feira de Sanxenxo (Pontevedra). El ciclo se desarrollará durante cuatro martes",
-      "date": "Mon, 20 Jul 2026 22:00:00 +0200",
+      "title": "Cargos del PSOE urgen a distanciarse ya de Zapatero: «No podemos ser un escudo político»",
+      "link": "https://www.abc.es/espana/dirigentes-psoe-urgen-distanciarse-zapatero-podemos-escudo-20260721014830-nt.html",
+      "desc": "Después de una semana de respiro, con el 'caso Plus Ultra' dormido mediáticamente, el escenario judicial de José Luis Rodríguez Zapatero se ha oscurecido ostensiblemente y —por extensión— sus consecuencias para el PSOE y La Moncloa. En vísperas de su declaraci",
+      "date": "Tue, 21 Jul 2026 01:48:30 +0200",
       "source": "ABC",
       "color": "#c0392b",
       "feedId": "ABC",
-      "caso": "other"
+      "caso": "zap"
     },
     {
-      "title": "El «rápido avance» del incendio de Brieva (Segovia) obliga a desalojar ocho localidades",
-      "link": "https://www.abc.es/espana/castilla-leon/desalojadas-ocho-localidades-incendio-brieva-segovia-20260720213837-nt.html",
-      "desc": "El incendio declarado a las 15.30 horas en el término municipal de de Brieva, en la comarca de Navafría, obligaba, cuatro horas más tarde, a evacuar ocho núcleos de población debido al «rápido avance de las llamas». En concreto, se ha ordenado el desalojo de T",
-      "date": "Mon, 20 Jul 2026 21:38:37 +0200",
+      "title": "La Audiencia Nacional 'ficha' dos nuevos jueces en plena efervescencia de casos mediáticos: «Hay una ingente cantidad de trabajo»",
+      "link": "https://www.abc.es/espana/audiencia-nacional-ficha-dos-nuevos-jueces-plena-20260719013646-nt.html",
+      "desc": "Por la madrileña plaza de la Villa de París pasean a diario a sus perros decenas de personas. Otras tantas lo hacen acompañadas de sus hijos. En los últimos meses, sol o lluvia mediante, todos ellos observan el revuelo casi diario que provocan las cámaras y el",
+      "date": "Tue, 21 Jul 2026 01:36:46 +0200",
       "source": "ABC",
       "color": "#c0392b",
       "feedId": "ABC",
-      "caso": "other"
+      "caso": "gen"
     },
     {
-      "title": "IU propone convertir la Casa de Corcho de Toledo en la sede del Consejo de la Juventud",
-      "link": "https://www.abc.es/espana/castilla-la-mancha/toledo/iu-propone-convertir-casa-corcho-toledo-sede-20260720213407-nt.html",
-      "desc": "Izquierda Unida propondrá que la Casa de Corcho, situada en el parque de La Vega de Toledo, se convierta en la sede del Consejo de la Juventud o, en su defecto, en un espacio destinado a albergar un servicio municipal público. El concejal de IU en el Ayuntamie",
-      "date": "Mon, 20 Jul 2026 21:34:08 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "El incendio podría entrar en Castilla y León tras avanzar hacia Atienza",
-      "link": "https://www.abc.es/espana/castilla-la-mancha/incendio-alcanzar-soria-tras-avanzar-atienza-limite-20260720204601-nt.html",
-      "desc": "El incendio de La Mierla podría alcanzar la provincia de Soria después de que la cabeza del fuego haya continuado avanzando hacia el norte , en dirección al límite entre Castilla-La Mancha y Castilla y León. El operativo contempla esta posibilidad y ha comenza",
-      "date": "Mon, 20 Jul 2026 20:58:38 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Quién canta hoy en Cibeles por la celebración del Mundial 2026 en Madrid: lista oficial de artistas confirmados",
-      "link": "https://www.abc.es/espana/madrid/quien-canta-hoy-cibeles-celebracion-mundial-2026-madrid-20260720165020-nt.html",
-      "desc": "Tal y como sucediera hace dos años, cuando España se proclamó campeona de Europa, la Selección ha vuelto a elegir la plaza de Cibeles para ofrecer a toda la afición el título del Mundial. Un hito que ha generado una alegría en todo el país como pocas veces se ",
-      "date": "Mon, 20 Jul 2026 20:51:31 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Nueva agresión en la prisión de Córdoba: una interna la emprende a patadas y puñetazos con los funcionarios",
-      "link": "https://www.abc.es/espana/andalucia/cordoba/nueva-agresion-prision-cordoba-interna-emprende-patadas-20260720203442-nts.html",
-      "desc": "La Central Sindical Independiente y de Funcionarios ( CSIF ), organización sindical mayoritaria en las Mesas Delegadas de Función Pública e Instituciones Penitenciarias, ha denunciado la agresión sufrida este lunes por trabajadores del Centro Penitenciario de ",
-      "date": "Mon, 20 Jul 2026 20:34:42 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Detenido cuando huía tras disparar y herir a una mujer por celos en Orihuela",
-      "link": "https://www.abc.es/espana/comunidad-valenciana/alicante/detenido-huia-tras-disparar-herir-mujer-celos-20260720203300-nt.html",
-      "desc": "Agentes de la Policía Local de Orihuela (Alicante) han capturado cuando huía a un hombre autor de un tiroteo -al parecer por celos- en el que hirió por disparo a una mujer tras amenazas y agredió a otra persona. Ocurrió de noche la semana pasada y -tal como in",
-      "date": "Mon, 20 Jul 2026 20:33:00 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Campo de Criptana denuncia actos «vandálicos» de jóvenes tras la victoria de España",
-      "link": "https://www.abc.es/espana/castilla-la-mancha/campo-criptana-denuncia-actos-vandalicos-jovenes-tras-20260720202622-nt.html",
-      "desc": "El alcalde de Campo de Criptana, Santiago Lázaro, ha expresado «una profunda decepción por los graves actos vandálicos registrados en el Auditorio de Verano tras la final del Mundial España-Argentina». Vídeos y fotografías evidencian la actuación de grupos con",
-      "date": "Mon, 20 Jul 2026 20:26:22 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "'Rural Bike Conecta' despliega 2.180 kilómetros de rutas cicloturistas por Castilla-La Mancha",
-      "link": "https://www.abc.es/espana/castilla-la-mancha/rural-bike-conecta-despliega-2180-kilometros-rutas-20260720202309-nt.html",
-      "desc": "Castilla-La Mancha incorpora a su oferta turística 2.180 kilómetros de rutas cicloturistas a través del proyecto Rural Bike Conecta CLM, una red que recorre la comunidad autónoma y conecta 168 municipios , además de atravesar de manera sostenible algunos de su",
-      "date": "Mon, 20 Jul 2026 20:23:10 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "A qué hora es la celebración de España en Cibeles tras ganar el Mundial: recorrido, cortes de tráfico en Madrid y dónde ver gratis en televisión y online hoy",
-      "link": "https://www.abc.es/espana/madrid/hora-celebracion-espana-cibeles-hoy-recorrido-madrid-20260720070000-nt.html",
-      "desc": "España lucirá una segunda estrella en la camiseta tras ganar el Mundial 2026 de México, Canadá y Estados Unidos. La selección completó una brillante participación en el torneo con el triunfo ante Argentina (1-0) en la noche del domingo 19 de julio en Nueva Yor",
-      "date": "Mon, 20 Jul 2026 20:18:09 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "La Junta despliega una teleasistencia proactiva pionera con 500 pantallas en hogares de la región",
-      "link": "https://www.abc.es/espana/castilla-la-mancha/junta-despliega-teleasistencia-proactiva-pionera-500-pantallas-20260720201548-nt.html",
-      "desc": "El Gobierno de Castilla-La Mancha ha puesto en marcha un nuevo servicio de teleasistencia proactiva con el despliegue inicial de 500 pantallas inteligentes en hogares de municipios de menos de 5.000 habitantes, un proyecto piloto con el que busca combatir la s",
-      "date": "Mon, 20 Jul 2026 20:15:49 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Jesús Aguirre renunciará también como parlamentario andaluz para «dedicarse a 'full' al Senado»",
-      "link": "https://www.abc.es/espana/andalucia/jesus-aguirre-renunciara-parlamentario-andaluz-dedicarse-full-20260720200603-nts.html",
-      "desc": "Jesús Aguirre protagonizará este jueves una doble mudanza institucional. El veterano político apura sus últimas horas en el Parlamento autonómico con una renuncia por partida doble: deja la Presidencia de la Cámara y entrega, poco después, su escaño como diput",
-      "date": "Mon, 20 Jul 2026 20:06:12 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Degustaciones gratis de productos gastronómicos artesanos en Orense y Lugo",
-      "link": "https://www.abc.es/espana/galicia/degustaciones-gratis-productos-gastronomicos-artesanos-orense-lugo-20260720200001-nt.html",
-      "desc": "La Consellería do Medio Rural busca potenciar el sello Artesanía Alimentaria mediante una atractiva propuesta gastronómica. A través de la Axencia Galega da Calidade Alimentaria el gobierno autonómico ha puesto en marcha la iniciativa Aula Abierta. Este proyec",
-      "date": "Mon, 20 Jul 2026 20:00:01 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Conmoción en Ciudad Rodrigo por la muerte de un chico de 13 años durante la celebración del Mundial",
-      "link": "https://www.abc.es/espana/castilla-leon/conmocion-salamanca-muerte-chico-trece-anos-celebracion-20260720185341-nt.html",
-      "desc": "Ciudad Rodrigo ha pasado de la alegría por la «segunda estrella» al «shock» más absoluto por la pérdida de uno de sus vecinos, un chaval de trece años que falleció durante la celebración del Campeonato del Mundo. La víctima festejaba el triunfo en el interior ",
-      "date": "Mon, 20 Jul 2026 19:33:41 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "El Hospital de Montilla suma 16 nuevas consultas tras una inversión de más de 5,5 millones de euros",
-      "link": "https://www.abc.es/espana/andalucia/cordoba/hospital-montilla-suma-nuevas-consultas-tras-inversion-20260720192033-nts.html",
-      "desc": "El vicepresidente primero de la Junta de Andalucía y consejero de Presidencia, Sanidad y Emergencias, Antonio Sanz , acompañado por el alcalde de Montilla, Rafael Llamas, ha inaugurado este lunes la ampliación del Hospital de Montilla , dos nuevos edificios an",
-      "date": "Mon, 20 Jul 2026 19:26:51 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Los vecinos de Barcones y los mayores de la residencia de Retortillo, en Soria, evacuados por el fuego de Guadalajara",
-      "link": "https://www.abc.es/espana/castilla-leon/sur-soria-alerta-ante-llegada-fuego-guadalajara-20260720192319-nt.html",
-      "desc": "La delegada territorial de la Junta en Soria y directora del Centro de Coordinación Operativa Integrado (Cecopi), Yolanda de Gregorio, ha ordenado en la tarde de este lunes la evacuación de los 31 residentes del centro de personas mayores Virgen del Prado de R",
-      "date": "Mon, 20 Jul 2026 19:23:20 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "El quinteto que tocó el himno de España en la final del Mundial: «Salir al campo fue impresionante»",
-      "link": "https://www.abc.es/espana/comunidad-valenciana/quinteto-toco-himno-espana-final-mundial-salir-20260720191740-nt.html",
-      "desc": "El quinteto valenciano de metales Spanish Brass, encargado de interpretar el himno nacional de España en la final del Mundial de fútbol que se celebró en Nueva York este domingo, ha calificado la actuación de «espectacular» y «maravillosa». Así lo ha puesto de",
-      "date": "Mon, 20 Jul 2026 19:17:40 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Muere un conductor al salirse de la N-III y estrellarse contra un muro en Utiel",
-      "link": "https://www.abc.es/espana/comunidad-valenciana/muere-conductor-salirse-niii-estrellarse-muro-utiel-20260720191411-nt.html",
-      "desc": "Un conductor ha muerto este lunes tras perder el control de la furgoneta en la que se desplazaba, salirse de la carretera nacional y estrellarse contra un muro en Utiel (Valencia). El accidente de tráfico mortal se ha producido sobre las tres de la tarde en la",
-      "date": "Mon, 20 Jul 2026 19:14:11 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Díaz Pico modificará las bases de las ayudas para «no alimentar la batalla cultural de la izquierda»",
-      "link": "https://www.abc.es/espana/castilla-leon/cultura-modificara-bases-ayudas-alimentar-batalla-cultural-20260720184831-nt.html",
-      "desc": "«Cuando termine esta legislatura, quiero que Castilla y León tenga más patrimonio vivo, más cultura compartida, más visitantes durante todo el año, más actividad en sus pueblos, más jóvenes practicando deporte, más talento que decide quedarse y más ciudadanos ",
-      "date": "Mon, 20 Jul 2026 19:08:19 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "El Rey, a los campeones: “Habéis ganado para toda España; con cabeza y con corazón”",
-      "link": "https://www.lavanguardia.com/gente/20260720/11596990/rey-campeones-habeis-ganado-toda-espana-cabeza-corazon.html",
-      "desc": "Los trabajadores de la Zarzuela han hecho un pasillo de honor a los jugadores antes de que les recibieran los Reyes, la princesa Leonor y la infanta Sofía",
-      "date": "20 Jul 2026 18:44:28 +0200",
+      "title": "Las confesiones en cascada del caso Plus Ultra implican a Zapatero",
+      "link": "https://www.lavanguardia.com/politica/20260721/11597032/confesiones-cascada-caso-plus-ultra-implican-zapatero.html",
+      "desc": "El directivo de la aerolínea y Julio Martínez acusan al expresidente de mediar en el rescate",
+      "date": "21 Jul 2026 00:05:00 +0200",
       "source": "La Vanguardia",
       "color": "#8e44ad",
       "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "La selección festeja en España su triunfo en el Mundial",
-      "link": "https://www.lavanguardia.com/deportes/futbol/20260720/11596949/celebracion-espana-mundial-rua-madrid-cibeles-ultima-hora-en-directo.html",
-      "desc": "Sigue en directo la celebración de la selección española por las calles de Madrid",
-      "date": "20 Jul 2026 18:05:39 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "Al menos tres muertos en Argentina durante la final del Mundial e incidentes posteriores",
-      "link": "https://www.lavanguardia.com/deportes/20260720/11596899/tres-muertos-argentina-final-mundial-e-incidentes-posteriores.html",
-      "desc": "Decenas de miles de argentinos salen a las calles para agradecer a su selección su entrega en el torneo&nbsp;",
-      "date": "20 Jul 2026 16:35:28 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "El intercambio de monedas entre el Rey y Trump",
-      "link": "https://www.lavanguardia.com/gente/20260720/11596563/intercambio-monedas-rey-donald-trump.html",
-      "desc": "El presidente de Estados Unidos entrega a la familia real cuatro piezas conmemorativas de sus dos mandatos en la Casa Blanca y Felipe VI le corresponde con una de su reinado",
-      "date": "20 Jul 2026 13:28:13 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
-      "caso": "other"
+      "caso": "zap"
     }
   ]
 }
