@@ -1,66 +1,246 @@
 {
-  "updated": "2026-07-22T06:24:01Z",
-  "count": 6,
+  "updated": "2026-07-22T10:21:10Z",
+  "count": 24,
   "items": [
     {
-      "title": "Aldama señala que emisarios de Bolaños y Cerdán lo quisieron comprar",
-      "link": "https://www.abc.es/espana/aldama-revela-tres-interlocutores-bolanos-ofrecieron-dinero-20260721013344-nt.html",
-      "desc": "El empresario Víctor de Aldama ha presentado una contestación a la demanda interpuesta contra él por el ministro de Presidencia, Justicia y Relaciones con las Cortes, Félix Bolaños, por vulneración de su derecho al honor por haber acusado a personas de su ento",
-      "date": "Wed, 22 Jul 2026 01:33:44 +0200",
+      "title": "Vox alerta de que Sánchez «podría jugar a hacer un Ortega y no convocar elecciones»",
+      "link": "https://www.abc.es/espana/vox-avisa-sanchez-jugar-ortega-convocar-elecciones-20260722114551-nt.html",
+      "desc": "Pedro Sánchez «podría jugar a hacer un Ortega y decir que, como va a ganar la oposición, no va a convocar elecciones» y buscará «algún artificio». Así lo indicó el jefe de la delegación europea de Vox , Jorge Buxadé, este miércoles en una entrevista en Radio L",
+      "date": "Wed, 22 Jul 2026 12:08:22 +0200",
       "source": "ABC",
       "color": "#c0392b",
       "feedId": "ABC",
-      "caso": "lei"
+      "caso": "other"
     },
     {
-      "title": "Moncloa admite el coste político que asume en su defensa de Zapatero",
-      "link": "https://www.abc.es/espana/moncloa-admite-coste-asume-defensa-politica-zapatero-20260722013235-nt.html",
-      "desc": "La investigación sobre el caso Plus Ultra avanza, mientras el Gobierno sigue inmóvil en su posición de defensa cerrada de José Luis Rodríguez Zapatero. Las declaraciones ante el juez José Luis Calama de quien fuera su amigo y pagador 'Julito' Martínez y dos di",
-      "date": "Wed, 22 Jul 2026 01:32:35 +0200",
+      "title": "Las autoescuelas de León convocan una marcha de vehículos para protestar por la falta de examinadores",
+      "link": "https://www.abc.es/espana/castilla-leon/autoescuelas-leon-convocan-marcha-vehiculos-protestar-falta-20260722120710-nt.html",
+      "desc": "Las autoescuelas de la provincia León convocan el jueves 30 de julio una marcha de vehículos para reclamar medidas efectivas con las que atajar la falta de examinadores, que hace que unos 3.500 alumnos soporten estos momentos unos cuatro meses de espera para p",
+      "date": "Wed, 22 Jul 2026 12:07:11 +0200",
       "source": "ABC",
       "color": "#c0392b",
       "feedId": "ABC",
-      "caso": "zap"
+      "caso": "other"
     },
     {
-      "title": "Sorpresa en la Fiscalía por la confesión de 'Julito' sobre Zapatero: «Es importante»",
-      "link": "https://www.abc.es/espana/fiscal-juez-sorprendidos-rapidez-dureza-confesion-martinez-20260722013223-nt.html",
-      "desc": "Ocurrió la semana pasada. La abogada de Julio Martínez Martínez, María Dolores Márquez de Prado, llamó a la Fiscalía Anticorrupción para comunicarle que en los próximos días remitirían un escrito al Ministerio Público desvelando aspectos nucleares respecto a l",
-      "date": "Wed, 22 Jul 2026 01:32:23 +0200",
+      "title": "Hallan el cadáver del joven de 23 años desaparecido tras ser arrastrado por la corriente en el río Miño",
+      "link": "https://www.abc.es/espana/galicia/hallan-cadaver-joven-anos-desaparecido-tras-arrastrado-20260722120341-nt.html",
+      "desc": "Trágico desenlace en las labores de rastreo en el tramo final del río Miño. Una embarcación de la Comandancia Naval del Miño ha localizado el cadáver del joven de 23 años que permanecía desaparecido desde el pasado domingo tras ser arrastrado por la corriente ",
+      "date": "Wed, 22 Jul 2026 12:03:41 +0200",
       "source": "ABC",
       "color": "#c0392b",
       "feedId": "ABC",
-      "caso": "zap"
+      "caso": "other"
     },
     {
-      "title": "La mancha de Zapatero",
-      "link": "https://www.lavanguardia.com/opinion/20260722/11597978/mancha-zapatero.html",
-      "desc": "Lo que hay es un torpedo en la línea de flotación de la credibilidad de Zapatero",
-      "date": "22 Jul 2026 00:05:00 +0200",
+      "title": "El PP y Vox aprueban los presupuestos de Llorca e imprimen la «prioridad nacional» en una ley",
+      "link": "https://www.abc.es/espana/comunidad-valenciana/pp-vox-aprueban-presupuestos-llorca-imprimen-prioridad-20260722115958-nt.html",
+      "desc": "El PP y Vox han aprobado este miércoles en las Cortes Valencianas los presupuestos de la Generalitat de 2026, los primeros con Juanfran Pérez Llorca al frente del Gobierno autonómico. Unas cuentas que ascienden a 33.305 millones de euros e imprimen por primera",
+      "date": "Wed, 22 Jul 2026 11:59:59 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Regresan a casa los vecinos que aún permanecían evacuados por el fuego de Brieva, que tiene una evolución «muy favorable»",
+      "link": "https://www.abc.es/espana/castilla-leon/regresan-casa-vecinos-desalojados-fuego-brieva-evoluciona-20260722115558-nt.html",
+      "desc": "La «muy favorable» evolución mantenida por el incendio de Brieva (Segovia), declarado el pasado lunes, pasadas las 15.00 horas, y que se propagó con rapidez debido a las fuertes rachas de viento permitirá que puedan volver a sus casas los vecinos de Berrocal y",
+      "date": "Wed, 22 Jul 2026 11:55:59 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Illa desvela que los jugadores catalanes campeones del mundo «no han querido» una recepción oficial en la Generalitat",
+      "link": "https://www.abc.es/espana/cataluna/illa-desvela-jugadores-catalanes-campeones-mundo-querido-20260722114146-nt.html",
+      "desc": "La victoria de España en el Mundial de fútbol celebrado en Canadá, Estados Unidos y México ha centrado la sesión de control parlamentario al Govern catalán celebrada hoy. De una manera u otra, los grupos independentistas han mostrado su rechazo al triunfo y la",
+      "date": "Wed, 22 Jul 2026 11:41:47 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Inadmitida la querella de Vox por presunto el 'chivatazo' de la operación 'Fuentona' de Soria",
+      "link": "https://www.abc.es/espana/castilla-leon/inadmitida-querella-vox-presunto-chivatazo-operacion-fuentona-20260722113613-nt.html",
+      "desc": "La querella de Vox sobre presunto el 'chivatazo' en la operación 'Fuentona' ha sido inadmitida por un juzgado de Soria , si bien la formación prevé recurrir a la Audiencia Provincial para que se investigue si hubo revelación de secretos sobre la entrada y regi",
+      "date": "Wed, 22 Jul 2026 11:36:14 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Una masa fresca pone fin a la ola de calor en Andalucía: las máximas no subirán de los 35 grados",
+      "link": "https://www.abc.es/espana/andalucia/masa-fresca-pone-fin-ola-calor-andalucia-20260722113435-nts.html",
+      "desc": "Andalucía se encuentra inmersa actualmente en un episodio de altas temperaturas que ha obligado a activar avisos naranjas y amarillos en distintos puntos de la comunidad. Sin embargo, a este fenómeno le quedan ya pocos días. La entrada de una masa más fresca p",
+      "date": "Wed, 22 Jul 2026 11:34:35 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Los vecinos de Anchuela del Campo regresan a casa tras perimetrarse el incendio de Selas",
+      "link": "https://www.abc.es/espana/castilla-la-mancha/vecinos-anchuela-campo-regresan-casa-tras-perimetrarse-20260722112839-nt.html",
+      "desc": "El Gobierno de Castilla-La Mancha ha levantado este miércoles la orden de evacuación en Anchuela del Campo (Guadalajara) tras haber perimetrado por completo la cabecera y el flanco derecho y al 50% el flanco izquierdo del incendio de Selas, declarado este pasa",
+      "date": "Wed, 22 Jul 2026 11:28:39 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "En directo | Cristina Narbona comparece en la Comisión de Investigación en el Senado",
+      "link": "https://www.abc.es/espana/directo-cristina-narbona-comparece-comision-investigacion-senado-20260722112515-nt.html",
+      "desc": "En Madrid, comparece la diputada y Presidenta del Partido Socialista Obrero Español (PSOE), Cristina Narbona , en la Comisión de Investigación sobre los contratos, licencias, concesiones, ayudas y otras operaciones del Gobierno y del sector público, relacionad",
+      "date": "Wed, 22 Jul 2026 11:25:15 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Cae una red que vaciaba cuentas y pedía préstamos a nombre de sus víctimas y que operaba en Toledo",
+      "link": "https://www.abc.es/espana/castilla-la-mancha/cae-red-vaciaba-cuentas-pedia-prestamos-nombre-20260722111920-nt.html",
+      "desc": "La Guardia Civil ha desarticulado una organización criminal que vaciaba las cuentas bancarias de sus víctimas y llegaba a solicitar préstamos y otros productos financieros a su nombre y que operaba, entre otros puntos del territorio nacional, en Toledo. La ope",
+      "date": "Wed, 22 Jul 2026 11:19:21 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "La exdirectora de una residencia de Córdoba, condenada por ocultar una muerte y desviar 140.000 euros",
+      "link": "https://www.abc.es/espana/andalucia/cordoba/exdirectora-residencia-cordoba-condenada-ocultar-muerte-desviar-20260722111842-nts.html",
+      "desc": "La Audiencia Provincial de Córdoba ha condenado a la exdirectora de una residencia de mayores de Lucena a dos años y dos meses de prisión por apropiarse de más de 140.000 euros mediante una plaza residencial no autorizada y por ocultar el fallecimiento del mar",
+      "date": "Wed, 22 Jul 2026 11:18:43 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Detenidos los presuntos autores de un robo con violencia mediante el método del 'abrazo cariñoso' en Huete (Cuenca)",
+      "link": "https://www.abc.es/espana/castilla-la-mancha/toledo/pueblos/detenidos-presuntos-autores-robo-violencia-mediante-metodo-20260722110651-nt.html",
+      "desc": "La Guardia Civil ha detenido a dos varones e investigado a otros dos menores de edad, como presuntos autores de un delito de robo con violencia e intimidación cometido mediante el método del 'abrazo cariñoso' sobre una mujer de avanzada edad en la localidad de",
+      "date": "Wed, 22 Jul 2026 11:06:51 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Un motorista dispara contra un coche tras una discusión de tráfico en Sagunto y se da a la fuga",
+      "link": "https://www.abc.es/espana/comunidad-valenciana/motorista-dispara-coche-tras-discusion-trafico-sagunto-20260722105236-nt.html",
+      "desc": "Agentes de la Policía Nacional han detenido en la localidad valenciana de Sagunto a un hombre que, tras una discusión de tráfico, presuntamente sacó un arma de fuego y disparó contra el vehículo del otro conductor antes de darse a la fuga. Según fuentes polici",
+      "date": "Wed, 22 Jul 2026 10:52:37 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Muere un hombre de 73 años tras ser atropellado al salir de un camión averiado en la A-7 en Marbella",
+      "link": "https://www.abc.es/espana/andalucia/malaga/muere-hombre-anos-tras-atropellado-salir-camion-20260722104348-nts.html",
+      "desc": "Un hombre de 74 años ha fallecido durante la madrugada de este miércoles después de ser atropellado al salir de su camión averiado en la A-7 , a su paso por el municipio malagueño de Marbella. Los hechos han tenido lugar en torno a las 1.40 horas de la madruga",
+      "date": "Wed, 22 Jul 2026 10:49:43 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Detenido el monitor de un campamento en Arroyomolinos por agresión sexual a dos menores",
+      "link": "https://www.abc.es/espana/madrid/detenido-monitor-campamento-arroyomolinos-agresion-sexual-dos-20260722104451-nt.html",
+      "desc": "La Guardia Civil ha detenido a un monitor de un campamento de verano en el municipio de Arroyomolinos por presunta agresión sexual a dos niñas menores de edad tras una denuncia interpuesta por los padres de las afectadas, informa en un comunicado la Comandanci",
+      "date": "Wed, 22 Jul 2026 10:47:34 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "El Parlamento evalúa hoy la «idoneidad» de Arenas, Susana Díaz, Espadas y Zancajo como candidatos a senadores",
+      "link": "https://www.abc.es/espana/andalucia/parlamento-evalua-idoneidad-arenas-susana-diaz-espadas-20260722103618-nts.html",
+      "desc": "El expresidente del PP andaluz Javier Arenas, los antiguos secretarios generales del PSOE andaluz Juan Espadas y Susana Díaz, y el periodista Álvaro Zancajo están citados este miércoles, 22 de julio, a comparecer ante la comisión consultiva de Nombramientos, R",
+      "date": "Wed, 22 Jul 2026 10:40:08 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "La Monumental, al menos por un día",
+      "link": "https://www.abc.es/espana/cataluna/angel-gonzalez-abad-monumental-dia-20260722103849-nt.html",
+      "desc": "La irrupción del novillero catalán Mario Vilau está significando un auténtico espoletazo entre la afición catalana, tantas veces huérfana. El chaval de Hospitalet, alumno de la Escuela Taurina de Cataluña, está completando una temporada de ensueño con triunfos",
+      "date": "Wed, 22 Jul 2026 10:38:49 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Comienza la desescalada: los vecinos de cinco pueblos vuelven a casa tras estabilizarse el incendio de La Mierla",
+      "link": "https://www.abc.es/espana/castilla-la-mancha/comienza-desescalada-vecinos-cinco-pueblos-vuelven-casa-20260722103825-nt.html",
+      "desc": "Comienza la desescalada gradual en los treinta y cuatro municipios afectados por el incendio de La Mierla, en Guadalajara. Los vecinos de Río Frío del Llano, Cardenosa, Santiuste, Angón y Rebollosa de Jadraque podrán regresar a sus localidades después de que l",
+      "date": "Wed, 22 Jul 2026 10:38:25 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Desarticuladas dos bandas implicadas en 102 robos en una tienda del aeropuerto Tenerife Sur",
+      "link": "https://www.abc.es/espana/canarias/desarticuladas-dos-bandas-implicadas-102-robos-tienda-20260722103422-nt.html",
+      "desc": "Agentes de la Guardia Civil han detenido o investigado a 92 personas acusadas de cometer al menos 102 delitos de hurto de forma continuada en un establecimiento comercial en diferentes aeropuertos españoles, sustrayendo efectos valorados en 87.237 euros, princ",
+      "date": "Wed, 22 Jul 2026 10:34:22 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Illa admite ante Junts el “problema” con la baja inversión del Estado pero les pide ir “más allá de la queja”",
+      "link": "https://www.lavanguardia.com/politica/20260722/11598302/illa-admite-junts-problema-baja-inversion-les-pide-mas-queja.html",
+      "desc": "El president defiende el consorcio de inversiones como una solución e insiste en reclamar una aplicación “ágil y diligente” de la amnistía",
+      "date": "22 Jul 2026 10:24:29 +0200",
       "source": "La Vanguardia",
       "color": "#8e44ad",
       "feedId": "LaVanguardia",
-      "caso": "zap"
+      "caso": "other"
     },
     {
-      "title": "El Gobierno insiste en declarar “inocente” a Zapatero pese a las nuevas “estrategias de defensa”",
-      "link": "https://www.lavanguardia.com/politica/20260721/11597731/gobierno-insiste-declarar-inocente-zapatero-pese-nuevas-estrategias-defensa.html",
-      "desc": "La vicepresidenta Yolanda Díaz se desmarca y exige desde la Moncloa “explicaciones” al ex presidente del Gobierno: “Hay inquietud y tristeza en la ciudadanía”",
-      "date": "21 Jul 2026 15:17:12 +0200",
+      "title": "Consulta el avance de los incendios activos durante este verano en España",
+      "link": "https://www.lavanguardia.com/natural/20260722/11598289/consulta-avance-incendios-activos-verano-espana.html",
+      "desc": "Los grandes incendios y las hectáreas quemadas ya triplican los registros del 2025 por estas fechas",
+      "date": "22 Jul 2026 10:15:32 +0200",
       "source": "La Vanguardia",
       "color": "#8e44ad",
       "feedId": "LaVanguardia",
-      "caso": "zap"
+      "caso": "other"
     },
     {
-      "title": "El amigo de Zapatero se declara el “correveidile” de los negocios del expresidente",
-      "link": "https://www.lavanguardia.com/politica/20260721/11597627/julio-martinez-situa-correveidile-negocios-zapatero.html",
-      "desc": "El empresario asegura que montó la empresa Análisis Relevante como vehículo para cobrar las gestiones del expresidente del Gobierno",
-      "date": "21 Jul 2026 13:41:01 +0200",
+      "title": "Tercer ataque en cinco días contra Wildberries, el “Amazon ruso”",
+      "link": "https://www.lavanguardia.com/internacional/20260722/11598235/tercer-ataque-en-cinco-dias-contra-wildberries-el-amazon-ruso.html",
+      "desc": "Los drones ucranianos matan a una persona y causan 15 heridos en dos regiones del sur de Rusia, Krasnodar y Stávropol",
+      "date": "22 Jul 2026 09:19:21 +0200",
       "source": "La Vanguardia",
       "color": "#8e44ad",
       "feedId": "LaVanguardia",
-      "caso": "zap"
+      "caso": "other"
+    },
+    {
+      "title": "Arde la Sierra Norte, enclave de valiosos bosques y hábitat del lobo",
+      "link": "https://www.lavanguardia.com/natural/20260722/11598213/incendio-guadalajara-afecta-cuarta-parte-parque-natural-sierra-norte-enclave-valiosos-bosques-habitat-lobo.html",
+      "desc": "El daño ecológico que se está produciendo es, de momento, “incalculable”, según Ecologistas en Acción",
+      "date": "22 Jul 2026 08:37:57 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
     }
   ]
 }
