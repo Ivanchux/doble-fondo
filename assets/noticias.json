@@ -1,246 +1,46 @@
 {
-  "updated": "2026-07-22T17:11:19Z",
-  "count": 24,
+  "updated": "2026-07-22T19:06:24Z",
+  "count": 4,
   "items": [
     {
-      "title": "El Córdoba CF cerrará su calendario de amistosos de pretemporada ante el Almería: horario y fechas de todos los encuentros",
-      "link": "https://www.abc.es/espana/andalucia/cordoba/cordoba-cf/cordoba-cerrara-calendario-amistosos-pretemporada-ante-almeria-20260722185452-nts.html",
-      "desc": "El Almería completa el calendario de pretemporada del Córdoba CF. La incorporación del conjunto rojiblanco como último rival permite a la entidad blanquiverde cerrar definitivamente su hoja de ruta de amistosos antes del comienzo de la temporada 2026-2027. Tra",
-      "date": "Wed, 22 Jul 2026 19:00:01 +0200",
+      "title": "Zapatero elige el programa de Javier Ruiz en TVE para dar su primera entrevista tras su imputación",
+      "link": "https://www.abc.es/espana/zapatero-elige-programa-javier-ruiz-tve-dar-20260722191855-nt.html",
+      "desc": "El expresidente del Gobierno José Luis Rodríguez Zapatero será entrevistado este jueves 23 de julio por Javier Ruiz en el programa 'Mañaneros 360'. Se trata de la primera aparición en un medio de comunicación del expresidente tras la apertura de la investigaci",
+      "date": "Wed, 22 Jul 2026 19:18:55 +0200",
       "source": "ABC",
       "color": "#c0392b",
       "feedId": "ABC",
-      "caso": "other"
+      "caso": "zap"
     },
     {
-      "title": "La Diputación de Ciudad Real alega que enviar bomberos a Guadalajara habría desprotegido la provincia",
-      "link": "https://www.abc.es/espana/castilla-la-mancha/diputacion-ciudad-real-alega-enviar-bomberos-guadalajara-20260722185840-nt.html",
-      "desc": "El enfrentamiento entre el Gobierno de Castilla-La Mancha y la Diputación de Ciudad Real por la ausencia de efectivos del Servicio Contra Incendios y Salvamento (SCIS) en el incendio forestal de La Mierla, en Guadalajara, ha centrado la atención sobre la situa",
-      "date": "Wed, 22 Jul 2026 18:58:41 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Diana Morant: «Feijóo está dibujando un camino que se parece a gobiernos criminales como el de Hitler»",
-      "link": "https://www.abc.es/espana/comunidad-valenciana/diana-morant-feijoo-dibujando-camino-parece-gobiernos-20260722185046-nt.html",
-      "desc": "La ministra de Ciencia, Innovación y Universidades, Diana Morant, ha vaticinado que el líder del PP, Alberto Núñez Feijóo, «está dibujando» un próximo ejecutivo de coalición que se parece «cada vez más a esos gobiernos criminales como el de Hitler» , en refere",
-      "date": "Wed, 22 Jul 2026 18:50:47 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Muere a los 63 años Isidoro Gómez Cavero, el hombre que llevó al Balonmano Cuenca a la élite",
-      "link": "https://www.abc.es/espana/castilla-la-mancha/muere-anos-isidoro-gomez-cavero-hombre-llevo-20260722181206-nt.html",
-      "desc": "Isidoro Gómez Cavero ha fallecido este miércoles en Cuenca a los 63 años, dos años después de que le fuera detectado un tumor cerebral . Su muerte deja de luto al deporte conquense y a una ciudad a la que permaneció estrechamente vinculado desde diferentes ámb",
-      "date": "Wed, 22 Jul 2026 18:15:30 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "El verano de la pausa",
-      "link": "https://www.abc.es/espana/castilla-leon/verano-pausa-20260722181452-nt.html",
-      "desc": "El verano sigue siendo una invitación a detener el reloj. Sin embargo, cada año parece costarnos más aceptar esa tregua. Hemos convertido la prisa en una forma de vida y la inmediatez en una exigencia permanente. Queremos resultados instantáneos, respuestas in",
-      "date": "Wed, 22 Jul 2026 18:14:52 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Merlin elige la población zaragozana de Botorrita para su campus de centros de datos: invertirá 1.225 millones",
-      "link": "https://www.abc.es/espana/aragon/merlin-elige-botorrita-campus-centros-datos-invertira-20260722181138-nt.html",
-      "desc": "A un paseo, a 22 kilómetros al sur de la capital aragonesa, ha decidido finalmente la compañía española Merlin Properties radicar su campus de centros de datos, la primera de estas instalaciones que albergará en Aragón. En el municipio de Botorrita (Zaragoza),",
-      "date": "Wed, 22 Jul 2026 18:11:39 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Álvaro Zancajo pasa el examen para ser senador por Andalucía con el apoyo de PP y Vox pese al rechazo de la izquierda",
-      "link": "https://www.abc.es/espana/andalucia/alvaro-zancajo-pasa-examen-senador-andalucia-apoyo-20260722181126-nts.html",
-      "desc": "El Parlamento de Andalucía ha avalado este miércoles la idoneidad del hasta ahora miembro del consejo de administración de la Radio Televisión de Andalucía (RTVA), Álvaro Zancajo , para ser designado senador en representación de la comunidad autónoma. La candi",
-      "date": "Wed, 22 Jul 2026 18:11:27 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "El Arzobispado de Barcelona interviene tres fundaciones por presuntas irregularidades en su gestión",
-      "link": "https://www.abc.es/espana/cataluna/arzobispado-barcelona-interviene-tres-fundaciones-presuntas-irregularidades-20260722180945-nt.html",
-      "desc": "El Arzobispado de Barcelona ha intervenido las fundaciones diocesanas Valldejuli, San José Oriol y Virgen de los Desamparados para garantizar «la buena administración» ante presuntas irregularidades en su gestión, y ha nombrado a dos nuevos administradores man",
-      "date": "Wed, 22 Jul 2026 18:09:46 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "La Academia de Gastronomía muestra su apoyo a los afectados por los incendios de La Mierla y Selas",
-      "link": "https://www.abc.es/espana/castilla-la-mancha/academia-gastronomia-castillala-mancha-muestra-apoyo-afectados-20260722180850-nt.html",
-      "desc": "La Academia de Gastronomía de Castilla-La Mancha ha expresado este miércoles su solidaridad con los vecinos, familias y municipios afectados por los incendios forestales declarados en La Mierla y Selas, en la provincia de Guadalajara, y ha puesto a disposición",
-      "date": "Wed, 22 Jul 2026 18:08:51 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Una pelea de diez personas en pleno vuelo obliga a dar media vuelta a un avión en Tenerife",
-      "link": "https://www.abc.es/espana/canarias/pelea-diez-personas-pleno-vuelo-obliga-dar-20260722180658-nt.html",
-      "desc": "No habían pasado ni 30 minutos desde su despegue cuando el vuelo EZY3352 con destino a Liverpool desde Tenerife ha tenido que dar la vuelta. Una pelea entre pasajeros ha obligado al piloto a tomar la decisión de poner rumbo de nuevo al Aeropuerto de La Laguna,",
-      "date": "Wed, 22 Jul 2026 18:06:58 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "La juez pide al presidente de la CHJ que aporte sus mensajes  del día de la dana",
-      "link": "https://www.abc.es/espana/comunidad-valenciana/juez-pide-presidente-chj-aporte-mensajes-dia-20260722180008-nt.html",
-      "desc": "La juez de Catarroja que instruye la causa penal sobre la gestión de la catastrófica dana, con 231 muertos, ofrecerá al presidente de la Confederación Hidrográfica del Júcar (CHJ), Miguel Polo, la posibilidad de aportar voluntariamente sus comunicaciones del 2",
-      "date": "Wed, 22 Jul 2026 18:00:08 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "La Coruña licitará cinco nuevas rutas nacionales en Alvedro y firmará con Inditex un convenio turístico",
-      "link": "https://www.abc.es/espana/galicia/coruna-licitara-cinco-nuevas-rutas-nacionales-alvedro-20260722175714-nt.html",
-      "desc": "La junta de gobierno del Consorcio de Turismo e Congresos de La Coruña abordará este viernes la aprobación de la licitación de cinco nuevas rutas aéreas nacionales desde el aeropuerto de Alvedro y de un convenio de colaboración con Inditex para la promoción tu",
-      "date": "Wed, 22 Jul 2026 17:57:15 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Condenan a un hombre por delito continuado de odio por llamar «moro de mierda» y «maricón» a un camarero",
-      "link": "https://www.abc.es/espana/cantabria/condenan-hombre-delito-continuado-odio-llamar-moro-20260722175712-nt.html",
-      "desc": "La Audiencia Provincial de Cantabria ha condenado a quince meses de prisión, 813 euros de multa y el pago de una indemnización de 4.515 euros a un hombre que reiteradamente se dirigía al camarero de una cafetería que frecuentaba en Santander llamándole «moro»,",
-      "date": "Wed, 22 Jul 2026 17:57:13 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Declarado de nivel 1 un incendio en Burgohondo (Ávila)",
-      "link": "https://www.abc.es/espana/castilla-leon/declarado-nivel-incendio-burgohondo-avila-20260722175427-nt.html",
-      "desc": "La Junta ha declarado Índice de Gravedad Potencial (IGR) 1 en un incendio originado en Burgohondo , en la comarca del Tiemblo (Ávila), por la previsión de tardar más de 12 horas en estabilizarlo y porque peligran masas arboladas superiores a 30 hectáreas, segú",
-      "date": "Wed, 22 Jul 2026 17:54:27 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "El foco en Plan (Huesca), el más complejo que ha enfrentado Aragón este verano: la extinción se realiza pino a pino desde el cielo",
-      "link": "https://www.abc.es/espana/aragon/foco-plan-huesca-complejo-enfrentado-aragon-extincion-20260722174338-nt.html",
-      "desc": "A las 12.30 horas de este miércoles 22 de julio se daba por apagado y rebajado a nivel 0 de situación operativa el incendio que se declaró el pasado domingo en Ejulve, en la sierra de Majalinos. Las llamas han acabado antes con 1.400 hectáreas de superficie ca",
-      "date": "Wed, 22 Jul 2026 17:43:39 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "María Toledo lanza 'María', el disco que regaló a su hija por su primer cumpleaños y que ya es número uno en ventas",
-      "link": "https://www.abc.es/espana/castilla-la-mancha/toledo/maria-toledo-celebra-primer-cumpleanos-hija-disco-20260722153358-nt.html",
-      "desc": "La cantautora flamenca y pianista española, María Toledo , ha sacado el pasado 19 de julio su octavo trabajo discográfico llamado 'María', un álbum de nueve canciones inspirado en la maternidad y dedicado a su hija como regalo por su primer cumpleaños. Este mi",
-      "date": "Wed, 22 Jul 2026 17:30:35 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "La caza de la codorniz contará con un cupo de 20 piezas por cazador y día",
-      "link": "https://www.abc.es/espana/castilla-leon/caza-codorniz-contara-cupo-piezas-cazador-dia-20260722172854-nt.html",
-      "desc": "La caza de la codorniz contará con un cupo de 20 piezas por cazador y día y se autorizará durante los días de la media veda: martes, jueves, sábados y domingos del periodo comprendido entre el 15 de agosto y el 20 de septiembre de 2026 . Además, al igual que e",
-      "date": "Wed, 22 Jul 2026 17:28:55 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Galicia es la comunidad con mayor grado de arraigo de toda España",
-      "link": "https://www.abc.es/espana/galicia/galicia-comunidad-mayor-grado-arraigo-espana-20260722172525-nt.html",
-      "desc": "A pocos días de la celebración del Día de Galicia, un informe de la firma Grupo Mutua Propietarios ratifica la fortaleza del vínculo de los gallegos con su tierra. El estudio Preferencias residenciales de los españoles sitúa a la comunidad gallega a la cabeza ",
-      "date": "Wed, 22 Jul 2026 17:25:25 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Agricultura distribuye paja, heno y forrajes a los ganaderos afectados por el incendio de Brieva",
-      "link": "https://www.abc.es/espana/castilla-leon/agricultura-distribuye-paja-heno-forrajes-ganaderos-afectados-20260722171839-nt.html",
-      "desc": "El consejero de Agricultura, Ganadería, Medio Rural y Política Ambiental, Joaquín Antonio Pino , ha activado un dispositivo extraordinario para garantizar la alimentación del ganado de las explotaciones afectadas por el incendio de Brieva , en la provincia de ",
-      "date": "Wed, 22 Jul 2026 17:18:40 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "El asesinato de la mujer de Benahavís no tuvo que ver con la violencia de género",
-      "link": "https://www.abc.es/espana/andalucia/asesinato-mujer-benahavis-ver-violencia-genero-20260722171829-nts.html",
-      "desc": "La muerte de la mujer en Benahavís este martes no tiene que ver con la violencia de género, tal y como ha informado a primera hora de esta tarde la Delegación del Gobierno contra la violencia de género . La mujer, una extrajera de 45 años y que fue hallada en ",
-      "date": "Wed, 22 Jul 2026 17:18:29 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "La casa natal de Hitler se convierte en una comisaría para evitar los peregrinajes neonazis",
-      "link": "https://www.lavanguardia.com/internacional/20260722/11598606/austria-convierte-casa-natal-hitler-comisaria-evitar-peregrinajes-neonazis.html",
-      "desc": "Tras años de intenso debate, el gobierno ha dedicido transformar el edificio donde nació el dictador, cerca de la frontera con Alemania",
-      "date": "22 Jul 2026 17:16:33 +0200",
+      "title": "Cristina Narbona, presidenta del PSOE: “A mí no me van a imputar, he dicho al juez lo que sé”",
+      "link": "https://www.lavanguardia.com/politica/20260722/11598376/cristina-narbona-presidenta-psoe-nuestra-tolerancia-corrupcion-cero.html",
+      "desc": "La presidenta de los socialistas reconoce que veía a Leire Díez por Santander pero niega cualquier trato ilícito con la fontanera del partido: “La remití a Santos Cerdán”",
+      "date": "22 Jul 2026 12:29:25 +0200",
       "source": "La Vanguardia",
       "color": "#8e44ad",
       "feedId": "LaVanguardia",
-      "caso": "other"
+      "caso": "lei"
     },
     {
-      "title": "Trump amenaza con destruir puentes o plantas eléctricas iraníes por cada buque atacado en Ormuz",
-      "link": "https://www.lavanguardia.com/internacional/20260722/11598681/trump-amenaza-destruir-puente-planta-electrica-vez-iran-dispare-buque-ormuz.html",
-      "desc": "El presidente acude hoy al funeral de los soldados caídos durante el fin de semana en los ataques iraníes contra bases estadounidenses en la región",
-      "date": "22 Jul 2026 16:12:49 +0200",
+      "title": "Julio Martínez señala a Zapatero como el cerebro del negocio de vender influencias",
+      "link": "https://www.lavanguardia.com/politica/20260722/11597903/julio-martinez-senala-zapatero-cerebro-negocio-vender-influencias.html",
+      "desc": "El amigo del expresidente del Gobierno se sitúa como un mero ejecutor ante el juez",
+      "date": "22 Jul 2026 06:00:00 +0200",
       "source": "La Vanguardia",
       "color": "#8e44ad",
       "feedId": "LaVanguardia",
-      "caso": "other"
+      "caso": "zap"
     },
     {
-      "title": "El Supremo devuelve a Aldama su pasaporte para seguir con sus negocios en el extranjero",
-      "link": "https://www.lavanguardia.com/politica/20260722/11598656/supremo-devuelve-aldama-pasaporte-seguir-negocios-extranjero.html",
-      "desc": "El corruptor, condenado a cuatro años y medio de prisión pero con la pena suspendida, ya no tiene las medidas cautelares de acudir al juzgado o prohibición de salir del país&nbsp;",
-      "date": "22 Jul 2026 15:38:05 +0200",
+      "title": "Gobierno y PSOE asumen el “riesgo” de sostener la inocencia de Zapatero",
+      "link": "https://www.lavanguardia.com/politica/20260722/11597947/gobierno-psoe-asumen-riesgo-sostener-inocencia-zapatero.html",
+      "desc": "El PP considera que las confesiones del caso Plus Ultra “señalan” a la Moncloa",
+      "date": "22 Jul 2026 00:05:00 +0200",
       "source": "La Vanguardia",
       "color": "#8e44ad",
       "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "La Comisión Europea recuerda que los tribunales españoles tienen que aplicar el fallo del TJUE",
-      "link": "https://www.lavanguardia.com/politica/20260722/11598431/comision-europea-recibe-demanda-puigdemont-abstiene-comentarla.html",
-      "desc": "El Ejecutivo comunitario no da pistas por ahora de lo que hará con la demanda de la defensa de Puigdemont",
-      "date": "22 Jul 2026 15:35:16 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
-      "caso": "other"
+      "caso": "zap"
     }
   ]
 }
