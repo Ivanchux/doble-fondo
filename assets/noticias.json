@@ -1,7 +1,17 @@
 {
-  "updated": "2026-07-22T19:06:24Z",
-  "count": 4,
+  "updated": "2026-07-22T21:00:07Z",
+  "count": 5,
   "items": [
+    {
+      "title": "Juanma Moreno cree que la defensa que hace el PSOE de Zapatero muestra su catadura moral",
+      "link": "https://www.abc.es/espana/andalucia/juanma-moreno-cree-defensa-psoe-zapatero-muestra-20260722211528-nts.html",
+      "desc": "El presidente de la Junta de Andalucía y del PP-A, Juanma Moreno, ha criticado este miércoles la «vehemencia» de la secretaria general del PSOE-A, María Jesús Montero, apoyando a José Luis Rodríguez Zapatero , y ha alertado del «nivel de deterioro instituciona",
+      "date": "Wed, 22 Jul 2026 21:15:28 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "zap"
+    },
     {
       "title": "Zapatero elige el programa de Javier Ruiz en TVE para dar su primera entrevista tras su imputación",
       "link": "https://www.abc.es/espana/zapatero-elige-programa-javier-ruiz-tve-dar-20260722191855-nt.html",
