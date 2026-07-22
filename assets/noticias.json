@@ -1,22 +1,52 @@
 {
-  "updated": "2026-07-21T22:51:03Z",
-  "count": 4,
+  "updated": "2026-07-22T02:08:14Z",
+  "count": 7,
   "items": [
     {
-      "title": "María Jesús Montero se enroca en la defensa de Zapatero y lo cree víctima de las «mentiras» de sus delatores",
-      "link": "https://www.abc.es/espana/andalucia/maria-jesus-montero-enroca-defensa-zapatero-cree-20260722200421-nts.html",
-      "desc": "Para María Jesús Montero , secretaria general del PSOE andaluz y vicesecretaria general en la Ejecutiva Federal, José Luis Rodríguez Zapatero no es como los demás imputados en procesos judiciales. No es como otros exdirigentes a los que defendió hasta que Pedr",
-      "date": "Tue, 21 Jul 2026 20:04:21 +0200",
+      "title": "Aldama señala que emisarios de Bolaños y Cerdán lo quisieron comprar",
+      "link": "https://www.abc.es/espana/aldama-revela-tres-interlocutores-bolanos-ofrecieron-dinero-20260721013344-nt.html",
+      "desc": "El empresario Víctor de Aldama ha presentado una contestación a la demanda interpuesta contra él por el ministro de Presidencia, Justicia y Relaciones con las Cortes, Félix Bolaños, por vulneración de su derecho al honor por haber acusado a personas de su ento",
+      "date": "Wed, 22 Jul 2026 01:33:44 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "lei"
+    },
+    {
+      "title": "Moncloa admite el coste político que asume en su defensa de Zapatero",
+      "link": "https://www.abc.es/espana/moncloa-admite-coste-asume-defensa-politica-zapatero-20260722013235-nt.html",
+      "desc": "La investigación sobre el caso Plus Ultra avanza, mientras el Gobierno sigue inmóvil en su posición de defensa cerrada de José Luis Rodríguez Zapatero. Las declaraciones ante el juez José Luis Calama de quien fuera su amigo y pagador 'Julito' Martínez y dos di",
+      "date": "Wed, 22 Jul 2026 01:32:35 +0200",
       "source": "ABC",
       "color": "#c0392b",
       "feedId": "ABC",
       "caso": "zap"
     },
     {
-      "title": "Julio Martínez asegura que fue Zapatero quien le abrió las puertas de Venezuela y le presentó a Delcy Rodríguez",
-      "link": "https://www.abc.es/espana/julio-martinez-asegura-zapatero-abrio-puertas-venezuela-20260721193811-nt.html",
-      "desc": "El presunto testaferro de José Luis Rodríguez Zapatero ha asegurado ante el juez de la Audiencia Nacional José Luis Calama, que le investiga como miembro de una presunta trama de corrupción, que fue el expresidente socialista quien le puso en contacto con alto",
-      "date": "Tue, 21 Jul 2026 19:38:11 +0200",
+      "title": "Sorpresa en la Fiscalía por la confesión de 'Julito' sobre Zapatero: «Es importante»",
+      "link": "https://www.abc.es/espana/fiscal-juez-sorprendidos-rapidez-dureza-confesion-martinez-20260722013223-nt.html",
+      "desc": "Ocurrió la semana pasada. La abogada de Julio Martínez Martínez, María Dolores Márquez de Prado, llamó a la Fiscalía Anticorrupción para comunicarle que en los próximos días remitirían un escrito al Ministerio Público desvelando aspectos nucleares respecto a l",
+      "date": "Wed, 22 Jul 2026 01:32:23 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "zap"
+    },
+    {
+      "title": "La mancha de Zapatero",
+      "link": "https://www.lavanguardia.com/opinion/20260722/11597978/mancha-zapatero.html",
+      "desc": "Lo que hay es un torpedo en la línea de flotación de la credibilidad de Zapatero",
+      "date": "22 Jul 2026 00:05:00 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "zap"
+    },
+    {
+      "title": "María Jesús Montero se enroca en la defensa de Zapatero y lo cree víctima de las «mentiras» de sus delatores",
+      "link": "https://www.abc.es/espana/andalucia/maria-jesus-montero-enroca-defensa-zapatero-cree-20260722200421-nts.html",
+      "desc": "Para María Jesús Montero , secretaria general del PSOE andaluz y vicesecretaria general en la Ejecutiva Federal, José Luis Rodríguez Zapatero no es como los demás imputados en procesos judiciales. No es como otros exdirigentes a los que defendió hasta que Pedr",
+      "date": "Tue, 21 Jul 2026 20:04:21 +0200",
       "source": "ABC",
       "color": "#c0392b",
       "feedId": "ABC",
