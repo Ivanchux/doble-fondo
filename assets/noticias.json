@@ -1,7 +1,17 @@
 {
-  "updated": "2026-07-23T19:07:08Z",
-  "count": 5,
+  "updated": "2026-07-23T20:57:11Z",
+  "count": 6,
   "items": [
+    {
+      "title": "La senda de déficit de Sánchez naufraga por tercer año seguido y enmaraña los presupuestos",
+      "link": "https://www.abc.es/espana/senda-deficit-sanchez-naufraga-tercer-ano-seguido-20260723202117-nt.html",
+      "desc": "El Gobierno se esfuerza en aparentar normalidad, pero muy pocas cosas lo son esta legislatura. Mientras el Pleno del Congreso celebraba este jueves su segunda sesión plenaria extraordinaria del mes de julio, el expresidente José Luis Rodríguez Zapatero trataba",
+      "date": "Thu, 23 Jul 2026 20:59:47 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "zap"
+    },
     {
       "title": "La Audiencia Nacional abre juicio contra el patrón del Pitanxo y la armadora por la muerte de 21 marineros",
       "link": "https://www.abc.es/espana/galicia/audiencia-nacional-abre-juicio-patron-pitanxo-armadora-20260723191659-nt.html",
