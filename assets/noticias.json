@@ -1,246 +1,66 @@
 {
-  "updated": "2026-07-23T13:45:30Z",
-  "count": 24,
+  "updated": "2026-07-23T15:51:59Z",
+  "count": 6,
   "items": [
     {
-      "title": "Una feria taurina solidaria y un concierto Café Quijano en las fiestas de Santiago Apóstol en Villalba",
-      "link": "https://www.abc.es/espana/madrid/feria-taurina-solidaria-concierto-cafe-quijano-fiestas-20260722154158-nt.html",
-      "desc": "La semana grande de Collado Villalba es ya este fin de semana. Desarrollada en torno al 25 julio, con motivo del día de Santiago Apóstol, este municipio madrileño acogerá un calendario de eventos deportivos y culturales para todos los villalbinos y visitantes.",
-      "date": "Thu, 23 Jul 2026 15:22:41 +0200",
+      "title": "La Audiencia Nacional absuelve a los acusados de homenajear a un etarra tras su salida de la cárcel",
+      "link": "https://www.abc.es/espana/audiencia-nacional-absuelve-acusados-homenajear-etarra-tras-20260723163924-nt.html",
+      "desc": "La Audiencia Nacional ha absuelto del delito de enaltecimiento del terrorismo a los 16 acusados de participar en un 'ongi etorri' (homenaje de bienvenida) al etarra Ibai Aginaga en su pueblo, Berango (Vizcaya), al quedar libre en 2022 tras cumplir 20 años de c",
+      "date": "Thu, 23 Jul 2026 16:39:24 +0200",
       "source": "ABC",
       "color": "#c0392b",
       "feedId": "ABC",
-      "caso": "other"
+      "caso": "gen"
     },
     {
-      "title": "Planes en Madrid este fin de semana: de la visita a la Fuente de Cibeles a experiencias inmersivas",
-      "link": "https://www.abc.es/espana/madrid/planes-madrid-fin-semana-visita-fuente-cibeles-20260722151842-nt.html",
-      "desc": "El último fin de semana de julio llega con muchas propuestas de ocio para protegerse del calor o pasar un buen rato. El Ayuntamiento de Madrid habilita por primera vez este fin de semana visitas guiadas al proceso de restauración de la Fuente de Cibeles. Un re",
-      "date": "Thu, 23 Jul 2026 15:18:42 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "El refugio de lujo de Blanca Suárez en la Costa Blanca: un enclave único con vistas al mar y la montaña",
-      "link": "https://www.abc.es/espana/comunidad-valenciana/alicante/refugio-lujo-blanca-suarez-costa-blanca-enclave-20260723151620-nt.html",
-      "desc": "Es uno de los destinos habituales y preferidos de la actriz cada vez que tiene unos días, ya sea en verano o en invierno, para descansar. Y aunque esta escapada a la Costa Blanca ha sido relámpago, «apenas unas horas», Blanca Suárez pudo disfrutar de todo el e",
-      "date": "Thu, 23 Jul 2026 15:16:20 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "María Jesús Montero y sus diputados dan plantón a Ana Mestre en el Parlamento y vacían los escaños tras negarle la palabra",
-      "link": "https://www.abc.es/espana/andalucia/maria-jesus-montero-diputados-dan-planton-ana-20260723151454-nts.html",
-      "desc": "El debut de Ana Mestre como la segunda autoridad de Andalucía ha culminado con un plantón de la oposición socialista. Los diputados del PSOE-A han vaciado sus escaños y han abandonado la sesión celebrada este jueves mientras la recién elegida presidenta del Pa",
-      "date": "Thu, 23 Jul 2026 15:14:54 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Mañueco recibe a Javi Gallo, el primer niño de Castilla y León en recibir el tratamiento para la 'piel de mariposa'",
-      "link": "https://www.abc.es/espana/castilla-leon/manueco-recibe-javi-gallo-primer-nino-castilla-20260723150939-nt.html",
-      "desc": "Javi Gallo es el primer paciente en Castilla y León en recibir el tratamiento Vyjuvek para la epidermólisis bullosa distrófica o conocida comúnmente como 'piel de mariposa'. Este jueves el presidente de la Junta de Castilla y León, Alfonso Fernández Mañueco, h",
-      "date": "Thu, 23 Jul 2026 15:09:39 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "El PP tilda de «tomadura de pelo» las palabras de Zapatero y pide al Gobierno el expediente del rescate a Plus Ultra",
-      "link": "https://www.abc.es/espana/pp-tilda-tomadura-pelo-palabras-zapatero-pide-20260723150551-nt.html",
-      "desc": "«Es una tomadura de pelo» . Esa ha sido la primera valoración que el PP, en boca de su portavoz en el Congreso Ester Muñoz, ha hecho de la primera entrevista de José Luis Zapatero tras su imputación en el mes de mayo. El expresidente ha negado la mayor sobre s",
-      "date": "Thu, 23 Jul 2026 15:05:51 +0200",
+      "title": "El momento más tenso de la entrevista a Zapatero: «Mis hijas no son mis testaferros»",
+      "link": "https://www.abc.es/espana/momento-tenso-entrevista-zapatero-hijas-testaferros-20260723154847-nt.html",
+      "desc": "«Lo que faltaba es que yo hubiera intentado que mis hijas fueran testaferros de algo. Hombre, por favor». De esta manera, visiblemente molesto, el expresidente del Gobierno José Luis Rodríguez Zapatero ha negado que sus hijas, Laura y Alba Rodríguez Espinosa, ",
+      "date": "Thu, 23 Jul 2026 15:48:47 +0200",
       "source": "ABC",
       "color": "#c0392b",
       "feedId": "ABC",
       "caso": "zap"
     },
     {
-      "title": "Los dos radares que más multan en España: en una autovía y en la costa",
-      "link": "https://www.abc.es/espana/comunidad-valenciana/dos-radares-multan-espana-autovia-costa-20260723150447-nt.html",
-      "desc": "Los radares que controlan la velocidad en las carreteras españolas hicieron bien su trabajo en 2025, sobre todo, en la provincia de Valencia, donde se concentró la mayor recaudación: 18,9 millones de euros. El 'rey de las multas', de hecho, está ubicado en est",
-      "date": "Thu, 23 Jul 2026 15:04:48 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Un incendio entre Mejorada del Campo y Alcalá de Henares interrumpe la circulación del AVE entre Madrid y Barcelona",
-      "link": "https://www.abc.es/espana/madrid/incendio-mejorada-campo-alcala-henares-interrumpe-circulacion-20260723150243-nt.html",
-      "desc": "Un incendio ha obligado a interrumpir la circulación ferroviario entre Mejorada del Campo y Alcalá de Henares, afectando a los trenes de la línea de alta velocidad que unen Madrid y Barcelona. Según ha informado Adif en una publicación en redes sociales se enc",
-      "date": "Thu, 23 Jul 2026 15:02:44 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Málaga cierra el baño en las playas de Pedregalejo y El Palo tras detectarse la bacteria E. coli",
-      "link": "https://www.abc.es/espana/andalucia/malaga/malaga-cierra-bano-playas-pedregalejo-palo-tras-20260723145410-nts.html",
-      "desc": "Varias playas han colgado la bandera roja este jueves, prohibiendo terminantemente el baño en las mismas. El Ayuntamiento de Málaga ha decretado el cierre de forma temporal de las playas de Pedregalejo y el Palo , en el distrito Este de la ciudad, después de r",
-      "date": "Thu, 23 Jul 2026 14:54:11 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "La Junta pide apartar la «ideología» de los incendios  e insiste en una «política de Estado»",
-      "link": "https://www.abc.es/espana/castilla-leon/junta-pide-apartar-ideologia-incendios-insiste-politica-20260723144618-nt.html",
-      "desc": "Castilla y León responde a la oferta de pacto sobre incendios del presidente del Gobierno Pedro Sánchez: si se plantean «soluciones» y una «política de Estado», la Junta podrá estar. No se se sentará si lo que se plantea es «ideología» y un «debate político» .",
-      "date": "Thu, 23 Jul 2026 14:53:28 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Valladolid reivindicará su papel en la historia con el quinto centenario del nacimiento de Felipe II",
-      "link": "https://www.abc.es/espana/castilla-leon/valladolid-conmemorara-quinto-centenario-nacimiento-felipe-20260723133958-nt.html",
-      "desc": "El presidente de la Diputación de Valladolid, Conrado Íscar , y el alcalde de Valladolid, Jesús Julio Carnero , han presentado un amplio programa de actividades culturales, divulgativas y turísticas conjunto para conmemorar el quinto centenario del nacimiento ",
-      "date": "Thu, 23 Jul 2026 14:48:36 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Detenidos tres hombres en Tenerife por comprar a una menor para un matrimonio forzoso en Italia",
-      "link": "https://www.abc.es/espana/canarias/detenidos-tres-hombres-tenerife-comprar-menor-matrimonio-20260723144722-nt.html",
-      "desc": "Agentes de la Policía Nacional han detenido a tres personas por un delito de trata de seres humanos con fines de matrimonio forzoso tras descubrir a un hombre tratando de viajar a Italia con una menor, con un pasaporte falso. La investigación se inició el 6 de",
-      "date": "Thu, 23 Jul 2026 14:47:22 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Cuenca despide con un cerrado y sentido aplauso a Isidoro Gómez Cavero",
-      "link": "https://www.abc.es/espana/castilla-la-mancha/cuenca-despide-cerrado-sentido-aplauso-isidoro-gomez-20260723143841-nt.html",
-      "desc": "Familiares, amigos, pacientes y una amplia representación de la sociedad civil conquense han despedido este jueves a Isidoro Gómez Cavero, fallecido este miércoles a los 63 años, en un funeral celebrado en la iglesia de San Esteban que ha reunido a numerosos r",
-      "date": "Thu, 23 Jul 2026 14:38:42 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "El Supremo rechaza modificar las menciones a Pardo de Vera en la sentencia del 'caso mascarillas'",
-      "link": "https://www.abc.es/espana/supremo-rechaza-modificar-menciones-pardo-vera-sentencia-20260723143757-nt.html",
-      "desc": "El Tribunal Supremo ha rechazado modificar las menciones a la expresidenta de Adif Isabel Pardo de Vera en la contratación irregular de Jéssica Rodríguez, la expareja del exministro de Transportes condenado en el 'caso mascarillas', José Luis Ábalos, en Ineco ",
-      "date": "Thu, 23 Jul 2026 14:37:57 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "La línea 1 de Metro llegará hasta Madrid Nuevo Norte y tendrá dos cabeceras",
-      "link": "https://www.abc.es/espana/madrid/linea-metro-llegara-madrid-nuevo-norte-dos-20260723143526-nt.html",
-      "desc": "Los madrileños tendrán la solución que reclamaban para moverse por el norte de la capital cuando se haga efectivo uno de los desarrollos urbanísticos más esperados. La línea 1 de Metro llegará a Madrid Nuevo Norte y, además, contará por primera vez con dos cab",
-      "date": "Thu, 23 Jul 2026 14:35:27 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Nissan «refuerza» la actividad de su planta en Ávila con la adjudicación de una pieza del Qashqai",
-      "link": "https://www.abc.es/espana/castilla-leon/nissan-refuerza-actividad-planta-avila-adjudicacion-pieza-20260723142212-nt.html",
-      "desc": "Tras el jarro de agua fría vertido hace unos días al conocer que Renault pondrá fin a su relación con las plantas de Nissan en Ávila y Cantabria a partir de diciembre de este 2026, un noticia de aliento para la factoría de la ciudad amurallada. La compañía aut",
-      "date": "Thu, 23 Jul 2026 14:22:12 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Kutxabank eleva un 22 % su resultado neto en la primera mitad de 2026 hasta los 405,5 millones",
-      "link": "https://www.abc.es/espana/andalucia/cordoba/kutxabank-eleva-resultado-neto-primera-mitad-2026-20260723142032-nts.html",
-      "desc": "Kutxabank , el grupo que adquirió la antigua Cajasur y por lo tanto con mucha presencia en Córdoba, alcanzó un resultado neto de 405,5 millones de euros en el primer semestre de 2026, un 22% más que en el mismo período del año anterior, respaldado por la forta",
-      "date": "Thu, 23 Jul 2026 14:20:32 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Vox se querella contra Sofía Puente por su instrucción sobre la 'ley de nietos'",
-      "link": "https://www.abc.es/espana/vox-querella-sofia-puente-instruccion-sobre-ley-20260723141542-nt.html",
-      "desc": "Vox ha presentado este jueves una querella contra la actual secretaria general para la Innovación y Calidad del Servicio Público de Justicia y ex directora general de Seguridad Jurídica y Fe Pública, Sofía Puente ,y contra la directora general de este departam",
-      "date": "Thu, 23 Jul 2026 14:17:47 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Detienen a una pareja por abandono de una niña en la calle sin higiene y con hedor",
-      "link": "https://www.abc.es/espana/comunidad-valenciana/alicante/detienen-pareja-abandono-nina-calle-higiene-hedor-20260723141654-nt.html",
-      "desc": "Agentes de la Policía Local de Alicante han detenido a una pareja por presunto abandono de menor de edad, una niña pequeña que vieron unos viandantes en un estado de absoluta falta de salubridad, con el pañal sucio y maloliente después de mucho tiempo sin camb",
-      "date": "Thu, 23 Jul 2026 14:16:54 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Tirado denuncia «tres años de olvido y abandono» del Gobierno a la provincia de Toledo",
-      "link": "https://www.abc.es/espana/castilla-la-mancha/toledo/tirado-denuncia-tres-anos-olvido-abandono-gobierno-20260723141358-nt.html",
-      "desc": "El senador del Partido Popular por Toledo, Vicente Tirado, ha resumido los tres años transcurridos desde las últimas elecciones generales como «tres años de olvido y abandono de Pedro Sánchez a la provincia de Toledo» y ha asegurado que la actual ha sido una «",
-      "date": "Thu, 23 Jul 2026 14:15:36 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Repsol multiplica por 3,7 sus beneficios en el primer semestre hasta los 2.201 millones",
-      "link": "https://www.lavanguardia.com/dinero/20260723/11599091/repsol-multiplica-3-7-beneficios-primer-semestre-2-201-millones.html",
-      "desc": "La energética anuncia una nueva reducción de capital y un programa de recompra de acciones para el mes de octubre por valor de 500 millones de euros para acelerar su estrategia de remuneración al accionista",
-      "date": "23 Jul 2026 08:48:20 +0200",
+      "title": "Feijóo: “Sánchez está en manos de Zapatero y Zapatero está en manos de Julio Martínez”",
+      "link": "https://www.lavanguardia.com/politica/20260723/11599445/pp-ve-tomadura-pelo-explicaciones-zapatero-respondido-ninguna-pregunta.html",
+      "desc": "Vox también reprocha que el expresidente no ha dado explicaciones ni sobre el rescate de Plus Ultra no sobre el “papel” de las hijas",
+      "date": "23 Jul 2026 14:35:58 +0200",
       "source": "La Vanguardia",
       "color": "#8e44ad",
       "feedId": "LaVanguardia",
-      "caso": "other"
+      "caso": "zap"
     },
     {
-      "title": "Catalunya, en alerta máxima por riesgo de incendio desde hoy y hasta el fin de semana",
-      "link": "https://www.lavanguardia.com/local/catalunya/20260723/11599056/catalunya-alerta-maxima-riesgo-incendio-hoy-semana.html",
-      "desc": "La región vive este jueves el día más crítico respecto al riesgo de incendio en lo que va de verano, un peligro que se podría extender hasta el domingo&nbsp;",
-      "date": "23 Jul 2026 08:05:58 +0200",
+      "title": "Zapatero intenta aplacar la inquietud del PSOE: “No pido un acto de fe, estoy convencido de mi inocencia”",
+      "link": "https://www.lavanguardia.com/politica/20260723/11599414/zapatero-intenta-aplacar-inquietud-psoe-pido-acto-fe-convenido-mi-inocencia.html",
+      "desc": "El ex presidente del Gobierno lanza un dardo a Felipe González y rebate las acusaciones de Alberto Núñez Feijóo: “Hasta que no haya sentencia firme, aquí no delinque nadie”",
+      "date": "23 Jul 2026 13:56:09 +0200",
       "source": "La Vanguardia",
       "color": "#8e44ad",
       "feedId": "LaVanguardia",
-      "caso": "other"
+      "caso": "zap"
     },
     {
-      "title": "El fenómeno de los coros de hombres para crear una masculinidad sana",
-      "link": "https://www.lavanguardia.com/magazine/lifestyle/20260723/11586493/fenomeno-coros-hombres-crear-masculinidad-sana.html",
-      "desc": "Desde Barcelona hasta Australia,&nbsp; los hombres utilizan el canto para crear comunidad, combatir la soledad y construir vínculos lejos de la competición",
-      "date": "23 Jul 2026 06:40:00 +0200",
+      "title": "Las explicaciones de Zapatero en diez frases",
+      "link": "https://www.lavanguardia.com/politica/20260723/11599396/explicaciones-zapatero-diez-frases.html",
+      "desc": "El expresidente se defiende sobre su supuesta implicación en el rescate de Plus Ultra, las joyas de su despacho y la instrucción judicial",
+      "date": "23 Jul 2026 13:42:13 +0200",
       "source": "La Vanguardia",
       "color": "#8e44ad",
       "feedId": "LaVanguardia",
-      "caso": "other"
+      "caso": "zap"
     },
     {
-      "title": "Las casas más exclusivas de Mallorca, propiedad de artistas, desde Sybilla a James Costos",
-      "link": "https://www.lavanguardia.com/magazine/casa/20260723/11588380/casas-exclusivas-mallorca-propiedad-artistas-creativos-sybilla-james-costos.html",
-      "desc": "El fotógrafo de interiores Ricardo Labougle entra en las 'possessions' más bellas de  la isla, de personajes cosmopolitas enamorados del Mediterráneo",
-      "date": "23 Jul 2026 06:30:00 +0200",
+      "title": "Zapatero: “Las joyas fueron un regalo de cortesía, sin uso, destino ni afán patrimonial”",
+      "link": "https://www.lavanguardia.com/politica/20260723/11599393/zapatero-joyas-regalo-cortesia-destino-afan-patrimonial.html",
+      "desc": "El expresidente del Gobierno defiende en una entrevista su inocencia, su labor de consultor y niega públicamente que ejerciese influencia a favor del rescate de Plus Ultra",
+      "date": "23 Jul 2026 13:37:35 +0200",
       "source": "La Vanguardia",
       "color": "#8e44ad",
       "feedId": "LaVanguardia",
-      "caso": "other"
+      "caso": "zap"
     }
   ]
 }
