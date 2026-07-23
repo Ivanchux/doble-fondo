@@ -1,7 +1,17 @@
 {
-  "updated": "2026-07-23T17:15:06Z",
-  "count": 4,
+  "updated": "2026-07-23T19:07:08Z",
+  "count": 5,
   "items": [
+    {
+      "title": "La Audiencia Nacional abre juicio contra el patrón del Pitanxo y la armadora por la muerte de 21 marineros",
+      "link": "https://www.abc.es/espana/galicia/audiencia-nacional-abre-juicio-patron-pitanxo-armadora-20260723191659-nt.html",
+      "desc": "«Estamos un poco más cerca de hacer justicia». Las familias de los veintiún marineros fallecidos en aguas de Terranova durante el naufragio del Villa de Pitanxo, en febrero de 2022, respiraron aliviadas este jueves. Esperaban, desde hace tiempo, la notificació",
+      "date": "Thu, 23 Jul 2026 19:16:59 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "gen"
+    },
     {
       "title": "Feijóo: “Sánchez está en manos de Zapatero y Zapatero está en manos de Julio Martínez”",
       "link": "https://www.lavanguardia.com/politica/20260723/11599445/pp-ve-tomadura-pelo-explicaciones-zapatero-respondido-ninguna-pregunta.html",
