@@ -1,22 +1,52 @@
 {
-  "updated": "2026-07-22T22:56:50Z",
-  "count": 5,
+  "updated": "2026-07-23T02:14:25Z",
+  "count": 8,
   "items": [
     {
-      "title": "Juanma Moreno cree que la defensa que hace el PSOE de Zapatero muestra su catadura moral",
-      "link": "https://www.abc.es/espana/andalucia/juanma-moreno-cree-defensa-psoe-zapatero-muestra-20260722211528-nts.html",
-      "desc": "El presidente de la Junta de Andalucía y del PP-A, Juanma Moreno, ha criticado este miércoles la «vehemencia» de la secretaria general del PSOE-A, María Jesús Montero, apoyando a José Luis Rodríguez Zapatero , y ha alertado del «nivel de deterioro instituciona",
-      "date": "Wed, 22 Jul 2026 21:15:28 +0200",
+      "title": "Un Consejo de Ministros bajo sospecha por Plus Ultra",
+      "link": "https://www.abc.es/espana/consejo-ministros-bajo-sospecha-plus-ultra-20260723014056-nt.html",
+      "desc": "El 7 de enero de 2020 PSOE y Unidas Podemos pusieron en marcha el primer Gobierno de coalición —«progresista»— de la historia reciente de España. Catorce meses después, pandemia de por medio, Pedro Sánchez y su gabinete ministerial dieron luz verde de manera f",
+      "date": "Thu, 23 Jul 2026 01:40:56 +0200",
       "source": "ABC",
       "color": "#c0392b",
       "feedId": "ABC",
       "caso": "zap"
     },
     {
-      "title": "Zapatero elige el programa de Javier Ruiz en TVE para dar su primera entrevista tras su imputación",
-      "link": "https://www.abc.es/espana/zapatero-elige-programa-javier-ruiz-tve-dar-20260722191855-nt.html",
-      "desc": "El expresidente del Gobierno José Luis Rodríguez Zapatero será entrevistado este jueves 23 de julio por Javier Ruiz en el programa 'Mañaneros 360'. Se trata de la primera aparición en un medio de comunicación del expresidente tras la apertura de la investigaci",
-      "date": "Wed, 22 Jul 2026 19:18:55 +0200",
+      "title": "La UDEF sospechó de la conexión de Zapatero y Julio Martínez por una agenda de Plus Ultra",
+      "link": "https://www.abc.es/espana/agenda-plus-ultra-clave-confesion-julio-martinez-20260723014039-nt.html",
+      "desc": "Julio Martínez Martínez confesó en sede judicial que la sociedad Análisis Relevante era un mero vehículo creado para los negocios de José Luis Rodríguez Zapatero. Un reconocimiento que la Unidad de Delincuencia Económica y Fiscal (UDEF) de la Policía Nacional ",
+      "date": "Thu, 23 Jul 2026 01:40:39 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "zap"
+    },
+    {
+      "title": "Moncloa ordena sostener a Zapatero para que no arrastre al Gobierno en el rescate a Plus Ultra",
+      "link": "https://www.abc.es/espana/moncloa-utiliza-zapatero-cortafuegos-gobierno-rescate-plus-20260723014022-nt.html",
+      "desc": "El Gobierno no afloja su apoyo a José Luis Rodríguez Zapatero, pese al avance de la investigación del caso Plus Ultra y los nuevos testimonios —en forma de confesión— de Julito Martínez y dos directivos de la aerolínea que confirmarían el cobro de una comisión",
+      "date": "Thu, 23 Jul 2026 01:40:22 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "zap"
+    },
+    {
+      "title": "Juristas ven «imprescindible» reexaminar el rescate público de Plus Ultra tras la confesión de 'Julito'",
+      "link": "https://www.abc.es/espana/juristas-creen-confesion-julito-imprescindible-investigar-rescate-20260723014005-nt.html",
+      "desc": "La declaración de Julio Martínez, amigo y supuesto testaferro de Rodríguez Zapatero, en la Audiencia Nacional ha abierto un nuevo escenario jurídico en torno al rescate de la aerolínea con 53 millones de euros en marzo de 2021. Las revelaciones de 'Julito' sob",
+      "date": "Thu, 23 Jul 2026 01:40:05 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "zap"
+    },
+    {
+      "title": "Juanma Moreno cree que la defensa que hace el PSOE de Zapatero muestra su catadura moral",
+      "link": "https://www.abc.es/espana/andalucia/juanma-moreno-cree-defensa-psoe-zapatero-muestra-20260722211528-nts.html",
+      "desc": "El presidente de la Junta de Andalucía y del PP-A, Juanma Moreno, ha criticado este miércoles la «vehemencia» de la secretaria general del PSOE-A, María Jesús Montero, apoyando a José Luis Rodríguez Zapatero , y ha alertado del «nivel de deterioro instituciona",
+      "date": "Wed, 22 Jul 2026 21:15:28 +0200",
       "source": "ABC",
       "color": "#c0392b",
       "feedId": "ABC",
