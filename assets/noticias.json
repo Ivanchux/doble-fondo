@@ -1,7 +1,27 @@
 {
-  "updated": "2026-07-24T02:11:25Z",
+  "updated": "2026-07-24T06:21:34Z",
   "count": 5,
   "items": [
+    {
+      "title": "Zapatero exculpa al Gobierno y trata de calmar las inquietudes en el PSOE",
+      "link": "https://www.lavanguardia.com/politica/20260724/11599688/zapatero-exculpa-gobierno-trata-calmar-inquietudes-psoe.html",
+      "desc": "El expresidente rebate las acusaciones de Feijóo y lanza un dardo a Felipe González",
+      "date": "24 Jul 2026 06:00:00 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "zap"
+    },
+    {
+      "title": "El avión del millonario austríaco que aterrizó sin permiso en la Cerdanya",
+      "link": "https://www.lavanguardia.com/local/barcelona/20260724/11599701/avion-millonario-austriaco-aterrizo-permiso-cerdanya.html",
+      "desc": "El piloto informó de su llegada minutos antes; la nave excedía el tamaño autorizado",
+      "date": "24 Jul 2026 06:00:00 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "lei"
+    },
     {
       "title": "Negativas ante un cúmulo de indicios: todos los temas que ha eludido el expresidente",
       "link": "https://www.abc.es/espana/simples-negativas-ante-cumulo-indicios-temas-eludido-20260723013043-nt.html",
@@ -27,26 +47,6 @@
       "link": "https://www.lavanguardia.com/opinion/20260724/11599751/zapatero-salta-rescate.html",
       "desc": "Aquí nadie quiere dar la batalla por perdida",
       "date": "24 Jul 2026 00:38:55 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
-      "caso": "zap"
-    },
-    {
-      "title": "La senda de déficit de Sánchez naufraga por tercer año seguido y enmaraña los presupuestos",
-      "link": "https://www.abc.es/espana/senda-deficit-sanchez-naufraga-tercer-ano-seguido-20260723202117-nt.html",
-      "desc": "El Gobierno se esfuerza en aparentar normalidad, pero muy pocas cosas lo son esta legislatura. Mientras el Pleno del Congreso celebraba este jueves su segunda sesión plenaria extraordinaria del mes de julio, el expresidente José Luis Rodríguez Zapatero trataba",
-      "date": "Thu, 23 Jul 2026 20:59:47 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "zap"
-    },
-    {
-      "title": "Zapatero: “Las joyas fueron un regalo de cortesía, sin uso, destino ni afán patrimonial”",
-      "link": "https://www.lavanguardia.com/politica/20260723/11599393/zapatero-joyas-regalo-cortesia-destino-afan-patrimonial.html",
-      "desc": "El expresidente del Gobierno defiende en una entrevista su inocencia, su labor de consultor y niega públicamente que ejerciese influencia a favor del rescate de Plus Ultra",
-      "date": "23 Jul 2026 13:37:35 +0200",
       "source": "La Vanguardia",
       "color": "#8e44ad",
       "feedId": "LaVanguardia",
