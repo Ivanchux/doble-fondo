@@ -1,7 +1,37 @@
 {
-  "updated": "2026-07-23T22:51:53Z",
-  "count": 6,
+  "updated": "2026-07-24T02:11:25Z",
+  "count": 5,
   "items": [
+    {
+      "title": "Negativas ante un cúmulo de indicios: todos los temas que ha eludido el expresidente",
+      "link": "https://www.abc.es/espana/simples-negativas-ante-cumulo-indicios-temas-eludido-20260723013043-nt.html",
+      "desc": "El expresidente del Gobierno José Luis Rodríguez Zapatero trató de despejar durante su primera intervención en un medio de comunicación tras su imputación los indicios que existen contra él de hasta siete delitos. De momento, la argumentación del socialista se",
+      "date": "Fri, 24 Jul 2026 01:30:43 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "zap"
+    },
+    {
+      "title": "Zapatero no convence a los sectores del PSOE que le exigen explicaciones: «No ha aclarado nada»",
+      "link": "https://www.abc.es/espana/zapatero-convence-sectores-psoe-exigen-explicaciones-aclarado-20260724013026-nt.html",
+      "desc": "José Luis Rodríguez Zapatero rompió este jueves más de dos meses de calculado silencio. Un hermetismo que priorizaba la estrategia judicial sobre la político-mediática y que se antojaba ya inasumible para su partido y también para el Gobierno que necesitaba qu",
+      "date": "Fri, 24 Jul 2026 01:30:26 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "zap"
+    },
+    {
+      "title": "Zapatero salta al rescate",
+      "link": "https://www.lavanguardia.com/opinion/20260724/11599751/zapatero-salta-rescate.html",
+      "desc": "Aquí nadie quiere dar la batalla por perdida",
+      "date": "24 Jul 2026 00:38:55 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "zap"
+    },
     {
       "title": "La senda de déficit de Sánchez naufraga por tercer año seguido y enmaraña los presupuestos",
       "link": "https://www.abc.es/espana/senda-deficit-sanchez-naufraga-tercer-ano-seguido-20260723202117-nt.html",
@@ -10,46 +40,6 @@
       "source": "ABC",
       "color": "#c0392b",
       "feedId": "ABC",
-      "caso": "zap"
-    },
-    {
-      "title": "La Audiencia Nacional abre juicio contra el patrón del Pitanxo y la armadora por la muerte de 21 marineros",
-      "link": "https://www.abc.es/espana/galicia/audiencia-nacional-abre-juicio-patron-pitanxo-armadora-20260723191659-nt.html",
-      "desc": "«Estamos un poco más cerca de hacer justicia». Las familias de los veintiún marineros fallecidos en aguas de Terranova durante el naufragio del Villa de Pitanxo, en febrero de 2022, respiraron aliviadas este jueves. Esperaban, desde hace tiempo, la notificació",
-      "date": "Thu, 23 Jul 2026 19:16:59 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "gen"
-    },
-    {
-      "title": "Feijóo: “Sánchez está en manos de Zapatero y Zapatero está en manos de Julio Martínez”",
-      "link": "https://www.lavanguardia.com/politica/20260723/11599445/pp-ve-tomadura-pelo-explicaciones-zapatero-respondido-ninguna-pregunta.html",
-      "desc": "Vox también reprocha que el expresidente no ha dado explicaciones ni sobre el rescate de Plus Ultra no sobre el “papel” de las hijas",
-      "date": "23 Jul 2026 14:35:58 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
-      "caso": "zap"
-    },
-    {
-      "title": "Zapatero intenta aplacar la inquietud del PSOE: “No pido un acto de fe, estoy convencido de mi inocencia”",
-      "link": "https://www.lavanguardia.com/politica/20260723/11599414/zapatero-intenta-aplacar-inquietud-psoe-pido-acto-fe-convenido-mi-inocencia.html",
-      "desc": "El ex presidente del Gobierno lanza un dardo a Felipe González y rebate las acusaciones de Alberto Núñez Feijóo: “Hasta que no haya sentencia firme, aquí no delinque nadie”",
-      "date": "23 Jul 2026 13:56:09 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
-      "caso": "zap"
-    },
-    {
-      "title": "Las explicaciones de Zapatero en diez frases",
-      "link": "https://www.lavanguardia.com/politica/20260723/11599396/explicaciones-zapatero-diez-frases.html",
-      "desc": "El expresidente se defiende sobre su supuesta implicación en el rescate de Plus Ultra, las joyas de su despacho y la instrucción judicial",
-      "date": "23 Jul 2026 13:42:13 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
       "caso": "zap"
     },
     {
