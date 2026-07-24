@@ -1,246 +1,46 @@
 {
-  "updated": "2026-07-24T20:57:19Z",
-  "count": 24,
+  "updated": "2026-07-24T22:57:16Z",
+  "count": 4,
   "items": [
     {
-      "title": "La extenuante lucha contra las llamas",
-      "link": "https://www.lavanguardia.com/vida/20260724/11600589/extenuante-lucha-llamas.html",
-      "desc": "La confluencia de incendios en unas condiciones climáticas extremas hace que los incendios forestales avancen fuera de control",
-      "date": "24 Jul 2026 21:59:26 +0200",
+      "title": "Zapatero y la mujer del César",
+      "link": "https://www.lavanguardia.com/politica/20260725/11600579/zapatero-mujer-cesar.html",
+      "desc": "",
+      "date": "25 Jul 2026 00:05:00 +0200",
       "source": "La Vanguardia",
       "color": "#8e44ad",
       "feedId": "LaVanguardia",
-      "caso": "other"
+      "caso": "zap"
     },
     {
-      "title": "El incendio de Brazatortas (Ciudad Real) obliga a confinar Retamar y corta la N-420",
-      "link": "https://www.abc.es/espana/castilla-la-mancha/incendio-brazatortas-ciudad-real-obliga-confinar-retamar-20260724212017-nt.html",
-      "desc": "El incendio forestal declarado este viernes en el término municipal de Brazatortas (Ciudad Real) ha obligado a confinar la localidad de Retamar, pedanía de Almodóvar del Campo, debido a la evolución de las llamas, según ha informado el Plan Infocam. También ha",
-      "date": "Fri, 24 Jul 2026 21:20:17 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "La Junta admite «momentos de peligro» en el incendio de Cerro Muriano, aunque cree que lo peor ha pasado",
-      "link": "https://www.abc.es/espana/andalucia/cordoba/junta-admite-momentos-peligro-incendio-cerro-muriano-20260724211729-nts.html",
-      "desc": "«Me han dado un mensaje algo más optimista, pero ha habido momentos de peligro». El vicepresidente primero de la Junta de Andalucía y consejero de Sanidad y Emergencias, Antonio Sanz , se ha desplazado a la zona del incendio forestal de Cerro Muriano para segu",
-      "date": "Fri, 24 Jul 2026 21:17:29 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "El Rey sigue, desde Palma, la evolución de los incendios de Madrid y Ávila",
-      "link": "https://www.lavanguardia.com/vida/20260724/11600575/rey-sigue-palma-evolucion-incendios-madrid-avila.html",
-      "desc": "El jefe del Estado participa, por vídeoconferencia, en la reunión del Comité Estatal de Coordinación y Dirección del Plan Estatal de Emergencias",
-      "date": "24 Jul 2026 21:04:33 +0200",
+      "title": "Dimiten el presidente y el CEO de Plus Ultra, investigados por el préstamo a la aerolínea",
+      "link": "https://www.lavanguardia.com/politica/20260724/11600646/dimiten-presidente-ceo-plus-ultra-investigados-prestamo-aerolinea.html",
+      "desc": "El nuevo presidente ejecutivo, que agrupará las funciones de uno y otro cargo, será el accionista minoritario Hugo Castaño",
+      "date": "24 Jul 2026 23:19:41 +0200",
       "source": "La Vanguardia",
       "color": "#8e44ad",
       "feedId": "LaVanguardia",
-      "caso": "other"
+      "caso": "zap"
     },
     {
-      "title": "Yepes llora la muerte de dos vecinos en un accidente de tráfico y decreta tres días de luto oficial",
-      "link": "https://www.abc.es/espana/castilla-la-mancha/toledo/pueblos/yepes-llora-muerte-dos-vecinos-accidente-trafico-20260724204030-nt.html",
-      "desc": "Yepes se ha despertado este viernes sumido en la tristeza tras el fallecimiento de dos de sus vecinos en el accidente de tráfico ocurrido de madrugada en la carretera CM-4005, a la altura del término municipal de Ciruelos. La tragedia, registrada sobre las cin",
-      "date": "Fri, 24 Jul 2026 20:40:31 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "El fuego amenaza las instalaciones de la NASA en Robledo de Chavela y obliga a desalojar a todo su personal",
-      "link": "https://www.abc.es/espana/madrid/fuego-amenaza-instalaciones-nasa-robledo-chavela-obliga-20260724203310-nt.html",
-      "desc": "El incendio que asola la Sierra Oeste de Madrid amenaza la Estación de Seguimiento de la localidad madrileña de Robledo de Chavela, una infraestructura de la NASA clave para la exploración espacial. «El fuego estaba prácticamente dentro», afirma a este periódi",
-      "date": "Fri, 24 Jul 2026 20:33:10 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "El alcalde de Soria pide un acuerdo entre la Junta y Renfe para recuperar una conexión ferroviaria competitiva con Madrid",
-      "link": "https://www.abc.es/espana/castilla-leon/alcalde-soria-pide-acuerdo-junta-renfe-recuperar-20260724195743-nt.html",
-      "desc": "Si llegar por carretera a través de una vía de alta capacidad y dos carriles en cada sentido a Soria sólo tiene por ahora como única opción la A-15 (autovía de Navarra), mientras se aguarda la definitiva la eterna conversión en A-11 la negra carretera nacional",
-      "date": "Fri, 24 Jul 2026 20:19:43 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Andalucía se consolida por segundo año consecutivo como la comunidad líder en divorcios",
-      "link": "https://www.abc.es/espana/andalucia/andalucia-consolida-segundo-ano-consecutivo-comunidad-lider-20260724200631-nts.html",
-      "desc": "Andalucía fue la comunidad autónoma que registró el mayor número de divorcios durante 2025, con un total de 14.718, lo que supone un incremento del 1% respecto a los 14.579 contabilizados el año anterior, mientras que las separaciones descendieron un 12,8%. Es",
-      "date": "Fri, 24 Jul 2026 20:06:31 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Ginebras, La M.O.D.A., Sidonie y DePedro celebran el décimo aniversario del festival que mezcla música, vino y gastronomía en Logroño",
-      "link": "https://www.abc.es/espana/madrid/agenda/ginebras-moda-sidonie-depedro-celebran-decimo-aniversario-20260724195919-nt.html",
-      "desc": "Diez años dan para mucho en el mundo de los festivales. Dan para consolidar una identidad, para crear una comunidad y para demostrar que la música suena mejor con una copa de vino riojano en la mano. El MUWI La Rioja Music Fest llega en 2026 a su décimo aniver",
-      "date": "Fri, 24 Jul 2026 20:06:23 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "El consejero de Fomento respalda al taxi tras la moción de Vox en Toledo y niega que exista un vacío legal",
-      "link": "https://www.abc.es/espana/castilla-la-mancha/toledo/hernando-respalda-taxi-tras-mocion-vox-toledo-20260724200324-nt.html",
-      "desc": "El consejero de Fomento de Castilla-La Mancha, Nacho Hernando, ha salido este viernes en defensa del sector del taxi tras la moción de Vox en el Ayuntamiento de Toledo en la que se instaba a la Junta a aprobar una regulación autonómica específica para los serv",
-      "date": "Fri, 24 Jul 2026 20:04:51 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Horario y dónde ver gratis por televisión el Córdoba CF - Cádiz",
-      "link": "https://www.abc.es/espana/andalucia/cordoba/cordoba-cf/horario-ver-gratis-television-cordoba-cadiz-20260724194321-nts.html",
-      "desc": "El Córdoba CF afronta el ecuador de la pretemporada con su tercer test veraniego. En esta ocasión, el conjunto blanquiverde se verá las caras con el Cádiz , equipo de la misma categoría y que se presenta como un rival que permitirá a los pupilos de Iván Ania s",
-      "date": "Fri, 24 Jul 2026 19:59:50 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Nace una plataforma de expropiados del corredor de hidrógeno verde en cien municipios",
-      "link": "https://www.abc.es/espana/comunidad-valenciana/nace-plataforma-expropiados-corredor-hidrogeno-verde-cien-20260724195248-nt.html",
-      "desc": "La Unió Llauradora i Ramadera ha creado una plataforma de propietarios afectados por el futuro corredor estatal de transporte de hidrógeno verde que atravesará la Comunitat Valenciana por un centenar de municipios. Ofrece asesoramiento jurídico y ha difundido ",
-      "date": "Fri, 24 Jul 2026 19:52:48 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "La negra carretera N-122 se cobra otra vida en un choque más entre dos vehículos",
-      "link": "https://www.abc.es/espana/castilla-leon/negra-carretera-n122-cobra-vida-choque-dos-20260724192441-nt.html",
-      "desc": "La negra carretera N-122 (Burgos) ha vuelto a cobrarse una vida en un choque entre dos vehículos. El fallecido tenía unos 80 años y fue atendido antes de morir por el personal de Sacyl, al igual que otros dos heridos, informa el 1-1-2. En las llamadas que reco",
-      "date": "Fri, 24 Jul 2026 19:24:42 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Galicia envía equipos de extinción también a los incendios de Ávila y Madrid",
-      "link": "https://www.abc.es/espana/galicia/galicia-envia-equipos-extincion-incendios-avila-madrid-20260724192307-nt.html",
-      "desc": "La Xunta ha enviado este viernes equipos de extinción a Ávila y Madrid para colaborar en las tareas de apagado de los incendios forestales activos, que han llevado al Gobierno central a declarar la emergencia de interés nacional. Estos se unen al dispositivo d",
-      "date": "Fri, 24 Jul 2026 19:23:07 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Emergencia nacional ante un incendio que se considera “inextinguible”",
-      "link": "https://www.lavanguardia.com/vida/20260724/11600552/emergencia-nacional-incendio-considera-inextinguible.html",
-      "desc": "Ayuso cede el mando al Gobierno en Madrid y pide “centrarse en salvar vidas”",
-      "date": "24 Jul 2026 19:19:48 +0200",
+      "title": "Anticorrupción busca conocer la datación de las joyas de Zapatero para evitar la prescripción",
+      "link": "https://www.lavanguardia.com/politica/20260724/11600081/anticorrupcion-pide-ampliar-tasacion-joyas-zapatero-conocer-valor-actual-mercado.html",
+      "desc": "La Fiscalía Anticorrupción ha reclamado ampliar el estudio de los brillantes, que arrojaron un valor preliminar de 1,3 millones de euros&nbsp; y conocer el valor actual del mercado",
+      "date": "24 Jul 2026 10:36:10 +0200",
       "source": "La Vanguardia",
       "color": "#8e44ad",
       "feedId": "LaVanguardia",
-      "caso": "other"
+      "caso": "zap"
     },
     {
-      "title": "Trump acusa a 60 países de promover el trabajo forzoso para aplicarles aranceles",
-      "link": "https://www.lavanguardia.com/economia/20260724/11600549/trump-acusa-60-paises-promover-trabajo-forzoso-aplicarles-aranceles.html",
-      "desc": "Washington gravará las mercancías con tarifas de entre el 10 y el 12,5%",
-      "date": "24 Jul 2026 19:16:05 +0200",
+      "title": "El avión del millonario austríaco que aterrizó sin permiso en la Cerdanya",
+      "link": "https://www.lavanguardia.com/local/barcelona/20260724/11599701/avion-millonario-austriaco-aterrizo-permiso-cerdanya.html",
+      "desc": "El piloto informó de su llegada minutos antes; la nave excedía el tamaño autorizado",
+      "date": "24 Jul 2026 06:00:00 +0200",
       "source": "La Vanguardia",
       "color": "#8e44ad",
       "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "Pez de Abril lidera la regata TabarcaVela Trofeo Diputación de Alicante el primer día",
-      "link": "https://www.abc.es/espana/comunidad-valenciana/alicante/pez-abril-lidera-regata-tabarcavela-trofeo-diputacion-20260724191025-nt.html",
-      "desc": "El 30º TabarcaVela–Trofeo Diputación de Alicante ha completado este viernes su primera jornada deportiva con la disputa de las dos pruebas programadas, dando comienzo a una nueva edición de una de las grandes regatas del calendario nacional de cruceros. La com",
-      "date": "Fri, 24 Jul 2026 19:10:25 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Galicia mantiene la prealerta por escasez moderada de agua en el Lérez y el Anllóns",
-      "link": "https://www.abc.es/espana/galicia/galicia-mantiene-prealerta-escasez-moderada-agua-lerez-20260724190015-nt.html",
-      "desc": "La Xunta de Galicia mantiene activa la situación de prealerta por escasez moderada de agua en dos de sus principales sistemas fluviales: la cuenca del río Lérez, en la provincia de Pontevedra, y el área del río Anllóns y Costa da Coruña hasta el límite con Art",
-      "date": "Fri, 24 Jul 2026 19:01:17 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Gutiérrez acusa al PP de Núñez de actuar como «carroñeros políticos» con los incendios de la región",
-      "link": "https://www.abc.es/espana/castilla-la-mancha/gutierrez-acusa-pp-nunez-actuar-carroneros-politicos-20260724185749-nt.html",
-      "desc": "El secretario de Organización del PSOE de Castilla-La Mancha, Sergio Gutiérrez, ha censurado la actitud de la oposición de los dirigentes del PP regional de Paco Núñez en el incendio de Guadalajara como « carroñeros políticos que se alimentan de las desgracias",
-      "date": "Fri, 24 Jul 2026 18:57:50 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Las Medallas de Oro de Galicia saldan la «deuda histórica» con las mujeres de la diáspora",
-      "link": "https://www.abc.es/espana/galicia/medallas-oro-galicia-saldan-deuda-historica-mujeres-20260724185008-nt.html",
-      "desc": "Claudia Álvarez, Carla Angola, Camila Fernández y Beatriz Gil no se conocían, pero las cuatro parecen relatar la misma historia: de padres gallegos, nacieron fuera de Galicia y en la diáspora desarrollaron la mayor parte de sus trayectorias vitales y profesion",
-      "date": "Fri, 24 Jul 2026 18:50:09 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "El incendio en Ejulve se reactiva, quema 2.500 hectáreas y obliga a evacuar a 175 vecinos",
-      "link": "https://www.abc.es/espana/aragon/incendios-teruel-ejulve-reactiva-vuelve-ume-horas-20260724184608-nt.html",
-      "desc": "Los vecinos de la localidad turolense de Cuevas de Cañart, alrededor de 100 personas según la Guardia Civil, han recibido este mediodía en sus móviles un mensaje de Es-Alert ordenando su evacuación para dirigirse al pabellón municipal de Alcorisa. La razón es ",
-      "date": "Fri, 24 Jul 2026 18:46:08 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "El PP exige a Page explicar por qué descartó solicitar el nivel 3 en el incendio de Guadalajara",
-      "link": "https://www.abc.es/espana/castilla-la-mancha/pp-exige-page-explicar-descarto-solicitar-nivel-20260724184007-nt.html",
-      "desc": "El Partido Popular de Guadalajara ha exigido al presidente de Castilla-La Mancha, Emiliano García-Page, que explique por qué su Gobierno rechazó solicitar la declaración de emergencia de interés nacional (nivel 3) durante el incendio forestal de La Mierla, el ",
-      "date": "Fri, 24 Jul 2026 18:41:29 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Globalcaja premia al talento inversor de la UCLM en el juego de Bolsa 'Master of Markets'",
-      "link": "https://www.abc.es/espana/castilla-la-mancha/globalcaja-premia-talento-inversor-uclm-juego-bolsa-20260724183549-nt.html",
-      "desc": "Globalcaja ha entregado los premios a los tres ganadores de la clasificación especial UCLM &amp; Globalcaja de 'Master of Markets', una competición de inversión virtual dirigida a acercar el funcionamiento de los mercados financieros a la comunidad universitar",
-      "date": "Fri, 24 Jul 2026 18:35:50 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "La Guardia Civil detiene a una persona e investiga a otra por causar el incendio de Ávila",
-      "link": "https://www.lavanguardia.com/vida/20260724/11600473/guardia-civil-detiene-persona-e-investiga-causar-incendio-avila.html",
-      "desc": "El fuego ya ha calcinado más de 9.000 hectáreas, y su origen es una imprudencia grave por empleo de maquinaria pesada en esta zona donde estaba totalmente prohibido su uso",
-      "date": "24 Jul 2026 17:03:46 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
-      "caso": "other"
+      "caso": "lei"
     }
   ]
 }
