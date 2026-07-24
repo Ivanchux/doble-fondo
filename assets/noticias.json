@@ -1,7 +1,47 @@
 {
-  "updated": "2026-07-24T19:17:51Z",
+  "updated": "2026-07-24T20:57:19Z",
   "count": 24,
   "items": [
+    {
+      "title": "La extenuante lucha contra las llamas",
+      "link": "https://www.lavanguardia.com/vida/20260724/11600589/extenuante-lucha-llamas.html",
+      "desc": "La confluencia de incendios en unas condiciones climáticas extremas hace que los incendios forestales avancen fuera de control",
+      "date": "24 Jul 2026 21:59:26 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
+    {
+      "title": "El incendio de Brazatortas (Ciudad Real) obliga a confinar Retamar y corta la N-420",
+      "link": "https://www.abc.es/espana/castilla-la-mancha/incendio-brazatortas-ciudad-real-obliga-confinar-retamar-20260724212017-nt.html",
+      "desc": "El incendio forestal declarado este viernes en el término municipal de Brazatortas (Ciudad Real) ha obligado a confinar la localidad de Retamar, pedanía de Almodóvar del Campo, debido a la evolución de las llamas, según ha informado el Plan Infocam. También ha",
+      "date": "Fri, 24 Jul 2026 21:20:17 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "La Junta admite «momentos de peligro» en el incendio de Cerro Muriano, aunque cree que lo peor ha pasado",
+      "link": "https://www.abc.es/espana/andalucia/cordoba/junta-admite-momentos-peligro-incendio-cerro-muriano-20260724211729-nts.html",
+      "desc": "«Me han dado un mensaje algo más optimista, pero ha habido momentos de peligro». El vicepresidente primero de la Junta de Andalucía y consejero de Sanidad y Emergencias, Antonio Sanz , se ha desplazado a la zona del incendio forestal de Cerro Muriano para segu",
+      "date": "Fri, 24 Jul 2026 21:17:29 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "El Rey sigue, desde Palma, la evolución de los incendios de Madrid y Ávila",
+      "link": "https://www.lavanguardia.com/vida/20260724/11600575/rey-sigue-palma-evolucion-incendios-madrid-avila.html",
+      "desc": "El jefe del Estado participa, por vídeoconferencia, en la reunión del Comité Estatal de Coordinación y Dirección del Plan Estatal de Emergencias",
+      "date": "24 Jul 2026 21:04:33 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
     {
       "title": "Yepes llora la muerte de dos vecinos en un accidente de tráfico y decreta tres días de luto oficial",
       "link": "https://www.abc.es/espana/castilla-la-mancha/toledo/pueblos/yepes-llora-muerte-dos-vecinos-accidente-trafico-20260724204030-nt.html",
@@ -193,50 +233,10 @@
       "caso": "other"
     },
     {
-      "title": "Costa, amnistiado del 1-O: «Me importa un rábano lo que diga el Supremo, la puta Constitución o la monarquía delincuente»",
-      "link": "https://www.abc.es/espana/cataluna/costa-amnistiado-importa-rabano-diga-supremo-puta-20260724181523-nt.html",
-      "desc": "El ex vicepresidente primero del Parlamento de Cataluña Josep Costa ha reaccionado insultando a la Constitución y la Monarquía después de que el Tribunal Supremo haya aplicado la ley de Amnistía a la causa que tenía pendiente por su etapa en la Mesa de la cáma",
-      "date": "Fri, 24 Jul 2026 18:15:23 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Reabierta la A-4 tras el vuelco y el incendio de un camión en La Guardia (Toledo)",
-      "link": "https://www.abc.es/espana/castilla-la-mancha/toledo/pueblos/reabierta-tras-vuelco-incendio-camion-guardia-toledo-20260724181210-nt.html",
-      "desc": "La A-4 ha recuperado la circulación en sentido Andalucía después de permanecer totalmente cortada durante varias horas a causa del accidente registrado a primera hora de este viernes en el término municipal de La Guardia (Toledo). No obstante, el carril izquie",
-      "date": "Fri, 24 Jul 2026 18:12:12 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
       "title": "La Guardia Civil detiene a una persona e investiga a otra por causar el incendio de Ávila",
       "link": "https://www.lavanguardia.com/vida/20260724/11600473/guardia-civil-detiene-persona-e-investiga-causar-incendio-avila.html",
       "desc": "El fuego ya ha calcinado más de 9.000 hectáreas, y su origen es una imprudencia grave por empleo de maquinaria pesada en esta zona donde estaba totalmente prohibido su uso",
       "date": "24 Jul 2026 17:03:46 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "El Supremo aplica la amnistía a cuatro exmiembros de la Mesa del Parlament juzgados desobediencia",
-      "link": "https://www.lavanguardia.com/politica/20260724/11600405/supremo-amnistia-ocho-condenados-desordenes-publicos.html",
-      "desc": "La Sala declara extinguida la responsabilidad penal para el expresidente Roger Torrent tras analizar la sentencia europea que ha dado el último espaldarazo a la ley del olvido, además de a otros cuatro condenados por desórdenes públicos",
-      "date": "24 Jul 2026 15:06:59 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "Incendios en Madrid, en directo | Última hora de la emergencia nacional y de la situación de los fuegos forestales en España hoy",
-      "link": "https://www.lavanguardia.com/vida/20260724/11599750/incendios-madrid-emergencia-nacional-evacuados-en-directo.html",
-      "desc": "Ordenan la evacuación de Zarzalejo y Navalagamella ante el avance del incendio hacia El Escorial",
-      "date": "24 Jul 2026 14:16:51 +0200",
       "source": "La Vanguardia",
       "color": "#8e44ad",
       "feedId": "LaVanguardia",
