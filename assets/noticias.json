@@ -1,46 +1,246 @@
 {
-  "updated": "2026-07-24T10:11:54Z",
-  "count": 4,
+  "updated": "2026-07-24T13:25:55Z",
+  "count": 24,
   "items": [
     {
-      "title": "Anticorrupción pide ampliar la información de las joyas requisadas a Zapatero",
-      "link": "https://www.abc.es/espana/anticorrupcion-pide-ampliar-informacion-joyas-requisadas-zapatero-20260724105723-nt.html",
-      "desc": "La Fiscalía Anticorrupción ha pedido al juez de la Audiencia Nacional José Luis Calama, que investiga a José Luis Rodríguez Zapatero por contrabando y fraude fiscal, que amplíe la investigación sobre las joyas requisadas al expresidente del Gobierno para deter",
-      "date": "Fri, 24 Jul 2026 10:57:23 +0200",
+      "title": "Triana Castillejo, la joven cordobesa de Peñarroya-Pueblonuevo que enamora con su voz en 'La Voz Kids'",
+      "link": "https://www.abc.es/espana/andalucia/cordoba/triana-castillejo-joven-cordobesa-penarroyapueblonuevo-enamora-voz-20260724152149-nts.html",
+      "desc": "De Peñarroya-Pueblonuevo a uno de los escenarios musicales más importantes de la televisión española. Triana Castillejo continúa dando pasos de gigante en 'La Voz Kids' y este viernes 24 de julio afrontará uno de los momentos más importantes de su corta, pero ",
+      "date": "Fri, 24 Jul 2026 15:21:49 +0200",
       "source": "ABC",
       "color": "#c0392b",
       "feedId": "ABC",
-      "caso": "zap"
+      "caso": "other"
     },
     {
-      "title": "Anticorrupción busca conocer la datación de las joyas de Zapatero para evitar la prescripción",
-      "link": "https://www.lavanguardia.com/politica/20260724/11600081/anticorrupcion-pide-ampliar-tasacion-joyas-zapatero-conocer-valor-actual-mercado.html",
-      "desc": "La Fiscalía Anticorrupción ha reclamado ampliar el estudio de los brillantes, que arrojaron un valor preliminar de 1,3 millones de euros&nbsp; y conocer el valor actual del mercado",
-      "date": "24 Jul 2026 10:36:10 +0200",
+      "title": "Adif empieza las obras del ramal central ferroviario que unirá Córdoba con el puerto de Algeciras y Zaragoza",
+      "link": "https://www.abc.es/espana/andalucia/cordoba/adif-empieza-obras-ramal-central-ferroviario-unira-20260724151957-nts.html",
+      "desc": "La provincia de Córdoba será uno de los territorios beneficiados por el nuevo paquete de actuaciones ferroviarias que Adif ha puesto en marcha para adaptar la conexión entre Madrid, Zaragoza y Algeciras a los futuros servicios de Autopista Ferroviaria. El proy",
+      "date": "Fri, 24 Jul 2026 15:19:58 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "El «complicado» incendio de Ávila obliga a más evacuaciones y ya ha arrasado 9.000 hectáreas",
+      "link": "https://www.abc.es/espana/castilla-leon/complicado-incendio-avila-obliga-evacuaciones-arrasado-9000-20260724151147-nt.html",
+      "desc": "La situación se preveía «complicada» y «difícil». Las circunstancias meteorológicas, con calor y fuertes rachas de viento, no ayudan a la extinción del incendio originado en Burgohondo, que ha puesto en jaque al sur de la provincia de Ávila. El avance del fueg",
+      "date": "Fri, 24 Jul 2026 15:11:47 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "El PP denuncia que Page ha aumentado un 51,4% los ingresos fiscales por habitante",
+      "link": "https://www.abc.es/espana/castilla-la-mancha/pp-denuncia-page-aumentado-514-ingresos-fiscales-20260724150006-nt.html",
+      "desc": "El vicesecretario de Comunicación del PP de Castilla-La Mancha y portavoz adjunto del Grupo Parlamentario Popular en las Cortes regionales, Santiago Serrano, ha denunciado que Emiliano García-Page ha aumentado un 51,4% los ingresos fiscales por habitante y ase",
+      "date": "Fri, 24 Jul 2026 15:00:07 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "El PP defiende su plan de seguridad vial y el PSOE le acusa de actuar siempre «después de que ocurra una desgracia»",
+      "link": "https://www.abc.es/espana/castilla-la-mancha/toledo/pp-psoe-enfrentan-pleno-atropellos-seguridad-vial-20260724145734-nt.html",
+      "desc": "Los atropellos registrados en los pasos de peatones de Toledo protagonizaron este jueves un nuevo cruce de reproches entre el Gobierno municipal (PP y Vox) y la oposición sobre cuál de los dos gobiernos acumula un mayor número de siniestros en la ciudad. La di",
+      "date": "Fri, 24 Jul 2026 14:57:34 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Óscar Puente utiliza a la UME para cargar contra los gobiernos del PP y ataca a Ayuso: «Si hay una mamarracha en España, esa eres tú»",
+      "link": "https://www.abc.es/espana/oscar-puente-utiliza-ume-cargar-gobiernos-pp-20260724144425-nt.html",
+      "desc": "La declaración de la emergencia nacional por la oleada de incendios en la Comunidad de Madrid ha abierto un nuevo frente entre el Gobierno y el Partido Popular. El ministro de Transportes, Óscar Puente, cargó este viernes contra las comunidades gobernadas por ",
+      "date": "Fri, 24 Jul 2026 14:44:25 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "La Diputación de Córdoba destina 4,9 millones de euros a la mejora del Complejo Medioambiental de Montalbán",
+      "link": "https://www.abc.es/espana/andalucia/cordoba/diputacion-cordoba-destina-millones-euros-mejora-complejo-20260724144230-nts.html",
+      "desc": "La Diputación Provincial de Córdoba invertirá 4,9 millones de euros en la mejora del Complejo Medioambiental de Montalbán . Dicha dotación tendrá lugar como un nuevo Plan provincial de actuaciones para la gestión de residuos en los municipios aprobado para est",
+      "date": "Fri, 24 Jul 2026 14:42:31 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "'Horizonte Empleo' vuelve con cinco millones para contratar a 300 desempleados",
+      "link": "https://www.abc.es/espana/castilla-la-mancha/horizonte-empleo-vuelve-cinco-millones-contratar-300-20260724143732-nt.html",
+      "desc": "El presidente de Castilla-La Mancha, Emiliano García-Page, ha anunciado que el Consejo de Gobierno aprobará la próxima semana una nueva convocatoria de 'Horizonte Empleo', un programa dotado con cinco millones de euros que permitirá contratar a 300 personas de",
+      "date": "Fri, 24 Jul 2026 14:37:34 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "El PSOE exige a Núñez que pida la dimisión del presidente de la Diputación de Ciudad Real",
+      "link": "https://www.abc.es/espana/castilla-la-mancha/psoe-exige-nunez-pida-dimision-presidente-diputacion-20260724143214-nt.html",
+      "desc": "El secretario de Análisis y Estudios Estratégicos del PSOE de Castilla-La Mancha, Fernando Mora, ha afirmado este viernes que el presidente del PP regional, Paco Núñez, «debe exigir« la dimisión del presidente de la Diputación de Ciudad Real , Miguel Ángel Val",
+      "date": "Fri, 24 Jul 2026 14:32:15 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "El festival Córdoba Live reúne a 65.000 espectadores en sus conciertos en El Arenal",
+      "link": "https://www.abc.es/espana/andalucia/cordoba/festival-cordoba-live-reune-65000-espectadores-conciertos-20260724142937-nts.html",
+      "desc": "La segunda edición del festival Córdoba Live ha reunido a más de 65.000 asistentes a lo largo de los diez espectáculos celebrados entre los meses de junio y julio de 2026, consolidando un proyecto que, en tan solo dos ediciones, se ha convertido en una de las ",
+      "date": "Fri, 24 Jul 2026 14:29:38 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Dos zonas súper VIP y ocho pabellones temáticos: así es el 'Macondo Park' de la residencia de Shakira en Madrid",
+      "link": "https://www.abc.es/espana/madrid/dos-zonas-super-vip-pabellones-tematicos-macondo-20260724132002-nt.html",
+      "desc": "A menos de dos meses del primer concierto de la residencia europea de Shakira en Madrid, el próximo 18 de septiembre, cuando la cantante se suba por primera vez al escenario del impresionante Estadio Shakira para dar el primero de los doce conciertos que tiene",
+      "date": "Fri, 24 Jul 2026 14:28:14 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "El presidente de la asociación Tu casa Club se ha dirigido a ABC para solicitar que conste su versión",
+      "link": "https://www.abc.es/espana/madrid/presidente-asociacion-casa-club-dirigido-abc-solicitar-20260724142409-nt.html",
+      "desc": "El presidente de la asociación Tu casa Club se ha dirigido a ABC para solicitar que conste su versión con relación a este artículo , invocando el ejercicio del derecho de rectificación de la L.O. 2/1984, manifestando que: «Tu casa Club constituye un establecim",
+      "date": "Fri, 24 Jul 2026 14:24:09 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Detenidas 20 personas tras desmantelar una organización en Ciudad Real dedicada al contrabando de tabaco",
+      "link": "https://www.abc.es/espana/castilla-la-mancha/detenidas-personas-tras-desmantelar-organizacion-ciudad-real-20260724142300-nt.html",
+      "desc": "Funcionarios de Vigilancia Aduanera de la Agencia Tributaria y agentes de Guardia Civil, en el marco de la operación 'Principito'/'Tajuli', han procedido a la detención de 20 personas pertenecientes a una organización criminal dedicada al contrabando de tabaco",
+      "date": "Fri, 24 Jul 2026 14:23:01 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Alerta por listeria en Antequera y Granada por un lote de fuet ibérico",
+      "link": "https://www.abc.es/espana/andalucia/cadiz/alerta-listeria-antequera-granada-lote-fuet-iberico-20260724141850-nts.html",
+      "desc": "La Dirección General de Salud Pública y Ordenación Farmacéutica de la Consejería de Presidencia, Sanidad y Emergencias de la Junta de Andalucía ha decretado alerta alimentaria sobre un lote de fuet ibérico de la marca Cárnicas Sierra Nevada, elaborado por una ",
+      "date": "Fri, 24 Jul 2026 14:18:50 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Ayuso alerta ante el “peor incendio de la historia” de Madrid y pide centrarse en “salvar vidas”",
+      "link": "https://www.lavanguardia.com/vida/20260724/11599750/incendios-madrid-emergencia-nacional-evacuados-en-directo.html",
+      "desc": "Desalojan tres nuevos municipios por los incendios: Navas del Rey, Chapinería y Colmenar del Arroy",
+      "date": "24 Jul 2026 14:16:51 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
+    {
+      "title": "Guilherme Fernandes aterriza con ambición en el Córdoba CF: «Puedo ser un líder dentro del campo y fuera»",
+      "link": "https://www.abc.es/espana/andalucia/cordoba/cordoba-cf/guilherme-fernandes-aterriza-ambicion-cordoba-puedo-lider-20260724141617-nts.html",
+      "desc": "El Córdoba CF pone, al menos de forma provisional hasta el cierre del mercado, el punto final a su ronda de presentaciones. El último en comparecer ha sido el guardameta Guilherme Fernandes , presentado este viernes en el Santuario de la Fuensanta. El exporter",
+      "date": "Fri, 24 Jul 2026 14:16:17 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Felipe VI escucha los problemas de Baleares en vivienda, migración y presión demográfica",
+      "link": "https://www.abc.es/espana/baleares/felipe-escucha-problemas-baleares-vivienda-migracion-presion-20260724141532-nt.html",
+      "desc": "El rey Felipe VI ha celebrado este viernes en el Palacio de la Almudaina su tradicional ronda de audiencias con las principales autoridades de Baleares, una cita que cada verano convierte la residencia oficial de Marivent en el principal escenario instituciona",
+      "date": "Fri, 24 Jul 2026 14:15:32 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "El Supremo cierra definitivamente el procedimiento judicial sobre el Toro Jubilo de 2023",
+      "link": "https://www.abc.es/espana/castilla-leon/supremo-cierra-definitivamente-procedimiento-judicial-sobre-toro-20260724141524-nt.html",
+      "desc": "Carpetazo judicial definitivo al procedimiento judicial contra el Toro de Jubilo abierto por Pacma, en este caso por el festejo de 2023. Así lo ha acordado el Tribunal Supremo, que en una providencia de 20 de julio, firme y contra la que no cabe posibilidad de",
+      "date": "Fri, 24 Jul 2026 14:15:25 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Detenido un multirreincidente que acumulaba más de 150 detenciones tras fugarse de la cárcel de Tarragona",
+      "link": "https://www.abc.es/espana/cataluna/detenido-multirreincidente-acumulaba-150-detenciones-tras-fugarse-20260724141019-nt.html",
+      "desc": "Se había fugado de la prisión de Tarragona , y la Policía Nacional y los Mossos d'Esquadra lo han detenido en una gasolinera de Badajoz. Un individuo que acumula más de 150 detenciones, y tenía en vigor una docena de reclamaciones judiciales por agresión sexua",
+      "date": "Fri, 24 Jul 2026 14:10:20 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Talavera recuerda que la autorización ambiental del biometano «corresponde íntegramente a la Junta»",
+      "link": "https://www.abc.es/espana/castilla-la-mancha/talavera-asegura-autorizacion-ambiental-corresponde-integramente-junta-20260724140244-nt.html",
+      "desc": "El portavoz del Ayuntamiento de Talavera de la Reina, Jesús García-Barroso, ha asegurado este viernes que la autorización ambiental integrada para las plantas de biometano « corresponde íntegramente a la Junta y no a nosotros », así como que la licencia munici",
+      "date": "Fri, 24 Jul 2026 14:02:45 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Ayuso advierte de que Madrid se enfrenta al «peor» incendio de su historia: «La prioridad es salvar vidas»",
+      "link": "https://www.abc.es/espana/madrid/ayuso-advierte-madrid-enfrenta-peor-incendio-historia-20260724134915-nt.html",
+      "desc": "La presidenta de la Comunidad de Madrid, Isabel Díaz Ayuso, ha alertado este viernes de que la región se enfrenta al «peor incendio» de su historia y ha advertido de que la prioridad ahora mismo es salvar vidas y más tarde «evaluar y recuperar». Ayuso ha pedid",
+      "date": "Fri, 24 Jul 2026 13:49:15 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Choque entre Puente y Ayuso: “Si hay una mamarracha en España, esa eres tú”",
+      "link": "https://www.lavanguardia.com/politica/20260724/11600279/puente-acusa-pp-recortar-servicios-pedir-les-resuelvan-papeleta.html",
+      "desc": "La acusación del ministro de Transportes y Movilidad Sostenible ha llegado a través de un mensaje en redes que daba visibilidad a la denuncia de los bomberos forestales de falta de efectivos",
+      "date": "24 Jul 2026 13:10:37 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
+    {
+      "title": "El juez avala su investigación a Zapatero, rechaza anularla y avanza con nuevas citaciones",
+      "link": "https://www.lavanguardia.com/politica/20260724/11600233/juez-avala-investigacion-zapatero-rechaza-anularla-avanza-nuevas-citaciones.html",
+      "desc": "El magistrado José Luis Calama cita para los días 7 y 8 de septiembre al presidente y el consejero delegado de Plus Ultra",
+      "date": "24 Jul 2026 12:40:05 +0200",
       "source": "La Vanguardia",
       "color": "#8e44ad",
       "feedId": "LaVanguardia",
       "caso": "zap"
     },
     {
-      "title": "Zapatero salta al rescate",
-      "link": "https://www.lavanguardia.com/opinion/20260724/11599751/zapatero-salta-rescate.html",
-      "desc": "Aquí nadie quiere dar la batalla por perdida",
-      "date": "24 Jul 2026 08:56:16 +0200",
+      "title": "Una “incidencia técnica” invalida los resultados de Catalunya en PISA 2025",
+      "link": "https://www.lavanguardia.com/vida/20260724/11600061/catalunya-queda-excluida-pruebas-pisa-incidencia-tecnica.html",
+      "desc": "El informe internacional de la OCDE que se conocerá el 8 de septiembre no incluirá los datos referentes a la muestra ampliada de la autonomía debido a fallos en la muestra&nbsp;",
+      "date": "24 Jul 2026 12:39:06 +0200",
       "source": "La Vanguardia",
       "color": "#8e44ad",
       "feedId": "LaVanguardia",
-      "caso": "zap"
-    },
-    {
-      "title": "El avión del millonario austríaco que aterrizó sin permiso en la Cerdanya",
-      "link": "https://www.lavanguardia.com/local/barcelona/20260724/11599701/avion-millonario-austriaco-aterrizo-permiso-cerdanya.html",
-      "desc": "El piloto informó de su llegada minutos antes; la nave excedía el tamaño autorizado",
-      "date": "24 Jul 2026 06:00:00 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
-      "caso": "lei"
+      "caso": "other"
     }
   ]
 }
