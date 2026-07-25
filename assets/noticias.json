@@ -1,7 +1,27 @@
 {
-  "updated": "2026-07-25T20:43:21Z",
+  "updated": "2026-07-25T22:49:57Z",
   "count": 24,
   "items": [
+    {
+      "title": "Mercadona abierto hoy domingo: horario especial el 26 de julio en algunos supermercados",
+      "link": "https://www.abc.es/espana/comunidad-valenciana/mercadona-abierto-hoy-domingo-horario-especial-julio-20260726000500-nt.html",
+      "desc": "Los supermercados Mercadona abiertos este domingo, 26 de julio, en la Comunidad Valenciana se concentran en las zonas costeras. Las tiendas de una treintena de municipios de Valencia, Alicante y Castellón suben la persiana durante esta jornada no laborable con",
+      "date": "Sun, 26 Jul 2026 00:05:00 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Un muerto y una quincena de heridos en Berlín por un atropello múltiple en la fiesta del Orgullo",
+      "link": "https://www.lavanguardia.com/vida/20260725/11601142/heridos-berlin-atropello-multiple-fiesta-dia-orgullo-lgtbi.html",
+      "desc": "Las autoridades están en busca de “posibles sospechosos”",
+      "date": "25 Jul 2026 23:38:04 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
     {
       "title": "El Córdoba CF avanza con paso firme en su pretemporada con una victoria trabajada sobre el Cádiz (0-1)",
       "link": "https://www.abc.es/espana/andalucia/cordoba/cordoba-cf/cordoba-avanza-paso-firme-pretemporada-victoria-trabajada-20260725222516-nts.html",
@@ -173,7 +193,7 @@
       "caso": "other"
     },
     {
-      "title": "Una persona fallece en el incendio de Manises, ya estabilizado por los bomberos",
+      "title": "Una persona muere en el incendio de Manises, ya estabilizado",
       "link": "https://www.lavanguardia.com/local/valencia/20260725/11601036/persona-fallece-incendio-manises-valencia-estabilizado-bomberos.html",
       "desc": "Cinco personas han resultado heridas por inhalación de humo y quemaduras y han sido trasladadas al hospital",
       "date": "25 Jul 2026 18:00:56 +0200",
@@ -220,26 +240,6 @@
       "source": "La Vanguardia",
       "color": "#8e44ad",
       "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "El incendio del pantano de Béznar obliga a desalojar un campamento con 73 niños",
-      "link": "https://www.abc.es/espana/andalucia/granada/incendio-pantano-beznar-obliga-desalojar-campamento-ninos-20260725172329-nts.html",
-      "desc": "Un centenar de personas han sido evacuadas de un campamento cercano al incendio forestal declarado este sábado, en el pantano de Béznar, en la localidad granadina de El Valle. Según ha informado la Junta en un comunicado, la dirección de extición ha ordenado e",
-      "date": "Sat, 25 Jul 2026 17:23:30 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Cuando arde la memoria de Madrid",
-      "link": "https://www.abc.es/espana/madrid/arde-memoria-madrid-20260725172319-nt.html",
-      "desc": "Escribió Antonio Machado : «El hombre de estos campos que incendia los pinares y su despojo aguarda como botín de guerra, antaño hubo raído los negros encinares, talado los robustos robledos de la sierra». No hay infierno peor que el fuego abrasando el aire y ",
-      "date": "Sat, 25 Jul 2026 17:23:19 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
       "caso": "other"
     }
   ]
