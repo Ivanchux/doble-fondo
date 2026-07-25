@@ -1,7 +1,207 @@
 {
-  "updated": "2026-07-25T06:11:54Z",
+  "updated": "2026-07-25T09:41:22Z",
   "count": 24,
   "items": [
+    {
+      "title": "El incendio de La Mierla mantiene 14 cortes de tráfico en la Sierra Norte de Guadalajara",
+      "link": "https://www.abc.es/espana/castilla-la-mancha/incendio-mierla-mantiene-cortes-trafico-sierra-norte-20260725112908-nt.html",
+      "desc": "El incendio forestal que afecta a la Sierra Norte de Guadalajara continúa provocando importantes afecciones a la circulación. Según la información difundida por el Ministerio del Interior a partir de los datos de la Dirección General de Tráfico (DGT), permanec",
+      "date": "Sat, 25 Jul 2026 11:29:08 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Más de 9.000 personas tienen que pasar la noche fuera de sus casas por el incendio de Burgohondo",
+      "link": "https://www.abc.es/espana/castilla-leon/9000-personas-pasar-noche-casas-incendio-burgohondo-20260725112802-nt.html",
+      "desc": "Noche inolvidable para las más de 9.000 personas que tenido que ver amanecer este sábado lejos de sus casas y con la densa nube de humo provocada por le incendio declarado sobre las 13.00 horas del miércoles en Burgohondo (Ávila) sobre el horizonte. Son los ev",
+      "date": "Sat, 25 Jul 2026 11:28:02 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Galicia se ofrece a movilizar más personal para luchar contra los incendios de Madrid y Ávila",
+      "link": "https://www.abc.es/espana/galicia/galicia-ofrece-movilizar-personal-luchar-incendios-madrid-20260725110614-nt.html",
+      "desc": "La conselleira do Medio Rural, María José Gómez, dice que Galicia tiene «capacidad de movilizar a más personas» para combatir los grandes incendios forestales que afectan a Ávila y a Madrid. Lo ha dicho en declaraciones en la plaza del Obradoiro, en Santiago d",
+      "date": "Sat, 25 Jul 2026 11:06:14 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Detenido un joven por cometer diez robos violentos contra personas vulnerables",
+      "link": "https://www.abc.es/espana/comunidad-valenciana/detenido-joven-cometer-diez-robos-violentos-personas-20260725104342-nt.html",
+      "desc": "Agentes de la Policía Nacional han detenido en Paterna (Valencia) a un joven de 20 años como presunto autor de diez delitos de robos con violencia a personas vulnerables, dos robos con fuerza, tres hurtos, un delito contra la seguridad vial y tres delitos de r",
+      "date": "Sat, 25 Jul 2026 10:44:31 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "El arzobispo de Toledo transmite su «cercanía» a los afectados por los incendios forestales",
+      "link": "https://www.abc.es/espana/castilla-la-mancha/toledo/arzobispo-toledo-transmite-cercania-afectados-incendios-forestales-20260725103838-nt.html",
+      "desc": "El arzobispo de Toledo, Francisco Cerro Chaves, ha expresado su «cercanía» a las personas afectadas por los graves incendios forestales que están golpeando distintos puntos de Castilla-La Mancha, la Comunidad de Madrid y Castilla y León, con especial referenci",
+      "date": "Sat, 25 Jul 2026 10:38:39 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Nosotros, a lo nuestro",
+      "link": "https://www.abc.es/espana/galicia/nosotros-a-lo-nuestro-20260725103349-nt.html",
+      "desc": "Hace ya más de 100 años, y con diferentes denominaciones, cada 25 de julio se celebra el Día de Galicia, festividad reivindicativa, en sus inicios, y de exaltación y reafirmación de nuestra identidad, más recientemente. Los anhelos de autonomía política y de r",
+      "date": "Sat, 25 Jul 2026 10:33:49 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Jesús Redondo: el Capitán Trueno y mucho más",
+      "link": "https://www.abc.es/espana/castilla-leon/jesus-redondo-capitan-trueno-20260722100808-nt.html",
+      "desc": "Jesús Redondo (Valladolid, 1934) ha confesado que fue «un malísimo estudiante» y sus cuadernos de la escuela «eran páginas y páginas de toda clase de dibujos». Aunque cursaría los estudios de Comercio, su vocación estaba bien definida desde niño, cuando leía s",
+      "date": "Sat, 25 Jul 2026 10:08:08 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Suspendida la Feria de Cerro Muriano por el incendio forestal que continúa activo",
+      "link": "https://www.abc.es/espana/andalucia/cordoba/suspendida-feria-cerro-muriano-incendio-forestal-continua-20260725095722-nts.html",
+      "desc": "La Feria de Cerro Muriano , prevista del 22 al 26 de julio de 2026, ha sido suspendida como consecuencia del incendio forestal declarado este viernes junto a la carretera N-432, en las inmediaciones de esta barriada cordobesa. La decisión ha sido adoptada por ",
+      "date": "Sat, 25 Jul 2026 09:57:23 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Así fue el brutal avance de las llamas hacia Navas del Rey",
+      "link": "https://www.lavanguardia.com/vida/20260725/11600903/asi-brutal-avance-llamas-navas-rey.html",
+      "desc": "Un ciudadano captó la secuencia del fuego en pleno avance hacia el municipio de la Sierra Oeste de Madrid",
+      "date": "25 Jul 2026 09:53:47 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
+    {
+      "title": "Castillo y correfoc hoy en Valencia: horario y ubicación de los espectáculos del sábado 25 de julio",
+      "link": "https://www.abc.es/espana/comunidad-valenciana/castillo-correfoc-hoy-valencia-horario-ubicacion-espectaculos-20260725185604-nt.html",
+      "desc": "Valencia despide este fin de semana con una doble cita el Festival Pirotécnico de la Feria de Julio 2026 con una propuesta que ha convertido el arte del fuego en uno de los protagonistas del mes de julio. La primera cita tendrá lugar este sábado, 25 de julio, ",
+      "date": "Sat, 25 Jul 2026 09:52:46 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "El fuego se acerca a Burdeos y obliga a más evacuaciones",
+      "link": "https://www.lavanguardia.com/internacional/20260725/11600898/fuego-acerca-burdeos-obliga-mas-evacuaciones.html",
+      "desc": "Las autoridades tienen listas 1,5 millones de mascarillas FFP2 para proteger del humo a la población",
+      "date": "25 Jul 2026 09:41:10 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
+    {
+      "title": "El incendio de Cerro Muriano en Córdoba continúa activo, aunque mejora su evolución",
+      "link": "https://www.abc.es/espana/andalucia/cordoba/incendio-cerro-muriano-cordoba-continua-activo-mejora-20260725093502-nts.html",
+      "desc": "El incendio forestal declarado este viernes en Cerro Muriano en Córdoba continúa activo este sábado, aunque la evolución registrada durante la noche ha permitido contener parte de su avance. Pese a ello, el fuego sigue sin estar controlado y el Plan Infoca man",
+      "date": "Sat, 25 Jul 2026 09:35:02 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "El Córdoba CF afronta un nuevo examen ante el Cádiz con el objetivo de ganar buenas sensaciones",
+      "link": "https://www.abc.es/espana/andalucia/cordoba/cordoba-cf/cordoba-afronta-nuevo-examen-ante-cadiz-objetivo-20260725072705-nts.html",
+      "desc": "Una nueva oportunidad de seguir mejorando. El Córdoba CF afronta hoy un nuevo test de pretemporada lejos de El Arcángel. Lo hará en Sanlucar, más concretamente en El Palmar, para verse las caras con un Cádiz en pleno proceso de reconstrucción en materia deport",
+      "date": "Sat, 25 Jul 2026 09:22:34 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Comienza el bordado del techo de palio de la Esperanza de Córdoba para su terminación en 2029",
+      "link": "https://www.abc.es/espana/andalucia/cordoba/semana-santa/comienza-bordado-techo-palio-esperanza-cordoba-estreno-20260725092221-nts.html",
+      "desc": "Le llega el turno al bordado en oro, malla y sedas al techo del paso de palio de María Santísima de la Esperanza , un minucioso trabajo que afronta Sucesores de Elena Caro, en Sevilla. El hermano mayor de la cofradía, Javier Luque , acaba de visitar el taller ",
+      "date": "Sat, 25 Jul 2026 09:22:21 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "No hay dos vidas iguales",
+      "link": "https://www.abc.es/espana/andalucia/cordoba/luis-miranda-dos-vidas-iguales-20260725092212-nts.html",
+      "desc": "Íñigo vive. A los once meses es lo único que sabe hace hacer. Descubre el mundo, celebra con risa la sorpresa de lo nuevo, que para él es todo, se alimenta, gana peso, recibe el amor en la piel y en los oídos por las palabras dulces de sus padres y de sus herm",
+      "date": "Sat, 25 Jul 2026 09:22:12 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "El emprendimiento cordobés florece en El Patio, donde las startups y la Inteligencia Artificial aceleran",
+      "link": "https://www.abc.es/espana/andalucia/cordoba/emprendimiento-cordobes-florece-patio-startups-inteligencia-artificial-20260725092209-nts.html",
+      "desc": "En Córdoba es sinónimo de patrimonio, tanto histórico como humano -e Intangible de la Humanidad para la Unesco desde 2012-. Pero también lo es El Patio de emprendimiento y sueños cumplidos. La ciudad acoge desde 2018 una de las sedes de aceleración de 'startup",
+      "date": "Sat, 25 Jul 2026 09:22:09 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "DJ Nano: «Toledo ha sido una de las provincias más importantes de mi carrera»",
+      "link": "https://www.abc.es/espana/castilla-la-mancha/nano-toledo-provincias-importantes-carrera-20260724084629-nt.html",
+      "desc": "José Luis Garana de los Cobos (Madrid, 1977), más conocido como DJ Nano , es uno de los grandes referentes de la música electrónica en España. Este sábado regresa a Toledo con su gira Oro Viejo, un espectáculo que ha colgado el cartel de sold out en una ciudad",
+      "date": "Sat, 25 Jul 2026 08:46:29 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Dónde ir de fiesta este sábado 25 de julio en la provincia de Toledo",
+      "link": "https://www.abc.es/espana/castilla-la-mancha/toledo/pueblos/fiesta-sabado-julio-provincia-toledo-20260724060000-nt.html",
+      "desc": "Camarenilla -A las 11,30 horas: marcha cicloturista. -A las 13,00 horas: baile de cañas con la charanga 'De pata negra'. -A las 22,00 horas: caldereta solidaria. -A las 24,00 horas: verbena con la orquesta La brújula show' y a continuación discoteca móvil. Mor",
+      "date": "Sat, 25 Jul 2026 08:44:45 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Tregua al calor en Andalucía: los termómetros se desplomarán hasta diez grados",
+      "link": "https://www.abc.es/espana/andalucia/tregua-calor-andalucia-termometros-desplomaran-diez-grados-20260725080507-nts.html",
+      "desc": "Andalucía registrará a partir de hoy un deseado alivio térmico tras jornadas de intenso calor, según las previsiones de la Agencia Estatal de Meteorología (Aemet). La entrada de una masa de aire más fresca provocará un descenso generalizado de las temperaturas",
+      "date": "Sat, 25 Jul 2026 08:05:07 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Desalojada por el incendio forestal la estación de la NASA de Robledo de Chavela en Madrid",
+      "link": "https://www.lavanguardia.com/local/madrid/20260725/11600868/desalojada-incendio-forestal-estacion-nasa-robledo-chavela-madrid.html",
+      "desc": "La instalación alberga a más de 90 empleados",
+      "date": "25 Jul 2026 08:01:10 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
     {
       "title": "Aemet anticipa tres semanas más de calor en Andalucía: «Continuarán las temperaturas altas»",
       "link": "https://www.abc.es/espana/andalucia/aemet-anticipa-tres-semanas-calor-andalucia-continuaran-20260725133410-nts.html",
@@ -33,214 +233,14 @@
       "caso": "other"
     },
     {
-      "title": "Jesús Aguirre: «Yo no tomo ninguna decisión sin consultar con Capitanía General, mi mujer»",
-      "link": "https://www.abc.es/espana/andalucia/jesus-aguirre-tomo-ninguna-decision-consultar-capitania-20260725070823-nts.html",
-      "desc": "Cuando en 2019 una llamada de Juanma Moreno frustró sus vacaciones en Menorca, Jesús Aguirre (Córdoba, 70 años) no imaginaba que estaba a punto de convertirse en el capitán de la sanidad andaluza durante una tormenta perfecta: listeriosis, virus del Nilo y la ",
-      "date": "Sat, 25 Jul 2026 07:08:23 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Jesús Aguirre: «Con el acuerdo con Vox no hay que rasgarse las vestiduras»",
-      "link": "https://www.abc.es/espana/andalucia/jesus-aguirre-acuerdo-vox-rasgarse-vestiduras-20260725070820-nts.html",
-      "desc": "Olvidar los prejuicios ideológicos y empezar a remar son las recetas de Jesús Aguirre para afrontar un mandato condicionado con el pacto con Vox. Lejos de ver debilidad en la falta de mayoría absoluta del PP, confía en que la Cámara aplique el sentido práctico",
-      "date": "Sat, 25 Jul 2026 07:08:20 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Este es el radar que más multa en Galicia y entra en el top 50 nacional",
-      "link": "https://www.abc.es/espana/galicia/radar-multa-galicia-entra-top-nacional-20260724060013-nt.html",
-      "desc": "Si circulas a menudo por la AG-55 entre La Coruña y Carballo , apunta este dato: en el kilómetro 11 de la autovía, a la altura de Arteixo , está el radar más activo de toda Galicia. Y las cifras lo dejan muy claro. El dispositivo puso 14.052 multas en 2025 , u",
-      "date": "Sat, 25 Jul 2026 06:00:13 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Los bomberos trabajan a destajo para intentar ganarle terreno al fuego",
+      "title": "Los bomberos se preparan para una jornada con fuertes vientos tras la leve mejora de la noche",
       "link": "https://www.lavanguardia.com/vida/20260725/11600859/incendios-madrid-directo-ultima-hora-emergencia-nacional-situacion-fuegos-forestales-espana.html",
-      "desc": "La evolución de los incendios llevará este sábado a Pedro Sánchez, presidente del Gobierno, hasta el Puesto de Mando Avanzado de Cenicientos",
+      "desc": "La evolución de los incendios llevará este sábado a Pedro Sánchez, presidente del Gobierno, hasta el Puesto de Mando Avanzado de Cenicientos sobre las 10:00 horas",
       "date": "25 Jul 2026 06:00:12 +0200",
       "source": "La Vanguardia",
       "color": "#8e44ad",
       "feedId": "LaVanguardia",
       "caso": "other"
-    },
-    {
-      "title": "Cines de verano en Madrid 2026: cuáles son, dónde están, precio de las entradas, fechas y cartelera de películas",
-      "link": "https://www.abc.es/espana/madrid/cines-verano-madrid-2026-entradas-cartelera-peliculas-20260725154844-nt.html",
-      "desc": "Las noches veraniegas de Madrid invitan a disfrutar de planes al aire libre . Cuando cae el sol y el calor da un pequeño respiro, pasear, cenar en una terraza o compartir una actividad con familiares y amigos se convierte en una de las mejores formas de aprove",
-      "date": "Sat, 25 Jul 2026 06:00:06 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "El legado material del 1-O, a la trituradora",
-      "link": "https://www.lavanguardia.com/politica/20260725/11600494/legado-material-1-trituradora.html",
-      "desc": "El rechazo del Tribunal Supremo al recurso de Puigdemont implica la destrucción de más de 400 urnas, 90.000 papeletas y 65.000 sobres incautados",
-      "date": "25 Jul 2026 06:00:00 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "El silencio de Zapatero sobre las joyas empeora su futuro judicial",
-      "link": "https://www.lavanguardia.com/politica/20260725/11600530/silencio-zapatero-sobre-joyas-empeora-futuro-judicial.html",
-      "desc": "La falta de explicaciones ha hecho que la Fiscalía abra una investigación específica",
-      "date": "25 Jul 2026 06:00:00 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
-      "caso": "zap"
-    },
-    {
-      "title": "La copa del mundo también está en Damasco",
-      "link": "https://www.lavanguardia.com/internacional/20260725/11600558/copa-mundo-esta-damasco.html",
-      "desc": "",
-      "date": "25 Jul 2026 06:00:00 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "“En los Paralímpicos de este 2026 participaron deportistas rusos que invadieron Ucrania”",
-      "link": "https://www.lavanguardia.com/deportes/20260725/11600534/matvii-bidnyi-ministro-deportes-ucraniano-ultimos-juegos-paralimpicos-habia-deportistas-rusos-invadieron-ucrania.html",
-      "desc": "'La Vanguardia' conversa con el líder del deporte ucraniano, afectado por el levantamiento del veto olímpico a Rusia",
-      "date": "25 Jul 2026 06:00:00 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "Por qué un viejo televisor de tubo permite ver La Odisea sin recortes y la pantalla del cine no",
-      "link": "https://www.lavanguardia.com/cultura/20260725/11600571/viejo-televisor-tubo-permite-ver-odisea-recortes-pantalla-cine.html",
-      "desc": "La película arrasa en recaudación a nivel mundial, paradójicamente por la decisión de Nolan de que solo se pueda ver en su formato original en un puñado de cines del mundo y el debate que esto ha suscitado",
-      "date": "25 Jul 2026 06:00:00 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "Los hosteleros abren el debate sobre la tradición vecinal de cenar en el paseo marítimo de Valencia",
-      "link": "https://www.abc.es/espana/comunidad-valenciana/hosteleros-abren-debate-sobre-tradicion-vecinal-cenar-20260725042105-nt.html",
-      "desc": "Cada verano, cuando cae el sol, cientos de valencianos despliegan mesas, sillas y neveras en el paseo marítimo de la Malvarrosa para disfrutar del tradicional 'sopar a la fresca', una estampa inseparable de las noches estivales. Sin embargo, la propuesta de lo",
-      "date": "Sat, 25 Jul 2026 05:30:01 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Estas son las medidas del Govern y Comuns para que se edifique más vivienda protegida",
-      "link": "https://www.lavanguardia.com/economia/20260725/11600561/govern-comuns-medidas-vivieda-protegida-vpo-catalunya-residencia.html",
-      "desc": "La norma limita también los usos de todas las nuevas vivienda a residencia habitual",
-      "date": "25 Jul 2026 05:00:00 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "Trump carga contra la prensa crítica en la cena de corresponsales de la Casa Blanca",
-      "link": "https://www.lavanguardia.com/internacional/20260725/11600857/trump-carga-prensa-critica-regreso-cena-corresponsales-casa-blanca.html",
-      "desc": "El evento anual fue reprogramado tras el intento de asesinato al presidente en abril y finalmente ha tenido lugar en un recinto más pequeño y con seguridad reforzada",
-      "date": "25 Jul 2026 04:46:13 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "Clemente y su mujer, desalojados 20 días después de huir de la gran ciudad tras jubilarse",
-      "link": "https://www.abc.es/espana/madrid/clemente-mujer-desalojados-dias-despues-huir-gran-20260724014813-nt.html",
-      "desc": "En la urbanización de Pinar de Almorox, una llamativa masa forestal que linda con la Comunidad de Madrid por el suroeste, se ha instalado un silencio que anuncia la pesadilla que se ha vivido allí en los últimos días. Una ausencia de sonido que solo lo rompe e",
-      "date": "Sat, 25 Jul 2026 01:48:13 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "La OTAN detecta fugas de sus pilotos a China para entrenar a sus militares",
-      "link": "https://www.abc.es/espana/expilotos-militares-paises-otan-entrenan-miembros-ejercito-20260725014412-nt.html",
-      "desc": "Los servicios de inteligencia de los países aliados han detectado una preocupante fuga de militares de la Alianza Atlántica a China para instruir a los pilotos de su Fuerza Aérea, abriendo una grieta de seguridad que podría poner en jaque los sistemas de defen",
-      "date": "Sat, 25 Jul 2026 01:44:12 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Feijóo intenta recuperar el espacio cedido a Vox en Iberoamérica",
-      "link": "https://www.abc.es/espana/feijoo-intenta-recuperar-espacio-cedido-vox-iberoamerica-20260725014331-nt.html",
-      "desc": "Alberto Núñez Feijóo estará el próximo martes en la toma de posesión de la nueva presidenta electa de Perú, Keiko Fujimori , hija mayor del expresidente peruano Alberto Fujimori. Será su segunda incursión en Iberoamérica como jefe de la oposición. Pocos meses ",
-      "date": "Sat, 25 Jul 2026 01:43:31 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "El PP exige al Gobierno los informes ocultos sobre la cesión del palacete de París al PNV",
-      "link": "https://www.abc.es/espana/pp-exige-gobierno-informes-ocultos-sobre-cesion-20260722014323-nt.html",
-      "desc": "El Grupo Parlamentario Popular ha decidido estrechar el cerco sobre la entrega de la antigua sede del Instituto Cervantes en París al Partido Nacionalista Vasco (PNV). La principal formación de la oposición ha lanzado una ofensiva parlamentaria para obligar a ",
-      "date": "Sat, 25 Jul 2026 01:43:23 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "«Incertidumbre» ante el parón de las obras de la plaza de San Marcos",
-      "link": "https://www.abc.es/espana/madrid/incertidumbre-ante-paron-futura-plaza-san-marcos-20260724012442-nt.html",
-      "desc": "Ha pasado más de un año desde que el Ayuntamiento de San Martín de la Vega anunciara a bombo y platillo la esperada remodelación de la plaza de San Marcos. Lo que se presentó como una transformación integral de uno de los espacios más emblemáticos del municipi",
-      "date": "Sat, 25 Jul 2026 01:24:42 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Un simulador inteligente ayudará a diseñar el Madrid del futuro",
-      "link": "https://www.abc.es/espana/madrid/avances-plan-estrategico-municipal-simulador-ayudara-disenar-20260725012432-nt.html",
-      "desc": "El futuro Plan Estratégico Municipal (PEM), que sustituirá al Plan General de Ordenación Urbana (PGOU) que data de 1997, permitirá diseñar la ciudad de forma más ágil y rápida. Pero también más 'inteligente' gracias a un simulador que podrá prever, a partir de",
-      "date": "Sat, 25 Jul 2026 01:24:32 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "La crisis climática manda",
-      "link": "https://www.lavanguardia.com/opinion/20260725/11600649/crisis-climatica-manda.html",
-      "desc": "Los incendios que están devorando miles de hectáreas no son un fenómeno puntual",
-      "date": "25 Jul 2026 00:05:00 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "Zapatero y la mujer del César",
-      "link": "https://www.lavanguardia.com/politica/20260725/11600579/zapatero-mujer-cesar.html",
-      "desc": "",
-      "date": "25 Jul 2026 00:05:00 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
-      "caso": "zap"
     }
   ]
 }
