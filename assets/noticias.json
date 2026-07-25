@@ -1,7 +1,77 @@
 {
-  "updated": "2026-07-24T22:57:16Z",
-  "count": 4,
+  "updated": "2026-07-25T02:10:22Z",
+  "count": 24,
   "items": [
+    {
+      "title": "Clemente y su mujer, desalojados 20 días después de huir de la gran ciudad tras jubilarse",
+      "link": "https://www.abc.es/espana/madrid/clemente-mujer-desalojados-dias-despues-huir-gran-20260724014813-nt.html",
+      "desc": "En la urbanización de Pinar de Almorox, una llamativa masa forestal que linda con la Comunidad de Madrid por el suroeste, se ha instalado un silencio que anuncia la pesadilla que se ha vivido allí en los últimos días. Una ausencia de sonido que solo lo rompe e",
+      "date": "Sat, 25 Jul 2026 01:48:13 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "La OTAN detecta fugas de sus pilotos a China para entrenar a sus militares",
+      "link": "https://www.abc.es/espana/expilotos-militares-paises-otan-entrenan-miembros-ejercito-20260725014412-nt.html",
+      "desc": "Los servicios de inteligencia de los países aliados han detectado una preocupante fuga de militares de la Alianza Atlántica a China para instruir a los pilotos de su Fuerza Aérea, abriendo una grieta de seguridad que podría poner en jaque los sistemas de defen",
+      "date": "Sat, 25 Jul 2026 01:44:12 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Feijóo intenta recuperar el espacio cedido a Vox en Iberoamérica",
+      "link": "https://www.abc.es/espana/feijoo-intenta-recuperar-espacio-cedido-vox-iberoamerica-20260725014331-nt.html",
+      "desc": "Alberto Núñez Feijóo estará el próximo martes en la toma de posesión de la nueva presidenta electa de Perú, Keiko Fujimori , hija mayor del expresidente peruano Alberto Fujimori. Será su segunda incursión en Iberoamérica como jefe de la oposición. Pocos meses ",
+      "date": "Sat, 25 Jul 2026 01:43:31 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "El PP exige al Gobierno los informes ocultos sobre la cesión del palacete de París al PNV",
+      "link": "https://www.abc.es/espana/pp-exige-gobierno-informes-ocultos-sobre-cesion-20260722014323-nt.html",
+      "desc": "El Grupo Parlamentario Popular ha decidido estrechar el cerco sobre la entrega de la antigua sede del Instituto Cervantes en París al Partido Nacionalista Vasco (PNV). La principal formación de la oposición ha lanzado una ofensiva parlamentaria para obligar a ",
+      "date": "Sat, 25 Jul 2026 01:43:23 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "«Incertidumbre» ante el parón de las obras de la plaza de San Marcos",
+      "link": "https://www.abc.es/espana/madrid/incertidumbre-ante-paron-futura-plaza-san-marcos-20260724012442-nt.html",
+      "desc": "Ha pasado más de un año desde que el Ayuntamiento de San Martín de la Vega anunciara a bombo y platillo la esperada remodelación de la plaza de San Marcos. Lo que se presentó como una transformación integral de uno de los espacios más emblemáticos del municipi",
+      "date": "Sat, 25 Jul 2026 01:24:42 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Un simulador inteligente ayudará a diseñar el Madrid del futuro",
+      "link": "https://www.abc.es/espana/madrid/avances-plan-estrategico-municipal-simulador-ayudara-disenar-20260725012432-nt.html",
+      "desc": "El futuro Plan Estratégico Municipal (PEM), que sustituirá al Plan General de Ordenación Urbana (PGOU) que data de 1997, permitirá diseñar la ciudad de forma más ágil y rápida. Pero también más 'inteligente' gracias a un simulador que podrá prever, a partir de",
+      "date": "Sat, 25 Jul 2026 01:24:32 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "La crisis climática manda",
+      "link": "https://www.lavanguardia.com/opinion/20260725/11600649/crisis-climatica-manda.html",
+      "desc": "Los incendios que están devorando miles de hectáreas no son un fenómeno puntual",
+      "date": "25 Jul 2026 00:05:00 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
     {
       "title": "Zapatero y la mujer del César",
       "link": "https://www.lavanguardia.com/politica/20260725/11600579/zapatero-mujer-cesar.html",
@@ -23,24 +93,154 @@
       "caso": "zap"
     },
     {
-      "title": "Anticorrupción busca conocer la datación de las joyas de Zapatero para evitar la prescripción",
-      "link": "https://www.lavanguardia.com/politica/20260724/11600081/anticorrupcion-pide-ampliar-tasacion-joyas-zapatero-conocer-valor-actual-mercado.html",
-      "desc": "La Fiscalía Anticorrupción ha reclamado ampliar el estudio de los brillantes, que arrojaron un valor preliminar de 1,3 millones de euros&nbsp; y conocer el valor actual del mercado",
-      "date": "24 Jul 2026 10:36:10 +0200",
+      "title": "La extenuante lucha contra las llamas",
+      "link": "https://www.lavanguardia.com/vida/20260724/11600589/extenuante-lucha-llamas.html",
+      "desc": "La confluencia de incendios en unas condiciones climáticas extremas hace que los incendios forestales avancen fuera de control",
+      "date": "24 Jul 2026 21:59:26 +0200",
       "source": "La Vanguardia",
       "color": "#8e44ad",
       "feedId": "LaVanguardia",
-      "caso": "zap"
+      "caso": "other"
     },
     {
-      "title": "El avión del millonario austríaco que aterrizó sin permiso en la Cerdanya",
-      "link": "https://www.lavanguardia.com/local/barcelona/20260724/11599701/avion-millonario-austriaco-aterrizo-permiso-cerdanya.html",
-      "desc": "El piloto informó de su llegada minutos antes; la nave excedía el tamaño autorizado",
-      "date": "24 Jul 2026 06:00:00 +0200",
+      "title": "El incendio de Brazatortas (Ciudad Real) obliga a confinar Retamar y corta la N-420",
+      "link": "https://www.abc.es/espana/castilla-la-mancha/incendio-brazatortas-ciudad-real-obliga-confinar-retamar-20260724212017-nt.html",
+      "desc": "El incendio forestal declarado este viernes en el término municipal de Brazatortas (Ciudad Real) ha obligado a confinar la localidad de Retamar, pedanía de Almodóvar del Campo, debido a la evolución de las llamas, según ha informado el Plan Infocam. También ha",
+      "date": "Fri, 24 Jul 2026 21:20:17 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "La Junta admite «momentos de peligro» en el incendio de Cerro Muriano, aunque cree que lo peor ha pasado",
+      "link": "https://www.abc.es/espana/andalucia/cordoba/junta-admite-momentos-peligro-incendio-cerro-muriano-20260724211729-nts.html",
+      "desc": "«Me han dado un mensaje algo más optimista, pero ha habido momentos de peligro». El vicepresidente primero de la Junta de Andalucía y consejero de Sanidad y Emergencias, Antonio Sanz , se ha desplazado a la zona del incendio forestal de Cerro Muriano para segu",
+      "date": "Fri, 24 Jul 2026 21:17:29 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "El Rey sigue, desde Palma, la evolución de los incendios de Madrid y Ávila",
+      "link": "https://www.lavanguardia.com/vida/20260724/11600575/rey-sigue-palma-evolucion-incendios-madrid-avila.html",
+      "desc": "El jefe del Estado participa, por vídeoconferencia, en la reunión del Comité Estatal de Coordinación y Dirección del Plan Estatal de Emergencias",
+      "date": "24 Jul 2026 21:04:33 +0200",
       "source": "La Vanguardia",
       "color": "#8e44ad",
       "feedId": "LaVanguardia",
-      "caso": "lei"
+      "caso": "other"
+    },
+    {
+      "title": "Las mil vidas de la cibeles",
+      "link": "https://www.abc.es/espana/madrid/cibeles-testigo-heridas-paso-tiempo-20260725205323-nt.html",
+      "desc": "Más de dos siglos lleva la diosa Cibeles tomando el pulso al corazón de la capital. La rehabilitación de este conjunto monumental que está ya en marcha (y que se prolongará al menos durante cinco meses) será la última de una larga lista de puestas a punto que ",
+      "date": "Fri, 24 Jul 2026 20:53:23 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Yepes llora la muerte de dos vecinos en un accidente de tráfico y decreta tres días de luto oficial",
+      "link": "https://www.abc.es/espana/castilla-la-mancha/toledo/pueblos/yepes-llora-muerte-dos-vecinos-accidente-trafico-20260724204030-nt.html",
+      "desc": "Yepes se ha despertado este viernes sumido en la tristeza tras el fallecimiento de dos de sus vecinos en el accidente de tráfico ocurrido de madrugada en la carretera CM-4005, a la altura del término municipal de Ciruelos. La tragedia, registrada sobre las cin",
+      "date": "Fri, 24 Jul 2026 20:40:31 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "El fuego amenaza las instalaciones de la NASA en Robledo de Chavela y obliga a desalojar a todo su personal",
+      "link": "https://www.abc.es/espana/madrid/fuego-amenaza-instalaciones-nasa-robledo-chavela-obliga-20260724203310-nt.html",
+      "desc": "El incendio que asola la Sierra Oeste de Madrid amenaza la Estación de Seguimiento de la localidad madrileña de Robledo de Chavela, una infraestructura de la NASA clave para la exploración espacial. «El fuego estaba prácticamente dentro», afirma a este periódi",
+      "date": "Fri, 24 Jul 2026 20:33:10 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "El alcalde de Soria pide un acuerdo entre la Junta y Renfe para recuperar una conexión ferroviaria competitiva con Madrid",
+      "link": "https://www.abc.es/espana/castilla-leon/alcalde-soria-pide-acuerdo-junta-renfe-recuperar-20260724195743-nt.html",
+      "desc": "Si llegar por carretera a través de una vía de alta capacidad y dos carriles en cada sentido a Soria sólo tiene por ahora como única opción la A-15 (autovía de Navarra), mientras se aguarda la definitiva la eterna conversión en A-11 la negra carretera nacional",
+      "date": "Fri, 24 Jul 2026 20:19:43 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Andalucía se consolida por segundo año consecutivo como la comunidad líder en divorcios",
+      "link": "https://www.abc.es/espana/andalucia/andalucia-consolida-segundo-ano-consecutivo-comunidad-lider-20260724200631-nts.html",
+      "desc": "Andalucía fue la comunidad autónoma que registró el mayor número de divorcios durante 2025, con un total de 14.718, lo que supone un incremento del 1% respecto a los 14.579 contabilizados el año anterior, mientras que las separaciones descendieron un 12,8%. Es",
+      "date": "Fri, 24 Jul 2026 20:06:31 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Ginebras, La M.O.D.A., Sidonie y DePedro celebran el décimo aniversario del festival que mezcla música, vino y gastronomía en Logroño",
+      "link": "https://www.abc.es/espana/madrid/agenda/ginebras-moda-sidonie-depedro-celebran-decimo-aniversario-20260724195919-nt.html",
+      "desc": "Diez años dan para mucho en el mundo de los festivales. Dan para consolidar una identidad, para crear una comunidad y para demostrar que la música suena mejor con una copa de vino riojano en la mano. El MUWI La Rioja Music Fest llega en 2026 a su décimo aniver",
+      "date": "Fri, 24 Jul 2026 20:06:23 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "El consejero de Fomento respalda al taxi tras la moción de Vox en Toledo y niega que exista un vacío legal",
+      "link": "https://www.abc.es/espana/castilla-la-mancha/toledo/hernando-respalda-taxi-tras-mocion-vox-toledo-20260724200324-nt.html",
+      "desc": "El consejero de Fomento de Castilla-La Mancha, Nacho Hernando, ha salido este viernes en defensa del sector del taxi tras la moción de Vox en el Ayuntamiento de Toledo en la que se instaba a la Junta a aprobar una regulación autonómica específica para los serv",
+      "date": "Fri, 24 Jul 2026 20:04:51 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Horario y dónde ver gratis por televisión el Córdoba CF - Cádiz",
+      "link": "https://www.abc.es/espana/andalucia/cordoba/cordoba-cf/horario-ver-gratis-television-cordoba-cadiz-20260724194321-nts.html",
+      "desc": "El Córdoba CF afronta el ecuador de la pretemporada con su tercer test veraniego. En esta ocasión, el conjunto blanquiverde se verá las caras con el Cádiz , equipo de la misma categoría y que se presenta como un rival que permitirá a los pupilos de Iván Ania s",
+      "date": "Fri, 24 Jul 2026 19:59:50 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Nace una plataforma de expropiados del corredor de hidrógeno verde en cien municipios",
+      "link": "https://www.abc.es/espana/comunidad-valenciana/nace-plataforma-expropiados-corredor-hidrogeno-verde-cien-20260724195248-nt.html",
+      "desc": "La Unió Llauradora i Ramadera ha creado una plataforma de propietarios afectados por el futuro corredor estatal de transporte de hidrógeno verde que atravesará la Comunitat Valenciana por un centenar de municipios. Ofrece asesoramiento jurídico y ha difundido ",
+      "date": "Fri, 24 Jul 2026 19:52:48 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "La negra carretera N-122 se cobra otra vida en un choque más entre dos vehículos",
+      "link": "https://www.abc.es/espana/castilla-leon/negra-carretera-n122-cobra-vida-choque-dos-20260724192441-nt.html",
+      "desc": "La negra carretera N-122 (Burgos) ha vuelto a cobrarse una vida en un choque entre dos vehículos. El fallecido tenía unos 80 años y fue atendido antes de morir por el personal de Sacyl, al igual que otros dos heridos, informa el 1-1-2. En las llamadas que reco",
+      "date": "Fri, 24 Jul 2026 19:24:42 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Galicia envía equipos de extinción también a los incendios de Ávila y Madrid",
+      "link": "https://www.abc.es/espana/galicia/galicia-envia-equipos-extincion-incendios-avila-madrid-20260724192307-nt.html",
+      "desc": "La Xunta ha enviado este viernes equipos de extinción a Ávila y Madrid para colaborar en las tareas de apagado de los incendios forestales activos, que han llevado al Gobierno central a declarar la emergencia de interés nacional. Estos se unen al dispositivo d",
+      "date": "Fri, 24 Jul 2026 19:23:07 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
     }
   ]
 }
