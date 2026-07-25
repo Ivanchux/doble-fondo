@@ -1,246 +1,46 @@
 {
-  "updated": "2026-07-25T13:13:47Z",
-  "count": 24,
+  "updated": "2026-07-25T14:58:15Z",
+  "count": 4,
   "items": [
     {
-      "title": "Astorga vuelve a vivir entre 'Astures y Romanos'",
-      "link": "https://www.abc.es/espana/castilla-leon/astorga-vuelve-vivir-astures-romanos-20260725144537-nt.html",
-      "desc": "Los Astures y los Romanos vuelven a llenar, este fin de semana, las calles de Astorga (León), en una fiesta que cumple ya XL ediciones y que espera convertirse, antes de final de año, en celebración de Interés Turístico Nacional. Así lo espera el presidente de",
-      "date": "Sat, 25 Jul 2026 14:45:37 +0200",
+      "title": "El Mundial del vuelo Plus Ultra",
+      "link": "https://www.abc.es/espana/andalucia/cordoba/mundial-vuelo-plus-ultra-20260725151641-nts.html",
+      "desc": "Hay gestas que no pertenecen únicamente a su propio tiempo, sino que resuenan un siglo después como un eco indomable de valentía, trabajo en equipo y ambición. En 1926, Palos de la Frontera vio despegar un hidroavión Dornier Do J Wal que pasaría a la posterida",
+      "date": "Sat, 25 Jul 2026 15:16:42 +0200",
       "source": "ABC",
       "color": "#c0392b",
       "feedId": "ABC",
-      "caso": "other"
+      "caso": "zap"
     },
     {
-      "title": "El viento acerca el incendio de la sierra oeste de Madrid a Almorox (Toledo) y  eleva la emergencia a nivel 2",
-      "link": "https://www.abc.es/espana/castilla-la-mancha/toledo/pueblos/viento-acerca-incendio-sierra-oeste-madrid-almorox-20260725143034-nt.html",
-      "desc": "El incendio de la Sierra Oeste de Madrid vuelve este sábado al municipio toledano de Almorox después de que un cambio en la dirección del viento acerque de nuevo las llamas al límite entre ambas provincias. La nueva evolución del fuego ha obligado al Plan Info",
-      "date": "Sat, 25 Jul 2026 14:30:34 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Triana Castillejo lleva a Peñarroya-Pueblonuevo a la final de 'La Voz Kids'",
-      "link": "https://www.abc.es/espana/andalucia/cordoba/triana-castillejo-lleva-penarroyapueblonuevo-final-voz-kids-20260725142929-nts.html",
-      "desc": "Triana Castillejo ya está a un solo paso de conquistar 'La Voz Kids'. La joven cantante de siete años de Peñarroya-Pueblonuevo logró este viernes uno de los mayores éxitos de su prometedora trayectoria al conseguir una plaza en la gran final del concurso music",
-      "date": "Sat, 25 Jul 2026 14:29:29 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Un incendio forestal en la Vall d'Uixó (Castellón) obliga a desalojar a vecinos y  activa la situación 2 del PEIF",
-      "link": "https://www.abc.es/espana/comunidad-valenciana/incendio-forestal-vall-duixo-castellon-obliga-desalojar-20260725142447-nt.html",
-      "desc": "La Comunidad Valenciana mantiene activos este sábado por la mañana dos incendios forestales declarados en las provincias de Castellón y Valencia. El primero de ellos se ha declarado en la localidad castellonense de la Vall d'Uixó, donde las llamas han obligado",
-      "date": "Sat, 25 Jul 2026 14:24:47 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "El camping fantasma de El Escorial: «No había un peligro inminente, pero con 4.600 personas evacuar era lo prudente»",
-      "link": "https://www.abc.es/espana/madrid/camping-fantasma-escorial-peligro-inminente-4600-personas-20260725140855-nt.html",
-      "desc": "La A-6 ofrece un paisaje muy distinto al habitual. Donde otros días se recortan las montañas, este sábado solo se distingue una gran masa de humo gris que cubre el horizonte. Los paneles luminosos advierten del riesgo extremo de incendios y, el olor a quemado ",
-      "date": "Sat, 25 Jul 2026 14:12:29 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "El incendio de Pinos del Valle, en Granada, se agrava: la Junta confina a los vecinos y activa el Es-Alert",
-      "link": "https://www.abc.es/espana/andalucia/granada/junta-andalucia-activa-nivel-emergencia-nuevo-incendio-20260725141200-nts.html",
-      "desc": "La Junta de Andalucía ha elevado a las 13,23 horas a nivel 1 de emergencia en la provincia de Granada como consecuencia del incendio forestal que se ha declarado este sábado, 25 de julio, en el pantano del Beznar , en la localidad granadina de El Valle. Según ",
-      "date": "Sat, 25 Jul 2026 14:12:01 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "El mercadillo de El Arenal en Córdoba vuelve este domingo a su ubicación habitual tras más de dos meses de traslado",
-      "link": "https://www.abc.es/espana/andalucia/cordoba/mercadillo-arenal-cordoba-vuelve-domingo-ubicacion-habitual-20260725140823-nts.html",
-      "desc": "El mercadillo dominical de El Arenal volverá a instalarse este domingo 26 de julio en su emplazamiento habitual, en el recinto ferial junto al estadio Bahrain Victorious Nuevo Arcángel, después de permanecer durante más de dos meses en la avenida de Las Lonjas",
-      "date": "Sat, 25 Jul 2026 14:08:23 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Los incendios de Madrid y Ávila ya afectan a 80.000 personas entre desalojadas y confinadas",
-      "link": "https://www.lavanguardia.com/vida/20260725/11600996/incendios-madrid-avila-afectan-80-000-personas-desalojada-confinadas.html",
-      "desc": "En Madrid hay 35.000 personas evacuadas y 20.000 en confinamiento. En Ávila, las cifras son de 25.000 personas entre las que han tenido que dejar sus casas y las que permanecen encerradas en ellas.&nbsp;",
-      "date": "25 Jul 2026 13:52:23 +0200",
+      "title": "El silencio de Zapatero sobre las joyas empeora su futuro judicial",
+      "link": "https://www.lavanguardia.com/politica/20260725/11600530/silencio-zapatero-sobre-joyas-empeora-futuro-judicial.html",
+      "desc": "La falta de explicaciones ha hecho que la Fiscalía abra una investigación específica",
+      "date": "25 Jul 2026 06:00:00 +0200",
       "source": "La Vanguardia",
       "color": "#8e44ad",
       "feedId": "LaVanguardia",
-      "caso": "other"
+      "caso": "zap"
     },
     {
-      "title": "Las imágenes del devastador incendio de Cerro Muriano en Córdoba, a vista de pájaro",
-      "link": "https://www.abc.es/espana/andalucia/cordoba/imagenes-devastador-incendio-cerro-muriano-vista-pajaro-20260725134827-nts.html",
-      "desc": "El incendio forestal declarado este viernes en Cerro Muriano , que aúnpermanece activo, ha dejado imágenes desoladoras. Las grabaciones realizadas por miembros del operativo permiten comprobar la magnitud del perímetro recorrido por las llamas tras casi 24 hor",
-      "date": "Sat, 25 Jul 2026 13:49:08 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Los incendios de Ávila y Madrid marcan la Ofrenda del Apóstol en Santiago",
-      "link": "https://www.abc.es/espana/galicia/incendios-avila-madrid-marcan-ofrenda-apostol-santiago-20260725131959-nt.html",
-      "desc": "En Galicia se conocen bien los estragos del fuego. El verano pasado, sin ir más lejos, la comunidad autónoma sufrió una de las mayores oleadas de incendios de su historia. Por eso, a los gallegos no les resulta difícil ponerse en la piel de los vecinos de Ávil",
-      "date": "Sat, 25 Jul 2026 13:46:21 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "El PP reivindica la labor de agricultores, ganaderos y alcaldes por su papel frente al incendio",
-      "link": "https://www.abc.es/espana/castilla-la-mancha/pp-reivindica-labor-agricultores-ganaderos-alcaldes-papel-20260725134531-nt.html",
-      "desc": "La secretaria general y portavoz parlamentaria del Partido Popular de Castilla-La Mancha, Carolina Agudo, ha reivindicado este sábado el papel desempeñado por agricultores, ganaderos y alcaldes de los municipios afectados por el incendio de la Sierra Norte de ",
-      "date": "Sat, 25 Jul 2026 13:45:32 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Arrastran a una mujer para robarle el bolso, agreden a los policías y huyen a la carrera al ser detenidos",
-      "link": "https://www.abc.es/espana/castilla-leon/arrastran-mujer-robarle-bolso-agreden-policias-huyen-20260725121455-nt.html",
-      "desc": "Estaba entrando en el portal de la oficina en la que trabaja, en una calle cerca del centro de Valladolid capital. Era todavía de madrugada, la de este 24 de julio, cuando mientras abría la puerta fue abordada por dos hombres que la tiraron al suelo y le arran",
-      "date": "Sat, 25 Jul 2026 13:44:51 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "¿Por qué no se ha firmado el pacto de Estado para la emergencia climática?, ¿qué lo encalla?",
-      "link": "https://www.lavanguardia.com/natural/20260725/11600990/posible-alcanzar-pacto-emergencia-climatica-encalla.html",
-      "desc": "El Gobierno prepara un red estatal de refugios climáticos para aprovechar edificios e instalaciones de la Adminstración central",
-      "date": "25 Jul 2026 13:34:06 +0200",
+      "title": "Zapatero y la mujer del César",
+      "link": "https://www.lavanguardia.com/politica/20260725/11600579/zapatero-mujer-cesar.html",
+      "desc": "",
+      "date": "25 Jul 2026 00:05:00 +0200",
       "source": "La Vanguardia",
       "color": "#8e44ad",
       "feedId": "LaVanguardia",
-      "caso": "other"
+      "caso": "zap"
     },
     {
-      "title": "La presión del partido de las 'cucarachas' fuerza la dimisión del ministro de Educación de India",
-      "link": "https://www.lavanguardia.com/internacional/20260725/11600986/presion-movimiento-cucarachas-fuerza-dimision-ministro-educacion-india.html",
-      "desc": "Dharmendra Pradhan vincula su salida a las ingentes protestas contra su gestión y asegura que renuncia “para que las fuerzas anti nacionales no se aprovechen de ello”",
-      "date": "25 Jul 2026 13:21:31 +0200",
+      "title": "Dimiten el presidente y el CEO de Plus Ultra, investigados por el préstamo a la aerolínea",
+      "link": "https://www.lavanguardia.com/politica/20260724/11600646/dimiten-presidente-ceo-plus-ultra-investigados-prestamo-aerolinea.html",
+      "desc": "El nuevo presidente ejecutivo, que agrupará las funciones de uno y otro cargo, será el accionista minoritario Hugo Castaño",
+      "date": "24 Jul 2026 23:19:41 +0200",
       "source": "La Vanguardia",
       "color": "#8e44ad",
       "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "Los incendios avivan la gresca política en Andalucía",
-      "link": "https://www.abc.es/espana/andalucia/incendios-avivan-gresca-politica-andalucia-20260725131959-nts.html",
-      "desc": "Los incendios que asolan la península ibérica de norte a sur se han convertido en otro arma arrojadiza para la política andaluza. Mientras se sofocan las llamas en Cerro Muriano (Córdoba) y el Cerro del Andévalo (Huelva), PSOE y Vox endurecen sus críticas. Los",
-      "date": "Sat, 25 Jul 2026 13:20:00 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Vecinos de El Encinar del Alberche (Madrid): “Hacemos rondas para ver si hay rescoldos”",
-      "link": "https://www.lavanguardia.com/local/madrid/20260725/11600953/vecinos-encinar-alberche-madrid-rondas-ver-hay-rescoldos.html",
-      "desc": "En tan sólo 15 minutos el fuego comenzó a arrasar las casas de los 1.400 vecinos de la urbanización",
-      "date": "25 Jul 2026 13:17:49 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "Feijóo llama a ser «responsables» y combatir «juntos» los incendios: «Vamos a refrescar el ambiente político»",
-      "link": "https://www.abc.es/espana/galicia/feijoo-llama-responsables-combatir-juntos-incendios-vamos-20260725131656-nt.html",
-      "desc": "El líder del PP y expresidente de la Xunta, Alberto Núñez Feijóo, ha defendido este sábado la necesidad de que las distintas administraciones cooperen para combatir los incendios que afectan a distintos puntos de España -con especial intensidad en Madrid, Cast",
-      "date": "Sat, 25 Jul 2026 13:16:56 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "El PSOE acusa al PP de Núñez de anteponer la «carroña a la solidadaridad»: «Es la antiEspaña»",
-      "link": "https://www.abc.es/espana/castilla-la-mancha/toledo/pueblos/psoe-acusa-pp-nunez-anteponer-carrona-solidadaridad-20260725130354-nt.html",
-      "desc": "El secretario general del PSOE en la provincia de Toledo, Álvaro Gutiérrez, ha acusado este sábado al PP de Castilla-La Mancha de Paco Núñez, de utilizar el incendio de La Mierla (Guadalajara) para hacer política y ha asegurado que los populares anteponen «la ",
-      "date": "Sat, 25 Jul 2026 13:03:55 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "El pueblo abulense de Díaz Ayuso, desalojado por la amenaza del fuego",
-      "link": "https://www.lavanguardia.com/vida/20260725/11600973/pueblo-abulense-diaz-ayuso-desalojado-amenaza-fuego.html",
-      "desc": "Otras siete localidades de Ávila han tenido que ser desalojadas por precaución ante el previsible cambio de viento",
-      "date": "25 Jul 2026 12:56:11 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "Muere ahogado un joven de 21 años en el canal marítimo de Amposta",
-      "link": "https://www.abc.es/espana/cataluna/muere-ahogado-joven-anos-canal-maritimo-amposta-20260725124939-nt.html",
-      "desc": "Un joven de 21 años ha muerto ahogado la madrugada de este sábado en el canal marítimo de Amposta (Tarragona). Fue minutos antes de la medianoche, cuando la Policía Local del municipio alertó a Emergencias porque uno de los dos jóvenes que se estaban bañando e",
-      "date": "Sat, 25 Jul 2026 12:49:39 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Castilla-La Mancha envía  23 efectivos y dos máquinas pesadas al incendio de Burgohondo (Ávila)",
-      "link": "https://www.abc.es/espana/castilla-la-mancha/castillala-mancha-envia-efectivos-dos-maquinas-pesadas-20260725124437-nt.html",
-      "desc": "Castilla-La Mancha ha desplazado medios del Plan Infocam para colaborar en las labores de extinción del incendio forestal declarado en Burgohondo (Ávila), que permanece en situación operativa de nivel 3 de emergencia. Según ha informado el Servicio de Prevenci",
-      "date": "Sat, 25 Jul 2026 12:44:37 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Sánchez felicita el Día de Galicia y la celebra como «una tierra orgullosa» de su lengua, cultura e identidad",
-      "link": "https://www.abc.es/espana/galicia/sanchez-felicita-dia-galicia-celebra-tierra-orgullosa-20260725123406-nt.html",
-      "desc": "El presidente del Gobierno, Pedro Sánchez, ha publicado un mensaje en sus redes sociales para felicitar el Día de Galicia, que se conmemora cada 25 de julio. «Galicia es una forma de sentir, de crear y de mirar al futuro sin renunciar a sus raíces», ha elogiad",
-      "date": "Sat, 25 Jul 2026 12:34:06 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Muere un conductor de 31 años tras colisionar contra la parte trasera de un camión en la M-40",
-      "link": "https://www.abc.es/espana/madrid/muere-conductor-anos-tras-colisionar-parte-trasera-20260725123151-nt.html",
-      "desc": "Un conductor de 31 años ha fallecido a las 2.00 horas de esta madrugada en Madrid después de que su vehículo colisionara contra la parte trasera de un camión a la altura del kilómetro 13 de la carretera M-40. Así lo han confirmado desde el Servicio de Emergenc",
-      "date": "Sat, 25 Jul 2026 12:31:51 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "La fiscal del caso Samuel Luiz, Olga Serrano, será la nueva fiscal jefa de Lugo",
-      "link": "https://www.abc.es/espana/galicia/fiscal-samuel-luiz-olga-serrano-nueva-fiscal-20260725122057-nt.html",
-      "desc": "Después de asumir algunas de las causas judiciales de mayor impacto mediático en La Coruña, como la del crimen de Samuel Luiz o el juicio por la lotería millonaria, Olga Serrano dará un paso más en su carrera al convertirse en la primera mujer que estará al fr",
-      "date": "Sat, 25 Jul 2026 12:20:57 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
+      "caso": "zap"
     }
   ]
 }
