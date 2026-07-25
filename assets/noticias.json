@@ -1,11 +1,51 @@
 {
-  "updated": "2026-07-25T19:00:10Z",
+  "updated": "2026-07-25T20:43:21Z",
   "count": 24,
   "items": [
     {
-      "title": "El incendio de Ávila obliga a evacuar tres municipios de Toledo y corta la TO-1560",
+      "title": "El Córdoba CF avanza con paso firme en su pretemporada con una victoria trabajada sobre el Cádiz (0-1)",
+      "link": "https://www.abc.es/espana/andalucia/cordoba/cordoba-cf/cordoba-avanza-paso-firme-pretemporada-victoria-trabajada-20260725222516-nts.html",
+      "desc": "Ecuador de la pretemporada superado con ciertas luces, pero también con ciertas sombras. El Córdoba CF superó en El Palmar al Cádiz (0-1) tras un testarazo de Diego Bri en los últimos latidos del encuentro. Los pupilos de Iván Ania fueron capaces de anteponer ",
+      "date": "Sat, 25 Jul 2026 22:25:16 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "El éxodo del incendio de Madrid colapsa Escalona, que acoge a los evacuados de Almorox",
+      "link": "https://www.abc.es/espana/castilla-la-mancha/toledo/pueblos/exodo-incendio-madrid-colapsa-escalona-acoge-evacuados-20260725215228-nt.html",
+      "desc": "Hay días en los que la solidaridad de un pueblo se mide en camas, botellas de agua y puertas abiertas. Este sábado ha sido uno de ellos en Escalona. Mientras miles de vehículos atravesaban el municipio huyendo del incendio de la sierra oeste de Madrid, el poli",
+      "date": "Sat, 25 Jul 2026 22:20:00 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "El incendio de Cerro Muriano queda estabilizado y permite el regreso de los vecinos a sus casas",
+      "link": "https://www.abc.es/espana/andalucia/cordoba/incendio-cerro-muriano-queda-estabilizado-permite-regreso-20260725211315-nts.html",
+      "desc": "El incendio forestal declarado en el entorno de Cerro Muriano ha quedado estabilizado este sábado a las 20.00 horas, según ha informado el Plan de Emergencias por Incendios Forestales de Andalucía (Plan Infoca). La mejora de la situación ha permitido regresar ",
+      "date": "Sat, 25 Jul 2026 21:13:16 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "España en llamas, y otras imágenes del día",
+      "link": "https://www.lavanguardia.com/fotos/20260725/11577518/espana-llamas-imagenes-dia.html",
+      "desc": "Madrid, Ávila y Toledo están en situación de emergencia, pero los incendios hacen estragos también en Castellón, Valencia y otros puntos de la geografía española, alterando la vida de sus habitantes.&nbsp;",
+      "date": "25 Jul 2026 20:58:12 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
+    {
+      "title": "Se elevan a once los municipios toledanos evacuados por el incendio de Ávila",
       "link": "https://www.abc.es/espana/castilla-la-mancha/toledo/pueblos/incendio-avila-obliga-evacuar-tres-municipios-toledo-20260725203758-nt.html",
-      "desc": "El incendio forestal declarado el pasado miércoles en Burgohondo (Ávila), que continúa fuera de control, ha obligado este sábado a evacuar los municipios toledanos de La Iglesuela del Tiétar, Almendral de la Cañada y Sartajada ante el avance de las llamas. Las",
+      "desc": "El incendio forestal declarado el pasado miércoles en Burgohondo (Ávila), que continúa fuera de control, ha obligado este sábado a evacuar once municipios ante el avance de las llamas . A los primeros desalojos decretados en La Iglesuela del Tiétar, Almendral ",
       "date": "Sat, 25 Jul 2026 20:37:58 +0200",
       "source": "ABC",
       "color": "#c0392b",
@@ -133,7 +173,7 @@
       "caso": "other"
     },
     {
-      "title": "Una persona fallece en el incendio de Manises (València), ya estabilizado por los bomberos",
+      "title": "Una persona fallece en el incendio de Manises, ya estabilizado por los bomberos",
       "link": "https://www.lavanguardia.com/local/valencia/20260725/11601036/persona-fallece-incendio-manises-valencia-estabilizado-bomberos.html",
       "desc": "Cinco personas han resultado heridas por inhalación de humo y quemaduras y han sido trasladadas al hospital",
       "date": "25 Jul 2026 18:00:56 +0200",
@@ -200,46 +240,6 @@
       "source": "ABC",
       "color": "#c0392b",
       "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Hallan muerto a un hombre de 78 años en el incendio de Manises",
-      "link": "https://www.abc.es/espana/comunidad-valenciana/hallan-muerto-hombre-anos-incendio-manises-20260725172012-nt.html",
-      "desc": "Un hombre de 78 años ha fallecido en el incendio forestal declarado este sábado en Manises. Según ha confirmado el Ayuntamiento del municipio, los bomberos han localizado el cuerpo sin vida en el interior de un vehículo, situado en la zona del barranco, tras s",
-      "date": "Sat, 25 Jul 2026 17:20:12 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Talavera habilita 150 camas para acoger a evacuados del gran incendio del Valle del Tiétar",
-      "link": "https://www.abc.es/espana/castilla-la-mancha/toledo/talavera/talavera-habilita-150-camas-acoger-evacuados-gran-20260725171403-nt.html",
-      "desc": "El Ayuntamiento de Talavera de la Reina ha activado el operativo para acoger a los vecinos que puedan ser evacuados por el grave incendio forestal que afecta a las provincias de Ávila, Madrid y Toledo y que ya alcanza la zona del Valle del Tiétar. Como primera",
-      "date": "Sat, 25 Jul 2026 17:14:04 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "El humo de los grandes incendios llega a Toledo y el Ayuntamiento pide extremar las precauciones",
-      "link": "https://www.abc.es/espana/castilla-la-mancha/toledo/humo-grandes-incendios-llega-toledo-ayuntamiento-pide-20260725170101-nt.html",
-      "desc": "El humo procedente de los grandes incendios forestales activos en Castilla-La Mancha y de los fuegos de la Sierra Oeste de Madrid y Burgohondo (Ávila) ha llegado este sábado a numerosos municipios de la provincia de Toledo e incluso a la capital regional, dond",
-      "date": "Sat, 25 Jul 2026 17:01:01 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Once muertos, incluidos 4 niños, por un ataque ucraniano en la región ocupada de Zaporiyia",
-      "link": "https://www.lavanguardia.com/internacional/20260725/11601019/once-muertos-incluidos-4-ninos-ataque-ucraniano-region-ocupada-zaporiyia.html",
-      "desc": "Zelenski asegura que los ataques rusos a Ucrania en las últimas han causado seis muertos en bombardeos en Sloviansk y Sumi",
-      "date": "25 Jul 2026 16:56:45 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
       "caso": "other"
     }
   ]
