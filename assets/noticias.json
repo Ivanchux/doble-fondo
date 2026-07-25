@@ -1,46 +1,246 @@
 {
-  "updated": "2026-07-25T16:51:43Z",
-  "count": 4,
+  "updated": "2026-07-25T19:00:10Z",
+  "count": 24,
   "items": [
     {
-      "title": "El Mundial del vuelo Plus Ultra",
-      "link": "https://www.abc.es/espana/andalucia/cordoba/mundial-vuelo-plus-ultra-20260725151641-nts.html",
-      "desc": "Hay gestas que no pertenecen únicamente a su propio tiempo, sino que resuenan un siglo después como un eco indomable de valentía, trabajo en equipo y ambición. En 1926, Palos de la Frontera vio despegar un hidroavión Dornier Do J Wal que pasaría a la posterida",
-      "date": "Sat, 25 Jul 2026 15:16:42 +0200",
+      "title": "El incendio de Ávila obliga a evacuar tres municipios de Toledo y corta la TO-1560",
+      "link": "https://www.abc.es/espana/castilla-la-mancha/toledo/pueblos/incendio-avila-obliga-evacuar-tres-municipios-toledo-20260725203758-nt.html",
+      "desc": "El incendio forestal declarado el pasado miércoles en Burgohondo (Ávila), que continúa fuera de control, ha obligado este sábado a evacuar los municipios toledanos de La Iglesuela del Tiétar, Almendral de la Cañada y Sartajada ante el avance de las llamas. Las",
+      "date": "Sat, 25 Jul 2026 20:37:58 +0200",
       "source": "ABC",
       "color": "#c0392b",
       "feedId": "ABC",
-      "caso": "zap"
+      "caso": "other"
     },
     {
-      "title": "El silencio de Zapatero sobre las joyas empeora su futuro judicial",
-      "link": "https://www.lavanguardia.com/politica/20260725/11600530/silencio-zapatero-sobre-joyas-empeora-futuro-judicial.html",
-      "desc": "La falta de explicaciones ha hecho que la Fiscalía abra una investigación específica",
-      "date": "25 Jul 2026 06:00:00 +0200",
+      "title": "Juan Lupiáñez, el granadino que será jurado en el diseño de los nuevos billetes de euro",
+      "link": "https://www.abc.es/espana/andalucia/granada/juan-lupianez-granadino-jurado-diseno-nuevos-billetes-20260725193608-nts.html",
+      "desc": "El catedrático de la Universidad de Granada (UGR) Juan Lupiáñez Castillo , del departamento de Psicología Experimental de la Facultad de Psicología, ha formado parte del jurado internacional que ha preseleccionado los diez diseños finalistas para la futura ser",
+      "date": "Sat, 25 Jul 2026 19:36:09 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Un menor en estado crítico y otro, grave, tras el accidente entre dos coches y una moto en Mataró",
+      "link": "https://www.abc.es/espana/cataluna/menor-estado-critico-grave-tras-accidente-dos-20260725193347-nt.html",
+      "desc": "Un menor se encuentra en estado crítico y otro, grave, tras un accidente entre dos coches y una moto, este sábado por la tarde en Mataró (Barcelona). Según ha informado el Servicio de Emergencias Médicas (SEM), han sido un total de ocho los heridos por el sini",
+      "date": "Sat, 25 Jul 2026 19:33:48 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Unas 90.000 personas esperan resignadas el momento de hacer frente a un fuego sin control",
+      "link": "https://www.lavanguardia.com/vida/20260725/11601073/90-000-personas-esperan-resignadas-momento-frente-fuego-control.html",
+      "desc": "El incendio sigue imparable, alimentado por un viento que juega con los efectivos de extinción",
+      "date": "25 Jul 2026 19:17:56 +0200",
       "source": "La Vanguardia",
       "color": "#8e44ad",
       "feedId": "LaVanguardia",
-      "caso": "zap"
+      "caso": "other"
     },
     {
-      "title": "Zapatero y la mujer del César",
-      "link": "https://www.lavanguardia.com/politica/20260725/11600579/zapatero-mujer-cesar.html",
-      "desc": "",
-      "date": "25 Jul 2026 00:05:00 +0200",
+      "title": "Cádiz - Córdoba CF en directo: resumen, goles y minuto a minuto del encuentro de pretemporada",
+      "link": "https://www.abc.es/espana/andalucia/cordoba/cordoba-cf/cadiz-cordoba-directo-resumen-goles-minuto-minuto-20260725152226-nts.html",
+      "desc": "El Córdoba CF ya ha alcanzado el ecuador de la pretemporada. Tras tres semanas de trabajo, los pupilos de Iván Ania deben ir mostrando cada vez más una identidad definida y buenas sensaciones. Para ello, el duelo ante el Cádiz (20.00 horas) se presenta como un",
+      "date": "Sat, 25 Jul 2026 19:02:01 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "El miedo vacía el turismo en San Lorenzo de El Escorial mientras los evacuados llenan los hoteles",
+      "link": "https://www.abc.es/espana/madrid/miedo-vacia-turismo-san-lorenzo-escorial-evacuados-20260725185027-nt.html",
+      "desc": "El cielo ha recuperado este sábado el azul sobre San Lorenzo de El Escorial , pero el ambiente dista mucho del habitual de un fin de semana de julio. El incendio que desde el jueves mantiene en vilo al oeste de la Comunidad de Madrid parecía avanzar hacia el m",
+      "date": "Sat, 25 Jul 2026 18:50:27 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "El Carpio de Tajo (Toledo) estrena como Fiesta de Interés Turístico Regional sus fiestas de Santiago",
+      "link": "https://www.abc.es/espana/castilla-la-mancha/toledo/pueblos/carpio-tajo-toledo-estrena-fiesta-interes-turistico-20260725184711-nt.html",
+      "desc": "El Carpio de Tajo ha celebrado este viernes una edición histórica de sus fiestas de Santiago Apóstol , la primera desde que esta celebración fuera declarada Fiesta de Interés Turístico Regional, un reconocimiento que pone en valor una tradición con más de cuat",
+      "date": "Sat, 25 Jul 2026 18:47:11 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "La Xunta activa la alerta roja por calor en el interior de Pontevedra y la amarilla en el noroeste de La Coruña",
+      "link": "https://www.abc.es/espana/galicia/xunta-activa-alerta-roja-calor-interior-pontevedra-20260725184212-nt.html",
+      "desc": "La Xunta ha activado para este domingo la alerta roja por episodio de calor en el interior de Pontevedra y la amarilla en el noroeste de La Coruña, según los datos facilitados por MeteoSalud y MeteoGalicia, en el marco del Plan de Actuaciones frente a los posi",
+      "date": "Sat, 25 Jul 2026 18:42:13 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Así se originó el gran incendio de San Martín de Valdeiglesias",
+      "link": "https://www.lavanguardia.com/natural/20260725/11601065/asi-origino-gran-incendio-san-martin-valdeiglesias.html",
+      "desc": "Un vehículo en llamas embistió por atrás el coche de la periodista Josefina Maestre antes de quedar en la ladera de las montaña, donde las explosiones provocaron el fuego que se extendió por el bosque",
+      "date": "25 Jul 2026 18:40:06 +0200",
       "source": "La Vanguardia",
       "color": "#8e44ad",
       "feedId": "LaVanguardia",
-      "caso": "zap"
+      "caso": "other"
     },
     {
-      "title": "Dimiten el presidente y el CEO de Plus Ultra, investigados por el préstamo a la aerolínea",
-      "link": "https://www.lavanguardia.com/politica/20260724/11600646/dimiten-presidente-ceo-plus-ultra-investigados-prestamo-aerolinea.html",
-      "desc": "El nuevo presidente ejecutivo, que agrupará las funciones de uno y otro cargo, será el accionista minoritario Hugo Castaño",
-      "date": "24 Jul 2026 23:19:41 +0200",
+      "title": "Fuego técnico y mejores condiciones ayudan en la lucha contra el incendio de Murias de Ponjos, aunque siguen las evacuaciones",
+      "link": "https://www.abc.es/espana/castilla-leon/fuego-tecnico-mejores-condiciones-ayudan-lucha-incendio-20260725183810-nt.html",
+      "desc": "En Índice de Gravedad Potencial (IGR) dos desde que se comenzó a complicar entrada la noche del jueves, el incendio declarado el día anterior en Murias de Ponjos (León) presenta este sábado un mejor aspecto y previsiones que al caer la noche del viernes, cuand",
+      "date": "Sat, 25 Jul 2026 18:38:55 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "La plantilla de Airbus rechaza el preacuerdo del convenio que afecta a la plantas de Albacete e Illescas",
+      "link": "https://www.abc.es/espana/castilla-la-mancha/toledo/pueblos/plantilla-airbus-rechaza-preacuerdo-convenio-afecta-plantas-20260725181915-nt.html",
+      "desc": "La plantilla de Airbus ha rechazado el preacuerdo del séptimo convenio colectivo interempresas alcanzado entre la dirección de la compañía y los sindicatos CCOO, SIPA y ATP, una decisión que afecta a los trabajadores de las plantas de Albacete e Illescas. En e",
+      "date": "Sat, 25 Jul 2026 18:19:15 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Doce pueblos evacuados y cuatro confinados en Madrid por el avance devastador del incendio",
+      "link": "https://www.abc.es/espana/madrid/avance-devastador-incendio-madrid-desplaza-puesto-mando-20260725181356-nt.html",
+      "desc": "La Comunidad de Madrid ha vivido otro día de pesadilla este sábado. En buena parte de la región, incluida la capital, muchos madrileños despertaron con un fuerte olor a humo y una bruma grisácea que hacían presagiar las horas críticas que quedaban por delante.",
+      "date": "Sat, 25 Jul 2026 18:13:57 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Cerro Muriano, con el fuego a las puertas: «El incendio se quedó al límite de la urbanización»",
+      "link": "https://www.abc.es/espana/andalucia/cordoba/carmen-vecina-cerro-muriano-tranquila-veia-llamas-20260725143204-nts.html",
+      "desc": "Tras una noche complicada, este sábado Cerro Muriano amaneció en calma. Desde la carretera N-432 B -la nueva- no se divisaban llamas. El humo era puntual y escaso en algunos puntos de zona ya quemada. Sorprendía ese hecho después de que el viernes acabara con ",
+      "date": "Sat, 25 Jul 2026 18:02:15 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Una persona fallece en el incendio de Manises (València), ya estabilizado por los bomberos",
+      "link": "https://www.lavanguardia.com/local/valencia/20260725/11601036/persona-fallece-incendio-manises-valencia-estabilizado-bomberos.html",
+      "desc": "Cinco personas han resultado heridas por inhalación de humo y quemaduras y han sido trasladadas al hospital",
+      "date": "25 Jul 2026 18:00:56 +0200",
       "source": "La Vanguardia",
       "color": "#8e44ad",
       "feedId": "LaVanguardia",
-      "caso": "zap"
+      "caso": "other"
+    },
+    {
+      "title": "El BNG hace de la paralización de Altri el eje de su acto del Día de Galicia",
+      "link": "https://www.abc.es/espana/galicia/ponton-presume-victoria-altri-20260725174719-nt.html",
+      "desc": "Como cada 25 de julio, el nacionalismo volvió a salir a la calle con motivo del Día de Galicia, y la líder del BNG, Ana Pontón, aprovechó la jornada para seguir agitando la bandera contra Altri, después de la paralización del proyecto que la papelera lusa pret",
+      "date": "Sat, 25 Jul 2026 18:00:15 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Los Bomberos consiguen estabilizar el incendio de Cubelles que ha obligado a confinar a más de 2.000 personas",
+      "link": "https://www.abc.es/espana/cataluna/incendio-forestal-cubelles-obliga-confinar-2000-personas-20260725175007-nt.html",
+      "desc": "Los Bomberos han conseguido estabilizar el incendio forestal de Cubelles (Barcelona), que este sábado ha obligado a confinar a unas 2.000 personas, de varias urbanizaciones. Por el momento, ha afectado ya a 8 hectáreas de terreno, según datos provisionales de ",
+      "date": "Sat, 25 Jul 2026 17:51:00 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Marlaska recurre a la UME para la dirección de la emergencia nacional con Defensa al margen del Cecopi",
+      "link": "https://www.abc.es/espana/moncloa-vuelve-excluir-robles-cecopi-pese-direccion-20260725174713-nt.html",
+      "desc": "El Ministerio de Defensa ha vuelto a quedar fuera del Centro de Coordinación Operativa Integrado (CECOPI) de los incendios en Madrid y Ávila, aunque la dirección técnica de la emergencia ha recaído en la Unidad Militar de Emergencias (UME) bajo las órdenes de ",
+      "date": "Sat, 25 Jul 2026 17:47:53 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Portugal envía 200 bomberos para ayudar en las tareas de extinción de los incendios",
+      "link": "https://www.lavanguardia.com/internacional/20260725/11601022/portugal-envia-200-bomberos-ayudar-tareas-extincion-incendios.html",
+      "desc": "Turquía, Grecia e Italia envían dos aviones cada país atendiendo la petición de ayuda del Gobierno español",
+      "date": "25 Jul 2026 17:28:34 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
+    {
+      "title": "El incendio del pantano de Béznar obliga a desalojar un campamento con 73 niños",
+      "link": "https://www.abc.es/espana/andalucia/granada/incendio-pantano-beznar-obliga-desalojar-campamento-ninos-20260725172329-nts.html",
+      "desc": "Un centenar de personas han sido evacuadas de un campamento cercano al incendio forestal declarado este sábado, en el pantano de Béznar, en la localidad granadina de El Valle. Según ha informado la Junta en un comunicado, la dirección de extición ha ordenado e",
+      "date": "Sat, 25 Jul 2026 17:23:30 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Cuando arde la memoria de Madrid",
+      "link": "https://www.abc.es/espana/madrid/arde-memoria-madrid-20260725172319-nt.html",
+      "desc": "Escribió Antonio Machado : «El hombre de estos campos que incendia los pinares y su despojo aguarda como botín de guerra, antaño hubo raído los negros encinares, talado los robustos robledos de la sierra». No hay infierno peor que el fuego abrasando el aire y ",
+      "date": "Sat, 25 Jul 2026 17:23:19 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Hallan muerto a un hombre de 78 años en el incendio de Manises",
+      "link": "https://www.abc.es/espana/comunidad-valenciana/hallan-muerto-hombre-anos-incendio-manises-20260725172012-nt.html",
+      "desc": "Un hombre de 78 años ha fallecido en el incendio forestal declarado este sábado en Manises. Según ha confirmado el Ayuntamiento del municipio, los bomberos han localizado el cuerpo sin vida en el interior de un vehículo, situado en la zona del barranco, tras s",
+      "date": "Sat, 25 Jul 2026 17:20:12 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Talavera habilita 150 camas para acoger a evacuados del gran incendio del Valle del Tiétar",
+      "link": "https://www.abc.es/espana/castilla-la-mancha/toledo/talavera/talavera-habilita-150-camas-acoger-evacuados-gran-20260725171403-nt.html",
+      "desc": "El Ayuntamiento de Talavera de la Reina ha activado el operativo para acoger a los vecinos que puedan ser evacuados por el grave incendio forestal que afecta a las provincias de Ávila, Madrid y Toledo y que ya alcanza la zona del Valle del Tiétar. Como primera",
+      "date": "Sat, 25 Jul 2026 17:14:04 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "El humo de los grandes incendios llega a Toledo y el Ayuntamiento pide extremar las precauciones",
+      "link": "https://www.abc.es/espana/castilla-la-mancha/toledo/humo-grandes-incendios-llega-toledo-ayuntamiento-pide-20260725170101-nt.html",
+      "desc": "El humo procedente de los grandes incendios forestales activos en Castilla-La Mancha y de los fuegos de la Sierra Oeste de Madrid y Burgohondo (Ávila) ha llegado este sábado a numerosos municipios de la provincia de Toledo e incluso a la capital regional, dond",
+      "date": "Sat, 25 Jul 2026 17:01:01 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Once muertos, incluidos 4 niños, por un ataque ucraniano en la región ocupada de Zaporiyia",
+      "link": "https://www.lavanguardia.com/internacional/20260725/11601019/once-muertos-incluidos-4-ninos-ataque-ucraniano-region-ocupada-zaporiyia.html",
+      "desc": "Zelenski asegura que los ataques rusos a Ucrania en las últimas han causado seis muertos en bombardeos en Sloviansk y Sumi",
+      "date": "25 Jul 2026 16:56:45 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
     }
   ]
 }
