@@ -1,7 +1,107 @@
 {
-  "updated": "2026-07-26T11:15:58Z",
+  "updated": "2026-07-26T13:09:12Z",
   "count": 24,
   "items": [
+    {
+      "title": "Ayuso, emocionada tras visitar a los desalojados por los incendios: «Ya estamos trabajando para una recuperación inédita»",
+      "link": "https://www.abc.es/espana/madrid/ayuso-emocionada-tras-visitar-desalojados-incendios-trabajando-20260726150313-nt.html",
+      "desc": "La presidenta de la Comunidad de Madrid, Isabel Díaz Ayuso, ha visitado este domingo el punto de acogida para vecinos evacuados por los incendios ubicado en Villamanta. Visiblemente emocionada ha señalado que ya están «trabajando para una recuperación inédita»",
+      "date": "Sun, 26 Jul 2026 15:03:13 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "El incendio de Burgohondo encara su quinto día con una previsión «más favorable» pero se mantienen los desalojos",
+      "link": "https://www.abc.es/espana/castilla-leon/incendio-burgohondo-encara-quinto-dia-prevision-favorable-20260726144714-nt.html",
+      "desc": "Quinto día ya de lucha contra el fuego declarado el pasado miércoles, 22 de julio, en el término de Burgohondo (Ávila) y que ya se extiende por una superficie que supera con creces las 10.000 hectáreas. Con puntos en los que se ha llegado a unir con el de San ",
+      "date": "Sun, 26 Jul 2026 14:47:14 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Los Reyes piden «reflexionar hacia el futuro» para evitar los daños de los incendios y «escuchar a los vecinos»",
+      "link": "https://www.abc.es/espana/madrid/reyes-piden-reflexionar-futuro-evitar-danos-incendios-20260726144443-nt.html",
+      "desc": "Los Reyes de España han visitado el municipio madrileño de Villamanta, donde se encuentran evacuados un buen número de vecinos de las localidades arrasadas por los incendios de la Sierra Oeste de la comunidad. Don Felipe y Doña Letizia han mantenido un encuent",
+      "date": "Sun, 26 Jul 2026 14:44:44 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "El incendio forestal de Cerro Muriano queda controlado tras dos días de intenso operativo",
+      "link": "https://www.abc.es/espana/andalucia/cordoba/incendio-forestal-cerro-muriano-queda-controlado-tras-20260726144107-nts.html",
+      "desc": "El incendio forestal declarado el pasado viernes en el entorno de Cerro Muriano ha quedado controlado a las 8.00 horas de este domingo , según ha informado el Plan de Emergencias por Incendios Forestales de Andalucía (Plan Infoca). Con este nuevo avance culmin",
+      "date": "Sun, 26 Jul 2026 14:41:07 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "La UME decidirá cuándo podrán volver a sus casas los 250 evacuados de once municipios de Toledo",
+      "link": "https://www.abc.es/espana/castilla-la-mancha/ume-decidira-podran-volver-casas-250-evacuados-20260726143929-nt.html",
+      "desc": "Los vecinos de los once municipios toledanos evacuados por el complejo de incendios que afecta a las provincias de Ávila, Madrid y Toledo tendrán que esperar para regresar a sus viviendas. Aunque la evolución del fuego invita a un «moderado optimismo », el del",
+      "date": "Sun, 26 Jul 2026 14:39:30 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Bar La Esquina: brasas, cocina de yaya y una pausa en el corazón de Barcelona",
+      "link": "https://www.abc.es/espana/cataluna/bar-esquina-brasas-cocina-yaya-pausa-corazon-20260726135631-nt.html",
+      "desc": "En la esquina de Pelayo con Bergara, a pocos metros de la plaza de Cataluña, Barcelona parece vivir permanentemente con el acelerador pisado. Compras, maletas, grupos de visitantes, trabajadores que atraviesan el centro y un incesante ir y venir de autobuses y",
+      "date": "Sun, 26 Jul 2026 13:56:31 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "El 'complejo de incendios' obliga a cortar 33 carreteras en la provincia de Toledo",
+      "link": "https://www.abc.es/espana/castilla-la-mancha/complejo-incendios-obliga-cortar-carreteras-provincia-toledo-20260726135023-nt.html",
+      "desc": "El complejo de incendios que afecta a las provincias de Ávila, Madrid y Toledo mantiene importantes afecciones a la red viaria toledana. La Dirección General de Tráfico (DGT) ha informado de que permanecen cortadas 33 carreteras de la provincia de Toledo como ",
+      "date": "Sun, 26 Jul 2026 13:50:24 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Los fuegos de Madrid y Ávila no entran en Toledo: «Esperemos que la línea de contención aguante»",
+      "link": "https://www.abc.es/espana/castilla-la-mancha/castillala-mancha-despliega-linea-contencion-evitar-fuegos-20260726133158-nt.html",
+      "desc": "La consejera de Desarrollo Sostenible, Mercedes Gómez, ha asegurado este domingo que Castilla-La Mancha ha desplegado una línea de contención desde La Adrada hasta La Igesuela para impedir que los incendios de Burgohondo en (Ávila) y de la sierra oeste de Madr",
+      "date": "Sun, 26 Jul 2026 13:31:58 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "La Junta de Castilla y León se personará como acusación contra el causante del incendio de Burgohondo",
+      "link": "https://www.abc.es/espana/castilla-leon/junta-castilla-leon-personara-acusacion-causante-incendio-20260726131646-nt.html",
+      "desc": "El presidente de la Junta de Castilla y León, Alfonso Fernández Mañueco, ha anunciado este domingo desde el Puesto de Mando instalado en Navaluenga (Ávila) que la Administración de la Comunidad se personará «como acusación» contra quien supuestamente provocó p",
+      "date": "Sun, 26 Jul 2026 13:16:47 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Illa se abre a que la Generalitat ejecute las mejoras de la AP-7",
+      "link": "https://www.lavanguardia.com/politica/20260726/11601439/illa-abre-generalitat-ejecute-obras-ampliacion-mantenimiento-ap-7.html",
+      "desc": "El president celebra la iniciativa de Junqueras sobre la autopista pero reclama más propuestas sobre la infraestructura",
+      "date": "26 Jul 2026 13:02:38 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
     {
       "title": "Oficial: Carlos Marín abandona el Córdoba CF y se marcha traspasado al Albacete",
       "link": "https://www.abc.es/espana/andalucia/cordoba/cordoba-cf/oficial-carlos-marin-abandona-cordoba-marcha-traspasado-20260726124744-nts.html",
@@ -123,26 +223,6 @@
       "caso": "other"
     },
     {
-      "title": "Diez años de internamiento psiquiátrico por apuñalar al jefe de la Policía Local en Cazorla",
-      "link": "https://www.abc.es/espana/andalucia/jaen/diez-anos-internamiento-psiquiatrico-apunalar-jefe-policia-20260726110613-nts.html",
-      "desc": "La Sección Segunda de la Audiencia de Jaén ha impuesto un tiempo máximo de diez años de internamiento psiquiátrico al hombre de 44 años juzgado por apuñalar al entonces jefe de la Policía Local de la localidad jiennense de Cazorla en julio de 2024. Una vez fin",
-      "date": "Sun, 26 Jul 2026 11:36:47 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Hacienda reúne a las comunidades para retomar la financiación singular a las puertas de agosto",
-      "link": "https://www.abc.es/espana/andalucia/hacienda-reune-comunidades-retomar-financiacion-singular-puertas-20260726113357-nts.html",
-      "desc": "A unos días de que la actividad política se pare por completo, el Ministerio de Hacienda vuelve a poner sobre la mesa la reforma del sistema de financiación autonómica. Su titular, Arcadi España , reunirá este miércoles a las comunidades autónomas para abordar",
-      "date": "Sun, 26 Jul 2026 11:33:57 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
       "title": "Sánchez anuncia la declaración de zona catastrófica de las áreas arrasadas por el fuego",
       "link": "https://www.lavanguardia.com/vida/20260726/11601387/sanchez-destaca-cooperacion-instituciones-lucha-incendios.html",
       "desc": "El presidente del Gobierno&nbsp;destaca la “cooperación entre instituciones” en la lucha contra el fuego",
@@ -160,86 +240,6 @@
       "source": "La Vanguardia",
       "color": "#8e44ad",
       "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "Los incendios ya han quemado este año una superficie que duplica la extensión de Menorca",
-      "link": "https://www.lavanguardia.com/natural/20260726/11601405/incendios-han-quemado-ano-seis-veces-media-mas-hectareas-2025.html",
-      "desc": "Ya han ardido 1.520 kilómetros cuadrados, seis veces y media más que en 2025 por estas fechas, o 15&nbsp; veces la superficie que ocupa la capital de Barcelona",
-      "date": "26 Jul 2026 11:21:32 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "Extinguido el incendio de Retuerta del Bullaque tras tres días de trabajo contra las llamas",
-      "link": "https://www.abc.es/espana/castilla-la-mancha/extinguido-incendio-retuerta-bullaque-tras-tres-dias-20260726112044-nt.html",
-      "desc": "El incendio forestal declarado el pasado jueves 23 de julio en la finca agrícola Las Cebras, en el término municipal de Retuerta del Bullaque (Ciudad Real), ha quedado extinguido pasada la medianoche de este domingo, poniendo fin a tres días de intenso trabajo",
-      "date": "Sun, 26 Jul 2026 11:20:45 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Los Reyes visitan a los vecinos desplazados por los incendios de la Comunidad de Madrid",
-      "link": "https://www.lavanguardia.com/vida/20260726/11601400/reyes-visitan-desplazados-incendios-asolan-comunidad-madrid.html",
-      "desc": "Felipe y Letizia acuden al polideportivo de&nbsp;Villamanta, que acoge a los vecinos evacuados de Villa del Prado, Aldea del Fresno y otros municipios madrileños",
-      "date": "26 Jul 2026 11:10:55 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "Muere un hombre de 78 años tras ser rescatado del agua en la playa do Preguntoiro de Vilagarcía",
-      "link": "https://www.abc.es/espana/galicia/muere-hombre-anos-tras-rescatado-agua-playa-20260726105501-nt.html",
-      "desc": "Un hombre ha fallecido tras ser rescatado del agua en la playa do Preguntoiro de Vilaxoán, en Vilagarcía de Arousa (Pontevedra). El varón presentaba síntomas de ahogamiento. Se trata de un vecino del municipio, de 78 años. Había salido a nadar y se le había pe",
-      "date": "Sun, 26 Jul 2026 10:55:01 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Se levantan las restricciones por el incendio de Guadalajara: los vecinos podrán volver a casa",
-      "link": "https://www.lavanguardia.com/vida/20260726/11601389/levantan-restricciones-incendio-guadalajara-vecinos-podran-volver-casa.html",
-      "desc": "El levantamiento permitirá reforzar los trabajos contra el incendio en Toledo con unidades terrestres, aéreas y maquinaria pesada empleadas ahora en Guadalajara",
-      "date": "26 Jul 2026 10:50:52 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "El incendio de Burdeos altera la conexión por carretera y tren con España",
-      "link": "https://www.lavanguardia.com/internacional/20260726/11601388/incendio-burdeos-altera-conexion-carretera-tren-espana.html",
-      "desc": "El fuego sigue avanzando y provoca miles de nuevas evacuaciones durante la noche",
-      "date": "26 Jul 2026 10:50:48 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "Page envía medios a Madrid y Ávila tras bajar la emergencia en Guadalajara: «nos ayudaron y daremos todo»",
-      "link": "https://www.abc.es/espana/castilla-la-mancha/page-envia-medios-madrid-avila-tras-bajar-20260726104842-nt.html",
-      "desc": "El presidente de Castilla-La Mancha, Emiliano García-Page, ha anunciado este domingo el envío de medios del Plan Infocam para colaborar en la extinción de los incendios que permanecen activos en la Comunidad de Madrid y Ávila, una decisión que será posible tra",
-      "date": "Sun, 26 Jul 2026 10:48:42 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Bajo una densa capa de humo y todavía sin controlar: así arranca este domingo el incendio de Burgohondo",
-      "link": "https://www.abc.es/espana/castilla-leon/bajo-densa-capa-humo-controlar-arranca-domingo-20260726104412-nt.html",
-      "desc": "Bajo una densa nube de humo que hace casi imposible ver. Así amanecía este domingo y veía pasar las primeras del día el incendio de Burgohondo, que tiene sumida a buena parte de la provincia de Ávila bajo la alerta del que ya se considera uno de los peores inc",
-      "date": "Sun, 26 Jul 2026 10:48:32 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
       "caso": "other"
     }
   ]
