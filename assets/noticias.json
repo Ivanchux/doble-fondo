@@ -1,7 +1,37 @@
 {
-  "updated": "2026-07-26T20:52:27Z",
+  "updated": "2026-07-26T22:55:32Z",
   "count": 24,
   "items": [
+    {
+      "title": "Pez de Abril se alza con la victoria final del 30º TabarcaVela-Trofeo Diputación de Alicante",
+      "link": "https://www.abc.es/espana/comunidad-valenciana/alicante/pez-abril-alza-victoria-final-30o-tabarcavelatrofeo-20260727003622-nt.html",
+      "desc": "El 30º TabarcaVela – Trofeo Diputación de Alicante ha bajado este domingo el telón tras tres intensos días de competición en aguas de la bahía de Alicante, coronando a Pez de Abril, de José María Meseguer (Club Náutico Villa de San Pedro), como vencedor absolu",
+      "date": "Mon, 27 Jul 2026 00:36:23 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Ligero optimismo por la evolución del fuego en Madrid, Ávila y Toledo",
+      "link": "https://www.lavanguardia.com/vida/20260727/11601542/ligero-optimismo-evolucion-fuego-madrid-avila-toledo.html",
+      "desc": "Cerca de 136.000 entre desalojados y confinados en todo el país por los incendios",
+      "date": "27 Jul 2026 00:05:00 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
+    {
+      "title": "El incendio de Selas, extinguido por lo que en Guadalajara solo queda activo el fuego de la Sierra Norte",
+      "link": "https://www.abc.es/espana/castilla-la-mancha/incendio-selas-queda-extinguido-guadalajara-solo-queda-20260726224651-nt.html",
+      "desc": "El incendio forestal declarado en Selas (Guadalajara) ha quedado definitivamente extinguido pasadas las ocho de la tarde de este domingo, poniendo fin a cinco días de intenso trabajo del Infocam para controlar un fuego que ha afectado, según las primeras estim",
+      "date": "Sun, 26 Jul 2026 22:46:51 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
     {
       "title": "El Toledo arranca este lunes la temporada 2026-27 con el objetivo de un ascenso que se le resiste",
       "link": "https://www.abc.es/espana/castilla-la-mancha/toledo/deportes/toledo-arranca-lunes-temporada-202627-objetivo-ascenso-20260726221539-nt.html",
@@ -153,6 +183,16 @@
       "caso": "other"
     },
     {
+      "title": "La policía abate en un tiroteo a un joven islamista sospechoso del atropello de Berlín",
+      "link": "https://www.lavanguardia.com/internacional/20260726/11601533/sospechoso-atropello-berlin-islamista-habria-abatido-policia.html",
+      "desc": "Identificado como&nbsp;Abdul Ballout, de 21 años de edad,&nbsp;ya era conocido por las autoridades alemanas como simpatizante del grupo yihadista Estado Islámico",
+      "date": "26 Jul 2026 19:35:57 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
+    {
       "title": "Nuevas embestidas de orcas frente a La Coruña dejan sin timón a dos veleros",
       "link": "https://www.abc.es/espana/galicia/nuevas-embestidas-orcas-frente-coruna-dejan-timon-20260726192937-nt.html",
       "desc": "Nuevas embestidas de orcas, que esta semana ya arremetieron contra varios veleros, han provocado que otros dos hayan perdido el timón frente a la costa de la ciudad de La Coruña. Sin embargo, solo uno de ellos necesitó ser remolcado y el otro pudo atracar por ",
@@ -200,46 +240,6 @@
       "source": "ABC",
       "color": "#c0392b",
       "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "El PSOE acusa a la Junta de dejar los colegios sin el refuerzo  bilingüe que le bloqueó el Gobierno central",
-      "link": "https://www.abc.es/espana/andalucia/psoe-acusa-junta-dejar-colegios-refuerzo-bilingue-20260726180629-nts.html",
-      "desc": "El PSOE ha denunciado la eliminación del programa de apoyo lingüístico en los centros escolares andaluces para el próximo curso, un proyecto que se desarrolla con auxiliares de conversación nativos y extracomunitarios desde hace veinte años y que el curso pasa",
-      "date": "Sun, 26 Jul 2026 18:06:30 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Añora reúne a casi 300 niños en las MiniOlimpiadas Rurales de Los Pedroches",
-      "link": "https://www.abc.es/espana/andalucia/cordoba/anora-reune-300-ninos-miniolimpiadas-rurales-pedroches-20260726173742-nts.html",
-      "desc": "Añora ha vuelto a convertirse este fin de semana en el punto de encuentro de las nuevas generaciones de las Olimpiadas Rurales de Los Pedroches . Cerca de 300 niños y niñas, distribuidos en 37 equipos, han participado en una nueva edición de las MiniOlimpiadas",
-      "date": "Sun, 26 Jul 2026 17:37:42 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Un petrolero explota en Ormuz tras chocar con una mina, según medios iraníes",
-      "link": "https://www.lavanguardia.com/internacional/20260726/11601468/petrolero-explota-ormuz-chocar-mina-medios-iranies.html",
-      "desc": "La Guardia Revolucionaria ha realizado disparos de advertencia contra seis buques durante las últimas 24 horas cuando intentaban atravesar el Estrecho",
-      "date": "26 Jul 2026 16:16:40 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "Los fuegos de Madrid, Ávila y Toledo empiezan a ceder ante la mejora de la meteorología",
-      "link": "https://www.lavanguardia.com/vida/20260726/11601453/fuegos-madrid-avila-toledo-empiezan-ceder-mejora-meteorologia.html",
-      "desc": "Estos incendios ya han calcinado 77.000 hectáreas y desalojado o confinado&nbsp; a 90.000 personas",
-      "date": "26 Jul 2026 14:37:42 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
       "caso": "other"
     }
   ]
