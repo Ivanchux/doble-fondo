@@ -1,7 +1,47 @@
 {
-  "updated": "2026-07-26T15:01:39Z",
+  "updated": "2026-07-26T16:53:31Z",
   "count": 24,
   "items": [
+    {
+      "title": "El PSOE acusa a la Junta de dejar los colegios sin el refuerzo  bilingüe que le bloqueó el Gobierno central",
+      "link": "https://www.abc.es/espana/andalucia/psoe-acusa-junta-dejar-colegios-refuerzo-bilingue-20260726180629-nts.html",
+      "desc": "El PSOE ha denunciado la eliminación del programa de apoyo lingüístico en los centros escolares andaluces para el próximo curso, un proyecto que se desarrolla con auxiliares de conversación nativos y extracomunitarios desde hace veinte años y que el curso pasa",
+      "date": "Sun, 26 Jul 2026 18:06:30 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Añora reúne a casi 300 niños en las MiniOlimpiadas Rurales de Los Pedroches",
+      "link": "https://www.abc.es/espana/andalucia/cordoba/anora-reune-300-ninos-miniolimpiadas-rurales-pedroches-20260726173742-nts.html",
+      "desc": "Añora ha vuelto a convertirse este fin de semana en el punto de encuentro de las nuevas generaciones de las Olimpiadas Rurales de Los Pedroches . Cerca de 300 niños y niñas, distribuidos en 37 equipos, han participado en una nueva edición de las MiniOlimpiadas",
+      "date": "Sun, 26 Jul 2026 17:37:42 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Rueda reivindica el papel de la Galicia exterior como «motor clave» para atraer talento",
+      "link": "https://www.abc.es/espana/galicia/rueda-reivindica-papel-galicia-exterior-motor-clave-20260726173249-nt.html",
+      "desc": "La Galicia de hoy no se entendería sin la Galicia exterior, esa que conforman los emigrantes que cruzaron el charco —o se fueron a Alemania o Suiza— en busca de un futuro mejor. La Xunta, aseguró Alfonso Rueda, los tiene siempre presentes. Por justicia y agrad",
+      "date": "Sun, 26 Jul 2026 17:32:50 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "La Cueva de Valporquero cumple 60 años desde su apertura al público",
+      "link": "https://www.abc.es/espana/castilla-leon/cueva-valporquero-cumple-anos-apertura-publico-20260726172546-nt.html",
+      "desc": "Las entrañas de la montaña existen en el pueblo de Valporquero de Torío, en la provincia de León. A 1.309 metros de altitud, albergan en su interior una auténtica joya subterránea visitable para el público desde hace 60 años. Moldeada por la naturaleza durante",
+      "date": "Sun, 26 Jul 2026 17:25:47 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
     {
       "title": "Un terremoto de casi cuatro grados pone en alerta a Granada y pueblos cercanos",
       "link": "https://www.abc.es/espana/andalucia/granada/terremoto-cuatro-grados-pone-alerta-granada-pueblos-20260726161345-nts.html",
@@ -20,16 +60,6 @@
       "source": "ABC",
       "color": "#c0392b",
       "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Un petrolero explota en Ormuz tras chocar con una mina, según medios iraníes",
-      "link": "https://www.lavanguardia.com/internacional/20260726/11601468/petrolero-explota-ormuz-chocar-mina-medios-iranies.html",
-      "desc": "La Guardia Revolucionaria ha realizado disparos de advertencia contra seis buques durante las últimas 24 horas cuando intentaban atravesar el Estrecho",
-      "date": "26 Jul 2026 16:16:40 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
       "caso": "other"
     },
     {
@@ -63,9 +93,9 @@
       "caso": "other"
     },
     {
-      "title": "El incendio de Burgohondo encara su quinto día con una previsión «más favorable» pero se mantienen los desalojos",
+      "title": "El incendio de Burgohondo abrasa unas 50.000 hectáreas y ya es el «mayor» en la historia de España",
       "link": "https://www.abc.es/espana/castilla-leon/incendio-burgohondo-encara-quinto-dia-prevision-favorable-20260726144714-nt.html",
-      "desc": "Quinto día ya de lucha contra el fuego declarado el pasado miércoles, 22 de julio, en el término de Burgohondo (Ávila) y que ya se extiende por una superficie que supera con creces las 10.000 hectáreas. Con puntos en los que se ha llegado a unir con el de San ",
+      "desc": "Quinto día ya de lucha contra el fuego declarado el pasado miércoles, 22 de julio, en el término de Burgohondo (Ávila) y que ya se extiende por una superficie que se mide por miles de hectáreas sin que todavía haya podido darse siquiera por estabilizado. Unas ",
       "date": "Sun, 26 Jul 2026 14:47:14 +0200",
       "source": "ABC",
       "color": "#c0392b",
@@ -143,6 +173,16 @@
       "caso": "other"
     },
     {
+      "title": "De la Fuente y la RFEF se vuelcan con los afectados por los incendios: “Es una obligación y un orgullo”",
+      "link": "https://www.lavanguardia.com/deportes/20260726/11601450/fuente-afectados-incendios-orgullo-obligacion.html",
+      "desc": "La Real Federación Española de Fútbol&nbsp;ha acogido a siete familias vulnerables que se encontraban en el pabellón La Marazuela de Las Rozas&nbsp;",
+      "date": "26 Jul 2026 13:47:03 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
+    {
       "title": "Los fuegos de Madrid y Ávila no entran en Toledo: «Esperemos que la línea de contención aguante»",
       "link": "https://www.abc.es/espana/castilla-la-mancha/castillala-mancha-despliega-linea-contencion-evitar-fuegos-20260726133158-nt.html",
       "desc": "La consejera de Desarrollo Sostenible, Mercedes Gómez, ha asegurado este domingo que Castilla-La Mancha ha desplegado una línea de contención desde La Adrada hasta La Igesuela para impedir que los incendios de Burgohondo en (Ávila) y de la sierra oeste de Madr",
@@ -197,46 +237,6 @@
       "link": "https://www.abc.es/espana/andalucia/cordoba/junta-desautoriza-fernando-adell-validas-dimisiones-cupula-20260726123700-nts.html",
       "desc": "La Junta de Andalucía ha dado un vuelco a la crisis interna que desde hace meses sacude a Asaja Córdoba . La Delegación Territorial de Empleo ha reconocido oficialmente la validez de las dimisiones presentadas por cuatro miembros del Comité Ejecutivo de la org",
       "date": "Sun, 26 Jul 2026 12:37:01 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Los incendios de iglesias del 18 de julio de 1936 en Córdoba",
-      "link": "https://www.abc.es/espana/andalucia/cordoba/incendios-iglesias-julio-1936-cordoba-20260726123639-nts.html",
-      "desc": "Junto con el asesinato del abogado José María Herrero Blanco , la única reacción violenta de los partidarios del Frente Popular durante la jornada del 18 de julio fue el incendio de algunos templos. Fueron asaltados los de Santa Marina y San Agustín , y quemad",
-      "date": "Sun, 26 Jul 2026 12:36:40 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Denuncia haber sido intoxicada por otra empleada del crucero Disney Dream atracado en Vigo",
-      "link": "https://www.abc.es/espana/galicia/denuncia-haber-intoxicada-empleada-crucero-disney-dream-20260726123208-nt.html",
-      "desc": "La Guardia Civil de Pontevedra ha abierto una investigación para esclarecer los hechos alrededor de una denuncia interpuesta por una empleada del crucero Disney Dream, que indicó que había sido intoxicada. El crucero llegó a la ciudad olívica el pasado viernes",
-      "date": "Sun, 26 Jul 2026 12:32:08 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Sánchez insiste en un pacto de Estado ante la emergencia climática sin aludir a los medios que prometió y no ha comprado",
-      "link": "https://www.abc.es/espana/castilla-leon/sanchez-insiste-pacto-estado-ante-emergencia-climatica-20260726122231-nt.html",
-      "desc": "Una «llamada a la reflexión que debemos hacernos entre todos» para alcanzar «un gran pacto de Estado frente a la emergencia climática » Es en lo que volvía a insistir este domingo el presidente del Gobierno, Pedro Sánchez , con el humo cerca y las llamas todav",
-      "date": "Sun, 26 Jul 2026 12:22:31 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Prisión para un joven que intentó atracar a dos policías de paisano en Córdoba",
-      "link": "https://www.abc.es/espana/andalucia/cordoba/prision-joven-intento-atracar-dos-policias-paisano-20260726120840-nts.html",
-      "desc": "Parecían las víctimas perfectas: solas, andando por una calle vacía a altas horas de la madrugada. Sin embargo, los atracadores no contaban con que estaban a punto de intentar asaltar a dos policías nacionales de paisano . La Sección de lo Penal del Tribunal d",
-      "date": "Sun, 26 Jul 2026 12:08:40 +0200",
       "source": "ABC",
       "color": "#c0392b",
       "feedId": "ABC",
