@@ -1,7 +1,107 @@
 {
-  "updated": "2026-07-26T22:55:32Z",
+  "updated": "2026-07-27T02:28:37Z",
   "count": 24,
   "items": [
+    {
+      "title": "Anticorrupción advierte que el confesor es quien aporta información valiosa y no quien lo hace antes",
+      "link": "https://www.abc.es/espana/anticorrupcion-advierte-confesor-aporta-informacion-valiosa-20260727014902-nt.html",
+      "desc": "La Fiscalía Anticorrupción no valorará las confesiones de Julio Martínez, supuesto testaferro de José Luis Rodríguez Zapatero, ni de los directivos de la aerolínea Plus Ultra -que aseguran haber pagado una mordida al expresidente del Gobierno por facilitar el ",
+      "date": "Mon, 27 Jul 2026 01:49:02 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "zap"
+    },
+    {
+      "title": "El general que denunció al 'dos' del DAO recurre el archivo por «indefensión»",
+      "link": "https://www.abc.es/espana/general-denuncio-dos-dao-recurre-archivo-indefension-20260727014850-nt.html",
+      "desc": "El general de división Fernando Mora recurrió el pasado viernes el archivo de la denuncia presentada contra el teniente general Luis del Castillo por parte de la Sala de lo Militar del Tribunal Supremo. El subordinado del número dos del DAO que se negó a boico",
+      "date": "Mon, 27 Jul 2026 01:48:50 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "La UCO detecta que Cerdán y Koldo usaban un coche de Servinabar para acudir al Congreso a sesiones contra la corrupción",
+      "link": "https://www.abc.es/espana/uco-detecta-cerdan-koldo-usaban-coche-servinabar-20260726014840-nt.html",
+      "desc": "La Unidad Central Operativa (UCO) de la Guardia Civil ha detectado que Santos Cerdán utilizaba un vehículo de la empresa Servinabar para acudir a sesiones contra la corrupción en el Congreso de los Diputados . Los agentes sostienen que las cuotas de este coche",
+      "date": "Mon, 27 Jul 2026 01:48:40 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "lei"
+    },
+    {
+      "title": "Antxon Alonso planeó comprar una casa de un millón a Cerdán, le pagó un renting y nóminas a su mujer sin que trabajara",
+      "link": "https://www.abc.es/espana/antxon-alonso-planeo-comprar-casa-millon-cerdan-20260727014826-nt.html",
+      "desc": "El empresario Antxon Alonso, propietario de la compañía Servinabar, planeó comprar una vivienda de un millón de euros al exsecretario de Organización del PSOE, Santos Cerdán, entre finales de 2021 y principios de 2022, cuando además de ostentar el tercer cargo",
+      "date": "Mon, 27 Jul 2026 01:48:26 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "lei"
+    },
+    {
+      "title": "Años perdidos del 'procés' que Sánchez amnistió",
+      "link": "https://www.abc.es/espana/cataluna/sergi-doria-anos-perdidos-proces-sanchez-amnistio-20260727014753-nt.html",
+      "desc": "Josep Rull, presidente del Parlament (146.097 euros), «insta» al Supremo «a que abandone la vía de la rebeldía y que aplique inmediatamente, sin tener que esperar a otros tribunales españoles, la ley de amnistía de manera rotunda y plena». Paradojas. Un conden",
+      "date": "Mon, 27 Jul 2026 01:47:53 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Herminia Parra amplía el medallero regional con la plata en el relevo 4x400 en el Nacional",
+      "link": "https://www.abc.es/espana/castilla-la-mancha/toledo/deportes/herminia-parra-amplia-medallero-regional-plata-relevo-20260727012026-nt.html",
+      "desc": "La atleta albaceteña Herminia Parra puso el broche a la participación de Castilla-La Mancha en el Campeonato de España absoluto de Atletismo al conquistar la medalla de plata en el relevo largo femenino con el Cuevas de Nerja. La manchega contribuyó al segundo",
+      "date": "Mon, 27 Jul 2026 01:20:26 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Conde Duque viaja a los 80 con la exposición 'Yo fui a EGB'",
+      "link": "https://www.abc.es/espana/madrid/conde-duque-viaja-exposicion-egb-20260724012005-nt.html",
+      "desc": "Todas las épocas tienen sus cosas buenas y sus cosas malas, pero es probable que en el futuro cercano, los que hoy son niños no sientan tanta nostalgia por los recuerdos digitales como la que sintieron sus padres y abuelos por los recuerdos analógicos. El tiem",
+      "date": "Mon, 27 Jul 2026 01:20:05 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Más de la mitad de los municipios de Madrid tienen recurrida la tasa de basuras de 2026",
+      "link": "https://www.abc.es/espana/madrid/mitad-municipios-madrid-recurrida-tasa-basuras-2026-20260721011945-nt.html",
+      "desc": "El caso del Ayuntamiento de Madrid ha sido el más sonado. Su tasa de basuras va por la tercera versión y ni tan siquiera el alcalde popular puede garantizar que la de 2026 no acabe, como la de los dos años anteriores , en los tribunales. Es ahí donde ha tratad",
+      "date": "Mon, 27 Jul 2026 01:19:45 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Paredes de la Sierra Norte que cuentan la historia de sus pueblos",
+      "link": "https://www.abc.es/espana/madrid/paredes-sierra-norte-cuentan-historia-pueblos-20260722011851-nt.html",
+      "desc": "En Patones, municipio de la Sierra Norte de Madrid , desde finales del año pasado hay una pared en la que conviven el legendario Rey de Patones, las huertas que todavía cultivan sus vecinos, una abubilla de cresta abierta y la unión entre los dos 'pueblos' que",
+      "date": "Mon, 27 Jul 2026 01:18:51 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Las primarias abren una grieta en el PSOE de Madrid entre acusaciones de «amenazas y presiones»",
+      "link": "https://www.abc.es/espana/madrid/primarias-abren-grieta-psoe-madrid-acusaciones-amenazas-20260722011830-nt.html",
+      "desc": "El PSOE de Madrid tenía un plan para que julio fuera el mes de Óscar López y todos los focos de la política madrileña se situaran sobre él tras ser proclamado candidato a la Presidencia de la Comunidad y rival de Isabel Díaz Ayuso en las próximas elecciones. P",
+      "date": "Mon, 27 Jul 2026 01:18:30 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
     {
       "title": "Pez de Abril se alza con la victoria final del 30º TabarcaVela-Trofeo Diputación de Alicante",
       "link": "https://www.abc.es/espana/comunidad-valenciana/alicante/pez-abril-alza-victoria-final-30o-tabarcavelatrofeo-20260727003622-nt.html",
@@ -113,16 +213,6 @@
       "caso": "other"
     },
     {
-      "title": "Iván Ania cita a 27 futbolistas para el 'stage' del Córdoba CF en Oliva",
-      "link": "https://www.abc.es/espana/andalucia/cordoba/cordoba-cf/ivan-ania-cita-futbolistas-stage-cordoba-oliva-20260726204437-nts.html",
-      "desc": "Tras tres semanas de pretemporada en tierras cordobesas, el Córdoba CF ya tiene lista su expedición para el 'stage' de pretemporada en Oliva (Valencia). El club blanquiverde ha dado a conocer la convocatoria de 27 futbolistas que pondrán rumbo al complejo hote",
-      "date": "Sun, 26 Jul 2026 20:44:38 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
       "title": "Miles de mallorquines toman las calles de Palma en una protesta masiva contra la turistificación",
       "link": "https://www.lavanguardia.com/vida/20260726/11601499/miles-mallorquines-toman-calles-palma-protesta-masiva-turistificacion.html",
       "desc": "La imposibilidad de acceder a la vivienda y las detenciones de dos jóvenes impulsan la protesta",
@@ -130,36 +220,6 @@
       "source": "La Vanguardia",
       "color": "#8e44ad",
       "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "Muere el menor que resultó herido crítico tras un accidente múltiple en Mataró",
-      "link": "https://www.abc.es/espana/cataluna/muere-menor-resulto-herido-critico-tras-accidente-20260726204158-nt.html",
-      "desc": "El menor que ayer resultó herido crítico tras un accidente múltiple en Mataró ha muerto este domingo en el Hospital Vall d'Hebron, donde fue trasladado por los servicios de Emergencias. Otro niño, grave, se encuentra en el Sant Joan de Déu de Esplugues, y ocho",
-      "date": "Sun, 26 Jul 2026 20:41:58 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Miles de personas claman en Palma por un cambio de modelo turístico para Baleares",
-      "link": "https://www.abc.es/espana/baleares/miles-personas-claman-palma-cambio-modelo-turistico-20260726202018-nt.html",
-      "desc": "Miles de personas, más de 25.000 según los datos de la Policía Nacional, se han manifestado este domingo por las calles del centro de Palma para reclamar un cambio del modelo turístico de Baleares y denunciar las consecuencias que, a su juicio, tiene la masifi",
-      "date": "Sun, 26 Jul 2026 20:20:18 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Los Reyes piden reflexión para minimizar los daños de los incendios y escuchar a los vecinos",
-      "link": "https://www.abc.es/espana/madrid/reyes-piden-reflexion-miminizar-danos-incendios-escuchar-20260726201115-nt.html",
-      "desc": "La visita de los Reyes dejó este domingo un breve paréntesis de alivio entre los evacuados de Villamanta. Y eso que el olor a humo era palpable en la localidad, cubierta con una capa gris. A las puertas del polideportivo municipal La Chopera, convertido desde ",
-      "date": "Sun, 26 Jul 2026 20:11:15 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
       "caso": "other"
     },
     {
@@ -173,16 +233,6 @@
       "caso": "other"
     },
     {
-      "title": "La Xunta ve «preocupante» la situación económica de la Universidad de La Coruña",
-      "link": "https://www.abc.es/espana/galicia/xunta-preocupante-situacion-economica-universidad-coruna-20260726195300-nt.html",
-      "desc": "El conselleiro de Educación, Ciencia, Universidades e FP, Román Rodríguez, considera que la situación económica de la Universidad de La Coruña (UDC) es «preocupante» y, en consecuencia, le ha pedido que ponga en marcha medidas que posibiliten una «gestión razo",
-      "date": "Sun, 26 Jul 2026 19:53:01 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
       "title": "La policía abate en un tiroteo a un joven islamista sospechoso del atropello de Berlín",
       "link": "https://www.lavanguardia.com/internacional/20260726/11601533/sospechoso-atropello-berlin-islamista-habria-abatido-policia.html",
       "desc": "Identificado como&nbsp;Abdul Ballout, de 21 años de edad,&nbsp;ya era conocido por las autoridades alemanas como simpatizante del grupo yihadista Estado Islámico",
@@ -190,56 +240,6 @@
       "source": "La Vanguardia",
       "color": "#8e44ad",
       "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "Nuevas embestidas de orcas frente a La Coruña dejan sin timón a dos veleros",
-      "link": "https://www.abc.es/espana/galicia/nuevas-embestidas-orcas-frente-coruna-dejan-timon-20260726192937-nt.html",
-      "desc": "Nuevas embestidas de orcas, que esta semana ya arremetieron contra varios veleros, han provocado que otros dos hayan perdido el timón frente a la costa de la ciudad de La Coruña. Sin embargo, solo uno de ellos necesitó ser remolcado y el otro pudo atracar por ",
-      "date": "Sun, 26 Jul 2026 19:29:38 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Muere ahogado en el río Segre un joven de 25 años",
-      "link": "https://www.abc.es/espana/cataluna/muere-ahogado-rio-segre-joven-anos-20260726192236-nt.html",
-      "desc": "Un joven de 25 años ha muerto ahogado en el río Segre , a su paso por Camarasa, en Lérida. Los Bomberos de la Generalitat han localizado su cadáver a las16.30 horas de este domingo, tras haber sido arrastrado por la corriente en la zona del Congost del Mu, jun",
-      "date": "Sun, 26 Jul 2026 19:22:36 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Alerta por calor en Galicia: naranja en el interior de Pontevedra y amarilla en la montaña de Orense",
-      "link": "https://www.abc.es/espana/galicia/alerta-calor-galicia-naranja-interior-pontevedra-amarilla-20260726191718-nt.html",
-      "desc": "La Xunta ha informado de que este lunes, día 27, habrá nivel de alerta naranja en el interior de Pontevedra y amarillo en la montaña de Ourense, según los datos remitidos por MeteoSalud y MeteoGalicia, y en el ámbito del Plan de Actuacións del Gobierno gallego",
-      "date": "Sun, 26 Jul 2026 19:17:18 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Galicia se vuelca con los incendios de León, Ávila y Madrid sin bajar la guardia en sus montes",
-      "link": "https://www.abc.es/espana/galicia/galicia-vuelca-incendios-leon-avila-madrid-bajar-20260726190042-nt.html",
-      "desc": "Galicia ha respondido a la llamada de las comunidades autónomas en las que estos días el fuego sigue devorando hectáreas, pero sin dejar de mirar de reojo sus propios montes ni bajar la guardia. Así, la Xunta mantiene desplegados efectivos para luchar contra l",
-      "date": "Sun, 26 Jul 2026 19:00:42 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Jóvenes contra el fuego para salvar caballos: «La gente me llama con ataques de ansiedad y yo no puedo salvar a todos»",
-      "link": "https://www.abc.es/espana/madrid/jovenes-fuego-salvar-caballos-gente-llama-ataques-20260726185622-nt.html",
-      "desc": "En la nueva nave del Centro Hípico Como Tú, la maquinaria de obra sigue aparcada junto a las paredes y muchas de las cuadras están sin terminar. Cipri apenas lleva un mes ampliando las instalaciones de su hípica en Navalcarnero. Sin embargo, donde hasta hace u",
-      "date": "Sun, 26 Jul 2026 18:56:22 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
       "caso": "other"
     }
   ]
