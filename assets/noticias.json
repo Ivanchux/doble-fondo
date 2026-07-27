@@ -1,7 +1,97 @@
 {
-  "updated": "2026-07-27T19:19:28Z",
+  "updated": "2026-07-27T21:05:26Z",
   "count": 24,
   "items": [
+    {
+      "title": "Un niño de nueve años resulta herido al caer por un puente en un cochecito de golf",
+      "link": "https://www.abc.es/espana/comunidad-valenciana/alicante/nino-nueve-anos-resulta-herido-caer-puente-20260727221127-nt.html",
+      "desc": "Un niño de nueve años de edad ha resultado herido este lunes al caer en un cochecito de golf de la Marquesa Golf, en Rojales, por un puente desde una altura de tres metros de altura, según ha informado el Consorcio de Bomberos de Alicante. El accidente se ha p",
+      "date": "Mon, 27 Jul 2026 22:11:27 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Autorizado el regreso de los vecinos de nueve municipios desalojados por el incendio del Valle del Tiétar",
+      "link": "https://www.abc.es/espana/castilla-la-mancha/autorizado-regreso-vecinos-ocho-municipios-desalojados-incendio-20260727205425-nt.html",
+      "desc": "Los vecinos de nueve de los once municipios toledanos que fueron desalojados el pasado sábado por el avance del incendio de Burgohondo (Ávila« por el Valle del Tiétar podrán regresar a sus viviendas tras la decisión adoptada en la reunión del Centro de Coordin",
+      "date": "Mon, 27 Jul 2026 22:10:26 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "La Escuela de Policía convertida en hogar: «Aquí hemos dado paz a los evacuados»",
+      "link": "https://www.abc.es/espana/castilla-leon/escuela-policia-convertida-hogar-dado-paz-evacuados-20260727215941-nt.html",
+      "desc": "La Escuela de Policía Nacional, situada en la capital abulense, se ha transformado estos días en un hogar que ha llegado a dar cobijo a 1500 personas. Son evacuados y efectivos de los servicios de extinción del incendio forestal de Burgohondo que se encuentra ",
+      "date": "Mon, 27 Jul 2026 21:59:41 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Situación «bastante más favorable» en el incendio de Ávila, aunque habrá reproducciones y siguen los desalojos",
+      "link": "https://www.abc.es/espana/castilla-leon/situacion-bastante-favorable-incendio-avila-reproducciones-siguen-20260727215501-nt.html",
+      "desc": "En el particular parte de guerra de la lucha contra las llamas de este lunes, el sexto ya de combate contra el fuego, «día muy complicado» para el amplio dispositivo desplegado en Ávila para intentar poner poner coto a una propagación. Arrancó el miércoles 22 ",
+      "date": "Mon, 27 Jul 2026 21:57:53 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "El Córdoba CF ya trabaja en Oliva: así será una de las semana más importantes de la pretemporada blanquiverde",
+      "link": "https://www.abc.es/espana/andalucia/cordoba/cordoba-cf/cordoba-trabaja-oliva-semana-importantes-pretemporada-blanquiverde-20260727214444-nts.html",
+      "desc": "El Córdoba CF cambia de escenario, pero no reduce el ritmo. Después de completar sus primeras semanas de preparación en tierras cordobesas, la plantilla blanquiverde ha iniciado este lunes su concentración en Oliva con una agenda diseñada para elevar la carga ",
+      "date": "Mon, 27 Jul 2026 21:44:44 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Córdoba contará con otras 140 nuevas viviendas en Ollerías",
+      "link": "https://www.abc.es/espana/andalucia/cordoba/cordoba-contara-140-nuevas-viviendas-ollerias-20260727214248-nts.html",
+      "desc": "El consejo rector de la Gerencia de Urbanismo tratará este miércoles el Plan de Reforma Interior (PRI) SC2b del PGOU de Córdoba prevé la construcción de 140 nuevas viviendas sobre un ámbito de 6.871,23 metros cuadrados situado entre la avenida de Ollerías, la ",
+      "date": "Mon, 27 Jul 2026 21:42:48 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Declarado un incendio forestal en Lepe próximo a la urbanización Islantilla Golf",
+      "link": "https://www.abc.es/espana/andalucia/huelva/declarado-incendio-forestal-lepe-proximo-urbanizacion-islantilla-20260727213133-nts.html",
+      "desc": "Efectivos del Plan Infoca trabajan en las labores de extinción de un incendio forestal declarado a las 20.10 horas de este lunes en un paraje de Lepe , próximo a la urbanización Islantilla Golf. Se trata del segundo incendio registrado este lunes en la provinc",
+      "date": "Mon, 27 Jul 2026 21:31:33 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Estabilizados los incendios de Almorox y el Valle del Tiétar",
+      "link": "https://www.abc.es/espana/castilla-la-mancha/toledo/pueblos/estabilizados-incendios-almorox-valle-tietar-mantiene-desalojo-20260727211959-nt.html",
+      "desc": "Los incendios forestales que afectan a Almorox y al Valle del Tiétar continúan evolucionando de forma favorable en Castilla-La Mancha, donde el Servicio de Prevención y Extinción de Incendios Forestales (Infocam) ha dado por estabilizado el perímetro del fuego",
+      "date": "Mon, 27 Jul 2026 21:20:00 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "El restaurante Le Petit Chef prepara una nueva receta española para competir con Francia, Italia y Japón",
+      "link": "https://www.abc.es/espana/cataluna/restaurante-petit-chef-prepara-nueva-receta-espanola-20260727210427-nt.html",
+      "desc": "Cuatro chefs diminutos, cuatro países y un solo gorro dorado como trofeo. España, Italia, Francia y Japón se enfrentan cada noche en una desenfadada competición culinaria dentro de Le Petit Chef &amp; Friends, la experiencia gastronómica inmersiva instalada en",
+      "date": "Mon, 27 Jul 2026 21:04:28 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
     {
       "title": "Castilla y León activa hasta el viernes la cuarta alerta por riesgo de incendios en lo que va de verano",
       "link": "https://www.abc.es/espana/castilla-leon/castilla-leon-activa-viernes-cuarta-alerta-riesgo-20260727203811-nt.html",
@@ -93,9 +183,9 @@
       "caso": "other"
     },
     {
-      "title": "Un incendio en la catenaria obliga a desalojar la estación de metro de Glòries en Barcelona",
+      "title": "Más de 130 heridos en un incendio en la catenaria en el metro de Barcelona",
       "link": "https://www.abc.es/espana/cataluna/incendio-catenaria-obliga-desalojar-estacion-metro-glories-20260727185039-nt.html",
-      "desc": "Un incendio en la catenaria de la línea 1 de metro ha obligado ha desalojar la estación de Glòries y a cerrar de la Clot, en Barcelona. Protección Civil ha activado la alerta por las llamas. Según Trasnportes Metropolitanos, la L1 funciona entre Hospital de Be",
+      "desc": "Un incendio en la catenaria de la línea 1 de metro de Barcelona ha obligado a los servicios de emergencia atender a más de 130 personas, 129 de ellas en estado leve y 7 menos graves. El incidente ha provocado el desalojo de la estación de Glòries y el cierre d",
       "date": "Mon, 27 Jul 2026 19:15:52 +0200",
       "source": "ABC",
       "color": "#c0392b",
@@ -143,76 +233,6 @@
       "caso": "lei"
     },
     {
-      "title": "Nueve años de cárcel para el hombre que dejó tetrapléjica  a su mujer en Ontiñena",
-      "link": "https://www.abc.es/espana/aragon/nueve-anos-carcel-hombre-dejo-tetraplejica-mujer-20260727190814-nt.html",
-      "desc": "Los hechos ocurrieron el 21 de enero de 2024, en un pueblo de Huesca de apenas 600 habitantes, Ontiñena, en el domicilio familiar compartido por agresor y víctima. Sobre las 20.15 horas y según los hechos probados, el marido golpea al menos en dos ocasiones en",
-      "date": "Mon, 27 Jul 2026 19:08:15 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Registrado un temblor de magnitud 3,1 en aguas atlánticas a 200 kilómetros del litoral coruñés",
-      "link": "https://www.abc.es/espana/galicia/registrado-temblor-magnitud-aguas-atlanticas-200-kilometros-20260727190236-nt.html",
-      "desc": "Un sismo de magnitud 3,1 en la escala de Richter ha sacudido este lunes el océano Atlántico, con un epicentro localizado a cerca de 200 kilómetros de las costas de la provincia de La Coruña . Según los registros del Instituto Geográfico Nacional (IGN), el movi",
-      "date": "Mon, 27 Jul 2026 19:02:37 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Detenido por apuñalar a un hombre que se interpuso al ir a recriminar a su expareja",
-      "link": "https://www.abc.es/espana/comunidad-valenciana/alicante/detenido-apunalar-hombre-interpuso-recriminar-expareja-20260727190152-nt.html",
-      "desc": "La Policía Nacional ha detenido en la ciudad de Alicante a un hombre de 54 años de edad acusado de apuñalar en el cuello a otro, de 55, que se había interpuesto entre él y su expareja cuando la recriminaba con actitud hostil e intenciones de una posible agresi",
-      "date": "Mon, 27 Jul 2026 19:01:52 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Un vecino con un arma y una navaja siembra el pánico en La Isleta (Gran Canaria)",
-      "link": "https://www.abc.es/espana/canarias/vecino-arma-navaja-siembra-panico-isleta-gran-20260727190106-nt.html",
-      "desc": "Agentes de la Policía Nacional han detenido en Las Palmas de Gran Canaria a un hombre tras protagonizar un grave incidente en la vía pública en el barrio de La Isleta, en el que intimidó a varias personas utilizando un arma de fuego simulada y una navaja. El h",
-      "date": "Mon, 27 Jul 2026 19:01:06 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Pintadas de «remigración» y restos de carne de cerdo en la mezquita de Vilanova del Camí",
-      "link": "https://www.abc.es/espana/cataluna/pintadas-remigracion-restos-carne-cerdo-mezquita-vilanova-20260727185653-nt.html",
-      "desc": "Los Mossos d'Esquadra investigan un presunto ataque islamófobo a la mezquita de Vilanova del Camí (Barcelona), después de que la madrugada del sábado apareciera pintada la palabra 'remigración' y una cruz cristiana en la fachada del templo. También, según denu",
-      "date": "Mon, 27 Jul 2026 18:56:54 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "El Estado concede 61,8 millones en incentivos regionales a 18 empresas de Castilla-La Mancha",
-      "link": "https://www.abc.es/espana/castilla-la-mancha/estado-concede-618-millones-incentivos-regionales-empresas-20260727185537-nt.html",
-      "desc": "Dieciocho empresas de Castilla-La Mancha recibirán 61,8 millones de euros en incentivos regionales concedidos por el Estado para impulsar proyectos de inversión que movilizarán 305,2 millones de euros , permitirán crear 435 nuevos puestos de trabajo y mantener",
-      "date": "Mon, 27 Jul 2026 18:55:37 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Reolum trabaja en cuatro proyectos  con una inversión de 2,8 millones y la creación de 700 empleos",
-      "link": "https://www.abc.es/espana/castilla-leon/reolum-trabaja-cuatro-proyectos-inversion-millones-creacion-20260727185306-nt.html",
-      "desc": "Reolum, empresa que impulsa la descarbonización y la transición energética mediante proyectos que transforman la generación y consumo de energía integrando la biomasa y el hidrógeno verde, tiene previsto invertir 2.800 millones de euros en Castilla y León, con",
-      "date": "Mon, 27 Jul 2026 18:53:06 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
       "title": "La defensa del exjefe de la UDEF arremete contra las “infundadas” acusaciones del' caso Kitchen'",
       "link": "https://www.lavanguardia.com/politica/20260727/11602343/defensa-exjefe-udef-arremete-infundadas-acusaciones-caso-kitchen.html",
       "desc": "El tribunal celebra mañana la última sesión de un juicio que arrancó en abril contra la cúpula del Ministerio del Interior y policial",
@@ -221,26 +241,6 @@
       "color": "#8e44ad",
       "feedId": "LaVanguardia",
       "caso": "gen"
-    },
-    {
-      "title": "Organizan una alerta OVNI en Morales de Toro (Zamora)",
-      "link": "https://www.abc.es/espana/castilla-leon/organizan-alerta-ovni-morales-toro-zamora-20260727182656-nt.html",
-      "desc": "El experto en ufología y presidente de la Asociación de Estudios del Misterio, Nando Domínguez, ha organizado para el próximo viernes, 31 de julio, a las 22.00 horas, en Morales de Toro (Zamora), una nueva alerta OVNI, como encuentro abierto a cualquier person",
-      "date": "Mon, 27 Jul 2026 18:46:46 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "La Cámara de Barcelona rejuvenece y feminiza su liderazgo territorial en l'Hospitalet y Baix Llobregat",
-      "link": "https://www.abc.es/espana/cataluna/camara-barcelona-rejuvenece-feminiza-liderazgo-territorial-lhospitalet-20260727183627-nt.html",
-      "desc": "La Cámara de Comercio de Barcelona ha acelerado la renovación generacional y la feminización de su estructura territorial con el nombramiento este lunes de la empresaria Estefanía Parra como presidenta de la delegación del Baix Llobregat . Su incorporación sit",
-      "date": "Mon, 27 Jul 2026 18:36:27 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
     }
   ]
 }
