@@ -1,7 +1,87 @@
 {
-  "updated": "2026-07-27T17:38:27Z",
+  "updated": "2026-07-27T19:19:28Z",
   "count": 24,
   "items": [
+    {
+      "title": "Castilla y León activa hasta el viernes la cuarta alerta por riesgo de incendios en lo que va de verano",
+      "link": "https://www.abc.es/espana/castilla-leon/castilla-leon-activa-viernes-cuarta-alerta-riesgo-20260727203811-nt.html",
+      "desc": "Por cuarta vez en lo que va de verano y casi dos meses de estío todavía por delante, mientras en la provincia de Ávila sigue sin poder darse por controlado el incendio declarado el pasado miércoles, 22 de julio, en Burgohondo y que ya ha calcinado unas 50.000 ",
+      "date": "Mon, 27 Jul 2026 20:38:12 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "El fuego de Castellón sigue sin control y ya afecta a más de 80.000 personas",
+      "link": "https://www.lavanguardia.com/vida/20260727/11602397/fuego-castellon-sigue-control-afecta-mas-80-000-personas.html",
+      "desc": "El operativo llegó a la noche con “moderado optimismo” por el cambio de viento",
+      "date": "27 Jul 2026 20:36:02 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
+    {
+      "title": "Page: «Me reafirmo más que nunca en que no nos van a tomar el pelo con la infame propuesta de financiación»",
+      "link": "https://www.abc.es/espana/castilla-la-mancha/toledo/page-reafirmo-nunca-van-tomar-pelo-infame-20260727203339-nt.html",
+      "desc": "El presidente de Castilla-La Mancha, Emiliano García-Page, ha aprovechado este lunes su visita al Centro de Simulación e Innovación de Cuenca (CESICU), ubicado en el Centro de Salud Cuenca I, para volver a cargar contra la propuesta de financiación autonómica ",
+      "date": "Mon, 27 Jul 2026 20:33:39 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Gobierno y PP elevan el tono después de la tregua del fin de semana por los incendios",
+      "link": "https://www.abc.es/espana/gobierno-pp-elevan-tono-despues-tregua-fin-20260727202828-nt.html",
+      "desc": "La tregua pactada tácitamente entre el Gobierno y el Partido Popular este fin de semana a raíz de los fuegos que asolan el centro y el este de España parece haberse convertido este lunes en un triste espejismo . Óscar Puente, Sara Aagesen, Montse Míguez e Isab",
+      "date": "Mon, 27 Jul 2026 20:28:28 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "CSIF, ANPE y STECyL-i y Educación acuerdan el cobro de tutorías y la reducción de horario lectivo a mayores de 55 años",
+      "link": "https://www.abc.es/espana/castilla-leon/csif-anpe-stecyli-educacion-acuerdan-cobro-tutorias-20260727200533-nt.html",
+      "desc": "La Consejería de Educación y los sindicatos CSIF, ANPE y STECyL-i han alcanzado este lunes un preacuerdo sobre el cobro de un complemento relativo a la labor de las tutorías y la reducción de la carga lectiva para mayores de 55 años. Estas medidas, que se apli",
+      "date": "Mon, 27 Jul 2026 20:18:24 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Festa do Albariño 2026: programa completo de la 74ª edición de la fiesta del vino en Cambados",
+      "link": "https://www.abc.es/espana/galicia/festa-albarino-2026-programa-completo-74a-edicion-20260727200000-nt.html",
+      "desc": "Cambados se prepara para vivir su cita enogastronómica más importante del año. La localidad pontevedresa acoge del 28 de julio al 2 de agosto la LXXIV edición de la Festa do Albariño , una de las celebraciones del vino más relevantes de España y declarada Fies",
+      "date": "Mon, 27 Jul 2026 20:00:00 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Don Juan Carlos regresa a Mallorca ocho años después para el cumpleaños de un amigo",
+      "link": "https://www.abc.es/espana/don-juan-carlos-regresa-mallorca-ocho-anos-20260727194834-nt.html",
+      "desc": "Juan Carlos I regresó este domingo a Mallorca por primera vez desde la Semana Santa de 2018 para asistir a la celebración del 80.º cumpleaños de su amigo Miguel Arias. La cena reunió a un reducido grupo de personas de su círculo más cercano en Flanigan, el res",
+      "date": "Mon, 27 Jul 2026 19:48:35 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "El Govern ultima una prórroga del tope de rentas en gran parte de municipios",
+      "link": "https://www.lavanguardia.com/economia/20260727/11602377/govern-ultima-prorroga-tope-rentas-gran-parte-municipios.html",
+      "desc": "La regulación, que finaliza en el 2027, se extenderá un año más en Catalunya",
+      "date": "27 Jul 2026 19:36:07 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
     {
       "title": "La palabra imaginada (52): verano de 1995 (II)",
       "link": "https://www.abc.es/espana/castilla-la-mancha/palabra-imaginada-verano-1995-20260727192728-nt.html",
@@ -20,6 +100,16 @@
       "source": "ABC",
       "color": "#c0392b",
       "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "El juez prorroga la investigación a Cristóbal Montoro por ser “sumamente compleja”",
+      "link": "https://www.lavanguardia.com/politica/20260727/11602369/juez-prorroga-investigacion-cristobal-montoro-sumamente-compleja.html",
+      "desc": "El instructor recuerda que de los quince investigados citados sólo ha declarado uno de ellos",
+      "date": "27 Jul 2026 19:14:35 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
       "caso": "other"
     },
     {
@@ -45,7 +135,7 @@
     {
       "title": "El juez incluye en el 'caso Cerdán' los 62 millones de las obras de Belate adjudicadas por Chivite a Antxon Alonso",
       "link": "https://www.abc.es/espana/navarra/juez-incluye-cerdan-millones-obras-belate-adjudicadas-20260727191027-nt.html",
-      "desc": "El juez de la Audiencia Nacional Ismael Moreno ha incorporado las obras en los túneles de Belate, que el Gobierno de Navarra adjudicó en 2024 a la Unión Temporal de Empresas (UTE) Acciona-Osés-Servinabar por 62,8 millones de euros, en la instrucción del 'caso ",
+      "desc": "El juez de la Audiencia Nacional, Ismael Moreno, ha incorporado las obras en los túneles de Belate, que el Gobierno de María Chivite adjudicó en 2024 a la Unión Temporal de Empresas (UTE) Acciona-Osés-Servinabar por 62,8 millones de euros , en la instrucción d",
       "date": "Mon, 27 Jul 2026 19:10:28 +0200",
       "source": "ABC",
       "color": "#c0392b",
@@ -123,6 +213,16 @@
       "caso": "other"
     },
     {
+      "title": "La defensa del exjefe de la UDEF arremete contra las “infundadas” acusaciones del' caso Kitchen'",
+      "link": "https://www.lavanguardia.com/politica/20260727/11602343/defensa-exjefe-udef-arremete-infundadas-acusaciones-caso-kitchen.html",
+      "desc": "El tribunal celebra mañana la última sesión de un juicio que arrancó en abril contra la cúpula del Ministerio del Interior y policial",
+      "date": "27 Jul 2026 18:47:45 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "gen"
+    },
+    {
       "title": "Organizan una alerta OVNI en Morales de Toro (Zamora)",
       "link": "https://www.abc.es/espana/castilla-leon/organizan-alerta-ovni-morales-toro-zamora-20260727182656-nt.html",
       "desc": "El experto en ufología y presidente de la Asociación de Estudios del Misterio, Nando Domínguez, ha organizado para el próximo viernes, 31 de julio, a las 22.00 horas, en Morales de Toro (Zamora), una nueva alerta OVNI, como encuentro abierto a cualquier person",
@@ -140,106 +240,6 @@
       "source": "ABC",
       "color": "#c0392b",
       "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Azcón: «La gigafactoría de Stellantis sitúa a Aragón en el centro de la automoción europea»",
-      "link": "https://www.abc.es/espana/aragon/azcon-gigafactoria-stellantis-situa-aragon-centro-automocion-20260727183452-nt.html",
-      "desc": "El Gobierno de Aragón ha aprobado de manera definitiva el Proyecto de Interés General de Aragón (PIGA) del Proyecto Toro para garantizar todos los permisos de construcción de la gigafactoría de baterías promovida por Contemporary Star Energy (CSE), la 'joint v",
-      "date": "Mon, 27 Jul 2026 18:34:52 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Salvador Herrero, Jorge Oliva y Raquel Martín entran en la final del Circuito de Novilladas de Castilla y León",
-      "link": "https://www.abc.es/espana/castilla-leon/salvador-herrero-jorge-oliva-raquel-martin-entran-20260727182830-nt.html",
-      "desc": "El consejero de Cultura, Turismo y Deporte, Alberto Díaz Pico, ha destacado este lunes la importancia de «seguir apoyando el talento emergente y de ofrecer oportunidades a las nuevas generaciones de profesionales del mundo del toro», subrayando el papel que de",
-      "date": "Mon, 27 Jul 2026 18:29:02 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "La Diputación de Guadalajara repara redes de agua tras el incendio de La Mierla",
-      "link": "https://www.abc.es/espana/castilla-la-mancha/diputacion-gualajara-repara-redes-agua-tras-incendio-20260727182359-nt.html",
-      "desc": "La Diputación de Guadalajara ha resuelto averías en redes de abastecimiento de varios pueblos afectados por el fuego de La Mierla . En concreto, los servicios de Infraestructuras y de Centros Comarcales resolvieron averías en las redes de abastecimiento de agu",
-      "date": "Mon, 27 Jul 2026 18:24:00 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "«Este año pasamos el verano en la piscina de la urbanización»",
-      "link": "https://www.abc.es/espana/andalucia/ano-pasamos-verano-piscina-urbanizacion-20260727182250-nts.html",
-      "desc": "El alquiler vacacional, como el tradicional, está por las nubes, incluso en la costa andaluza, que ha sido la elección preferente cada verano por la cercanía y por los precios competitivos. Pero esa percepción se va desdibujando cuando se topa uno con la reali",
-      "date": "Mon, 27 Jul 2026 18:22:50 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "El fuego de Murias de Ponjos ha calcinado más de 2.000 hectáreas",
-      "link": "https://www.abc.es/espana/castilla-leon/fuego-murias-ponjos-calcinado-2000-hectareas-20260727181219-nt.html",
-      "desc": "El delegado territorial de la Junta en León, Eduardo Diego , ha visitado este lunes las zonas afectadas por el incendio forestal de Murias de Ponjos , que ha calcinado ya más de 2.000 hectáreas y continúa en Índice de Gravedad Potencial 1 (IGR-1). Además, ha m",
-      "date": "Mon, 27 Jul 2026 18:12:19 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "El ganado empieza a recibir forraje y agua y el campo urge cambios ante los incendios",
-      "link": "https://www.abc.es/espana/castilla-leon/ganado-empieza-recibir-forraje-agua-campo-urge-20260727163055-nt.html",
-      "desc": "El voraz paso del fuego que desde el pasado miércoles abrasa la provincia de Ávila tras saltar las chispas -hay un detenido por uso indebido de una máquina- en Burgohondo ya se extiende por una superficie de 50.000 hectáreas, con un perímetro de 160 kilómetros",
-      "date": "Mon, 27 Jul 2026 18:09:37 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "La factura sanitaria del fuego: enfermedades respiratorias, oculares y trastornos psicológicos",
-      "link": "https://www.lavanguardia.com/vida/20260727/11602292/factura-sanitaria-fuego-enfermedades-respiratorias-oculares-trastornos-psicologicos.html",
-      "desc": "Médicos de familia advierten que los grandes fuegos aumentarán la presión sobre la atención primaria y hospitalaria",
-      "date": "27 Jul 2026 17:58:14 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "Incendios en Madrid, Toledo, Ávila y resto de España, última hora: carreteras cortadas, municipios evacuados y hectáreas quemadas",
-      "link": "https://www.lavanguardia.com/vida/20260727/11601553/incendio-forestal-comunidad-madrid-avila-toledo-emergencia-nacional-evacuados-ultima-hora-hoy-en-directo.html",
-      "desc": "Los incendios afectan ya a 77.000 hectáreas y más de 90.000 personas han sido evacuadas o confinadas",
-      "date": "27 Jul 2026 17:52:50 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "Límite 48 horas: la lucha para frenar el fuego en el centro de España ante la nueva ola de calor",
-      "link": "https://www.lavanguardia.com/vida/20260727/11602284/apenas-48-horas-frenar-fuego-arrasa-centro-espana.html",
-      "desc": "Los equipos de extinción luchan con todas sus fuerzas para controlar el enorme incendio antes de que llegue la nueva ola de calor",
-      "date": "27 Jul 2026 17:38:52 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "Peinado permite que sea la procuradora de Begoña Gómez quien recoja su pasaporte",
-      "link": "https://www.lavanguardia.com/politica/20260727/11602274/peinado-permite-sea-procuradora-begona-gomez-recoja-pasaporte.html",
-      "desc": "El magistrado había ordenado inicialmente que fuera la esposa del presidente del Gobierno a retirar personalmente su documento tras levantarle la prohibición de salir del país",
-      "date": "27 Jul 2026 16:57:44 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
       "caso": "other"
     }
   ]
