@@ -1,7 +1,47 @@
 {
-  "updated": "2026-07-27T21:05:26Z",
+  "updated": "2026-07-27T22:56:07Z",
   "count": 24,
   "items": [
+    {
+      "title": "Francia teme el “mazazo económico” por los incendios forestales",
+      "link": "https://www.lavanguardia.com/internacional/20260728/11602398/francia-teme-mazazo-economico-incendios-forestales.html",
+      "desc": "El fuego da un respiro en Burdeos antes de la nueva ola de calor&nbsp;",
+      "date": "28 Jul 2026 00:05:00 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
+    {
+      "title": "Abrir un resquicio al diálogo",
+      "link": "https://www.lavanguardia.com/opinion/20260728/11602420/abrir-resquicio-dialogo.html",
+      "desc": "Puede que no cambie nada, pero siempre es bueno intentar el consenso",
+      "date": "28 Jul 2026 00:05:00 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
+    {
+      "title": "El semáforo del paso de peatones del Paseo de la Rosa estará operativo en agosto",
+      "link": "https://www.abc.es/espana/castilla-la-mancha/toledo/semaforo-paso-peatones-paseo-rosa-operativo-agosto-20260727233915-nt.html",
+      "desc": "El semáforo para peatones que el Ayuntamiento de Toledo está instalando en uno de los pasos de cebra del Paseo de la Rosa, en el barrio de Santa Bárbara, entrará en funcionamiento durante la primera quincena de agosto. Así lo ha avanzado este lunes el alcalde ",
+      "date": "Mon, 27 Jul 2026 23:39:16 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Guadalajara iniciará este año las obras de rehabilitación del Alcázar Real",
+      "link": "https://www.abc.es/espana/castilla-la-mancha/guadalajara-iniciara-ano-obras-rehabilitacion-alcazar-real-20260727232525-nt.html",
+      "desc": "El Ayuntamiento de Guadalajara prevé iniciar antes de que finalice este año las obras de la primera fase de rehabilitación del Alcázar Real, una actuación presupuestada en 4,5 millones de euros que permitirá consolidar y restaurar las estructuras históricas de",
+      "date": "Mon, 27 Jul 2026 23:25:25 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
     {
       "title": "Un niño de nueve años resulta herido al caer por un puente en un cochecito de golf",
       "link": "https://www.abc.es/espana/comunidad-valenciana/alicante/nino-nueve-anos-resulta-herido-caer-puente-20260727221127-nt.html",
@@ -153,7 +193,7 @@
       "caso": "other"
     },
     {
-      "title": "Don Juan Carlos regresa a Mallorca ocho años después para el cumpleaños de un amigo",
+      "title": "Don Juan Carlos regresa a Mallorca y cena en el Palacio de Marivent con la Reina Sofía",
       "link": "https://www.abc.es/espana/don-juan-carlos-regresa-mallorca-ocho-anos-20260727194834-nt.html",
       "desc": "Juan Carlos I regresó este domingo a Mallorca por primera vez desde la Semana Santa de 2018 para asistir a la celebración del 80.º cumpleaños de su amigo Miguel Arias. La cena reunió a un reducido grupo de personas de su círculo más cercano en Flanigan, el res",
       "date": "Mon, 27 Jul 2026 19:48:35 +0200",
@@ -201,46 +241,6 @@
       "color": "#8e44ad",
       "feedId": "LaVanguardia",
       "caso": "other"
-    },
-    {
-      "title": "Veolia remata la red de saneamiento del centro de Xirivella y mejora la de un parque",
-      "link": "https://www.abc.es/espana/comunidad-valenciana/veolia-remata-red-saneamiento-centro-xirivella-mejora-20260727191242-nt.html",
-      "desc": "El Ayuntamiento de Xirivella y Aigües de l'Horta, empresa del grupo Veolia, gestora del ciclo de agua en el municipio, han dado por finalizadas las obras de renovación de la red de saneamiento de la calle Mayor y la plaza que cruza con las calles Montealegre, ",
-      "date": "Mon, 27 Jul 2026 19:12:42 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Una concejal de Vox en Tarrasa denuncia que tres personas «de origen árabe» la agredieron cuando iba con su familia",
-      "link": "https://www.abc.es/espana/cataluna/concejal-vox-tarrasa-denuncia-tres-personas-origen-20260727191224-nt.html",
-      "desc": "Alicia Tomás, líder de Vox en Tarrasa (Barcelona), y su pareja acudieron el pasado 18 de julio al centro comercial Parc Vallès acompañados por los hijos de la concejal. La salida familiar acabó en la comisaría de la Policía Local para interponer una denuncia p",
-      "date": "Mon, 27 Jul 2026 19:12:25 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "El juez incluye en el 'caso Cerdán' los 62 millones de las obras de Belate adjudicadas por Chivite a Antxon Alonso",
-      "link": "https://www.abc.es/espana/navarra/juez-incluye-cerdan-millones-obras-belate-adjudicadas-20260727191027-nt.html",
-      "desc": "El juez de la Audiencia Nacional, Ismael Moreno, ha incorporado las obras en los túneles de Belate, que el Gobierno de María Chivite adjudicó en 2024 a la Unión Temporal de Empresas (UTE) Acciona-Osés-Servinabar por 62,8 millones de euros , en la instrucción d",
-      "date": "Mon, 27 Jul 2026 19:10:28 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "lei"
-    },
-    {
-      "title": "La defensa del exjefe de la UDEF arremete contra las “infundadas” acusaciones del' caso Kitchen'",
-      "link": "https://www.lavanguardia.com/politica/20260727/11602343/defensa-exjefe-udef-arremete-infundadas-acusaciones-caso-kitchen.html",
-      "desc": "El tribunal celebra mañana la última sesión de un juicio que arrancó en abril contra la cúpula del Ministerio del Interior y policial",
-      "date": "27 Jul 2026 18:47:45 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
-      "caso": "gen"
     }
   ]
 }
