@@ -1,7 +1,107 @@
 {
-  "updated": "2026-07-28T19:15:29Z",
+  "updated": "2026-07-28T21:03:04Z",
   "count": 24,
   "items": [
+    {
+      "title": "Seis intoxicados por inhalar gas cloro en la piscina de un pueblo de Valladolid",
+      "link": "https://www.abc.es/espana/castilla-leon/seis-intoxicados-inhalar-gascloro-piscina-pueblo-valladolid-20260728224427-nt.html",
+      "desc": "Seis personas, cinco de ellas niños, tenían que ser atendidas en la tarde de este martes tras sufrir al parecer una intoxicación por gas cloro mientras estaban en las piscinas municipales de Castrillo-Tejeriego . El incidente se registraba en torno a las 18.40",
+      "date": "Tue, 28 Jul 2026 22:48:16 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Una persona herida de bala en un tiroteo en una playa de Estepona",
+      "link": "https://www.abc.es/espana/andalucia/malaga/persona-herida-bala-tiroteo-estepona-malaga-20260728212908-nts.html",
+      "desc": "Una persona ha resultado herida este martes en un tiroteo que ha tenido lugar cerca de una playa de la localidad malagueña de Estepona , según han podido confirmar los servicios sanitarios del 112 después de haber trasladado al herido. En torno a las 17.30 hor",
+      "date": "Tue, 28 Jul 2026 21:58:38 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Un hombre mata a su mujer en Barcelona delante de sus hijos",
+      "link": "https://www.abc.es/espana/cataluna/hombre-mata-mujer-barcelona-delante-hijos-20260728213923-nt.html",
+      "desc": "Un hombre ha matado a su mujer a puñaladas este martes , 28 de julio, delante de sus hijos en una vivienda de la calle Andrade de Barcelona , en el distrito de Sant Martí. Tras ello, el individuo ha huido en un vehículo . Los Mossos d'Esquadra lo buscan para d",
+      "date": "Tue, 28 Jul 2026 21:39:23 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "El Gobierno indulta de forma parcial al ex alcalde de Linares",
+      "link": "https://www.abc.es/espana/andalucia/jaen/gobierno-indulta-forma-parcial-alcalde-linares-20260728213824-nts.html",
+      "desc": "El Gobierno ha acordado indultar de forma parcial al exalcalde socialista de Linares, Juan Fernández . Con esta decisión, se conmuta la pena de prisión de tres años por otra de dos años por malversación de caudales públicos , aunque se mantiene la pena de inha",
+      "date": "Tue, 28 Jul 2026 21:38:24 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "El Tribunal de Cuentas ve falta de control interno en retribuciones y conflictos de intereses en los concejales de Córdoba",
+      "link": "https://www.abc.es/espana/andalucia/cordoba/tribunal-cuentas-falta-control-interno-retribuciones-conflictos-20260728213823-nts.html",
+      "desc": "El Pleno del Tribunal de Cuentas ha advertido de la existencia de «significativas carencias de control interno» en la gestión de las retribuciones de los miembros de los gobiernos locales de seis grandes ayuntamientos españoles, señalando la necesidad de refor",
+      "date": "Tue, 28 Jul 2026 21:38:23 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Primeros realojos mientras sigue la lucha contra el incendio de Ávila: «Te quedas para salvar lo que a la gente de tu alrededor les da la vida»",
+      "link": "https://www.abc.es/espana/castilla-leon/primeros-realojos-sigue-lucha-incendio-avila-quedas-20260728212458-nt.html",
+      "desc": "Las llamas aún siguen activas, con puntos en los que se resisten a apagarse, otros en los que se reavivan, pero también con zonas en las que lo que ya queda es el rastro de cenizas dejado por el destructor poder del fuego . Y mientras, a cuentagotas, el alivio",
+      "date": "Tue, 28 Jul 2026 21:24:58 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "El incendio de Almorox baja a nivel 1 tras seis días y 270 hectáreas calcinadas en Toledo",
+      "link": "https://www.abc.es/espana/castilla-la-mancha/toledo/pueblos/incendio-almorox-baja-nivel-tras-seis-dias-20260728212400-nt.html",
+      "desc": "El incendio forestal de Almorox ha descendido este martes del nivel 2 al 1 seis días después de declararse y tras calcinar unas 270 hectáreas en la provincia de Toledo. Con esta desescalada, Castilla-La Mancha deja de tener incendios activos en nivel 2 de peli",
+      "date": "Tue, 28 Jul 2026 21:24:01 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Muere la zaragozana Yolanda Marchite, la sonrisa eterna contra la ELA",
+      "link": "https://www.abc.es/espana/aragon/muere-yolanda-marchite-diagnosticada-ela-tras-parto-20260728212205-nt.html",
+      "desc": "Yolanda Marchite, la aragonesa que sufría ELA (Esclerosis Lateral Amiotrófica) y una de las voces más reivindicativas en la lucha contra la enfermedad en esta comunidad, falleció a los 52 años. Desde el perfil de la asociación aragonesa de la enfermedad Araela",
+      "date": "Tue, 28 Jul 2026 21:22:05 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Trump despide junto a Zelenski y Netanyahu al senador Graham, el “amigo” de Ucrania e Israel",
+      "link": "https://www.lavanguardia.com/internacional/20260728/11603177/trump-despide-zelenski-netanyahu-senador-graham-amigo-ucrania-e-israel.html",
+      "desc": "El presidente recuerda en el funeral del republicano su espíritu belicista: “Os lo aseguro, nunca vio una guerra que no le gustara”",
+      "date": "28 Jul 2026 21:20:57 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
+    {
+      "title": "Asesinada una mujer a manos de su pareja ante sus dos hijos menores en Barcelona",
+      "link": "https://www.lavanguardia.com/vida/20260728/11603175/asesinada-mujer-manos-pareja-dos-hijos-barcelona.html",
+      "desc": "El presunto autor ha huido y continúa en paradero desconocido",
+      "date": "28 Jul 2026 21:16:16 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
     {
       "title": "CaixaBank activa ayudas y financiación especial para los afectados por los incendios",
       "link": "https://www.abc.es/espana/castilla-la-mancha/caixabank-activa-ayudas-financiacion-especial-afectados-incendios-20260728205736-nt.html",
@@ -13,7 +113,7 @@
       "caso": "other"
     },
     {
-      "title": "La concentración motera de Arguis, nueva actividad de interés turístico regional",
+      "title": "La concentración motera de Arguis, nueva actividad de interés turístico en Aragón",
       "link": "https://www.abc.es/espana/aragon/reunion-invernal-arguis-actividad-interes-turistico-regional-20260728205228-nt.html",
       "desc": "El Boletín Oficial de Aragón (BOA) recoge este martes 28 de julio la declaración de la Reunión Invernal de Arguis como Actividad de Interés Turístico de la comunidad. Este reconocimiento institucional responde a la propuesta de la Dirección General de Turismo ",
       "date": "Tue, 28 Jul 2026 20:52:28 +0200",
@@ -85,8 +185,18 @@
     {
       "title": "El Gobierno indulta parcialmente a Laura Borràs y le rebaja la pena a dos años de cárcel",
       "link": "https://www.lavanguardia.com/politica/20260728/11603159/gobierno-indulta-parcialmente-laura-borras-le-rebaja-pena-dos-anos-carcel.html",
-      "desc": "El resto de la pena, es decir la multa e inhabilitación de 4 años y 1 día se mantiene poara la expresidenta del Parlament",
+      "desc": "El resto de la pena, es decir la multa e inhabilitación de nueve años y 1 día, se mantiene para la expresidenta del Parlament",
       "date": "28 Jul 2026 20:09:53 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
+    {
+      "title": "Un Netanyahu en apuros trata de convencer a Trump para que mantenga su ofensiva en Irán",
+      "link": "https://www.lavanguardia.com/internacional/20260728/11603156/netanyahu-apuros-trata-convencer-trump-mantenga-ofensiva-iran.html",
+      "desc": "El líder estadounidense acusa al primer ministro israelí de presionar para que “siga involucrado” en la guerra con informaciones sobre el programa nuclear iraní",
+      "date": "28 Jul 2026 20:07:43 +0200",
       "source": "La Vanguardia",
       "color": "#8e44ad",
       "feedId": "LaVanguardia",
@@ -130,116 +240,6 @@
       "source": "ABC",
       "color": "#c0392b",
       "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Vox pide 5 años de residencia legal para recibir ayudas en partos y adopciones múltiples",
-      "link": "https://www.abc.es/espana/aragon/vox-introduce-residencia-legal-requisito-aragon-ayudas-20260728194742-nt.html",
-      "desc": "El Boletín Oficial de Aragón (BOA) ha publicado este martes la orden por la que se establecen las bases reguladoras para la concesión de subvenciones en materia de partos o adopciones múltiples. El vicepresidente y consejero de Desregulación, Bienestar Social ",
-      "date": "Tue, 28 Jul 2026 19:47:43 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Manzaneque revive el siglo XIV con una nueva edición de 'Manzanech Medieval' del 31 de julio al 2 de agosto",
-      "link": "https://www.abc.es/espana/castilla-la-mancha/toledo/manzaneque-revive-siglo-xiv-nueva-edicion-manzanech-20260728194128-nt.html",
-      "desc": "Manzaneque volverá a transformarse en una villa del siglo XIV con una nueva edición de 'Manzanech Medieval', que se celebrará del 31 de julio al 2 de agosto con un amplio programa de actividades culturales, teatrales y gastronómicas. La iniciativa, impulsada p",
-      "date": "Tue, 28 Jul 2026 19:41:28 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Cuatro años de cárcel y 330.000 euros de indemnización por intentar matar a su exmarido en Carballo",
-      "link": "https://www.abc.es/espana/galicia/cuatro-anos-carcel-330000-euros-indemnizacion-intentar-20260728193738-nt.html",
-      "desc": "La Audiencia Provincial de La Coruña ha condenado a cuatro años de prisión a una vecina de Carballo que intentó matar a su exmarido en octubre de 2022 . La sentencia le impone además el pago de una indemnización que roza los 330.000 euros para reparar los daño",
-      "date": "Tue, 28 Jul 2026 19:37:39 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "La 'Santa' de Asorey, pieza fundamental del patrimonio gallego, vuelve para quedarse",
-      "link": "https://www.abc.es/espana/galicia/santa-asorey-pieza-fundamental-patrimonio-gallego-vuelve-20260728193709-nt.html",
-      "desc": "El Museo Gaiás, de la Cidade da Cultura, ha acogido este martes el acto de recepción de la obra 'Santa', creada hace 100 años por el escultor gallego Francisco Asorey y que permanecía en Uruguay. 'Santa' ha vuelto para quedarse. La escultura, que representa a ",
-      "date": "Tue, 28 Jul 2026 19:37:10 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Muere por paro cardíaco mientras la atendía un SAMU sin médico en Villena",
-      "link": "https://www.abc.es/espana/comunidad-valenciana/alicante/muere-paro-cardiaco-atendia-samu-medico-villena-20260728193704-nt.html",
-      "desc": "Una mujer de Beneixama (Alicante) murió hace unos días por un paro cardiaco mientras era atendida por sanitarios de una unidad del Servicio de Ayuda Médica Urgente (SAMU) procedente de Villena «que no contaba con médico en su dotación». Así lo han indicado est",
-      "date": "Tue, 28 Jul 2026 19:37:05 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Núñez pide ampliar la Directiva Marco del Agua para evitar el cierre del 70% de los pozos de la región",
-      "link": "https://www.abc.es/espana/castilla-la-mancha/nunez-pide-ampliar-directiva-marco-agua-evitar-20260728192826-nt.html",
-      "desc": "El presidente del Partido Popular de Castilla-La Mancha, Paco Núñez, ha reclamado la ampliación del plazo de aplicación de la Directiva Marco del Agua hasta el año 2031 para evitar que miles de agricultores de la región se enfrenten al cierre de sus pozos y pa",
-      "date": "Tue, 28 Jul 2026 19:28:27 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "El milagro de Aldea del Fresno: «El pueblo es prácticamente bosque, pero las casas se han salvado»",
-      "link": "https://www.abc.es/espana/madrid/milagro-aldea-fresno-20260728192003-nt.html",
-      "desc": "A las puertas del polideportivo de Villamanta esperan tres autobuses pacientemente a que aquellos vecinos de Aldea del Fresno que no disponen de vehículo propio recojan sus pocas pertenencias y se despidan de la gente que los acompañó durante casi una semana .",
-      "date": "Tue, 28 Jul 2026 19:28:19 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Varios pueblos evacuados y confinados por un nuevo incendio nivel 2 en la provincia de León",
-      "link": "https://www.abc.es/espana/castilla-leon/varios-pueblos-evacuados-confinados-nuevo-incendio-nivel-20260728192317-nt.html",
-      "desc": "Otra vez el humo, las llamas... y el fuego que se propaga a gran velocidad avivado también por la altas temperaturas y un viento que no da tregua, con abundante masa forestal que sirve de combustible. El fuego volvía a poner este martes en alerta a la provinci",
-      "date": "Tue, 28 Jul 2026 19:23:17 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "58.000 vecinos regresan a sus casas o se desconfinan en Madrid y Ávila por la tregua del fuego",
-      "link": "https://www.lavanguardia.com/vida/20260728/11603127/lucha-fuego-avanza-48-000-vecinos-regresan-casas-salir.html",
-      "desc": "Interior deja entrar en 13 pueblos de Madrid y Ávila y desconfina seis municipios&nbsp;",
-      "date": "28 Jul 2026 18:57:23 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "Laporta no irá al stage del Barça tras superar una arritmia",
-      "link": "https://www.lavanguardia.com/deportes/fc-barcelona/20260728/11603049/laporta-ira-stage-barca-superar-arritmia.html",
-      "desc": "El presidente ha desvelado su problema de salud en una publicación de Instagram",
-      "date": "28 Jul 2026 18:41:43 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "El incendio de Castellón continúa “muy activo” y se teme por los rebrotes",
-      "link": "https://www.lavanguardia.com/local/valencia/20260728/11603111/incendio-castellon-continua-activo-teme-rebrotes.html",
-      "desc": "La orografía del terreno es “muy complicada” y “las condiciones meteorológicas tampoco están ayudando”",
-      "date": "28 Jul 2026 18:24:42 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
       "caso": "other"
     }
   ]
