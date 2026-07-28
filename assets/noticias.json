@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-28T21:03:04Z",
+  "updated": "2026-07-28T22:54:26Z",
   "count": 24,
   "items": [
     {
@@ -10,6 +10,16 @@
       "source": "ABC",
       "color": "#c0392b",
       "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Emoción en la vuelta a casa tras el incendio",
+      "link": "https://www.lavanguardia.com/vida/20260728/11603179/emocion-vuelta-casa-incendio.html",
+      "desc": "Los vecinos de los dieciocho municipios descubren con dolor los destrozos causados por las llamas&nbsp;&nbsp;en viviendas, vehículos y en el entorno natural",
+      "date": "28 Jul 2026 22:18:03 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
       "caso": "other"
     },
     {
@@ -93,9 +103,9 @@
       "caso": "other"
     },
     {
-      "title": "Asesinada una mujer a manos de su pareja ante sus dos hijos menores en Barcelona",
+      "title": "Mata a su mujer ante sus dos hijos de cuatro y ocho años en Barcelona",
       "link": "https://www.lavanguardia.com/vida/20260728/11603175/asesinada-mujer-manos-pareja-dos-hijos-barcelona.html",
-      "desc": "El presunto autor ha huido y continúa en paradero desconocido",
+      "desc": "De confirmarse este caso como un asesinato machista, serían 32 mujeres las víctimas mortales de la violencia de género en lo que va de año",
       "date": "28 Jul 2026 21:16:16 +0200",
       "source": "La Vanguardia",
       "color": "#8e44ad",
@@ -187,16 +197,6 @@
       "link": "https://www.lavanguardia.com/politica/20260728/11603159/gobierno-indulta-parcialmente-laura-borras-le-rebaja-pena-dos-anos-carcel.html",
       "desc": "El resto de la pena, es decir la multa e inhabilitación de nueve años y 1 día, se mantiene para la expresidenta del Parlament",
       "date": "28 Jul 2026 20:09:53 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "Un Netanyahu en apuros trata de convencer a Trump para que mantenga su ofensiva en Irán",
-      "link": "https://www.lavanguardia.com/internacional/20260728/11603156/netanyahu-apuros-trata-convencer-trump-mantenga-ofensiva-iran.html",
-      "desc": "El líder estadounidense acusa al primer ministro israelí de presionar para que “siga involucrado” en la guerra con informaciones sobre el programa nuclear iraní",
-      "date": "28 Jul 2026 20:07:43 +0200",
       "source": "La Vanguardia",
       "color": "#8e44ad",
       "feedId": "LaVanguardia",
