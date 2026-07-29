@@ -1,7 +1,167 @@
 {
-  "updated": "2026-07-29T02:06:42Z",
+  "updated": "2026-07-29T06:26:52Z",
   "count": 24,
   "items": [
+    {
+      "title": "«Cogimos a los mayores en brazos como si fueran niños»: la noche en la que Pelahustán creyó perderlo todo",
+      "link": "https://www.abc.es/espana/castilla-la-mancha/toledo/pueblos/cogimos-brazos-ninos-noche-pelahustan-creyo-perdia-20260728080516-nt.html",
+      "desc": "A Roberto García, alcalde de Pelahustán , todavía se le quiebra la voz cuando recuerda la noche del pasado sábado, día de Santiago Apóstol, en la que tuvo que desalojar a todo su pueblo, la mayoría personas de avanzada edad, ante la amenaza del incendio de Bur",
+      "date": "Wed, 29 Jul 2026 08:05:16 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Los Mossos detienen al hombre que mató a su mujer en Barcelona y se dio a la fuga",
+      "link": "https://www.abc.es/espana/cataluna/mossos-detienen-hombre-mato-mujer-barcelona-dio-20260729074738-nt.html",
+      "desc": "Los Mossos d'Esquadra han detenido este miércoles sobre las 1.25 horas a un hombre por su presunta relación con la muerte violenta de una mujer en el distrito de Sant Martí de Barcelona este martes, ha informado la policía catalana en un mensaje en X. El cuerp",
+      "date": "Wed, 29 Jul 2026 07:47:38 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Tres vecinas de Almería cobrarán 150.000 euros por la pasividad municipal ante el «ruido insoportable» de las terrazas",
+      "link": "https://www.abc.es/espana/andalucia/almeria/ayuntamiento-almeria-indemnizara-150000-euros-tres-vecinas-20260729071622-nts.html",
+      "desc": "Noches sin dormir, ventanas selladas a cal y canto y un murmullo incesante de copas, música y conversaciones atravesando las paredes de su propio domicilio. Así estuvieron tres vecinas del centro histórico de Almería durante 14 interminables años , nada menos ",
+      "date": "Wed, 29 Jul 2026 07:16:22 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Las muertes por el calor se triplican en Andalucía respecto a julio del año pasado y llegan a 241",
+      "link": "https://www.abc.es/espana/andalucia/muertes-relacionadas-calor-triplican-respecto-julio-ano-20260729140707-nts.html",
+      "desc": "Andalucía anota ya 241 fallecidos durante este mes de julio que está a punto de terminar a causa de las altas temperaturas, el triple de las 83 personas que perecieron el pasado año durante el mismo periodo por similar causa. Este dato se conoce coincidiendo c",
+      "date": "Wed, 29 Jul 2026 07:08:23 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "La reclamación de IU a las cuentas de la EMV de Toledo llega a la Comisión con dos informes en contra",
+      "link": "https://www.abc.es/espana/castilla-la-mancha/toledo/reclamacion-iu-cuentas-emv-toledo-llega-comision-20260729060019-nt.html",
+      "desc": "La Comisión Especial de Cuentas del Ayuntamiento de Toledo examinará hoy miércoles la única reclamación presentada durante el periodo de exposición pública de la Cuenta General de 2025. La alegación, registrada por Izquierda Unida, se dirige contra las cuentas",
+      "date": "Wed, 29 Jul 2026 06:00:19 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "El pueblo de 14.000 habitantes que se convierte en la capital mundial del arpa",
+      "link": "https://www.abc.es/espana/galicia/pueblo-14000-habitantes-convierte-capital-mundial-arpa-20260728060016-nt.html",
+      "desc": "Apenas 14.000 personas viven en Noia, la villa marinera de La Coruña que cada verano se transforma, durante cuatro días, en la capital mundial del arpa. Del 29 de julio al 1 de agosto de 2026 , la 13ª edición del Noia Harp Fest reunirá en distintos escenarios ",
+      "date": "Wed, 29 Jul 2026 06:00:16 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Situación de alerta máxima pese a que se ha logrado contener el peor incendio de la historia de España",
+      "link": "https://www.lavanguardia.com/vida/20260729/11603372/incendio-forestal-comunidad-madrid-toledo-avila-emergencia-nacional-evacuados-carreteras-cortadas-ultima-hora-hoy-en-directo.html",
+      "desc": "Protección Civil pide precaución ante la “tormenta perfecta” para los incendios con la nueva ola de calor",
+      "date": "29 Jul 2026 06:00:01 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
+    {
+      "title": "Sánchez insta a Feijóo a desmarcarse de Vox y sumarse al pacto climático",
+      "link": "https://www.lavanguardia.com/politica/20260729/11603176/sanchez-insta-feijoo-desmarcarse-vox-sumarse-pacto-climatico.html",
+      "desc": "“El negacionismo es el peor combustible para los incendios”, alerta el presidente",
+      "date": "29 Jul 2026 06:00:00 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
+    {
+      "title": "Sánchez halla otra liana",
+      "link": "https://www.lavanguardia.com/opinion/20260729/11603191/sanchez-halla-liana.html",
+      "desc": "El líder del PSOE ve una oportunidad de erosionar al PP con el negacionismo climático",
+      "date": "29 Jul 2026 06:00:00 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
+    {
+      "title": "Josep Vilarasau, el arquitecto de La Caixa",
+      "link": "https://www.lavanguardia.com/economia/20260729/11603158/arquitecto-caixa.html",
+      "desc": "",
+      "date": "29 Jul 2026 06:00:00 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
+    {
+      "title": "Cuatro meses de juicio de la Kitchen ¿se sabrá toda la verdad?",
+      "link": "https://www.lavanguardia.com/politica/20260729/11603162/visto-sentencia-juicio-kitchen-cuatro-meses-vista.html",
+      "desc": "El chófer del extesorero del PP Luis Bárcenas pide “clemencia” al tribunal",
+      "date": "29 Jul 2026 06:00:00 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
+    {
+      "title": "‘Dark Horse’: los turbios planes de los hermanos Bolsonaro para una película ‘made in USA’",
+      "link": "https://www.lavanguardia.com/internacional/20260729/11600651/dark-horse-turbios-planes-hermanos-bolsonaro-pelicula-made-in.html",
+      "desc": "Los escándalos amenazan la candidatura de Flávio Bolsonaro, hijo del expresidente ultraconservador",
+      "date": "29 Jul 2026 06:00:00 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
+    {
+      "title": "El streaming aún necesita a los cines",
+      "link": "https://www.lavanguardia.com/cultura/20260729/11597850/streaming-aun-necesita-cines.html",
+      "desc": "Hollywood recupera la ventana mínima de 45 días exclusivos en pantalla grande y abre el debate sobre el futuro de la relación entre salas y plataformas",
+      "date": "29 Jul 2026 06:00:00 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
+    {
+      "title": "El futuro según Elon Musk",
+      "link": "https://www.lavanguardia.com/tecnologia/20260729/11602804/elon-musk-space-x-ia-inteligencia-artificial.html",
+      "desc": "El hombre más rico del mundo vaticina que la IA convertirá el trabajo en algo opcional y el dinero, en irrelevante",
+      "date": "29 Jul 2026 06:00:00 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
+    {
+      "title": "Illa, tras el aplazamiento del Consejo de Política Fiscal: “Menos excusas y más responsabilidad”",
+      "link": "https://www.lavanguardia.com/politica/20260729/11603370/illa-decision-aplazar-consejo-politica-fiscal-excusas-mas-responsabilidad.html",
+      "desc": "El president ve “acertada” la apuesta&nbsp; por el diálogo, pero advierte de que se acaba el tiempo de los pretextos",
+      "date": "29 Jul 2026 04:51:55 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
+    {
+      "title": "Más y mejor agricultura para salvar el planeta",
+      "link": "https://www.lavanguardia.com/dinero/20260729/11601130/mas-mejor-agricultura-salvar-planeta.html",
+      "desc": "La regeneración de suelos frena la desertificación, mientras que el pastoreo reduce el riesgo de incendio",
+      "date": "29 Jul 2026 02:00:00 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
     {
       "title": "Ceuta colapsa con una avalancha de jóvenes cruzando a nado y con una lancha de la Guardia Civil inoperativa",
       "link": "https://www.abc.es/espana/espana-marruecos-colapsan-ceuta-mil-nadadores-varios-20260729014835-nt.html",
@@ -77,166 +237,6 @@
       "link": "https://www.abc.es/espana/sanchez-abre-precampana-moncloa-balance-triunfalista-mandato-20260729013540-nt.html",
       "desc": "Pedro Sánchez puso este martes el broche al curso político con un discurso que más bien parecía de apertura de campaña que de cierre por vacaciones. Una rendición de cuentas —el informe semestral 'Cumpliendo'— convertida en balance del mandato y que sigue cald",
       "date": "Wed, 29 Jul 2026 01:35:40 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Andrés Barrios: «Que me llamen «el Paco de Lucía» del piano es un favor y un lío a la vez»",
-      "link": "https://www.abc.es/espana/madrid/andres-barrios-llamen-paco-lucia-piano-favor-20260726011312-nt.html",
-      "desc": "Tras debutar en 2016, el «Paco de Lucía del piano», como lo define su mentor Miguel Ángel Arenas 'El Capi', Andrés Barrios ha pasado todo un decenio acumulando los premios más prestigiosos del flamenco y actuando en las salas y auditorios más icónicos del mund",
-      "date": "Wed, 29 Jul 2026 01:13:12 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Verdad con insolación",
-      "link": "https://www.abc.es/espana/madrid/angel-antonio-herrera-verdad-insolacion-20260728011302-nt.html",
-      "desc": "Madrid aparece lleno de gente, alcalde, y, sin embargo, rebosante de nadie. Es la ciudad, ya, un gentío deshabitado, un bullicio que bosteza. Hay coches, pero no hay prisa. Hay terrazas, pero casi no hay ciudad. Todo parece una postal donde el fotógrafo hubier",
-      "date": "Wed, 29 Jul 2026 01:13:02 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Volver a empezar: entre el dolor y la esperanza en el regreso a casa tras la amenaza del fuego",
-      "link": "https://www.lavanguardia.com/vida/20260729/11603365/dolor-regreso-casa-volver-empezar.html",
-      "desc": "Interior deja entrar en 13 pueblos de Madrid y Ávila y desconfina seis municipios&nbsp;",
-      "date": "29 Jul 2026 00:33:26 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "Seis intoxicados por inhalar gas cloro en la piscina de un pueblo de Valladolid",
-      "link": "https://www.abc.es/espana/castilla-leon/seis-intoxicados-inhalar-gascloro-piscina-pueblo-valladolid-20260728224427-nt.html",
-      "desc": "Seis personas, cinco de ellas niños, tenían que ser atendidas en la tarde de este martes tras sufrir al parecer una intoxicación por gas cloro mientras estaban en las piscinas municipales de Castrillo-Tejeriego . El incidente se registraba en torno a las 18.40",
-      "date": "Tue, 28 Jul 2026 22:48:16 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Emoción en la vuelta a casa tras el incendio",
-      "link": "https://www.lavanguardia.com/vida/20260728/11603179/emocion-vuelta-casa-incendio.html",
-      "desc": "Los vecinos de los dieciocho municipios descubren con dolor los destrozos causados por las llamas&nbsp;&nbsp;en viviendas, vehículos y en el entorno natural",
-      "date": "28 Jul 2026 22:18:03 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "Una persona herida de bala en un tiroteo en una playa de Estepona",
-      "link": "https://www.abc.es/espana/andalucia/malaga/persona-herida-bala-tiroteo-estepona-malaga-20260728212908-nts.html",
-      "desc": "Una persona ha resultado herida este martes en un tiroteo que ha tenido lugar cerca de una playa de la localidad malagueña de Estepona , según han podido confirmar los servicios sanitarios del 112 después de haber trasladado al herido. En torno a las 17.30 hor",
-      "date": "Tue, 28 Jul 2026 21:58:38 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Un hombre mata a su mujer en Barcelona delante de sus hijos",
-      "link": "https://www.abc.es/espana/cataluna/hombre-mata-mujer-barcelona-delante-hijos-20260728213923-nt.html",
-      "desc": "Un hombre ha matado a su mujer a puñaladas este martes , 28 de julio, delante de los hijos menores de la pareja, en una vivienda de la calle Andrade de Barcelona , en el distrito de Sant Martí. La víctima, de origen sudamericano, tenía 34 años. Tras ello, el i",
-      "date": "Tue, 28 Jul 2026 21:39:23 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "El Gobierno indulta de forma parcial al ex alcalde de Linares",
-      "link": "https://www.abc.es/espana/andalucia/jaen/gobierno-indulta-forma-parcial-alcalde-linares-20260728213824-nts.html",
-      "desc": "El Gobierno ha acordado indultar de forma parcial al exalcalde socialista de Linares, Juan Fernández . Con esta decisión, se conmuta la pena de prisión de tres años por otra de dos años por malversación de caudales públicos , aunque se mantiene la pena de inha",
-      "date": "Tue, 28 Jul 2026 21:38:24 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "El Tribunal de Cuentas ve falta de control interno en retribuciones y conflictos de intereses en los concejales de Córdoba",
-      "link": "https://www.abc.es/espana/andalucia/cordoba/tribunal-cuentas-falta-control-interno-retribuciones-conflictos-20260728213823-nts.html",
-      "desc": "El Pleno del Tribunal de Cuentas ha advertido de la existencia de «significativas carencias de control interno» en la gestión de las retribuciones de los miembros de los gobiernos locales de seis grandes ayuntamientos españoles, señalando la necesidad de refor",
-      "date": "Tue, 28 Jul 2026 21:38:23 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Primeros realojos mientras sigue la lucha contra el incendio de Ávila: «Te quedas para salvar lo que a la gente de tu alrededor les da la vida»",
-      "link": "https://www.abc.es/espana/castilla-leon/primeros-realojos-sigue-lucha-incendio-avila-quedas-20260728212458-nt.html",
-      "desc": "Las llamas aún siguen activas, con puntos en los que se resisten a apagarse, otros en los que se reavivan, pero también con zonas en las que lo que ya queda es el rastro de cenizas dejado por el destructor poder del fuego . Y mientras, a cuentagotas, el alivio",
-      "date": "Tue, 28 Jul 2026 21:24:58 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "El incendio de Almorox baja a nivel 1 tras seis días y 270 hectáreas calcinadas en Toledo",
-      "link": "https://www.abc.es/espana/castilla-la-mancha/toledo/pueblos/incendio-almorox-baja-nivel-tras-seis-dias-20260728212400-nt.html",
-      "desc": "El incendio forestal de Almorox ha descendido este martes del nivel 2 al 1 seis días después de declararse y tras calcinar unas 270 hectáreas en la provincia de Toledo. Con esta desescalada, Castilla-La Mancha deja de tener incendios activos en nivel 2 de peli",
-      "date": "Tue, 28 Jul 2026 21:24:01 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Muere la zaragozana Yolanda Marchite, la sonrisa eterna contra la ELA",
-      "link": "https://www.abc.es/espana/aragon/muere-yolanda-marchite-diagnosticada-ela-tras-parto-20260728212205-nt.html",
-      "desc": "Yolanda Marchite, la aragonesa que sufría ELA (Esclerosis Lateral Amiotrófica) y una de las voces más reivindicativas en la lucha contra la enfermedad en esta comunidad, falleció a los 52 años. Desde el perfil de la asociación aragonesa de la enfermedad Araela",
-      "date": "Tue, 28 Jul 2026 21:22:05 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Trump despide junto a Zelenski y Netanyahu al senador Graham, el “amigo” de Ucrania e Israel",
-      "link": "https://www.lavanguardia.com/internacional/20260728/11603177/trump-despide-zelenski-netanyahu-senador-graham-amigo-ucrania-e-israel.html",
-      "desc": "El presidente recuerda en el funeral del republicano su espíritu belicista: “Os lo aseguro, nunca vio una guerra que no le gustara”",
-      "date": "28 Jul 2026 21:20:57 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "Mata a su mujer ante sus dos hijos de cuatro y ocho años en Barcelona",
-      "link": "https://www.lavanguardia.com/vida/20260728/11603175/asesinada-mujer-manos-pareja-dos-hijos-barcelona.html",
-      "desc": "De confirmarse este caso como un asesinato machista, serían 32 mujeres las víctimas mortales de la violencia de género en lo que va de año",
-      "date": "28 Jul 2026 21:16:16 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "CaixaBank activa ayudas y financiación especial para los afectados por los incendios",
-      "link": "https://www.abc.es/espana/castilla-la-mancha/caixabank-activa-ayudas-financiacion-especial-afectados-incendios-20260728205736-nt.html",
-      "desc": "CaixaBank ha puesto en marcha un plan extraordinario de ayudas para apoyar a las personas, empresas y explotaciones afectadas por los incendios forestales que durante las últimas semanas han castigado distintas zonas de España, entre ellas la Sierra Norte de G",
-      "date": "Tue, 28 Jul 2026 20:57:37 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "La concentración motera de Arguis, nueva actividad de interés turístico en Aragón",
-      "link": "https://www.abc.es/espana/aragon/reunion-invernal-arguis-actividad-interes-turistico-regional-20260728205228-nt.html",
-      "desc": "El Boletín Oficial de Aragón (BOA) recoge este martes 28 de julio la declaración de la Reunión Invernal de Arguis como Actividad de Interés Turístico de la comunidad. Este reconocimiento institucional responde a la propuesta de la Dirección General de Turismo ",
-      "date": "Tue, 28 Jul 2026 20:52:28 +0200",
       "source": "ABC",
       "color": "#c0392b",
       "feedId": "ABC",
