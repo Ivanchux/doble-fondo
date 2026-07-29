@@ -1,7 +1,117 @@
 {
-  "updated": "2026-07-28T22:54:26Z",
+  "updated": "2026-07-29T02:06:42Z",
   "count": 24,
   "items": [
+    {
+      "title": "Ceuta colapsa con una avalancha de jóvenes cruzando a nado y con una lancha de la Guardia Civil inoperativa",
+      "link": "https://www.abc.es/espana/espana-marruecos-colapsan-ceuta-mil-nadadores-varios-20260729014835-nt.html",
+      "desc": "La Guardia Civil y las autoridades marroquíes están desbordadas para intentar frenar el aluvión de nadadores que cada día intentan cruzar la frontera y acceder a España por Ceuta . Una sentencia del Tribunal Supremo ha prohibido rechazar en frontera a los inmi",
+      "date": "Wed, 29 Jul 2026 01:48:35 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "La lucha judicial de un argelino abre la puerta a los nadadores que pasan de Marruecos a Ceuta",
+      "link": "https://www.abc.es/espana/argelino-abre-puerta-nadadores-viajan-marruecos-ceuta-20260729014829-nt.html",
+      "desc": "Un argelino ha sido el inmigrante que ha conseguido frenar las conocidas como «devoluciones en caliente» en el mar. Este hombre fue entregado a las autoridades de Marruecos cuando intentaba acceder a Ceuta y su lucha en los tribunales ha sentado un peligroso p",
+      "date": "Wed, 29 Jul 2026 01:48:29 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "El Gobierno elude el debate a alto nivel con las autonomías sobre prevención de incendios desde 2022",
+      "link": "https://www.abc.es/espana/gobierno-convoca-autonomias-hablar-prevencion-incendios-julio-20260728013947-nt.html",
+      "desc": "La última vez que el Gobierno convocó a las comunidades autónomas en una Conferencia Sectorial para hablar específicamente de la prevención de incendios fue el 28 de julio de 2022 . Entonces, todavía era vicepresidenta tercera del Gobierno y ministra para la T",
+      "date": "Wed, 29 Jul 2026 01:39:47 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Patrullas vecinales del riego y un 'Gran Hermano' de las llamas para controlar el incendio en urbanizaciones del pantano",
+      "link": "https://www.abc.es/espana/madrid/patrullas-vecinales-riego-gran-hermano-llamas-controlar-20260727013910-nt.html",
+      "desc": "El oro se prueba en el fuego y el hombre en la adversidad. Si algo ha quedado constatado en el incendio que aún arrasa el entorno urbanita del pantano de San Juan es que la red vecinal ha sido la esencia del apaciguamiento. Pues a las labores incansables de lo",
+      "date": "Wed, 29 Jul 2026 01:39:10 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Confinados en la gran 'cárcel' del fuego: «Vivíamos con la maleta en la puerta por si nos evacuaban»",
+      "link": "https://www.abc.es/espana/madrid/confinados-gran-carcel-fuego-vivimos-miedo-llamas-20260728013852-nt.html",
+      "desc": "Cuatro pueblos, algo más de 20.000 habitantes y una mochila llena de miedos a la espalda. El confinamiento de Villa del Prado, San Martín de Valdeiglesias, Pelayos de la Presa y Santa María de la Alameda, finiquitado en dos tandas a lo largo de la tarde de aye",
+      "date": "Wed, 29 Jul 2026 01:38:52 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "El ganadero de Valdemaqueda que no quiere abandonar a sus 500 cabras: «No tengo miedo, hay que cuidarlas»",
+      "link": "https://www.abc.es/espana/madrid/ganadero-valdemaqueda-quiere-abandonar-500-cabras-miedo-20260728013823-nt.html",
+      "desc": "El inicio de la semana fue demasiado duro en Valdemaqueda. El pueblo pasó del confinamiento a la evacuación por los incendios que azotan la Sierra Oeste. La vida de Alfredo, sin embargo, no ha cambiado demasiado. Durante el confinamiento, relata, él seguía sal",
+      "date": "Wed, 29 Jul 2026 01:38:23 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "El PSOE trata de encapsular la 'cloaca' de Leire Díez en Santos Cerdán",
+      "link": "https://www.abc.es/espana/psoe-trata-encapsular-cloaca-leire-diez-santos-20260729013555-nt.html",
+      "desc": "La investigación sobre la 'cloaca' del PSOE sigue avanzando con la testifical de dos trabajadoras de Ferraz , que desfilaron este martes ante el juez Santiago Pedraz en la Audiencia Nacional. Celia Rodríguez y Covadonga San Pedro explicaron, según trasladan fu",
+      "date": "Wed, 29 Jul 2026 01:35:55 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "lei"
+    },
+    {
+      "title": "Sánchez abre la precampaña desde la Moncloa con un balance triunfalista de su mandato",
+      "link": "https://www.abc.es/espana/sanchez-abre-precampana-moncloa-balance-triunfalista-mandato-20260729013540-nt.html",
+      "desc": "Pedro Sánchez puso este martes el broche al curso político con un discurso que más bien parecía de apertura de campaña que de cierre por vacaciones. Una rendición de cuentas —el informe semestral 'Cumpliendo'— convertida en balance del mandato y que sigue cald",
+      "date": "Wed, 29 Jul 2026 01:35:40 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Andrés Barrios: «Que me llamen «el Paco de Lucía» del piano es un favor y un lío a la vez»",
+      "link": "https://www.abc.es/espana/madrid/andres-barrios-llamen-paco-lucia-piano-favor-20260726011312-nt.html",
+      "desc": "Tras debutar en 2016, el «Paco de Lucía del piano», como lo define su mentor Miguel Ángel Arenas 'El Capi', Andrés Barrios ha pasado todo un decenio acumulando los premios más prestigiosos del flamenco y actuando en las salas y auditorios más icónicos del mund",
+      "date": "Wed, 29 Jul 2026 01:13:12 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Verdad con insolación",
+      "link": "https://www.abc.es/espana/madrid/angel-antonio-herrera-verdad-insolacion-20260728011302-nt.html",
+      "desc": "Madrid aparece lleno de gente, alcalde, y, sin embargo, rebosante de nadie. Es la ciudad, ya, un gentío deshabitado, un bullicio que bosteza. Hay coches, pero no hay prisa. Hay terrazas, pero casi no hay ciudad. Todo parece una postal donde el fotógrafo hubier",
+      "date": "Wed, 29 Jul 2026 01:13:02 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Volver a empezar: entre el dolor y la esperanza en el regreso a casa tras la amenaza del fuego",
+      "link": "https://www.lavanguardia.com/vida/20260729/11603365/dolor-regreso-casa-volver-empezar.html",
+      "desc": "Interior deja entrar en 13 pueblos de Madrid y Ávila y desconfina seis municipios&nbsp;",
+      "date": "29 Jul 2026 00:33:26 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
     {
       "title": "Seis intoxicados por inhalar gas cloro en la piscina de un pueblo de Valladolid",
       "link": "https://www.abc.es/espana/castilla-leon/seis-intoxicados-inhalar-gascloro-piscina-pueblo-valladolid-20260728224427-nt.html",
@@ -35,7 +145,7 @@
     {
       "title": "Un hombre mata a su mujer en Barcelona delante de sus hijos",
       "link": "https://www.abc.es/espana/cataluna/hombre-mata-mujer-barcelona-delante-hijos-20260728213923-nt.html",
-      "desc": "Un hombre ha matado a su mujer a puñaladas este martes , 28 de julio, delante de sus hijos en una vivienda de la calle Andrade de Barcelona , en el distrito de Sant Martí. Tras ello, el individuo ha huido en un vehículo . Los Mossos d'Esquadra lo buscan para d",
+      "desc": "Un hombre ha matado a su mujer a puñaladas este martes , 28 de julio, delante de los hijos menores de la pareja, en una vivienda de la calle Andrade de Barcelona , en el distrito de Sant Martí. La víctima, de origen sudamericano, tenía 34 años. Tras ello, el i",
       "date": "Tue, 28 Jul 2026 21:39:23 +0200",
       "source": "ABC",
       "color": "#c0392b",
@@ -127,116 +237,6 @@
       "link": "https://www.abc.es/espana/aragon/reunion-invernal-arguis-actividad-interes-turistico-regional-20260728205228-nt.html",
       "desc": "El Boletín Oficial de Aragón (BOA) recoge este martes 28 de julio la declaración de la Reunión Invernal de Arguis como Actividad de Interés Turístico de la comunidad. Este reconocimiento institucional responde a la propuesta de la Dirección General de Turismo ",
       "date": "Tue, 28 Jul 2026 20:52:28 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "El Córdoba CF sigue la pista a Bouare pese a su deseo de seguir en el Betis",
-      "link": "https://www.abc.es/espana/andalucia/cordoba/cordoba-cf/cordoba-pierde-vista-bouare-pese-deseo-seguir-20260728203615-nts.html",
-      "desc": "El mercado continúa avanzando y el Córdoba CF mantiene abiertos varios frentes para terminar de perfilar su plantilla. Uno de los nombres que ha regresado con fuerza a la órbita blanquiverde es el de Gnangoro Bouare , joven centrocampista del Betis Deportivo p",
-      "date": "Tue, 28 Jul 2026 20:36:16 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Un trabajador de 29 años, herido tras caer desde un andamio en El Casar (Guadalajara)",
-      "link": "https://www.abc.es/espana/castilla-la-mancha/trabajador-anos-herido-tras-caer-andamio-casar-20260728202729-nt.html",
-      "desc": "Nuevo accidente laboral en Castilla-La Mancha. Un joven de 29 años de edad ha resultado herido tras sufrir una caída en altura mientras trabajaba en la urbanización 'El Coto' de El Casar (Guadalajara). Fuentes del Servicio de Atención y Coordinación de Urgenci",
-      "date": "Tue, 28 Jul 2026 20:27:30 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Los malabares de Vaquero: respeta la medida de los menas de Nolasco si se ajusta a la legalidad",
-      "link": "https://www.abc.es/espana/aragon/malabares-vaquero-apoya-rechaza-medida-menas-nolasco-20260728191231-nt.html",
-      "desc": "Pasaban pocos minutos de las 10.30 horas de la mañana. De los 36 minutos que ha durado la comparecencia ante la Prensa de la vicepresidenta segunda de Aragón, Mar Vaquero, con el objeto de explicar a los medios las alegaciones que ha presentado el Ejecutivo au",
-      "date": "Tue, 28 Jul 2026 20:25:25 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "El Gobierno indulta parcialmente a Laura Borràs, ex presidenta del Parlament y dirigente de Junts",
-      "link": "https://www.abc.es/espana/gobierno-indulta-expresidenta-parlamento-cataluna-laura-borras-20260728201721-nt.html",
-      "desc": "El Gobierno ha concedido este martes un indulto parcial a la expresidenta del Parlamento de Cataluña Laura Borràs (Junts) y ha conmutado su condena de cuatro años, seis meses y un día de prisión por otra de dos años. La decisión sigue el criterio planteado por",
-      "date": "Tue, 28 Jul 2026 20:17:21 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Chapinería y Navas del Rey lloran por su tierra abrasada por las llamas: «¿Quién va a querer volver a un pueblo quemado?»",
-      "link": "https://www.abc.es/espana/madrid/chapineria-navas-rey-lloran-tierra-quemada-querer-20260728201200-nt.html",
-      "desc": "La carretera delata lo que el pueblo cuenta. El camino a Navas del Rey huele a quemado y el campo se torna negro por momentos. Los coches vuelven porque la tarde de este martes se ha decretado que pueden regresar a sus casas quienes tuvieron que marcharse por ",
-      "date": "Tue, 28 Jul 2026 20:12:01 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "El Ayuntamiento de Moguer abre un expediente sobre la agresión viral a una menor en este municipio de Huelva",
-      "link": "https://www.abc.es/espana/andalucia/huelva/ayuntamiento-moguer-abre-expediente-investigar-agresion-viral-20260728201145-nts.html",
-      "desc": "El Ayuntamiento de Moguer (Huelva) ha abierto un expediente informativo y de investigación, dentro del marco de sus competencias municipales, a raíz de la agresión física y verbal sufrida por una menor en la localidad a manos de otras cuatro jóvenes. Los hecho",
-      "date": "Tue, 28 Jul 2026 20:11:45 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "El Gobierno indulta parcialmente a Laura Borràs y le rebaja la pena a dos años de cárcel",
-      "link": "https://www.lavanguardia.com/politica/20260728/11603159/gobierno-indulta-parcialmente-laura-borras-le-rebaja-pena-dos-anos-carcel.html",
-      "desc": "El resto de la pena, es decir la multa e inhabilitación de nueve años y 1 día, se mantiene para la expresidenta del Parlament",
-      "date": "28 Jul 2026 20:09:53 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "El TSXG absuelve a una pareja condenada a 5 años de cárcel por abusos a una menor en Caldas",
-      "link": "https://www.abc.es/espana/galicia/tsxg-absuelve-pareja-condenada-anos-carcel-abusos-20260728200149-nt.html",
-      "desc": "La Sala de lo Civil y Penal del Tribunal Superior de Xustiza de Galicia (TSXG) ha absuelto a una madre y a su pareja sentimental , previamente condenados a cinco años de prisión cada uno por un delito continuado de abuso sexual a una menor de 16 años, hija de ",
-      "date": "Tue, 28 Jul 2026 20:01:49 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Las farmacias rurales desafían el humo para llevar medicamentos a vecinos vulnerables: «Muchos viven solos»",
-      "link": "https://www.abc.es/espana/madrid/farmacias-rurales-desafian-humo-llevar-medicamentos-vecinos-20260728195839-nt.html",
-      "desc": "Los incendios asolan el Madrid rural mientras recuerdan al hombre su debilidad frente a las llamas. Entre los afectados, los hay también también vulnerables en salud. Y cuando ambos perjuicios de juntan, poco puede hacer quien padece los dos males, que acostum",
-      "date": "Tue, 28 Jul 2026 19:58:39 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Imputan a un concejal del BNG de Cangas (Pontevedra) por pagar el rescate de un ciberataque al Ayuntamiento",
-      "link": "https://www.abc.es/espana/galicia/imputan-concejal-bng-cangas-pontevedra-pagar-rescate-20260728195438-nt.html",
-      "desc": "La jueza de la Plaza 2 del Tribunal de Instancia de Cangas de Morrazo (Pontevedra) ha llamado a declarar, en calidad de investigado, al actual concejal de Urbanismo, Vivienda y Medio Ambiente, Antón Iglesias (BNG), por el pago del rescate por el ciberataque su",
-      "date": "Tue, 28 Jul 2026 19:54:39 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "La Diputación de Ciudad Real  prevé superar los 100 millones este año en ayudas a los ayuntamientos",
-      "link": "https://www.abc.es/espana/castilla-la-mancha/diputacion-ciudad-real-preve-superar-100-millones-20260728195408-nt.html",
-      "desc": "El presidente de la Diputación de Ciudad Real, Miguel Ángel Valverde, ha anunciado que la institución provincial ha destinado en lo que va de año 84 millones de euros a los ayuntamientos de la provincia y ha avanzado que el objetivo es superar por primera vez ",
-      "date": "Tue, 28 Jul 2026 19:54:09 +0200",
       "source": "ABC",
       "color": "#c0392b",
       "feedId": "ABC",
