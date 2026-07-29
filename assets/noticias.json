@@ -1,7 +1,147 @@
 {
-  "updated": "2026-07-29T15:50:14Z",
+  "updated": "2026-07-29T17:10:12Z",
   "count": 24,
   "items": [
+    {
+      "title": "Ciudad Real moviliza 1,4 millones para vivienda, cultura y deporte y elige a sus cinco Ciudadanos Ejemplares",
+      "link": "https://www.abc.es/espana/castilla-la-mancha/toledo/ciudad-real-moviliza-millones-vivienda-cultura-deporte-20260729185950-nt.html",
+      "desc": "El pleno del Ayuntamiento de Ciudad Real ha aprobado una modificación de crédito de 1,4 millones de euros para impulsar actuaciones en vivienda, deporte, cultura, educación y acción social, en una sesión en la que también ha acordado por unanimidad el nombrami",
+      "date": "Wed, 29 Jul 2026 18:59:51 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Un nuevo incendio de nivel 2 en León  obliga a evacuar a los vecinos de San Cipriano del Condado",
+      "link": "https://www.abc.es/espana/castilla-leon/nuevo-incendio-nivel-leon-obliga-evacuar-vecinos-20260729183748-nt.html",
+      "desc": "La Junta de Castilla y León elevaba a nivel dos del Índice de Gravedad Potencial (IGR) el incendio originado esta tarde en la localidad leonesa de San Cipriano del Condado, en el término municipal de Vegas del Condado, al tiempo que ordenó la evacuación de sus",
+      "date": "Wed, 29 Jul 2026 18:41:53 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "La Diputación de Cuenca crea 50 nuevas plazas de bomberos en Cañete y Priego",
+      "link": "https://www.abc.es/espana/castilla-la-mancha/diputacion-cuenca-crea-nuevas-plazas-bomberos-canete-20260729183454-nt.html",
+      "desc": "La Diputación de Cuenca ha celebrado esta mañana la sesión ordinaria del pleno del mes de julio donde han salido adelante por unanimidad varias modificaciones presupuestarias. La más importante ha sido la modificación de Crédito nº 7 al Presupuesto General de ",
+      "date": "Wed, 29 Jul 2026 18:34:54 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Identifican en Fuente Álamo una de las bibliotecas mejor conservadas del Imperio Romano",
+      "link": "https://www.abc.es/espana/andalucia/cordoba/identifican-fuente-alamo-bibliotecas-mejor-conservadas-imperio-20260729183117-nts.html",
+      "desc": "Un equipo de investigación de la Universidad de Granada (UGR) ha logrado demostrar la verdadera función de una estancia de la villa romana de Fuente Álamo , en Puente Genil, que hasta la fecha se pensaba que podía ser un mitreo, es decir, un espacio de culto a",
+      "date": "Wed, 29 Jul 2026 18:31:18 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Pilar Sánchez Acera, la 'filtradora' del caso del novio de Ayuso y poderosa pareja del nuevo director general del Tesoro",
+      "link": "https://www.abc.es/espana/pilar-sanchez-acera-filtradora-novio-ayuso-coloca-20260729183000-nt.html",
+      "desc": "El reciente cambio normativo impulsado por el Gobierno para colocar al frente del Tesoro Público a una persona que no pertenece al cuerpo de altos funcionarios ha devuelto a la primera línea política un nombre clave en la 'fontanería' socialista: Pilar Sánchez",
+      "date": "Wed, 29 Jul 2026 18:30:00 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Regresan a León la mayor parte de los planos originales de la Casa Botines",
+      "link": "https://www.abc.es/espana/castilla-leon/regresan-leon-mayor-parte-planos-originales-casa-20260729181827-nt.html",
+      "desc": "El Museo Casa Botines Gaudí de León inauguraba la exposición 'Gaudí y la ciudad moderna', una de las grandes citas a nivel nacional en la celebración del centenario del fallecimiento del genio catalán. La muestra reúne 60 piezas que muestran a un Gaudí como un",
+      "date": "Wed, 29 Jul 2026 18:18:27 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "El juez investiga el patrimonio de la secretaria de Zapatero tras comprar una vivienda sin hipoteca",
+      "link": "https://www.abc.es/espana/juez-investiga-patrimonio-secretaria-zapatero-tras-comprar-20260729181556-nt.html",
+      "desc": "El juez José Luis Calama ha autorizado a la UDEF de la Policía Nacional ampliar la investigación sobre las cuentas y el patrimonio del expresidente del Gobierno José Luis Rodríguez Zapatero, sus hijas y su secretaria. El magistrado de la Audiencia Nacional res",
+      "date": "Wed, 29 Jul 2026 18:15:57 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "zap"
+    },
+    {
+      "title": "Toledo reunirá en septiembre a 400 niños en el I Torneo de Fútbol Base contra el Cáncer",
+      "link": "https://www.abc.es/espana/castilla-la-mancha/toledo/toledo-reunira-septiembre-400-ninos-torneo-futbol-20260729180737-nt.html",
+      "desc": "Toledo acogerá del 4 al 6 de septiembre el I Torneo de Fútbol Base contra el Cáncer, una cita solidaria que reunirá a cerca de 400 niños de categorías benjamín, alevín e infantil en el nuevo campo de fútbol Carlos III. La competición contará con la participaci",
+      "date": "Wed, 29 Jul 2026 18:07:38 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "La asesinada por su pareja en Barcelona fue detenida hace 15 días por maltratarlo a él y a sus hijos",
+      "link": "https://www.abc.es/espana/cataluna/asesinada-pareja-barcelona-detenida-dias-maltratarlo-hijos-20260729180345-nt.html",
+      "desc": "La mujer asesinada ayer en Barcelona por su pareja, delante de los hijos menores de ambos, un niño y una niña, había sido detenida por los Mossos d'Esquadra, hace sólo 15 días, por maltratarlo a él y a los pequeños. Según informan a ABC desde el Cuerpo, fueron",
+      "date": "Wed, 29 Jul 2026 18:03:45 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Detenido en Ribeira (La Coruña) un joven como presunto autor de la muerte de su padre",
+      "link": "https://www.abc.es/espana/galicia/detenido-joven-ribeira-coruna-presunto-autor-muerte-20260729180036-nt.html",
+      "desc": "La Policía Nacional ha detenido a un joven en Ribeira (La Coruña) como presunto autor de la muerte de su padre. La víctima, un vecino de 47 años de la parroquia de Aguiño, recibió varios disparos en la vivienda familiar, según confirman fuentes conocedoras de ",
+      "date": "Wed, 29 Jul 2026 18:00:36 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "El 'frente jurídico' de ETA recibe la semilibertad con otro «tercer grado fraudulento» del Gobierno vasco",
+      "link": "https://www.abc.es/espana/pais-vasco/frente-juridico-eta-recibe-semilibertad-nuevo-tercer-20260729175858-nt.html",
+      "desc": "El Gobierno vasco ha autorizado una nueva aplicación del artículo 100.2 a un exmiembro de ETA. En esta ocasión, se trata del abogado de los presos de la banda terrorista Jon Enparantza que, a través de esta prerrogativa del Reglamento Penitenciario, podrá disf",
+      "date": "Wed, 29 Jul 2026 17:58:59 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Arde un camión de paja en el barrio del Polígono de Toledo",
+      "link": "https://www.abc.es/espana/castilla-la-mancha/toledo/arde-camion-paja-barrio-poligono-toledo-20260729175528-nt.html",
+      "desc": "Los Bomberos de Toledo trabajan en la extinción del i ncendio generado en un camión que trasladaba pacas de paja , que ha ardido a la altura del toledano barrio de Santa María de Benquerencia. Un fuego que no deja personas afectadas. Fuentes del Servicio de At",
+      "date": "Wed, 29 Jul 2026 17:55:29 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "El Infoca lucha contra un incendio forestal en Belmez con casi veinte bomberos y un helicóptero",
+      "link": "https://www.abc.es/espana/andalucia/cordoba/infoca-lucha-incendio-forestal-belmez-veinte-bomberos-20260729174837-nts.html",
+      "desc": "El fuego vuelve a actuar en la Sierra de Córdoba. En la tarde de este miércoles se ha declarado un incendio forestal en Belmez , en la comarca del Alto Guadiato y hasta allí se han desplazado los efectivos del Infoca para intentar frenarlo. Se trata de un para",
+      "date": "Wed, 29 Jul 2026 17:48:37 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Dos heridos por un incendio en una planta de filtros de una empresa de El Romeral, en Toledo",
+      "link": "https://www.abc.es/espana/castilla-la-mancha/toledo/dos-heridos-incendio-planta-filtros-empresa-romeral-20260729174426-nt.html",
+      "desc": "Dos personas han resultados heridas por un incendio que se ha producido este miércoles en una empresa El Romeral, en Toledo. El fuego se ha originado en una máquina de prensar filtros y ya quedado extinguido, según informa el Servicio de Atención y Coordinació",
+      "date": "Wed, 29 Jul 2026 17:44:26 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
     {
       "title": "El delegado del Gobierno defiende que a Castilla-La Mancha «le va muy bien» con Pedro Sánchez",
       "link": "https://www.abc.es/espana/castilla-la-mancha/toledo/delegado-gobierno-defiende-castillala-mancha-bien-pedro-20260729172925-nt.html",
@@ -13,7 +153,7 @@
       "caso": "other"
     },
     {
-      "title": "La nueva ley gallega contra los incendios forestales «flexibilizará» las quemas y los desbroces",
+      "title": "La nueva ley gallega contra los incendios flexibilizará las quemas y los desbroces",
       "link": "https://www.abc.es/espana/galicia/nueva-ley-gallega-incendios-forestales-flexibilizara-quemas-20260729172430-nt.html",
       "desc": "Tras cierto retraso, pues ya en 2021 el entonces presidente de la Xunta Alberto Núñez Feijóo se había comprometido a ello, Galicia contará con una nueva ley que será la base para combatir los incendios forestales y que tendrá en la prevención su principal eje.",
       "date": "Wed, 29 Jul 2026 17:24:30 +0200",
@@ -33,7 +173,7 @@
       "caso": "other"
     },
     {
-      "title": "La Comunidad de Madrid adquiere un ático en Chamberí y Ayuso lo enmarca en la reforma de la Real Casa de Correos",
+      "title": "La Comunidad compra un ático en Chamberí y trata de zanjar la polémica al enmarcarlo en la obra de la Real Casa de Correos",
       "link": "https://www.abc.es/espana/madrid/comunidad-madrid-adquiere-atico-chamberi-ayuso-enmarca-20260729165919-nt.html",
       "desc": "Isabel Díaz Ayuso había reunido este miércoles a su Gobierno regional de forma extraordinaria para poner en marcha la «reconstrucción» de la Sierra Oeste por los incendios de la última semana , con 17 municipios afectados. Pero la presidenta regional ha tenido",
       "date": "Wed, 29 Jul 2026 16:59:19 +0200",
@@ -57,146 +197,6 @@
       "link": "https://www.abc.es/espana/comunidad-valenciana/nuevo-hotel-valencia-playa-20260729201440-nt.html",
       "desc": "Intelier, la cadena hotelera de Nealis, ha abierto en plena temporada estival su nuevo hotel de cuatro estrellas superior en Valencia. Con 170 habitaciones y a pocos metros de la playa, Intelier Malvarrosa Plaza ha alcanzado el 80% de ocupación en los primeros",
       "date": "Wed, 29 Jul 2026 16:53:23 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "O Marisquiño 2026 confirma su cartel deportivo: deportistas olímpicos y récords Guinness en Vigo",
-      "link": "https://www.abc.es/espana/galicia/marisquino-2026-confirma-cartel-deportivo-deportistas-olimpicos-20260729164955-nt.html",
-      "desc": "A poco más de una semana para el inicio de su XXVI edición , O Marisquiño ha desvelado la nómina de deportistas que encabezarán sus competiciones del 6 al 9 de agosto en Vigo. El festival de cultura urbana reunirá en la playa de Samil y en el centro histórico ",
-      "date": "Wed, 29 Jul 2026 16:49:55 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Más de 400 menús diarios frescos para los evacuados por los incendios",
-      "link": "https://www.abc.es/espana/madrid/400-menus-diarios-frescos-evacuados-incendios-20260729164217-nt.html",
-      "desc": "Ensalada de pasta con pescado, garbanzos con verduras, arroz con verduras y jamón, lentejas con pollo al curry y ensaladilla rusa son solo algunas de las elaboraciones que el chef Juan Pozuelo, en colaboración con Mercamadrid y la Asociación de Cocineros y Rep",
-      "date": "Wed, 29 Jul 2026 16:42:18 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Los daños de la lancha de la Guardia Civil que impiden luchar contra la crisis migratoria en Ceuta",
-      "link": "https://www.abc.es/espana/danos-lancha-guardia-civil-impiden-luchar-crisis-20260729162005-nt.html",
-      "desc": "La nueva embarcación de la Guardia Civil en Ceuta, destinada a luchar contra la inmigración y el narcotráfico, sigue varada en puerto por los desperfectos que tiene, según un video al que ha tenido acceso ABC. Estos daño obligan a los agentes a tener que afron",
-      "date": "Wed, 29 Jul 2026 16:40:32 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Las 'embajadas' catalanas cerraron 2024 con 108.570 euros en facturas mal justificadas",
-      "link": "https://www.abc.es/espana/cataluna/embajadas-catalanas-cerraron-2024-108570-euros-facturas-20260729162119-nt.html",
-      "desc": "La polémica red exterior de la Generalitat de Cataluña, conocida como las 'embajadas' catalanas, cerró 2024 con irregularidades en la tramitación de gastos, una deficiente trazabilidad de las retribuciones del personal y dificultades para acreditar el cumplimi",
-      "date": "Wed, 29 Jul 2026 16:40:06 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Un detenido tras el hallazgo de restos humanos en una carretera en Alhaurín de la Torre",
-      "link": "https://www.abc.es/espana/andalucia/malaga/persona-detenida-tras-hallazgo-restos-humanos-carretera-20260729162533-nts.html",
-      "desc": "La Guardia Civil ha abierto una investigación tras el hallazgo de restos humanos en una carretera dentro del término municipal de Alhaurín de la Torre, e n la provincia de Málaga. Horas después se comunicó la detención de una persona en relación con el cadáver",
-      "date": "Wed, 29 Jul 2026 16:32:10 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Núñez critica la «doble vara de medir» de Page con los indultos: «Critica el de Borràs y calla ante el del exalcalde de Linares»",
-      "link": "https://www.abc.es/espana/castilla-la-mancha/nunez-denuncia-doble-vara-medir-page-indultos-20260729161600-nt.html",
-      "desc": "El presidente del Partido Popular de Castilla-La Mancha, Paco Núñez, ha denunciado la «doble vara de medir» de Emiliano García-Page tras sus declaraciones contra el indulto concedido a Laura Borrás , al tiempo que guarda un absoluto silencio sobre el indulto a",
-      "date": "Wed, 29 Jul 2026 16:16:01 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "La Junta inicia la fase final de la nueva depuradora de Los Yébenes tras una inversión de más de 5,2 millones",
-      "link": "https://www.abc.es/espana/castilla-la-mancha/castillala-mancha-inicia-fase-final-nueva-depuradora-20260729160438-nt.html",
-      "desc": "El Gobierno de Castilla-La Mancha ha iniciado la última fase para la puesta en marcha de la nueva estación depuradora de aguas residuales (EDAR) de Los Yébenes , una infraestructura que ha supuesto una inversión superior a los 5,2 millones de euros , cofinanci",
-      "date": "Wed, 29 Jul 2026 16:04:39 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "El proyecto 'La Jara Viva' permitirá redescubrir Ciudad de Vascos y la Vía Verde desde el río Uso",
-      "link": "https://www.abc.es/espana/castilla-la-mancha/toledo/nuevo-proyecto-jara-viva-permitira-visitar-antigua-20260729154040-nt.html",
-      "desc": "El nuevo proyecto ' La Jara Viva' , promovida por los Ayuntamientos de Calera y Chozas y de Aldeanueva de Barbarroya, junto con la Diputación de Toledo, permitirá redescubrir la comarca La Jara a través de una novedosa experiencia con rutas en canoa por el río",
-      "date": "Wed, 29 Jul 2026 15:53:00 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Detenido tras amenazar y perseguir a sus vecinos con un martillo por las calles de Las Palmas de Gran Canaria",
-      "link": "https://www.abc.es/espana/canarias/detenido-tras-amenazar-perseguir-vecinos-martillo-calles-20260729154803-nt.html",
-      "desc": "Agentes de la Policía Nacional han detenido en Las Palmas de Gran Canaria a un hombre como presunto autor de un delito de amenazas graves , tras intimidar y amenazar a varias personas en la vía pública empuñando un martillo. Los hechos ocurrieron durante la no",
-      "date": "Wed, 29 Jul 2026 15:48:03 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Vox denuncia el malestar de cientos de concejales por la reforma de la Ley de Evaluación Ambiental",
-      "link": "https://www.abc.es/espana/castilla-la-mancha/vox-denuncia-malestar-cientos-concejales-reforma-ley-20260729154400-nt.html",
-      "desc": "El Grupo Parlamentario Vox en las Cortes de Castilla-La Mancha ha trasladado su preocupación por el «malestar existente entre cientos de concejales de toda la región» ante la reciente modificación de la Ley de Evaluación Ambiental aprobada por el Gobierno soci",
-      "date": "Wed, 29 Jul 2026 15:44:00 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Varios pueblos evacuados y uno confinado por un incendio en Fermoselle (Zamora)",
-      "link": "https://www.abc.es/espana/castilla-leon/varios-pueblos-evacuados-confinado-incendio-corazon-arribes-20260729153700-nt.html",
-      "desc": "Un incendio forestal declarado en el corazón del Parque Natural de los Arribes del Duero, cerca de Fermoselle, en la provincia de Zamora, ha obligado al confinamiento de esta localidad zamorana, la más grande del entorno, así como la evacuación de varios puebl",
-      "date": "Wed, 29 Jul 2026 15:37:00 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Córdoba vive una «situación controlada» ante el Virus del Nilo, aunque el riesgo cero no existe",
-      "link": "https://www.abc.es/espana/andalucia/cordoba/cordoba-vive-situacion-controlada-ante-virus-nilo-20260729152835-nts.html",
-      "desc": "Allá en 2004, hace más de dos décadas, voces expertas alertaban de la necesidad de prepararse ante el Virus del Nilo Occidental (VNO) . Entonces, Andalucía registró 104 casos de contagio humano. Muchos de ellos revistieron gravedad. Hoy día la realidad es otra",
-      "date": "Wed, 29 Jul 2026 15:28:36 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "El Cajasol Coto Córdoba ya conoce el calendario para su estreno en Primera FEB: debut ante Zamora y cierre frente a Estudiantes",
-      "link": "https://www.abc.es/espana/andalucia/cordoba/coto-cordoba-conoce-calendario-primera-feb-debut-20260729151346-nts.html",
-      "desc": "El Cajasol Coto Córdoba de Baloncesto ya puede señalar en rojo las primeras grandes citas de su temporada en Primera FEB , categoría desconocida para el baloncesto cordobés desde hace más de dos décadas. En el día de hoy la Federación Española de Baloncesto (F",
-      "date": "Wed, 29 Jul 2026 15:28:30 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "El fabricante de Gublins y Papadelta busca alcanzar los 200 millones de euros en ventas en 2029",
-      "link": "https://www.abc.es/espana/comunidad-valenciana/fabricante-gublins-papadelta-busca-alcanzar-200-millones-20260729152414-nt.html",
-      "desc": "La compañía valenciana Grefusa cerró 2025 con una facturación de 166 millones de euros, cifra idéntica a la del ejercicio anterior, cuando declaró un beneficio de 15,4 millones. La productora de snacks, frutos secos y horneados no ha ofrecido la actualización ",
-      "date": "Wed, 29 Jul 2026 15:24:14 +0200",
       "source": "ABC",
       "color": "#c0392b",
       "feedId": "ABC",
