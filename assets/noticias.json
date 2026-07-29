@@ -1,11 +1,81 @@
 {
-  "updated": "2026-07-29T19:06:24Z",
+  "updated": "2026-07-29T20:49:51Z",
   "count": 24,
   "items": [
     {
+      "title": "Operación 'Panmesh':  detenido en gran Canaria por un delito contra la libertad sexual a menores",
+      "link": "https://www.abc.es/espana/canarias/operacion-panmesh-detenido-gran-canaria-delito-libertad-20260729221149-nt.html",
+      "desc": "La Policía Canaria ha detenido a una persona en el marco de la operación denominada 'Panmesh', relacionada con la investigación de un presunto delito contra la libertad sexual de menores . La actuación del Grupo de Denuncias e Investigación de la Policía Auton",
+      "date": "Wed, 29 Jul 2026 22:11:49 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Panorama «muy triste» en la D. O. Cebreros, afectada por tercera vez por el fuego",
+      "link": "https://www.abc.es/espana/castilla-leon/panorama-triste-cebreros-afectada-tercera-vez-fuego-20260729220915-nt.html",
+      "desc": "«Muy triste». Es la expresión que repite Marta Burgos para definir, con la emoción atragantando sus palabras, el panorama en el que ha quedado sumergida también la Denominación de Origen Cebreros a raíz del virulento fuego declarado el 22 de julio en Burgohond",
+      "date": "Wed, 29 Jul 2026 22:09:15 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Matan a puñaladas a un hombre en el barrio de La Mina",
+      "link": "https://www.abc.es/espana/cataluna/matan-punaladas-hombre-barrio-mina-20260729220558-nt.html",
+      "desc": "Nuevo crimen a puñaladas en Cataluña. Si ayer un individuo mataba a su mujer a cuchilladas en el domicilio familiar ante los dos hijos menores de la pareja, en la calle Andrade de Barcelona, este miércoles, poco antes de las nueve de la noche, los Mossos d'Esq",
+      "date": "Wed, 29 Jul 2026 22:05:58 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "El presidente de la Diputación de Zamora vuelve a ejercer de bombero voluntario en el incendio de Fermoselle",
+      "link": "https://www.abc.es/espana/castilla-leon/presidente-diputacion-zamora-vuelve-ejercer-bombero-voluntario-20260729213345-nt.html",
+      "desc": "Un año más, y ya van varios seguidos, la provincia de Zamora contiene la rabia al mirar al cielo y respirar el humo. Aún con el reciente recuerdo de lo que pasó en Sanabria en 2025 , ahora le toca a otra de las joyas naturales de la región, los Arribes del Due",
+      "date": "Wed, 29 Jul 2026 21:33:45 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Carmen Avilés y Fátima Ouhaddou representarán a Córdoba en el Europeo de Atletismo en Birmingham",
+      "link": "https://www.abc.es/espana/andalucia/cordoba/carmen-aviles-fatima-ouhaddou-representaran-cordoba-europeo-20260729202352-nts.html",
+      "desc": "Córdoba tendrá doble presencia en uno de los grandes acontecimientos deportivos del verano. Carmen Avilés y Fátima Ouhaddou han entrado en la primera preselección española para el Campeonato de Europa de atletismo al aire libre , que reunirá a los mejores atle",
+      "date": "Wed, 29 Jul 2026 21:33:00 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Sánchez pide a Bruselas que Mallorca acoja un 'hub' europeo de gestión de incendios",
+      "link": "https://www.lavanguardia.com/vida/20260729/11603988/pedro-sanchez-pide-bruselas-mallorca-sea-sea-sede-hub-mediterraneo-lucha-incendios.html",
+      "desc": "El presidente ha enviado una carta a la presidenta de la Comisión Europea",
+      "date": "29 Jul 2026 21:12:25 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
+    {
+      "title": "El PSOE se va del Pleno de la Diputación de Alicante por excluirse una moción suya",
+      "link": "https://www.abc.es/espana/comunidad-valenciana/alicante/psoe-pleno-diputacion-alicante-excluirse-mocion-suya-20260729210612-nt.html",
+      "desc": "Los diputados del PSPV-PSOE han abandonado el Pleno de la Diputación de Alicante celebrado este miércoles -acompañados por el representante de Compromís- al excluirse del debate una moción suya para implantar un servicio de transporte de viajeros en zonas rura",
+      "date": "Wed, 29 Jul 2026 21:06:12 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
       "title": "Sánchez justifica el indulto a Borràs y lo desvincula de los Presupuestos: «No tiene nada que ver»",
       "link": "https://www.abc.es/espana/sanchez-20260729170914-nt.html",
-      "desc": "Después de cerrar el curso político con su habitual discurso de balance, Pedro Sánchez se trasladó este miércoles a Palma para participar junto al Rey Felipe VI en el tradicional despacho en el Palacio de la Almudaina. Este no será el último acto oficial del p",
+      "desc": "Después de cerrar el curso político con su habitual discurso de balance , Pedro Sánchez se trasladó este miércoles a Palma para participar junto al Rey Felipe VI en el tradicional despacho en el Palacio de la Almudaina. Este no será el último acto oficial del ",
       "date": "Wed, 29 Jul 2026 21:01:24 +0200",
       "source": "ABC",
       "color": "#c0392b",
@@ -20,6 +90,16 @@
       "source": "ABC",
       "color": "#c0392b",
       "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "El inicio de la larga ola de calor trae de nuevo incendios forestales en Catalunya",
+      "link": "https://www.lavanguardia.com/local/barcelona/20260729/11603978/inicio-larga-ola-calor-trae-nuevo-incendios-forestales-catalunya.html",
+      "desc": "El fuego confina varias horas 3.600 vecinos en el Baix Penedès y en Canyelles, en el Garraf",
+      "date": "29 Jul 2026 20:27:49 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
       "caso": "other"
     },
     {
@@ -157,86 +237,6 @@
       "link": "https://www.abc.es/espana/galicia/tsxg-ratifica-dos-anos-carcel-hombre-besar-20260729193032-nt.html",
       "desc": "La Sala de lo Civil y Penal del Tribunal Superior de Xustiza de Galicia (TSXG) ha confirmado la pena de dos años de prisión impuesta a un hombre por un delito de agresión sexual a una menor de 14 años en Pontevedra. El alto tribunal ratifica la sentencia dicta",
       "date": "Wed, 29 Jul 2026 19:30:33 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "IU denuncia el colapso de la CM-4010 entre Seseña y Esquivias y exige su desdoblamiento",
-      "link": "https://www.abc.es/espana/castilla-la-mancha/toledo/iu-denuncia-colapso-cm4010-sesena-esquivias-exige-20260729193024-nt.html",
-      "desc": "La situación de la CM-4010, la carretera que conecta Seseña con Illescas pasando por Esquivias, Borox y Yeles, se ha convertido en un «cuello de botella» para la comarca de La Sagra. Así lo han denunciado este miércoles las concejalas de Izquierda Unida en Esq",
-      "date": "Wed, 29 Jul 2026 19:30:24 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Begoña Gómez cambia al exministro Camacho por un abogado experto en buscar nulidades",
-      "link": "https://www.abc.es/espana/begona-gomez-cambia-exministro-carmona-experto-nulidades-20260729192638-nt.html",
-      "desc": "A las puertas de sentarse ante un jurado popular acusada de malversación y tráfico de influencias haciendo historia en España, Begoña Gómez , la esposa del presidente del Gobierno, Pedro Sánchez, ha decidido poner su defensa para el juicio en manos de un nuevo",
-      "date": "Wed, 29 Jul 2026 19:26:38 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Sánchez pide la nulidad del archivo de la lona de Hazte Oír que le llamaba «corrupto»",
-      "link": "https://www.abc.es/espana/sanchez-pide-nulidad-archivo-lona-hazte-oir-20260729192124-nt.html",
-      "desc": "El presidente del Gobierno, Pedro Sánchez, y el PSOE han presentado un incidente de nulidad de actuaciones ante la Audiencia Provincial de Madrid para que se revoque el archivo de la causa de la campaña publicitaria de Hazte Oír en la que, entre otros elemento",
-      "date": "Wed, 29 Jul 2026 19:21:25 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "PSOE e IU rechazan la Cuenta General del Ayuntamiento de Toledo por los resultados de la EMV",
-      "link": "https://www.abc.es/espana/castilla-la-mancha/toledo/psoe-iu-rechazan-cuenta-general-ayuntamiento-toledo-20260729191317-nt.html",
-      "desc": "La sombra de Vega Baja ha vuelto a planear sobre el Ayuntamiento de Toledo. La frustrada operación urbanística de este enclave en el que se pretendían construir 1.300 viviendas sociales , paralizada en 2006 por la protección arqueológica de la zona, ha reabier",
-      "date": "Wed, 29 Jul 2026 19:13:18 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "El juez autoriza a la UDEF a rastrear las cuentas de Zapatero, sus hijas y su secretaria",
-      "link": "https://www.lavanguardia.com/politica/20260729/11603951/juez-autoriza-udef-rastree-cuentas-zapatero-hijas-secretaria.html",
-      "desc": "El instructor considera que el expresidente del Gobierno lideró una “estructura jerarquizada” en la que se utilizó a su amigo Julio Martínez para canalizar sus fondos",
-      "date": "29 Jul 2026 19:13:16 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
-      "caso": "zap"
-    },
-    {
-      "title": "‘El Perejil’, operario de una empresa de maquinaria, provocó el gran incendio de Ávila",
-      "link": "https://www.lavanguardia.com/vida/20260729/11603946/perejil-operario-empresa-maquinaria-provoco-gran-incendio-avila.html",
-      "desc": "El propietario de la máquina causante del fuego fue detenido por la Guardia Civil y se negó a declarar",
-      "date": "29 Jul 2026 19:06:24 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "Las 14 líneas de autobús de larga distancia que el Gobierno quiere eliminar en Galicia",
-      "link": "https://www.abc.es/espana/galicia/lineas-autobus-larga-distancia-gobierno-quiere-eliminar-20260729190251-nt.html",
-      "desc": "El borrador del nuevo Mapa Concesional de líneas de autobús pretende reestructurar el mapa de rutas estatales en Galicia. Aunque formalmente se mantienen los cinco grandes corredores existentes, el diseño provisional plantea una reducción de la cobertura real:",
-      "date": "Wed, 29 Jul 2026 19:05:31 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Ciudad Real moviliza 1,4 millones para vivienda, cultura y deporte y elige a sus cinco Ciudadanos Ejemplares",
-      "link": "https://www.abc.es/espana/castilla-la-mancha/toledo/ciudad-real-moviliza-millones-vivienda-cultura-deporte-20260729185950-nt.html",
-      "desc": "El pleno del Ayuntamiento de Ciudad Real ha aprobado una modificación de crédito de 1,4 millones de euros para impulsar actuaciones en vivienda, deporte, cultura, educación y acción social, en una sesión en la que también ha acordado por unanimidad el nombrami",
-      "date": "Wed, 29 Jul 2026 18:59:51 +0200",
       "source": "ABC",
       "color": "#c0392b",
       "feedId": "ABC",
