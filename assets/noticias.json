@@ -1,11 +1,141 @@
 {
-  "updated": "2026-07-29T13:58:05Z",
+  "updated": "2026-07-29T15:50:14Z",
   "count": 24,
   "items": [
     {
-      "title": "El nuevo proyecto 'La Jara Viva' permitirá visitar la antigua Ciudad de Vascos y recuperará la Vía Verde de la comarca",
+      "title": "El delegado del Gobierno defiende que a Castilla-La Mancha «le va muy bien» con Pedro Sánchez",
+      "link": "https://www.abc.es/espana/castilla-la-mancha/toledo/delegado-gobierno-defiende-castillala-mancha-bien-pedro-20260729172925-nt.html",
+      "desc": "El delegado del Gobierno en Castilla-La Mancha, José Pablo Sabrido , ha defendido este martes que la comunidad autónoma « avanza con el Gobierno de Pedro Sánchez » y ha asegurado que las políticas del Ejecutivo han supuesto una mejora del empleo, del Estado de",
+      "date": "Wed, 29 Jul 2026 17:29:25 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "La nueva ley gallega contra los incendios forestales «flexibilizará» las quemas y los desbroces",
+      "link": "https://www.abc.es/espana/galicia/nueva-ley-gallega-incendios-forestales-flexibilizara-quemas-20260729172430-nt.html",
+      "desc": "Tras cierto retraso, pues ya en 2021 el entonces presidente de la Xunta Alberto Núñez Feijóo se había comprometido a ello, Galicia contará con una nueva ley que será la base para combatir los incendios forestales y que tendrá en la prevención su principal eje.",
+      "date": "Wed, 29 Jul 2026 17:24:30 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "A prisión el dueño de los perros que mataron a un hombre y no indemnizó",
+      "link": "https://www.abc.es/espana/comunidad-valenciana/alicante/prision-dueno-perros-mataron-hombre-indemnizo-20260729170457-nt.html",
+      "desc": "Un juez de Alicante ha dado tres días naturales para ingresar en prisión al dueño de los perros que atacaron y mataron a un hombre de 74 años de edad en Pinoso (Alicante) en octubre de 2016, por su «incumplimiento» en el pago de indemnizaciones a la familia de",
+      "date": "Wed, 29 Jul 2026 17:04:58 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "La Comunidad de Madrid adquiere un ático en Chamberí y Ayuso lo enmarca en la reforma de la Real Casa de Correos",
+      "link": "https://www.abc.es/espana/madrid/comunidad-madrid-adquiere-atico-chamberi-ayuso-enmarca-20260729165919-nt.html",
+      "desc": "Isabel Díaz Ayuso había reunido este miércoles a su Gobierno regional de forma extraordinaria para poner en marcha la «reconstrucción» de la Sierra Oeste por los incendios de la última semana , con 17 municipios afectados. Pero la presidenta regional ha tenido",
+      "date": "Wed, 29 Jul 2026 16:59:19 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Hacienda comunica a Castilla y León 10.299,2 millones en entregas a cuenta para 2027",
+      "link": "https://www.abc.es/espana/castilla-leon/hacienda-comunica-castilla-leon-102992-millones-entregas-20260729165559-nt.html",
+      "desc": "Castilla y León recibirá 10.299,2 millones de euros en entregas a cuenta en el ejercicio 2027, un 7,8 por ciento más que en 2026, por debajo del aumento global para el conjunto de las autonomías del 8,1 por ciento, con 170.529 millones a repartir. El Ministeri",
+      "date": "Wed, 29 Jul 2026 16:55:59 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Así es el nuevo hotel de Valencia: diseño local junto a la playa y con el sello de un chef Michelin",
+      "link": "https://www.abc.es/espana/comunidad-valenciana/nuevo-hotel-valencia-playa-20260729201440-nt.html",
+      "desc": "Intelier, la cadena hotelera de Nealis, ha abierto en plena temporada estival su nuevo hotel de cuatro estrellas superior en Valencia. Con 170 habitaciones y a pocos metros de la playa, Intelier Malvarrosa Plaza ha alcanzado el 80% de ocupación en los primeros",
+      "date": "Wed, 29 Jul 2026 16:53:23 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "O Marisquiño 2026 confirma su cartel deportivo: deportistas olímpicos y récords Guinness en Vigo",
+      "link": "https://www.abc.es/espana/galicia/marisquino-2026-confirma-cartel-deportivo-deportistas-olimpicos-20260729164955-nt.html",
+      "desc": "A poco más de una semana para el inicio de su XXVI edición , O Marisquiño ha desvelado la nómina de deportistas que encabezarán sus competiciones del 6 al 9 de agosto en Vigo. El festival de cultura urbana reunirá en la playa de Samil y en el centro histórico ",
+      "date": "Wed, 29 Jul 2026 16:49:55 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Más de 400 menús diarios frescos para los evacuados por los incendios",
+      "link": "https://www.abc.es/espana/madrid/400-menus-diarios-frescos-evacuados-incendios-20260729164217-nt.html",
+      "desc": "Ensalada de pasta con pescado, garbanzos con verduras, arroz con verduras y jamón, lentejas con pollo al curry y ensaladilla rusa son solo algunas de las elaboraciones que el chef Juan Pozuelo, en colaboración con Mercamadrid y la Asociación de Cocineros y Rep",
+      "date": "Wed, 29 Jul 2026 16:42:18 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Los daños de la lancha de la Guardia Civil que impiden luchar contra la crisis migratoria en Ceuta",
+      "link": "https://www.abc.es/espana/danos-lancha-guardia-civil-impiden-luchar-crisis-20260729162005-nt.html",
+      "desc": "La nueva embarcación de la Guardia Civil en Ceuta, destinada a luchar contra la inmigración y el narcotráfico, sigue varada en puerto por los desperfectos que tiene, según un video al que ha tenido acceso ABC. Estos daño obligan a los agentes a tener que afron",
+      "date": "Wed, 29 Jul 2026 16:40:32 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Las 'embajadas' catalanas cerraron 2024 con 108.570 euros en facturas mal justificadas",
+      "link": "https://www.abc.es/espana/cataluna/embajadas-catalanas-cerraron-2024-108570-euros-facturas-20260729162119-nt.html",
+      "desc": "La polémica red exterior de la Generalitat de Cataluña, conocida como las 'embajadas' catalanas, cerró 2024 con irregularidades en la tramitación de gastos, una deficiente trazabilidad de las retribuciones del personal y dificultades para acreditar el cumplimi",
+      "date": "Wed, 29 Jul 2026 16:40:06 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Un detenido tras el hallazgo de restos humanos en una carretera en Alhaurín de la Torre",
+      "link": "https://www.abc.es/espana/andalucia/malaga/persona-detenida-tras-hallazgo-restos-humanos-carretera-20260729162533-nts.html",
+      "desc": "La Guardia Civil ha abierto una investigación tras el hallazgo de restos humanos en una carretera dentro del término municipal de Alhaurín de la Torre, e n la provincia de Málaga. Horas después se comunicó la detención de una persona en relación con el cadáver",
+      "date": "Wed, 29 Jul 2026 16:32:10 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Núñez critica la «doble vara de medir» de Page con los indultos: «Critica el de Borràs y calla ante el del exalcalde de Linares»",
+      "link": "https://www.abc.es/espana/castilla-la-mancha/nunez-denuncia-doble-vara-medir-page-indultos-20260729161600-nt.html",
+      "desc": "El presidente del Partido Popular de Castilla-La Mancha, Paco Núñez, ha denunciado la «doble vara de medir» de Emiliano García-Page tras sus declaraciones contra el indulto concedido a Laura Borrás , al tiempo que guarda un absoluto silencio sobre el indulto a",
+      "date": "Wed, 29 Jul 2026 16:16:01 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "La Junta inicia la fase final de la nueva depuradora de Los Yébenes tras una inversión de más de 5,2 millones",
+      "link": "https://www.abc.es/espana/castilla-la-mancha/castillala-mancha-inicia-fase-final-nueva-depuradora-20260729160438-nt.html",
+      "desc": "El Gobierno de Castilla-La Mancha ha iniciado la última fase para la puesta en marcha de la nueva estación depuradora de aguas residuales (EDAR) de Los Yébenes , una infraestructura que ha supuesto una inversión superior a los 5,2 millones de euros , cofinanci",
+      "date": "Wed, 29 Jul 2026 16:04:39 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "El proyecto 'La Jara Viva' permitirá redescubrir Ciudad de Vascos y la Vía Verde desde el río Uso",
       "link": "https://www.abc.es/espana/castilla-la-mancha/toledo/nuevo-proyecto-jara-viva-permitira-visitar-antigua-20260729154040-nt.html",
-      "desc": "El nuevo proyecto ' La Jara Viva' , promovida por los Ayuntamientos de Calera y Chozas y de Aldeanueva de Barbarroya, junto con la Diputación de Toledo, consiste en la recuperación turística de la comarca La Jara . Se trata de una iniciativa que desarrollará n",
+      "desc": "El nuevo proyecto ' La Jara Viva' , promovida por los Ayuntamientos de Calera y Chozas y de Aldeanueva de Barbarroya, junto con la Diputación de Toledo, permitirá redescubrir la comarca La Jara a través de una novedosa experiencia con rutas en canoa por el río",
       "date": "Wed, 29 Jul 2026 15:53:00 +0200",
       "source": "ABC",
       "color": "#c0392b",
@@ -33,7 +163,7 @@
       "caso": "other"
     },
     {
-      "title": "Varios pueblos evacuados y uno confinado por un incendio en el corazón de los Arribes del Duero",
+      "title": "Varios pueblos evacuados y uno confinado por un incendio en Fermoselle (Zamora)",
       "link": "https://www.abc.es/espana/castilla-leon/varios-pueblos-evacuados-confinado-incendio-corazon-arribes-20260729153700-nt.html",
       "desc": "Un incendio forestal declarado en el corazón del Parque Natural de los Arribes del Duero, cerca de Fermoselle, en la provincia de Zamora, ha obligado al confinamiento de esta localidad zamorana, la más grande del entorno, así como la evacuación de varios puebl",
       "date": "Wed, 29 Jul 2026 15:37:00 +0200",
@@ -73,86 +203,6 @@
       "caso": "other"
     },
     {
-      "title": "Expoesía Soria pondrá el foco en las creadoras de la Generación del 27",
-      "link": "https://www.abc.es/espana/castilla-leon/expoesia-soria-pondra-foco-creadoras-generacion-20260729151748-nt.html",
-      "desc": "La XIX edición de Expoesía reunirá del 3 al 9 de agosto en la Alameda de Cervantes de Soria más de 65 participantes y 21 casetas en una programación dedicada a reivindicar el legado de las mujeres de la Generación del 27. La feria abordará «la memoria, la crea",
-      "date": "Wed, 29 Jul 2026 15:17:48 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "«Necesitamos colaboración de la ciudadanía para detectar más víctimas de trata»",
-      "link": "https://www.abc.es/espana/cataluna/necesitamos-colaboracion-ciudadania-detectar-victimas-trata-20260729150807-nt.html",
-      "desc": "«Las tenemos aquí, pero no somos capaces de verlas». Por eso, el subinspector de los Mossos d'Esquadra Lluís Moreno constata: «Necesitamos colaboración de la ciudadanía para detectar más víctimas de trata ». Las modalidades más habituales son la explotación la",
-      "date": "Wed, 29 Jul 2026 15:08:07 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Una uruguaya que vive en España escucha a la gente hablar valenciano y lo confunde con el lenguaje inclusivo: «Viví en una mentira»",
-      "link": "https://www.abc.es/espana/comunidad-valenciana/joven-uruguaya-confunde-valenciano-lenguaje-inclusivo-vivi-20260729150317-nt.html",
-      "desc": "Una joven uruguaya acumula miles de visualizaciones en una publicación compartida en sus perfiles de Instagram y TikTok en la que recuerda la curiosa confusión que vivió al llegar por primera vez a Valencia , cuando creyó durante tres días que el valenciano er",
-      "date": "Wed, 29 Jul 2026 15:03:17 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Mercadona confirma el origen de las sandías que vende en sus supermercados este verano",
-      "link": "https://www.abc.es/espana/comunidad-valenciana/mercadona-confirma-origen-sandias-vende-supermercados-verano-20260729132221-nt.html",
-      "desc": "Con el verano, el consumo de fruta fresca aumenta considerablemente en las casas y en los apartamentos de los españoles. Una magnífica y refrescante opción de postre tras comidas y cenas calurosas, donde destaca por encima del resto, con amplia diferencia, la ",
-      "date": "Wed, 29 Jul 2026 15:01:43 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "La Policía Nacional de Úbeda detiene a un preso fugado de prisión hace tres meses",
-      "link": "https://www.abc.es/espana/andalucia/jaen/policia-nacional-ubeda-detiene-preso-fugado-prision-20260729145625-nts.html",
-      "desc": "Agentes de la Policía Nacional de Úbeda han detenido a un conocido delincuente del municipio jiennense al cual le constaban numerosos antecedentes , por robos con violencia, robos con fuerza y violencia de género, entre otros. El preso no regresó a prisión tra",
-      "date": "Wed, 29 Jul 2026 14:59:53 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "El PP denuncia el «grave deterioro» de la sanidad y acusa a Page de «priorizar la propaganda frente a la gestión»",
-      "link": "https://www.abc.es/espana/castilla-la-mancha/pp-denuncia-grave-deterioro-sanidad-acusa-page-20260729145843-nt.html",
-      "desc": "El coordinador general del Partido Popular de Castilla-La Mancha y diputado regional, Juan Antonio Moreno, ha denunciado el «grave deterioro» que atraviesa la sanidad pública regional tras once años de Gobierno de Emiliano García-Page, una gestión que, a su ju",
-      "date": "Wed, 29 Jul 2026 14:58:44 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Talavera continúa acogiendo a 300 evacuados por los incendios, todos ellos procedentes del Valle del Tiétar",
-      "link": "https://www.abc.es/espana/castilla-la-mancha/toledo/talavera/talavera-continua-acogiendo-300-evacuados-incendios-procedentes-20260729145053-nt.html",
-      "desc": "El alcalde de Talavera de la Reina, José Julián Gregorio, ha informado de que la ciudad mantiene activo por quinto día el dispositivo de acogida a las personas evacuadas por los incendios que afectan al Valle del Tiétar, y que en estos momentos atiende a alred",
-      "date": "Wed, 29 Jul 2026 14:50:54 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Muere un ciclista de 85 años tras chocar con un turismo en Perales (Palencia)",
-      "link": "https://www.abc.es/espana/castilla-leon/muere-ciclista-anos-tras-chocar-turismo-perales-20260729145012-nt.html",
-      "desc": "Un ciclista de 85 años fallecía como consecuencia de la colisión frontolateral que sufrió con un turismo en el kilómetro 15,2 de la carretera CL-615, a la altura de la localidad de Villaldavín, en el término municipal de Perales (Palencia), según informaron fu",
-      "date": "Wed, 29 Jul 2026 14:50:13 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
       "title": "El vacío tras la tragedia: “No tengo dinero, ni tengo documentos; no tengo casa”",
       "link": "https://www.lavanguardia.com/vida/20260729/11603770/dinero-documentos-casa.html",
       "desc": "Los vecinos de los dieciocho municipios descubren con dolor los destrozos causados por las llamas&nbsp;&nbsp;en viviendas, vehículos y en el entorno natural",
@@ -163,39 +213,9 @@
       "caso": "other"
     },
     {
-      "title": "Castilla-La Mancha destina 10 millones a mejorar los caminos rurales y financiará por primera vez el 100% de las actuaciones",
-      "link": "https://www.abc.es/espana/castilla-la-mancha/castillala-mancha-destina-millones-mejorar-caminos-rurales-20260729144007-nt.html",
-      "desc": "El Gobierno de Castilla-La Mancha ha aprobado una nueva convocatoria de ayudas para la mejora y acondicionamiento de caminos rurales , dotada con 10 millones de euros , donde, por primera vez, la Junta financiará el 100% del gasto elegible de las actuaciones c",
-      "date": "Wed, 29 Jul 2026 14:40:07 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "El 'yonki del dinero' entra en prisión para cumplir su primera condena de ocho años",
-      "link": "https://www.abc.es/espana/comunidad-valenciana/yonki-dinero-entra-prision-cumplir-primera-condena-20260729143940-nt.html",
-      "desc": "Marcos Benavent, el que fuera gerente de Imelsa, extinta empresa pública de la Diputación provincial, y autodenominado 'yonki del dinero', ha ingresado en la cárcel de Picassent (Valencia) para cumplir su primera condena en el caso Imelsa o Taula, según han co",
-      "date": "Wed, 29 Jul 2026 14:39:41 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Bermúdez de Castro dona su legado científico y más de 8.000 fotografías de Atapuerca",
-      "link": "https://www.abc.es/espana/castilla-leon/bermudez-castro-dona-legado-cientifico-8000-fotografias-20260729143935-nt.html",
-      "desc": "El vicepresidente de la Fundación Atapuerca, José María Bermúdez de Castro, ha donado su archivo científico al Centro de Investigación Emiliano Aguirre de la Fundación Atapuerca, para su conservación, estudio y difusión. Este «valioso» fondo documental, fruto ",
-      "date": "Wed, 29 Jul 2026 14:39:35 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Marlaska da por estabilizados los incendios de Madrid y Ávila",
+      "title": "Los incendios de Madrid y Ávila están estabilizados y todos los vecinos vuelven a sus casas",
       "link": "https://www.lavanguardia.com/vida/20260729/11603372/incendio-forestal-comunidad-madrid-toledo-avila-emergencia-nacional-evacuados-carreteras-cortadas-ultima-hora-hoy-en-directo.html",
-      "desc": "El presidente del Gobierno de España, Pedro Sánchez, ha asegurado hoy miércoles que la evolución de los incendios de Ávila y Madrid “continúa siendo favorable”",
+      "desc": "Se decreta el fin de la evacuación por los incendios en 14 localidades y urbanizaciones de Ávila y Madrid",
       "date": "29 Jul 2026 14:32:24 +0200",
       "source": "La Vanguardia",
       "color": "#8e44ad",
@@ -203,27 +223,7 @@
       "caso": "other"
     },
     {
-      "title": "Sabrido atribuye el rechazo de Page a la nueva financiación al «mal de la amnistía» y pide apoyar el modelo",
-      "link": "https://www.abc.es/espana/castilla-la-mancha/toledo/sabrido-atribuye-rechazo-page-nueva-financiacion-mal-20260729142246-nt.html",
-      "desc": "El delegado del Gobierno en Castilla-La Mancha, José Pablo Sabrido, ha asegurado que el rechazo al nuevo modelo de financiación autonómica responde todavía al «mal de la ley de amnistía» y ha pedido que el debate se centre en los recursos que recibirán las com",
-      "date": "Wed, 29 Jul 2026 14:22:47 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "El juez Pedraz imputa al exdirector de la Guardia Civil Leonardo Marcos por el caso Leire",
-      "link": "https://www.abc.es/espana/juez-pedraz-cita-investigado-exdirector-guardia-civil-20260729142059-nt.html",
-      "desc": "El juez de la Audiencia Nacional que investiga el ' caso Leire Díez ', Santiago Pedraz, ha citado como investigado a Leonardo Marcos, exdirector general de la Guardia Civil , el próximo 10 de septiembre. Así se desprende de una providencia, en el que el magist",
-      "date": "Wed, 29 Jul 2026 14:20:59 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "lei"
-    },
-    {
-      "title": "Pável Dúrov, el libertario de internet que desafía a Putin",
+      "title": "Pável Dúrov, el libertario de internet fundador de Telegram que desafía a Putin",
       "link": "https://www.lavanguardia.com/internacional/20260729/11603704/pavel-durov-el-libertario-de-internet-que-desafia-a-putin.html",
       "desc": "Declarado en busca y captura por el FSB ruso por “facilitar el terrorismo”, siempre se ha negado a entregar a las autoridades información de los usuarios de Telegram, alegando que es una “plataforma neutral”",
       "date": "29 Jul 2026 13:44:49 +0200",
@@ -233,7 +233,7 @@
       "caso": "other"
     },
     {
-      "title": "OCDE sobre PISA 2025: “No suele haber tasas de exclusión por encima del 10% y la de Catalunya era del 23%”",
+      "title": "La OCDE, sobre la polémica con PISA: “No hay tasas de exclusión de más del 10% y Catalunya está en el 23%”",
       "link": "https://www.lavanguardia.com/vida/20260729/11603699/ocde-sobre-pisa-2025-suele-haber-tasas-exclusion-encima-10-catalunya-23.html",
       "desc": "Fuentes del organismo, que elabora el informe PISA, aseguran que descubrieron este dato inaudito en marzo de 2026 e informaron inmediatamente al ministerio&nbsp;",
       "date": "29 Jul 2026 13:42:14 +0200",
