@@ -1,7 +1,87 @@
 {
-  "updated": "2026-07-30T21:02:33Z",
+  "updated": "2026-07-30T23:00:10Z",
   "count": 24,
   "items": [
+    {
+      "title": "El golpe de nuestras vidas",
+      "link": "https://www.lavanguardia.com/opinion/20260731/11604560/golpe-vidas.html",
+      "desc": "La extrema derecha es una manera violenta de acceder al poder: lo hace porque puede",
+      "date": "31 Jul 2026 00:30:00 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
+    {
+      "title": "Una sentencia del Supremo provoca un alud de migrantes en Ceuta y obliga a activar al Ejército",
+      "link": "https://www.lavanguardia.com/politica/20260731/11604743/sentencia-supremo-provoca-alud-migrantes-ceuta-obliga-activar-ejercito.html",
+      "desc": "El alto tribunal consideró el 8 de julio que la ley no permite las “devoluciones en caliente” de las personas que cruzan la frontera a nado",
+      "date": "31 Jul 2026 00:05:00 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
+    {
+      "title": "Ayuso se queda sin ático",
+      "link": "https://www.lavanguardia.com/opinion/20260731/11604773/ayuso-queda-atico.html",
+      "desc": "El piso de lujo de la Comunidad de Madrid servirá ahora para ayudar a las víctimas de los incendios",
+      "date": "31 Jul 2026 00:05:00 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
+    {
+      "title": "El cambio climático multiplicó por 20 las condiciones propicias para los incendios del centro peninsular",
+      "link": "https://www.lavanguardia.com/natural/cambio-climatico/20260731/11604739/cambio-climatico-multiplico-20-condiciones-propicias-incendios-centro-peninsular.html",
+      "desc": "En la región del suroeste de Francia azotada por los fuegos, el calentamiento causado por las actividades humanas hace que siniestros de esta magnitud sean dos veces más probables que en un mundo preindustrial",
+      "date": "31 Jul 2026 00:05:00 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
+    {
+      "title": "La odisea de los jóvenes desesperados",
+      "link": "https://www.abc.es/espana/odisea-jovenes-desesperados-20260730235148-nt.html",
+      "desc": "Jueves 30 de julio, flamante fiesta del trono en Marruecos; este servidor empieza sus vacaciones y va de Marrakech, ciudad de residencia, a Tetuán, ciudad natal, vía Casablanca. Por la mañana, internet estaba inundado de las noticias del paso de una multitud d",
+      "date": "Thu, 30 Jul 2026 23:51:49 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Feijóo pide en una carta abierta un despliegue de medios masivo para contener la crisis de Ceuta",
+      "link": "https://www.abc.es/espana/feijoo-pide-carta-abierta-despliegue-medios-masivo-20260730232321-nt.html",
+      "desc": "El presidente del Partido Popular, Alberto Núñez Feijóo, ha hecho pública una carta abierta -que ha hecho pública en su red social de X- en la que ha pedido un despliegue de medios masivo para contener la crisis de Ceuta. El líder de los populares ha recalcado",
+      "date": "Thu, 30 Jul 2026 23:23:21 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Cierran la frontera entre Melilla y Marruecos tras un intento de entrada masiva a la ciudad autónoma",
+      "link": "https://www.abc.es/espana/cierran-frontera-melilla-marruecos-tras-intento-entrada-20260730231459-nt.html",
+      "desc": "La frontera de Beni Enzar permanece cerrada este jueves como consecuencia de un intento de entrada masiva registrado cerca de las 22.00 horas tanto por el principal paso fronterizo entre Melilla y Marruecos como por la zona del Dique Sur, según ha informado la",
+      "date": "Thu, 30 Jul 2026 23:15:17 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Ceuta, invadida por miles de magrebíes: «Lo hemos conseguido, el mar me ha sonreído»",
+      "link": "https://www.abc.es/espana/ceuta-invadida-miles-magrebies-conseguido-mar-sonreido-20260730225640-nt.html",
+      "desc": "Ríos de jóvenes, todos varones a excepción de un par de mujeres contadas. La sensación que da es que l a ciudad está tomada por ellos . Comercios y gasolineras cerrados, incluidos supermercados y grandes almacenes como El Corte Inglés. Esta es la visión que de",
+      "date": "Thu, 30 Jul 2026 22:56:41 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
     {
       "title": "La juez del caso Azud archiva la causa por prescripción al extesorero del PSOE valenciano",
       "link": "https://www.abc.es/espana/comunidad-valenciana/juez-azud-archiva-causa-prescripcion-extesorero-psoe-20260730223919-nt.html",
@@ -63,7 +143,7 @@
       "caso": "other"
     },
     {
-      "title": "Ascienden a 12 los cuerpos recuperados del mar en Ceuta en las últimas 24 horas",
+      "title": "Ascienden a 16 los cuerpos recuperados del mar en Ceuta en las últimas 24 horas",
       "link": "https://www.lavanguardia.com/politica/20260730/11604769/ascienden-12-cuerpos-recuperados-mar-ceuta-ultimas-24-horas.html",
       "desc": "Si se mantiene el ritmo, pronto se alcanzará la cifra de muertos con la que finalizó el pasado año, de 46 en total",
       "date": "30 Jul 2026 21:31:06 +0200",
@@ -160,86 +240,6 @@
       "source": "ABC",
       "color": "#c0392b",
       "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "CaixaBank concede 371 millones en créditos a particulares de Castilla-La Mancha hasta junio",
-      "link": "https://www.abc.es/espana/castilla-la-mancha/toledo/caixabank-concede-371-millones-creditos-particulares-castillala-20260730202206-nt.html",
-      "desc": "CaixaBank concedió durante el primer semestre de 2026 un total de 370,9 millones de euros en nueva financiación a clientes particulares de Castilla-La Mancha, lo que supone un incremento del 2,9% respecto al mismo periodo del año anterior. El crecimiento se ap",
-      "date": "Thu, 30 Jul 2026 20:22:07 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Bruselas alerta sobre la situación en Ceuta y pide a Marruecos que «evite estas peligrosas travesías»",
-      "link": "https://www.abc.es/espana/bruselas-alerta-sobre-situacion-ceuta-pide-marruecos-20260730201208-nt.html",
-      "desc": "En plena desbandada veraniega de la capital comunitaria, la Comisión Europea se ha sentido tan preocupada por lo que está sucediendo en la frontera de Ceuta que no ha esperado ni a que se le pregunte por el tema. El comisario de Interior, el austriaco Magnus B",
-      "date": "Thu, 30 Jul 2026 20:12:09 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Al menos diez cuerpos recuperados del mar en Ceuta en las últimas 24 horas",
-      "link": "https://www.abc.es/espana/diez-cuerpos-recuperados-mar-ceuta-ultimas-horas-20260730200919-nt.html",
-      "desc": "Las unidades a cargo del control fronterizo en Ceuta han recuperado del agua los cuerpos sin vida de diez personas en las últimas 24 horas. Ya son 38 los extranjeros localizados muertos en aguas ceutíes en el intento de cruzar a nado desde Marruecos en lo que ",
-      "date": "Thu, 30 Jul 2026 20:09:20 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "El Gobierno moviliza al Ejército para reforzar la seguridad ante la avalancha de inmigrantes en Ceuta",
-      "link": "https://www.lavanguardia.com/politica/20260730/11604727/gobierno-moviliza-ejercito-reforzar-seguridad-avalancha-inmigrantes-ceuta.html",
-      "desc": "Los efectivos militares que se desplegarán en la ciudad autónoma apoyarán las labores de la Guardia Civil",
-      "date": "30 Jul 2026 19:54:55 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "El viento cambiante complica el incendio de Veguellina y obliga a ampliar las evacuaciones en El Bierzo",
-      "link": "https://www.abc.es/espana/castilla-leon/incendio-veguellina-obliga-ampliar-evacuaciones-bierzo-20260730195309-nt.html",
-      "desc": "Los vientos cambiantes de las últimas horas, que han soplado «en diferentes direcciones» están complicando las labores del operativo que trabaja en la extinción del incendio forestal de Veguellina, uno de los que asolan la comarca del Bierzo desde la tarde de ",
-      "date": "Thu, 30 Jul 2026 19:53:50 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Agustín González, director de Andalucía Global, agradece la confianza de Juanma Moreno para formar parte de su equipo",
-      "link": "https://www.abc.es/espana/andalucia/jaen/agustin-gonzalez-director-andalucia-global-agradece-confianza-20260730173115-nts.html",
-      "desc": "Agustín González, nuevo director de Andalucía Global, se ha despedido hoy de su cargo como portavoz del Grupo Popular Municipal en el Ayuntamiento de Jaén. Afronta esta nueva etapa con ilusión y muy agradecido «por haberme permitido vivir una etapa política in",
-      "date": "Thu, 30 Jul 2026 19:51:38 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Contra el fuego, gestión del territorio",
-      "link": "https://www.abc.es/espana/castilla-la-mancha/toledo/fuego-gestion-territorio-20260730194944-nt.html",
-      "desc": "Una vez más, los incendios que asolan nuestra geografía (176.000 hectáreas quemadas a finales de julio de 2026, cinco veces más que en 2025), evidencian la necesidad de una gestión coordinada, integrada e inteligente del territorio. La prevención del fuego, co",
-      "date": "Thu, 30 Jul 2026 19:49:44 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "El Estado tiene un déficit de inversiones ejecutadas en Catalunya de 13.000 millones desde el 2009",
-      "link": "https://www.lavanguardia.com/economia/20260730/11604723/acumula-deficit-inversiones-ejecutadas-catalunya-13-000-millones-2009.html",
-      "desc": "Solo el 57% de lo presupuestado en el año 2025 se acabó realizando, alertan los contratistas",
-      "date": "30 Jul 2026 19:47:50 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
       "caso": "other"
     }
   ]
