@@ -1,11 +1,201 @@
 {
-  "updated": "2026-07-30T13:47:05Z",
+  "updated": "2026-07-30T15:48:16Z",
   "count": 24,
   "items": [
     {
+      "title": "Más de 3.000 alumnos esperan el examen práctico del carné de conducir en León",
+      "link": "https://www.abc.es/espana/castilla-leon/3000-alumnos-esperan-examen-practico-carne-conducir-20260730174054-nt.html",
+      "desc": "Bajo el lema 'Por un servicio de exámenes digno, ágil y suficientemente dotado en la provincia de León', la Asociación Provincial de Autoescuelas de León convocaba este jueves una protesta en la que participaban un centenar de vehículos, que transitaron por la",
+      "date": "Thu, 30 Jul 2026 17:40:54 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Ximo Puig ficha a su sobrino político como chófer de la oficina de expresidente",
+      "link": "https://www.abc.es/espana/comunidad-valenciana/ximo-puig-ficha-sobrino-politico-chofer-oficina-20260730172352-nt.html",
+      "desc": "Ximo Puig ha fichado a un nuevo conductor para su oficina de expresidente de la Generalitat. Se trata de Simeón Vercher Bravo, sobrino de la futura mujer del socialista, Gabriela Bravo. Puig y su exconsellera de Justicia, pareja desde hace años, se casarán el ",
+      "date": "Thu, 30 Jul 2026 17:23:52 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Perelada celebra cuatro décadas de cultura, vino, alta gastronomía y hospitalidad en el corazón del Ampurdán",
+      "link": "https://www.abc.es/espana/cataluna/perelada-celebra-cuatro-decadas-cultura-vino-alta-20260730172201-nt.html",
+      "desc": "Perelada cumple aniversarios redondos convertida en uno de los destinos culturales, enológicos y gastronómicos más completos de todo el Mediterráneo . El grupo familiar de los hermanos Javier, Isabel y el desaparecido Miguel Suqué Mateu, celebra este año las c",
+      "date": "Thu, 30 Jul 2026 17:22:01 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "La condescendencia con Marruecos la paga Ceuta",
+      "link": "https://www.abc.es/espana/condescendida-marruecos-paga-ceuta-20260730171233-nt.html",
+      "desc": "Españoles y europeos asistimos impávidos al lamentable espectáculo de una frontera con Marruecos que no parece ser tal, dando una penosa imagen que mancilla la credibilidad no solo de España sino también de una Unión Europea (UE) que aspira a consolidarse como",
+      "date": "Thu, 30 Jul 2026 17:12:34 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Un incendio afecta a ocho viviendas y obliga a desalojar a 30 personas en Almagro",
+      "link": "https://www.abc.es/espana/castilla-la-mancha/incendio-afecta-ocho-viviendas-obliga-desalojar-personas-20260730170953-nt.html",
+      "desc": "Un incendio declarado este miércoles en un jardín de la calle Armaos de Almagro (Ciudad Real) ha afectado, por el momento, a ocho de las 20 viviendas adosadas situadas junto al foco del fuego y ha obligado a desalojar a una treintena de personas. Según ha info",
+      "date": "Thu, 30 Jul 2026 17:09:53 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Cambios en el Gobierno municipal de Córdoba: Marien Pozanco entra para llevar Medioambiente",
+      "link": "https://www.abc.es/espana/andalucia/cordoba/cambios-gobierno-municipal-cordoba-marien-pozanco-entra-20260730170552-nts.html",
+      "desc": "Tras el anuncio de la Junta de Andalucía de proponer a Daniel García-Ibarrola Díaz como futuro delegado territorial en Córdoba de la Consejería de Sostenibilidad y Medioambiente, el alcalde de la ciudad, José María Bellido , ha valorado la «inmensa satisfacció",
+      "date": "Thu, 30 Jul 2026 17:05:53 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Detenidos seis ladrones que cebaban primero con dinero las máquinas de juego",
+      "link": "https://www.abc.es/espana/comunidad-valenciana/alicante/detenidos-seis-ladrones-cebaban-primero-dinero-maquinas-20260730165337-nt.html",
+      "desc": "La Guardia Civil ha detenido a seis ladrones de una banda organizada que asaltaba salones de juego en la comarca alicantina de la Vega Baja con un método consistente en cebar primero las máquinas de apuestas para luego llevarse la recaudación. En dos atracos, ",
+      "date": "Thu, 30 Jul 2026 16:53:37 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Ponferrada abre su «tesoro» de la Basílica de la Encina",
+      "link": "https://www.abc.es/espana/castilla-leon/ponferrada-abre-tesoro-basilica-encina-20260730165151-nt.html",
+      "desc": "Visitar Ponferrada y el Bierzo permiten, desde este jueves, estar «más cerca del cielo». Es uno de los principales atractivos que ofrecen el estreno del Museo de Arte Sacro de la Basílica de la Encina que incluye el acceso turístico a la torre del primer templ",
+      "date": "Thu, 30 Jul 2026 16:51:51 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Sirera carga contra Collboni por su «pasividad» con las chabolas y los asentamientos en Barcelona",
+      "link": "https://www.abc.es/espana/cataluna/sirera-carga-collboni-pasividad-chabolas-asentamientos-barcelona-20260730165149-nt.html",
+      "desc": "El líder del PP de Barcelona, Daniel Sirera, ha denunciado este jueves «el grave estado de degradación» que presenta «el asentamiento ilegal ubicado en la ladera de la montaña de Montjuïc bajo las escaleras de Forestier», y ha acusado al alcalde, Jaume Collbon",
+      "date": "Thu, 30 Jul 2026 16:51:49 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Unidades móviles llevarán el cribado de cáncer de mama a las zonas rurales",
+      "link": "https://www.abc.es/espana/andalucia/unidades-moviles-llevaran-cribado-cancer-mama-zonas-20260730165053-nts.html",
+      "desc": "El programa del cribado del cáncer de mama llegará a más mujeres ya que el Gobierno andaluz ha ampliado esta semana el programa que llegará a casi el doble, ampliando la edad de las que se beneficiarán de esas pruebas y extendiéndolo también a las zonas rurale",
+      "date": "Thu, 30 Jul 2026 16:50:53 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "El PSOE lamenta que el PP de Núñez haya querido añadir un «incendio político a los incendios forestales»",
+      "link": "https://www.abc.es/espana/castilla-la-mancha/psoe-clm-lamenta-pp-nunez-querido-anadir-20260730160219-nt.html",
+      "desc": "El PSOE de Castilla-La Mancha ha lamentado este jueves que el PP de Paco Núñez haya querido añadir «un incendio político a los incendios forestales», a pesar de tener «más del doble de efectivos para luchar contra el fuego de los que nos dejó Cospedal« y a pes",
+      "date": "Thu, 30 Jul 2026 16:34:42 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "La defensora del pueblo catalán investiga el fiasco de PISA y reclama al Govern los datos de los 51 centros examinados",
+      "link": "https://www.abc.es/espana/cataluna/defensora-pueblo-catalan-investiga-fiasco-pisa-reclama-20260730163352-nt.html",
+      "desc": "La Síndica de Greuges de Cataluña, Esther Giménez-Salinas, ha abierto una actuación de oficio para esclarecer las incidencias que han invalidado la comparación de los resultados catalanes en las pruebas PISA 2025. La institución ha requerido a la Consejería de",
+      "date": "Thu, 30 Jul 2026 16:33:52 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Miles de magrebíes revientan la frontera y llevan a Ceuta a una situación insostenible",
+      "link": "https://www.abc.es/espana/miles-magrebies-revientan-frontera-llevan-ceuta-situacion-20260730163233-nt.html",
+      "desc": "Situación desesperada en Ceuta . Tras varias semanas de presión migratoria sobre la frontera con cientos de cruces a nado por los distintos espigones de la ciudada autónoma, este jueves miles de jóvenes magrebíes se lanzaron, por agua y a pie, a adentrarse en ",
+      "date": "Thu, 30 Jul 2026 16:32:34 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Metro cierra la L6 en Moncloa y cortará la L7 entre Gregorio Marañón y Pitis desde el sábado",
+      "link": "https://www.abc.es/espana/madrid/metro-cierra-moncloa-cortara-gregorio-maranon-pitis-20260730163049-nt.html",
+      "desc": "Metro de Madrid ampliará este fin de semana las alteraciones de servicio por las obras previstas durante el verano, con el cierre desde este sábado de la estación de Moncloa de la Línea 6, que obligará a suspender el servicio entre Argüelles y Ciudad Universit",
+      "date": "Thu, 30 Jul 2026 16:30:50 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "El arreglo de las carreteras entre Viveros, El Bonillo y Alcaraz costará 2,6 millones de euros",
+      "link": "https://www.abc.es/espana/castilla-la-mancha/toledo/pueblos/arreglo-carreteras-une-viveros-bonillo-alcaraz-costaran-20260730162821-nt.html",
+      "desc": "La Diputación de Albacete está ejecutando las obras de reparación de la red viaria provincial en la zona de Viveros , unas actuaciones que están permitiendo restituir la seguridad y la funcionalidad de dos carreteras especialmente afectadas por las lluvias tor",
+      "date": "Thu, 30 Jul 2026 16:28:21 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Recta final para devolver el esplendor a la iglesia de La Magdalena de Zamora",
+      "link": "https://www.abc.es/espana/castilla-leon/recta-final-devolver-esplendor-iglesia-magdalena-zamora-20260730162033-nt.html",
+      "desc": "El director general de Patrimonio Cultural, José Ramón Sola, visitaba este jueves, junto al gerente de la diócesis de Zamora, José Manuel Chillón, las actuaciones que la Fundación ZamorArte desarrolla en la iglesia de la Magdalena de la capital zamorana. Esta ",
+      "date": "Thu, 30 Jul 2026 16:20:33 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Guadalajara invertirá 5,4 millones en humanizar el eje de la avenida del Ejército y Plaza de España",
+      "link": "https://www.abc.es/espana/castilla-la-mancha/guadalajara-invertira-millones-humanizar-eje-avenida-ejercito-20260730162003-nt.html",
+      "desc": "La alcaldesa de Guadalajara, Ana Guarinos, ha presentado el proyecto de ejecución de las obras de humanización del eje Avenida del Ejército–Plaza de España, una actuación que supondrá la transformación de uno de los principales corredores urbanos de la ciudad ",
+      "date": "Thu, 30 Jul 2026 16:20:04 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "La Fiscalía dice que pidió una alternativa para que la mujer asesinada por su marido dejara la casa",
+      "link": "https://www.lavanguardia.com/vida/20260730/11604575/fiscalia-asegura-pidio-alternativa-habitacional-mujer-asesinada-marido-sant-marti-dejara-hogar.html",
+      "desc": "El juzgado descartó medidas cautelares, que los fiscales recomendaban por la seguridad de los dos niños",
+      "date": "30 Jul 2026 15:53:36 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
+    {
+      "title": "Los dos detenidos por el incendio de Almorox quedan en libertad provisional con cargos",
+      "link": "https://www.abc.es/espana/castilla-la-mancha/toledo/pueblos/dos-detenidos-incendio-almorox-quedan-libertad-provisional-20260730155147-nt.html",
+      "desc": "Los dos hombres detenidos por su presunta relación con el origen del incendio forestal declarado el pasado 22 de julio en la localidad toledana de Almorox han quedado en libertad provisional tras prestar declaración ante la autoridad judicial. Ambos permanecen",
+      "date": "Thu, 30 Jul 2026 15:51:48 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
       "title": "Un juzgado rechazó la orden de protección que solicitó la Fiscalía para los hijos de la mujer asesinada, tras ser detenida por maltratarlos",
       "link": "https://www.abc.es/espana/cataluna/juzgado-rechazo-orden-proteccion-solicito-fiscalia-hijos-20260730153847-nt.html",
-      "desc": "El juzgado que investigaba a la mujer asesinada por su pareja este 28 de julio en Barcelona, por maltratar a los hijos menores de ambos, rechazó la orden de protección hacia los niños que había solicitado la Fiscalía, para garantizar su bienestar. Los Mossos d",
+      "desc": "El juzgado que investigaba por maltratar a sus hijos a la asesinada por su pareja este 28 de julio en Barcelona, rechazó la orden de protección hacia los niños que había solicitado la Fiscalía para garantizar su bienestar. Los Mossos d'Esquadra detuvieron a la",
       "date": "Thu, 30 Jul 2026 15:39:12 +0200",
       "source": "ABC",
       "color": "#c0392b",
@@ -23,183 +213,23 @@
       "caso": "other"
     },
     {
-      "title": "Los nuevos delegados de la Junta en Córdoba: Ibarrola entra en el Gobierno andaluz y Botella deja Salud",
-      "link": "https://www.abc.es/espana/andalucia/cordoba/nuevos-delegados-junta-cordoba-ibarrola-entra-gobierno-20260730152135-nts.html",
-      "desc": "El Consejo de Gobierno de la Junta de Andalucía ha aprobado este miércoles el nuevo decreto de organización territorial de las delegaciones provinciales, una reestructuración que mantiene diez delegaciones territoriales en cada provincia, reorganiza competenci",
-      "date": "Thu, 30 Jul 2026 15:21:35 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
+      "title": "La frontera de Ceuta repite la entrada masiva de mayo de 2021",
+      "link": "https://www.lavanguardia.com/politica/20260730/11604544/frontera-ceuta-repite-entrada-masiva-mayo-2021.html",
+      "desc": "Miles de migrantes marroquíes han vuelto a entrar este jueves en Ceuta",
+      "date": "30 Jul 2026 15:18:29 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
       "caso": "other"
     },
     {
-      "title": "Prisión permanente revisable para la auxiliar que mató a una anciano con insulina en una residencia de León",
-      "link": "https://www.abc.es/espana/castilla-leon/prision-permanente-revisable-auxiliar-mato-anciano-insulina-20260730151702-nt.html",
-      "desc": "La Sala de lo Penal el Tribunal Supremo condenó a una pena de prisión permanente revisable por un delito de asesinato agravado a Silvia V.R., la auxiliar de Enfermería que, en agosto de 2022, agredió a una anciana de 98 años y posteriormente administrarle vari",
-      "date": "Thu, 30 Jul 2026 15:19:48 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Planes en Madrid este fin de semana: conciertos, fiestas populares y exposiciones",
-      "link": "https://www.abc.es/espana/madrid/planes-madrid-fin-semana-fiestas-populares-exposiciones-20260729151025-nt.html",
-      "desc": "Madrid afronta el primer fin de semana de agosto con una amplia agenda de propuestas culturales, de ocio y de entretenimiento para todos los públicos. La capital ofrece desde espectáculos de danza con música en directo y experiencias inmersivas hasta cine, con",
-      "date": "Thu, 30 Jul 2026 15:10:25 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "El PP pregunta a Page dónde están las 10.000 viviendas prometidas hace tres años",
-      "link": "https://www.abc.es/espana/castilla-la-mancha/pp-pregunta-page-10000-viviendas-prometidas-tres-20260730150245-nt.html",
-      "desc": "El Partido Popular ha acusado al presidente de Castilla-La Mancha, Emiliano García-Page, de haber convertido sus once años al frente del Gobierno regional en «once años de promesas pendientes». El diputado autonómico Nacho Redondo ha sostenido que, tras tres l",
-      "date": "Thu, 30 Jul 2026 15:04:09 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "La Junta licitará suelo público en Toledo y Azuqueca de Henares para la construcción de hasta 403 viviendas",
-      "link": "https://www.abc.es/espana/castilla-la-mancha/junta-licitara-suelo-publico-toledo-azuqueca-henares-20260730150206-nt.html",
-      "desc": "El Gobierno de Castilla-La Mancha , a través de la empresa pública Gicaman, licita tres parcelas de titularidad pública en Toledo y Azuqueca de Henares (Guadalajara) para promover la construcción de hasta 403 viviendas. La directora general de Planificación Te",
-      "date": "Thu, 30 Jul 2026 15:03:12 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "España y Marruecos acuerdan la entrega urgente de quienes han entrado ilegalmente en Ceuta",
-      "link": "https://www.abc.es/espana/marlaska-agradece-colaboracion-marruecos-plena-crisis-miles-20260730150120-nt.html",
-      "desc": "Fernando Grande-Marlaska ha contactado con su homólogo marroquí, Abdelouafi Laftit, para agradecerle su colaboración en plena crisis migratoria con miles de personas cruzando andando la frontera con Marruecos. Policías y guardias civiles han denunciado que sus",
-      "date": "Thu, 30 Jul 2026 15:01:20 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "De Alcalá, 31 a Gran Vía, 6: los edificios históricos que gestiona la empresa pública tras el polémico ático de Chamberí",
-      "link": "https://www.abc.es/espana/madrid/alcala-gran-via-edificios-historicos-gestiona-empresa-20260730145955-nt.html",
-      "desc": "El polémico ático de lujo en el barrio de Chamberí adquirido por la Comunidad de Madrid para destinarlo a oficinas institucionales temporales suma un nuevo episodio. El equipo de Ayuso ha anunciado este jueves que pondrá a la venta el inmueble obtenido en abri",
-      "date": "Thu, 30 Jul 2026 14:59:56 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Cuenca activa su plan de transformación con una inversión de 22 millones",
-      "link": "https://www.abc.es/espana/castilla-la-mancha/toledo/cuenca-activa-plan-transformacion-inversion-millones-20260730145359-nt.html",
-      "desc": "El Ayuntamiento de Cuenca ha aprobado de forma definitiva, en sesión plenaria extraordinaria, los Presupuestos 2026, unas cuentas que según ha asegurado el concejal de Hacienda, Juan Manuel Martínez Melero, «van a permitir que continuemos con la transformación",
-      "date": "Thu, 30 Jul 2026 14:53:59 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Vivas traslada a Sánchez la «magnitud de la emergencia» en Ceuta",
-      "link": "https://www.abc.es/espana/vivas-traslada-sanchez-magnitud-emergencia-ceuta-20260730144936-nt.html",
-      "desc": "El presidente de Ceuta , Juan Jesús Vivas, ha mantenido una conversación telefónica con el presidente del Gobierno, Pedro Sánchez, ante la avalancha migratoria que ha llegado a la ciudad autónoma en los últimos días. La situación es límite, insisten en el ento",
-      "date": "Thu, 30 Jul 2026 14:49:36 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Marruecos achaca la entrada masiva en Ceuta a bandas criminales y resalta la colaboración «ejemplar» con España",
-      "link": "https://www.abc.es/espana/marruecos-achaca-entrada-masiva-ceuta-bandas-criminales-20260730144729-nt.html",
-      "desc": "Marruecos ha achacado la entrada masiva de migrantes en la frontera con Ceuta a «organizaciones criminales» y ha destacado que la colaboración con España en materia migratoria es «ejemplar», según han trasladado a Europa Press fuentes diplomáticas de la embaja",
-      "date": "Thu, 30 Jul 2026 14:47:30 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "La Diputación de Guadalajara movilizó 52 vehículos y 72 trabajadores para combatir el incendio de La Mierla",
-      "link": "https://www.abc.es/espana/castilla-la-mancha/diputacion-guadalajara-movilizo-vehiculos-trabajadores-combatir-incendio-20260730144248-nt.html",
-      "desc": "La Diputación de Guadalajara movilizó un total de 52 vehículos y 72 trabajadores propios durante los once días de intervención en el incendio forestal de La Mierla, en la Sierra Norte, un operativo que, según destacó el presidente de la institución, José Luis ",
-      "date": "Thu, 30 Jul 2026 14:42:49 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "El inspector de Hacienda Francisco Fernández Monge pilotará los Fondos Europeos en la Junta de Andalucía",
-      "link": "https://www.abc.es/espana/andalucia/inspector-hacienda-francisco-fernandez-monge-pilotara-fondos-20260730144242-nts.html",
-      "desc": "El Consejo de Gobierno de la Junta de Andalucía ha aprobado este jueves, a propuesta de la Consejería de Economía, Hacienda y Fondos Europeos, el nombramiento del inspector de Hacienda Francisco Fernández Monge como nuevo secretario general de Fondos Europeos ",
-      "date": "Thu, 30 Jul 2026 14:42:42 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "El Gobierno andaluz de PP y Vox suma 13 nuevos altos cargos sin aumentar las consejerías",
-      "link": "https://www.abc.es/espana/andalucia/gobierno-andaluz-pp-vox-suma-nuevos-altos-20260730143814-nts.html",
-      "desc": "El nuevo Gobierno andaluz de coalición del PP y Vox contará con 13 altos cargos más que el anterior Ejecutivo en solitario de los populares. La vicepresidenta tercera, consejera de Economía, Hacienda y Fondos Europeos y portavoz del Ejecutivo, Carolina España,",
-      "date": "Thu, 30 Jul 2026 14:39:02 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Prisión para el joven de 22 años detenido por un incendio forestal en Castropodame (León) la pasada semana",
-      "link": "https://www.abc.es/espana/castilla-leon/detenido-joven-anos-incendio-forestal-castropodame-leon-20260730143842-nt.html",
-      "desc": "La Guardia Civil ha detenido a un joven de 22 años edad, que ha ingresado en prisión, como presunto autor de un delito de incendio forestal, ocurrido en la madrugada del 22 al 23 de julio, en el paraje Las Salinas de Matachana, en el término municipal de Castr",
-      "date": "Thu, 30 Jul 2026 14:38:42 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "El PSOE de Ceuta se une a los demás partidos para pedir a Interior la declaración de emergencia nacional por la crisis migratoria",
-      "link": "https://www.abc.es/espana/psoe-ceuta-exige-interior-declare-emergencia-nacional-20260730143236-nt.html",
-      "desc": "El PSOE de Ceuta se ha unido a los demás grupos parlamentarios en la Junta de Portavoces de la Asamblea de Ceuta para solicitar al Ministerio del Interior, liderado por Fernando Grande-Marlaska, la declaración de emergencia nacional por la crisis migratoria qu",
-      "date": "Thu, 30 Jul 2026 14:32:37 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Vox recurre la sanción del hermano de Sánchez y solicita que sea condenado por tráfico de influencias",
-      "link": "https://www.abc.es/espana/vox-recurre-sancion-hermano-sanchez-solicita-condenado-20260730142912-nt.html",
-      "desc": "Vox presentó este jueves un recurso ante la sala de lo Civil y Penal del Tribunal Superior de Justicia de Extremadura relativo a la sanción de David Sánchez , hermano del presidente del Gobierno, Pedro Sánchez , en el que solicita que sea condenado por tráfico",
-      "date": "Thu, 30 Jul 2026 14:29:48 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Mercadona pone un nuevo precio a los huevos en sus supermercados: cuánto cuestan ahora",
-      "link": "https://www.abc.es/espana/comunidad-valenciana/mercadona-rebaja-precio-huevos-20260730164703-nt.html",
-      "desc": "Mercadona ha vuelto a rebajar el precio de sus huevos, una medida que, según la cadena, supone la tercera bajada aplicada en lo que va de 2026. Los descuentos aplicados afectan tanto a los huevos camperos como a los frescos y a distintos formatos de docenas. E",
-      "date": "Thu, 30 Jul 2026 14:20:42 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Valladolid completa su programa de fiestas para 2026: RonnieWood, de los Rolling Stones, estrella internacional de los conciertos",
-      "link": "https://www.abc.es/espana/castilla-leon/valladolid-completa-programa-fiestas-2026-wood-rolling-20260730122543-nt.html",
-      "desc": "El guitarrista Ronnie Wood de los Rolling Stones y la cantante irlandesa Imelda May protagonizarán la actuación internacional de las fiestas de Valladolid el próximo jueves 10 de septiembre. Con esta revelación el Ayuntamiento de la ciudad del Pisuerga ha comp",
-      "date": "Thu, 30 Jul 2026 14:16:28 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
+      "title": "Vídeo | Así ha sido el asalto de jóvenes migrantes a la frontera de Ceuta",
+      "link": "https://www.lavanguardia.com/politica/20260730/11604546/video-asi-sido-asalto-jovenes-migrantes-frontera-ceuta.html",
+      "desc": "Miles de jóvenes marroquíes tratan de cruzar la valla fronteriza con Ceuta",
+      "date": "30 Jul 2026 15:14:44 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
       "caso": "other"
     },
     {
@@ -207,36 +237,6 @@
       "link": "https://www.lavanguardia.com/fotos/20260730/11604519/aluvion-migrantes-cruzan-frontera-desborda-ceuta.html",
       "desc": "Miles de jóvenes marroquíes y argelinos están accediendo a la ciudad de Ceuta este jueves cruzando a pie o a nado el espigón fronterizo",
       "date": "30 Jul 2026 14:15:55 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "Miles de jóvenes marroquíes se dirigen a Ceuta | Última hora y reacciones, en directo",
-      "link": "https://www.lavanguardia.com/politica/20260730/11604510/miles-jovenes-marroquies-dirigen-ceuta-crisis-migratoria-ultima-hora-reacciones-hoy-directo.html",
-      "desc": "Cientos de migrantes están accediendo a Ceuta desde Marruecos cruzando a pie el espigón fronterizo",
-      "date": "30 Jul 2026 14:14:22 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "Miles de jóvenes marroquíes se dirigen a la frontera con Ceuta para cruzar la valla",
-      "link": "https://www.lavanguardia.com/politica/20260730/11604502/miles-jovenes-marroquies-dirigen-frontera-ceuta-cruzar-valla.html",
-      "desc": "Cientos de ellos ya han cruzado la frontera, que no estaba custodiada en ese momento por policías",
-      "date": "30 Jul 2026 14:04:42 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "Madrid rectifica y pone a la venta el ático para donarlo a los afectados por los incendios",
-      "link": "https://www.lavanguardia.com/local/madrid/20260730/11604468/comunidad-madrid-pone-venta-atico-donarlo-afectados-incendios.html",
-      "desc": "El Gobierno de Ayuso prevé ingresar 20 millones de euros con la venta de cinco inmuebles",
-      "date": "30 Jul 2026 13:26:31 +0200",
       "source": "La Vanguardia",
       "color": "#8e44ad",
       "feedId": "LaVanguardia",
