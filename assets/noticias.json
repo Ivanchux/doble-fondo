@@ -1,7 +1,27 @@
 {
-  "updated": "2026-07-30T01:56:32Z",
+  "updated": "2026-07-30T04:57:17Z",
   "count": 24,
   "items": [
+    {
+      "title": "Cierre de la Línea 7 de Metro de Madrid: estaciones afectadas, fechas y alternativas en transporte público",
+      "link": "https://www.abc.es/espana/madrid/cierre-linea-metro-madrid-estaciones-afectadas-fechas-20260730063000-nt.html",
+      "desc": "Medro de Madrid está renovando su infraestructura durante el verano. Raíles, señales, accesos y otros detalles están mejorando el servicio que disfrutan más de 2 millones de personas cada día. Eso sí, para que todo esto suceda, es necesario el cierre temporal ",
+      "date": "Thu, 30 Jul 2026 06:30:00 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "SonRías Baixas 2026: cartel por días, horarios, cómo llegar y cortes de tráfico por el festival",
+      "link": "https://www.abc.es/espana/galicia/sonrias-baixas-2026-cartel-dias-horarios-llegar-20260730195357-nt.html",
+      "desc": "SonRías Baixas celebrará su 23ª edición del 30 de julio al 1 de agosto en el recinto de As Lagoas, en Bueu (Pontevedra). Un nuevo festival de los muchos que está acogiendo Galicia durante este verano. Tras una edición récord en 2025, que superó sus mejores cif",
+      "date": "Thu, 30 Jul 2026 06:00:00 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
     {
       "title": "El indulto «de tapadillo» a Laura Borràs eleva la tensión en el PSOE",
       "link": "https://www.abc.es/espana/agosticidad-indulto-laura-borras-eleva-tension-psoe-20260730015215-nt.html",
@@ -203,16 +223,6 @@
       "caso": "other"
     },
     {
-      "title": "Prohens reclama a Sánchez soluciones en inmigración y financiación para Baleares",
-      "link": "https://www.abc.es/espana/baleares/prohens-reclama-sanchez-soluciones-inmigracion-financiacion-baleares-20260729205202-nt.html",
-      "desc": "La presidenta del Govern balear, Marga Prohens , ha lamentado este miércoles la ausencia de avances en la agenda balear tras la reunión mantenida con el presidente del Gobierno, Pedro Sánchez, en el Consolat de Mar. Después de cuatro encuentros bilaterales dur",
-      "date": "Wed, 29 Jul 2026 20:52:02 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
       "title": "El inicio de la larga ola de calor trae de nuevo incendios forestales en Catalunya",
       "link": "https://www.lavanguardia.com/local/barcelona/20260729/11603978/inicio-larga-ola-calor-trae-nuevo-incendios-forestales-catalunya.html",
       "desc": "El fuego confina varias horas 3.600 vecinos en el Baix Penedès y en Canyelles, en el Garraf",
@@ -220,16 +230,6 @@
       "source": "La Vanguardia",
       "color": "#8e44ad",
       "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "El Universitario de Ciudad Real lidera el crecimiento de la donación de órganos en Castilla-La Mancha",
-      "link": "https://www.abc.es/espana/castilla-la-mancha/toledo/universitario-ciudad-real-lidera-crecimiento-donacion-organos-20260729202024-nt.html",
-      "desc": "El Hospital General Universitario de Ciudad Real ha liderado durante el primer semestre de 2026 el crecimiento de la donación de órganos en Castilla-La Mancha, consolidándose como el centro que mayor incremento de actividad ha registrado en la Comunidad Autóno",
-      "date": "Wed, 29 Jul 2026 20:20:25 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
       "caso": "other"
     },
     {
