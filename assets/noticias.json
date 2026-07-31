@@ -1,7 +1,57 @@
 {
-  "updated": "2026-07-31T20:59:19Z",
+  "updated": "2026-07-31T22:55:55Z",
   "count": 24,
   "items": [
+    {
+      "title": "Marruecos luce su poder",
+      "link": "https://www.lavanguardia.com/opinion/20260801/11605555/marruecos-luce.html",
+      "desc": "La invasión es un mensaje claro a España: le demuestra que tiene el dominio de la situación de Ceuta",
+      "date": "01 Aug 2026 00:05:00 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
+    {
+      "title": "Feijóo habla con una veintena de dirigentes europeos y con Estados Unidos",
+      "link": "https://www.lavanguardia.com/politica/20260801/11605545/feijoo-habla-veintena-dirigentes-europeos-estados-unidos.html",
+      "desc": "El líder del PP&nbsp;exige un “despliegue masivo”&nbsp;tras la entrada de casi 50.000 inmigrantes procedentes de Marruecos",
+      "date": "01 Aug 2026 00:05:00 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
+    {
+      "title": "La agosticidad de Page, Borràs y Ayuso",
+      "link": "https://www.lavanguardia.com/politica/20260801/11605523/agosticidad-page-borras-ayuso.html",
+      "desc": "",
+      "date": "01 Aug 2026 00:05:00 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
+    {
+      "title": "Un camión de la UME vuelca y deja dos heridos graves y uno leve en Robledo de Chavela (Madrid)",
+      "link": "https://www.abc.es/espana/madrid/camion-ume-vuelca-deja-dos-heridos-graves-20260731233251-nt.html",
+      "desc": "Un camión de la Unidad Militar de Emergencias (UME) ha volcado este viernes por la tarde y ha dejado dos heridos graves y uno leve tras sufrir un aparatoso accidente en la localidad de Robledo de Chavela, según ha informado el 112 Comunidad de Madrid. El accid",
+      "date": "Fri, 31 Jul 2026 23:32:52 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "El sorteo Euromillones deja su premio de El Millón en Almería",
+      "link": "https://www.abc.es/espana/andalucia/almeria/sorteo-euromillones-deja-premio-millon-almeria-20260731230650-nts.html",
+      "desc": "El sorteo del Euromillones correspondiente a la noche de este viernes ha dejado un boleto acertante del Premio de El Millón en Vícar (Almería), donde una vez más ha quedado demostrado que los hay con suerte . La administración El Trébol Dorado , en la plaza Ga",
+      "date": "Fri, 31 Jul 2026 23:06:50 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
     {
       "title": "Los Mossos investigan la muerte violenta de un hombre este viernes en Lloret de Mar",
       "link": "https://www.abc.es/espana/cataluna/mossos-investigan-muerte-violenta-hombre-viernes-lloret-20260731225308-nt.html",
@@ -93,6 +143,16 @@
       "caso": "other"
     },
     {
+      "title": "Trump pone en duda las licencias a Ucrania para construir misiles Patriot",
+      "link": "https://www.lavanguardia.com/internacional/20260731/11605529/trump-pone-duda-licencias-ucrania-construir-misiles-patriot-usarlos.html",
+      "desc": "El presidente expresa su frustración con la incapacidad de poner fin a la guerra en Irán: “Se están comportando muy mal, han sido muy deshonestos”",
+      "date": "31 Jul 2026 19:50:31 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
+    {
       "title": "Datos: ¿Y si el asalto fronterizo en Ceuta hubiese ocurrido en tu ciudad?",
       "link": "https://www.abc.es/espana/asalto-fronterizo-ceuta-ocurrido-ciudad-20260731194932-nt.html",
       "desc": "Como si vaciaras las provincias de Salamanca, La Rioja, Lugo, Orense, Guadalajara, Huesca y Cuenca para llevar a su gente en apenas 24 horas a la ciudad de Madrid. O como si todos los habitantes de Extremadura aparecieran a la vez en las calles de Barcelona ca",
@@ -180,66 +240,6 @@
       "source": "ABC",
       "color": "#c0392b",
       "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "La Universidad de La Laguna detecta acumulación de radón en varios de sus edificios",
-      "link": "https://www.abc.es/espana/canarias/universidad-laguna-detecta-acumulacion-radon-edificios-20260731190344-nt.html",
-      "desc": "La Universidad de La Laguna ha cerrado varios espacios tras detectar niveles de gas radón por encima de los umbrales. La entidad ha tomado la decisión después de recibir los primeros resultados de la mayor campaña de medición realizada en Canarias, con un proy",
-      "date": "Fri, 31 Jul 2026 19:03:44 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Prisión sin fianza para el hombre detenido por la muerte de su pareja en Barcelona",
-      "link": "https://www.lavanguardia.com/vida/20260731/11605506/prision-fianza-hombre-detenido-muerte-pareja-barrio-sant-marti-barcelona.html",
-      "desc": "El crimen se produjo ante la presencia de los dos hijos menores de ambos, de 4 y 8 años&nbsp;",
-      "date": "31 Jul 2026 18:54:48 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "La Diputación de Valladolid reclama culminar la Autovía del Duero y reforzar la seguridad en la N-122",
-      "link": "https://www.abc.es/espana/castilla-leon/diputacion-valladolid-reclama-culminar-autovia-duero-reforzar-20260731185305-nt.html",
-      "desc": "El Pleno de la Diputación de Valladolid ha aprobado este viernes por unanimidad una iniciativa para reclamar al Gobierno de España la culminación de la Autovía del Duero (A-11) . Además se busca reforzar la seguridad vial en la N-122 mientras permanezcan pendi",
-      "date": "Fri, 31 Jul 2026 18:53:06 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Un incendio en Almodóvar del Campo es declarado de Nivel 1 al afectar a la circulación de trenes",
-      "link": "https://www.abc.es/espana/castilla-la-mancha/incendio-almodovar-campo-declarado-nivel-afectar-circulacion-20260731185247-nt.html",
-      "desc": "Un incendio se ha detectado este viernes, sobre las 16.45 horas, a través de la llamada de un particular , que ha alertado de las llamas en el paraje de la Estación de Caracollera, en la pedanía de Valdeazogues de Almodóvar del Campo, en Ciudad Real. Las autor",
-      "date": "Fri, 31 Jul 2026 18:52:48 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "El incendio de la Vall d'Uixó, estabilizado al séptimo día",
-      "link": "https://www.lavanguardia.com/local/valencia/20260731/11605499/incendio-vall-d-uixo-estabilizado-septimo-dia-lucha-fuego.html",
-      "desc": "Se pide a la población que no transite por las carreteras ni las vías de los municipios afectados, para evitar riesgos y para facilitar la actuación de losbomberos, pues el incendio no está controlado ni extinguido.",
-      "date": "31 Jul 2026 18:40:43 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "Italia suspende Schengen con España durante un mes, aunque garantiza los viajes de ciudadanos de la UE",
-      "link": "https://www.lavanguardia.com/internacional/20260731/11605489/italia-suspende-acuerdo-schengen-espana.html",
-      "desc": "Sánchez replica a Meloni que su país recibe más inmigrantes irregulares que España",
-      "date": "31 Jul 2026 18:18:43 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
       "caso": "other"
     }
   ]
