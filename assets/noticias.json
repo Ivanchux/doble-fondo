@@ -1,7 +1,157 @@
 {
-  "updated": "2026-07-31T02:21:24Z",
+  "updated": "2026-07-31T06:39:29Z",
   "count": 24,
   "items": [
+    {
+      "title": "La otra joya de Córdoba: tradición, innovación y una artesanía única en el mundo",
+      "link": "https://www.abc.es/espana/andalucia/cordoba/joya-cordoba-tradicion-innovacion-artesania-unica-mundo-20260731082954-nts.html",
+      "desc": "No lo necesitaba, pero conllevará un impulso -que tampoco es que requiriera mucho-. Son sólo tres palabras, pero significan más que una obra de mil páginas: Indicación Geográfica Protegida (IGP). Desde el miércoles la joyería de Córdoba tiene un sello de calid",
+      "date": "Fri, 31 Jul 2026 08:29:54 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "El Cabildo inicia la restauración de la puerta de San Nicolás de la Mezquita-Catedral de Córdoba",
+      "link": "https://www.abc.es/espana/andalucia/cordoba/cabildo-inicia-restauracion-puerta-san-nicolas-mezquitacatedral-20260731082950-nts.html",
+      "desc": "El Cabildo Catedral de Córdoba acaba de comenzar los trabajos de conservación y restauración de la Puerta de San Nicolás de la M ezquita-Catedral , situada en el lienzo oriental del monumento, en la calle Magistral González Francés. La actuación, que cuenta co",
+      "date": "Fri, 31 Jul 2026 08:29:50 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "La insoportable levedad del tiempo: julio eterno",
+      "link": "https://www.abc.es/espana/andalucia/cordoba/maria-amor-martin-insoportable-levedad-tiempo-julio-eterno-20260731082947-nts.html",
+      "desc": "La novela más famosa de Milan Kundera me ha inspirado el título de esta columna que nada tiene que ver con ella. O sí, también el tiempo gravita entre lo leve y lo pesado. Julio parece no acabar y agosto, no llegar nunca, aunque ambos tengan los mismos días. E",
+      "date": "Fri, 31 Jul 2026 08:29:47 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "El gran secreto de la joya cordobesa: «La labor de las personas conserva la esencia»",
+      "link": "https://www.abc.es/espana/andalucia/cordoba/gran-secreto-joya-cordobesa-labor-personas-primordial-20260731082944-nts.html",
+      "desc": "Ya sea en oro u otro metal precioso -y preciado-, la joyería de Córdoba es más un arte que un trabajo productivo como cualquier otro. Quizá sea porque la manufactura juega un papel fundamental en la elaboración de cada pieza. O por el hecho de que durante sigl",
+      "date": "Fri, 31 Jul 2026 08:29:44 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Crisis migratoria en Ceuta y Melilla, última hora en directo: Marruecos usa gases lacrimógenos y cañones de agua en la frontera",
+      "link": "https://www.lavanguardia.com/politica/20260731/11605016/miles-marroquies-frontera-ceuta-crisis-migratoria-ultima-hora-reacciones-hoy-en-directo.html",
+      "desc": "Pedro Sánchez visitará Ceuta para&nbsp;analizar las medidas necesarias ante una situación que sigue siendo inestable",
+      "date": "31 Jul 2026 08:06:56 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
+    {
+      "title": "Dirigentes europeos culpan a Sánchez de la crisis en Ceuta por el efecto llamada de la regularización masiva",
+      "link": "https://www.abc.es/espana/dirigentes-europeos-culpan-sanchez-efecto-llamada-regularizacion-20260731074241-nt.html",
+      "desc": "El vicepresidente del Parlamento Europeo, el popular francés Francois Bellamy ha propuesto que se restablezcan los controles en las fronteras de España con Francia, para evitar que la avalancha de marroquíes que han entrado en Ceuta se disuelvan en el resto de",
+      "date": "Fri, 31 Jul 2026 07:42:41 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "La Casa Blanca atribuye la situación en Ceuta a políticas de “extrema izquierda” de España",
+      "link": "https://www.lavanguardia.com/politica/20260731/11605022/casa-blanca-atribuye-situacion-ceuta-politicas-extrema-izquierda-espana.html",
+      "desc": "El Ejecutivo estadounidense asegura que&nbsp;Trump lleva tiempo advirtiendo a Europa y afirma que&nbsp;debería rectificar de inmediato o se arriesga a su propia desaparición",
+      "date": "31 Jul 2026 07:31:45 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
+    {
+      "title": "Vox exige el desahucio exprés pero no sabe cuántas viviendas hay okupadas",
+      "link": "https://www.abc.es/espana/andalucia/vox-exige-desahucio-expres-sabe-cuantas-viviendas-20260731071459-nts.html",
+      "desc": "Las ocupaciones de viviendas ha sido uno de los temas centrales del discurso de Vox en los últimos años. Un tema que han llevado reiteradamente al Parlamento de Andalucía y que han sacado a relucir en ruedas de prensa y comparecencias. Y es un asunto que han q",
+      "date": "Fri, 31 Jul 2026 07:14:59 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Solo 629 caseros han cobrado en cinco años la ayuda por desahucios paralizados en Andalucía",
+      "link": "https://www.abc.es/espana/andalucia/solo-629-caseros-cobrado-cinco-anos-ayuda-20260731071452-nts.html",
+      "desc": "El denominado escudo social diseñado por el Gobierno de Pedro Sánchez se creó para garantizar una vivienda a las familias más vulnerables, pero endosando el coste de la protección social a los caseros privados. Para suavizar este golpe, el Ejecutivo creó un fo",
+      "date": "Fri, 31 Jul 2026 07:14:52 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "La Justicia cuestiona el interés de Juana Rivas sobre su hijo: «Le ha telefoneado dos veces en un año»",
+      "link": "https://www.abc.es/espana/andalucia/granada/justicia-cuestiona-interes-juana-rivas-sobre-hijo-20260731090020-nts.html",
+      "desc": "Juana Rivas ha visto rechazado un nuevo recurso con el que pretendía hacerse con la custodia de su hijo menor, Daniel, de 12 años, que vive con su padre, Francesco Arcuri, en la isla italiana de Cerdeña. El abogado de la granadina ha anunciado que acudirá ahor",
+      "date": "Fri, 31 Jul 2026 07:14:45 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "PISA: los directores recibieron instrucciones ambiguas sobre la exclusión de alumnos",
+      "link": "https://www.lavanguardia.com/vida/20260731/11604722/pisa-directores-recibieron-instrucciones-ambiguas-sobre-exclusion-alumnos.html",
+      "desc": "Dos centros participantes aseguran que no se les indicó explícitamente el límite máximo del 5%",
+      "date": "31 Jul 2026 06:05:00 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
+    {
+      "title": "El último apuñalado en La Mina acumulaba 39 detenciones policiales",
+      "link": "https://www.lavanguardia.com/sucesos/20260731/11604746/ultimo-apunalado-mina-acumulaba-39-detenciones-policiales.html",
+      "desc": "Palestino de 52 años, fue expulsado del ambulatorio del barrio por agresivo",
+      "date": "31 Jul 2026 06:00:00 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
+    {
+      "title": "Elena Pita: “El negacionismo se cobra vidas humanas”",
+      "link": "https://www.lavanguardia.com/natural/20260731/11604708/elena-pita-negacionismo-cobra-vidas-humanas.html",
+      "desc": "“Los incendios son un reflejo de todo lo que tenemos que hacer para prepararnos ante un clima distinto”, dice la directora general de la Oficina Española de Cambio Climático",
+      "date": "31 Jul 2026 06:00:00 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
+    {
+      "title": "La Gran Migración de ñus en el Serengueti, en el diván",
+      "link": "https://www.lavanguardia.com/internacional/20260731/11604721/gran-migracion-nus-serengueti-divan.html",
+      "desc": "Tanzania busca evitar la masificación y los bloqueos ilegales que protagonizan los turistas",
+      "date": "31 Jul 2026 06:00:00 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
+    {
+      "title": "Los evacuados por el incendio de Castellón regresan con temor a nuevos rebrotes",
+      "link": "https://www.lavanguardia.com/local/valencia/20260731/11604663/evacuados-incendio-castellon-regresan-temor-nuevos-rebrotes.html",
+      "desc": "Algunos municipios de la zona han vivido ya dos desalojos este verano y el fuego sigue todavía activo",
+      "date": "31 Jul 2026 05:00:00 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
     {
       "title": "Un antidisturbios en Ceuta: «Se abrió la puerta del infierno y comenzó la huida»",
       "link": "https://www.abc.es/espana/antidisturbios-ceuta-abrio-puerta-infierno-comenzo-huida-20260730022218-nt.html",
@@ -73,10 +223,10 @@
       "caso": "other"
     },
     {
-      "title": "El golpe de nuestras vidas",
-      "link": "https://www.lavanguardia.com/opinion/20260731/11604560/golpe-vidas.html",
-      "desc": "La extrema derecha es una manera violenta de acceder al poder: lo hace porque puede",
-      "date": "31 Jul 2026 00:30:00 +0200",
+      "title": "Trump anuncia el “desarme completo” de Hamas y prepara un nuevo gobierno en Gaza",
+      "link": "https://www.lavanguardia.com/internacional/20260731/11605012/trump-anuncia-acuerdo-desarme-completo-hamas-prepara-nuevo-gobierno-gaza.html",
+      "desc": "El presidente señala que, según lo acordado el año pasado en el plan de 20 puntos, las fuerzas israelíes deben ahora retirarse",
+      "date": "31 Jul 2026 01:14:30 +0200",
       "source": "La Vanguardia",
       "color": "#8e44ad",
       "feedId": "LaVanguardia",
@@ -90,156 +240,6 @@
       "source": "La Vanguardia",
       "color": "#8e44ad",
       "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "Ayuso se queda sin ático",
-      "link": "https://www.lavanguardia.com/opinion/20260731/11604773/ayuso-queda-atico.html",
-      "desc": "El piso de lujo de la Comunidad de Madrid servirá ahora para ayudar a las víctimas de los incendios",
-      "date": "31 Jul 2026 00:05:00 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "El cambio climático multiplicó por 20 las condiciones propicias para los incendios del centro peninsular",
-      "link": "https://www.lavanguardia.com/natural/cambio-climatico/20260731/11604739/cambio-climatico-multiplico-20-condiciones-propicias-incendios-centro-peninsular.html",
-      "desc": "En la región del suroeste de Francia azotada por los fuegos, el calentamiento causado por las actividades humanas hace que siniestros de esta magnitud sean dos veces más probables que en un mundo preindustrial",
-      "date": "31 Jul 2026 00:05:00 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "La odisea de los jóvenes desesperados",
-      "link": "https://www.abc.es/espana/odisea-jovenes-desesperados-20260730235148-nt.html",
-      "desc": "Jueves 30 de julio, flamante fiesta del trono en Marruecos; este servidor empieza sus vacaciones y va de Marrakech, ciudad de residencia, a Tetuán, ciudad natal, vía Casablanca. Por la mañana, internet estaba inundado de las noticias del paso de una multitud d",
-      "date": "Thu, 30 Jul 2026 23:51:49 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Feijóo pide en una carta abierta un despliegue de medios masivo para contener la crisis de Ceuta",
-      "link": "https://www.abc.es/espana/feijoo-pide-carta-abierta-despliegue-medios-masivo-20260730232321-nt.html",
-      "desc": "El presidente del Partido Popular, Alberto Núñez Feijóo, ha hecho pública una carta abierta -que ha hecho pública en su red social de X- en la que ha pedido un despliegue de medios masivo para contener la crisis de Ceuta. El líder de los populares ha recalcado",
-      "date": "Thu, 30 Jul 2026 23:23:21 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Cierran la frontera entre Melilla y Marruecos tras un intento de entrada masiva a la ciudad autónoma",
-      "link": "https://www.abc.es/espana/cierran-frontera-melilla-marruecos-tras-intento-entrada-20260730231459-nt.html",
-      "desc": "La frontera de Beni Enzar permanece cerrada este jueves como consecuencia de un intento de entrada masiva registrado cerca de las 22.00 horas tanto por el principal paso fronterizo entre Melilla y Marruecos como por la zona del Dique Sur, según ha informado la",
-      "date": "Thu, 30 Jul 2026 23:15:17 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Ceuta, invadida por miles de magrebíes: «Lo hemos conseguido, el mar me ha sonreído»",
-      "link": "https://www.abc.es/espana/ceuta-invadida-miles-magrebies-conseguido-mar-sonreido-20260730225640-nt.html",
-      "desc": "Ríos de jóvenes, todos varones a excepción de un par de mujeres contadas. La sensación que da es que l a ciudad está tomada por ellos . Comercios y gasolineras cerrados, incluidos supermercados y grandes almacenes como El Corte Inglés. Esta es la visión que de",
-      "date": "Thu, 30 Jul 2026 22:56:41 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "La juez del caso Azud archiva la causa por prescripción al extesorero del PSOE valenciano",
-      "link": "https://www.abc.es/espana/comunidad-valenciana/juez-azud-archiva-causa-prescripcion-extesorero-psoe-20260730223919-nt.html",
-      "desc": "La juez que instruye el caso Azud, una presunta trama de mordidas en adjudicaciones públicas, ha archivado la causa al ex secretario de Finanzas del PSPV-PSOE Pepe Cataluña y el empresario Enrique Gimeno al concluir que los supuestos delitos que se les atribuí",
-      "date": "Thu, 30 Jul 2026 22:39:20 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "La Fundación Bancaja de Valencia acerca el arte de Tàpies a las personas mayores",
-      "link": "https://www.abc.es/espana/comunidad-valenciana/fundacion-bancaja-valencia-acerca-arte-tapies-personas-20260730220908-nt.html",
-      "desc": "La Fundación Bancaja impulsa una nueva propuesta de talleres didácticos para personas mayores vinculados a la exposición 'Tàpies. Última década (2002-2012)' con el objetivo de «favorecer el acceso a la cultura de un colectivo que, en muchas ocasiones, encuentr",
-      "date": "Thu, 30 Jul 2026 22:09:09 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "El incendio de Almorox baja al nivel 0 tras ocho días activo y quemar 270 hectáreas en la provincia",
-      "link": "https://www.abc.es/espana/castilla-la-mancha/toledo/pueblos/incendio-almorox-baja-nivel-tras-ocho-dias-20260730215519-nt.html",
-      "desc": "La dirección operativa del Servicio de Prevención y Extinción de Incendios Forestales del Gobierno de Castilla-La Mancha ha rebajado a nivel cero -el más bajo de la escala- la situación operativa del incendio forestal declarado en el municipio toledano de Almo",
-      "date": "Thu, 30 Jul 2026 21:56:10 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "La Lotería Nacional sonríe a El Carpio con un segundo premio de 6.000 euros al décimo",
-      "link": "https://www.abc.es/espana/andalucia/cordoba/loteria-nacional-sonrie-carpio-segundo-premio-6000-20260730215557-nts.html",
-      "desc": "La Lotería Nacional ha sonreído a la localidad de El Carpio con un segundo premio. El número 78.788 se corresponde con este galardón en el sorteo que se ha celebrado este jueves y en la localidad del Alto Guadalquivir se ha vendido una parte. El portador de ca",
-      "date": "Thu, 30 Jul 2026 21:55:57 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Meloni se plantea suspender el espacio Schengen con España",
-      "link": "https://www.abc.es/espana/italia-plantea-suspender-espacio-schengen-espana-20260730214914-nt.html",
-      "desc": "A lo largo de la tarde, los dos principales aliados de Giorgia Meloni en el Gobierno italiano, Antonio Tajani y Matteo Salvini, han publicado mensajes en redes sociales para presionar a la primera ministra para que suspenda el espacio Schengen con España . Fue",
-      "date": "Thu, 30 Jul 2026 21:49:15 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "León y Zamora siguen en jaque por los incendios forestales",
-      "link": "https://www.abc.es/espana/castilla-leon/leon-zamora-siguen-jaque-incendios-forestales-20260730214429-nt.html",
-      "desc": "León y Zamora siguen siendo pasto de las llamas con incendios forestales que no pueden ser controlados y con decenas de vecinos evacuados. Este jueves se han dado a conocer las primeras estimaciones del incendio declarado en el municipio zamorano de Fermoselle",
-      "date": "Thu, 30 Jul 2026 21:44:29 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Ascienden a 16 los cuerpos recuperados del mar en Ceuta en las últimas 24 horas",
-      "link": "https://www.lavanguardia.com/politica/20260730/11604769/ascienden-12-cuerpos-recuperados-mar-ceuta-ultimas-24-horas.html",
-      "desc": "Si se mantiene el ritmo, pronto se alcanzará la cifra de muertos con la que finalizó el pasado año, de 46 en total",
-      "date": "30 Jul 2026 21:31:06 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "Barcala reprocha a Llorca no declarar festivo autonómico San Juan: «Se ha equivocado»",
-      "link": "https://www.abc.es/espana/comunidad-valenciana/alicante/barcala-reprocha-llorca-declarar-festivo-autonomico-san-20260730211733-nt.html",
-      "desc": "El alcalde de Alicante, Luis Barcala, ha trasladado su «más enérgica protesta» al presidente de la Generalitat Valenciana, Juanfran Pérez Llorca, que no se declare como festivo autonómico el día de San Juan, como sí se ha hecho otros años. «Se ha equivocado», ",
-      "date": "Thu, 30 Jul 2026 21:20:35 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Atracan a punta de cuchillo una gasolinera de Palma del Río en menos de un minuto",
-      "link": "https://www.abc.es/espana/andalucia/cordoba/atracan-punta-cuchillo-gasolinera-palma-rio-minuto-20260730211723-nts.html",
-      "desc": "Pasan menos de 50 segundos . Una persona entra en una estación de servicio con un cuchillo, se lleva el dinero de la caja y se marcha sin hacer daño y sin alterar nada. Ha sido en Palma del Río y lo ha captado la cámara de seguridad. El suceso se ha producido ",
-      "date": "Thu, 30 Jul 2026 21:17:23 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
       "caso": "other"
     }
   ]
