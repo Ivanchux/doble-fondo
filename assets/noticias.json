@@ -1,7 +1,77 @@
 {
-  "updated": "2026-07-30T23:00:10Z",
+  "updated": "2026-07-31T02:21:24Z",
   "count": 24,
   "items": [
+    {
+      "title": "Un antidisturbios en Ceuta: «Se abrió la puerta del infierno y comenzó la huida»",
+      "link": "https://www.abc.es/espana/antidisturbios-ceuta-abrio-puerta-infierno-comenzo-huida-20260730022218-nt.html",
+      "desc": "La tranquilidad se esfumó en un instante. Una gran marcha de personas se amontonó en la frontera con Ceuta . «Se abrió la puerta del infierno y comenzó la huida», describe a ABC uno de los efectivos de la Unidad de Intervención Policial (UIP) que presenció la ",
+      "date": "Fri, 31 Jul 2026 02:22:18 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "«Pásalo»: el mensaje viral que reunió a miles de jóvenes en Castillejos para reventar la frontera con Ceuta",
+      "link": "https://www.abc.es/espana/pasalo-mensaje-viral-reunio-millares-jovenes-castillejos-20260730022020-nt.html",
+      "desc": "La avalancha de jóvenes que cruzó este jueves de forma ilegal la frontera de España con Marruecos por Ceuta se organizó a través de diferentes mensajes en aplicaciones como Instagram y WhatsApp , según informan fuentes policiales a ABC. No se ha detectado, por",
+      "date": "Fri, 31 Jul 2026 02:20:20 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "La llamada de auxilio de Ceuta: «El Gobierno no está entendiendo la dimensión de esta crisis»",
+      "link": "https://www.abc.es/espana/llamada-auxilio-ceuta-gobierno-entendiendo-dimension-crisis-20260730021917-nt.html",
+      "desc": "El grito de desesperación, de auxilio, se lleva repitiendo días en Ceuta. La ciudad autónoma sufre su mayor crisis migratoria en años, en un colapso que las autoridades consideran imposible de gestionar en este momento. Las primeras cifras apuntan a que 20.000",
+      "date": "Fri, 31 Jul 2026 02:19:17 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Argelia, Trump y Sánchez: una encrucijada sobre la frontera con Marruecos",
+      "link": "https://www.abc.es/espana/relacion-sanchez-marruecos-planea-sobre-ceuta-20260730021450-nt.html",
+      "desc": "Pedro Sánchez viajó el 20 de julio a Argelia buscando recuperar una buena relación para estabilizar y aumentar el suministro del gas tras la crisis por el Sáhara Occidental. Una visita que, si bien tuvo cariz energético declarado, fue diseñada por parte de la ",
+      "date": "Fri, 31 Jul 2026 02:14:50 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Malestar en el PP con la crisis desatada por Ayuso y la compra del ático",
+      "link": "https://www.abc.es/espana/madrid/malestar-pp-crisis-desatada-ayuso-compra-atico-20260730021405-nt.html",
+      "desc": "El PP está acostumbrado a convulsionar con noticias que tienen que ver con la Comunidad de Madrid. Todo lo que rodea a Isabel Díaz Ayuso escala posiciones rápidamente. Pero en las últimas horas, tanto en la sede del PP Nacional, en la calle de Génova, como en ",
+      "date": "Fri, 31 Jul 2026 02:14:05 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Jueces y fiscales ven necesario que el indulto a Borràs se motive para no minar la confianza ciudadana",
+      "link": "https://www.abc.es/espana/jueces-fiscales-ven-necesario-indulto-motive-minar-20260731021341-nt.html",
+      "desc": "El indulto del Gobierno a la independentista Laura Borràs y a otros dos condenados por corrupción reabre el debate sobre la conveniencia de motivar al máximo esta medida de gracia, especialmente cuando parece responder más a conveniencias políticas o partidist",
+      "date": "Fri, 31 Jul 2026 02:13:41 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "El Gobierno «castiga» al Colegio de Médicos tras criticar el Estatuto Marco: «Nos quitan parte de la sede sin explicación»",
+      "link": "https://www.abc.es/espana/madrid/gobierno-castiga-colegio-medicos-quitado-parte-sede-20260730012851-nt.html",
+      "desc": "La orden ministerial llegó sin previo aviso y cayó como un jarro de agua fría en la sede del Ilustre Colegio Oficial de Médicos de Madrid (ICOMEM). Después de varios años de reuniones con el Ministerio de Ciencia, Innovación y Universidades para buscar una fór",
+      "date": "Fri, 31 Jul 2026 01:28:51 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
     {
       "title": "El golpe de nuestras vidas",
       "link": "https://www.lavanguardia.com/opinion/20260731/11604560/golpe-vidas.html",
@@ -167,76 +237,6 @@
       "link": "https://www.abc.es/espana/andalucia/cordoba/atracan-punta-cuchillo-gasolinera-palma-rio-minuto-20260730211723-nts.html",
       "desc": "Pasan menos de 50 segundos . Una persona entra en una estación de servicio con un cuchillo, se lleva el dinero de la caja y se marcha sin hacer daño y sin alterar nada. Ha sido en Palma del Río y lo ha captado la cámara de seguridad. El suceso se ha producido ",
       "date": "Thu, 30 Jul 2026 21:17:23 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "«Esto no puede seguir así», el lamento de una familia bodeguera de Arribes del Duero",
-      "link": "https://www.abc.es/espana/castilla-leon/puede-seguir-lamento-pareja-bodegueros-arribes-duero-20260730211133-nt.html",
-      "desc": "«Te tengo que dejar. Hay fuegos activos y tengo que apoyar», escribe precipitada Liliana en la tarde de este jueves en una conversación de WhatsApp después de innumerables intentos para poder tener una conversación telefónica. Tampoco tenía agua, ni luz. Ella ",
-      "date": "Thu, 30 Jul 2026 21:11:33 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "El asalto a la valla de Ceuta visto desde las cámaras de los móviles",
-      "link": "https://www.lavanguardia.com/politica/20260730/11604732/asalto-valla-ceuta-visto-camaras-moviles.html",
-      "desc": "Decenas de móviles han podido capturar el momento en el que miles de personas han cruzado la frontera de Ceuta y han transitado por las calles de la ciudad",
-      "date": "30 Jul 2026 20:46:27 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "Meloni propone suspender Schengen con España y desata una crisis diplomática",
-      "link": "https://www.lavanguardia.com/politica/20260730/11604749/italia-considera-suspender-acuerdo-schengen-espana-crisis-migratoria.html",
-      "desc": "Madrid convoca al embajador italiano después de que Roma relacionara la crisis de Ceuta con la regularización extraordinaria de inmigrantes",
-      "date": "30 Jul 2026 20:40:31 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "Denuncian la entrada masiva en Ceuta como un ataque a la soberanía española",
-      "link": "https://www.abc.es/espana/denuncian-entrada-masiva-ceuta-ataque-soberania-espanola-20260730203833-nt.html",
-      "desc": "Iustitia Europa ha presentado ante la Sección de Instrucción de Guardia de la Audiencia Nacional una denuncia por la entrada masiva de miles de personas a la Ciudad Autónoma de Ceuta desde territorio marroquí, un suceso que califica de «agresión híbrida» contr",
-      "date": "Thu, 30 Jul 2026 20:38:33 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "gen"
-    },
-    {
-      "title": "Remolcado un cayuco con 54 inmigrantes en aguas de El Hierro",
-      "link": "https://www.abc.es/espana/canarias/remolcado-cayuco-inmigrantes-aguas-hierro-20260730203530-nt.html",
-      "desc": "Salvamento Marítimo ha remolcado un cayuco con 54 personas migrantes localizado a menos de 2 kilómetros al sur de La Restinga, en la isla de El Hierro. Efectivos de Salvamento Marítimo han coordinado el rescate y traslado a puerto de la embarcación, en la que ",
-      "date": "Thu, 30 Jul 2026 20:35:30 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "gen"
-    },
-    {
-      "title": "Controlado el incendio declarado este jueves en Villarejo de Montalbán (Toledo)",
-      "link": "https://www.abc.es/espana/castilla-la-mancha/toledo/pueblos/controlado-incendio-declarado-jueves-villarejo-montalban-toledo-20260730203012-nt.html",
-      "desc": "El incendio declarado este jueves en la localidad toledana de Villarejo de Montalbán (Toledo) ha quedado controlado a las 18.39, según informa el servicio de Prevención y Extinción de Incendios Forestales del Gobierno regional. El fuego se ha originado a las 1",
-      "date": "Thu, 30 Jul 2026 20:30:13 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "La Diputación de Córdoba invierte 3,5 millones en el nuevo Centro de Tratamiento de Dos Torres",
-      "link": "https://www.abc.es/espana/andalucia/cordoba/diputacion-cordoba-invierte-millones-nuevo-centro-tratamiento-20260730202240-nts.html",
-      "desc": "El presidente de la Diputación Provincial de Córdoba, Salvador Fuentes , acompañado por el delegado de Infraestructuras, Sostenibilidad y Agricultura, Andrés Lorite, y el alcalde de Dos Torres, Manuel Torres, ha inaugurado el Centro de Tratamiento de Residuos ",
-      "date": "Thu, 30 Jul 2026 20:22:41 +0200",
       "source": "ABC",
       "color": "#c0392b",
       "feedId": "ABC",
