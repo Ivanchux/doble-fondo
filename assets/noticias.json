@@ -1,7 +1,207 @@
 {
-  "updated": "2026-07-31T15:58:37Z",
+  "updated": "2026-07-31T17:43:04Z",
   "count": 24,
   "items": [
+    {
+      "title": "La incertidumbre marca el final de curso en las escuelas infantiles municipales de Toledo",
+      "link": "https://www.abc.es/espana/castilla-la-mancha/toledo/incertidumbre-marca-final-curso-escuelas-infantiles-municipales-20260731193107-nt.html",
+      "desc": "El curso ha terminado en las tres escuelas infantiles municipales de Toledo con un mensaje de agradecimiento, pero también con una gran dosis de incertidumbre. La empresa concesionaria, La Casita de Chocolate, ha remitido una carta a las familias en la que rec",
+      "date": "Fri, 31 Jul 2026 19:31:08 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Emilio Palomo, nuevo párroco de Santa Beatriz de Silva en Toledo tras 23 años en Yepes",
+      "link": "https://www.abc.es/espana/castilla-la-mancha/toledo/emilio-palomo-nuevo-parroco-santa-beatriz-silva-20260731191943-nt.html",
+      "desc": "Los nombramientos realizados el pasado miércoles por el arzobispo de Toledo, Francisco Cerro, para el próximo curso supondrán una renovación completa del equipo sacerdotal de la parroquia de Santa Beatriz de Silva, en el barrio de Valparaíso. Se trata de un re",
+      "date": "Fri, 31 Jul 2026 19:19:43 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "El hombre que asesinó a su mujer en Barcelona delante de sus hijos le asestó once puñaladas con una daga",
+      "link": "https://www.abc.es/espana/cataluna/hombre-asesino-mujer-barcelona-delante-hijos-asesto-20260731191914-nt.html",
+      "desc": "Le asestó, al menos, 11 puñaladas con una daga de 20 centímetros, en un brazo, el tórax y la cabeza. El ataque afectó al corazón y a los pulmones, matándola. Lo hizo delante de sus dos hijos , un niño y una niña, de 8 y 4 años, en el domicilio familiar, en la ",
+      "date": "Fri, 31 Jul 2026 19:19:14 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "La crisis de Ceuta enfrenta el tono institucional del PP con la dureza de Vox en Andalucía",
+      "link": "https://www.abc.es/espana/andalucia/inmigracion-enfrenta-tono-institucional-pp-dureza-vox-20260801191809-nts.html",
+      "desc": "La crisis migratoria en Ceuta también ha servido para evidenciar las diferencias entre los socios del Gobierno andaluz. Aunque PP y Vox comparten Ejecutivo, ambas formaciones han vuelto a dejar patente que mantienen posiciones distintas en materia de inmigraci",
+      "date": "Fri, 31 Jul 2026 19:18:09 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Fallece un menor de 16 años tras ser atropellado en bicicleta en un polígono de Betanzos (La Coruña)",
+      "link": "https://www.abc.es/espana/galicia/fallece-menor-anos-tras-atropellado-bicicleta-poligono-20260731190850-nt.html",
+      "desc": "El joven de 16 años atropellado este viernes por un turismo mientras circulaba en bicicleta por el polígono industrial de Piadela , en Betanzos, ha fallecido en el hospital a causa de la gravedad de sus heridas. El siniestro se produjo minutos antes de las 10.",
+      "date": "Fri, 31 Jul 2026 19:08:50 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Clausuran un pub en Almería en el que ochenta menores consumían alcohol",
+      "link": "https://www.abc.es/espana/andalucia/almeria/clausuran-pub-almeria-ochenta-menores-consumian-alcohol-20260731190849-nts.html",
+      "desc": "Efectivos del Grupo Rápido de Intervención Policial (GRIP) de la Policía Local de Almería han desalojado y clausurado esta madrugada un pub situado en la calle Conde Ofalia después de comprobar que en su interior había alrededor de 80 menores que consumían beb",
+      "date": "Fri, 31 Jul 2026 19:08:49 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "La Universidad de La Laguna detecta acumulación de radón en varios de sus edificios",
+      "link": "https://www.abc.es/espana/canarias/universidad-laguna-detecta-acumulacion-radon-edificios-20260731190344-nt.html",
+      "desc": "La Universidad de La Laguna ha cerrado varios espacios tras detectar niveles de gas radón por encima de los umbrales. La entidad ha tomado la decisión después de recibir los primeros resultados de la mayor campaña de medición realizada en Canarias, con un proy",
+      "date": "Fri, 31 Jul 2026 19:03:44 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Prisión sin fianza para el hombre detenido por la muerte de su pareja en Barcelona",
+      "link": "https://www.lavanguardia.com/local/barcelona/20260731/11605506/prision-fianza-hombre-detenido-muerte-pareja-barrio-sant-marti-barcelona.html",
+      "desc": "El crimen se produjo ante la presencia de los dos hijos menores de ambos, de 4 y 8 años&nbsp;",
+      "date": "31 Jul 2026 18:54:48 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
+    {
+      "title": "La Diputación de Valladolid reclama culminar la Autovía del Duero y reforzar la seguridad en la N-122",
+      "link": "https://www.abc.es/espana/castilla-leon/diputacion-valladolid-reclama-culminar-autovia-duero-reforzar-20260731185305-nt.html",
+      "desc": "El Pleno de la Diputación de Valladolid ha aprobado este viernes por unanimidad una iniciativa para reclamar al Gobierno de España la culminación de la Autovía del Duero (A-11) . Además se busca reforzar la seguridad vial en la N-122 mientras permanezcan pendi",
+      "date": "Fri, 31 Jul 2026 18:53:06 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Un incendio en Almodóvar del Campo es declarado de Nivel 1 al afectar a la circulación de trenes",
+      "link": "https://www.abc.es/espana/castilla-la-mancha/incendio-almodovar-campo-declarado-nivel-afectar-circulacion-20260731185247-nt.html",
+      "desc": "Un incendio se ha detectado este viernes, sobre las 16.45 horas, a través de la llamada de un particular , que ha alertado de las llamas en el paraje de la Estación de Caracollera, en la pedanía de Valdeazogues de Almodóvar del Campo, en Ciudad Real. Las autor",
+      "date": "Fri, 31 Jul 2026 18:52:48 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "La izquierda va más allá que Sánchez y sí señala a Marruecos por Ceuta",
+      "link": "https://www.abc.es/espana/izquierda-alla-sanchez-culpa-marruecos-crisis-ceuta-20260731185013-nt.html",
+      "desc": "Al contrario que Pedro Sánchez, quien, este viernes, en su desplazamiento a Ceuta, no solo ha evitado hacer una crítica directa a Marruecos, sino que incluso ha insistido en llamarlo «país aliado», la izquierda española —y, en concreto, partidos que integran S",
+      "date": "Fri, 31 Jul 2026 18:50:13 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "El sector del Metal de Albacete firma un convenio con subidas salariales del 3,5% hasta 2028",
+      "link": "https://www.abc.es/espana/castilla-la-mancha/sector-metal-albacete-firma-convenio-subidas-salariales-20260731185009-nt.html",
+      "desc": "Los sindicatos CCOO y UGT FICA y la patronal han firmado este viernes el nuevo convenio colectivo del sector del Metal de la provincia de Albacete, un acuerdo que tendrá una vigencia de tres años y será de aplicación a más de 8.000 trabajadores. El convenio ha",
+      "date": "Fri, 31 Jul 2026 18:50:09 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "La Xunta presentará en septiembre su reforma «valiente» de la atención primaria",
+      "link": "https://www.abc.es/espana/galicia/xunta-presentara-septiembre-reforma-valiente-atencion-primaria-20260731184135-nt.html",
+      "desc": "El presidente de la Xunta de Galicia, Alfonso Rueda, ha reafirmado este viernes la apuesta del Executivo autonómico por una modernización integral de la atención primaria orientada a consolidar una asistencia más próxima, moderna y resolutiva. Durante una visi",
+      "date": "Fri, 31 Jul 2026 18:41:35 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "El BOE oficializa el traspaso de la titularidad de la AP-9",
+      "link": "https://www.abc.es/espana/galicia/boe-oficializa-traspaso-titularidad-ap9-20260731184104-nt.html",
+      "desc": "El BOE ha publicado este viernes la ley que regula el traspaso de la AP-9, que establece el marco general de la transferencia y que deberá concretarse en un acuerdo entre la Administración General del Estado y la Xunta. El texto entrará en vigor este sábado. L",
+      "date": "Fri, 31 Jul 2026 18:41:04 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "El incendio de la Vall d'Uixó, estabilizado al séptimo día",
+      "link": "https://www.lavanguardia.com/local/valencia/20260731/11605499/incendio-vall-d-uixo-estabilizado-septimo-dia-lucha-fuego.html",
+      "desc": "Se pide a la población que no transite por las carreteras ni las vías de los municipios afectados, para evitar riesgos y para facilitar la actuación de losbomberos, pues el incendio no está controlado ni extinguido.",
+      "date": "31 Jul 2026 18:40:43 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
+    {
+      "title": "Italia suspende el acuerdo Schengen con España por la crisis de Ceuta",
+      "link": "https://www.abc.es/espana/italia-suspende-acuerdo-schengen-espana-crisis-ceuta-20260731183653-nt.html",
+      "desc": "El ministro de Interior de Italia, Matteo Piantedosi, ha convocado a mediodía de este viernes al Comité de Análisis sobre Inmigración y Seguridad de las Fronteras, y tras analizar sus datos ha ordenado a las seis de la tarde la suspensión del espacio Schengen ",
+      "date": "Fri, 31 Jul 2026 18:36:53 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "El caos en Ceuta justifica la aplicación de la Ley de Seguridad Nacional",
+      "link": "https://www.abc.es/espana/juristas-creen-caos-ceuta-justifica-aplicacion-ley-20260731182049-nt.html",
+      "desc": "La entrada irregular de cerca de 50.000 inmigrantes en Ceuta (en la ciudad autónoma son 80.000 habitantes) está dejando los servicios públicos absolutamente colapsados, decenas de comercios cerrados y a miles de ceutíes encerrados en sus casas por miedo y sin ",
+      "date": "Fri, 31 Jul 2026 18:20:49 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Italia suspende el acuerdo Schengen con España durante un mes",
+      "link": "https://www.lavanguardia.com/internacional/20260731/11605489/italia-suspende-acuerdo-schengen-espana.html",
+      "desc": "Sánchez replica a Meloni que su país recibe más inmigrantes irregulares que España",
+      "date": "31 Jul 2026 18:18:43 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
+    {
+      "title": "Castilla y León eleva a 26 los focos de Newcastle tras detectar tres nuevos brotes en Valladolid, Segovia y Salamanca",
+      "link": "https://www.abc.es/espana/castilla-leon/castilla-leon-eleva-focos-newcastle-tras-detectar-20260731181229-nt.html",
+      "desc": "La enfermedad de Newcastle continúa avanzando en Castilla y León. El Ministerio de Agricultura, Pesca y Alimentación ha confirmado este viernes tres nuevos focos en explotaciones avícolas de Íscar (Valladolid), Navas de Oro (Segovia) y Paradinas de San Juan (S",
+      "date": "Fri, 31 Jul 2026 18:17:37 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "El vídeo de un policía marroquí abriendo la frontera de Ceuta es de 2021",
+      "link": "https://www.lavanguardia.com/vida/verificacion/20260731/11605465/video-policia-marroqui-abriendo-frontera-ceuta-2021.html",
+      "desc": "Diversas cuentas de redes comparten imágenes de un agente de la frontera de Marruecos dejando pasar a personas por la valla de Ceuta como si fueran recientes, pero son de hace cinco años",
+      "date": "31 Jul 2026 17:43:23 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
     {
       "title": "Los tenderos de Ceuta que resisten ante una muchedumbre hambrienta",
       "link": "https://www.abc.es/espana/tenderos-ceuta-resisten-ante-muchedumbre-hambrienta-20260731174308-nt.html",
@@ -40,206 +240,6 @@
       "source": "ABC",
       "color": "#c0392b",
       "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "La UIE amplía su oferta con Enfermería, Ciberseguridad y Psicología Sanitaria",
-      "link": "https://www.abc.es/espana/galicia/uie-amplia-oferta-enfermeria-ciberseguridad-psicologia-sanitaria-20260731170933-nt.html",
-      "desc": "La Universidad Intercontinental de la Empresa (UIE) estrena su primera promoción de graduados y amplia su oferta académica. La institución promovida por ABANCA y Afundación estrenará el próximo curso el Grado en Enfermería y los másteres universitarios en Psic",
-      "date": "Fri, 31 Jul 2026 17:10:54 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "A concurso una parcela de la Junta en Azuqueca de Henares para 172 viviendas de protección",
-      "link": "https://www.abc.es/espana/castilla-la-mancha/concurso-parcela-junta-azuqueca-henares-172-viviendas-20260731170859-nt.html",
-      "desc": "La Junta de Comunidades, a través de Gicaman, ha sacado a concurso una parcela residencial en Azuqueca de Henares (Guadalajara) destinada a la construcción d e vivienda colectiva de protección oficial en régimen de compraventa. El solar permitirá levantar un m",
-      "date": "Fri, 31 Jul 2026 17:10:12 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "La forma de pedir una cerveza en España que molesta terriblemente a los camareros: «Es la frase del manual del cuñao»",
-      "link": "https://www.abc.es/espana/comunidad-valenciana/forma-pedir-cerveza-espana-molesta-terriblemente-camareros-20260731074500-nt.html",
-      "desc": "Los bares en un país como España se convierten a diario en un auténtico templo del culto a los tópicos y la cultura de los chascarrillos , parece evidente que muchos camareros estén hartos de escuchar siempre las mismas gracietas: los clientes van cambiando a ",
-      "date": "Fri, 31 Jul 2026 17:05:26 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Pollán reclama «deportaciones masivas» tras el asalto de inmigrantes a Ceuta y pide retirar ayudas a ONG",
-      "link": "https://www.abc.es/espana/castilla-leon/pollan-reclama-deportaciones-masivas-tras-asalto-masivo-20260731165701-nt.html",
-      "desc": "El Vicepresidente Primero y Consejero de Desregulación, Familia y Ayudas Sociales, Carlos Pollán, ha reclamado «deportaciones masivas» tras la llegada de personas migrantes a Ceuta y ha asegurado que su formación no contribuirá «de ninguna manera a la invasión",
-      "date": "Fri, 31 Jul 2026 16:57:01 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "EE.UU. culpa directamente a Sánchez: «Él facilita la inmigración ilegal masiva a Europa»",
-      "link": "https://www.abc.es/espana/rubio-culpa-directamente-sanchez-facilita-inmigracion-ilegal-20260730165027-nt.html",
-      "desc": "El departamento de Estado norteamericano, comandado por Marco Rubio, se sumó este viernes a la línea marcada por la Casa Blanca y su departamento responsabilizó directamente al Gobierno de Pedro Sánchez del incidente en Ceuta, al considerar que es consecuencia",
-      "date": "Fri, 31 Jul 2026 16:55:55 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Taburete hace escala el 5 de agosto en el SkyFest Benidorm dentro de su esperada gira",
-      "link": "https://www.abc.es/espana/comunidad-valenciana/alicante/taburete-escala-agosto-skyfest-benidorm-dentro-esperada-20260731165057-nt.html",
-      "desc": "La cuenta atrás para uno de los eventos veraniegos de este 2026 en Benidorm está en marcha, para recibir al grupo madrileño Taburete el próximo 5 de agosto dentro de la gira 'El Perro que Fuma Tour 2026', que está recorriendo más de 20 ciudades de toda España ",
-      "date": "Fri, 31 Jul 2026 16:50:58 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Nuevo horario de Metrovalencia a partir del 1 de agosto",
-      "link": "https://www.abc.es/espana/comunidad-valenciana/nuevo-horario-metrovalencia-partir-agosto-20260731164924-nt.html",
-      "desc": "Ferrocarrils de la Generalitat Valenciana (FGV) aplicará durante el mes de agosto el horario de verano en Metrovalencia, equivalente al horario que se aplica los sábados durante el resto del año, según ha informado la Generalitat en un comunicado. Los horarios",
-      "date": "Fri, 31 Jul 2026 16:49:25 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "La UE avisa: trasladar magrebíes de Ceuta a la península sería motivo para suspender Schengen",
-      "link": "https://www.abc.es/espana/ue-avisa-trasladar-magrebies-ceuta-peninsula-motivo-20260731164554-nt.html",
-      "desc": "La situación «está en permanente evolución» y por ello la Comisión Europea se mantiene en contacto con las autoridades españolas, que, por otro lado, todavía no han pedido ningún tipo de ayuda europea. Fuentes del ejecutivo comunitario han asegurado que por ah",
-      "date": "Fri, 31 Jul 2026 16:45:55 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Prisión sin fianza para el acusado de matar a su padre con un arma de fuego en Ribeira (La Coruña)",
-      "link": "https://www.abc.es/espana/galicia/prision-fianza-acusado-matar-padre-arma-fuego-20260731163652-nt.html",
-      "desc": "El Juzgado de Instrucción número 1 de Ribeira, en funciones de guardia, ha decretado el ingreso en prisión provisional, comunicada y sin fianza para el joven detenido como presunto autor de la muerte de su padre tras dispararle con un arma de fuego en esta loc",
-      "date": "Fri, 31 Jul 2026 16:38:05 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Hallan en Numancia restos de una ocupación prehistórica anterior a la ciudad celtibérica",
-      "link": "https://www.abc.es/espana/castilla-leon/hallan-numancia-restos-ocupacion-prehistorica-antecedente-ciudad-20260731163717-nt.html",
-      "desc": "El equipo investigador de Numancia ha dado con restos de una ocupación preshistórica que podría corresponder al antecedente de la ciudad celtibérica. Es uno de los resultados más destacados de la campaña de excavación que se desarrolla este verano en el yacimi",
-      "date": "Fri, 31 Jul 2026 16:37:18 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Jacobo Martí sufre un esguince de rodilla de grado II y queda pendiente de nuevas pruebas",
-      "link": "https://www.abc.es/espana/andalucia/cordoba/cordoba-cf/jacobo-marti-sufre-esguince-rodilla-grado-queda-20260731161519-nts.html",
-      "desc": "El Córdoba CF ya conoce el primer diagnóstico de Jacobo Martí después de la lesión que sufrió durante el amistoso celebrado este viernes ante el Elche. La valoración inicial, que no definitiva, de los servicios médicos apunta a un esguince de rodilla con afect",
-      "date": "Fri, 31 Jul 2026 16:34:57 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Aprobados 49 proyectos Vinatï que recibirán 12,8 millones para inversiones de modernización y mejora",
-      "link": "https://www.abc.es/espana/castilla-la-mancha/aprobados-proyectos-vinati-recibiran-128-millones-inversiones-20260731163255-nt.html",
-      "desc": "La Consejería de Agricultura, Ganadería y Desarrollo Rural, a través de la Dirección General de Producción Agroalimentaria y Cooperativas, ha enviado esta semana las resoluciones aprobatorias de la última convocatoria de ayudas Vinatï en la que se han aprobado",
-      "date": "Fri, 31 Jul 2026 16:32:55 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "El juez Calama rectifica y permite a Zapatero tratar de invalidar su causa por nulidad",
-      "link": "https://www.abc.es/espana/juez-calama-rectifica-permite-zapatero-tratar-anular-20260731162154-nt.html",
-      "desc": "El juez que investiga al expresidente del Gobierno, José Luis Rodríguez Zapatero , por cobrar presuntamente una mordida para influir en el rescate público de 53 millones de euros a la aerolínea Plus Ultra, acaba de rectificar y permitir a la defensa del políti",
-      "date": "Fri, 31 Jul 2026 16:21:54 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "zap"
-    },
-    {
-      "title": "Detenidas 5 personas, entre ellas un policía nacional, por increpar a Maroto en la final de España del Mundial",
-      "link": "https://www.abc.es/espana/madrid/detenidas-personas-incluido-policia-nacional-increpar-maroto-20260731161901-nt.html",
-      "desc": "La Policía Nacional detuvo el pasado 20 de julio a cinco personas, entre ellos un agente del Cuerpo fuera de servicio, acusados de increpar a la portavoz del PSOE en el Ayuntamiento de Madrid, Reyes Maroto , cuando celebraba en un bar, junto a otros miembros d",
-      "date": "Fri, 31 Jul 2026 16:19:02 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Los bomberos darán respuesta en un tiempo máximo de treinta minutos en Andalucía",
-      "link": "https://www.abc.es/espana/andalucia/bomberos-daran-respuesta-tiempo-maximo-treinta-minutos-20260731161437-nts.html",
-      "desc": "Los bomberos andaluces darán respuesta a una emergencia en un plazo de treinta minutos. El vicepresidente primero y consejero de Presidencia, Sanidad y Emergencias, Antonio Sanz, ha anunciado que el nuevo decreto de coordinación, organización y funcionamiento ",
-      "date": "Fri, 31 Jul 2026 16:17:59 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "El novio de Ayuso vuelve a publicar la venta del ático en el que vive con la presidenta por 1,79 millones",
-      "link": "https://www.abc.es/espana/madrid/novio-ayuso-vuelve-publicar-venta-atico-vive-20260731161658-nt.html",
-      "desc": "La vivienda de Alberto González Amador, pareja de la presidenta de la Comunidad de Madrid, Isabel Díaz Ayuso , ha vuelto a situarse en el foco mediático tras salir al mercado inmobiliario por 1,79 millones de euros. El anunció se publicó en internet el pasado ",
-      "date": "Fri, 31 Jul 2026 16:16:58 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "¿Por qué es de color rojo el retardante utilizado en los incendios forestales?",
-      "link": "https://www.lavanguardia.com/vida/20260731/11605408/color-rojo-retardante-utilizado-incendios-forestales.html",
-      "desc": "Esta sustancia, de precio elevado, se utiliza para apagar las llamas sino para detener su avance",
-      "date": "31 Jul 2026 16:03:09 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "Casi 1.600 casas quemadas en los incendios del centro de España, la mayoría en la Comunidad de Madrid",
-      "link": "https://www.lavanguardia.com/vida/20260731/11605409/1-600-casas-quemadas-incendios-centro-espana-mayoria-madrid.html",
-      "desc": "Se calcula que tienen un valor de mercado que ronda los 343,9 millones de euros, según estimaciones del portal inmobiliario Idealista",
-      "date": "31 Jul 2026 15:51:49 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "Trump avisa de que EEUU estará como Ceuta “dentro de tres años” si ganan los demócratas",
-      "link": "https://www.lavanguardia.com/politica/20260731/11605392/trump-avisa-eeuu-estara-ceuta-tres-anos-ganan-democratas.html",
-      "desc": "La Casa Blanca ataca la política española “de extrema izquierda” por la entrada masiva de inmigrantes al sur de Europa",
-      "date": "31 Jul 2026 15:21:57 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "La crisis migratoria divide a la UE sobre la estabilidad de España en el espacio Schengen",
-      "link": "https://www.lavanguardia.com/internacional/20260731/11605381/crisis-migratoria-divide-ue-sobre-estabilidad-espana-espacio-schengen.html",
-      "desc": "Tras la propuesta de Meloni,&nbsp; otros países se han sumado a la propuesta o han mostrado su voluntad por responder a la crisis mediante un refuerzo de sus fronteras",
-      "date": "31 Jul 2026 15:03:10 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
       "caso": "other"
     }
   ]
