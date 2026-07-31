@@ -1,7 +1,77 @@
 {
-  "updated": "2026-07-31T17:43:04Z",
+  "updated": "2026-07-31T19:16:59Z",
   "count": 24,
   "items": [
+    {
+      "title": "Los incendios conceden una pequeña tregua pero siguen muy activos",
+      "link": "https://www.abc.es/espana/castilla-leon/incendios-conceden-pequena-tregua-siguen-activos-20260731205125-nt.html",
+      "desc": "No ha pasado el peligro y mucho menos el miedo a que las llamas se vuelvan a avivar y amenacen con destruir todo lo que encuentran a su paso, naves, paisajes, viviendas y, en definitiva, la forma de vida de los habitantes que muchos pueblos de Castilla y León ",
+      "date": "Fri, 31 Jul 2026 20:51:25 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "El sector prevé una cosecha récord de 14.000 toneladas de pistacho, pero alerta de problemas para venderla",
+      "link": "https://www.abc.es/espana/castilla-la-mancha/sector-preve-cosecha-record-14000-toneladas-pistacho-20260731202017-nt.html",
+      "desc": "La producción española de pistacho alcanzará este año una cifra récord de 14.000 toneladas, la mayor registrada hasta la fecha, gracias a la entrada en plena producción de las nuevas plantaciones. Sin embargo, el sector afronta la campaña con preocupación por ",
+      "date": "Fri, 31 Jul 2026 20:20:18 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "«Volved, no entréis»: el enfado y la decepción impulsa a los magrebíes a cruzar la frontera de vuelta",
+      "link": "https://www.abc.es/espana/volved-entreis-enfado-decepcion-impulsa-marroquies-cruzar-20260731201406-nt.html",
+      "desc": "La ciudad observa cómo quienes llegaron vuelven a marchar . Lo hacen arrastrando los pies, con despedidas no exentas de palabras y manos en alto con ímpetu de adiós. Sus pasos cruzan la frontera que hace horas franqueaban creyéndose, aunque fuera unos instante",
+      "date": "Fri, 31 Jul 2026 20:14:07 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Volver a Odelot",
+      "link": "https://www.abc.es/espana/castilla-la-mancha/toledo/volver-odelot-20260731200808-nt.html",
+      "desc": "Hace ya muchos años puse punto final a una novela casi autobiográfica. Sólo casi. En realidad, puse punto final a algunas otras cosas. Algunos de sus capítulos, los de una cierta época, me «obligaban» a describir demasiada miseria. Otros, los de esa misma époc",
+      "date": "Fri, 31 Jul 2026 20:08:08 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "La Diputación de Guadalajara destina 2,1 millones para rehabilitar 21 iglesias de la provincia",
+      "link": "https://www.abc.es/espana/castilla-la-mancha/toledo/diputacion-guadalajara-destina-millones-rehabilitar-iglesias-provincia-20260731195649-nt.html",
+      "desc": "La Diputación de Guadalajara destinará 2,1 millones de euros a la rehabilitación de 21 iglesias de la provincia durante 2026, en el marco del convenio anual que mantiene con la Diócesis de Sigüenza-Guadalajara para la conservación del patrimonio religioso. La ",
+      "date": "Fri, 31 Jul 2026 19:56:49 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Datos: ¿Y si el asalto fronterizo en Ceuta hubiese ocurrido en tu ciudad?",
+      "link": "https://www.abc.es/espana/asalto-fronterizo-ceuta-ocurrido-ciudad-20260731194932-nt.html",
+      "desc": "Como si vaciaras las provincias de Salamanca, La Rioja, Lugo, Orense, Guadalajara, Huesca y Cuenca para llevar a su gente en apenas 24 horas a la ciudad de Madrid. O como si todos los habitantes de Extremadura aparecieran a la vez en las calles de Barcelona ca",
+      "date": "Fri, 31 Jul 2026 19:49:32 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Nuevo incendio en Cerro Muriano: el Infoca envía cuatro medios aéreos y casi 30 bomberos",
+      "link": "https://www.abc.es/espana/andalucia/cordoba/nuevo-incendio-cerro-muriano-infoca-envia-cuatro-20260731193533-nts.html",
+      "desc": "Nuevo incendio en Cerro Muriano , justo una semana después de que se iniciara uno muy voraz. El Infoca acaba de comunicar que está luchando desde la tarde de este viernes contra un fuego en las proximidades de la carretera N-432a, una de las auxiliares que lle",
+      "date": "Fri, 31 Jul 2026 19:35:34 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
     {
       "title": "La incertidumbre marca el final de curso en las escuelas infantiles municipales de Toledo",
       "link": "https://www.abc.es/espana/castilla-la-mancha/toledo/incertidumbre-marca-final-curso-escuelas-infantiles-municipales-20260731193107-nt.html",
@@ -43,6 +113,16 @@
       "caso": "other"
     },
     {
+      "title": "Las aerolíneas prevén volar con normalidad a Italia, pero esperan más controles en destino",
+      "link": "https://www.lavanguardia.com/economia/20260731/11605512/aerolineas-preven-volar-normalidad-italia-esperan-mas-controles-destino.html",
+      "desc": "Los pasajeros españoles podrán viajar sin ningún trámite adicional al país; las inspecciones se centrarán en viajeros de terceros países&nbsp;",
+      "date": "31 Jul 2026 19:11:24 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
+    {
       "title": "Fallece un menor de 16 años tras ser atropellado en bicicleta en un polígono de Betanzos (La Coruña)",
       "link": "https://www.abc.es/espana/galicia/fallece-menor-anos-tras-atropellado-bicicleta-poligono-20260731190850-nt.html",
       "desc": "El joven de 16 años atropellado este viernes por un turismo mientras circulaba en bicicleta por el polígono industrial de Piadela , en Betanzos, ha fallecido en el hospital a causa de la gravedad de sus heridas. El siniestro se produjo minutos antes de las 10.",
@@ -74,7 +154,7 @@
     },
     {
       "title": "Prisión sin fianza para el hombre detenido por la muerte de su pareja en Barcelona",
-      "link": "https://www.lavanguardia.com/local/barcelona/20260731/11605506/prision-fianza-hombre-detenido-muerte-pareja-barrio-sant-marti-barcelona.html",
+      "link": "https://www.lavanguardia.com/vida/20260731/11605506/prision-fianza-hombre-detenido-muerte-pareja-barrio-sant-marti-barcelona.html",
       "desc": "El crimen se produjo ante la presencia de los dos hijos menores de ambos, de 4 y 8 años&nbsp;",
       "date": "31 Jul 2026 18:54:48 +0200",
       "source": "La Vanguardia",
@@ -153,93 +233,13 @@
       "caso": "other"
     },
     {
-      "title": "Italia suspende el acuerdo Schengen con España por la crisis de Ceuta",
-      "link": "https://www.abc.es/espana/italia-suspende-acuerdo-schengen-espana-crisis-ceuta-20260731183653-nt.html",
-      "desc": "El ministro de Interior de Italia, Matteo Piantedosi, ha convocado a mediodía de este viernes al Comité de Análisis sobre Inmigración y Seguridad de las Fronteras, y tras analizar sus datos ha ordenado a las seis de la tarde la suspensión del espacio Schengen ",
-      "date": "Fri, 31 Jul 2026 18:36:53 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "El caos en Ceuta justifica la aplicación de la Ley de Seguridad Nacional",
-      "link": "https://www.abc.es/espana/juristas-creen-caos-ceuta-justifica-aplicacion-ley-20260731182049-nt.html",
-      "desc": "La entrada irregular de cerca de 50.000 inmigrantes en Ceuta (en la ciudad autónoma son 80.000 habitantes) está dejando los servicios públicos absolutamente colapsados, decenas de comercios cerrados y a miles de ceutíes encerrados en sus casas por miedo y sin ",
-      "date": "Fri, 31 Jul 2026 18:20:49 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Italia suspende el acuerdo Schengen con España durante un mes",
+      "title": "Italia suspende Schengen con España durante un mes, aunque garantiza los viajes de ciudadanos de la UE",
       "link": "https://www.lavanguardia.com/internacional/20260731/11605489/italia-suspende-acuerdo-schengen-espana.html",
       "desc": "Sánchez replica a Meloni que su país recibe más inmigrantes irregulares que España",
       "date": "31 Jul 2026 18:18:43 +0200",
       "source": "La Vanguardia",
       "color": "#8e44ad",
       "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "Castilla y León eleva a 26 los focos de Newcastle tras detectar tres nuevos brotes en Valladolid, Segovia y Salamanca",
-      "link": "https://www.abc.es/espana/castilla-leon/castilla-leon-eleva-focos-newcastle-tras-detectar-20260731181229-nt.html",
-      "desc": "La enfermedad de Newcastle continúa avanzando en Castilla y León. El Ministerio de Agricultura, Pesca y Alimentación ha confirmado este viernes tres nuevos focos en explotaciones avícolas de Íscar (Valladolid), Navas de Oro (Segovia) y Paradinas de San Juan (S",
-      "date": "Fri, 31 Jul 2026 18:17:37 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "El vídeo de un policía marroquí abriendo la frontera de Ceuta es de 2021",
-      "link": "https://www.lavanguardia.com/vida/verificacion/20260731/11605465/video-policia-marroqui-abriendo-frontera-ceuta-2021.html",
-      "desc": "Diversas cuentas de redes comparten imágenes de un agente de la frontera de Marruecos dejando pasar a personas por la valla de Ceuta como si fueran recientes, pero son de hace cinco años",
-      "date": "31 Jul 2026 17:43:23 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "Los tenderos de Ceuta que resisten ante una muchedumbre hambrienta",
-      "link": "https://www.abc.es/espana/tenderos-ceuta-resisten-ante-muchedumbre-hambrienta-20260731174308-nt.html",
-      "desc": "Son pocos los que, tras la ola migratoria que ha invadido Ceuta, se atreven a abrir sus comercios. La ciudad es casi fantasma en muchos aspectos, pues apenas hay vecinos y prácticamente todas la persianas están bajadas. Conseguir comida y agua es tarea complej",
-      "date": "Fri, 31 Jul 2026 17:43:09 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Indra abrirá una nueva planta en As Pontes para fabricar vehículos militares",
-      "link": "https://www.abc.es/espana/galicia/indra-llevara-pontes-fabricacion-vehiculos-militares-20260731173451-nt.html",
-      "desc": "El jueves, el derribo de las cuatro torres de refrigeración de la antigua planta de Endesa de As Pontes (La Coruña), la que fue la mayor central térmica de carbón de España, ponía fin a una era. Pero la localidad coruñesa no pierde el tiempo y se reinventa. As",
-      "date": "Fri, 31 Jul 2026 17:34:51 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "El fenómeno atmosférico que «cortocircuita» la brisa marina y convierte las playas en un horno durante la ola de calor",
-      "link": "https://www.abc.es/espana/andalucia/fenomeno-atmosferico-cortocircuita-brisa-marina-convierte-playas-20260731172418-nts.html",
-      "desc": "En verano, durante las olas de calor, la brisa marina que suele entrar desde el mar desaparece prácticamente por completo, provocando que ciudades del litoral registren temperaturas tan elevadas como las del interior. Lejos de tratarse de una casualidad, este ",
-      "date": "Fri, 31 Jul 2026 17:24:18 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "75 años de Barrios de Luna, la presa que  hizo un «vergel» de las «superficies estériles» de León",
-      "link": "https://www.abc.es/espana/castilla-leon/anos-barrios-luna-presa-convirtio-superficies-esteriles-20260731171832-nt.html",
-      "desc": "El presidente del Sindicato Central del Embalse de Los Barrios de Luna, Julio César Carnero, destacaba en la celebración del 75 aniversario de la presa que esta «significó un antes y un después para la agricultura y para la vida de los pueblos del Páramo», una",
-      "date": "Fri, 31 Jul 2026 17:18:32 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
       "caso": "other"
     }
   ]
