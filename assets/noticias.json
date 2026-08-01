@@ -1,7 +1,147 @@
 {
-  "updated": "2026-08-01T09:53:28Z",
+  "updated": "2026-08-01T11:12:53Z",
   "count": 24,
   "items": [
+    {
+      "title": "La Hermandad Matriz presenta el lema y el cartel del Año Jubilar del Rocío: «Sigue sus pasos»",
+      "link": "https://www.abc.es/espana/andalucia/huelva/hermandad-matriz-presenta-lema-cartel-ano-jubilar-20260801125029-nts.html",
+      "desc": "La Hermandad Matriz de Nuestra Señora del Rocío de Almonte ha presentado este sábado el lema «Sigue sus pasos» y el cartel anunciador del Año Jubilar del Rocío , ilustrado con con una fotografía de Exteban Torres. Según explica la corporación, el lema «Sigue s",
+      "date": "Sat, 01 Aug 2026 12:50:29 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "El incendio de Burgohondo recibe el refuerzo de 50 efectivos llegados de Catar con dos helicópteros",
+      "link": "https://www.abc.es/espana/castilla-leon/incendio-burgohondo-recibe-refuerzo-efectivos-llegados-catar-20260801124414-nt.html",
+      "desc": "La Junta de Castilla y León confía en tener «absolutamente controlado» el incendio forestal de Burgohondo (Ávila) «en las próximas horas, días», después de que el operativo haya logrado mantener perimetrado y estabilizado el fuego, sin que se hayan rebasado la",
+      "date": "Sat, 01 Aug 2026 12:46:39 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Qué necesitas para viajar a Italia tras la suspensión del espacio Schengen con España",
+      "link": "https://www.abc.es/espana/necesitas-viajar-italia-tras-suspension-espacio-schengen-20260801123933-nt.html",
+      "desc": "El gobierno italiano anunció este viernes que suspendía el espacio Schengen con España después de la crisis migratoria acontecida con la invasión de miles de inmigrantes magrebíes que cruzaron sin oposición la frontera de Ceuta con Marruecos. Esta medida supon",
+      "date": "Sat, 01 Aug 2026 12:39:33 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Rueda ve «lógico» que Feijóo pacte con Vox si no tiene mayoría",
+      "link": "https://www.abc.es/espana/galicia/rueda-logico-feijoo-pacte-vox-mayoria-20260801123609-nt.html",
+      "desc": "El presidente de la Xunta, Alfonso Rueda, considera que si su jefe de filas en el PP, Alberto Núñez Feijóo, no logra suficientes apoyos en las próximas elecciones generales para gobernar «en solitario» España, está «obligado a conformar mayorías» y es conscien",
+      "date": "Sat, 01 Aug 2026 12:36:09 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Juzgan a un granadino por cobrar la pensión de su madre muerta durante 22 años",
+      "link": "https://www.abc.es/espana/andalucia/granada/juzgan-granadino-cobrar-pension-madre-muerta-anos-20260801122730-nts.html",
+      "desc": "La Fiscalía de Granada ha solicitado cinco años de prisión para un hombre acusado de cobrar la pensión de viudedad de su madre muerta durante 22 años en los que se hizo presuntamente con un montante superior a los 200.000 euros, según consta en el escrito de a",
+      "date": "Sat, 01 Aug 2026 12:27:31 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Italia y Dinamarca piden coordinación a la UE para el control de la frontera exterior tras la petición de Sánchez",
+      "link": "https://www.lavanguardia.com/internacional/20260801/11605827/italia-dinamarca-piden-ue-coordinacion-control-frontera-exterior-peticion-sanchez.html",
+      "desc": "En total, 24 países europeos se suman a la petición del presidente del Gobierno para realizar una reunión extraordinaria en la que&nbsp;analizar la crisis migratoria y&nbsp;acordar una respuesta coordinada",
+      "date": "01 Aug 2026 12:23:55 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
+    {
+      "title": "Ciudad Real honra sus raíces con la proclamación del Pandorgo y la Dulcinea 2026",
+      "link": "https://www.abc.es/espana/castilla-la-mancha/ciudad-real-honra-raices-proclamacion-pandorgo-dulcinea-20260801122021-nt.html",
+      "desc": "Ciudad Real vivía este viernes el día grande de la Pandorga con la celebración del acto institucional de proclamación del Pandorgo y la Dulcinea 2026, una de las citas más representativas en honor a la Virgen del Prado, que cada año reúne a cientos de ciudadre",
+      "date": "Sat, 01 Aug 2026 12:20:22 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Casi 400 monumentos de 316 localidades permanecerán abiertos durante el verano",
+      "link": "https://www.abc.es/espana/castilla-leon/400-monumentos-316-localidades-permaneceran-abiertos-verano-20260801120417-nt.html",
+      "desc": "La Junta de Castilla y León mantiene hasta el próximo 6 de septiembre el Programa de Apertura de Monumentos Verano 2026, una iniciativa que permite visitar 390 monumentos repartidos por 316 localidades de las nueve provincias de la Comunidad. La propuesta, org",
+      "date": "Sat, 01 Aug 2026 12:05:55 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Investigan a una empresa y sus responsables por vertidos de alperujo en Villa del Río",
+      "link": "https://www.abc.es/espana/andalucia/cordoba/investigan-empresa-responsables-vertidos-alperujo-villa-rio-20260801120554-nts.html",
+      "desc": "La Guardia Civil, a través de su Servicio de Protección de la Naturaleza ( Seprona ), ha investigado a una sociedad mercantil y a dos de sus responsables como presuntos autores de delitos contra los recursos naturales y el medio ambiente, así como por la presu",
+      "date": "Sat, 01 Aug 2026 12:05:55 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "La Junta impulsa la medicina laboral como pilar estratégico del Sescam",
+      "link": "https://www.abc.es/espana/castilla-la-mancha/toledo/junta-impulsa-medicina-laboral-pilar-estrategico-sescam-20260801120435-nt.html",
+      "desc": "El director general de Recursos Humanos y Transformación del Servicio de Salud de Castilla-La Mancha (Sescam), Íñigo Cortázar, ha mantenido una reunión institucional con 14 residentes de las especialidades de Medicina del Trabajo y de Enfermería del Trabajo, q",
+      "date": "Sat, 01 Aug 2026 12:04:36 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "El CPEIS aprueba por primera vez por unanimidad la Cuenta General de 2025 y avala su gestión económica",
+      "link": "https://www.abc.es/espana/castilla-la-mancha/toledo/pueblos/cpeis-aprueba-primera-vez-unanimidad-cuenta-general-20260801115254-nt.html",
+      "desc": "El Pleno del Consorcio Provincial de Extinción de Incendios y Salvamento (CPEIS), organismo dependiente de la Diputación de Toledo, ha aprobado por primera vez por unanimidad la Cuenta General correspondiente al ejercicio 2025, un a cuerdo respaldado por los t",
+      "date": "Sat, 01 Aug 2026 11:52:54 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Así es la barrera de contención que el Gobierno ha instalado en el espigón del Tarajal: 500 metros de largo y 1,5 metros de alto",
+      "link": "https://www.abc.es/espana/barrera-contencion-gobierno-instalado-espigon-tarajal-500-20260801114619-nt.html",
+      "desc": "El Gobierno de España ha anunciado este sábado la instalación de una barrera de contención en el espigón del Tarajal después de la crisis migratoria desatada tras la llegada de casi 60.000 migrantes a la ciudad de Ceuta. Antes de las 8 de la mañana ya se había",
+      "date": "Sat, 01 Aug 2026 11:46:20 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "La consellera valenciana de Educación: «Si los sindicatos ya tienen hoja de ruta, no piensan negociar»",
+      "link": "https://www.abc.es/espana/comunidad-valenciana/consellera-valenciana-educacion-sindicatos-hoja-ruta-piensan-20260801113121-nt.html",
+      "desc": "La consellera de Educación, Cultura y Universidades, Carmen Ortí, ante el anuncio de nuevas movilizaciones en septiembre e incluso una reanudación de la huelga, ha manifestado: «Ha llegado el momento de hablar claro en relación a que si los sindicatos ya tiene",
+      "date": "Sat, 01 Aug 2026 11:45:46 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Los servicios de extinción logran contener el avance del incendio de Veguellina, en León",
+      "link": "https://www.abc.es/espana/castilla-leon/servicios-extincion-logran-contener-avance-incendio-veguellina-20260801114327-nt.html",
+      "desc": "La situación de los dos de mayor gravedad, el de Veguellina, en León, y el de Fermoselle, en Zamora, que este sábado registra Castilla y León ha mejorado considerablemente después de una noche en la que los servicios de extinción han logrado contener el avance",
+      "date": "Sat, 01 Aug 2026 11:44:13 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
     {
       "title": "La Guardia Civil desarticula un grupo de tres mujeres que robaba con sumisión química a clientes del ocio en Azuqueca",
       "link": "https://www.abc.es/espana/castilla-la-mancha/guardia-civil-desarticula-grupo-robaba-sumision-quimica-20260801113246-nt.html",
@@ -63,7 +203,7 @@
       "caso": "other"
     },
     {
-      "title": "Sánchez pide una reunión europea urgente por la crisis en Ceuta y carga contra algunos gobiernos",
+      "title": "Sánchez pide una reunión europea urgente y carga contra algunos gobiernos",
       "link": "https://www.lavanguardia.com/politica/20260801/11605805/sanchez-pide-reunion-europea-urgente-crisis-ceuta-carga-reaccion-gobiernos.html",
       "desc": "En una carta enviada a la&nbsp;Comisión Europea, el presidente español reprocha las “reacciones egoístas” de los países que&nbsp;han optado por atacar a España y pedir su exclusión del espacio Schengen",
       "date": "01 Aug 2026 11:04:24 +0200",
@@ -73,130 +213,10 @@
       "caso": "other"
     },
     {
-      "title": "Sánchez carga contra la actitud «egoísta» de varios socios europeos y agradece a Marruecos su cooperación en Ceuta",
+      "title": "Líderes europeos piden a Bruselas una reunión urgente por la crisis en Ceuta mientras Sánchez tilda a algunos de «egoísta»",
       "link": "https://www.abc.es/espana/pedro-sanchez-agradece-marruecos-cooperacion-ceuta-carga-20260801104200-nt.html",
-      "desc": "Pedro Sánchez ha remitido este sábado una carta a Ursula Von der Leyen, presidenta de la Comisión Europea, y a Antonio Costa, presidente del Consejo Europeo, para expresar su «profunda preocupación» ante la reacción de varios socios europeos por la crisis migr",
+      "desc": "Un total de 22 líderes europeos han firmado una carta remitida este sábado a Ursula Von der Leyen, presidenta de la Comisión Europea, y a Antonio Costa, presidente del Consejo Europeo, instando a convocar de «urgencia» una videoconferencia extraordinaria de lo",
       "date": "Sat, 01 Aug 2026 10:54:18 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Corral de Calatrava inaugura  una nueva plazuela dedicada al artista Pedro de Juan",
-      "link": "https://www.abc.es/espana/castilla-la-mancha/corral-calatrava-inaugura-nueva-plazuela-dedicada-artista-20260801105216-nt.html",
-      "desc": "El consejero de Sanidad, Jesús Fernández Sanz, ha participado en la inauguración de la nueva plazuela de Corral de Calatrava, dedicada al artista local Pedro de Juan, fallecido hace unos meses. El acto se ha realizado en homenaje al creador e impulsor de la Se",
-      "date": "Sat, 01 Aug 2026 10:52:16 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "El mal uso de las urgencias",
-      "link": "https://www.abc.es/espana/galicia/mal-uso-urgencias-20260731105007-nt.html",
-      "desc": "Acaba de publicar la OCDE un estudio comparativo del uso de las urgencias hospitalarias en distintos países. Es llamativo que sean, en Europa, España y Portugal los países que usamos más frecuentemente ese servicio. Los españoles usamos más de 65 veces por cad",
-      "date": "Sat, 01 Aug 2026 10:50:07 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Detenido en Fuente Palmera por robar máquinas expendedoras de tabaco y bolas de bares",
-      "link": "https://www.abc.es/espana/andalucia/cordoba/detenido-fuente-palmera-robar-maquinas-expendedoras-tabaco-20260801103734-nts.html",
-      "desc": "La Guardia Civil ha detenido en Fuente Palmera a una persona como presunta autora de un delito de robo con fuerza y tres delitos de hurto, cometidos en diferentes establecimientos de hostelería de Fuente Palmera y Lora del Río. La investigación se inició tras ",
-      "date": "Sat, 01 Aug 2026 10:45:32 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Capturan a un peligroso fugitivo británico condenado a cadena perpetua por armas y drogas",
-      "link": "https://www.abc.es/espana/comunidad-valenciana/alicante/capturan-peligroso-fugitivo-britanico-condenado-cadena-perpetua-20260801103823-nt.html",
-      "desc": "Agentes de la Policía Nacional han culminado con éxito en Alicante una relevante operación internacional de captura de un peligroso fugitivo condenado a cadena perpetua en el Reino Unido que había utilizado armas contra otras personas y estaba implicado en el ",
-      "date": "Sat, 01 Aug 2026 10:38:24 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "El municipio jiennense de Lopera en alerta por el virus del Nilo occidental",
-      "link": "https://www.abc.es/espana/andalucia/jaen/municipio-jiennense-lopera-alerta-virus-nilo-occidental-20260731103735-nts.html",
-      "desc": "La Dirección General de Salud Pública y Ordenación Farmacéutica de la Consejería de Presidencia, Sanidad y Emergencias de la Junta de Andalucía ha decretado área en alerta por circulación del virus del Nilo occidental (VNO) en el municipio jiennense de Lopera ",
-      "date": "Sat, 01 Aug 2026 10:37:59 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Trágico accidente en Yeles (Toledo): muere una trabajadora de una lavandería tras quedar atrapada en una máquina",
-      "link": "https://www.abc.es/espana/castilla-la-mancha/toledo/pueblos/tragico-accidente-yeles-toledo-muere-trabajadora-lavanderia-20260801103614-nt.html",
-      "desc": "Agosto ha comenzado en la provinica de Toledo con un nuevo y tráfico accidente laboral. Una trabajadora ha fallecido este sábado en una lavandería de la localidad toledana de Yeles tras quedar atrapada en una máquina. Según han informado fuentes del Servicio d",
-      "date": "Sat, 01 Aug 2026 10:36:14 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "El PP y Vox apuntalan la prioridad nacional en la Comunidad Valenciana",
-      "link": "https://www.abc.es/espana/comunidad-valenciana/pp-vox-prioridad-nacional-comunidad-valenciana-20260801101758-nt.html",
-      "desc": "El PP y Vox exhibieron su sintonía en el último pleno del curso en las Cortes Valencianas con la aprobación de una ley de medidas fiscales de la Generalitat -más conocida como de acompañamiento a los presupuestos- que desgrana más la prioridad nacional que ya ",
-      "date": "Sat, 01 Aug 2026 10:29:32 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Cae una banda de ladrones butroneros con uniformes de vigilantes de seguridad",
-      "link": "https://www.abc.es/espana/comunidad-valenciana/cae-banda-ladrones-butroneros-uniformes-vigilantes-seguridad-20260801101204-nt.html",
-      "desc": "La Guardia Civil ha desarticulado una organización criminal dedicada al robo mediante el método del butrón en naves industriales, que operaba en toda la Comunidad Valenciana y Cuenca. Tenían armas y utilizaban uniformes de vigilantes de seguridad. La investiga",
-      "date": "Sat, 01 Aug 2026 10:12:04 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Cárcel para el joven sin carné que huyó tras matar una madre y su hija en el accidente de Novés",
-      "link": "https://www.abc.es/espana/castilla-la-mancha/toledo/pueblos/detenidos-dos-ocupantes-coche-implicado-muerte-madre-20260801100817-nt.html",
-      "desc": "La Guardia Civil ha detenido a los dos ocupantes del vehículo implicado en el accidente de tráfico en el que fallecieron una madre y su hija, vecinas de Burujón, el pasado domingo 26 de julio en la carretera TO-3927, entre Torrijos y Fuensalida, a la altura de",
-      "date": "Sat, 01 Aug 2026 10:08:18 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "¿Nochevieja en agosto? El pueblo de Andalucía que toma las uvas este sábado 1 de agosto",
-      "link": "https://www.abc.es/espana/andalucia/granada/uvas-verano-pueblo-andalucia-celebra-nochevieja-sabado-20260801100452-nts.html",
-      "desc": "Un pueblo de la Alpujarra de Granada cumplirá este sábado 1 de agosto con su particular tradición: celebrarán la ' Nochevieja en agosto' . Los vecinos de Bérchules han preparado una programación especial para este evento que incluye el reparto de uvas y un pas",
-      "date": "Sat, 01 Aug 2026 10:04:52 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Las llamadas al 1-1-2 crecen en Córdoba un 13,2 % y superan las 35.000 en el primer semestre del año",
-      "link": "https://www.abc.es/espana/andalucia/cordoba/llamadas-112-crecen-cordoba-132-superan-35000-20260801100253-nts.html",
-      "desc": "El 1-1-2, perteneciente a la Agencia de Emergencias de Andalucía , ha gestionado entre enero y junio de este año un total de 459.715 incidencias en toda la comunidad andaluza, lo que supone casi un 9% más que en el mismo periodo del año 2025, cuando fueron 421",
-      "date": "Sat, 01 Aug 2026 10:02:54 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "El pueblo de Asturias donde se ha rodado 'Los creyentes', la película de José Coronado que arrasa en Netflix: montañas, naturaleza y tradición minera",
-      "link": "https://www.abc.es/espana/asturias/pueblo-asturias-rodado-creyentes-pelicula-jose-coronado-20260801161530-nt.html",
-      "desc": "'Los creyentes' llegó hace solo una semana a Netflix y ya se ha convertido en uno de los mayores éxitos de la plataforma. La película, protagonizada por José Coronado , no ha tardado en captar la atención de los espectadores y situarse entre los contenidos más",
-      "date": "Sat, 01 Aug 2026 10:00:05 +0200",
       "source": "ABC",
       "color": "#c0392b",
       "feedId": "ABC",
@@ -213,30 +233,10 @@
       "caso": "other"
     },
     {
-      "title": "Compromís dispara contra Ximo Puig: «¿Cuántos días libra en París para tener chófer en Valencia?»",
-      "link": "https://www.abc.es/espana/comunidad-valenciana/compromis-dispara-ximo-puig-cuantos-dias-libra-20260801094131-nt.html",
-      "desc": "¿Puede Ximo Puig nombrar a su sobrino político como su chófer a cuenta del erario público? Sí, el Estatuto de los ex Presidentes de la Generalitat Valenciana le confiere ese derecho, del que él puede o no hacer uso. Joan Lerma y Eduardo Zaplana nunca han abier",
-      "date": "Sat, 01 Aug 2026 09:41:31 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
       "title": "George R.R. Martin, el rey que no entrega el reino",
       "link": "https://www.lavanguardia.com/gente/20260801/11605325/george-r-r-martin-rey-entrega-reino.html",
       "desc": "Millones de lectores siguen esperando el sexto libro de la saga fantástica que ha creado el escritor en la que se basa 'Juego de tronos'",
       "date": "01 Aug 2026 06:45:28 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "La FIFA desiste de su intención de crear una filial para comercializar el Mundial",
-      "link": "https://www.lavanguardia.com/deportes/20260801/11605776/fifa-desiste-intencion-crear-filial-comercializar-copa-mundo.html",
-      "desc": "La presión de la UEFA y la Concacaf forzó a Infantino a retirar la propuesta",
-      "date": "01 Aug 2026 06:26:35 +0200",
       "source": "La Vanguardia",
       "color": "#8e44ad",
       "feedId": "LaVanguardia",
