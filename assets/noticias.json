@@ -1,11 +1,41 @@
 {
-  "updated": "2026-08-01T19:01:43Z",
+  "updated": "2026-08-01T20:43:42Z",
   "count": 24,
   "items": [
     {
+      "title": "Al menos 13 muertos tras estrellarse una avioneta en Perú",
+      "link": "https://www.lavanguardia.com/internacional/20260801/11605992/13-fallecidos-estrellarse-avioneta-peru.html",
+      "desc": "Canales de televisión peruanos reportan una tragedia con varios turistas que sobrevolaban Nazca",
+      "date": "01 Aug 2026 21:56:13 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
+    {
+      "title": "Muere a los 99 años el sacerdote Aurelio de León, Hijo Adoptivo de Talavera por su compromiso social",
+      "link": "https://www.abc.es/espana/castilla-la-mancha/toledo/talavera/muere-anos-aurelio-leon-sacerdote-hijo-adoptivo-20260801214046-nt.html",
+      "desc": "Talavera de la Reina despide a una de las figuras más representativas de su compromiso social. Aurelio de León, sacerdote, Hijo Adoptivo de la ciudad y fundador de la asociación que lleva su nombre, ha fallecido a los 99 años tras una vida dedicada a la atenci",
+      "date": "Sat, 01 Aug 2026 21:40:46 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Noches a 40 grados en plena ola de calor y granizo en menos de 24 horas en Valencia",
+      "link": "https://www.abc.es/espana/comunidad-valenciana/noches-grados-plena-ola-calor-granizo-horas-20260801205721-nt.html",
+      "desc": "Los fenómenos meteorológicos están causando grandes contrastes en el interior de la provincia de Valencia, donde en las últimas 24 horas se han vivido noches tropicales de 40 grados y la caída de granizo de gran calibre en apenas 24 horas. Este sábado, una fue",
+      "date": "Sat, 01 Aug 2026 20:57:22 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
       "title": "Se reactiva el incendio de Burgohondo (Ávila) y obliga a nuevas evacuaciones",
       "link": "https://www.abc.es/espana/castilla-leon/reactiva-incendio-burgohondo-avila-obliga-nuevas-evacuaciones-20260801203413-nt.html",
-      "desc": "Después de una mañana de sábado relativamente tranquila en la que casi se daba por controlado el incendio de Burgohondo (Ávila), una reactivación en el término municipal de La Adrada ha vuelto a provocar la alarma de los habitantes de la zona y obligado a inte",
+      "desc": "Después de una mañana de sábado relativamente tranquila en la que casi se daba por controlado el incendio de Burgohondo (Ávila), una reactivación en el término municipal de La Adrada ha vuelto a provocar la alarma de los vecinos y obligado a intensificar los m",
       "date": "Sat, 01 Aug 2026 20:35:32 +0200",
       "source": "ABC",
       "color": "#c0392b",
@@ -15,7 +45,7 @@
     {
       "title": "El incendio en Puebla de Rodrigo pasa a nivel 1 por «medidas de protección a la población»",
       "link": "https://www.abc.es/espana/castilla-la-mancha/incendio-puebla-rodrigo-pasa-nivel-medidas-proteccion-20260801200827-nt.html",
-      "desc": "El Plan Infocam ha reforzado el dispositivo desplegado para combatir el incendio forestal declarado este sábado en el término municipal de Puebla de Don Rodrigo, en Ciudad Real, que continúa activo y ha pasado a Situación Operativa Nivel 1 «por medidas de prot",
+      "desc": "El Plan Infocam ha reforzado el dispositivo desplegado para combatir el incendio forestal declarado este sábado en el término municipal de Puebla de Don Rodrigo, en Ciudad Real, que continúa activo y ha pasado este sábado por la tarde a Situación Operativa Niv",
       "date": "Sat, 01 Aug 2026 20:08:27 +0200",
       "source": "ABC",
       "color": "#c0392b",
@@ -93,9 +123,9 @@
       "caso": "other"
     },
     {
-      "title": "La Operación Paso del Estrecho desborda Algeciras y Tarifa con mil vehículos por hora",
+      "title": "Tarifa, desbordada por la Operación Paso del Estrecho, activa la Fase de Emergencia Nivel 1",
       "link": "https://www.abc.es/espana/andalucia/operacion-paso-estrecho-desborda-algeciras-tarifa-mil-20260801190156-nts.html",
-      "desc": "Los Puertos de Algeciras y Tarifa (Cádiz) ha registrado más de 10.500 vehículos en la jornada de este sábado de la Operación Paso del Estrecho (OPE) , llegando a alcanzar un ritmo de llegada de más de mil coches en una misma hora. Según han detallado fuentes d",
+      "desc": "El Puerto de Algeciras ha activado a las 20,42 horas de este sábad o la Fase de Emergencias Nivel 1 por la alta frecuencia de vehículos por la Operación Paso del Estrecho (OPE), y ha confirmado que los vehículos que lleguen sin billete serán derivados al Puert",
       "date": "Sat, 01 Aug 2026 19:05:15 +0200",
       "source": "ABC",
       "color": "#c0392b",
@@ -115,7 +145,7 @@
     {
       "title": "El incendio de Veguellina, en el Bierzo, ya ha calcinado más de 1.300 hectáreas",
       "link": "https://www.abc.es/espana/castilla-leon/incendio-veguellina-bierzo-calcinado-1300-hectareas-20260801184853-nt.html",
-      "desc": "Unas 1.330 hectáreas ha calcinado ya el incendio de Veguellina, en el municipio leonés de Villafranca del Bierzo, que a última hora de la tarde de ayer aún mantenía desalojadas las localidades de Moreda, San Pedro de Olleros y Prado de Somoza. La cifra la apor",
+      "desc": "Unas 1.330 hectáreas ha calcinado ya el incendio de Veguellina, en el municipio leonés de Villafranca del Bierzo. La cifra la aportaba este sábado la vicepresidenta segunda de la Junta , Isabel Blanco, que acudía al Puesto de Mando Avanzado situado en la comar",
       "date": "Sat, 01 Aug 2026 18:51:06 +0200",
       "source": "ABC",
       "color": "#c0392b",
@@ -183,26 +213,6 @@
       "caso": "other"
     },
     {
-      "title": "Una niña de 13 años muere en un choque entre una autocaravana y un camión",
-      "link": "https://www.abc.es/espana/comunidad-valenciana/nina-anos-muere-choque-autocaravana-camion-20260801175724-nt.html",
-      "desc": "Una niña de 13 años de edad ha muerte en una colisión entre una autocaravana y un camión en la autovía AP-7, a la altura de Benicàssim (Castellón), según ha informado el Centro de Información y Coordinación de Urgencias (CICU). Los servicios sanitarios han rec",
-      "date": "Sat, 01 Aug 2026 17:57:24 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Bolaños de Calatrava rinde homenaje a sus mayores con una celebración en la residencia 'Virgen del Monte'",
-      "link": "https://www.abc.es/espana/castilla-la-mancha/bolanos-calatrava-rinde-homenaje-mayores-celebracion-residencia-20260801174921-nt.html",
-      "desc": "Con motivo del Día Internacional de los Abuelos, la residencia municipal 'Virgen del Monte' de Bolaños de Calatrava ha acogido una entrañable jornada de convivencia en la que residentes, familiares, trabajadores y representantes del Ayuntamiento han compartido",
-      "date": "Sat, 01 Aug 2026 17:49:21 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
       "title": "El primer día de Bisiwu, la perla belga, con Flick: “Mi referente es Neymar”",
       "link": "https://www.lavanguardia.com/deportes/futbol/20260801/11605891/primer-dia-bisiwu-perla-belga-flick-mi-referente-neymar.html",
       "desc": "El extremo belga de 18 años, fichado por 8,5 millones de euros procedente del Brujas, completa su primer entrenamiento y asegura que hará “todo lo que el entrenador me pida”",
@@ -227,16 +237,6 @@
       "link": "https://www.lavanguardia.com/politica/20260801/11605870/interior-cifra-67-muertos-ceuta-espera-balance-definitivo.html",
       "desc": "La Guardia Civil mantiene un rastreo constante para localizar más cadáveres en la zona cercana al espigón fronterizo del Tarajal, por lo que se espera que el número aumente en las próximas horas",
       "date": "01 Aug 2026 15:04:28 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "Muere Nirmal Purja, el hombre de los 14 ochomiles en tiempo récord, en un alud",
-      "link": "https://www.lavanguardia.com/deportes/20260801/11605862/confirmada-agencia-muerte-nirmal-purja-alud-10-victimas-broad-peak.html",
-      "desc": "La avalancha se produjo el jueves a unos 6.600 metros y atrapó a diez montañeros liderados por Purja",
-      "date": "01 Aug 2026 14:14:54 +0200",
       "source": "La Vanguardia",
       "color": "#8e44ad",
       "feedId": "LaVanguardia",
