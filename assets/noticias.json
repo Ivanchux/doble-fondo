@@ -1,7 +1,167 @@
 {
-  "updated": "2026-07-31T22:55:55Z",
+  "updated": "2026-08-01T02:22:37Z",
   "count": 24,
   "items": [
+    {
+      "title": "«Los pastos para alimentar al ganado en invierno han desaparecido por completo»",
+      "link": "https://www.abc.es/espana/castilla-la-mancha/pastos-alimentar-ganado-invierno-desaparecido-completo-20260731020401-nt.html",
+      "desc": "Las llamas ya no avanzan por la Sierra Norte de Guadalajara pero sus consecuencias ya empiezan a hacerse visibles para los ganaderos de la zona. El incendio no solo ha arrasado miles de hectáreas de monte; también ha consumido el alimento que debía sostener a ",
+      "date": "Sat, 01 Aug 2026 02:04:01 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "«El incendio de La Mierla es un desastre ambiental increíble para la biodiversidad»",
+      "link": "https://www.abc.es/espana/castilla-la-mancha/incendio-mierla-absolutamente-ligado-cambio-climatico-calentamiento-20260721020148-nt.html",
+      "desc": "El incendio forestal de La Mierla , declarado el pasado 16 de julio en la Sierra Norte de Guadalajara, que ya ha calcinado 35.000 hectáreas, es un ejemplo de cómo la combinación de condiciones meteorológicas extremas, y la acumulación de combustible vegetal pu",
+      "date": "Sat, 01 Aug 2026 02:01:48 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "El Astra entre Talavera, Pepino, San Román e Hinojosa empezará a funcionar el 3 de agosto",
+      "link": "https://www.abc.es/espana/castilla-la-mancha/toledo/pueblos/astra-talavera-pepino-san-roman-hinojosa-empezara-20260730020105-nt.html",
+      "desc": "El servicio Astra que conectará Talavera de la Reina con Pepino, San Román de los Montes e Hinojosa de San Vicente comenzará a funcionar este lunes 3 de agosto. La nueva línea de transporte público regular por carretera mejorará la movilidad de los vecinos de ",
+      "date": "Sat, 01 Aug 2026 02:01:05 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Las entradas irregulares a Ceuta se han disparado un 128% en los últimos cuatro años",
+      "link": "https://www.abc.es/espana/entradas-irregulares-ceuta-disparado-128-ultimos-cuatro-20260731014714-nt.html",
+      "desc": "Las entradas a Ceuta se han disparado un 128% en cuatro años, según datos del Ministerio del Interior. En 2022 se registraron 1.238 entradas, mientras que en 2025 las entradas a la ciudad autónoma alcanzaron las 3.527, esta cifra sería el último dato anual que",
+      "date": "Sat, 01 Aug 2026 01:47:14 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "El Gobierno reconoce la «pasividad» de Marruecos, pero evita escalar para cerrar la crisis «cuanto antes»",
+      "link": "https://www.abc.es/espana/gobierno-reconoce-pasividad-marruecos-evita-escalar-cerrar-20260801014622-nt.html",
+      "desc": "El Gobierno está tratando de mantener un juego de equilibrios de difícil compatibilidad entre su relación con Marruecos y su papel de aliado fiable en la Unión Europea . La imagen de debilidad que se ha proyectado por la permeabilidad en la frontera de España ",
+      "date": "Sat, 01 Aug 2026 01:46:22 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Los servicios de información alertaron de lo que podía ocurrir en Ceuta: «No se supo dimensionar la crisis»",
+      "link": "https://www.abc.es/espana/servicios-seguridad-reconocen-brecha-ceuta-supo-dimensionar-20260731014605-nt.html",
+      "desc": "Los servicios españoles de información reconocen a ABC que han tenido una brecha de seguridad a la hora de afrontar la crisis migratoria en Ceuta ya que no supieron dimensionar la magnitud de la avalancha. Estos analistas trasladaron a sus superiores su preocu",
+      "date": "Sat, 01 Aug 2026 01:46:05 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Altos mandos militares, sobre Ceuta: «Este no es de orden público. Es seguridad nacional»",
+      "link": "https://www.abc.es/espana/altos-mandos-militares-orden-publico-seguridad-nacional-20260801014533-nt.html",
+      "desc": "«Esto no es un problema de orden público, sino de seguridad pública». Quienes se pronuncian con esta contundencia son varios altos mandos de las Fuerzas Armadas consultados por ABC. Sorprendidos porque el Gobierno de Pedro Sánchez esté tratando como un asunto ",
+      "date": "Sat, 01 Aug 2026 01:45:33 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Las «camaretas de la vergüenza» en las que descansan los policías destinados en Ceuta",
+      "link": "https://www.abc.es/espana/camaretas-verguenza-descansan-policias-destinados-ceuta-20260731014314-nt.html",
+      "desc": "Ocho personas durmiendo en literas sin ventilador. Así son las condiciones en las que tienen que descansar los agentes de la Unidad de Intervención Policial (UIP) destinados en Ceuta para combatir la crisis migratoria que asola la ciudad autónoma. ABC ha tenid",
+      "date": "Sat, 01 Aug 2026 01:43:14 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "La fiesta en la Embajada de Marruecos con Ceuta inmersa en el caos",
+      "link": "https://www.abc.es/espana/fiesta-embajada-marruecos-ceuta-inmersa-caos-20260801014259-nt.html",
+      "desc": "Una extraña sensación pesaba en el ambiente. Como una contradicción indisimulable. La casualidad hizo que la celebración de la Fiesta del Trono de Marruecos —que cada 30 de julio conmemora el aniversario de la entronización del Rey Mohamed VI— coincidiera este",
+      "date": "Sat, 01 Aug 2026 01:42:59 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Ceuta, la ciudad sin ley: «Nuestras vidas han estado en riesgo y no han movido un dedo»",
+      "link": "https://www.abc.es/espana/ceuta-ciudad-ley-vidas-estado-riesgo-movido-20260801014239-nt.html",
+      "desc": "Ceuta es la ciudad sin ley: la única que impera es la que escriben a golpe de capricho las riadas y riadas de inmigrantes que han entrado su antojo al territorio nacional de un modo ilegal y como si vinieran de excursión a un paraíso soñado. Cualquiera que hay",
+      "date": "Sat, 01 Aug 2026 01:42:39 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Los mapas que explican el asedio a Ceuta",
+      "link": "https://www.abc.es/espana/mapas-explican-asedio-ceuta-20260801014117-nt.html",
+      "desc": "",
+      "date": "Sat, 01 Aug 2026 01:41:17 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Cuando las armas son las personas: la invasión migratoria de Ceuta",
+      "link": "https://www.abc.es/espana/armas-personas-invasion-migratoria-ceuta-20260801014107-nt.html",
+      "desc": "Dicen que uno se recupera antes de un fracaso que de un éxito, pues el fracaso lleva a rectificar, pero el éxito condena a la reincidencia. Y el mayor éxito geopolítico de Marruecos fue la Marcha Verde. En otoño de 1975, España se encontraba en su máxima debil",
+      "date": "Sat, 01 Aug 2026 01:41:07 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "La sintonía entre Trump y Marruecos deja a España sin margen en la crisis de Ceuta",
+      "link": "https://www.abc.es/espana/eje-washingtonrabat-deja-espana-margen-crisis-ceuta-20260730014056-nt.html",
+      "desc": "No fue una reacción improvisada. Apenas unas horas después de la entrada masiva de decenas de miles de inmigrantes en Ceuta, la Casa Blanca culpó directamente al Gobierno de Pedro Sánchez de haber favorecido la crisis con sus políticas migratorias. 24 horas de",
+      "date": "Sat, 01 Aug 2026 01:40:56 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "El SOS del campo tras el fuego: «Algunos lo han perdido todo, necesitamos volver a trabajar»",
+      "link": "https://www.abc.es/espana/madrid/sos-campo-tras-fuego-injusto-criminalice-sector-20260730013721-nt.html",
+      "desc": "Animales perdidos o carbonizados, cultivos arrasados y cosechas a punto de perderse por la imposibilidad de recolección. Con el incendio de la Sierra Oeste técnicamente estabilizado, el campo madrileño vive ahora sus días más críticos, azotado por los numeroso",
+      "date": "Sat, 01 Aug 2026 01:37:21 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "El Gobierno paraliza los fondos para 3.400 profesores universitarios de Madrid",
+      "link": "https://www.abc.es/espana/madrid/gobierno-paraliza-fondos-3400-profesores-universitarios-tras-20260731013645-nt.html",
+      "desc": "La ausencia de la Comunidad de Madrid en la Conferencia General de Política Universitaria del pasado 29 de julio ha abierto un nuevo enfrentamiento entre el Ejecutivo regional y el Ministerio de Ciencia, Innovación y Universidades por el programa María Goyri, ",
+      "date": "Sat, 01 Aug 2026 01:36:45 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Daniel Sirera, líder del PP en Barcelona: «Jaume Collboni es la versión socialista de Ada Colau»",
+      "link": "https://www.abc.es/espana/cataluna/daniel-sirera-lider-pp-barcelona-jaume-collboni-20260801013619-nt.html",
+      "desc": "Daniel Sirera, líder del PP en Barcelona, repetirá como aspirante a la alcaldía en las elecciones municipales de 2027. En su primera entrevista, tras ser ratificado como candidato, Sirera se muestra muy crítico con Jaume Collboni (PSC) y las políticas que el a",
+      "date": "Sat, 01 Aug 2026 01:36:19 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
     {
       "title": "Marruecos luce su poder",
       "link": "https://www.lavanguardia.com/opinion/20260801/11605555/marruecos-luce.html",
@@ -73,76 +233,6 @@
       "caso": "other"
     },
     {
-      "title": "Las obras de la TO-22 obligarán a realizar cortes nocturnos hasta mediados de septiembre",
-      "link": "https://www.abc.es/espana/castilla-la-mancha/toledo/obras-to22-obligaran-realizar-cortes-nocturnos-mediados-20260731213246-nt.html",
-      "desc": "El Ministerio de Transportes y Movilidad Sostenible, a través de la Sociedad Estatal de Infraestructuras del Transporte Terrestre (SEITT), ha iniciado una nueva fase de las obras de rehabilitación del firme de la autovía TO-22 que obligará a realizar cortes no",
-      "date": "Fri, 31 Jul 2026 21:32:47 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Vox ordena suspender en sus gobiernos las ayudas a las ONG que «colaboren o financien la invasión migratoria de Ceuta»",
-      "link": "https://www.abc.es/espana/vox-ordena-suspender-gobiernos-ayudas-ong-colaboren-20260731213039-nt.html",
-      "desc": "Los vicepresidentes de Vox en Andalucía, Aragón, Castilla y León y Extremadura ha ordenado este viernes revisar todos los convenios en vigor y los procedimientos en curso para impedir que «ni un euro público acabe financiando a quienes amparan la invasión migr",
-      "date": "Fri, 31 Jul 2026 21:30:39 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Los incendios conceden una pequeña tregua pero siguen muy activos",
-      "link": "https://www.abc.es/espana/castilla-leon/incendios-conceden-pequena-tregua-siguen-activos-20260731205125-nt.html",
-      "desc": "No ha pasado el peligro y mucho menos el miedo a que las llamas se vuelvan a avivar y amenacen con destruir todo lo que encuentran a su paso, naves, paisajes, viviendas y, en definitiva, la forma de vida de los habitantes que muchos pueblos de Castilla y León ",
-      "date": "Fri, 31 Jul 2026 20:51:25 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "El sector prevé una cosecha récord de 14.000 toneladas de pistacho, pero alerta de problemas para venderla",
-      "link": "https://www.abc.es/espana/castilla-la-mancha/sector-preve-cosecha-record-14000-toneladas-pistacho-20260731202017-nt.html",
-      "desc": "La producción española de pistacho alcanzará este año una cifra récord de 14.000 toneladas, la mayor registrada hasta la fecha, gracias a la entrada en plena producción de las nuevas plantaciones. Sin embargo, el sector afronta la campaña con preocupación por ",
-      "date": "Fri, 31 Jul 2026 20:20:18 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "«Volved, no entréis»: el enfado y la decepción impulsa a los magrebíes a cruzar la frontera de vuelta",
-      "link": "https://www.abc.es/espana/volved-entreis-enfado-decepcion-impulsa-marroquies-cruzar-20260731201406-nt.html",
-      "desc": "La ciudad observa cómo quienes llegaron vuelven a marchar . Lo hacen arrastrando los pies, con despedidas no exentas de palabras y manos en alto con ímpetu de adiós. Sus pasos cruzan la frontera que hace horas franqueaban creyéndose, aunque fuera unos instante",
-      "date": "Fri, 31 Jul 2026 20:14:07 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Volver a Odelot",
-      "link": "https://www.abc.es/espana/castilla-la-mancha/toledo/volver-odelot-20260731200808-nt.html",
-      "desc": "Hace ya muchos años puse punto final a una novela casi autobiográfica. Sólo casi. En realidad, puse punto final a algunas otras cosas. Algunos de sus capítulos, los de una cierta época, me «obligaban» a describir demasiada miseria. Otros, los de esa misma époc",
-      "date": "Fri, 31 Jul 2026 20:08:08 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "La Diputación de Guadalajara destina 2,1 millones para rehabilitar 21 iglesias de la provincia",
-      "link": "https://www.abc.es/espana/castilla-la-mancha/toledo/diputacion-guadalajara-destina-millones-rehabilitar-iglesias-provincia-20260731195649-nt.html",
-      "desc": "La Diputación de Guadalajara destinará 2,1 millones de euros a la rehabilitación de 21 iglesias de la provincia durante 2026, en el marco del convenio anual que mantiene con la Diócesis de Sigüenza-Guadalajara para la conservación del patrimonio religioso. La ",
-      "date": "Fri, 31 Jul 2026 19:56:49 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
       "title": "Trump pone en duda las licencias a Ucrania para construir misiles Patriot",
       "link": "https://www.lavanguardia.com/internacional/20260731/11605529/trump-pone-duda-licencias-ucrania-construir-misiles-patriot-usarlos.html",
       "desc": "El presidente expresa su frustración con la incapacidad de poner fin a la guerra en Irán: “Se están comportando muy mal, han sido muy deshonestos”",
@@ -150,96 +240,6 @@
       "source": "La Vanguardia",
       "color": "#8e44ad",
       "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "Datos: ¿Y si el asalto fronterizo en Ceuta hubiese ocurrido en tu ciudad?",
-      "link": "https://www.abc.es/espana/asalto-fronterizo-ceuta-ocurrido-ciudad-20260731194932-nt.html",
-      "desc": "Como si vaciaras las provincias de Salamanca, La Rioja, Lugo, Orense, Guadalajara, Huesca y Cuenca para llevar a su gente en apenas 24 horas a la ciudad de Madrid. O como si todos los habitantes de Extremadura aparecieran a la vez en las calles de Barcelona ca",
-      "date": "Fri, 31 Jul 2026 19:49:32 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Nuevo incendio en Cerro Muriano: el Infoca lo estabiliza cuatro medios aéreos y casi 30 bomberos",
-      "link": "https://www.abc.es/espana/andalucia/cordoba/nuevo-incendio-cerro-muriano-infoca-envia-cuatro-20260731193533-nts.html",
-      "desc": "Nuevo incendio en Cerro Muriano , justo una semana después de que se iniciara uno muy voraz. El Infoca acaba de comunicar que ha estabilizado el fuego que se había declarado este viernes en las proximidades de la carretera N-432a, una de las auxiliares que lle",
-      "date": "Fri, 31 Jul 2026 19:35:34 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "La incertidumbre marca el final de curso en las escuelas infantiles municipales de Toledo",
-      "link": "https://www.abc.es/espana/castilla-la-mancha/toledo/incertidumbre-marca-final-curso-escuelas-infantiles-municipales-20260731193107-nt.html",
-      "desc": "El curso ha terminado en las tres escuelas infantiles municipales de Toledo con un mensaje de agradecimiento, pero también con una gran dosis de incertidumbre. La empresa concesionaria, La Casita de Chocolate, ha remitido una carta a las familias en la que rec",
-      "date": "Fri, 31 Jul 2026 19:31:08 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Emilio Palomo, nuevo párroco de Santa Beatriz de Silva en Toledo tras 23 años en Yepes",
-      "link": "https://www.abc.es/espana/castilla-la-mancha/toledo/emilio-palomo-nuevo-parroco-santa-beatriz-silva-20260731191943-nt.html",
-      "desc": "Los nombramientos realizados el pasado miércoles por el arzobispo de Toledo, Francisco Cerro, para el próximo curso supondrán una renovación completa del equipo sacerdotal de la parroquia de Santa Beatriz de Silva, en el barrio de Valparaíso. Se trata de un re",
-      "date": "Fri, 31 Jul 2026 19:19:43 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "El hombre que asesinó a su mujer en Barcelona delante de sus hijos le asestó once puñaladas con una daga",
-      "link": "https://www.abc.es/espana/cataluna/hombre-asesino-mujer-barcelona-delante-hijos-asesto-20260731191914-nt.html",
-      "desc": "Le asestó, al menos, 11 puñaladas con una daga de 20 centímetros, en un brazo, el tórax y la cabeza. El ataque afectó al corazón y a los pulmones, matándola. Lo hizo delante de sus dos hijos , un niño y una niña, de 8 y 4 años, en el domicilio familiar, en la ",
-      "date": "Fri, 31 Jul 2026 19:19:14 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "La crisis de Ceuta enfrenta el tono institucional del PP con la dureza de Vox en Andalucía",
-      "link": "https://www.abc.es/espana/andalucia/inmigracion-enfrenta-tono-institucional-pp-dureza-vox-20260801191809-nts.html",
-      "desc": "La crisis migratoria en Ceuta también ha servido para evidenciar las diferencias entre los socios del Gobierno andaluz. Aunque PP y Vox comparten Ejecutivo, ambas formaciones han vuelto a dejar patente que mantienen posiciones distintas en materia de inmigraci",
-      "date": "Fri, 31 Jul 2026 19:18:09 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Las aerolíneas prevén volar con normalidad a Italia, pero esperan más controles en destino",
-      "link": "https://www.lavanguardia.com/economia/20260731/11605512/aerolineas-preven-volar-normalidad-italia-esperan-mas-controles-destino.html",
-      "desc": "Los pasajeros españoles podrán viajar sin ningún trámite adicional al país; las inspecciones se centrarán en viajeros de terceros países&nbsp;",
-      "date": "31 Jul 2026 19:11:24 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "Fallece un menor de 16 años tras ser atropellado en bicicleta en un polígono de Betanzos (La Coruña)",
-      "link": "https://www.abc.es/espana/galicia/fallece-menor-anos-tras-atropellado-bicicleta-poligono-20260731190850-nt.html",
-      "desc": "El joven de 16 años atropellado este viernes por un turismo mientras circulaba en bicicleta por el polígono industrial de Piadela , en Betanzos, ha fallecido en el hospital a causa de la gravedad de sus heridas. El siniestro se produjo minutos antes de las 10.",
-      "date": "Fri, 31 Jul 2026 19:08:50 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Clausuran un pub en Almería en el que ochenta menores consumían alcohol",
-      "link": "https://www.abc.es/espana/andalucia/almeria/clausuran-pub-almeria-ochenta-menores-consumian-alcohol-20260731190849-nts.html",
-      "desc": "Efectivos del Grupo Rápido de Intervención Policial (GRIP) de la Policía Local de Almería han desalojado y clausurado esta madrugada un pub situado en la calle Conde Ofalia después de comprobar que en su interior había alrededor de 80 menores que consumían beb",
-      "date": "Fri, 31 Jul 2026 19:08:49 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
       "caso": "other"
     }
   ]
