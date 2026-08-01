@@ -1,7 +1,127 @@
 {
-  "updated": "2026-08-01T14:55:32Z",
+  "updated": "2026-08-01T16:54:35Z",
   "count": 24,
   "items": [
+    {
+      "title": "Muere un motorista de 19 años tras salirse de la vía en Cabana de Bergantiños (La Coruña)",
+      "link": "https://www.abc.es/espana/galicia/muere-motorista-anos-tras-salirse-via-cabana-20260801183416-nt.html",
+      "desc": "Un motorista de 19 años ha fallecido este sábado, 1 de agosto, por un golpe contra el asfalto tras salirse de la vía y caerse de su vehículo en Cabana de Bergantiños (La Coruña), según las fuentes de emergencias consultadas por Europa Press. El suceso tuvo lug",
+      "date": "Sat, 01 Aug 2026 18:34:17 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Un incendio en La Vaguada obliga a desalojar el centro comercial",
+      "link": "https://www.abc.es/espana/madrid/incendio-vaguada-obliga-desalojar-centro-comercial-20260801183116-nt.html",
+      "desc": "El centro comercial de La Vaguada, en el barrio del Pilar de Madrid, ha tenido que ser desalojado en la tarde de este sábado por un incendio que se ha originado en la gran superficie. El fuego se ha originado sobre las 17.20 horas en los contenedores de cartón",
+      "date": "Sat, 01 Aug 2026 18:31:16 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Este lunes comienza a circular la nueva línea de Astra de Marchamalo que conectará  con la estación de Renfe",
+      "link": "https://www.abc.es/espana/castilla-la-mancha/toledo/lunes-comienza-circular-nueva-linea-astra-marchamalo-20260801181618-nt.html",
+      "desc": "Este próximo lunes, día 3 de agosto, comenzará a circular el primero de los autobuses de la nueva Línea 3 del Servicio de Transporte Público Interurbano Astra de Marchamalo , que unirá el municipio gallardo con la estación de Renfe en un trayecto directo de id",
+      "date": "Sat, 01 Aug 2026 18:16:18 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Estabilizado el incendio de Villalba del Alcor",
+      "link": "https://www.abc.es/espana/andalucia/huelva/estabilizado-incendio-villalba-alcor-20260801181403-nts.html",
+      "desc": "El Servicio de Extinción de Incendios Forestales de Andalucía, el Plan Infoca, ha dado por estabilizado a las 15,30 horas de este sábado el incendio forestal activo en el paraje Finca Purchena, ubicado en el término municipal de Villalba del Alcor (Huelva) Seg",
+      "date": "Sat, 01 Aug 2026 18:14:42 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Felipe VI pide medidas para evitar otra crisis en Ceuta y Melilla: «El Estado debe velar por su seguridad»",
+      "link": "https://www.abc.es/espana/casa-real/felipe-sigue-gran-preocupacion-indignacion-entrada-masiva-20260801180144-nt.html",
+      "desc": "Felipe VI «ha seguido con gran preocupación e indignación» la entrada masiva de migrantes desde Marruecos a España a través de las ciudades de Ceuta y Melilla. El pronunciamiento del Monarca se ha producido dos días después del inicio de la crisis migratoria y",
+      "date": "Sat, 01 Aug 2026 18:01:45 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Una niña de 13 años muere en un choque entre una autocaravana y un camión",
+      "link": "https://www.abc.es/espana/comunidad-valenciana/nina-anos-muere-choque-autocaravana-camion-20260801175724-nt.html",
+      "desc": "Una niña de 13 años de edad ha muerte en una colisión entre una autocaravana y un camión en la autovía AP-7, a la altura de Benicàssim (Castellón), según ha informado el Centro de Información y Coordinación de Urgencias (CICU). Los servicios sanitarios han rec",
+      "date": "Sat, 01 Aug 2026 17:57:24 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Bolaños de Calatrava rinde homenaje a sus mayores con una celebración en la residencia 'Virgen del Monte'",
+      "link": "https://www.abc.es/espana/castilla-la-mancha/bolanos-calatrava-rinde-homenaje-mayores-celebracion-residencia-20260801174921-nt.html",
+      "desc": "Con motivo del Día Internacional de los Abuelos, la residencia municipal 'Virgen del Monte' de Bolaños de Calatrava ha acogido una entrañable jornada de convivencia en la que residentes, familiares, trabajadores y representantes del Ayuntamiento han compartido",
+      "date": "Sat, 01 Aug 2026 17:49:21 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Toledo reunirá a un centenar de profesionales del derecho mercantil  en  el IV Congreso de Derecho Concursal",
+      "link": "https://www.abc.es/espana/castilla-la-mancha/toledo/toledo-reunira-centenar-profesionales-derecho-mercantil-congreso-20260801173706-nt.html",
+      "desc": "Cerca de un centenar de profesionales del Derecho Mercantil procedentes de diferentes puntos de España se darán cita los días 17 y 18 de septiembre en el Palacio de Benacazón con motivo del VI Congreso Nacional de Derecho Concursal 'Ciudad de Toledo ', organiz",
+      "date": "Sat, 01 Aug 2026 17:37:07 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Cinco heridos en la carrera de carrilanas de Muíños (Orense), entre ellos una menor grave",
+      "link": "https://www.abc.es/espana/galicia/cinco-heridos-carrera-carrilanas-muinos-orense-menor-20260801173404-nt.html",
+      "desc": "Un total de cinco personas han resultado heridas de distinta consideración durante la celebración del IX Descenso de Carrilanas de Muíños (Orense). Cuatro de ellas han sido trasladadas al hospital por distintas dotaciones del 061, incluida una menor que presen",
+      "date": "Sat, 01 Aug 2026 17:34:04 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Núñez se compromete a realizar un gran  proyecto plurianual  para recuperar la Sierra norte de Guadalajara",
+      "link": "https://www.abc.es/espana/castilla-la-mancha/toledo/nunez-compromete-realizar-gran-proyecto-plurianual-recuperar-20260801171942-nt.html",
+      "desc": "El presidente del Partido Popular de Castilla-La Mancha, Paco Núñez , ha adquirido un «compromiso personal» con la recuperación de la Sierra Norte de Guadalajara tras el devastador incendio de La Mierla y ha asegurado que trabajará junto a los alcaldes y vecin",
+      "date": "Sat, 01 Aug 2026 17:19:42 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Las obras de Atocha modifican el servicio de cinco líneas de Cercanías",
+      "link": "https://www.abc.es/espana/madrid/obras-atocha-modifican-servicio-cinco-lineas-cercanias-20260801171827-nt.html",
+      "desc": "Las líneas C-2, C-7, C-8a, C-8b y C-10 de Cercanías Madrid registrarán alteraciones en su servicio desde este sábado con motivo de la última fase de las obras que Adif desarrolla este verano en la estación de Atocha Cercanías. La tercera fase de los trabajos s",
+      "date": "Sat, 01 Aug 2026 17:18:28 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Todas las playas andaluzas son aptas para el baño",
+      "link": "https://www.abc.es/espana/andalucia/playas-andaluzas-aptas-bano-20260801170253-nts.html",
+      "desc": "Las playas y zonas de baño de Andalucía arrancan la segunda mitad del verano en condiciones óptimas para el disfrute de los bañistas. Según el último informe de la Consejería de Presidencia, Sanidad y Emergencias de la Junta de Andalucía, correspondiente a la ",
+      "date": "Sat, 01 Aug 2026 17:02:53 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
     {
       "title": "Vecinos de Escalona salen a la calle para exigir más seguridad ante el aumento de las okupaciones",
       "link": "https://www.abc.es/espana/castilla-la-mancha/toledo/pueblos/vecinos-escalona-salen-calle-exigir-seguridad-ante-20260801163033-nt.html",
@@ -13,7 +133,7 @@
       "caso": "other"
     },
     {
-      "title": "Declarado un incendio forestal en Villalba del Alcor, en Huelva",
+      "title": "Estabilizado el incendio forestal en Villalba del Alcor, en Huelva",
       "link": "https://www.abc.es/espana/andalucia/huelva/declarado-incendio-forestal-villalba-alcor-20260801150737-nts.html",
       "desc": "El Servicio de Extinción de Incendios Forestales de Andalucía, el Plan Infoca , ha declarado este sábado un fuego activo en el paraje Finca Purchena, ubicado en el término municipal de Villalba del Alcor (Huelva) y donde se encuentran una veintena de medios tr",
       "date": "Sat, 01 Aug 2026 15:07:38 +0200",
@@ -50,6 +170,16 @@
       "source": "ABC",
       "color": "#c0392b",
       "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Muere Nirmal Purja, el hombre de los 14 ochomiles en tiempo récord, en un alud",
+      "link": "https://www.lavanguardia.com/deportes/20260801/11605862/confirmada-agencia-muerte-nirmal-purja-alud-10-victimas-broad-peak.html",
+      "desc": "La avalancha se produjo el jueves a unos 6.600 metros y atrapó a diez montañeros liderados por Purja",
+      "date": "01 Aug 2026 14:14:54 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
       "caso": "other"
     },
     {
@@ -93,16 +223,6 @@
       "caso": "other"
     },
     {
-      "title": "Feijóo responsabiliza al Gobierno de la crisis en Ceuta y apunta a que se conocía la amenaza «desde principios de semana»",
-      "link": "https://www.abc.es/espana/feijoo-responsabiliza-gobierno-crisis-ceuta-apunta-conocia-20260801135556-nt.html",
-      "desc": "Alberto Núñez Feijóo ha asegurado este sábado desde Ceuta que la entrada ilegal de más de 50.000 inmigrantes en la ciudad autónoma se conocía antes del jueves. «De forma concreta todo parece indicar que se conocía desde principios de esta semana», ha dicho el ",
-      "date": "Sat, 01 Aug 2026 13:55:56 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
       "title": "Feijóo culpa al Gobierno de la “ocupación premeditada” de Ceuta: “No es algo imprevisible”",
       "link": "https://www.lavanguardia.com/politica/20260801/11605860/feijoo-culpa-gobierno-ocupacion-premeditada-ceuta-imprevisible.html",
       "desc": "El líder del PP pide responsabilidades y explicaciones al Ejecutivo de Sánchez y asegura que “se conocía esta amenaza”",
@@ -113,133 +233,13 @@
       "caso": "other"
     },
     {
-      "title": "Un adolescente sufre una agresión con arma blanca en las fiestas de Sanchonuño (Segovia)",
-      "link": "https://www.abc.es/espana/castilla-leon/herido-adolescente-tras-sufrir-agresion-arma-blanca-20260801135042-nt.html",
-      "desc": "Un adolescente ha resultado herido esta madrugada tras sufrir una agresión con arma blanca en la espalda en la localidad segoviana de Sanchonuño, durante el comienzo de sus fiestas, según ha informado el Centro de Emergencias 112 de Castilla y León. El suceso ",
-      "date": "Sat, 01 Aug 2026 13:50:42 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Alicante transformará la línea ferroviaria litoral en un corredor verde del centro al aeropuerto",
-      "link": "https://www.abc.es/espana/comunidad-valenciana/alicante/alicante-transformara-linea-ferroviaria-litoral-corredor-verde-20260801134701-nt.html",
-      "desc": "Alicante convertirá el trazado ferroviario que discurre por el frente litoral sur en un corredor verde peatonal y ciclista que enlazará desde el futuro Parque Central hasta el aeropuerto, una transformación profunda del entorno del acceso a la ciudad desde Elc",
-      "date": "Sat, 01 Aug 2026 13:47:02 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "La estatua de Maimónides en Córdoba aparece vandalizada con una esvástica",
-      "link": "https://www.abc.es/espana/andalucia/cordoba/estatua-maimonides-cordoba-aparece-vandalizada-esvastica-20260801132019-nts.html",
-      "desc": "Una muestra del vandalismo urbano mezclado con lo peor de la historia. La estatua de Maimónides que se levanta en la plaza de Tiberíades, en el corazón de la Judería de Córdoba, ha aparecido este sábado vandalizada con una cruz esvástica. Se trata del emblema ",
-      "date": "Sat, 01 Aug 2026 13:43:26 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Ecologistas denuncian episodios de contaminación en pueblos de Toledo y apuntan a un centro de reciclaje como responsable",
-      "link": "https://www.abc.es/espana/castilla-la-mancha/toledo/ecologistas-denuncian-episodios-contaminacion-pueblos-toledo-apunta-20260801133751-nt.html",
-      "desc": "Ecologistas en Acción ha denunciado «reiterados episodios de contaminación atmosférica de origen desconocido» en las localidades toledanas de Cobeja, Pantoja y Alameda de la Sagra, y ha señalado que las investigaciones vecinales podrían apuntar a un centro de ",
-      "date": "Sat, 01 Aug 2026 13:37:52 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "2-1: El Albacete se deja remontar por el Levante en Buñol",
-      "link": "https://www.abc.es/espana/castilla-la-mancha/toledo/albacete-deja-remontar-levante-bunol-20260801133724-nt.html",
-      "desc": "El Albacete fue derrotado en la calurosa matinal de este sábado por el Levante UD por 2-1 en el que fue su quinto encuentro de pretemporada tras los disputados ante Leganés (0-0), Al-Kholood (2-1), Al Rayyan (1-0) y Real Madrid Castilla (1-2). El próximo parti",
-      "date": "Sat, 01 Aug 2026 13:37:24 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "El metro de Málaga roza los diez millones de viajeros durante el primer semestre",
-      "link": "https://www.abc.es/espana/andalucia/malaga/metro-malaga-roza-diez-millones-viajeros-primer-20260801133602-nts.html",
-      "desc": "Metro de Málaga , sociedad concesionaria de la Junta de Andalucía, concluyó el primer semestre con cerca de diez millones de viajeros transportados; en concreto, registró 9.953.379 pasajeros entre el 1 de enero y el 30 de junio, lo que supone 279.042 más que e",
-      "date": "Sat, 01 Aug 2026 13:36:02 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "El campo de Castilla y León incorpora a 598 jóvenes agricultores y ganaderos",
-      "link": "https://www.abc.es/espana/castilla-leon/campo-castilla-leon-incorpora-598-jovenes-agricultores-20260801132219-nt.html",
-      "desc": "La Junta de Castilla y León ha resuelto ayudas por importe de 48,1 millones para facilitar la incorporación de 598 jóvenes agricultores y ganaderos y financiar 181 planes de mejora vinculados a sus explotaciones. Dicha resolución cumple con uno de los compromi",
-      "date": "Sat, 01 Aug 2026 13:24:06 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Julio deja un balance provisional de 2.036 muertes atribuibles a las altas temperaturas",
-      "link": "https://www.lavanguardia.com/natural/20260801/11605846/julio-deja-balance-provisional-2-036-muertes-atribuibles-altas-temperaturas.html",
-      "desc": "La cuarta hola de calor de este año causó&nbsp;un total de 183 muertes atribuibles al calor",
-      "date": "01 Aug 2026 13:11:41 +0200",
+      "title": "La UEFA celebra el paso atrás de la FIFA y advierte a Infantino: “Deben rendir cuentas”",
+      "link": "https://www.lavanguardia.com/deportes/futbol/20260801/11605835/uefa-celebra-paso-fifa-avisa-deben-rendir-cuentas.html",
+      "desc": "El organismo europeo emite un comunicado donde muestra satisfacción por la retirada del plan de privatizar parte del Mundial&nbsp; y a su vez asegura que ha “perdido la confianza” en la dirección de Gianni Infantino",
+      "date": "01 Aug 2026 12:37:29 +0200",
       "source": "La Vanguardia",
       "color": "#8e44ad",
       "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "Carolina España prevé un presupuesto de 2027 superior al de este año y marcado por una «potente» rebaja fiscal",
-      "link": "https://www.abc.es/espana/andalucia/carolina-espana-preve-presupuesto-2027-superior-ano-20260801130445-nts.html",
-      "desc": "La vicepresidenta tercera y consejera de Economía, Hacienda y Fondos Europeos, Carolina España , ha manifestado que el presupuesto de la comunidad para 2027, que ya se está elaborando, tendrá como «prioridades» la sanidad y la vivienda y «crecerá» respecto al ",
-      "date": "Sat, 01 Aug 2026 13:06:09 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "La Hermandad Matriz presenta el lema y el cartel del Año Jubilar del Rocío: «Sigue sus pasos»",
-      "link": "https://www.abc.es/espana/andalucia/huelva/hermandad-matriz-presenta-lema-cartel-ano-jubilar-20260801125029-nts.html",
-      "desc": "La Hermandad Matriz de Nuestra Señora del Rocío de Almonte ha presentado este sábado el lema «Sigue sus pasos» y el cartel anunciador del Año Jubilar del Rocío , ilustrado con con una fotografía de Exteban Torres. Según explica la corporación, el lema «Sigue s",
-      "date": "Sat, 01 Aug 2026 12:50:29 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "El incendio de Burgohondo recibe el refuerzo de 50 efectivos llegados de Catar con dos helicópteros",
-      "link": "https://www.abc.es/espana/castilla-leon/incendio-burgohondo-recibe-refuerzo-efectivos-llegados-catar-20260801124414-nt.html",
-      "desc": "La Junta de Castilla y León confía en tener «absolutamente controlado» el incendio forestal de Burgohondo (Ávila) «en las próximas horas, días», después de que el operativo haya logrado mantener perimetrado y estabilizado el fuego, sin que se hayan rebasado la",
-      "date": "Sat, 01 Aug 2026 12:46:39 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Qué necesitas para viajar a Italia tras la suspensión del espacio Schengen con España",
-      "link": "https://www.abc.es/espana/necesitas-viajar-italia-tras-suspension-espacio-schengen-20260801123933-nt.html",
-      "desc": "El gobierno italiano anunció este viernes que suspendía el espacio Schengen con España después de la crisis migratoria acontecida con la invasión de miles de inmigrantes magrebíes que cruzaron sin oposición la frontera de Ceuta con Marruecos. Esta medida supon",
-      "date": "Sat, 01 Aug 2026 12:39:33 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Rueda ve «lógico» que Feijóo pacte con Vox si no tiene mayoría",
-      "link": "https://www.abc.es/espana/galicia/rueda-logico-feijoo-pacte-vox-mayoria-20260801123609-nt.html",
-      "desc": "El presidente de la Xunta, Alfonso Rueda, considera que si su jefe de filas en el PP, Alberto Núñez Feijóo, no logra suficientes apoyos en las próximas elecciones generales para gobernar «en solitario» España, está «obligado a conformar mayorías» y es conscien",
-      "date": "Sat, 01 Aug 2026 12:36:09 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
       "caso": "other"
     }
   ]
