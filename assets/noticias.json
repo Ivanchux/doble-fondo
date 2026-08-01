@@ -1,7 +1,177 @@
 {
-  "updated": "2026-08-01T11:12:53Z",
+  "updated": "2026-08-01T13:07:44Z",
   "count": 24,
   "items": [
+    {
+      "title": "El Arzobispado mueve ficha: Estos son los  sacerdotes que se van y los que llegan a las parroquias de Toledo",
+      "link": "https://www.abc.es/espana/castilla-la-mancha/toledo/arzobispado-mueve-ficha-sacerdotes-van-llegan-parroquias-20260801142934-nt.html",
+      "desc": "El Arzobispado de Toledo ha hecho públicos los nombramientos sacerdotales que supondrán una importante reorganización pastoral tanto en la capital como en numerosos municipios de la Archidiócesis. Los cambios afectan a párrocos , vicarios parroquiales, sacerdo",
+      "date": "Sat, 01 Aug 2026 14:29:34 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "El reabrir de los comercios en Ceuta, entre la solidaridad y el miedo",
+      "link": "https://www.abc.es/espana/reabrir-comercios-ceuta-solidaridad-miedo-20260801142630-nt.html",
+      "desc": "La fatiga carga sus piernas y en sus tripas ruge el hambre. Salen de entre las colinas y se esconden entre matorrales a fin de burlas el control que se extiende por la ciudad. Pero son ya menos y Ceuta lo ha notado así que los vecinos ya pueblan las calles y r",
+      "date": "Sat, 01 Aug 2026 14:26:30 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Dani Tasende busca dejar su huella como blanquiverde: «Quiero que me recuerden como un jugador humilde que lo dio todo por el Córdoba CF»",
+      "link": "https://www.abc.es/espana/andalucia/cordoba/cordoba-cf/dani-tasende-busca-dejar-huella-blanquiverde-quiero-20260801133017-nts.html",
+      "desc": "El trabajo no se detiene en el Córdoba CF. Los pupilos de Iván Ania ya han disputado cuatro encuentros amistosos y acumulan cerca de un mes de preparación. Antes de que llegue la competición, la adaptación de las nuevas piezas al modelo del técnico blanquiverd",
+      "date": "Sat, 01 Aug 2026 14:08:09 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Canarias registra un 30% de muertes por ahogamientos en 2026",
+      "link": "https://www.abc.es/espana/canarias/canarias-registra-muertes-ahogamientos-2026-20260801140641-nt.html",
+      "desc": "Un total de 39 personas han fallecido ahogadas en Canarias entre enero y julio de 2026, lo que supone un incremento del 30% en relación al mismo período de 2025 (30). Com ha alertado la Asociación para la prevención de accidentes acuáticos 'Canarias, 1500 Km d",
+      "date": "Sat, 01 Aug 2026 14:06:41 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Unos 1.400 alumnos han pasado por el centro educativo rural de Carboneras de Guadazaón (Cuenca)",
+      "link": "https://www.abc.es/espana/castilla-la-mancha/1400-alumnos-pasado-centro-educativo-rural-carboneras-20260801140408-nt.html",
+      "desc": "Un total de 1.400 alumnos de 61 centros educativos de Castilla-La Mancha participaron durante el curso 2025-2026 en las actividades del Centro Rural de Innovación Educativa (Criec) de Carboneras de Guadazaón (Cuenca), donde realizaron estancias de inmersión li",
+      "date": "Sat, 01 Aug 2026 14:04:08 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Marlaska asegura que el CNI no alertó de la entrada masiva de inmigrantes que desbordó Ceuta",
+      "link": "https://www.lavanguardia.com/politica/20260801/11605865/marlaska-asegura-cni-alerto-entrada-masiva-inmigrantes-desbordo-ceuta.html",
+      "desc": "La ciudad autónoma, que empieza a recuperar la normalidad con la salida de miles de jóvenes que entraron irregularmente, se pregunta si la crisis se pudo haber minimizado con información previa de los servicios secretos",
+      "date": "01 Aug 2026 13:58:01 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
+    {
+      "title": "Feijóo responsabiliza al Gobierno de la crisis en Ceuta y apunta a que se conocía la amenaza «desde principios de semana»",
+      "link": "https://www.abc.es/espana/feijoo-responsabiliza-gobierno-crisis-ceuta-apunta-conocia-20260801135556-nt.html",
+      "desc": "Alberto Núñez Feijóo ha asegurado este sábado desde Ceuta que la entrada ilegal de más de 50.000 inmigrantes en la ciudad se conocía antes del jueves. «Se conocía esta amenaza. De forma concreta todo parece indicar que se conocía desde principios de esta seman",
+      "date": "Sat, 01 Aug 2026 13:55:56 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Feijóo culpa al Gobierno de la “ocupación premeditada” de Ceuta: “No es algo imprevisible”",
+      "link": "https://www.lavanguardia.com/politica/20260801/11605860/feijoo-culpa-gobierno-ocupacion-premeditada-ceuta-imprevisible.html",
+      "desc": "El líder del PP pide responsabilidades y explicaciones al Ejecutivo de Sánchez y asegura que “se conocía esta amenaza”",
+      "date": "01 Aug 2026 13:52:14 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
+    {
+      "title": "Un adolescente sufre una agresión con arma blanca en las fiestas de Sanchonuño (Segovia)",
+      "link": "https://www.abc.es/espana/castilla-leon/herido-adolescente-tras-sufrir-agresion-arma-blanca-20260801135042-nt.html",
+      "desc": "Un adolescente ha resultado herido esta madrugada tras sufrir una agresión con arma blanca en la espalda en la localidad segoviana de Sanchonuño, durante el comienzo de sus fiestas, según ha informado el Centro de Emergencias 112 de Castilla y León. El suceso ",
+      "date": "Sat, 01 Aug 2026 13:50:42 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Alicante transformará la línea ferroviaria litoral en un corredor verde del centro al aeropuerto",
+      "link": "https://www.abc.es/espana/comunidad-valenciana/alicante/alicante-transformara-linea-ferroviaria-litoral-corredor-verde-20260801134701-nt.html",
+      "desc": "Alicante convertirá el trazado ferroviario que discurre por el frente litoral sur en un corredor verde peatonal y ciclista que enlazará desde el futuro Parque Central hasta el aeropuerto, una transformación profunda del entorno del acceso a la ciudad desde Elc",
+      "date": "Sat, 01 Aug 2026 13:47:02 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "La estatua de Maimónides en Córdoba aparece vandalizada con una esvástica",
+      "link": "https://www.abc.es/espana/andalucia/cordoba/estatua-maimonides-cordoba-aparece-vandalizada-esvastica-20260801132019-nts.html",
+      "desc": "Una muestra del vandalismo urbano mezclado con lo peor de la historia. La estatua de Maimónides que se levanta en la plaza de Tiberíades, en el corazón de la Judería de Córdoba, ha aparecido este sábado vandalizada con una cruz esvástica. Se trata del emblema ",
+      "date": "Sat, 01 Aug 2026 13:43:26 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Ecologistas denuncian episodios de contaminación en pueblos de Toledo y apuntan a un centro de reciclaje como responsable",
+      "link": "https://www.abc.es/espana/castilla-la-mancha/toledo/ecologistas-denuncian-episodios-contaminacion-pueblos-toledo-apunta-20260801133751-nt.html",
+      "desc": "Ecologistas en Acción ha denunciado «reiterados episodios de contaminación atmosférica de origen desconocido» en las localidades toledanas de Cobeja, Pantoja y Alameda de la Sagra, y ha señalado que las investigaciones vecinales podrían apuntar a un centro de ",
+      "date": "Sat, 01 Aug 2026 13:37:52 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "2-1: El Albacete se deja remontar por el Levante en Buñol",
+      "link": "https://www.abc.es/espana/castilla-la-mancha/toledo/albacete-deja-remontar-levante-bunol-20260801133724-nt.html",
+      "desc": "El Albacete fue derrotado en la calurosa matinal de este sábado por el Levante UD por 2-1 en el que fue su quinto encuentro de pretemporada tras los disputados ante Leganés (0-0), Al-Kholood (2-1), Al Rayyan (1-0) y Real Madrid Castilla (1-2). El próximo parti",
+      "date": "Sat, 01 Aug 2026 13:37:24 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "El metro de Málaga roza los diez millones de viajeros durante el primer semestre",
+      "link": "https://www.abc.es/espana/andalucia/malaga/metro-malaga-roza-diez-millones-viajeros-primer-20260801133602-nts.html",
+      "desc": "Metro de Málaga , sociedad concesionaria de la Junta de Andalucía, concluyó el primer semestre con cerca de diez millones de viajeros transportados; en concreto, registró 9.953.379 pasajeros entre el 1 de enero y el 30 de junio, lo que supone 279.042 más que e",
+      "date": "Sat, 01 Aug 2026 13:36:02 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "El campo de Castilla y León incorpora a 598 jóvenes agricultores y ganaderos",
+      "link": "https://www.abc.es/espana/castilla-leon/campo-castilla-leon-incorpora-598-jovenes-agricultores-20260801132219-nt.html",
+      "desc": "La Junta de Castilla y León ha resuelto ayudas por importe de 48,1 millones para facilitar la incorporación de 598 jóvenes agricultores y ganaderos y financiar 181 planes de mejora vinculados a sus explotaciones. Dicha resolución cumple con uno de los compromi",
+      "date": "Sat, 01 Aug 2026 13:24:06 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Julio deja un balance provisional de 2.036 muertes atribuibles a las altas temperaturas",
+      "link": "https://www.lavanguardia.com/natural/20260801/11605846/julio-deja-balance-provisional-2-036-muertes-atribuibles-altas-temperaturas.html",
+      "desc": "La cuarta hola de calor de este año causó&nbsp;un total de 183 muertes atribuibles al calor",
+      "date": "01 Aug 2026 13:11:41 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
+    {
+      "title": "Carolina España prevé un presupuesto de 2027 superior al de este año y marcado por una «potente» rebaja fiscal",
+      "link": "https://www.abc.es/espana/andalucia/carolina-espana-preve-presupuesto-2027-superior-ano-20260801130445-nts.html",
+      "desc": "La vicepresidenta tercera y consejera de Economía, Hacienda y Fondos Europeos, Carolina España , ha manifestado que el presupuesto de la comunidad para 2027, que ya se está elaborando, tendrá como «prioridades» la sanidad y la vivienda y «crecerá» respecto al ",
+      "date": "Sat, 01 Aug 2026 13:06:09 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
     {
       "title": "La Hermandad Matriz presenta el lema y el cartel del Año Jubilar del Rocío: «Sigue sus pasos»",
       "link": "https://www.abc.es/espana/andalucia/huelva/hermandad-matriz-presenta-lema-cartel-ano-jubilar-20260801125029-nts.html",
@@ -53,7 +223,7 @@
       "caso": "other"
     },
     {
-      "title": "Italia y Dinamarca piden coordinación a la UE para el control de la frontera exterior tras la petición de Sánchez",
+      "title": "Italia y Dinamarca también piden coordinación a la UE para el control de la frontera exterior tras la petición de Sánchez",
       "link": "https://www.lavanguardia.com/internacional/20260801/11605827/italia-dinamarca-piden-ue-coordinacion-control-frontera-exterior-peticion-sanchez.html",
       "desc": "En total, 24 países europeos se suman a la petición del presidente del Gobierno para realizar una reunión extraordinaria en la que&nbsp;analizar la crisis migratoria y&nbsp;acordar una respuesta coordinada",
       "date": "01 Aug 2026 12:23:55 +0200",
@@ -70,176 +240,6 @@
       "source": "ABC",
       "color": "#c0392b",
       "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Casi 400 monumentos de 316 localidades permanecerán abiertos durante el verano",
-      "link": "https://www.abc.es/espana/castilla-leon/400-monumentos-316-localidades-permaneceran-abiertos-verano-20260801120417-nt.html",
-      "desc": "La Junta de Castilla y León mantiene hasta el próximo 6 de septiembre el Programa de Apertura de Monumentos Verano 2026, una iniciativa que permite visitar 390 monumentos repartidos por 316 localidades de las nueve provincias de la Comunidad. La propuesta, org",
-      "date": "Sat, 01 Aug 2026 12:05:55 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Investigan a una empresa y sus responsables por vertidos de alperujo en Villa del Río",
-      "link": "https://www.abc.es/espana/andalucia/cordoba/investigan-empresa-responsables-vertidos-alperujo-villa-rio-20260801120554-nts.html",
-      "desc": "La Guardia Civil, a través de su Servicio de Protección de la Naturaleza ( Seprona ), ha investigado a una sociedad mercantil y a dos de sus responsables como presuntos autores de delitos contra los recursos naturales y el medio ambiente, así como por la presu",
-      "date": "Sat, 01 Aug 2026 12:05:55 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "La Junta impulsa la medicina laboral como pilar estratégico del Sescam",
-      "link": "https://www.abc.es/espana/castilla-la-mancha/toledo/junta-impulsa-medicina-laboral-pilar-estrategico-sescam-20260801120435-nt.html",
-      "desc": "El director general de Recursos Humanos y Transformación del Servicio de Salud de Castilla-La Mancha (Sescam), Íñigo Cortázar, ha mantenido una reunión institucional con 14 residentes de las especialidades de Medicina del Trabajo y de Enfermería del Trabajo, q",
-      "date": "Sat, 01 Aug 2026 12:04:36 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "El CPEIS aprueba por primera vez por unanimidad la Cuenta General de 2025 y avala su gestión económica",
-      "link": "https://www.abc.es/espana/castilla-la-mancha/toledo/pueblos/cpeis-aprueba-primera-vez-unanimidad-cuenta-general-20260801115254-nt.html",
-      "desc": "El Pleno del Consorcio Provincial de Extinción de Incendios y Salvamento (CPEIS), organismo dependiente de la Diputación de Toledo, ha aprobado por primera vez por unanimidad la Cuenta General correspondiente al ejercicio 2025, un a cuerdo respaldado por los t",
-      "date": "Sat, 01 Aug 2026 11:52:54 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Así es la barrera de contención que el Gobierno ha instalado en el espigón del Tarajal: 500 metros de largo y 1,5 metros de alto",
-      "link": "https://www.abc.es/espana/barrera-contencion-gobierno-instalado-espigon-tarajal-500-20260801114619-nt.html",
-      "desc": "El Gobierno de España ha anunciado este sábado la instalación de una barrera de contención en el espigón del Tarajal después de la crisis migratoria desatada tras la llegada de casi 60.000 migrantes a la ciudad de Ceuta. Antes de las 8 de la mañana ya se había",
-      "date": "Sat, 01 Aug 2026 11:46:20 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "La consellera valenciana de Educación: «Si los sindicatos ya tienen hoja de ruta, no piensan negociar»",
-      "link": "https://www.abc.es/espana/comunidad-valenciana/consellera-valenciana-educacion-sindicatos-hoja-ruta-piensan-20260801113121-nt.html",
-      "desc": "La consellera de Educación, Cultura y Universidades, Carmen Ortí, ante el anuncio de nuevas movilizaciones en septiembre e incluso una reanudación de la huelga, ha manifestado: «Ha llegado el momento de hablar claro en relación a que si los sindicatos ya tiene",
-      "date": "Sat, 01 Aug 2026 11:45:46 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Los servicios de extinción logran contener el avance del incendio de Veguellina, en León",
-      "link": "https://www.abc.es/espana/castilla-leon/servicios-extincion-logran-contener-avance-incendio-veguellina-20260801114327-nt.html",
-      "desc": "La situación de los dos de mayor gravedad, el de Veguellina, en León, y el de Fermoselle, en Zamora, que este sábado registra Castilla y León ha mejorado considerablemente después de una noche en la que los servicios de extinción han logrado contener el avance",
-      "date": "Sat, 01 Aug 2026 11:44:13 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "La Guardia Civil desarticula un grupo de tres mujeres que robaba con sumisión química a clientes del ocio en Azuqueca",
-      "link": "https://www.abc.es/espana/castilla-la-mancha/guardia-civil-desarticula-grupo-robaba-sumision-quimica-20260801113246-nt.html",
-      "desc": "La Guardia Civil ha desarticulado un grupo criminal dedicado presuntamente a cometer robos mediante sumisión química en Azuqueca de Henares. La investigación, desarrollada por agentes del Área de Investigación del Puesto Principal de la localidad, ha permitido",
-      "date": "Sat, 01 Aug 2026 11:32:47 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Orcas y barcos en Galicia: «No son un peligro para el ser humano, solo comen atún»",
-      "link": "https://www.abc.es/espana/galicia/orcas-barcos-galicia-peligro-humano-solo-comen-20260801112606-nt.html",
-      "desc": "El biólogo de la Coordinadora para el Estudio de Mamíferos Marinos (Cemma), Alfredo López, ha asegurado que las orcas «no suponen en absoluto un peligro» para el ser humano, ya que se alimentan «solamente de atún». Ante las últimas interacciones de estos mamíf",
-      "date": "Sat, 01 Aug 2026 11:26:06 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "El PSOE denuncia el «fracaso» del Ayuntamiento de Córdoba tras bloquearse dos promociones de VPO",
-      "link": "https://www.abc.es/espana/andalucia/cordoba/psoe-denuncia-fracaso-ayuntamiento-cordoba-tras-bloquearse-20260801112153-nts.html",
-      "desc": "El grupo socialista en el Ayuntamiento de Córdoba ha denunciado el «fracaso» de la política municipal de vivienda del Gobierno de José María Bellido después de que las dos promociones de vivienda protegida más avanzadas de Vimcorsa hayan vuelto a quedar bloque",
-      "date": "Sat, 01 Aug 2026 11:21:53 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Una reyerta en Pedro Muñoz (Ciudad Real) se salda con un menor herido de gravedad",
-      "link": "https://www.abc.es/espana/castilla-la-mancha/reyerta-pedro-munoz-ciudad-real-salda-menor-20260801111943-nt.html",
-      "desc": "Un menor de 15 años de edad ha resultado herido grave por arma blanca este viernes tras una reyerta ocurrida en Pedro Muñoz (Ciudad Real). Según han informado fuentes del Servicio de Emergencias 112 a Europa Press, los hechos tenían lugar a las 23.19 horas de ",
-      "date": "Sat, 01 Aug 2026 11:19:44 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Yandel transforma el Roig Arena en una gran celebración sinfónica del reguetón",
-      "link": "https://www.abc.es/espana/comunidad-valenciana/yandel-transforma-roig-arena-gran-celebracion-sinfonica-20260801111416-nt.html",
-      "desc": "Más de 10.600 personas se han dado cita en la noche del viernes en el Roig Arena para ae concierto 'Yandel Sinfónico' una «propuesta única» en la que el artista puertorriqueño ha fusionado los ritmos urbanos y latinos que han definido su trayectoria con la fue",
-      "date": "Sat, 01 Aug 2026 11:14:17 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Muere un hombre de 62 años tras chocar su coche contra un árbol en una avenida de Albacete",
-      "link": "https://www.abc.es/espana/castilla-la-mancha/muere-hombre-anos-tras-chocar-coche-arbol-20260801110659-nt.html",
-      "desc": "Un hombre de 62 años de edad ha fallecido este sábado en Albacete tras chocar el coche que conducía contra un árbol en la avenida de Constantino Romero. Según han informado fuentes del Servicio de Emergencias 112 a Europa Press, el siniestro ha tenido lugar a ",
-      "date": "Sat, 01 Aug 2026 11:07:00 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Sánchez pide una reunión europea urgente y carga contra algunos gobiernos",
-      "link": "https://www.lavanguardia.com/politica/20260801/11605805/sanchez-pide-reunion-europea-urgente-crisis-ceuta-carga-reaccion-gobiernos.html",
-      "desc": "En una carta enviada a la&nbsp;Comisión Europea, el presidente español reprocha las “reacciones egoístas” de los países que&nbsp;han optado por atacar a España y pedir su exclusión del espacio Schengen",
-      "date": "01 Aug 2026 11:04:24 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "Líderes europeos piden a Bruselas una reunión urgente por la crisis en Ceuta mientras Sánchez tilda a algunos de «egoísta»",
-      "link": "https://www.abc.es/espana/pedro-sanchez-agradece-marruecos-cooperacion-ceuta-carga-20260801104200-nt.html",
-      "desc": "Un total de 22 líderes europeos han firmado una carta remitida este sábado a Ursula Von der Leyen, presidenta de la Comisión Europea, y a Antonio Costa, presidente del Consejo Europeo, instando a convocar de «urgencia» una videoconferencia extraordinaria de lo",
-      "date": "Sat, 01 Aug 2026 10:54:18 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Entrar en Ceuta no da derecho a circular por Europa: desinformación y bulos sobre el espacio Schengen",
-      "link": "https://www.lavanguardia.com/politica/20260801/11605789/ceuta-melilla-mantienen-doble-filtro-fronterizo-garantiza-integridad-schengen.html",
-      "desc": "Fuentes del Gobierno subrayan que las entradas irregulares no permiten permanecer en España ni circular por Europa y que la práctica totalidad de los cruces recientes han sido ya retornados a Marruecos",
-      "date": "01 Aug 2026 09:43:34 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "George R.R. Martin, el rey que no entrega el reino",
-      "link": "https://www.lavanguardia.com/gente/20260801/11605325/george-r-r-martin-rey-entrega-reino.html",
-      "desc": "Millones de lectores siguen esperando el sexto libro de la saga fantástica que ha creado el escritor en la que se basa 'Juego de tronos'",
-      "date": "01 Aug 2026 06:45:28 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
       "caso": "other"
     }
   ]
