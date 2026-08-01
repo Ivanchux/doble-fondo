@@ -1,7 +1,37 @@
 {
-  "updated": "2026-08-01T13:07:44Z",
+  "updated": "2026-08-01T14:55:32Z",
   "count": 24,
   "items": [
+    {
+      "title": "Vecinos de Escalona salen a la calle para exigir más seguridad ante el aumento de las okupaciones",
+      "link": "https://www.abc.es/espana/castilla-la-mancha/toledo/pueblos/vecinos-escalona-salen-calle-exigir-seguridad-ante-20260801163033-nt.html",
+      "desc": "La creciente preocupación por el aumento de las viviendas okupadas y la sensación de inseguridad ha llevado este sábado a vecinos de La Carrasquilla y otras urbanizaciones situadas en la localidad toledana de Escalona , a concentrarse para reclamar un refuerzo",
+      "date": "Sat, 01 Aug 2026 16:37:08 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Declarado un incendio forestal en Villalba del Alcor, en Huelva",
+      "link": "https://www.abc.es/espana/andalucia/huelva/declarado-incendio-forestal-villalba-alcor-20260801150737-nts.html",
+      "desc": "El Servicio de Extinción de Incendios Forestales de Andalucía, el Plan Infoca , ha declarado este sábado un fuego activo en el paraje Finca Purchena, ubicado en el término municipal de Villalba del Alcor (Huelva) y donde se encuentran una veintena de medios tr",
+      "date": "Sat, 01 Aug 2026 15:07:38 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Interior cifra por ahora en 67 los muertos en Ceuta, a la espera de un balance definitivo",
+      "link": "https://www.lavanguardia.com/politica/20260801/11605870/interior-cifra-67-muertos-ceuta-espera-balance-definitivo.html",
+      "desc": "La Guardia Civil mantiene un rastreo constante para localizar más cadáveres en la zona cercana al espigón fronterizo del Tarajal, por lo que se espera que el número aumente en las próximas horas",
+      "date": "01 Aug 2026 15:04:28 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
     {
       "title": "El Arzobispado mueve ficha: Estos son los  sacerdotes que se van y los que llegan a las parroquias de Toledo",
       "link": "https://www.abc.es/espana/castilla-la-mancha/toledo/arzobispado-mueve-ficha-sacerdotes-van-llegan-parroquias-20260801142934-nt.html",
@@ -65,7 +95,7 @@
     {
       "title": "Feijóo responsabiliza al Gobierno de la crisis en Ceuta y apunta a que se conocía la amenaza «desde principios de semana»",
       "link": "https://www.abc.es/espana/feijoo-responsabiliza-gobierno-crisis-ceuta-apunta-conocia-20260801135556-nt.html",
-      "desc": "Alberto Núñez Feijóo ha asegurado este sábado desde Ceuta que la entrada ilegal de más de 50.000 inmigrantes en la ciudad se conocía antes del jueves. «Se conocía esta amenaza. De forma concreta todo parece indicar que se conocía desde principios de esta seman",
+      "desc": "Alberto Núñez Feijóo ha asegurado este sábado desde Ceuta que la entrada ilegal de más de 50.000 inmigrantes en la ciudad autónoma se conocía antes del jueves. «De forma concreta todo parece indicar que se conocía desde principios de esta semana», ha dicho el ",
       "date": "Sat, 01 Aug 2026 13:55:56 +0200",
       "source": "ABC",
       "color": "#c0392b",
@@ -207,36 +237,6 @@
       "link": "https://www.abc.es/espana/galicia/rueda-logico-feijoo-pacte-vox-mayoria-20260801123609-nt.html",
       "desc": "El presidente de la Xunta, Alfonso Rueda, considera que si su jefe de filas en el PP, Alberto Núñez Feijóo, no logra suficientes apoyos en las próximas elecciones generales para gobernar «en solitario» España, está «obligado a conformar mayorías» y es conscien",
       "date": "Sat, 01 Aug 2026 12:36:09 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Juzgan a un granadino por cobrar la pensión de su madre muerta durante 22 años",
-      "link": "https://www.abc.es/espana/andalucia/granada/juzgan-granadino-cobrar-pension-madre-muerta-anos-20260801122730-nts.html",
-      "desc": "La Fiscalía de Granada ha solicitado cinco años de prisión para un hombre acusado de cobrar la pensión de viudedad de su madre muerta durante 22 años en los que se hizo presuntamente con un montante superior a los 200.000 euros, según consta en el escrito de a",
-      "date": "Sat, 01 Aug 2026 12:27:31 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Italia y Dinamarca también piden coordinación a la UE para el control de la frontera exterior tras la petición de Sánchez",
-      "link": "https://www.lavanguardia.com/internacional/20260801/11605827/italia-dinamarca-piden-ue-coordinacion-control-frontera-exterior-peticion-sanchez.html",
-      "desc": "En total, 24 países europeos se suman a la petición del presidente del Gobierno para realizar una reunión extraordinaria en la que&nbsp;analizar la crisis migratoria y&nbsp;acordar una respuesta coordinada",
-      "date": "01 Aug 2026 12:23:55 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "Ciudad Real honra sus raíces con la proclamación del Pandorgo y la Dulcinea 2026",
-      "link": "https://www.abc.es/espana/castilla-la-mancha/ciudad-real-honra-raices-proclamacion-pandorgo-dulcinea-20260801122021-nt.html",
-      "desc": "Ciudad Real vivía este viernes el día grande de la Pandorga con la celebración del acto institucional de proclamación del Pandorgo y la Dulcinea 2026, una de las citas más representativas en honor a la Virgen del Prado, que cada año reúne a cientos de ciudadre",
-      "date": "Sat, 01 Aug 2026 12:20:22 +0200",
       "source": "ABC",
       "color": "#c0392b",
       "feedId": "ABC",
