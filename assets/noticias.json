@@ -1,11 +1,81 @@
 {
-  "updated": "2026-08-01T20:43:42Z",
+  "updated": "2026-08-01T22:49:54Z",
   "count": 24,
   "items": [
     {
+      "title": "Mercadona hoy: horario de los supermercados abiertos el domingo 2 de agosto",
+      "link": "https://www.abc.es/espana/comunidad-valenciana/mercadona-hoy-horario-supermercados-abiertos-domingo-agosto-20260802000427-nt.html",
+      "desc": "Los supermercados Mercadona abiertos este domingo, 2 de agosto, en la Comunidad Valenciana se concentran en las zonas costeras. Las tiendas de una treintena de municipios de Valencia, Alicante y Castellón suben la persiana durante esta jornada no laborable con",
+      "date": "Sun, 02 Aug 2026 00:05:04 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Horario de Consum el domingo 2 de agosto: supermercados abiertos hoy",
+      "link": "https://www.abc.es/espana/comunidad-valenciana/horario-consum-domingo-agosto-supermercados-abiertos-hoy-20260802000500-nt.html",
+      "desc": "Consum abre algunos de sus supermercados este domingo, 2 de agosto, en zonas de gran afluencia turística de la costa española. Como viene siendo habitual durante la campaña de verano, los establecimientos de la cooperativa suben la persiana en horario reducido",
+      "date": "Sun, 02 Aug 2026 00:05:00 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Si lo quieres sin IA, tendrás que pagar más",
+      "link": "https://www.lavanguardia.com/cultura/20260802/11605910/ia-cultura-premium-artificial-humano-barcelona.html",
+      "desc": "",
+      "date": "02 Aug 2026 00:00:00 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
+    {
+      "title": "Agosto imparte clases de Historia en los pueblos",
+      "link": "https://www.abc.es/espana/castilla-leon/pueblos-dan-clase-historia-agosto-20260730232802-nt.html",
+      "desc": "«Es una forma de seguir transmitiendo cultura hacia fuera y que el patrimonio siga calando hacia dentro, entre los vecinos de su entorno». Es el sentido que Alberto Santamaría, presidente de la Asociación Cultural Celtibérica Tierraquemada, ve a la recreación ",
+      "date": "Sat, 01 Aug 2026 23:28:02 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "De «maravilla» natural a paisaje casi lunar",
+      "link": "https://www.abc.es/espana/castilla-leon/paraiso-natural-paisaje-lunar-20260726232401-nt.html",
+      "desc": "Por más que ahora haya zonas que parezcan más un paisaje lunar en el que el gris de las cenizas lo domina prácticamente todo, el olor a quemado impide apreciar cualquier otro aroma y el terreno aún caliente anima más a apartar la vista que al deleite, lo ciert",
+      "date": "Sat, 01 Aug 2026 23:24:01 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Levantan la evacuación de una urbanización de La Adrada al controlarse la reactivación del incendio de Burgohondo",
+      "link": "https://www.abc.es/espana/castilla-leon/levantan-evacuacion-urbanizacion-adrada-controlarse-reactivacion-incendio-20260801231332-nt.html",
+      "desc": "La Junta de Castilla y León levantó esta noche la evacuación preventiva de la urbanización La Picota y de las edificaciones colindantes, en el municipio abulense de La Adrada, después de que el operativo lograra controlar la reproducción del incendio registrad",
+      "date": "Sat, 01 Aug 2026 23:15:18 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Una explosión en un restaurante de Moscú deja tres muertos y 21 heridos",
+      "link": "https://www.lavanguardia.com/internacional/20260801/11605998/explosion-restaurante-moscu-deja-3-muertos-21-heridos.html",
+      "desc": "Según las autoridades locales una mujer habría detonado el artefacto tras intentar entrar en el local",
+      "date": "01 Aug 2026 23:13:11 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
+    {
       "title": "Al menos 13 muertos tras estrellarse una avioneta en Perú",
       "link": "https://www.lavanguardia.com/internacional/20260801/11605992/13-fallecidos-estrellarse-avioneta-peru.html",
-      "desc": "Canales de televisión peruanos reportan una tragedia con varios turistas que sobrevolaban Nazca",
+      "desc": "Canales de televisión peruanos reportan una tragedia con varios turistas que sobrevolaban las Líneas de Nazca",
       "date": "01 Aug 2026 21:56:13 +0200",
       "source": "La Vanguardia",
       "color": "#8e44ad",
@@ -170,76 +240,6 @@
       "source": "ABC",
       "color": "#c0392b",
       "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Un incendio en La Vaguada obliga a desalojar el centro comercial",
-      "link": "https://www.abc.es/espana/madrid/incendio-vaguada-obliga-desalojar-centro-comercial-20260801183116-nt.html",
-      "desc": "El centro comercial de La Vaguada, en el barrio del Pilar de Madrid, ha tenido que ser desalojado en la tarde de este sábado por un incendio que se ha originado en la gran superficie, ubicado . El fuego se ha originado sobre las 17.20 horas en los contenedores",
-      "date": "Sat, 01 Aug 2026 18:31:16 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Este lunes comienza a circular la nueva línea de Astra de Marchamalo que conectará  con la estación de Renfe",
-      "link": "https://www.abc.es/espana/castilla-la-mancha/toledo/lunes-comienza-circular-nueva-linea-astra-marchamalo-20260801181618-nt.html",
-      "desc": "Este próximo lunes, día 3 de agosto, comenzará a circular el primero de los autobuses de la nueva Línea 3 del Servicio de Transporte Público Interurbano Astra de Marchamalo , que unirá el municipio gallardo con la estación de Renfe en un trayecto directo de id",
-      "date": "Sat, 01 Aug 2026 18:16:18 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Estabilizado el incendio de Villalba del Alcor",
-      "link": "https://www.abc.es/espana/andalucia/huelva/estabilizado-incendio-villalba-alcor-20260801181403-nts.html",
-      "desc": "El Servicio de Extinción de Incendios Forestales de Andalucía, el Plan Infoca, ha dado por estabilizado a las 15,30 horas de este sábado el incendio forestal activo en el paraje Finca Purchena, ubicado en el término municipal de Villalba del Alcor (Huelva) Seg",
-      "date": "Sat, 01 Aug 2026 18:14:42 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Felipe VI pide medidas para evitar otra crisis en Ceuta y Melilla: «El Estado debe velar por su seguridad»",
-      "link": "https://www.abc.es/espana/casa-real/felipe-sigue-gran-preocupacion-indignacion-entrada-masiva-20260801180144-nt.html",
-      "desc": "Felipe VI «ha seguido con gran preocupación e indignación» la entrada masiva de migrantes desde Marruecos a España a través de Ceuta y Melilla. El pronunciamiento del Monarca se ha producido dos días después del inicio de la crisis migratoria y pocas horas des",
-      "date": "Sat, 01 Aug 2026 18:01:45 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "El primer día de Bisiwu, la perla belga, con Flick: “Mi referente es Neymar”",
-      "link": "https://www.lavanguardia.com/deportes/futbol/20260801/11605891/primer-dia-bisiwu-perla-belga-flick-mi-referente-neymar.html",
-      "desc": "El extremo belga de 18 años, fichado por 8,5 millones de euros procedente del Brujas, completa su primer entrenamiento y asegura que hará “todo lo que el entrenador me pida”",
-      "date": "01 Aug 2026 17:37:02 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "Iris Tió se cuelga dos platas de distinto sabor para empujar el medallero español en París",
-      "link": "https://www.lavanguardia.com/deportes/natacion/20260801/11605890/iris-tio-dennis-gonzalez-cuelgan-plata-dos-semanas-entrenamiento.html",
-      "desc": "Primero, fue plata con Dennis González en el dúo mixto libre, un logro tras entrenar solamente dos semanas la coreografía; luego, aspiraba al oro con Lilou Lluís en el dúo libre, pero Grecia las superó por cinco décimas",
-      "date": "01 Aug 2026 16:45:38 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "Interior cifra en al menos 67 los muertos en Ceuta, a la espera de un balance definitivo",
-      "link": "https://www.lavanguardia.com/politica/20260801/11605870/interior-cifra-67-muertos-ceuta-espera-balance-definitivo.html",
-      "desc": "La Guardia Civil mantiene un rastreo constante para localizar más cadáveres en la zona cercana al espigón fronterizo del Tarajal, por lo que se espera que el número aumente en las próximas horas",
-      "date": "01 Aug 2026 15:04:28 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
       "caso": "other"
     }
   ]
