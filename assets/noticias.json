@@ -1,7 +1,97 @@
 {
-  "updated": "2026-08-02T09:51:41Z",
+  "updated": "2026-08-02T11:13:09Z",
   "count": 24,
   "items": [
+    {
+      "title": "El incendio de La Vaguada que obligó a desalojar el centro comercial fue intencionado: hay un detenido",
+      "link": "https://www.abc.es/espana/madrid/incendio-vaguada-obligo-desalojar-centro-comercial-intencionado-20260802125958-nt.html",
+      "desc": "No fue un cortocircuito ni tampoco un cigarro mal apagado. En realidad, no tuvo nada de fortuito el incendio que ayer sábado obligó a desalojar el centro comercial La Vaguada . Las averiguaciones de la Policía Nacional llevaron a la detención, ocho horas despu",
+      "date": "Sun, 02 Aug 2026 12:59:59 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "El Hospital La Fe participa en un estudio internacional pionero para las arritmias",
+      "link": "https://www.abc.es/espana/comunidad-valenciana/hospital-participa-estudio-internacional-pionero-arritmias-20260802125925-nt.html",
+      "desc": "El Hospital Universitari i Politècnic La Fe ha participado en el primer estudio científico que analiza el uso de la ablación como tratamiento inicial en pacientes con fibrilación auricular persistente, una de las arritmias más frecuentes. El trabajo, conocido ",
+      "date": "Sun, 02 Aug 2026 12:59:26 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "La petición del socialista Mario Jiménez  al Rey: «Que llame a su querido hermano Mohamed VI»",
+      "link": "https://www.abc.es/espana/andalucia/peticion-socialista-mario-jimenez-rey-llame-querido-20260802125611-nts.html",
+      "desc": "El diputado socialista andaluz Mario Jiménez ha entrado de lleno en el debate sobre la crisis migratoria de Ceut a. El onubense, además de ser el parlamentario más veterano del Parlamento de Andalucía, ha aprovechado las redes sociales para lanzar un mensaje d",
+      "date": "Sun, 02 Aug 2026 12:57:07 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Víctor Sánchez quiere contar en los planes de Iván Ania: «Esta es la oportunidad que siempre buscaba y voy a luchar por hacerme un hueco en el Córdoba CF»",
+      "link": "https://www.abc.es/espana/andalucia/cordoba/cordoba-cf/victor-sanchez-quiere-contar-planes-ivan-ania-20260802125053-nts.html",
+      "desc": "Víctor Sánchez afronta una pretemporada especialmente importante en su carrera. Después de completar la pasada campaña en el Marbella, el delantero sevillano se encuentra ahora integrado en la dinámica del Córdoba CF con el objetivo de convencer a Iván Ania y ",
+      "date": "Sun, 02 Aug 2026 12:54:43 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Seseña aspira a ganar en la próxima década hasta 20.000 habitantes  y superar la barrera de los 50.000",
+      "link": "https://www.abc.es/espana/castilla-la-mancha/toledo/sesena-aspira-ganar-proxima-decada-20000-habitantes-20260802123448-nt.html",
+      "desc": "El alcalde de Seseña, el 'popular' Jaime de Hita, ha desgranado el momento clave que vive el municipio tras sus tres primeros años ostentando el bastón de mando, una situación en la que a la vista de los próximos desarrollos industriales que están avanzando co",
+      "date": "Sun, 02 Aug 2026 12:34:48 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "La imagen de San Francisco de Asís procesiona por primera vez en 144 años por las calles de Chipiona",
+      "link": "https://www.abc.es/espana/andalucia/cadiz/imagen-san-francisco-asis-procesiona-primera-vez-20260802123117-nts.html",
+      "desc": "San Francisco de Asís, falleció el 3 de octubre de 1226, será el próximo mes de octubre, cuando se cumplan los 800 años de su muerte, en la «Porciuncula» de Asís, (El tránsito) a los 44 años de edad. En el inicio de su vida religiosa fundó la Orden Franciscana",
+      "date": "Sun, 02 Aug 2026 12:31:18 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Emergencias pide no acercarse a la zona del incendio en Vall d'Uixó: continúa la extinción",
+      "link": "https://www.abc.es/espana/comunidad-valenciana/emergencias-pide-acercarse-zona-incendio-vall-duixo-20260802120356-nt.html",
+      "desc": "Emergencias de la Generalitat Valenciana ha recomendado en redes sociales del servicio '112' no acercarse a la zona del incendio en Vall d'Uixó (Castellón), donde continúan las labores de extinción y de refresco de las zonas de peligro para rebrotes del fuego.",
+      "date": "Sun, 02 Aug 2026 12:03:57 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "La Teleasistencia andaluza se moviliza contra el calor con más de 224.000 contactos a personas vulnerables",
+      "link": "https://www.abc.es/espana/andalucia/teleasistencia-andaluza-moviliza-calor-224000-contactos-personas-20260802115439-nts.html",
+      "desc": "Las extremas temperaturas del verano andaluz han vuelto a poner a prueba la resistencia de los colectivos más vulnerables. Para minimizar los riesgos del calor sobre la salud, el Servicio Andaluz de Teleasistencia (SAT) ha puesto en marcha un dispositivo preve",
+      "date": "Sun, 02 Aug 2026 11:58:19 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "La Guardia Civil rescata en Jaén a un hombre que llevaba dos días atrapado en el cauce de un arroyo",
+      "link": "https://www.abc.es/espana/andalucia/jaen/guardia-civil-rescata-jaen-hombre-llevaba-dos-20260802115110-nts.html",
+      "desc": "La Guardia Civil ha rescatado a un hombre de 67 años, vecino del municipio jiennense de Arroyo del Ojanco, que permaneció más de dos días atrapado en el cauce de un arroyo tras sufrir una caída accidental. Según manifestó la víctima a los agentes, la tarde del",
+      "date": "Sun, 02 Aug 2026 11:55:07 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
     {
       "title": "El PP rechaza que haya vuelto la normalidad a Ceuta: “Seguimos igual de desprotegidos”",
       "link": "https://www.lavanguardia.com/politica/20260802/11606223/pp-rechaza-haya-vuelto-normalidad-ceuta-seguimos-igual-desprotegidos.html",
@@ -150,96 +240,6 @@
       "source": "La Vanguardia",
       "color": "#8e44ad",
       "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "La mejor heladería de España está en Madrid: situada al lado de la Puerta del Sol y con helados tradicionales italianos de más de 40 sabores",
-      "link": "https://www.abc.es/espana/madrid/mejor-heladeria-espana-madrid-situada-puerta-sol-tradicionales-italianos-20260802100000-nt.html",
-      "desc": "En verano, cuando la tarde empieza a caer, emerge una de las tradiciones más arraigadas de la cultura española: el paseo estival. La gente abandona el refugio del aire acondicionado para tomar las calles tranquilamente, recorriendo los paseos marítimos o las p",
-      "date": "Sun, 02 Aug 2026 10:00:04 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "El Gran Juego de La Oca de Los Pedroches llena las calles de Dos Torres de deporte, diversión y tradición",
-      "link": "https://www.abc.es/espana/andalucia/cordoba/gran-juego-oca-pedroches-llena-calles-dos-20260802094532-nts.html",
-      "desc": "El Gran Juego de la Oca de Los Pedroches ya tiene nuevos campeones. El equipo Cascarones, de Dos Torres , se proclamó vencedor de la XIII edición de esta singular competición tras completar el recorrido en 15 minutos y 59 segundos, imponiéndose en una final mu",
-      "date": "Sun, 02 Aug 2026 09:47:38 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Tres heridos al caer un falso techo en una discoteca de Torremolinos",
-      "link": "https://www.abc.es/espana/andalucia/malaga/tres-heridos-caer-falso-techo-discoteca-torremolinos-20260802094616-nts.html",
-      "desc": "Un total de tres personas han resultado heridas la madrugada de este domingo, 2 de agosto, al desprenderse un falso techo en una discoteca de la localidad malagueña de Torremolinos (Málaga). Según ha detallado el 112, perteneciente a la Agencia de Emergencias ",
-      "date": "Sun, 02 Aug 2026 09:46:16 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Rescate de un coche bajo el agua, ¿amplían Elche Parque Empresarial en área inundable?",
-      "link": "https://www.abc.es/espana/comunidad-valenciana/alicante/rescate-coche-bajo-agua-prueba-elche-parque-20260802205921-nt.html",
-      "desc": "Uno de los vecinos afectados por la futura ampliación en marcha de Elche Parque Empresarial en Torrellano ha aportado una prueba que considera elocuente de que se trata de una zona inundable: el rescate de tres ocupantes de un coche medio sumergido tras lluvia",
-      "date": "Sun, 02 Aug 2026 09:23:31 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Benidorm ensaya el 'checking' en hoteles por QR: fin al 'Gran Hermano' del Gobierno",
-      "link": "https://www.abc.es/espana/comunidad-valenciana/alicante/benidorm-ensaya-checking-hoteles-fin-gran-hermano-20260802200910-nt.html",
-      "desc": "Algunos hoteles de Benidorm han empezado a utilizar como prueba piloto en Europa el futuro sistema de 'checking' con un simple código QR para agilizar el registro de los turistas en recepción. En la práctica, además, acabará con las esperas y las quejas en el ",
-      "date": "Sun, 02 Aug 2026 09:12:38 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Sergio Guillén, entrenador del Córdoba CF Femenino: «Hemos formado una plantilla para estar entre los cinco primeros y luchar por el ascenso»",
-      "link": "https://www.abc.es/espana/andalucia/cordoba/cordoba-cf/sergio-guillen-entrenador-cordoba-femenino-formado-plantilla-20260802091004-nts.html",
-      "desc": "Más allá de sus categorías masculinas, el Córdoba CF también pretende dar pasos firmes dentro de su sección femenina . El conjunto blanquiverde llegó a competir en Primera Federación en 2022, pero durante las últimas temporadas se ha quedado estancado en Segun",
-      "date": "Sun, 02 Aug 2026 09:10:04 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "El Perdón de Asís, en torno a la Reina de los Ángeles y San Francisco en Córdoba",
-      "link": "https://www.abc.es/espana/andalucia/cordoba/semana-santa/perdon-asis-torno-reina-angeles-san-francisco-20260802090948-nts.html",
-      "desc": "Es una fecha que une a toda la familia franciscana en torno al Perdón de Asís. Este domingo 2 de agosto la iglesia conventual de Capuchinos va a ser testigo de una de las muchas tradiciones hermosas que dejó San Francisco y se realza con un altar que reúne a l",
-      "date": "Sun, 02 Aug 2026 09:09:49 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Sólo cuatro de 51 municipios en zona de peligro por incendios en Córdoba tienen un Plan Local en vigor",
-      "link": "https://www.abc.es/espana/andalucia/cordoba/solo-cuatro-municipios-zona-peligro-fuego-cordoba-20260802090938-nts.html",
-      "desc": "En los últimos días la provincia sufrió varios incendios forestales. El más importante tuvo lugar en Cerro Muriano, donde durante el pasado fin de semana el fuego recorrió 200 hectáreas. Lo cierto es que la mayoría del terreno agreste de Córdoba corre riesgo d",
-      "date": "Sun, 02 Aug 2026 09:09:38 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Luis Suárez de Lezo: «¿Comer salmorejo es un lujo? Si es un gran salmorejo con un fino de Montilla, para mí es el lujo máximo»",
-      "link": "https://www.abc.es/espana/andalucia/cordoba/luis-suarez-lezo-comer-salmorejo-lujo-gran-20260802090935-nts.html",
-      "desc": "Confiesa Luis Suárez de Lezo que él tuvo que haber nacido en Córdoba. Lo hizo en Madrid, en 1974, pero su padre y sus hermanos son cordobeses, y aquí vivió siempre su abuela. El vínculo con la ciudad no se ha apagado, sino al contrario. Licenciado en Derecho, ",
-      "date": "Sun, 02 Aug 2026 09:09:35 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
       "caso": "other"
     }
   ]
