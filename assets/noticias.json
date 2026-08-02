@@ -1,7 +1,217 @@
 {
-  "updated": "2026-08-02T02:14:11Z",
+  "updated": "2026-08-02T06:28:47Z",
   "count": 24,
   "items": [
+    {
+      "title": "La Huerta de San Vicente, la casa más famosa de Lorca, cumple un siglo en plena forma",
+      "link": "https://www.abc.es/espana/andalucia/granada/huerta-san-vicente-casa-famosa-lorca-cumple-20260802071357-nts.html",
+      "desc": "Lorca siempre es noticia en Granada, entre otras cosas porque muy a menudo se conmemoran momentos significativos de su vida. En este 2026 coinciden dos: uno, el más lamentable, el 90 aniversario de su fusilamiento, que se produjo el 18 de agosto. El otro, más ",
+      "date": "Sun, 02 Aug 2026 07:13:58 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Un tesoro bibliográfico oculto entre los muros de La Cinco Llagas",
+      "link": "https://www.abc.es/espana/andalucia/biblioteca-20260802070722-nts.html",
+      "desc": "Una primera edición de Ideal Andaluz, de Blas Infante, publicada en 1915; un ejemplar de Las Partidas de Alfonso X el Sabio impreso en 1555 ; colecciones bibliográficas donadas por distintas autoridades o la biblioteca personal de un expresidente del Parlament",
+      "date": "Sun, 02 Aug 2026 07:07:22 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Las ayudas forestales de la Junta de Andalucía han pasado siete años bloqueadas",
+      "link": "https://www.abc.es/espana/andalucia/ayudas-forestales-junta-andalucia-pasado-siete-anos-20260802070148-nts.html",
+      "desc": "El sector agrario y ganadero no solo reclama que se corrija la incompatibilidad de la PAC con las ayudas para la prevención de incendios forestales, sino también que dichas subvenciones y su reparto sean más ágiles. El nombre técnico de esta línea es el de « s",
+      "date": "Sun, 02 Aug 2026 07:01:48 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "La UE prohíbe que los ganaderos andaluces que cobran la PAC reciban ayudas para limpiar el monte",
+      "link": "https://www.abc.es/espana/andalucia/ue-prohibe-ganaderos-andaluces-cobran-pac-reciban-20260802070112-nts.html",
+      "desc": "La convocatoria de ayudas públicas para la prevención de incendios y la gestión forestal de Andalucía arrastran una difícil trayectoria. Tras siete años sin convocar (desde 2019), el pasado mes de diciembre se publicaron, al fin, las bases reguladoras para la ",
+      "date": "Sun, 02 Aug 2026 07:01:12 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Cierre de la Línea 7 de Metro de Madrid hoy: estaciones afectadas, fechas y alternativas en transporte público",
+      "link": "https://www.abc.es/espana/madrid/cierre-linea-siete-metro-madrid-hoy-estaciones-afectadas-fechas-20260802060000-nt.html",
+      "desc": "Medro de Madrid está renovando su infraestructura durante el verano. Raíles, señales, accesos y otros detalles están mejorando el servicio que disfrutan más de 2 millones de personas cada día. Eso sí, para que todo esto suceda, es necesario el cierre temporal ",
+      "date": "Sun, 02 Aug 2026 06:00:12 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "El reguero de cadáveres convierte la crisis de Ceuta en la más letal en una frontera española",
+      "link": "https://www.lavanguardia.com/politica/20260802/11605988/reguero-cadaveres-convierte-crisis-ceuta-mas-letal-frontera.html",
+      "desc": "La cifra de fallecidos se eleva a 67, pero los buzos tienen localizados más cuerpos",
+      "date": "02 Aug 2026 06:00:00 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
+    {
+      "title": "Veintidós países europeos señalan a España y reprochan la regularización",
+      "link": "https://www.lavanguardia.com/politica/20260802/11605982/sanchez-eleva-problema-ue-defiende-politica-migratoria.html",
+      "desc": "El presidente afea la actitud “egoísta” de algunos gobiernos en la crisis de Ceuta",
+      "date": "02 Aug 2026 06:00:00 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
+    {
+      "title": "En el trasfondo de la crisis migratoria, la final del Mundial 2030",
+      "link": "https://www.lavanguardia.com/politica/20260802/11605880/trasfondo-crisis-migratoria-final-mundial-2030.html",
+      "desc": "Marruecos está pugnando con todo con España por llevarse la guinda del pastel en la Copa del Mundo",
+      "date": "02 Aug 2026 06:00:00 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
+    {
+      "title": "La canción del verano: se crece solo por la inmigración y se estanca la productividad",
+      "link": "https://www.lavanguardia.com/economia/20260802/11605944/cancion-verano-crece-inmigracion-estanca-productividad.html",
+      "desc": "El debate económico se polariza políticamente y tiende a destacar los puntos negativos",
+      "date": "02 Aug 2026 06:00:00 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
+    {
+      "title": "Guerra fría PSOE-PP ante la crisis climática",
+      "link": "https://www.lavanguardia.com/politica/20260802/11605873/guerra-fria-crisis-climatica.html",
+      "desc": "Pese al clamor social, los dos grandes partidos no acercan posiciones para pactar las medidas contra los incendios",
+      "date": "02 Aug 2026 06:00:00 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
+    {
+      "title": "El calor vacía las calles",
+      "link": "https://www.lavanguardia.com/vida/20260802/11598705/olas-calor-paralizan-vida-cotidiana-movilidad-reduce-20-pais.html",
+      "desc": "Cada vez más personas modifican sus rutinas para esquivar las altas temperaturas",
+      "date": "02 Aug 2026 06:00:00 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
+    {
+      "title": "Cambio climático: ¿la ley protege más del calor a los animales que a las personas?",
+      "link": "https://www.lavanguardia.com/vida/20260802/11581300/cambio-climatico-ley-protege-mas-calor-animales-personas.html",
+      "desc": "La Comisión Europea propone restringir el transporte de ganado con temperaturas de más de 30 grados",
+      "date": "02 Aug 2026 06:00:00 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
+    {
+      "title": "Los ataques de colonos israelíes disparan el riesgo de un conflicto abierto en Cisjordania",
+      "link": "https://www.lavanguardia.com/internacional/20260802/11605958/incendio-cisjordania.html",
+      "desc": "Los ataques de colonos israelíes disparan el riesgo de un conflicto abierto en el territorio palestino",
+      "date": "02 Aug 2026 06:00:00 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
+    {
+      "title": "La audacia y la sangre babilónica de Infantino: “Pocos aguantan un Mundial con Trump”",
+      "link": "https://www.lavanguardia.com/deportes/futbol/20260802/11605961/audacia-sangre-babilonica-infantino-pocos-aguantan-mundial-trump.html",
+      "desc": "La vida del presidente de la FIFA, más cuestionado que nunca por la medida de privatizar parte del Mundial que tuvo que descartar, ha estado marcada por su carácter político, las casualidades y su afán cosmopolita",
+      "date": "02 Aug 2026 06:00:00 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
+    {
+      "title": "Hamza Abdelkarim: así es el ‘faraón’ del Barça",
+      "link": "https://www.lavanguardia.com/deportes/futbol/20260802/11605932/hamza-abdelkarim-asi-faraon-barca-perfil-delantero-egipcio-julian-alvarez.html",
+      "desc": "Con solo 18 años, Hamza Abdelkarim ha pasado de debutar en un Mundial con Egipto batiendo récords de precocidad a ganarse la confianza de Hansi Flick en apenas unos meses",
+      "date": "02 Aug 2026 06:00:00 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
+    {
+      "title": "Colón, el gigante ignorado por los barceloneses",
+      "link": "https://www.lavanguardia.com/local/barcelona/20260802/11601835/libro-visitas-monumento-colon-triunfa-poco-caso-publico-local.html",
+      "desc": "El libro de visitas del monumento al descubridor triunfa en esta atracción ajena a los barceloneses que en las últimas décadas ha perdido fuelle a pesar de sus espectaculares vistas",
+      "date": "02 Aug 2026 06:00:00 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
+    {
+      "title": "Ramon Espadaler: “Los juicios inmediatos por delitos leves ya se celebran al mes”",
+      "link": "https://www.lavanguardia.com/politica/20260802/11605953/ramon-espadaler-juicios-inmediatos-delitos-leves-celebran-mes.html",
+      "desc": "Entrevista con el conseller de Justícia i Qualitat Democràtica",
+      "date": "02 Aug 2026 06:00:00 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
+    {
+      "title": "La escasez de vivienda persiste en las zonas tensionadas: “Apúntate a la lista de espera”",
+      "link": "https://www.lavanguardia.com/economia/20260802/11605933/alquilar-piso-apuntate-lista-espera.html",
+      "desc": "Las ciudades que salen de la regulación de rentas valoran la medida como herramienta de contención, aunque el sector alerta de que la escasez de vivienda persiste",
+      "date": "02 Aug 2026 06:00:00 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
+    {
+      "title": "¿Qué derechos tiene el concebido no nacido? La ley de Ayuso reabre el debate jurídico",
+      "link": "https://www.lavanguardia.com/vida/20260802/11592957/concebido-nacido-ayuso-madrid-derechos-bebe.html",
+      "desc": "La ley madrileña, que reconoce al concebido no nacido a efectos administrativos, vuelve a poner el foco sobre el tratamiento jurídico de la pérdida del embarazo por un accidente de tráfico o un atentado terrorista",
+      "date": "02 Aug 2026 06:00:00 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
+    {
+      "title": "“La computación cuántica analógica es muy útil para emular la naturaleza”",
+      "link": "https://www.lavanguardia.com/vida/20260802/11605841/computacion-cuantica-analogica-util-emular-naturaleza.html",
+      "desc": "Marta Estarellas es la CEO de Qilimanjaro Quantum Tech, la startup encargada de la instalación de los tres ordenadores cuánticos de los que dispone el Barcelona Supercomputing Center",
+      "date": "02 Aug 2026 06:00:00 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
+    {
+      "title": "Gobernados por los incas",
+      "link": "https://www.abc.es/espana/comunidad-valenciana/fernando-llopis-gobernados-incas-20260802053000-nt.html",
+      "desc": "Parece que los incas, cuando sufrían terremotos, epidemias o sequías, pensaban que la solución consistía en sacrificar a jóvenes puros capturados en las diferentes regiones de su imperio. No existe ninguna evidencia científica de que aquel método cambiara el c",
+      "date": "Sun, 02 Aug 2026 05:30:03 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
     {
       "title": "Francisco Medina, el acuarelista que hizo eterno el alma de Toledo",
       "link": "https://www.abc.es/espana/castilla-la-mancha/toledo/francisco-medina-acuarelista-hizo-eterno-alma-toledo-20260714023622-nt.html",
@@ -30,216 +240,6 @@
       "source": "ABC",
       "color": "#c0392b",
       "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Geocaminos ejecutará la reforma de la estación de autobuses de Toledo por 1,01 millones de euros",
-      "link": "https://www.abc.es/espana/castilla-la-mancha/toledo/geocaminos-ejecutara-reforma-estacion-autobuses-toledo-101-20260731023345-nt.html",
-      "desc": "La empresa Geocaminos será la encargada de ejecutar las o bras de remodelación de la estación de autobuses de Toledo tras obtener la mejor puntuación técnica en el proceso de licitación, pese a que su oferta económica no era la más baja. La actuación cuenta co",
-      "date": "Sun, 02 Aug 2026 02:33:45 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Los datos del problema",
-      "link": "https://www.abc.es/espana/datos-problema-20260801014345-nt.html",
-      "desc": "Nunca olvidaré la primera vez que crucé, a pie, el paso fronterizo de Beni Enzar, entre Melilla y Marruecos. Fue allá por julio de 1997, y en aquella época todavía funcionaba a pleno rendimiento el denominado «comercio informal», eufemismo con el que se etique",
-      "date": "Sun, 02 Aug 2026 01:43:45 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "La vida en Ceuta: la ciudad en la que los militares custodian los supermercados",
-      "link": "https://www.abc.es/espana/vida-ceuta-ciudad-militares-custodian-supermercados-20260802014333-nt.html",
-      "desc": "Nadie sabe a quién mira con más respeto el chaval marroquí que acaba de salir del Mercadona más cercano al barrio de El Príncipe de Ceuta con una bolsa llena de zumos y de refrescos, si al militar que le observa a unos metros delante de un blindado que custodi",
-      "date": "Sun, 02 Aug 2026 01:43:33 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "La acampada frente al CETI sufre por el hambre: centenares de inmigrantes se pelean por un trozo de pan",
-      "link": "https://www.abc.es/espana/acampada-frente-ceti-sufre-hambre-centenares-inmigrantes-20260802014318-nt.html",
-      "desc": "«La vida y la muerte eran lo mismo para mí». Es el recuerdo que el somalí Abdulnasser Barreh Hassan guarda de la quiebra de su patera, de cuando su cuerpo flotó durante ocho horas en el mar, sumergido también en un delirio incontenido porque, dice, un incesant",
-      "date": "Sun, 02 Aug 2026 01:43:18 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "El reino del sinsentido: el lado marroquí de la frontera",
-      "link": "https://www.abc.es/espana/reino-sinsentido-lado-marroqui-frontera-20260802014241-nt.html",
-      "desc": "La frontera, del lado de Castillejos, presenta un aspecto desolador: coches quemados, barro, tierra, arena, chanclas y zapatillas esparcidas, algún coche patrulla de la Policía destrozado, otros pocos vehículos quemados y miles de jóvenes haciendo, exhaustos, ",
-      "date": "Sun, 02 Aug 2026 01:42:41 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "El PP lleva meses pidiendo reforzar la frontera de Ceuta con la oposición del PSOE",
-      "link": "https://www.abc.es/espana/pp-lleva-meses-pidiendo-reforzar-frontera-ceuta-20260801013415-nt.html",
-      "desc": "El presidente del Partido Popular, Alberto Núñez Feijóo , habló este sábado desde Ceuta, de «ocupación premeditada», poniendo así nombre y apellidos a la avalancha de inmigrantes magrebíes —cerca de 60.000, según cifras oficiales— que se adentraron de manera i",
-      "date": "Sun, 02 Aug 2026 01:34:15 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Sánchez se abraza a Marruecos y se queda solo en Europa",
-      "link": "https://www.abc.es/espana/sanchez-abraza-marruecos-queda-solo-europa-20260802013247-nt.html",
-      "desc": "A pesar de los múltiples ofrecimientos de ayuda por parte de la Comisión Europea y de otros gobiernos de la UE, Pedro Sánchez ha preferido manejar la crisis de Ceuta por su cuenta. Ha respondido de forma hostil a las críticas que ha recibido por parte de casi ",
-      "date": "Sun, 02 Aug 2026 01:32:47 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "PNV y Bildu respaldaron junto a «nostálgicos de ETA» la campaña que culminó con los ataques a seguidores de la selección en Bilbao",
-      "link": "https://www.abc.es/espana/pais-vasco/pnv-bildu-respaldaron-junto-nostalgicos-eta-campana-20260730012842-nt.html",
-      "desc": "Tras dos detenciones el pasado lunes en Guecho y Muskiz (Vizcaya), la Policía Nacional continúa identificando a los autores de las agresiones sufridas por aficionados de la selección española en el País Vasco durante la final del Mundial 2026. El trabajo polic",
-      "date": "Sun, 02 Aug 2026 01:28:42 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Illa subvenciona los 'comisarios lingüísticos' municipales que controlan el uso del catalán en las tiendas, los comercios y el ocio infantil",
-      "link": "https://www.abc.es/espana/cataluna/illa-subvenciona-informantes-municipales-controlar-uso-catalan-20260731012801-nt.html",
-      "desc": "La política de presión lingüística del Govern de Salvador Illa llega a todos los ámbitos. No solo al de la escuela y al de la relación con la administración. También a los que son de competencia municipal. Para ello, el departamento que dirige Francesc Xavier ",
-      "date": "Sun, 02 Aug 2026 01:28:01 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Un monstruo en el campamento de verano de Arroyomolinos: «Les hacía el juego de la arañita»",
-      "link": "https://www.abc.es/espana/madrid/monstruo-campamento-verano-arroyomolinos-juego-aranita-20260801012041-nt.html",
-      "desc": "El relato es duro, demasiado, pero no por ello menos elocuente. Han pasado algo más de tres semanas desde que sucedieran los hechos y la familia de Aurora (nombre ficticio) aún está lejos de recomponerse. Quizá nunca lo haga, pues hay huellas que van más allá ",
-      "date": "Sun, 02 Aug 2026 01:20:41 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "El crimen de la estricnina de Orense: la trampa mortal escondida en una botella de vino",
-      "link": "https://www.abc.es/espana/galicia/crimen-estricnina-orense-trampa-mortal-escondida-botella-20260801011638-nt.html",
-      "desc": "Como solía hacer cada día, aquella mañana 24 de noviembre de 2009 Felisindo fue a su finca de Os Pereiros, en la parroquia de Castro de Escuadro de Maceda (Orense). Había restos y señales de que alguien había estado comiendo. No le sorprendió: era época de caz",
-      "date": "Sun, 02 Aug 2026 01:16:38 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Los primeros de Madrid",
-      "link": "https://www.abc.es/espana/madrid/primeros-madrid-20260801011510-nt.html",
-      "desc": "A las cinco y media de la mañana Madrid todavía no existe . En el centro se escuchan voces que se apagan de golpe al entrar en los portales, algunos bares echan el cierre y se mezclan con otros que abren al son de una manguera que limpia las pruebas de otra no",
-      "date": "Sun, 02 Aug 2026 01:15:10 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Brigadas vecinales para reconstruir la Sierra Oeste tras el incendio: «Aquí hacen falta muchas manos»",
-      "link": "https://www.abc.es/espana/madrid/brigadas-vecinales-reconstruir-sierra-oeste-falta-manos-20260730010945-nt.html",
-      "desc": "Los pelayeros que permanecieron en el pueblo durante el confinamiento hablan con naturalidad sobre la «frontera» , los límites del municipio que, durante días, no pudieron traspasar a causa de los incendios de la Sierra Oeste que les asediaban. «Madre mía, cóm",
-      "date": "Sun, 02 Aug 2026 01:09:45 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Radar Madrid convertirá el Movistar Arena en el epicentro de la industria musical mundial",
-      "link": "https://www.abc.es/espana/madrid/radar-madrid-convertira-movistar-arena-epicentro-industria-20260731010923-nt.html",
-      "desc": "A la vuelta del verano, se van a vivir tres días de efervescencia musical como pocas veces se habrá visto en la capital. de La Comunidad de Madrid, en colaboración con la agencia Charco, ha organizado Radar Madrid , un nuevo mercado musical internacional conce",
-      "date": "Sun, 02 Aug 2026 01:09:23 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Gianni Infantino, ¿defensor de la fe?",
-      "link": "https://www.lavanguardia.com/opinion/20260802/11605938/gianni-infantino-defensor-fe.html",
-      "desc": "Alerta al riesgo, el presidente de la FIFA  desiste de vender el Mundial a los yanquis",
-      "date": "02 Aug 2026 00:30:00 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "Mercadona hoy: horario de los supermercados abiertos el domingo 2 de agosto",
-      "link": "https://www.abc.es/espana/comunidad-valenciana/mercadona-hoy-horario-supermercados-abiertos-domingo-agosto-20260802000427-nt.html",
-      "desc": "Los supermercados Mercadona abiertos este domingo, 2 de agosto, en la Comunidad Valenciana se concentran en las zonas costeras. Las tiendas de una treintena de municipios de Valencia, Alicante y Castellón suben la persiana durante esta jornada no laborable con",
-      "date": "Sun, 02 Aug 2026 00:05:04 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Horario de Consum el domingo 2 de agosto: supermercados abiertos hoy",
-      "link": "https://www.abc.es/espana/comunidad-valenciana/horario-consum-domingo-agosto-supermercados-abiertos-hoy-20260802000500-nt.html",
-      "desc": "Consum abre algunos de sus supermercados este domingo, 2 de agosto, en zonas de gran afluencia turística de la costa española. Como viene siendo habitual durante la campaña de verano, los establecimientos de la cooperativa suben la persiana en horario reducido",
-      "date": "Sun, 02 Aug 2026 00:05:00 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Órdago de Sánchez a la UE",
-      "link": "https://www.lavanguardia.com/opinion/20260802/11605923/ordago-sanchez-ue.html",
-      "desc": "La carta de Sánchez ha tratado de cortar en seco el malestar de Europa contra la política migratoria de España",
-      "date": "02 Aug 2026 00:05:00 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "Si lo quieres sin IA, tendrás que pagar más",
-      "link": "https://www.lavanguardia.com/cultura/20260802/11605910/ia-cultura-premium-artificial-humano-barcelona.html",
-      "desc": "",
-      "date": "02 Aug 2026 00:00:00 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "Agosto imparte clases de Historia en los pueblos",
-      "link": "https://www.abc.es/espana/castilla-leon/pueblos-dan-clase-historia-agosto-20260730232802-nt.html",
-      "desc": "«Es una forma de seguir transmitiendo cultura hacia fuera y que el patrimonio siga calando hacia dentro, entre los vecinos de su entorno». Es el sentido que Alberto Santamaría, presidente de la Asociación Cultural Celtibérica Tierraquemada, ve a la recreación ",
-      "date": "Sat, 01 Aug 2026 23:28:02 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Una explosión en un restaurante de Moscú deja tres muertos y 21 heridos",
-      "link": "https://www.lavanguardia.com/internacional/20260801/11605998/explosion-restaurante-moscu-deja-3-muertos-21-heridos.html",
-      "desc": "Según las autoridades locales una mujer habría detonado el artefacto tras intentar entrar en el local",
-      "date": "01 Aug 2026 23:13:11 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
       "caso": "other"
     }
   ]
