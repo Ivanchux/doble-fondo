@@ -1,7 +1,37 @@
 {
-  "updated": "2026-08-02T20:47:50Z",
+  "updated": "2026-08-02T22:50:54Z",
   "count": 24,
   "items": [
+    {
+      "title": "La eterna indecisión de Trump en Irán",
+      "link": "https://www.lavanguardia.com/internacional/20260803/11606292/eterna-indecision-trump-iran.html",
+      "desc": "Trump aplaza un nuevo ataque contra Irán en previsión de un acuerdo, mientras Teherán niega haber pedido la tregua",
+      "date": "03 Aug 2026 00:05:00 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
+    {
+      "title": "El difícil pacto climático",
+      "link": "https://www.lavanguardia.com/opinion/20260803/11606320/dificil-pacto-climatico.html",
+      "desc": "Hay que lamentar la desconexión entre el Gobierno central y las autonomías del PP para afrontar un gran acuerdo climático",
+      "date": "03 Aug 2026 00:05:00 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
+    {
+      "title": "Letizia cierra el Atlántida con un homenaje a Alexander Desplat y el triunfo de Lionel",
+      "link": "https://www.lavanguardia.com/cultura/20260802/11606382/atlantida-cierra-edicion-record-homenaje-alexandre-desplat-triunfo-lionel.html",
+      "desc": "La reina Letizia entregó el premio Masters of Cinema al oscarizado compositor francés en una clausura que reunió a Javier Bardem, Gael García Bernal, Rodrigo Sorogoyen y otras figuras del cine en Palma",
+      "date": "02 Aug 2026 22:41:22 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
     {
       "title": "Marruecos atribuye la crisis migratoria de Ceuta a las redes de trata y a la desinformación difundida en redes sociales",
       "link": "https://www.abc.es/espana/marruecos-atribuye-crisis-migratoria-ceuta-redes-trata-20260802222943-nt.html",
@@ -143,7 +173,7 @@
       "caso": "other"
     },
     {
-      "title": "Muere un joven de 21 años embestido por una vaca en una fiestas de Castellón",
+      "title": "Muere un joven de 21 años embestido por una vaca en unas fiestas de Castellón",
       "link": "https://www.abc.es/espana/comunidad-valenciana/muere-joven-anos-embestido-vaca-fiestas-castellon-20260802191711-nt.html",
       "desc": "Un joven de 21 años de edad ha muerto tras sufrir la embestida de un toro en las fiestas del municipio castellonense de Tírig, después de permanecer dos días hospitalizado en la capital de La Plana. El Ayuntamiento había suspendido todos los actos tras el trág",
       "date": "Sun, 02 Aug 2026 19:18:20 +0200",
@@ -207,36 +237,6 @@
       "link": "https://www.abc.es/espana/capitolio-eeuu-cuestiono-abril-soberania-espanola-ceuta-20260731144338-nt.html",
       "desc": "Los republicanos del Capitolio en Estados Unidos pusieron en duda la soberanía española de Ceuta y Melilla el pasado abril, tres meses antes de que decenas de miles de personas atravesaran desde Marruecos la frontera de la primera de estas ciudades y provocara",
       "date": "Sun, 02 Aug 2026 18:20:29 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Un novio celoso apuñala a un joven por hablar con su pareja en un garito de Sol",
-      "link": "https://www.abc.es/espana/madrid/novio-celoso-apunala-joven-hablar-pareja-garito-20260802180001-nt.html",
-      "desc": "Parecía una noche de fiesta como otra cualquiera, pero se cruzó con un tipo armado y consumido por los celos . Y a punto estuvo de costarle la vida, tras recibir una puñalada en la zona renal a manos de este sujeto, quien portaba un cuchillo de cocina con una ",
-      "date": "Sun, 02 Aug 2026 18:00:01 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Villanueva de la Torre (Guadalajara) habilitará dos puntos oficiales para observar el eclipse solar",
-      "link": "https://www.abc.es/espana/castilla-la-mancha/villanueva-torre-guadalajara-habilitara-dos-puntos-oficiales-20260802175928-nt.html",
-      "desc": "La localidad guadalajareña de Villanueva de la Torre habilitará dos puntos oficiales de observación para el eclipse total de so l que tendrá lugar el día 12 de agosto, con el objetivo de que la ciudadanía pueda disfrutar de este acontecimiento «en las mejores ",
-      "date": "Sun, 02 Aug 2026 17:59:28 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Llorca garantiza que los 27 hospitales públicos operan en 30 días casos preferentes",
-      "link": "https://www.abc.es/espana/comunidad-valenciana/llorca-garantiza-hospitales-publicos-operan-dias-casos-20260802174956-nt.html",
-      "desc": "El 'president' de la Generalitat Valenciana, Juanfran Pérez Llorca, ha garantizado que los pacientes con máxima prioridad para ser operados en la Comunitat Valenciana pasan por quirófcano antes de los 30 días del plazo recomendado en los 27 hospitales de la re",
-      "date": "Sun, 02 Aug 2026 17:49:56 +0200",
       "source": "ABC",
       "color": "#c0392b",
       "feedId": "ABC",
