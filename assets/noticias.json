@@ -1,7 +1,107 @@
 {
-  "updated": "2026-08-02T16:53:27Z",
+  "updated": "2026-08-02T19:01:55Z",
   "count": 24,
   "items": [
+    {
+      "title": "La Guardia Civil investiga a un hombre por varios incendios en Villaviciosa de Córdoba",
+      "link": "https://www.abc.es/espana/andalucia/cordoba/guardia-civil-investiga-hombre-varios-incendios-villaviciosa-20260802201848-nts.html",
+      "desc": "La Guardia Civil ha investigado a un vecino de Villaviciosa de Córdoba como presunto autor de varios delitos de incendio y de un delito de daños, tras esclarecer una serie de fuegos registrados en los últimos meses en las inmediaciones de la localidad. La inve",
+      "date": "Sun, 02 Aug 2026 20:18:48 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "La primera semana de agosto llega a Córdoba sin avisos por calor y a distancia de los 40 grados",
+      "link": "https://www.abc.es/espana/andalucia/cordoba/primera-semana-agosto-llega-cordoba-avisos-calor-20260802200401-nts.html",
+      "desc": "Se han acabado los efectos de la última ola de calor y la primera semana de agosto dará un pequeño alivio a la atmósfera en Córdoba. No será fresca, pero permitirá alejarse del fantasma de los 40 grados que ha estado tan presente en julio. No hay avisos ni ama",
+      "date": "Sun, 02 Aug 2026 20:04:01 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Las autopistas de peaje de Castilla-La Mancha mejoran sus resultados y la AP-41 reduce un 90% sus pérdidas",
+      "link": "https://www.abc.es/espana/castilla-la-mancha/autopistas-peaje-castillala-mancha-mejoran-resultados-ap41-20260802194300-nt.html",
+      "desc": "Las autopistas de peaje de Castilla-La Mancha mejoraron sus resultados durante 2025, con un aumento de los ingresos en la AP-36 (Ocaña-La Roda) y la AP-41 (Madrid-Toledo), mientras esta última logró reducir sus pérdidas en casi un 90% respecto al ejercicio ant",
+      "date": "Sun, 02 Aug 2026 19:43:01 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Ucrania vuelve a atacar con drones un almacén ruso de Wildberries y mata a cinco personas",
+      "link": "https://www.lavanguardia.com/internacional/20260802/11606325/ucrania-ataca-drones-almacen-ruso-wildberries-mata-cinco-personas.html",
+      "desc": "Kyiv ha lanzado más de una docena de campañas contra los almacenes de esta empresa como parte de una campaña aérea destinada a socavar el esfuerzo bélico de Moscú y perjudicar su economía",
+      "date": "02 Aug 2026 19:33:52 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
+    {
+      "title": "Manuel Gavira (Vox): «Andalucía no va a ser el coladero de la inmigración ilegal»",
+      "link": "https://www.abc.es/espana/andalucia/manuel-gavira-vox-andalucia-coladero-inmigracion-ilegal-20260802192159-nts.html",
+      "desc": "«Andalucía no va a ser el coladero de la inmigración ilegal». El vicepresidente segundo de la Junta de Andalucía y consejero de Turismo, Justicia, Desregulación y Administración Local, Manuel Gavira, ha denunciado este domingo que la invasión migratoria sufrid",
+      "date": "Sun, 02 Aug 2026 19:22:00 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Muere un joven de 21 años embestido por una vaca en una fiestas de Castellón",
+      "link": "https://www.abc.es/espana/comunidad-valenciana/muere-joven-anos-embestido-vaca-fiestas-castellon-20260802191711-nt.html",
+      "desc": "Un joven de 21 años de edad ha muerto tras sufrir la embestida de un toro en las fiestas del municipio castellonense de Tírig, después de permanecer dos días hospitalizado en la capital de La Plana. El Ayuntamiento había suspendido todos los actos tras el trág",
+      "date": "Sun, 02 Aug 2026 19:18:20 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "El antiguo Hospital Militar de Ceuta instala una morgue con 88 cuerpos a la espera de identificar",
+      "link": "https://www.abc.es/espana/hospital-militar-ceuta-instala-morgue-cuerpos-espera-20260802191027-nt.html",
+      "desc": "La crisis migratoria que ha asolado Ceuta en los últimos días ha propiciado la pérdida, de momento, de 88 vidas. Mientras los inmigrantes que quedan se esconden en bosques o acampan frente al centro de acogida temporal de la ciudad, los cuerpos de quienes no l",
+      "date": "Sun, 02 Aug 2026 19:10:28 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Interceptan dos embarcaciones con 17 inmigrantes en Algeciras y La Línea de la Concepción",
+      "link": "https://www.abc.es/espana/andalucia/cadiz/interceptan-dos-embarcaciones-inmigrantes-algeciras-linea-concepcion-20260802190529-nts.html",
+      "desc": "La Policía Nacional ha interceptado dos embarcaciones durante la mañana de este domingo en los términos municipales de Algeciras y La Línea de la Concepción, en las que viajaban un total de 17 personas de origen magrebí . En estos momentos, según ha informado ",
+      "date": "Sun, 02 Aug 2026 19:05:30 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Comienza la fase de pruebas del nuevo carril Bus-VAO de la A-2, que inicialmente llegará hasta Torrejón de Ardoz",
+      "link": "https://www.abc.es/espana/madrid/comienza-fase-pruebas-nuevo-carril-busvao-inicialmente-20260802190210-nt.html",
+      "desc": "El nuevo carril Bus-VAO de la A-2 comenzará durante este mes de agosto su fase de pruebas entre Madrid y Torrejón de Ardoz, que se desarrollará de manera progresiva hasta la primera semana de septiembre con el objetivo de comprobar el funcionamiento de todos l",
+      "date": "Sun, 02 Aug 2026 19:02:10 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Villarrobledo acogerá el 3 de octubre el I Encuentro de Escritoras de Castilla-La Mancha",
+      "link": "https://www.abc.es/espana/castilla-la-mancha/villarrobledo-acogera-octubre-encuentro-escritoras-castillala-mancha-20260802185059-nt.html",
+      "desc": "La localidad albaceteña de Villarrobledo acogerá el 3 de octubre el I Encuentro de Escritoras de Castilla-La Mancha. Organizado por la Asociación Cultural 'Narradoras de Palabras' de Villarrobledo y patrocinado por el Instituto de la Mujer de Castilla-La Manch",
+      "date": "Sun, 02 Aug 2026 18:50:59 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
     {
       "title": "Apuestas, pornografía y uso compulsivo de pantallas centrarán la estrategia frente a las adicciones",
       "link": "https://www.abc.es/espana/castilla-leon/apuestas-pornografia-uso-compulsivo-pantallas-centraran-estrategia-20260802182501-nt.html",
@@ -15,7 +115,7 @@
     {
       "title": "El Capitolio de EE.UU. cuestionó en abril la soberanía española de Ceuta y Melilla",
       "link": "https://www.abc.es/espana/capitolio-eeuu-cuestiono-abril-soberania-espanola-ceuta-20260731144338-nt.html",
-      "desc": "Los republicanos del Capitolio en Estados Unidos pusieron en duda el pasado abril, tres meses antes de que decenas de miles de personas atravesaran desde Marruecos la frontera de la primera de estas ciudades y provocaran una de las mayores crisis migratorias y",
+      "desc": "Los republicanos del Capitolio en Estados Unidos pusieron en duda la soberanía española de Ceuta y Melilla el pasado abril, tres meses antes de que decenas de miles de personas atravesaran desde Marruecos la frontera de la primera de estas ciudades y provocara",
       "date": "Sun, 02 Aug 2026 18:20:29 +0200",
       "source": "ABC",
       "color": "#c0392b",
@@ -83,9 +183,9 @@
       "caso": "other"
     },
     {
-      "title": "El incendio de La Peraleja (Cuenca) desciende a nivel 0",
+      "title": "Controlado el incendio de La Peraleja, en Cuenca",
       "link": "https://www.abc.es/espana/castilla-la-mancha/incendio-peraleja-cuenca-declarado-nivel-afeccion-humo-20260802170347-nt.html",
-      "desc": "El incendio declarado este domingo en la localidad conquense de La Peraleja, que ha llegado a alcanzar la Situación Operativa Nivel 1, ha descendio a nivel O, según informa el Sistema de Información de Incendios Forestales del Gobierno de Castilla-La Mancha. E",
+      "desc": "Ya está controlado el incendio declarado este domingo en la localidad conquense de La Peraleja, que ha llegado a alcanzar la Situación Operativa Nivel 1. A primera hora de la tarde había descendido a nivel O, según informa el Sistema de Información de Incendio",
       "date": "Sun, 02 Aug 2026 17:03:47 +0200",
       "source": "ABC",
       "color": "#c0392b",
@@ -123,16 +223,6 @@
       "caso": "other"
     },
     {
-      "title": "Los ganaderos afectados por el incendio de Fermoselle empezarán a recibir este lunes alimento para los animales",
-      "link": "https://www.abc.es/espana/castilla-leon/ganaderos-afectados-incendio-fermoselle-empezaran-recibir-paja-20260802152546-nt.html",
-      "desc": "La Junta de Castilla y León empezará, desde este lunes, 3 de agosto, a proveer a los ganaderos afectados por el incendio forestal declarado el pasado miércoles en el término municipal de Fermoselle (Zamora), los primeros cargamentos de paja, heno, forrajes y a",
-      "date": "Sun, 02 Aug 2026 15:25:46 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
       "title": "Mueren cinco personas en el incendio de un ferry con más de 200 pasajeros en Indonesia",
       "link": "https://www.lavanguardia.com/vida/20260802/11606274/mueren-cinco-personas-incendio-ferry-mas-200-pasajeros-indonesia.html",
       "desc": "Los rescatistas cifraron en 41 el total de personas que aún no habían podido ser rescatadas, mientras las llamas seguían consumiendo la enorme embarcación",
@@ -150,96 +240,6 @@
       "source": "La Vanguardia",
       "color": "#8e44ad",
       "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "Tráfico pone en marcha una nueva campaña contra el exceso de velocidad en las carreteras andaluzas",
-      "link": "https://www.abc.es/espana/andalucia/trafico-pone-marcha-nueva-campana-exceso-velocidad-20260802142529-nts.html",
-      "desc": "Nueva campaña de Tráfico en pleno mes de agosto y cuando miles de vehículos circulan por las carreteras. La Dirección General de Tráfico (DGT) activa este lunes, 3 de agosto, un dispositivo especial de control y vigilancia de la velocidad en las carreteras and",
-      "date": "Sun, 02 Aug 2026 14:27:24 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "La Junta destaca el papel de los dinamizadores digitales para impulsar la innovación en las aulas",
-      "link": "https://www.abc.es/espana/castilla-la-mancha/toledo/junta-destaca-papel-dinamizadores-digitales-impulsar-innovacion-20260802141816-nt.html",
-      "desc": "El Gobierno de Castilla-La Mancha ha destacado la labor que desempeñan los dinamizadores de Transformación Digital y Robótica en el acompañamiento a los centros educativos de la región para impulsar la digitalización y la incorporación del pensamiento computac",
-      "date": "Sun, 02 Aug 2026 14:18:17 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Pelear por llegar a la Primera FEB, ilusionante objetivo del nuevo CB Toledo",
-      "link": "https://www.abc.es/espana/castilla-la-mancha/toledo/deportes/pelear-llegar-primera-feb-ilusionante-objetivo-nuevo-20260802140359-nt.html",
-      "desc": "El CB Toledo está ya presto para el inicio de su segunda temporada de vida, una campaña que la está trabajando con un objetivo ilusionante: llegar a la Primera FEB. Bien cierto que para ello habrá pelear muy duro por coger una plaza del futuro play-off de asce",
-      "date": "Sun, 02 Aug 2026 14:04:00 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Un matrimonio de Valladolid muere en un accidente aéreo en Perú",
-      "link": "https://www.lavanguardia.com/sucesos/20260802/11606260/matrimonio-valladolid-son-dos-turistas-espanoles-muertos-accidente-peru.html",
-      "desc": "Una avioneta con trece turistas se estrelló el sábado cuando iba a sobrevolar las líneas de Nazca",
-      "date": "02 Aug 2026 14:01:05 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "Ayuso: «Esto ha sido una prueba para Ceuta y Melilla. No podemos permitir que las invadan para siempre»",
-      "link": "https://www.abc.es/espana/madrid/ayuso-prueba-ceuta-melilla-podemos-permitir-invadan-20260802134752-nt.html",
-      "desc": "La presidenta de la Comunidad de Madrid, Isabel Díaz Ayuso, se ha manifestado este sábado en la línea del líder popular, Alberto Núñez Feijóo, sobre la crisis en Ceuta y ha advertido que lo sucedido «es una prueba de Marruecos para la siguiente. No podemos per",
-      "date": "Sun, 02 Aug 2026 13:47:52 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Quintanar del Rey (Cuenca) se enfrentará a San Juan de la Rambla este domingo en 'El Grand Prix'",
-      "link": "https://www.abc.es/espana/castilla-la-mancha/toledo/quintanar-rey-cuenca-enfrentara-san-juan-rambla-20260802134626-nt.html",
-      "desc": "'El Grand Prix del Verano' ofrece una doble cita en La 1 para que la audiencia no se quede con las ganas: este domingo 2 de agosto llegará el duelo entre San Juan de la Rambla (Tenerife) y Quintanar del Rey (Cuenca), mientras que el lunes 3 de agosto será el t",
-      "date": "Sun, 02 Aug 2026 13:46:27 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Un matrimonio de Valladolid, entre las 13 víctimas de la avioneta estrellada en Perú",
-      "link": "https://www.abc.es/espana/castilla-leon/matrimonio-valladolid-victimas-avioneta-estrellada-peru-20260802133939-nt.html",
-      "desc": "Un matrimonio de Valladolid está entre las 13 víctimas mortales tras la caída de una avioneta que sobrevolaba las líneas de Nazca, patrimonio mundial de la humanidad y que están ubicadas a 500 kilómetros al sur de Lima (Perú). Se trata de los vecinos de la loc",
-      "date": "Sun, 02 Aug 2026 13:40:52 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Rechazan la recusación del juez del caso Juana Rivas contra varios magistrados de la Audiencia de Granada",
-      "link": "https://www.abc.es/espana/andalucia/granada/rechazan-recusacion-juez-juana-rivas-varios-magistrados-20260802133344-nts.html",
-      "desc": "La Sala Especial de Recusaciones del Tribunal Superior de Justicia de Andalucía (TSJA) ha desestimado la recusación del juez Manuel Piñar, conocido por su actuación en el caso Juana Rivas , contra cuatro magistrados de la Audiencia de Granada en relación a la ",
-      "date": "Sun, 02 Aug 2026 13:33:44 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "El festival Algarabía vuelve llenar de música oriental y medieval las noches de Medina Azahara en Córdoba",
-      "link": "https://www.abc.es/espana/andalucia/cordoba/festival-algarabia-vuelve-llenar-musica-oriental-medieval-20260802133341-nts.html",
-      "desc": "El conjunto arqueológico de Medina Azahara organiza esta semana la sexta edición del programa Algarabía Escénica Medieval, que tendrá lugar del 5 al 8 de agosto en la plaza situada frente al Edificio Basilical Superior, siempre a las 22.00 horas. A través de u",
-      "date": "Sun, 02 Aug 2026 13:33:41 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
       "caso": "other"
     }
   ]
