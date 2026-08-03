@@ -1,7 +1,57 @@
 {
-  "updated": "2026-08-03T20:58:07Z",
+  "updated": "2026-08-03T22:55:51Z",
   "count": 24,
   "items": [
+    {
+      "title": "San Cayetano inaugura el agosto más castizo de Madrid con música, zarzuela y tradición",
+      "link": "https://www.abc.es/espana/madrid/san-cayetano-inaugura-agosto-castizo-madrid-musica-20260803005143-nt.html",
+      "desc": "Se coloca de nuevo Madrid el mantón de manila para celebrar las fiestas de San Cayetano , San Lorenzo y La Paloma, que tomarán las calles del entorno de Lavapiés y Embajadores del 4 al 16 de agosto. El arranque oficial llega este martes, a las ocho de la tarde",
+      "date": "Tue, 04 Aug 2026 00:51:43 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Reunión de ministros de la UE sobre inmigración en un tenso clima político",
+      "link": "https://www.lavanguardia.com/politica/20260804/11607157/reunion-ministros-ue-sobre-inmigracion-tenso-clima-politico.html",
+      "desc": "En la víspera los ministros del Interior de Italia y España se cruzan acusaciones",
+      "date": "04 Aug 2026 00:00:00 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
+    {
+      "title": "Muere un trabajador del Arenal Sound por causas naturales",
+      "link": "https://www.abc.es/espana/comunidad-valenciana/muere-trabajador-arenal-sound-causas-naturales-20260803232743-nt.html",
+      "desc": "Un trabajador del Arenal Sound murió el domingo por la tarde tras desvanecerse antes de que se abrieran las puertas del recinto en la última jornada del festival que se celebraba en la localidad castellonense de Burriana. Fuentes de la Guardia Civil señalan a ",
+      "date": "Mon, 03 Aug 2026 23:27:43 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "El Gobierno cesa a un cargo de Seguridad Nacional tras publicar una cifra de entradas en Ceuta",
+      "link": "https://www.lavanguardia.com/politica/20260803/11607183/gobierno-cesa-cargo-seguridad-nacional-publicar-cifra-entradas-ceuta.html",
+      "desc": "Tras la llegada masiva, la funcionaria difundió un informe en el que se señalaba que 49.000 migrantes habían esquivado la frontera",
+      "date": "03 Aug 2026 23:07:19 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
+    {
+      "title": "Marruecos dice que alertó a España días antes de la crisis sobre la decisión del Supremo español",
+      "link": "https://www.lavanguardia.com/politica/20260803/11607179/marruecos-dice-alerto-espana-dias-crisis-sobre-decision-supremo-espanol.html",
+      "desc": "Desde el Ministerio de Exteriores marroquí insisten en que la gestión migratoria es “una responsabilidad compartida”",
+      "date": "03 Aug 2026 22:29:57 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
     {
       "title": "EE.UU. registra las dos primeras muertes por brote de ciclosporiasis vinculado a lechuga",
       "link": "https://www.lavanguardia.com/vida/20260803/11607177/ee-uu-registra-dos-primeras-muertes-brote-ciclosporiasis-vinculado-lechuga.html",
@@ -33,9 +83,19 @@
       "caso": "other"
     },
     {
-      "title": "La Junta decreta la fase de emergencia 1 por la mala evolución de un nuevo incendio en Cerro Muriano",
+      "title": "Jódar sucumbe ante el oficio de Fritz en la final de Washington",
+      "link": "https://www.lavanguardia.com/deportes/tenis/20260803/11607174/jodar-sucumbe-oficio-fritz-final-washington.html",
+      "desc": "El madrileño cede contra el estadounidense por 7-6 (2), 6-4 pero ya es el número 15 del ranking mundial",
+      "date": "03 Aug 2026 21:40:03 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
+    {
+      "title": "El Infoca da por estabilizado el incendio en Cerro Muriano y la Junta desactiva la fase de emergencia 1",
       "link": "https://www.abc.es/espana/andalucia/cordoba/junta-decreta-fase-emergencia-mala-evolucion-nuevo-20260803213144-nts.html",
-      "desc": "La Junta de Andalucía ha informado de que ha activado este lunes por la tarde la fase de emergencia 1 en un nuevo incendio forestal en Cerro Muriano. En las labores de extinción participan 71 efectivos por tierra , apoyados por dos autobombas, mientras que el ",
+      "desc": "La Junta de Andalucía ha tenido que activar este lunes por la tarde la fase de emergencia 1 en un nuevo incendio forestal en Cerro Muriano -es el tercero en diez días -, si bien finalmente ha desescalado la situación después de que se diera por estabilizado. I",
       "date": "Mon, 03 Aug 2026 21:31:44 +0200",
       "source": "ABC",
       "color": "#c0392b",
@@ -180,66 +240,6 @@
       "source": "La Vanguardia",
       "color": "#8e44ad",
       "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "Moncloa destituye a la funcionaria que difundió la alerta del Departamento de Seguridad Nacional sobre Ceuta",
-      "link": "https://www.abc.es/espana/moncloa-destituye-funcionaria-difundio-alerta-departamento-seguridad-20260803185021-nt.html",
-      "desc": "El Ejecutivo ha destituido con efecto inmediato a la funcionaria responsable de la difusión de las alertas informativas del Departamento de Seguridad Nacional (DSN) de la Presidencia del Gobierno, después de que el pasado viernes 31 de julio distribuyera una c",
-      "date": "Mon, 03 Aug 2026 18:50:22 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Darío Dolz mantiene la incógnita sobre si optará a un tercer mandato como alcalde de Cuenca",
-      "link": "https://www.abc.es/espana/castilla-la-mancha/dario-dolz-mantiene-incognita-sobre-optara-tercer-20260803184850-nt.html",
-      "desc": "El alcalde de Cuenca, Darío Dolz, mantendrá la incógnita sobre su futuro político al menos hasta el final del verano. El regidor ha emplazado a los medios de comunicación a finales de septiembre para desvelar si optará a un tercer mandato en las elecciones mun",
-      "date": "Mon, 03 Aug 2026 18:48:51 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Galicia se vuelca con sus residentes en Venezuela tras los terremotos: más de 2,5 millones en ayudas",
-      "link": "https://www.abc.es/espana/galicia/galicia-vuelca-residentes-venezuela-tras-terremotos-millones-20260803184719-nt.html",
-      "desc": "Galicia sigue volcándose con sus residentes en Venezuela a raíz de los terremotos que sacudieron el país sudamericano. El presidente de la Xunta, Alfonso Rueda, destacó este lunes que las líneas de apoyo para la comunidad gallega en Venezuela suman un total de",
-      "date": "Mon, 03 Aug 2026 18:47:19 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Un incendio originado en una silla devasta una planta de un edificio de Chamberí y obliga a desalojar 55 viviendas",
-      "link": "https://www.abc.es/espana/madrid/incendio-silla-devasta-planta-edificio-obliga-desalojar-20260803184637-nt.html",
-      "desc": "Las llamas que han devastado buena parte de un edificio de viviendas en la calle de García de Paredes, 52 (Chamberí), se iniciaron por causas que se están investigando en la silla de una habitación. Así consta, indican fuentes policiales, en los primeros datos",
-      "date": "Mon, 03 Aug 2026 18:46:37 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "La crisis de Ceuta divide a la opinión pública europea",
-      "link": "https://www.lavanguardia.com/politica/20260803/11607112/crisis-ceuta-malogra-imagen-sanchez-espana-asi-ve-prensa-internacional.html",
-      "desc": "En Alemania ven debilitada a Marruecos porque “evidencia la falta de perspectivas entre su juventud”",
-      "date": "03 Aug 2026 18:39:10 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "Globalcaja impulsa la innovación y el emprendimiento con su apoyo al Parque Científico y Tecnológico",
-      "link": "https://www.abc.es/espana/castilla-la-mancha/globalcaja-impulsa-innovacion-emprendimiento-apoyo-parque-cientifico-20260803183310-nt.html",
-      "desc": "Globalcaja renueva su compromiso como entidad colaboradora de la Fundación Parque Científico y Tecnológico de Castilla-La Mancha, mediante un nuevo acuerdo suscrito por el director general de la entidad financiera, Pedro Palacios, y el director del Parque Cien",
-      "date": "Mon, 03 Aug 2026 18:33:10 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
       "caso": "other"
     }
   ]
