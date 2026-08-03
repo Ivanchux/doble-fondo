@@ -1,7 +1,47 @@
 {
-  "updated": "2026-08-03T19:24:12Z",
+  "updated": "2026-08-03T20:58:07Z",
   "count": 24,
   "items": [
+    {
+      "title": "EE.UU. registra las dos primeras muertes por brote de ciclosporiasis vinculado a lechuga",
+      "link": "https://www.lavanguardia.com/vida/20260803/11607177/ee-uu-registra-dos-primeras-muertes-brote-ciclosporiasis-vinculado-lechuga.html",
+      "desc": "Se han registrado 6.707 infecciones en 45 estados este año; el mayor foco, en Michigan",
+      "date": "03 Aug 2026 22:08:22 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
+    {
+      "title": "El PSOE acusa a Núñez de prometer soluciones contra la ocupación sobre las que «no tiene competencias»",
+      "link": "https://www.abc.es/espana/castilla-la-mancha/psoe-acusa-nunez-prometer-soluciones-ocupacion-sobre-20260803214606-nt.html",
+      "desc": "El secretario de Organización del PSOE de Castilla-La Mancha, Sergio Gutiérrez, ha acusado al presidente regional del PP, Paco Núñez, de plantear medidas contra la ocupación ilegal de viviendas sobre una materia que, según sostiene, corresponde al Estado. La r",
+      "date": "Mon, 03 Aug 2026 21:46:34 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Trump considera que “la inmigración ilegal está matando” a Europa",
+      "link": "https://www.lavanguardia.com/internacional/20260803/11607175/trump-considera-inmigracion-ilegal-esta-matando-europa.html",
+      "desc": "El mandatario, sin embargo, dice que la situación de su país cuando los demócratas “tuvieron abiertas las fronteras” fue “mucho peor” que la entrada masiva de migrantes en Ceuta",
+      "date": "03 Aug 2026 21:46:07 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
+    {
+      "title": "La Junta decreta la fase de emergencia 1 por la mala evolución de un nuevo incendio en Cerro Muriano",
+      "link": "https://www.abc.es/espana/andalucia/cordoba/junta-decreta-fase-emergencia-mala-evolucion-nuevo-20260803213144-nts.html",
+      "desc": "La Junta de Andalucía ha informado de que ha activado este lunes por la tarde la fase de emergencia 1 en un nuevo incendio forestal en Cerro Muriano. En las labores de extinción participan 71 efectivos por tierra , apoyados por dos autobombas, mientras que el ",
+      "date": "Mon, 03 Aug 2026 21:31:44 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
     {
       "title": "Italia responde a Albares: «La decisión de suspender Schengen es la correcta»",
       "link": "https://www.abc.es/espana/italia-responde-albares-decision-suspender-schengen-correcta-20260803204819-nt.html",
@@ -200,46 +240,6 @@
       "source": "ABC",
       "color": "#c0392b",
       "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "El Gobierno evita culpar a Rabat y dirige las críticas a la oposición y otros países de la UE",
-      "link": "https://www.lavanguardia.com/politica/20260803/11607093/gobierno-evita-culpar-rabat-dirige-criticas-oposicion-otros-paises-ue.html",
-      "desc": "Robles defiende a los servicios de inteligencia y exige a Marruecos que investigue: “No podemos mirar a otro lado”",
-      "date": "03 Aug 2026 18:15:20 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "La UCLM lanza la mayor convocatoria postdoctoral de su historia: más de 3,2 millones de euros y 30 contratos",
-      "link": "https://www.abc.es/espana/castilla-la-mancha/toledo/uclm-lanza-mayor-convocatoria-postdoctoral-historia-millones-20260803181208-nt.html",
-      "desc": "La Universidad de Castilla-La Mancha (UCLM) ha convocado el programa de contratación postdoctoral más ambicioso de su historia, dotado con 3.240.104,80 euros y destinado a incorporar hasta 30 investigadores e investigadoras postdoctorales durante un periodo má",
-      "date": "Mon, 03 Aug 2026 18:12:08 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "El PSdeG denuncia la «inacción» de la Xunta ante las deficiencias de la sanidad en verano",
-      "link": "https://www.abc.es/espana/galicia/psdeg-denuncia-inaccion-xunta-ante-deficiencias-sanidad-20260803181146-nt.html",
-      "desc": "El portavoz de Sanidad del grupo socialista en el Parlamento gallego, Julio Torrado, ha criticado este lunes en rueda de prensa la «inacción» de la Xunta ante el incremento de incidencias registradas en el sistema sanitario durante la temporada estival. El par",
-      "date": "Mon, 03 Aug 2026 18:11:47 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "El Congreso de los Estados Unidos no ha aprobado el traspaso de Ceuta y Melilla a Marruecos",
-      "link": "https://www.lavanguardia.com/vida/verificacion/20260803/11607088/congreso-estados-unidos-aprobado-traspaso-ceuta-melilla-marruecos.html",
-      "desc": "Circula un informe no vinculante que considera a las ciudades autónomas “territorios marroquíes”, pero ninguna ley estadounidense ha transferido su soberanía (ni podría hacerlo)",
-      "date": "03 Aug 2026 18:06:37 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
       "caso": "other"
     }
   ]
