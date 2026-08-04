@@ -1,7 +1,57 @@
 {
-  "updated": "2026-08-04T21:06:09Z",
+  "updated": "2026-08-04T22:58:12Z",
   "count": 24,
   "items": [
+    {
+      "title": "La UE rebaja la tensión, pero Italia propone que Bruselas lidere la relación con Marruecos",
+      "link": "https://www.lavanguardia.com/politica/20260805/11607889/ue-rebaja-tension-italia-propone-bruselas-lidere-relacion-marruecos.html",
+      "desc": "El ministro del Interior italiano defiende “comunizar” las negociaciones para reducir la dependencia de acuerdos bilaterales como el de España con Rabat",
+      "date": "05 Aug 2026 00:05:00 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
+    {
+      "title": "Ofensiva contra el aumento de la venta y consumo de droga en Barcelona",
+      "link": "https://www.lavanguardia.com/local/barcelona/20260805/11607911/ofensiva-aumento-venta-consumo-droga-barcelona.html",
+      "desc": "La Guardia Urbana activa un plan ante un problema que dispara las quejas vecinales",
+      "date": "05 Aug 2026 00:05:00 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
+    {
+      "title": "El Govern modificará la norma contra la compra especulativa por inconstitucional",
+      "link": "https://www.lavanguardia.com/economia/20260805/11607905/govern-modificara-norma-compra-especulativa-inconstitucional.html",
+      "desc": "El Consell de Garanties advierte que se vulnera el derecho a la propiedad",
+      "date": "05 Aug 2026 00:05:00 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
+    {
+      "title": "Susto en Ciudad Jardín: los bomberos intervienen en un incendio de un piso que obliga a evacuar a seis personas",
+      "link": "https://www.abc.es/espana/andalucia/cordoba/susto-ciudad-jardin-bomberos-intervienen-incendio-piso-20260804231217-nts.html",
+      "desc": "Susto en Ciudad Jardín en la tarde de este martes. Los bomberos han tenido que intervenir por el incendio de un piso en un bloque de la calle Alcalde de la Cruz Ceballos . El Servicio de Extinción de Incendios y Salvamento (SEIS) del Ayuntamiento de Córdoba ha",
+      "date": "Tue, 04 Aug 2026 23:12:18 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "SpaceX aumenta un 92% sus ingresos en el primer examen como empresa cotizada",
+      "link": "https://www.lavanguardia.com/economia/20260804/11607928/spacex-aumenta-92-ingresos-primer-examen-empresa-cotizada.html",
+      "desc": "La compañía espacial de Elon Musk detalla unas pérdidas  de 541 millones de dólares en su informe trimestral de abril a junio, o nueve céntimos menos por acción, aunque el retroceso es mucho menor de lo esperado, y&nbsp; esas pérdidas se reducen un 46%",
+      "date": "04 Aug 2026 22:41:29 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
     {
       "title": "El deporte canino despide a la campeona de agility de 13 años fallecida en un accidente",
       "link": "https://www.abc.es/espana/comunidad-valenciana/deporte-canino-despide-campeona-agility-anos-fallecida-20260804223411-nt.html",
@@ -23,7 +73,7 @@
       "caso": "other"
     },
     {
-      "title": "Muere Pepe Habichuela, maestro de la guitarra flamenca",
+      "title": "Muere a los 82 años Pepe Habichuela, la guitarra flamenca inquieta",
       "link": "https://www.lavanguardia.com/cultura/20260804/11607921/muere-pepe-habichuela-maestro-guitarra-flamenca.html",
       "desc": "Ha fallecido en Madrid después de padecer una enfermedad que lo apartó de los escenarios el 2024",
       "date": "04 Aug 2026 21:53:45 +0200",
@@ -103,6 +153,16 @@
       "caso": "other"
     },
     {
+      "title": "Muere un joven de Barcelona arrollado por un taxi cerca del aeropuerto de Menorca",
+      "link": "https://www.lavanguardia.com/local/baleares/20260804/11607903/muere-joven-barcelona-arrollado-taxi-cerca-aeropuerto-menorca.html",
+      "desc": "El accidente se ha producido a escasos metros de la terminal, donde la víctima se encontraba tumbada sobre la calzada por razones que aún se investigan",
+      "date": "04 Aug 2026 20:27:55 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
+    {
       "title": "El campo se manifestará ante la Junta el 27 de agosto para exigir «un apoyo similar al del Ministerio» ante sus pérdidas",
       "link": "https://www.abc.es/espana/castilla-leon/campo-manifestara-ante-junta-agosto-exigir-apoyo-20260804202537-nt.html",
       "desc": "Las cuatro organizaciones profesionales agrarias representativas del sector en Castilla y León se manifestarán el jueves 27 de agosto frente a la sede de Presidencia de la Junta para reclamar al Ejecutivo autonómico «un apoyo económico similar» al que ha puest",
@@ -177,66 +237,6 @@
       "link": "https://www.abc.es/espana/baleares/dos-muertos-decena-desaparecidos-tras-naufragar-patera-20260804194819-nt.html",
       "desc": "Nueva tragedia en la ruta migratoria hacia Baleares. Dos migrantes han fallecido y alrededor de una decena permanecen desaparecidos después de que una patera naufragara al sureste de la isla de Cabrera . Salvamento Marítimo y la Guardia Civil han logrado resca",
       "date": "Tue, 04 Aug 2026 19:48:19 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "El valor de las medallas de la generación Iris Tió",
-      "link": "https://www.lavanguardia.com/deportes/natacion/20260804/11607893/valor-medallas-generacion-iris-tio.html",
-      "desc": "",
-      "date": "04 Aug 2026 19:44:22 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "Se reanudan las obras de la pista de patinaje de Valparaíso, en Toledo",
-      "link": "https://www.abc.es/espana/castilla-la-mancha/toledo/reanudan-obras-pista-patinaje-valparaiso-toledo-20260804193320-nt.html",
-      "desc": "Tras varios meses de parón, se han reanudado las obras del último tramo de la avenida del Madroño , en el barrio toledano de Valparaíso . La actuación contempla la construcción de una pista multiuso y otra de patinaje que rodeará a la primera, además de una zo",
-      "date": "Tue, 04 Aug 2026 19:33:21 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Castilla-La Mancha ha invertido 57,2 millones para mejorar la accesibilidad de casi 16.000 viviendas",
-      "link": "https://www.abc.es/espana/castilla-la-mancha/castillala-mancha-invertido-572-millones-mejorar-accesibilidad-20260804192137-nt.html",
-      "desc": "El Gobierno de Castilla-La Mancha ha destinado desde 2019 más de 57,2 millones de euros a actuaciones de rehabilitación y mejora de la accesibilidad en edificios residenciales, unas ayudas que han permitido intervenir en 15.821 viviendas y beneficiar a más de ",
-      "date": "Tue, 04 Aug 2026 19:21:37 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Detenido por agredir a su pareja en las fiestas del barrio de Teis de Vigo",
-      "link": "https://www.abc.es/espana/galicia/detenido-agredir-pareja-fiestas-barrio-teis-vigo-20260804191413-nt.html",
-      "desc": "Un hombre, de 53 años de edad, fue detenido esta pasada madrugada en Vigo por supuestamente agredir a su pareja durante unas fiestas patronales celebradas en el barrio de Teis. Según informa la Policía Local, los hechos ocurrieron sobre las 02.30 horas en la c",
-      "date": "Tue, 04 Aug 2026 19:14:13 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "La gestión de las llegadas a Ceuta pone a prueba la legalidad de las devoluciones de inmigrantes",
-      "link": "https://www.abc.es/espana/gestion-llegadas-ceuta-pone-prueba-legalidad-devoluciones-20260804191145-nt.html",
-      "desc": "«Lo antes posible». Es lo que los gobiernos de España y Marruecos pactaron para retornar a los inmigrantes que llegaron de forma masiva a Ceuta, a pie o a través de una travesía a nado que desembocaba en la playa de El Tarajal. Los países se comprometían enton",
-      "date": "Tue, 04 Aug 2026 19:11:45 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Castilla y León se quema y con ella parte de nuestro futuro",
-      "link": "https://www.abc.es/espana/castilla-leon/salvador-rus-rufino-castilla-leon-quema-parte-futuro-20260804190947-nt.html",
-      "desc": "Cada verano asistimos al mismo ritual. Las llamas vuelven a devorar los montes, los pueblos y los campos de Castilla y León mientras las imágenes de humo ocupan durante unos días los informativos. Después llega el silencio. El fuego se apaga, la atención desap",
-      "date": "Tue, 04 Aug 2026 19:09:47 +0200",
       "source": "ABC",
       "color": "#c0392b",
       "feedId": "ABC",
