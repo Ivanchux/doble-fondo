@@ -1,7 +1,207 @@
 {
-  "updated": "2026-08-04T02:02:20Z",
+  "updated": "2026-08-04T06:22:56Z",
   "count": 24,
   "items": [
+    {
+      "title": "La Junta abre el periodo para alegar al vertedero de amianto previsto para 280.000 toneladas en Albacete",
+      "link": "https://www.abc.es/espana/castilla-la-mancha/junta-abre-periodo-alegar-vertedero-amianto-previsto-20260803080102-nt.html",
+      "desc": "La Junta de Comunidades de Castilla- La Mancha ha abierto el periodo de información pública del proyecto para construir un vertedero de residuos con amianto en el paraje de La Castra, en el término municipal de Albacete. Las instalaciones se ubicarían a 17 kil",
+      "date": "Tue, 04 Aug 2026 08:01:02 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "El pueblo de Almería donde veranea Juan y Medio junto a su familia: «Me recorro sus veredas y me baño en las albercas de mi infancia»",
+      "link": "https://www.abc.es/espana/andalucia/almeria/pueblo-almeria-veranea-juan-medio-junto-familia-20260804080000-nts.html",
+      "desc": "Juan y Medio es uno de los rostros más conocidos de Andalucía. Seguramente, uno de sus embajadores más ilustres tanto dentro de España como fuera. Un enamorado de su tierra, a la que lleva dentro de sí allá por donde va. Pero especialmente, al rincón donde nac",
+      "date": "Tue, 04 Aug 2026 07:58:43 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Desesperada vigilia por sus hijos en la frontera: «No podemos dormir»",
+      "link": "https://www.abc.es/espana/desesperada-vigilia-hijos-frontera-podemos-dormir-20260804071038-nt.html",
+      "desc": "Bajo el sol africano, una mujer pasea con la imagen impresa de una joven. Camiseta amarilla, pantalón vaquero, el pelo recogido en un moño alto. Y hacia la cámara, dirige una sonrisa ligera. Podría ser cualquier joven, pero es su hija y nadie la ha visto, llev",
+      "date": "Tue, 04 Aug 2026 07:10:38 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Zapatero, de «talismán» a cenizo de María Jesús Montero",
+      "link": "https://www.abc.es/espana/andalucia/zapatero-talisman-cenizo-maria-jesus-montero-20260804065918-nts.html",
+      "desc": "«Estoy especialmente contenta porque tengo aquí a mi talismán, el presidente Zapatero. ¡Qué suerte tiene este partido de contar con un militante que fue presidente del Gobierno y que hoy acude allí donde se le reclama! Un hombre que aporta a la política, a la ",
+      "date": "Tue, 04 Aug 2026 06:59:18 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "zap"
+    },
+    {
+      "title": "Ceuta, un trampolín político y económico que Andalucía refuerza",
+      "link": "https://www.abc.es/espana/andalucia/ceuta-pulmon-economico-politico-andalucia-lleva-anos-20260804065914-nts.html",
+      "desc": "La irrupción en Ceuta de 60.000 marroquíes la semana pasada sumió en la incertidumbre a una ciudad no solo estratégica por su posición geográfica para España, sino para Andalucía en el nivel de las esperanzas a futuro. En estos escasos 18 kilómetros cuadrados ",
+      "date": "Tue, 04 Aug 2026 06:59:14 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Playas históricas para visitar en verano (o en cualquier otro momento del año)",
+      "link": "https://www.lavanguardia.com/magazine/viajes/20260804/11606577/playas-historicas-visitar-verano-momento-ano.html",
+      "desc": "Algunos arenales del mundo engloban historias que merecen ser redescubiertas más allá de la foto de Instagram",
+      "date": "04 Aug 2026 06:38:11 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
+    {
+      "title": "Ocho playas nudistas de Catalunya por las que merece la pena quitarse el bañador",
+      "link": "https://www.lavanguardia.com/lugaresdeaventura/20260804/11605336/ocho-playas-nudistas-catalunya-merece-pena-quitarse-banador.html",
+      "desc": "De la icónica Illa Roja a los grandes arenales de El Torn, recorremos algunas de las playas naturistas más singulares del litoral catalán. Lugares que destacan por su belleza, pero también por su historia, su ambiente o su particular manera de entender la libe",
+      "date": "04 Aug 2026 06:30:00 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
+    {
+      "title": "Fiestas de San Cayetano en Madrid: programa, horario, dónde son las verbenas y cómo llegar",
+      "link": "https://www.abc.es/espana/madrid/fiestas-san-cayetano-madrid-programa-horario-verbenas-20260804061500-nt.html",
+      "desc": "Un año más el distrito Centro de Madrid se llena de luz, música y color durante el mes de agosto, a pesar de que la capital nota una bajada importante de actividad en agosto y muchos madrileños aprovechan para irse de vacaciones a otros lugares, principalmente",
+      "date": "Tue, 04 Aug 2026 06:15:00 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Atención: “La frontera de Ceuta está abierta”",
+      "link": "https://www.lavanguardia.com/opinion/20260804/11607031/atencion-frontera-ceuta-esta-abierta.html",
+      "desc": "",
+      "date": "04 Aug 2026 06:00:00 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
+    {
+      "title": "El Gobierno se prepara para reubicar a cientos de menores por la Península",
+      "link": "https://www.lavanguardia.com/politica/20260804/11607173/gobierno-prepara-reubicar-cientos-menores-peninsula.html",
+      "desc": "La ciudad autónoma tiene su sistema de acogida colapsado con la crisis, al 2.865% de su capacidad",
+      "date": "04 Aug 2026 06:00:00 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
+    {
+      "title": "¿Alguien investigará la muerte del centenar migrantes en la costa de Ceuta?",
+      "link": "https://www.lavanguardia.com/politica/20260804/11607171/alguien-investigara-muerte-centenar-migrantes-costa-ceuta.html",
+      "desc": "Los forenses han comenzado con las primeras autopsias de los fallecidos",
+      "date": "04 Aug 2026 06:00:00 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
+    {
+      "title": "Trump y el dilema de Pickaxe, la montaña en la que Irán oculta una misteriosa instalación nuclear",
+      "link": "https://www.lavanguardia.com/internacional/20260804/11605502/trump-dilema-pickaxe-montana-iran-oculta-misteriosa-instalacion-nuclear.html",
+      "desc": "Israel está presionando a EE.UU. para lanzar un ataque contra la planta, ubicada a unos 100 metros bajo tierra",
+      "date": "04 Aug 2026 06:00:00 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
+    {
+      "title": "La Unión Europea cambia las reglas de los vuelos: así afectarán a la maleta de mano y a los retrasos",
+      "link": "https://www.lavanguardia.com/internacional/20260804/11606745/union-europea-cambia-reglas-vuelos-asi-afectaran-maleta-mano-retrasos.html",
+      "desc": "El Parlamento Europeo ha aprobado una reforma de los derechos de los pasajeros que obligará a las aerolíneas a ofrecer más transparencia en el precio de los billetes y reforzará la protección de familias, personas embarazadas y viajeros afectados por retrasos",
+      "date": "04 Aug 2026 06:00:00 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
+    {
+      "title": "El turismo resiste a la coyuntura mundial y apunta a otro año en máximos",
+      "link": "https://www.lavanguardia.com/economia/20260804/11607133/turismo-resiste-coyuntura-mundial-apunta-ano-maximos.html",
+      "desc": "La llegada de viajeros y el gasto siguen creciendo pese al freno de Alemania o Francia",
+      "date": "04 Aug 2026 06:00:00 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
+    {
+      "title": "El bajo caudal de los grandes ríos de Europa compromete a las nucleares",
+      "link": "https://www.lavanguardia.com/natural/20260804/11605339/caudal-grandes-rios-europa-compromete-nucleares.html",
+      "desc": "El volumen de agua que transporta el Rin al oeste de Frankfurt y el Danubio en Rumanía ha caído casi un tercio de su media habitual para el mes julio",
+      "date": "04 Aug 2026 06:00:00 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
+    {
+      "title": "Todas las conclusiones de Flick: pendiente de Ferran Torres y con el nueve entre ceja y ceja",
+      "link": "https://www.lavanguardia.com/deportes/futbol/20260804/11607104/todas-conclusiones-flick-stage-pretemporada-pendiente-ferran-torres-nueve-ceja-ceja.html",
+      "desc": "El entrenador contento con el stage, pide más experiencia para poder optar a todos los títulos y reivindica el poder de los mundialistas",
+      "date": "04 Aug 2026 06:00:00 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
+    {
+      "title": "Alcampo Diagonal Mar: perdido en un hipermercado",
+      "link": "https://www.lavanguardia.com/cultura/20260804/11607004/alcampo-diagonal-mar-perdido-hipermercado.html",
+      "desc": "El autor permanece unas horas encerrado en uno de esos no lugares que, en 1992, el antropólogo Marc Augé definió como esos espacios intercambiables donde el ser humano permanece anónimo",
+      "date": "04 Aug 2026 06:00:00 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
+    {
+      "title": "Así luchan los bomberos en EE.UU. contra los incendios forestales en Spokane",
+      "link": "https://www.lavanguardia.com/vida/20260804/11607164/asi-luchan-bomberos-estados-unidos-incendios-forestales-spokane.html",
+      "desc": "Las imágenes captadas por la cámara corporal que lleva atada un bombero al pecho muestra la detención de un nuevo foco cerca de una vivienda",
+      "date": "04 Aug 2026 06:00:00 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
+    {
+      "title": "Los vecinos de Denia alertan del impacto de los deslindes sobre 3.000 propietarios: «El daño moral no se mide»",
+      "link": "https://www.abc.es/espana/comunidad-valenciana/vecinos-denia-alertan-impacto-deslindes-sobre-3000-20260804042918-nt.html",
+      "desc": "El enfrentamiento entre el Gobierno central y la Generalitat Valenciana por la modificación del Reglamento General de Costas, que afecta a miles de vecinos de la localidad alicantina de Denia, volvió a hacerse patente este lunes en un encuentro de la Administr",
+      "date": "Tue, 04 Aug 2026 05:30:05 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "“Quizá” responde Ferran Torres a la pregunta sobre dejar el Barça y fichar por el PSG",
+      "link": "https://www.lavanguardia.com/deportes/20260804/11607361/quiza-responde-ferran-torres-pregunta-sobre-dejar-barca-fichar-psg.html",
+      "desc": "Sobre la polémica de la gorra:&nbsp;“Fue un momento divertido que no tenía nada que ver con la política”",
+      "date": "04 Aug 2026 05:03:11 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
     {
       "title": "Guardias civiles y policías responsabilizan al Gobierno de las crisis en Ceuta y señalan a Marlaska: «Lo sabían»",
       "link": "https://www.abc.es/espana/guardias-civiles-policias-responsabilizan-gobierno-senalan-marlaska-20260803014856-nt.html",
@@ -40,206 +240,6 @@
       "source": "ABC",
       "color": "#c0392b",
       "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "La cuenta atrás para Alexis, el entrenador de voley acusado de agredir sexualmente a cinco niñas",
-      "link": "https://www.abc.es/espana/madrid/cuenta-atras-alexis-entrenador-voley-acusado-violar-20260803014247-nt.html",
-      "desc": "Alexis J. F. L., venezolano de 54 años, fue contratado en 2023 como entrenador de voleibol en clases extraescolares de un colegio de Aluche, dentro del programa de escuelas municipales del Ayuntamiento de Madrid. Pronto, comenzó a supuestamente agredir sexualm",
-      "date": "Tue, 04 Aug 2026 01:42:47 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "San Cayetano inaugura el agosto más castizo de Madrid con música, zarzuela y tradición",
-      "link": "https://www.abc.es/espana/madrid/san-cayetano-inaugura-agosto-castizo-madrid-musica-20260803005143-nt.html",
-      "desc": "Se coloca de nuevo Madrid el mantón de manila para celebrar las fiestas de San Cayetano , San Lorenzo y La Paloma, que tomarán las calles del entorno de Lavapiés y Embajadores del 4 al 16 de agosto. El arranque oficial llega este martes, a las ocho de la tarde",
-      "date": "Tue, 04 Aug 2026 00:51:43 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Reunión de ministros de la UE sobre inmigración en un tenso clima político",
-      "link": "https://www.lavanguardia.com/politica/20260804/11607157/reunion-ministros-ue-sobre-inmigracion-tenso-clima-politico.html",
-      "desc": "En la víspera los ministros del Interior de Italia y España se cruzan acusaciones",
-      "date": "04 Aug 2026 00:00:00 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "Muere un trabajador del Arenal Sound por causas naturales",
-      "link": "https://www.abc.es/espana/comunidad-valenciana/muere-trabajador-arenal-sound-causas-naturales-20260803232743-nt.html",
-      "desc": "Un trabajador del Arenal Sound murió el domingo por la tarde tras desvanecerse antes de que se abrieran las puertas del recinto en la última jornada del festival que se celebraba en la localidad castellonense de Burriana. Fuentes de la Guardia Civil señalan a ",
-      "date": "Mon, 03 Aug 2026 23:27:43 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "El Gobierno cesa a un cargo de Seguridad Nacional tras publicar una cifra de entradas en Ceuta",
-      "link": "https://www.lavanguardia.com/politica/20260803/11607183/gobierno-cesa-cargo-seguridad-nacional-publicar-cifra-entradas-ceuta.html",
-      "desc": "Tras la llegada masiva, la funcionaria difundió un informe en el que se señalaba que 49.000 migrantes habían esquivado la frontera",
-      "date": "03 Aug 2026 23:07:19 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "Marruecos dice que alertó a España días antes de la crisis sobre la decisión del Supremo español",
-      "link": "https://www.lavanguardia.com/politica/20260803/11607179/marruecos-dice-alerto-espana-dias-crisis-sobre-decision-supremo-espanol.html",
-      "desc": "Desde el Ministerio de Exteriores marroquí insisten en que la gestión migratoria es “una responsabilidad compartida”",
-      "date": "03 Aug 2026 22:29:57 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "EE.UU. registra las dos primeras muertes por brote de ciclosporiasis vinculado a lechuga",
-      "link": "https://www.lavanguardia.com/vida/20260803/11607177/ee-uu-registra-dos-primeras-muertes-brote-ciclosporiasis-vinculado-lechuga.html",
-      "desc": "Se han registrado 6.707 infecciones en 45 estados este año; el mayor foco, en Michigan",
-      "date": "03 Aug 2026 22:08:22 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "El PSOE acusa a Núñez de prometer soluciones contra la ocupación sobre las que «no tiene competencias»",
-      "link": "https://www.abc.es/espana/castilla-la-mancha/psoe-acusa-nunez-prometer-soluciones-ocupacion-sobre-20260803214606-nt.html",
-      "desc": "El secretario de Organización del PSOE de Castilla-La Mancha, Sergio Gutiérrez, ha acusado al presidente regional del PP, Paco Núñez, de plantear medidas contra la ocupación ilegal de viviendas sobre una materia que, según sostiene, corresponde al Estado. La r",
-      "date": "Mon, 03 Aug 2026 21:46:34 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Trump considera que “la inmigración ilegal está matando” a Europa",
-      "link": "https://www.lavanguardia.com/internacional/20260803/11607175/trump-considera-inmigracion-ilegal-esta-matando-europa.html",
-      "desc": "El mandatario, sin embargo, dice que la situación de su país cuando los demócratas “tuvieron abiertas las fronteras” fue “mucho peor” que la entrada masiva de migrantes en Ceuta",
-      "date": "03 Aug 2026 21:46:07 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "Jódar sucumbe ante el oficio de Fritz en la final de Washington",
-      "link": "https://www.lavanguardia.com/deportes/tenis/20260803/11607174/jodar-sucumbe-oficio-fritz-final-washington.html",
-      "desc": "El madrileño cede contra el estadounidense por 7-6 (2), 6-4 pero ya es el número 15 del ranking mundial",
-      "date": "03 Aug 2026 21:40:03 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "El Infoca da por estabilizado el incendio en Cerro Muriano y la Junta desactiva la fase de emergencia 1",
-      "link": "https://www.abc.es/espana/andalucia/cordoba/junta-decreta-fase-emergencia-mala-evolucion-nuevo-20260803213144-nts.html",
-      "desc": "La Junta de Andalucía ha tenido que activar este lunes por la tarde la fase de emergencia 1 en un nuevo incendio forestal en Cerro Muriano -es el tercero en diez días -, si bien finalmente ha desescalado la situación después de que se diera por estabilizado. I",
-      "date": "Mon, 03 Aug 2026 21:31:44 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Italia responde a Albares: «La decisión de suspender Schengen es la correcta»",
-      "link": "https://www.abc.es/espana/italia-responde-albares-decision-suspender-schengen-correcta-20260803204819-nt.html",
-      "desc": "Cuatro días después de cerrar sus fronteras con España, Italia no da tregua. Antonio Tajani respondió este lunes con dureza a su homólogo José Manuel Albares y dijo que la suspensión del acuerdo Schengen por la crisis de Ceuta es correcta y cuenta con el respa",
-      "date": "Mon, 03 Aug 2026 20:48:19 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Declarado el nivel 2 de alerta en un incendio en Bustillo del Páramo de Carrión (Palencia)",
-      "link": "https://www.abc.es/espana/castilla-leon/declarado-nivel-alerta-incendio-bustillo-paramo-carrion-20260803204214-nt.html",
-      "desc": "La Junta de Castilla y León declaraba en la tarde de este lunes, 3 de agosto, un incendio forestal de Índice de Gravedad Potencial (IGR) 2 en Bustillo del Páramo de Carrión (Palencia) al suponer el fuego una amenaza seria a poblaciones y poder exigir medidas d",
-      "date": "Mon, 03 Aug 2026 20:42:14 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "El congresista Díaz-Balart desmiente que EE.UU. reconociera la soberanía marroquí sobre Ceuta y Melilla",
-      "link": "https://www.abc.es/espana/congresista-diazbalart-desmiente-eeuu-reconociera-soberania-marroqui-20260803204151-nt.html",
-      "desc": "El congresista republicano Mario Díaz-Balart , autor de un informe aprobado en abril por la Comisión de Asignaciones de la Cámara de Representantes de Estados Unidos que afirma que Ceuta y Melilla están «ubicadas en territorio marroquí» y que «siguen siendo ob",
-      "date": "Mon, 03 Aug 2026 20:41:51 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Comprar o alquilar una casa en Castilla y León pega otro estirón en julio",
-      "link": "https://www.abc.es/espana/castilla-leon/comprar-alquilar-casa-castilla-leon-pega-estiron-20260803203321-nt.html",
-      "desc": "¿Comprar o alquilar? Es la pregunta que muchos se hacen a la hora de buscar un hogar. Lugar, zona, dimensiones... Y, sobre todo, precio. Una variable que cada vez pesa y condiciona más la decisión también en Castilla y León, donde en el último año el coste tan",
-      "date": "Mon, 03 Aug 2026 20:33:21 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "La Junta niega que haya un proyecto prioritario o un expediente abierto para la planta de biometano de Talavera",
-      "link": "https://www.abc.es/espana/castilla-la-mancha/toledo/junta-niega-proyecto-prioritario-expediente-abierto-planta-20260803202451-nt.html",
-      "desc": "La Junta de Comunidades ha negado este lunes que exista una declaración de proyecto prioritario o un expediente abierto para la planta de biometano proyectada en Talavera de la Reina. El delegado de la Junta en la ciudad, David Gómez, ha respondido así a las d",
-      "date": "Mon, 03 Aug 2026 20:24:52 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Los particulares tiran de la venta de coches en Córdoba y se dispara un 17% hasta julio",
-      "link": "https://www.abc.es/espana/andalucia/cordoba/venta-coches-dispara-julio-acercan-medio-millar-20260803201355-nts.html",
-      "desc": "Las ventas de coches nuevos —uno de los termómetros del consumo— en la provincia pasaron la meta volante de julio con el acelerador pisado a fondo: el crecimiento interanual se fue ligeramente por encima del 17%. Así lo recogen los datos que han facilitado est",
-      "date": "Mon, 03 Aug 2026 20:13:55 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "El Romeral reúne a más de un millar de personas en su XLII Festival Folclórico",
-      "link": "https://www.abc.es/espana/castilla-la-mancha/toledo/romeral-reune-millar-personas-xlii-festival-folclorico-20260803201114-nt.html",
-      "desc": "La Plaza del Ayuntamiento de El Romeral reunió a más de un millar de personas durante la celebración del XLII Festival Folclórico, una cita que volvió a convertir a la localidad toledana en punto de encuentro para los amantes de la música y las tradiciones pop",
-      "date": "Mon, 03 Aug 2026 20:11:14 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Weber: «En la crisis de Ceuta, Europa está unida y Sánchez está aislado»",
-      "link": "https://www.abc.es/espana/weber-crisis-ceuta-europa-unida-sanchez-aislado-20260803201102-nt.html",
-      "desc": "Manfred Weber, presidente del Partido Popular Europeo y portavoz del grupo en la Eurocámara, considera que Pedro Sánchez se ha quedado «aislado» en el seno de la Unión Europea por su gestión migratoria, a la que acusa de contribuir al crecimiento de los partid",
-      "date": "Mon, 03 Aug 2026 20:11:02 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "La fiscalía de París investiga los suicidios entre el personal del primer ministro",
-      "link": "https://www.lavanguardia.com/internacional/20260803/11607134/fiscalia-paris-investiga-suicidios-personal-primer-ministro.html",
-      "desc": "Dos funcionarios se quitaron la vida y dos lo intentaron en un periodo de siete meses",
-      "date": "03 Aug 2026 20:00:24 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
       "caso": "other"
     }
   ]
