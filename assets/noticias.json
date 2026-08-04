@@ -1,7 +1,57 @@
 {
-  "updated": "2026-08-03T22:55:51Z",
+  "updated": "2026-08-04T02:02:20Z",
   "count": 24,
   "items": [
+    {
+      "title": "Guardias civiles y policías responsabilizan al Gobierno de las crisis en Ceuta y señalan a Marlaska: «Lo sabían»",
+      "link": "https://www.abc.es/espana/guardias-civiles-policias-responsabilizan-gobierno-senalan-marlaska-20260803014856-nt.html",
+      "desc": "«Sí, lo sabían» . Esa es la conclusión a la que llegan la mayoría de asociaciones de representación de Policía Nacional y Guardia Civil sobre lo acaecido en Ceuta el pasado jueves. Sus palabras responden a la declaración de Fernando Grande-Marlaska este sábado",
+      "date": "Tue, 04 Aug 2026 01:48:56 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "La reunión discreta de Zapatero y Montero en Hacienda tres días antes del cese de Ábalos: «Ascensor ministra»",
+      "link": "https://www.abc.es/espana/reunion-discreta-zapatero-montero-hacienda-tres-dias-20260804014843-nt.html",
+      "desc": "La interlocución fluida que mantuvo el expresidente del Gobierno José Luis Rodríguez Zapatero con la ministra de Hacienda, María Jesús Montero, en su despacho del ministerio, y la complicidad mostrada por su secretaria Gertrudis Alcázar con su departamento, tu",
+      "date": "Tue, 04 Aug 2026 01:48:43 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "zap"
+    },
+    {
+      "title": "Un bebé de 20 meses muere por un golpe de calor en Fuerteventura",
+      "link": "https://www.abc.es/espana/canarias/bebe-meses-muere-golpe-calor-fuerteventura-20260804014714-nt.html",
+      "desc": "Un bebé de 20 meses ha fallecido este fin de semana a causa de un golpe de calor en la isla de Fuerteventura, en aviso de nivel amarillo por altas temperaturas. Como ha adelantado 'Noticias Fuerteventura', los hechos ocurrieron este fin de semana, momento en e",
+      "date": "Tue, 04 Aug 2026 01:47:46 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Un apoyo jurídico y laboral a los afectados por los incendios: «Las llamas se llevaron todo el material»",
+      "link": "https://www.abc.es/espana/madrid/apoyo-juridico-laboral-afectados-incendios-llamas-llevaron-20260803014414-nt.html",
+      "desc": "Con todavía el incendio activo, los vecinos afectados por las llamas en la Sierra Oeste de Madrid están aterrizando en una realidad confusa, aunque más controlada. A los que aún amanecen en camas que no son las suyas, se han sumado los que han despertado un lu",
+      "date": "Tue, 04 Aug 2026 01:44:14 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "La cuenta atrás para Alexis, el entrenador de voley acusado de agredir sexualmente a cinco niñas",
+      "link": "https://www.abc.es/espana/madrid/cuenta-atras-alexis-entrenador-voley-acusado-violar-20260803014247-nt.html",
+      "desc": "Alexis J. F. L., venezolano de 54 años, fue contratado en 2023 como entrenador de voleibol en clases extraescolares de un colegio de Aluche, dentro del programa de escuelas municipales del Ayuntamiento de Madrid. Pronto, comenzó a supuestamente agredir sexualm",
+      "date": "Tue, 04 Aug 2026 01:42:47 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
     {
       "title": "San Cayetano inaugura el agosto más castizo de Madrid con música, zarzuela y tradición",
       "link": "https://www.abc.es/espana/madrid/san-cayetano-inaugura-agosto-castizo-madrid-musica-20260803005143-nt.html",
@@ -187,56 +237,6 @@
       "link": "https://www.lavanguardia.com/internacional/20260803/11607134/fiscalia-paris-investiga-suicidios-personal-primer-ministro.html",
       "desc": "Dos funcionarios se quitaron la vida y dos lo intentaron en un periodo de siete meses",
       "date": "03 Aug 2026 20:00:24 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "Tres eclipses en tres años: el fenómeno astronómico histórico que comenzará en Andalucía el 12 de agosto y las horas clave para verlo",
-      "link": "https://www.abc.es/espana/andalucia/tres-eclipses-tres-anos-fenomeno-astronomico-historico-20260803141539-nts.html",
-      "desc": "El cielo de Andalucía está a punto de convertirse en el mejor escenario del mundo. Rara vez la astronomía regala coincidencias de este calibre, pero los números no mienten: entre este mes de agosto de 2026 y el inicio de 2028, España vivirá una secuencia histó",
-      "date": "Mon, 03 Aug 2026 19:38:55 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Rescatan el cuerpo sin vida de un hombre de unos 60 años en el río de Araico (Burgos)",
-      "link": "https://www.abc.es/espana/castilla-leon/rescatan-cuerpo-vida-hombre-anos-rio-araico-20260803193837-nt.html",
-      "desc": "Los servicios de emergencias 1-1-2 de Castilla y León rescataban sin vida el cuerpo de hombre en la localidad burgalesa de Araico, en el término municipal de Condado de Treviño. La sala de operaciones del 1-1-2 Castilla y León recibe una llamada de la Guardia ",
-      "date": "Mon, 03 Aug 2026 19:38:38 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "El fin del uso del cáncer que la izquierda convirtió en causa general contra Moreno",
-      "link": "https://www.abc.es/espana/andalucia/fin-historia-izquierda-convirtio-causa-general-juanma-20260804192211-nts.html",
-      "desc": "El archivo por parte de las fiscalías provinciales de las últimas dos denuncias que quedaban sobre el error en el programa del cribado del cáncer de mama en el Servicio Andaluz de Salud s upone el final de una historia que sirvió para poner en una delicada sit",
-      "date": "Mon, 03 Aug 2026 19:22:11 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Moscú acusa a Kyiv de matar al menos a siete civiles en una playa del sur de Rusia",
-      "link": "https://www.lavanguardia.com/internacional/20260803/11607130/moscu-acusa-kyiv-matar-siete-civiles-playa-sur-rusia.html",
-      "desc": "Según las autoridades rusas, entre las víctimas mortales del dron ucraniano hay tres menores de edad",
-      "date": "03 Aug 2026 19:20:20 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "Ferran Torres: “Tengo contrato con el Barça, pero nunca se sabe”",
-      "link": "https://www.lavanguardia.com/deportes/fc-barcelona/20260803/11607124/ferran-torres-barca-futuro-fichajes.html",
-      "desc": "El delantero valenciano no acalló los rumores sobre su futuro",
-      "date": "03 Aug 2026 19:06:08 +0200",
       "source": "La Vanguardia",
       "color": "#8e44ad",
       "feedId": "LaVanguardia",
