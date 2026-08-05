@@ -1,7 +1,197 @@
 {
-  "updated": "2026-08-05T17:48:56Z",
+  "updated": "2026-08-05T19:22:43Z",
   "count": 24,
   "items": [
+    {
+      "title": "Operación de la Guardia Civil en marcha en Córdoba: detienen a tres personas e incautan 500 plantas de marihuana",
+      "link": "https://www.abc.es/espana/andalucia/cordoba/operacion-guardia-civil-marcha-cordoba-detienen-tres-20260805211307-nts.html",
+      "desc": "Golpe de la Guardia Civil en la capital al tráfico de drogas en la jornada de este miércoles. Según ha avanzado Diario Córdoba y ha podido confirmar este medio de fuentes de la Benemérita , este Cuerpo de Seguridad del Estado mantiene en marcha una operación q",
+      "date": "Wed, 05 Aug 2026 21:13:08 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Albacete destinará 6,8 millones hasta 2030 al mantenimiento de sus principales travesías",
+      "link": "https://www.abc.es/espana/castilla-la-mancha/albacete-destinara-millones-2030-mantenimiento-principales-travesias-20260805210921-nt.html",
+      "desc": "El Ayuntamiento de Albacete destinará 6,8 millones de euros a la conservación y mantenimiento de las principales travesías de la ciudad hasta el año 2030. El nuevo contrato, que será sometido este viernes a la Comisión Informativa de Hacienda y Contratación pa",
+      "date": "Wed, 05 Aug 2026 21:09:21 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "En estado grave una niña de dos años tras ahogarse en la piscina de un hotel en Magaluf",
+      "link": "https://www.abc.es/espana/baleares/estado-grave-nina-dos-anos-tras-ahogarse-20260805205309-nt.html",
+      "desc": "Una niña de dos años ha sido hospitalizada en estado grave tras ahogarse en la piscina de un hotel de Magaluf, en el municipio mallorquín de Calvià. Los hechos, según ha informado el SAMU 061, han ocurrido sobre las 18.10 horas de este miércoles en el Hotel Ba",
+      "date": "Wed, 05 Aug 2026 20:53:09 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Un hombre mata a su mujer en un centro comercial de Murcia y se da a la fuga",
+      "link": "https://www.abc.es/espana/murcia/hombre-mata-mujer-centro-comercial-murcia-fuga-20260805205156-nt.html",
+      "desc": "Un hombre ha asesinado presuntamente a su mujer en la tarde de este miércoles en un centro comercial de Murcia . El agresor apuñaló a su pareja con un cuchillo y logró huir del lugar, según informa La Verdad. El cadáver de la fallecida fue localizada por un tr",
+      "date": "Wed, 05 Aug 2026 20:51:57 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "La Exaltación de la Venida de la Virgen del Rocío de Carlos Herrera, en directo: síguelo en vivo desde el Santuario de Almonte",
+      "link": "https://www.abc.es/espana/andalucia/rocio/exaltacion-venida-virgen-rocio-carlos-herrera-directo-20260805181706-dis.html",
+      "desc": "ABC de Sevilla ofrece en directo la retransmisión de la Exaltación de la Venida de la Virgen del Rocío , un pregón de enorme calado devocional que este año corre a cargo del periodista Carlos Herrera . A través de la señal de 7TV , los lectores pueden seguir e",
+      "date": "Wed, 05 Aug 2026 20:35:25 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Desciende a nivel 1 el incendio de Burgohondo (Ávila) dos semanas después de su declaración",
+      "link": "https://www.abc.es/espana/castilla-leon/desciende-nivel-incendio-burgohondo-dos-semanas-despues-20260805202607-nt.html",
+      "desc": "Los avances conseguidos en las últimas horas por el operativo que trabaja en la e xtinción del fuego de Burgohondo (Ávila) permitían que en la tarde de este miércoles la Junta descendiera a nivel 1 su gravedad. Lo detallaba el delegado territorial de la Junta ",
+      "date": "Wed, 05 Aug 2026 20:26:46 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "El PP acusa al PSOE de llegar «tarde y mal» tras reclamar medidas contra la planta de amianto de Albacete",
+      "link": "https://www.abc.es/espana/castilla-la-mancha/pp-cusa-psoe-llegar-tarde-mal-tras-20260805201836-nt.html",
+      "desc": "El Grupo Municipal del PP en el Ayuntamiento de Albacete ha acusado este miércoles al PSOE de actuar «siempre tarde y mal» al reclamar medidas contra el proyecto de una planta de tratamiento de amianto, al considerar que el equipo de Gobierno municipal ya ha a",
+      "date": "Wed, 05 Aug 2026 20:18:37 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Montero pide a la Junta que «esté a la altura» con los menores marroquíes de Ceuta",
+      "link": "https://www.abc.es/espana/andalucia/montero-pide-junta-altura-menores-marroquies-ceuta-20260805201756-nts.html",
+      "desc": "La líder de los socialistas en Andalucía, María Jesús Montero, espera que el Gobierno andaluz « esté a la altura y cumpla con la ley atendiendo a los menores que los necesiten y cooperando con Ceuta». La secretaria general del PSOE-A apunta esto después de que",
+      "date": "Wed, 05 Aug 2026 20:17:57 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Fedea sitúa a Castilla-La Mancha como la tercera comunidad peor financiada de España en 2024",
+      "link": "https://www.abc.es/espana/castilla-la-mancha/fedea-situa-castillala-mancha-tercera-comunidad-peor-20260805201339-nt.html",
+      "desc": "Castilla-La Mancha recibió en 2024 un total de 629 millones de euros más que el año anterior a través del sistema de financiación autonómica. Sin embargo, ese incremento de recursos no ha servido para mejorar su posición relativa respecto al resto de comunidad",
+      "date": "Wed, 05 Aug 2026 20:13:39 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "La Junta evalúa los daños del incendio de La Mierla para diseñar las ayudas a agricultores y ganaderos",
+      "link": "https://www.abc.es/espana/castilla-la-mancha/junta-evalua-danos-incendio-mierla-disenar-ayudas-20260805200935-nt.html",
+      "desc": "El Gobierno de Castilla-La Mancha ha iniciado, junto a las organizaciones profesionales agrarias, la evaluación de los daños provocados por el incendio forestal de La Mierla, en la Sierra Norte de Guadalajara, con el objetivo de definir las ayudas que recibirá",
+      "date": "Wed, 05 Aug 2026 20:09:36 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "El Córdoba CF sondea sus opciones para cubrir el lateral izquierdo",
+      "link": "https://www.abc.es/espana/andalucia/cordoba/cordoba-cf/cordoba-sondea-opciones-cubrir-lateral-izquierdo-20260805200848-nts.html",
+      "desc": "El mercado de fichajes cerrará sus puertas el próximo 1 de septiembre. Hasta entonces, los clubes del fútbol español disponen de algo menos de un mes para completar sus plantillas y permanecer atentos a las oportunidades que puedan surgir una vez que comience ",
+      "date": "Wed, 05 Aug 2026 20:08:48 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "El Hospital Reina Sofía invierte más de 880.000 euros en obras de mejora durante el verano",
+      "link": "https://www.abc.es/espana/andalucia/cordoba/hospital-reina-sofia-invierte-880000-euros-obras-20260805200137-nts.html",
+      "desc": "El Hospital Universitario Reina Sofía está desarrollando durante los meses de verano un conjunto de obras de reforma y adecuación valoradas en 886.325 euros. El centro concentra buena parte de estas intervenciones en el periodo estival para minimizar las moles",
+      "date": "Wed, 05 Aug 2026 20:01:37 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Felipe VI recibirá en Marivent al presidente de Ceuta mientras sigue sin poder visitar la ciudad autónoma",
+      "link": "https://www.abc.es/espana/felipe-recibe-marivent-presidente-ceuta-sigue-poder-20260805200101-nt.html",
+      "desc": "Felipe VI recibirá mañana en el Palacio de Marivent al presidente de Ceuta, Juan Jesús Vivas, en un nuevo gesto de respaldo de la Corona a la ciudad autónoma tras la crisis desencadenada por la entrada masiva e ilegal de migrantes marroquíes a través del Taraj",
+      "date": "Wed, 05 Aug 2026 20:01:01 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "La falta de materiales demora el Plan Asfalto hasta septiembre",
+      "link": "https://www.abc.es/espana/andalucia/cordoba/falta-materiales-demora-plan-asfalto-septiembre-20260805200045-nts.html",
+      "desc": "El Ayuntamiento de Córdoba avanza en el plan de asfaltado previsto para este verano, que contempla más de una treintena de actuaciones en distintas calles de la ciudad. Aunque la previsión inicial era concluir los trabajos durante el mes de agosto, la falta de",
+      "date": "Wed, 05 Aug 2026 20:00:45 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "El Rey recibe a Vivas, presidente de Ceuta, este jueves en Marivent",
+      "link": "https://www.lavanguardia.com/politica/20260805/11608606/rey-recibe-vivas-presidente-ceuta-jueves-marivent.html",
+      "desc": "Felipe VI escenifica con la audiencia un gesto de acercamiento tras los sucesos del pasado 30 de julio en los que más de 70.000 personas, procedentes de Marruecos,&nbsp; entraron ilegalmente en territorio español",
+      "date": "05 Aug 2026 20:00:44 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
+    {
+      "title": "La Diputación de Córdoba reparte medio millón de euros entre las agrupaciones musicales y bandas de cornetas y tambores",
+      "link": "https://www.abc.es/espana/andalucia/cordoba/diputacion-cordoba-reparte-medio-millon-euros-agrupaciones-20260805200036-nts.html",
+      "desc": "El delegado de Cultura de la Diputación de Córdoba, Gabriel Duque, ha presentado hoy la resolución definitiva de la Convocatoria de ayudas económicas a las bandas de música, agrupaciones musicales y bandas de cornetas y tambores', «una línea de subvenciones do",
+      "date": "Wed, 05 Aug 2026 20:00:36 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "El Ayuntamiento de Toledo tala el olmo de San Agustín por riesgo de caída y plantará tres nuevos árboles",
+      "link": "https://www.abc.es/espana/castilla-la-mancha/toledo/ayuntamiento-toledo-tala-olmo-san-agustin-riesgo-20260805195855-nt.html",
+      "desc": "El Ayuntamiento de Toledo ha talado el olmo situado en la plaza de San Agustín tras detectar los servicios técnicos que el ejemplar suponía un riesgo para la seguridad de los viandantes. La actuación forma parte de los trabajos de revisión y conservación del a",
+      "date": "Wed, 05 Aug 2026 19:58:55 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Castilla y León iguala su peor registro de fallecidos en las carreteras en el mes de julio desde el año 2019",
+      "link": "https://www.abc.es/espana/castilla-leon/castilla-leon-iguala-peor-registro-fallecidos-carreteras-20260805194558-nt.html",
+      "desc": "Castilla y León igualó su peor registro de personas fallecidas en accidentes de tráfico en el mes de julio desde el año 2019. Entonces, las carreteras de la Comunidad se cobraron 18 víctimas en el séptimo mes del año, misma cifra que en 2022 y en el presente a",
+      "date": "Wed, 05 Aug 2026 19:45:59 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Ana Carvajal se desquita con un bronce junto a Jorge Rodríguez en saltos sincronizados",
+      "link": "https://www.lavanguardia.com/deportes/natacion/20260805/11608602/ana-carvajal-desquita-bronce-jorge-rodriguez-saltos-sincronizados.html",
+      "desc": "La pareja española, con una dificultad muy elevada, finaliza en tercera posición la final de los 10m plataforma tras no haber podido sumar en individual",
+      "date": "05 Aug 2026 19:42:49 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
     {
       "title": "Sumar pulsa al PSOE para que España no celebre con Marruecos el Mundial de 2030",
       "link": "https://www.abc.es/espana/sumar-pulsa-psoe-espana-organice-marruecos-mundial-20260805193752-nt.html",
@@ -33,26 +223,6 @@
       "caso": "other"
     },
     {
-      "title": "'Termo de Madrid': el portal ciudadano para reportar las temperaturas «infernales» en el Metro",
-      "link": "https://www.abc.es/espana/madrid/termo-madrid-portal-ciudadano-reportar-temperaturas-infernales-20260805185249-nt.html",
-      "desc": "El calor veraniego aprieta en Madrid al igual que está ocurriendo en la mayor parte del territorio español . Sin embargo, las altas temperaturas no solo se hacen notar al pasear por las calles de la capital, sino que también sofocan la red de Metro que, cada d",
-      "date": "Wed, 05 Aug 2026 18:52:50 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "La patronal de Talavera modernizará su sede con el apoyo de la Diputación",
-      "link": "https://www.abc.es/espana/castilla-la-mancha/toledo/talavera/patronal-talavera-modernizara-sede-apoyo-diputacion-20260805184955-nt.html",
-      "desc": "La Federación Talaverana de Empresarios (Fepemta) transformará su sede con el apoyo de la Diputación de Toledo para convertirla en un centro empresarial de referencia para Talavera de la Reina y su comarca. La actuación permitirá modernizar las instalaciones m",
-      "date": "Wed, 05 Aug 2026 18:49:56 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
       "title": "Infantino ofrece la final del Mundial del 2030 a Marruecos a cambio de apoyo, según 'The Times'",
       "link": "https://www.lavanguardia.com/deportes/futbol/20260805/11608569/infantino-ofrece-final-mundial-marruecos-apoyos-espana.html",
       "desc": "El presidente de la FIFA intenta persuadir a sus aliados para que emitan declaraciones de respaldo mientras aumenta la presión sobre él para que dimita",
@@ -63,180 +233,10 @@
       "caso": "other"
     },
     {
-      "title": "La Feria de Málaga presenta su programa cultural, que contará con casi 200 espectáculos de entrada gratuita",
-      "link": "https://www.abc.es/espana/andalucia/malaga/feria-malaga-contara-200-espectaculos-entrada-gratuita-20260805155055-nts.html",
-      "desc": "La Feria de Málaga 2026 contempla un programa que estará compuesto de cerca de 200 espectáculos musicales y artísticos. Como ya se ha producido en años anteriores, esta nueva edición contará con actuaciones de grandes figuras del panorama artístico nacional, a",
-      "date": "Wed, 05 Aug 2026 18:12:29 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "El PP pide habilitar el Senado en agosto y las comparecencias de Albares, Robles y Marlaska para «rendir cuentas» por la crisis en Ceuta",
-      "link": "https://www.abc.es/espana/pp-pide-habilitar-senado-agosto-comparecencias-albares-20260805180952-nt.html",
-      "desc": "La portavoz del PP en el Senado, Alicia García, ha solicitado que la Cámara Alta habilite el mes de agosto para celebrar varias comisiones parlamentarias con el fin de abordar la crisis migratoria registrada en Ceuta y exigir explicaciones al Gobierno por la e",
-      "date": "Wed, 05 Aug 2026 18:09:53 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Se investiga el hallazgo de un cadáver en Arinaga, Gran Canaria",
-      "link": "https://www.abc.es/espana/canarias/investiga-hallazgo-cadaver-arinaga-gran-canaria-20260805180225-nt.html",
-      "desc": "El cuerpo sin vida de un hombre ha aparecido en la mañana de este miércoles en la bahía de Arinaga, en el municipio de Agüimes (Gran Canaria). Como ha confirmado la Guardia Civil, se investiga la identidad y las causas de la muerte del hombre, del que por el m",
-      "date": "Wed, 05 Aug 2026 18:06:18 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Detenido un prófugo buscado en Francia por tráfico de armas, drogas y blanqueo en la frontera de Melilla",
-      "link": "https://www.abc.es/espana/detenido-profugo-buscado-francia-trafico-armas-drogas-20260805175727-nt.html",
-      "desc": "La Policía Nacional ha detenido en Melilla a un prófugo reclamado por Francia mediante una orden europea de detención y entrega en vigor desde septiembre de 2025, acusado de delitos de tráfico de armas y municiones, tráfico de estupefacientes, daños y blanqueo",
-      "date": "Wed, 05 Aug 2026 17:57:28 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Ya puedes comprobar si estará nublado en tu concello para el eclipse: MeteoGalicia lanza una web con la predicción",
-      "link": "https://www.abc.es/espana/galicia/puedes-comprobar-nublado-concello-eclipse-meteogalicia-lanza-20260805174616-nt.html",
-      "desc": "MeteoGalicia ha puesto en marcha este miércoles una sección específica en su portal web oficial para que los ciudadanos puedan consultar la predicción meteorológica detallada de cada concello de cara al eclipse solar del próximo 12 de agosto. Esta herramienta ",
-      "date": "Wed, 05 Aug 2026 17:47:12 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "La Vicepresidencia de Castilla y León utilizará «todos sus recursos» para oponerse al reparto de 'menas' de Ceuta",
-      "link": "https://www.abc.es/espana/castilla-leon/vicepresidencia-castilla-leon-utilizara-recursos-oponerse-reparto-20260805174546-nt.html",
-      "desc": "La Vicepresidencia y la Consejería de Desregulación, Familia y Ayudas Sociales, que dirige Carlos Pollán (Vox), han asegurado que va a utilizar «todas sus competencias y recursos jurídicos y políticos» para «oponerse frontalmente» a un nuevo reparto de menores",
-      "date": "Wed, 05 Aug 2026 17:45:46 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "El Valle concentrará el operativo de seguridad de Toledo para el eclipse solar",
-      "link": "https://www.abc.es/espana/castilla-la-mancha/toledo/valle-concentrara-operativo-seguridad-toledo-eclipse-solar-20260805174246-nt.html",
-      "desc": "Toledo ha comenzado a preparar el dispositivo especial de seguridad con motivo del eclipse solar del próximo miércoles 12 de agosto, un fenómeno astronómico que podría atraer a numerosos visitantes a la ciudad, especialmente a los miradores y espacios abiertos",
-      "date": "Wed, 05 Aug 2026 17:42:47 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Identifican al conductor de 25 años que huyó tras el accidente mortal de Vilagarcía",
-      "link": "https://www.abc.es/espana/galicia/un-do-20260805163310-nt.html",
-      "desc": "Las carreteras gallegas se han cobrado una nueva víctima mortal. Esta vez, la de un vecino de Vilagarcía de Arousa (Pontevedra), de 39 años, que murió después de un choque frontal contra otro vehículo, cuyo conductor se dio a la fuga tras el accidente sin soco",
-      "date": "Wed, 05 Aug 2026 17:24:19 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "«Galicia es uno de los mejores lugares del mundo para verlo»: así promociona Rueda el eclipse solar",
-      "link": "https://www.abc.es/espana/galicia/galicia-mejores-lugares-mundo-verlo-promociona-rueda-20260805172202-nt.html",
-      "desc": "El presidente de la Xunta de Galicia, Alfonso Rueda, ha publicado un vídeo promocional en su perfil de Instagram para posicionar a la comunidad autónoma como «uno de los mejores lugares» desde los que presenciar el eclipse solar del próximo 12 de agosto, un hi",
-      "date": "Wed, 05 Aug 2026 17:22:03 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Hallan el cadáver de un joven en el río Turia en Manises",
-      "link": "https://www.abc.es/espana/comunidad-valenciana/hallan-cadaver-joven-rio-turia-manises-20260805172049-nt.html",
-      "desc": "La Policía ha encontrado este miércoles el cuerpo sin vida de un hombre de 29 años en el río Turia a su paso por el municipio valenciano de Manises, según informa este cuerpo de seguridad. Agentes del Grupo Especial de Operaciones (GEO) de la Policía Nacional ",
-      "date": "Wed, 05 Aug 2026 17:20:50 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
       "title": "Ayuso se desentiende de la compra del ático de lujo: “No tengo ni idea, no es mi competencia, quien tiene todos los datos es el consejero de Presidencia”",
       "link": "https://www.lavanguardia.com/politica/20260805/11608520/ayuso-afirma-nunca-penso-vivir-atico-lujo-6-3-millones-euros.html",
       "desc": "La presidenta madrileña asegura que se está usando la controversia del piso de Chamberí “para hacer daño”",
       "date": "05 Aug 2026 17:03:13 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "Entrepinares invertirá más de 60 millones en la ampliación y modernización de su centro en Valladolid",
-      "link": "https://www.abc.es/espana/castilla-leon/entrepinares-invertira-millones-ampliacion-modernizacion-centro-valladolid-20260805170143-nt.html",
-      "desc": "Grupo Entrepinares, empresa familiar dedicada a la fabricación de quesos y derivados lácteos, anunciaba este miércoles un nuevo plan de inversión en su centro de Las Arenas, en Valladolid, con actuaciones que superan los 60 millones de euros y que «permitirán ",
-      "date": "Wed, 05 Aug 2026 17:01:44 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Madrid limita la caza en los cotos arrasados por el incendio para recuperar  especies",
-      "link": "https://www.abc.es/espana/madrid/madrid-limita-caza-cotos-arrasados-incendio-recuperar-20260805163558-nt.html",
-      "desc": "La Comunidad de Madrid ha aprobado este miércoles la limitación de la actividad cinegética en los 75 cotos que se estima se han visto afectados por el gran incendio forestal de la Sierra Oeste con el objetivo de favorecer la recuperación de las especies que se",
-      "date": "Wed, 05 Aug 2026 17:00:15 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "El bosque del Bierzo donde los niños disfrutan de «una inclusión pura»",
-      "link": "https://www.abc.es/espana/castilla-leon/verano-barreras-bierzo-120-ninos-cubillos-campamento-20260805161816-nt.html",
-      "desc": "Víctor Núñez comenzó a ir a 'El Bosque de los Sueños', el campamento que Aspaym gestiona en Cubillos del Sil, en la comarca leonesa del Bierzo, con apenas cinco años. Desde entonces, no ha faltado ninguna, primero como participante; después como voluntario y m",
-      "date": "Wed, 05 Aug 2026 16:49:28 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "El juez del caso Koldo prorroga otros seis meses la instrucción al haber diligencias pendientes de realizar",
-      "link": "https://www.abc.es/espana/juez-koldo-prorroga-seis-meses-instruccion-haber-20260805164455-nt.html",
-      "desc": "El juez de la Audiencia Nacional que investiga el caso Koldo , Ismael Moreno, ha acordado prorrogar otros seis meses, hasta el 8 de marzo de 2027, la instrucción de la causa «al encontrarse pendientes de realizar diversas diligencias de investigación ». Así lo",
-      "date": "Wed, 05 Aug 2026 16:44:56 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "gen"
-    },
-    {
-      "title": "Un hombre de 52 años que vivía en la calle se quema a lo bonzo en Órgiva",
-      "link": "https://www.abc.es/espana/andalucia/granada/hombre-anos-vivia-calle-quema-bonzo-orgiva-20260805163347-nts.html",
-      "desc": "Un hombre de 52 años y de nacionalidad finlandesa que vivía en la calle en la localidad granadina de Órgiva, en la comarca de la Alpujarra, ha muerto en la madrugada de este miércoles tras quemarse a lo bonzo en una bañera. Así lo ha señalado el alcalde de la ",
-      "date": "Wed, 05 Aug 2026 16:33:47 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "El socialista El Sayed vence al establishment demócrata en las primarias del Senado",
-      "link": "https://www.lavanguardia.com/internacional/20260805/11608117/socialista-sayed-vence-establishment-democrata-primarias-senado-michigan.html",
-      "desc": "Su victoria en el estado bisagra apunta un nuevo triunfo al sector progresista del partido, en ascenso a medida que se acercan las legislativas de mitad de mandato",
-      "date": "05 Aug 2026 16:02:40 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "La sincro española hace inmortal el 'Berghain' de Rosalía con la plata y seis dieces en lo artístico",
-      "link": "https://www.lavanguardia.com/deportes/natacion/20260805/11608483/sincro-espanola-inmortal-berghain-rosalia-plata-seis-dieces-artistico.html",
-      "desc": "El colofón a los Europeos de París fue una rutina espectacular que ya posee el récord de puntuación en la parte creativa y solo Rusia, que hace triplete, logró superar a las de Andrea Fuentes por apenas dos puntos",
-      "date": "05 Aug 2026 15:51:28 +0200",
       "source": "La Vanguardia",
       "color": "#8e44ad",
       "feedId": "LaVanguardia",
