@@ -1,7 +1,137 @@
 {
-  "updated": "2026-08-04T22:58:12Z",
+  "updated": "2026-08-05T02:01:28Z",
   "count": 24,
   "items": [
+    {
+      "title": "Jupol asegura que los primeros antidisturbios de refuerzo en Ceuta fueron para escoltar a Sánchez",
+      "link": "https://www.abc.es/espana/jupol-asegura-primeros-antidisturbios-llegados-ceuta-escoltar-20260804015910-nt.html",
+      "desc": "«Los primeros antidisturbios que fueron a Ceuta escoltaron a Sánchez» . De esta forma la asociación mayoritaria de la Policía Nacional JUPOL ha afirmado a ABC que los primeros agentes de la Unidad de Intervención de la Policía (UIP) que pisaron suelo ceutí no ",
+      "date": "Wed, 05 Aug 2026 01:59:10 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Temor entre las autonomías por un nuevo reparto de los menores de Ceuta: «No caben más»",
+      "link": "https://www.abc.es/espana/temor-autonomias-llegada-menores-entrado-nado-ceuta-20260731015854-nt.html",
+      "desc": "El asalto masivo a la ciudad autónoma de Ceuta tiene consecuencias más allá de este territorio. Si bien las autoridades locales cuantificaron en las primeras horas en alrededor de 130 el número de menores que lograron entrar a nado al territorio español, la ci",
+      "date": "Wed, 05 Aug 2026 01:58:54 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Menores en condiciones insalubres, al raso en el polígono de El Tarajal: «Morimos aquí antes que volver»",
+      "link": "https://www.abc.es/espana/menores-condiciones-insalubres-raso-poligono-tarajal-morimos-20260805015828-nt.html",
+      "desc": "Abre la palma de su mano y deja al descubierto sus cinco dedos. Son los años que tiene uno de los pequeños que pasa el rato jugando al fútbol en el polígono de El Tarajal . Cruzó la frontera a nado junto a su madre y, desde entonces, permanecen refugiados en e",
+      "date": "Wed, 05 Aug 2026 01:58:28 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Marlaska insiste en negar que el CNI le avisara y se jacta de su gestión en Ceuta",
+      "link": "https://www.abc.es/espana/marlaska-insiste-negar-cni-avisara-jacta-gestion-20260805015803-nt.html",
+      "desc": "El Ministerio del Interior continúa, veladamente, poniendo a la Inteligencia española en la diana al mantener que no hubo «informe, aviso ni comunicación» sobre «nada parecido» al aluvión de 72.000 entradas ilegales de magrebíes en Ceuta del pasado jueves 31 d",
+      "date": "Wed, 05 Aug 2026 01:58:03 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Marruecos paga millones por ganar la batalla de influencia contra España en Washington",
+      "link": "https://www.abc.es/espana/marruecos-paga-millones-ganar-batalla-influencia-espana-20260803015752-nt.html",
+      "desc": "La crisis migratoria en Ceuta se ha librado también a más de 6.000 kilómetros de la frontera, en los despachos del poder en Washington. Mientras decenas de miles de personas entraban desde Marruecos en territorio español, la Administración Trump evitó señalar ",
+      "date": "Wed, 05 Aug 2026 01:57:52 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Juanfran Serrano, la mano derecha de Cerdán a quien salvó Moncloa tras su participación en la cloaca del PSOE",
+      "link": "https://www.abc.es/espana/juanfran-serrano-mano-derecha-cerdan-salvo-moncloa-20260805015450-nt.html",
+      "desc": "Un mes antes de que aflorara el informe de la Unidad Central Operativa (UCO) de la Guardia Civil en junio de 2025, el entonces secretario de Organización del PSOE, Santos Cerdán , compareció en el patio del Congreso de los Diputados para negar su participación",
+      "date": "Wed, 05 Aug 2026 01:54:50 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "lei"
+    },
+    {
+      "title": "Zapatero se reunió con Montero, Bolaños y Serrano para encauzar la interlocución con Puigdemont",
+      "link": "https://www.abc.es/espana/zapatero-reunio-montero-bolanos-serrano-encauzar-interlocucion-20260805015425-nt.html",
+      "desc": "Los correos electrónicos a los que ha tenido acceso en exclusiva ABC entre Gertrudis Alcázar , secretaria personal del expresidente del Gobierno José Luis Zapatero y el personal del Ministerio de Hacienda, dan este miércoles un salto cualitativo. La interlocuc",
+      "date": "Wed, 05 Aug 2026 01:54:25 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "zap"
+    },
+    {
+      "title": "El proyecto de Puigdemont se desmorona tras el éxodo de una veintena de fieles que confiaron en él después del 1-O",
+      "link": "https://www.abc.es/espana/cataluna/proyecto-puigdemont-descompone-tras-exodo-veintena-fieles-20260805015405-nt.html",
+      "desc": "Carles Puigdemont se fue de España en 2017 y transformó el espacio heredado de CiU en un partido personalista en el que cada movimiento se circunscribe a sus necesidades. Cs ganó las elecciones autonómicas de aquel año y Salvador Illa las de 2021 y 2024. Ahora",
+      "date": "Wed, 05 Aug 2026 01:54:05 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Oleada de atracos a conductores de VTC por la mafia del hotel okupa de San Blas",
+      "link": "https://www.abc.es/espana/madrid/oleada-atracos-conductores-vtc-mafia-hotel-okupa-20260804015229-nt.html",
+      "desc": "El conocido como hotel okupa de Rejas , en la calle de Lola Flores, 3-5 (San Blas-Canillejas), sigue copando titulares. Según ha podido saber ABC, la Policía Nacional acaba de culminar una investigación de seis meses que ha terminado con una oleada de atracos ",
+      "date": "Wed, 05 Aug 2026 01:52:29 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Silvia Superstar: «La música de los 40 años de los Veranos de la Villa da para un fiestón»",
+      "link": "https://www.abc.es/espana/madrid/silvia-superstar-20260804014138-nt.html",
+      "desc": "Personaje emblemático de la escena punk-rock nacional tras su paso por Aerolíneas Federales y su incombustible liderazgo en The Killer Barbies , Silvia Superstar siempre está activa de una forma u otra, ya sea organizando fiestas en Ibiza, dando conciertos con",
+      "date": "Wed, 05 Aug 2026 01:41:38 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "230.000 madrileños verán los avisos sobre pensiones y bono social térmico en su cuenta digital",
+      "link": "https://www.abc.es/espana/madrid/230000-madrilenos-veran-avisos-sobre-pensiones-bono-20260804014122-nt.html",
+      "desc": "La Comunidad de Madrid da otro paso más hacia la digitalización y la incorporación de la inteligencia artificial en los servicios públicos y los trámites administrativos. El objetivo es claro: eliminar burocracia en las relaciones del madrileño con la administ",
+      "date": "Wed, 05 Aug 2026 01:41:22 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "La chispa que ha dejado en la calle a 55 familias en Chamberí: «Me ha acogido una compañera de trabajo, no tenía donde ir»",
+      "link": "https://www.abc.es/espana/madrid/vuelta-expres-vecinos-edificio-chamberi-cogemos-indispensable-20260804014109-nt.html",
+      "desc": "En maletas pequeñas, carritos de la compra, bolsas de licra o de plástico y mochilas de gimnasio, los vecinos del edificio incendiado en Chamberí han metido todo lo necesario para los días o, en algunos casos, semanas que estarán fuera de sus hogares. «Por sue",
+      "date": "Wed, 05 Aug 2026 01:41:09 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "DJ Pedro Sánchez",
+      "link": "https://www.lavanguardia.com/opinion/20260805/11607616/dj-pedro-sanchez.html",
+      "desc": "La presencia en las redes de personajes públicos también tiene sus riesgos",
+      "date": "05 Aug 2026 00:30:00 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
     {
       "title": "La UE rebaja la tensión, pero Italia propone que Bruselas lidere la relación con Marruecos",
       "link": "https://www.lavanguardia.com/politica/20260805/11607889/ue-rebaja-tension-italia-propone-bruselas-lidere-relacion-marruecos.html",
@@ -107,136 +237,6 @@
       "link": "https://www.abc.es/espana/castilla-la-mancha/controlado-incendio-forestal-retuerta-bullaque-tras-poco-20260804212510-nt.html",
       "desc": "El incendio forestal declarado este martes en el término municipal de Retuerta del Bullaque (Ciudad Real) ha quedado controlado a las siete y media de la tarde, poco más de tres horas después de que se detectaran las primeras llamas. El fuego fue avistado a la",
       "date": "Tue, 04 Aug 2026 21:25:10 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Sonorama se acerca a los 30 años más ecléctico y manteniendo su esencia de «reunión familiar»",
-      "link": "https://www.abc.es/espana/castilla-leon/sonorama-acerca-anos-eclectico-esencia-familia-20260804205056-nt.html",
-      "desc": "29 ediciones del Sonorama Ribera ya son. No todos los festivales patrios pueden presumir de haberlos cumplido. De hecho, algunos que en su día marcaron el camino han desaparecido (Festimad, Doctor Music...) y eso engrandece aún más los que perduran. Es el caso",
-      "date": "Tue, 04 Aug 2026 20:50:56 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "María Jesús Botella, exdelegada de Salud, nueva coordinadora en Córdoba del Instituto Andaluz de la Mujer",
-      "link": "https://www.abc.es/espana/andalucia/cordoba/maria-jesus-botella-exdelegada-salud-nueva-coordinadora-20260804205036-nts.html",
-      "desc": "María Jesús Botella , política popular con una extensa trayectoria en Córdoba, seguirá finalmente en la primera línea de la gestión pública en el nuevo organigrama de la Junta. A finales del pasado mes -tras las autonómicas-, se conoció que no continuaría como",
-      "date": "Tue, 04 Aug 2026 20:50:37 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Una pelea entre varios internos en el  Zambrana deja dos vigilantes de seguridad heridos",
-      "link": "https://www.abc.es/espana/castilla-leon/pelea-varios-internos-zambrana-deja-dos-vigilantes-20260804204311-nt.html",
-      "desc": "Una pelea entre varios internos del centro de menores Zambrana de Valladolid, ocurrida en la tarde de ayer, lunes, durante la cena y que se saldó con dos vigilantes de seguridad heridos vuelve a poner de manifiesto el clima de tensión que, según denuncian fuen",
-      "date": "Tue, 04 Aug 2026 20:43:38 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "La Junta vincula la subida del paro en julio con la regularización de extranjeros",
-      "link": "https://www.abc.es/espana/castilla-leon/junta-vincula-subida-paro-julio-regularizacion-extranjeros-20260804203213-nt.html",
-      "desc": "Mes en el que finalizan muchos contratos temporales en educación asociados al curso académico, julio no suele ser un buen mes desde el punto de vista laboral para este sector, que ve cómo su cifras del paro aumentan. Este 2026 no ha sido diferente, y el conjun",
-      "date": "Tue, 04 Aug 2026 20:32:13 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Muere un joven de Barcelona arrollado por un taxi cerca del aeropuerto de Menorca",
-      "link": "https://www.lavanguardia.com/local/baleares/20260804/11607903/muere-joven-barcelona-arrollado-taxi-cerca-aeropuerto-menorca.html",
-      "desc": "El accidente se ha producido a escasos metros de la terminal, donde la víctima se encontraba tumbada sobre la calzada por razones que aún se investigan",
-      "date": "04 Aug 2026 20:27:55 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "El campo se manifestará ante la Junta el 27 de agosto para exigir «un apoyo similar al del Ministerio» ante sus pérdidas",
-      "link": "https://www.abc.es/espana/castilla-leon/campo-manifestara-ante-junta-agosto-exigir-apoyo-20260804202537-nt.html",
-      "desc": "Las cuatro organizaciones profesionales agrarias representativas del sector en Castilla y León se manifestarán el jueves 27 de agosto frente a la sede de Presidencia de la Junta para reclamar al Ejecutivo autonómico «un apoyo económico similar» al que ha puest",
-      "date": "Tue, 04 Aug 2026 20:25:38 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "El alcalde de Dúrcal deja el cargo para ser profesor de Matemáticas",
-      "link": "https://www.abc.es/espana/andalucia/granada/alcalde-durcal-deja-cargo-profesor-matematicas-20260804201950-nts.html",
-      "desc": "El caso del alcalde de la localidad granadina de Dúrcal no es algo frecuente. Sobre todo porque deja la Alcaldía para ser profesor de Matemáticas. El alcalde de la localidad granadina de Dúrcal, Julio Prieto (PSOE), ha anunciado este martes su renuncia a la Al",
-      "date": "Tue, 04 Aug 2026 20:21:33 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Localizado el cayuco desaparecido en El Hierro, con 133 inmigrantes a bordo, entre ellos seis menores",
-      "link": "https://www.abc.es/espana/canarias/localizado-cayuco-desaparecido-hierro-133-inmigrantes-bordo-20260804201941-nt.html",
-      "desc": "Salvamento Marítimo ha localizado el cayuco que se encontraba desaparecido en aguas de El Hierro, después de que el pasado domingo el avistamiento notificado por un buque militar portugués a unas 195 millas de la isla activase las alarmas. La embarcación irreg",
-      "date": "Tue, 04 Aug 2026 20:19:41 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "gen"
-    },
-    {
-      "title": "Dragisa Gudelj, tres años después de sufrir una muerte súbita: «Aquí nací por segunda vez; mi corazón siempre será blanco y verde»",
-      "link": "https://www.abc.es/espana/andalucia/cordoba/cordoba-cf/dragisa-gudelj-dos-anos-despues-retirada-futbol-20260804200358-nts.html",
-      "desc": "Hay instantes capaces de cambiar una vida para siempre. Dragisa Gudelj lo comprobó el 25 de marzo de 2023, cuando sufrió una muerte súbita durante un partido del Córdoba CF en El Arcángel ante el Racing de Ferrol. La rápida reacción de quienes se encontraban j",
-      "date": "Tue, 04 Aug 2026 20:03:58 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "El precio de darse un chapuzón todos los días en Córdoba: un piso con piscina cuesta el doble que uno sin ella",
-      "link": "https://www.abc.es/espana/andalucia/cordoba/tener-piscina-dispara-precio-vivienda-cordoba-cuesta-20260804200106-nts.html",
-      "desc": "La piscina ha pasado de ser un símbolo de lujo residencial a un atributo que el mercado inmobiliario valora y cotiza con creciente rigor, sobre todo en Córdoba. Un análisis del portal inmobiliario pisos.com sobre las 50 provincias españolas revela que el sobre",
-      "date": "Tue, 04 Aug 2026 20:01:06 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "«El atletismo me salvó, pero también estuvo a punto de destruirme»",
-      "link": "https://www.abc.es/espana/galicia/atletismo-salvo-punto-destruirme-20260702200000-nt.html",
-      "desc": "Olímpica en Atlanta 96, plusmarquista nacional de 5.000 metros en ruta y siete veces campeona de España de campo a través. Julia Vaquero saboreó la gloria que solo saborean aquellos que logran ser los mejores en lo suyo. Nacida en Francia, detrás de aquellos é",
-      "date": "Tue, 04 Aug 2026 20:00:00 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Junts no dará “ni un voto” si no se deja a Catalunya “fuera” del traslado de menores llegados a Ceuta",
-      "link": "https://www.lavanguardia.com/politica/20260804/11607895/junts-advierte-dara-voto-deja-catalunya-fuera-traslado-menores-llegados-ceuta.html",
-      "desc": "La portavoz de Junts en el Congreso, Miriam Nogueras, afirma que “algunos” les tacharán de “racistas” por decisiones como esta",
-      "date": "04 Aug 2026 19:49:54 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "Dos muertos y una decena de desaparecidos tras naufragar una patera frente a Cabrera",
-      "link": "https://www.abc.es/espana/baleares/dos-muertos-decena-desaparecidos-tras-naufragar-patera-20260804194819-nt.html",
-      "desc": "Nueva tragedia en la ruta migratoria hacia Baleares. Dos migrantes han fallecido y alrededor de una decena permanecen desaparecidos después de que una patera naufragara al sureste de la isla de Cabrera . Salvamento Marítimo y la Guardia Civil han logrado resca",
-      "date": "Tue, 04 Aug 2026 19:48:19 +0200",
       "source": "ABC",
       "color": "#c0392b",
       "feedId": "ABC",
