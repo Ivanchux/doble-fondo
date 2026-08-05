@@ -1,7 +1,47 @@
 {
-  "updated": "2026-08-05T19:22:43Z",
+  "updated": "2026-08-05T21:02:47Z",
   "count": 24,
   "items": [
+    {
+      "title": "Alejandro Royo-Villanova Payá, memoria del gran periodismo",
+      "link": "https://www.abc.es/espana/alejandro-royovillanova-paya-memoria-gran-periodismo-20260805223432-nt.html",
+      "desc": "Media historia de la Transición española. Y algo más del periodismo. Del gran periodismo que vivió desde 1970, cuando fue nombrado presidente del consejo de Administración de 'El Norte de Castilla' , prácticamente hasta hoy. Nada menos que 52 años al frente de",
+      "date": "Wed, 05 Aug 2026 22:34:48 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Carlos Herrera exalta la Venida de la Virgen del Rocío a Almonte: «¡a la Gloria, almonteños!»",
+      "link": "https://www.abc.es/espana/andalucia/rocio/carlos-herrera-exalta-venida-virgen-rocio-almonte-20260805222650-nts.html",
+      "desc": "«Quién te volverá a ti a ver, cuando pasen siete años». Con estos sencillos versos los Romeros de la Puebla supieron condensar las emociones y sentimientos de todos los rocieros cada vez que la Virgen viste de Pastora. La espera ya ha terminado, esos siete año",
+      "date": "Wed, 05 Aug 2026 22:31:23 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Granada da el último adiós a Pepe Habichuela",
+      "link": "https://www.abc.es/espana/andalucia/granada/granada-ultimo-adios-pepe-habichuela-20260805212652-nts.html",
+      "desc": "Granada, tierra natal de Pepe Habichuela , le ha dado su último adiós este miércoles en la Teatro Musical Isabel la Católica. El Consistorio instaló la capilla ardiente del guitarrista en este centro cultural con horario de apertura desde las 18.00 a las 22.00",
+      "date": "Wed, 05 Aug 2026 21:28:51 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Endurecen las medidas frente a una enfermedad de Newcastle que sigue en expansión",
+      "link": "https://www.abc.es/espana/castilla-leon/endurecen-medidas-frente-enfermedad-newcastle-sigue-expansion-20260805212757-nt.html",
+      "desc": "Camino de dos meses después de que se detectase el primer foco de la enfermedad de Newcastle en Castilla y León -en concreto, en una granja de pollos en la localidad vallisoletana de Aldea de San Miguel- ya son 27 los notificados y confirmados por las autorida",
+      "date": "Wed, 05 Aug 2026 21:27:57 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
     {
       "title": "Operación de la Guardia Civil en marcha en Córdoba: detienen a tres personas e incautan 500 plantas de marihuana",
       "link": "https://www.abc.es/espana/andalucia/cordoba/operacion-guardia-civil-marcha-cordoba-detienen-tres-20260805211307-nts.html",
@@ -20,6 +60,16 @@
       "source": "ABC",
       "color": "#c0392b",
       "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Una mujer muere acuchillada a manos de su pareja en Murcia",
+      "link": "https://www.lavanguardia.com/vida/20260805/11608627/mujer-muere-acuchillada-manos-presuntamente-pareja-murcia.html",
+      "desc": "La víctima,&nbsp; de 44 años, fue hallada degollada en el taller de zapatería de las galerías del centro comercial Carrefour Infante",
+      "date": "05 Aug 2026 20:53:59 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
       "caso": "other"
     },
     {
@@ -63,9 +113,9 @@
       "caso": "other"
     },
     {
-      "title": "El PP acusa al PSOE de llegar «tarde y mal» tras reclamar medidas contra la planta de amianto de Albacete",
+      "title": "Albacete actuará «con determinación, firmeza y contundencia» contra el proyecto de depósito de amianto",
       "link": "https://www.abc.es/espana/castilla-la-mancha/pp-cusa-psoe-llegar-tarde-mal-tras-20260805201836-nt.html",
-      "desc": "El Grupo Municipal del PP en el Ayuntamiento de Albacete ha acusado este miércoles al PSOE de actuar «siempre tarde y mal» al reclamar medidas contra el proyecto de una planta de tratamiento de amianto, al considerar que el equipo de Gobierno municipal ya ha a",
+      "desc": "El Ayuntamiento de Albacete presentará alegaciones para impedir la instalación del proyecto de depósito seguro de residuos con amianto promovido por la mercantil Soluciones Técnicas de Amianto en el paraje de 'La Castra'. El alcalde, Manuel Serrano, ha asegura",
       "date": "Wed, 05 Aug 2026 20:18:37 +0200",
       "source": "ABC",
       "color": "#c0392b",
@@ -163,26 +213,6 @@
       "caso": "other"
     },
     {
-      "title": "El Ayuntamiento de Toledo tala el olmo de San Agustín por riesgo de caída y plantará tres nuevos árboles",
-      "link": "https://www.abc.es/espana/castilla-la-mancha/toledo/ayuntamiento-toledo-tala-olmo-san-agustin-riesgo-20260805195855-nt.html",
-      "desc": "El Ayuntamiento de Toledo ha talado el olmo situado en la plaza de San Agustín tras detectar los servicios técnicos que el ejemplar suponía un riesgo para la seguridad de los viandantes. La actuación forma parte de los trabajos de revisión y conservación del a",
-      "date": "Wed, 05 Aug 2026 19:58:55 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Castilla y León iguala su peor registro de fallecidos en las carreteras en el mes de julio desde el año 2019",
-      "link": "https://www.abc.es/espana/castilla-leon/castilla-leon-iguala-peor-registro-fallecidos-carreteras-20260805194558-nt.html",
-      "desc": "Castilla y León igualó su peor registro de personas fallecidas en accidentes de tráfico en el mes de julio desde el año 2019. Entonces, las carreteras de la Comunidad se cobraron 18 víctimas en el séptimo mes del año, misma cifra que en 2022 y en el presente a",
-      "date": "Wed, 05 Aug 2026 19:45:59 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
       "title": "Ana Carvajal se desquita con un bronce junto a Jorge Rodríguez en saltos sincronizados",
       "link": "https://www.lavanguardia.com/deportes/natacion/20260805/11608602/ana-carvajal-desquita-bronce-jorge-rodriguez-saltos-sincronizados.html",
       "desc": "La pareja española, con una dificultad muy elevada, finaliza en tercera posición la final de los 10m plataforma tras no haber podido sumar en individual",
@@ -193,33 +223,13 @@
       "caso": "other"
     },
     {
-      "title": "Sumar pulsa al PSOE para que España no celebre con Marruecos el Mundial de 2030",
-      "link": "https://www.abc.es/espana/sumar-pulsa-psoe-espana-organice-marruecos-mundial-20260805193752-nt.html",
-      "desc": "Izquierda Unida (IU) sigue dando la batalla dentro de un Gobierno en el que el PSOE ha cerrado filas con Marruecos por la avalancha migratoria de Ceuta. Tras exigir a Pedro Sánchez un giro en la relación de apaciguamiento con el país vecino, llamar a consultas",
-      "date": "Wed, 05 Aug 2026 19:37:52 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Dos de los tres acusados por la muerte de los 21 marineros del Pitanxo, ante el juez",
-      "link": "https://www.abc.es/espana/galicia/dos-tres-acusados-muerte-marineros-pitanxo-ante-20260805185610-nt.html",
-      "desc": "Dos de los tres acusados por la muerte de 21 marineros en aguas de Terranova en febrero de 2022 se presentaron este miércoles, y tras un segundo llamamiento por parte del instructor Ismael Moreno , en la Audiencia Nacional. Se trata de José Antonio Nores Orteg",
-      "date": "Wed, 05 Aug 2026 18:59:59 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "gen"
-    },
-    {
-      "title": "Dos muertos al chocar contra una furgoneta de conservación de carreteras en Lugo",
-      "link": "https://www.abc.es/espana/galicia/dos-muertos-chocar-furgoneta-conservacion-carreteras-lugo-20260805185632-nt.html",
-      "desc": "Dos personas han perdido la vida este miércoles tras chocar el vehículo en el que circulaban contra una furgoneta de conservación de carreteras en la autovía A-6, a su paso por Lugo. Según fuentes consultadas por Europa Press, el siniestro se produjo poco ante",
-      "date": "Wed, 05 Aug 2026 18:56:33 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
+      "title": "La compraventa de pisos encadena ya dos trimestres de descensos",
+      "link": "https://www.lavanguardia.com/economia/20260805/11608583/compraventa-pisos-encadena-dos-trimestres-descensos.html",
+      "desc": "La adquisición por parte de extranjeros alcanza un máximo histórico con el 16%",
+      "date": "05 Aug 2026 18:49:33 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
       "caso": "other"
     },
     {
@@ -227,16 +237,6 @@
       "link": "https://www.lavanguardia.com/deportes/futbol/20260805/11608569/infantino-ofrece-final-mundial-marruecos-apoyos-espana.html",
       "desc": "El presidente de la FIFA intenta persuadir a sus aliados para que emitan declaraciones de respaldo mientras aumenta la presión sobre él para que dimita",
       "date": "05 Aug 2026 18:24:47 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "Ayuso se desentiende de la compra del ático de lujo: “No tengo ni idea, no es mi competencia, quien tiene todos los datos es el consejero de Presidencia”",
-      "link": "https://www.lavanguardia.com/politica/20260805/11608520/ayuso-afirma-nunca-penso-vivir-atico-lujo-6-3-millones-euros.html",
-      "desc": "La presidenta madrileña asegura que se está usando la controversia del piso de Chamberí “para hacer daño”",
-      "date": "05 Aug 2026 17:03:13 +0200",
       "source": "La Vanguardia",
       "color": "#8e44ad",
       "feedId": "LaVanguardia",
