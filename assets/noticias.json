@@ -1,7 +1,197 @@
 {
-  "updated": "2026-08-06T02:05:25Z",
+  "updated": "2026-08-06T06:25:33Z",
   "count": 24,
   "items": [
+    {
+      "title": "Detenido el hombre que mató a su expareja en un centro comercial de Murcia tras darse a la fuga durante horas",
+      "link": "https://www.abc.es/espana/murcia/detenido-hombre-mato-expareja-centro-comercial-murcia-20260806072421-nt.html",
+      "desc": "La Guardia Civil ha detenido pasada la media noche de este jueves al hombre que presuntamente asesinó a su expareja en un centro comercial de Murcia , según ha adelantado 'Cadena Ser'. El agresor apuñaló a su pareja con un cuchillo y logró huir del lugar, hora",
+      "date": "Thu, 06 Aug 2026 07:24:22 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "La llegada masiva de madrileños y vascos hace subir los precios",
+      "link": "https://www.abc.es/espana/andalucia/llegada-masiva-madrilenos-vascos-subir-precios-20260806070957-nts.html",
+      "desc": "Cuando se pregunta a los hosteleros por la paradoja de que Andalucía sea uno de los principales destinos turísticos de España y, al mismo tiempo, un elevado número de andaluces no pueda permitirse pasar unos días de vacaciones en su propia comunidad, las expli",
+      "date": "Thu, 06 Aug 2026 07:09:57 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "La Junta pide por carta al ministro Óscar Puente que tome medidas urgentes para acabar con el colapso en la AP-4",
+      "link": "https://www.abc.es/espana/andalucia/junta-pide-carta-ministro-oscar-puente-tome-20260806065701-nts.html",
+      "desc": "Los veinte kilómetros de retenciones del pasado viernes, con motivo de la operación salida en agosto, han sido la gota que ha colmado el vaso. La AP-4, la otrora autopista que une que Sevilla y Cádiz, sufre un severo problema de colapso durante muchas horas y ",
+      "date": "Thu, 06 Aug 2026 06:57:01 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "El turismo bate récords en Andalucía mientras casi la mitad de sus habitantes no se va de vacaciones",
+      "link": "https://www.abc.es/espana/andalucia/turismo-bate-records-andalucia-cerca-mitad-habitantes-20260806065619-nts.html",
+      "desc": "El turismo vive una edad de oro en Andalucía. Los hoteles rozan el lleno, las playas vuelven a recibir millones de visitantes y el sector encadena año tras año cifras históricas de crecimiento. Cada vez llegan más turistas, cada vez gastan más dinero y la comu",
+      "date": "Thu, 06 Aug 2026 06:56:19 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "El sector de la vivienda pide un pacto al Govern tras el fiasco de la última ley",
+      "link": "https://www.lavanguardia.com/economia/20260806/11608587/sector-vivienda-pide-pacto-govern-fiasco-ley-restringir-compra.html",
+      "desc": "Foment, API y propietarios reclaman aparcar la norma pactada entre el Ejecutivo catalán y los comunes",
+      "date": "06 Aug 2026 06:00:00 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
+    {
+      "title": "Dejen de hacer chapuzas con la vivienda",
+      "link": "https://www.lavanguardia.com/opinion/20260806/11608560/dejen-chapuzas-vivienda.html",
+      "desc": "",
+      "date": "06 Aug 2026 06:00:00 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
+    {
+      "title": "Cortarse la pierna para adelgazar",
+      "link": "https://www.lavanguardia.com/politica/20260806/11608549/cortarse-pierna-adelgazar.html",
+      "desc": "",
+      "date": "06 Aug 2026 06:00:00 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
+    {
+      "title": "Vivienda y excesos normativos",
+      "link": "https://www.lavanguardia.com/economia/20260806/11608598/vivienda-excesos-normativos.html",
+      "desc": "",
+      "date": "06 Aug 2026 06:00:00 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
+    {
+      "title": "El trasiego de drogadictos aterra a los vecinos de una finca de la calle Muntaner de Barcelona",
+      "link": "https://www.lavanguardia.com/local/barcelona/20260806/11608618/trasiego-drogadictos-aterra-vecinos-finca-calle-muntaner-barcelona.html",
+      "desc": "Un propietario con problemas dejó su piso en manos de unas personas muy conflictivas, y luego falleció",
+      "date": "06 Aug 2026 06:00:00 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
+    {
+      "title": "La Guardia Civil deberá averiguar si el CNI alertó de la entrada masiva en Ceuta",
+      "link": "https://www.lavanguardia.com/politica/20260806/11608595/guardia-civil-debera-averiguar-cni-alerto-entrada-masiva-ceuta.html",
+      "desc": "La jueza indaga en la responsabilidad de la muerte de casi un centenar de personas",
+      "date": "06 Aug 2026 06:00:00 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
+    {
+      "title": "Marruecos también pierde en Ceuta",
+      "link": "https://www.lavanguardia.com/politica/20260806/11608620/marruecos-pierde-ceuta.html",
+      "desc": "",
+      "date": "06 Aug 2026 06:00:00 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
+    {
+      "title": "Ceuta, la meca electoral de Vox",
+      "link": "https://www.lavanguardia.com/politica/20260806/11608600/ceuta-meca-electoral-vox.html",
+      "desc": "Abascal obtiene en la ciudad autónoma y en Murcia sus mejores resultados porcentuales",
+      "date": "06 Aug 2026 06:00:00 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
+    {
+      "title": "La crisis de Ceuta convierte a España en un eje de la política italiana",
+      "link": "https://www.lavanguardia.com/internacional/20260806/11608574/crisis-ceuta-convierte-espana-eje-politica-italiana.html",
+      "desc": "Los controles tras la suspensión de Schengen generan las primeras protestas, mientras Sánchez releva a Macron como principal antagonista de Meloni",
+      "date": "06 Aug 2026 06:00:00 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
+    {
+      "title": "Museos gratis, pero ¿para quién?",
+      "link": "https://www.lavanguardia.com/cultura/20260806/11608592/museos-gratis.html",
+      "desc": "Barcelona se suma poco a poco a la política de franjas gratuitas, como en Madrid",
+      "date": "06 Aug 2026 06:00:00 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
+    {
+      "title": "Andy Burnham tiene un pequeño problema: no podrá nombrar obispos",
+      "link": "https://www.lavanguardia.com/internacional/20260806/11608605/andy-burnham-pequeno-problema-podra-nombrar-obispos.html",
+      "desc": "El primer ministro británico es católico no practicante, pero las enseñanzas de la Iglesia tiñen su filosofía política",
+      "date": "06 Aug 2026 06:00:00 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
+    {
+      "title": "'El Niño' amenaza con condenar a 49 millones de personas más a una hambruna aguda",
+      "link": "https://www.lavanguardia.com/natural/20260806/11608461/nino-amenaza-condenar-49-millones-personas-mas-hambruna-aguda.html",
+      "desc": "La ONU revela que el fenómeno meteorológico intenso empeorará gravemente las condiciones en 45&nbsp; países vulnerables a finales del 2027, alcanzando a 274 millones de personas&nbsp;",
+      "date": "06 Aug 2026 06:00:00 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
+    {
+      "title": "El PLATER o la elección entre prosperar o empobrecernos",
+      "link": "https://www.lavanguardia.com/vida/20260806/11608490/plater-eleccion-prosperar-empobrecernos.html",
+      "desc": "",
+      "date": "06 Aug 2026 06:00:00 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
+    {
+      "title": "Circuit Festival 2026: cartel, horario de las actuaciones y cómo llegar al festival",
+      "link": "https://www.abc.es/espana/cataluna/circuit-festival-2026-cartel-horario-actuaciones-llegar-20260806132742-nt.html",
+      "desc": "Esta época del año es en la que abundan planes como ir a la playa o a la piscina , tomar algo en una terraza o dar un paseo en bici cuando el sol ya no calienta tanto. Pero el verano también es tiempo de festivales . Disfrutar de escuchar música en directo, ve",
+      "date": "Thu, 06 Aug 2026 05:30:08 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Eclipse en Valencia: el pueblo de las estrellas preparado para multiplicarse por quince",
+      "link": "https://www.abc.es/espana/comunidad-valenciana/eclipse-valencia-aras-olmos-pueblo-estrellas-perseidas-20260806050447-nt.html",
+      "desc": "Un minuto y quince segundos. Es el tiempo que durará en Aras de los Olmos la fase total del primer eclipse visible desde la Península Ibérica en más de un siglo. Pero hasta llegar a las 20:31:47 horas del 12 de agosto, este pequeño municipio del interior de la",
+      "date": "Thu, 06 Aug 2026 05:30:03 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
     {
       "title": "Ceuta pide recursos para evitar que se cuelen adultos entre los menores",
       "link": "https://www.abc.es/espana/ceuta-inicia-traslado-menores-peninsula-pide-recursos-20260806014848-nt.html",
@@ -50,196 +240,6 @@
       "source": "ABC",
       "color": "#c0392b",
       "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "El limbo de las 14 familias realojadas tras los incendios: «Perdimos el trabajo y la casa, ¿qué será de mis hijos ahora?»",
-      "link": "https://www.abc.es/espana/madrid/limbo-familias-realojadas-tras-incendios-perdimos-trabajo-20260805014132-nt.html",
-      "desc": "A Esperanza los ojos le comienzan a vidriar al evocar el devastador incendio que asoló su hogar y calcinó un total de 26.860 hectáreas en la Sierra Oeste de la Comunidad de Madrid el pasado 24 de julio. La tarde de aquel viernes, se encontraba junto a su marid",
-      "date": "Thu, 06 Aug 2026 01:41:32 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "El Govern de Illa se gasta 211.000 euros en cuatro reuniones de trabajo fuera de Barcelona",
-      "link": "https://www.abc.es/espana/cataluna/govern-illa-gasta-211000-euros-cuatro-reuniones-20260806013830-nt.html",
-      "desc": "El Govern de Salvador Illa ha gastado 211.757,32 euros en cuatro reuniones de trabajo celebradas fuera de su sede habitual en los dos primeros años de su mandato. A los encuentros asistieron, en total, 121 personas. De estas, 78 fueron miembros del Govern y al",
-      "date": "Thu, 06 Aug 2026 01:38:30 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Sira Rego también se descuelga del nuevo Sumar y no volverá a ser ministrable",
-      "link": "https://www.abc.es/espana/sira-rego-descuelga-nuevo-sumar-volvera-ministrable-20260806013823-nt.html",
-      "desc": "La izquierda alternativa, es decir, la izquierda a la izquierda del PSOE —o cualquiera que sea el eufemismo que los partidos del actual Sumar empleen en su intento de evitar etiquetas tradicionales como «izquierda radical» que evoquen al desgaste de siglas pas",
-      "date": "Thu, 06 Aug 2026 01:38:23 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Una de las víctimas de la Bestia de Glasgow: «Me encerró en mi casa y me pateó todo el cuerpo»",
-      "link": "https://www.abc.es/espana/madrid/victimas-bestia-glasgow-encerro-casa-pateo-boca-20260805013815-nt.html",
-      "desc": "La historia de John G. R., de apenas 37 años, es la de un presunto maltratador y violador en serie, amén de un homicida convicto que se fugó en 2022 de Glasgow (Escocia) cuando los juzgados comenzaron a pedirle cuentas. Sus víctimas predilectas son sus propias",
-      "date": "Thu, 06 Aug 2026 01:38:15 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "El auge del tardeo supone ya un 25% de los ingresos de los locales de ocio de Madrid",
-      "link": "https://www.abc.es/espana/madrid/fenomeno-tardeo-supone-cuarta-parte-ingresos-locales-20260805012824-nt.html",
-      "desc": "Madrid ya no se divierte solo de noche, desde hace más de cinco años lo hace también por las tardes. Entre la sobremesa y la cena se ha abierto un nuevo espacio para el ocio que, lejos de ser una moda pasajera tras la pandemia del Covid, ha conseguido consolid",
-      "date": "Thu, 06 Aug 2026 01:28:24 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Ayuso busca una oficina para «reuniones y ocho puestos de trabajo»",
-      "link": "https://www.abc.es/espana/madrid/comunidad-madrid-busca-oficina-reuniones-ocho-puestos-20260805012753-nt.html",
-      "desc": "El Gobierno regional de Isabel Díaz Ayuso no acaba de poder zanjar la polémica sobre el ático de Chamberí que compró la empresa pública Planifica Madrid en abril, y que la Comunidad puso a la venta de manera repentina la semana pasada cuando se hizo pública la",
-      "date": "Thu, 06 Aug 2026 01:27:53 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Alejandro Royo-Villanova Payá, memoria del gran periodismo",
-      "link": "https://www.abc.es/espana/alejandro-royovillanova-paya-memoria-gran-periodismo-20260805223432-nt.html",
-      "desc": "Media historia de la Transición española. Y algo más del periodismo. Del gran periodismo que vivió desde 1970, cuando fue nombrado presidente del consejo de Administración de 'El Norte de Castilla' , prácticamente hasta hoy. Nada menos que 52 años al frente de",
-      "date": "Wed, 05 Aug 2026 22:34:48 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Carlos Herrera exalta la Venida de la Virgen del Rocío a Almonte: «¡a la Gloria, almonteños!»",
-      "link": "https://www.abc.es/espana/andalucia/rocio/carlos-herrera-exalta-venida-virgen-rocio-almonte-20260805222650-nts.html",
-      "desc": "«Quién te volverá a ti a ver, cuando pasen siete años». Con estos sencillos versos los Romeros de la Puebla supieron condensar las emociones y sentimientos de todos los rocieros cada vez que la Virgen viste de Pastora. La espera ya ha terminado, esos siete año",
-      "date": "Wed, 05 Aug 2026 22:31:23 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Granada da el último adiós a Pepe Habichuela",
-      "link": "https://www.abc.es/espana/andalucia/granada/granada-ultimo-adios-pepe-habichuela-20260805212652-nts.html",
-      "desc": "Granada, tierra natal de Pepe Habichuela , le ha dado su último adiós este miércoles en la Teatro Musical Isabel la Católica. El Consistorio instaló la capilla ardiente del guitarrista en este centro cultural con horario de apertura desde las 18.00 a las 22.00",
-      "date": "Wed, 05 Aug 2026 21:28:51 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Endurecen las medidas frente a una enfermedad de Newcastle que sigue en expansión",
-      "link": "https://www.abc.es/espana/castilla-leon/endurecen-medidas-frente-enfermedad-newcastle-sigue-expansion-20260805212757-nt.html",
-      "desc": "Camino de dos meses después de que se detectase el primer foco de la enfermedad de Newcastle en Castilla y León -en concreto, en una granja de pollos en la localidad vallisoletana de Aldea de San Miguel- ya son 27 los notificados y confirmados por las autorida",
-      "date": "Wed, 05 Aug 2026 21:27:57 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Operación de la Guardia Civil en marcha en Córdoba: detienen a tres personas e incautan 500 plantas de marihuana",
-      "link": "https://www.abc.es/espana/andalucia/cordoba/operacion-guardia-civil-marcha-cordoba-detienen-tres-20260805211307-nts.html",
-      "desc": "Golpe de la Guardia Civil en la capital al tráfico de drogas en la jornada de este miércoles. Según ha avanzado Diario Córdoba y ha podido confirmar este medio de fuentes de la Benemérita , este Cuerpo de Seguridad del Estado mantiene en marcha una operación q",
-      "date": "Wed, 05 Aug 2026 21:13:08 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Albacete destinará 6,8 millones hasta 2030 al mantenimiento de sus principales travesías",
-      "link": "https://www.abc.es/espana/castilla-la-mancha/albacete-destinara-millones-2030-mantenimiento-principales-travesias-20260805210921-nt.html",
-      "desc": "El Ayuntamiento de Albacete destinará 6,8 millones de euros a la conservación y mantenimiento de las principales travesías de la ciudad hasta el año 2030. El nuevo contrato, que será sometido este viernes a la Comisión Informativa de Hacienda y Contratación pa",
-      "date": "Wed, 05 Aug 2026 21:09:21 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Una mujer muere acuchillada a manos de su pareja en Murcia",
-      "link": "https://www.lavanguardia.com/vida/20260805/11608627/mujer-muere-acuchillada-manos-presuntamente-pareja-murcia.html",
-      "desc": "La víctima,&nbsp; de 44 años, fue hallada degollada en el taller de zapatería de las galerías del centro comercial Carrefour Infante",
-      "date": "05 Aug 2026 20:53:59 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "En estado grave una niña de dos años tras ahogarse en la piscina de un hotel en Magaluf",
-      "link": "https://www.abc.es/espana/baleares/estado-grave-nina-dos-anos-tras-ahogarse-20260805205309-nt.html",
-      "desc": "Una niña de dos años ha sido hospitalizada en estado grave tras ahogarse en la piscina de un hotel de Magaluf, en el municipio mallorquín de Calvià. Los hechos, según ha informado el SAMU 061, han ocurrido sobre las 18.10 horas de este miércoles en el Hotel Ba",
-      "date": "Wed, 05 Aug 2026 20:53:09 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Un hombre mata a su mujer en un centro comercial de Murcia y se da a la fuga",
-      "link": "https://www.abc.es/espana/murcia/hombre-mata-mujer-centro-comercial-murcia-fuga-20260805205156-nt.html",
-      "desc": "Un hombre ha asesinado presuntamente a su mujer en la tarde de este miércoles en un centro comercial de Murcia . El agresor apuñaló a su pareja con un cuchillo y logró huir del lugar, según informa La Verdad. El cadáver de la fallecida fue localizada por un tr",
-      "date": "Wed, 05 Aug 2026 20:51:57 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "El Rey recibe a Vivas, presidente de Ceuta, este jueves en Marivent",
-      "link": "https://www.lavanguardia.com/politica/20260805/11608606/rey-recibe-vivas-presidente-ceuta-jueves-marivent.html",
-      "desc": "Felipe VI escenifica con la audiencia un gesto de acercamiento tras los sucesos del pasado 30 de julio en los que más de 70.000 personas, procedentes de Marruecos,&nbsp; entraron ilegalmente en territorio español",
-      "date": "05 Aug 2026 20:00:44 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "Ana Carvajal se desquita con un bronce junto a Jorge Rodríguez en saltos sincronizados",
-      "link": "https://www.lavanguardia.com/deportes/natacion/20260805/11608602/ana-carvajal-desquita-bronce-jorge-rodriguez-saltos-sincronizados.html",
-      "desc": "La pareja española, con una dificultad muy elevada, finaliza en tercera posición la final de los 10m plataforma tras no haber podido sumar en individual",
-      "date": "05 Aug 2026 19:42:49 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "La compraventa de pisos encadena ya dos trimestres de descensos",
-      "link": "https://www.lavanguardia.com/economia/20260805/11608583/compraventa-pisos-encadena-dos-trimestres-descensos.html",
-      "desc": "La adquisición por parte de extranjeros alcanza un máximo histórico con el 16%",
-      "date": "05 Aug 2026 18:49:33 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "Infantino ofrece la final del Mundial del 2030 a Marruecos a cambio de apoyo, según 'The Times'",
-      "link": "https://www.lavanguardia.com/deportes/futbol/20260805/11608569/infantino-ofrece-final-mundial-marruecos-apoyos-espana.html",
-      "desc": "El presidente de la FIFA intenta persuadir a sus aliados para que emitan declaraciones de respaldo mientras aumenta la presión sobre él para que dimita",
-      "date": "05 Aug 2026 18:24:47 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
       "caso": "other"
     }
   ]
