@@ -1,7 +1,37 @@
 {
-  "updated": "2026-08-07T20:34:59Z",
+  "updated": "2026-08-07T22:29:19Z",
   "count": 24,
   "items": [
+    {
+      "title": "La cronología del ajedrez político en cada crisis migratoria España-Marruecos",
+      "link": "https://www.abc.es/espana/cronologia-ajedrez-politico-crisis-migratoria-espanamarruecos-20260808000501-ntrc.html",
+      "desc": "Las relaciones entre países vecinos suelen ser complejas, y España y Marruecos no son excepción. Ambos en una paradoja constante: la necesidad de cooperar en ámbitos estratégicos y la sucesión de crisis diplomáticas que ponen a prueba sus lazos. El punto de pa",
+      "date": "Sat, 08 Aug 2026 00:05:01 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Detenido en Paraguay por doble asesinato el condenado por orquestar el secuestro del pequeño Kevin en Barcelona en 2012",
+      "link": "https://www.abc.es/espana/cataluna/detenido-paraguay-doble-asesinato-condenado-orquestar-secuestro-20260807225420-nt.html",
+      "desc": "Fernando Barrionuevo, que fue condenado por orquestar el secuestro de Kevin , un niño de 11 años en Barcelona en 2012, ha sido detenido en Paraguay, junto a su hijo, acusado de asesinar a dos hombres, con los que se habían citado para cerrar una supuesta venta",
+      "date": "Fri, 07 Aug 2026 22:54:20 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Andalucía solicita la incorporación de la UME en el incendio de Niebla",
+      "link": "https://www.abc.es/espana/andalucia/huelva/fuego-provoca-desalojos-corte-dos-correteras-niebla-20260807223024-nts.html",
+      "desc": "Las previsiones meteorológicas en el incendio de Niebla están complicando al extinción del fuego, especialmente con el cambio de dirección del viento, el ensanche de la cabeza y la extensión del incendio. Por eso, la dirección del operativo aconseja reforzar l",
+      "date": "Fri, 07 Aug 2026 22:30:24 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
     {
       "title": "Encuentran a Miranda, la menor secuestrada por sus padres biológicos en Oviedo el pasado mes de abril",
       "link": "https://www.abc.es/espana/asturias/encuentran-miranda-menor-secuestrada-padres-biologicos-oviedo-20260807221750-nt.html",
@@ -20,6 +50,16 @@
       "source": "ABC",
       "color": "#c0392b",
       "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Trump insiste en echar a Lisa Cook de la Fed pese a que el Supremo bloqueó el primer intento",
+      "link": "https://www.lavanguardia.com/economia/20260807/11610036/trump-insiste-echar-lisa-cook-fed-pese-supremo-bloqueo-primer-intento.html",
+      "desc": "Hace un año que el presidente decretó el despido inmediato por un supuesto fraude hipotecario, que los jueces paralizaron por no respetar el proceso y el máximo órgano judicial así lo confirmó el pasado junio&nbsp;",
+      "date": "07 Aug 2026 21:32:56 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
       "caso": "other"
     },
     {
@@ -43,7 +83,7 @@
       "caso": "other"
     },
     {
-      "title": "El Gobierno restablece los controles fronterizos a los viajeros de Italia",
+      "title": "España suspende Schengen con Italia tras rechazar Meloni el ultimátum de Sánchez",
       "link": "https://www.lavanguardia.com/politica/20260807/11610034/espana-restablece-controles-fronterizos-viajeros-procedentes-italia.html",
       "desc": "El Ministerio del Interior establecerá desde la medianoche de este sábado controles en puertos y aeropuertos para los desplazamientos desde Italia por su “persistente presión migratoria”",
       "date": "07 Aug 2026 21:14:23 +0200",
@@ -197,46 +237,6 @@
       "link": "https://www.abc.es/espana/galicia/melendi-ofrecera-proximo-noviembre-tercer-concierto-coruna-20260807192423-nt.html",
       "desc": "Melendi hará tres conciertos consecutivos en el Coliseum de La Coruña, después del éxito en 2023 en el mismo recinto con tres fechas en las que se agotaron todas las entradas. Según informa el consistorio, el éxito de ventas registrado para los conciertos ha o",
       "date": "Fri, 07 Aug 2026 19:24:23 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Velázquez conmemora en Toledo (Ohio) el 95 aniversario del primer hermanamiento del mundo",
-      "link": "https://www.abc.es/espana/castilla-la-mancha/toledo/velazquez-busca-toledo-ohio-nuevas-oportunidades-inversion-20260807192148-nt.html",
-      "desc": "La visita institucional de Carlos Velázquez a Toledo (Ohio) con motivo del 94 aniversario del primer hermanamiento de dos ciudades del mundo ha arrancado con el objetivo de estrechar la colaboración entre ambas ciudades y explorar nuevas oportunidades de inver",
-      "date": "Fri, 07 Aug 2026 19:21:48 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Adif instala sensores en Trinitat Vella para controlar las vibraciones de las obras",
-      "link": "https://www.lavanguardia.com/local/barcelona/20260807/11609977/adif-sensores-trinitat-vella-control-vibraciones-obras-vallbona.html",
-      "desc": "La máquina compactadora que hizo temblar las viviendas de la calle Pérez del Pulgar volverá a trabajar la semana que viene con un método distinto para mitigar el impacto en el entorno",
-      "date": "07 Aug 2026 19:10:32 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "Xunta, patronal y UGT sellan la hoja de ruta para reducir las bajas laborales",
-      "link": "https://www.abc.es/espana/galicia/xunta-patronal-ugt-sellan-hoja-ruta-reducir-20260807190908-nt.html",
-      "desc": "Avances en la estrategia del Gobierno gallego para controlar las bajas laborales, con una duración en Galicia que dobla la media estatal y ante la que el presidente Alfonso Rueda anunció medidas para reforzar las inspecciones . La novedad es que la Xunta firmó",
-      "date": "Fri, 07 Aug 2026 19:09:08 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Muere un joven al caer al mar cuando intentaba entrar en Ceuta en parapente desde Marruecos",
-      "link": "https://www.abc.es/espana/muere-joven-caer-mar-intentaba-entrar-ceuta-20260807185901-nt.html",
-      "desc": "Un joven de origen subsahariano ha fallecido este viernes tras precipitarse al mar cuando intentaba acceder a Ceuta desde Marruecos utilizando un parapente en las inmediaciones del espigón de Benzú, según han informado fuentes de la Guardia Civil. El suceso se",
-      "date": "Fri, 07 Aug 2026 18:59:01 +0200",
       "source": "ABC",
       "color": "#c0392b",
       "feedId": "ABC",
