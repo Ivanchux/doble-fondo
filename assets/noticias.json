@@ -1,7 +1,37 @@
 {
-  "updated": "2026-08-07T05:36:04Z",
+  "updated": "2026-08-07T07:06:49Z",
   "count": 24,
   "items": [
+    {
+      "title": "El incendio de una vivienda abandonada en Foz (Lugo) se cobra la vida de un hombre y su perro",
+      "link": "https://www.abc.es/espana/galicia/incendio-vivienda-abandonada-foz-lugo-cobra-vida-20260807084308-nt.html",
+      "desc": "Una tragedia ha sacudido esta pasada noche al municipio lucense de Foz. Un hombre, que vivía en la indigencia, y su perro han fallecido calcinados tras declararse un virulento incendio en la casa abandonada en la que se cobijaban, situada en la céntrica Avenid",
+      "date": "Fri, 07 Aug 2026 08:43:08 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "No te pierdas en la Feria de Almería: el mediodía vuelve al Paseo y la noche estrena una nueva portada",
+      "link": "https://www.abc.es/espana/andalucia/almeria/pierdas-feria-almeria-mediodia-vuelve-paseo-noche-20260807075346-nts.html",
+      "desc": "La Feria y Fiestas de Almería en honor a la Virgen del Mar volverá a llenar la ciudad de ambiente del 21 al 29 de agosto con una edición que recupera el protagonismo del Paseo de Almería durante el día y estrena una nueva portada monumental para las celebracio",
+      "date": "Fri, 07 Aug 2026 07:53:46 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Al menos siete muertos y 15 heridos en un tiroteo en una escuela en Tailandia",
+      "link": "https://www.lavanguardia.com/sucesos/20260807/11609495/seis-muertos-15-heridos-tiroteo-escuela-tailandia.html",
+      "desc": "Un estudiante habría tiroteado a alumnos y profesores del centro antes de dispararse a sí mismo",
+      "date": "07 Aug 2026 07:29:43 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
     {
       "title": "El restaurante favorito de Ilia Topuria en España: está situado en la isla más pequeña y ofrece vistas directas al mar",
       "link": "https://www.abc.es/espana/comunidad-valenciana/restaurante-favorito-ilia-topuria-espana-isla-pequena-vistas-20260807071500-nt.html",
@@ -53,6 +83,126 @@
       "caso": "other"
     },
     {
+      "title": "La ambición de Iris Tió no tiene freno: “Me gusta ver las medallas, pero lo que me motiva es el oro”",
+      "link": "https://www.lavanguardia.com/deportes/natacion/20260807/11609287/ambicion-iris-tio-freno-me-gusta-ver-medallas-me-motiva-oro.html",
+      "desc": "La nadadora repasa con 'La Vanguardia' un campeonato de ensueño y advierte un futuro en el que pelearán con Rusia y China por ese primer puesto mundial",
+      "date": "07 Aug 2026 06:30:17 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
+    {
+      "title": "Carrera para identificar a los menores sin techo: ¿Adónde irán tras cruzar la frontera en Ceuta?",
+      "link": "https://www.lavanguardia.com/politica/20260807/11609266/menores-nombre-techo-adonde-iran.html",
+      "desc": "Las autoridades y oenegés trabajan sobre el terreno para identificar a los no acompañados y las cifras difieren mucho",
+      "date": "07 Aug 2026 06:00:00 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
+    {
+      "title": "¿Qué hacemos con los menores de Ceuta?",
+      "link": "https://www.lavanguardia.com/opinion/20260807/11609298/que-menores-ceuta.html",
+      "desc": "",
+      "date": "07 Aug 2026 06:00:00 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
+    {
+      "title": "Alerta médica ante el riesgo de lesiones oculares irreversibles por mirar el eclipse sin protección",
+      "link": "https://www.lavanguardia.com/vida/20260807/11609199/alerta-medica-riesgo-lesiones-oculares-irreversibles-mirar-eclipse-proteccion.html",
+      "desc": "Las afectaciones empiezan a aparecer en la retina a las 24 o 48 horas de la exposición",
+      "date": "07 Aug 2026 06:00:00 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
+    {
+      "title": "La Joya de la Corona del eclipse",
+      "link": "https://www.lavanguardia.com/ciencia/20260807/11597444/joya-corona-eclipse.html",
+      "desc": "La región más externa del Sol, la misteriosa corona solar, será visible durante los instantes de la totalidad",
+      "date": "07 Aug 2026 06:00:00 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
+    {
+      "title": "Moscú manipula la carrera al Elíseo",
+      "link": "https://www.lavanguardia.com/internacional/20260807/11609081/moscu-manipula-carrera-eliseo.html",
+      "desc": "Alerta en Francia por las 'fake news' difamadoras contra varios aspirantes a la presidencia",
+      "date": "07 Aug 2026 06:00:00 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
+    {
+      "title": "Trump podrá intervenir militarmente en dieciocho países latinoamericanos",
+      "link": "https://www.lavanguardia.com/internacional/20260807/11609280/trump-podra-intervenir-militarmente-dieciocho-paises-latinoamericanos.html",
+      "desc": "Alianza de Estados Unidos con un grupo de naciones del hemisferio contra los cárteles",
+      "date": "07 Aug 2026 06:00:00 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
+    {
+      "title": "La tragedia de Biescas cumple 30 años: “Los culpables no fueron castigados”",
+      "link": "https://www.lavanguardia.com/vida/20260807/11609190/tragedia-biescas-cumple-30-anos-culpables-habia-nombres-apellidos-castigados.html",
+      "desc": "Relatos de quienes vivieron la riada que arrasó el camping Las Nieves, mató a 87 personas e hirió a otras 183 el 7 de agosto de 1996",
+      "date": "07 Aug 2026 06:00:00 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
+    {
+      "title": "Así fueron los dos meses más críticos por el error de Catalunya en PISA",
+      "link": "https://www.lavanguardia.com/vida/20260807/11609242/asi-dos-meses-mas-criticos-error-catalunya-pisa.html",
+      "desc": "La OCDE deliberó con sus órganos técnicos si el país cumplía con los estándares internacionales antes de tomar una decisión final&nbsp;",
+      "date": "07 Aug 2026 06:00:00 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
+    {
+      "title": "Vecinos de Muntaner piden al Consistorio que desaloje el piso tomado por toxicómanos",
+      "link": "https://www.lavanguardia.com/local/barcelona/20260807/11609292/vecinos-muntaner-piden-consistorio-desaloje-piso-tomado-toxicomanos.html",
+      "desc": "Los administradores de fincas exigen más potestades para que las comunidades puedan denunciar estas situaciones",
+      "date": "07 Aug 2026 06:00:00 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
+    {
+      "title": "Películas familiares para vivir intrépidas aventuras en las salas de cine este agosto",
+      "link": "https://www.lavanguardia.com/cultura/20260807/11607571/peliculas-familiares-vivir-intrepidas-aventuras-salas-cine-agosto.html",
+      "desc": "Las nuevas entregas de ‘Tadeo Jones’ y ‘La patrulla canina’ asaltan la gran pantalla al lado del reestreno de 'Harry Potter y la piedra filosofal' por su 25 aniversario",
+      "date": "07 Aug 2026 06:00:00 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
+    {
+      "title": "'El amor que permanece' (★★★★✩), escenas de vida familiar y otros estrenos de la semana",
+      "link": "https://www.lavanguardia.com/cultura/20260807/11608959/amor-permanece-escenas-vida-familiar-otros-estrenos-semana.html",
+      "desc": "Los críticos de 'La Vanguardia' también analizan 'El síndrome Rembrandt', 'La ventana abierta', 'En mar abierto' y 'El último mono'",
+      "date": "07 Aug 2026 06:00:00 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
+    {
       "title": "La ayuda prometida por el Gobierno tendrá que esperar a que los ministros regresen de vacaciones",
       "link": "https://www.abc.es/espana/ayuda-prometida-gobierno-llegara-minimo-dentro-mes-20260807010706-nt.html",
       "desc": "Aunque los ministros anunciaron a bombo y platillo una ayuda de 25 millones de euros para atender a los menores no acompañados que han llegado a Ceuta en la última semana, las autoridades locales tendrán que esperar como mínimo un mes para ver materializada es",
@@ -90,156 +240,6 @@
       "source": "ABC",
       "color": "#c0392b",
       "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Antonio José: «Ver cómo las llamas arrasaban con todo ha sido un choque muy duro»",
-      "link": "https://www.abc.es/espana/madrid/antonio-jose-solo-pueblo-salva-pueblo-20260806010146-nt.html",
-      "desc": "Poco antes de que las llamas empezaran a devorarlo todo, el Ayuntamiento de San Martín de Valdeiglesias presentó el ciclo 'Sentir San Martín' , una programación estival para poner en valor el municipio y su entorno natural a través de la cultura, el deporte y ",
-      "date": "Fri, 07 Aug 2026 01:01:46 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "El PP de Ayuso cierra filas con Judith Piquet mientras el PSOE exige su dimisión",
-      "link": "https://www.abc.es/espana/madrid/pp-ayuso-cierra-filas-judith-piquet-psoe-20260806010141-nt.html",
-      "desc": "Al Partido Popular de Madrid se le acumulan los frentes políticos abiertos , en la recta final de la legislatura. El auto de procesamiento de la alcaldesa de Alcalá de Henares, Judith Piquet, por un presunto caso de filtración de denuncias, no ha conseguido po",
-      "date": "Fri, 07 Aug 2026 01:01:41 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Madrid estrecha el cerco a la venta ambulante en Metro: la línea 6 y Sol lideran las intervenciones",
-      "link": "https://www.abc.es/espana/madrid/madrid-estrecha-cerco-venta-ambulante-metro-linea-20260727010134-nt.html",
-      "desc": "No hay viajero de Metro que no reconozca la imagen del mantero como parte natural del paisaje del suburbano. Desde el momento en que uno toma la escalera mecánica hasta el torno para pasar la tarjeta, mientras recorre los andenes o, incluso, una vez dentro del",
-      "date": "Fri, 07 Aug 2026 01:01:34 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "El Córdoba CF muestra su versión más eficaz y se lleva el Trofeo del Olivo ante el Real Jaén (1-2)",
-      "link": "https://www.abc.es/espana/andalucia/cordoba/cordoba-cf/cordoba-muestra-imagen-eficaz-lleva-trofeo-olivo-20260806220117-nts.html",
-      "desc": "El Córdoba CF conquistó su tercer Trofeo del Olivo en una noche de contrastes en estadio de la La Victoria (1-2). Con un equipo condicionado por las rotaciones y una amplia presencia del filial, los blanquiverdes se apoyaron en la figura de Víctor Sánchez que ",
-      "date": "Thu, 06 Aug 2026 22:04:31 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Los afectados por el incendio del Puerto Calatraveño acuerdan una indemnización cercana a los cuatro millones de euros",
-      "link": "https://www.abc.es/espana/andalucia/cordoba/afectados-incendio-puerto-calatraveno-acuerdan-indemnizacion-cercana-20260806210934-nts.html",
-      "desc": "La Plataforma de Afectados por el incendio forestal del Puerto Calatraveño, que en agosto de 2021 arrasó 513,42 hectáreas y dañó las propiedades de medio centenar de afectados en el término municipal cordobés de Alcaracejos, en el norte de la provincia, ha inf",
-      "date": "Thu, 06 Aug 2026 21:09:35 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Córdoba afronta un fin de semana con  alerta naranja por calor intenso",
-      "link": "https://www.abc.es/espana/andalucia/cordoba/cordoba-afronta-fin-semana-alerta-naranja-calor-20260806210930-nts.html",
-      "desc": "El primer fin de semana de agosto llega a Córdoba marcado por la alerta naranja por altas temperaturas. Tras el inicio de mes con una ligera tregua térmica, el episodio de calor vuelve a intensificarse y este viernes y sábado se activa el aviso naranja, con la",
-      "date": "Thu, 06 Aug 2026 21:09:30 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Fea, incómoda y poco práctica. Sobre la remodelación de la plaza Mayor",
-      "link": "https://www.abc.es/espana/castilla-la-mancha/toledo/fea-incomoda-poco-practica-sobre-remodelacion-plaza-20260806210547-nt.html",
-      "desc": "Conviene recordarlo una vez más y todas las veces que sea necesario: la política no pertenece a los políticos. Ni por supuesto las instituciones. Tanto la política como las instituciones constituyen el patrimonio democrático de los ciudadanos, que eligen perió",
-      "date": "Thu, 06 Aug 2026 21:07:15 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Marruecos, dispuesto a acoger a sus menores no acompañados si España elimina los obstáculos jurídicos y administrativos",
-      "link": "https://www.abc.es/espana/marruecos-dispuesto-acoger-menores-acompanados-espana-elimina-20260806205848-nt.html",
-      "desc": "Marruecos está dispuesto a acoger aquellos menores de edad no acompañados nacidos en el país norteafricano que se encuentran en España, según adelanta EFE. Una reacción que llega poco después de que más de 70.000 personas , entre ellos incluidos miles de menor",
-      "date": "Thu, 06 Aug 2026 20:58:48 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Rodri, vaya golpe de efecto",
-      "link": "https://www.lavanguardia.com/deportes/fc-barcelona/20260806/11609299/rodri-golpe-efecto.html",
-      "desc": "",
-      "date": "06 Aug 2026 20:39:02 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "Chuminadas de verano",
-      "link": "https://www.abc.es/espana/castilla-la-mancha/toledo/chuminadas-verano-20260806202627-nt.html",
-      "desc": "No cabe duda de que el calor hace mella en las personas: en su conducta, en sus actos, en su modo de proceder. En fin, ya no va siendo raro el que una persona diga y piense hoy que algo es negro y mañana o pasado diga lo contrario, que es blanco. Creo que a es",
-      "date": "Thu, 06 Aug 2026 20:26:27 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "El culebrón Vinícius concluye con final feliz para el Real Madrid: renovado hasta 2032",
-      "link": "https://www.lavanguardia.com/deportes/real-madrid/20260806/11609291/culebron-vinicius-concluye-final-feliz-real-madrid-renovado-2032.html",
-      "desc": "El brasileño, después de la reunión que se celebró este miércoles en Valdebebas, seguirá en la entidad blanca, que hizo un esfuerzo para acercarse a lo que pedía el extremo",
-      "date": "06 Aug 2026 20:16:32 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "Un conductor borracho y drogado agrede a los agentes tras darle el alto en un pueblo de Palencia",
-      "link": "https://www.abc.es/espana/castilla-leon/conductor-borracho-drogado-agrede-agentes-tras-darle-20260806201525-nt.html",
-      "desc": "Positivo en alcohol, y también, en drogas. Todo al volante y no eran las únicas presuntas infracciones cometidas por un conductor al que la Guardia Civil daba el alto en Herrera de Pisuerga. La conducción de forma temeraria con la que pilotaba el vehículo por ",
-      "date": "Thu, 06 Aug 2026 20:15:25 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "El PP de Olías reclama a la alcaldesa que les entregue el Plan de Igualdad del Ayuntamiento",
-      "link": "https://www.abc.es/espana/castilla-la-mancha/toledo/pueblos/pp-olias-reclama-alcaldesa-entregue-plan-igualdad-20260806201136-nt.html",
-      "desc": "El Partido Popular de Olías del Rey ha acusado al Gobierno municipal de falta de transparencia por no facilitar a su grupo municipal el Plan de Igualdad del Ayuntamiento, un documento cuya existencia, según los populares, fue asegurada por el portavoz del PSOE",
-      "date": "Thu, 06 Aug 2026 20:11:37 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Tormentas con lluvia intensa y granizo provocan cortes masivos de Rodalies en Catalunya",
-      "link": "https://www.lavanguardia.com/local/catalunya/20260806/11609254/lluvia-intensa-extienda-media-catalunya-provoca-cortes-trenes-carreteras.html",
-      "desc": "Renfe corta la R3, R11 y RL4 por la caída de árboles, inundaciones y afectaciones en las catenarias. Las granizadas auguran grandes daños en explotaciones agrícolas",
-      "date": "06 Aug 2026 19:01:07 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "Vivas agradece el respaldo del Rey pero avisa de que la crisis en Ceuta no ha acabado",
-      "link": "https://www.lavanguardia.com/politica/20260806/11609238/rey-traslada-vivas-apoyo-solidaridad-pueblo-ceuta.html",
-      "desc": "El Jefe del Estado recibe en Marivent al presidente ceutí quien confía en una próxima visita del jefe del Estado a la ciudad autónoma",
-      "date": "06 Aug 2026 18:33:40 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
       "caso": "other"
     }
   ]
