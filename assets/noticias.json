@@ -1,7 +1,197 @@
 {
-  "updated": "2026-08-07T07:06:49Z",
+  "updated": "2026-08-07T08:52:30Z",
   "count": 24,
   "items": [
+    {
+      "title": "Canarias prevé un viernes sofocante con termómetros a 34 grados y noches tropicales en tres islas",
+      "link": "https://www.abc.es/espana/canarias/canarias-preve-viernes-sofocante-termometros-grados-noches-20260807104039-nt.html",
+      "desc": "La Agencia Estatal de Meteorología (Aemet) adelanta un repunte de temperaturas en Canarias , con noches tropicales que no bajarán de los 25 ºC en zonas del sur grancanario. Canarias afronta de nuevo este viernes una jornada de calor generalizado en la que los ",
+      "date": "Fri, 07 Aug 2026 10:40:40 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "La Policía denuncia a una discoteca de Rota por vender 600 entradas para un aforo de 300",
+      "link": "https://www.abc.es/espana/andalucia/cadiz/policia-denuncia-discoteca-rota-vender-600-entradas-20260807103121-nts.html",
+      "desc": "Con el aforo duplicado y las dos salidas de emergencia. Una discoteca de Costa Ballena, en Rota, ha sido denunciada por la Policía Nacional debido a las irregularidades detectadas por los agentes durante una inspección del local. Han denunciado a los propietar",
+      "date": "Fri, 07 Aug 2026 10:31:22 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Muere un hombre en el incendio de una vivienda en Alberic",
+      "link": "https://www.abc.es/espana/comunidad-valenciana/muere-hombre-incendio-vivienda-alberic-20260807102301-nt.html",
+      "desc": "Un hombre de 56 años ha fallecido esta madrugada en el incendio de una vivienda de la localidad valenciana de Alberic, en el que se han visto afectadas además otras cinco personas personas, cuatro mujeres y un hombre, de entre 33 y 67 años, por inhalación de h",
+      "date": "Fri, 07 Aug 2026 10:23:02 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Un paisaje perdido, 10 años sin nazarenos en la Cuesta del Bailío de Córdoba",
+      "link": "https://www.abc.es/espana/andalucia/cordoba/semana-santa/paisaje-perdido-anos-nazarenos-cuesta-bailio-cordoba-20260807173549-nts.html",
+      "desc": "Cuentan sus asiduos que había que esperar un par de horas hasta que llegaran los primeros nazarenos, pero valía la pena ver los pasos bajando los escalones enchinados. La Cuesta del Bailío fue uno de los enclaves más populares de la Semana Santa de Córdoba, pe",
+      "date": "Fri, 07 Aug 2026 10:05:52 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Detenido en Íscar por una agresión con arma blanca en una pelea en un domicilio",
+      "link": "https://www.abc.es/espana/castilla-leon/detenido-iscar-agresion-arma-blanca-pelea-domicilio-20260807100502-nt.html",
+      "desc": "La Guardia Civil ha detenido en la localidad vallisoletana de Íscar a un varón de nacionalidad extranjera, de 28 años de edad, como presunto autor de un delito de lesiones, tras una agresión con arma blanca ocurrida durante la madrugada del pasado sábado, 1 de",
+      "date": "Fri, 07 Aug 2026 10:05:02 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Una Unidad de Movilidad y Seguridad Vial garantizará la seguridad de la II Vuelta Ciclista a Castilla-La Mancha Leader",
+      "link": "https://www.abc.es/espana/castilla-la-mancha/unidad-movilidad-seguridad-vial-garantizara-seguridad-vuelta-20260807100228-nt.html",
+      "desc": "El delegado del Gobierno de España en Castilla-La Mancha, José Pablo Sabrido, ha presentado este jueves en Sigüenza el dispositivo de seguridad que velará por el desarrollo de la II Vuelta Ciclista a Castilla-La Mancha Leader, una prueba que recorrerá más de m",
+      "date": "Fri, 07 Aug 2026 10:02:28 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Más de 400 llamadas al 112 por el episodio de lluvias en Catalunya",
+      "link": "https://www.lavanguardia.com/local/catalunya/20260807/11609539/mas-400-llamadas-112-episodio-lluvias-catalunya.html",
+      "desc": "Protecció Civil desactiva la alerta Inuncat tras las intensas tormentas del jueves",
+      "date": "07 Aug 2026 09:55:33 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
+    {
+      "title": "Muere una persona y otras dos resultan heridas en un accidente de tráfico en Montalbán de Córdoba",
+      "link": "https://www.abc.es/espana/andalucia/cordoba/muere-persona-dos-resultan-heridas-accidente-trafico-20260807095314-nts.html",
+      "desc": "Una persona ha fallecido y otras dos han resultado heridas en un accidente de tráfico registrado esta madrugada en término municipal de Montalbán de Córdoba, según informa el 112, perteneciente a la Agencia de Emergencias de Andalucía, adscrita a la Consejería",
+      "date": "Fri, 07 Aug 2026 09:53:14 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Ritmos que llenan, y ponen a bailar, a los pueblos",
+      "link": "https://www.abc.es/espana/castilla-leon/ritmos-llenan-ponen-bailar-pueblos-20260806095210-nt.html",
+      "desc": "Tras 'ensayar' con pequeñas citas musicales veraniegas a principios de la década pasada, los 'hijos' de los que en su día fundaron la Asociación SocioCultural de Arenillas, un pequeño pueblo soriano de poco más de 40 habitantes, se tiraron a la piscina y con m",
+      "date": "Fri, 07 Aug 2026 09:52:10 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Velázquez defiende su pacto con Vox pese a «fricciones»: «Es un gobierno sólido, estable y duradero»",
+      "link": "https://www.abc.es/espana/castilla-la-mancha/toledo/velazquez-defiende-pacto-vox-pese-fricciones-gobierno-20260807094510-nt.html",
+      "desc": "El alcalde de Toledo, Carlos Velázquez , ha defendido la buena marcha del pacto de Gobierno con Vox con el comanda el Ayuntamiento capitalino, recalcando que el compromiso que adquirió con los vecinos al tomar posesión fue el de conformar «un gobierno sólido, ",
+      "date": "Fri, 07 Aug 2026 09:45:11 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Detenido un hombre en Puertollano por amenazar a su pareja con un cuchillo de cocina",
+      "link": "https://www.abc.es/espana/castilla-la-mancha/toledo/pueblos/detenido-hombre-puertollano-amenazar-pareja-cuchillo-cocina-20260807093724-nt.html",
+      "desc": "La Policía Local de Puertollano ha detenido a un hombre como presunto autor de una agresión después de que supuestamente amenazara a su pareja con un cuchillo de cocina en el interior de una vivienda de la localidad. Los hechos se produjeron durante la tarde d",
+      "date": "Fri, 07 Aug 2026 09:37:24 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Ceuta en vilo",
+      "link": "https://www.abc.es/espana/andalucia/cordoba/jose-calvo-poyato-ceuta-vilo-20260807093404-nts.html",
+      "desc": "Impresiona la imagen de ceutíes pidiendo ayuda ante la invasión de su ciudad. Impresiona a la policía nacional diciendo que no puede garantizar la seguridad. Impresiona ver comercios y otros establecimientos cerrados ante las amenazas de los marroquíes. Impres",
+      "date": "Fri, 07 Aug 2026 09:34:05 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Córdoba CF - Almería en directo: resumen, goles y minuto a minuto del encuentro de pretemporada",
+      "link": "https://www.abc.es/espana/andalucia/cordoba/cordoba-cf/cordoba-almeria-directo-resumen-goles-minuto-minuto-20260807093314-nts.html",
+      "desc": "El Córdoba CF pone fin hoy a su particular 'Tourmalet' de pretemporada con el último duelo ante el Almería en el Marbella Football Center (10.30 horas). Hace escasas horas, el conjunto blanquiverde supo anteponerse al Real Jaén en el Trofeo del Olivo en un par",
+      "date": "Fri, 07 Aug 2026 09:33:15 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Las empresas tienen hasta el día 19 para optar a la construcción del colegio de Cedillo por 7,7 millones en dos fases",
+      "link": "https://www.abc.es/espana/castilla-la-mancha/toledo/pueblos/empresas-dia-optar-construccion-colegio-cedillo-millones-20260806092709-nt.html",
+      "desc": "La cuenta atrás ya ha comenzado. Después de que el Consejo de Gobierno aprobara a principios de julio una inversión de 7,76 millones de euros para construir el segundo colegio público de Cedillo del Condado, en Toledo, la Junta de Comunidades ha activado ahora",
+      "date": "Fri, 07 Aug 2026 09:27:09 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Así será el colegio de Cedillo del Condado: preparado para resistir el calor extremo y las consecuencias del cambio climático",
+      "link": "https://www.abc.es/espana/castilla-la-mancha/toledo/pueblos/colegio-cedillo-condado-preparado-resistir-calor-extremo-20260806092633-nt.html",
+      "desc": "Cuando los primeros alumnos crucen la puerta del nuevo colegio público de Cedillo del Condado (Toledo) probablemente no sean conscientes de ello. Tampoco sus profesores. Pero buena parte de las decisiones adoptadas durante el diseño del edificio no responden a",
+      "date": "Fri, 07 Aug 2026 09:26:33 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Cae una banda que robó 85 toneladas de cobre en plantas fotovoltaicas de Toledo y Albacete",
+      "link": "https://www.abc.es/espana/castilla-la-mancha/cae-banda-robo-toneladas-cobre-plantas-fotovoltaicas-20260807092604-nt.html",
+      "desc": "La Guardia Civil ha desarticulado una organización criminal especializada en el robo de cobre con la detención de siete personas , presuntas autoras de once robos con fuerza cometidos en empresas de las provincias de Huesca, Zaragoza y Lérida, así como en plan",
+      "date": "Fri, 07 Aug 2026 09:26:04 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Almorox recupera la calma, pero mantiene la alerta: «Hasta que no se acabe el verano no estaremos tranquilos»",
+      "link": "https://www.abc.es/espana/castilla-la-mancha/toledo/pueblos/almorox-recupera-calma-tras-dias-incendio-mantiene-20260806092543-nt.html",
+      "desc": "El incendio forestal de Almorox ha quedado oficialmente extinguido este jueves , poniendo fin a 14 días de intenso trabajo de los servicios de extinción. El fuego, que se originó el pasado 22 de julio en la urbanización El Pinar de Almorox , ha calcinado alred",
+      "date": "Fri, 07 Aug 2026 09:25:43 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Moncloa anuncia las comparecencias de cuatro ministros en el Congreso por la crisis de Ceuta pero descarta la de Sánchez",
+      "link": "https://www.abc.es/espana/moncloa-anuncia-comparecencias-cuatro-ministros-congreso-crisis-20260807090804-nt.html",
+      "desc": "El Gobierno trata de recuperar el relato y la agenda política y solicita la comparecencia «extraordinaria» en el Congreso de cuatro ministros relacionados con la crisis de Ceuta . Un movimiento cuyo único objetivo es proteger al presidente, Pedro Sánchez , del",
+      "date": "Fri, 07 Aug 2026 09:08:04 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Robles, Marlaska, Bolaños y Albares comparecerán en el Congreso a finales de agosto por Ceuta",
+      "link": "https://www.lavanguardia.com/politica/20260807/11609510/robles-marlaska-bolanos-albares-compareceran-congreso-finales-agosto-ceuta.html",
+      "desc": "Sánchez preside este viernes una reunión telemática con varios ministros",
+      "date": "07 Aug 2026 08:58:16 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
     {
       "title": "El incendio de una vivienda abandonada en Foz (Lugo) se cobra la vida de un hombre y su perro",
       "link": "https://www.abc.es/espana/galicia/incendio-vivienda-abandonada-foz-lugo-cobra-vida-20260807084308-nt.html",
@@ -10,6 +200,16 @@
       "source": "ABC",
       "color": "#c0392b",
       "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Rescatadas 57 personas llegadas en cuatro pateras a Cabrera y Formentera",
+      "link": "https://www.lavanguardia.com/local/baleares/20260807/11609504/rescatadas-57-personas-llegadas-cuatro-pateras-cabrera-formentera.html",
+      "desc": "En lo que va de año&nbsp;han llegado al archipiélago balear 219 pateras con 4.145 inmigrantes en situación irregular",
+      "date": "07 Aug 2026 08:42:26 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
       "caso": "other"
     },
     {
@@ -23,9 +223,9 @@
       "caso": "other"
     },
     {
-      "title": "Al menos siete muertos y 15 heridos en un tiroteo en una escuela en Tailandia",
+      "title": "Un estudiante deja siete muertos en un instituto de Tailandia, tras asesinar a sus abuelos",
       "link": "https://www.lavanguardia.com/sucesos/20260807/11609495/seis-muertos-15-heridos-tiroteo-escuela-tailandia.html",
-      "desc": "Un estudiante habría tiroteado a alumnos y profesores del centro antes de dispararse a sí mismo",
+      "desc": "El quinceañero habría disparado contra alumnos y profesores del centro antes de suicidarse",
       "date": "07 Aug 2026 07:29:43 +0200",
       "source": "La Vanguardia",
       "color": "#8e44ad",
@@ -37,206 +237,6 @@
       "link": "https://www.abc.es/espana/comunidad-valenciana/restaurante-favorito-ilia-topuria-espana-isla-pequena-vistas-20260807071500-nt.html",
       "desc": "Ilia Topuria se consagró campeón mundial por primera vez el 17 de febrero de 2024. Fue en la categoría de peso pluma en el evento UFC 298 con un KO al australiano Volkanovski en el segundo asalto. España vibró con su victoria y más concretamente Alicante, con ",
       "date": "Fri, 07 Aug 2026 07:15:00 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Los jabalíes de la costa andaluza se convierten en un problema sanitario",
-      "link": "https://www.abc.es/espana/andalucia/malaga/jabalies-costa-andaluza-convierten-problema-sanitario-20260807071206-nts.html",
-      "desc": "Una familia de jabalíes buscando comida en un rotonda cerca del mar, otro hace poco tiempo en un video viral con una flecha clavada en Mijas, los que se pasearon por el centro de Málaga y huyeron por el Guadalmedina este invierno o los que se pueden encontrar ",
-      "date": "Fri, 07 Aug 2026 07:12:07 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Las inmobiliarias abren un nuevo nicho de mercado alquilando habitaciones para estudiantes",
-      "link": "https://www.abc.es/espana/andalucia/inmobiliarias-abren-nuevo-nicho-mercado-alquilando-habitaciones-20260807071116-nts.html",
-      "desc": "Con la llegada del nuevo curso universitario, miles de estudiantes provenientes de todos los rincones de Andalucía se plantean alojarse en la misma ciudad donde cursarán sus estudios ese año. Las opciones suelen ser el alquiler de una habitación, alojarse en u",
-      "date": "Fri, 07 Aug 2026 07:11:16 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "María Jesús Montero orquesta otra campaña contra Juanma Moreno usando la violencia de género",
-      "link": "https://www.abc.es/espana/andalucia/maria-jesus-montero-orquesta-campana-juanma-moreno-20260807070359-nts.html",
-      "desc": "La secretaria general del PSOE de Andalucía, María Jesús Montero , inició con la bandera del feminismo la campaña electoral de los comicios autonómicos del pasado mayo meses antes de que la carrera oficial hacia las urnas empezara oficialmente y de que su part",
-      "date": "Fri, 07 Aug 2026 07:03:59 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Dónde ir de fiesta este viernes 7 de agosto en la provincia de Toledo",
-      "link": "https://www.abc.es/espana/castilla-la-mancha/toledo/pueblos/fiesta-viernes-agosto-provincia-toledo-20260807070004-nt.html",
-      "desc": "Villacañas -A las 22,00 horas: saludo de las autoridades a las peñas, izada de banderas y lanzamiento del chupinazo a cargo del equipo Alevín Femenino de Fútbol Sala. -A las 22,30 horas: corte de la cinta e inauguración del recinto ferial a cargo de las reinas",
-      "date": "Fri, 07 Aug 2026 07:00:04 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "La ambición de Iris Tió no tiene freno: “Me gusta ver las medallas, pero lo que me motiva es el oro”",
-      "link": "https://www.lavanguardia.com/deportes/natacion/20260807/11609287/ambicion-iris-tio-freno-me-gusta-ver-medallas-me-motiva-oro.html",
-      "desc": "La nadadora repasa con 'La Vanguardia' un campeonato de ensueño y advierte un futuro en el que pelearán con Rusia y China por ese primer puesto mundial",
-      "date": "07 Aug 2026 06:30:17 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "Carrera para identificar a los menores sin techo: ¿Adónde irán tras cruzar la frontera en Ceuta?",
-      "link": "https://www.lavanguardia.com/politica/20260807/11609266/menores-nombre-techo-adonde-iran.html",
-      "desc": "Las autoridades y oenegés trabajan sobre el terreno para identificar a los no acompañados y las cifras difieren mucho",
-      "date": "07 Aug 2026 06:00:00 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "¿Qué hacemos con los menores de Ceuta?",
-      "link": "https://www.lavanguardia.com/opinion/20260807/11609298/que-menores-ceuta.html",
-      "desc": "",
-      "date": "07 Aug 2026 06:00:00 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "Alerta médica ante el riesgo de lesiones oculares irreversibles por mirar el eclipse sin protección",
-      "link": "https://www.lavanguardia.com/vida/20260807/11609199/alerta-medica-riesgo-lesiones-oculares-irreversibles-mirar-eclipse-proteccion.html",
-      "desc": "Las afectaciones empiezan a aparecer en la retina a las 24 o 48 horas de la exposición",
-      "date": "07 Aug 2026 06:00:00 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "La Joya de la Corona del eclipse",
-      "link": "https://www.lavanguardia.com/ciencia/20260807/11597444/joya-corona-eclipse.html",
-      "desc": "La región más externa del Sol, la misteriosa corona solar, será visible durante los instantes de la totalidad",
-      "date": "07 Aug 2026 06:00:00 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "Moscú manipula la carrera al Elíseo",
-      "link": "https://www.lavanguardia.com/internacional/20260807/11609081/moscu-manipula-carrera-eliseo.html",
-      "desc": "Alerta en Francia por las 'fake news' difamadoras contra varios aspirantes a la presidencia",
-      "date": "07 Aug 2026 06:00:00 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "Trump podrá intervenir militarmente en dieciocho países latinoamericanos",
-      "link": "https://www.lavanguardia.com/internacional/20260807/11609280/trump-podra-intervenir-militarmente-dieciocho-paises-latinoamericanos.html",
-      "desc": "Alianza de Estados Unidos con un grupo de naciones del hemisferio contra los cárteles",
-      "date": "07 Aug 2026 06:00:00 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "La tragedia de Biescas cumple 30 años: “Los culpables no fueron castigados”",
-      "link": "https://www.lavanguardia.com/vida/20260807/11609190/tragedia-biescas-cumple-30-anos-culpables-habia-nombres-apellidos-castigados.html",
-      "desc": "Relatos de quienes vivieron la riada que arrasó el camping Las Nieves, mató a 87 personas e hirió a otras 183 el 7 de agosto de 1996",
-      "date": "07 Aug 2026 06:00:00 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "Así fueron los dos meses más críticos por el error de Catalunya en PISA",
-      "link": "https://www.lavanguardia.com/vida/20260807/11609242/asi-dos-meses-mas-criticos-error-catalunya-pisa.html",
-      "desc": "La OCDE deliberó con sus órganos técnicos si el país cumplía con los estándares internacionales antes de tomar una decisión final&nbsp;",
-      "date": "07 Aug 2026 06:00:00 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "Vecinos de Muntaner piden al Consistorio que desaloje el piso tomado por toxicómanos",
-      "link": "https://www.lavanguardia.com/local/barcelona/20260807/11609292/vecinos-muntaner-piden-consistorio-desaloje-piso-tomado-toxicomanos.html",
-      "desc": "Los administradores de fincas exigen más potestades para que las comunidades puedan denunciar estas situaciones",
-      "date": "07 Aug 2026 06:00:00 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "Películas familiares para vivir intrépidas aventuras en las salas de cine este agosto",
-      "link": "https://www.lavanguardia.com/cultura/20260807/11607571/peliculas-familiares-vivir-intrepidas-aventuras-salas-cine-agosto.html",
-      "desc": "Las nuevas entregas de ‘Tadeo Jones’ y ‘La patrulla canina’ asaltan la gran pantalla al lado del reestreno de 'Harry Potter y la piedra filosofal' por su 25 aniversario",
-      "date": "07 Aug 2026 06:00:00 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "'El amor que permanece' (★★★★✩), escenas de vida familiar y otros estrenos de la semana",
-      "link": "https://www.lavanguardia.com/cultura/20260807/11608959/amor-permanece-escenas-vida-familiar-otros-estrenos-semana.html",
-      "desc": "Los críticos de 'La Vanguardia' también analizan 'El síndrome Rembrandt', 'La ventana abierta', 'En mar abierto' y 'El último mono'",
-      "date": "07 Aug 2026 06:00:00 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "La ayuda prometida por el Gobierno tendrá que esperar a que los ministros regresen de vacaciones",
-      "link": "https://www.abc.es/espana/ayuda-prometida-gobierno-llegara-minimo-dentro-mes-20260807010706-nt.html",
-      "desc": "Aunque los ministros anunciaron a bombo y platillo una ayuda de 25 millones de euros para atender a los menores no acompañados que han llegado a Ceuta en la última semana, las autoridades locales tendrán que esperar como mínimo un mes para ver materializada es",
-      "date": "Fri, 07 Aug 2026 01:07:06 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "El acuerdo entre España y Marruecos de 2007 permite exigir a Rabat que se haga cargo de los menores no acompañados que entraron a Ceuta",
-      "link": "https://www.abc.es/espana/espana-puede-exigir-marruecos-haga-cargo-decenas-20260806010659-nt.html",
-      "desc": "España puede exigir a Marruecos que, una vez estudiada de forma individualizada cada circunstancia, se haga cargo de parte de los menores no acompañados que la semana pasada cruzaron las fronteras en Ceuta y Melilla y que a día de hoy permanecen en el interior",
-      "date": "Fri, 07 Aug 2026 01:06:59 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Fuerzas de seguridad recibieron instrucción de «invitar a marcharse» a los migrantes en Ceuta y «no actuar»",
-      "link": "https://www.abc.es/espana/fuerzas-cuerpos-seguridad-recibieron-instruccion-invitar-marcharse-20260807010653-nt.html",
-      "desc": "La instrucción se trasladó por escrito a los mandos policiales de Ceuta hace una semana. «En el estricto cumplimiento de la normativa en vigor, queda fuera de nuestro ámbito de aplicación la conducción forzada de ningún ciudadano extranjero, salvo que esta est",
-      "date": "Fri, 07 Aug 2026 01:06:53 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Cazan 'infraganti' a los grafiteros 'influencer' de Madrid",
-      "link": "https://www.abc.es/espana/madrid/cazan-infraganti-grafiteros-influencer-madrid-20260724010152-nt.html",
-      "desc": "La Policía Nacional frena las acciones delictivas de los grafiteros 'influencer'. Este grupo de jóvenes han sido cazados con las manos en la masa mientras plasmaban su arte callejero ilegal en todos los vagones de un metro que se encontraba en la parada del Ho",
-      "date": "Fri, 07 Aug 2026 01:01:52 +0200",
       "source": "ABC",
       "color": "#c0392b",
       "feedId": "ABC",
