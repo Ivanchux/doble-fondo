@@ -1,7 +1,97 @@
 {
-  "updated": "2026-08-07T18:47:35Z",
+  "updated": "2026-08-07T20:34:59Z",
   "count": 24,
   "items": [
+    {
+      "title": "Encuentran a Miranda, la menor secuestrada por sus padres biológicos en Oviedo el pasado mes de abril",
+      "link": "https://www.abc.es/espana/asturias/encuentran-miranda-menor-secuestrada-padres-biologicos-oviedo-20260807221750-nt.html",
+      "desc": "La Policía Nacional ha localizado y puesto a salvo, a primera hora de este viernes, a Miranda, la menor secuestrada por sus padres biológicos el pasado 30 de abril durante una visita programada en un punto de encuentro familiar en Oviedo. Tras comenzar el disp",
+      "date": "Fri, 07 Aug 2026 22:17:51 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "El fuego en una cocina obliga a desalojar un inmueble en la toledana plaza de la Magdalena",
+      "link": "https://www.abc.es/espana/castilla-la-mancha/toledo/fuego-cocina-obliga-desalojar-inmueble-toledana-plaza-20260807213921-nt.html",
+      "desc": "Un incendio declarado este viernes en una vivienda del número 13 de la plaza Magdalena, en el Casco Histórico de Toledo, ha calcinado por completo la cocina del piso afectado por las llamas que no han causado daños personales. Los bomberos recibieron el aviso ",
+      "date": "Fri, 07 Aug 2026 21:39:21 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "El calor se ceba con Córdoba: cuatro de las diez temperaturas más altas del país se registran en la provincia",
+      "link": "https://www.abc.es/espana/andalucia/cordoba/calor-ceba-cordoba-cuatro-diez-temperaturas-altas-20260807211510-nts.html",
+      "desc": "El calor no da tregua. Córdoba volverá a experimentar un episodio de altas temperaturas durante este fin de semana, con el mercurio superando de nuevo la barrera de los 40 grados, un registro en el que se ha mantenido buena parte de la pasada semana. Sin ir má",
+      "date": "Fri, 07 Aug 2026 21:15:11 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "El Gobierno establece controles fronterizos a los viajeros procedentes de Italia tras la negativa de Meloni a retirar los suyos",
+      "link": "https://www.abc.es/espana/gobierno-establece-controles-fronterizos-viajeros-procedentes-italia-20260807211504-nt.html",
+      "desc": "El Gobierno ha anunciado que establecerá de manera temporal los controles en las fronteras interiores de puertos y aeropuertos para los desplazamientos procedentes de Italia. La decisión del Gobierno llega después de que Meloni desoyese las amenazas de Sánchez",
+      "date": "Fri, 07 Aug 2026 21:15:04 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "El Gobierno restablece los controles fronterizos a los viajeros de Italia",
+      "link": "https://www.lavanguardia.com/politica/20260807/11610034/espana-restablece-controles-fronterizos-viajeros-procedentes-italia.html",
+      "desc": "El Ministerio del Interior establecerá desde la medianoche de este sábado controles en puertos y aeropuertos para los desplazamientos desde Italia por su “persistente presión migratoria”",
+      "date": "07 Aug 2026 21:14:23 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
+    {
+      "title": "El PSOE culpa a Velázquez de perder los fondos europeos para financiar el pabellón deportivo",
+      "link": "https://www.abc.es/espana/castilla-la-mancha/toledo/psoe-culpa-velazquez-perder-fondos-europeos-financiar-20260807210759-nt.html",
+      "desc": "El Grupo Municipal Socialista ha acusado al alcalde de Toledo, Carlos Velázquez, de intentar «buscar permanentemente culpables en otras administraciones para tapar su propia incompetencia» y considera que sus críticas al Gobierno de España y a la ministra Mila",
+      "date": "Fri, 07 Aug 2026 21:09:38 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Castilla y León se blinda ante el eclipse: «Es uno de los mayores retos desde la pandemia»",
+      "link": "https://www.abc.es/espana/castilla-leon/junta-blinda-eclipse-mayores-retos-pandemia-llevamos-20260804210814-nt.html",
+      "desc": "Castilla y León mantiene activado desde el pasado 29 de abril su plan de Protección Civil en nivel 2. ¿El motivo? La organización de los dispositivos de seguridad en cada una de las nueve provincias ante el eclipse astronómico del próximo 12 de agosto. Los tra",
+      "date": "Fri, 07 Aug 2026 21:08:14 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "La Comunidad de Madrid pone a la venta el ático de Chamberí por 6,69 millones de euros",
+      "link": "https://www.lavanguardia.com/politica/20260807/11610026/comunidad-madrid-pone-venta-atico-chamberi-6-69-millones-euros.html",
+      "desc": "El Gobierno madrileño también ha puesto a la venta&nbsp;cuatro inmuebles de Gran Vía 6 por un valor de 11,8 millones de euros",
+      "date": "07 Aug 2026 20:54:45 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
+    {
+      "title": "A prisión como presunta autora de un incendio forestal en la provincia de León",
+      "link": "https://www.abc.es/espana/castilla-leon/prision-presunta-autora-incendio-forestal-provincia-leon-20260807203521-nt.html",
+      "desc": "A prisión como presunta autora de un incendio forestal declarado el pasado mes de julio en la localidad leonesa de Vega de Espinareda . Es la decisión judicial para una mujer tras haber sido detenida por la Guardia Civil como supuesta cuausante de las llamas e",
+      "date": "Fri, 07 Aug 2026 20:36:22 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
     {
       "title": "La llegada de Cercanías a Illescas avanza con la licitación de 9,4 kilómetros de doble vía",
       "link": "https://www.abc.es/espana/castilla-la-mancha/toledo/pueblos/llegada-cercanias-illescas-avanza-licitacion-kilometros-doble-20260807203331-nt.html",
@@ -93,6 +183,16 @@
       "caso": "other"
     },
     {
+      "title": "Barça y City negocian en buena sintonía el fichaje de Rodri",
+      "link": "https://www.lavanguardia.com/deportes/fc-barcelona/20260807/11610010/rodri-barca-mancheter-city-negocian-buena-sintonia-fichaje.html",
+      "desc": "El equipo inglés rechazó una primera oferta de 45 millones, mientras el jugador descansa en Ibiza",
+      "date": "07 Aug 2026 19:29:34 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
+    {
       "title": "Melendi ofrecerá el próximo 12 de noviembre un tercer concierto en La Coruña",
       "link": "https://www.abc.es/espana/galicia/melendi-ofrecera-proximo-noviembre-tercer-concierto-coruna-20260807192423-nt.html",
       "desc": "Melendi hará tres conciertos consecutivos en el Coliseum de La Coruña, después del éxito en 2023 en el mismo recinto con tres fechas en las que se agotaron todas las entradas. Según informa el consistorio, el éxito de ventas registrado para los conciertos ha o",
@@ -140,106 +240,6 @@
       "source": "ABC",
       "color": "#c0392b",
       "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Las obras de la A-40 conllevarán cortes de tráfico entre Bargas y Mocejón en Toledo desde el 24 de agosto",
-      "link": "https://www.abc.es/espana/castilla-la-mancha/toledo/obras-a40-conllevaran-cortes-trafico-bargas-mocejon-20260807185719-nt.html",
-      "desc": "Las obras de rehabilitación del firme de la A-40 entre Bargas y Mocejón en la provincia de Toledo afrontarán este mes su fase de mayor impacto para la circulación. El Ministerio de Transportes y Movilidad Sostenible ha anunciado que, a partir del 24 de agosto ",
-      "date": "Fri, 07 Aug 2026 18:57:19 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "La 'Penya barcelonista': el epicentro de los fans del equipo culé en Buenos Aires",
-      "link": "https://www.abc.es/espana/cataluna/penya-barcelonista-epicentro-fans-equipo-cule-buenos-20260807185308-nt.html",
-      "desc": "Finalizado el Mundial 2026, y frente al vacío que deja otros cuatro años de espera hasta un nuevo torneo internacional, muchos regresan su atención nuevamente a los equipos locales. Y es cierto que la pasión deportiva puede traspasar fronteras. Es por ello que",
-      "date": "Fri, 07 Aug 2026 18:53:09 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Sanidad clausura la piscina de Almansa por la presencia de ratas y el Ayuntamiento habla de cierre temporal para reforzar la limpieza",
-      "link": "https://www.abc.es/espana/castilla-la-mancha/sanidad-clausura-piscina-almansa-presencia-ratas-ayuntamiento-20260807183212-nt.html",
-      "desc": "La piscina municipal de verano de Almansa permanecerá cerrada temporalmente por decisión de la Delegación Provincial de Sanidad de Albacete, que ha decretado una medida cautelar tras detectar diversas deficiencias higiénico-sanitarias en las instalaciones. La ",
-      "date": "Fri, 07 Aug 2026 18:32:13 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Detienen a padre e hijo de Granollers acusados de un doble asesinato en el sur de Paraguay",
-      "link": "https://www.lavanguardia.com/internacional/20260807/11609939/detienen-dos-catalanes-acusados-doble-asesinato-sur-paraguay.html",
-      "desc": "Se habían citado para una venta de oro, pero los presuntos asesinos trajeron “piedras”&nbsp;",
-      "date": "07 Aug 2026 18:30:04 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "La cara menos visible del eclipse en Galicia: un gran operativo para una jornada histórica",
-      "link": "https://www.abc.es/espana/galicia/cara-visible-eclipse-galicia-gran-operativo-jornada-20260807181817-nt.html",
-      "desc": "La expectación es máxima. El eclipse del próximo miércoles 12 de agosto será un evento excepcional, en el que Galicia se convertirá en un mirador privilegiado. Ante la movilización que se espera ese día de miles de personas, muchas de ellas llegadas de fuera d",
-      "date": "Fri, 07 Aug 2026 18:18:17 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "La Diputación licita la obra para construir el nuevo campo de fútbol en Puente Genil por 1,5 millones de euros",
-      "link": "https://www.abc.es/espana/andalucia/cordoba/diputacion-licita-obra-construir-nuevo-campo-futbol-20260807180753-nts.html",
-      "desc": "La Diputación de Córdoba ha sacado a licitación la obra para la construcción del nuevo campo de fútbol de césped artificial en el Parque de los Llanos de Cristo, en Miragenil. La actuación forma parte del Plan Provincial de Obras y Servicios 2024‐2027 (bienio ",
-      "date": "Fri, 07 Aug 2026 18:07:53 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "El Gobierno autoriza otros 87 hectómetros para el Levante con las reglas del trasvase en los tribunales",
-      "link": "https://www.abc.es/espana/castilla-la-mancha/gobierno-autoriza-hectometros-levante-reglas-trasvase-tribunales-20260807180615-nt.html",
-      "desc": "La Comisión Central de Explotación del Acueducto Tajo-Segura ha autorizado este viernes un trasvase al Levante de 60 hectómetros cúbicos para el mes de agosto y otro de 27 hectómetros cúbicos para septiembre, después de constatar que los embalses de cabecera a",
-      "date": "Fri, 07 Aug 2026 18:06:16 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "El viaje exprés de Felipe VI a Colombia: doce horas en Cali para la investidura de De la Espriella",
-      "link": "https://www.abc.es/espana/casa-real/viaje-expres-felipe-colombia-doce-horas-cali-20260807180556-nt.html",
-      "desc": "Felipe VI llegó este viernes a Cali desde Mallorca para asistir a la toma de posesión de Abelardo de la Espriella como nuevo presidente de Colombia, en un viaje exprés que le mantendrá apenas doce horas en el país. El Rey salió de la isla alrededor de la media",
-      "date": "Fri, 07 Aug 2026 18:05:56 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Washington culpa al Gobierno de la “invasión” de decenas de miles de migrantes en Ceuta",
-      "link": "https://www.lavanguardia.com/politica/20260807/11609930/washington-culpa-gobierno-invasion-decenas-miles-migrantes-ceuta.html",
-      "desc": "El Departamento de Estado apunta a “la vergonzosa negativa del Gobierno español a defender su soberanía, asegurar sus fronteras y proteger a su población”",
-      "date": "07 Aug 2026 17:58:24 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "Orden para detener las obras del salón de baile de Trump en la Casa Blanca",
-      "link": "https://www.lavanguardia.com/internacional/20260807/11609919/tribunal-apelaciones-ordena-detener-obras-salon-baile-trump-casa-blanca.html",
-      "desc": "La corte considera que el presidente sobrepasó la autoridad del Congreso al demoler el ala este de la Casa Blanca, pero suspende su orden dos semanas para que pueda presentar un recurso al Tribunal Supremo",
-      "date": "07 Aug 2026 17:36:26 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
       "caso": "other"
     }
   ]
