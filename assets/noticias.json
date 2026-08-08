@@ -1,11 +1,41 @@
 {
-  "updated": "2026-08-08T18:29:33Z",
+  "updated": "2026-08-08T20:22:03Z",
   "count": 24,
   "items": [
     {
-      "title": "Vox pide activar el artículo 102 de la Constitución para investigar a Sánchez por posible delito contra la seguridad del Estado",
+      "title": "Nueve heridos tras colisionar dos motos en el campeonato de motociclismo urbano de La Bañeza",
+      "link": "https://www.abc.es/espana/castilla-leon/nueve-heridos-tras-colisionar-dos-motos-campeonato-20260808213511-nt.html",
+      "desc": "Nueve personas han resultado heridas este sábado tras colisionar dos motocicletas en la curva 7 del circuito urbano del campeonato de motociclismo de La Bañeza (León) y golpear además a un espectador, según ha informado el Centro de Emergencias 112 de Castilla",
+      "date": "Sat, 08 Aug 2026 21:35:12 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "La superficie afectada por los incendios en Castilla y León multiplica por más de doce lo quemado hasta julio en 2025",
+      "link": "https://www.abc.es/espana/castilla-leon/superficie-quemada-incendios-multiplica-diez-datos-2025-20260804211124-nt.html",
+      "desc": "Con unas 50.000 hectáreas afectada s, el incendio declarado el pasado 22 de julio en Burgohondo (Ávila) -que este jueves lograba darse por estabilizado, aunque resta para su extinción- es ya el mayor registrado en la historia de España. Cerca de 200 kilómetros",
+      "date": "Sat, 08 Aug 2026 21:11:24 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "El fuerte calor se instala en Córdoba: un único día por debajo de 40 grados, y serán 39, hasta el viernes",
+      "link": "https://www.abc.es/espana/andalucia/cordoba/fuerte-calor-instala-cordoba-unico-dia-debajo-20260808204150-nts.html",
+      "desc": "Tiene pinta de que Don Lorenzo tiene planes de seguir castigando duro en Córdoba en el arranque de agosto. Así lo recogen las previsiones de la Agencia Estatal de Meteorología (Aemet) para los próximos días. Por lo pronto, este domingo , igual que el sábado, e",
+      "date": "Sat, 08 Aug 2026 20:41:51 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Abascal pide investigar a Sánchez por un posible delito de traición contra el Estado",
       "link": "https://www.abc.es/espana/vox-pide-activar-articulo-102-constitucion-investigar-20260808202219-nt.html",
-      "desc": "Vox pide activar el mecanismo previsto en el artículo 102 de la Constitución para investigar al presidente del Gobierno, Pedro Sánchez, y a los miembros de su Ejecutivo por lo ocurrido en Ceuta, tras el asalto masivo de miles de inmigrantes procedentes de Marr",
+      "desc": "Santiago Abascal da un paso más en su oposición total al Gobierno de Pedro Sánchez. Este sábado, el líder de Vox ha anunciado mediante su cuenta de X que su formación promoverá la activación del artículo 102 de la Constitución para investigar al presidente y a",
       "date": "Sat, 08 Aug 2026 20:22:19 +0200",
       "source": "ABC",
       "color": "#c0392b",
@@ -15,7 +45,7 @@
     {
       "title": "Un incendio provocado por un vehículo obliga a cortar la AP-6 y la N-VI en la provincia de Segovia",
       "link": "https://www.abc.es/espana/castilla-leon/incendio-provocado-vehiculo-obliga-cortar-ap6-nvi-20260808200710-nt.html",
-      "desc": "Un incendio provocado al parecer por un vehículo que comenzaba a arder en la tarde de este sábado en la carretera N-6 a la altura de la localidad segoviana de Navas de San Antonio obligaba a cortar el tráfico en esta vía. Con punto de ignición en la zona conoc",
+      "desc": "Un incendio provocado al parecer por un vehículo que comenzaba a arder en la tarde de este sábado en la carretera N-6 a la altura de la localidad segoviana de Navas de San Antonio obligaba a cortar el tráfico durante varias horas esta vía. Con punto de ignició",
       "date": "Sat, 08 Aug 2026 20:07:10 +0200",
       "source": "ABC",
       "color": "#c0392b",
@@ -55,7 +85,7 @@
     {
       "title": "La Junta envía un Es-Alert para desalojar a 340 personas por la evolución del incendio en Niebla",
       "link": "https://www.abc.es/espana/andalucia/huelva/junta-envia-esalert-desalojar-340-personas-evolucion-20260808193137-nts.html",
-      "desc": "La Junta de Andalucía ha enviado un mensaje Es-Alert para desalojar a unas 340 personas de las zonas de Berrocal, Marigenta, El Membrillo y El Pozuelo ante la evolución del incendio forestal de Niebla. La alerta se complementa con información sobre el terreno ",
+      "desc": "La Junta de Andalucía ha enviado un mensaje Es-Alert para desalojar de forma preventiva a unas 340 personas de las zonas de Berrocal, Marigenta, El Membrillo y El Pozuelo ante la evolución del incendio forestal de Niebla. Teniendo en cuenta los 70 evacuados el",
       "date": "Sat, 08 Aug 2026 19:31:37 +0200",
       "source": "ABC",
       "color": "#c0392b",
@@ -187,36 +217,6 @@
       "link": "https://www.abc.es/espana/comunidad-valenciana/mercadona-abre-domingo-agosto-supermercados-horario-especial-20260808174116-nt.html",
       "desc": "Los supermercados Mercadona abiertos este domingo, 9 de agosto, en la Comunidad Valenciana se concentran en las zonas costeras. Las tiendas de una treintena de municipios de Valencia, Alicante y Castellón suben la persiana durante esta jornada no laborable con",
       "date": "Sat, 08 Aug 2026 17:41:16 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Maite Urteaga, vencedora absoluta de la II Vuelta Ciclista Castilla-La Mancha Leader femenina",
-      "link": "https://www.abc.es/espana/castilla-la-mancha/maite-urteaga-vencedora-absoluta-vuelta-ciclista-castillala-20260808173400-nt.html",
-      "desc": "La localidad conquense de Beteta ha acogido este sábado la llegada de la última etapa de la II Vuelta Ciclista Castilla-La Mancha Leader femenina, una jornada de 111 kilómetros que ha unido Sacedón y Beteta y que ha permitido a las participantes recorrer algun",
-      "date": "Sat, 08 Aug 2026 17:34:00 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Los aeropuertos de Sevilla y Málaga también se suman a los controles fronterizos a viajeros procedentes de Italia",
-      "link": "https://www.abc.es/espana/andalucia/aeropuertos-sevilla-malaga-suman-controles-fronterizos-viajeros-20260808172945-nts.html",
-      "desc": "Los aeropuertos de Sevilla y Málaga realizarán desde este sábado controles fronterizos a los pasajeros que lleguen procedentes de Italia. Así lo ha anunciado el Ministerio del Interio, que suma estos dos aeródromos, junto a Bilbao, Alicante y Valencia, los con",
-      "date": "Sat, 08 Aug 2026 17:29:46 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Activo un incendio forestal en Baltar (Orense) que afecta a más de 20 hectáreas",
-      "link": "https://www.abc.es/espana/galicia/activo-incendio-forestal-baltar-orense-afecta-hectareas-20260808172109-nt.html",
-      "desc": "La Consellería do Medio Rural ha informado de un incendio forestal activo en la parroquia de Garabelos do Bouzo, en el municipio de Baltar (Orense). Tal y como ha trasladado la Xunta en una nota de prensa, el fuego se inició a las 12.21 horas de este sábado y ",
-      "date": "Sat, 08 Aug 2026 17:21:09 +0200",
       "source": "ABC",
       "color": "#c0392b",
       "feedId": "ABC",
