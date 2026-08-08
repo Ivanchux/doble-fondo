@@ -1,7 +1,147 @@
 {
-  "updated": "2026-08-08T08:34:00Z",
+  "updated": "2026-08-08T10:25:51Z",
   "count": 24,
   "items": [
+    {
+      "title": "Asaja Ciudad Real pide «precios justos» para el pistacho ante la caída de la cosecha regional y la menor oferta internacional",
+      "link": "https://www.abc.es/espana/castilla-la-mancha/asaja-ciudad-real-pide-precios-justos-pistacho-20260808120519-nt.html",
+      "desc": "La Asociación Agraria-Jóvenes Agricultores (Asaja) Ciudad Real ha pedido que los precios del pistacho en origen reflejen la situación real del mercado internacional y no penalicen a los productores de Castilla-La Mancha , una región que concentra más del 70% d",
+      "date": "Sat, 08 Aug 2026 12:05:20 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Castilla y León no irá a la Sectorial de Infancia y pide al Gobierno el «retorno» de los menores a Marruecos desde Ceuta",
+      "link": "https://www.abc.es/espana/castilla-leon/castilla-leon-ira-sectorial-infancia-pide-gobierno-20260808114634-nt.html",
+      "desc": "«No responde a razones de oportunidad política, sino al estricto cumplimiento del ordenamiento jurídico nacional e internacional y del principio del interés superior del menor, que impone como principio fundamental el de la reunificación familiar y devolución ",
+      "date": "Sat, 08 Aug 2026 11:56:09 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Cómo se va a ver el eclipse del 12 de agosto en cada provincia de Andalucía: las zonas en las que más se va a apreciar y las horas clave",
+      "link": "https://www.abc.es/espana/andalucia/ver-eclipse-agosto-provincia-andalucia-zonas-apreciar-20260808115320-nts.html",
+      "desc": "El próximo miércoles 12 de agosto, la Luna se interpondrá entre la Tierra y el Sol para dar lugar a un eclipse solar que será especialmente destacado en España . Se trata del primero de los tres eclipses solares que podrán contemplarse desde el país durante tr",
+      "date": "Sat, 08 Aug 2026 11:53:21 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "El deán: «La obra de la Mezquita-Catedral de Córdoba avanza prevaleciendo la calidad de la rehabilitación»",
+      "link": "https://www.abc.es/espana/andalucia/cordoba/dean-obra-mezquitacatedral-cordoba-avanza-prevaleciendo-calidad-20260808114940-nts.html",
+      "desc": "El deán presidente del Cabildo , Joaquín Alberto Nieva, ha abordado, en un vídeo difundido por dicha entidad eclesiástica, los trabajos de rehabilitación de la Mezquita-Catedral de Córdoba por los daños sufridos en el incendio que sufrió el monumento hace just",
+      "date": "Sat, 08 Aug 2026 11:49:41 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "El Hospital General de Valencia consolida la atención al duelo perinatal con un área específica y una guía asistencial",
+      "link": "https://www.abc.es/espana/comunidad-valenciana/hospital-general-valencia-consolida-atencion-duelo-perinatal-20260808114252-nt.html",
+      "desc": "El Hospital General de Valencia consolida su modelo de atención al duelo perinatal con la puesta en marcha de un área específica para pacientes y la elaboración de una guía dirigida a profesionales, dos iniciativas que refuerzan la humanización de la asistenci",
+      "date": "Sat, 08 Aug 2026 11:42:52 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Toledo homenajea a Bahamontes en el tercer aniversario de su fallecimiento con la mirada puesta en su centenario",
+      "link": "https://www.abc.es/espana/castilla-la-mancha/toledo/toledo-homenajea-bahamontes-tercer-aniversario-fallecimiento-vista-20260808113027-nt.html",
+      "desc": "Con motivo del tercer aniversario del fallecimiento de Federico Martín Bahamontes , primer ciclista español en ganar el Tour de Francia , el Ayuntamiento de Toledo ha rendido homenaje a uno de los deportistas más ilustres de la ciudad con la colocación de una ",
+      "date": "Sat, 08 Aug 2026 11:30:27 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Alerta este sábado por fuertes tormentas en Burgos, Palencia y Valladolid",
+      "link": "https://www.abc.es/espana/castilla-leon/alerta-sabado-fuertes-tormentas-burgos-palencia-valladolid-20260808112530-nt.html",
+      "desc": "La Agencia Estatal de Meterología (Aemet) ha activado para este sábado los avisos por fuertes tormentas, que podrían estar acompañadas de granizo y fuertes vientos, en Burgos, Palencia y Valladolid . Además, en el caso de la provincia burgalesa el aviso alcanz",
+      "date": "Sat, 08 Aug 2026 11:25:30 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Tres incendios activos en Castellón: mil vecinos confinados, masías evacuadas y la UME movilizada",
+      "link": "https://www.abc.es/espana/comunidad-valenciana/tres-incendios-activos-castellon-mil-vecinos-confinados-20260808110753-nt.html",
+      "desc": "Mientras mil vecinos continúan confinados, los bomberos del Consorcio Provincial de Castellón y de la Generalitat, junto con la UME, mantienen este sábado las labores de extinción de los tres incendios forestales declarados en la tarde del viernes 7 de agosto ",
+      "date": "Sat, 08 Aug 2026 11:07:53 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Doble crimen de Arbo: una ejecución anunciada en la intimidad de una noche de verano",
+      "link": "https://www.abc.es/espana/galicia/doble-crimen-arbo-ejecucion-anunciada-intimidad-noche-20260804105843-nt.html",
+      "desc": "« Dos disparos certeros en la cabeza provenientes de la escopeta de un experimentado cazador». Esta frase que forma parte del relato de los hechos probados del doble crimen de Arbo, ocurrido en el verano de 2015 en esta localidad pontevedresa, bien podría resu",
+      "date": "Sat, 08 Aug 2026 10:58:43 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Interrumpida la línea C-2 de Málaga tras golpear un Media Distancia una catenaria desprendida",
+      "link": "https://www.abc.es/espana/andalucia/malaga/interrumpida-linea-malaga-tras-golpear-media-distancia-20260808105324-nts.html",
+      "desc": "Nueva incidencia en la red de Renfe, esta vez en Málaga. La línea C-2 del Cercanías que comunica la capital de la Costa del Sol con Álora en el Valle del Guadalhorce se encuentra temporalmente interrumpida después de que un tren de Media Distancia entre Málaga",
+      "date": "Sat, 08 Aug 2026 10:53:24 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Herido un joven de 21 años tras ser agredido con un arma blanca en Ciudad Real",
+      "link": "https://www.abc.es/espana/castilla-la-mancha/herido-joven-anos-tras-agredido-arma-blanca-20260808104201-nt.html",
+      "desc": "Un joven de 21 años de edad ha resultado herido en la zona lumbar tras ser agredido con un arma blanca en una vía pública de Ciudad Real , teniendo que ser trasladado al Hospital Universitario de la capital. Según ha informado el Servicio de Atención y Coordin",
+      "date": "Sat, 08 Aug 2026 10:42:01 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Una anciana de 97 años muere ahogada en una piscina particular de Lérida",
+      "link": "https://www.abc.es/espana/cataluna/anciana-anos-muere-ahogada-piscina-particular-lerida-20260808103707-nt.html",
+      "desc": "Una anciana de 97 años ha muerto ahogada este viernes por la noche en una piscina particular de Els Plans de Sió (Lleida), según ha informado Protección Civil en un comunicado. El aviso al 112 se recibió a las 20.30 horas de ayer, informando del accidente, y e",
+      "date": "Sat, 08 Aug 2026 10:37:07 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Muere el sacerdote Lluís Bonet, antiguo rector de la Sagrada Familia",
+      "link": "https://www.abc.es/espana/cataluna/muere-sacerdote-lluis-bonet-antiguo-rector-sagrada-20260807102602-nt.html",
+      "desc": "El sacerdote Lluís Bonet (Barcelona, 1931), antiguo rector de la Sagrada Familia, ha fallecido este viernes. Según han confirmado a ABC fuentes conocedoras, el religioso ha donado su cuerpo a la Ciencia, y será en septiembre, en una fecha aún por concretar, cu",
+      "date": "Sat, 08 Aug 2026 10:26:02 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "El “enfrentamiento total” entre Italia y España protagoniza la prensa italiana",
+      "link": "https://www.lavanguardia.com/politica/20260808/11610297/enfrentamiento-total-italia-espana-protagoniza-prensa-italiana.html",
+      "desc": "“¿Cuánto tiempo puede durar una guerra diplomática en las fronteras sin que los viajeros paguen las consecuencias?”, se pregunta 'La Stampa'",
+      "date": "08 Aug 2026 10:18:31 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
     {
       "title": "Un fugitivo buscado por Lituania intenta escapar tras ser detenido en Alicante y agrede a un policía",
       "link": "https://www.abc.es/espana/comunidad-valenciana/fugitivo-buscado-lituania-intenta-escapar-tras-detenido-20260808101428-nt.html",
@@ -13,9 +153,9 @@
       "caso": "other"
     },
     {
-      "title": "La UME se incorpora a los trabajos de extinción del incendio de Niebla",
+      "title": "Los bomberos y la UME afrontan horas críticas para controlar el incendio de Niebla antes de que regrese el viento",
       "link": "https://www.abc.es/espana/andalucia/huelva/inestabilidad-incendio-niebla-obliga-llamar-ume-activar-20260808082128-nts.html",
-      "desc": "A última hora de este viernes, el consejero de Presidencia, Sanidad y Emergencias y director del Plan de Emergencias por Incendios Forestales de Andalucía (Plan Infoca), Antonio Sanz, activó la fase de emergencia, situación operativa 2 , debido a la «inestabil",
+      "desc": "El incendio del paraje Raboconejo de Niebla (Huelva) afronta horas críticas para su desarrollo. Hay una pequeñísima ventana de oportunidad durante esta mañana y hasta las dos de la tarde, momento a partir del cual regresarán unos vientos que pueden volver a co",
       "date": "Sat, 08 Aug 2026 10:10:10 +0200",
       "source": "ABC",
       "color": "#c0392b",
@@ -73,133 +213,13 @@
       "caso": "other"
     },
     {
-      "title": "Horario e itinerario de la procesión de San Lorenzo en Córdoba",
-      "link": "https://www.abc.es/espana/andalucia/cordoba/semana-santa/horario-itinerario-procesion-san-lorenzo-cordoba-20260808132602-nts.html",
-      "desc": "La festividad de San Lorenzo mártir el 10 de agosto es una fecha anclada a las devociones estivales en pleno corazón de Córdoba como signo de que la fe sigue latiendo en el tiempo de vacaciones. La imagen titular de la parroquia de San Lorenzo y de la cofradía",
-      "date": "Sat, 08 Aug 2026 09:20:02 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "La Mezquita-Catedral encara la normalidad un año después del incendio que sobrecogió a Córdoba y al mundo",
-      "link": "https://www.abc.es/espana/andalucia/cordoba/mezquitacatedral-cordoba-encara-normalidad-ano-despues-incendio-20260808090615-nts.html",
-      "desc": "Se cumple un año desde aquel 8 de agosto de 2025 en el que Córdoba —y buena parte del mundo— tuvo el corazón en un puño al ver cómo las llamas alcanzaban una de las fachadas de la Mezquita-Catedral, joya de la ciudad, Patrimonio de la Humanidad y el segundo mo",
-      "date": "Sat, 08 Aug 2026 09:06:15 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Todo lo que se ama",
-      "link": "https://www.abc.es/espana/andalucia/cordoba/luis-miranda-ama-20260808123140-nts.html",
-      "desc": "En ese lugar que ahora está lleno de andamios y de manos cuidadosas que limpian, fijan y reparan, los ojos ven método, conocimiento, paciencia y tranquilidad, pero la cabeza sabe que hubo un día en que el fuego hambriento avanzó durante demasiados minutos angu",
-      "date": "Sat, 08 Aug 2026 09:06:04 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "El vino gallego que arrasa en toda España y ha disparado su producción un 300% en solo una década",
-      "link": "https://www.abc.es/espana/galicia/vino-gallego-arrasa-espana-disparado-produccion-300-20260808085612-nt.html",
-      "desc": "El vino de la Denominación de Origen Monterrei está atravesando una auténtica época dorada. En apenas diez años, esta comarca vitivinícola orensana ha logrado lo impensable: multiplicar su volumen de forma exponencial y consolidar sus vinos como unos de los má",
-      "date": "Sat, 08 Aug 2026 08:56:12 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Los 26 puntos oficiales para ver el eclipse en Castilla-La Mancha esperan a más de 60.000 personas",
-      "link": "https://www.abc.es/espana/castilla-la-mancha/puntos-oficiales-ver-eclipse-castillala-mancha-esperan-20260807080108-nt.html",
-      "desc": "Castilla-La Mancha ultima el dispositivo especial de seguridad y movilidad con el que afrontará el eclipse total de sol del próximo 12 de agosto. Las administraciones prevén la asistencia de más de 60.000 personas a los 26 puntos oficiales de seguimiento habil",
-      "date": "Sat, 08 Aug 2026 08:01:08 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "«No he visto un incendio igual en los años que llevo como bombera»",
-      "link": "https://www.abc.es/espana/castilla-la-mancha/toledo/visto-incendio-igual-anos-llevo-bombera-20260807075420-nt.html",
-      "desc": "Hay imágenes que un incendio no consume. Se quedan para siempre en la memoria de quienes lo vivieron. Gloria las guarda con una nitidez que todavía estremece: casas completamente calcinadas, coches reducidos a cenizas, crujidos ensordecedores de pinos al quebr",
-      "date": "Sat, 08 Aug 2026 07:54:20 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "La ciudad autónoma empieza a calcular las pérdidas por el asalto",
-      "link": "https://www.abc.es/espana/andalucia/ciudad-autonoma-empieza-calcular-perdidas-asalto-20260807073627-nts.html",
-      "desc": "Superados los días de conmoción inicial, llega el momento de echar cuentas. Y no se esperan halagüeñas. Ceuta está empezando ya a contabilizar las pérdidas ocasionadas por la entrada de decenas de miles de personas hace una semana, que tuvieron un rotundo prim",
-      "date": "Sat, 08 Aug 2026 07:36:27 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Alberto Venegas, abogado laboralista: «El festivo del 15 de agosto solo se compensa si tienes un horario laboral de lunes a domingo»",
-      "link": "https://www.abc.es/espana/andalucia/alberto-venegas-abogado-laboralista-20260808114207-nts.html",
-      "desc": "El próximo 15 de agosto , festivo nacional por la Asunción de la Virgen María , cae en sábado , lo cual deja actualmente varias dudas para muchos trabajadores. Y es que, cuando un día festivo coincide con una jornada que ya forma parte del descanso semanal, su",
-      "date": "Sat, 08 Aug 2026 07:18:14 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "«Hay que confirmar que hay seguridad en Ceuta»",
-      "link": "https://www.abc.es/espana/andalucia/confirmar-seguridad-ceuta-20260808071759-nts.html",
-      "desc": "Una semana después de que decenas de miles de marroquíes entraran en Ceuta, y lejos aún de que se recobre del todo la normalidad -el presidente de la ciudad autónoma, Juan Jesús Vivas, estima que permanecen aún varios miles en el territorio- quienes allí desar",
-      "date": "Sat, 08 Aug 2026 07:17:59 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "La inteligencia artificial llega para proteger los monumentos andaluces",
-      "link": "https://www.abc.es/espana/andalucia/inteligencia-artificial-llega-proteger-monumentos-andaluces-20260808201959-nts.html",
-      "desc": "La Inteligencia Artificial también ha llegado a la protección y conservación de los monumentos andaluces. Se ha convertido en una herramienta fundamental para anteponerse a la catástrofe, valorando los riesgos, y para optimizar las actuaciones. El proyecto Art",
-      "date": "Sat, 08 Aug 2026 07:14:14 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Pilar Ortiz: «Los primeros auxilios en patrimonio son tan importantes como en las emergencias sanitarias»",
-      "link": "https://www.abc.es/espana/andalucia/pilar-ortiz-primeros-auxilios-patrimonio-importantes-emergencias-20260808171745-nts.html",
-      "desc": "La catedrática de la Universidad Pablo de Olavide, Pilar Ortiz, es la coordinadora del proyecto Art-Risk de Inteligencia artificial aplicada a la conservación preventiva de edificios patrimoniales, merecedor del premio Europa Nostra. También lidera Fénix 4.0, ",
-      "date": "Sat, 08 Aug 2026 07:13:57 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "No solo es el fuego: las principales amenazas del patrimonio andaluz",
-      "link": "https://www.abc.es/espana/andalucia/solo-fuego-principales-amenazas-patrimonio-andaluz-20260808211113-nts.html",
-      "desc": "El rico y variado patrimonio cultural histórico de Andalucía se ha de proteger ante numerosos y diferentes riesgos . Externos e internos. El incendio de la Mezquita-Catedral de Córdoba (antes el de Notre-Dame) muestra el fuego como el principal enemigo. Al men",
-      "date": "Sat, 08 Aug 2026 07:13:40 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "La lección de la Mezquita: Andalucía blinda su patrimonio frente al fuego y las catástrofes",
-      "link": "https://www.abc.es/espana/andalucia/leccion-mezquita-andalucia-blinda-patrimonio-frente-fuego-20260808192449-nts.html",
-      "desc": "Una densa columna de humo negro anticipaba las llamas a la caída del sol, en su atardecer de agosto. El fuego trepaba por los arcos centenarios, saltaba entre bóvedas, asomaba por las capillas y alcanzaba el cielo de la Mezquita-Catedral de Córdoba devorando c",
-      "date": "Sat, 08 Aug 2026 07:13:09 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
+      "title": "'Misión Eclipse', una experiencia sensorial que invita a alzar la mirada",
+      "link": "https://www.lavanguardia.com/television/20260808/11597901/mision-eclipse-experiencia-sensorial-invita-alzar-mirada.html",
+      "desc": "",
+      "date": "08 Aug 2026 08:00:00 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
       "caso": "other"
     },
     {
@@ -217,26 +237,6 @@
       "link": "https://www.lavanguardia.com/series/20260808/11609861/cuatro-series-enamorarse-son-dramas-juveniles-comedias-romanticas.html",
       "desc": "Nos vamos a Suecia, Irlanda del Norte, Canadá y Estados Unidos para recomendar cuatro historias de amor inolvidables, íntimas y sobre todo buenas",
       "date": "08 Aug 2026 06:23:01 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "De la Espriella asume la presidencia colombiana en otro avance de la derecha dura",
-      "link": "https://www.lavanguardia.com/internacional/20260808/11609493/espriella-asume-presidencia-colombiana-avance-derecha-dura-suramericana.html",
-      "desc": "La ceremonia se celebró en&nbsp;Cali, en una ciudad tomada por 11.000 soldados en medio de una fuerte tensión&nbsp;",
-      "date": "08 Aug 2026 06:00:00 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "El terrorismo corso resurge y amenaza a los franceses que se instalen en la isla",
-      "link": "https://www.lavanguardia.com/internacional/20260808/11609877/terrorismo-corso-resurge-amenaza-franceses-instalen-isla.html",
-      "desc": "En una rueda de prensa clandestina, el FLNC califica de “mascarada” el nuevo proyecto de autonomía",
-      "date": "08 Aug 2026 06:00:00 +0200",
       "source": "La Vanguardia",
       "color": "#8e44ad",
       "feedId": "LaVanguardia",
