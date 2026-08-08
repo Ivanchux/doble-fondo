@@ -1,7 +1,107 @@
 {
-  "updated": "2026-08-07T22:29:19Z",
+  "updated": "2026-08-08T01:12:15Z",
   "count": 24,
   "items": [
+    {
+      "title": "La crisis de Ceuta se convierte en un arma electoral de Trump",
+      "link": "https://www.abc.es/espana/crisis-ceuta-convierte-arma-electoral-trump-20260805011105-nt.html",
+      "desc": "La crisis migratoria de Ceuta ha dejado de ser únicamente un problema para el Gobierno español . Apenas una semana después de la entrada masiva de decenas de miles de inmigrantes desde Marruecos, el episodio se ha convertido en un argumento central del discurs",
+      "date": "Sat, 08 Aug 2026 01:11:05 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Semana negra de pateras y naufragios en unas islas Baleares que miran a la crisis de Ceuta",
+      "link": "https://www.abc.es/espana/baleares/semana-negra-pateras-naufragios-islas-baleares-miran-20260808011017-nt.html",
+      "desc": "Mientras Felipe VI recibía el jueves en el Palacio de Marivent al presidente de Ceuta, Juan Jesús Vivas, a pocos kilómetros de allí otra embarcación precaria trataba de alcanzar las costas de Baleares. No era una imagen aislada ni un episodio excepcional. Era ",
+      "date": "Sat, 08 Aug 2026 01:10:17 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "El Gobierno admite ya el «desborde» de los menores en Ceuta con casi el triple de los inicialmente previstos",
+      "link": "https://www.abc.es/espana/situacion-menores-desborda-ceuta-gobierno-iniste-ciudad-20260807010930-nt.html",
+      "desc": "Ni las peores previsiones del Gobierno contaban con que, en las primeras horas de identificación de menores no acompañados, se contabilizarían 1.342 niños y niñas en Ceuta . Fue la ministra de Juventud e Infancia, Sira Rego, la que actualizó unos datos que has",
+      "date": "Sat, 08 Aug 2026 01:09:30 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Policías y guardias civiles avisan sobre los refuerzos enviados a Ceuta: «No son suficientes»",
+      "link": "https://www.abc.es/espana/policias-guardias-civiles-avisan-refuerzos-enviados-ceuta-20260807010924-nt.html",
+      "desc": "«No son suficientes» . Así definen las distintas asociaciones que representan a los agentes de Guardia Civil y Policía Nacional al número de efectivos y medios que actualmente se mantiene en Ceuta tras las crisis migratoria de la pasada semana. Lo hacen tras l",
+      "date": "Sat, 08 Aug 2026 01:09:24 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Cazadores de eclipses que recorren miles de kilómetros para verlos: «Hay que vivirlo para entenderlo»",
+      "link": "https://www.abc.es/espana/castilla-leon/entrecomillado-20260803010540-nt.html",
+      "desc": "Para la mayoría de los españoles, el del 12 de agosto será el primer eclipse solar total que hayan visto. Para otros, sin embargo, será una cita más en una larga lista de persecuciones por todo el planeta. Son los llamados 'cazadores de eclipses', aficionados ",
+      "date": "Sat, 08 Aug 2026 01:05:40 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Un preso controlaba desde la cárcel de Córdoba el tráfico de pateras de Argelia",
+      "link": "https://www.abc.es/espana/preso-controlaba-carcel-trafico-pateras-argelia-20260726010443-nt.html",
+      "desc": "De Beninsef (Argelia) en patera a las playas de Almería por 195 millones en moneda argelina. Este fue uno de los viajes de una mafia de la inmigración que tenía sus tentáculos en España. La Policía Nacional y la Guardia Civil detuvieron a los miembros de esta ",
+      "date": "Sat, 08 Aug 2026 01:04:43 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Estrangula a su anciano suegro mientras su novio hacía una videoconferencia al lado",
+      "link": "https://www.abc.es/espana/madrid/estrangula-anciano-suegro-novio-videoconferencia-lado-20260807010420-nt.html",
+      "desc": "Extraño homicidio el ocurrido este caluroso viernes de agosto en el barrio de San Pascual, en el corazón de Ciudad Lineal, muy cerca de la Mezquita y del Tanatorio de la M-30. Una mujer ha sido detenida acusada de matar a su suegro, de 84 años, en lo que, dijo",
+      "date": "Sat, 08 Aug 2026 01:04:20 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "La inédita bicefalia del COAM, en crisis por su dirección: «Está manchando nuestro prestigio»",
+      "link": "https://www.abc.es/espana/madrid/coam-prestigiosa-institucion-viciada-guerra-civil-direccion-20260722010004-nt.html",
+      "desc": "El Colegio Oficial de Arquitectos de Madrid (COAM) lleva más de un año inmerso en una crisis inédita . Dos decanos que pelean por su legitimidad y que se consideran impostores mutuamente, recursos duplicados y un galimatías jurídico en el que hasta cuatro juec",
+      "date": "Sat, 08 Aug 2026 01:00:04 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "El Brunch Electronik Festival toma el Fòrum en su primera jornada y reúne a 28.000 personas",
+      "link": "https://www.lavanguardia.com/cultura/20260808/11610095/brunch-electronik-festival-toma-forum-primera-jornada-reune-28-000-personas.html",
+      "desc": "La música, que apenas era un detalle en los orígenes del festival, es hoy su mayor atractivo y la apuesta por la diversidad dentro de la propia electrónica se ha revelado como el camino ideal",
+      "date": "08 Aug 2026 00:55:36 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
+    {
+      "title": "De la Espriella asume la presidencia colombiana en otro avance de la derecha dura",
+      "link": "https://www.lavanguardia.com/internacional/20260808/11609493/espriella-asume-presidencia-colombiana-avance-derecha-dura-suramericana.html",
+      "desc": "La ceremonia se celebró en&nbsp;Cali, en una ciudad tomada por 11.000 soldados en medio de una fuerte tensión&nbsp;",
+      "date": "08 Aug 2026 00:45:19 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
     {
       "title": "La cronología del ajedrez político en cada crisis migratoria España-Marruecos",
       "link": "https://www.abc.es/espana/cronologia-ajedrez-politico-crisis-migratoria-espanamarruecos-20260808000501-ntrc.html",
@@ -10,6 +110,26 @@
       "source": "ABC",
       "color": "#c0392b",
       "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Italia recibe, pese a todo, más inmigrantes que España",
+      "link": "https://www.lavanguardia.com/politica/20260808/11610014/italia-recibe-pese-mas-inmigrantes-espana.html",
+      "desc": "El Gobierno de Meloni no ha logrado impedir que sigan arribando a su territorio miles de ciudadanos al mes procedentes del África y de Oriente Medio",
+      "date": "08 Aug 2026 00:05:00 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
+    {
+      "title": "Los menores de Ceuta no son ilegales",
+      "link": "https://www.lavanguardia.com/politica/20260808/11609990/menores-ceuta-son-ilegales.html",
+      "desc": "",
+      "date": "08 Aug 2026 00:05:00 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
       "caso": "other"
     },
     {
@@ -120,126 +240,6 @@
       "source": "La Vanguardia",
       "color": "#8e44ad",
       "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "A prisión como presunta autora de un incendio forestal en la provincia de León",
-      "link": "https://www.abc.es/espana/castilla-leon/prision-presunta-autora-incendio-forestal-provincia-leon-20260807203521-nt.html",
-      "desc": "A prisión como presunta autora de un incendio forestal declarado el pasado mes de julio en la localidad leonesa de Vega de Espinareda . Es la decisión judicial para una mujer tras haber sido detenida por la Guardia Civil como supuesta cuausante de las llamas e",
-      "date": "Fri, 07 Aug 2026 20:36:22 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "La llegada de Cercanías a Illescas avanza con la licitación de 9,4 kilómetros de doble vía",
-      "link": "https://www.abc.es/espana/castilla-la-mancha/toledo/pueblos/llegada-cercanias-illescas-avanza-licitacion-kilometros-doble-20260807203331-nt.html",
-      "desc": "La llegada de la red de Cercanías a Illescas continúa avanzando con la licitación de uno de los contratos más importantes para hacer realidad la ampliación de la línea C-5 hasta la localidad toledana. Adif ha sacado a concurso por un presupuesto base de licita",
-      "date": "Fri, 07 Aug 2026 20:33:31 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Antonio Sanz admite la «inseguridad y riesgo» que entraña el incendio de Niebla",
-      "link": "https://www.abc.es/espana/andalucia/huelva/antonio-sanz-alerta-peligro-focos-secundarios-incendio-20260807201434-nts.html",
-      "desc": "El consejero de Emergencias, Antonio Sanz, como director del Plan Infoca ha alertado de la «inestabilidad» del incendio declarado el jueves por la tarde en el paraje Raboconejo de Niebla (Huelva). El consejero reseña que la evolución genera «inseguridad y ries",
-      "date": "Fri, 07 Aug 2026 20:15:40 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "El grupo Pegasus aumenta su flota de helicópteros 'UH-60L Black Hawk' para luchar contra los incendios forestales",
-      "link": "https://www.abc.es/espana/andalucia/cordoba/grupo-pegasus-aumenta-flota-helicopteros-uh60l-black-20260807200349-nts.html",
-      "desc": "La multinacional de Palma del Río Pegasus Aero Group ha firmado un acuerdo a largo plazo junto a SkyConnect Leasing para la incorporación de varios helicópteros UH-60L Black Hawk destinados a operaciones de extinción de incendios forestales, protección civil y",
-      "date": "Fri, 07 Aug 2026 20:03:50 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Víctor Sánchez apunta a estar en el estreno liguero ante el Burgos mientras el Córdoba CF medita sobre su futuro",
-      "link": "https://www.abc.es/espana/andalucia/cordoba/cordoba-cf/victor-sanchez-apunta-estar-estreno-liguero-ante-20260807200234-nts.html",
-      "desc": "El Córdoba CF ha puesto el punto y final a su pretemporada con la derrota ante el Almería (4-0). En total, los pupilos de Iván Ania han realizado seis semanas de pretemporada en las que ya se pueden sacar las primeras lecturas positivas y negativas de cara al ",
-      "date": "Fri, 07 Aug 2026 20:02:34 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "El Centro de Inteligencia de las Fuerzas Armadas avisó de un asalto masivo tres días antes del de Ceuta",
-      "link": "https://www.abc.es/espana/centro-inteligencia-fuerzas-armadas-aviso-tres-dias-20260807195355-nt.html",
-      "desc": "El relato del Gobierno sobre el asalto masivo en Ceuta salta por los aires. El Centro de Inteligencia de las Fuerzas Armadas (Cifas) envió una nota informativa sobre un probable asalto masivo en la frontera entre España y Marruecos en coincidencia con la Fiest",
-      "date": "Fri, 07 Aug 2026 19:53:56 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Fervor por Ferran Torres en su pueblo: «Le dije a mi familia que iba a ser protagonista en la final»",
-      "link": "https://www.abc.es/espana/comunidad-valenciana/fervor-ferran-torres-pueblo-dije-familia-iba-20260807195252-nt.html",
-      "desc": "Ferran Torres ha destrozado este viernes aquello de que nadie es profeta en su tierra. El futbolista ha recibido un multitudinario homenaje en su regreso a Foios, su pueblo natal, diecinueve días después de convertirse en campeón del mundo. Miles de personas e",
-      "date": "Fri, 07 Aug 2026 19:52:52 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "La Comunidad de Madrid pone a la venta el ático de Chamberí por 6,7 millones",
-      "link": "https://www.abc.es/espana/madrid/comunidad-madrid-pone-venta-atico-chamberi-millones-20260807194823-nt.html",
-      "desc": "La Comunidad de Madrid ha sacado este viernes a licitación la venta del polémico ático situado en el paseo del General Martínez Campos, en el distrito de Chamberí, que según presidencia debía servir como oficina provisional durante las obras en la sede del gob",
-      "date": "Fri, 07 Aug 2026 19:48:23 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "La DGT obliga a encender las luces de cruce durante el eclipse: el motivo por el que tu coche no lo hará solo",
-      "link": "https://www.abc.es/espana/andalucia/dgt-obligara-encender-luces-cruce-eclipse-motivo-20260807194747-nts.html",
-      "desc": "La llegada del eclipse solar del próximo 12 de agosto movilizará a miles de conductores en las carreteras y la Dirección General de Tráfico (DGT) ha preparado un dispositivo especial ante este fenómeno histórico. La transición repentina hacia la penumbra amena",
-      "date": "Fri, 07 Aug 2026 19:47:47 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "El fuego avanza en Niebla: 24 medios aéreos, 120 bomberos y dos carreteras cortadas",
-      "link": "https://www.abc.es/espana/andalucia/huelva/fuego-avanza-niebla-medios-aereos-120-bomberos-20260807194323-nts.html",
-      "desc": "El incendio en el paraje Raboconejo de Niebla (en Huelva) continúa con su avance tras haber sido declarado el jueves por la tarde y ahora ha obligado a cortadas al tráfico las carreteras HU-3106 y la A-493. Se encuentra en fase de emergencia, situación operati",
-      "date": "Fri, 07 Aug 2026 19:43:23 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Barça y City negocian en buena sintonía el fichaje de Rodri",
-      "link": "https://www.lavanguardia.com/deportes/fc-barcelona/20260807/11610010/rodri-barca-mancheter-city-negocian-buena-sintonia-fichaje.html",
-      "desc": "El equipo inglés rechazó una primera oferta de 45 millones, mientras el jugador descansa en Ibiza",
-      "date": "07 Aug 2026 19:29:34 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "Melendi ofrecerá el próximo 12 de noviembre un tercer concierto en La Coruña",
-      "link": "https://www.abc.es/espana/galicia/melendi-ofrecera-proximo-noviembre-tercer-concierto-coruna-20260807192423-nt.html",
-      "desc": "Melendi hará tres conciertos consecutivos en el Coliseum de La Coruña, después del éxito en 2023 en el mismo recinto con tres fechas en las que se agotaron todas las entradas. Según informa el consistorio, el éxito de ventas registrado para los conciertos ha o",
-      "date": "Fri, 07 Aug 2026 19:24:23 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
       "caso": "other"
     }
   ]
