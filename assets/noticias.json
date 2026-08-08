@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-08T01:12:15Z",
+  "updated": "2026-08-08T03:20:03Z",
   "count": 24,
   "items": [
     {
@@ -87,16 +87,6 @@
       "link": "https://www.lavanguardia.com/cultura/20260808/11610095/brunch-electronik-festival-toma-forum-primera-jornada-reune-28-000-personas.html",
       "desc": "La música, que apenas era un detalle en los orígenes del festival, es hoy su mayor atractivo y la apuesta por la diversidad dentro de la propia electrónica se ha revelado como el camino ideal",
       "date": "08 Aug 2026 00:55:36 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "De la Espriella asume la presidencia colombiana en otro avance de la derecha dura",
-      "link": "https://www.lavanguardia.com/internacional/20260808/11609493/espriella-asume-presidencia-colombiana-avance-derecha-dura-suramericana.html",
-      "desc": "La ceremonia se celebró en&nbsp;Cali, en una ciudad tomada por 11.000 soldados en medio de una fuerte tensión&nbsp;",
-      "date": "08 Aug 2026 00:45:19 +0200",
       "source": "La Vanguardia",
       "color": "#8e44ad",
       "feedId": "LaVanguardia",
@@ -240,6 +230,16 @@
       "source": "La Vanguardia",
       "color": "#8e44ad",
       "feedId": "LaVanguardia",
+      "caso": "other"
+    },
+    {
+      "title": "A prisión como presunta autora de un incendio forestal en la provincia de León",
+      "link": "https://www.abc.es/espana/castilla-leon/prision-presunta-autora-incendio-forestal-provincia-leon-20260807203521-nt.html",
+      "desc": "A prisión como presunta autora de un incendio forestal declarado el pasado mes de julio en la localidad leonesa de Vega de Espinareda . Es la decisión judicial para una mujer tras haber sido detenida por la Guardia Civil como supuesta cuausante de las llamas e",
+      "date": "Fri, 07 Aug 2026 20:36:22 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
       "caso": "other"
     }
   ]
