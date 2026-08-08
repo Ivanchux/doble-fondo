@@ -1,7 +1,97 @@
 {
-  "updated": "2026-08-08T03:20:03Z",
+  "updated": "2026-08-08T04:51:01Z",
   "count": 24,
   "items": [
+    {
+      "title": "De la Espriella asume la presidencia colombiana en otro avance de la derecha dura",
+      "link": "https://www.lavanguardia.com/internacional/20260808/11609493/espriella-asume-presidencia-colombiana-avance-derecha-dura-suramericana.html",
+      "desc": "La ceremonia se celebró en&nbsp;Cali, en una ciudad tomada por 11.000 soldados en medio de una fuerte tensión&nbsp;",
+      "date": "08 Aug 2026 06:00:00 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
+    {
+      "title": "Las restricciones agravan el conflicto por el fondeo en la Costa Brava",
+      "link": "https://www.lavanguardia.com/local/barcelona/20260808/11610020/restricciones-agravan-conflicto-fondeo-costa-brava.html",
+      "desc": "Los ayuntamientos defienden el balizamiento para proteger bañistas y posidonia",
+      "date": "08 Aug 2026 06:00:00 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
+    {
+      "title": "La presión policial alivia la angustia de los vecinos del edificio de la calle Muntaner",
+      "link": "https://www.lavanguardia.com/local/barcelona/20260808/11610015/presion-policial-alivia-angustia-vecinos-edificio-calle-muntaner.html",
+      "desc": "Los toxicómanos instalados en un piso de la finca que les amargaban la vida se muestran ahora más discretos",
+      "date": "08 Aug 2026 06:00:00 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
+    {
+      "title": "¿Narcopiso? ¿Qué es eso?",
+      "link": "https://www.lavanguardia.com/opinion/20260808/11609996/narcopiso-que.html",
+      "desc": "",
+      "date": "08 Aug 2026 06:00:00 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
+    {
+      "title": "Las aerolíneas endurecen el control del equipaje de mano durante el embarque",
+      "link": "https://www.lavanguardia.com/vivo/20260808/11609882/aerolineas-endurecen-control-equipaje-mano-embarque.html",
+      "desc": "El celo con que se miden mochilas o bultos lleva a recargos que encarecen el billete",
+      "date": "08 Aug 2026 06:00:00 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
+    {
+      "title": "Más turistas y menos ‘jodechinchos’",
+      "link": "https://www.lavanguardia.com/vida/20260808/11609938/mas-turistas-jodechinchos.html",
+      "desc": "",
+      "date": "08 Aug 2026 06:00:00 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
+    {
+      "title": "El terrorismo corso resurge y amenaza a los franceses que se instalen en la isla",
+      "link": "https://www.lavanguardia.com/internacional/20260808/11609877/terrorismo-corso-resurge-amenaza-franceses-instalen-isla.html",
+      "desc": "En una rueda de prensa clandestina, el FLNC califica de “mascarada” el nuevo proyecto de autonomía",
+      "date": "08 Aug 2026 06:00:00 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
+    {
+      "title": "Port Saplaya exige soluciones ante el «abandono»: «Pagamos más y recibimos menos»",
+      "link": "https://www.abc.es/espana/comunidad-valenciana/port-saplaya-exige-soluciones-ante-abandono-municipal-20260808051634-nt.html",
+      "desc": "Vestidos de rojo, como las banderas que con frecuencia ondean en la playa por los episodios de contaminación por residuos fecales, los vecinos de Port Saplaya, una zona residencial costera de la localidad valenciana de Alboraya, han decidido convertir su males",
+      "date": "Sat, 08 Aug 2026 05:30:08 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Valencia CF-Newcastle United, en directo: dónde ver por televisión hoy el Trofeu Taronja",
+      "link": "https://www.abc.es/espana/comunidad-valenciana/valencia-cfnewcastle-united-directo-ver-television-hoy-20260808123553-nt.html",
+      "desc": "El partido entre el Valencia CF y el Newcastle United podrá seguirse en directo por la televisión y la radio de À Punt. La cadena pública valenciana retransmitirá el encuentro amistoso que ambos equipos mantendrán en Mestalla este sábado 8 de agosto a partir d",
+      "date": "Sat, 08 Aug 2026 05:30:02 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
     {
       "title": "La crisis de Ceuta se convierte en un arma electoral de Trump",
       "link": "https://www.abc.es/espana/crisis-ceuta-convierte-arma-electoral-trump-20260805011105-nt.html",
@@ -147,96 +237,6 @@
       "link": "https://www.abc.es/espana/asturias/encuentran-miranda-menor-secuestrada-padres-biologicos-oviedo-20260807221750-nt.html",
       "desc": "La Policía Nacional ha localizado y puesto a salvo, a primera hora de este viernes, a Miranda, la menor secuestrada por sus padres biológicos el pasado 30 de abril durante una visita programada en un punto de encuentro familiar en Oviedo. Tras comenzar el disp",
       "date": "Fri, 07 Aug 2026 22:17:51 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "El fuego en una cocina obliga a desalojar un inmueble en la toledana plaza de la Magdalena",
-      "link": "https://www.abc.es/espana/castilla-la-mancha/toledo/fuego-cocina-obliga-desalojar-inmueble-toledana-plaza-20260807213921-nt.html",
-      "desc": "Un incendio declarado este viernes en una vivienda del número 13 de la plaza Magdalena, en el Casco Histórico de Toledo, ha calcinado por completo la cocina del piso afectado por las llamas que no han causado daños personales. Los bomberos recibieron el aviso ",
-      "date": "Fri, 07 Aug 2026 21:39:21 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Trump insiste en echar a Lisa Cook de la Fed pese a que el Supremo bloqueó el primer intento",
-      "link": "https://www.lavanguardia.com/economia/20260807/11610036/trump-insiste-echar-lisa-cook-fed-pese-supremo-bloqueo-primer-intento.html",
-      "desc": "Hace un año que el presidente decretó el despido inmediato por un supuesto fraude hipotecario, que los jueces paralizaron por no respetar el proceso y el máximo órgano judicial así lo confirmó el pasado junio&nbsp;",
-      "date": "07 Aug 2026 21:32:56 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "El calor se ceba con Córdoba: cuatro de las diez temperaturas más altas del país se registran en la provincia",
-      "link": "https://www.abc.es/espana/andalucia/cordoba/calor-ceba-cordoba-cuatro-diez-temperaturas-altas-20260807211510-nts.html",
-      "desc": "El calor no da tregua. Córdoba volverá a experimentar un episodio de altas temperaturas durante este fin de semana, con el mercurio superando de nuevo la barrera de los 40 grados, un registro en el que se ha mantenido buena parte de la pasada semana. Sin ir má",
-      "date": "Fri, 07 Aug 2026 21:15:11 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "El Gobierno establece controles fronterizos a los viajeros procedentes de Italia tras la negativa de Meloni a retirar los suyos",
-      "link": "https://www.abc.es/espana/gobierno-establece-controles-fronterizos-viajeros-procedentes-italia-20260807211504-nt.html",
-      "desc": "El Gobierno ha anunciado que establecerá de manera temporal los controles en las fronteras interiores de puertos y aeropuertos para los desplazamientos procedentes de Italia. La decisión del Gobierno llega después de que Meloni desoyese las amenazas de Sánchez",
-      "date": "Fri, 07 Aug 2026 21:15:04 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "España suspende Schengen con Italia tras rechazar Meloni el ultimátum de Sánchez",
-      "link": "https://www.lavanguardia.com/politica/20260807/11610034/espana-restablece-controles-fronterizos-viajeros-procedentes-italia.html",
-      "desc": "El Ministerio del Interior establecerá desde la medianoche de este sábado controles en puertos y aeropuertos para los desplazamientos desde Italia por su “persistente presión migratoria”",
-      "date": "07 Aug 2026 21:14:23 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "El PSOE culpa a Velázquez de perder los fondos europeos para financiar el pabellón deportivo",
-      "link": "https://www.abc.es/espana/castilla-la-mancha/toledo/psoe-culpa-velazquez-perder-fondos-europeos-financiar-20260807210759-nt.html",
-      "desc": "El Grupo Municipal Socialista ha acusado al alcalde de Toledo, Carlos Velázquez, de intentar «buscar permanentemente culpables en otras administraciones para tapar su propia incompetencia» y considera que sus críticas al Gobierno de España y a la ministra Mila",
-      "date": "Fri, 07 Aug 2026 21:09:38 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Castilla y León se blinda ante el eclipse: «Es uno de los mayores retos desde la pandemia»",
-      "link": "https://www.abc.es/espana/castilla-leon/junta-blinda-eclipse-mayores-retos-pandemia-llevamos-20260804210814-nt.html",
-      "desc": "Castilla y León mantiene activado desde el pasado 29 de abril su plan de Protección Civil en nivel 2. ¿El motivo? La organización de los dispositivos de seguridad en cada una de las nueve provincias ante el eclipse astronómico del próximo 12 de agosto. Los tra",
-      "date": "Fri, 07 Aug 2026 21:08:14 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "La Comunidad de Madrid pone a la venta el ático de Chamberí por 6,69 millones de euros",
-      "link": "https://www.lavanguardia.com/politica/20260807/11610026/comunidad-madrid-pone-venta-atico-chamberi-6-69-millones-euros.html",
-      "desc": "El Gobierno madrileño también ha puesto a la venta&nbsp;cuatro inmuebles de Gran Vía 6 por un valor de 11,8 millones de euros",
-      "date": "07 Aug 2026 20:54:45 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "A prisión como presunta autora de un incendio forestal en la provincia de León",
-      "link": "https://www.abc.es/espana/castilla-leon/prision-presunta-autora-incendio-forestal-provincia-leon-20260807203521-nt.html",
-      "desc": "A prisión como presunta autora de un incendio forestal declarado el pasado mes de julio en la localidad leonesa de Vega de Espinareda . Es la decisión judicial para una mujer tras haber sido detenida por la Guardia Civil como supuesta cuausante de las llamas e",
-      "date": "Fri, 07 Aug 2026 20:36:22 +0200",
       "source": "ABC",
       "color": "#c0392b",
       "feedId": "ABC",
