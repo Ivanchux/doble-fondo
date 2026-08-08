@@ -1,7 +1,17 @@
 {
-  "updated": "2026-08-08T20:22:03Z",
+  "updated": "2026-08-08T22:22:18Z",
   "count": 24,
   "items": [
+    {
+      "title": "El Udinese sorprende a un baby Barça y se lleva el triangular",
+      "link": "https://www.lavanguardia.com/deportes/fc-barcelona/20260808/11610465/resumen-udinese-barca-triangular.html",
+      "desc": "Un gol de Bayo al final derrota la juventud del equipo de Flick",
+      "date": "08 Aug 2026 23:30:04 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
     {
       "title": "Nueve heridos tras colisionar dos motos en el campeonato de motociclismo urbano de La Bañeza",
       "link": "https://www.abc.es/espana/castilla-leon/nueve-heridos-tras-colisionar-dos-motos-campeonato-20260808213511-nt.html",
@@ -93,9 +103,9 @@
       "caso": "other"
     },
     {
-      "title": "Aumenta el despliegue de efectivos de la UME y medios para atajar las llamas en Huelva",
+      "title": "Sanz señala «avances» en el incendio de Niebla, aunque su perspectiva sigue siendo compleja",
       "link": "https://www.abc.es/espana/andalucia/huelva/aumenta-despliegue-efectivos-ume-medios-atajar-llamas-20260808192325-nts.html",
-      "desc": "Los efectivos de la Unidad Militar de Emergencias (UME) movilizados para apoyar el combate al incendio forestal de Niebla van a incrementarse esta misma tarde. Según ha confirmado el delegado del Gobierno de España en Andalucía en funciones, Francisco Toscano,",
+      "desc": "La situación en Niebla sigue siendo «compleja», pero ya se han registrado algunos avances en el combate al incendio desatado la tarde del jueves. Es una esperanza, aunque muy tímida, advierte el consejero de Presidencia, Sanidad y Emergencias y director del Pl",
       "date": "Sat, 08 Aug 2026 19:23:25 +0200",
       "source": "ABC",
       "color": "#c0392b",
@@ -227,16 +237,6 @@
       "link": "https://www.lavanguardia.com/local/barcelona/20260808/11610399/piso-toxicomanos-muntaner-suma-ano-49-intervenciones-policiales.html",
       "desc": "El PP exige al Ayuntamiento de Barcelona que haga uso de todas las herramientas legales disponibles para propiciar el desalojo de esta vivienda",
       "date": "08 Aug 2026 17:12:59 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "El Senado de EE.UU. confirma a Todd Blanche, abogado de Trump, como fiscal general",
-      "link": "https://www.lavanguardia.com/internacional/20260808/11610378/senado-ee-uu-confirma-todd-blanche-abogado-trump-fiscal-general.html",
-      "desc": "Tras superar las dudas de los republicanos sobre la independencia del Departamento de Justicia, el fiel abogado del presidente se pone al mando de la persecución de sus enemigos políticos",
-      "date": "08 Aug 2026 15:51:01 +0200",
       "source": "La Vanguardia",
       "color": "#8e44ad",
       "feedId": "LaVanguardia",
