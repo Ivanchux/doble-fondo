@@ -1,7 +1,87 @@
 {
-  "updated": "2026-08-08T12:36:39Z",
+  "updated": "2026-08-08T14:26:40Z",
   "count": 24,
   "items": [
+    {
+      "title": "Un preso agrede a un funcionario en la cárcel de Villena tras consumir  'speed'",
+      "link": "https://www.abc.es/espana/comunidad-valenciana/preso-agrede-funcionario-carcel-villena-tras-consumir-20260808161115-nt.html",
+      "desc": "Un «grave» altercado registrado este viernes, 7 de agosto, en el Centro Penitenciario de Alicante II, en Villena, ha vuelto a poner el foco en la entrada y consumo de sustancias estupefacientes en las prisiones. El incidente se produjo alrededor de las 20.00 h",
+      "date": "Sat, 08 Aug 2026 16:11:16 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Hallan sin vida al hombre con alzhéimer desaparecido hace una semana en Churriana",
+      "link": "https://www.abc.es/espana/andalucia/granada/hallan-cuerpo-vida-hombre-alzheimer-desaparecido-semana-20260808160336-nts.html",
+      "desc": "La búsqueda de Jesús Cantero, el hombre de 66 años con alzhéimer desaparecido hace una semana en el municipio granadino de Churriana de la Vega, ha terminado de la peor forma al encontrarse este sábado su cuerpo en el Camino del Jueves, una vía de servicio de ",
+      "date": "Sat, 08 Aug 2026 16:03:36 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Rollán advierte por carta a Albares, Robles y Marlaska de que exigirá responsabilidades legales si no comparecen en el Senado",
+      "link": "https://www.abc.es/espana/rollan-advierte-carta-albares-robles-marlaska-exigira-20260808153733-nt.html",
+      "desc": "El presidente del Senado, Pedro Rollán , ha advertido por carta a los ministros de Asuntos Exteriores, Unión Europea y Cooperación, José Manuel Albares; de Defensa, Margarita Robles; y de Interior, Fernando Grande-Marlaska, de que su negativa a comparecer «sin",
+      "date": "Sat, 08 Aug 2026 15:40:19 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "La vegetación perdida en el incendio de Vall d'Uixó: un 40% de superficie quemada era pinar y un 30% matorral",
+      "link": "https://www.abc.es/espana/comunidad-valenciana/vegetacion-perdida-incendio-vall-duixo-superficie-quemada-20260808151057-nt.html",
+      "desc": "El Centro de Estudios Ambientales del Mediterráneo (CEAM), centro de investigación de la Generalitat, ha elaborado un primer análisis sobre las condiciones de la vegetación previas al incendio que han podido influir en el comportamiento del incendio forestal d",
+      "date": "Sat, 08 Aug 2026 15:10:57 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Así son los controles a pie de avión procedente de Italia: centrados en ciudadanos de terceros países",
+      "link": "https://www.lavanguardia.com/politica/20260808/11610367/asi-son-controles-pie-avion-procedente-italia-centrados-ciudadanos-terceros-paises.html",
+      "desc": "Los agentes fronterizos están llevando a cabo la supervisión de forma aleatoria, no sistemática, sin que conlleve una desviación del flujo de pasajeros a una zona de control fronterizo exterior.",
+      "date": "08 Aug 2026 15:05:12 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
+    {
+      "title": "Marlaska contraataca a Italia y les devuelve sus mismos argumentos para justificar el control fronterizo",
+      "link": "https://www.abc.es/espana/marlaska-contraataca-italia-desvuelve-argumentos-justificar-control-20260808144004-nt.html",
+      "desc": "El ministro de Interior, Fernando Grande-Marlaska , ha utilizado este sábado los mismos argumentos que esgrimió Italia para el cierre del espacio Schengen del país trasalpino con España. En un acto con su cierta ironía, manifiesta que la situación migratoria i",
+      "date": "Sat, 08 Aug 2026 14:45:38 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Dos hombres detenidos por presunta violencia de género en la provincia de Málaga",
+      "link": "https://www.abc.es/espana/andalucia/malaga/dos-hombres-detenidos-presunta-violencia-genero-provincia-20260808144245-nts.html",
+      "desc": "En las últimas horas, en la provincia de Málaga, se han llevado a cabo dos detenciones por presuntos casos de violencia de género . El primero de ellos, un hombre de 54 años, está acusado de retener a su mujer y amenazar con quemar su casa en Vélez-Málaga . Se",
+      "date": "Sat, 08 Aug 2026 14:42:45 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "El incendio de un camión cerca de Buitrago de Lozoya obliga a cortar la A-1 durante unas horas",
+      "link": "https://www.abc.es/espana/madrid/incendio-camion-cerca-buitrago-lozoya-obliga-cortar-20260808142922-nt.html",
+      "desc": "La Dirección General de Tráfico ha informado, a través de su perfil de X, de un incendio en el arcén de la A-1 en Madrid , en sentido Burgos, a la altura de Buitrago de Lozoya, por el que ha tenido que ser cortada la circulación de la autovía durante unas hora",
+      "date": "Sat, 08 Aug 2026 14:29:22 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
     {
       "title": "El Córdoba CF cierra la pretemporada entre certezas y cuentas pendientes antes del estreno ante el Burgos",
       "link": "https://www.abc.es/espana/andalucia/cordoba/cordoba-cf/cordoba-cierra-pretemporada-certezas-cuentas-pendientes-estreno-20260808082512-nts.html",
@@ -23,9 +103,19 @@
       "caso": "other"
     },
     {
-      "title": "Muere una mujer y tres personas resultan heridas, entre ellas un niño, en un accidente de tráfico en Benissa",
+      "title": "Ferran comunica al Barça que quiere irse al PSG",
+      "link": "https://www.lavanguardia.com/deportes/fc-barcelona/20260808/11610358/ferran-comunica-barca-quiere-irse-psg.html",
+      "desc": "El delantero desea marcharse y el club barcelonista espera la oferta del club francés para negociar",
+      "date": "08 Aug 2026 14:12:05 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
+    {
+      "title": "Una joven y un hombre fallecen y dos personas resultan heridas en un accidente de tráfico en Benissa",
       "link": "https://www.abc.es/espana/comunidad-valenciana/muere-mujer-tres-personas-resultan-heridas-nino-20260808140935-nt.html",
-      "desc": "Un accidente de tráfico entre dos vehículos en la carretera N-332, entre las localidades alicantinas de Benissa y Denia, se ha saldado este sábado con una mujer fallecida y tres personas heridas, entre ellas un niño. El siniestro se ha producido sobre las 11.5",
+      "desc": "Una joven de 19 años y un hombre de 65 han fallecido este sábado en un accidente de tráfico entre dos vehículos en la carretera N-332, entre las localidades alicantinas de Benissa y Denia. También han resultado dos personas heridas, entre ellas un niño de 9 añ",
       "date": "Sat, 08 Aug 2026 14:09:35 +0200",
       "source": "ABC",
       "color": "#c0392b",
@@ -45,7 +135,7 @@
     {
       "title": "Vivas desmiente las cifras del Gobierno y denuncia que aún quedan entre 8.000 y 11.000 inmigrantes en Ceuta",
       "link": "https://www.abc.es/espana/vivas-desmiente-cifras-gobierno-denuncia-quedan-8000-20260808140756-nt.html",
-      "desc": "El presidente de Ceuta, Juan Jesús Vivas, ha desmentido los datos del Gobierno, que estima que en la ciudad autónoma se encuentran 2.500 inmigrantes, y ha señalado que las informes manejados sitúan entre 8.000 y 11.000 las personas que aún quedan por volver, a",
+      "desc": "El presidente de Ceuta, Juan Jesús Vivas, ha desmentido los datos del Gobierno, que estima que en la ciudad autónoma se encuentran 2.500 inmigrantes, y ha señalado que los informes sitúan entre 8.000 y 11.000 las personas que aún quedan por volver , aunque no ",
       "date": "Sat, 08 Aug 2026 14:07:56 +0200",
       "source": "ABC",
       "color": "#c0392b",
@@ -113,16 +203,6 @@
       "caso": "other"
     },
     {
-      "title": "El trampantojo de la foto de Pedro Sánchez sin piernas en La Mareta",
-      "link": "https://www.lavanguardia.com/politica/20260808/11610344/trampantojo-foto-pedro-sanchez-piernas-mareta.html",
-      "desc": "Fuentes próximas al presidente rechazan rotundamente que se haya retocado la imagen&nbsp;",
-      "date": "08 Aug 2026 13:13:40 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
       "title": "Primeros controles en los aeropuertos españoles a los vuelos procedentes de Italia",
       "link": "https://www.lavanguardia.com/politica/20260808/11610333/primeros-controles-aeropuerto-prat-vuelos-procedentes-italia.html",
       "desc": "La situación en el aeropuerto de El Prat es de absoluta normalidad y solo ha habido control de identidad a los viajeros de un vuelo procedente de Roma",
@@ -160,86 +240,6 @@
       "source": "ABC",
       "color": "#c0392b",
       "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "La vida es «chiri», lema del chiringuito Chalito de Castelldefels, donde nació un imperio de milanesas",
-      "link": "https://www.abc.es/espana/cataluna/vida-chiri-lema-chiringuito-chalito-castelldefels-nacio-20260808125103-nt.html",
-      "desc": "Una jornada de playa no termina de ser redonda sin una mesa frente al Mediterráneo. Chalito convirtió esa filosofía veraniega en su seña de identidad y, desde la arena de Castelldefels, cuatro amigos han levantado alrededor de la milanesa una compañía que fact",
-      "date": "Sat, 08 Aug 2026 12:51:03 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "El «eclipse de nuestras vidas» vendrá acompañado de las «estrellas de invierno» que el sol impide ver",
-      "link": "https://www.abc.es/espana/galicia/eclipse-vidas-vendra-acompanado-estrellas-invierno-sol-20260808125059-nt.html",
-      "desc": "Galicia calienta motores para presenciar este 12 de agosto el que será el evento astronómico del siglo, el eclipse total de sol que cruzará la geografía gallega y permitirá presenciar estampas tan inusuales como las «estrellas de invierno» a pleno día o el hal",
-      "date": "Sat, 08 Aug 2026 12:50:59 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Castilla-La Mancha activa el Platecam ante la llegada de miles de visitantes por el eclipse solar del 12 de agosto",
-      "link": "https://www.abc.es/espana/castilla-la-mancha/castillala-mancha-activa-platecam-ante-llegada-miles-20260808123623-nt.html",
-      "desc": "El Gobierno de Castilla-La Mancha activará el próximo miércoles, 12 de agosto, a las 10.00 horas, el Plan Territorial de Emergencia (Platecam) en fase de alerta ante la previsión de desplazamientos y concentraciones masivas de personas, especialmente en el nor",
-      "date": "Sat, 08 Aug 2026 12:36:23 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "El Hospital Sant Joan de Alicante incorpora monitorización avanzada en la UCI para detectar complicaciones",
-      "link": "https://www.abc.es/espana/comunidad-valenciana/hospital-sant-joan-alicante-incorpora-monitorizacion-avanzada-20260808123526-nt.html",
-      "desc": "El Hospital Universitario Sant Joan de Alicante ha culminado la modernización tecnológica de su Unidad de Cuidados Intensivos (UCI) con la puesta en marcha de un nuevo sistema de monitorización avanzada para la atención al paciente crítico, que permite detecta",
-      "date": "Sat, 08 Aug 2026 12:35:26 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Cárcel para un 'camello' reincidente que usaba dos pisos y un patinete para traficar por Valladolid",
-      "link": "https://www.abc.es/espana/castilla-leon/carcel-camello-reincidente-usaba-dos-pisos-patinete-20260808123124-nt.html",
-      "desc": "Conocido de las Fuerzas y Cuerpos de Seguridad, se valía también de esa experiencia en el mundo de la venta de droga para tomar precauciones y evitar ser pillado en pleno trapicheo por los agentes. Sin embargo, una operación desarrollada por Policía Nacional d",
-      "date": "Sat, 08 Aug 2026 12:31:25 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "La Junta activa un dispositivo sanitario ante las más de 55.000 personas que verán el eclipse en Cuenca y Guadalajara",
-      "link": "https://www.abc.es/espana/castilla-la-mancha/junta-activa-dispositivo-sanitario-55000-personas-esperan-20260808122248-nt.html",
-      "desc": "El Gobierno de Castilla-La Mancha ha diseñado un dispositivo sanitario específico con motivo del eclipse solar total del próximo 12 de agosto , tras realizar una evaluación de los riesgos y de las necesidades asistenciales asociadas al evento. El objetivo es g",
-      "date": "Sat, 08 Aug 2026 12:22:49 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Crece el número de hogares gallegos que dan el paso de medir su exposición al radón",
-      "link": "https://www.abc.es/espana/galicia/crece-numero-hogares-gallegos-dan-paso-medir-20260808121729-nt.html",
-      "desc": "Hace décadas que el radón dejó de ser un gran desconocido para convertirse en un enemigo al que batir . Este gas, muy presente en los terrenos que conforman la superficie gallega, se encuentra en el suelo y en las rocas, sobre todo si son graníticas, y se filt",
-      "date": "Sat, 08 Aug 2026 12:17:29 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "El “enfrentamiento total” entre Italia y España protagoniza la prensa italiana",
-      "link": "https://www.lavanguardia.com/politica/20260808/11610297/enfrentamiento-total-italia-espana-protagoniza-prensa-italiana.html",
-      "desc": "“¿Cuánto tiempo puede durar una guerra diplomática en las fronteras sin que los viajeros paguen las consecuencias?”, se pregunta 'La Stampa'",
-      "date": "08 Aug 2026 10:18:31 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
       "caso": "other"
     }
   ]
