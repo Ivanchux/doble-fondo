@@ -1,7 +1,117 @@
 {
-  "updated": "2026-08-08T06:41:42Z",
+  "updated": "2026-08-08T08:34:00Z",
   "count": 24,
   "items": [
+    {
+      "title": "Un fugitivo buscado por Lituania intenta escapar tras ser detenido en Alicante y agrede a un policía",
+      "link": "https://www.abc.es/espana/comunidad-valenciana/fugitivo-buscado-lituania-intenta-escapar-tras-detenido-20260808101428-nt.html",
+      "desc": "La Policía Nacional ha detenido en Alicante a un hombre de 44 años sobre el que pesaba una Orden Europea de Detención y Entrega (OEDE) dictada por las autoridades de Lituania por un delito de tráfico de drogas. El arresto se produjo después de que los agentes ",
+      "date": "Sat, 08 Aug 2026 10:14:28 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "La UME se incorpora a los trabajos de extinción del incendio de Niebla",
+      "link": "https://www.abc.es/espana/andalucia/huelva/inestabilidad-incendio-niebla-obliga-llamar-ume-activar-20260808082128-nts.html",
+      "desc": "A última hora de este viernes, el consejero de Presidencia, Sanidad y Emergencias y director del Plan de Emergencias por Incendios Forestales de Andalucía (Plan Infoca), Antonio Sanz, activó la fase de emergencia, situación operativa 2 , debido a la «inestabil",
+      "date": "Sat, 08 Aug 2026 10:10:10 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "El liderazgo empresarial que se escribe en femenino",
+      "link": "https://www.abc.es/espana/castilla-leon/liderazgo-empresarial-escribe-femenino-20260725095127-nt.html",
+      "desc": "En femenino y plural. Así se escribe también el liderazgo empresarial en Burgos. Y para dar visibilidad y «voz» a esas mujeres que ya ocupan puestos de responsabilidad en el tejido productivo, así como fomentar el emprendimiento ha nacido ya una nueva organiza",
+      "date": "Sat, 08 Aug 2026 09:51:27 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Herido grave un joven de 20 años tras una reyerta en Usera",
+      "link": "https://www.abc.es/espana/madrid/herido-grave-joven-anos-tras-reyerta-usera-20260808094519-nt.html",
+      "desc": "Un joven de 20 años ha resultado herido de gravedad tras verse involucrado en una reyerta registrada minutos antes de la medianoche en la calle Amor Hermoso, en el distrito de Usera. El joven presentaba una herida en una de las piernas que le provocó una abund",
+      "date": "Sat, 08 Aug 2026 09:45:19 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Doña Benita Mendiola, pionera en la escuela y con el bastón de mando",
+      "link": "https://www.abc.es/espana/castilla-leon/dona-benita-mendiola-pionera-escuela-baston-mando-20260807094518-nt.html",
+      "desc": "En plena comarca de Tierra de Campos, en la provincia de Valladolid pero lindando con Zamora, se encuentra Bolaños de Campos, un pequeño municipio que ha vivido tradicionalmente del cultivo de cereal. Este enclave, a 70 kilómetros de la capital vallisoletana -",
+      "date": "Sat, 08 Aug 2026 09:45:18 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Andalucía activa los avisos por calor para este sábado: máximas de 40 grados",
+      "link": "https://www.abc.es/espana/andalucia/andalucia-activa-avisos-calor-sabado-maximas-grados-20260808093142-nts.html",
+      "desc": "El calor será uno de los protagonistas de la jornada de este sábado en Andalucía. Habrá avisos amarillo o naranja por altas temperaturas en toda la comunidad, excepto en la provincia de Almería. Será naranja en Córdoba, Huelva, Sevilla y Jaén con temperaturas ",
+      "date": "Sat, 08 Aug 2026 09:31:42 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "El pueblo de Cantabria que muchos comparan con Benidorm por la llegada masiva de turistas: rodeado de marismas y con playas de agua cristalina",
+      "link": "https://www.abc.es/espana/cantabria/pueblo-cantabria-comparan-benidorm-llegada-masiva-turistas-20260808093000-nt.html",
+      "desc": "Cantabria se ha consolidado en los últimos años como uno de los destinos turísticos más atractivos de España. La región cerró el año 2025 con un nuevo récord de visitantes, con casi, 2,2 millones de viajeros, además de seis millones de pernoctaciones. La comun",
+      "date": "Sat, 08 Aug 2026 09:30:00 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Horario e itinerario de la procesión de San Lorenzo en Córdoba",
+      "link": "https://www.abc.es/espana/andalucia/cordoba/semana-santa/horario-itinerario-procesion-san-lorenzo-cordoba-20260808132602-nts.html",
+      "desc": "La festividad de San Lorenzo mártir el 10 de agosto es una fecha anclada a las devociones estivales en pleno corazón de Córdoba como signo de que la fe sigue latiendo en el tiempo de vacaciones. La imagen titular de la parroquia de San Lorenzo y de la cofradía",
+      "date": "Sat, 08 Aug 2026 09:20:02 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "La Mezquita-Catedral encara la normalidad un año después del incendio que sobrecogió a Córdoba y al mundo",
+      "link": "https://www.abc.es/espana/andalucia/cordoba/mezquitacatedral-cordoba-encara-normalidad-ano-despues-incendio-20260808090615-nts.html",
+      "desc": "Se cumple un año desde aquel 8 de agosto de 2025 en el que Córdoba —y buena parte del mundo— tuvo el corazón en un puño al ver cómo las llamas alcanzaban una de las fachadas de la Mezquita-Catedral, joya de la ciudad, Patrimonio de la Humanidad y el segundo mo",
+      "date": "Sat, 08 Aug 2026 09:06:15 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Todo lo que se ama",
+      "link": "https://www.abc.es/espana/andalucia/cordoba/luis-miranda-ama-20260808123140-nts.html",
+      "desc": "En ese lugar que ahora está lleno de andamios y de manos cuidadosas que limpian, fijan y reparan, los ojos ven método, conocimiento, paciencia y tranquilidad, pero la cabeza sabe que hubo un día en que el fuego hambriento avanzó durante demasiados minutos angu",
+      "date": "Sat, 08 Aug 2026 09:06:04 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "El vino gallego que arrasa en toda España y ha disparado su producción un 300% en solo una década",
+      "link": "https://www.abc.es/espana/galicia/vino-gallego-arrasa-espana-disparado-produccion-300-20260808085612-nt.html",
+      "desc": "El vino de la Denominación de Origen Monterrei está atravesando una auténtica época dorada. En apenas diez años, esta comarca vitivinícola orensana ha logrado lo impensable: multiplicar su volumen de forma exponencial y consolidar sus vinos como unos de los má",
+      "date": "Sat, 08 Aug 2026 08:56:12 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
     {
       "title": "Los 26 puntos oficiales para ver el eclipse en Castilla-La Mancha esperan a más de 60.000 personas",
       "link": "https://www.abc.es/espana/castilla-la-mancha/puntos-oficiales-ver-eclipse-castillala-mancha-esperan-20260807080108-nt.html",
@@ -103,16 +213,6 @@
       "caso": "other"
     },
     {
-      "title": "Dónde ir de fiesta este sábado 8 de agosto en la provincia de Toledo",
-      "link": "https://www.abc.es/espana/castilla-la-mancha/toledo/pueblos/fiesta-sabado-agosto-provincia-toledo-20260808070010-nt.html",
-      "desc": "Villacañas -A las 13,00 horas: baile del vermú con la música del dúo Arse y Reme. -A las 20,30 horas: desfile-concurso de Carrozas con la participación de las peñas. -A las 23,45 horas: la noche de los tributos 'Todo cafeína', Queen, La Oreja de Van Gogh, Abba",
-      "date": "Sat, 08 Aug 2026 07:00:10 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
       "title": "Cuatro series para enamorarse (y que no son dramas juveniles ni comedias románticas)",
       "link": "https://www.lavanguardia.com/series/20260808/11609861/cuatro-series-enamorarse-son-dramas-juveniles-comedias-romanticas.html",
       "desc": "Nos vamos a Suecia, Irlanda del Norte, Canadá y Estados Unidos para recomendar cuatro historias de amor inolvidables, íntimas y sobre todo buenas",
@@ -140,106 +240,6 @@
       "source": "La Vanguardia",
       "color": "#8e44ad",
       "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "Las restricciones agravan el conflicto por el fondeo en la Costa Brava",
-      "link": "https://www.lavanguardia.com/local/barcelona/20260808/11610020/restricciones-agravan-conflicto-fondeo-costa-brava.html",
-      "desc": "Los ayuntamientos defienden el balizamiento para proteger bañistas y posidonia",
-      "date": "08 Aug 2026 06:00:00 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "La presión policial alivia la angustia de los vecinos del edificio de la calle Muntaner",
-      "link": "https://www.lavanguardia.com/local/barcelona/20260808/11610015/presion-policial-alivia-angustia-vecinos-edificio-calle-muntaner.html",
-      "desc": "Los toxicómanos instalados en un piso de la finca que les amargaban la vida se muestran ahora más discretos",
-      "date": "08 Aug 2026 06:00:00 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "¿Narcopiso? ¿Qué es eso?",
-      "link": "https://www.lavanguardia.com/opinion/20260808/11609996/narcopiso-que.html",
-      "desc": "",
-      "date": "08 Aug 2026 06:00:00 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "Las aerolíneas endurecen el control del equipaje de mano durante el embarque",
-      "link": "https://www.lavanguardia.com/vivo/20260808/11609882/aerolineas-endurecen-control-equipaje-mano-embarque.html",
-      "desc": "El celo con que se miden mochilas o bultos lleva a recargos que encarecen el billete",
-      "date": "08 Aug 2026 06:00:00 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "Quién apoya a quién en la gran crisis de Infantino",
-      "link": "https://www.lavanguardia.com/deportes/futbol/20260808/11610005/apoya-gran-crisis-infantino.html",
-      "desc": "La figura del presidente de la FIFA genera diversos bandos en el seno del fútbol mundial entre los críticos, los que aún le apoyan y los dubitativos",
-      "date": "08 Aug 2026 06:00:00 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "Consejos para ver el eclipse total",
-      "link": "https://www.lavanguardia.com/vida/20260808/11608508/consejos-ver-eclipse-total-sol-agosto-2026.html",
-      "desc": "",
-      "date": "08 Aug 2026 06:00:00 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "La ciencia sigue persiguiendo la sombra lunar para entender mejor el Sol",
-      "link": "https://www.lavanguardia.com/ciencia/20260808/11597390/ciencia-sigue-persiguiendo-sombra-lunar-entender-mejor-sol.html",
-      "desc": "A pesar de disponer de satélites y telescopios avanzados, los astrónomos continúan aprovechando los eclipses solares para estudiar la corona sin distorsiones",
-      "date": "08 Aug 2026 06:00:00 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "La invasión de babosas españolas desespera a los jardineros de Moscú",
-      "link": "https://www.lavanguardia.com/internacional/20260808/11609830/invasion-babosas-espana-rusia-jardines-jardineros-moscu.html",
-      "desc": "Los científicos consideran que erradicar completamente la especie ya no es posible y recomiendan centrar los esfuerzos en controlar su expansión",
-      "date": "08 Aug 2026 06:00:00 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "Port Saplaya exige soluciones ante el «abandono»: «Pagamos más y recibimos menos»",
-      "link": "https://www.abc.es/espana/comunidad-valenciana/port-saplaya-exige-soluciones-ante-abandono-municipal-20260808051634-nt.html",
-      "desc": "Vestidos de rojo, como las banderas que con frecuencia ondean en la playa por los episodios de contaminación por residuos fecales, los vecinos de Port Saplaya, una zona residencial costera de la localidad valenciana de Alboraya, han decidido convertir su males",
-      "date": "Sat, 08 Aug 2026 05:30:08 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Valencia CF-Newcastle United, en directo: dónde ver por televisión hoy el Trofeu Taronja",
-      "link": "https://www.abc.es/espana/comunidad-valenciana/valencia-cfnewcastle-united-directo-ver-television-hoy-20260808123553-nt.html",
-      "desc": "El partido entre el Valencia CF y el Newcastle United podrá seguirse en directo por la televisión y la radio de À Punt. La cadena pública valenciana retransmitirá el encuentro amistoso que ambos equipos mantendrán en Mestalla este sábado 8 de agosto a partir d",
-      "date": "Sat, 08 Aug 2026 05:30:02 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
       "caso": "other"
     }
   ]
