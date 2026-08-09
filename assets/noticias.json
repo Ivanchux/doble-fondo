@@ -1,9 +1,59 @@
 {
-  "updated": "2026-08-09T04:59:06Z",
+  "updated": "2026-08-09T06:46:55Z",
   "count": 24,
   "items": [
     {
-      "title": "Ceuta, una embestida fronteriza que nadie vio venir a pesar de los avisos",
+      "title": "Dónde ir de fiesta este domingo 9 de agosto en la provincia de Toledo",
+      "link": "https://www.abc.es/espana/castilla-la-mancha/toledo/pueblos/fiesta-domingo-agosto-provincia-toledo-20260809080000-nt.html",
+      "desc": "Villacañas -A las 13,00 horas: baile del vermú con la música del dúo musical 'Momarts' -A las 19,00 horas: corrida de toros con los diestros Joaquín Galdós, José Fernando Molina y Cristiano Torres, con ganado de Madroñiz. -A las 23,30 horas: concierto de 'Café",
+      "date": "Sun, 09 Aug 2026 08:00:00 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Incendio mortal de Los Gallardos: las casas acorraladas por el fuego tienen licencia desde hace 20 años, pero se ubican en terrenos rústicos",
+      "link": "https://www.abc.es/espana/andalucia/almeria/incendio-mortal-gallardos-casas-acorraladas-fuego-licencia-20260809135723-nts.html",
+      "desc": "El incendio de Los Gallardos, que afectó principalmente al término municipal de Bédar en Almería, ha devuelto al primer plano una realidad urbanística que acompaña desde hace décadas a Sierra Cabrera: la existencia de numerosas viviendas dispersas en suelo rús",
+      "date": "Sun, 09 Aug 2026 07:18:10 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Incendio mortal de Los Gallardos: la investigación apunta a que las víctimas tomaron una ruta alternativa y quedaron atrapadas en un camino sin salida",
+      "link": "https://www.abc.es/espana/andalucia/almeria/incendio-mortal-gallardos-investigacion-apunta-victimas-tomaron-20260809134646-nts.html",
+      "desc": "Un mes después del incendio que arrasó más de 5.200 hectáreas en el Levante almeriense, la investigación judicial ha situado el foco en los últimos movimientos de las 14 personas fallecidas . Según los primeros indicios, la mayoría de las víctimas abandonaron ",
+      "date": "Sun, 09 Aug 2026 07:17:57 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Comprar pisos con inquilinos dentro, una opción a la desesperada que se consolida en el mercado inmobiliario",
+      "link": "https://www.abc.es/espana/andalucia/comprar-pisos-inquilinos-dentro-opcion-consolida-mercado-20260809141553-nts.html",
+      "desc": "Hugo y Paula acaban de vender su casa en un municipio de la provincia de Sevilla. Quince años después sueltan este lastre, pues motivos laborales les obligaron a formar su familia lejos de esta localidad y la propiedad dejó de ser su hogar para ser un activo d",
+      "date": "Sun, 09 Aug 2026 07:17:36 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Un Govern a dos velocidades",
+      "link": "https://www.lavanguardia.com/politica/20260809/11610432/govern-dos-velocidades.html",
+      "desc": "Illa tiene presupuestos y una alianza sólida con ERC y Comuns, pero se le resisten los temas prioritarios Salvador Illa tiene presupuestos y una alianza sólida con ERC y Comuns, pero se le resisten los temas prioritarios",
+      "date": "09 Aug 2026 06:26:47 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
+    {
+      "title": "Así fue cómo la sentencia del Tribunal Supremo y los bulos derivaron en el asalto en Ceuta",
       "link": "https://www.lavanguardia.com/politica/20260809/11610434/como-sentencia-supremo-bulos-derivaron-asalto-ceuta.html",
       "desc": "La embestida fronteriza que nadie vio venir&nbsp;pese a los avisos",
       "date": "09 Aug 2026 06:02:53 +0200",
@@ -93,6 +143,66 @@
       "caso": "other"
     },
     {
+      "title": "Premio al tecnoautoritarismo",
+      "link": "https://www.lavanguardia.com/internacional/20260809/11610390/premio-tecnoautoritarismo.html",
+      "desc": "",
+      "date": "09 Aug 2026 06:00:00 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
+    {
+      "title": "El Nilo amenaza a los faraones",
+      "link": "https://www.lavanguardia.com/vida/20260809/11608551/nilo-amenaza-faraones.html",
+      "desc": "",
+      "date": "09 Aug 2026 06:00:00 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
+    {
+      "title": "El Mediterráneo, abocado a acoger ríos temporales: refugios o rescate para las anguilas",
+      "link": "https://www.lavanguardia.com/natural/20260809/11610337/mediterraneo-abocado-rios-temporales-refugios-rescate-anguilas.html",
+      "desc": "",
+      "date": "09 Aug 2026 06:00:00 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
+    {
+      "title": "“La baja laboral no debería ser blanco o negro”",
+      "link": "https://www.lavanguardia.com/vida/20260809/11609908/baja-laboral-deberia-blanco-negro-podrias-incorporarte-trabajo-progresivamente.html",
+      "desc": "Olga Pané, consellera de Salut, se reincorpora después de más de tres meses de ausencia por un accidente",
+      "date": "09 Aug 2026 06:00:00 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
+    {
+      "title": "Las millas de oro de Barcelona y Madrid chocan con la falta de locales",
+      "link": "https://www.lavanguardia.com/economia/20260809/11610415/millas-oro-barcelona-madrid-chocan-falta-locales.html",
+      "desc": "La dificultad para entrar en las grandes avenidas empuja al alza los precios",
+      "date": "09 Aug 2026 06:00:00 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
+    {
+      "title": "Salidas a todo trapo: Araújo va al Liverpool, el Barça ya sabe que Ferran quiere jugar en el PSG...",
+      "link": "https://www.lavanguardia.com/deportes/20260809/11610577/salidas-trapo-araujo-liverpool-barca-ferran-quiere-jugar-psg.html",
+      "desc": "El equipo británico se hará cargo de la totalidad de la ficha del central uruguayo y el valenciano piensa que merece un estatus superior al que el club blaugrana puede ofrecerle",
+      "date": "09 Aug 2026 06:00:00 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
+    {
       "title": "La consellera se cayó del caballo",
       "link": "https://www.abc.es/espana/comunidad-valenciana/consellera-cayo-caballo-20260809161013-nt.html",
       "desc": "En ningún fragmento del Nuevo Testamento se indica que, durante la conversión de San Pablo al cristianismo, cayese del caballo al recibir el mensaje divino. Fue el célebre pintor Caravaggio quien, con varias de sus obras, popularizó esa imagen hasta convertirl",
@@ -130,116 +240,6 @@
       "source": "ABC",
       "color": "#c0392b",
       "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Frontex, la agencia europea que ayuda a proteger fronteras y cuyo refuerzo Sánchez rechazó",
-      "link": "https://www.abc.es/espana/frontex-agencia-europea-ayuda-proteger-fronteras-refuerzo-20260807011532-nt.html",
-      "desc": "La crisis migratoria de Ceuta ha vuelto a instaurar en la opinión pública la duda sobre la cooperación y el trabajo que la Unión Europea (UE) hace por proteger las fronteras de su territorio. Desde 2004, esa ambigüedad que hoy mana tras la entrada ilegal de 72",
-      "date": "Sun, 09 Aug 2026 01:15:32 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Bruselas avisó de la presión migratoria en Ceuta y contradijo a Sánchez: «Requiere poca ayuda de las mafias»",
-      "link": "https://www.abc.es/espana/bruselas-aviso-presion-migratoria-ceuta-contradijo-sanchez-20260807011510-nt.html",
-      "desc": "«El aumento de los intentos indica una presencia migratoria significativa en territorio marroquí». Con estas palabras la Agencia Europea de la Guardia de Fronteras y Costas ( Frontex ) avisó a España el pasado 17 de junio de la presión migratoria que padecían ",
-      "date": "Sun, 09 Aug 2026 01:15:10 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "El tráfico de armas de guerra expande la violencia del narco en Europa",
-      "link": "https://www.abc.es/espana/cataluna/trafico-armas-guerra-expande-violencia-narco-europa-20260727011145-nt.html",
-      "desc": "Una doble ejecución en una población turística de Cataluña, Salou, con un kalashnikov. Era mayo de 2023; la primera vez que la mafia marsellesa traspasaba las fronteras para perpetrar un ajuste de cuentas . Las víctimas eran dos individuos de 28 y 25 años, Oma",
-      "date": "Sun, 09 Aug 2026 01:11:45 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Gonzalo de Oro (Vox) carga contra Orriols: «Ha copiado nuestro discurso sobre inmigración»",
-      "link": "https://www.abc.es/espana/cataluna/gonzalo-oro-vox-carga-orriols-copiado-discurso-20260809011130-nt.html",
-      "desc": "El presidente del grupo municipal de Vox en Barcelona, Gonzalo de Oro, se muestra, en una entrevista para ABC, dispuesto a repetir como candidato en 2027 y conseguir que su formación sea decisiva para cambiar las políticas del consistorio: vivienda, inmigració",
-      "date": "Sun, 09 Aug 2026 01:11:30 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Los cien días del acuerdo de gobierno en Aragón: equilibrismo del PP para blindar el pacto",
-      "link": "https://www.abc.es/espana/aragon/cien-dias-acuerdo-gobierno-aragon-equilibrismo-pp-20260729011119-nt.html",
-      "desc": "El 4 de mayo echó a andar la nueva –XII– Legislatura en Aragón. Por segunda vez, como en 2023, con un gobierno de coalición, aunque aquella vez los menores inmigrantes extranjeros y la asunción por parte de las comunidades gobernadas por el PP de la regulación",
-      "date": "Sun, 09 Aug 2026 01:11:19 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Una mafia del cultivo del ajo esclavizaba a rumanos por 20 euros a la semana en una nave y con palizas",
-      "link": "https://www.abc.es/espana/madrid/mafia-cultivo-ajo-esclavizaba-rumanos-euros-semana-20260807011033-nt.html",
-      "desc": "Recibían palizas, sufrían multas por estar cansados y apenas les pagaban unos 20 euros por semana. Cincuenta en el mejor de los casos. Malvivieron durante meses hacinados en una nave en medio del campo y algunos tuvieron que escapar para poder llegar a la Poli",
-      "date": "Sun, 09 Aug 2026 01:10:33 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Quince días después del fuego, el pantano de San Juan sigue sin bañistas ni negocios: «La temporada está perdida»",
-      "link": "https://www.abc.es/espana/madrid/quince-dias-despues-fuego-pantano-san-juan-20260806010709-nt.html",
-      "desc": "Poco antes de llegar a San Martín de Valdeiglesias , un velo de hollín comienza a desplegarse y a ganar terreno. Un manto de ceniza recubre el sotobosque y un ligero olor a humo impregna, quince días después, el entorno. Bajo los pinos, la maleza ha adquirido ",
-      "date": "Sun, 09 Aug 2026 01:07:09 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "La semana en la que Nadia dio a luz a gemelas y huyó con sus seis hijas del incendio: «Nos refugiamos en una oficina»",
-      "link": "https://www.abc.es/espana/madrid/semana-nadia-dio-luz-gemelas-huyo-seis-20260806010652-nt.html",
-      "desc": "El 18 de julio Nadia Chávez dio a luz a dos niñas gemelas. Coincidió con un sábado de sol inmisericorde. Entonces los termómetros ya lo vaticinaban: el mes acabaría convirtiéndose en el más cálido de la serie histórica en España. Las altas temperaturas acapara",
-      "date": "Sun, 09 Aug 2026 01:06:52 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "El Madrid de Pepe Habichuela",
-      "link": "https://www.abc.es/espana/madrid/madrid-pepe-habichuela-20260808010317-nt.html",
-      "desc": "De Sacromonte a Madrid solo hay un tranco. Pepe Habichuela se bajó en Atocha siguiendo a su hermano Juan en 1964, cuando tenía veinte años de edad. Al bajarse del tren, trajo consigo el instinto y la técnica. También un repertorio en la memoria que supo conver",
-      "date": "Sun, 09 Aug 2026 01:03:17 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "La Familia Real despide sus vacaciones en Mallorca con una cena en uno de sus restaurantes favoritos",
-      "link": "https://www.abc.es/espana/casa-real/familia-real-despide-vacaciones-mallorca-cena-restaurantes-20260809005649-nt.html",
-      "desc": "Después de un vuelo de más de ocho horas desde Cali a Mallorca, Felipe VI llegaba a última hora del día del sábado al Palacio Real de la Almudaina, en el centro de Palma, para la entrega de premios de la 44º Copa del Rey Mapfre, de la que resultó ganador el ve",
-      "date": "Sun, 09 Aug 2026 00:56:49 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "El Conde Basura reta a la ultraderecha",
-      "link": "https://www.lavanguardia.com/opinion/20260809/11610384/conde-basura-reta-ultraderecha.html",
-      "desc": "Binface no es un personaje ficticio de un programa de televisión. Es real, hasta cierto punto",
-      "date": "09 Aug 2026 00:30:00 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
       "caso": "other"
     }
   ]
