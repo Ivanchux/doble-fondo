@@ -1,7 +1,37 @@
 {
-  "updated": "2026-08-09T20:25:28Z",
+  "updated": "2026-08-09T22:24:18Z",
   "count": 24,
   "items": [
+    {
+      "title": "Starlite vuelve a reunir a las estrellas en Marbella: una noche de lujo, música y solidaridad",
+      "link": "https://www.abc.es/espana/andalucia/malaga/starlite-vuelve-reunir-estrellas-marbella-noche-lujo-20260809230429-nts.html",
+      "desc": "Marbella vuelve a vivir esta noche una de sus grandes citas del verano. La Cantera de Nagüeles se iluminó bajo el cielo de la Costa del Sol para recibir una nueva edición de la Gala Starlite Occident , uno de los encuentros sociales más esperados del calendari",
+      "date": "Sun, 09 Aug 2026 23:04:29 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Muere un hombre en un accidente entre una moto y un quad en un pueblo de Granada",
+      "link": "https://www.abc.es/espana/andalucia/granada/muere-hombre-accidente-moto-quad-pueblo-granada-20260809225235-nts.html",
+      "desc": "Un hombre de 44 años ha fallecido en un accidente de tráfico entre un quad y una moto en una carretera de Jete (Granada), según informa el 112, perteneciente a la Agencia de Emergencias de Andalucía, adscrita a la Consejería de Sanidad, Presidencia y Emergenci",
+      "date": "Sun, 09 Aug 2026 22:52:35 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Cascos, medicinas y comida, la ayuda de la Buena Muerte de Córdoba llega a Venezuela",
+      "link": "https://www.abc.es/espana/andalucia/cordoba/semana-santa/cascos-medicinas-comida-ayuda-buena-muerte-cordoba-20260809223843-nts.html",
+      "desc": "La ayuda económica reunida en Córdoba por la hermandad de la Buena Muerte y la presencia concreta en Venezuela se combinan para dar los primeros frutos en medio de la devastación. El diputado de Caridad de esta cofradía, Arístides Bermejo, se encuentra ya trab",
+      "date": "Sun, 09 Aug 2026 22:38:44 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
     {
       "title": "Los dos minutos de oscuridad que darán luz a la España vaciada",
       "link": "https://www.abc.es/espana/castilla-leon/1500-20260728214110-nt.html",
@@ -25,7 +55,7 @@
     {
       "title": "Ceuta se une contra el discurso oficial de Moncloa: «¡Basta ya!»",
       "link": "https://www.abc.es/espana/ceuta-une-discurso-oficial-moncloa-basta-20260809184929-nt.html",
-      "desc": "«¡Basta ya! ¡Ceuta no se rinde!» Bajo este lema, miles de ceutíes se han reunido este domingo para clamar contra el Gobierno la falta de transparencia en la gestión que ha llevado a cabo de la crisis migratoria que asola el enclave español desde la entrada de ",
+      "desc": "«¡Basta ya! ¡Ceuta no se rinde!» Bajo este lema, más de 15.000 ceutíes se han reunido este domingo para clamar contra el Gobierno la falta de transparencia en la gestión que ha llevado a cabo de la crisis migratoria que asola el enclave español desde la entrad",
       "date": "Sun, 09 Aug 2026 20:54:51 +0200",
       "source": "ABC",
       "color": "#c0392b",
@@ -73,9 +103,9 @@
       "caso": "other"
     },
     {
-      "title": "El fuego obliga a evacuar Los Ángeles de San Rafael y Vegas de Matute (Segovia)",
+      "title": "El fuego de Navas de San Antonio obliga a confinar Valdeprados y evacuar Los Ángeles y Vegas de Matute",
       "link": "https://www.lavanguardia.com/sucesos/20260809/11610780/fuego-obliga-evacuar-angeles-san-rafael-vegas-matute-segovia.html",
-      "desc": "El incendio comenzó el sábado en Las Navas de San Antonio",
+      "desc": "El incendio permanece activo desde la tarde del sábado",
       "date": "09 Aug 2026 19:03:10 +0200",
       "source": "La Vanguardia",
       "color": "#8e44ad",
@@ -207,36 +237,6 @@
       "link": "https://www.abc.es/espana/cataluna/david-miras-estevez-bajo-influjo-cultura-juridica-norteamericana-20260809172956-nt.html",
       "desc": "Nubes bajas recorrían los cielos de Albuquerque (Nuevo México), cuando un jurado popular decidió condenar a un conocido restaurante de comida rápida al pago de una indemnización de casi tres millones de dólares por la excesiva temperatura de sus bebidas. Una d",
       "date": "Sun, 09 Aug 2026 17:30:43 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Italia ve «desproporcionada» la reacción de Sánchez a sus controles e insiste en proteger sus fronteras",
-      "link": "https://www.abc.es/espana/italia-desproporcionada-reaccion-sanchez-controles-insiste-proteger-20260809171323-nt.html",
-      "desc": "El ministro de Asuntos Exteriores de Italia, Antonio Tajani, ha calificado como «desproporcionada» la decisión del presidente del Gobierno español, Pedro Sánchez, de reestablecer controles fronterizos a viajeros procedentes de Italia . Tajani considera la medi",
-      "date": "Sun, 09 Aug 2026 17:13:56 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "La Ertzaintza denuncia que varios agentes han resultado heridos la misma noche tras varios altercados en el País Vasco",
-      "link": "https://www.abc.es/espana/ertzaintza-denuncia-varios-agentes-resultado-heridos-noche-20260809170952-nt.html",
-      "desc": "La noche de los sábados incita a las personas a salir de sus hogares para disfrutar de momentos de desconexión. Sin embargo, la madrugada de este domingo ha acabado en varios altercados en el País Vasco que han provocado la intervención de la Ertzaintza, miemb",
-      "date": "Sun, 09 Aug 2026 17:09:52 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "El cantaor cordobés Rafa del Calli hace historia: «Tenía el Nacional y ahora la Lámpara. Soy el único en ganar ambos. Es una maravilla»",
-      "link": "https://www.abc.es/espana/andalucia/cordoba/cantaor-cordobes-rafa-calli-historia-nacional-lampara-20260809170929-nts.html",
-      "desc": "El joven cantaor cordobés Rafa del Calli (Rafael Plantón Heredia) atiende a ABC en su móvil que echa humo después de que en la madrugada de este domingo se hiciera en La Unión (Murcia) con la Lámpara Minera , un trofeo legendario en el mundo del flamenco. Lo s",
-      "date": "Sun, 09 Aug 2026 17:09:30 +0200",
       "source": "ABC",
       "color": "#c0392b",
       "feedId": "ABC",
