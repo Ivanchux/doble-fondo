@@ -1,7 +1,157 @@
 {
-  "updated": "2026-08-08T22:22:18Z",
+  "updated": "2026-08-09T01:16:37Z",
   "count": 24,
   "items": [
+    {
+      "title": "Las alertas del CNI y Cifas desmontan la versión de Interior sobre la avalancha de Ceuta",
+      "link": "https://www.abc.es/espana/alertas-cni-cifas-desmontan-version-interior-sobre-20260809011741-nt.html",
+      "desc": "«Ningún servicio de información, que nos conste, alertó de esto […]. Si hubiera habido alguna posibilidad de que algo parecido pudiera pasar, se hubiera informado con un aviso o comunicación a las más altas instancias del Estado». De esta forma el ministro del",
+      "date": "Sun, 09 Aug 2026 01:17:41 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Del silencio de las aves a la recogida de las telas de araña: así reaccionan los animales ante un eclipse solar",
+      "link": "https://www.abc.es/espana/comunidad-valenciana/reaccionan-animales-eclipse-solar-total-silencio-aves-20260808011627-nt.html",
+      "desc": "Aves diurnas que dejan de cantar y buscan refugio para descansar. Especies de hábitos nocturnos que aparecen aunque no les toque. Cetáceos que cambian de hábitos. O macacos y flamencos que, de repente, se agrupan, como temerosos de que la luz se esfume cuando ",
+      "date": "Sun, 09 Aug 2026 01:16:27 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Los ministros en el punto de mira por su gestión en la crisis migratoria de Ceuta",
+      "link": "https://www.abc.es/espana/ministros-punto-mira-gestion-crisis-migratoria-ceuta-20260807011553-nt.html",
+      "desc": "«Un ataque, una violación de la integridad territorial de España» . Así definió Pedro Sánchez la crisis migratoria de Ceuta, palabras duras y solemnes que comparan la entrada de 72.000 personas con una agresión al Estado. Sin embargo, ante un asalto de ese cal",
+      "date": "Sun, 09 Aug 2026 01:15:53 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Frontex, la agencia europea que ayuda a proteger fronteras y cuyo refuerzo Sánchez rechazó",
+      "link": "https://www.abc.es/espana/frontex-agencia-europea-ayuda-proteger-fronteras-refuerzo-20260807011532-nt.html",
+      "desc": "La crisis migratoria de Ceuta ha vuelto a instaurar en la opinión pública la duda sobre la cooperación y el trabajo que la Unión Europea (UE) hace por proteger las fronteras de su territorio. Desde 2004, esa ambigüedad que hoy mana tras la entrada ilegal de 72",
+      "date": "Sun, 09 Aug 2026 01:15:32 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Bruselas avisó de la presión migratoria en Ceuta y contradijo a Sánchez: «Requiere poca ayuda de las mafias»",
+      "link": "https://www.abc.es/espana/bruselas-aviso-presion-migratoria-ceuta-contradijo-sanchez-20260807011510-nt.html",
+      "desc": "«El aumento de los intentos indica una presencia migratoria significativa en territorio marroquí». Con estas palabras la Agencia Europea de la Guardia de Fronteras y Costas ( Frontex ) avisó a España el pasado 17 de junio de la presión migratoria que padecían ",
+      "date": "Sun, 09 Aug 2026 01:15:10 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "El tráfico de armas de guerra expande la violencia del narco en Europa",
+      "link": "https://www.abc.es/espana/cataluna/trafico-armas-guerra-expande-violencia-narco-europa-20260727011145-nt.html",
+      "desc": "Una doble ejecución en una población turística de Cataluña, Salou, con un kalashnikov. Era mayo de 2023; la primera vez que la mafia marsellesa traspasaba las fronteras para perpetrar un ajuste de cuentas . Las víctimas eran dos individuos de 28 y 25 años, Oma",
+      "date": "Sun, 09 Aug 2026 01:11:45 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Gonzalo de Oro (Vox) carga contra Orriols: «Ha copiado nuestro discurso sobre inmigración»",
+      "link": "https://www.abc.es/espana/cataluna/gonzalo-oro-vox-carga-orriols-copiado-discurso-20260809011130-nt.html",
+      "desc": "El presidente del grupo municipal de Vox en Barcelona, Gonzalo de Oro, se muestra, en una entrevista para ABC, dispuesto a repetir como candidato en 2027 y conseguir que su formación sea decisiva para cambiar las políticas del consistorio: vivienda, inmigració",
+      "date": "Sun, 09 Aug 2026 01:11:30 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Los cien días del acuerdo de gobierno en Aragón: equilibrismo del PP para blindar el pacto",
+      "link": "https://www.abc.es/espana/aragon/cien-dias-acuerdo-gobierno-aragon-equilibrismo-pp-20260729011119-nt.html",
+      "desc": "El 4 de mayo echó a andar la nueva –XII– Legislatura en Aragón. Por segunda vez, como en 2023, con un gobierno de coalición, aunque aquella vez los menores inmigrantes extranjeros y la asunción por parte de las comunidades gobernadas por el PP de la regulación",
+      "date": "Sun, 09 Aug 2026 01:11:19 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Una mafia del cultivo del ajo esclavizaba a rumanos por 20 euros a la semana en una nave y con palizas",
+      "link": "https://www.abc.es/espana/madrid/mafia-cultivo-ajo-esclavizaba-rumanos-euros-semana-20260807011033-nt.html",
+      "desc": "Recibían palizas, sufrían multas por estar cansados y apenas les pagaban unos 20 euros por semana. Cincuenta en el mejor de los casos. Malvivieron durante meses hacinados en una nave en medio del campo y algunos tuvieron que escapar para poder llegar a la Poli",
+      "date": "Sun, 09 Aug 2026 01:10:33 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Quince días después del fuego, el pantano de San Juan sigue sin bañistas ni negocios: «La temporada está perdida»",
+      "link": "https://www.abc.es/espana/madrid/quince-dias-despues-fuego-pantano-san-juan-20260806010709-nt.html",
+      "desc": "Poco antes de llegar a San Martín de Valdeiglesias , un velo de hollín comienza a desplegarse y a ganar terreno. Un manto de ceniza recubre el sotobosque y un ligero olor a humo impregna, quince días después, el entorno. Bajo los pinos, la maleza ha adquirido ",
+      "date": "Sun, 09 Aug 2026 01:07:09 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "La semana en la que Nadia dio a luz a gemelas y huyó con sus seis hijas del incendio: «Nos refugiamos en una oficina»",
+      "link": "https://www.abc.es/espana/madrid/semana-nadia-dio-luz-gemelas-huyo-seis-20260806010652-nt.html",
+      "desc": "El 18 de julio Nadia Chávez dio a luz a dos niñas gemelas. Coincidió con un sábado de sol inmisericorde. Entonces los termómetros ya lo vaticinaban: el mes acabaría convirtiéndose en el más cálido de la serie histórica en España. Las altas temperaturas acapara",
+      "date": "Sun, 09 Aug 2026 01:06:52 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "El Madrid de Pepe Habichuela",
+      "link": "https://www.abc.es/espana/madrid/madrid-pepe-habichuela-20260808010317-nt.html",
+      "desc": "De Sacromonte a Madrid solo hay un tranco. Pepe Habichuela se bajó en Atocha siguiendo a su hermano Juan en 1964, cuando tenía veinte años de edad. Al bajarse del tren, trajo consigo el instinto y la técnica. También un repertorio en la memoria que supo conver",
+      "date": "Sun, 09 Aug 2026 01:03:17 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "La Familia Real despide sus vacaciones en Mallorca con una cena en uno de sus restaurantes favoritos",
+      "link": "https://www.abc.es/espana/casa-real/familia-real-despide-vacaciones-mallorca-cena-restaurantes-20260809005649-nt.html",
+      "desc": "Después de un vuelo de más de ocho horas desde Cali a Mallorca, Felipe VI llegaba a última hora del día del sábado al Palacio Real de la Almudaina, en el centro de Palma, para la entrega de premios de la 44º Copa del Rey Mapfre, de la que resultó ganador el ve",
+      "date": "Sun, 09 Aug 2026 00:56:49 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "El Conde Basura reta a la ultraderecha",
+      "link": "https://www.lavanguardia.com/opinion/20260809/11610384/conde-basura-reta-ultraderecha.html",
+      "desc": "Binface no es un personaje ficticio de un programa de televisión. Es real, hasta cierto punto",
+      "date": "09 Aug 2026 00:30:00 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
+    {
+      "title": "Carrara no es solo cosa de oligarcas",
+      "link": "https://www.lavanguardia.com/cultura/20260809/11610024/carrara-marmol-techno-rave-musica-ultrarricos-oligarcas.html",
+      "desc": "",
+      "date": "09 Aug 2026 00:00:00 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
     {
       "title": "El Udinese sorprende a un baby Barça y se lleva el triangular",
       "link": "https://www.lavanguardia.com/deportes/fc-barcelona/20260808/11610465/resumen-udinese-barca-triangular.html",
@@ -83,160 +233,10 @@
       "caso": "other"
     },
     {
-      "title": "La Diputación Albacete reparte cerca de 570.000 euros en ayudas a universidades populares y escuelas infantiles",
-      "link": "https://www.abc.es/espana/castilla-la-mancha/diputacion-albacete-reparte-cerca-570000-euros-ayudas-20260808193353-nt.html",
-      "desc": "La Diputación de Albacete ha resuelto dos convocatorias de ayudas dirigidas a entidades locales territoriales de la provincia y a sus entes dependientes para universidades populares y escuelas infantiles municipales con una inversión conjunta de 568.689 euros.",
-      "date": "Sat, 08 Aug 2026 19:33:53 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "La Junta envía un Es-Alert para desalojar a 340 personas por la evolución del incendio en Niebla",
-      "link": "https://www.abc.es/espana/andalucia/huelva/junta-envia-esalert-desalojar-340-personas-evolucion-20260808193137-nts.html",
-      "desc": "La Junta de Andalucía ha enviado un mensaje Es-Alert para desalojar de forma preventiva a unas 340 personas de las zonas de Berrocal, Marigenta, El Membrillo y El Pozuelo ante la evolución del incendio forestal de Niebla. Teniendo en cuenta los 70 evacuados el",
-      "date": "Sat, 08 Aug 2026 19:31:37 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Sanz señala «avances» en el incendio de Niebla, aunque su perspectiva sigue siendo compleja",
-      "link": "https://www.abc.es/espana/andalucia/huelva/aumenta-despliegue-efectivos-ume-medios-atajar-llamas-20260808192325-nts.html",
-      "desc": "La situación en Niebla sigue siendo «compleja», pero ya se han registrado algunos avances en el combate al incendio desatado la tarde del jueves. Es una esperanza, aunque muy tímida, advierte el consejero de Presidencia, Sanidad y Emergencias y director del Pl",
-      "date": "Sat, 08 Aug 2026 19:23:25 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Así es el superhelicóptero de Pegasus para combatir incendios: 4.500 litros por descarga y opera en situaciones extremas",
-      "link": "https://www.abc.es/espana/andalucia/cordoba/superhelicoptero-pegasus-combatir-incendios-4500-litros-descarga-20260808190519-nts.html",
-      "desc": "La multinacional de Palma del Río Pegasus Aero Group informaba este viernes de que ha firmado un acuerdo a largo plazo junto a SkyConnect Leasing para la incorporación de varios helicópteros ' UH-60L Black Hawk' destinados a operaciones de extinción de incendi",
-      "date": "Sat, 08 Aug 2026 19:05:20 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Madrid subastará más de 5.000 objetos perdidos antes de fin de año",
-      "link": "https://www.abc.es/espana/madrid/madrid-subastara-5000-objetos-perdidos-fin-ano-20260808184842-nt.html",
-      "desc": "Hasta 1,4 millones de euros ha ingresado en las arcas municipales el Ayuntamiento de Madrid en los dos últimos años gracias a la puesta en marcha de subastas electrónicas de objetos perdidos no reclamados por sus propietarios y bienes retirados del servicio pú",
-      "date": "Sat, 08 Aug 2026 18:48:42 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Las Clarisas de Sisante organizan una feria solidaria para recaudar fondos para restaurar el tejado del monasterio",
-      "link": "https://www.abc.es/espana/castilla-la-mancha/clarisas-sisante-organizan-feria-solidaria-recaudar-fondos-20260808183924-nt.html",
-      "desc": "Las Hermanas Clarisas Nazarenas de Sisante han organizado este fin de semana una feria solidaria con el objetivo de recaudar fondos para acometer la necesaria restauración del tejado del Monasterio de Nuestro Padre Jesús Nazareno, uno de los conjuntos conventu",
-      "date": "Sat, 08 Aug 2026 18:39:24 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Vox plantará a Rego en la reunión previa de la conferencia de Infancia que repartirá a los menores de Ceuta",
-      "link": "https://www.abc.es/espana/vox-plantara-rego-reunion-previa-conferencia-infancia-20260808183910-nt.html",
-      "desc": "Las comunidades autónomas gobernadas en coalición entre el Partido Popular (PP) y Vox, Extremadura, Aragón y Castilla y León, buscarán todas las formas posibles para rechazar el reparto de menores extranjeros provenientes de Ceuta. El primer intento lo han anu",
-      "date": "Sat, 08 Aug 2026 18:39:10 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
       "title": "Prisión para el presunto autor del homicidio de un hombre en Nou Barris",
       "link": "https://www.lavanguardia.com/sucesos/20260808/11610426/prision-presunto-autor-homicidio-hombre-nou-barris.html",
       "desc": "El individuo atacó con un arma blanca en la cara al amante de su exmujer, compañero de ésta en una panadería familiar de Gràcia",
       "date": "08 Aug 2026 18:37:20 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "Muere un motorista al salirse de la vía en la provincia de Salamanca",
-      "link": "https://www.abc.es/espana/castilla-leon/muere-motorista-salirse-via-provincia-salamanca-20260808182656-nt.html",
-      "desc": "El asfalto se volvía a cobrar otra vida este sábado en las carreteras de Castilla y León. La de un motorista de unos 50 años que moría tras sufrir un accidente de tráfico cerca de la una de la tarde en la provincia de Salamanca. Ocurría en la carretera provinc",
-      "date": "Sat, 08 Aug 2026 18:29:05 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "El Córdoba CF celebrará un entrenamiento a puerta abierta en El Arcángel antes del estreno ante el Burgos",
-      "link": "https://www.abc.es/espana/andalucia/cordoba/cordoba-cf/cordoba-celebrara-entrenamiento-puerta-abierta-arcangel-estreno-20260808181714-nts.html",
-      "desc": "No es habitual, pero el Córdoba CF quiere sentir de cerca el aliento del cordobesismo en una semana especialmente importante. Con el debut liguero ante el Burgos del próximo domingo 16 de agosto cada vez más cerca, la entidad blanquiverde ha habilitado un entr",
-      "date": "Sat, 08 Aug 2026 18:27:47 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Velázquez estrecha lazos educativos y culturales con Toledo (Ohio) con nuevos programas de intercambio de estudiantes",
-      "link": "https://www.abc.es/espana/castilla-la-mancha/toledo/velazquez-estrecha-lazos-educativos-culturales-toledo-ohio-20260808181824-nt.html",
-      "desc": "El alcalde de Toledo, Carlos Velázquez , ha mantenido este sábado una reunión de trabajo con responsables del Canaday Center de la Universidad de Toledo (Ohio) con el objetivo de estrechar los lazos educativos y culturales entre ambas ciudades, en el marco del",
-      "date": "Sat, 08 Aug 2026 18:19:59 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Fiestas de San Lorenzo: concierto de Los Vinagres y 200 bolardos convertidos en obras de arte",
-      "link": "https://www.abc.es/espana/madrid/fiestas-san-lorenzo-concierto-vinagres-200-bolardos-20260808180803-nt.html",
-      "desc": "En la maratón de fiestas populares que encadena la capital a principios de agosto le toca el turno a San Lorenzo, que viste Lavapiés de verbena desde ayer y hasta el 11 de agosto. Además de conciertos, talleres infantiles y tardes de zarzuela, chotis y copla, ",
-      "date": "Sat, 08 Aug 2026 18:08:31 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "El Barça expresa sus condolencias por la muerte de Jorge Messi y jugará con brazalete negro",
-      "link": "https://www.lavanguardia.com/deportes/futbol/20260808/11610414/barca-expresa-condolencias-muerte-jorge-messi-jugara-brazalete-negro.html",
-      "desc": "El club ha pedido también que se guarde un minuto de silencio en su triangular en Udine",
-      "date": "08 Aug 2026 17:59:08 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "Agenda de las fiestas de la Peregrina en Pontevedra: de MClan a Miguel Ríos",
-      "link": "https://www.abc.es/espana/galicia/agenda-fiestas-peregrina-pontevedra-mclan-miguel-rios-20260808175549-nt.html",
-      "desc": "Las Festas da Peregrina de Pontevedra han comenzado este sábado, 8 de agosto, con la lectura del pregón, a las 12.00 horas de la mañana, a cargo del periodista Ramón Rozas. Durante ocho días y hasta el domingo 16 la ciudad disfrutará de diferentes actividades ",
-      "date": "Sat, 08 Aug 2026 17:55:49 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Mercadona abre este domingo 9 de agosto: estos son los supermercados con horario especial",
-      "link": "https://www.abc.es/espana/comunidad-valenciana/mercadona-abre-domingo-agosto-supermercados-horario-especial-20260808174116-nt.html",
-      "desc": "Los supermercados Mercadona abiertos este domingo, 9 de agosto, en la Comunidad Valenciana se concentran en las zonas costeras. Las tiendas de una treintena de municipios de Valencia, Alicante y Castellón suben la persiana durante esta jornada no laborable con",
-      "date": "Sat, 08 Aug 2026 17:41:16 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "El piso de toxicómanos de Muntaner suma este año 49 intervenciones policiales",
-      "link": "https://www.lavanguardia.com/local/barcelona/20260808/11610399/piso-toxicomanos-muntaner-suma-ano-49-intervenciones-policiales.html",
-      "desc": "El PP exige al Ayuntamiento de Barcelona que haga uso de todas las herramientas legales disponibles para propiciar el desalojo de esta vivienda",
-      "date": "08 Aug 2026 17:12:59 +0200",
       "source": "La Vanguardia",
       "color": "#8e44ad",
       "feedId": "LaVanguardia",
