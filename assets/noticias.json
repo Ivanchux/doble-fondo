@@ -1,7 +1,37 @@
 {
-  "updated": "2026-08-09T18:32:14Z",
+  "updated": "2026-08-09T20:25:28Z",
   "count": 24,
   "items": [
+    {
+      "title": "Los dos minutos de oscuridad que darán luz a la España vaciada",
+      "link": "https://www.abc.es/espana/castilla-leon/1500-20260728214110-nt.html",
+      "desc": "«En mis 35 años como alcalde nunca un evento ha atraído a tantas personas a Moraleja de Matacabras », expresa sobre el eclipse Félix Álvarez de Alba, que entró a la alcaldía del pueblo abulense en 1991, con 18 años y dos meses, y aún sigue en ella. Puede presu",
+      "date": "Sun, 09 Aug 2026 21:41:10 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Miles de ceutíes salen a la calle al grito de “Basta ya: Ceuta no se rinde”",
+      "link": "https://www.lavanguardia.com/politica/20260809/11610811/miles-ceuties-salen-calle-grito-basta-ceuta-rinde.html",
+      "desc": "Los manifestantes, convocados por las cuatro comunidades religiosas de la ciudad, reclaman una respuesta ante la crisis desencadenada por la entrada masiva de migrantes el 30 de julio",
+      "date": "09 Aug 2026 21:08:32 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
+    {
+      "title": "Ceuta se une contra el discurso oficial de Moncloa: «¡Basta ya!»",
+      "link": "https://www.abc.es/espana/ceuta-une-discurso-oficial-moncloa-basta-20260809184929-nt.html",
+      "desc": "«¡Basta ya! ¡Ceuta no se rinde!» Bajo este lema, miles de ceutíes se han reunido este domingo para clamar contra el Gobierno la falta de transparencia en la gestión que ha llevado a cabo de la crisis migratoria que asola el enclave español desde la entrada de ",
+      "date": "Sun, 09 Aug 2026 20:54:51 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
     {
       "title": "El Córdoba CF encuentra en la medular una de sus grandes fortalezas",
       "link": "https://www.abc.es/espana/andalucia/cordoba/cordoba-cf/cordoba-encuentra-medular-grandes-fortalezas-20260809085819-nts.html",
@@ -73,7 +103,7 @@
       "caso": "other"
     },
     {
-      "title": "El Tajo se queda sin río en Toledo",
+      "title": "El Tajo se queda sin agua en Toledo",
       "link": "https://www.abc.es/espana/castilla-la-mancha/toledo/tajo-queda-rio-toledo-20260809182953-nt.html",
       "desc": "El Tajo agoniza a su paso por Toledo . La fotografía que este domingo ofrecía el río en el embarcadero de la senda ecológica, en la zona de los baños de Tenerías, resulta difícil de imaginar para quien conozca el cauce en otras épocas del año. El agua se retir",
       "date": "Sun, 09 Aug 2026 18:29:53 +0200",
@@ -207,36 +237,6 @@
       "link": "https://www.abc.es/espana/andalucia/cordoba/cantaor-cordobes-rafa-calli-historia-nacional-lampara-20260809170929-nts.html",
       "desc": "El joven cantaor cordobés Rafa del Calli (Rafael Plantón Heredia) atiende a ABC en su móvil que echa humo después de que en la madrugada de este domingo se hiciera en La Unión (Murcia) con la Lámpara Minera , un trofeo legendario en el mundo del flamenco. Lo s",
       "date": "Sun, 09 Aug 2026 17:09:30 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "El incendio de Niebla (Huelva) afecta ya a un perímetro 8.000 hectáreas",
-      "link": "https://www.lavanguardia.com/sucesos/20260809/11610735/incendio-niebla-huelva-afecta-perimetro-8-000-hectareas.html",
-      "desc": "La vicepresidenta Sara Aagesen dice que España ya lleva quemadas este año 200.00 hectáreas, seis veces más que el año pasado",
-      "date": "09 Aug 2026 16:26:39 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "Una embarcación con 20 migrantes alcanza de madrugada la costa de La Línea (Cádiz)",
-      "link": "https://www.lavanguardia.com/vida/20260809/11610721/embarcacion-20-migrantes-alcanza-madrugada-costa-linea-cadiz.html",
-      "desc": "Ninguno de los llegados, hombres mayores de edad, ha necesitado atención sanitaria",
-      "date": "09 Aug 2026 15:13:37 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "Encuentran muerto a un hombre de 45 años en una hamaca en la playa de La Villajoyosa (Alicante)",
-      "link": "https://www.abc.es/espana/comunidad-valenciana/encuentran-hombre-anos-muerto-hamaca-playa-villajoyosa-20260809150038-nt.html",
-      "desc": "Efectivos de la Guardia Civil han hallado este domingo por la mañana el cadáver de un hombre de 45 años en una hamaca de la playa de La Villajoyosa (Alicante). El cuerpo no presenta signos de violencia. Los agentes se han movilizado a esta playa sobre las 8.30",
-      "date": "Sun, 09 Aug 2026 15:00:38 +0200",
       "source": "ABC",
       "color": "#c0392b",
       "feedId": "ABC",
