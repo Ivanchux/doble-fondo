@@ -1,7 +1,147 @@
 {
-  "updated": "2026-08-09T06:46:55Z",
+  "updated": "2026-08-09T08:35:42Z",
   "count": 24,
   "items": [
+    {
+      "title": "Intervenidos 800 kilos de cocaína en Punta Umbría",
+      "link": "https://www.abc.es/espana/andalucia/huelva/intervenidos-800-kilos-cocaina-punta-umbria-20260809101825-nts.html",
+      "desc": "La Guardia Civil ha intervenido 27 fardos con cocaína, con un peso de 800 kilos , tras una persecución a una embarcación semirrígida cuatrimotora, que se dirigía a la localidad de Punta Umbría en Huelva. Los agentes tuvieron conocimiento de la presencia de una",
+      "date": "Sun, 09 Aug 2026 10:18:25 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "0-0: El Toledo cae en los penaltis ante un Guadalajara en formación",
+      "link": "https://www.abc.es/espana/castilla-la-mancha/toledo/deportes/toledo-cae-penaltis-ante-guadalajara-formacion-20260809100620-nt.html",
+      "desc": "Una lastimosa tanda de penaltis privó al CD Toledo de seguir avanzando ronda en la Copa Federación en su fase regional tras un 0-0 final ante el Deportivo Guadalajara. El equipo toledano solo anotó dos de las cinco penas máximas lanzadas desde los once metros,",
+      "date": "Sun, 09 Aug 2026 10:06:21 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Investigan la muerte de un hombre hallado muerto en una fuente en Salamanca",
+      "link": "https://www.abc.es/espana/castilla-leon/investigan-muerte-hombre-hallado-muerto-fuente-salamanca-20260809100326-nt.html",
+      "desc": "La Policía Nacional de Salamanca está investigando las causas y circunstancias de un varón hallado parcialmente sumergido en una fuente de la capital charra. Todo después de que pasados unos minutos de las ocho de la mañana de este domingo, 9 de agosto, una ll",
+      "date": "Sun, 09 Aug 2026 10:06:07 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Un vestido de Pertegaz para Laurentina",
+      "link": "https://www.abc.es/espana/castilla-la-mancha/vestido-pertegaz-laurentina-20260806091602-nt.html",
+      "desc": "Laurentina Santos abre despacio el armario de su dormitorio. Busca una percha de madera y, con el cuidado de quien sostiene algo irrepetible, descuelga un vestido blanco de brocado. Lo contempla unos segundos antes de acariciar la tela. Han pasado casi 66 años",
+      "date": "Sun, 09 Aug 2026 09:16:02 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Siete años esperando justicia por un accidente laboral mortal en Toledo: cinco juicios suspendidos",
+      "link": "https://www.abc.es/espana/castilla-la-mancha/toledo/siete-anos-esperando-justicia-accidente-laboral-mortal-20260803091526-nt.html",
+      "desc": "Han pasado más de siete años desde que un trabajador perdió la vida en un accidente con una carretilla elevadora en el polígono industrial de Toledo. Desde entonces, el procedimiento penal ha acumulado cinco suspensiones del juicio oral por causas atribuidas a",
+      "date": "Sun, 09 Aug 2026 09:15:26 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "El eclipse llena Cuenca y Guadalajara: conciertos, hoteles completos y los mejores cielos de España",
+      "link": "https://www.abc.es/espana/castilla-la-mancha/eclipse-llena-cuenca-guadalajara-conciertos-hoteles-completos-20260805091440-nt.html",
+      "desc": "Hoteles completos desde hace meses, apartamentos turísticos sin apenas disponibilidad, casas rurales llenas y una programación cultural sin precedentes. El eclipse total de Sol de este miércoles, 12 de agosto, no solo oscurecerá durante unos instantes el cielo",
+      "date": "Sun, 09 Aug 2026 09:14:40 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "El Córdoba CF mide sus movimientos en el mercado con un número limitado de fichas disponibles",
+      "link": "https://www.abc.es/espana/andalucia/cordoba/cordoba-cf/cordoba-mide-movimientos-mercado-numero-limitado-fichas-20260809201226-nts.html",
+      "desc": "La temporada 2026-2027 para el Córdoba CF arrancará el próximo 16 de agosto ante el Burgos en El Plantío. De cara a este encuentro, los despachos de El Arcángel han estado a pleno funcionamiento para oficializar un total de 15 incorporaciones para cubrir las 2",
+      "date": "Sun, 09 Aug 2026 09:14:38 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "La Hita se prepara para el eclipse: «Es una de las experiencias más bonitas que puede vivir un ser humano»",
+      "link": "https://www.abc.es/espana/castilla-la-mancha/toledo/hita-prepara-eclipse-experiencias-bonitas-puede-vivir-20260804091344-nt.html",
+      "desc": "Quedan apenas unos días para que el cielo vuelva a regalar uno de esos fenómenos que solo ocurren unas pocas veces en la vida. El próximo 12 de agosto, España será el escenario del primero de los tres eclipses solares que atravesarán el país en los próximos añ",
+      "date": "Sun, 09 Aug 2026 09:13:44 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Fuego en la Mezquita-Catedral, un año de un ejemplo de actuación",
+      "link": "https://www.abc.es/espana/andalucia/cordoba/fuego-mezquitacatedral-ano-ejemplo-actuacion-20260809115148-nts.html",
+      "desc": "Estos días hace justo un año del incendio de una pequeña parte de la Mezquita-Catedral de Córdoba que sobrecogió los corazones de los cordobeses, pero estoy seguro que también del resto de andaluces, españoles y me atrevería a decir que a parte del mundo. Las ",
+      "date": "Sun, 09 Aug 2026 09:13:38 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Las muertes superarán en 47.902 a los nacimientos en Córdoba hasta 2041 y marcarán la pérdida de población",
+      "link": "https://www.abc.es/espana/andalucia/cordoba/muertes-superaran-47902-nacimientos-cordoba-2041-marcaran-20260809091329-nts.html",
+      "desc": "Las perspectivas de evolución demográfica de Córdoba son preocupantes , como el INE volvió a constatar este jueves . Recientemente este ente estadístico estatal, en su estudio 'Proyecciones de población', estimó que la provincia reducirá en los próximos 15 año",
+      "date": "Sun, 09 Aug 2026 09:13:30 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "El agua nebulizada de la Mezquita-Catedral: adiós al endiablado problema de apagar fuego en monumentos",
+      "link": "https://www.abc.es/espana/andalucia/cordoba/agua-nebulizada-mezquitacatedral-adios-endiablado-problema-apagar-20260809091247-nts.html",
+      "desc": "En el año que ha transcurrido desde el incendio de la Mezquita-Catedral de Córdoba, el Cabildo ha seguido dando pasos , como venía haciendo antes del fuego, en el combate contra este enemigo. Un elemento destacado del que se dotará será un novedoso sistema ant",
+      "date": "Sun, 09 Aug 2026 09:12:47 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "«Siento tristeza por el incendio de la Mezquita-Catedral de Córdoba, pero alegría por cómo se rehabilita»",
+      "link": "https://www.abc.es/espana/andalucia/cordoba/incendio-mezquita-traves-testigos-directos-ano-despues-20260809091156-nts.html",
+      "desc": "Corrían unos minutos sobre las 21:00 horas. Era otro viernes de verano. De repente, de la techumbre sobresalía una llamarada. Córdoba se estremeció. La Mezquita-Catedral sufría un incendio en apariencia grave -y lo era-. Ocurrió el 8 de agosto de 2025. Aunque ",
+      "date": "Sun, 09 Aug 2026 09:11:56 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Cuando los eclipses predecían muertes y catástrofes",
+      "link": "https://www.abc.es/espana/castilla-leon/eclipses-predecian-muertes-catastrofes-recorrido-historicodocumental-20260729085824-nt.html",
+      "desc": "Es el año 1580 y en el manto de la noche solo sobresale la luz roja de la luna de sangre. El rey Enrique I de Portugal acaba de morir, suceso nefasto que Felipe II relacionará con el eclipse lunar. No será el primero ni el único en llegar a conclusiones simila",
+      "date": "Sun, 09 Aug 2026 08:58:24 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Resurgir entre el «desolador» paisaje de cenizas: «Va a costar»",
+      "link": "https://www.abc.es/espana/castilla-leon/resurgir-desolador-paisaje-cenizas-costar-20260805085729-nt.html",
+      "desc": "El terreno aún sigue muy caliente, los sustos por pequeñas reactivaciones no faltan, pero con el fin de las llamas y el humo disperso, lo que queda tras el incendio y ese rastro «desolador» de cenizas sembradas por unas 50.000 hectáreas es el lugar de vida y t",
+      "date": "Sun, 09 Aug 2026 08:57:29 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
     {
       "title": "Dónde ir de fiesta este domingo 9 de agosto en la provincia de Toledo",
       "link": "https://www.abc.es/espana/castilla-la-mancha/toledo/pueblos/fiesta-domingo-agosto-provincia-toledo-20260809080000-nt.html",
@@ -100,146 +240,6 @@
       "source": "La Vanguardia",
       "color": "#8e44ad",
       "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "Tres comunidades se niegan a acoger a los menores procedentes de Ceuta",
-      "link": "https://www.lavanguardia.com/politica/20260809/11610472/tres-comunidades-niegan-acoger-menores-procedentes-ceuta.html",
-      "desc": "Extremadura, Castilla y León y Aragón plantarán al Gobierno",
-      "date": "09 Aug 2026 06:00:00 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "España aumentará en los próximos días su control fronterizo a los pasajeros de Italia",
-      "link": "https://www.lavanguardia.com/politica/20260809/11610452/espana-aumentara-proximos-dias-controles-fronterizos-pasajeros-italia.html",
-      "desc": "La Policía Nacional efectúa las primeras inspecciones en los aeropuertos de Barajas y El Prat, que operan con normalidad, y las extenderá a otros aeródromos y a puertos como el de Barcelona",
-      "date": "09 Aug 2026 06:00:00 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "El 'fervor' del eclipse: espacios naturales y carreteras cerradas, una alerta sanitaria y precios hoteleros disparados",
-      "link": "https://www.lavanguardia.com/vida/20260809/11610420/fervor-eclipse-espacios-naturales-carreteras-cerradas-alerta-sanitaria-precios-hoteleros-disparados.html",
-      "desc": "La gran expectación ciudadana ante la cita astronómica del miércoles concita, entre las autoridades de las comunidades autonómicas con buena visibilidad, preocupación por posibles colapsos viarios o a incendios, lo que lleva al cierre de carreteras y parques n",
-      "date": "09 Aug 2026 06:00:00 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "La fiebre del eclipse",
-      "link": "https://www.lavanguardia.com/opinion/20260809/11610389/fiebre-eclipse.html",
-      "desc": "",
-      "date": "09 Aug 2026 06:00:00 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "Premio al tecnoautoritarismo",
-      "link": "https://www.lavanguardia.com/internacional/20260809/11610390/premio-tecnoautoritarismo.html",
-      "desc": "",
-      "date": "09 Aug 2026 06:00:00 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "El Nilo amenaza a los faraones",
-      "link": "https://www.lavanguardia.com/vida/20260809/11608551/nilo-amenaza-faraones.html",
-      "desc": "",
-      "date": "09 Aug 2026 06:00:00 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "El Mediterráneo, abocado a acoger ríos temporales: refugios o rescate para las anguilas",
-      "link": "https://www.lavanguardia.com/natural/20260809/11610337/mediterraneo-abocado-rios-temporales-refugios-rescate-anguilas.html",
-      "desc": "",
-      "date": "09 Aug 2026 06:00:00 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "“La baja laboral no debería ser blanco o negro”",
-      "link": "https://www.lavanguardia.com/vida/20260809/11609908/baja-laboral-deberia-blanco-negro-podrias-incorporarte-trabajo-progresivamente.html",
-      "desc": "Olga Pané, consellera de Salut, se reincorpora después de más de tres meses de ausencia por un accidente",
-      "date": "09 Aug 2026 06:00:00 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "Las millas de oro de Barcelona y Madrid chocan con la falta de locales",
-      "link": "https://www.lavanguardia.com/economia/20260809/11610415/millas-oro-barcelona-madrid-chocan-falta-locales.html",
-      "desc": "La dificultad para entrar en las grandes avenidas empuja al alza los precios",
-      "date": "09 Aug 2026 06:00:00 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "Salidas a todo trapo: Araújo va al Liverpool, el Barça ya sabe que Ferran quiere jugar en el PSG...",
-      "link": "https://www.lavanguardia.com/deportes/20260809/11610577/salidas-trapo-araujo-liverpool-barca-ferran-quiere-jugar-psg.html",
-      "desc": "El equipo británico se hará cargo de la totalidad de la ficha del central uruguayo y el valenciano piensa que merece un estatus superior al que el club blaugrana puede ofrecerle",
-      "date": "09 Aug 2026 06:00:00 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "La consellera se cayó del caballo",
-      "link": "https://www.abc.es/espana/comunidad-valenciana/consellera-cayo-caballo-20260809161013-nt.html",
-      "desc": "En ningún fragmento del Nuevo Testamento se indica que, durante la conversión de San Pablo al cristianismo, cayese del caballo al recibir el mensaje divino. Fue el célebre pintor Caravaggio quien, con varias de sus obras, popularizó esa imagen hasta convertirl",
-      "date": "Sun, 09 Aug 2026 05:30:03 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Las alertas del CNI y Cifas desmontan la versión de Interior sobre la avalancha de Ceuta",
-      "link": "https://www.abc.es/espana/alertas-cni-cifas-desmontan-version-interior-sobre-20260809011741-nt.html",
-      "desc": "«Ningún servicio de información, que nos conste, alertó de esto […]. Si hubiera habido alguna posibilidad de que algo parecido pudiera pasar, se hubiera informado con un aviso o comunicación a las más altas instancias del Estado». De esta forma el ministro del",
-      "date": "Sun, 09 Aug 2026 01:17:41 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Del silencio de las aves a la recogida de las telas de araña: así reaccionan los animales ante un eclipse solar",
-      "link": "https://www.abc.es/espana/comunidad-valenciana/reaccionan-animales-eclipse-solar-total-silencio-aves-20260808011627-nt.html",
-      "desc": "Aves diurnas que dejan de cantar y buscan refugio para descansar. Especies de hábitos nocturnos que aparecen aunque no les toque. Cetáceos que cambian de hábitos. O macacos y flamencos que, de repente, se agrupan, como temerosos de que la luz se esfume cuando ",
-      "date": "Sun, 09 Aug 2026 01:16:27 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Los ministros en el punto de mira por su gestión en la crisis migratoria de Ceuta",
-      "link": "https://www.abc.es/espana/ministros-punto-mira-gestion-crisis-migratoria-ceuta-20260807011553-nt.html",
-      "desc": "«Un ataque, una violación de la integridad territorial de España» . Así definió Pedro Sánchez la crisis migratoria de Ceuta, palabras duras y solemnes que comparan la entrada de 72.000 personas con una agresión al Estado. Sin embargo, ante un asalto de ese cal",
-      "date": "Sun, 09 Aug 2026 01:15:53 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
       "caso": "other"
     }
   ]
