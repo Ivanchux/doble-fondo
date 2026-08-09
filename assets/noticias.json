@@ -1,7 +1,107 @@
 {
-  "updated": "2026-08-09T03:28:48Z",
+  "updated": "2026-08-09T04:59:06Z",
   "count": 24,
   "items": [
+    {
+      "title": "Ceuta, una embestida fronteriza que nadie vio venir a pesar de los avisos",
+      "link": "https://www.lavanguardia.com/politica/20260809/11610434/como-sentencia-supremo-bulos-derivaron-asalto-ceuta.html",
+      "desc": "La embestida fronteriza que nadie vio venir&nbsp;pese a los avisos",
+      "date": "09 Aug 2026 06:02:53 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
+    {
+      "title": "“La reunificación familiar no debe consistir en una mera entrega de los menores a Marruecos”",
+      "link": "https://www.lavanguardia.com/politica/20260809/11610407/reunificacion-familiar-debe-consistir-mera-entrega-menores-marruecos.html",
+      "desc": "La presidenta de la Fundación Raíces, Loures Reyzábal, denuncia que algunos menores  han sufrido violencia a manos de las autoridades de Rabat",
+      "date": "09 Aug 2026 06:00:00 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
+    {
+      "title": "Las remesas de los inmigrantes marroquíes aportan ya el 7% de la economía de su país",
+      "link": "https://www.lavanguardia.com/economia/20260809/11609980/remesas-migrantes-aportan-7-economia-marruecos.html",
+      "desc": "La participación en el PIB iguala al turismo, solo por detrás de la automoción",
+      "date": "09 Aug 2026 06:00:00 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
+    {
+      "title": "Estados Unidos, un aliado más estratégico que nunca para Marruecos",
+      "link": "https://www.lavanguardia.com/economia/20260809/11609986/estados-unidos-aliado-mas-estrategico-nunca-marruecos.html",
+      "desc": "El comercio de fosfatos ha quedado exento de aranceles del país norteamericano&nbsp;",
+      "date": "09 Aug 2026 06:00:00 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
+    {
+      "title": "Europa naufraga en el Estrecho",
+      "link": "https://www.lavanguardia.com/internacional/20260809/11609713/inmigracion-europa-ue-ceuta-espana-marruecos-estados-unidos-schengen.html",
+      "desc": "",
+      "date": "09 Aug 2026 06:00:00 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
+    {
+      "title": "Tres comunidades se niegan a acoger a los menores procedentes de Ceuta",
+      "link": "https://www.lavanguardia.com/politica/20260809/11610472/tres-comunidades-niegan-acoger-menores-procedentes-ceuta.html",
+      "desc": "Extremadura, Castilla y León y Aragón plantarán al Gobierno",
+      "date": "09 Aug 2026 06:00:00 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
+    {
+      "title": "España aumentará en los próximos días su control fronterizo a los pasajeros de Italia",
+      "link": "https://www.lavanguardia.com/politica/20260809/11610452/espana-aumentara-proximos-dias-controles-fronterizos-pasajeros-italia.html",
+      "desc": "La Policía Nacional efectúa las primeras inspecciones en los aeropuertos de Barajas y El Prat, que operan con normalidad, y las extenderá a otros aeródromos y a puertos como el de Barcelona",
+      "date": "09 Aug 2026 06:00:00 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
+    {
+      "title": "El 'fervor' del eclipse: espacios naturales y carreteras cerradas, una alerta sanitaria y precios hoteleros disparados",
+      "link": "https://www.lavanguardia.com/vida/20260809/11610420/fervor-eclipse-espacios-naturales-carreteras-cerradas-alerta-sanitaria-precios-hoteleros-disparados.html",
+      "desc": "La gran expectación ciudadana ante la cita astronómica del miércoles concita, entre las autoridades de las comunidades autonómicas con buena visibilidad, preocupación por posibles colapsos viarios o a incendios, lo que lleva al cierre de carreteras y parques n",
+      "date": "09 Aug 2026 06:00:00 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
+    {
+      "title": "La fiebre del eclipse",
+      "link": "https://www.lavanguardia.com/opinion/20260809/11610389/fiebre-eclipse.html",
+      "desc": "",
+      "date": "09 Aug 2026 06:00:00 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
+    {
+      "title": "La consellera se cayó del caballo",
+      "link": "https://www.abc.es/espana/comunidad-valenciana/consellera-cayo-caballo-20260809161013-nt.html",
+      "desc": "En ningún fragmento del Nuevo Testamento se indica que, durante la conversión de San Pablo al cristianismo, cayese del caballo al recibir el mensaje divino. Fue el célebre pintor Caravaggio quien, con varias de sus obras, popularizó esa imagen hasta convertirl",
+      "date": "Sun, 09 Aug 2026 05:30:03 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
     {
       "title": "Las alertas del CNI y Cifas desmontan la versión de Interior sobre la avalancha de Ceuta",
       "link": "https://www.abc.es/espana/alertas-cni-cifas-desmontan-version-interior-sobre-20260809011741-nt.html",
@@ -137,106 +237,6 @@
       "link": "https://www.lavanguardia.com/opinion/20260809/11610384/conde-basura-reta-ultraderecha.html",
       "desc": "Binface no es un personaje ficticio de un programa de televisión. Es real, hasta cierto punto",
       "date": "09 Aug 2026 00:30:00 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "Carrara no es solo cosa de oligarcas",
-      "link": "https://www.lavanguardia.com/cultura/20260809/11610024/carrara-marmol-techno-rave-musica-ultrarricos-oligarcas.html",
-      "desc": "",
-      "date": "09 Aug 2026 00:00:00 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "El Udinese sorprende a un baby Barça y se lleva el triangular",
-      "link": "https://www.lavanguardia.com/deportes/fc-barcelona/20260808/11610465/resumen-udinese-barca-triangular.html",
-      "desc": "Un gol de Bayo al final derrota la juventud del equipo de Flick",
-      "date": "08 Aug 2026 23:30:04 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "Nueve heridos tras colisionar dos motos en el campeonato de motociclismo urbano de La Bañeza",
-      "link": "https://www.abc.es/espana/castilla-leon/nueve-heridos-tras-colisionar-dos-motos-campeonato-20260808213511-nt.html",
-      "desc": "Nueve personas han resultado heridas este sábado tras colisionar dos motocicletas en la curva 7 del circuito urbano del campeonato de motociclismo de La Bañeza (León) y golpear además a un espectador, según ha informado el Centro de Emergencias 112 de Castilla",
-      "date": "Sat, 08 Aug 2026 21:35:12 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "La superficie afectada por los incendios en Castilla y León multiplica por más de doce lo quemado hasta julio en 2025",
-      "link": "https://www.abc.es/espana/castilla-leon/superficie-quemada-incendios-multiplica-diez-datos-2025-20260804211124-nt.html",
-      "desc": "Con unas 50.000 hectáreas afectada s, el incendio declarado el pasado 22 de julio en Burgohondo (Ávila) -que este jueves lograba darse por estabilizado, aunque resta para su extinción- es ya el mayor registrado en la historia de España. Cerca de 200 kilómetros",
-      "date": "Sat, 08 Aug 2026 21:11:24 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "El fuerte calor se instala en Córdoba: un único día por debajo de 40 grados, y serán 39, hasta el viernes",
-      "link": "https://www.abc.es/espana/andalucia/cordoba/fuerte-calor-instala-cordoba-unico-dia-debajo-20260808204150-nts.html",
-      "desc": "Tiene pinta de que Don Lorenzo tiene planes de seguir castigando duro en Córdoba en el arranque de agosto. Así lo recogen las previsiones de la Agencia Estatal de Meteorología (Aemet) para los próximos días. Por lo pronto, este domingo , igual que el sábado, e",
-      "date": "Sat, 08 Aug 2026 20:41:51 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Abascal pide investigar a Sánchez por un posible delito de traición contra el Estado",
-      "link": "https://www.abc.es/espana/vox-pide-activar-articulo-102-constitucion-investigar-20260808202219-nt.html",
-      "desc": "Santiago Abascal da un paso más en su oposición total al Gobierno de Pedro Sánchez. Este sábado, el líder de Vox ha anunciado mediante su cuenta de X que su formación promoverá la activación del artículo 102 de la Constitución para investigar al presidente y a",
-      "date": "Sat, 08 Aug 2026 20:22:19 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Un incendio provocado por un vehículo obliga a cortar la AP-6 y la N-VI en la provincia de Segovia",
-      "link": "https://www.abc.es/espana/castilla-leon/incendio-provocado-vehiculo-obliga-cortar-ap6-nvi-20260808200710-nt.html",
-      "desc": "Un incendio provocado al parecer por un vehículo que comenzaba a arder en la tarde de este sábado en la carretera N-6 a la altura de la localidad segoviana de Navas de San Antonio obligaba a cortar el tráfico durante varias horas esta vía. Con punto de ignició",
-      "date": "Sat, 08 Aug 2026 20:07:10 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Los Ribereños lamentan la autorización de otros 87 hectómetros cúbicos del Tajo al Levante y piden preservar las reservas",
-      "link": "https://www.abc.es/espana/castilla-la-mancha/riberenos-lamentan-autorizacion-hectometros-cubicos-tajo-levante-20260808194837-nt.html",
-      "desc": "La Asociación de Municipios Ribereños de Entrepeñas y Buendía ha lamentado la autorización de un nuevo envío de 87 hectómetros cúbicos de agua al Levante y ha advertido de la necesidad de preservar las reservas acumuladas durante el último ciclo húmedo para af",
-      "date": "Sat, 08 Aug 2026 19:48:37 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Gall sentencia la Vuelta a Burgos en una exhibición de Pellizzari en las Lagunas de Neila",
-      "link": "https://www.abc.es/espana/castilla-leon/gall-sentencia-vuelta-burgos-exhibicion-pellizzari-lagunas-20260808194758-nt.html",
-      "desc": "Las Lagunas de Neila volvían a ejercer de juez de la Vuelta a Burgos en una última etapa de máxima exigencia, en la que Giulio Pellizzari se llevaba el triunfo y Felix Gall aseguraba el maillot morado como vencedor final. El primer español en la general, Enric",
-      "date": "Sat, 08 Aug 2026 19:47:58 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Prisión para el presunto autor del homicidio de un hombre en Nou Barris",
-      "link": "https://www.lavanguardia.com/sucesos/20260808/11610426/prision-presunto-autor-homicidio-hombre-nou-barris.html",
-      "desc": "El individuo atacó con un arma blanca en la cara al amante de su exmujer, compañero de ésta en una panadería familiar de Gràcia",
-      "date": "08 Aug 2026 18:37:20 +0200",
       "source": "La Vanguardia",
       "color": "#8e44ad",
       "feedId": "LaVanguardia",
