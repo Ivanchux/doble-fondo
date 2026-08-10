@@ -1,7 +1,117 @@
 {
-  "updated": "2026-08-10T12:56:06Z",
+  "updated": "2026-08-10T14:53:02Z",
   "count": 24,
   "items": [
+    {
+      "title": "Madrid destinará un millón de euros a ayudas para agricultores y ganaderos afectados por los incendios",
+      "link": "https://www.abc.es/espana/madrid/madrid-destinara-millon-euros-ayudas-agricultores-ganaderos-20260810155948-nt.html",
+      "desc": "La Comunidad de Madrid destinará un millón de euros para ayudar a las explotaciones agrícolas y ganaderas afectadas por los incendios registrados en la región este mes de julio, con el objetivo de garantizar la alimentación y el agua para el ganado, reparar in",
+      "date": "Mon, 10 Aug 2026 16:42:50 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Investigan una agresión homófoba a cinco chicas de 14 años al grito de «viva Franco» en Benialí (Alicante)",
+      "link": "https://www.abc.es/espana/comunidad-valenciana/brutal-agresion-homofoba-cinco-chicas-anos-grito-20260810170800-nt.html",
+      "desc": "La Guardia Civil investiga la presunta agresión homófoba sufrida este pasado sábado por la noche durante las fiestas de Benialí (Alicante) por cinco chicas de 14 años, que según su denuncia habrían sido increpadas y agredidas por tres jóvenes de entre 16 y 17 ",
+      "date": "Mon, 10 Aug 2026 16:30:12 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "La Asociación de Celíacos de Castilla-La Mancha considera «insuficiente» la nueva ayuda para las familias afectadas por celiaquía",
+      "link": "https://www.abc.es/espana/castilla-la-mancha/asociacion-celiacos-castillala-mancha-considera-insuficiente-nueva-20260810161200-nt.html",
+      "desc": "La celiaquía es una enfermedad multisistémica de base autoinmune cuyo único tratamiento actualmente es mantener, de por vida, una alimentación estrictamente exenta de gluten. El cumplimiento de esta dieta es fundamental para preservar una buena calidad de vida",
+      "date": "Mon, 10 Aug 2026 16:12:00 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Un hombre interrumpe la comparecencia de Bendodo en Barcelona: «Estoy en la calle por la puta orden de alejamiento»",
+      "link": "https://www.abc.es/espana/cataluna/hombre-interrumpe-comparecencia-bendodo-barcelona-calle-puta-20260810160948-nt.html",
+      "desc": "Elías Bendodo, vicesecretario del PP, y Daniel Sirera, presidente del partido en Barcelona, estaban compareciendo ante los medios de comunicación y hablando, entre otras cosas, sobre la crisis de Ceuta , cuando la rueda de prensa se vio abruptamente interrumpi",
+      "date": "Mon, 10 Aug 2026 16:09:48 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Los ingenieros agrónomos ofrecen su apoyo al sector agroalimentario afectado por los incendios",
+      "link": "https://www.abc.es/espana/castilla-la-mancha/ingenieros-agronomos-ofrecen-apoyo-sector-agroalimentario-afectado-20260810160025-nt.html",
+      "desc": "El Colegio Oficial de Ingenieros Agrónomos de Centro y Canarias ha puesto en marcha un conjunto de medidas de apoyo a agricultores, ganaderos e industrias agroalimentarias afectados por los graves incendios forestales registrados en distintas provincias de su ",
+      "date": "Mon, 10 Aug 2026 16:00:26 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Desarticulado un clan criminal dedicado a robos en viviendas y vehículos en Manzanares, Membrilla y La Solana",
+      "link": "https://www.abc.es/espana/castilla-la-mancha/cae-clan-criminal-especializado-robos-viviendas-vehiculos-20260810153921-nt.html",
+      "desc": "Efectivos del Área de Investigación del Puesto Principal de Manzanares de la Guardia Civil han detenido a nueve personas e investigado a otra más en el marco de la operación 'Roviespa', desarrollada para esclarecer una oleada de delitos contra el patrimonio co",
+      "date": "Mon, 10 Aug 2026 15:39:21 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Mercadona confirma el origen del salmorejo que vende en sus supermercados este verano",
+      "link": "https://www.abc.es/espana/comunidad-valenciana/mercadona-confirma-origen-salmorejo-vende-supermercados-verano-20260810112240-nt.html",
+      "desc": "Cada verano, el salmorejo fresco se convierte en uno de los 'superalimentos' imprescindibles en la cesta de la compra, tanto por sus múltiples cualidades nutritivas como por la comodidad y la sencillez que ofrece a la hora de preparar y degustar sobre la mesa.",
+      "date": "Mon, 10 Aug 2026 15:27:34 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Exoneran al presidente de la Federación de Asociaciones Gitanas del pago de casi 190.000 por subvenciones no devueltas",
+      "link": "https://www.abc.es/espana/castilla-leon/exoneran-presidente-federacion-asociaciones-gitanas-pago-190000-20260810151405-nt.html",
+      "desc": "La Sala de lo Contencioso Administrativo del Tribunal Superior de Justicia (TSJ) de Castilla y León ha exonerado al presidente de la Federación de Asociaciones Gitanas del pago de casi 190.000 por subvenciones no devueltas a la Gerencia de Servicios Sociales y",
+      "date": "Mon, 10 Aug 2026 15:14:06 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "El patrimonio industrial de Valladolid suena a música clásica",
+      "link": "https://www.abc.es/espana/castilla-leon/patrimonio-industrial-valladolid-suena-musica-clasica-20260810150038-nt.html",
+      "desc": "«El patrimonio no es solo piedra o historia, es un lugar vivo donde también puede llenar la música», defiende la alcaldesa de Castromembibre, Nerea Manrique. Con esa filosofía nació hace una década el ciclo 'Conciertos en Lugares Significativos', impulsado por",
+      "date": "Mon, 10 Aug 2026 15:00:38 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Un terremoto de magnitud 7,4 sacude Colombia",
+      "link": "https://www.lavanguardia.com/internacional/20260810/11611420/terremoto-colombia.html",
+      "desc": "‌El temblor se sintió en varias ciudades del ​país de 50 millones de habitantes, incluidas Quibdó, Pereira, Bogotá, Cali y Manizales y también en Panamá y Ecuador",
+      "date": "10 Aug 2026 14:59:40 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
+    {
+      "title": "Diez detenidos tras los graves disturbios registrados en el barrio de La Pradera de Alcázar de San Juan",
+      "link": "https://www.abc.es/espana/castilla-la-mancha/diez-detenidos-tras-graves-disturbios-registrados-barrio-20260810145627-nt.html",
+      "desc": "La Policía Nacional ha detenido en Alcázar de San Juan a diez personas en el marco de una operación desarrollada tras los graves disturbios y la alteración del orden público registrados en el barrio de La Pradera , después de que dos agentes fueran agredidos c",
+      "date": "Mon, 10 Aug 2026 14:56:27 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
     {
       "title": "Desmantelan una red que comercializaba carne caducada y almacenada desde 2020",
       "link": "https://www.abc.es/espana/castilla-leon/desmantelan-red-comercializaba-carne-apta-almacenada-2020-20260810142331-nt.html",
@@ -53,6 +163,16 @@
       "caso": "other"
     },
     {
+      "title": "Un turista desencadena un brote de sarampión en Mallorca y se teme una cadena de contagios",
+      "link": "https://www.lavanguardia.com/local/baleares/20260810/11611399/turista-desencadena-brote-sarampion-mallorca-teme-cadena-contagios.html",
+      "desc": "El primer afectado, un menor de edad,&nbsp; fue atendido de urgencias en un hospital de la Isla",
+      "date": "10 Aug 2026 14:28:18 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
+    {
       "title": "Castilla-La Mancha se moviliza en defensa de un ferrocarril que «vertebre» el territorio y rechaza el baipás por Montoro",
       "link": "https://www.abc.es/espana/castilla-la-mancha/castillala-mancha-moviliza-defensa-ferrocarril-vertebre-territorio-20260810142734-nt.html",
       "desc": "La situación que atraviesa el ferrocarril en el eje que conecta Castilla-La Mancha con Andalucía Oriental vuelve a poner de manifiesto la necesidad de apostar por una red ferroviaria que «vertebre el territorio , garantice las conexiones entre ciudades y comar",
@@ -73,6 +193,16 @@
       "caso": "other"
     },
     {
+      "title": "El presidente de Ceuta pide al Gobierno un centro de internamiento para confinar y expulsar a los migrantes",
+      "link": "https://www.lavanguardia.com/politica/20260810/11611396/presidente-ceuta-pide-gobierno-centro-internamiento-confinar-expulsar-inmigrantes.html",
+      "desc": "Juan Jesús Vivas reclama un mando únicoal Ejecutivo central para dar una respuesta urgente y eficaz a la “invasión”",
+      "date": "10 Aug 2026 14:22:45 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
+    {
       "title": "El Gobierno lleva el comité de crisis de Igualdad a Andalucía para hacer campaña contra Moreno",
       "link": "https://www.abc.es/espana/andalucia/malaga/gobierno-ahonda-polemica-vox-convoca-andalucia-comite-20260810141742-nts.html",
       "desc": "El Gobierno busca exponer a Andalucía con la violencia machista. El Ministerio de Igualdad celebrará en Andalucía su próximo comité de crisis durante el mes de septiembre, que lleva aparejada una reunión para pedir explicaciones a Juanma Moreno por ceder compe",
@@ -80,6 +210,16 @@
       "source": "ABC",
       "color": "#c0392b",
       "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Detenidos la hija y su pareja por la muerte del exsecretario de UAGA de Aragón y su mujer",
+      "link": "https://www.lavanguardia.com/politica/20260810/11611389/detenidos-hija-pareja-muerte-exsecretario-uaga-aragon-mujer.html",
+      "desc": "La Guardia Civil continúa con la investigación para reconstruir los hechos ocurridos la noche del sábado",
+      "date": "10 Aug 2026 14:20:17 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
       "caso": "other"
     },
     {
@@ -100,146 +240,6 @@
       "source": "ABC",
       "color": "#c0392b",
       "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "El PSOE de Talavera asegura haber forzado un Pleno extraordinario para frenar las plantas de biometano",
-      "link": "https://www.abc.es/espana/castilla-la-mancha/toledo/talavera/psoe-talavera-asegura-haber-forzado-pleno-extraordinario-20260810140418-nt.html",
-      "desc": "El reloj corre y, con él, avanzan también los trámites para las cuatro plantas de biometano proyectadas en el término municipal de Talavera de la Reina. Ante este escenario, el Grupo Municipal Socialista ha registrado la solicitud de un Pleno extraordinario co",
-      "date": "Mon, 10 Aug 2026 14:04:19 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Detenidos una hija del matrimonio muerto en Tauste (Zaragoza) y su actual pareja por el doble homicidio",
-      "link": "https://www.abc.es/espana/aragon/detenidos-hija-matrimonio-muerto-tauste-zaragoza-actual-20260810140355-nt.html",
-      "desc": "La Guardia Civil ha detenido este lunes a dos personas como presuntas autoras del doble homicidio ocurrido en Tauste (Zaragoza) . Se trata de una de las hijas del matrimonio fallecido y de su actual pareja. La noche del sábado 8 de agosto fueron localizados, e",
-      "date": "Mon, 10 Aug 2026 14:03:56 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "El eclipse solar, en directo por YouTube con el Astrofísico de Canarias",
-      "link": "https://www.abc.es/espana/canarias/eclipse-solar-directo-youtube-astrofisico-canarias-20260810140145-nt.html",
-      "desc": "El Instituto de Astrofísica de Canarias (IAC) retransmitirá en directo y en abierto un programa especial con motivo del eclipse solar total a través de su canal oficial en Youtube. El despliegue de producción y técnica se ubicará en el Cerro del Otero de Palen",
-      "date": "Mon, 10 Aug 2026 14:01:46 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Toledo refuerza la seguridad en el Valle por el eclipse y controlará el acceso a los miradores",
-      "link": "https://www.abc.es/espana/castilla-la-mancha/toledo/toledo-refuerza-seguridad-valle-eclipse-controlara-acceso-20260810140138-nt.html",
-      "desc": "Toledo espera una importante afluencia de público este miércoles en el Valle para contemplar el eclipse solar y prepara un dispositivo especial de seguridad, aunque, a priori, no se cortará la carretera de acceso a esta zona. La Policía Local estará desde la u",
-      "date": "Mon, 10 Aug 2026 14:01:38 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Las aerolíneas señalan esta ciudad de Andalucía entre los destinos en los que «se puede reservar con confianza» en 2026",
-      "link": "https://www.abc.es/espana/andalucia/aerolineas-senalan-ciudad-andalucia-destinos-puede-reservar-20260810140037-nts.html",
-      "desc": "Ahora que estamos en pleno periodo de vacaciones, elegir destino no siempre resulta sencillo . Más allá del precio o de los lugares que se quieren conocer, son muchos los viajeros que pueden tener dudas sobre si un determinado sitio es una buena opción para es",
-      "date": "Mon, 10 Aug 2026 14:00:38 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Mercadona confirma por qué vende caracoles fuera de temporada: «Estarán hasta final de mes, pero volverán cuando la calidad sea adecuada»",
-      "link": "https://www.abc.es/espana/andalucia/mercadona-confirma-vende-caracoles-temporada-final-mes-20260810135946-nts.html",
-      "desc": "La temporada de caracoles en España se concentra principalmente en primavera, cuando estos moluscos alcanzan uno de sus momentos más esperados del año. En Andalucía, además, son todo un clásico ; una tapa muy ligada a la gastronomía local que aparece de forma ",
-      "date": "Mon, 10 Aug 2026 13:59:46 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Rueda critica los informes de Defensa sobre la planta de SAIC en Ferrol: «No creo que le hagan ningún favor al proyecto»",
-      "link": "https://www.abc.es/espana/galicia/rueda-critica-informes-defensa-sobre-planta-saic-20260810135630-nt.html",
-      "desc": "La Xunta cierra filas con el proyecto industrial del grupo automovilístico chino SAIC para Ferrol, dando a entender que no existe ninguna colisión entre esta inversión estratégica del gigante asiático con su cercanía al arsenal militar de Ferrol y el astillero",
-      "date": "Mon, 10 Aug 2026 13:56:31 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "El Formula Student UPV conquista el triplete mundial y hace historia",
-      "link": "https://www.abc.es/espana/comunidad-valenciana/formula-student-upv-conquista-triplete-mundial-historia-20260810135630-nt.html",
-      "desc": "El Formula Student UPV Team ha vuelto a escribir una página en la historia de la ingeniería universitaria al conquistar Formula Student Spain 2026, celebrada en el Circuit de Barcelona-Catalunya. La victoria supone el broche de oro a una temporada en la que el",
-      "date": "Mon, 10 Aug 2026 13:56:31 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Torres presentará su candidatura al PSOE para presidir el Gobierno de Canarias a finales de agosto",
-      "link": "https://www.abc.es/espana/canarias/torres-presentara-candidatura-psoe-presidir-gobierno-canarias-20260810131514-nt.html",
-      "desc": "El secretario general del PSOE Canarias y actual ministro de Política Territorial y Memoria Democrática, Ángel Víctor Torres , presentará su candidatura a las próximas elecciones autonómicas para presidir el Gobierno canario el 31 de agosto. El PSOE Canarias c",
-      "date": "Mon, 10 Aug 2026 13:55:07 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Condenado a un año y diez meses de cárcel por provocar un incendio en Salamanca en un día de condiciones extremas",
-      "link": "https://www.abc.es/espana/castilla-leon/condenado-ano-diez-meses-carcel-provocar-incendio-20260810135318-nt.html",
-      "desc": "Un año y diez meses de cárcel, así como multa y el pago de más de 61.000 euros a la Junta de Castilla y León por las labores de extinción. Es la pena impuesta por la Audiencia Provincial de Salamanca a un hombre como autor de un delito de incendio forestal en ",
-      "date": "Mon, 10 Aug 2026 13:53:55 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "El Prado celebra el eclipse con una luz especial",
-      "link": "https://www.lavanguardia.com/cultura/20260810/11611113/prado-celebra-eclipse-luz-especial.html",
-      "desc": "El museo elabora un vídeo en el que muestra cómo serían las obras de la pinacoteca bajo la súbita penumbra",
-      "date": "10 Aug 2026 13:05:40 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "El PP asistirá a la reunión con el Gobierno por los menores de Ceuta pese al plante de Vox",
-      "link": "https://www.lavanguardia.com/politica/20260810/11611123/pp-asistira-reunion-gobierno-menores-ceuta-pese-plante-consejeros-vox.html",
-      "desc": "Los populares denuncian desde Barcelona que el PSOE ha prorrogado 70 veces la ley contra las ocupaciones que remitió el Senado al Congreso",
-      "date": "10 Aug 2026 12:58:19 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "Alertan de la retirada de 6 modelos de gafas para el eclipse por riesgo de lesiones oculares",
-      "link": "https://www.lavanguardia.com/vida/20260810/11611117/alertan-retirada-6-modelos-gafas-eclipse-riesgo-lesiones-oculares.html",
-      "desc": "Se trata de productos de las marcas Lionstar, ECP Eye Care Proffesional, Pelispan, Homanaje, Orro y Opticalia",
-      "date": "10 Aug 2026 12:50:56 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "Un nuevo robo de cable en Bellvitge provoca retrasos en las líneas R2, R2 Nord, R2 Sud y R15",
-      "link": "https://www.lavanguardia.com/local/barcelona/20260810/11611108/nuevo-robo-cable-bellvitge-provoca-retrasos-lineas-r2-r2-nord-r2-sud-r15.html",
-      "desc": "Los ladrones de cobre actúan en la red ferroviaria de Rodalies prácticamente a diario",
-      "date": "10 Aug 2026 12:45:15 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
       "caso": "other"
     }
   ]
