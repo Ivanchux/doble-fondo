@@ -1,7 +1,97 @@
 {
-  "updated": "2026-08-09T22:24:18Z",
+  "updated": "2026-08-10T01:18:46Z",
   "count": 24,
   "items": [
+    {
+      "title": "Roban una joyería junto a la plaza Mayor tras abrir un butrón en el techo",
+      "link": "https://www.abc.es/espana/madrid/roban-joyeria-junto-plaza-mayor-tras-abrir-20260809020132-nt.html",
+      "desc": "Un butrón en el techo delató el robo en una joyería próxima a la plaza Mayor el pasado sábado. Los ladrones consiguieron entrar en Joyas y Monedas Navarro, ubicado en el número 3 de la calle 7 de Julio, y desactivar el sistema de alarma antes de abandonar el e",
+      "date": "Mon, 10 Aug 2026 02:01:32 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Los narcos que pasaron a armar con granadas de mano al crimen organizado en Andalucía",
+      "link": "https://www.abc.es/espana/andalucia/malaga/narcos-armaban-mafia-ak47-granadas-mano-costas-20260810012722-nts.html",
+      "desc": "Eran discretos hasta el extremo. Nada hacía levantar sospechas. Una de las detenidas hasta trabajaba como dependienta en un gran almacén de Vélez-Málaga. Tenían trabajos legales como coartada. No ostentaban grandes lujos. No conducían coches de alta gama, ni h",
+      "date": "Mon, 10 Aug 2026 01:27:22 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Un ataque sin atacante y seis preguntas sin respuesta",
+      "link": "https://www.abc.es/espana/ataque-atacante-seis-preguntas-respuesta-20260810012527-nt.html",
+      "desc": "Tras la oleada migratoria sobre Ceuta que, en pocas horas, duplicó sus 80.000 almas, colapsando la Ciudad Autónoma y desatando las alarmas en la sociedad española, las cancillerías europeas e incluso Washington, donde Trump la utilizó hábilmente como resorte e",
+      "date": "Mon, 10 Aug 2026 01:25:27 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Los informes migratorios de EE.UU. contradicen a Trump sobre Marruecos: «No cumple plenamente los estándares»",
+      "link": "https://www.abc.es/espana/informes-migratorios-eeuu-contradicen-trump-sobre-marruecos-20260804012507-nt.html",
+      "desc": "La posición de Estados Unidos sobre Marruecos ha experimentado en los últimos días un giro llamativo . Mientras en plena crisis de Ceuta la Casa Blanca y el Departamento de Estado se han apresurado a presentar a Rabat como uno de sus aliados más sólidos en el ",
+      "date": "Mon, 10 Aug 2026 01:25:07 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Los deberes veraniegos de la Audiencia Nacional: el final de Gürtel, la fortuna de los Pujol y el imperio de Sito Miñanco",
+      "link": "https://www.abc.es/espana/deberes-veraniegos-audiencia-nacional-final-gurtel-fortuna-20260801012048-nt.html",
+      "desc": "En agosto, como cada año, la Audiencia Nacional viví un mes de inusitada tranquilidad, solo alterada por la investigación abierta por la crisis en Ceuta. No acostumbra este tribunal a la calma, ni siquiera en un mes inhábil en la Justicia, donde solo se tramit",
+      "date": "Mon, 10 Aug 2026 01:20:48 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "gen"
+    },
+    {
+      "title": "Illa cumple dos años en el Govern con un PSC a la baja y en manos de Puigdemont y Sánchez",
+      "link": "https://www.abc.es/espana/cataluna/illa-cumple-dos-anos-govern-psc-baja-20260807012037-nt.html",
+      "desc": "Salvador Illa ha superado la mitad de su mandato —tomó posesión el 10 de agosto de 2024— envuelto en una gran paradoja: saca pecho de la 'normalización' en Cataluña, tras los años del 'procés', pero el PSC pierde apoyo demoscópico, lo gana ERC y le brotan múlt",
+      "date": "Mon, 10 Aug 2026 01:20:37 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Las sirenas profesionales, la disciplina deportiva que se hace hueco en Madrid: «No es sólo ponerse un disfraz»",
+      "link": "https://www.abc.es/espana/madrid/sirenas-profesionales-hueco-madrid-solo-disfraz-requiere-20260708011233-nt.html",
+      "desc": "Fue la época dorada de las sirenas. No es de extrañar que casi cualquier niña que creciera en los 2000 soñara alguna vez con convertirse en una de ellas. El cine y la televisión alimentaron aquella fantasía con títulos como 'La Sirenita', 'Aquamarine', 'Barbie",
+      "date": "Mon, 10 Aug 2026 01:12:33 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Más taxis a demanda para moverse por pueblos de la Sierra Norte de Madrid por cuatro euros",
+      "link": "https://www.abc.es/espana/madrid/taxis-demanda-moverse-pueblos-sierra-norte-madrid-20260723010043-nt.html",
+      "desc": "A mayor demanda, mayor oferta. Los vecinos de las pequeñas comarcas de la Sierra Norte de Madrid ya le han cogido el truco a moverse rápido, cómodos y por apenas cuatro euros: cambiar el autobús por un taxi a demanda para desplazarse entre municipios. Cada vez",
+      "date": "Mon, 10 Aug 2026 01:00:43 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "gen"
+    },
+    {
+      "title": "Máxima tensión en el hotel okupa de San Blas: «Seguirá llegando gente si no lo derriban»",
+      "link": "https://www.abc.es/espana/madrid/maxima-tension-hotel-okupa-san-blas-seguira-20260805010034-nt.html",
+      "desc": "«Aquí hacemos lo que nos da la gana, así que mucho cuidado. Si ahora quiero, os quito la cámara y os la destrozo. Me importa una mierda la Policía». Este que amenaza es un colombiano de 27 años que se hace llamar el Negro. Aparece con un compatriota adolescent",
+      "date": "Mon, 10 Aug 2026 01:00:34 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
     {
       "title": "Starlite vuelve a reunir a las estrellas en Marbella: una noche de lujo, música y solidaridad",
       "link": "https://www.abc.es/espana/andalucia/malaga/starlite-vuelve-reunir-estrellas-marbella-noche-lujo-20260809230429-nts.html",
@@ -133,16 +223,6 @@
       "caso": "other"
     },
     {
-      "title": "El Tajo se queda sin agua en Toledo",
-      "link": "https://www.abc.es/espana/castilla-la-mancha/toledo/tajo-queda-rio-toledo-20260809182953-nt.html",
-      "desc": "El Tajo agoniza a su paso por Toledo . La fotografía que este domingo ofrecía el río en el embarcadero de la senda ecológica, en la zona de los baños de Tenerías, resulta difícil de imaginar para quien conozca el cauce en otras épocas del año. El agua se retir",
-      "date": "Sun, 09 Aug 2026 18:29:53 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
       "title": "La NASA alquila un pueblo pequeño de Burgos para retransmitir el eclipse solar",
       "link": "https://www.lavanguardia.com/vida/20260809/11610764/nasa-alquila-aldea-abandonada-burgos-retransmision-eclipse-solar.html",
       "desc": "La agencia buscó el lugar apropiado durante un año y eligió el pueblo de Villalibado, restaurado por un empresario, donde ha instalado cuatro telescopios de gran potencia junto a la iglesia románica",
@@ -153,16 +233,6 @@
       "caso": "other"
     },
     {
-      "title": "La CM-4017 permanecerá cortada desde este lunes en Retuerta del Bullaque: este es el itinerario alternativo",
-      "link": "https://www.abc.es/espana/castilla-la-mancha/cm4017-permanecera-cortada-lunes-retuerta-bullaque-itinerario-20260809182852-nt.html",
-      "desc": "La carretera CM-4017 permanecerá cerrada al tráfico entre la glorieta del Molinillo, en la intersección con la CM-403, y Retuerta del Bullaque con motivo de las obras de mejora que se van a ejecutar en esta vía de la red autonómica. La restricción al tráfico c",
-      "date": "Sun, 09 Aug 2026 18:28:52 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
       "title": "La Guardia Civil encuentra otro cuerpo sin vida y se elevan a 83 las víctimas de la entrada masiva halladas en Ceuta",
       "link": "https://www.lavanguardia.com/politica/20260809/11610771/guardia-civil-encuentra-cuerpo-vida-elevan-83-victimas-entrada-masiva-halladas-ceuta.html",
       "desc": "Marruecos habla de 14 fallecidos en sus aguas",
@@ -170,76 +240,6 @@
       "source": "La Vanguardia",
       "color": "#8e44ad",
       "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "El Orgullo 2026 dejó en Madrid más de 82 millones de euros",
-      "link": "https://www.abc.es/espana/madrid/orgullo-2026-dejo-madrid-millones-euros-20260810182201-nt.html",
-      "desc": "El Orgullo es una de las citas marcadas en rojo en el calendario de eventos de la capital, y «uno de sus principales motores económicos y turísticos», reconoce un informe realizado por el área de Economía del Ayuntamiento de Madrid. De hecho, esta celebración ",
-      "date": "Sun, 09 Aug 2026 18:22:01 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Muere una persona al caerse de un caballo en Verín",
-      "link": "https://www.abc.es/espana/galicia/muere-persona-caerse-caballo-verin-20260809181943-nt.html",
-      "desc": "Una persona ha fallecido este domingo en Verín (Orense) después de caerse de un caballo mientras transitaba por un camino de tierra en la parroquia de Tamagos. Según la información del 112 Galicia, el personal sanitario desplazado comprobó que, tras el acciden",
-      "date": "Sun, 09 Aug 2026 18:19:43 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Sonorama baja el telón y anuncia el primer grupo para su 30 cumpleaños: Siloé",
-      "link": "https://www.abc.es/espana/castilla-leon/sonorama-baja-telon-anuncia-primer-grupo-cumpleanos-20260809180607-nt.html",
-      "desc": "Antes de terminar de bajar el telón, Sonorama Ribera ya mira hacia su trigésima edición, la de 2027. Una especial, en la que el veterano festival de Aranda de Duero (Burgos) cumplirá 30 años. Una aniversario para el que ya tiene confirmada la primera asistenci",
-      "date": "Sun, 09 Aug 2026 18:08:51 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Brisa, el Mediterráneo se sienta a la mesa en el Port Vell",
-      "link": "https://www.abc.es/espana/cataluna/brisa-mediterraneo-sienta-mesa-port-vell-20260809175658-nt.html",
-      "desc": "Hay pocas formas más genuinamente barcelonesas de ejercer de turista en la propia ciudad que acercarse al mar sin necesidad de ponerse el bañador. Pasear por el Port Vell, observar el incesante ir y venir de visitantes camino o de vuelta de la Barceloneta y se",
-      "date": "Sun, 09 Aug 2026 17:56:58 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Alejandro Martínez Mas vuelve a alzarse con la victoria en el Gran Premio de La Bañeza",
-      "link": "https://www.abc.es/espana/castilla-leon/sergio-fuertes-logra-121-circuito-urbano-baneza-20260809174629-nt.html",
-      "desc": "Las calle de La Bañeza (León) volvían a convertirse este fin de semana en un particular circuito urbano de motociclismo motivo su tradicional Gran Premio de Velocidad, en el que piloto valenciano Alejandro Martínez Mas volvía a alzarse por quinta vez y, tras u",
-      "date": "Sun, 09 Aug 2026 17:46:29 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Tres dispositivos de búsqueda casi simultáneos en la provincia de León por otros tantos desaparecidos",
-      "link": "https://www.abc.es/espana/castilla-leon/tres-dispositivos-busqueda-simultaneos-provincia-leon-tantos-20260809173950-nt.html",
-      "desc": "Con dos búsquedas activas arrancaba este domingo en León, donde Guardia Civil y Protección Civil tenían desplegados efectivos para intentar localizar a personas perdidas. Y eso después de que de madrugada fuera encontrada una niña perdida, en medio del monte ,",
-      "date": "Sun, 09 Aug 2026 17:39:50 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Bajo el influjo de la cultura jurídica norteamericana",
-      "link": "https://www.abc.es/espana/cataluna/david-miras-estevez-bajo-influjo-cultura-juridica-norteamericana-20260809172956-nt.html",
-      "desc": "Nubes bajas recorrían los cielos de Albuquerque (Nuevo México), cuando un jurado popular decidió condenar a un conocido restaurante de comida rápida al pago de una indemnización de casi tres millones de dólares por la excesiva temperatura de sus bebidas. Una d",
-      "date": "Sun, 09 Aug 2026 17:30:43 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
       "caso": "other"
     }
   ]
