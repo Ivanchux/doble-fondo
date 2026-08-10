@@ -1,7 +1,27 @@
 {
-  "updated": "2026-08-10T20:35:45Z",
+  "updated": "2026-08-10T22:31:35Z",
   "count": 24,
   "items": [
+    {
+      "title": "El PP usará el Senado para retratar al PSOE ante el abuso de poder en Nicaragua",
+      "link": "https://www.abc.es/espana/pp-usara-senado-retratar-psoe-ante-abuso-20260809235920-nt.html",
+      "desc": "Tras décadas de deriva autoritaria, el pasado domingo 19 de julio, en plena celebración del Triunfo de la Revolución Popular Sandinista de 1979, el tándem conformado por Daniel Ortega y Rosario Murillo , presidente y primera dama (de facto, copresidenta) retir",
+      "date": "Mon, 10 Aug 2026 23:59:20 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "San Lorenzo, el calor y el fervor invitan a mirar al cielo en Córdoba",
+      "link": "https://www.abc.es/espana/andalucia/cordoba/semana-santa/san-lorenzo-calor-fervor-invitan-mirar-cielo-20260810122917-nts.html",
+      "desc": "«Dadme la vuelta, que por este lado ya estoy hecho». Se dice que la sorprendente frase la pronunció San Lorenzo en mitad del crudo martirio que estaba padeciendo en una parrilla, el día en que murió, un 10 de agosto. Esta fecha la tienen muy presentes la herma",
+      "date": "Mon, 10 Aug 2026 22:59:49 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
     {
       "title": "La Junta gestiona la manutención y hospedaje de los familiares de las víctimas del incendio de Los Gallardos",
       "link": "https://www.abc.es/espana/andalucia/almeria/junta-gestiona-manutencion-hospedaje-familiares-victimas-incendio-20260810221917-nts.html",
@@ -20,16 +40,6 @@
       "source": "ABC",
       "color": "#c0392b",
       "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Terremoto en Colombia, en directo | Última hora de las cifras de fallecidos y desaparecidos tras el seísmo de magnitud 7,4",
-      "link": "https://www.lavanguardia.com/internacional/20260810/11611560/terremoto-colombia-ultima-hora-numero-desaparecidos-victimas-balance-directo.html",
-      "desc": "El terremoto de magnitud 7,4 de hoy deja ya al menos 111 muertos y 87 heridos en Colombia",
-      "date": "10 Aug 2026 21:53:05 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
       "caso": "other"
     },
     {
@@ -227,16 +237,6 @@
       "link": "https://www.abc.es/espana/andalucia/cordoba/actuan-incendio-forestal-activo-sierra-luque-20260810180041-nts.html",
       "desc": "El Plan Infoca declaró un incendio activo en la tarde de este lunes en el término municipal de Luque, en Córdoba. En concreto, el fuego se ha originado en el paraje Cerro del Algarrobo. Hasta la zona, por el momento, se han desplazado dos helicópteros ligeros,",
       "date": "Mon, 10 Aug 2026 18:00:42 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "El Teatro Auditorio de Cuenca mejora su accesibilidad con una inversión de 37.500 euros",
-      "link": "https://www.abc.es/espana/castilla-la-mancha/teatro-auditorio-cuenca-mejora-accesibilidad-inversion-37500-20260810175317-nt.html",
-      "desc": "El Teatro Auditorio «José Luis Perales» de Cuenca ha culminado una serie de actuaciones destinadas a mejorar su accesibilidad y facilitar el uso de sus instalaciones a personas con movilidad reducida. El alcalde de Cuenca, Darío Dolz, acompañado por la conceja",
-      "date": "Mon, 10 Aug 2026 17:53:17 +0200",
       "source": "ABC",
       "color": "#c0392b",
       "feedId": "ABC",
