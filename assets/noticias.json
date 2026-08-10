@@ -1,7 +1,57 @@
 {
-  "updated": "2026-08-10T18:49:54Z",
+  "updated": "2026-08-10T20:35:45Z",
   "count": 24,
   "items": [
+    {
+      "title": "La Junta gestiona la manutención y hospedaje de los familiares de las víctimas del incendio de Los Gallardos",
+      "link": "https://www.abc.es/espana/andalucia/almeria/junta-gestiona-manutencion-hospedaje-familiares-victimas-incendio-20260810221917-nts.html",
+      "desc": "La Junta de Andalucía está gestionando la manutención y hospedaje para las victimas de los incendios de Los Gallardo (Almería) que se cobró la vida de 14 personas , en su mayoría extranjeros. El delegado del Gorbierno andaluz, Francisco Góngora, ha trasladado ",
+      "date": "Mon, 10 Aug 2026 22:19:17 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Los efectivos se centran en evitar que el incendio salte a la provincia de Sevilla",
+      "link": "https://www.abc.es/espana/andalucia/huelva/incendio-niebla-20260810202751-nts.html",
+      "desc": "El combate al incendio de Niebla, que ya ha recorrido 20.000 hectáreas de forma peligrosa e imprevisible debido a los vientos, se centra ahora en evitar que las llamas vayan más allá del municipio onubense del Berrocal y lleguen así a entrar en la provincia de",
+      "date": "Mon, 10 Aug 2026 22:03:37 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Terremoto en Colombia, en directo | Última hora de las cifras de fallecidos y desaparecidos tras el seísmo de magnitud 7,4",
+      "link": "https://www.lavanguardia.com/internacional/20260810/11611560/terremoto-colombia-ultima-hora-numero-desaparecidos-victimas-balance-directo.html",
+      "desc": "El terremoto de magnitud 7,4 de hoy deja ya al menos 111 muertos y 87 heridos en Colombia",
+      "date": "10 Aug 2026 21:53:05 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
+    {
+      "title": "Shakira, J Balvin, Maluma y otros famosos colombianos se vuelcan con su país tras el terremoto",
+      "link": "https://www.lavanguardia.com/gente/20260810/11611605/shakira-j-balvin-maluma-otros-famosos-colombianos-vuelcan-pais-terremoto.html",
+      "desc": "Los artistas han utilizado sus redes sociales para expresar su preocupación por los afectados y difundir mensajes de apoyo y vías de ayuda tras el seísmo",
+      "date": "10 Aug 2026 21:33:02 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
+    {
+      "title": "Viento y rocas entre las que se 'esconden' las llamas, principales dificultades en el incendio de Segovia",
+      "link": "https://www.abc.es/espana/castilla-leon/viento-rocas-esconden-llamas-principales-dificultades-incendio-20260810204631-nt.html",
+      "desc": "Un terreno de pasto ya muy seco en el que el incendio podía correr a gran velocidad impulsado por las fuertes rachas de viento, salpicado de encinas que servían para alimentar aún más al fuego y los grandes bloques de granito de esta zona en los pies de la sie",
+      "date": "Mon, 10 Aug 2026 20:46:31 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
     {
       "title": "Jaén ultima los cambios previstos en el tráfico por la puesta en marcha del tranvía",
       "link": "https://www.abc.es/espana/andalucia/jaen/cambios-previstos-trafico-jaen-tranvia-espera-especificaciones-20260810183841-nts.html",
@@ -103,16 +153,6 @@
       "caso": "other"
     },
     {
-      "title": "Última hora terremoto en Colombia, en directo | El país declara “desastre nacional” con ya con una cifra de 71 fallecidos confirmados",
-      "link": "https://www.lavanguardia.com/internacional/20260810/11611560/terremoto-colombia-ultima-hora-numero-desaparecidos-victimas-balance-directo.html",
-      "desc": "El eje cafetero de Colombia sufrió un terremoto de gran magnitud ya en 1999 y destruyó gran parte de la ciudad de Armenia",
-      "date": "10 Aug 2026 19:09:21 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
       "title": "El refuerzo de limpieza de la Feria de Málaga tendrá   320 profesionales más",
       "link": "https://www.abc.es/espana/andalucia/malaga/limasam-activara-dispositivo-especial-limpieza-feria-malaga-20260810162003-nts.html",
       "desc": "La empresa municipal de limpieza de Málaga, Limasam, desplegará un dispositivo especial durante la Feria 2026 en el que se incluye un total de 500 puestos de trabajo , de entre los cuales 320 son adicionales. Del mismo modo, se mantendrá activo el servicio de ",
@@ -197,46 +237,6 @@
       "link": "https://www.abc.es/espana/castilla-la-mancha/teatro-auditorio-cuenca-mejora-accesibilidad-inversion-37500-20260810175317-nt.html",
       "desc": "El Teatro Auditorio «José Luis Perales» de Cuenca ha culminado una serie de actuaciones destinadas a mejorar su accesibilidad y facilitar el uso de sus instalaciones a personas con movilidad reducida. El alcalde de Cuenca, Darío Dolz, acompañado por la conceja",
       "date": "Mon, 10 Aug 2026 17:53:17 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Vox rechaza el reparto de los menores llegados a Ceuta y ve margen para devolverlos",
-      "link": "https://www.abc.es/espana/vox-rechaza-reparto-menores-llegados-ceuta-margen-20260810164550-nt.html",
-      "desc": "Han pasado dos años desde que Vox —tras aceptar el PP el reparto entre las comunidades autónomas de 347 menores extranjeros no acompañados procedentes de Canarias y Ceuta— decidió abandonar los primeros Gobiernos de coalición que conformó con los populares y s",
-      "date": "Mon, 10 Aug 2026 17:48:06 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "CMM desplegará una cobertura especial para seguir el eclipse solar del 12 de agosto",
-      "link": "https://www.abc.es/espana/castilla-la-mancha/cmm-desplegara-cobertura-especial-seguir-eclipse-solar-20260810174530-nt.html",
-      "desc": "Castilla-La Mancha Media prepara una programación especial para acompañar a los castellanomanchegos durante el eclipse solar del próximo 12 de agosto, con conexiones en directo desde las cinco provincias, contenidos divulgativos y una amplia cobertura en telev",
-      "date": "Mon, 10 Aug 2026 17:45:30 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "La Comunidad Valenciana cerrará todos sus parques naturales  el día del eclipse",
-      "link": "https://www.abc.es/espana/comunidad-valenciana/comunidad-valenciana-cerrara-parques-naturales-dia-eclipse-20260810174501-nt.html",
-      "desc": "La Generalitat ha acordado el cierre de todos los parques naturales de la Comunidad Valenciana durante la jornada del 12 agosto, con el fin de reforzar al máximo la disponibilidad de servicios esenciales y de extinción ante la actual situación meteorológica, q",
-      "date": "Mon, 10 Aug 2026 17:45:02 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Xunta y sindicatos firman un acuerdo para mejorar las condiciones de los equipos anti incendios",
-      "link": "https://www.abc.es/espana/galicia/xunta-sindicatos-firman-acuerdo-mejorar-condiciones-dispositivo-20260810174027-nt.html",
-      "desc": "La conselleira do Medio Rural, María José Gómez, ha firmado este lunes dos acuerdos con representantes de los sindicatos CC.OO., CSIF y UGT por los que se desarrollarán mejoras laborales para agentes forestales y facultativos medioambientales y bomberos forest",
-      "date": "Mon, 10 Aug 2026 17:40:27 +0200",
       "source": "ABC",
       "color": "#c0392b",
       "feedId": "ABC",
