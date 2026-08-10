@@ -1,7 +1,207 @@
 {
-  "updated": "2026-08-10T03:48:37Z",
+  "updated": "2026-08-10T05:21:04Z",
   "count": 24,
   "items": [
+    {
+      "title": "Cientos de andaluces renuncian a sus vacaciones para realizar un voluntariado",
+      "link": "https://www.abc.es/espana/andalucia/ong-consolidan-20260810133047-nts.html",
+      "desc": "Durante estos años ha ganado popularidad el voluntariado , principalmente gracias a la visibilidad que les han dado 'influencers' o las redes sociales, donde muchos de estos colaboradores han documentado su experiencia en las comunidades donde han estado A tra",
+      "date": "Mon, 10 Aug 2026 07:09:47 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "El voluntariado, una experiencia personal que quiere desmarcarse del 'turismo solidario'",
+      "link": "https://www.abc.es/espana/andalucia/voluntarios-convierten-20260810133030-nts.html",
+      "desc": "Debido a las desigualdades sociales y económicas , el voluntariado internacional se reafirma como una herramienta de ayuda a las comunidades de acogida de los voluntarios internacionales. A través de los proyectos de organizaciones como Bosco Global y AFIDEV, ",
+      "date": "Mon, 10 Aug 2026 07:09:24 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "El Gobierno admite que cada año «la embestida del agua» se lleva los fondos invertidos en arreglar las playas",
+      "link": "https://www.abc.es/espana/andalucia/gobierno-admite-ano-embestida-agua-lleva-fondos-20260810070835-nts.html",
+      "desc": "Lo ocurrido el pasado invierno, cuando numerosas playas de Andalucía quedaron destruidas por el paso de los temporales y hubo que hacer una inversión millonaria para su recuperación ha puesto de manifiesto no sólo que las inversiones son insuficientes sino que",
+      "date": "Mon, 10 Aug 2026 07:08:35 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "La erosión de las playas amenaza la economía: cada metro perdido puede destruir 500 empleos",
+      "link": "https://www.abc.es/espana/andalucia/erosion-playas-amenaza-economia-metro-perdido-puede-20260810070812-nts.html",
+      "desc": "Las playas andaluzas afrontan una situación cada vez más crítica tras el paso de los temporales que azotaron la comunidad el pasado invierno que se suma a la erosión que llevan años sufriendo y que amenaza con hacer desaparecer una treintena de ellas. La suces",
+      "date": "Mon, 10 Aug 2026 07:08:12 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "El viento cambiante impulsa el incendio de Niebla hasta las 8.000 hectáreas",
+      "link": "https://www.abc.es/espana/andalucia/huelva/niebla-20260810070749-nts.html",
+      "desc": "El incendio forestal de Niebla sigue avanzando impulsado por unos vientos que no sólo han convertido en una tarea especialmente difícil su control al cambiar de dirección continuamente durante todo el fin de semana, sino que además le han dado gran velocidad a",
+      "date": "Mon, 10 Aug 2026 07:07:49 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Los robos de cable de cobre se disparan y agravan la crisis de Rodalies",
+      "link": "https://www.lavanguardia.com/local/barcelona/20260810/11610772/ladrones-cobre-actuan-vias-rodalies-diario.html",
+      "desc": "Los robos en el primer semestre llegan al nivel más alto de los últimos ocho años",
+      "date": "10 Aug 2026 06:00:00 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
+    {
+      "title": "¿Quién vigila en Rodalies?",
+      "link": "https://www.lavanguardia.com/opinion/20260810/11610738/vigila-rodalies.html",
+      "desc": "",
+      "date": "10 Aug 2026 06:00:00 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
+    {
+      "title": "Los gobiernos de PP y Vox superan de momento el test de la crisis de Ceuta",
+      "link": "https://www.lavanguardia.com/politica/20260810/11610781/gobiernos-pp-vox-superan-momento-test-crisis-ceuta.html",
+      "desc": "Ambos partidos mantienen una línea de ataque al Gobierno con diferente intensidad",
+      "date": "10 Aug 2026 06:00:00 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
+    {
+      "title": "El último mohicano",
+      "link": "https://www.lavanguardia.com/politica/20260810/11610778/ultimo-mohicano.html",
+      "desc": "",
+      "date": "10 Aug 2026 06:00:00 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
+    {
+      "title": "En defensa del espacio Schengen",
+      "link": "https://www.lavanguardia.com/politica/20260810/11610744/defensa-espacio-schengen.html",
+      "desc": "",
+      "date": "10 Aug 2026 06:00:00 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
+    {
+      "title": "El eclipse desata el FOMO: por tierra, mar y aire",
+      "link": "https://www.lavanguardia.com/vida/20260810/11610792/eclipse-desata-fomo-tierra-mar-aire.html",
+      "desc": "Se dispara a última hora el miedo a perderse el espectáculo astronómico y el deseo de vivirlo de una forma especial con amigos y familia, pero si no se ha actuado con previsión ahora quizás ya es tarde: todo vendido o precios abusivos",
+      "date": "10 Aug 2026 06:00:00 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
+    {
+      "title": "China conecta sus puertos con Europa a través del Ártico ruso",
+      "link": "https://www.lavanguardia.com/internacional/20260810/11610327/china-conecta-puertos-europa-traves-artico-ruso.html",
+      "desc": "La naviera Sea Legend lanza hasta octubre una línea semanal de mercancías, con origen en Ningbo",
+      "date": "10 Aug 2026 06:00:00 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
+    {
+      "title": "“Da miedo darse cuenta de que cazar seres humanos ni siquiera es tan ficticio”",
+      "link": "https://www.lavanguardia.com/cultura/20260810/11610762/gaea-schoeters-da-miedo-darse-cuenta-cazar-seres-humanos-siquiera-ficticio.html",
+      "desc": "La escritora belga publica en España 'El trofeo', una novela de éxito internacional con una premisa tan perturbadora como trepidante",
+      "date": "10 Aug 2026 06:00:00 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
+    {
+      "title": "La ley ‘rider’ cumple cinco años con repartidores que aún son autónomos",
+      "link": "https://www.lavanguardia.com/economia/20260810/11610749/ley-rider-cumple-cinco-anos-repartidores-aun-son-autonomos.html",
+      "desc": "Uber Eats acabará la transición a finales de año, y Glovo lo hizo en el 2025",
+      "date": "10 Aug 2026 06:00:00 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
+    {
+      "title": "El Mediterráneo se convierte en un 'caldo': “Es brutal la acumulación de energía”",
+      "link": "https://www.lavanguardia.com/natural/20260810/11610741/mediterraneo-convierte-caldo-brutal-acumulacion-energia.html",
+      "desc": "La ‘tropicalización’ del mar lleva a registros anómalos, con casi 3ºC por encima de la media, lo que eleva la temperatura de las costas y proporciona 'combustible' de tormentas extremas",
+      "date": "10 Aug 2026 06:00:00 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
+    {
+      "title": "“Soy partidario de avanzar, puede haber acuerdos con Aliança que funcionen”",
+      "link": "https://www.lavanguardia.com/politica/20260810/11610743/david-madi-partidario-avanzar-haber-acuerdos-alianca-funcionen.html",
+      "desc": "El exdirigente de CDC ocupó diversos cargos en los gobiernos de Jordi Pujol entre 1994 y el 2003; también fue portavoz de Convergència",
+      "date": "10 Aug 2026 06:00:00 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
+    {
+      "title": "Junts amplía sus alianzas en el espacio posconvergente de cara a las municipales",
+      "link": "https://www.lavanguardia.com/politica/20260810/11610729/junts-amplia-alianzas-espacio-posconvergente-cara-municipales.html",
+      "desc": "La formación cerró un acuerdo con el PNC de Marta Pascal en Girona a finales de julio y con otras organizaciones locales con exdirigentes de CiU en Mollerussa, Solsona o Tona",
+      "date": "10 Aug 2026 06:00:00 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
+    {
+      "title": "Sobre niños que esquivan sobredosis en el portal del edificio de la calle Muntaner",
+      "link": "https://www.lavanguardia.com/local/barcelona/20260810/11610796/sobre-ninos-esquivan-sobredosis-portal-edificio-calle-muntaner.html",
+      "desc": "Un madre de este maltrecho edificio cuenta cómo viven sus hijos que uno de los pisos fue tomado por toxicómanos",
+      "date": "10 Aug 2026 06:00:00 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
+    {
+      "title": "Deco acelera para cerrar las operaciones de Rodri, Ferran Torres y Julián Álvarez",
+      "link": "https://www.lavanguardia.com/deportes/20260810/11610819/deco-acelera-cerrar-operaciones-rodri-ferran-torres-julian-alvarez-semana-clave.html",
+      "desc": "Hay operaciones que se deciden en los despachos y otras en las que la voluntad del futbolista pesa mucho más que cualquier otra circunstancia y termina inclinando la balanza",
+      "date": "10 Aug 2026 06:00:00 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
+    {
+      "title": "La fascinación del mercado",
+      "link": "https://www.lavanguardia.com/deportes/20260810/11610798/fascinacion-mercado.html",
+      "desc": "",
+      "date": "10 Aug 2026 06:00:00 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
     {
       "title": "Roban una joyería junto a la plaza Mayor tras abrir un butrón en el techo",
       "link": "https://www.abc.es/espana/madrid/roban-joyeria-junto-plaza-mayor-tras-abrir-20260809020132-nt.html",
@@ -40,206 +240,6 @@
       "source": "ABC",
       "color": "#c0392b",
       "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Los deberes veraniegos de la Audiencia Nacional: el final de Gürtel, la fortuna de los Pujol y el imperio de Sito Miñanco",
-      "link": "https://www.abc.es/espana/deberes-veraniegos-audiencia-nacional-final-gurtel-fortuna-20260801012048-nt.html",
-      "desc": "En agosto, como cada año, la Audiencia Nacional viví un mes de inusitada tranquilidad, solo alterada por la investigación abierta por la crisis en Ceuta. No acostumbra este tribunal a la calma, ni siquiera en un mes inhábil en la Justicia, donde solo se tramit",
-      "date": "Mon, 10 Aug 2026 01:20:48 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "gen"
-    },
-    {
-      "title": "Illa cumple dos años en el Govern con un PSC a la baja y en manos de Puigdemont y Sánchez",
-      "link": "https://www.abc.es/espana/cataluna/illa-cumple-dos-anos-govern-psc-baja-20260807012037-nt.html",
-      "desc": "Salvador Illa ha superado la mitad de su mandato —tomó posesión el 10 de agosto de 2024— envuelto en una gran paradoja: saca pecho de la 'normalización' en Cataluña, tras los años del 'procés', pero el PSC pierde apoyo demoscópico, lo gana ERC y le brotan múlt",
-      "date": "Mon, 10 Aug 2026 01:20:37 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Las sirenas profesionales, la disciplina deportiva que se hace hueco en Madrid: «No es sólo ponerse un disfraz»",
-      "link": "https://www.abc.es/espana/madrid/sirenas-profesionales-hueco-madrid-solo-disfraz-requiere-20260708011233-nt.html",
-      "desc": "Fue la época dorada de las sirenas. No es de extrañar que casi cualquier niña que creciera en los 2000 soñara alguna vez con convertirse en una de ellas. El cine y la televisión alimentaron aquella fantasía con títulos como 'La Sirenita', 'Aquamarine', 'Barbie",
-      "date": "Mon, 10 Aug 2026 01:12:33 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Más taxis a demanda para moverse por pueblos de la Sierra Norte de Madrid por cuatro euros",
-      "link": "https://www.abc.es/espana/madrid/taxis-demanda-moverse-pueblos-sierra-norte-madrid-20260723010043-nt.html",
-      "desc": "A mayor demanda, mayor oferta. Los vecinos de las pequeñas comarcas de la Sierra Norte de Madrid ya le han cogido el truco a moverse rápido, cómodos y por apenas cuatro euros: cambiar el autobús por un taxi a demanda para desplazarse entre municipios. Cada vez",
-      "date": "Mon, 10 Aug 2026 01:00:43 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "gen"
-    },
-    {
-      "title": "Máxima tensión en el hotel okupa de San Blas: «Seguirá llegando gente si no lo derriban»",
-      "link": "https://www.abc.es/espana/madrid/maxima-tension-hotel-okupa-san-blas-seguira-20260805010034-nt.html",
-      "desc": "«Aquí hacemos lo que nos da la gana, así que mucho cuidado. Si ahora quiero, os quito la cámara y os la destrozo. Me importa una mierda la Policía». Este que amenaza es un colombiano de 27 años que se hace llamar el Negro. Aparece con un compatriota adolescent",
-      "date": "Mon, 10 Aug 2026 01:00:34 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Starlite vuelve a reunir a las estrellas en Marbella: una noche de lujo, música y solidaridad",
-      "link": "https://www.abc.es/espana/andalucia/malaga/starlite-vuelve-reunir-estrellas-marbella-noche-lujo-20260809230429-nts.html",
-      "desc": "Marbella vuelve a vivir esta noche una de sus grandes citas del verano. La Cantera de Nagüeles se iluminó bajo el cielo de la Costa del Sol para recibir una nueva edición de la Gala Starlite Occident , uno de los encuentros sociales más esperados del calendari",
-      "date": "Sun, 09 Aug 2026 23:04:29 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Muere un hombre en un accidente entre una moto y un quad en un pueblo de Granada",
-      "link": "https://www.abc.es/espana/andalucia/granada/muere-hombre-accidente-moto-quad-pueblo-granada-20260809225235-nts.html",
-      "desc": "Un hombre de 44 años ha fallecido en un accidente de tráfico entre un quad y una moto en una carretera de Jete (Granada), según informa el 112, perteneciente a la Agencia de Emergencias de Andalucía, adscrita a la Consejería de Sanidad, Presidencia y Emergenci",
-      "date": "Sun, 09 Aug 2026 22:52:35 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Cascos, medicinas y comida, la ayuda de la Buena Muerte de Córdoba llega a Venezuela",
-      "link": "https://www.abc.es/espana/andalucia/cordoba/semana-santa/cascos-medicinas-comida-ayuda-buena-muerte-cordoba-20260809223843-nts.html",
-      "desc": "La ayuda económica reunida en Córdoba por la hermandad de la Buena Muerte y la presencia concreta en Venezuela se combinan para dar los primeros frutos en medio de la devastación. El diputado de Caridad de esta cofradía, Arístides Bermejo, se encuentra ya trab",
-      "date": "Sun, 09 Aug 2026 22:38:44 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Los dos minutos de oscuridad que darán luz a la España vaciada",
-      "link": "https://www.abc.es/espana/castilla-leon/1500-20260728214110-nt.html",
-      "desc": "«En mis 35 años como alcalde nunca un evento ha atraído a tantas personas a Moraleja de Matacabras », expresa sobre el eclipse Félix Álvarez de Alba, que entró a la alcaldía del pueblo abulense en 1991, con 18 años y dos meses, y aún sigue en ella. Puede presu",
-      "date": "Sun, 09 Aug 2026 21:41:10 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Miles de ceutíes salen a la calle al grito de “Basta ya: Ceuta no se rinde”",
-      "link": "https://www.lavanguardia.com/politica/20260809/11610811/miles-ceuties-salen-calle-grito-basta-ceuta-rinde.html",
-      "desc": "Los manifestantes, convocados por las cuatro comunidades religiosas de la ciudad, reclaman una respuesta ante la crisis desencadenada por la entrada masiva de migrantes el 30 de julio",
-      "date": "09 Aug 2026 21:08:32 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "Ceuta se une contra el discurso oficial de Moncloa: «¡Basta ya!»",
-      "link": "https://www.abc.es/espana/ceuta-une-discurso-oficial-moncloa-basta-20260809184929-nt.html",
-      "desc": "«¡Basta ya! ¡Ceuta no se rinde!» Bajo este lema, más de 15.000 ceutíes se han reunido este domingo para clamar contra el Gobierno la falta de transparencia en la gestión que ha llevado a cabo de la crisis migratoria que asola el enclave español desde la entrad",
-      "date": "Sun, 09 Aug 2026 20:54:51 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "El Córdoba CF encuentra en la medular una de sus grandes fortalezas",
-      "link": "https://www.abc.es/espana/andalucia/cordoba/cordoba-cf/cordoba-encuentra-medular-grandes-fortalezas-20260809085819-nts.html",
-      "desc": "Son muchas las lecturas que deja una pretemporada del Córdoba CF que ya ha llegado a su fin. Entre luces y sombras, el centro del campo aparece como una de las parcelas mejor reforzadas por la comisión deportiva durante el verano, hasta el punto de abrir la pu",
-      "date": "Sun, 09 Aug 2026 20:19:12 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Montoro, municipio de España que más se ha achicharrado este domingo: casi 41 grados",
-      "link": "https://www.abc.es/espana/andalucia/cordoba/montoro-municipio-espana-achicharrado-domingo-grados-20260809201410-nts.html",
-      "desc": "El calor sigue haciendo de las suyas en la provincia de Córdoba . Y de ello dan buena cuenta aquellos lugares de nuestro territorio donde Don Lorenzo castiga especialmente. Así, este domingo , Montoro se ha convertido en el punto de España con la temperatura m",
-      "date": "Sun, 09 Aug 2026 20:14:11 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "El Gobierno incluye a los hermanos de los presidentes autonómicos en su proyecto de ley contra el blanqueo",
-      "link": "https://www.abc.es/espana/gobierno-obligara-vigilar-operaciones-hermanos-altos-cargos-20260810201237-nt.html",
-      "desc": "El Gobierno de Pedro Sánchez pone el foco sobre los hermanos de los altos cargos políticos; no solo a escala nacional, sino también autonómica y local. El Ejecutivo pretende estrechar el cerco sobre este tipo de familiares a través del anteproyecto de ley de m",
-      "date": "Sun, 09 Aug 2026 20:12:37 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Rescatados dos menores a los que arrastró la corriente en una balsa hinchable en una playa de Cariño",
-      "link": "https://www.abc.es/espana/galicia/rescatados-dos-menores-arrastro-corriente-balsa-hinchable-20260809192812-nt.html",
-      "desc": "Una embarcación de Salvamento Marítimo ha rescatado en la tarde de este domingo a dos menores a los que había arrastrado la corriente marítima cuando se encontraban en una balsa hinchable en la playa de A Basteira , en Cariño (La Coruña). Pasadas las 15.00 hor",
-      "date": "Sun, 09 Aug 2026 19:28:12 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "El fuego de Navas de San Antonio obliga a confinar Valdeprados y evacuar Los Ángeles y Vegas de Matute",
-      "link": "https://www.lavanguardia.com/sucesos/20260809/11610780/fuego-obliga-evacuar-angeles-san-rafael-vegas-matute-segovia.html",
-      "desc": "El incendio permanece activo desde la tarde del sábado",
-      "date": "09 Aug 2026 19:03:10 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "SEO/BirdLife alerta del riesgo para las aves esteparias de fumigar contra la langosta en una ZEPA de Albacete",
-      "link": "https://www.abc.es/espana/castilla-la-mancha/seobirdlife-alerta-riesgo-aves-esteparias-fumigar-langosta-20260809185244-nt.html",
-      "desc": "SEO/BirdLife ha mostrado su preocupación por el tratamiento previsto por la Junta de Castilla-La Mancha para controlar la plaga de langosta mediterránea detectada en varios municipios del este de la provincia de Albacete, al advertir del posible impacto de est",
-      "date": "Sun, 09 Aug 2026 18:52:45 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "La reactivación del incendio de Navas de San Antonio obliga al desalojo de Los Ángeles de San Rafael y Vegas de Matute",
-      "link": "https://www.abc.es/espana/castilla-leon/reactivacion-incendio-navas-san-antonio-obliga-desalojo-20260809183611-nt.html",
-      "desc": "Las llamas no dan tregua en Castilla y León , con más desalojos por el avanzar de los incendios, el denso humo y unas fuertes rachas de viento que impulsan con potencia y a gran velocidad el fuego en un terreno abundante tras unos húmedos invierno y primavera,",
-      "date": "Sun, 09 Aug 2026 18:36:11 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "La NASA alquila un pueblo pequeño de Burgos para retransmitir el eclipse solar",
-      "link": "https://www.lavanguardia.com/vida/20260809/11610764/nasa-alquila-aldea-abandonada-burgos-retransmision-eclipse-solar.html",
-      "desc": "La agencia buscó el lugar apropiado durante un año y eligió el pueblo de Villalibado, restaurado por un empresario, donde ha instalado cuatro telescopios de gran potencia junto a la iglesia románica",
-      "date": "09 Aug 2026 18:29:04 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "La Guardia Civil encuentra otro cuerpo sin vida y se elevan a 83 las víctimas de la entrada masiva halladas en Ceuta",
-      "link": "https://www.lavanguardia.com/politica/20260809/11610771/guardia-civil-encuentra-cuerpo-vida-elevan-83-victimas-entrada-masiva-halladas-ceuta.html",
-      "desc": "Marruecos habla de 14 fallecidos en sus aguas",
-      "date": "09 Aug 2026 18:23:53 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
       "caso": "other"
     }
   ]
