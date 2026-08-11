@@ -1,7 +1,157 @@
 {
-  "updated": "2026-08-11T12:52:13Z",
+  "updated": "2026-08-11T14:52:57Z",
   "count": 24,
   "items": [
+    {
+      "title": "Un hombre muere ahogado en el embalse de Maderuelo, en la provincia de Segovia",
+      "link": "https://www.abc.es/espana/castilla-leon/hombre-muere-ahogado-embalse-maderuelo-provincia-segovia-20260811164239-nt.html",
+      "desc": "Un hombre ha fallecido este martes ahogado en el pantano de Linares, en Maderuelo (Segovia). Ocurría sobre las 12.15 horas de la mañana. En ese momento, entraba una llamada en el centro de emergencias Castilla y León 1-1-2 informando de un incidente en la play",
+      "date": "Tue, 11 Aug 2026 16:42:39 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "El conductor implicado en el accidente mortal de Montalbán, imputado por homicidio imprudente tras dar positivo en alcohol y drogas",
+      "link": "https://www.abc.es/espana/andalucia/cordoba/conductor-implicado-accidente-mortal-montalban-imputado-homicidio-20260811163717-nts.html",
+      "desc": "La plaza número 2 de la Sección Civil y de Instrucción del Tribunal de Instancia de Montilla ha acordado este martes la libertad provisional del conductor implicado en el accidente en el que el pasado viernes falleció un motorista y resultó herido grave su aco",
+      "date": "Tue, 11 Aug 2026 16:37:35 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Envían un SMS masivo a toda la Comunidad Valenciana para avisar de las gafas necesarias para ver el eclipse",
+      "link": "https://www.abc.es/espana/comunidad-valenciana/envian-sms-masivo-comunidad-valenciana-avisar-gafas-20260811163520-nt.html",
+      "desc": "La Conselleria de Sanidad ha emitido un SMS a toda la población de la Comunitat Valenciana para observar el eclipse solar que tendrá lugar mañana de manera segura. El contenido del mensaje -«Mirar el eclipse sin gafas ISO 12312-2 daña la vista. Consulte las re",
+      "date": "Tue, 11 Aug 2026 16:35:20 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "«Traidores, exclavos de Marruecos», el PSOE denuncia pintadas en su sede de Ferrol que vincula con la extrema derecha",
+      "link": "https://www.abc.es/espana/galicia/traidores-exclavos-marruecos-psoe-denuncia-pintadas-sede-20260811162722-nt.html",
+      "desc": "El PSdeG ha denunciado un nuevo ataque vandálico contra la Casa do Pobo de Ferrol . La secretaria de Organización de los socialistas gallegos, Lara Méndez, ha atribuido directamente estas pintadas a la «preocupante polarización política» y a la «normalización ",
+      "date": "Tue, 11 Aug 2026 16:27:23 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Un turista europeo, origen del brote de sarampión que deja seis casos en Mallorca",
+      "link": "https://www.abc.es/espana/baleares/turista-europeo-origen-brote-sarampion-deja-seis-20260811162254-nt.html",
+      "desc": "Un turista menor de edad procedente de un país europeo ha sido identificado como el origen del brote de sarampión detectado en Mallorca, que hasta el momento ha dejado seis casos confirmados. El primer contagio fue diagnosticado el pasado 19 de julio, cuando e",
+      "date": "Tue, 11 Aug 2026 16:22:54 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Crece la expectación  en Cuenca ante el doblete de Morante en la Feria de San Julián",
+      "link": "https://www.abc.es/espana/castilla-la-mancha/crece-expectacion-cuenca-ante-doblete-morante-feria-20260811160718-nt.html",
+      "desc": "La expectación ante el doblete de Morante de la Puebla en la Feria de San Julián de Cuenca crece día a día, con una respuesta especialmente destacada en la venta de entradas sueltas y una notable demanda de alojamiento para las fechas de los festejos. El maest",
+      "date": "Tue, 11 Aug 2026 16:07:18 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "El PSOE 'logra'  frenar la llegada del biometano a Talavera: «Parece que van a mover ficha»",
+      "link": "https://www.abc.es/espana/castilla-la-mancha/psoe-logra-frenar-llegada-biometano-talavera-parece-20260811155719-nt.html",
+      "desc": "El Grupo Municipal Socialista ha destacado que la presión de la ciudadanía y la propuesta planteada por los socialistas han hecho reaccionar finalmente al Gobierno municipal liderado por José Julián Gregorio para frenar la llegada de plantas de biometano a Tal",
+      "date": "Tue, 11 Aug 2026 15:57:19 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "La hija del líder de UAGA y su pareja siguen detenidos mientras avanza la investigación del crimen",
+      "link": "https://www.lavanguardia.com/sucesos/20260811/11612094/hija-matrimonio-asesinado-tauste-pareja-siguen-detenidos-guardia-civil-avanza-investigacion.html",
+      "desc": "Más de un millar de personas homenajean al exsecretario de la Unión de Agricultores y Ganaderos de Aragón (UAGA Aragón), Javier Sánchez, y a su esposa asesinados el viernes",
+      "date": "11 Aug 2026 15:56:15 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
+    {
+      "title": "La sequía en Galicia obliga a declarar la alerta y activar restricciones en 32 municipios",
+      "link": "https://www.abc.es/espana/galicia/sequia-galicia-obliga-declarar-alerta-activar-restricciones-20260811151852-nt.html",
+      "desc": "La Xunta ha activado la situación de alerta por escasez de agua en los sistemas hidrográficos del río Lérez (Pontevedra) y del río Anllóns junto con la costa de La Coruña —hasta el límite con Arteixo—, dos cuencas de la demarcación Galicia-Costa que permanecía",
+      "date": "Tue, 11 Aug 2026 15:18:52 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Marruecos acusa a las fuerzas de seguridad españolas de agredir a los inmigrantes en Ceuta «cuando no hay cámaras»",
+      "link": "https://www.abc.es/espana/marruecos-denuncia-agresiones-fuerzas-cuerpos-seguridad-espanolas-20260811150934-nt.html",
+      "desc": "El Consejo Nacional de Derechos Humanos de Marruecos ha cargado contra las Fuerzas y Cuerpos de Seguridad del Estado españolas por agredir «cuando no había cámaras» a los inmigrantes ilegales que entraron de forma ilegal en la ciudad autónoma desde Marruecos e",
+      "date": "Tue, 11 Aug 2026 15:09:35 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "La Diputación de Toledo compra la Escuela de Enfermería para convertirla en residencia universitaria",
+      "link": "https://www.abc.es/espana/castilla-la-mancha/toledo/pueblos/diputacion-toledo-compra-escuela-enfermeria-convertirla-residencia-20260811150609-nt.html",
+      "desc": "El Gobierno de la Diputación Provincial de Toledo ha formalizado la adquisición de la antigua Escuela de Enfermeras de Toledo , ubicada en el barrio de Palomarejos, tras la firma de la escritura de compraventa con la Tesorería General de la Seguridad Social, c",
+      "date": "Tue, 11 Aug 2026 15:06:09 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Ríofrio de Aliste homenaje a los voluntarios que lucharon contra el fuego de la Sierra de la Culebra",
+      "link": "https://www.abc.es/espana/castilla-leon/riofrio-aliste-homenaje-voluntarios-lucharon-fuego-sierra-20260811144916-nt.html",
+      "desc": "El municipio completo de Riofrío de Aliste (Zamora), formado por esa localidad, como cabecera, y por las pedanías de Cabañas de Aliste, Sarracín de Aliste y Abejera, ha erigido sendos monumentos dedicadlos a las personas voluntarias que lucharon contra los gra",
+      "date": "Tue, 11 Aug 2026 14:49:17 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Morrissey y la literatura de Óscar Wilde",
+      "link": "https://www.abc.es/espana/castilla-la-mancha/toledo/morrissey-literatura-oscar-wilde-20260811144749-nt.html",
+      "desc": "Durante mucho tiempo pareció ineludible sucumbir a la temática de algunas canciones bellas y encontrar el antónimo en las restantes, éramos jovenes y, no solo me refiero a esas canciones encasquilladas en la rima que flojean en la esencia de sus textos, algo p",
+      "date": "Tue, 11 Aug 2026 14:47:49 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Benareau suma su tercera victoria y mantiene el liderato en la Vuelta Castilla-La Mancha Leader",
+      "link": "https://www.abc.es/espana/castilla-la-mancha/toledo/deportes/benareau-suma-tercera-victoria-mantiene-liderato-vuelta-20260811144514-nt.html",
+      "desc": "El pelotón volvió a recorrer este martes las carreteras del medio rural de Castilla-La Mancha, con una nueva victoria de Víctor Benareau como protagonista. El ciclista suizo del equipo High Level-Gsport se impuso en la tercera etapa masculina de la II Vuelta C",
+      "date": "Tue, 11 Aug 2026 14:45:15 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "El asesino de la mujer trans en Marbella tuvo un día entero el cadáver en su casa",
+      "link": "https://www.abc.es/espana/andalucia/asesino-mujer-trans-marbella-dia-entero-cadaver-20260811144331-nts.html",
+      "desc": "El asesino confeso de su pareja transexual en Marbella convivió casi un día entero con el cadáver apuñalado. La discusión que acabó con la mujer trans apuñalada se produjo el domingo, según los datos que se han aportado al juzgado de Marbella que ha abierto la",
+      "date": "Tue, 11 Aug 2026 14:44:57 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
     {
       "title": "Los municipios  afectados por el incendio tendrán los primeros cajeros rurales de Madrid",
       "link": "https://www.abc.es/espana/madrid/municipios-afectados-incendio-primeros-cajeros-rurales-madrid-20260811144359-nt.html",
@@ -53,6 +203,26 @@
       "caso": "lei"
     },
     {
+      "title": "Bruselas paga a España 6.234 millones de los fondos europeos de recuperación",
+      "link": "https://www.lavanguardia.com/economia/20260811/11612052/bruselas-paga-espana-6-234-millones-fondos-europeos-recuperacion.html",
+      "desc": "La sexta solicitud está relacionada con inversiones en construcción de vivienda, sistema sanitario, movilidad sostenible y digitalización de la red ferroviaria transeuropea",
+      "date": "11 Aug 2026 14:28:13 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
+    {
+      "title": "Terremoto en Colombia, en directo | Última hora de hoy, en vivo: al menos 224 muertos y centenares de heridos por el seísmo",
+      "link": "https://www.lavanguardia.com/internacional-1/20260811/11611758/terremoto-colombia-directo-132-muertos-ultima-hora-rescates-heridos-desaparecidos-seismo-magnitud-7-4.html",
+      "desc": "Exteriores informa de 164 españoles en paradero desconocido tras el terremoto en Colombia",
+      "date": "11 Aug 2026 14:26:59 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
+    {
       "title": "Miles de personas disfrutan del Martes Mayor en Ciudad Rodrigo",
       "link": "https://www.abc.es/espana/castilla-leon/miles-personas-disfrutan-martes-mayor-ciudad-rodrigo-20260811142546-nt.html",
       "desc": "Ciudad Rodrigo celebra este martes la 40 edición del Martes Mayor, que convierte durante la jornada el casco histórico de la localidad en un gran espacio comercial al aire libre en el que se darán cita miles de vecinos de la localidad salmantina y visitantes. ",
@@ -63,180 +233,10 @@
       "caso": "other"
     },
     {
-      "title": "Sanidad despliega en Castilla y León un dispositivo «especial» con más de 300 sanitarios con motivo del eclipse",
-      "link": "https://www.abc.es/espana/castilla-leon/sanidad-despliega-castilla-leon-dispositivo-especial-300-20260811141715-nt.html",
-      "desc": "Con una previsión de afluencia y salida masiva de personas e n Castilla y León este miércoles con motivo del eclipse total de sol llamado a ser el protagonista absoluto de este miércoles, 12 de agosto, desde la Junta se ha diseñado un dispositivo «especial» en",
-      "date": "Tue, 11 Aug 2026 14:17:15 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Vox, preocupado por el incremento de  identificaciones policiales en la región: «Es un dato demoledor»",
-      "link": "https://www.abc.es/espana/vox-preocupado-incremento-identificaciones-policiales-region-dato-20260811141426-nt.html",
-      "desc": "El presidente del Grupo Parlamentario Vox en las Cortes de Castilla-La Mancha, David Moreno, ha manifestado la «profunda preocupación» de su formación ante los últimos datos del Ministerio del Interior, que sitúan a Castilla-La Mancha entre las diez regiones d",
-      "date": "Tue, 11 Aug 2026 14:14:27 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "El alcalde socialista de Sacedón pide el cese de Sabrido: «A nosotros sí se nos puede estrangular»",
-      "link": "https://www.abc.es/espana/castilla-la-mancha/alcalde-socialista-sacedon-pide-cese-sabrido-puede-20260811141240-nt.html",
-      "desc": "El alcalde de Sacedón, el socialista Francisco Pérez Torrecilla , ha exigido el cese del delegado del Gobierno en Castilla-La Mancha, José Pablo Sabrido, por sus recientes declaraciones sobre el trasvase Tajo-Segura, en las que advirtió de que este «nunca tend",
-      "date": "Tue, 11 Aug 2026 14:12:41 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Última hora del terremoto en Colombia, en directo: al menos 169 muertos, más de 900 heridos y 164 españoles sin localizar",
-      "link": "https://www.lavanguardia.com/internacional-1/20260811/11611758/terremoto-colombia-directo-132-muertos-ultima-hora-rescates-heridos-desaparecidos-seismo-magnitud-7-4.html",
-      "desc": "La emergencia entra ya en su segundo día con operaciones de búsqueda que prácticamente no se han detenido",
-      "date": "11 Aug 2026 14:10:40 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "Sierra Nevada abre el telecabina a Borreguiles para que el eclipse pueda verse a 2.700 metros de altitud",
-      "link": "https://www.abc.es/espana/andalucia/granada/sierra-nevada-abre-telecabina-borreguiles-eclipse-pueda-20260811133843-nts.html",
-      "desc": "Aunque los expertos coinciden en que el mejor sitio de Granada para ver el eclipse de sol de este martes 12 de agosto es el norte de la provincia, en puntos como Puebla de Don Fadrique o Huéscar, es indudable que contemplar ese espectáculo a 2.700 metros sobre",
-      "date": "Tue, 11 Aug 2026 14:08:01 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Destapan una red internacional de estafas con falsas inversiones en criptomonedas que movió más de 1,2 millones de dólares",
-      "link": "https://www.abc.es/espana/castilla-leon/destapan-red-internacional-estafas-falsas-inversiones-criptomonedas-20260811140601-nt.html",
-      "desc": "Todo comenzó en mayo 2025 con la denuncia interpuesta ante la Guardia Civil de Palencia por una persona que había perdido cerca de 278.000 euros tras invertir en una supuesta plataforma de criptomonedas. Esta denuncia permitió iniciar una investigación que ha ",
-      "date": "Tue, 11 Aug 2026 14:06:54 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Rescatan a dos bañistas a bordo de una tabla 'paddle surf'  arrastrados por la corriente en Benitatxell",
-      "link": "https://www.abc.es/espana/comunidad-valenciana/rescatan-dos-banistas-bordo-tabla-paddle-surf-20260811140328-nt.html",
-      "desc": "Dos bañistas tuvieron que ser rescatados este lunes en la cala Moraig de Benitatxell (Alicante) después de que las fuertes corrientes los arrastrasen mientras iban a bordo de una tabla de 'paddle surf'. El teléfono móvil que llevaban consigo en la tabla permit",
-      "date": "Tue, 11 Aug 2026 14:03:28 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Localizan a una serpiente en una habitación del hospital jiennense Alto Guadalquivir",
-      "link": "https://www.abc.es/espana/andalucia/jaen/localizan-serpiente-habitacion-hospital-jiennense-alto-guadalquivir-20260811132700-nts.html",
-      "desc": "Gran sobresalto el que se llevaron los familiares de un paciente ingresado en el hospital Alto Guadalquivir al comprobar que había una serpiente enrollada en el motor de una cama del centro ubicado en el municipio jiennense de Andújar. Según han confirmado fue",
-      "date": "Tue, 11 Aug 2026 13:57:16 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "El PSOE exige a Pérez Llorca aclarar cuánto costará Ferran Torres como embajador",
-      "link": "https://www.abc.es/espana/comunidad-valenciana/psoe-exige-perez-llorca-aclarar-costara-ferran-20260811134822-nt.html",
-      "desc": "El PSPV-PSOE ha solicitado nueva información a la Generalitat relativa al acuerdo alcanzado entre el Consell que preside Juanfran Pérez Llorca (PP) y el futbolista Ferran Torres , natural de Foios, para promocionar la Comunidad Valenciana fuera de sus frontera",
-      "date": "Tue, 11 Aug 2026 13:48:23 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Toledo prepara un contrato temporal para las escuelas infantiles mientras se resuelve el recurso judicial",
-      "link": "https://www.abc.es/espana/castilla-la-mancha/toledo/toledo-prepara-contrato-temporal-escuelas-infantiles-resuelve-20260811133932-nt.html",
-      "desc": "El Ayuntamiento de Toledo asegura que las tres escuelas infantiles municipales abrirán con normalidad el próximo 1 de septiembre, aunque sea mediante un contrato temporal mientras el Tribunal Administrativo Central de Recursos Contractuales resuelve el recurso",
-      "date": "Tue, 11 Aug 2026 13:39:32 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "La Comunidad Valenciana se blinda ante el eclipse: 15.000 efectivos, 29 medios aéreos y 40 drones",
-      "link": "https://www.abc.es/espana/comunidad-valenciana/comunidad-valenciana-blinda-ante-eclipse-15000-efectivos-20260811133932-nt.html",
-      "desc": "La Comunidad Valenciana se prepara para vivir este miércoles uno de los grandes acontecimientos astronómicos del siglo. La región será uno de los mejores puntos de España para contemplar el eclipse solar, un fenómeno que ha disparado las previsiones de visitan",
-      "date": "Tue, 11 Aug 2026 13:39:32 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "20 viviendas han sido desalojadas por un incendio en un garaje comunitario  en Malagón",
-      "link": "https://www.abc.es/espana/castilla-la-mancha/toledo/pueblos/viviendas-desalojadas-incendio-garaje-comunitario-malagon-20260811132901-nt.html",
-      "desc": "Los bomberos del parque de Ciudad Real trabajan en la extinción de un incendio desatado en un garaje comunitario de Malagón este martes, que ha obligado al desalojo de hasta 20 viviendas. Según han informado fuentes del Servicio de Emergencias del 112 de Casti",
-      "date": "Tue, 11 Aug 2026 13:39:02 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Mercadona cierra antes este sábado 15 de agosto sus supermercados: así es su nuevo horario",
-      "link": "https://www.abc.es/espana/andalucia/mercadona-cierra-sabado-agosto-supermercados-nuevo-horario-20260811133842-nts.html",
-      "desc": "Mercadona cambiará sus horarios habituales de sábado para este 15 de agosto, día declarado festivo nacional por la Asunción de la Virgen. Por tanto, el horario habitual de cierre se verá recortado. Finalmente, los supermercados a brirán a las 9:00 horas y cerr",
-      "date": "Tue, 11 Aug 2026 13:38:43 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "La Junta aprueba la reparcelación del campus de centros de datos de Meta en Talavera de la Reina",
-      "link": "https://www.abc.es/espana/castilla-la-mancha/toledo/talavera/junta-aprueba-reparcelacion-campus-centros-datos-meta-20260811131906-nt.html",
-      "desc": "El futuro campus de centros de datos de Meta en Talavera de la Reina, Toledo, avanza. El Gobierno de Castilla-La Mancha ha aprobado de manera definitiva el proyecto de reparcelación del Proyecto de Singular Interés (PSI) que permitirá desarrollar la actuación,",
-      "date": "Tue, 11 Aug 2026 13:37:39 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Tenemos que decidir, ¿gestionamos un derecho humano o gestionamos la demanda?",
-      "link": "https://www.abc.es/espana/castilla-la-mancha/toledo/decidir-gestionamos-derecho-humano-gestionamos-demanda-20260811133237-nt.html",
-      "desc": "A pesar del verano que estamos sufriendo, en el que los registros de calor nos indican que el cambio de clima ya es una realidad, las dos derechas municipales (por acción o por omisión) se empeñan en convencernos que estas cosas ya pasaban en el Pleistoceno y ",
-      "date": "Tue, 11 Aug 2026 13:33:51 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Islandia recibe el eclipse con miles de turistas y una ‘rave’ de Björk bajo la amenaza del mal tiempo",
-      "link": "https://www.lavanguardia.com/vida/20260811/11612019/islandia-recibe-eclipse-miles-turistas-rave-bjoerk-amenaza-mal.html",
-      "desc": "Los servicios meteorológicos prevén lluvia y nubes en la parte oeste del país, la zona en la que será visible el eclipse total, incluida la capital Reikiavik",
-      "date": "11 Aug 2026 13:32:48 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "Albares advierte tajante desde Ceuta: “Hasta la última persona va a ser devuelta”",
-      "link": "https://www.lavanguardia.com/politica/20260811/11611981/albares-advierte-tajante-ceuta-ultima-persona-entro-devuelta.html",
-      "desc": "El ministro de Exteriores atribuye la llegada masiva de inmigrantes a los bulos y reafirma la cooperación fluida con Marruecos",
-      "date": "11 Aug 2026 12:55:36 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "Trànsit cerrará salidas de la AP-7 en el sur de Catalunya si hay riesgo de colapso por el eclipse",
-      "link": "https://www.lavanguardia.com/vida/20260811/11611852/transit-cerrara-salidas-ap-7-sur-catalunya-hay-riesgo-colapso-eclipse.html",
-      "desc": "El dispositivo viario de los Mossos d'Esquadra, el más importante de la historia por un gran evento, movilizará&nbsp; 700 agentes y un helicóptero con el objetivo prioritario de prevenir un gran atasco en la autopista&nbsp;&nbsp;",
-      "date": "11 Aug 2026 12:05:34 +0200",
+      "title": "La exdiputada de Ciudadanos que pide no mirar al eclipse tras quedarse ciega: “No son conscientes del peligro que supone”",
+      "link": "https://www.lavanguardia.com/vida/20260811/11612055/exdiputada-ciudadanos-pide-mirar-eclipse-quedarse-ciega-son-conscientes-peligro-supone.html",
+      "desc": "Mercedes López Romero, quien fue diputada en el Parlamento Andaluz, padece una ceguera del 90% después de mirar directamente al sol cuando tenía ocho años",
+      "date": "11 Aug 2026 14:21:07 +0200",
       "source": "La Vanguardia",
       "color": "#8e44ad",
       "feedId": "LaVanguardia",
