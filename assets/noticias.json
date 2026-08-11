@@ -1,11 +1,191 @@
 {
-  "updated": "2026-08-11T06:57:58Z",
+  "updated": "2026-08-11T08:48:05Z",
   "count": 24,
   "items": [
     {
-      "title": "Extinguen el incendio forestal de Baltar tras calcinar casi 140 hectáreas",
+      "title": "La Guardia Civil interviene 146 kilos de cigala sin trazabilidad y los dona a un banco de alimentos",
+      "link": "https://www.abc.es/espana/galicia/guardia-civil-interviene-146-kilos-cigala-trazabilidad-20260811103139-nt.html",
+      "desc": "Un vecino de Burela de 63 años se enfrenta a una denuncia administrativa de la Guardia Civil después de que su coche llevara 146,50 kilos de cigala sin ningún papel que acreditara su trazabilidad, un requisito que exige la Ley de Pesca de Galicia. La denuncia ",
+      "date": "Tue, 11 Aug 2026 10:31:39 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Robo a punta de pistola en Telde (Gran Canaria) por 140 euros",
+      "link": "https://www.abc.es/espana/canarias/robo-punta-pistola-telde-gran-canaria-140-20260811101402-nt.html",
+      "desc": "Agentes de la Policía Nacional de Telde han detenido a un varón de 50 años, como presunto autor de un delito de robo con violencia e intimidación cometido en una peluquería del municipio a punta de pistola. Los hechos tuvieron lugar el pasado 7 de agosto, sobr",
+      "date": "Tue, 11 Aug 2026 10:17:07 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "'Reanima-HUCU': el programa que prepara a los profesionales del hospital de Cuenca ante situaciones de emergencia",
+      "link": "https://www.abc.es/espana/castilla-la-mancha/reanimahucu-programa-prepara-profesionales-hospital-cuenca-ante-20260811101437-nt.html",
+      "desc": "La Gerencia del Área Integrada de Cuenca , dependiente del Servicio de Salud de Castilla-La Mancha (Sescam), continúa reforzando la formación de sus profesionales en materia de atención a urgencias y emergencias a través de distintos programas desarrollados en",
+      "date": "Tue, 11 Aug 2026 10:14:37 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Tres detenidos tras desmantelar un cultivo con cerca de 600 plantas de marihuana en Córdoba",
+      "link": "https://www.abc.es/espana/andalucia/cordoba/tres-detenidos-tras-desmantelar-cultivo-cerca-600-20260811101400-nts.html",
+      "desc": "La Guardia Civil, en el marco de la operación 'Califa-Doja', ha desmantelado en Córdoba una plantación de marihuana instalada en el interior de un inmueble y ha detenido a tres personas relacionadas con su explotación y la presunta comisión de los delitos de t",
+      "date": "Tue, 11 Aug 2026 10:14:00 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "El terremoto más fuerte en lo que va de siglo en Colombia deja por ahora 885 heridos solo en Cali",
+      "link": "https://www.lavanguardia.com/internacional-1/20260811/11611758/terremoto-colombia-directo-132-muertos-ultima-hora-rescates-heridos-desaparecidos-seismo-magnitud-7-4.html",
+      "desc": "Policías, militares, equipos especializados y numerosos voluntarios han pasado la noche retirando escombros con excavadoras y, en algunos puntos, incluso con sus propias manos",
+      "date": "11 Aug 2026 10:10:58 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
+    {
+      "title": "Los carniceros coinciden: «El pollo no puede durar más de un día en la nevera»",
+      "link": "https://www.abc.es/espana/andalucia/carniceros-coinciden-pollo-puede-durar-dia-nevera-20260811100606-nts.html",
+      "desc": "No siempre sabemos cuál es la mejor manera de conservar y aprovechar un producto fresco una vez que llega a casa. Y es que, aunque algunos alimentos parecen aguantar varios días en la nevera sin problema, lo cierto es que cada uno tiene sus propios tiempos de ",
+      "date": "Tue, 11 Aug 2026 10:06:06 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Desarticulada una mafia que captaba a menores subsaharianas de centros para explotarlas sexualmente",
+      "link": "https://www.abc.es/espana/canarias/desarticulada-mafia-captaba-menores-subsaharianas-centros-explotarlas-20260811100518-nt.html",
+      "desc": "La Guardia Civil ha desarticulado una organización criminal asentada en la isla de Gran Canaria dedicada a la captación de menores extranjeras no acompañadas alojadas en centros de acogida , con la finalidad de facilitar su salida de las islas y trasladarlas p",
+      "date": "Tue, 11 Aug 2026 10:05:19 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Un total de 225 ayuntamientos de la región se suman al programa de artes escénicas y musicales",
+      "link": "https://www.abc.es/espana/castilla-la-mancha/total-225-ayuntamientos-region-suman-programa-artes-20260811100055-nt.html",
+      "desc": "Un total de 225 ayuntamientos de la región se han sumado a la Red de Artes Escénicas y Musicales de Castilla-La Mancha en las temporadas ´Primavera-Otoño 2027´ y ´Circuito 2027´. La viceconsejera de Cultura y Deportes, Carmen Teresa Olmedo, asistió anoche a la",
+      "date": "Tue, 11 Aug 2026 10:00:55 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Mata a puñaladas a su pareja transexual en Marbella",
+      "link": "https://www.abc.es/espana/andalucia/malaga/mata-punaladas-pareja-transexual-marbella-20260811095846-nts.html",
+      "desc": "La Policía Nacional detuvo la tarde de este lunes a un hombre de 58 años en el núcleo de San Pedro en Marbella por el asesinato de su pareja transexual . Los hechos han ocurrido en calle Castilla. Los primeros avisos alertando de lo sucedido en el 112 se regis",
+      "date": "Tue, 11 Aug 2026 10:00:10 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Diez ciclistas heridos, dos de ellos graves, en una caída de más de 40 corredores en Estivella",
+      "link": "https://www.abc.es/espana/comunidad-valenciana/diez-ciclistas-heridos-dos-graves-caida-corredores-20260811095246-nt.html",
+      "desc": "Efectivos de la Agrupación de Tráfico de la Guardia Civil han auxiliado a decenas de ciclistas tras una caída múltiple que afectó a cerca de cuarenta participantes de una prueba ciclista que se celebró el pasado 4 de agosto en la localidad de Estivella ( Valen",
+      "date": "Tue, 11 Aug 2026 09:52:46 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Este es el pueblo de Lugo que reparte gratis 2.000 raciones de rosca con queso",
+      "link": "https://www.abc.es/espana/galicia/pueblo-lugo-reparte-gratis-2000-raciones-rosca-20260811094506-nt.html",
+      "desc": "El municipio lucense de Sober se prepara para acoger, un año más, dos de las citas gastronómicas más esperadas del verano en la Ribeira Sacra. Este martes 11 y miércoles 12 de agosto se celebra la XXIX edición de la Feira da Rosca, Mel e outros Produtos da Rib",
+      "date": "Tue, 11 Aug 2026 09:45:07 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "La parroquia de San José Obrero lleva 400 niños de campamento a Cádiz",
+      "link": "https://www.abc.es/espana/castilla-la-mancha/toledo/parroquia-san-jose-obrero-lleva-400-ninos-20260811094350-nt.html",
+      "desc": "Casi 10.000 niños de los distintos barrios y parroquias de la ciudad, así como de algunas localidades cercanas, han participado a lo largo de los años en el campamento de verano de Cádiz organizado por la parroquia de San José Obrero , en el Polígono de Toledo",
+      "date": "Tue, 11 Aug 2026 09:43:50 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Iván Ania: «Estamos preparados para competir desde la primera jornada, no tenemos que sentirnos inferiores a nadie»",
+      "link": "https://www.abc.es/espana/andalucia/cordoba/cordoba-cf/ivan-ania-preparados-competir-primera-jornada-sentirnos-20260811093718-nts.html",
+      "desc": "Ambición frente a las dudas. Iván Ania (Oviedo, 1977) inicia su cuarta temporada al frente del Córdoba CF con una plantilla profundamente renovada, pero con la misma convicción de siempre. Tras dos cursos consolidados en Segunda División en donde la evolución ",
+      "date": "Tue, 11 Aug 2026 09:37:18 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "El niño de la playa",
+      "link": "https://www.abc.es/espana/andalucia/cordoba/jose-javier-amoros-nino-playa-20260811093659-nts.html",
+      "desc": "La playa ofrece hoy el mismo espectáculo variado y repetido de todos los veranos. Para acercarme a la sabiduría, observo a un niño de 5 ó 6 años, que parece haber empeñado su infancia en aligerar el mar con un cubo. Camina concentrado y decidido, sin prestar a",
+      "date": "Tue, 11 Aug 2026 09:36:59 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "La Mezquita-Catedral aporta al año el 48% del total de visitas a monumentos y museos de Córdoba",
+      "link": "https://www.abc.es/espana/andalucia/cordoba/mezquitacatedral-aporta-ano-total-visitas-monumentos-museos-20260811190531-nts.html",
+      "desc": "Córdoba pone estos días sus ojos aún más en la Mezquita-Catedral, pues se cumple un año del incendio que sufrió. Si el fuego hubiera castigado con intensidad el monumento —los daños se ciñeron básicamente a la capilla de la Encarnación, de menor valor patrimon",
+      "date": "Tue, 11 Aug 2026 09:36:11 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Los vecinos evacuados por el incendio de Segovia ya pueden regresar a sus casas",
+      "link": "https://www.abc.es/espana/castilla-leon/vecinos-evacuados-incendio-segovia-pueden-regresar-casas-20260811093114-nt.html",
+      "desc": "Tras dos noches fuera, los vecinos evacuados en la tarde del domingo, 9 de agosto, ya pueden volver a sus casas en la urbanización de Los Ángeles de San Rafael y la localidad de Vegas de Matute. Así lo decidía el Cecopi (Centro de Coordinación Operativa Integr",
+      "date": "Tue, 11 Aug 2026 09:31:32 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Los otros incendios en la Mezquita de Córdoba: del causado por un rayo en 1910 al que se desató cerca del mihrab en 2001",
+      "link": "https://www.abc.es/espana/andalucia/cordoba/huella-fuego-mezquita-cordoba-incendios-1910-2001-20260811091745-nts.html",
+      "desc": "La Mezquita-Catedral se ha visto sacudida por las llamas en tres ocasiones a lo largo de su milenaria historia. Al incendio del que se cumple un año en estos días en bien Patrimonio de la Humanidad , que por los daños sufridos ha sido el más importante, se sum",
+      "date": "Tue, 11 Aug 2026 09:29:48 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Liberada una mujer y sus dos perros tras quedar atrapados en su vivienda por un incendio en Socovos",
+      "link": "https://www.abc.es/espana/castilla-la-mancha/liberada-mujer-dos-perros-tras-quedar-atrapados-20260811092549-nt.html",
+      "desc": "Efectivos de la Guardia Civil de Letur han auxiliado a una mujer y a sus dos perros, que habían quedado atrapados en el interior de una vivienda de Socovos (Albacete) debido a un incendio que se propagaba por los terrenos colindantes y rodeaba el inmueble. Los",
+      "date": "Tue, 11 Aug 2026 09:25:49 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Extinguen los incendios de Baltar (Orense) y uno de los de Rodeiro (Pontevedra)",
       "link": "https://www.abc.es/espana/galicia/extinguen-incendio-forestal-baltar-tras-calcinar-140-20260811085203-nt.html",
-      "desc": "Los servicios de emergencias y extinción de incendios de Galicia han logrado cerrar con éxito un intenso fin de semana de lucha contra el fuego. A última hora de la tarde de este lunes, la Consellería de Medio Rural dio por extinguido el grave incendio foresta",
+      "desc": "Los servicios de emergencias y extinción de incendios de Galicia han logrado cerrar con éxito un intenso fin de semana de lucha contra el fuego, que se salda ya con la extinción de dos de los grandes incendios activos en la comunidad. A última hora de la tarde",
       "date": "Tue, 11 Aug 2026 08:52:04 +0200",
       "source": "ABC",
       "color": "#c0392b",
@@ -23,6 +203,16 @@
       "caso": "other"
     },
     {
+      "title": "Asesinada una mujer con heridas de arma blanca en en San Pedro de Alcántara (Málaga)",
+      "link": "https://www.lavanguardia.com/vida/20260811/11611777/detienen-hombre-episodio-violencia-genero-mujer-muerto.html",
+      "desc": "La mujer fue localizada el lunes en una vivienda de la localidad malagueña de San Pedro de Alcántara con heridas de arma blanca",
+      "date": "11 Aug 2026 08:43:06 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
+    {
       "title": "Las llamas del incendio de Niebla ya han afectado a 20.000 hectáreas",
       "link": "https://www.abc.es/espana/andalucia/huelva/llamas-incendio-niebla-afectado-20000-hectareas-20260811081232-nts.html",
       "desc": "Los equipos que se encuentran luchando contra el incendio de Niebla se enfrentaron este lunes a una jornada llena de dificultades . El fuego está «fuera de capacidad de extinción», tal y como comunicó Antonio Sanz . El rápido avance de las llamas ha hecho que ",
@@ -33,23 +223,13 @@
       "caso": "other"
     },
     {
-      "title": "Terremoto en Colombia, en directo | Al menos 132 muertos y más de 550 heridos, y última hora tras el seísmo de 7,4",
-      "link": "https://www.lavanguardia.com/internacional-1/20260811/11611758/terremoto-colombia-directo-132-muertos-ultima-hora-rescates-heridos-desaparecidos-seismo-magnitud-7-4.html",
-      "desc": "Colombia amanece bajo el estado de emergencia por el terremoto, que deja más de 130 muertos, y busca sobrevivientes entre los escombros",
-      "date": "11 Aug 2026 07:46:29 +0200",
+      "title": "Rescatados con vida un bebé y su madre de los escombros tras el terremoto en Cali",
+      "link": "https://www.lavanguardia.com/internacional/20260811/11611766/rescatistas-sacan-vida-madre-bebe-escombros-cali-devastador-terremoto-colombia.html",
+      "desc": "El país latinoamericano vive horas críticas tras un seísmo de magnitud 7,4 que enterró miles de víctimas después de derrumbar múltiples edificios&nbsp;",
+      "date": "11 Aug 2026 07:50:35 +0200",
       "source": "La Vanguardia",
       "color": "#8e44ad",
       "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "Luis Rández, experto científico: «El eclipse toital del 12 de agosto permitirá ver Venus e incluso Júpiter desde un lugar elevado de Zaragoza»",
-      "link": "https://www.abc.es/espana/aragon/eclipse-agosto-permitira-ver-venus-incluso-jupiter-20260811125033-nt.html",
-      "desc": "El eclipse de sol del 12 de agosto será «un espectáculo de lo mejor que podemos ver en la naturaleza», un reclamo turístico para casi media España desde Galicia hasta Baleares, pero sobre todo una oportunidad única, ya que la última vez que se pudo admirar est",
-      "date": "Tue, 11 Aug 2026 07:30:06 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
       "caso": "other"
     },
     {
@@ -57,186 +237,6 @@
       "link": "https://www.lavanguardia.com/internacional/20260811/11611762/colombia-intensifica-rescates-terremoto-magnitud-7-4-deja-132-muertos.html",
       "desc": "Debido al gran número de heridos, que ya pasa del medio millar de personas, los hospitales comienzan a estar al límite de sus capacidades",
       "date": "11 Aug 2026 07:28:41 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "Mercadona anuncia un cambio de horario para esta semana en sus supermercados",
-      "link": "https://www.abc.es/espana/comunidad-valenciana/mercadona-anuncia-cambio-horario-semana-supermercados-20260811071136-nt.html",
-      "desc": "Mercadona ha confirmado un cambio en los horarios habituales de apertura de sus supermercados para el próximo sábado 15 de agosto , con motivo de la festividad nacional de la Virgen de la Asunción. La cadena de distribución presidida por Juan Roig dará servici",
-      "date": "Tue, 11 Aug 2026 07:27:30 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "“Un disco negro como azabache”: el día en que el sol se apagó y brilló la ciencia en Burgos",
-      "link": "https://www.lavanguardia.com/historiayvida/historia-contemporanea/20260811/11606678/disco-negro-azabache-dia-sol-apago-brillo-ciencia-burgos.html",
-      "desc": "El eclipse total de sol del próximo 12 de agosto es una excelente oportunidad para recordar otros fenómenos similares, como el que oscureció el cielo de Burgos en 1905",
-      "date": "11 Aug 2026 06:30:00 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "España se prepara para 1,5 millones de viajes por el eclipse",
-      "link": "https://www.lavanguardia.com/vida/20260811/11611578/espero-eclipse-dos-anos-quiero-vivirlo-mi-familia.html",
-      "desc": "Casi 450.000 turistas y 1,5 millones de desplazamientos adicionales en España para seguir el evento",
-      "date": "11 Aug 2026 06:00:00 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "Guía sobre lo que hay que hacer, y lo que no, para disfrutar del eclipse en Barcelona",
-      "link": "https://www.lavanguardia.com/local/barcelona/20260811/11611589/guia-sobre-hay-disfrutar-eclipse-barcelona.html",
-      "desc": "El mar, la montaña y otros enclaves muy singulares permitirán a la ciudadanía seguir el fenómeno en la capital catalana",
-      "date": "11 Aug 2026 06:00:00 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "Ultralujo en Baleares por el eclipse solar: de la noche de hotel a 3.500 euros al ‘pack’ por 200.000",
-      "link": "https://www.lavanguardia.com/vida/20260811/11611524/ultralujo-baleares-eclipse-noche-hotel-3-500-euros-pack-200-000.html",
-      "desc": "Establecimientos turísticos exclusivos ofrecen paseos en jet privado, globo, yate y cenas con chefs, entre otros servicios para el día del evento astronómico",
-      "date": "11 Aug 2026 06:00:00 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "Cómo componer una foto memorable del eclipse sin quemar tu cámara ni tus ojos",
-      "link": "https://www.lavanguardia.com/vida/20260811/11610820/como-componer-foto-memorable-eclipse-quemar-camara-tus-ojos.html",
-      "desc": "Hay aspectos de seguridad que deben tenerse muy en cuenta, sobre todo si se usa una cámara réflex con visor óptico",
-      "date": "11 Aug 2026 06:00:00 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "El arte del eclipse: una fascinación milenaria",
-      "link": "https://www.lavanguardia.com/cultura/20260811/11611048/eclipse-solar-cultura-hechizo-cielo.html",
-      "desc": "El fenómeno astronómico y sus metáforas se plasman en la obra de escritores, cineastas, músicos y pintores",
-      "date": "11 Aug 2026 06:00:00 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "La escasez de ‘slots’ y de aviones desata una batalla entre aerolíneas en Europa",
-      "link": "https://www.lavanguardia.com/economia/20260811/11611537/escasez-slots-aviones-desata-batalla-aerolineas-europa.html",
-      "desc": "La compra de Easyjet anticipa nuevas operaciones y presiones sobre los billetes",
-      "date": "11 Aug 2026 06:00:00 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "El Gobierno evita las tensiones con Marruecos",
-      "link": "https://www.lavanguardia.com/politica/20260811/11611572/gobierno-evita-tensiones-marruecos.html",
-      "desc": "Los ministros visitan Ceuta pero evitan el choque con el Reino Alauí",
-      "date": "11 Aug 2026 06:00:00 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "China es la nueva gran potencia petrolera mundial",
-      "link": "https://www.lavanguardia.com/economia/20260811/11611233/china-petroleo-opep-ormuz.html",
-      "desc": "Ya no es la OPEP quien marca el rumbo a los mercados, sino el Partido Comunista chino",
-      "date": "11 Aug 2026 06:00:00 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "Trump cambió de avión en secreto ante una amenaza de asesinato de Irán en Ankara",
-      "link": "https://www.lavanguardia.com/internacional/20260811/11611756/trump-cambio-avion-secreto-amenaza-asesinato-iran-cumbre-otan-ankara.html",
-      "desc": "El presidente fue trasladado en un carro de comida desde el Air Force One a un avión C-32 de la Fuerza Aérea después de que el Servicio Secreto detectara una amenaza creíble procedente de Teherán",
-      "date": "11 Aug 2026 05:16:04 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "Huelva, epicentro de los incendios andaluces en los últimos años: más de 28.000 hectáreas afectadas sólo este verano",
-      "link": "https://www.abc.es/espana/andalucia/huelva/huelva-agujero-negro-incendios-andaluces-ultimos-anos-20260811015944-nts.html",
-      "desc": "El fuego castiga salvajemente a Huelva . Las llamas devoran parte del territorio de Niebla y en su extensión ha provocado ya el desalojo de varias aldeas. Las columnas de humo se vislumbran desde las localidades cercanas y hasta se perciben en las provincias v",
-      "date": "Tue, 11 Aug 2026 01:59:44 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Talleres sociales para reducir la brecha digital de 6.250 menores vulnerables",
-      "link": "https://www.abc.es/espana/madrid/madrid-forma-competencias-digitales-6250-menores-vulnerables-20260810013000-nt.html",
-      "desc": "La Comunidad de Madrid ha formado en competencias digitales a 6.250 niños y adolescentes en situación de vulnerabilidad social entre 2024 y el primer semestre de 2026, dentro del programa 'TIC y TAC', una iniciativa que busca reducir la brecha digital y dotar ",
-      "date": "Tue, 11 Aug 2026 01:30:00 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "270 metros de sangre tras el crimen por celos de Vallecas: «El barrio está perdido»",
-      "link": "https://www.abc.es/espana/madrid/270-metros-sangre-tras-crimen-celos-vallecas-20260810012951-nt.html",
-      "desc": "La sangre todavía marca las calles de Puente de Vallecas . Gotas de distintos tamaños salpican el asfalto y dibujan un recorrido irregular de, al menos, 270 metros: desde las inmediaciones de las calles de Puerto Alto y Ramón Calabuig, donde culminó la reyerta",
-      "date": "Tue, 11 Aug 2026 01:29:51 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Maurizio Ambrosini: «Sánchez regulariza la inmigración silenciosa, pero la dramática, no»",
-      "link": "https://www.abc.es/espana/maurizio-ambrosini-sanchez-regulariza-inmigracion-silenciosa-dramatica-20260811011943-nt.html",
-      "desc": "Cuando la efervescencia entre Madrid y Roma alza el tono y sobrepasa unos límites inexplorados, quizás lo mejor es parar para entender qué ha sucedido hasta llegar aquí. A este fuego amigo entre Giorgia Meloni y Pedro Sánchez, declarándose recíprocamente venga",
-      "date": "Tue, 11 Aug 2026 01:19:43 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Familias ceutíes trasladan a sus hijos a la Península por miedo a la situación",
-      "link": "https://www.abc.es/espana/familias-ceuties-trasladan-hijos-menores-peninsula-miedo-20260811011730-nt.html",
-      "desc": "La situación en Ceuta , con miles de inmigrantes deambulando por la ciudad, dista mucho de la normalidad que se vivía antes de la avalancha del 30 de julio. Por eso, explica Sam, «no queremos que nuestros jóvenes y niños estén aquí. Hay miedo a ir por las call",
-      "date": "Tue, 11 Aug 2026 01:17:30 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Cien pulseras contra golpes de calor para los operarios de limpieza de Alcalá: «Me siento más tranquila»",
-      "link": "https://www.abc.es/espana/madrid/alcala-reparte-pulseras-inteligentes-golpes-calor-trabajadores-20260805010824-nt.html",
-      "desc": "Desde hace una semana, Pedro trabaja con un nuevo compañero inteligente en la muñeca. No señala la hora, ni cuenta los pasos realizados o las calorías consumidas. Su única función es avisar en caso de que las altas temperaturas se conviertan en peligro para la",
-      "date": "Tue, 11 Aug 2026 01:08:24 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Geopolítica de Marruecos",
-      "link": "https://www.lavanguardia.com/opinion/20260811/11611237/geopolitica-marruecos.html",
-      "desc": "EE.UU. busca ‘estados corsarios’ a los que subrogar asuntos escabrosos",
-      "date": "11 Aug 2026 00:30:00 +0200",
       "source": "La Vanguardia",
       "color": "#8e44ad",
       "feedId": "LaVanguardia",
