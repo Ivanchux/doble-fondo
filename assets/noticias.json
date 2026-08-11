@@ -1,7 +1,67 @@
 {
-  "updated": "2026-08-11T18:54:58Z",
+  "updated": "2026-08-11T20:37:20Z",
   "count": 24,
   "items": [
+    {
+      "title": "Segovia respira tras sofocar las llamas de un incendio que ha quemado unas 1.000 hectáreas",
+      "link": "https://www.abc.es/espana/castilla-leon/segovia-respira-tras-sofocar-llamas-incendio-quemado-20260811222616-nt.html",
+      "desc": "A la luz del día, un amanecer ya sin humo en el horizonte y, sobre todo, sin llamas visibles en el suelo, vuelta a casa . Tras dos noches desalojados , los vecinos de la urbanización de Los Ángeles de San Rafael y Vegas de Matute podían regresar a sus domicili",
+      "date": "Tue, 11 Aug 2026 22:26:16 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Castilla y León busca hacer del eclipse una experiencia única para repetir",
+      "link": "https://www.abc.es/espana/castilla-leon/experiencias-eclipse-20260809222524-nt.html",
+      "desc": "Menos de dos minutos durará esa 'mordida' total que la Luna pegará para engullir por completo al Sol este próximo miércoles, 12 de agosto, a eso de las 20.30 horas. Con Castilla y León como uno de los lugares privilegiados como mirador para contemplar este fen",
+      "date": "Tue, 11 Aug 2026 22:25:24 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Los desalojados por el incendio de Niebla reviven la pesadilla: «Son árboles, animales y sueños convertidos en humo»",
+      "link": "https://www.abc.es/espana/andalucia/huelva/desalojados-incendio-niebla-reviven-pesadilla-arboles-animales-20260811212235-nts.html",
+      "desc": "Ni una hora tardaron los vecinos de Zalamea la Real en responder, la noche de este lunes, al llamamiento hecho a través de las redes sociales para conseguir una veintena de almohadas destinadas al teatro municipal, convertido estos días en refugio de los vecin",
+      "date": "Tue, 11 Aug 2026 21:22:35 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "La Junta de Andalucía espera perimetrar este miércoles el incendio de Niebla",
+      "link": "https://www.abc.es/espana/andalucia/huelva/junta-andalucia-espera-perimetrar-miercoles-incendio-niebla-20260811211212-nts.html",
+      "desc": "«Es un incendio difícil: todas las mañanas nos levantamos con fuertes inversiones térmicas que nos están dificultando trabajar durante todos estos días, incluso a los medios aéreos, que con frecuencia tienen dificultades para que el agua llegue al terreno. Tod",
+      "date": "Tue, 11 Aug 2026 21:12:13 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Marta García atrapa una plata de relumbrón en el 5.000 del Campeonato de Europa",
+      "link": "https://www.lavanguardia.com/deportes/20260811/11612243/marta-garcia-atrapa-plata-relumbron-5-000-campeonato-europa.html",
+      "desc": "la leonesa firma la primera medalla española en el Europeo tras una carrera soberbia",
+      "date": "11 Aug 2026 21:04:23 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
+    {
+      "title": "La Feria de Málaga será portada de cinco millones de cupones de la ONCE",
+      "link": "https://www.abc.es/espana/andalucia/malaga/feria-malaga-portada-cinco-millones-cupones-once-20260811163213-nts.html",
+      "desc": "La Feria de Málaga traspasa las fronteras de la ciudad gracias a un sorteo de la ONCE que se va a celebrar el próximo miércoles 19 de agosto. Una imagen de la portada de la Feria, que este año se celebra entre el 15 y el 22 de agosto, saldrá en cinco millones ",
+      "date": "Tue, 11 Aug 2026 20:48:25 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
     {
       "title": "El Córdoba CF se da un baño de cordobesismo en El Arcángel: «Es una plantilla muy joven, pero podemos lograr grandes cosas»",
       "link": "https://www.abc.es/espana/andalucia/cordoba/cordoba-cf/cordoba-bano-cordobesismo-arcangel-plantilla-joven-podemos-20260811150855-nts.html",
@@ -123,6 +183,16 @@
       "caso": "other"
     },
     {
+      "title": "Luca Hoek derriba un muro con un récord estratosférico en 100 m libre y huele a medalla",
+      "link": "https://www.lavanguardia.com/deportes/natacion/20260811/11612194/estella-tonrath-le-falta-aceleron-cazar-bronce-europeo.html",
+      "desc": "El joven nadador de Sitges, de 18 años, se codeó con David Popovici en las semifinales de los 100 libre y pasó segundo con 47s26, una marca de nivel de final olímpica y cinco décimas mejor que su plusmarca",
+      "date": "11 Aug 2026 18:54:31 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
+    {
       "title": "Libertad con cargos por homicidio por imprudencia para los padres de un bebé muerto en Toro (Zamora)",
       "link": "https://www.abc.es/espana/castilla-leon/libertad-cargos-homicidio-imprudencia-padres-bebe-muerto-20260811185332-nt.html",
       "desc": "Libertad con cargos , acusados como presuntos autores de un delito de homicidio por imprudencia. Es la situación en la que quedan el padre y la madre de la bebé de tres meses fallecida el pasado domingo en Toro (Zamora) por motivos que no han trascendido aún. ",
@@ -153,56 +223,6 @@
       "caso": "other"
     },
     {
-      "title": "La Guardia Civil denuncia a compañeros que sobrepasaron el límite de velocidad... cuando acudían a un atraco",
-      "link": "https://www.abc.es/espana/andalucia/granada/guardia-civil-denuncia-companeros-sobrepasaron-limite-velocidad-20260811181825-nts.html",
-      "desc": "La gente que cree que todo es posible en Granada tiene desde ahora otro argumento para justificarlo: guardias civiles que habían sido avisados de la presunta comisión de un delito y que se dirigían con rapidez al lugar de los hechos, se saltaron los límites de",
-      "date": "Tue, 11 Aug 2026 18:32:50 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Nueve rosarios preparan a Almonte para la Venida de la Virgen del Rocío",
-      "link": "https://www.abc.es/espana/andalucia/rocio/nueve-rosarios-preparan-almonte-venida-virgen-rocio-20260811182525-nts.html",
-      "desc": "El pueblo de Almonte se prepara para recibir a la Virgen del Rocío, en lo material, engalanando sus calles, y en lo espiritual, participando multitudinariamente en los nueve rosarios que desde días atrás y hasta el 14 de agosto recorren la villa como antesala ",
-      "date": "Tue, 11 Aug 2026 18:25:25 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "La DGT pide «precaución» al volante ante el eclipse y pide estacionar en puntos habilitados o permitidos",
-      "link": "https://www.abc.es/espana/castilla-la-mancha/toledo/dgt-pide-precaucion-volante-ante-eclipse-pide-20260811182241-nt.html",
-      "desc": "La Dirección General de Tráfico (DGT) ha pedido a los conductores que planifiquen el viaje, escalonen el regreso y extremen la precaución al volante con motivo del eclipse total de Sol de este 12 de agosto, que podría generar entre 400.000 y 1,5 millones de de",
-      "date": "Tue, 11 Aug 2026 18:22:42 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Galicia activa un dispositivo sanitario especial, con más oftalmólogos de urgencia por el eclipse",
-      "link": "https://www.abc.es/espana/galicia/galicia-activa-dispositivo-sanitario-especial-oftalmologos-urgencia-20260811181954-nt.html",
-      "desc": "El Sergas desplegará un dispositivo de asistencial específico en toda Galicia para garantizar la cobertura sanitaria durante el eclipse de sol total que se podrá ver en la comunidad este miércoles. Fuentes sanitarias explican que se reforzarán especialmente lo",
-      "date": "Tue, 11 Aug 2026 18:19:55 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Alerta en las playas de Huelva y Cádiz por la previsión de fuertes corrientes de resaca",
-      "link": "https://www.abc.es/espana/andalucia/alerta-playas-huelva-cadiz-prevision-fuertes-corrientes-20260811181241-nts.html",
-      "desc": "La Agencia de Emergencias de Andalucía (EMA) ha lanzado este martes una recomendación pidiendo «extremar la precaución» en la costa occidental de Cádiz y en el litoral de Huelva situado al este de Punta Umbría ante la llegada de un episodio de mar de fondo que",
-      "date": "Tue, 11 Aug 2026 18:12:42 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
       "title": "Trump agrava la alarma en la vacunación infantil al reducir las dosis recomendadas para niños",
       "link": "https://www.lavanguardia.com/internacional/20260811/11612159/trump-incide-alarma-sobre-vacunacion-infantil-reduce-dosis-recomendadas-ninos.html",
       "desc": "El presidente firma una orden ejecutiva con la que reclama a los estados que revisen sus protocolos sobre las vacunas, que relaciona infundadamente con el autismo infantil",
@@ -217,26 +237,6 @@
       "link": "https://www.lavanguardia.com/internacional/20260811/11611926/diferencias-separan-terremotos-colombia-venezuela.html",
       "desc": "A primera vista, los desastres parecen similares, pero las consecuencias podrían ser muy distintas",
       "date": "11 Aug 2026 17:30:54 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "Marruecos refuerza los controles en Ceuta y Melilla ante nuevas convocatorias de acceso masivo",
-      "link": "https://www.lavanguardia.com/politica/20260811/11612149/marruecos-refuerza-controles-ceuta-melilla-nuevas-convocatorias-acceso-masivo.html",
-      "desc": "Los servicios de seguridad marroquíes interceptan diariamente a migrantes en las carreteras que conducen a las fronteras y los devuelven a sus ciudades de origen",
-      "date": "11 Aug 2026 17:20:50 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "El Consell de Garanties Estatutàries avala la ley de Cambres, incluidas las sillas de plata",
-      "link": "https://www.lavanguardia.com/economia/20260811/11612114/consell-garanties-estatutaries-cambres-ley-llei-sillas-plata.html",
-      "desc": "El órgano respalda asimismo el redactado por la representación de las cámaras en organismos y su papel en la formación profesional",
-      "date": "11 Aug 2026 16:42:44 +0200",
       "source": "La Vanguardia",
       "color": "#8e44ad",
       "feedId": "LaVanguardia",
