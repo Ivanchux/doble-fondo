@@ -1,19 +1,179 @@
 {
-  "updated": "2026-08-11T05:02:11Z",
+  "updated": "2026-08-11T06:57:58Z",
   "count": 24,
   "items": [
     {
-      "title": "Terremoto en Colombia, en directo | Al menos 132 muertos: última hora de los rescates, heridos y desaparecidos tras el seísmo de magnitud 7,4",
+      "title": "Extinguen el incendio forestal de Baltar tras calcinar casi 140 hectáreas",
+      "link": "https://www.abc.es/espana/galicia/extinguen-incendio-forestal-baltar-tras-calcinar-140-20260811085203-nt.html",
+      "desc": "Los servicios de emergencias y extinción de incendios de Galicia han logrado cerrar con éxito un intenso fin de semana de lucha contra el fuego. A última hora de la tarde de este lunes, la Consellería de Medio Rural dio por extinguido el grave incendio foresta",
+      "date": "Tue, 11 Aug 2026 08:52:04 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Muere una mujer británica de 66 años al chocarse con unas rocas mientras practicaba parasailing en Benidorm",
+      "link": "https://www.abc.es/espana/comunidad-valenciana/alicante/muere-mujer-britanica-anos-chocarse-rocas-practicaba-20260811085114-nt.html",
+      "desc": "Una mujer británica de 66 años ha muerto en un accidente mientras practicaba parasailing en la playa de Levante de Benidorm junto a un hombre de 47 años, de la misma nacionalidad, quien también resultó herido. Al parecer, según apuntan fuentes policiales a ABC",
+      "date": "Tue, 11 Aug 2026 08:51:14 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Las llamas del incendio de Niebla ya han afectado a 20.000 hectáreas",
+      "link": "https://www.abc.es/espana/andalucia/huelva/llamas-incendio-niebla-afectado-20000-hectareas-20260811081232-nts.html",
+      "desc": "Los equipos que se encuentran luchando contra el incendio de Niebla se enfrentaron este lunes a una jornada llena de dificultades . El fuego está «fuera de capacidad de extinción», tal y como comunicó Antonio Sanz . El rápido avance de las llamas ha hecho que ",
+      "date": "Tue, 11 Aug 2026 08:12:32 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Terremoto en Colombia, en directo | Al menos 132 muertos y más de 550 heridos, y última hora tras el seísmo de 7,4",
       "link": "https://www.lavanguardia.com/internacional-1/20260811/11611758/terremoto-colombia-directo-132-muertos-ultima-hora-rescates-heridos-desaparecidos-seismo-magnitud-7-4.html",
-      "desc": "Cali, Pereira, Chocó y otras zonas del oeste del país concentran los daños más graves, con edificios colapsados, infraestructuras afectadas y nuevas réplicas durante una noche marcada por la emergencia",
-      "date": "11 Aug 2026 06:02:38 +0200",
+      "desc": "Colombia amanece bajo el estado de emergencia por el terremoto, que deja más de 130 muertos, y busca sobrevivientes entre los escombros",
+      "date": "11 Aug 2026 07:46:29 +0200",
       "source": "La Vanguardia",
       "color": "#8e44ad",
       "feedId": "LaVanguardia",
       "caso": "other"
     },
     {
-      "title": "Huelva, epicentro de los incendios andaluces en los últimos años: 16.500 hectáreas quemadas sólo este verano",
+      "title": "Luis Rández, experto científico: «El eclipse toital del 12 de agosto permitirá ver Venus e incluso Júpiter desde un lugar elevado de Zaragoza»",
+      "link": "https://www.abc.es/espana/aragon/eclipse-agosto-permitira-ver-venus-incluso-jupiter-20260811125033-nt.html",
+      "desc": "El eclipse de sol del 12 de agosto será «un espectáculo de lo mejor que podemos ver en la naturaleza», un reclamo turístico para casi media España desde Galicia hasta Baleares, pero sobre todo una oportunidad única, ya que la última vez que se pudo admirar est",
+      "date": "Tue, 11 Aug 2026 07:30:06 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Colombia intensifica los rescates tras el terremoto de magnitud 7,4 que deja ya 132 muertos",
+      "link": "https://www.lavanguardia.com/internacional/20260811/11611762/colombia-intensifica-rescates-terremoto-magnitud-7-4-deja-132-muertos.html",
+      "desc": "Debido al gran número de heridos, que ya pasa del medio millar de personas, los hospitales comienzan a estar al límite de sus capacidades",
+      "date": "11 Aug 2026 07:28:41 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
+    {
+      "title": "Mercadona anuncia un cambio de horario para esta semana en sus supermercados",
+      "link": "https://www.abc.es/espana/comunidad-valenciana/mercadona-anuncia-cambio-horario-semana-supermercados-20260811071136-nt.html",
+      "desc": "Mercadona ha confirmado un cambio en los horarios habituales de apertura de sus supermercados para el próximo sábado 15 de agosto , con motivo de la festividad nacional de la Virgen de la Asunción. La cadena de distribución presidida por Juan Roig dará servici",
+      "date": "Tue, 11 Aug 2026 07:27:30 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "“Un disco negro como azabache”: el día en que el sol se apagó y brilló la ciencia en Burgos",
+      "link": "https://www.lavanguardia.com/historiayvida/historia-contemporanea/20260811/11606678/disco-negro-azabache-dia-sol-apago-brillo-ciencia-burgos.html",
+      "desc": "El eclipse total de sol del próximo 12 de agosto es una excelente oportunidad para recordar otros fenómenos similares, como el que oscureció el cielo de Burgos en 1905",
+      "date": "11 Aug 2026 06:30:00 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
+    {
+      "title": "España se prepara para 1,5 millones de viajes por el eclipse",
+      "link": "https://www.lavanguardia.com/vida/20260811/11611578/espero-eclipse-dos-anos-quiero-vivirlo-mi-familia.html",
+      "desc": "Casi 450.000 turistas y 1,5 millones de desplazamientos adicionales en España para seguir el evento",
+      "date": "11 Aug 2026 06:00:00 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
+    {
+      "title": "Guía sobre lo que hay que hacer, y lo que no, para disfrutar del eclipse en Barcelona",
+      "link": "https://www.lavanguardia.com/local/barcelona/20260811/11611589/guia-sobre-hay-disfrutar-eclipse-barcelona.html",
+      "desc": "El mar, la montaña y otros enclaves muy singulares permitirán a la ciudadanía seguir el fenómeno en la capital catalana",
+      "date": "11 Aug 2026 06:00:00 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
+    {
+      "title": "Ultralujo en Baleares por el eclipse solar: de la noche de hotel a 3.500 euros al ‘pack’ por 200.000",
+      "link": "https://www.lavanguardia.com/vida/20260811/11611524/ultralujo-baleares-eclipse-noche-hotel-3-500-euros-pack-200-000.html",
+      "desc": "Establecimientos turísticos exclusivos ofrecen paseos en jet privado, globo, yate y cenas con chefs, entre otros servicios para el día del evento astronómico",
+      "date": "11 Aug 2026 06:00:00 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
+    {
+      "title": "Cómo componer una foto memorable del eclipse sin quemar tu cámara ni tus ojos",
+      "link": "https://www.lavanguardia.com/vida/20260811/11610820/como-componer-foto-memorable-eclipse-quemar-camara-tus-ojos.html",
+      "desc": "Hay aspectos de seguridad que deben tenerse muy en cuenta, sobre todo si se usa una cámara réflex con visor óptico",
+      "date": "11 Aug 2026 06:00:00 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
+    {
+      "title": "El arte del eclipse: una fascinación milenaria",
+      "link": "https://www.lavanguardia.com/cultura/20260811/11611048/eclipse-solar-cultura-hechizo-cielo.html",
+      "desc": "El fenómeno astronómico y sus metáforas se plasman en la obra de escritores, cineastas, músicos y pintores",
+      "date": "11 Aug 2026 06:00:00 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
+    {
+      "title": "La escasez de ‘slots’ y de aviones desata una batalla entre aerolíneas en Europa",
+      "link": "https://www.lavanguardia.com/economia/20260811/11611537/escasez-slots-aviones-desata-batalla-aerolineas-europa.html",
+      "desc": "La compra de Easyjet anticipa nuevas operaciones y presiones sobre los billetes",
+      "date": "11 Aug 2026 06:00:00 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
+    {
+      "title": "El Gobierno evita las tensiones con Marruecos",
+      "link": "https://www.lavanguardia.com/politica/20260811/11611572/gobierno-evita-tensiones-marruecos.html",
+      "desc": "Los ministros visitan Ceuta pero evitan el choque con el Reino Alauí",
+      "date": "11 Aug 2026 06:00:00 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
+    {
+      "title": "China es la nueva gran potencia petrolera mundial",
+      "link": "https://www.lavanguardia.com/economia/20260811/11611233/china-petroleo-opep-ormuz.html",
+      "desc": "Ya no es la OPEP quien marca el rumbo a los mercados, sino el Partido Comunista chino",
+      "date": "11 Aug 2026 06:00:00 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
+    {
+      "title": "Trump cambió de avión en secreto ante una amenaza de asesinato de Irán en Ankara",
+      "link": "https://www.lavanguardia.com/internacional/20260811/11611756/trump-cambio-avion-secreto-amenaza-asesinato-iran-cumbre-otan-ankara.html",
+      "desc": "El presidente fue trasladado en un carro de comida desde el Air Force One a un avión C-32 de la Fuerza Aérea después de que el Servicio Secreto detectara una amenaza creíble procedente de Teherán",
+      "date": "11 Aug 2026 05:16:04 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
+    {
+      "title": "Huelva, epicentro de los incendios andaluces en los últimos años: más de 28.000 hectáreas afectadas sólo este verano",
       "link": "https://www.abc.es/espana/andalucia/huelva/huelva-agujero-negro-incendios-andaluces-ultimos-anos-20260811015944-nts.html",
       "desc": "El fuego castiga salvajemente a Huelva . Las llamas devoran parte del territorio de Niebla y en su extensión ha provocado ya el desalojo de varias aldeas. Las columnas de humo se vislumbran desde las localidades cercanas y hasta se perciben en las provincias v",
       "date": "Tue, 11 Aug 2026 01:59:44 +0200",
@@ -77,166 +237,6 @@
       "link": "https://www.lavanguardia.com/opinion/20260811/11611237/geopolitica-marruecos.html",
       "desc": "EE.UU. busca ‘estados corsarios’ a los que subrogar asuntos escabrosos",
       "date": "11 Aug 2026 00:30:00 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "Borgen mira a España",
-      "link": "https://www.lavanguardia.com/opinion/20260811/11611536/borgen-mira-espana.html",
-      "desc": "Europa se enfrenta a amenazas mayores que la crisis migratoria de Ceuta",
-      "date": "11 Aug 2026 00:00:00 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "El PP usará el Senado para retratar al PSOE ante el abuso de poder en Nicaragua",
-      "link": "https://www.abc.es/espana/pp-usara-senado-retratar-psoe-ante-abuso-20260809235920-nt.html",
-      "desc": "Tras décadas de deriva autoritaria, el pasado domingo 19 de julio, en plena celebración del Triunfo de la Revolución Popular Sandinista de 1979, el tándem conformado por Daniel Ortega y Rosario Murillo , presidente y primera dama (de facto, copresidenta) retir",
-      "date": "Mon, 10 Aug 2026 23:59:20 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "San Lorenzo, el calor y el fervor invitan a mirar al cielo en Córdoba",
-      "link": "https://www.abc.es/espana/andalucia/cordoba/semana-santa/san-lorenzo-calor-fervor-invitan-mirar-cielo-20260810122917-nts.html",
-      "desc": "«Dadme la vuelta, que por este lado ya estoy hecho». Se dice que la sorprendente frase la pronunció San Lorenzo en mitad del crudo martirio que estaba padeciendo en una parrilla, el día en que murió, un 10 de agosto. Esta fecha la tienen muy presentes la herma",
-      "date": "Mon, 10 Aug 2026 22:59:49 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "La Junta gestiona la manutención y hospedaje de los familiares de las víctimas del incendio de Los Gallardos",
-      "link": "https://www.abc.es/espana/andalucia/almeria/junta-gestiona-manutencion-hospedaje-familiares-victimas-incendio-20260810221917-nts.html",
-      "desc": "La Junta de Andalucía está gestionando la manutención y hospedaje para las victimas de los incendios de Los Gallardo (Almería) que se cobró la vida de 14 personas , en su mayoría extranjeros. El delegado del Gorbierno andaluz, Francisco Góngora, ha trasladado ",
-      "date": "Mon, 10 Aug 2026 22:19:17 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Los efectivos se centran en evitar que el incendio salte a la provincia de Sevilla",
-      "link": "https://www.abc.es/espana/andalucia/huelva/incendio-niebla-20260810202751-nts.html",
-      "desc": "El combate al incendio de Niebla, que ya ha recorrido 20.000 hectáreas de forma peligrosa e imprevisible debido a los vientos, se centra ahora en evitar que las llamas vayan más allá del municipio onubense del Berrocal y lleguen así a entrar en la provincia de",
-      "date": "Mon, 10 Aug 2026 22:03:37 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Shakira, J Balvin, Maluma y otros famosos colombianos se vuelcan con su país tras el terremoto",
-      "link": "https://www.lavanguardia.com/gente/20260810/11611605/shakira-j-balvin-maluma-otros-famosos-colombianos-vuelcan-pais-terremoto.html",
-      "desc": "Los artistas han utilizado sus redes sociales para expresar su preocupación por los afectados y difundir mensajes de apoyo y vías de ayuda tras el seísmo",
-      "date": "10 Aug 2026 21:33:02 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "Viento y rocas entre las que se 'esconden' las llamas, principales dificultades en el incendio de Segovia",
-      "link": "https://www.abc.es/espana/castilla-leon/viento-rocas-esconden-llamas-principales-dificultades-incendio-20260810204631-nt.html",
-      "desc": "Un terreno de pasto ya muy seco en el que el incendio podía correr a gran velocidad impulsado por las fuertes rachas de viento, salpicado de encinas que servían para alimentar aún más al fuego y los grandes bloques de granito de esta zona en los pies de la sie",
-      "date": "Mon, 10 Aug 2026 20:46:31 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Jaén ultima los cambios previstos en el tráfico por la puesta en marcha del tranvía",
-      "link": "https://www.abc.es/espana/andalucia/jaen/cambios-previstos-trafico-jaen-tranvia-espera-especificaciones-20260810183841-nts.html",
-      "desc": "El Ayuntamiento de Jaén está completando los trabajos para atender las necesidades, especialmente en materia de control de tráfico, señalización vertical y señalización semafórica que se han detectado, para proceder a los cambios en la ordenación del tráfico c",
-      "date": "Mon, 10 Aug 2026 20:37:13 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Un menú manchego para vivir el eclipse total de sol desde el observatorio de La Hita",
-      "link": "https://www.abc.es/espana/castilla-la-mancha/toledo/pueblos/menu-manchego-vivir-eclipse-total-sol-observatorio-20260810203519-nt.html",
-      "desc": "El eclipse total de sol del próximo miércoles 12 de agosto también se podrá disfrutar alrededor de una mesa en la provincia de Toledo. El complejo astronómico de La Hita, en La Villa de Don Fadrique, combinará astronomía y gastronomía durante una jornada en la",
-      "date": "Mon, 10 Aug 2026 20:35:19 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Cuatro encapuchados con un hacha y un extintor asaltan el Decathlon del centro comercial Nassica",
-      "link": "https://www.abc.es/espana/madrid/cuatro-encapuchados-hacha-extintor-asaltan-decathlon-centro-20260810194319-nt.html",
-      "desc": "Nuevo atraco el registrado a media tarde de este lunes en un centro comercial de Madrid, esta vez en el Nassica de Getafe, donde al menos cuatro encapuchados han irrumpido en la tienda deportiva Decathlon. Y lo han hecho armados con un hacha y un extintor, los",
-      "date": "Mon, 10 Aug 2026 20:23:05 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Una docena de detenidos y 1.500 kilos de cocaína incautados en una operación antidroga en Muxía",
-      "link": "https://www.abc.es/espana/galicia/docena-detenidos-1500-kilos-cocaina-incautados-operacion-20260810202029-nt.html",
-      "desc": "Varias personas han sido detenidas este lunes en el marco de un gran operativo contra el narcotráfico con epicentro en la localidad de Muxía, en la comarca coruñesa de la Costa da Morte. Las actuaciones se habrían saldado por el momento con más de una docena d",
-      "date": "Mon, 10 Aug 2026 20:21:37 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Jacobo Martí da el primer paso en su recuperación tras ser intervenido con éxito de su grave lesión de rodilla",
-      "link": "https://www.abc.es/espana/andalucia/cordoba/cordoba-cf/jacobo-marti-primer-paso-recuperacion-tras-intervenido-20260810201640-nts.html",
-      "desc": "Jacobo Martí ya ha dado el primer paso de un largo camino hacia su regreso a los terrenos de juego. El lateral del Córdoba CF ha sido intervenido con éxito este lunes 10 de agosto de la lesión que presentaba en el ligamento cruzado anterior y el menisco que su",
-      "date": "Mon, 10 Aug 2026 20:18:59 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "La artista coreana Sohee Park se incorpora al festival Flora para sustituir a Tulipina",
-      "link": "https://www.abc.es/espana/andalucia/cordoba/artista-coreana-sohee-park-incorpora-festival-flora-20260810195737-nts.html",
-      "desc": "Sohee Park es la nueva artista confirmada para FLORA 2026. La artista coreana sustituirá a Tulipina, que no podrá participar en el festival por motivos ajenos a la organización. Park creará su instalación en el majestuoso Patio de los Naranjos de la Mezquita-C",
-      "date": "Mon, 10 Aug 2026 19:57:38 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Carlos Martínez, sobre la crisis migratoria: «Vox vuelve a marcar la agenda institucional de Castilla y León»",
-      "link": "https://www.abc.es/espana/castilla-leon/carlos-martinez-sobre-crisis-migratoria-vox-vuelve-20260810194833-nt.html",
-      "desc": "El secretario general del Partido Socialista de Castilla y León, Carlos Martínez, afirmó hoy que «estamos viviendo cómo, una vez más, Vox vuelve a marcar la agenda institucional de Castilla León», ante la crisis migratoria y humanitaria registrada en Ceuta des",
-      "date": "Mon, 10 Aug 2026 19:48:33 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Un juzgado investiga la compra del ático de Chamberí por la Comunidad de Madrid",
-      "link": "https://www.abc.es/espana/madrid/juzgado-investiga-compra-atico-chamberi-comunidad-madrid-20260810194353-nt.html",
-      "desc": "El juzgado de instrucción número 8 de Madrid se encuentra investigando cinco denuncias presentadas contra la compra del ático en Chamberí por parte de la Comunidad de Madrid a través de la empresa pública Planifica Madrid y que iba a ser utilizado como oficina",
-      "date": "Mon, 10 Aug 2026 19:43:54 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Así ha temblado el aeropuerto de Pereira durante el terremoto de magnitud 7,4 en Colombia",
-      "link": "https://www.lavanguardia.com/internacional/20260810/11611565/asi-temnblado-aeopuerto-pereira-terremoto-magnitud-7-4-colombia.html",
-      "desc": "Siete aeródromos, incluido el de Pereira, han cerrado sus operaciones por los daños registrados en las terminales",
-      "date": "10 Aug 2026 19:17:11 +0200",
       "source": "La Vanguardia",
       "color": "#8e44ad",
       "feedId": "LaVanguardia",
