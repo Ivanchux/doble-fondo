@@ -1,7 +1,87 @@
 {
-  "updated": "2026-08-10T22:31:35Z",
+  "updated": "2026-08-11T01:16:57Z",
   "count": 24,
   "items": [
+    {
+      "title": "Huelva, epicentro de los incendios andaluces en los últimos años: 16.500 hectáreas quemadas sólo este verano",
+      "link": "https://www.abc.es/espana/andalucia/huelva/huelva-agujero-negro-incendios-andaluces-ultimos-anos-20260811015944-nts.html",
+      "desc": "El fuego castiga salvajemente a Huelva . Las llamas devoran parte del territorio de Niebla y en su extensión ha provocado ya el desalojo de varias aldeas. Las columnas de humo se vislumbran desde las localidades cercanas y hasta se perciben en las provincias v",
+      "date": "Tue, 11 Aug 2026 01:59:44 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Talleres sociales para reducir la brecha digital de 6.250 menores vulnerables",
+      "link": "https://www.abc.es/espana/madrid/madrid-forma-competencias-digitales-6250-menores-vulnerables-20260810013000-nt.html",
+      "desc": "La Comunidad de Madrid ha formado en competencias digitales a 6.250 niños y adolescentes en situación de vulnerabilidad social entre 2024 y el primer semestre de 2026, dentro del programa 'TIC y TAC', una iniciativa que busca reducir la brecha digital y dotar ",
+      "date": "Tue, 11 Aug 2026 01:30:00 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "270 metros de sangre tras el crimen por celos de Vallecas: «El barrio está perdido»",
+      "link": "https://www.abc.es/espana/madrid/270-metros-sangre-tras-crimen-celos-vallecas-20260810012951-nt.html",
+      "desc": "La sangre todavía marca las calles de Puente de Vallecas . Gotas de distintos tamaños salpican el asfalto y dibujan un recorrido irregular de, al menos, 270 metros: desde las inmediaciones de las calles de Puerto Alto y Ramón Calabuig, donde culminó la reyerta",
+      "date": "Tue, 11 Aug 2026 01:29:51 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Maurizio Ambrosini: «Sánchez regulariza la inmigración silenciosa, pero la dramática, no»",
+      "link": "https://www.abc.es/espana/maurizio-ambrosini-sanchez-regulariza-inmigracion-silenciosa-dramatica-20260811011943-nt.html",
+      "desc": "Cuando la efervescencia entre Madrid y Roma alza el tono y sobrepasa unos límites inexplorados, quizás lo mejor es parar para entender qué ha sucedido hasta llegar aquí. A este fuego amigo entre Giorgia Meloni y Pedro Sánchez, declarándose recíprocamente venga",
+      "date": "Tue, 11 Aug 2026 01:19:43 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Familias ceutíes trasladan a sus hijos a la Península por miedo a la situación",
+      "link": "https://www.abc.es/espana/familias-ceuties-trasladan-hijos-menores-peninsula-miedo-20260811011730-nt.html",
+      "desc": "La situación en Ceuta , con miles de inmigrantes deambulando por la ciudad, dista mucho de la normalidad que se vivía antes de la avalancha del 30 de julio. Por eso, explica Sam, «no queremos que nuestros jóvenes y niños estén aquí. Hay miedo a ir por las call",
+      "date": "Tue, 11 Aug 2026 01:17:30 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Cien pulseras contra golpes de calor para los operarios de limpieza de Alcalá: «Me siento más tranquila»",
+      "link": "https://www.abc.es/espana/madrid/alcala-reparte-pulseras-inteligentes-golpes-calor-trabajadores-20260805010824-nt.html",
+      "desc": "Desde hace una semana, Pedro trabaja con un nuevo compañero inteligente en la muñeca. No señala la hora, ni cuenta los pasos realizados o las calorías consumidas. Su única función es avisar en caso de que las altas temperaturas se conviertan en peligro para la",
+      "date": "Tue, 11 Aug 2026 01:08:24 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Geopolítica de Marruecos",
+      "link": "https://www.lavanguardia.com/opinion/20260811/11611237/geopolitica-marruecos.html",
+      "desc": "EE.UU. busca ‘estados corsarios’ a los que subrogar asuntos escabrosos",
+      "date": "11 Aug 2026 00:30:00 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
+    {
+      "title": "Borgen mira a España",
+      "link": "https://www.lavanguardia.com/opinion/20260811/11611536/borgen-mira-espana.html",
+      "desc": "Europa se enfrenta a amenazas mayores que la crisis migratoria de Ceuta",
+      "date": "11 Aug 2026 00:00:00 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
     {
       "title": "El PP usará el Senado para retratar al PSOE ante el abuso de poder en Nicaragua",
       "link": "https://www.abc.es/espana/pp-usara-senado-retratar-psoe-ante-abuso-20260809235920-nt.html",
@@ -123,16 +203,6 @@
       "caso": "other"
     },
     {
-      "title": "El Supremo excluye de las elecciones al opositor Yábloko, único partido contra la guerra",
-      "link": "https://www.lavanguardia.com/internacional/20260810/11611579/el-supremo-ruso-excluye-de-las-elecciones-al-opositor-yabloko-unico-partido-que-se-opone-a-la-guerra-en-ucrania.html",
-      "desc": "El alto tribunal acepta la demanda del partido ultranacionalista Ródina, que acusa a la formación liberal de violar derechos de autor, “extremismo” y estar respaldada por Occidente",
-      "date": "10 Aug 2026 19:54:04 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
       "title": "Carlos Martínez, sobre la crisis migratoria: «Vox vuelve a marcar la agenda institucional de Castilla y León»",
       "link": "https://www.abc.es/espana/castilla-leon/carlos-martinez-sobre-crisis-migratoria-vox-vuelve-20260810194833-nt.html",
       "desc": "El secretario general del Partido Socialista de Castilla y León, Carlos Martínez, afirmó hoy que «estamos viviendo cómo, una vez más, Vox vuelve a marcar la agenda institucional de Castilla León», ante la crisis migratoria y humanitaria registrada en Ceuta des",
@@ -167,76 +237,6 @@
       "link": "https://www.abc.es/espana/andalucia/malaga/limasam-activara-dispositivo-especial-limpieza-feria-malaga-20260810162003-nts.html",
       "desc": "La empresa municipal de limpieza de Málaga, Limasam, desplegará un dispositivo especial durante la Feria 2026 en el que se incluye un total de 500 puestos de trabajo , de entre los cuales 320 son adicionales. Del mismo modo, se mantendrá activo el servicio de ",
       "date": "Mon, 10 Aug 2026 19:03:06 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "La Junta invierte 120 millones de euros para la rehabilitación integral de 22 edificios públicos",
-      "link": "https://www.abc.es/espana/andalucia/junta-invierte-120-millones-euros-rehabilitacion-integral-20260810185839-nts.html",
-      "desc": "La Junta de Andalucía ha anunciado una inversión de 120 millones de euros para la rehabilitación integral de 22 edificios públicos . Una movilización que ha enmarcado dentro de los objetivos comprometidos con la Unión Europea en el Programa de Impulso a la Reh",
-      "date": "Mon, 10 Aug 2026 18:58:40 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "¿Por qué los medios no se ponen de acuerdo en cuántas olas de calor llevamos este verano?",
-      "link": "https://www.lavanguardia.com/vida/verificacion/20260810/11611548/medios-ponen-acuerdo-olas-calor-llevamos-verano.html",
-      "desc": "La definición es distinta en Catalunya y España, y los criterios para emitir avisos no son los mismos que para evaluar los fenómenos posteriormente",
-      "date": "10 Aug 2026 18:50:41 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "Estas son las calles de Guadalajara en las que este martes se cortará el agua",
-      "link": "https://www.abc.es/espana/castilla-la-mancha/calles-guadalajara-martes-cortara-agua-20260810183611-nt.html",
-      "desc": "El Ayuntamiento de Guadalajara ha informado que este martes, 11 de agosto, debido a trabajos de mantenimiento en la red de abastecimiento, se va a realizar un corte del suministro de agua en varias calles de la ciudad. En concreto, será en la avenida Cristóbal",
-      "date": "Mon, 10 Aug 2026 18:36:11 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "El alcalde de Chipiona pide un incremento económico a las instituciones al pasar de 20.000 a 200.000 habitantes en verano",
-      "link": "https://www.abc.es/espana/andalucia/cadiz/alcalde-chipiona-pide-incremento-economico-instituciones-garantizar-20260810175552-nts.html",
-      "desc": "Las playas de Cádiz se han convertido en unos de los destinos favoritos para esta vacaciones, ejemplo de ello es el pueblo de Chipiona, que ha visto incrementado su población por diez debido al turismo, pasando de 20.000 habitantes a 200.000. Por ello, el alca",
-      "date": "Mon, 10 Aug 2026 18:20:10 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "El despliegue de seguridad de las fiestas de agosto: más de 1.100 policías, 100 sanitarios y 400 limpiadores",
-      "link": "https://www.abc.es/espana/madrid/despliegue-seguridad-fiestas-agosto-1100-policias-100-20260810181428-nt.html",
-      "desc": "Madrid no solo se viste de verbena para celebrar las fiestas de agosto, sino también de uniforme. Las celebraciones en honor a San Lorenzo, San Cayetano y La Paloma contarán con casi 1.300 efectivos de seguridad, entre Policía Municipal y Samur-Protección Civi",
-      "date": "Mon, 10 Aug 2026 18:15:19 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Olías del Rey refuerza la inclusión en sus campamentos de verano con monitores especializados",
-      "link": "https://www.abc.es/espana/castilla-la-mancha/toledo/pueblos/olias-rey-refuerza-inclusion-campamentos-verano-monitores-20260810180648-nt.html",
-      "desc": "Los campamentos de verano de Olías del Rey afrontan este año una nueva edición con una apuesta reforzada por la inclusión, tal y como ha informado el Ayuntamiento en nota de prensa. Más de 330 niños y niñas participan durante estos meses en las actividades org",
-      "date": "Mon, 10 Aug 2026 18:06:48 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Estabilizado el incendio forestal en la sierra de Luque",
-      "link": "https://www.abc.es/espana/andalucia/cordoba/actuan-incendio-forestal-activo-sierra-luque-20260810180041-nts.html",
-      "desc": "El Plan Infoca declaró un incendio activo en la tarde de este lunes en el término municipal de Luque, en Córdoba. En concreto, el fuego se ha originado en el paraje Cerro del Algarrobo. Hasta la zona, por el momento, se han desplazado dos helicópteros ligeros,",
-      "date": "Mon, 10 Aug 2026 18:00:42 +0200",
       "source": "ABC",
       "color": "#c0392b",
       "feedId": "ABC",
