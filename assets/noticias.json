@@ -1,7 +1,67 @@
 {
-  "updated": "2026-08-12T01:24:51Z",
+  "updated": "2026-08-12T04:01:55Z",
   "count": 24,
   "items": [
+    {
+      "title": "Eclipse total solar en Valencia hoy: dónde ver, a qué hora es, duración y mejores pueblos para observarlo",
+      "link": "https://www.abc.es/espana/comunidad-valenciana/eclipse-total-valencia-hoy-ver-hora-duracion-20260812163507-nt.html",
+      "desc": "La Comunidad Valenciana se prepara para vivir este miércoles, 12 de agosto, uno de los acontecimientos astronómicos más importantes del siglo. Las provincias de Valencia y Castellón son dos de las mejores provincias de España para contemplar el primer eclipse ",
+      "date": "Wed, 12 Aug 2026 05:45:04 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Cercanías y Consorcio Regional de Transportes refuerzan hoy sus trenes y buses en Madrid por el eclipse solar: líneas y estaciones afectadas",
+      "link": "https://www.abc.es/espana/madrid/cercanias-consorcio-regional-transportes-refuerzan-hoy-trenes-20260812053000-nt.html",
+      "desc": "El 12 de agosto de 2026 queda para siempre en la mente de los españoles por ser el día en del primer eclipse solar total que se ve desde nuestro país desde 1912. Desde hace meses tanto científicos como aficionados llevan preparándose para recibir este fenómeno",
+      "date": "Wed, 12 Aug 2026 05:30:10 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Eclipse total solar en Ferrol hoy: a qué hora es, duración y mejor sitio para observarlo",
+      "link": "https://www.abc.es/espana/galicia/eclipse-total-ferrol-hoy-hora-duracion-mejor-20260812122006-ntp.html",
+      "desc": "Ferrol y su comarca aguardan con expectación la cita histórica del próximo 12 de agosto . La alineación entre la Luna y la estrella solar será visible de forma completa desde la ciudad departamental, donde el fenómeno ofrecerá un espectáculo de penumbra en ple",
+      "date": "Wed, 12 Aug 2026 05:30:09 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Eclipse total solar en Guadalajara hoy, 12 de agosto: dónde verlo, a qué hora es, duración y el mejor pueblo para observarlo",
+      "link": "https://www.abc.es/espana/castilla-la-mancha/eclipse-total-castillala-mancha-hoy-agosto-verlo-20260812190759-ntp.html",
+      "desc": "Castilla-La Mancha vivirá este miércoles uno de los acontecimientos astronómicos más importantes del siglo. El eclipse total de sol convertirá a Guadalajara en uno de los mejores lugares de Europa para contemplar este fenómeno excepcional. Miles de personas se",
+      "date": "Wed, 12 Aug 2026 05:15:01 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Eclipse total solar en Lugo hoy: dónde ver, a qué hora es, duración y mejor pueblo para observarlo",
+      "link": "https://www.abc.es/espana/galicia/eclipse-total-lugo-hoy-ver-hora-duracion-20260812121934-ntp.html",
+      "desc": "Galicia se prepara para vivir una jornada histórica este 12 de agosto con la llegada de un eclipse total de Sol, un acontecimiento astronómico sin precedentes recientes que cruzará la Península Ibérica de oeste a este. La provincia de Lugo se encuentra en una ",
+      "date": "Wed, 12 Aug 2026 05:10:02 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Eclipse total solar en Cuenca hoy: dónde verlo, a qué hora es, duración y los mejores lugares para observarlo",
+      "link": "https://www.abc.es/espana/castilla-la-mancha/eclipse-total-cuenca-hoy-verlo-hora-duracion-20260812194146-ntp.html",
+      "desc": "Cuenca será uno de los grandes escenarios del eclipse total de sol que podrá contemplarse este miércoles 12 de agosto. Buena parte de la provincia quedará dentro de la franja de totalidad, lo que permitirá observar cómo la Luna oculta completamente el Sol dura",
+      "date": "Wed, 12 Aug 2026 05:00:23 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
     {
       "title": "El Café Central celebra su primer año en el Ateneo con un programa especial de jazz",
       "link": "https://www.abc.es/espana/madrid/aniversario-cafe-central-jazz-eclipse-20260811013021-nt.html",
@@ -177,66 +237,6 @@
       "link": "https://www.abc.es/espana/andalucia/cordoba/cordoba-cf/cordoba-bano-cordobesismo-arcangel-plantilla-joven-podemos-20260811150855-nts.html",
       "desc": "El Arcángel empezó a recuperar este martes el ambiente de los días grandes. Con la grada de Preferencia abierta al público, cerca de un millar de aficionados acudieron al estadio para acompañar al Córdoba CF en el último entrenamiento a puerta abierta antes de",
       "date": "Tue, 11 Aug 2026 20:43:14 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Montoro vuelve a exhibir su título de ''sartén'' de España: lugar más caluroso en cuatro de los últimos seis días",
-      "link": "https://www.abc.es/espana/andalucia/cordoba/montoro-vuelve-exhibir-titulo-sarten-espana-lugar-20260811203614-nts.html",
-      "desc": "M ontoro está volviendo a exhibir su condición de ''sartén'' de España durante la vigente ola de calor. Según la información que ofrece la Agencia Estatal de Meteorología (Aemet), esta localidad cordobesa ha sido cuatro veces el municipio más caluroso de la na",
-      "date": "Tue, 11 Aug 2026 20:36:15 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Castilla-La Mancha activa el Platecam ante la llegada de miles de personas por el eclipse solar",
-      "link": "https://www.abc.es/espana/castilla-la-mancha/castillala-mancha-activa-platecam-ante-llegada-miles-20260811202047-nt.html",
-      "desc": "Castilla-La Mancha activará este miércoles, 12 de agosto, a las 10:00 horas, el Plan Territorial de Emergencia de Castilla-La Mancha (Platecam) en Fase de Alerta, Situación Operativa 0, ante la previsión de desplazamientos y concentraciones masivas de personas",
-      "date": "Tue, 11 Aug 2026 20:20:47 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Ciudad Real activa un dispositivo especial para proteger a las personas sin hogar ante el episodio de calor",
-      "link": "https://www.abc.es/espana/castilla-la-mancha/ciudad-real-activa-dispositivo-especial-proteger-personas-20260811201156-nt.html",
-      "desc": "El Ayuntamiento de Ciudad Real activará desde este miércoles, 12 de agosto, las medidas previstas en el Plan de Protección de Personas Sin Hogar por Fenómenos Meteorológicos Adversos ante el episodio de altas temperaturas anunciado para los próximos días. A tr",
-      "date": "Tue, 11 Aug 2026 20:11:56 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Este es el lugar de Toledo desde el que la ministra Tolón verá este miércoles el eclipse",
-      "link": "https://www.abc.es/espana/castilla-la-mancha/toledo/pueblos/lugar-toledo-ministra-tolon-vera-miercoles-eclipse-20260811195133-nt.html",
-      "desc": "La ministra de Educación, Formación Profesional y Deportes, Milagros Tolón , presenciará este miércoles, 12 de agosto, el eclipse total de Sol desde el Cerro Calderico de Consuegra, Toledo , en un acto organizado en este emblemático enclave toledano. El Minist",
-      "date": "Tue, 11 Aug 2026 19:51:34 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Granada ve «tradición y futuro» en sus comercios con solera, algunos ya centenarios",
-      "link": "https://www.abc.es/espana/andalucia/granada/granada-tradicion-futuro-comercios-solera-centenarios-20260811120016-nts.html",
-      "desc": "Granada es una ciudad en la que, contra viento y marea, algunos comercios han logrado sobrevivir más de un siglo. En general gozan de buena salud, además, lo que incluso les ha permitido expandirse. Sitios así forman parte del patrimonio granadino y deben prot",
-      "date": "Tue, 11 Aug 2026 19:49:41 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Uno de los clanes implicados en la reyerta mortal por celos se exilia de Vallecas: «Han vaciado el piso»",
-      "link": "https://www.abc.es/espana/madrid/huida-precipitada-piso-comenzo-reyerta-mortal-vallecas-20260811194718-nt.html",
-      "desc": "El bajo de la calle Ramón Calabuig, 25, donde los vecinos situaban el inicio de la reyerta mortal del pasado domingo , ha amanecido este martes vacío. Durante la madrugada, varios miembros de la familia de etnia gitana, que residía en el inmueble como supuesto",
-      "date": "Tue, 11 Aug 2026 19:47:18 +0200",
       "source": "ABC",
       "color": "#c0392b",
       "feedId": "ABC",
