@@ -1,7 +1,207 @@
 {
-  "updated": "2026-08-12T12:56:44Z",
+  "updated": "2026-08-12T14:52:20Z",
   "count": 24,
   "items": [
+    {
+      "title": "Madrid agilizará la gestión de incidencias de las viviendas públicas previstas para 2027",
+      "link": "https://www.abc.es/espana/madrid/madrid-agilizara-gestion-incidencias-viviendas-publicas-previstas-20260812163224-nt.html",
+      "desc": "La Empresa Municipal de Vivienda y Suelo de Madrid (EMVS Madrid) pondrá en funcionamiento de manera progresiva un nuevo sistema de gestión directa de incidencias en las 24 promociones previstas para 2027. Esta medida de atención al ciudadano permitirá asignar ",
+      "date": "Wed, 12 Aug 2026 16:32:25 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Buscan a una mujer en Córdoba a la que se perdió la pista este martes",
+      "link": "https://www.abc.es/espana/andalucia/cordoba/buscan-mujer-cordoba-perdio-pista-martes-20260812162900-nts.html",
+      "desc": "SOS Desaparecidos ha informado este miércoles de que se está buscando en Córdoba a una mujer , cuyo nombre es Beatriz, y a la que se le perdió la pista en la jornada del martes. Desde este colectivo se ha advertido del riesgo de la situación, ya que se trata d",
+      "date": "Wed, 12 Aug 2026 16:29:00 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Un muerto y dos heridos, uno de ellos de gravedad, en una colisión entre dos turismos en Villaselán (León)",
+      "link": "https://www.abc.es/espana/castilla-leon/muerto-dos-heridos-gravedad-colision-dos-turismos-20260812162627-nt.html",
+      "desc": "Una persona ha fallecido y otras dos han resultado heridas, una de ellas de carácter grave, en una colisión lateral entre dos turismos registrada en Villaselán (León), según informaba el Centro de Emergencias 112 de Castilla y León. El accidente se ha producid",
+      "date": "Wed, 12 Aug 2026 16:26:55 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Tres condenados a cinco años de cárcel por intentar matar a un hombre con un destornillador en Castellón",
+      "link": "https://www.abc.es/espana/comunidad-valenciana/tres-condenados-cinco-anos-carcel-intentar-matar-20260812161244-nt.html",
+      "desc": "La Sección Primera de la Audiencia Provincial de Castellón ha condenado a cinco años de prisión por un delito de homicidio en grado de tentativa con la atenuante de reparación del daño y la agravante de abuso de superioridad a cada uno de los tres hombres que ",
+      "date": "Wed, 12 Aug 2026 16:12:44 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Imbroda, a Marruecos: «¿Para qué queréis Ceuta y Melilla si se os escapan vuestros jóvenes?»",
+      "link": "https://www.abc.es/espana/imbroda-responde-marruecos-quereis-ceuta-melilla-podeis-20260812160013-nt.html",
+      "desc": "La polémica entre España y Marruecos vuelve a situar a Ceuta y Melilla en el centro del debate político. El presidente de esta última ciudad autónoma, Juan José Imbroda, ha respondido con dureza a las nuevas referencias marroquíes sobre el futuro de las dos ci",
+      "date": "Wed, 12 Aug 2026 16:00:13 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Illa se traslada al Observatorio del Ebro para ver el eclipse: «Viva la ciencia»",
+      "link": "https://www.abc.es/espana/cataluna/illa-traslada-observatorio-ebro-ver-eclipse-viva-20260812155135-nt.html",
+      "desc": "El presidente de la Generalitat de Cataluña, Salvador Illa, se ha desplazado al Observatorio del Ebro de Roquetas (Tarragona) para pasar la jornada del eclipse solar que se podrá ver, en su fase total, en la zona sur de la comunidad. En su intervención pública",
+      "date": "Wed, 12 Aug 2026 15:51:36 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "CCOO alerta de que solo uno de cada diez jóvenes logra emanciparse en Castilla-La Mancha",
+      "link": "https://www.abc.es/espana/castilla-la-mancha/ccoo-alerta-solo-diez-jovenes-logra-emanciparse-20260812154815-nt.html",
+      "desc": "Con motivo del Día Internacional de la Juventud , CCOO Castilla-La Mancha ha presentado un informe sobre la situación de las personas jóvenes en la región, que refleja una realidad marcada por los contrastes: aumenta el número de jóvenes que se incorporan al m",
+      "date": "Wed, 12 Aug 2026 15:48:16 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Las exigentes «normas» de un bar de Málaga: «Si te encuentras mal, vienes al trabajo, se corrobora y si es necesario te vas al médico»",
+      "link": "https://www.abc.es/espana/andalucia/malaga/exigentes-normas-bar-malaga-encuentras-mal-vienes-20260812154814-nts.html",
+      "desc": "Unas normas internas atribuidas a un establecimiento hostelero de Málaga están generando revuelo en las redes sociales por algunas de las exigencias dirigidas a sus trabajadores. El documento, presentado como un «manual de sala» , ha sido difundido por Soy Cam",
+      "date": "Wed, 12 Aug 2026 15:48:14 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "El asesino de la mujer trans de Marbella confiesa que la apuñaló en el pecho durante una pelea",
+      "link": "https://www.abc.es/espana/andalucia/malaga/asesino-mujer-trans-marbella-confiesa-apunalo-pecho-20260812153701-nts.html",
+      "desc": "La plaza número 3 de la Sección de Instrucción del Tribunal de Instancia de Marbella, en funciones de guardia, ha decretado que ingrese en prisión provisional , comunicada y sin fianza el hombre detenido por haber matado a su pareja en San Pedro Alcántara. El ",
+      "date": "Wed, 12 Aug 2026 15:37:02 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "El emotivo adiós de Messi a su padre: “No sé si seguiré jugando durante mucho tiempo más”",
+      "link": "https://www.lavanguardia.com/deportes/fc-barcelona/20260812/11612677/te-amo-pa-emotivo-mensaje-despedida-leo-messi-padre-fallecimiento.html",
+      "desc": "“Fuiste papa, amigo y representante” señala el jugador. “Yo solo jugaba al fútbol”&nbsp; y ahora&nbsp; “no sé qué voy a hacer sin vos, no sé cómo seguir” reconoce",
+      "date": "12 Aug 2026 15:36:16 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
+    {
+      "title": "Agudo acusa a Page de convertir la sanidad de Castilla-La Mancha en «la de las excusas»",
+      "link": "https://www.abc.es/espana/castilla-la-mancha/agudo-acusa-page-convertir-sanidad-castillala-mancha-20260812153009-nt.html",
+      "desc": "La secretaria general y portavoz parlamentaria del Partido Popular de Castilla-La Mancha, Carolina Agudo, ha acusado este miércoles al presidente regional, Emiliano García-Page , de haber convertido la sanidad de Castilla-La Mancha en la «sanidad de las excusa",
+      "date": "Wed, 12 Aug 2026 15:30:10 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "El eclipse empieza a colapsar Mallorca: primeros cortes  y accesos restringidos",
+      "link": "https://www.abc.es/espana/baleares/eclipse-empieza-colapsar-mallorca-primeros-cortes-accesos-20260812152027-nt.html",
+      "desc": "La jornada del eclipse solar total ha comenzado este miércoles en Baleares con los primeros cortes de carreteras y restricciones de acceso a algunos de los enclaves donde se espera una mayor concentración de personas durante las próximas horas. El dispositivo ",
+      "date": "Wed, 12 Aug 2026 15:20:27 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Eclipse total solar en Valencia hoy: dónde ver, a qué hora es, duración y mejores pueblos para observarlo",
+      "link": "https://www.abc.es/espana/comunidad-valenciana/eclipse-total-valencia-hoy-ver-hora-duracion-20260812163507-nt.html",
+      "desc": "La Comunidad Valenciana se prepara para vivir este miércoles, 12 de agosto, uno de los acontecimientos astronómicos más importantes del siglo. Las provincias de Valencia y Castellón son dos de las mejores provincias de España para contemplar el primer eclipse ",
+      "date": "Wed, 12 Aug 2026 15:19:42 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Eclipse total solar en Canarias hoy: dónde ver, a qué hora es, duración y mejor isla para observarlo",
+      "link": "https://www.abc.es/espana/canarias/eclipse-total-canarias-hoy-ver-hora-duracion-20260812114004-nt.html",
+      "desc": "El próximo 12 de agosto de 2026, el cielo ofrecerá uno de los grandes espectáculos astronómicos del año con un eclipse solar que atravesará España y convertirá buena parte del país en escenario de un acontecimiento histórico. Este eclipse solar de 2026 permiti",
+      "date": "Wed, 12 Aug 2026 15:18:41 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Guadalajara llevará a votación 35 proyectos de los Presupuestos Participativos por 600.000 euros",
+      "link": "https://www.abc.es/espana/castilla-la-mancha/guadalajara-llevara-votacion-proyectos-presupuestos-participativos-600000-20260812143731-nt.html",
+      "desc": "Guadalajara someterá a votación en septiembre un total de 35 propuestas dentro de los Presupuestos Participativos 2026-2027, que cuentan con una dotación de 600.000 euros. El concejal de Participación Ciudadana, Roberto Narro, ha destacado que se trata de una ",
+      "date": "Wed, 12 Aug 2026 15:16:16 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Marlaska ordena pedir la expulsión judicial inmediata para los inmigrantes que cometan delitos en Ceuta",
+      "link": "https://www.abc.es/espana/marlaska-ordena-pedir-expulsion-judicial-inmediata-migrantes-20260812150639-nt.html",
+      "desc": "El ministro del Interior, Fernando Grande-Marlaska , ha emitido una orden directa y estricta a las Fuerzas y Cuerpos de Seguridad del Estado para que soliciten la autorización judicial de expulsión inmediata para aquellos inmigrantes en situación irregular que",
+      "date": "Wed, 12 Aug 2026 15:06:39 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Los juzgados de Ceuta tramitan tres casos de agresión sexual vinculados a inmigrantes que entraron de forma ilegal",
+      "link": "https://www.abc.es/espana/andalucia/juzgados-ceuta-tramitan-tres-casos-agresion-sexual-20260812150217-nts.html",
+      "desc": "Tres. Ese es el número de casos que hasta el momento se han tramitado en los juzgados de Ceuta por presuntas agresiones sexuales cometidas por inmigrantes ilegales que llegaron a la ciudad el pasado 30 de julio durante la entrada masiva desde Marruecos de más ",
+      "date": "Wed, 12 Aug 2026 15:02:17 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "El legendario pianista Grigory Sokolov estrena Escena Escorial",
+      "link": "https://www.abc.es/espana/madrid/legendario-pianista-grigory-sokolov-estrena-escena-escorial-20260812141555-nt.html",
+      "desc": "El próximo sábado, el Teatro Auditorio San Lorenzo de El Escorial celebrará un recital extraordinario a cargo del prestigioso pianista ruso Grigory Sokolov , que está recorriendo España con una gira veraniega y será el encargado de dar el pistoletazo de salida",
+      "date": "Wed, 12 Aug 2026 15:02:02 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Aquasella Fest 2026: cartel por días, horarios y cómo llegar al festival de Cangas de Onís",
+      "link": "https://www.abc.es/espana/asturias/aquasella-fest-2026-cartel-dias-horarios-llegar-20260813151502-nt.html",
+      "desc": "Un verano más, el Valle de la Música , en Arriondas (Asturias), se transforma en el punto de encuentro de miles de amantes de la música electrónica. Sigue así una tradición que comenzó en 1997, cuando una pequeña rave vinculada al Descenso Internacional del Se",
+      "date": "Wed, 12 Aug 2026 14:47:14 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Castilla-La Mancha reclama financiación y tiempo para afrontar la tensión de su sistema de protección de menores",
+      "link": "https://www.abc.es/espana/castilla-la-mancha/castillala-mancha-reclama-financiacion-tiempo-afrontar-tension-20260812144443-nt.html",
+      "desc": "La llegada de menores migrantes procedentes de otros puntos del país ha llevado al sistema de protección de Castilla-La Mancha a una situación que el Gobierno regional califica ya de «un poco tensionada» . La directora general de Infancia y Familia, Inma Tello",
+      "date": "Wed, 12 Aug 2026 14:44:43 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
     {
       "title": "Eclipse en Canarias: checklist de cómo comprobar si las gafas están homologadas antes de mirar al sol",
       "link": "https://www.abc.es/espana/canarias/eclipse-canarias-checklist-comprobar-gafas-homologadas-mirar-20260812144339-nt.html",
@@ -13,230 +213,30 @@
       "caso": "other"
     },
     {
-      "title": "Renfe adelanta los primeros Avant de la mañana entre Puertollano, Ciudad Real y Madrid",
-      "link": "https://www.abc.es/espana/castilla-la-mancha/renfe-adelanta-primeros-avant-puertollano-ciudad-real-20260812144115-nt.html",
-      "desc": "Renfe modificará, a partir del próximo lunes 7 de septiembre , los horarios de los primeros servicios del Avant que conectan Puertollano y Ciudad Real con Madrid , con el objetivo de adaptar la oferta a las necesidades de movilidad de los viajeros que se despl",
-      "date": "Wed, 12 Aug 2026 14:41:15 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Los fuertes vientos de la tarde y el eclipse condicionan el operativo contra el incendio en Niebla",
-      "link": "https://www.abc.es/espana/andalucia/fuertes-vientos-tarde-eclipse-condicionan-operativo-incendio-20260812143205-nts.html",
-      "desc": "El operativo desplegado contra el incendio forestal de Niebla ha contenido durante la noche varias reactivaciones y saltos tras trabajar de forma simultánea en cuatro sectores. El fuego, que continúa activo, mantiene dos zonas con mayor actividad y por tanto, ",
-      "date": "Wed, 12 Aug 2026 14:32:05 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "RUGE desmonta en Toledo el «bulo» de que los jóvenes son más de extrema derecha",
-      "link": "https://www.abc.es/espana/castilla-la-mancha/toledo/ruge-desmonta-toledo-bulo-jovenes-extrema-derecha-20260812142715-nt.html",
-      "desc": "RUGE, la organización juvenil de UGT, ha presentado este miércoles en Toledo un informe que cuestiona la idea de que los jóvenes se hayan vuelto más de extrema derecha o estén más radicalizados. El estudio 'Sociedad y valores: Desmontando el bulo del fascismo'",
-      "date": "Wed, 12 Aug 2026 14:27:16 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Turistas astronómicos de todo el mundo esperan ya en Paredes de Nava el «emocionante momento»",
-      "link": "https://www.abc.es/espana/castilla-leon/turistas-astronomicos-mundo-esperan-paredes-nava-emocionante-20260812142554-nt.html",
-      "desc": "Desde las diez de la mañana, preparados bajo la sombra para protegerse lo que pueden del sol, Richard y Gronie están ya en primer línea en lo alto de la loma elegida minuciosamente para no perderse detalle -ni ellos ni sus cámaras – del eclipse total de sol. R",
-      "date": "Wed, 12 Aug 2026 14:26:14 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "La ministra de Sanidad ayuda a reanimar a un bañista que se ahogaba en una piscina natural",
-      "link": "https://www.abc.es/espana/castilla-leon/ministra-sanidad-ayuda-reanimar-banista-ahogaba-piscina-20260812140732-nt.html",
-      "desc": "La ministra de Sanidad, Mónica García , participó el pasado sábado en labores de reanimación de un hombre de unos 75 años que se bañaba en una piscina natural de Villafranca del Bierzo (León) y que se encontró indispuesto. Además, permaneció inconsciente duran",
-      "date": "Wed, 12 Aug 2026 14:22:37 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Hallan ahorcado en su celda a un preso condenado por el asesinato de su mujer en 2016 en Asturias",
-      "link": "https://www.abc.es/espana/asturias/hallan-ahorcado-celda-preso-condenado-asesinato-mujer-20260812142105-nt.html",
-      "desc": "El cadáver del confitero avilesino condenado a 24 años de prisión por el asesinato de su mujer en 2016 ha sido localizado ahorcado en la celda donde cumplía condena en el Centro Penitenciario de El Dueso, en Cantabria, según han confirmado a Europa Press fuent",
-      "date": "Wed, 12 Aug 2026 14:21:06 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Una vecina de Ceuta pide a Robles que no les abandonen y critica el mensaje del Gobierno: «¿Qué normalidad es esta?»",
-      "link": "https://www.abc.es/espana/vecina-ceuta-pide-robles-abandonen-critica-mensaje-20260812135231-nt.html",
-      "desc": "«No se puede abandonar Ceuta». Con esta súplica se ha dirigido Pepi, una vecina de Ceuta, a la ministra de Defensa, Margarita Robles este miércoles más de una semana después de la crisis migratoria vivida por la ciudad. En un encuentro, la mujer le ha mostrado",
-      "date": "Wed, 12 Aug 2026 14:16:49 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "El primer juez del caso Leire entrega la investigación a la Audiencia Nacional",
-      "link": "https://www.abc.es/espana/primer-juez-leire-entrega-investigacion-audiencia-nacional-20260812141557-nt.html",
-      "desc": "El primer juez que abrió una investigación en Madrid por el caso Leire Díez ha acordado remitir la causa relacionada con presuntas maniobras de la exmilitante socialista contra jueces, fiscales y mandos de la Guardia Civil al magistrado de la Audiencia Naciona",
-      "date": "Wed, 12 Aug 2026 14:15:57 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "lei"
-    },
-    {
-      "title": "El Palacio de la Diputación de Toledo estrenará este viernes su nueva iluminación artística",
-      "link": "https://www.abc.es/espana/castilla-la-mancha/toledo/palacio-diputacion-toledo-estrenara-viernes-nueva-iluminacion-20260812140844-nt.html",
-      "desc": "La Diputación de Toledo estrenará este viernes, 14 de agosto, la nueva iluminación artística del Palacio Provincial, en un acto que tendrá lugar a las 22:00 horas y que permitirá descubrir por primera vez el resultado de la renovación del sistema de iluminació",
-      "date": "Wed, 12 Aug 2026 14:08:44 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Robles blinda Ceuta y Melilla frente a los reclamos de Rabat: «Son españolísimas»",
-      "link": "https://www.abc.es/espana/robles-blinda-ceuta-melilla-frente-reclamos-rabat-20260812140202-nt.html",
-      "desc": "Frente a un ministro del Interior, Fernando Grande-Marlaska, que ha incluso minimizado la declaración de intención pública practicada por parte de Marruecos, que reclama para sí Ceuta y Melilla —«esas referencias no tienen ningún alcance», ha dicho—, una minis",
-      "date": "Wed, 12 Aug 2026 14:02:02 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "La memoria selectiva del PSOE con El Algarrobico: del anuncio estelar de Montero a pedir prisa a Moreno",
-      "link": "https://www.abc.es/espana/andalucia/almeria/memoria-selectiva-psoe-algarrobico-anuncio-estelar-montero-20260812132940-nts.html",
-      "desc": "La polémica en torno al hotel El Algarrobico ha vuelto a abrir este miércoles un nuevo cruce de acusaciones entre el PSOE andaluz y la Junta de Andalucía. En esta ocasión el foco está puesto en quién debe ejecutar la demolición y en los compromisos anunciados ",
-      "date": "Wed, 12 Aug 2026 14:01:26 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "El Hospital Mancha Centro afronta su mayor reforma con una inversión de 67,9 millones",
-      "link": "https://www.abc.es/espana/castilla-la-mancha/hospital-mancha-centro-afronta-mayor-reforma-inversion-20260812135538-nt.html",
-      "desc": "El Hospital General Universitario Mancha Centro de Alcázar de San Juan, en Ciudad Real, se prepara para afrontar su mayor transformación desde su puesta en funcionamiento. El Gobierno de Castilla-La Mancha prevé adjudicar a principios de septiembre las obras d",
-      "date": "Wed, 12 Aug 2026 13:55:39 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Cámaras y helicópteros de la DGT vigilarán las  carreteras madrileñas con motivo del eclipse",
-      "link": "https://www.abc.es/espana/madrid/camaras-helicopteros-dgt-vigilaran-principales-carreteras-madrilenas-20260812135438-nt.html",
-      "desc": "El eclipse es, sin lugar a duda, el evento de este verano y miles de curiosos y aficionados se desplazarán al tercio norte de la Comunidad de Madrid, donde el acontecimiento se podrá contemplar en su totalidad. Por ello, la Dirección General de Tráfico (DGT) h",
-      "date": "Wed, 12 Aug 2026 13:54:39 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Cedillo destaca en Las Ventas de Retamosa los Talleres+ para formar y generar empleo",
-      "link": "https://www.abc.es/espana/castilla-la-mancha/toledo/pueblos/cedillo-destaca-ventas-retamosa-talleres-formar-generar-20260812135113-nt.html",
-      "desc": "La presidenta de la Diputación de Toledo, Concepción Cedillo, ha destacado en Las Ventas de Retamosa el valor de los Talleres+ como herramienta para generar oportunidades laborales y formación al tiempo que permite a los municipios mejorar sus servicios y espa",
-      "date": "Wed, 12 Aug 2026 13:51:14 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Muere un hombre de 62 años en accidente laboral en Jaén",
-      "link": "https://www.abc.es/espana/andalucia/jaen/muere-hombre-anos-accidente-laboral-jaen-20260812133238-nts.html",
-      "desc": "Un hombre de 62 años ha fallecido en la mañana de este miércoles en la localidad de Valdepeñas de Jaén como consecuencia de un accidente laboral , tras caer de un andamio en el que estaba trabajando. Sobre las 9 de la mañana se daba el aviso de que un vecino d",
-      "date": "Wed, 12 Aug 2026 13:45:45 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "El alcalde destaca el compromiso de Asprodeta con la inclusión de las personas con discapacidad intelectual",
-      "link": "https://www.abc.es/espana/castilla-la-mancha/toledo/talavera/alcalde-visita-asprodeta-destaca-compromiso-inclusion-calidad-20260812134306-nt.html",
-      "desc": "El alcalde de Talavera de la Reina , José Julián Gregorio, acompañado por la concejal de Discapacidad, Julia González, ha visitado las instalaciones de Asprodeta, donde ha podido conocer de primera mano el trabajo que desarrolla esta entidad para mejorar la ca",
-      "date": "Wed, 12 Aug 2026 13:43:07 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Personas ciegas también podrán disfrutar del eclipse a través del sonido",
-      "link": "https://www.abc.es/espana/cataluna/personas-ciegas-podran-disfrutar-eclipse-traves-sonido-20260812134247-nt.html",
-      "desc": "Personas ciegas o con discapacidad visual podrán disfrutar del eclipse total de Sol este miércoles. En la mayoría de puntos de observación habilitados en Cataluña habrá dispositivos LightSound, que transforman en sonidos los cambios en la intensidad de la luz ",
-      "date": "Wed, 12 Aug 2026 13:42:47 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Castilla y León eleva a 28 los focos de Newcastle tras detectar un nuevo brote en Nava de Arévalo (Ávila)",
-      "link": "https://www.abc.es/espana/castilla-leon/castilla-leon-eleva-focos-newcastle-tras-detectar-20260812134113-nt.html",
-      "desc": "Las autoridades veterinarias de la Junta de Castilla y León han notificado un nuevo foco de enfermedad de Newcastle en la comarca veterinaria de Arévalo (Ávila). La explotación afectada se ubica en Nava de Arévalo y tiene un censo de 39.000 pollos de engorde, ",
-      "date": "Wed, 12 Aug 2026 13:41:14 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "El Córdoba CF supera su récord de abonados y fija un nuevo techo social en 17.405 fieles para la temporada 2026-2027",
-      "link": "https://www.abc.es/espana/andalucia/cordoba/cordoba-cf/cordoba-supera-record-abonados-fija-nuevo-techo-20260812134020-nts.html",
-      "desc": "El Córdoba CF vuelve a demostrar que su crecimiento no se entiende únicamente desde el terreno de juego. La entidad blanquiverde ha establecido un nuevo récord histórico de abonados tras alcanzar los 17.405 socios para la temporada 2026-2027 , superando así la",
-      "date": "Wed, 12 Aug 2026 13:40:20 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Mallorca ya sufre los primeros problemas de tráfico en la Serra de Tramuntana",
-      "link": "https://www.lavanguardia.com/vida/20260812/11612599/mallorca-sufre-primeros-problemas-trafico-serra-tramuntana.html",
-      "desc": "Una carretera de la zona se cierra de manera anticipada y varios aparcamientos ya están llenos&nbsp;",
-      "date": "12 Aug 2026 12:48:53 +0200",
+      "title": "Consulta los horarios clave para ver el eclipse en los distintos puntos de la península",
+      "link": "https://www.lavanguardia.com/vida/20260812/11612588/consulta-horarios-clave-ver-eclipse-distintos-puntos-peninsula.html",
+      "desc": "Aquellos que no se quieran perder el acontecimiento astronómico del año deberán planificar tanto el lugar como las horas en las que tendrán lugar las distintas fases del ocultamiento del sol",
+      "date": "12 Aug 2026 14:07:53 +0200",
       "source": "La Vanguardia",
       "color": "#8e44ad",
       "feedId": "LaVanguardia",
       "caso": "other"
     },
     {
-      "title": "Cómo saber si unas gafas son adecuadas y están homologadas para ver el eclipse",
-      "link": "https://www.lavanguardia.com/vida/20260812/11612579/como-gafas-son-adecuadas-homologadas-ver-eclipse.html",
-      "desc": "Elena Salobrar, investigadora de la UCM, advierte de que durante un eclipse de Sol la “guardia baja” y el ojo está “más abierto y más expuesto”",
-      "date": "12 Aug 2026 12:41:16 +0200",
+      "title": "Marlaska esgrime “circunstancias obvias que se explican por sí solas” para no acudir al Senado",
+      "link": "https://www.lavanguardia.com/politica/20260812/11612617/marlaska-justifica-planton-senado-circunstancias-obvias-eclipse-pp-ceuta.html",
+      "desc": "El ministro del Interior insiste en su voluntad de dar todas las explicaciones en el Congreso el 28 de agosto",
+      "date": "12 Aug 2026 13:06:36 +0200",
       "source": "La Vanguardia",
       "color": "#8e44ad",
       "feedId": "LaVanguardia",
       "caso": "other"
     },
     {
-      "title": "Israel cancela su plan de construir una cárcel con cocodrilos en base a la ley de protección animal",
-      "link": "https://www.lavanguardia.com/internacional/20260812/11612587/israel-cancela-plan-contruir-carcel-cocodrilos-base-ley-proteccion-animal.html",
-      "desc": "La idea del ministro ultra Itamar Ben Gvir abre el debate sobre las condiciones de las prisiones israelíes",
-      "date": "12 Aug 2026 12:34:57 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "Valldemossa comunica que las gafas repartidas por el Ayuntamiento no son adecuadas",
-      "link": "https://www.lavanguardia.com/local/baleares/20260812/11612594/valldemossa-comunica-gafas-repartidas-ayuntamiento-son-adecuadas.html",
-      "desc": "El Consistorio ha explicado que se trata de los modelos donados por la firma Eclipse Baleares 2026 y que desaconseja su uso&nbsp;",
-      "date": "12 Aug 2026 12:34:13 +0200",
+      "title": "Los sindicatos policiales niegan la acusación de un organismo oficial marroquí de maltrato a migrantes",
+      "link": "https://www.lavanguardia.com/politica/20260812/11612597/sindicatos-policiales-niegan-acusacion-organismo-oficial-marroqui-maltrato-migrantes.html",
+      "desc": "El Consejo Nacional de Derechos Humanos señala en un informe preliminar a la policía española por infligir “malos tratos y agresiones” en Ceuta",
+      "date": "12 Aug 2026 12:49:01 +0200",
       "source": "La Vanguardia",
       "color": "#8e44ad",
       "feedId": "LaVanguardia",
