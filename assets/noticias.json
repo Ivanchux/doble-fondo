@@ -1,41 +1,221 @@
 {
-  "updated": "2026-08-12T07:16:52Z",
+  "updated": "2026-08-12T09:06:46Z",
   "count": 24,
   "items": [
     {
-      "title": "Eclipse solar en Córdoba, todo lo que necesitas saber: mejores lugares, horario o consejos de expertos",
-      "link": "https://www.abc.es/espana/andalucia/cordoba/eclipse-solar-cordoba-necesitas-saber-fenomeno-astronomico-20260812194256-nts.html",
-      "desc": "Este miércoles 12 de agosto de 2026 será una fecha marcada en el calendario de los aficionados a la astronomía. Ese día tendrá lugar el primer eclipse total de Sol visible desde la península Ibérica en más de un siglo, aunque en Córdoba no llegará a verse como",
-      "date": "Wed, 12 Aug 2026 09:03:45 +0200",
+      "title": "Alertan de «problemas» en los tiempos de respuesta al carecer la Costa da Morte de ambulancia medicalizada",
+      "link": "https://www.abc.es/espana/galicia/alertan-problemas-tiempos-respuesta-carecer-costa-morte-20260812110006-nt.html",
+      "desc": "El sindicato USO Galicia ha denunciado que la comarca de A Costa da Morte sigue sin contar con una ambulancia medicalizada de forma permanente, una carencia que, según defiende la organización, está generando «problemas» en los tiempos de respuesta ante emerge",
+      "date": "Wed, 12 Aug 2026 11:00:07 +0200",
       "source": "ABC",
       "color": "#c0392b",
       "feedId": "ABC",
       "caso": "other"
     },
     {
-      "title": "La propagación del incendio de Niebla es la mitad respecto al día anterior: «El objetivo es ir estrangulando el fuego»",
-      "link": "https://www.abc.es/espana/andalucia/huelva/propagacion-incendio-niebla-mitad-respecto-dia-anterior-20260812085718-nts.html",
-      "desc": "El avance del incendio forestal en la localidad de Niebla en Huelva lleva casi una semana imparable. El fuego ya ha recorrido más de 25.000 hectáreas a su paso, presentando hasta siete frentes diferentes dentro del mismo. El vicepresidente primero y consejero ",
-      "date": "Wed, 12 Aug 2026 08:57:18 +0200",
+      "title": "Muere un hombre tras ser rescatado del agua en la Gran Playa de Santa Pola, Alicante",
+      "link": "https://www.abc.es/espana/comunidad-valenciana/alicante/muere-hombre-tras-rescatado-agua-gran-playa-20260812105739-nt.html",
+      "desc": "Un hombre ha fallecido este martes tras ser rescatado del agua por los socorristas de la Gran Playa de Santa Pola (Alicante), según ha explicado el Centro de Información y Coordinación de Urgencias (CICU). El CICU recibió un aviso a las 16.54 horas del martes ",
+      "date": "Wed, 12 Aug 2026 10:57:40 +0200",
       "source": "ABC",
       "color": "#c0392b",
       "feedId": "ABC",
       "caso": "other"
     },
     {
-      "title": "El acuerdo de última hora que frena la huelga de hostelería en La Coruña justo a tiempo para el eclipse",
-      "link": "https://www.abc.es/espana/galicia/acuerdo-ultima-hora-frena-huelga-hosteleria-coruna-20260812083228-nt.html",
-      "desc": "La huelga en el sector de la hostelería de la provincia de La Coruña, que estaba prevista para este mismo miércoles, ha quedado formalmente desconvocada. Las centrales sindicales CIG, UGT y CCOO han confirmado a Europa Press la cancelación de los paros tras al",
-      "date": "Wed, 12 Aug 2026 08:32:28 +0200",
+      "title": "El restaurante de Galicia recomendado por Michelín donde comieron Javier Rey y Blanca Suárez: situado en un pueblo de la Costa da Morte y especialistas en carnes y pescados a la brasa",
+      "link": "https://www.abc.es/espana/galicia/restaurante-galicia-recomendado-michelin-comieron-javier-rey-20260812171829-nt.html",
+      "desc": "Blanca Suárez y Javier Rey forman una de las parejas más discretas y admiradas del cine español. Su relación sentimental ha avanzado lejos del foco mediático, marcada por el hermetismo y por una naturalidad que ambos protegen con cuidado. Sin embargo, sus apar",
+      "date": "Wed, 12 Aug 2026 10:55:01 +0200",
       "source": "ABC",
       "color": "#c0392b",
       "feedId": "ABC",
       "caso": "other"
     },
     {
-      "title": "El calor y las tormentas acompañarán a un miércoles marcado por el eclipse solar",
+      "title": "Exteriores desmiente a Marruecos sobre la soberanía de Ceuta y Melilla: «Ni se ha tratado ni se tratará nunca»",
+      "link": "https://www.abc.es/espana/exteriores-desmiente-marruecos-sobre-soberania-ceuta-melilla-20260812105403-nt.html",
+      "desc": "«La españolidad de Ceuta y Melilla está fuera de toda duda». Respuesta veloz del Ministerio de Exteriores español, dirigido por José Manuel Albares, ante las declaraciones del titular de Justicia marroquí en una televisión de su país que aseguraba «en cada reu",
+      "date": "Wed, 12 Aug 2026 10:54:03 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Adif invertirá tres millones de euros en nuevos cerramientos para reforzar la seguridad ferroviaria en Guadalajara",
+      "link": "https://www.abc.es/espana/castilla-la-mancha/adif-invertira-tres-millones-euros-nuevos-cerramientos-20260812105304-nt.html",
+      "desc": "Adif ha adjudicado, por un importe de tres millones de euros, un contrato para la instalación y reposición de 5.421 metros de cerramientos en distintos puntos de la red ferroviaria convencional a su paso por la provincia de Guadalajara. La actuación contempla ",
+      "date": "Wed, 12 Aug 2026 10:53:05 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "La Junta moviliza suelo público para impulsar la construcción de 3.678 nuevas viviendas en Andalucía",
+      "link": "https://www.abc.es/espana/andalucia/junta-moviliza-suelo-publico-impulsar-construccion-3678-20260812103548-nts.html",
+      "desc": "La Junta de Andalucía movilizará suelo público con capacidad para la construcción de 3.678 nuevas viviendas a través del Plan Anual de Enajenación de Bienes 2026 de la Agencia de Vivienda y Rehabilitación (AVRA), adscrita a la Consejería de Vivienda, Juventud ",
+      "date": "Wed, 12 Aug 2026 10:45:19 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Eclipse solar, en directo | Última hora: mapa, dónde verlo, horarios y recomendaciones para hoy, 12 de agosto",
+      "link": "https://www.lavanguardia.com/vida/20260812/11612420/eclipse-total-sol-espana-12-agosto-hora-donde-ver-ultima-hora-hoy-en-directo.html",
+      "desc": "El president de la Generalitat, Salvador Illa, ha hecho un llamamiento a la “prudencia” para seguir el eclipse solar total de hoy",
+      "date": "12 Aug 2026 10:37:58 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
+    {
+      "title": "Así será el nuevo Astra Cabanillas-Guadalajara: tres líneas, 27 paradas y billetes desde 1,50 euros",
+      "link": "https://www.abc.es/espana/castilla-la-mancha/nuevo-astra-cabanillasguadalajara-tres-lineas-paradas-billetes-20260809103140-nt.html",
+      "desc": "El Ayuntamiento de Cabanillas del Campo asumirá íntegramente el coste del nuevo servicio de transporte público del Plan Astra que conecta el municipio con Guadalajara, según consta en el convenio de colaboración suscrito con la Consejería de Fomento y publicad",
+      "date": "Wed, 12 Aug 2026 10:31:40 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "CMM destina cerca de 86.000 euros al montaje y a la seguridad de su caseta en la Feria de Albacete",
+      "link": "https://www.abc.es/espana/castilla-la-mancha/cmm-destina-cerca-86000-euros-montaje-seguridad-20260807103114-nt.html",
+      "desc": "Cada septiembre, mientras miles de personas atraviesan la Puerta de Hierros para adentrarse en el recinto ferial, uno de los espacios que vuelve a levantar su estructura es el plató desde el que Castilla-La Mancha Media retransmite la actualidad de la Feria de",
+      "date": "Wed, 12 Aug 2026 10:31:14 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Detienen en Valladolid a dos grafiteros por agredir a agentes de policía al ser pillados pintando",
+      "link": "https://www.abc.es/espana/castilla-leon/detienen-valladolid-dos-grafiteros-agredir-agentes-policia-20260812103040-nt.html",
+      "desc": "La Policía Nacional ha detenido a dos personas en la madrugada del martes en la calle Sevilla de Valladolid tras agredir a agentes de la Policía Nacional y utilizar un patinete eléctrico para obstaculizar la intervención policial. En torno a las 04:00 horas de",
+      "date": "Wed, 12 Aug 2026 10:30:40 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "La Guardia Civil investiga a una mujer por estafar 40.500 euros a una empresa toledana por correo electrónico",
+      "link": "https://www.abc.es/espana/castilla-la-mancha/toledo/pueblos/guardia-civil-investiga-mujer-estafar-40500-euros-20260812101749-nt.html",
+      "desc": "Agentes del Equipo @ de la Guardia Civil de la Compañía de Ocaña han investigado a una mujer de 22 años como presunta autora de un delito de estafa cometido mediante la modalidad conocida como Business Email Compromise (BEC) . La investigación se inició a raíz",
+      "date": "Wed, 12 Aug 2026 10:17:49 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "La Generalitat pide escalonar los desplazamientos  tras el eclipse para evitar el colapso de la autopista AP-7",
+      "link": "https://www.abc.es/espana/cataluna/generalitat-pide-escalonar-desplazamientos-tras-eclipse-evitar-20260812101748-nt.html",
+      "desc": "La Generalitat pide escalonar los desplazamientos de vuelta tras el eclipse para evitar que el colapso de la autopista AP-7 . Así lo ha apuntado este miércoles la consejera de Interior, Núria Parlon, al considerar «posible» un incremento de la movilidad por ca",
+      "date": "Wed, 12 Aug 2026 10:17:49 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Extinguido el segundo incendio de Rodeiro tras arrasar casi 20 hectáreas de monte",
+      "link": "https://www.abc.es/espana/galicia/extinguido-segundo-incendio-rodeiro-tras-arrasar-hectareas-20260812101515-nt.html",
+      "desc": "La Consellería do Medio Rural ha dado por extinguido de forma definitiva el incendio forestal que permanecía activo desde el pasado sábado en el municipio pontevedrés de Rodeiro, cerrando así un complicado episodio para los montes de la zona. Según la informac",
+      "date": "Wed, 12 Aug 2026 10:15:15 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Muere un hombre de 40 años en un accidente de moto muy cerca de Granada",
+      "link": "https://www.abc.es/espana/andalucia/granada/muere-hombre-anos-accidente-moto-cerca-granada-20260812100632-nts.html",
+      "desc": "Nuevo accidente de moto con un muerto en la provincia de Granada, esta vez en Ogíjares, un pueblo muy cercano a la capital, donde a las cuatro de la madrugada de este miércoles 12 de agosto un hombre de 40 años ha perdido la vida. No ha sido en una carretera s",
+      "date": "Wed, 12 Aug 2026 10:06:32 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Destapan una estafa de 380.000 euros a una empresa de Benidorm tras aumentar un 1.200% la facturación",
+      "link": "https://www.abc.es/espana/comunidad-valenciana/alicante/estafan-380000-euros-empresa-pillan-aumentar-facturacion-20260812095450-nt.html",
+      "desc": "La Policía Nacional ha detenido a cuatro hombres por estafar más de 380.000 euros a una empresa de Benidorm ( Alicante ) mediante facturación simulada. Los arrestados fingían compras de grandes cantidades de palets con las que aumentaron la facturación en más ",
+      "date": "Wed, 12 Aug 2026 10:05:42 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Hallan sin vida a un hombre flotando en el río Pisuerga de Valladolid",
+      "link": "https://www.abc.es/espana/castilla-leon/hallan-vida-hombre-flotando-rio-pisuerga-valladolid-20260812100244-nt.html",
+      "desc": "Una dotación de Bomberos de Valladolid ha rescatado este miércoles el cadáver de un hombre en el río Pisuerga . En concreto, a la altura del número 80 de la calle Arzobispado José Delicado. Se trata del s egundo cuerpo sin vida que aparece en el río a su paso ",
+      "date": "Wed, 12 Aug 2026 10:02:44 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "La Xunta instalará un cierre en los soportales de la estación de Vigo por la presencia de personas sin hogar",
+      "link": "https://www.abc.es/espana/galicia/xunta-instalara-cierre-soportales-estacion-vigo-presencia-20260812095213-nt.html",
+      "desc": "La Xunta y el Ayuntamiento de Vigo se reunieron este lunes para acordar actuaciones conjuntas que refuercen la seguridad en el entorno de la estación de autobuses de la ciudad, ante la presencia continuada de personas sin hogar en la zona. Como titular del inm",
+      "date": "Wed, 12 Aug 2026 09:52:14 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Marruecos insiste en plantear al Gobierno la soberanía de Ceuta y Melilla: «Son nuestras»",
+      "link": "https://www.abc.es/espana/marruecos-insiste-plantear-gobierno-situacion-ceuta-melilla-20260812094924-nt.html",
+      "desc": "«Son nuestras tierras». A pesar de que España y Marruecos insisten en una colaboración mutua y constante, el ministro de Justicia del país africano, Abdelatif Ouahbi , ha reclamado la soberanía de las ciudades autónomas de Ceuta y Melilla. En una situación com",
+      "date": "Wed, 12 Aug 2026 09:49:24 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "La Mezquita-Catedral, en buenas manos",
+      "link": "https://www.abc.es/espana/andalucia/cordoba/baltasar-lopez-mezquitacatedral-buenas-manos-20260812094302-nts.html",
+      "desc": "Se cumple un año del incendio en la Mezquita-Catedral. Son jornadas en las que recuerdo el doble vuelco que me dio el corazón al saber que un fuego se había desatado en ella: el profesional, que me llevó a dejar en la mesa sin probar el plato de quinoa con atú",
+      "date": "Wed, 12 Aug 2026 09:43:03 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "La Federación de Comercio considera que «merece la pena estudiar» más peatonalizaciones en Córdoba",
+      "link": "https://www.abc.es/espana/andalucia/cordoba/federacion-comercio-considera-merece-pena-estudiar-peatonalizaciones-20260812093851-nts.html",
+      "desc": "El Ayuntamiento de Córdoba ha informado este martes de la finalización de las obras de peatonalización de la avenida de la Viñuela. Es la primera actuación de este tipo, con una vía comercial de calado, que se realiza fuera del Centro. El gobierno municipal, u",
+      "date": "Wed, 12 Aug 2026 09:38:51 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "La firma HVR Energy trabaja en abrir la primera hidrolinera de Córdoba",
+      "link": "https://www.abc.es/espana/andalucia/cordoba/firma-hvr-energy-trabaja-abrir-primera-hidrolinera-20260812192954-nts.html",
+      "desc": "Un repostaje rápido para un vehículo , para larga distancia y para un uso intensivo. Hasta hace unos años, la ecuación parecía difícil de resolver si además iba acompañada por el hecho de que la energía debía ser limpia y evitar los combustibles fósiles. Ahora",
+      "date": "Wed, 12 Aug 2026 09:38:33 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "La Aemet alerta por calor, riesgo de incendios y nubes en la franja de totalidad del eclipse",
       "link": "https://www.lavanguardia.com/vida/20260812/11612423/calor-tormentas-acompanaran-miercoles-marcado-eclipse-solar.html",
-      "desc": "Se producirán chubascos y tormentas con probabilidad de ser fuertes, con granizo e intensas rachas de viento en zonas del sureste",
+      "desc": "Pese a que se esperan cielos despejados o poco nubosos, en algunos puntos de la península habrá nubosidad persistente que pueda dificultar la visión del sol durante el eclipse",
       "date": "12 Aug 2026 07:43:26 +0200",
       "source": "La Vanguardia",
       "color": "#8e44ad",
@@ -53,16 +233,6 @@
       "caso": "other"
     },
     {
-      "title": "Todas las hipótesis sobre el origen del incendio «están abiertas»: Toscano pide prudencia frente a las especulaciones",
-      "link": "https://www.abc.es/espana/andalucia/huelva/hipotesis-sobre-origen-abiertas-toscano-pide-prudencia-20260812073231-nts.html",
-      "desc": "Todas las hipótesis están abiertas . El incendio de Niebla (Huelva), que amenaza ser el más extenso de la historia reciente de Andalucía, sigue expandiéndose por la comunidad, alcanzando incluso Sevilla, con la esperanza de que se pueda ir controlando en las p",
-      "date": "Wed, 12 Aug 2026 07:32:31 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
       "title": "Trump y el cambio de avión: “Cumplí órdenes; recibo muchas amenazas”",
       "link": "https://www.lavanguardia.com/internacional/20260812/11612418/trump-justifica-cambio-avion-ankara-orden-servicio-secreto-recibo-muchas-amenazas-desconocen.html",
       "desc": "El presidente estadounidense asegura que se limitó a cumplir órdenes y&nbsp;actuó bajo la supervisión del Servicio Secreto y del Ejército",
@@ -70,176 +240,6 @@
       "source": "La Vanguardia",
       "color": "#8e44ad",
       "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "Andalucía refuerza la investigación de los incendios ante la falta de una reforma penal del Gobierno",
-      "link": "https://www.abc.es/espana/andalucia/andalucia-refuerza-investigacion-incendios-ante-falta-reforma-20260812071157-nts.html",
-      "desc": "Sobre el terreno, frente a las llamas, la colaboración de las diferentes administraciones se antoja fundamental para el control y posterior extinción del incendio de Niebla (Huelva). A las puertas del infierno, entre las nubes de humo se distingue la perfecta ",
-      "date": "Wed, 12 Aug 2026 07:11:57 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Renfe confirma un tren especial de refuerzo en Cataluña por el eclipse solar de hoy: horarios de salida y llegada a Barcelona",
-      "link": "https://www.abc.es/espana/cataluna/renfe-confirma-tren-especial-refuerzo-cataluna-eclipse-20260811051500-nt.html",
-      "desc": "España se prepara para vivir uno de los acontecimientos astronómicos más importantes de los próximos años. Entre este 2026 y 2028, nuestro país será testigo de tres eclipses solares consecutivos, una circunstancia excepcional que atraerá a miles de aficionados",
-      "date": "Wed, 12 Aug 2026 07:04:27 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Eclipse solar hoy en Valencia: horarios especiales de metro para llegar a la playa de la Malvarrosa",
-      "link": "https://www.abc.es/espana/comunidad-valenciana/eclipse-solar-hoy-valencia-horarios-especiales-metro-20260812154028-nt.html",
-      "desc": "Metrovalencia realiza este miércoles 12 de agosto un importante esfuerzo para aumentar al máximo la capacidad de sus metros y tranvías con la finalidad de facilitar los masivos desplazamientos que se realizarán en la ciudad de Valencia hacia la playa de la Mal",
-      "date": "Wed, 12 Aug 2026 07:00:41 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "El pueblo de Alicante donde veranea Pedro Piqueras junto a su pareja: un iglesia con cúpulas azules y playas de aguas turquesas",
-      "link": "https://www.abc.es/espana/comunidad-valenciana/alicante/pueblo-alicante-veranea-pedro-piqueras-junto-pareja-20260812154613-nt.html",
-      "desc": "Hay rostros televisivos que parece que nunca van a dejar de formar parte de la pequeña pantalla y del día a día de la gente. El de Pedro Piqueras al frente de Informativos Telecinco era uno de esos casos, hasta que puso fin a su carrera profesional a finales d",
-      "date": "Wed, 12 Aug 2026 06:45:00 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Eclipse total solar en La Coruña hoy: dónde ver, a qué hora es, duración y mejor sitio para observarlo",
-      "link": "https://www.abc.es/espana/galicia/eclipse-total-coruna-hoy-ver-hora-duracion-20260812121949-ntp.html",
-      "desc": "El eclipse será total en todo el municipio de La Coruña, uno de los primeros puntos de la Península por los que entrará la franja de totalidad. La ciudad no vivía un fenómeno así desde 1905 y, según ha señalado el propio Concello, no volverá a repetirse hasta ",
-      "date": "Wed, 12 Aug 2026 06:30:00 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Eclipse total solar en Canarias hoy: dónde ver, a qué hora es, duración y mejor isla para observarlo",
-      "link": "https://www.abc.es/espana/canarias/eclipse-total-canarias-hoy-ver-hora-duracion-20260812114004-nt.html",
-      "desc": "El próximo 12 de agosto de 2026, el cielo ofrecerá uno de los grandes espectáculos astronómicos del año con un eclipse solar que atravesará España y convertirá buena parte del país en escenario de un acontecimiento histórico. Este eclipse solar de 2026 permiti",
-      "date": "Wed, 12 Aug 2026 06:15:00 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Eclipse total solar en Castellón hoy: dónde ver, a qué hora es, duración y mejores pueblos para observarlo",
-      "link": "https://www.abc.es/espana/comunidad-valenciana/eclipse-total-castellon-hoy-ver-hora-duracion-20260812174618-nt.html",
-      "desc": "La Comunidad Valenciana se prepara para vivir este miércoles uno de los fenómenos astronómicos más extraordinarios de las últimas décadas. Las provincias de Valencia y Castellón se encuentran entre los mejores lugares de España para contemplar el eclipse total",
-      "date": "Wed, 12 Aug 2026 06:00:08 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Todo preparado para el eclipse con las incógnitas de la movilidad y la meteorología",
-      "link": "https://www.lavanguardia.com/vida/20260812/11612202/preparado-eclipse.html",
-      "desc": "Un dispositivo especial intentará evitar el colapso viario, siendo la AP-7 sur el punto negro, en una jornada con alto riesgo de incendios",
-      "date": "12 Aug 2026 06:00:00 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "Qué hacer y qué evitar el día del eclipse",
-      "link": "https://www.lavanguardia.com/vida/20260812/11612169/que-que-evitar-dia-eclipse.html",
-      "desc": "Consejos para que la jornada de hoy se convierta en una fiesta colectiva sin incidentes",
-      "date": "12 Aug 2026 06:00:00 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "El eclipse solar de hoy no es la última oportunidad: viviremos dos más en los próximos dos años",
-      "link": "https://www.lavanguardia.com/vida/20260812/11612063/eclipse-solar-hoy-ultima-oportunidad-viviremos-dos-mas-proximos-dos-anos.html",
-      "desc": "El fenómeno de hoy será el primero de una sucesión que continuará en 2027 y 2028 convirtiendo la península en un enclave astronómico excepcional",
-      "date": "12 Aug 2026 06:00:00 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "El pequeño pueblo burgalés señalado en el mapa: “Estamos agobiadísimos”",
-      "link": "https://www.lavanguardia.com/vida/20260812/11612199/avellanosa-muno-agobiadisimos.html",
-      "desc": "La localidad había preparado un apacible encuentro de vecinos para celebrar el fenómeno astronómico hasta que apareció en un reportaje bucólico de la BBC",
-      "date": "12 Aug 2026 06:00:00 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
-      "caso": "gen"
-    },
-    {
-      "title": "La ley dificulta la vía exprés con la que Vivas y Albares quieren resolver la crisis de Ceuta",
-      "link": "https://www.lavanguardia.com/politica/20260812/11612217/ley-dificulta-expres-vivas-albares-quieren-resolver-crisis-ceuta.html",
-      "desc": "Gobierno central y autónomo apuestan sin tapujos por una expulsión masiva",
-      "date": "12 Aug 2026 06:00:00 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "“La inmigración es muy beneficiosa, pero lo primero que se ve son los costes”",
-      "link": "https://www.lavanguardia.com/politica/20260812/11612167/anna-birules-inmigracion-beneficiosa-primero-ve-son-costes.html",
-      "desc": "La exministra de&nbsp;Ciencia y Tecnología del segundo gobierno de Aznar censura los acuerdos del PP con Vox",
-      "date": "12 Aug 2026 06:00:00 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "Eclipse total solar en Valencia hoy: dónde ver, a qué hora es, duración y mejores pueblos para observarlo",
-      "link": "https://www.abc.es/espana/comunidad-valenciana/eclipse-total-valencia-hoy-ver-hora-duracion-20260812163507-nt.html",
-      "desc": "La Comunidad Valenciana se prepara para vivir este miércoles, 12 de agosto, uno de los acontecimientos astronómicos más importantes del siglo. Las provincias de Valencia y Castellón son dos de las mejores provincias de España para contemplar el primer eclipse ",
-      "date": "Wed, 12 Aug 2026 05:45:04 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Cercanías y Consorcio Regional de Transportes refuerzan hoy sus trenes y buses en Madrid por el eclipse solar: líneas y estaciones afectadas",
-      "link": "https://www.abc.es/espana/madrid/cercanias-consorcio-regional-transportes-refuerzan-hoy-trenes-20260812053000-nt.html",
-      "desc": "El 12 de agosto de 2026 queda para siempre en la mente de los españoles por ser el día en del primer eclipse solar total que se ve desde nuestro país desde 1912. Desde hace meses tanto científicos como aficionados llevan preparándose para recibir este fenómeno",
-      "date": "Wed, 12 Aug 2026 05:30:10 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Eclipse total solar en Ferrol hoy: a qué hora es, duración y mejor sitio para observarlo",
-      "link": "https://www.abc.es/espana/galicia/eclipse-total-ferrol-hoy-hora-duracion-mejor-20260812122006-ntp.html",
-      "desc": "Ferrol y su comarca aguardan con expectación la cita histórica del próximo 12 de agosto . La alineación entre la Luna y la estrella solar será visible de forma completa desde la ciudad departamental, donde el fenómeno ofrecerá un espectáculo de penumbra en ple",
-      "date": "Wed, 12 Aug 2026 05:30:09 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Eclipse total solar en Guadalajara hoy, 12 de agosto: dónde verlo, a qué hora es, duración y el mejor pueblo para observarlo",
-      "link": "https://www.abc.es/espana/castilla-la-mancha/eclipse-total-castillala-mancha-hoy-agosto-verlo-20260812190759-ntp.html",
-      "desc": "Castilla-La Mancha vivirá este miércoles uno de los acontecimientos astronómicos más importantes del siglo. El eclipse total de sol convertirá a Guadalajara en uno de los mejores lugares de Europa para contemplar este fenómeno excepcional. Miles de personas se",
-      "date": "Wed, 12 Aug 2026 05:15:01 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
       "caso": "other"
     }
   ]
