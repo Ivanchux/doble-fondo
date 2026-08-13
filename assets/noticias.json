@@ -1,7 +1,177 @@
 {
-  "updated": "2026-08-13T04:06:09Z",
+  "updated": "2026-08-13T07:18:25Z",
   "count": 24,
   "items": [
+    {
+      "title": "Alerta en Taboada por un nuevo incendio forestal que amenaza el tráfico en la LU-611",
+      "link": "https://www.abc.es/espana/galicia/alerta-taboada-nuevo-incendio-forestal-amenaza-trafico-20260813085123-nt.html",
+      "desc": "Un incendio forestal de rápida expansión ha desatado la máxima alerta en la tarde de este miércoles en el municipio lucense de Taboada. Las llamas, originadas en la parroquia de Insua, avanzan con peligrosidad hacia la carretera autonómica LU-611, la vía que c",
+      "date": "Thu, 13 Aug 2026 08:51:24 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Localizado el cuerpo sin vida de un joven de 27 años desaparecido en Teno (Tenerife)",
+      "link": "https://www.abc.es/espana/canarias/localizado-cuerpo-vida-joven-anos-desaparecido-teno-20260813084841-nt.html",
+      "desc": "La Guardia Civil ha localizado este martes el cuerpo sin vida de un joven de 27 años que se encontraba desaparecido en la carretera de Punta de Teno, en Buenavista del Norte. Así lo han confirmando fuentes de la Guardia Civil, que ya investigan las causas del ",
+      "date": "Thu, 13 Aug 2026 08:49:25 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Eclipse solar total, en directo: mejores imágenes, resumen y cómo se vivió desde los distintos lugares de España",
+      "link": "https://www.lavanguardia.com/vida/20260813/11613024/eclipse-total-sol-espana-reacciones-imagenes-ultima-hora-hoy-en-directo.html",
+      "desc": "El tiempo, la única preocupación de los espectadores, dio una tregua en casi toda la franja de visibilidad",
+      "date": "13 Aug 2026 08:36:56 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
+    {
+      "title": "Mercadona busca trabajadores sin experiencia con sueldos de hasta 2.346 euros más plus de nocturnidad",
+      "link": "https://www.abc.es/espana/comunidad-valenciana/mercadona-busca-trabajadores-experiencia-sueldos-2346-euros-20260813075102-nt.html",
+      "desc": "Mercadona busca personal en sus bloques logísticos ubicados en diferentes puntos de España para puestos de reponedores, preparadores de pedidos y mozos de almacén con sueldos que pueden alcanzar los 2.346 euros brutos mensuales más un plus de nocturnidad. La c",
+      "date": "Thu, 13 Aug 2026 07:51:03 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Jódar se queda a las puertas de la final del Masters 1000 de Montreal",
+      "link": "https://www.lavanguardia.com/deportes/tenis/20260813/11613032/jodar-cae-semifinales-masters-1-000-montreal-dos-horas-dos-minutos-batalla.html",
+      "desc": "La primera final de Jódar en un Masters 1000 tendrá que esperar, pero el madrileño dio muestra una vez más de su espíritu competitivo y llevó al límite a Nakashima",
+      "date": "13 Aug 2026 07:47:56 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
+    {
+      "title": "Medusa Festival 2026: cartel, artistas, horario de los conciertos y cómo llegar a la playa de Cullera",
+      "link": "https://www.abc.es/espana/comunidad-valenciana/medusa-festival-2026-cartel-artistas-horario-conciertos-20260813115018-nt.html",
+      "desc": "﻿ La música electrónica volverá a tomar la localidad valenciana de Cullera a partir de este jueves con el inicio de Medusa Festival , uno de los grandes referentes de la escena dance nacional. La cita celebrará su 12.ª edición del 13 al 17 de agosto en la play",
+      "date": "Thu, 13 Aug 2026 07:22:44 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Los propietarios de fincas privadas exigen una normativa eficiente y menos burocracia: «Somos la primera línea de defensa»",
+      "link": "https://www.abc.es/espana/andalucia/propietarios-fincas-privadas-exigen-normativa-eficiente-burocracia-20260813072219-nts.html",
+      "desc": "La falta de una normativa eficiente y eficaz , librada de clichés ideológicos, la incorrecta gestión de las ayudas y el exceso de burocracia en cualquier movimiento representan el gran escollo para que los propietarios de las fincas privadas puedan realizar la",
+      "date": "Thu, 13 Aug 2026 07:22:19 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Andalucía se afianza como el destino preferido de los MIR más brillantes",
+      "link": "https://www.abc.es/espana/andalucia/andalucia-afianza-destino-preferido-mir-brillantes-20260813140933-nts.html",
+      "desc": "Andalucía tiene tirón entre los jóvenes que empiezan su formación como doctores:   se trata de una tendencia sostenida en los últimos años y que ha batido récords en la convocatoria de 2025-2026 , cuando cerca de dos mil recién titulados en Medicina se incorpo",
+      "date": "Thu, 13 Aug 2026 07:22:05 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Andalucía necesita más inversión para anticiparse a los nuevos incendios",
+      "link": "https://www.abc.es/espana/andalucia/andalucia-necesita-inversion-anticiparse-nuevos-incendios-20260813070727-nts.html",
+      "desc": "Exhaustos. Al límite. Los bomberos exploran los confines de su fortaleza física mental, en la frontera de su resistencia. Los expertos se afanan para controlar el incendio de Niebla, como hace semanas en Los Gallardos de Almería y dos meses en Villanueva de lo",
+      "date": "Thu, 13 Aug 2026 07:07:27 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Dónde ir de fiesta este jueves 13 de agosto en la provincia de Toledo",
+      "link": "https://www.abc.es/espana/castilla-la-mancha/toledo/pueblos/fiesta-jueves-agosto-provincia-toledo-20260813070000-nt.html",
+      "desc": "Toledo -A las 22,00 horas: concierto de Loquillo en La Peraleda, con Alejo como artista invitado Seseña -A las 11,00 horas: descenso pirata. -A las 14,00 horas: concurso de migas. -A las 19,30 horas: ofrenda floral. -A las 20,30 horas: encierro de reses. -A la",
+      "date": "Thu, 13 Aug 2026 07:00:02 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "La F1 busca trabajadores en Madrid: requisitos para ser camarero, chófer o ayudante de cocina",
+      "link": "https://www.abc.es/espana/madrid/busca-trabajadores-madrid-requisitos-camarero-chofer-ayudante-20260813174934-nt.html",
+      "desc": "La Fórmula 1 llega este verano a Madrid. Concretamente, en el mes de septiembre. Y es que del viernes 11 al domingo 13 de dicho mes tendrá lugar el Formula 1 Tag Heuer Gran Premio de España 2026 que se disputará en la capital de España, en el ya 'archiconocido",
+      "date": "Thu, 13 Aug 2026 06:51:06 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Jordi Savall vive el eclipse total entre acordes y viñedos",
+      "link": "https://www.lavanguardia.com/cultura/20260813/11613023/jordi-savall-vive-eclipse-total-acordes-vinedos.html",
+      "desc": "Al maestro le sorprendió la experiencia astronómica en Les Pobles",
+      "date": "13 Aug 2026 06:00:00 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
+    {
+      "title": "Cuestión de poder, no de género",
+      "link": "https://www.lavanguardia.com/politica/20260813/11612785/cuestion-genero.html",
+      "desc": "",
+      "date": "13 Aug 2026 06:00:00 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
+    {
+      "title": "La guerra de Ucrania acerca a Corea del Norte y Rusia",
+      "link": "https://www.lavanguardia.com/internacional/20260813/11612659/guerra-ucrania-acerca-corea-norte-rusia.html",
+      "desc": "Pyongyang cada vez tiene más protagonismo en el conflicto, una implicación que le reporta grandes beneficios militares y económicos",
+      "date": "13 Aug 2026 06:00:00 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
+    {
+      "title": "Testimonio del seísmo en Colombia: “Se escuchan voces: ¡Vamos a sacarlo!”",
+      "link": "https://www.lavanguardia.com/internacional/20260813/11612823/testimonio-seismo-colombia-escuchan-voces-sacarlo.html",
+      "desc": "“Salimos de la casa y vemos que se mueve. ¿Resistirá? ¿Se vendrá al suelo? Es la única pregunta”",
+      "date": "13 Aug 2026 06:00:00 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
+    {
+      "title": "Un Odiseo para nuestros tiempos",
+      "link": "https://www.lavanguardia.com/cultura/20260813/11612792/odiseo-tiempos.html",
+      "desc": "",
+      "date": "13 Aug 2026 06:00:00 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
+    {
+      "title": "Japón estudia cómo poner coto a la inmigración pese a su declive demográfico",
+      "link": "https://www.lavanguardia.com/internacional/20260813/11612567/japon-estudia-como-poner-coto-inmigracion-pese-declive-demografico.html",
+      "desc": "La mayor visibilidad de la mano de obra extranjera y la explosión turística alimentan a la extrema derecha",
+      "date": "13 Aug 2026 06:00:00 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
     {
       "title": "Un PP «desconcertado» cierra filas con Ayuso tras la polémica del ático de Chamberí",
       "link": "https://www.abc.es/espana/madrid/pp-desconcertado-cierra-filas-ayuso-tras-polemica-20260812020336-nt.html",
@@ -67,176 +237,6 @@
       "link": "https://www.abc.es/espana/castilla-leon/eclipse-apenas-incidencias-valladolid-reune-25500-personas-20260812235238-nt.html",
       "desc": "La jornada del eclipse transcurrió sin apenas incidencias en la provincia de Valladolid. Tampoco el tráfico fue muy afectado, aunque hubo «algo más que un día normal», pero sin grandes embotellamientos ni desplazamientos lentos. Así lo ha trasladado a los medi",
       "date": "Wed, 12 Aug 2026 23:52:38 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "El eclipse hechiza a España",
-      "link": "https://www.lavanguardia.com/vida/20260812/11612862/eclipse-hechiza-espana.html",
-      "desc": "Millones de personas se vuelcan para contemplar el fenómeno histórico",
-      "date": "12 Aug 2026 23:31:38 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "El privilegio de Baleares",
-      "link": "https://www.lavanguardia.com/vida/20260812/11612838/privilegio-baleares-eclipse-solar-total.html",
-      "desc": "Un espectáculo que, en el sur de Mallorca y el norte de Menorca, pudo contemplarse prácticamente a la perfección y con algunas nubes en Eivissa que empañaron parcialmente la visión",
-      "date": "12 Aug 2026 23:27:11 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "Eclipse en la Mar Bella",
-      "link": "https://www.lavanguardia.com/vida/20260812/11612850/eclipse-mar-bella-barcelona.html",
-      "desc": "Hay gafas homologadas, sin homologar, gafas de sol y gente que guiña ahora un ojo, ahora otro, en un intento supremo de engañar con sus respectivas retinas",
-      "date": "12 Aug 2026 23:21:53 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "Un minuto de lágrimas en Tarraco",
-      "link": "https://www.lavanguardia.com/vida/20260812/11612851/minuto-lagrimas-tarraco.html",
-      "desc": "",
-      "date": "12 Aug 2026 23:20:58 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "Un hospitalizado tras caer del techo de un tren en Tarragona mientras miraba el eclipse",
-      "link": "https://www.abc.es/espana/cataluna/hospitalizado-tras-caer-techo-tren-tarragona-miraba-20260812231816-nt.html",
-      "desc": "Del balance provisional del dispositivo desplegado por el eclispe en Cataluña , la Generalitat ha informado de un herido, que ha tenido que ser trasladado hasta un hospital, tras caer del techo del tren al que se había subido, junto a un grupo de personas, par",
-      "date": "Wed, 12 Aug 2026 23:18:16 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Aurora boreal romana sobre el Miño",
-      "link": "https://www.lavanguardia.com/vida/20260812/11612859/aurora-boreal-romana-sobre-mino-eclipse-solar.html",
-      "desc": "Las manchas marrones, lilas y naranjas, quizá mezcladas con los colores del atardecer, querían recrear en el horizonte una aurora boreal",
-      "date": "12 Aug 2026 23:18:07 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "No solo turistas en los búnkers",
-      "link": "https://www.lavanguardia.com/local/barcelona/20260812/11612852/solo-turistas-bunkeres.html",
-      "desc": "",
-      "date": "12 Aug 2026 22:55:50 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "Villaco, donde niños y mayores vuelven a dar la 'chapa'",
-      "link": "https://www.abc.es/espana/castilla-leon/villaco-viste-fiesta-concurso-nacional-chapas-reunira-20260805224628-nt.html",
-      "desc": "El tradicional juego de las chapas en Villaco, una localidad vallisoletana ubicada en la comarca del Valle del Esgueva de apenas 72 habitantes, se ha vuelto a poner de moda y ha roto las barreras de edad. Toda la pasión nació de Argimiro, de tan solo seis años",
-      "date": "Wed, 12 Aug 2026 22:46:28 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "El fuego ha calcinado ya más de 31.000 hectáreas en Niebla",
-      "link": "https://www.abc.es/espana/andalucia/huelva/fuego-calcinado-31000-hectareas-niebla-20260812223102-nts.html",
-      "desc": "El teniente general jefe de la Unidad Militar de Emergencias (UME), Francisco Javier Marcos Izquierdo, ha mostrado su «optimismo» sobre la evolución del incendio declarado el pasado jueves en Niebla (Huelva), aunque ha advertido de que se trata de un fuego «mu",
-      "date": "Wed, 12 Aug 2026 22:32:00 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "València vive el eclipse entre el bullicio de su paseo marítimo y el encanto de L'Albufera",
-      "link": "https://www.lavanguardia.com/local/valencia/20260812/11612840/valencia-vive-eclipse-bullicio-paseo-maritimo-encanto-l-albufera.html",
-      "desc": "El fenómeno se vive sin incidencias en la capital, mientras Peñíscola registra un incendio junto al punto de visualización que calcina 34 coches, no deja heridos pero sí obliga a desmontar el hospital de campaña&nbsp;",
-      "date": "12 Aug 2026 22:22:40 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "La portavoz de Trump, Karoline Leavitt, deja el cargo “para pasar más tiempo con su familia”",
-      "link": "https://www.lavanguardia.com/internacional/20260812/11612839/portavoz-trump-karoline-leavitt-deja-cargo-pasar-mas-familia.html",
-      "desc": "A sus 28 años, se convirtió el año pasado en la secretaria de prensa más joven en la historia de la Casa Blanca",
-      "date": "12 Aug 2026 22:06:49 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "El yacimiento de Ategua se rinde ante la magia del eclipse solar: «Es una luz única, distinta a cualquier amanecer»",
-      "link": "https://www.abc.es/espana/andalucia/cordoba/yacimiento-ategua-rinde-ante-magia-eclipse-solar-20260812215952-nts.html",
-      "desc": "Cerca de 300 personas han decidido acudir a uno de los espacios más desconocidos de la provincia, el yacimiento arqueológico de Ategua, a pocos kilómetros de la capital y a la altura de Santa Cruz, para disfrutar del eclipse solar, que en Córdoba ha alcanzado ",
-      "date": "Wed, 12 Aug 2026 21:59:52 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Eclipse colectivo en Montjuïc",
-      "link": "https://www.lavanguardia.com/local/barcelona/20260812/11612834/eclipse-colectivo-montjuic.html",
-      "desc": "Miles de barceloneses toman su montaña y viven una inesperada experiencia comunitaria",
-      "date": "12 Aug 2026 21:56:41 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "Eclipsados por «un momento inolvidable»",
-      "link": "https://www.abc.es/espana/castilla-leon/eclipsados-momento-inolvidable-20260812215115-nt.html",
-      "desc": "Prometía serlo y fue «un momento inolvidable». Hace tiempo que se sabía que el cielo había elegido Castilla y León entre los privilegiados destinos para contemplar la mordida total que la Luna iba a pegar para engullir al Astro Rey. Este miércoles no defraudó.",
-      "date": "Wed, 12 Aug 2026 21:51:15 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "De Baréin y Hawái a Palencia para ver el eclipse desde la 'zona cero'",
-      "link": "https://www.abc.es/espana/castilla-leon/eclipse-une-multitud-lenguas-espana-rural-20260812195910-nt.html",
-      "desc": "«El mejor lugar y el mejor sitio». Fathi y Eman, llegados de Baréin. Lo tenían claro. La loma en lo alto de una tierra en Paredes de Nava, en la provincia de Palencia, era el punto exacto para ver en su plenitud el eclipse total de sol. Provistos de varios tel",
-      "date": "Wed, 12 Aug 2026 21:42:15 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "¿Dónde está Elon Musk? Lerma espera ver aparecer al magnate sudafricano en sus calles",
-      "link": "https://www.lavanguardia.com/vida/20260812/11612821/donde-esta-elon-musk-lerma-busca-magnate-sudafricano-calles.html",
-      "desc": "La empresa SpaceX reservó hace dieciocho meses el parador nacional de la ciudad para estos días",
-      "date": "12 Aug 2026 21:40:33 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "El Tajo, testigo del eclipse que oscureció casi por completo Toledo",
-      "link": "https://www.abc.es/espana/castilla-la-mancha/toledo/tajo-testigo-eclipse-oscurecio-completo-toledo-20260812213750-nt.html",
-      "desc": "Toledo ha mirado este miércoles al cielo como otras tantas ciudades y pueblos de la Península en busca de ese fenómeno astronómico que ha copado durante los últimos días gran parte de la actualidad informativa. Desde primera hora de la tarde, El Valle y los pr",
-      "date": "Wed, 12 Aug 2026 21:37:50 +0200",
       "source": "ABC",
       "color": "#c0392b",
       "feedId": "ABC",
