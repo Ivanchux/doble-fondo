@@ -1,7 +1,57 @@
 {
-  "updated": "2026-08-13T20:36:25Z",
+  "updated": "2026-08-13T22:35:17Z",
   "count": 24,
   "items": [
+    {
+      "title": "El caos ferroviario del eclipse evidencia la falta de previsión que lastra Rodalies",
+      "link": "https://www.lavanguardia.com/local/barcelona/20260814/11613479/caos-ferroviario-eclipse-evidencia-falta-prevision-rodalies.html",
+      "desc": "Ni Renfe ni la Generalitat planificaron un dispositivo para absorber la alta demanda de movilidad en transporte público para ver el fenómeno astronómico en el sur de Catalunya",
+      "date": "14 Aug 2026 00:05:00 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
+    {
+      "title": "La diplomacia del ciervo",
+      "link": "https://www.lavanguardia.com/opinion/20260814/11613454/espana-marruecos-mundial-rabat-ceuta-ciervos.html",
+      "desc": "La historia de las relaciones entre España y Marruecos está llena de gestos",
+      "date": "14 Aug 2026 00:00:00 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
+    {
+      "title": "La Junta explica que la zona norte del incendio de Niebla «queda consolidada» tras una semana",
+      "link": "https://www.abc.es/espana/andalucia/junta-explica-zona-norte-incendio-niebla-queda-20260813231108-nts.html",
+      "desc": "El vicepresidente primero de la Junta de Andalucía y consejero de Presidencia, Sanidad y Emergencias, Antonio Sanz , ha asegurado en la noche de este jueves que han «conseguido ganar la batalla» en una zona clave de las llamas del incendio declarado el pasado ",
+      "date": "Thu, 13 Aug 2026 23:11:08 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Juanma Moreno visitará este viernes el puesto de mando del devastador incendio de Niebla",
+      "link": "https://www.abc.es/espana/andalucia/juanma-moreno-visitara-viernes-puesto-mando-devastador-20260813225358-nts.html",
+      "desc": "El incendio forestal de Niebla, que sigue extendiéndose por la provincia de Huelva y ha alcanzado incluso zonas limítrofes de Sevilla es uno de los más extensos de la historia reciente de Andalucía y el que ha afectado a mayor superficie en los últimos 22 años",
+      "date": "Thu, 13 Aug 2026 22:53:58 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Attaoui atrapa un bronce en la final de 800 m",
+      "link": "https://www.lavanguardia.com/deportes/20260813/11613507/attaoui-atrapa-bronce-final-800.html",
+      "desc": "El atleta criado en Torrelavega consigue la segunda medalla española al firmar un tercer puesto muy trabajado, con David Barroso cuarto",
+      "date": "13 Aug 2026 22:51:42 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
     {
       "title": "Las claves del  incendio de Niebla: un fuego capaz de cambiar de dirección o de saltar más de tres kilómetros",
       "link": "https://www.abc.es/espana/andalucia/claves-incendio-niebla-fuego-capaz-cambiar-direccion-20260813221300-nts.html",
@@ -191,56 +241,6 @@
       "color": "#c0392b",
       "feedId": "ABC",
       "caso": "lei"
-    },
-    {
-      "title": "Prisión provisional para los dos detenidos por el crimen de Tauste",
-      "link": "https://www.lavanguardia.com/local/aragon/20260813/11613418/prision-provisional-dos-detenidos-crimen-tauste.html",
-      "desc": "Los sospechosos, la hija del matrimonio asesinado y su pareja actual, se han negado a declarar al comparecer este jueves ante la autoridad judicial&nbsp;",
-      "date": "13 Aug 2026 18:17:50 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "La Catedral de Cuenca recupera la música medieval con una misa y un concierto sobre las cruzadas",
-      "link": "https://www.abc.es/espana/castilla-la-mancha/catedral-cuenca-recupera-musica-medieval-misa-concierto-20260813181657-nt.html",
-      "desc": "La Catedral de Cuenca se convertirá este sábado en escenario para recuperar la música medieval en dos formatos diferentes. La jornada comenzará con una misa de la Asunción en la que los cantos volverán a interpretarse dentro de la liturgia para la que fueron c",
-      "date": "Thu, 13 Aug 2026 18:16:57 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Defensa licita por 12 millones la gestión informática de la Base Logística de Córdoba",
-      "link": "https://www.abc.es/espana/andalucia/cordoba/defensa-licita-millones-gestion-informatica-base-logistica-20260813181441-nts.html",
-      "desc": "El Ministerio de Defensa sigue dando pasos para materializar la Base Logística de Córdoba. Tras dejar encarrilada en junio la adjudicación de los contratos de dirección de obra y de ejecución de sus edificios, ahora el turno es para la licitación para dotar a ",
-      "date": "Thu, 13 Aug 2026 18:14:42 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Finalizan las obras de reasfaltado en la Gran Vía Marqués del Turia de Valencia",
-      "link": "https://www.abc.es/espana/comunidad-valenciana/finalizan-obras-reasfaltado-gran-via-marques-turia-20260813181418-nt.html",
-      "desc": "El Ayuntamiento de Valencia ha culminado la instalación de pavimento fonoabsorbente en la Gran Vía Marqués del Turia, un asfalto que también se colocará en otras grandes vías con mucho tráfico. En total, en esta arteria de la ciudad se han modernizado 22.126 m",
-      "date": "Thu, 13 Aug 2026 18:14:19 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Guerra de pistolas de agua e hinchables acuáticos en las fiestas de San Roque de Becerril de la Sierra",
-      "link": "https://www.abc.es/espana/madrid/guerra-pistolas-agua-hinchables-acuaticos-fiestas-san-20260813180441-nt.html",
-      "desc": "Becerril de la Sierra celebra sus fiestas patronales en honor a San Roque 2026 desde este jueves y hasta el 17 de agosto con una programación que incluye conciertos tributo , actividades acuáticas, torneos deportivos, eventos tradicionales y propuestas infanti",
-      "date": "Thu, 13 Aug 2026 18:04:42 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
     }
   ]
 }
