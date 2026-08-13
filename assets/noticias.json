@@ -1,9 +1,109 @@
 {
-  "updated": "2026-08-13T16:51:31Z",
+  "updated": "2026-08-13T18:55:59Z",
   "count": 24,
   "items": [
     {
-      "title": "La Comunidad triplicará las plantas autóctonas para reforestar la Sierra Oeste",
+      "title": "Asalto violento con intento de secuestro en un Airbnb de Barcelona",
+      "link": "https://www.lavanguardia.com/local/barcelona/20260813/11613472/asalto-violento-intento-secuestro-airbnb-eixample.html",
+      "desc": "Los delincuentes retuvieron, agredieron y grabaron a un influencer egipcio y enviaron las imágenes a sus familiares para exigir dinero",
+      "date": "13 Aug 2026 20:20:02 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
+    {
+      "title": "Andalucía oriental se ve sacudida por tormentas y granizadas",
+      "link": "https://www.abc.es/espana/andalucia/granada-jaen-almeria-ven-sacudidas-tormentas-granizadas-20260813201135-nts.html",
+      "desc": "Las provincias de Huelva y Sevilla darían lo que hiciera falta para que lloviera, que cayera agua suficiente como para detener el tremendo incendio de Niebla. Sin embargo, la meteorología es caprichosa como ella sola y donde sí que se han producido precipitaci",
+      "date": "Thu, 13 Aug 2026 20:18:54 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Ferran Torres, al PSG por casi 50 millones",
+      "link": "https://www.lavanguardia.com/deportes/fc-barcelona/20260813/11613470/ferran-torres-psg-50-millones.html",
+      "desc": "El Barça y el conjunto parisino han alcanzado un principio de acuerdo para la venta del valenciano",
+      "date": "13 Aug 2026 20:04:12 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
+    {
+      "title": "El Gobierno omite los mensajes de Rabat y evita el choque por la soberanía de Ceuta y Melilla",
+      "link": "https://www.lavanguardia.com/politica/20260813/11613463/gobierno-omite-mensajes-rabat-evita-choque-diplomatico-soberania-ceuta-melilla.html",
+      "desc": "El Partido Popular reclama que se llame a consultas al embajador de Marruecos tras las palabras del ministro de Justicia que ponían en duda la españolidad de Ceuta y Melilla",
+      "date": "13 Aug 2026 19:52:50 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
+    {
+      "title": "Otro incendio que amenaza a un pinar en León obliga también a desalojar un barrio en Caboalles de Abajo",
+      "link": "https://www.abc.es/espana/castilla-leon/incendio-amenaza-pinar-leon-obliga-desalojar-barrio-20260813194923-nt.html",
+      "desc": "Pasadas las 16.30 horas, en un día con alerta por altas temperaturas y riesgo alto de incendios , las alertas saltaban en Caboalles de Abajo (León). Un fuego en una poblada masa forestal que pronto llevaba a Medio Ambiente a elevar a 1 el Índice Potencial de R",
+      "date": "Thu, 13 Aug 2026 19:49:24 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Una intensa granizada cubre de blanco Nerpio y desploma la temperatura de 32 a 15 grados",
+      "link": "https://www.abc.es/espana/castilla-la-mancha/intensa-granizada-cubre-blanco-nerpio-desploma-temperatura-20260813194511-nt.html",
+      "desc": "La provincia de Albacete se encuentra este jueves en alerta por el episodio de tormentas que está afectando a buena parte del territorio, con avisos de nivel naranja en varias comarcas y amarillo en otras zonas por lluvias, tormentas, granizo y fuertes rachas ",
+      "date": "Thu, 13 Aug 2026 19:45:12 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Andalucía será el gran destino del astroturismo los dos próximos años",
+      "link": "https://www.abc.es/espana/andalucia/andalucia-gran-destino-astroturismo-dos-proximos-anos-20260813194507-nts.html",
+      "desc": "Tras el enorme impacto social y mediático del eclipse total de sol de este miércoles, Andalucía ya se frota las manos pues va a convertirse, más que previsiblemente, en el principal destino del astroturismo los dos próximos años por dos hitos similares al que ",
+      "date": "Thu, 13 Aug 2026 19:45:08 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "La RFEF abre un expediente disciplinario al Córdoba Patrimonio por «presunta comisión de infracciones muy graves»",
+      "link": "https://www.abc.es/espana/andalucia/cordoba/rfef-abre-expediente-disciplinario-cordoba-patrimonio-presunta-20260813194450-nts.html",
+      "desc": "El Córdoba Patrimonio de la Humanidad vuelve a quedar ligado a un asunto extradeportivo tras recibir por parte de la Real Federación Española de Fútbol en un «expediente disciplinario extraordinario por la presunta comisión de infracciones muy graves previstas",
+      "date": "Thu, 13 Aug 2026 19:44:51 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Más de 3.000 de personas vivieron en AstroHita una experiencia única con el eclipse solar como protagonista",
+      "link": "https://www.abc.es/espana/castilla-la-mancha/toledo/3000-personas-vivieron-astrohita-experiencia-unica-eclipse-20260813191120-nt.html",
+      "desc": "Miles de personas disfrutaron este miércoles de una jornada histórica en el Complejo Astronómico de La Hita con motivo del eclipse solar , una cita excepcional que convirtió durante horas a la provincia de Toledo en escenario privilegiado para contemplar uno d",
+      "date": "Thu, 13 Aug 2026 19:11:20 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Vox avisa a Llorca de votos de castigo si acepta la acogida de menores migrantes de Ceuta",
+      "link": "https://www.abc.es/espana/comunidad-valenciana/vox-avisa-llorca-votos-castigo-acepta-acogida-20260813185336-nt.html",
+      "desc": "Vox va a hacer «todo lo posible» para que la Comunidad Valenciana no acoja a ningún menor migrante llegado a las costas de Ceuta si el Gobierno y las autonomías acordaran un reparto entre territorios. Tanto que, según ha deslizado su síndic en les Corts, José ",
+      "date": "Thu, 13 Aug 2026 18:59:23 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "La Comunida triplicará las plantas autóctonas para reforestar la Sierra Oeste",
       "link": "https://www.abc.es/espana/madrid/comunidad-triplicara-plantas-autoctonas-reforestar-sierra-oeste-20260813183747-nt.html",
       "desc": "La 'reconstrucción' de la Sierra Oeste de Madrid sigue avanzando a buen ritmo tras la catástrofe de los incendios del mes de julio, que arrasaron unas 27.000 hectáreas. La Comunidad de Madrid se ha puesto manos a la obra para reforestar las zonas devastadas po",
       "date": "Thu, 13 Aug 2026 18:37:47 +0200",
@@ -103,9 +203,9 @@
       "caso": "other"
     },
     {
-      "title": "Ceuta comunica que espera asumir la tutela de 4.000 menores y pide su reubicación",
+      "title": "Ceuta teme que tenga que asumir la tutela de 4.000 menores y pide su reubicación",
       "link": "https://www.abc.es/espana/mayoria-autonomias-exigen-gobierno-haga-cargo-reparto-20260813180015-nt.html",
-      "desc": "Ceuta espera la filiación de 4.000 menores no acompañados que, dos semanas después de la invasión, seguirían en el interior de su ciudad sin estar identificados y sin recibir la atención requerida. Así lo ha comunicado la representante del gobierno ceutí en la",
+      "desc": "Ceuta espera la filiación de 4.000 menores no acompañados que, dos semanas después de la invasión, y según las autoridades locales, siguen en el interior de su ciudad sin estar identificados y sin recibir la atención requerida. Así lo ha comunicado la represen",
       "date": "Thu, 13 Aug 2026 18:00:15 +0200",
       "source": "ABC",
       "color": "#c0392b",
@@ -140,106 +240,6 @@
       "source": "ABC",
       "color": "#c0392b",
       "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Polémica en Colombia por la gestión de los equipos de rescate",
-      "link": "https://www.lavanguardia.com/internacional/20260813/11613402/polemica-colombia-gestion-equipos-rescate-terremoto.html",
-      "desc": "Bogotá rechaza la ayuda de Los Topos de México y acepta sólo unidades de países con gobiernos afines como Estados Unidos, Ecuador, El Salvador e Israel",
-      "date": "13 Aug 2026 17:53:12 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "Los embalses de la región pierden un 7,5 por ciento de su capacidad en los últimos cinco meses",
-      "link": "https://www.abc.es/espana/castilla-la-mancha/embalses-region-pierden-ciento-capacidad-ultimos-cinco-20260813175246-nt.html",
-      "desc": "Las cuantiosas lluvias de los primeros meses del presente año 2026 hicieron elevar el agua embalsada en los pantanos de Castilla-La Mancha a un porcentaje histórico que no se registraba en décadas, superando el 70 por ciento de su aforo total a mediados del me",
-      "date": "Thu, 13 Aug 2026 17:52:47 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Mueren dos personas tras colisionar un coche y un camión en San Rafael del Río (Castellón)",
-      "link": "https://www.abc.es/espana/comunidad-valenciana/mueren-dos-personas-tras-colisionar-coche-camion-20260813174056-nt.html",
-      "desc": "Dos personas han fallecido este jueves tras la colisión entre un turismo y un camión en la CV-11, a su paso por San Rafael del Río (Castellón). Las víctimas son una mujer de 72 años y un hombre cuya edad no ha trascendido. Así lo han informado fuentes del Cent",
-      "date": "Thu, 13 Aug 2026 17:40:56 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Mercadona invierte 150 millones de euros para expandir su red de supermercados en Portugal",
-      "link": "https://www.abc.es/espana/comunidad-valenciana/mercadona-invierte-150-millones-euros-crecer-portugal-20260813172801-nt.html",
-      "desc": "Mercadona acelera su expansión en Portugal con una inversión de 150 millones de euros durante 2026 y la apertura de nuevos supermercados que le permiten ampliar su negocio en territorio luso. La compañía presidida por Juan Roig prevé inaugurar dos nuevas tiend",
-      "date": "Thu, 13 Aug 2026 17:38:50 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "El PP denuncia que más de 10.000 albaceteños sufren las listas de espera sanitarias",
-      "link": "https://www.abc.es/espana/castilla-la-mancha/pp-denuncia-10000-albacetenos-sufren-listas-espera-20260813173535-nt.html",
-      "desc": "El diputado del PP de Castilla-La Mancha Juan Antonio Moreno ha denunciado este jueves la situación «insostenible» de las listas de espera en el Complejo Hospitalario Universitario de Albacete (CHUA) y ha asegurado que el problema afecta a más de 10.000 pacien",
-      "date": "Thu, 13 Aug 2026 17:35:36 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Un incendio forestal en Checa (Guadalajara)  se eleva a nivel 1 y obliga cortar la CM-2111",
-      "link": "https://www.abc.es/espana/castilla-la-mancha/incendio-forestal-checa-guadalajara-eleva-nivel-obliga-20260813172048-nt.html",
-      "desc": "Nuevo incendio en Guadalajara. Hasta 15 medios, cuatro de ellos aéreos, trabajan en las labores de extinción del incendio forestal declarado este jueves en la localidad de Checa (Guadalajara), que ha subido a Situación Operativa Nivel 1 por afección de humo a ",
-      "date": "Thu, 13 Aug 2026 17:20:48 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "La Junta prolonga hasta mañana viernes la quinta situación de alerta por riesgo meteorológico de incendios forestales",
-      "link": "https://www.abc.es/espana/castilla-leon/junta-prolonga-manana-viernes-quinta-situacion-alerta-20260813171647-nt.html",
-      "desc": "La Junta ha prolongado la situación de alerta por riesgo meteorológico de incendios forestales en toda Castilla y León hasta el 14 de agosto, ante la persistencia de las condiciones desfavorables que mantienen elevado el riesgo de inicio y propagación de los i",
-      "date": "Thu, 13 Aug 2026 17:19:31 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "El incendio de Riglos (Huesca) se complica: 8.000 hectáreas afectadas y amenaza a San Juan de la Peña",
-      "link": "https://www.abc.es/espana/aragon/incendio-riglos-huesca-complica-8000-hectareas-afectadas-20260813171927-nt.html",
-      "desc": "El consejero de Medio Ambiente y Turismo del Gobierno de Aragón, Luis Biendicho, ha confirmado que la evolución del incendio forestal declarado el lunes en Las Peñas de Riglos (Huesca) se ha complicado este jueves por la mañana, con las llamas dirigiéndose al ",
-      "date": "Thu, 13 Aug 2026 17:19:28 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Más de 400 personas han sido atendidas en doce comunidades, la mayoría por daño ocular, tras el eclipse",
-      "link": "https://www.lavanguardia.com/vida/20260813/11613227/eclipse-registra-incidencias-leves-residuales-pais.html",
-      "desc": "Las comunidades reportan además mareos por el calor, rescates en las montañas y denuncias por no respetar los espacios naturales&nbsp;",
-      "date": "13 Aug 2026 16:37:27 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "Legisladores de EE.UU. denuncian el deterioro de las condiciones de los soldados a bordo del portaaviones Lincoln",
-      "link": "https://www.lavanguardia.com/internacional/20260813/11613361/legisladores-ee-uu-denuncian-deterioro-condiciones-soldados-bordo-portaaviones-abraham-lincoln.html",
-      "desc": "El senador Richard Blumenthal alerta en una carta al jefe del Pentágono sobre la “escasez de suministros básicos, contaminación del agua, problemas de fontanería y deterioro de la salud mental”",
-      "date": "13 Aug 2026 16:34:49 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
       "caso": "other"
     }
   ]
