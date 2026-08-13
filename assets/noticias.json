@@ -1,11 +1,151 @@
 {
-  "updated": "2026-08-13T12:57:37Z",
+  "updated": "2026-08-13T14:52:29Z",
   "count": 24,
   "items": [
     {
-      "title": "Gobierno Vasco dice que «no aceptará derivaciones impuestas, improvisadas o sin garantías» de menores llegados a Ceuta",
+      "title": "Confirmado el tercer caso en Salamanca de fiebre hemorrágica por picadura de garrapata dos meses",
+      "link": "https://www.abc.es/espana/castilla-leon/confirmado-tercer-salamanca-fiebre-hemorragica-picadura-garrapata-20260813162511-nt.html",
+      "desc": "Tercer caso de Fiebre Hemorrágica Crimea-Congo (FHCC) confirmado en la provincia de Salamanca en menos de dos meses. De nuevo u n varón que sufrió una picadura de garrapata es el paciente, que también ha sido trasladado al hospital Gómez Ulla de Madrid, de ref",
+      "date": "Thu, 13 Aug 2026 16:38:56 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Más de 400 personas han sido atendidas en doce comunidades, la mayoría por daño ocular, tras el eclipse",
+      "link": "https://www.lavanguardia.com/vida/20260813/11613227/eclipse-registra-incidencias-leves-residuales-pais.html",
+      "desc": "Las comunidades reportan además mareos por el calor, rescates en las montañas y denuncias por no respetar los espacios naturales&nbsp;",
+      "date": "13 Aug 2026 16:37:27 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
+    {
+      "title": "Legisladores de EE.UU. denuncian el deterioro de las condiciones de los soldados a bordo del portaaviones Lincoln",
+      "link": "https://www.lavanguardia.com/internacional/20260813/11613361/legisladores-ee-uu-denuncian-deterioro-condiciones-soldados-bordo-portaaviones-abraham-lincoln.html",
+      "desc": "El senador Richard Blumenthal alerta en una carta al jefe del Pentágono sobre la “escasez de suministros básicos, contaminación del agua, problemas de fontanería y deterioro de la salud mental”",
+      "date": "13 Aug 2026 16:34:49 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
+    {
+      "title": "Dos F-18 españoles en Rumanía despegan por alerta de dron en el límite con Ucrania",
+      "link": "https://www.lavanguardia.com/internacional/20260813/11613354/dos-f-18-espanoles-rumania-despegan-alerta-dron-limite-ucrania.html",
+      "desc": "El Ministerio de Defensa rumano detecta un objeto no identificado en el río que separa ambos países",
+      "date": "13 Aug 2026 16:21:20 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
+    {
+      "title": "Galicia aceptará la llegada de menores inmigrantes de Ceuta con condiciones",
+      "link": "https://www.abc.es/espana/galicia/galicia-aceptara-llegada-menores-inmigrantes-ceuta-condiciones-20260813161549-nt.html",
+      "desc": "Galicia se mostrará solidaria con Ceuta y la situación extrema que está viviendo tras la última avalancha descontrolada de inmigrantes procedentes de Marruecos, cuando 80.000 personas que entraron irregularmente en la Ciudad Autónoma el pasado 30 de julio, mil",
+      "date": "Thu, 13 Aug 2026 16:15:49 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Planes en Madrid este fin de semana: de la verbena de la Paloma a un concierto de fado",
+      "link": "https://www.abc.es/espana/madrid/planes-madrid-fin-semana-fiestas-paloma-fado-20260813160436-nt.html",
+      "desc": "Este fin de semana de agosto se presenta como uno de los más musicales del año. La mayor parte de las actividades están dirigidas a amantes de la música, aunque hay una gran diversidad que se adapta a todos los estilos. Los más castizos podrán bailar unos chot",
+      "date": "Thu, 13 Aug 2026 16:04:36 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Martínez pide planes de reforestación y recuperación pactados con vecinos y ayuntamientos",
+      "link": "https://www.abc.es/espana/castilla-leon/martinez-pide-planes-reforestacion-recuperacion-pactados-vecinos-20260813160122-nt.html",
+      "desc": "El secretario general del Parido Socialista de Castilla y León (PSCL) Carlos Martínez, reclamaba este jueves la aprobación de planes directores de gestión forestal, reforestación y recuperación ambiental de la superficie quemada en el Valle del Tiétar (Ávila) ",
+      "date": "Thu, 13 Aug 2026 16:01:23 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "La Junta aprueba más de 3,8 millones en ayudas vinculadas a los daños de los incendios",
+      "link": "https://www.abc.es/espana/castilla-leon/junta-aprueba-millones-ayudas-vinculadas-danos-incendios-20260813154744-nt.html",
+      "desc": "Con el rastro del paso del fuego aún caliente y en lugares como en la provincia de Ávila con el incendio forestal declarado el pasado 22 de julio aún sin darse por extinguido tras extenderse por unas 50.000 hectáreas, la Junta de Castilla y León aprobaba este ",
+      "date": "Thu, 13 Aug 2026 15:47:44 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Muere una castellonense de 31 años en el naufragio de una lancha turística en Colombia",
+      "link": "https://www.abc.es/espana/comunidad-valenciana/muere-turista-castellonense-naufragio-lancha-turistica-caribe-20260813142739-nt.html",
+      "desc": "Una turista castellonense de 31 años ha fallecido ahogada tras el naufragio de una embarcación de recreo registrado este pasado martes en el sector de Cabo San Juan, en el Parque Nacional Natural Tayrona ubicado en el Caribe colombiano. Las autoridades del paí",
+      "date": "Thu, 13 Aug 2026 15:43:16 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "¿Te perdiste el eclipse o te encantó? Solo hay que esperar al siguiente un año: fecha, horario y magnitud en Córdoba",
+      "link": "https://www.abc.es/espana/andalucia/cordoba/perdiste-eclipse-encanto-solo-esperar-siguiente-ano-20260813151154-nts.html",
+      "desc": "Tanto los que quedaron fascinados con el eclipse del sol en Córdoba como para los que no lo pudieron ver -por estar trabajando o por no haber conseguido lograr las agotadísimas gafas necesarias para contemplarlo de forma protegida- van a tener pronto una nueva",
+      "date": "Thu, 13 Aug 2026 15:11:54 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Marlaska elogia la relación con Marruecos y eleva a 1.898 los menores migrantes registrados en Ceuta",
+      "link": "https://www.lavanguardia.com/politica/20260813/11613318/marlaska-elogia-relacion-marruecos-eleva-1-898-menores-registrados-ceuta.html",
+      "desc": "El ministro de Interior pide al poder judicial la autorización para expulsar inmediatamente a quien cometa un delito",
+      "date": "13 Aug 2026 15:11:16 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
+    {
+      "title": "Ayuso acusa a los ministros de irse «de fiesta a cuerpo de rey» para ver el eclipse",
+      "link": "https://www.abc.es/espana/madrid/ayuso-acusa-ministros-irse-fiesta-cuerpo-rey-20260813150254-nt.html",
+      "desc": "Isabel Díaz Ayuso ha tomado buena nota de la «fiesta a cuerpo de rey» que, según ha denunciado, organizaron el miércoles 12 de agosto, día del eclipse total, cuatro ministros en el Observatorio de Yebes (Guadalajara) , donde el Gobierno de Sánchez había instal",
+      "date": "Thu, 13 Aug 2026 15:02:54 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Marlaska rebaja la tensión con Rabat y descarta la suspensión de las extradiciones",
+      "link": "https://www.abc.es/espana/marlaska-reconoce-5000-inmigrantes-permanecen-ceuta-20260813145823-nt.html",
+      "desc": "Fernando Grande-Marlaska ha regresado este jueves a Ceuta en plena escalada diplomática con Marruecos por la soberanía de las dos ciudades autónomas españolas y el retorno inmediato de todos sus nacionales -salvo solicitantes de protección internacional. Se tr",
+      "date": "Thu, 13 Aug 2026 14:58:24 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Más de cuarenta andaluces acuden a urgencias oftalmológicas tras el eclipse",
+      "link": "https://www.abc.es/espana/andalucia/cuarenta-andaluces-acuden-urgencias-oftalmologicas-tras-eclipse-20260813145432-nts.html",
+      "desc": "España vivió el pasado miércoles 12 de agosto el primer eclipse solar total en más de un siglo, aunque en la región andaluza solo se pudo observar de forma parcial. Eso no impidió que cientos de miles de personas estuvieran atentas al cielo durante la tarde de",
+      "date": "Thu, 13 Aug 2026 14:56:20 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "El Gobierno vasco dice que «no aceptará derivaciones impuestas, improvisadas o sin garantías» de menores llegados a Ceuta",
       "link": "https://www.abc.es/espana/pais-vasco/gobierno-vasco-dice-aceptara-derivaciones-impuestas-improvisadas-20260813145131-nt.html",
-      "desc": "El Gobierno Vasco ha asegurado que Euskadi «no aceptará derivaciones impuestas, improvisadas o sin garantías» de menores llegados a Ceuta y ha reclamado que el Estado no opte como «primera opción» repartir menores, sino por «localizar a sus familias y valorar ",
+      "desc": "El Gobierno vasco ha asegurado que el País Vasco «no aceptará derivaciones impuestas, improvisadas o sin garantías» de menores llegados a Ceuta y ha reclamado que el Estado no opte como «primera opción» repartir menores, sino por «localizar a sus familias y va",
       "date": "Thu, 13 Aug 2026 14:51:31 +0200",
       "source": "ABC",
       "color": "#c0392b",
@@ -63,6 +203,16 @@
       "caso": "other"
     },
     {
+      "title": "Ceuta enfrenta al Gobierno y al PP pese a su acuerdo sobre el retorno de los menores",
+      "link": "https://www.lavanguardia.com/politica/20260813/11613295/ceuta-enfrenta-gobierno-pp-pese-coincidencia-sobre-retorno-menores.html",
+      "desc": "Las comunidades populares bloquean un debate específico sobre la ciudad autónoma en la Conferencia Sectorial del 27 de agosto",
+      "date": "13 Aug 2026 14:32:32 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
+    {
       "title": "La Junta garantiza la exhumación de víctimas de la Guerra Civil junto a la entidad Manuel Azaña",
       "link": "https://www.abc.es/espana/castilla-la-mancha/junta-garantiza-exhumacion-victimas-guerra-civil-junto-20260813142946-nt.html",
       "desc": "El Gobierno de Castilla-La Mancha y la Asociación Manuel Azaña han analizado diversos proyectos relacionados con la localización, identificación y exhumación de personas desaparecidas durante la Guerra Civil y la dictadura franquista , así como posibles actuac",
@@ -90,156 +240,6 @@
       "source": "ABC",
       "color": "#c0392b",
       "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Marruecos militariza la frontera y comienza a colocar alambradas",
-      "link": "https://www.abc.es/espana/marruecos-anuncia-militariza-frontera-comienza-colocar-concertinas-20260813141238-nt.html",
-      "desc": "Marruecos empieza a anunciar cuáles son las medidas extraordinarias que implementará en la frontera con Ceuta , según ha avanzado la prensa oficialista marroquí 'Le360' y ha hecho eco 'Colpisa'. Ante el llamamiento que se ha producido en redes sociales para qu",
-      "date": "Thu, 13 Aug 2026 14:12:39 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Robles se pliega a la Moncloa y descarta acudir al Senado en agosto",
-      "link": "https://www.abc.es/espana/robles-dice-ira-agosto-senado-necesita-tiempo-20260813140207-nt.html",
-      "desc": "Tras 48 horas de incertidumbre, un día después de lo que prometió el Gobierno , la ministra de Defensa, Margarita Robles, ha resuelto el misterio. No comparecerá el 18 de agosto en el Senado para dar explicaciones sobre la crisis de Ceuta. Tampoco en lo que re",
-      "date": "Thu, 13 Aug 2026 14:03:22 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "El Hospital de Toledo incorpora una tecnología pionera para detectar tumores",
-      "link": "https://www.abc.es/espana/castilla-la-mancha/hospital-toledo-incorpora-tecnologia-pionera-detectar-tumores-20260813140043-nt.html",
-      "desc": "Treinta pacientes ya han pasado por el nuevo PET del Hospital Universitario de Toledo desde su puesta en marcha el pasado mes de abril. El equipo, que combina en una misma exploración la Tomografía por Emisión de Positrones (PET) digital y una resonancia magné",
-      "date": "Thu, 13 Aug 2026 14:00:44 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Toledo licita por 269.537 euros y tres meses la gestión de sus escuelas infantiles",
-      "link": "https://www.abc.es/espana/castilla-la-mancha/toledo/toledo-licita-269537-euros-tres-meses-gestion-20260813135649-nt.html",
-      "desc": "El Ayuntamiento de Toledo ha aprobado este jueves el inicio del expediente para contratar durante tres meses la gestión de las escuelas infantiles municipales, una solución temporal con la que el Consistorio pretende garantizar la continuidad del servicio mien",
-      "date": "Thu, 13 Aug 2026 13:56:49 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Más de una decena de detenidos al encallar una narcolancha en Gran Canaria",
-      "link": "https://www.abc.es/espana/canarias/decena-detenidos-encallar-narcolancha-gran-canaria-20260813135440-nt.html",
-      "desc": "Unas 11 personas han sido detenidas en una operación de Policía Nacional contra el tráfico de drogas después de encallar una embarcación en la zona de Castillo del Romeral, al sur de Gran Canaria. La neumática se encontró en la madrugada de este miércoles, sob",
-      "date": "Thu, 13 Aug 2026 13:54:40 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Susto en Parque Azahara: el incendio de un piso obliga a desalojar a 25 vecinos",
-      "link": "https://www.abc.es/espana/andalucia/cordoba/susto-parque-azahara-incendio-piso-obliga-desalojar-20260813135356-nts.html",
-      "desc": "Susto en Parque Azahara en la mañana de este jueves por el incendio en una vivienda : ha sido necesario desalojar el bloque afectado y tres personas han tenido que ser atendidas, según se ha informado tanto desde el Ayuntamiento como desde el Servicio de Emerg",
-      "date": "Thu, 13 Aug 2026 13:54:27 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Vox denuncia que 167 médicos trabajan en el Sescam sin MIR ni especialidad reconocida",
-      "link": "https://www.abc.es/espana/castilla-la-mancha/vox-denuncia-167-medicos-trabajan-sescam-mir-20260813134912-nt.html",
-      "desc": "El déficit de médicos en Castilla-La Mancha ha llevado al Sescam a recurrir, según denuncia Vox en nota de prensa, a facultativos extracomunitarios que ejercen sin haber realizado el MIR y sin contar con una especialidad oficialmente reconocida en España. El p",
-      "date": "Thu, 13 Aug 2026 13:49:12 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Catalá endurece el discurso contra el «turismo incívico» en Valencia: «Aquí ya no vale cualquier tipo de turista»",
-      "link": "https://www.abc.es/espana/comunidad-valenciana/catala-endurece-discurso-turismo-incivico-valencia-vale-20260813134027-nt.html",
-      "desc": "El debate sobre los apartamentos turísticos vuelve a estar sobre la mesa en la ciudad de Valencia, donde las quejas vecinales por las molestias vinculadas a este tipo de alojamientos conviven con el peso cada vez mayor del turismo en la ciudad. En esta línea, ",
-      "date": "Thu, 13 Aug 2026 13:40:54 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "El juez Zamarriego apunta a personas con mayor «jerarquía» dentro del entramado del caso Leire",
-      "link": "https://www.abc.es/espana/juez-zamarriego-desliza-leire-puede-afectar-personas-20260813133339-nt.html",
-      "desc": "El primer juez instructor del caso Leire, Arturo Zamarriego, ha señalado en un escrito de la existencia de «otras personas» que podrían tener un «mayor nivel de jerarquía» en el presunto entramado investigado conocido como la 'cloaca' del PSOE supuestamente di",
-      "date": "Thu, 13 Aug 2026 13:33:39 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "lei"
-    },
-    {
-      "title": "Cuatro rescatados en la Bola del Mundo y Siete Picos, donde accedieron para ver el eclipse",
-      "link": "https://www.abc.es/espana/madrid/cuatro-rescatados-bola-mundo-siete-picos-accedieron-20260813131215-nt.html",
-      "desc": "La Guardia Civil ha rescatado cuatro personas en zonas de alta montaña de la región durante la noche de este miércoles. Todos ellos se habían trasladado a la Bola del Mundo y a Siete Picos para seguir el eclipse solar, ha informado la Benemérita en un comunica",
-      "date": "Thu, 13 Aug 2026 13:21:56 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Cárcel de Córdoba: los funcionarios salvan a un preso en una pelea y al reanimarle les agrede con cuchillas",
-      "link": "https://www.abc.es/espana/andalucia/cordoba/carcel-cordoba-funcionarios-salvan-preso-pelea-reanimarle-20260813131822-nts.html",
-      "desc": "La sección sindical de APFP (Asociación Profesional de Funcionarios de Prisiones) de la cárcel de Córdoba ha informado, en un comunicado, este jueves, de una nueva agresión ocurrida en ella en la jornada del miércoles. Tras el cierre de celdas de la noche , so",
-      "date": "Thu, 13 Aug 2026 13:18:23 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Enérgica protesta de Japón por la primera visita de Putin a las Kuriles",
-      "link": "https://www.lavanguardia.com/internacional/20260813/11613245/energica-protesta-de-japon-ante-la-primera-visita-de-putin-a-las-kuriles.html",
-      "desc": "La disputa sobre las cuatro islas más al sur del archipiélago es la causa de que Moscú y Tokio nunca hayan firmado la paz tras la Segunda Guerra Mundial",
-      "date": "13 Aug 2026 13:15:50 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "Anoche pudimos tocar a Dios",
-      "link": "https://www.lavanguardia.com/cultura/20260813/11613222/anoche-pudimos-tocar-dios-david-ucles-cronica-eclipse.html",
-      "desc": "",
-      "date": "13 Aug 2026 13:08:25 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "El espectáculo del eclipse no se detiene en el 2026: dónde y cuándo observarlo en los próximos años",
-      "link": "https://www.lavanguardia.com/vida/20260813/11613205/espectaculo-eclipse-detiene-2026-donde-cuando-observarlo-proximos-anos.html",
-      "desc": "El evento astronómico que hizo levantar la mirada a millones de personas se repetirá en modalidades, horarios y lugares diferentes",
-      "date": "13 Aug 2026 13:05:40 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "¿Y después del eclipse, qué?",
-      "link": "https://www.lavanguardia.com/vida/20260813/11613164/eclipse-que.html",
-      "desc": "",
-      "date": "13 Aug 2026 12:29:23 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
       "caso": "other"
     }
   ]
