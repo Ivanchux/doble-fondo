@@ -1,11 +1,61 @@
 {
-  "updated": "2026-08-13T18:55:59Z",
+  "updated": "2026-08-13T20:36:25Z",
   "count": 24,
   "items": [
     {
+      "title": "Las claves del  incendio de Niebla: un fuego capaz de cambiar de dirección o de saltar más de tres kilómetros",
+      "link": "https://www.abc.es/espana/andalucia/claves-incendio-niebla-fuego-capaz-cambiar-direccion-20260813221300-nts.html",
+      "desc": "El incendio forestal originado el pasado 6 de agosto en el paraje Raboconejo de Niebla ha adquirido unas dimensiones y una complejidad que han puesto a prueba al dispositivo de extinción. El fuego ha recorrido ya unas 31.000 hectáreas y presenta un comportamie",
+      "date": "Thu, 13 Aug 2026 22:13:00 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "The Rapants, Fillas de Cassandra y Eladio actúan en Castrelos el 16 de agosto",
+      "link": "https://www.abc.es/espana/galicia/the-rapants-fillas-cassandra-eladio-actuan-castrelos-20260813220001-nt.html",
+      "desc": "Castrelos vuelve a sumar una fecha a su agenda de conciertos de verano. El auditorio al aire libre de Vigo recibirá el domingo 16 de agosto a Fillas de Cassandra, Eladio y los Seres Queridos y The Rapants, tres de los nombres propios del momento en la música g",
+      "date": "Thu, 13 Aug 2026 22:00:01 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Un joven resulta electrocutado por ver el eclipse desde el techo de un tren",
+      "link": "https://www.lavanguardia.com/local/barcelona/20260813/11613485/joven-electrocutado-eclipse-techo-tren-altafulla.html",
+      "desc": "Se subió a un convoy de mercancías estacionado en Altafulla para ganar perspectiva y recibió una descarga eléctrica de la catenaria que casi lo mata",
+      "date": "13 Aug 2026 21:22:44 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
+    {
+      "title": "Ferran Torres, el tiburón que no acabó de cautivar en el Barça",
+      "link": "https://www.lavanguardia.com/deportes/fc-barcelona/20260813/11613490/ferran-torres-tiburon-acabo-cautivar-barca.html",
+      "desc": "El valenciano se marcha al PSG con una cifra de goles aceptable en sus cuatro años y medio en el club, pero sin ser uno de los preferidos del barcelonismo",
+      "date": "13 Aug 2026 21:15:22 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
+    {
+      "title": "Los apasionados a los eclipses puntúan con «un once de diez» a la observación desde Paredes de Nava",
+      "link": "https://www.abc.es/espana/castilla-leon/apasionados-eclipses-puntuan-once-diez-observacion-paredes-20260813210033-nt.html",
+      "desc": "«Un eclipse que puntuaría once de diez , de los 24 que he visto va a estar entre los tres o cuatro primeros», declara el cazador de eclipses Alejandro Arroyo después de contemplar el fenómeno el pasado miércoles, 12 de agosto, desde la localidad palentina de P",
+      "date": "Thu, 13 Aug 2026 21:00:33 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
       "title": "Asalto violento con intento de secuestro en un Airbnb de Barcelona",
       "link": "https://www.lavanguardia.com/local/barcelona/20260813/11613472/asalto-violento-intento-secuestro-airbnb-eixample.html",
-      "desc": "Los delincuentes retuvieron, agredieron y grabaron a un influencer egipcio y enviaron las imágenes a sus familiares para exigir dinero",
+      "desc": "Los delincuentes retuvieron, agredieron y grabaron a un influencer tunecino y enviaron las imágenes a sus familiares para exigir dinero",
       "date": "13 Aug 2026 20:20:02 +0200",
       "source": "La Vanguardia",
       "color": "#8e44ad",
@@ -187,56 +237,6 @@
       "link": "https://www.abc.es/espana/madrid/guerra-pistolas-agua-hinchables-acuaticos-fiestas-san-20260813180441-nt.html",
       "desc": "Becerril de la Sierra celebra sus fiestas patronales en honor a San Roque 2026 desde este jueves y hasta el 17 de agosto con una programación que incluye conciertos tributo , actividades acuáticas, torneos deportivos, eventos tradicionales y propuestas infanti",
       "date": "Thu, 13 Aug 2026 18:04:42 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Prisión para los dos detenidos por el crimen del matrimonio de Tauste (Zaragoza)",
-      "link": "https://www.abc.es/espana/aragon/prision-dos-detenidos-crimen-matrimonio-tauste-zaragoza-20260813180129-nt.html",
-      "desc": "El juez ha decretado este jueves prisión para los dos detenidos por la muerte del ex secretario general de la Unión de Agricultores y Ganaderos de Aragón (UAGA) Javier Sánchez y su esposa, Ester Latorre, en Tauste (Zaragoza). Según informa 'El periódico de Ara",
-      "date": "Thu, 13 Aug 2026 18:01:29 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Ceuta teme que tenga que asumir la tutela de 4.000 menores y pide su reubicación",
-      "link": "https://www.abc.es/espana/mayoria-autonomias-exigen-gobierno-haga-cargo-reparto-20260813180015-nt.html",
-      "desc": "Ceuta espera la filiación de 4.000 menores no acompañados que, dos semanas después de la invasión, y según las autoridades locales, siguen en el interior de su ciudad sin estar identificados y sin recibir la atención requerida. Así lo ha comunicado la represen",
-      "date": "Thu, 13 Aug 2026 18:00:15 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Paula Sevilla alcanza la final europea tras su gran carrera",
-      "link": "https://www.abc.es/espana/castilla-la-mancha/toledo/deportes/paula-sevilla-alcanza-final-europea-tras-gran-20260813180003-nt.html",
-      "desc": "Paula Sevilla, en las semifinales del 27 Campeonato de Europa de Atletismo Absoluto que se está disputando en la ciudad inglesa de Birmingham ha hecho un carrerón clasificándose para la final. Quedó tercera en su serie corriendo en 50 21, superando su mejor ma",
-      "date": "Thu, 13 Aug 2026 18:00:03 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Transportes licita por 6,15 millones la mejora del firme de la A-43 entre Ciudad Real y Torralba",
-      "link": "https://www.abc.es/espana/castilla-la-mancha/toledo/transportes-licita-615-millones-mejora-firme-a43-20260813175524-nt.html",
-      "desc": "El Ministerio de Transportes y Movilidad Sostenible ha licitado por 6,15 millones de euros las obras de rehabilitación del firme de la A-43 entre Ciudad Real y Torralba de Calatrava. La actuación afectará a un tramo de 17 kilómetros, entre los puntos kilométri",
-      "date": "Thu, 13 Aug 2026 17:57:24 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Detenido en Orense por cobrar a extranjeros por empadronamientos ficticios en cuatro viviendas",
-      "link": "https://www.abc.es/espana/galicia/detenido-orense-cobrar-extranjeros-empadronamientos-ficticios-cuatro-20260813175657-nt.html",
-      "desc": "La Policía Nacional ha detenido en Orense a un hombre como presunto autor de delitos de falsedad documental y contra los derechos de los ciudadanos extranjeros por facilitar empadronamientos ficticios a extranjeros a cambio de dinero. La investigación, denomin",
-      "date": "Thu, 13 Aug 2026 17:56:57 +0200",
       "source": "ABC",
       "color": "#c0392b",
       "feedId": "ABC",
