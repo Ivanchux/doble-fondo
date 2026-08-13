@@ -1,12 +1,222 @@
 {
-  "updated": "2026-08-13T14:52:29Z",
+  "updated": "2026-08-13T16:51:31Z",
   "count": 24,
   "items": [
     {
-      "title": "Confirmado el tercer caso en Salamanca de fiebre hemorrágica por picadura de garrapata dos meses",
-      "link": "https://www.abc.es/espana/castilla-leon/confirmado-tercer-salamanca-fiebre-hemorragica-picadura-garrapata-20260813162511-nt.html",
-      "desc": "Tercer caso de Fiebre Hemorrágica Crimea-Congo (FHCC) confirmado en la provincia de Salamanca en menos de dos meses. De nuevo u n varón que sufrió una picadura de garrapata es el paciente, que también ha sido trasladado al hospital Gómez Ulla de Madrid, de ref",
-      "date": "Thu, 13 Aug 2026 16:38:56 +0200",
+      "title": "La Comunidad triplicará las plantas autóctonas para reforestar la Sierra Oeste",
+      "link": "https://www.abc.es/espana/madrid/comunidad-triplicara-plantas-autoctonas-reforestar-sierra-oeste-20260813183747-nt.html",
+      "desc": "La 'reconstrucción' de la Sierra Oeste de Madrid sigue avanzando a buen ritmo tras la catástrofe de los incendios del mes de julio, que arrasaron unas 27.000 hectáreas. La Comunidad de Madrid se ha puesto manos a la obra para reforestar las zonas devastadas po",
+      "date": "Thu, 13 Aug 2026 18:37:47 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "El Córdoba CF disputará un amistoso en pleno inicio de la temporada ante la AD San José",
+      "link": "https://www.abc.es/espana/andalucia/cordoba/cordoba-cf/cordoba-disputara-amistoso-pleno-inicio-temporada-ante-20260813183535-nts.html",
+      "desc": "El Córdoba CF ampliará su calendario de partidos más allá de la pretemporada. Aunque no es para nada lo habitual, el conjunto blanquiverde disputará el próximo martes 25 de agosto, a las 20.00 horas, un encuentro amistoso ante la AD San José en el estadio Feli",
+      "date": "Thu, 13 Aug 2026 18:35:36 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Málaga repartirá 3.000 pulseras para prevenir la sumisión química durante la Feria",
+      "link": "https://www.abc.es/espana/andalucia/malaga/malaga-repartira-3000-pulseras-prevenir-sumision-quimica-20260813172319-nts.html",
+      "desc": "El Colegio de Médicos de Málaga (Commálaga) ha presentado este jueves un nuevo proyecto piloto para reforzar las labores de prevención y mejorar la respuesta ante posibles casos de sumisión química durante la Feria de Málaga. La iniciativa promovida contempla ",
+      "date": "Thu, 13 Aug 2026 18:31:46 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "El juez Zamarriego señala que Cerdán pagó con fondos del PSOE a Leire Díez «por sus labores»",
+      "link": "https://www.abc.es/espana/juez-zamarriego-senala-cerdan-pago-fondos-psoe-20260813181817-nt.html",
+      "desc": "El primer juez que investigó la presunta 'cloaca' del PSOE , Arturo Zamarriego, apunta que Santos Cerdán, exsecretario de Organización del PSOE, pagó con fondos del partido a Leire Díez por los «servicios» llevados a cabo para desestabilizar las investigacione",
+      "date": "Thu, 13 Aug 2026 18:18:17 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "lei"
+    },
+    {
+      "title": "Prisión provisional para los dos detenidos por el crimen de Tauste",
+      "link": "https://www.lavanguardia.com/local/aragon/20260813/11613418/prision-provisional-dos-detenidos-crimen-tauste.html",
+      "desc": "Los sospechosos, la hija del matrimonio asesinado y su pareja actual, se han negado a declarar al comparecer este jueves ante la autoridad judicial&nbsp;",
+      "date": "13 Aug 2026 18:17:50 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
+    {
+      "title": "La Catedral de Cuenca recupera la música medieval con una misa y un concierto sobre las cruzadas",
+      "link": "https://www.abc.es/espana/castilla-la-mancha/catedral-cuenca-recupera-musica-medieval-misa-concierto-20260813181657-nt.html",
+      "desc": "La Catedral de Cuenca se convertirá este sábado en escenario para recuperar la música medieval en dos formatos diferentes. La jornada comenzará con una misa de la Asunción en la que los cantos volverán a interpretarse dentro de la liturgia para la que fueron c",
+      "date": "Thu, 13 Aug 2026 18:16:57 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Defensa licita por 12 millones la gestión informática de la Base Logística de Córdoba",
+      "link": "https://www.abc.es/espana/andalucia/cordoba/defensa-licita-millones-gestion-informatica-base-logistica-20260813181441-nts.html",
+      "desc": "El Ministerio de Defensa sigue dando pasos para materializar la Base Logística de Córdoba. Tras dejar encarrilada en junio la adjudicación de los contratos de dirección de obra y de ejecución de sus edificios, ahora el turno es para la licitación para dotar a ",
+      "date": "Thu, 13 Aug 2026 18:14:42 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Finalizan las obras de reasfaltado en la Gran Vía Marqués del Turia de Valencia",
+      "link": "https://www.abc.es/espana/comunidad-valenciana/finalizan-obras-reasfaltado-gran-via-marques-turia-20260813181418-nt.html",
+      "desc": "El Ayuntamiento de Valencia ha culminado la instalación de pavimento fonoabsorbente en la Gran Vía Marqués del Turia, un asfalto que también se colocará en otras grandes vías con mucho tráfico. En total, en esta arteria de la ciudad se han modernizado 22.126 m",
+      "date": "Thu, 13 Aug 2026 18:14:19 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Guerra de pistolas de agua e hinchables acuáticos en las fiestas de San Roque de Becerril de la Sierra",
+      "link": "https://www.abc.es/espana/madrid/guerra-pistolas-agua-hinchables-acuaticos-fiestas-san-20260813180441-nt.html",
+      "desc": "Becerril de la Sierra celebra sus fiestas patronales en honor a San Roque 2026 desde este jueves y hasta el 17 de agosto con una programación que incluye conciertos tributo , actividades acuáticas, torneos deportivos, eventos tradicionales y propuestas infanti",
+      "date": "Thu, 13 Aug 2026 18:04:42 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Prisión para los dos detenidos por el crimen del matrimonio de Tauste (Zaragoza)",
+      "link": "https://www.abc.es/espana/aragon/prision-dos-detenidos-crimen-matrimonio-tauste-zaragoza-20260813180129-nt.html",
+      "desc": "El juez ha decretado este jueves prisión para los dos detenidos por la muerte del ex secretario general de la Unión de Agricultores y Ganaderos de Aragón (UAGA) Javier Sánchez y su esposa, Ester Latorre, en Tauste (Zaragoza). Según informa 'El periódico de Ara",
+      "date": "Thu, 13 Aug 2026 18:01:29 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Ceuta comunica que espera asumir la tutela de 4.000 menores y pide su reubicación",
+      "link": "https://www.abc.es/espana/mayoria-autonomias-exigen-gobierno-haga-cargo-reparto-20260813180015-nt.html",
+      "desc": "Ceuta espera la filiación de 4.000 menores no acompañados que, dos semanas después de la invasión, seguirían en el interior de su ciudad sin estar identificados y sin recibir la atención requerida. Así lo ha comunicado la representante del gobierno ceutí en la",
+      "date": "Thu, 13 Aug 2026 18:00:15 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Paula Sevilla alcanza la final europea tras su gran carrera",
+      "link": "https://www.abc.es/espana/castilla-la-mancha/toledo/deportes/paula-sevilla-alcanza-final-europea-tras-gran-20260813180003-nt.html",
+      "desc": "Paula Sevilla, en las semifinales del 27 Campeonato de Europa de Atletismo Absoluto que se está disputando en la ciudad inglesa de Birmingham ha hecho un carrerón clasificándose para la final. Quedó tercera en su serie corriendo en 50 21, superando su mejor ma",
+      "date": "Thu, 13 Aug 2026 18:00:03 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Transportes licita por 6,15 millones la mejora del firme de la A-43 entre Ciudad Real y Torralba",
+      "link": "https://www.abc.es/espana/castilla-la-mancha/toledo/transportes-licita-615-millones-mejora-firme-a43-20260813175524-nt.html",
+      "desc": "El Ministerio de Transportes y Movilidad Sostenible ha licitado por 6,15 millones de euros las obras de rehabilitación del firme de la A-43 entre Ciudad Real y Torralba de Calatrava. La actuación afectará a un tramo de 17 kilómetros, entre los puntos kilométri",
+      "date": "Thu, 13 Aug 2026 17:57:24 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Detenido en Orense por cobrar a extranjeros por empadronamientos ficticios en cuatro viviendas",
+      "link": "https://www.abc.es/espana/galicia/detenido-orense-cobrar-extranjeros-empadronamientos-ficticios-cuatro-20260813175657-nt.html",
+      "desc": "La Policía Nacional ha detenido en Orense a un hombre como presunto autor de delitos de falsedad documental y contra los derechos de los ciudadanos extranjeros por facilitar empadronamientos ficticios a extranjeros a cambio de dinero. La investigación, denomin",
+      "date": "Thu, 13 Aug 2026 17:56:57 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Polémica en Colombia por la gestión de los equipos de rescate",
+      "link": "https://www.lavanguardia.com/internacional/20260813/11613402/polemica-colombia-gestion-equipos-rescate-terremoto.html",
+      "desc": "Bogotá rechaza la ayuda de Los Topos de México y acepta sólo unidades de países con gobiernos afines como Estados Unidos, Ecuador, El Salvador e Israel",
+      "date": "13 Aug 2026 17:53:12 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
+    {
+      "title": "Los embalses de la región pierden un 7,5 por ciento de su capacidad en los últimos cinco meses",
+      "link": "https://www.abc.es/espana/castilla-la-mancha/embalses-region-pierden-ciento-capacidad-ultimos-cinco-20260813175246-nt.html",
+      "desc": "Las cuantiosas lluvias de los primeros meses del presente año 2026 hicieron elevar el agua embalsada en los pantanos de Castilla-La Mancha a un porcentaje histórico que no se registraba en décadas, superando el 70 por ciento de su aforo total a mediados del me",
+      "date": "Thu, 13 Aug 2026 17:52:47 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Mueren dos personas tras colisionar un coche y un camión en San Rafael del Río (Castellón)",
+      "link": "https://www.abc.es/espana/comunidad-valenciana/mueren-dos-personas-tras-colisionar-coche-camion-20260813174056-nt.html",
+      "desc": "Dos personas han fallecido este jueves tras la colisión entre un turismo y un camión en la CV-11, a su paso por San Rafael del Río (Castellón). Las víctimas son una mujer de 72 años y un hombre cuya edad no ha trascendido. Así lo han informado fuentes del Cent",
+      "date": "Thu, 13 Aug 2026 17:40:56 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Mercadona invierte 150 millones de euros para expandir su red de supermercados en Portugal",
+      "link": "https://www.abc.es/espana/comunidad-valenciana/mercadona-invierte-150-millones-euros-crecer-portugal-20260813172801-nt.html",
+      "desc": "Mercadona acelera su expansión en Portugal con una inversión de 150 millones de euros durante 2026 y la apertura de nuevos supermercados que le permiten ampliar su negocio en territorio luso. La compañía presidida por Juan Roig prevé inaugurar dos nuevas tiend",
+      "date": "Thu, 13 Aug 2026 17:38:50 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "El PP denuncia que más de 10.000 albaceteños sufren las listas de espera sanitarias",
+      "link": "https://www.abc.es/espana/castilla-la-mancha/pp-denuncia-10000-albacetenos-sufren-listas-espera-20260813173535-nt.html",
+      "desc": "El diputado del PP de Castilla-La Mancha Juan Antonio Moreno ha denunciado este jueves la situación «insostenible» de las listas de espera en el Complejo Hospitalario Universitario de Albacete (CHUA) y ha asegurado que el problema afecta a más de 10.000 pacien",
+      "date": "Thu, 13 Aug 2026 17:35:36 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Un incendio forestal en Checa (Guadalajara)  se eleva a nivel 1 y obliga cortar la CM-2111",
+      "link": "https://www.abc.es/espana/castilla-la-mancha/incendio-forestal-checa-guadalajara-eleva-nivel-obliga-20260813172048-nt.html",
+      "desc": "Nuevo incendio en Guadalajara. Hasta 15 medios, cuatro de ellos aéreos, trabajan en las labores de extinción del incendio forestal declarado este jueves en la localidad de Checa (Guadalajara), que ha subido a Situación Operativa Nivel 1 por afección de humo a ",
+      "date": "Thu, 13 Aug 2026 17:20:48 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "La Junta prolonga hasta mañana viernes la quinta situación de alerta por riesgo meteorológico de incendios forestales",
+      "link": "https://www.abc.es/espana/castilla-leon/junta-prolonga-manana-viernes-quinta-situacion-alerta-20260813171647-nt.html",
+      "desc": "La Junta ha prolongado la situación de alerta por riesgo meteorológico de incendios forestales en toda Castilla y León hasta el 14 de agosto, ante la persistencia de las condiciones desfavorables que mantienen elevado el riesgo de inicio y propagación de los i",
+      "date": "Thu, 13 Aug 2026 17:19:31 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "El incendio de Riglos (Huesca) se complica: 8.000 hectáreas afectadas y amenaza a San Juan de la Peña",
+      "link": "https://www.abc.es/espana/aragon/incendio-riglos-huesca-complica-8000-hectareas-afectadas-20260813171927-nt.html",
+      "desc": "El consejero de Medio Ambiente y Turismo del Gobierno de Aragón, Luis Biendicho, ha confirmado que la evolución del incendio forestal declarado el lunes en Las Peñas de Riglos (Huesca) se ha complicado este jueves por la mañana, con las llamas dirigiéndose al ",
+      "date": "Thu, 13 Aug 2026 17:19:28 +0200",
       "source": "ABC",
       "color": "#c0392b",
       "feedId": "ABC",
@@ -30,216 +240,6 @@
       "source": "La Vanguardia",
       "color": "#8e44ad",
       "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "Dos F-18 españoles en Rumanía despegan por alerta de dron en el límite con Ucrania",
-      "link": "https://www.lavanguardia.com/internacional/20260813/11613354/dos-f-18-espanoles-rumania-despegan-alerta-dron-limite-ucrania.html",
-      "desc": "El Ministerio de Defensa rumano detecta un objeto no identificado en el río que separa ambos países",
-      "date": "13 Aug 2026 16:21:20 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "Galicia aceptará la llegada de menores inmigrantes de Ceuta con condiciones",
-      "link": "https://www.abc.es/espana/galicia/galicia-aceptara-llegada-menores-inmigrantes-ceuta-condiciones-20260813161549-nt.html",
-      "desc": "Galicia se mostrará solidaria con Ceuta y la situación extrema que está viviendo tras la última avalancha descontrolada de inmigrantes procedentes de Marruecos, cuando 80.000 personas que entraron irregularmente en la Ciudad Autónoma el pasado 30 de julio, mil",
-      "date": "Thu, 13 Aug 2026 16:15:49 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Planes en Madrid este fin de semana: de la verbena de la Paloma a un concierto de fado",
-      "link": "https://www.abc.es/espana/madrid/planes-madrid-fin-semana-fiestas-paloma-fado-20260813160436-nt.html",
-      "desc": "Este fin de semana de agosto se presenta como uno de los más musicales del año. La mayor parte de las actividades están dirigidas a amantes de la música, aunque hay una gran diversidad que se adapta a todos los estilos. Los más castizos podrán bailar unos chot",
-      "date": "Thu, 13 Aug 2026 16:04:36 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Martínez pide planes de reforestación y recuperación pactados con vecinos y ayuntamientos",
-      "link": "https://www.abc.es/espana/castilla-leon/martinez-pide-planes-reforestacion-recuperacion-pactados-vecinos-20260813160122-nt.html",
-      "desc": "El secretario general del Parido Socialista de Castilla y León (PSCL) Carlos Martínez, reclamaba este jueves la aprobación de planes directores de gestión forestal, reforestación y recuperación ambiental de la superficie quemada en el Valle del Tiétar (Ávila) ",
-      "date": "Thu, 13 Aug 2026 16:01:23 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "La Junta aprueba más de 3,8 millones en ayudas vinculadas a los daños de los incendios",
-      "link": "https://www.abc.es/espana/castilla-leon/junta-aprueba-millones-ayudas-vinculadas-danos-incendios-20260813154744-nt.html",
-      "desc": "Con el rastro del paso del fuego aún caliente y en lugares como en la provincia de Ávila con el incendio forestal declarado el pasado 22 de julio aún sin darse por extinguido tras extenderse por unas 50.000 hectáreas, la Junta de Castilla y León aprobaba este ",
-      "date": "Thu, 13 Aug 2026 15:47:44 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Muere una castellonense de 31 años en el naufragio de una lancha turística en Colombia",
-      "link": "https://www.abc.es/espana/comunidad-valenciana/muere-turista-castellonense-naufragio-lancha-turistica-caribe-20260813142739-nt.html",
-      "desc": "Una turista castellonense de 31 años ha fallecido ahogada tras el naufragio de una embarcación de recreo registrado este pasado martes en el sector de Cabo San Juan, en el Parque Nacional Natural Tayrona ubicado en el Caribe colombiano. Las autoridades del paí",
-      "date": "Thu, 13 Aug 2026 15:43:16 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "¿Te perdiste el eclipse o te encantó? Solo hay que esperar al siguiente un año: fecha, horario y magnitud en Córdoba",
-      "link": "https://www.abc.es/espana/andalucia/cordoba/perdiste-eclipse-encanto-solo-esperar-siguiente-ano-20260813151154-nts.html",
-      "desc": "Tanto los que quedaron fascinados con el eclipse del sol en Córdoba como para los que no lo pudieron ver -por estar trabajando o por no haber conseguido lograr las agotadísimas gafas necesarias para contemplarlo de forma protegida- van a tener pronto una nueva",
-      "date": "Thu, 13 Aug 2026 15:11:54 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Marlaska elogia la relación con Marruecos y eleva a 1.898 los menores migrantes registrados en Ceuta",
-      "link": "https://www.lavanguardia.com/politica/20260813/11613318/marlaska-elogia-relacion-marruecos-eleva-1-898-menores-registrados-ceuta.html",
-      "desc": "El ministro de Interior pide al poder judicial la autorización para expulsar inmediatamente a quien cometa un delito",
-      "date": "13 Aug 2026 15:11:16 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "Ayuso acusa a los ministros de irse «de fiesta a cuerpo de rey» para ver el eclipse",
-      "link": "https://www.abc.es/espana/madrid/ayuso-acusa-ministros-irse-fiesta-cuerpo-rey-20260813150254-nt.html",
-      "desc": "Isabel Díaz Ayuso ha tomado buena nota de la «fiesta a cuerpo de rey» que, según ha denunciado, organizaron el miércoles 12 de agosto, día del eclipse total, cuatro ministros en el Observatorio de Yebes (Guadalajara) , donde el Gobierno de Sánchez había instal",
-      "date": "Thu, 13 Aug 2026 15:02:54 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Marlaska rebaja la tensión con Rabat y descarta la suspensión de las extradiciones",
-      "link": "https://www.abc.es/espana/marlaska-reconoce-5000-inmigrantes-permanecen-ceuta-20260813145823-nt.html",
-      "desc": "Fernando Grande-Marlaska ha regresado este jueves a Ceuta en plena escalada diplomática con Marruecos por la soberanía de las dos ciudades autónomas españolas y el retorno inmediato de todos sus nacionales -salvo solicitantes de protección internacional. Se tr",
-      "date": "Thu, 13 Aug 2026 14:58:24 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Más de cuarenta andaluces acuden a urgencias oftalmológicas tras el eclipse",
-      "link": "https://www.abc.es/espana/andalucia/cuarenta-andaluces-acuden-urgencias-oftalmologicas-tras-eclipse-20260813145432-nts.html",
-      "desc": "España vivió el pasado miércoles 12 de agosto el primer eclipse solar total en más de un siglo, aunque en la región andaluza solo se pudo observar de forma parcial. Eso no impidió que cientos de miles de personas estuvieran atentas al cielo durante la tarde de",
-      "date": "Thu, 13 Aug 2026 14:56:20 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "El Gobierno vasco dice que «no aceptará derivaciones impuestas, improvisadas o sin garantías» de menores llegados a Ceuta",
-      "link": "https://www.abc.es/espana/pais-vasco/gobierno-vasco-dice-aceptara-derivaciones-impuestas-improvisadas-20260813145131-nt.html",
-      "desc": "El Gobierno vasco ha asegurado que el País Vasco «no aceptará derivaciones impuestas, improvisadas o sin garantías» de menores llegados a Ceuta y ha reclamado que el Estado no opte como «primera opción» repartir menores, sino por «localizar a sus familias y va",
-      "date": "Thu, 13 Aug 2026 14:51:31 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Iker Álvarez y Guilherme reabren el debate en la portería del Córdoba CF",
-      "link": "https://www.abc.es/espana/andalucia/cordoba/cordoba-cf/iker-alvarez-guilherme-reabren-debate-porteria-cordoba-20260813144426-nts.html",
-      "desc": "El debate en la portería del Córdoba CF llevaba tiempo prácticamente cerrado desde la llegada de Carlos Marín a El Arcángel. Sin embargo, la irrupción de Iker Álvarez rompió esa estabilidad bajo palos y terminó desplazando a un guardameta almeriense que puso f",
-      "date": "Thu, 13 Aug 2026 14:44:27 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Las ambulancias de las emergencias médicas en Cataluña atendieron a 10 personas por efectos del eclipse solar",
-      "link": "https://www.abc.es/espana/cataluna/ambulancias-emergencias-medicas-cataluna-atendieron-personas-efectos-20260813144208-nt.html",
-      "desc": "Entre las 7 de la mañana del día del eclipse, el miércoles 12 de agosto, y las 7.30 horas del siguiente día, el jueves, el Sistema de Emergencias Médicas (SEM) de la Generalitat de Cataluña registró solo 10 atenciones que requirieron el servicio de una ambulan",
-      "date": "Thu, 13 Aug 2026 14:42:09 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Arreón del Consistorio de Córdoba al arreglo de calles: impulsa 18 proyectos e invierte más de 4,5 millones",
-      "link": "https://www.abc.es/espana/andalucia/cordoba/arreon-consistorio-cordoba-arreglo-calles-impulsa-proyectos-20260813144020-nts.html",
-      "desc": "El Ayuntamiento ya ha iniciado la esperada reforma integral de la calle Marruecos, una de las que conectan Antonio Maura con Camino de los Sastres en Ciudad Jardín. Dicha obra se añade a otras cinco que están en ejecución y precede a seis que comenzarán en lo ",
-      "date": "Thu, 13 Aug 2026 14:40:21 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Ayuso anuncia una ayuda de un millón de euros para retirar arizónicas en viviendas",
-      "link": "https://www.abc.es/espana/madrid/ayuso-anuncia-ayuda-millon-euros-retirar-arizonicas-20260813143917-nt.html",
-      "desc": "A la caída de la tarde del 11 de agosto de 2025 se declaró un «explosivo» incendio en Tres Cantos , que dejó un muerto y arrasó casi dos mil hectáreas con cuatro municipios afectados. El espacio protegido del Monte de Viñuelas fue uno de los más dañados, con l",
-      "date": "Thu, 13 Aug 2026 14:39:18 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "El PSOE de Toledo acusa a Velázquez de «fracasar» con las carpas de La Peraleda",
-      "link": "https://www.abc.es/espana/castilla-la-mancha/toledo/psoe-toledo-acusa-velazquez-fracasar-carpas-peraleda-20260813143256-nt.html",
-      "desc": "El Grupo Municipal Socialista de Toledo considera que la decisión del Ayuntamiento de no instalar este año las carpas de ocio de La Peraleda supone «otro fracaso más» del Gobierno de Carlos Velázquez y evidencia, a su juicio, el cambio de rumbo del modelo de F",
-      "date": "Thu, 13 Aug 2026 14:32:56 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Ceuta enfrenta al Gobierno y al PP pese a su acuerdo sobre el retorno de los menores",
-      "link": "https://www.lavanguardia.com/politica/20260813/11613295/ceuta-enfrenta-gobierno-pp-pese-coincidencia-sobre-retorno-menores.html",
-      "desc": "Las comunidades populares bloquean un debate específico sobre la ciudad autónoma en la Conferencia Sectorial del 27 de agosto",
-      "date": "13 Aug 2026 14:32:32 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "La Junta garantiza la exhumación de víctimas de la Guerra Civil junto a la entidad Manuel Azaña",
-      "link": "https://www.abc.es/espana/castilla-la-mancha/junta-garantiza-exhumacion-victimas-guerra-civil-junto-20260813142946-nt.html",
-      "desc": "El Gobierno de Castilla-La Mancha y la Asociación Manuel Azaña han analizado diversos proyectos relacionados con la localización, identificación y exhumación de personas desaparecidas durante la Guerra Civil y la dictadura franquista , así como posibles actuac",
-      "date": "Thu, 13 Aug 2026 14:29:47 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "La feria Intercaza se presenta con la vista puesta en «superar las más de 25.000 visitas» de 2025",
-      "link": "https://www.abc.es/espana/andalucia/cordoba/feria-intercaza-presenta-vista-puesta-superar-25000-20260813142106-nts.html",
-      "desc": "El delegado de Desarrollo Económico , Promoción y Empleo de la Diputación de Córdoba, Félix Romero, ha presentado este jueves algunas de las novedades que tendrá Intercaza 2026 . Esta feria celebrará su edición número 27y tendrá lugar los días 18, 19 y 20 de s",
-      "date": "Thu, 13 Aug 2026 14:21:46 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Castilla-La Mancha reclama en Europa más fondos para los Grupos de Desarrollo Rural",
-      "link": "https://www.abc.es/espana/castilla-la-mancha/castillala-mancha-reclama-europa-fondos-grupos-desarrollo-20260813141441-nt.html",
-      "desc": "El futuro de los pueblos de Castilla-La Mancha pasa también por los fondos europeos. El Gobierno regional quiere que los Grupos de Desarrollo Rural cuenten con una financiación suficiente en el próximo periodo de programación de la Política Agraria Común (PAC)",
-      "date": "Thu, 13 Aug 2026 14:14:42 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
       "caso": "other"
     }
   ]
