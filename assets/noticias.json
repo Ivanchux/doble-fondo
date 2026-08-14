@@ -1,7 +1,167 @@
 {
-  "updated": "2026-08-14T14:46:07Z",
+  "updated": "2026-08-14T16:48:33Z",
   "count": 24,
   "items": [
+    {
+      "title": "Detenido un pirómano reincidente por provocar un incendio de León que obligó a evacuar varios pueblos",
+      "link": "https://www.abc.es/espana/castilla-leon/detenido-piromano-reincidente-provocar-incendio-leon-obligo-20260814180743-nt.html",
+      "desc": "Desde el primer momento, se apuntó a un origen intencionado . Y casi a la vez que el fuego de La Utrera (León) lograba darse por extinguido dos semanas después, un hombre ha sido detenido por la Guardia Civil como presunto autor de un delito de incendio forest",
+      "date": "Fri, 14 Aug 2026 18:25:47 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Nivel 1 en un incendio forestal en Tobarra que obliga a cortar la CM-3215 por humo",
+      "link": "https://www.abc.es/espana/castilla-la-mancha/nivel-incendio-forestal-tobarra-obliga-cortar-cm3215-20260814182306-nt.html",
+      "desc": "El incendio forestal declarado este viernes en el término municipal de Tobarra (Albacete) mantiene el nivel 1 de emergencia por la afección del humo a la carretera CM-3215, que permanece cortada en el punto kilométrico 9,5. El fuego se originó en el paraje Cañ",
+      "date": "Fri, 14 Aug 2026 18:23:06 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Emiliano García-Page: el Quijote que nunca desenvaina y se olvida de su tierra",
+      "link": "https://www.abc.es/espana/castilla-la-mancha/emiliano-garciapage-quijote-nunca-desenvaina-olvida-tierra-20260814180448-nt.html",
+      "desc": "Hay políticos que construyen su carrera sobre la base de las promesas rotas y los gestos grandilocuentes pero vacíos. Emiliano García-Page es, probablemente, el mejor exponente de esta escuela: un experto en marcar líneas rojas que siempre termina borrando con",
+      "date": "Fri, 14 Aug 2026 18:06:59 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "La Celestina enfrenta de nuevo a PP, PSOE y Vox: el Pleno decidirá el 27 de agosto si desbloquea el expediente nacional",
+      "link": "https://www.abc.es/espana/castilla-la-mancha/toledo/pueblos/celestina-enfrenta-nuevo-pp-psoe-vox-pleno-20260814175922-nt.html",
+      "desc": "La Puebla de Montalbán, en la provincia de Toledo, volverá a poner sobre la mesa una cuestión que lleva más de un año enquistada en la política municipal. El próximo 27 de agosto, el Ayuntamiento llevará al Pleno ordinario el acuerdo que puede desbloquear uno ",
+      "date": "Fri, 14 Aug 2026 17:59:22 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "El PP exige a Sánchez más compromiso con las infraestructuras para el Xacobeo 2027",
+      "link": "https://www.abc.es/espana/galicia/pp-exige-sanchez-compromiso-infraestructuras-xacobeo-20260814173131-nt.html",
+      "desc": "El Camino de Santiago se hace generalmente andando o en bicicleta, y hay incluso quien opta por el barco o el caballo, pero Galicia debe contar con unas infraestructuras de todo tipo en condiciones para recibir a miles de visitantes durante el Año Santo de 202",
+      "date": "Fri, 14 Aug 2026 17:55:06 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Incautados más de 400 kilos de hachís en una narcholancha al sur de Gran Canaria",
+      "link": "https://www.abc.es/espana/canarias/incautados-400-kilos-hachis-narcholancha-sur-gran-20260814175148-nt.html",
+      "desc": "La Operación 'Babayaga' de tráfico de drogas se ha saldado con la detención de diez personas y la intervención de aproximadamente 400 kilogramos de hachís en el entorno del muelle pesquero del Castillo del Romeral, en Gran Canaria. La investigación se inició a",
+      "date": "Fri, 14 Aug 2026 17:51:48 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Illescas invierte más de 230.000 euros en mejorar colegios e institutos antes del curso",
+      "link": "https://www.abc.es/espana/castilla-la-mancha/toledo/pueblos/illescas-invierte-230000-euros-mejorar-colegios-institutos-20260814174532-nt.html",
+      "desc": "Más de 230.000 euros se han invertido durante este verano en la mejora y acondicionamiento de colegios e institutos de Illescas de cara al próximo curso. Las actuaciones, impulsadas conjuntamente por el Ayuntamiento y la Junta de Comunidades de Castilla-La Man",
+      "date": "Fri, 14 Aug 2026 17:50:47 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "La Generalitat Valenciana sube un 7% el precio máximo de las VPO para incentivar la construcción",
+      "link": "https://www.abc.es/espana/comunidad-valenciana/generalitat-valenciana-sube-precio-maximo-vpo-incentivar-20260814174850-nt.html",
+      "desc": "La Generalitat Valenciana sube el precio de las viviendas de protección pública (VPO) para incentivar a los promotores a construir nuevas promociones. El incremento será finalmente del 7 %, de modo que el valor máximo del metro cuadrado de superficie útil pasa",
+      "date": "Fri, 14 Aug 2026 17:48:50 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "España, a por medallas en la marcha, que estrena distancias en un circuito diminuto propicio al caos",
+      "link": "https://www.lavanguardia.com/deportes/20260814/11613971/atletismo-marcha-europeo-birmingham-nuevas-distancias-maraton-medio-maria-perez-espana-medallas-paul-mcgrath.html",
+      "desc": "Los atletas&nbsp;se quejan de la estrechez del recorrido, desfavorable para los adelantamientos y los avituallamientos",
+      "date": "14 Aug 2026 17:10:28 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
+    {
+      "title": "El fuego de Las Peñas obliga a desalojar Atarés y Anzánigo y suspender circulación ferroviaria",
+      "link": "https://www.lavanguardia.com/vida/20260814/11613999/fuego-penas-obliga-desalojar-atares-anzanigo-suspender-circulacion-ferroviaria.html",
+      "desc": "El Monasterio de San Juan de la Peña, panteón de los primeros reyes aragoneses, cercado por el incendio",
+      "date": "14 Aug 2026 17:09:34 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
+    {
+      "title": "Pillan a un camionero por usar el móvil y cuadruplica la tasa de alcohol",
+      "link": "https://www.abc.es/espana/castilla-leon/pillan-camionero-usar-movil-cuadruplica-tasa-alcohol-20260814170610-nt.html",
+      "desc": "El conductor de un camión ha sido investigado por un presunto delito contra la seguridad vial, tras comprobarse que cuadruplicaba la tasa de alcohol permitida . Fue localizado por la Guardia Civil a las 14:59 horas del pasado 10 de agosto en la A-II km. 174,00",
+      "date": "Fri, 14 Aug 2026 17:06:10 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Última hora del incendio en Collserola (Sant Pere Màrtir), en directo | El fuego entra en fase de estabilización",
+      "link": "https://www.lavanguardia.com/local/barcelona/20260814/11614001/ultima-hora-incendio-collserola-sant-pere-martir-pedralbes-en-directo.html",
+      "desc": "Cortes y restricciones de tráfico por el incendio: la carretera de l’Arrabassada está cortada a partir de la calle Llaceres, en Sant Cugat, y también está restringido el acceso a Barcelona por la carretera de Vallvidrera",
+      "date": "14 Aug 2026 17:00:38 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
+    {
+      "title": "Alerta roja por calor en el interior de la provincia de Pontevedra",
+      "link": "https://www.abc.es/espana/galicia/alerta-roja-calor-interior-provincia-pontevedra-20260814170003-nt.html",
+      "desc": "Según los datos remitidos por MeteoSalud y Meteogalicia, la Xunta ha activado la alerta de nivel rojo por calor en el interior de Pontevedra durante este sábado. Asimismo, en nivel de alerta naranja estará activo en la zona del Miño de Orense, montaña de Orens",
+      "date": "Fri, 14 Aug 2026 17:00:03 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Baleares activa la prealerta  ante el riesgo de danas y el Mediterráneo a más de 30 grados",
+      "link": "https://www.abc.es/espana/baleares/baleares-activa-prealerta-ante-riesgo-danas-mediterraneo-20260814165605-nt.html",
+      "desc": "Cuando el termómetro alcanza los 35 grados y la humedad incrementa la sensación de bochorno por encima de los 40, Baleares se prepara para afrontar la época del año de mayor riesgo de lluvias torrenciales. El Govern activará este sábado, 15 de agosto, el Plan ",
+      "date": "Fri, 14 Aug 2026 16:56:06 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "El PP vuelve a citar a Marlaska la próxima semana en el Senado pese a su ausencia hace dos días",
+      "link": "https://www.abc.es/espana/pp-vuelve-citar-marlaska-proxima-semana-senado-20260814165046-nt.html",
+      "desc": "El PP ha hecho uso de su mayoría absoluta en el Senado para convocar el próximo jueves 20 de agosto una nueva reunión de la Comisión de Interior en la que vuelve a citar al ministro Fernando Grande-Marlaska para hablar sobre la crisis de Ceuta , a pesar de que",
+      "date": "Fri, 14 Aug 2026 16:50:46 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Madrid cierra el Retiro esta tarde ante la previsión de fuertes rachas de viento",
+      "link": "https://www.abc.es/espana/madrid/madrid-cierra-retiro-tarde-ante-prevision-fuertes-20260814163907-nt.html",
+      "desc": "Madrid se enfrentará en la tarde de este viernes a unas rachas de viento de hasta 71 km/h que azotarán a la capital a partir de las 18.00 horas, según la Agencia Estatal de Meteorología (Aemet). Unas condiciones meteorológicas adversas que obligan al Ayuntamie",
+      "date": "Fri, 14 Aug 2026 16:40:32 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
     {
       "title": "El abundante eucalipto actúa como 'supercombustible' en los incendios de Huelva",
       "link": "https://www.abc.es/espana/andalucia/huelva/eucalipto-actua-combustible-incendio-niebla-20260814140055-nts.html",
@@ -23,9 +183,9 @@
       "caso": "other"
     },
     {
-      "title": "Los Bomberos tratan de sofocar un incendio forestal en Collserola",
+      "title": "Los Bomberos consiguen estabilizar el incendio de Collserola que ha obligado a confinar a los vecinos de Can Caralleu",
       "link": "https://www.abc.es/espana/cataluna/bomberos-tratan-sofocar-incendio-forestal-collserola-20260814162428-nt.html",
-      "desc": "Los Bomberos de la Generalitat trabajan con diez dotaciones terrestres dando apoyo a los efectivos de Emergencias de Barcelona en un incendio forestal en la sierra de Collserola (Barcelona) este viernes por la tarde, ha informado el cuerpo de emergencias en un",
+      "desc": "Los Bomberos han conseguido estabilizar el incendio forestal en la sierra de Collserola , en Barcelona, que este viernes ha obligado a confinar a los vecinos de Can Caralleu y a cortar los accesos a la carretera de l'Arrabassada, en dirección a Sant Cugat. Por",
       "date": "Fri, 14 Aug 2026 16:24:28 +0200",
       "source": "ABC",
       "color": "#c0392b",
@@ -33,9 +193,29 @@
       "caso": "other"
     },
     {
-      "title": "El Supremo francés bloquea la prohibición de redes sociales para menores de 15 años",
+      "title": "El incendio de Niebla (Huelva) ya es el mayor de la historia de Andalucía, junto al de Riotinto de 2004",
+      "link": "https://www.lavanguardia.com/vida/20260814/11613984/incendio-niebla-huelva-mayor-historia-andalucia-riotinto-2004.html",
+      "desc": "El de Los Gallardos (Almería) de julio ha sido el más mortífero de España en lo que llevamos de siglo XXI,&nbsp; con 14 personas fallecidas y 18 heridas",
+      "date": "14 Aug 2026 16:16:04 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
+    {
+      "title": "El fuego en Collserola obliga a confinar a los vecinos Can Caralleu",
+      "link": "https://www.lavanguardia.com/local/barcelona/20260814/11613988/bomberos-trabajan-incendio-montana-sant-pere-martir-barcelona.html",
+      "desc": "Los medios aéreos de extinción de la Generalitat se suman a las labores de extinción y las columnas de humo son visibles desde distintos puntos de la ciudad",
+      "date": "14 Aug 2026 16:13:28 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
+    {
+      "title": "El Constitucional francés bloquea la prohibición de redes sociales para menores de 15 años",
       "link": "https://www.lavanguardia.com/vida/20260814/11613976/tribunal-supremo-bloquea-prohibicion-redes-sociales-menores-15-anos-francia.html",
-      "desc": "La República Francesa había sido la primera gran nación europea en aprobar una ley sobre esta materia, siguiendo la estela de la histórica prohibición iniciada por Australia en 2025",
+      "desc": "Francia fue el primer gran país&nbsp;europeo en aprobar una ley sobre esta materia, siguiendo el ejemplo pionero de Australia en el 2025",
       "date": "14 Aug 2026 16:08:27 +0200",
       "source": "La Vanguardia",
       "color": "#8e44ad",
@@ -60,186 +240,6 @@
       "source": "ABC",
       "color": "#c0392b",
       "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Sonorama Ribera deja tres detenidos y 31 denuncias por drogas",
-      "link": "https://www.abc.es/espana/castilla-leon/sonorama-ribera-deja-tres-detenidos-denuncias-drogas-20260814155146-nt.html",
-      "desc": "El dispositivo especial de seguridad desplegado durante la XXIX edición de Sonorama Ribera en Aranda de Duero (Burgos), celebrado entre el 5 y el 9 de agosto, se saldó con tres detenidos y 31 actas de denuncia por tenencia o consumo de sustancias estupefacient",
-      "date": "Fri, 14 Aug 2026 15:51:46 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Baleares suma 110 inmigrantes llegados en patera en apenas 48 horas",
-      "link": "https://www.abc.es/espana/baleares/baleares-suma-110-inmigrantes-llegados-patera-apenas-20260814154054-nt.html",
-      "desc": "La llegada de pateras a las costas de Baleares mantiene su intensidad en pleno mes de agosto. Un total de 110 inmigrantes han sido interceptados o rescatados entre este jueves y las primeras horas de este viernes en distintos puntos de Formentera, Ibiza y Cabr",
-      "date": "Fri, 14 Aug 2026 15:40:54 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Horarios especiales de Mercadona para el sábado 15 de agosto, festivo de la Asunción de la Virgen",
-      "link": "https://www.abc.es/espana/comunidad-valenciana/horarios-especiales-mercadona-sabado-agosto-festivo-asuncion-20260814081201-nt.html",
-      "desc": "Mercadona ha anunciado un cambio en los horarios habituales de apertura de sus supermercados para este sábado 15 de agosto, con motivo de la festividad nacional de la Virgen de la Asunción. La cadena de distribución presidida por Juan Roig dará servicio a sus ",
-      "date": "Fri, 14 Aug 2026 15:38:23 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Qué está abierto en Valencia el sábado 15 de agosto, festivo de la Virgen de la Asunción, y qué cierra",
-      "link": "https://www.abc.es/espana/comunidad-valenciana/abierto-valencia-sabado-agosto-festivo-virgen-asuncion-20260814180455-nt.html",
-      "desc": "Este sábado 15 de agosto tendrá lugar la celebración de la Asunción de la Virgen , una de las fechas festivas más señaladas del calendario laboral español. Al tratarse de un día festivo de carácter nacional, podrán encontrarse modificaciones en los horarios ha",
-      "date": "Fri, 14 Aug 2026 15:38:02 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Hasta 40.000 euros por noche para ver el eclipse de 2027: precios un 75% más caros y reservas casi agotadas",
-      "link": "https://www.abc.es/espana/andalucia/40000-euros-noche-ver-eclipse-2027-precios-20260814153403-nts.html",
-      "desc": "No había terminado de volver a aparecer el sol tras ser ocultado por la luna durante dos minutos, cuando muchos se preguntaban ¿cuándo sucederá otra vez? Aunque la probabilidad de que se vuelva a producir el eclipse es muy baja, España es la excepción que conf",
-      "date": "Fri, 14 Aug 2026 15:34:03 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "EE.UU. recomienda “extremar la precaución” en viajes a Europa y sube el nivel de alerta en España por la crisis en Ceuta",
-      "link": "https://www.lavanguardia.com/internacional/20260814/11613889/ee-uu-recomienda-extremar-precaucion-viajes-europa-sube-nivel-alerta-espana-crisis-ceuta.html",
-      "desc": "En un mapa que clasifica los países según su nivel de riesgo, gran parte de Europa recibe el mismo nivel de alerta que China o Ecuador",
-      "date": "14 Aug 2026 15:10:32 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "Atacada con perdigones la orca más longeva del Estrecho de Gibraltar",
-      "link": "https://www.lavanguardia.com/natural/20260814/11613949/miteco-investiga-disparos-toni-orca-mas-veterana-estrecho.html",
-      "desc": "La matriarca de las orcas ‘gladis’, de 60 años, presenta en su aleta dorsal el impacto de diez perdigones",
-      "date": "14 Aug 2026 15:06:42 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "Salim El Jebari, sin plazos de recuperación en un Córdoba CF que recupera efectivos para Burgos",
-      "link": "https://www.abc.es/espana/andalucia/cordoba/cordoba-cf/salim-jebari-plazos-recuperacion-cordoba-recupera-efectivos-20260814145129-nts.html",
-      "desc": "El Córdoba CF ya cuenta las horas para el estreno liguero ante el Burgos de este domingo ante el Burgos. Pese a las posibles dudas del estado físico de la plantilla, Iván Ania ha confirmado hoy en la previa del encuentro que, exceptuando las lesiones de larga ",
-      "date": "Fri, 14 Aug 2026 14:59:03 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "La CHG admite vertidos fecales en un río de Granada que afectan a miles de vecinos",
-      "link": "https://www.abc.es/espana/andalucia/granada/chg-admite-vertidos-fecales-rio-granada-afectan-20260814144658-nts.html",
-      "desc": "La Confederación Hidrográfica del Guadalquivir (CHG) ha admitido la existencia de un vertido de aguas fecales al río Monachil que afecta a miles de vecinos del barrio granadino del Zaidín y del municipio contiguo de Huétor Vega. La causa, la rotura de un colec",
-      "date": "Fri, 14 Aug 2026 14:46:58 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Llegan 76 inmigrantes a Baleares a bordo de tres pateras",
-      "link": "https://www.abc.es/espana/baleares/llegan-inmigrantes-baleares-bordo-tres-pateras-20260814144455-nt.html",
-      "desc": "La llegada de pateras a las costas de Baleares mantiene su intensidad en pleno mes de agosto. Un total de 110 inmigrantes han sido interceptados o rescatados entre este jueves y las primeras horas de este viernes en distintos puntos de Formentera, Ibiza y Cabr",
-      "date": "Fri, 14 Aug 2026 14:44:55 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "La DGT sitúa Montoro en la provincia de Jaén en el mapa informativo del puente de agosto",
-      "link": "https://www.abc.es/espana/andalucia/jaen/dgt-situa-montoro-provincia-jaen-mapa-informativo-20260814142816-nts.html",
-      "desc": "La Dirección General de Tráfico (DGT) ha difundido un mapa en el que la localidad cordobesa de Montoro aparece situada en el centro de la provincia de Jaén con motivo de la operación especial del puente del 15 de agosto. Un error geográfic o destacable en una ",
-      "date": "Fri, 14 Aug 2026 14:40:41 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Detenido casi un año después el hombre que intentó matar a su exmujer quemándola en el coche en Cuéllar",
-      "link": "https://www.abc.es/espana/castilla-leon/detenido-ano-despues-hombre-intento-matar-exmujer-20260814142624-nt.html",
-      "desc": "Casi un año ha estado desaparecido y en busca y captura, hasta que en la pasada madrugada era arrestado gracias a un amplio dispositivo diseñado por la Guardia Civil con la participación de más de 70 agentes . Todo gracias a una «compleja operación» policial q",
-      "date": "Fri, 14 Aug 2026 14:38:00 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Cofrentes cumple los mismos criterios técnicos de Almaraz para prolongar su actividad nuclear",
-      "link": "https://www.abc.es/espana/comunidad-valenciana/cofrentes-cumple-criterios-tecnicos-almaraz-prolongar-actividad-20260814143356-nt.html",
-      "desc": "La decisión del Gobierno de extender la vida útil de la central de Almaraz (Extremadura) ha abierto la vía para que otros reactores nucleares abocados al cierre programado intensifiquen sus demandas para continuar activas. Es el caso de Cofrentes , en Valencia",
-      "date": "Fri, 14 Aug 2026 14:37:27 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Los Talleres 'Antonio López y el Canal de Castilla' cierran tres años de arte y patrimonio en Melgar de Fernamental",
-      "link": "https://www.abc.es/espana/castilla-leon/talleres-antonio-lopez-canal-castilla-cierran-tres-20260814143413-nt.html",
-      "desc": "Melgar de Fernamental (Burgos) acogerá del 31 de agosto al 4 de septiembre la tercera y última edición de los Talleres de Pintura 'Antonio López y el Canal de Castilla', una iniciativa que reunirá a artistas profesionales en torno al patrimonio y el paisaje de",
-      "date": "Fri, 14 Aug 2026 14:34:13 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Un camión de congelados queda calcinado tras incendiarse a la entrada de Puerto Lápice",
-      "link": "https://www.abc.es/espana/castilla-la-mancha/toledo/calcinado-camion-congelados-tras-incendiarse-entrada-puerto-20260814143048-nt.html",
-      "desc": "Un camión dedicado al transporte de alimentos congelados ha quedado calcinado este viernes tras incendiarse a la entrada de Puerto Lápice (Ciudad Real). Los bomberos del parque de Alcázar de San Juan han intervenido para extinguir las llamas y evitar que el fu",
-      "date": "Fri, 14 Aug 2026 14:30:48 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Higuera de la Sierra se queda con un proyecto industrial de 30 millones de euros que prevé crear 50 empleos",
-      "link": "https://www.abc.es/espana/andalucia/huelva/higuera-sierra-queda-proyecto-industrial-millones-euros-20260814142710-nts.html",
-      "desc": "Higuera de la Sierra podría convertirse en el nuevo destino de un proyecto industrial que contempla una inversión de alrededor de 30 millones de euros y la creación de medio centenar de empleos directos. El Ayuntamiento y Grupo Ecosev Land han alcanzado un pre",
-      "date": "Fri, 14 Aug 2026 14:27:10 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "El XXIX Festival de Cine de Astorga entregará su Premio de Honor a Juan Echanove",
-      "link": "https://www.abc.es/espana/castilla-leon/xxix-festival-cine-astorga-entregara-premio-honor-20260814141759-nt.html",
-      "desc": "El XXIX Festival de Cine de Astorga, que se celebrará del 5 al 13 de septiembre, tendrá a Portugal como país invitado. El programa de proyecciones y actividades culturales era presentado este viernes por el delegado territorial de la Junta en León, Eduardo Die",
-      "date": "Fri, 14 Aug 2026 14:17:59 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "La familia del matrimonio asesinado en Tauste pide respeto a su memoria e intimidad",
-      "link": "https://www.lavanguardia.com/local/aragon/20260814/11613913/familia-matrimonio-asesinado-tauste-pide-respeto-memoria-e-intimidad.html",
-      "desc": "Tras la detención de la hija de la pareja y su novio, los familiares ruegan evitar “cualquier especulación” y confían en que las autoridades esclarezcan lo sucedido",
-      "date": "14 Aug 2026 13:51:53 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
       "caso": "other"
     }
   ]
