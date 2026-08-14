@@ -1,7 +1,27 @@
 {
-  "updated": "2026-08-14T20:25:43Z",
+  "updated": "2026-08-14T22:16:36Z",
   "count": 24,
   "items": [
+    {
+      "title": "La Feria de Puente Genil echa a andar con un deslumbrante 'botonazo' que enciende más de 770.000 luces",
+      "link": "https://www.abc.es/espana/andalucia/cordoba/feria-puente-genil-echa-andar-deslumbrante-botonazo-20260814233802-nts.html",
+      "desc": "La Feria Real de Puente Genil 2026 ha arrancado en la noche de este viernes 14 de agosto, sobre las 22.00 horas, con el tradicional encendido del alumbrado , uno de los momentos más esperados por vecinos y visitantes y que marca oficialmente el inicio de las f",
+      "date": "Fri, 14 Aug 2026 23:38:02 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Denuncian pintadas de odio en el garaje de un guardia civil de Ceuta: «Facha perro»",
+      "link": "https://www.abc.es/espana/denuncian-pintadas-odio-garaje-guardia-civil-ceuta-20260814230124-nt.html",
+      "desc": "Las tensiones en la ciudad autónoma de Ceuta no cesan. Semanas después de la crisis que se desató tras la invasión desde la frontera con Marruecos por parte de decenas de miles de personas, la situación no ha mejorado. Esta vez el ataque ha sido contra el domi",
+      "date": "Fri, 14 Aug 2026 23:01:25 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
     {
       "title": "Una discusión entre vecinos, tras el crimen a tiros en León",
       "link": "https://www.abc.es/espana/castilla-leon/discusion-vecinos-tras-crimen-tiros-leon-20260814214311-nt.html",
@@ -207,26 +227,6 @@
       "link": "https://www.abc.es/espana/castilla-la-mancha/nuevo-incendio-recuenco-guadalajara-provincia-castigada-fuego-20260814183952-nt.html",
       "desc": "Un nuevo incendio forestal en Guadalajara , la provincia más castigada por el fuego este verano en Castilla-La Mancha, ha obligado a activar la Situación Operativa Nivel 2 y se ha ordenado la evacuación de los vecinos de El Recuenco, un pequeño pueblo del Alto",
       "date": "Fri, 14 Aug 2026 18:39:53 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Granada es el plató ideal: 81 rodajes de películas y series en lo que va de año",
-      "link": "https://www.abc.es/espana/andalucia/granada/granada-plato-ideal-rodajes-peliculas-series-ano-20260814115838-nts.html",
-      "desc": "En 'Sopa de ganso', la inmortal película de los Hermanos Marx, la imaginaria nación de Freedonia se enfrenta en una guerra a la también ficticia Sylvania. En una breve secuencia se ve una imagen de ese país, que resulta ser el municipio granadino de Loja. Cuat",
-      "date": "Fri, 14 Aug 2026 18:33:54 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Detenido un pirómano reincidente por provocar un incendio de León que obligó a evacuar varios pueblos",
-      "link": "https://www.abc.es/espana/castilla-leon/detenido-piromano-reincidente-provocar-incendio-leon-obligo-20260814180743-nt.html",
-      "desc": "Desde el primer momento, se apuntó a un origen intencionado . Y casi a la vez que el fuego de La Utrera (León) lograba darse por extinguido dos semanas después, un hombre ha sido detenido por la Guardia Civil como presunto autor de un delito de incendio forest",
-      "date": "Fri, 14 Aug 2026 18:25:47 +0200",
       "source": "ABC",
       "color": "#c0392b",
       "feedId": "ABC",
