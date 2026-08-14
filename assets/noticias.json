@@ -1,7 +1,147 @@
 {
-  "updated": "2026-08-14T16:48:33Z",
+  "updated": "2026-08-14T18:45:29Z",
   "count": 24,
   "items": [
+    {
+      "title": "Prisión para un joven francés pillado con más de 300 dosis de ketamina",
+      "link": "https://www.abc.es/espana/castilla-leon/prision-joven-frances-pillado-300-dosis-ketamina-20260814200625-nt.html",
+      "desc": "Prisión provisional, comunicada y eludible bajo pago de fianza. Es la decisión del Juzgado de Instrucción de Zamora para un joven de origen francés pillado con más de 300 dosis de ketamina . Fue en en un control de la Guardia Civil de Zamora, en el que pararon",
+      "date": "Fri, 14 Aug 2026 20:06:56 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Un detenido por su presunta relación con el incendio de Collserola",
+      "link": "https://www.abc.es/espana/cataluna/detenido-presunta-relacion-incendio-collserola-20260814195825-nt.html",
+      "desc": "La Guardia Urbana de Barcelona (GUB) ha detenido a un hombre este viernes por su presunta relación con el incendio en la sierra de Collserola (Barcelona) que ha calcinado 10 hectáreas del parque natural y que ya ha quedado estabilizado. Según ha avanzado 'La V",
+      "date": "Fri, 14 Aug 2026 19:58:25 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Una 'rave' ilegal concentra a más de 3.000 personas desde el jueves bajo la supervisión de la Guardia Civil",
+      "link": "https://www.abc.es/espana/extremadura/rave-ilegal-concentra-3000-personas-jueves-bajo-20260814195156-nt.html",
+      "desc": "Unas 3.000 personas y alrededor de un millar de vehículos se han concentrado en una zona del término municipal de La Granja (Cáceres) con motivo de una convocatoria para una fiesta ilegal que se lleva celebrando desde la noche de este jueves y que a lo largo d",
+      "date": "Fri, 14 Aug 2026 19:51:56 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Detenido en Vélez un fugitivo reclamado por justicia alemana por delitos de explotación sexual de menores y pornografía",
+      "link": "https://www.abc.es/espana/andalucia/malaga/policia-nacional-detiene-profugo-justicia-pro-agresion-20260814184555-nts.html",
+      "desc": "La Policía Naciona l ha detenido a un fugitivo alemán de 39 años qué le pesaba una Orden Europea de Detención y Entrega emitida por las autoridades alemanas en relación a los delitos de explotación sexual de menores y pornografía infantil. La detención ha teni",
+      "date": "Fri, 14 Aug 2026 19:40:13 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Así quiere 'barrer' Sadeco las críticas a la suciedad de Córdoba: cuadrillas para limpiar contenedores y más baldeo",
+      "link": "https://www.abc.es/espana/andalucia/cordoba/quiere-barrer-sadeco-criticas-limpieza-cordoba-cuadrillas-20260814193211-nts.html",
+      "desc": "El Ayuntamiento ha informado este viernes, en un comunicado, de que la Sadeco (empresa municipal de limpieza de Córdoba) ha culminado la incorporación de los 87 peones contratados de forma temporal para reforzar la prestación de los servicios públicos esencial",
+      "date": "Fri, 14 Aug 2026 19:32:13 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "La vida de los pobres no vale nada",
+      "link": "https://www.abc.es/espana/galicia/vida-pobres-vale-20260814192749-nt.html",
+      "desc": "En el siglo XXI, en países desarrollados y democráticos, como somos los miembros de la Unión Europea, también puede ser verdad la canción del cantautor cubano Pablo Milanés. Los días 30 y 31 de julio, una multitud de más de 70.000 personas invadió la ciudad au",
+      "date": "Fri, 14 Aug 2026 19:27:49 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Detenido por causar daños de 400 euros en una moto tras discutir con una camarera en un bar de Valladolid",
+      "link": "https://www.abc.es/espana/castilla-leon/detenido-causar-danos-400-euros-moto-tras-20260814191947-nt.html",
+      "desc": "La Policía Nacional ha detenido a un varón como presunto autor de un delito de daños en vehículo después de golpear con una patada una motocicleta estacionada en el Paseo Arco de Ladrillo de Valladolid, que sufrió desperfectos valorados en más de 400 euros , s",
+      "date": "Fri, 14 Aug 2026 19:22:35 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "La Guardia Urbana detiene a un sospechoso por el incendio de Collserola",
+      "link": "https://www.lavanguardia.com/sucesos/20260814/11614067/guardia-urbana-detiene-sospechoso-incendio-collserola.html",
+      "desc": "El arrestado llevaba encima dos encendedores justo en el momento del inicio de las llamas en la parte alta de la avenida Pearson&nbsp;",
+      "date": "14 Aug 2026 19:20:00 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
+    {
+      "title": "Un nuevo terremoto, de casi 4 grados, se siente con fuerza en Granada y pueblos cercanos",
+      "link": "https://www.abc.es/espana/andalucia/granada/nuevo-terremoto-grados-siente-fuerza-granada-pueblos-20260814191351-nts.html",
+      "desc": "A las 18.44 horas de este viernes 14 de agosto, la tierra ha temblado en Granada. No ha sido un movimiento leve sino bastante intenso, tanto como los que se sintieron en enero de 2021. Algunas casas de la capital han temblado, literalmente. Si ya hubo activida",
+      "date": "Fri, 14 Aug 2026 19:13:51 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Fallece un varón de 60 años tras salirse de la vía con una furgoneta en la N-601 a la altura de Rapariegos (Segovia)",
+      "link": "https://www.abc.es/espana/castilla-leon/fallece-varon-anos-tras-salirse-via-furgoneta-20260814190451-nt.html",
+      "desc": "Un varón , de unos 60 años , fallecido la tarde de este viernes a consecuencia de la salida de la vía de su furgoneta. El accidente ha tenido lugar a las 17:02 horas en el kilómetro 127 de la N-601, en el término municipal de Rapariegos , en la provincia de Se",
+      "date": "Fri, 14 Aug 2026 19:07:40 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Restricciones por sequía en 32 concellos gallegos y Pontevedra valora endurecerlas",
+      "link": "https://www.abc.es/espana/galicia/restricciones-sequia-concellos-gallegos-pontevedra-valora-endurecerlas-20260814184945-nt.html",
+      "desc": "La situación de alerta por sequía decretada por la Xunta en 32 municipios gallegos, anunciada hace tres días, ha entrado en vigor este viernes con sus correspondientes restricciones. Además, el Ayuntamiento de Pontevedra ha confirmado, tras una nueva reunión, ",
+      "date": "Fri, 14 Aug 2026 18:49:45 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Mangione confiesa que abrió fuego y mató al jefe de la mayor empresa de seguros de EE.UU.",
+      "link": "https://www.lavanguardia.com/internacional/20260814/11614043/mangione-confiesa-abrio-fuego-mato-jefe-mayor-empresa-seguros-ee-uu.html",
+      "desc": "“Disparé y Brian Thompson murió, sabía que lo que hacía era ilegal”, reconoce ante el tribunal este pistolero que algunos convirtieron en una especie de Robin Hood. “Un asesino no es un héroe”, según el fiscal al anunciar que pedirá cadena perpetua",
+      "date": "14 Aug 2026 18:44:49 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
+    {
+      "title": "El incendio forestal obliga a evacuar a los vecinos de El Recuenco en Guadalajara y se declara el nivel 2",
+      "link": "https://www.abc.es/espana/castilla-la-mancha/nuevo-incendio-recuenco-guadalajara-provincia-castigada-fuego-20260814183952-nt.html",
+      "desc": "Un nuevo incendio forestal en Guadalajara , la provincia más castigada por el fuego este verano en Castilla-La Mancha, ha obligado a activar la Situación Operativa Nivel 2 y se ha ordenado la evacuación de los vecinos de El Recuenco, un pequeño pueblo del Alto",
+      "date": "Fri, 14 Aug 2026 18:39:53 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Granada es el plató ideal: 81 rodajes de películas y series en lo que va de año",
+      "link": "https://www.abc.es/espana/andalucia/granada/granada-plato-ideal-rodajes-peliculas-series-ano-20260814115838-nts.html",
+      "desc": "En 'Sopa de ganso', la inmortal película de los Hermanos Marx, la imaginaria nación de Freedonia se enfrenta en una guerra a la también ficticia Sylvania. En una breve secuencia se ve una imagen de ese país, que resulta ser el municipio granadino de Loja. Cuat",
+      "date": "Fri, 14 Aug 2026 18:33:54 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
     {
       "title": "Detenido un pirómano reincidente por provocar un incendio de León que obligó a evacuar varios pueblos",
       "link": "https://www.abc.es/espana/castilla-leon/detenido-piromano-reincidente-provocar-incendio-leon-obligo-20260814180743-nt.html",
@@ -13,9 +153,9 @@
       "caso": "other"
     },
     {
-      "title": "Nivel 1 en un incendio forestal en Tobarra que obliga a cortar la CM-3215 por humo",
+      "title": "El incendio forestal en Tobarra, que obligó a cortar la CM-3215 por humo, desciende a nivel 0",
       "link": "https://www.abc.es/espana/castilla-la-mancha/nivel-incendio-forestal-tobarra-obliga-cortar-cm3215-20260814182306-nt.html",
-      "desc": "El incendio forestal declarado este viernes en el término municipal de Tobarra (Albacete) mantiene el nivel 1 de emergencia por la afección del humo a la carretera CM-3215, que permanece cortada en el punto kilométrico 9,5. El fuego se originó en el paraje Cañ",
+      "desc": "El incendio forestal declarado este viernes en el término municipal de Tobarra (Albacete), que tuvo que ser declarado nivel 1 de emergencia por la afección del humo a la carretera CM-3215, ha descendido a las siete de la tarde a nivel 0, según han informado fu",
       "date": "Fri, 14 Aug 2026 18:23:06 +0200",
       "source": "ABC",
       "color": "#c0392b",
@@ -30,6 +170,16 @@
       "source": "ABC",
       "color": "#c0392b",
       "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Los huesos de los reyes de Aragón, retirados de un monasterio por el incendio de Huesca",
+      "link": "https://www.lavanguardia.com/vida/20260814/11614020/huesos-reyes-aragon-retirados-monasterio-incendio-huesca.html",
+      "desc": "Miembros de la UME participan en la evacuación de los restos de los monarcas y obras de arte",
+      "date": "14 Aug 2026 18:04:44 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
       "caso": "other"
     },
     {
@@ -83,16 +233,6 @@
       "caso": "other"
     },
     {
-      "title": "España, a por medallas en la marcha, que estrena distancias en un circuito diminuto propicio al caos",
-      "link": "https://www.lavanguardia.com/deportes/20260814/11613971/atletismo-marcha-europeo-birmingham-nuevas-distancias-maraton-medio-maria-perez-espana-medallas-paul-mcgrath.html",
-      "desc": "Los atletas&nbsp;se quejan de la estrechez del recorrido, desfavorable para los adelantamientos y los avituallamientos",
-      "date": "14 Aug 2026 17:10:28 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
       "title": "El fuego de Las Peñas obliga a desalojar Atarés y Anzánigo y suspender circulación ferroviaria",
       "link": "https://www.lavanguardia.com/vida/20260814/11613999/fuego-penas-obliga-desalojar-atares-anzanigo-suspender-circulacion-ferroviaria.html",
       "desc": "El Monasterio de San Juan de la Peña, panteón de los primeros reyes aragoneses, cercado por el incendio",
@@ -100,146 +240,6 @@
       "source": "La Vanguardia",
       "color": "#8e44ad",
       "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "Pillan a un camionero por usar el móvil y cuadruplica la tasa de alcohol",
-      "link": "https://www.abc.es/espana/castilla-leon/pillan-camionero-usar-movil-cuadruplica-tasa-alcohol-20260814170610-nt.html",
-      "desc": "El conductor de un camión ha sido investigado por un presunto delito contra la seguridad vial, tras comprobarse que cuadruplicaba la tasa de alcohol permitida . Fue localizado por la Guardia Civil a las 14:59 horas del pasado 10 de agosto en la A-II km. 174,00",
-      "date": "Fri, 14 Aug 2026 17:06:10 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Última hora del incendio en Collserola (Sant Pere Màrtir), en directo | El fuego entra en fase de estabilización",
-      "link": "https://www.lavanguardia.com/local/barcelona/20260814/11614001/ultima-hora-incendio-collserola-sant-pere-martir-pedralbes-en-directo.html",
-      "desc": "Cortes y restricciones de tráfico por el incendio: la carretera de l’Arrabassada está cortada a partir de la calle Llaceres, en Sant Cugat, y también está restringido el acceso a Barcelona por la carretera de Vallvidrera",
-      "date": "14 Aug 2026 17:00:38 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "Alerta roja por calor en el interior de la provincia de Pontevedra",
-      "link": "https://www.abc.es/espana/galicia/alerta-roja-calor-interior-provincia-pontevedra-20260814170003-nt.html",
-      "desc": "Según los datos remitidos por MeteoSalud y Meteogalicia, la Xunta ha activado la alerta de nivel rojo por calor en el interior de Pontevedra durante este sábado. Asimismo, en nivel de alerta naranja estará activo en la zona del Miño de Orense, montaña de Orens",
-      "date": "Fri, 14 Aug 2026 17:00:03 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Baleares activa la prealerta  ante el riesgo de danas y el Mediterráneo a más de 30 grados",
-      "link": "https://www.abc.es/espana/baleares/baleares-activa-prealerta-ante-riesgo-danas-mediterraneo-20260814165605-nt.html",
-      "desc": "Cuando el termómetro alcanza los 35 grados y la humedad incrementa la sensación de bochorno por encima de los 40, Baleares se prepara para afrontar la época del año de mayor riesgo de lluvias torrenciales. El Govern activará este sábado, 15 de agosto, el Plan ",
-      "date": "Fri, 14 Aug 2026 16:56:06 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "El PP vuelve a citar a Marlaska la próxima semana en el Senado pese a su ausencia hace dos días",
-      "link": "https://www.abc.es/espana/pp-vuelve-citar-marlaska-proxima-semana-senado-20260814165046-nt.html",
-      "desc": "El PP ha hecho uso de su mayoría absoluta en el Senado para convocar el próximo jueves 20 de agosto una nueva reunión de la Comisión de Interior en la que vuelve a citar al ministro Fernando Grande-Marlaska para hablar sobre la crisis de Ceuta , a pesar de que",
-      "date": "Fri, 14 Aug 2026 16:50:46 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Madrid cierra el Retiro esta tarde ante la previsión de fuertes rachas de viento",
-      "link": "https://www.abc.es/espana/madrid/madrid-cierra-retiro-tarde-ante-prevision-fuertes-20260814163907-nt.html",
-      "desc": "Madrid se enfrentará en la tarde de este viernes a unas rachas de viento de hasta 71 km/h que azotarán a la capital a partir de las 18.00 horas, según la Agencia Estatal de Meteorología (Aemet). Unas condiciones meteorológicas adversas que obligan al Ayuntamie",
-      "date": "Fri, 14 Aug 2026 16:40:32 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "El abundante eucalipto actúa como 'supercombustible' en los incendios de Huelva",
-      "link": "https://www.abc.es/espana/andalucia/huelva/eucalipto-actua-combustible-incendio-niebla-20260814140055-nts.html",
-      "desc": "A raíz del incendio iniciado el 6 de agosto en Niebla ha aflorado una gran preocupación sobre el avance de este por la amplia extensión de eucaliptos existentes en la provincia de Huelva, comprendiendo estos alrededor de 90.000 hectáreas solo de cultivo, sin c",
-      "date": "Fri, 14 Aug 2026 16:33:52 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Muere en el hospital un joven de 27 años agredido en una pelea en Playa San Juan (Alicante)",
-      "link": "https://www.abc.es/espana/comunidad-valenciana/muere-hospital-joven-anos-agredido-pelea-playa-20260814163316-nt.html",
-      "desc": "Un joven de 27 años ha fallecido en la tarde de este jueves en el Hospital General Doctor Balmis de Alicante tras ingresar en la Unidad de Cuidados Intensivos (UCI) con un traumatismo craneoencefálico sufrido durante la madrugada en el transcurso de una pelea ",
-      "date": "Fri, 14 Aug 2026 16:33:16 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Los Bomberos consiguen estabilizar el incendio de Collserola que ha obligado a confinar a los vecinos de Can Caralleu",
-      "link": "https://www.abc.es/espana/cataluna/bomberos-tratan-sofocar-incendio-forestal-collserola-20260814162428-nt.html",
-      "desc": "Los Bomberos han conseguido estabilizar el incendio forestal en la sierra de Collserola , en Barcelona, que este viernes ha obligado a confinar a los vecinos de Can Caralleu y a cortar los accesos a la carretera de l'Arrabassada, en dirección a Sant Cugat. Por",
-      "date": "Fri, 14 Aug 2026 16:24:28 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "El incendio de Niebla (Huelva) ya es el mayor de la historia de Andalucía, junto al de Riotinto de 2004",
-      "link": "https://www.lavanguardia.com/vida/20260814/11613984/incendio-niebla-huelva-mayor-historia-andalucia-riotinto-2004.html",
-      "desc": "El de Los Gallardos (Almería) de julio ha sido el más mortífero de España en lo que llevamos de siglo XXI,&nbsp; con 14 personas fallecidas y 18 heridas",
-      "date": "14 Aug 2026 16:16:04 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "El fuego en Collserola obliga a confinar a los vecinos Can Caralleu",
-      "link": "https://www.lavanguardia.com/local/barcelona/20260814/11613988/bomberos-trabajan-incendio-montana-sant-pere-martir-barcelona.html",
-      "desc": "Los medios aéreos de extinción de la Generalitat se suman a las labores de extinción y las columnas de humo son visibles desde distintos puntos de la ciudad",
-      "date": "14 Aug 2026 16:13:28 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "El Constitucional francés bloquea la prohibición de redes sociales para menores de 15 años",
-      "link": "https://www.lavanguardia.com/vida/20260814/11613976/tribunal-supremo-bloquea-prohibicion-redes-sociales-menores-15-anos-francia.html",
-      "desc": "Francia fue el primer gran país&nbsp;europeo en aprobar una ley sobre esta materia, siguiendo el ejemplo pionero de Australia en el 2025",
-      "date": "14 Aug 2026 16:08:27 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "El turista en Madrid sale al menos una noche y se deja 90 euros de media",
-      "link": "https://www.abc.es/espana/madrid/madrid-visita-noche-dos-millones-turistas-salir-20260814160546-nt.html",
-      "desc": "La noche madrileña no descansa en verano. Al contrario, se ha convertido en una parte más de la experiencia turística de la capital durante la temporada estival. Madrid ofrece una intensa vida nocturna con diversidad de cultura, música y locales de ocio. Un ri",
-      "date": "Fri, 14 Aug 2026 16:05:46 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Los vecinos del incendio de una vivienda en Benalmádena mantienen la protesta pagada por el PSOE",
-      "link": "https://www.abc.es/espana/andalucia/malaga/vecinos-benalmadena-movilizan-pedir-bomberos-seguridad-20260814121507-nts.html",
-      "desc": "Tras la muerte de dos hijos menores y su madre, los vecinos de la zona han comenzado a reclamar más medios y personal para los bomberos, en una protesta que ya adelantó ABC que paga el PSOE. Los vecinos de Benalmádena han hecho un llamamiento público para movi",
-      "date": "Fri, 14 Aug 2026 16:03:42 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
       "caso": "other"
     }
   ]
