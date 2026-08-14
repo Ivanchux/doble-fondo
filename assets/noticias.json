@@ -1,7 +1,77 @@
 {
-  "updated": "2026-08-14T18:45:29Z",
+  "updated": "2026-08-14T20:25:43Z",
   "count": 24,
   "items": [
+    {
+      "title": "Una discusión entre vecinos, tras el crimen a tiros en León",
+      "link": "https://www.abc.es/espana/castilla-leon/discusion-vecinos-tras-crimen-tiros-leon-20260814214311-nt.html",
+      "desc": "Una nueva disputa entre vecinos del mismo inmueble , pues no era la primera vez que se enzarzaban. Aunque esta vez llegaba a mayores, con uno de ellos empuñando, encañonando y disparando un arma escopeta y descerrajando varios tiros que resultaron mortales. Es",
+      "date": "Fri, 14 Aug 2026 21:43:11 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Moreno anuncia que 114 desalojados por el incendio de Niebla podrán regresar a sus casas",
+      "link": "https://www.abc.es/espana/andalucia/huelva/moreno-anuncia-114-desalojados-incendio-niebla-podran-20260814214058-nts.html",
+      "desc": "El presidente de la Junta de Andalucía, Juanma Moreno, ha anunciado este viernes en el Puesto de Mando Avanzado por el incendio declarado el pasado 6 de agosto en el paraje Raboconejo de Niebla (Huelva) que el Comité de Operaciones va a proponer la autorizació",
+      "date": "Fri, 14 Aug 2026 21:41:41 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "El Ministerio de Transportes cierra una carretera nacional en Palencia por riesgo de hundimiento",
+      "link": "https://www.abc.es/espana/castilla-leon/ministerio-transportes-cierra-carretera-nacional-palencia-riesgo-20260814214016-nt.html",
+      "desc": "El Ministerio de Transportes y Movilidad Sostenible procedía este viernes, 14 de agosto, al cierre preventivo de la carretera nacional N-611 en la provincia de Palencia entre los kilómetros 104,600 y 106, 300 «por riesgo de hundimiento» de la obra de drenaje t",
+      "date": "Fri, 14 Aug 2026 21:40:16 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Andalucía quiere eliminar las grandes masas de eucalipto que funcionan como gasolina para los incendios",
+      "link": "https://www.abc.es/espana/andalucia/andalucia-quiere-eliminar-grandes-masas-eucalipto-funcionan-20260814212010-nts.html",
+      "desc": "El grave incendio de Niebla (Huelva), probablemente el más extenso de toda la historia de Andalucía con más de 40.000 hectáreas recorridas en este momento, ha encontrado un aliado en su desarrollo. Dentro de la masa forestal que ha ardido, un porcentaje muy al",
+      "date": "Fri, 14 Aug 2026 21:20:10 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Toledo alza el telón a sus fiestas entre abanicos, gigantones y siglos de historia",
+      "link": "https://www.abc.es/espana/castilla-la-mancha/toledo/toledo-alza-telon-fiestas-abanicos-gigantones-siglos-20260814211759-nt.html",
+      "desc": "A las puertas del Ayuntamiento, Toledo tenía este viernes ese aire inconfundible de las grandes ocasiones. El calor de agosto se agarraba a las piedras, las calles comenzaban a llenarse de familias, mayores, niños y grupos de amigos, también turistas, y, poco ",
+      "date": "Fri, 14 Aug 2026 21:18:00 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Juanma Moreno, sobre el incendio: «Nos enfrentamos a un monstruo»",
+      "link": "https://www.abc.es/espana/andalucia/huelva/juanma-moreno-sobre-incendio-enfrentamos-monstruo-20260814210124-nts.html",
+      "desc": "«Una bestia terrible», «un monstruo», «una catástrofe», que puede estar viviendo «el principio del fin». El presidente de la Junta de Andalucía, Juanma Moreno , ha visitado este viernes el Puesto de Mando Avanzado en Niebla con motivo del terrible incendio que",
+      "date": "Fri, 14 Aug 2026 21:01:47 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Prisión provisional y sin fianza para el presunto autor del incendio de Las Peñas de Riglos",
+      "link": "https://www.abc.es/espana/aragon/prision-privisional-fianza-presunto-autor-incendio-penas-20260814203941-nt.html",
+      "desc": "El presunto autor del incendio forestal de Las Peñas de Riglos (Huesca) ha ingresado este viernes, 14 de agosto, en la prisión zaragozana de Zuera de forma provisional y sin fianza, ha informado la Comandancia de la Guardia Civil de Zaragoza. En una nota de pr",
+      "date": "Fri, 14 Aug 2026 20:39:41 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
     {
       "title": "Prisión para un joven francés pillado con más de 300 dosis de ketamina",
       "link": "https://www.abc.es/espana/castilla-leon/prision-joven-frances-pillado-300-dosis-ketamina-20260814200625-nt.html",
@@ -123,6 +193,16 @@
       "caso": "other"
     },
     {
+      "title": "Fallece en accidente en la Volta a Portugal el joven valor Finlay Tarling del equipo filial de Iniesta",
+      "link": "https://www.lavanguardia.com/deportes/20260814/11614044/fallece-accidente-volta-portugal-joven-valor-finlay-tarling-equipo-filial-iniesta.html",
+      "desc": "Según la televisión portuguesa RTP, el joven ciclista británico tuvo una colisión frontal con un vehículo ajeno a la carrera",
+      "date": "14 Aug 2026 18:43:39 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
+    {
       "title": "El incendio forestal obliga a evacuar a los vecinos de El Recuenco en Guadalajara y se declara el nivel 2",
       "link": "https://www.abc.es/espana/castilla-la-mancha/nuevo-incendio-recuenco-guadalajara-provincia-castigada-fuego-20260814183952-nt.html",
       "desc": "Un nuevo incendio forestal en Guadalajara , la provincia más castigada por el fuego este verano en Castilla-La Mancha, ha obligado a activar la Situación Operativa Nivel 2 y se ha ordenado la evacuación de los vecinos de El Recuenco, un pequeño pueblo del Alto",
@@ -153,90 +233,10 @@
       "caso": "other"
     },
     {
-      "title": "El incendio forestal en Tobarra, que obligó a cortar la CM-3215 por humo, desciende a nivel 0",
-      "link": "https://www.abc.es/espana/castilla-la-mancha/nivel-incendio-forestal-tobarra-obliga-cortar-cm3215-20260814182306-nt.html",
-      "desc": "El incendio forestal declarado este viernes en el término municipal de Tobarra (Albacete), que tuvo que ser declarado nivel 1 de emergencia por la afección del humo a la carretera CM-3215, ha descendido a las siete de la tarde a nivel 0, según han informado fu",
-      "date": "Fri, 14 Aug 2026 18:23:06 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Emiliano García-Page: el Quijote que nunca desenvaina y se olvida de su tierra",
-      "link": "https://www.abc.es/espana/castilla-la-mancha/emiliano-garciapage-quijote-nunca-desenvaina-olvida-tierra-20260814180448-nt.html",
-      "desc": "Hay políticos que construyen su carrera sobre la base de las promesas rotas y los gestos grandilocuentes pero vacíos. Emiliano García-Page es, probablemente, el mejor exponente de esta escuela: un experto en marcar líneas rojas que siempre termina borrando con",
-      "date": "Fri, 14 Aug 2026 18:06:59 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
       "title": "Los huesos de los reyes de Aragón, retirados de un monasterio por el incendio de Huesca",
       "link": "https://www.lavanguardia.com/vida/20260814/11614020/huesos-reyes-aragon-retirados-monasterio-incendio-huesca.html",
       "desc": "Miembros de la UME participan en la evacuación de los restos de los monarcas y obras de arte",
       "date": "14 Aug 2026 18:04:44 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "La Celestina enfrenta de nuevo a PP, PSOE y Vox: el Pleno decidirá el 27 de agosto si desbloquea el expediente nacional",
-      "link": "https://www.abc.es/espana/castilla-la-mancha/toledo/pueblos/celestina-enfrenta-nuevo-pp-psoe-vox-pleno-20260814175922-nt.html",
-      "desc": "La Puebla de Montalbán, en la provincia de Toledo, volverá a poner sobre la mesa una cuestión que lleva más de un año enquistada en la política municipal. El próximo 27 de agosto, el Ayuntamiento llevará al Pleno ordinario el acuerdo que puede desbloquear uno ",
-      "date": "Fri, 14 Aug 2026 17:59:22 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "El PP exige a Sánchez más compromiso con las infraestructuras para el Xacobeo 2027",
-      "link": "https://www.abc.es/espana/galicia/pp-exige-sanchez-compromiso-infraestructuras-xacobeo-20260814173131-nt.html",
-      "desc": "El Camino de Santiago se hace generalmente andando o en bicicleta, y hay incluso quien opta por el barco o el caballo, pero Galicia debe contar con unas infraestructuras de todo tipo en condiciones para recibir a miles de visitantes durante el Año Santo de 202",
-      "date": "Fri, 14 Aug 2026 17:55:06 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Incautados más de 400 kilos de hachís en una narcholancha al sur de Gran Canaria",
-      "link": "https://www.abc.es/espana/canarias/incautados-400-kilos-hachis-narcholancha-sur-gran-20260814175148-nt.html",
-      "desc": "La Operación 'Babayaga' de tráfico de drogas se ha saldado con la detención de diez personas y la intervención de aproximadamente 400 kilogramos de hachís en el entorno del muelle pesquero del Castillo del Romeral, en Gran Canaria. La investigación se inició a",
-      "date": "Fri, 14 Aug 2026 17:51:48 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Illescas invierte más de 230.000 euros en mejorar colegios e institutos antes del curso",
-      "link": "https://www.abc.es/espana/castilla-la-mancha/toledo/pueblos/illescas-invierte-230000-euros-mejorar-colegios-institutos-20260814174532-nt.html",
-      "desc": "Más de 230.000 euros se han invertido durante este verano en la mejora y acondicionamiento de colegios e institutos de Illescas de cara al próximo curso. Las actuaciones, impulsadas conjuntamente por el Ayuntamiento y la Junta de Comunidades de Castilla-La Man",
-      "date": "Fri, 14 Aug 2026 17:50:47 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "La Generalitat Valenciana sube un 7% el precio máximo de las VPO para incentivar la construcción",
-      "link": "https://www.abc.es/espana/comunidad-valenciana/generalitat-valenciana-sube-precio-maximo-vpo-incentivar-20260814174850-nt.html",
-      "desc": "La Generalitat Valenciana sube el precio de las viviendas de protección pública (VPO) para incentivar a los promotores a construir nuevas promociones. El incremento será finalmente del 7 %, de modo que el valor máximo del metro cuadrado de superficie útil pasa",
-      "date": "Fri, 14 Aug 2026 17:48:50 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "El fuego de Las Peñas obliga a desalojar Atarés y Anzánigo y suspender circulación ferroviaria",
-      "link": "https://www.lavanguardia.com/vida/20260814/11613999/fuego-penas-obliga-desalojar-atares-anzanigo-suspender-circulacion-ferroviaria.html",
-      "desc": "El Monasterio de San Juan de la Peña, panteón de los primeros reyes aragoneses, cercado por el incendio",
-      "date": "14 Aug 2026 17:09:34 +0200",
       "source": "La Vanguardia",
       "color": "#8e44ad",
       "feedId": "LaVanguardia",
