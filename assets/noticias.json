@@ -1,7 +1,97 @@
 {
-  "updated": "2026-08-15T06:28:36Z",
+  "updated": "2026-08-15T08:21:01Z",
   "count": 24,
   "items": [
+    {
+      "title": "El Hospital La Fe coordina un proyecto científico europeo para validar el uso de la IA en oncología",
+      "link": "https://www.abc.es/espana/comunidad-valenciana/hospital-coordina-proyecto-cientifico-europeo-validar-uso-20260815101219-nt.html",
+      "desc": "El Instituto de Investigación Sanitaria La Fe (IIS La Fe) de Valencia ha sido seleccionado por la Comisión Europea para asumir la coordinación científica de SCOPE-AI , uno de los mayores proyectos europeos orientados a impulsar el uso de la inteligencia artifi",
+      "date": "Sat, 15 Aug 2026 10:12:19 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "La Semana Santa de Córdoba tendrá visibilidad en el congreso de ciudades Patrimonio en Alcalá de Henares",
+      "link": "https://www.abc.es/espana/andalucia/cordoba/semana-santa/alcala-henares-reunira-congreso-sobre-semana-santa-20260815123632-nts.html",
+      "desc": "La Semana Santa de Córdoba tendrá visibilidad en el cuarto Congreso nacional de Semana Santa y ciudades Patrimonio de la Humanidad de España, que acogerá Alcalá de Henares entre el 23 y el 25 de octubre de 2026. Representantes de las cofradías y hermandades de",
+      "date": "Sat, 15 Aug 2026 09:58:24 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Un intenso terremoto, de magnitud 5 y con epicentro en Granada, sobresalta a numerosos municipios de Córdoba",
+      "link": "https://www.abc.es/espana/andalucia/cordoba/intenso-terremoto-magnitud-epicentro-granada-sobresalta-numerosos-20260815095458-nts.html",
+      "desc": "Un seísmo de magnitud 5 , registrado a las 1.04 horas de la madrugada de este sábado y cuyo epicentro ha estado en Alhendín (Granada), se ha dejado sentir en numerosos municipios de la provincia de Córdoba . En concreto, el servicio de Emergencias 112, dependi",
+      "date": "Sat, 15 Aug 2026 09:54:58 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Leire Martínez alza la voz en Toledo por la igualdad en la industria musical: «Cabeza de ratón»",
+      "link": "https://www.abc.es/espana/castilla-la-mancha/toledo/leire-martinez-alza-voz-toledo-igualdad-industria-20260815091347-nt.html",
+      "desc": "Leire Martínez reivindicó este viernes por la noche en Toledo la igualdad entre hombres y mujeres en la industria musical durante un concierto que reunió a familias, jóvenes y niños en el recinto ferial de La Peraleda. Ante un público entregado y en una noche ",
+      "date": "Sat, 15 Aug 2026 09:23:24 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "lei"
+    },
+    {
+      "title": "Ana Belén Rubio, directora y música:  «Una banda joven necesita un repertorio que le descubra de qué es capaz»",
+      "link": "https://www.abc.es/espana/castilla-la-mancha/toledo/ana-belen-rubio-directora-musica-banda-joven-20260811092039-nt.html",
+      "desc": "El verano en La Vega no se cuenta por semanas, sino por bandas. Cada sábado, a las diez de la noche, una nueva agrupación ocupa el parque y convierte este espacio cotidiano de Toledo en un auditorio abierto. El ciclo Veranos de La Vega ha ido trazando así, con",
+      "date": "Sat, 15 Aug 2026 09:20:39 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "La futura Unidad de Daño Cerebral de Toledo convertirá los jardines en parte del tratamiento terapéutico",
+      "link": "https://www.abc.es/espana/castilla-la-mancha/toledo/unidad-dano-cerebral-toledo-unica-region-jardines-20260805091720-nt.html",
+      "desc": "No será un hospital al uso. La futura Unidad de Rehabilitación de Personas con Daño Cerebral Adquirido (Udace) de Toledo se ha concebido para que el propio edificio forme parte del tratamiento. Los pacientes no solo recibirán sesiones de fisioterapia, logopedi",
+      "date": "Sat, 15 Aug 2026 09:17:20 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "La Junta activa la fase de emergencia por el terremoto de Granada y el 112 recibe unas cien llamadas",
+      "link": "https://www.abc.es/espana/andalucia/granada/junta-activa-fase-emergencia-terremoto-granada-112-20260815090538-nts.html",
+      "desc": "El consejero de Presidencia, Sanidad y Emergencias de la Junta de Andalucía, Antonio Sanz, ha elevado a fase de emergencia, situación operativa 1, el Plan de Emergencia de Andalucía ante el riesgo sísmico en Granada, tras registrarse un terremoto de magnitud 5",
+      "date": "Sat, 15 Aug 2026 09:06:06 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Juanma Moreno, sobre el terremoto de Granada: «Mucho cuidado con las cornisas y fachadas que se puedan desprender»",
+      "link": "https://www.abc.es/espana/andalucia/granada/juanma-moreno-sobre-terremoto-granada-cuidado-cornisas-20260815083246-nts.html",
+      "desc": "Cuando todavía algunos se estaban metiendo en la cama para irse a dormir, la tierra comenzó a moverse en Granada . Un terremoto de cinco grados sacudió la provincia nazarí con tal virulencia que se sintió en casi toda Andalucía . Afortunadamente, de momento, n",
+      "date": "Sat, 15 Aug 2026 08:32:46 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "La Generalitat dará hasta 2.000 euros a los propietarios para recuperar viviendas okupadas",
+      "link": "https://www.abc.es/espana/comunidad-valenciana/generalitat-dara-2000-euros-propietarios-recuperar-viviendas-20260815082756-nt.html",
+      "desc": "La Generalitat Valenciana ha anunciado una nueva línea de ayudas destinada para financiar gastos derivados del desalojo o la recuperación de viviendas que hayan sido okupadas , así como para sufragar posibles reparaciones de daños producidos en estos inmuebles",
+      "date": "Sat, 15 Aug 2026 08:27:56 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
     {
       "title": "Ana Láinez, alergóloga, indica cuándo acudir a urgencias por picaduras de abejas y avispas: «Si aparecen fuera de la zona»",
       "link": "https://www.abc.es/espana/comunidad-valenciana/ana-lainez-alergologa-indica-acudir-urgencias-picaduras-20260815110019-nt.html",
@@ -83,9 +173,9 @@
       "caso": "other"
     },
     {
-      "title": "Un terremoto de 5 grados con epicentro en Alhendín deja daños materiales y activa la fase de emergencia",
+      "title": "Un terremoto de 5 grados con epicentro en Granada deja daños materiales y activa la fase de emergencia",
       "link": "https://www.lavanguardia.com/vida/20260815/11614300/activada-fase-emergencia-terremoto-5-grados-epicentro-alhendin-granada.html",
-      "desc": "Se han registrado 15 terremotos de diferente intensidad concentrados en el área metropolitana de la ciudad tras el primer seísmo, que ha provocado más de 200 llamadas a emergencias",
+      "desc": "Se han registrado hasta 40 terremotos de diferente intensidad concentrados en el área metropolitana de la ciudad tras el primer seísmo, que ha provocado más de 80 llamadas a emergencias",
       "date": "15 Aug 2026 06:42:13 +0200",
       "source": "La Vanguardia",
       "color": "#8e44ad",
@@ -105,7 +195,7 @@
     {
       "title": "La frontera, en alerta: última hora sobre una jornada que se prevé tensa",
       "link": "https://www.lavanguardia.com/politica/20260815/11614298/marroquies-salto-frontera-ceuta-crisis-migratoria-ultima-hora-hoy-en-directo.html",
-      "desc": "Marruecos y España blindan la frontera de Ceuta ante el llamamiento de un nuevo salto para este sábado",
+      "desc": "Marruecos y España controlan todos los pasos fronterizos después del llamamiento en redes para llegar a Ceuta este sábado",
       "date": "15 Aug 2026 06:00:01 +0200",
       "source": "La Vanguardia",
       "color": "#8e44ad",
@@ -113,7 +203,7 @@
       "caso": "other"
     },
     {
-      "title": "Madrid y Rabat elevan la vigilancia en Ceuta ante los llamamientos en redes",
+      "title": "Madrid y Rabat elevan la vigilancia en Ceuta ante los llamamientos en redes a un nuevo asalto",
       "link": "https://www.lavanguardia.com/politica/20260815/11614090/madrid-rabat-elevan-vigilancia-ceuta-llamamientos-redes.html",
       "desc": "Los mensajes difundidos llaman a acudir hoy a la frontera al ser festivo en España",
       "date": "15 Aug 2026 06:00:00 +0200",
@@ -146,96 +236,6 @@
       "title": "Ceuta y el antídoto de la solidaridad europea",
       "link": "https://www.lavanguardia.com/internacional/20260815/11613959/ceuta-antidoto-solidaridad-europea.html",
       "desc": "",
-      "date": "15 Aug 2026 06:00:00 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "El Govern aspira a gestionar las estaciones de Rodalies bajo titularidad de Renfe y Adif",
-      "link": "https://www.lavanguardia.com/local/barcelona/20260815/11596526/govern-aspira-gestionar-estaciones-rodalies-titularidad-renfe-adif.html",
-      "desc": "Ambas empresas públicas tienen obras terminadas, en marcha o a la vista en unas 40 paradas de la red ferroviaria, con prioridad para los proyectos que ayuden a mejorar la fiabilidad del servicio",
-      "date": "15 Aug 2026 06:00:00 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "Bienvenidos a las 'readaways': un viaje a través de tus novelas favoritas",
-      "link": "https://www.lavanguardia.com/cultura/20260815/11613812/bienvenidos-readaways-viaje-traves-tus-novelas-favoritas.html",
-      "desc": "Fenómenos como las hermanas Brontë, Agatha Christie o David Uclés multiplican las visitas turísticas",
-      "date": "15 Aug 2026 06:00:00 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "Ranking Shanghai: el empuje de los campus chinos desplaza a las universidades españolas",
-      "link": "https://www.lavanguardia.com/vida/20260815/11614059/ranking-shanghai-empuje-campus-chinos-desplaza-universidades-espanolas.html",
-      "desc": "En el listado, liderado por la UB, hay treinta campus nacionales, seis menos que el año pasado",
-      "date": "15 Aug 2026 06:00:00 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "Cinco años después, la vida sigue en suspenso para las mujeres afganas",
-      "link": "https://www.lavanguardia.com/internacional/20260815/11613679/cinco-anos-vida-sigue-suspenso-mujeres-afganas.html",
-      "desc": "Aburrimiento, furia y depresión.&nbsp;Dos hermanas describen cómo es despertarse en Kabul desde que los talibanes recuperaron el país en el 2021",
-      "date": "15 Aug 2026 06:00:00 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "Zelenski pone presión a Putin y muestra sus cartas a Trump",
-      "link": "https://www.lavanguardia.com/internacional/20260815/11613802/ucrania-pone-presion-rusia-desmiente-derrotismo-trump.html",
-      "desc": "La estrategia y éxitos militares ucranianos sorprenden a Rusia y Estados Unidos",
-      "date": "15 Aug 2026 06:00:00 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "“¿Qué tal se viaja en un contenedor de catering, Donald?”",
-      "link": "https://www.lavanguardia.com/internacional/20260815/11614087/que-viaja-contenedor-catering-donald.html",
-      "desc": "",
-      "date": "15 Aug 2026 06:00:00 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "La Liga española, la primera grande que levanta el telón",
-      "link": "https://www.lavanguardia.com/deportes/futbol/20260815/11614062/liga-espanola-primera-grande-levanta-telon.html",
-      "desc": "España arranca antes que las otras potencias pero sin los conjuntos favoritos, que aplazan su estreno",
-      "date": "15 Aug 2026 06:00:00 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "Barça: Flick espera a Rodri, que ya está de camino, y al nueve",
-      "link": "https://www.lavanguardia.com/deportes/futbol/20260815/11614085/barca-flick-espera-rodri-esta-camino-nueve-liga-26-27-julian-alvarez.html",
-      "desc": "El vigente campeón de Liga ultima el fichaje del centrocampista, que apunta a ser la próxima incorporación de un equipo que todavía busca gol",
-      "date": "15 Aug 2026 06:00:00 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "Real Madrid: Un viaje al pasado con Mourinho para ir a la guerra",
-      "link": "https://www.lavanguardia.com/deportes/futbol/20260815/11614093/real-madrid-viaje-pasado-regreso-mourinho-guerra-soldados-liga-26-27.html",
-      "desc": "Mourinho acapara los focos en un mercado con ventas récord del filial (195 millones) y Diomande de estrella",
       "date": "15 Aug 2026 06:00:00 +0200",
       "source": "La Vanguardia",
       "color": "#8e44ad",
