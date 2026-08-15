@@ -1,7 +1,117 @@
 {
-  "updated": "2026-08-15T18:20:32Z",
+  "updated": "2026-08-15T20:15:58Z",
   "count": 24,
   "items": [
+    {
+      "title": "La Virgen del Tránsito, calma en blanco y oro por las calles de Córdoba",
+      "link": "https://www.abc.es/espana/andalucia/cordoba/semana-santa/virgen-transito-calma-blanco-oro-calles-cordoba-20260815155541-nts.html",
+      "desc": "No conoció la corrupción del sepulcro. Su cuerpo y su alma se elevan en la bella tarde del 15 de agosto , día de mantillas blancas para acompañar a la que no tuvo mancha, solo gracias. En su joven rostro se ha borrado todo signo de llanto y sufrimiento, solo h",
+      "date": "Sat, 15 Aug 2026 22:02:56 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Un vehículo que circulaba en sentido contrario provoca tres heridos graves y el corte de la A-62 en Palencia",
+      "link": "https://www.abc.es/espana/castilla-leon/vehiculo-circulaba-sentido-contrario-provoca-tres-heridos-20260815220037-nt.html",
+      "desc": "Un vehículo que circulaba en sentido contrario ha provocado un accidente con tres heridos graves y el corte de la A-62, sentido Burgos, en Palencia. Según ha informado la Subdelegación del Gobierno, los hechos se han producido a la altura del kilómetro 89 y se",
+      "date": "Sat, 15 Aug 2026 22:01:01 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "La alcaldesa de Almadén garantiza los terrenos para la residencia de estudiantes",
+      "link": "https://www.abc.es/espana/castilla-la-mancha/alcaldesa-almaden-garantiza-terrenos-residencia-estudiantes-20260815214402-nt.html",
+      "desc": "La alcaldesa de Almadén, Raquel Jurado, ha garantizado la cesión de los terrenos municipales necesarios para construir la nueva residencia de estudiantes y ha acusado al PSOE de utilizar este proyecto con fines electorales. La regidora ha asegurado que el comp",
+      "date": "Sat, 15 Aug 2026 21:44:03 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Herido un enfermero de 34 años al ser alcanzado por un rayo mientras trabajaba en un pueblo de Toledo",
+      "link": "https://www.abc.es/espana/castilla-la-mancha/toledo/pueblos/herido-enfermero-anos-alcanzado-rayo-trabajaba-pueblo-20260815212541-nt.html",
+      "desc": "Un enfermero de 34 años ha resultado herido este sábado tras ser alcanzado por un rayo mientras trabajaba en la localidad toledana de San Bartolomé de las Abiertas. El suceso ha ocurrido sobre las 18.07 horas, según han informado a Europa Press fuentes del Ser",
+      "date": "Sat, 15 Aug 2026 21:25:41 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Dos mujeres mueren y dos menores resultan heridos tras una riada en Manzanedo de Valdueza (León)",
+      "link": "https://www.abc.es/espana/castilla-leon/varias-personas-desaparecidas-tras-riada-manzanedo-valdueza-20260815210803-nt.html",
+      "desc": "Dos mujeres han fallecido y dos menores han resultado heridos después de que una riada haya provocado un desplazamiento de tierra en Manzanedo de Valdueza, en el término municipal de Ponferrada , según informan fuentes de la Subdelegación del Gobierno, que con",
+      "date": "Sat, 15 Aug 2026 21:08:50 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Marruecos exhibe su control sobre la frontera de Ceuta evitando otro cruce de migrantes",
+      "link": "https://www.lavanguardia.com/politica/20260815/11614481/marruecos-exhibe-control-sobre-frontera-ceuta-evitando-cruce.html",
+      "desc": "Los gendarmes bloquean, con cargas, a cientos de subsaharianos que iban a El Tarajal",
+      "date": "15 Aug 2026 20:45:04 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
+    {
+      "title": "Del terremoto de 1884 al enjambre sísmico de 2021: Granada y su relación con los temblores",
+      "link": "https://www.abc.es/espana/andalucia/granada/terremoto-1884-enjambre-sismico-2021-granada-relacion-20260815112729-nts.html",
+      "desc": "En este caso no hay que recurrir al típico y tópico «los más viejos del lugar recordarán…», porque el más reciente episodio de terremotos vivido en Granada fue bastante reciente: los especialistas lo llamaron enjambre sísmico y consistió en una serie de seísmo",
+      "date": "Sat, 15 Aug 2026 20:34:03 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Pastrana celebra la Asunción entre música, devoción y cuatro siglos de historia en su Colegiata",
+      "link": "https://www.abc.es/espana/castilla-la-mancha/pastrana-celebra-asuncion-musica-devocion-cuatro-siglos-20260815202426-nt.html",
+      "desc": "Pastrana ha vuelto a celebrar este 15 de agosto una de sus jornadas más arraigadas. La festividad de Nuestra Señora de la Asunción ha reunido este sábado devoción, música y patrimonio en torno a la Colegiata, titular de la histórica parroquia y uno de los gran",
+      "date": "Sat, 15 Aug 2026 20:30:45 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Adrián Rey y Miguel Toquero se proclaman 'reyes' de las chapas en Villaco",
+      "link": "https://www.abc.es/espana/castilla-leon/adrian-rey-miguel-toquero-proclaman-reyes-chapas-20260815202937-nt.html",
+      "desc": "El municipio vallisoletano de Villaco, de apenas 70 habitantes, congregaba este sábado, 15 de agosto, a más de 500 personas en la primera edición del Concurso Nacional de Chapas, una iniciativa pionera en España que se desarrolló bajo el lema 'Este verano te d",
+      "date": "Sat, 15 Aug 2026 20:29:37 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Situación 2 por la proximidad de un incendio al núcleo de Fumaces, en Riós (Orense)",
+      "link": "https://www.abc.es/espana/galicia/situacion-proximidad-incendio-nucleo-fumaces-rios-orense-20260815201937-nt.html",
+      "desc": "La Consellería de Medio Rural ha informado de un incendio forestal activo en el municipio orensano de Riós, que se encuentra próximo al núcleo de Fumaces . Por eso, el Gobierno gallego ha decretado la Situación 2, como pedida preventiva por su proximidad a viv",
+      "date": "Sat, 15 Aug 2026 20:19:37 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Alar del Rey (Palencia) vuelve a vibrar con el Descenso Internacional del Pisuerga",
+      "link": "https://www.abc.es/espana/castilla-leon/alar-rey-palencia-vuelve-vibrar-descenso-internacional-20260815201558-nt.html",
+      "desc": "La localidad palentina de Alar del Rey volvía a vibrar, como cada 15 de agosto, con la LX edición del Descenso Internacional del Pisuerga, una prueba que reúne a decenas de palistas para disputar un recorrido de 17 kilómetros que parte del municipio de Olleros",
+      "date": "Sat, 15 Aug 2026 20:15:58 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
     {
       "title": "Cabanillas decreta dos días de luto por la muerte del exconcejal Pablo Herranz",
       "link": "https://www.abc.es/espana/castilla-la-mancha/toledo/cabanillas-decreta-dos-dias-luto-muerte-exconcejal-20260815200350-nt.html",
@@ -130,116 +240,6 @@
       "source": "ABC",
       "color": "#c0392b",
       "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Denuncian  un intento de fraude para recabar información de ciudadanos afectado por incendios en Ávila",
-      "link": "https://www.abc.es/espana/castilla-leon/denuncian-intento-fraude-recabar-informacion-ciudadanos-afectado-20260815173949-nt.html",
-      "desc": "La Junta de Castilla y León denunció ante la Guardia Civil un intento de fraude cuyo fin último era recabar información privada de los habitantes de, al menos, uno de los ayuntamientos abulenses afectados por los incendios de este verano. Esta situación se con",
-      "date": "Sat, 15 Aug 2026 17:40:36 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Alerta roja por calor este domingo en el interior de Pontevedra, Rías Baixas y montaña de Orense",
-      "link": "https://www.abc.es/espana/galicia/alerta-roja-calor-domingo-interior-pontevedra-rias-20260815173936-nt.html",
-      "desc": "Según los datos remitidos por MeteoSalud y Meteogalicia, la Xunta ha activado la alerta de nivel rojo por calor para este domingo en el interior de Pontevedra, Rías Baixas y Montaña de Orense. A mayores, la alerta por calor será de nivel naranja en Valdeorras,",
-      "date": "Sat, 15 Aug 2026 17:39:37 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "La Diputación de Toledo estrena su iluminación artística  con 262 luminarias LED",
-      "link": "https://www.abc.es/espana/castilla-la-mancha/toledo/pueblos/diputacion-toledo-estrena-iluminacion-artistica-262-luminarias-20260815172156-nt.html",
-      "desc": "El Palacio Provincial de Toledo estrena nueva iluminación artística. Un total de 262 luminarias LED RGBW transforman desde este fin de semana la imagen nocturna de la sede de la Diputación, una actuación concebida para realzar el valor arquitectónico del edifi",
-      "date": "Sat, 15 Aug 2026 17:21:56 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Muere una mujer tras circular en sentido contrario y provocar un accidente múltiple en Foios",
-      "link": "https://www.abc.es/espana/comunidad-valenciana/muere-mujer-grave-accidente-cuatro-coches-v21-20260815172156-nt.html",
-      "desc": "Una mujer ha muerto en un grave accidente de tráfico registrado en la carretera V-21, a la altura de Foios (Valencia). Los servicios sanitarios han asistido también a dos hombres de 24 y 41 años en el lugar del siniestro, que ha provocado retenciones de tres k",
-      "date": "Sat, 15 Aug 2026 17:21:56 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Estos son todos los Concertos do Xacobeo que están por venir en lo que queda de año",
-      "link": "https://www.abc.es/espana/galicia/concertos-xacobeo-venir-queda-ano-20260815171357-nt.html",
-      "desc": "Galicia es verano y, sin duda, música. El turismo de festival se ha convertido en uno de los grandes atractivos de la Comunidad y los Concertos do Xacobeo, por su filosofía y transversalidad, no solo están marcando agenda sino contribuyendo a desestacionalizar",
-      "date": "Sat, 15 Aug 2026 17:13:57 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "El segundo premio de la Lotería Nacional, agraciado con 120.000 euros al número, cae en Adamuz",
-      "link": "https://www.abc.es/espana/andalucia/cordoba/segundo-premio-loteria-nacional-agraciado-120000-euros-20260815170717-nts.html",
-      "desc": "La suerte se ha dejado sentir este sábado en Adamuz con el sorteo de la Lotería Nacional . Hasta esta localidad de la provincia de Córdoba ha viajado parte del segundo premio , según ha informado Loterías y Apuestas del Estado. Allí se ha vendido el 45.289 , a",
-      "date": "Sat, 15 Aug 2026 17:07:17 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Un rosario, una orla o sombrillas, entre los 7.700 objetos perdidos en julio en Madrid",
-      "link": "https://www.abc.es/espana/madrid/rosario-orla-sombrillas-7700-objetos-perdidos-julio-20260815165738-nt.html",
-      "desc": "Mas de 7.700 artículos extraviados en la capital han llegado a la Oficina de Objetos Perdidos del Ayuntamiento de Madrid este mes de julio. Entre ellos, el consistorio custodia un rosario, una orla de graduación, sombrillas, una nevera portátil o prismáticos, ",
-      "date": "Sat, 15 Aug 2026 16:57:38 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "2-1: El Toledo le remonta al Sanse dejando buenas sensaciones a sus aficionados",
-      "link": "https://www.abc.es/espana/castilla-la-mancha/toledo/deportes/toledo-remonta-sanse-dejando-buenas-sensaciones-aficionados-20260815164846-nt.html",
-      "desc": "El CD Toledo se adjudicó la edición número 57 del Trofeo de Ferias tras imponerse en la matinal de este sábado festivo por 2-1 a la UD Sanse. Pobre entrada en el Salto del Caballo, apenas unos 500 espectadores, para presenciar la disputa de un evento que es hi",
-      "date": "Sat, 15 Aug 2026 16:48:46 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Marruecos expulsa de Fnideq a los periodistas de EFE y TVE sin explicar los motivos",
-      "link": "https://www.lavanguardia.com/politica/20260815/11614398/marruecos-expulsa-fnideq-periodistas-efe-tve-sin-explicaciones.html",
-      "desc": "La decisión se ha producido tras el intento de entrada de centenares de migrantes abortado por Rabat",
-      "date": "15 Aug 2026 16:46:19 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "Un nuevo incendio azota Zamora y vuelven las evacuaciones",
-      "link": "https://www.abc.es/espana/castilla-leon/elevan-nivel-incendio-declarado-hermisende-zamora-riesgo-20260815164549-nt.html",
-      "desc": "Diecisiete días después de la declaración del incendio de Fermoselle, el más grave que ha sufrido Zamora en lo que va de verano -calcinó unas 11.000 hectáreas-, otro importante fuego azotaba este sábado a la provincia. En torno a las 16.00 horas la Junta de Ca",
-      "date": "Sat, 15 Aug 2026 16:46:06 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "El Meteocat emite un aviso por tiempo violento este sábado en parte de Catalunya",
-      "link": "https://www.lavanguardia.com/local/catalunya/20260815/11614392/meteocat-emite-aviso-violento-sabado-tarde-parte-catalunya.html",
-      "desc": "Cinco comarcas están afectadas&nbsp; ante la previsión de tormentas con piedra, rachas de viento superiores a 90 km/h y reventones",
-      "date": "15 Aug 2026 16:35:43 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
       "caso": "other"
     }
   ]
