@@ -1,7 +1,77 @@
 {
-  "updated": "2026-08-15T12:26:39Z",
+  "updated": "2026-08-15T14:16:23Z",
   "count": 24,
   "items": [
+    {
+      "title": "Bomberos realizan 70 intervenciones en dos horas por episodios de lluvias y tormentas en Madrid",
+      "link": "https://www.abc.es/espana/madrid/bomberos-realizan-intervenciones-dos-horas-episodios-lluvias-20260815152829-nt.html",
+      "desc": "Los Bomberos de la Comunidad de Madrid han realizado un total de 70 intervenciones entre las 19.00 horas y las 21.00 horas de este viernes por el temporal de lluvias y tormentas que ha afectado a distintos puntos de la región. Se han retirado ramas y árboles c",
+      "date": "Sat, 15 Aug 2026 15:28:37 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "La Catedral de Toledo celebra su primer Jubileo en 800 años con indulgencia plenaria",
+      "link": "https://www.abc.es/espana/castilla-la-mancha/toledo/catedral-toledo-celebra-primer-jubileo-800-anos-20260815152618-nt.html",
+      "desc": "La Catedral Primada de Toledo afronta su primer jubileo de sus ocho siglos de historia. La bula concedida por el papa León XIV con motivo del octavo centenario de la Primada establece la posibilidad de obtener la indulgencia plenaria desde hoy 14 de agosto de ",
+      "date": "Sat, 15 Aug 2026 15:26:18 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "El Rey Felipe VI traslada su apoyo a Andalucía tras el incendio de Niebla y el terremoto de Granada",
+      "link": "https://www.abc.es/espana/andalucia/granada/rey-felipe-traslada-apoyo-andalucia-tras-incendio-20260815150741-nts.html",
+      "desc": "El rey Felipe VI ha llamado por teléfono esta mañana al presidente de la Junta de Andalucía, Juanma Moreno, para interesarse por la situación en la comunidad tras el incendio de Niebla y el terremoto de Granada. Su Majestad ha querido conocer de primera mano l",
+      "date": "Sat, 15 Aug 2026 15:07:41 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Detenido en Valladolid tras rayar un vehículo y amenazar con «rajar de arriba a abajo» a sus ocupantes",
+      "link": "https://www.abc.es/espana/castilla-leon/detenido-valladolid-tras-rayar-vehiculo-amenazar-rajar-20260815145227-nt.html",
+      "desc": "La Policía Nacional y la Policía Local detuvieron en la madrugada del 14 de agosto a un varón como presunto autor de un delito de amenazas y otro de daños en vehículo. Los hechos ocurrieron sobre las 1.30 horas. Fue entonces cuando los agentes de Policía Nacio",
+      "date": "Sat, 15 Aug 2026 14:52:28 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "La Virgen del Sagrario, madrina del VIII centenario de la Primada y testigo de una bula papal",
+      "link": "https://www.abc.es/espana/castilla-la-mancha/toledo/virgen-sagrario-vuelve-calle-toledo-bula-papal-20260815143315-nt.html",
+      "desc": "Aún no había comenzado la misa de las once cuando el claustro de la Catedral Primada ya era un hervidero. Familias enteras, mayores, jóvenes y visitantes entreban al templo para cumplir una de las tradiciones más queridas de Toledo: beber el agua de la Virgen ",
+      "date": "Sat, 15 Aug 2026 14:33:15 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Los cazadores reivindican el «recurso formidable» de la media veda para ser BIC",
+      "link": "https://www.abc.es/espana/castilla-leon/cazadores-reivindican-recurso-formidable-media-veda-bic-20260815142659-nt.html",
+      "desc": "El presidente de la Federación de Caza de Castilla y León, Santiago Iturmendi, anunciaba la intención de la entidad de pedir la declaración de la media veda como Bien de Interés Cultural debido a su «arraigo en el mundo rural, en la población rural y en los ec",
+      "date": "Sat, 15 Aug 2026 14:26:59 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "La cómica Martita de Graná, indignada al leer mensajes del terremoto de Granada: «Qué pena que no haya sido de 9 grados»",
+      "link": "https://www.abc.es/espana/andalucia/granada/comica-martita-grana-indignada-leer-mensajes-terremoto-20260815142530-nts.html",
+      "desc": "La noticia del día en España y, especialmente en Granada , es el terremoto que ha sufrido la provincia nazarí y que, debido a su virulencia, se ha sentido en gran parte de Andalucía y en otros puntos de España. Al ser de cinco grados de magnitud , la tierra ha",
+      "date": "Sat, 15 Aug 2026 14:25:31 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
     {
       "title": "El arzobispo de Toledo alerta: «El drama de nuestro tiempo es que hemos perdido la esperanza»",
       "link": "https://www.abc.es/espana/castilla-la-mancha/toledo/arzobispo-toledo-alerta-drama-tiempo-perdido-esperanza-20260815141100-nt.html",
@@ -73,6 +143,16 @@
       "caso": "other"
     },
     {
+      "title": "Marruecos exhibe control en la frontera ceutí con el bloqueo de cientos de inmigrantes subsaharianos",
+      "link": "https://www.lavanguardia.com/politica/20260815/11614366/marruecos-exhibe-control-frontera-ceuta-bloqueo-cientos-inmigrantes-subsaharianos.html",
+      "desc": "La policía marroquí intercepta a 128 subsaharianos y una veintena de marroquíes y detiene a&nbsp;61 sospechosos de incitación y promoción de llamadas a la migración irregular a través de las redes sociales",
+      "date": "15 Aug 2026 13:14:22 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
+    {
       "title": "Ninguna de las universidades gallegas entra entre las 500 mejores del mundo en el Ranking de Shanghai",
       "link": "https://www.abc.es/espana/galicia/ninguna-universidades-gallegas-entra-500-mejores-mundo-20260815130445-nt.html",
       "desc": "Ninguna de las universidades gallegas consigue situarse un año más entre las 500 mejores del mundo según el popular Ranking de Shanghai, un listado en el que, sin embargo, la Universidad de Santiago de Compostela mantiene su posición en el escalafón inmediatam",
@@ -133,76 +213,6 @@
       "caso": "other"
     },
     {
-      "title": "Nuevo intento de asalto a Ceuta desde Marruecos, en directo: última hora de la crisis migratoria hoy",
-      "link": "https://www.abc.es/espana/centenares-inmigrantes-entran-ceuta-nado-marruecos-directo-20260815130610-di.html",
-      "desc": "Esta mañana, cientos de inmigrantes de origen subsahariano han tomado las laderas de los montes de la localidad marroquí de Castillejos y están siendo vigilados de cerca por cientos de agentes del país vecino. Habitualmente, permanecen ocultos en zonas montaño",
-      "date": "Sat, 15 Aug 2026 12:38:40 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "La población extranjera en Galicia se multiplicó por tres desde 2002 y sumó 19.430 personas en el último año",
-      "link": "https://www.abc.es/espana/galicia/poblacion-extranjera-galicia-multiplico-tres-2002-sumo-20260815123721-nt.html",
-      "desc": "Galicia vive en las últimas décadas un aumento de la población extranjera que llega a la Comunidad en busca de una vida mejor . Después de que miles de gallegos decidiesen emigrar a lo largo de buena parte del siglo XIX y del siglo XX, ahora esta rincón atlánt",
-      "date": "Sat, 15 Aug 2026 12:37:21 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Hernando ensalza la catedral de Toledo al ser «patrimonio de todo un país»",
-      "link": "https://www.abc.es/espana/castilla-la-mancha/toledo/hernando-ensalza-catedral-toledo-patrimonio-pais-20260815123119-nt.html",
-      "desc": "El consejero de Fomento de Castilla-La Mancha, Nacho Hernando, ha reivindicado este sábado la Catedral de Toledo como «el patrimonio de todo un país» y ha destacado la capacidad de las instituciones para ponerse de acuerdo en torno a la celebración de los 800 ",
-      "date": "Sat, 15 Aug 2026 12:31:20 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Granada tiembla y sus vecinos también: relato de una noche de pesadilla y terremotos",
-      "link": "https://www.abc.es/espana/andalucia/granada/granada-tiembla-vecinos-relato-noche-pesadilla-terremotos-20260815122125-nts.html",
-      "desc": "Este sábado festivo, Granada ha amanecido entre truenos y bajo una lluvia insistente y abundante. Sus habitantes se dividen hoy entre los que están frustrados porque con ese tiempo no van a poder ir a la playa y los que se alegran de que el aire se refresque, ",
-      "date": "Sat, 15 Aug 2026 12:21:25 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "El incendio de Niebla no avanza durante la noche y permite un mejor control del fuego",
-      "link": "https://www.abc.es/espana/andalucia/incendio-niebla-avanza-noche-permite-mejor-control-20260815120742-nts.html",
-      "desc": "El principio del fin. El incendio forestal más extenso de la historia de Andalucía, con más de 40.000 hectáreas recorridas (a la espera de conocer cuántas han quedado arrasadas por el fuego), continúa todavía activo, pero las llamas ya han perdido fuerza y los",
-      "date": "Sat, 15 Aug 2026 12:19:51 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Las donaciones de sangre, plasma y plaquetas bajan un 5,5% en el primer semestre de 2026",
-      "link": "https://www.abc.es/espana/castilla-leon/donaciones-descienden-primer-semestre-2026-20260815120010-nt.html",
-      "desc": "El Centro de Hemoterapia y Hemodonación de Castilla y León (Chemcyl) registró un total de 52.706 donaciones entre enero y junio de 2026, una cifra que supone un 5,5 por ciento menos que en el mismo periodo del año 2025, según datos facilitados por la Consejerí",
-      "date": "Sat, 15 Aug 2026 12:00:10 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Almeida sentencia a la izquierda: «Si todo lo que tienen es el ático, hay Ayuso para rato»",
-      "link": "https://www.abc.es/espana/madrid/almeida-sentencia-izquierda-atico-ayuso-rato-20260815115117-nt.html",
-      "desc": "Isabel Díaz Ayuso y José Luis Martínez-Almeida han celebrado unidos una de las fiestas grandes de Madrid, la de la Virgen de la Paloma, en su día grande. En un verano especialmente tenso y bronco en el terreno político , y que se ha complicado aún más para la ",
-      "date": "Sat, 15 Aug 2026 11:51:17 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
       "title": "Oficial: Ferran Torres se marcha al PSG",
       "link": "https://www.lavanguardia.com/deportes/futbol/20260815/11614332/oficial-ferran-torres-marcha-psg-deja-barca.html",
       "desc": "El delantero de Foios deja prácticamente 50 millones de euros en la caja del FC Barcelona",
@@ -223,20 +233,10 @@
       "caso": "other"
     },
     {
-      "title": "Un terremoto de 5 grados con epicentro en Granada deja daños materiales y activa la emergencia",
-      "link": "https://www.lavanguardia.com/vida/20260815/11614300/activada-fase-emergencia-terremoto-5-grados-epicentro-alhendin-granada.html",
-      "desc": "Se han registrado hasta 50 temblores de diferente intensidad tras el primer seísmo, que ha provocado más de 200 llamadas a emergencias",
-      "date": "15 Aug 2026 06:42:13 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "Marruecos asegura que ha frenado un intento de cientos de migrantes para cruzar a Ceuta",
-      "link": "https://www.lavanguardia.com/politica/20260815/11614298/marroquies-salto-frontera-ceuta-crisis-migratoria-ultima-hora-hoy-en-directo.html",
-      "desc": "Ceuta ha amanecido con tranquilidad este sábado ante el refuerzo de la frontera, a pesar del intento de un grupo de migrantes",
-      "date": "15 Aug 2026 06:00:01 +0200",
+      "title": "Hallado muerto el exprofesor de Cambridge acusado de plagio en un contexto de racismo",
+      "link": "https://www.lavanguardia.com/vida/20260815/11614313/hallado-muerto-exprofesor-cambridge-acusado-plagio-contexto-racismo.html",
+      "desc": "El ciudadano británico de 41 años dimitió el 5 de agosto de su plaza en universidad, donde había hecho historia en 2023 al convertirse en el profesor negro más joven del centro",
+      "date": "15 Aug 2026 09:56:01 +0200",
       "source": "La Vanguardia",
       "color": "#8e44ad",
       "feedId": "LaVanguardia",
