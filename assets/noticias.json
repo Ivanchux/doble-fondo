@@ -1,7 +1,17 @@
 {
-  "updated": "2026-08-15T02:47:17Z",
+  "updated": "2026-08-15T04:23:47Z",
   "count": 24,
   "items": [
+    {
+      "title": "Horarios especiales de Mercadona para hoy sábado 15 de agosto, festivo de la Asunción de la Virgen",
+      "link": "https://www.abc.es/espana/comunidad-valenciana/horarios-especiales-mercadona-hoy-sabado-agosto-festivo-asuncion-20260815081201-nt.html",
+      "desc": "Mercadona ha anunciado un cambio en los horarios habituales de apertura de sus supermercados para este sábado 15 de agosto, con motivo de la festividad nacional de la Virgen de la Asunción. La cadena de distribución presidida por Juan Roig dará servicio a sus ",
+      "date": "Sat, 15 Aug 2026 06:00:21 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
     {
       "title": "El incendio de Huelva ya es el más extenso de la historia andaluza y mira hacia Sevilla",
       "link": "https://www.abc.es/espana/andalucia/incendio-huelva-extenso-historia-andaluza-mira-sevilla-20260815013848-nts.html",
@@ -187,16 +197,6 @@
       "link": "https://www.abc.es/espana/castilla-leon/discusion-vecinos-tras-crimen-tiros-leon-20260814214311-nt.html",
       "desc": "Una nueva disputa entre vecinos del mismo inmueble , pues no era la primera vez que se enzarzaban. Aunque esta vez llegaba a mayores, con uno de ellos empuñando, encañonando y disparando un arma escopeta y descerrajando varios tiros que resultaron mortales. Es",
       "date": "Fri, 14 Aug 2026 21:43:11 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Moreno anuncia que 114 desalojados por el incendio de Niebla podrán regresar a sus casas",
-      "link": "https://www.abc.es/espana/andalucia/huelva/moreno-anuncia-114-desalojados-incendio-niebla-podran-20260814214058-nts.html",
-      "desc": "El presidente de la Junta de Andalucía, Juanma Moreno, ha anunciado este viernes en el Puesto de Mando Avanzado por el incendio declarado el pasado 6 de agosto en el paraje Raboconejo de Niebla (Huelva) que el Comité de Operaciones va a proponer la autorizació",
-      "date": "Fri, 14 Aug 2026 21:41:41 +0200",
       "source": "ABC",
       "color": "#c0392b",
       "feedId": "ABC",
