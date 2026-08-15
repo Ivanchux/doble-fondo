@@ -1,7 +1,147 @@
 {
-  "updated": "2026-08-15T14:16:23Z",
+  "updated": "2026-08-15T16:17:31Z",
   "count": 24,
   "items": [
+    {
+      "title": "El terremoto de Granada se siente en Toledo, Ciudad Real, Ocaña, Ontígola y Puertollano",
+      "link": "https://www.abc.es/espana/castilla-la-mancha/terremoto-granada-siente-toledo-ciudad-real-ocana-20260815175734-nt.html",
+      "desc": "El terremoto de magnitud 5 registrado durante la madrugada de este sábado con epicentro en Alhendín, en la provincia de Granada, se ha dejado sentir también en numerosos puntos de Castilla-La Mancha. Toledo, Ciudad Real, Ocaña, Ontígola y Puertollano figuran e",
+      "date": "Sat, 15 Aug 2026 17:57:35 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Una joven desaparecida, una barandilla mortal y una confesión: «Igual que maté a una, mato a la otra»",
+      "link": "https://www.abc.es/espana/galicia/joven-desaparecida-barandilla-mortal-confesion-igual-mate-20260813174135-nt.html",
+      "desc": "El 14 de abril de 2001, en plena celebración de la Semana Santa, una familia irrumpió en el cuartel de Viana do Bolo, un municipio de poco más de 25.000 habitantes de la provincia de Orense. Eran las 10 de la noche y el nerviosismo, en una localidad donde la a",
+      "date": "Sat, 15 Aug 2026 17:41:35 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Denuncian  un intento de fraude para recabar información de ciudadanos afectado por incendios en Ávila",
+      "link": "https://www.abc.es/espana/castilla-leon/denuncian-intento-fraude-recabar-informacion-ciudadanos-afectado-20260815173949-nt.html",
+      "desc": "La Junta de Castilla y León denunció ante la Guardia Civil un intento de fraude cuyo fin último era recabar información privada de los habitantes de, al menos, uno de los ayuntamientos abulenses afectados por los incendios de este verano. Esta situación se con",
+      "date": "Sat, 15 Aug 2026 17:40:36 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Alerta roja por calor este domingo en el interior de Pontevedra, Rías Baixas y montaña de Orense",
+      "link": "https://www.abc.es/espana/galicia/alerta-roja-calor-domingo-interior-pontevedra-rias-20260815173936-nt.html",
+      "desc": "Según los datos remitidos por MeteoSalud y Meteogalicia, la Xunta ha activado la alerta de nivel rojo por calor para este domingo en el interior de Pontevedra, Rías Baixas y Montaña de Orense. A mayores, la alerta por calor será de nivel naranja en Valdeorras,",
+      "date": "Sat, 15 Aug 2026 17:39:37 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "La Diputación de Toledo estrena su iluminación artística  con 262 luminarias LED",
+      "link": "https://www.abc.es/espana/castilla-la-mancha/toledo/pueblos/diputacion-toledo-estrena-iluminacion-artistica-262-luminarias-20260815172156-nt.html",
+      "desc": "El Palacio Provincial de Toledo estrena nueva iluminación artística. Un total de 262 luminarias LED RGBW transforman desde este fin de semana la imagen nocturna de la sede de la Diputación, una actuación concebida para realzar el valor arquitectónico del edifi",
+      "date": "Sat, 15 Aug 2026 17:21:56 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Muere una mujer en un grave accidente entre siete coches en la V-21 a su paso por Foios",
+      "link": "https://www.abc.es/espana/comunidad-valenciana/muere-mujer-grave-accidente-cuatro-coches-v21-20260815172156-nt.html",
+      "desc": "Una mujer ha muerto en un grave accidente de tráfico registrado en la carretera V-21, a la altura de Foios (Valencia). Los servicios sanitarios han asistido también a dos hombres de 24 y 41 años en el lugar del siniestro, que ha provocado retenciones de tres k",
+      "date": "Sat, 15 Aug 2026 17:21:56 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Estos son todos los Concertos do Xacobeo que están por venir en lo que queda de año",
+      "link": "https://www.abc.es/espana/galicia/concertos-xacobeo-venir-queda-ano-20260815171357-nt.html",
+      "desc": "Galicia es verano y, sin duda, música. El turismo de festival se ha convertido en uno de los grandes atractivos de la Comunidad y los Concertos do Xacobeo, por su filosofía y transversalidad, no solo están marcando agenda sino contribuyendo a desestacionalizar",
+      "date": "Sat, 15 Aug 2026 17:13:57 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "El segundo premio de la Lotería Nacional, agraciado con 120.000 euros al número, cae en Adamuz",
+      "link": "https://www.abc.es/espana/andalucia/cordoba/segundo-premio-loteria-nacional-agraciado-120000-euros-20260815170717-nts.html",
+      "desc": "La suerte se ha dejado sentir este sábado en Adamuz con el sorteo de la Lotería Nacional . Hasta esta localidad de la provincia de Córdoba ha viajado parte del segundo premio , según ha informado Loterías y Apuestas del Estado. Allí se ha vendido el 45.289 , a",
+      "date": "Sat, 15 Aug 2026 17:07:17 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Un rosario, una orla o sombrillas, entre los 7.700 objetos perdidos en julio en Madrid",
+      "link": "https://www.abc.es/espana/madrid/rosario-orla-sombrillas-7700-objetos-perdidos-julio-20260815165738-nt.html",
+      "desc": "Mas de 7.700 artículos extraviados en la capital han llegado a la Oficina de Objetos Perdidos del Ayuntamiento de Madrid este mes de julio. Entre ellos, el consistorio custodia un rosario, una orla de graduación, sombrillas, una nevera portátil o prismáticos, ",
+      "date": "Sat, 15 Aug 2026 16:57:38 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "2-1: El Toledo le remonta al Sanse dejando buenas sensaciones a sus aficionados",
+      "link": "https://www.abc.es/espana/castilla-la-mancha/toledo/deportes/toledo-remonta-sanse-dejando-buenas-sensaciones-aficionados-20260815164846-nt.html",
+      "desc": "El CD Toledo se adjudicó la edición número 57 del Trofeo de Ferias tras imponerse en la matinal de este sábado festivo por 2-1 a la UD Sanse. Pobre entrada en el Salto del Caballo, apenas unos 500 espectadores, para presenciar la disputa de un evento que es hi",
+      "date": "Sat, 15 Aug 2026 16:48:46 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Marruecos expulsa de Fnideq a los periodistas de EFE y TVE sin explicar los motivos",
+      "link": "https://www.lavanguardia.com/politica/20260815/11614398/marruecos-expulsa-fnideq-periodistas-efe-tve-sin-explicaciones.html",
+      "desc": "La decisión se ha producido tras el intento de entrada de centenares de migrantes abortado por Rabat",
+      "date": "15 Aug 2026 16:46:19 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
+    {
+      "title": "Dos pueblos evacuados y una carretera cortada por el incendio declarado en Hermisende (Zamora)",
+      "link": "https://www.abc.es/espana/castilla-leon/elevan-nivel-incendio-declarado-hermisende-zamora-riesgo-20260815164549-nt.html",
+      "desc": "Algo más de dos semanas después de la declaración del incendio de Fermoselle, el más grave que ha sufrido Zamora en lo que va de verano -calcinó unas 11.000 hectáreas-, otro importante fuego vuelve a afectar la provincia. En torno a las 16.00 horas la Junta el",
+      "date": "Sat, 15 Aug 2026 16:46:06 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Cinco templos de Granada sufren daños en su interior tras el terremoto",
+      "link": "https://www.abc.es/espana/andalucia/granada/cinco-templos-granada-sufren-danos-interior-tras-20260815161736-nts.html",
+      "desc": "Un total de cinco templos religiosos católicos de la ciudad de Granada han sufrido daños en su interior tras el fuerte terremoto de magnitud 5 con epicentro en la localidad de Alhendín. El seísmo se ha sentido en la madrugada de este sábado en la capital y en ",
+      "date": "Sat, 15 Aug 2026 16:17:36 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Mercadona abre supermercados este domingo 16 de agosto con horario especial de verano",
+      "link": "https://www.abc.es/espana/comunidad-valenciana/mercadona-abre-supermercados-domingo-agosto-horario-especial-20260815161607-nt.html",
+      "desc": "Mercadona mantiene vigente el horario de verano para sus supermercados ubicados en zonas de costa y con mayor afluencia turística hasta el próximo 30 de agosto. En algunos de ellos, no en todos, también ofrece servicio especial los domingos desde las nueve de ",
+      "date": "Sat, 15 Aug 2026 16:16:07 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
     {
       "title": "Bomberos realizan 70 intervenciones en dos horas por episodios de lluvias y tormentas en Madrid",
       "link": "https://www.abc.es/espana/madrid/bomberos-realizan-intervenciones-dos-horas-episodios-lluvias-20260815152829-nt.html",
@@ -73,76 +213,6 @@
       "caso": "other"
     },
     {
-      "title": "El arzobispo de Toledo alerta: «El drama de nuestro tiempo es que hemos perdido la esperanza»",
-      "link": "https://www.abc.es/espana/castilla-la-mancha/toledo/arzobispo-toledo-alerta-drama-tiempo-perdido-esperanza-20260815141100-nt.html",
-      "desc": "El arzobispo de Toledo, Francisco Cerro, ha alertado este sábado de la pérdida de esperanza como uno de los grandes problemas de la sociedad actual y ha llamado a recuperar la paz y la fraternidad frente a las guerras, los conflictos y las «polarizaciones ideo",
-      "date": "Sat, 15 Aug 2026 14:11:00 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Málaga se viste de Feria en honor a su Patrona",
-      "link": "https://www.abc.es/espana/andalucia/malaga/malaga-viste-feria-honor-patrona-20260815135034-nts.html",
-      "desc": "Málaga se vistió de lunares y con sus mejores galas para festejar el primer día de la Feria 2026. En la romería al Santuario de la Victoria cientos de personas han recorrido las calles de la ciudad para acudir a este evento que da comienzo al primer día de la ",
-      "date": "Sat, 15 Aug 2026 14:01:10 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Tolón destaca las tradiciones como parte de la «autoestima» de Toledo",
-      "link": "https://www.abc.es/espana/castilla-la-mancha/toledo/tolon-reivindica-tradiciones-parte-autoestima-toledo-20260815120701-nt.html",
-      "desc": "La ministra de Educación, Formación Profesional y Deportes, Milagros Tolón, ha reivindicado este sábado las tradiciones como una parte fundamental de la «autoestima» de Toledo, coincidiendo con la celebración de la Virgen del Sagrario y en un año marcado por e",
-      "date": "Sat, 15 Aug 2026 13:54:00 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "El Córdoba CF define a sus capitanes para la temporada 2026-2027 en Segunda División",
-      "link": "https://www.abc.es/espana/andalucia/cordoba/cordoba-cf/cordoba-define-capitanes-temporada-20262027-segunda-division-20260815133649-nts.html",
-      "desc": "El Córdoba CF ya tiene definido el grupo de futbolistas que ejercerá como referencia dentro del vestuario durante la temporada 2026-2027. A las puertas del estreno liguero ante el Burgos en El Plantío, Carlos Albarrán, Isma Ruiz, Cristian Carracedo y Álex Mart",
-      "date": "Sat, 15 Aug 2026 13:39:33 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "La Universidad de Córdoba deja de estar entre las 1.000 mejores del mundo",
-      "link": "https://www.abc.es/espana/andalucia/cordoba/universidad-cordoba-deja-estar-1000-mejores-mundo-20260815133820-nts.html",
-      "desc": "La Universidad de Córdoba (UCO) sale este año del Ranking Académico de Universidades del Mundo (ARWU), conocido como 'ranking' de Shanghái, que sitúa a 30 universidades españolas entre las 1.000 mejores del mundo , seis menos que en la pasada edición. En total",
-      "date": "Sat, 15 Aug 2026 13:38:21 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "gen"
-    },
-    {
-      "title": "La UVa entra en el ranking de las 1.000 mejores universidades del mundo",
-      "link": "https://www.abc.es/espana/castilla-leon/uva-entra-ranking-1000-mejores-universidades-mundo-20260815133818-nt.html",
-      "desc": "Sólo 12 universidades españolas se sitúan entre las 500 mejores del mundo, según el Ranking Académico de Universidades del Mundo (ARWU), conocido como el 'ranking de Shanghái'. Las instituciones académicas españolas reconocidas entre las 1.000 mejores a nivel ",
-      "date": "Sat, 15 Aug 2026 13:38:18 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "El Rocío inicia su tercer Año Jubilar: «Para saber como se vive la conversión tenemos que mirar a la Virgen María»",
-      "link": "https://www.abc.es/espana/andalucia/rocio/rocio-inicia-tercer-ano-jubilar-saber-vive-20260815132828-nts.html",
-      "desc": "La aldea del Rocío despertaba esta mañana de 15 de agosto con especial alborozo. La solemnidad de la Asunción de la Virgen María, fiesta tan celebrada a lo largo de toda la provincia onubense, tenía en la aldea almonteña su primera cita de la jornada con la ap",
-      "date": "Sat, 15 Aug 2026 13:28:28 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
       "title": "Marruecos exhibe control en la frontera ceutí con el bloqueo de cientos de inmigrantes subsaharianos",
       "link": "https://www.lavanguardia.com/politica/20260815/11614366/marruecos-exhibe-control-frontera-ceuta-bloqueo-cientos-inmigrantes-subsaharianos.html",
       "desc": "La policía marroquí intercepta a 128 subsaharianos y una veintena de marroquíes y detiene a&nbsp;61 sospechosos de incitación y promoción de llamadas a la migración irregular a través de las redes sociales",
@@ -150,66 +220,6 @@
       "source": "La Vanguardia",
       "color": "#8e44ad",
       "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "Ninguna de las universidades gallegas entra entre las 500 mejores del mundo en el Ranking de Shanghai",
-      "link": "https://www.abc.es/espana/galicia/ninguna-universidades-gallegas-entra-500-mejores-mundo-20260815130445-nt.html",
-      "desc": "Ninguna de las universidades gallegas consigue situarse un año más entre las 500 mejores del mundo según el popular Ranking de Shanghai, un listado en el que, sin embargo, la Universidad de Santiago de Compostela mantiene su posición en el escalafón inmediatam",
-      "date": "Sat, 15 Aug 2026 13:04:45 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Llorca encomienda a la inspección educativa vigilar la «neutralidad ideológica» en las aulas valencianas",
-      "link": "https://www.abc.es/espana/comunidad-valenciana/llorca-encomienda-inspeccion-educativa-velar-neutralidad-ideologica-20260815125357-nt.html",
-      "desc": "La Ley de acompañamiento a los presupuestos de la Generalitat Valenciana para 2026, publicada esta semana en el Diari Oficial de la Generalitat (DOGV), recoge uno de los principales acuerdos entre PP y Vox en materia educativa, que busca reforzar la « neutrali",
-      "date": "Sat, 15 Aug 2026 12:56:54 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Núñez reivindica una Castilla-La Mancha «con historia, tradición y raíces»",
-      "link": "https://www.abc.es/espana/castilla-la-mancha/nunez-reivindica-castillala-mancha-historia-tradicion-raices-20260815125142-nt.html",
-      "desc": "El presidente del PP de Castilla-La Mancha, Paco Núñez, ha reivindicado las tradiciones y las fiestas populares como una parte esencial de la identidad de una comunidad autónoma que ha definido como una tierra con «historia, tradición y raíces». Lo ha hecho co",
-      "date": "Sat, 15 Aug 2026 12:53:46 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "El terremoto de Granada no deja daños estructurales ni personales pero hay temor a las réplicas",
-      "link": "https://www.abc.es/espana/andalucia/granada/terremoto-granada-deja-danos-estructurales-personales-temor-20260815123526-nts.html",
-      "desc": "Los responsables en Andalucía se encuentran ahora evaluando los posibles daños después del terremoto en Alhendín (Granada) de grado 5 en la escala Richter que ha provocado una sacudida no sólo en esta zona sino en toda la provincia con un efecto que se ha sent",
-      "date": "Sat, 15 Aug 2026 12:46:39 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "En estado grave una niña de 12 años tras sufrir un ahogamiento en la playa de Anfi del Mar (Gran Canaria)",
-      "link": "https://www.abc.es/espana/canarias/estado-grave-nina-anos-tras-sufrir-ahogamiento-20260815124433-nt.html",
-      "desc": "Una menor de 12 años de edad se encuentra en estado grave tras sufrir este viernes un episodio de ahogamiento en la playa de Anfi del Mar, en Mogán (Gran Canaria). La rápida intervención de los servicios de emergencia permitió su rescate, asistencia y posterio",
-      "date": "Sat, 15 Aug 2026 12:45:20 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Clavijo, «preocupado» por la crisis  en Ceuta pide «repensar» la actual política migratoria",
-      "link": "https://www.abc.es/espana/canarias/clavijo-preocupado-crisis-ceuta-pide-repensar-actual-20260815124306-nt.html",
-      "desc": "El presidente de Canarias, Fernando Clavijo, ha expresado su « preocupación » por la crisis migratoria en la ciudad autónoma de Ceuta, y ha pedido dejar atrás la «carga política y la polarización» y reflexionar sobre la actual política migratoria en Europa, qu",
-      "date": "Sat, 15 Aug 2026 12:43:07 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
       "caso": "other"
     },
     {
@@ -227,16 +237,6 @@
       "link": "https://www.lavanguardia.com/deportes/20260815/11614315/europeo-atletismo-birmingham-marcha-oro-espana-paul-macgrath.html",
       "desc": "El atleta de Gavà (Barcelona) y la granadina, con récord del mundo, son los primeros campeones de Europa de la nueva distancia de medio maratón (21 km)",
       "date": "15 Aug 2026 09:59:01 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "Hallado muerto el exprofesor de Cambridge acusado de plagio en un contexto de racismo",
-      "link": "https://www.lavanguardia.com/vida/20260815/11614313/hallado-muerto-exprofesor-cambridge-acusado-plagio-contexto-racismo.html",
-      "desc": "El ciudadano británico de 41 años dimitió el 5 de agosto de su plaza en universidad, donde había hecho historia en 2023 al convertirse en el profesor negro más joven del centro",
-      "date": "15 Aug 2026 09:56:01 +0200",
       "source": "La Vanguardia",
       "color": "#8e44ad",
       "feedId": "LaVanguardia",
