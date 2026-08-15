@@ -1,7 +1,67 @@
 {
-  "updated": "2026-08-15T20:15:58Z",
+  "updated": "2026-08-15T22:15:03Z",
   "count": 24,
   "items": [
+    {
+      "title": "Las restricciones a la pirotecnia por el riesgo de incendios, «un varapalo brutal» para el sector",
+      "link": "https://www.abc.es/espana/castilla-leon/restricciones-pirotecnia-riesgo-incendios-varapalo-brutal-sector-20260813234933-nt.html",
+      "desc": "Si la 'cara a' de estos días en que los pueblos disfrutan de sus fiestas patronales la representan orquestas, charangas y demás grupos que amenizan las celebraciones, la 'b' la pone el sector pirotécnico. Acostumbrado, tiempo atrás, a hacer su agosto por estas",
+      "date": "Sat, 15 Aug 2026 23:49:33 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Orquestas, DJ, charangas... la cotizada 'clave' para que suenen las fiestas",
+      "link": "https://www.abc.es/espana/castilla-leon/protagonistas-encienden-fiestas-pueblos-20260813234502-nt.html",
+      "desc": "Las calles de la mayor parte de los pueblos de Castilla y León se visten este fin de semana de celebración. Sus residentes y los que aprovechan sus vacaciones para volver a los lugares de origen de la familia viven a lo grande estos días señalados en el calend",
+      "date": "Sat, 15 Aug 2026 23:45:02 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Merche, tras actuar en Granada: «Jamás imaginé que en medio de un concierto nos pillara un terremoto»",
+      "link": "https://www.abc.es/espana/andalucia/granada/merche-tras-actuar-granada-imagine-medio-concierto-20260815230841-nts.html",
+      "desc": "La fiesta dio un giro radical en cuestión de segundos. Y es que el terremoto que tuvo lugar en la madrugada de este sábado al noroeste del municipio de Alhendín (Granada) de magnitud 5 provocó unos minutos de tensión entre los asistentes al concierto de la can",
+      "date": "Sat, 15 Aug 2026 23:09:07 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Muere Albert Maruny, maestro de la comunicación y el protocolo",
+      "link": "https://www.abc.es/espana/cataluna/muere-albert-maruny-maestro-comunicacion-protocolo-20260815223221-nt.html",
+      "desc": "Albert Maruny Gispert, periodista, profesor, experto en protocolo y empresario de la comunicación, ha fallecido este viernes, 14 de agosto, a los 59 años. Nacido el 7 de enero de 1967, dedicó cuatro décadas a un oficio que entendía de una forma amplia y transv",
+      "date": "Sat, 15 Aug 2026 22:32:21 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "La evolución favorable del incendio de Zamora permite la vuelta de los casi 200 desalojados",
+      "link": "https://www.abc.es/espana/castilla-leon/evolucion-favorable-incendio-hermisende-zamora-permite-vuelta-20260815221355-nt.html",
+      "desc": "Los intensos trabajos realizados por el personal del operativo de Infocal, así como unas condiciones meteorológicas favorables a partir de la tarde han permitido rebajar a nivel 1 el incendio forestal declarado en la madrugada de este sábado La Tejera, en el t",
+      "date": "Sat, 15 Aug 2026 22:16:51 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Horario y dónde ver por televisión el Burgos - Córdoba CF",
+      "link": "https://www.abc.es/espana/andalucia/cordoba/cordoba-cf/horario-ver-television-burgos-cordoba-20260815214738-nts.html",
+      "desc": "El cordobesismo ya cuenta las horas para volver a ver al Córdoba CF en acción. En apenas 24 horas, el balón volverá a rodar para los pupilos de Iván Ania para estrenar la temporada 2026-2027 en Segunda División ante el Burgos en El Plantío . Una primera prueba",
+      "date": "Sat, 15 Aug 2026 22:05:03 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
     {
       "title": "La Virgen del Tránsito, calma en blanco y oro por las calles de Córdoba",
       "link": "https://www.abc.es/espana/andalucia/cordoba/semana-santa/virgen-transito-calma-blanco-oro-calles-cordoba-20260815155541-nts.html",
@@ -10,6 +70,16 @@
       "source": "ABC",
       "color": "#c0392b",
       "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Al menos dos muertos y dos heridos tras una riada en Ponferrada",
+      "link": "https://www.lavanguardia.com/local/castilla-leon/20260815/11614499/dos-muertos-dos-heridos-riada-cerca-ponferrada.html",
+      "desc": "Una brutal tormenta ha descargado esta tarde sobre la zona y ha hecho que se desbordara el río Meruelo y provocara una riada y un deslizamiento de tierra",
+      "date": "15 Aug 2026 22:02:45 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
       "caso": "other"
     },
     {
@@ -43,9 +113,9 @@
       "caso": "other"
     },
     {
-      "title": "Dos mujeres mueren y dos menores resultan heridos tras una riada en Manzanedo de Valdueza (León)",
+      "title": "Dos mujeres mueren y dos bebés resultan heridos tras una riada en Manzanedo de Valdueza (León)",
       "link": "https://www.abc.es/espana/castilla-leon/varias-personas-desaparecidas-tras-riada-manzanedo-valdueza-20260815210803-nt.html",
-      "desc": "Dos mujeres han fallecido y dos menores han resultado heridos después de que una riada haya provocado un desplazamiento de tierra en Manzanedo de Valdueza, en el término municipal de Ponferrada , según informan fuentes de la Subdelegación del Gobierno, que con",
+      "desc": "Dos mujeres de 60 y 80 años, respectivamente, fallecían y dos menores resultaban heridos después de que una riada haya provocado un desplazamiento de tierra en Manzanedo de Valdueza, en el término municipal de Ponferrada , según informan fuentes de la Subdeleg",
       "date": "Sat, 15 Aug 2026 21:08:50 +0200",
       "source": "ABC",
       "color": "#c0392b",
@@ -170,76 +240,6 @@
       "source": "La Vanguardia",
       "color": "#8e44ad",
       "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "La UCLM resiste entre las 1.000 mejores universidades del mundo mientras España pierde posiciones",
-      "link": "https://www.abc.es/espana/castilla-la-mancha/uclm-resiste-1000-mejores-universidades-mundo-espana-20260815185217-nt.html",
-      "desc": "La Universidad de Castilla-La Mancha (UCLM) se mantiene un año más entre las 1.000 mejores universidades del mundo. La institución regional vuelve a situarse en el tramo 901-1.000 del Academic Ranking of World Universities (ARWU) de 2026, conocido como ranking",
-      "date": "Sat, 15 Aug 2026 18:52:17 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Prisión provisional para los dos detenidos por la muerte a tiros de un hombre en Santa Lucía de Gordón (León)",
-      "link": "https://www.abc.es/espana/castilla-leon/prision-provisional-dos-detenidos-muerte-tiros-hombre-20260815184125-nt.html",
-      "desc": "La autoridad judicial ha ordenado en ingreso en prisión para el hombre como supuesto autor del homicidio doloso y la mujer como supuesta cómplice del homicidio y por tener pendiente requisitorias anteriores al hecho, según informaba la Subdelegación del Gobier",
-      "date": "Sat, 15 Aug 2026 18:41:47 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "España gana el oro mundial y consigue el billete para Los Angeles'28",
-      "link": "https://www.lavanguardia.com/deportes/otros-deportes/20260815/11614433/espana-campeona-mundo-gimnasia-ritmica-juegos-olimpicos.html",
-      "desc": "España vuelve a ser campeona del mundo 35 años después en Frankfurt",
-      "date": "15 Aug 2026 18:37:52 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "Una fuerte tormenta descarga en Valencia y provoca que el festival Medusa retrase su apertura",
-      "link": "https://www.abc.es/espana/comunidad-valenciana/tormenta-descarga-sobre-valencia-aemet-amplia-aviso-20260815183123-nt.html",
-      "desc": "La Agencia Estatal de Meteorología (Aemet) ha activado el aviso de nivel naranja por lluvias y tormentas al interior norte y litoral sur de Valencia para este sábado por la tarde. Una previsión que ha obligado al festival Medusa a retrasar su hora de apertura.",
-      "date": "Sat, 15 Aug 2026 18:31:24 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "El 4x400 femenino, el 3.000 obstáculos y Yulenmis Aguilar apuntan a nuevas medallas para España",
-      "link": "https://www.lavanguardia.com/deportes/20260815/11614416/atletismo-europeos-birmingham-opciones-medalla-espana-domingo-4x400-jabalina-3-000-obstaculos-arce.html",
-      "desc": "El cuarteto del relevo femenino y la lanzadora de jabalina estarán en las finales de este domingo",
-      "date": "15 Aug 2026 17:58:19 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "El terremoto de Granada se siente en Toledo, Ciudad Real, Ocaña, Ontígola y Puertollano",
-      "link": "https://www.abc.es/espana/castilla-la-mancha/terremoto-granada-siente-toledo-ciudad-real-ocana-20260815175734-nt.html",
-      "desc": "El terremoto de magnitud 5 registrado durante la madrugada de este sábado con epicentro en Alhendín, en la provincia de Granada, se ha dejado sentir también en numerosos puntos de Castilla-La Mancha. Toledo, Ciudad Real, Ocaña, Ontígola y Puertollano figuran e",
-      "date": "Sat, 15 Aug 2026 17:57:35 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Una joven desaparecida, una barandilla mortal y una confesión: «Igual que maté a una, mato a la otra»",
-      "link": "https://www.abc.es/espana/galicia/joven-desaparecida-barandilla-mortal-confesion-igual-mate-20260813174135-nt.html",
-      "desc": "El 14 de abril de 2001, en plena celebración de la Semana Santa, una familia irrumpió en el cuartel de Viana do Bolo, un municipio de poco más de 25.000 habitantes de la provincia de Orense. Eran las 10 de la noche y el nerviosismo, en una localidad donde la a",
-      "date": "Sat, 15 Aug 2026 17:41:35 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
       "caso": "other"
     }
   ]
