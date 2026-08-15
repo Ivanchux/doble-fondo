@@ -1,7 +1,167 @@
 {
-  "updated": "2026-08-15T08:21:01Z",
+  "updated": "2026-08-15T10:17:11Z",
   "count": 24,
   "items": [
+    {
+      "title": "Las donaciones descienden un 5,5% en el primer semestre de 2026",
+      "link": "https://www.abc.es/espana/castilla-leon/donaciones-descienden-primer-semestre-2026-20260815120010-nt.html",
+      "desc": "El Centro de Hemoterapia y Hemodonación de Castilla y León (Chemcyl) registró un total de 52.706 donaciones entre enero y junio de 2026, una cifra que supone un 5,5 por ciento menos que en el mismo periodo del año 2025, según datos facilitados por la Consejerí",
+      "date": "Sat, 15 Aug 2026 12:00:10 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Almeida sentencia a la izquierda: «Si todo lo que tienen es el ático, hay Ayuso para rato»",
+      "link": "https://www.abc.es/espana/madrid/almeida-sentencia-izquierda-atico-ayuso-rato-20260815115117-nt.html",
+      "desc": "Isabel Díaz Ayuso y José Luis Martínez-Almeida han celebrado unidos una de las fiestas grandes de Madrid, la de la Virgen de la Paloma, en su día grande. En un verano especialmente tenso y bronco en el terreno político , y que se ha complicado aún más para la ",
+      "date": "Sat, 15 Aug 2026 11:51:17 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Velázquez reivindica el «privilegio» de Toledo al contar con la «catedral gótica más española»",
+      "link": "https://www.abc.es/espana/castilla-la-mancha/toledo/velazquez-reivindica-privilegio-toledo-contar-catedral-gotica-20260815112127-nt.html",
+      "desc": "El alcalde de Toledo, Carlos Velázquez, ha reivindicado este sábado, día de la Virgen del Sagrario, el «privilegio» de celebrar los 800 años de la colocación de la primera piedra de la Catedral Primada, una efeméride que convierte 2026 en un año especialmente ",
+      "date": "Sat, 15 Aug 2026 11:50:33 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "El Cuponazo de la ONCE deja 800.000 euros en Córdoba",
+      "link": "https://www.abc.es/espana/andalucia/cordoba/cuponazo-once-deja-800000-euros-cordoba-20260815114835-nts.html",
+      "desc": "El sorteo del Cuponazo de este viernes ha dejado un premio de 800.000 euros en la provincia cordobesa, donde la fortuna llegó por partida doble con José Antonio Sánchez, que repartió 400.000 euros con 10 cupones premiados en la capital, y en Montilla, donde Jo",
+      "date": "Sat, 15 Aug 2026 11:48:36 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Un hombre de 70 años muere tras caer desde el tejado de una vivienda en Manzanares",
+      "link": "https://www.abc.es/espana/castilla-la-mancha/hombre-anos-muere-tras-caer-tejado-vivienda-20260815113647-nt.html",
+      "desc": "Un hombre de 70 años ha perdido la vida este sábado tras precipitarse desde el tejado de una vivienda situada en la calle de la Prensa de Manzanares, en la provincia de Ciudad Real. El suceso se ha producido pasadas las ocho de la tarde. Hasta el lugar se han ",
+      "date": "Sat, 15 Aug 2026 11:36:47 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "48 horas después del eclipse, la mayoría de consultas oftalmológicas han sido «por aprensión»",
+      "link": "https://www.abc.es/espana/galicia/horas-despues-eclipse-mayoria-consultas-ofltalmologicas-aprension-20260815112955-nt.html",
+      "desc": "Los gallegos parecen haber sido muy responsables en lo que respecta a la autoprotección durante el eclipse solar que se pudo ver en la comunidad este miércoles. Por el momento, no se han registrado grandes lesiones oculares. Fuentes sanitarias consultadas por ",
+      "date": "Sat, 15 Aug 2026 11:29:55 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "El calor deja 430 muertes en Andalucía desde mayo, casi el triple que el año pasado",
+      "link": "https://www.abc.es/espana/andalucia/calor-deja-430-muertes-andalucia-mayo-triple-20260815111644-nts.html",
+      "desc": "El sistema de Monitorización de la Mortalidad diaria (MoMo) del Instituto de Salud Carlos III deja un dato escalofriante. En Andalucía han muerto 430 personas por calor. Defunciones atribuibles al exceso de temperaturas desde el 15 de mayo hasta el 13 de agost",
+      "date": "Sat, 15 Aug 2026 11:27:11 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Autobuses desde Sevilla para ver la Venida de la Virgen del Rocío: horarios, paradas y cómo llegar",
+      "link": "https://www.abc.es/espana/andalucia/rocio/autobuses-sevilla-ver-venida-virgen-rocio-horarios-20260815111929-nts.html",
+      "desc": "La Venida de la Virgen del Rocío marcará este mes de agosto una de las grandes citas del calendario rociero. El traslado tendrá lugar los días 19 y 20 de agosto , cuando la Blanca Paloma salga de su Santuario, en la aldea, para emprender el camino hasta la Par",
+      "date": "Sat, 15 Aug 2026 11:19:29 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Frustran en Marruecos un nuevo asalto de centenares de personas a Ceuta",
+      "link": "https://www.abc.es/espana/frustran-marruecos-nuevo-asalto-centenares-personas-ceuta-20260815111634-nt.html",
+      "desc": "Varios grupos de personas, que se cuentan en centenares, según fuentes oficiales de la Delegación del Gobierno, han intentado acceder esta pasada noche ilegalmente a Ceuta . Las fuerzas de seguridad marroquíes, sin embargo, les han impedido su objetivo en el p",
+      "date": "Sat, 15 Aug 2026 11:16:34 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Vuelve la inestabilidad a Castilla y León: la Aemet alerta de tormentas y fuertes vientos",
+      "link": "https://www.abc.es/espana/castilla-leon/vuelve-inestabilidad-castilla-leon-aemet-alerta-tormentas-20260815110840-nt.html",
+      "desc": "La Agencia Estatal de Meteorología (Aemet) mantiene este sábado, 15 de agosto, el aviso naranja por fuertes lluvias, con hasta 30 litros por metro cuadrado, y tormentas que podrían ir acompañadas de granizo grande y rachas muy fuertes de viento, en la Cordille",
+      "date": "Sat, 15 Aug 2026 11:08:40 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Supermercados coruñeses, en huelga hasta el próximo martes por el «bloqueo» del convenio colectivo",
+      "link": "https://www.abc.es/espana/galicia/supermercados-coruneses-huelga-proximo-martes-bloqueo-convenio-20260815110540-nt.html",
+      "desc": "Personal del comercio de alimentación de la provincia de La Coruña volverá a la huelga este sábado, día 15 -día de apertura autorizada-; el domingo 16 de agosto y el lunes, día 17, en un contexto de movilizaciones previas en demanda de mejoras salariales y lab",
+      "date": "Sat, 15 Aug 2026 11:05:40 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "El terremoto de Granada se sintió hasta en Madrid y alcanzó cinco comunidades autónomas",
+      "link": "https://www.abc.es/espana/andalucia/granada/terremoto-granada-sintio-madrid-alcanzo-cinco-comunidades-20260815105824-nts.html",
+      "desc": "El terremoto de magnitud 5,0 registrado esta madrugada al noreste de Alhendín (Granada) se sintió en más de 500 municipios , según el Instituto Geográfico Nacional, y alcanzó cinco comunidades autónomas : Andalucía, Murcia, Castilla-La Mancha, Extremadura y la",
+      "date": "Sat, 15 Aug 2026 10:58:24 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "La Junta mantiene la prohibición de baño en el embalse de La Colada tras confirmar la presencia de cianobacterias",
+      "link": "https://www.abc.es/espana/andalucia/cordoba/junta-mantiene-prohibicion-bano-embalse-colada-tras-20260815105443-nts.html",
+      "desc": "Las aguas de baño de las playas andaluzas se encuentran dentro de los niveles de calidad establecidos, según el informe elaborado por la Consejería de Presidencia, Sanidad y Emergencias durante la primera quincena de agosto sobre el estado del litoral en el in",
+      "date": "Sat, 15 Aug 2026 10:54:43 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Puente Genil rinde homenaje al maestro Fosforito en la 60ª edición de su festival",
+      "link": "https://www.abc.es/espana/andalucia/cordoba/puente-genil-rinde-homenaje-maestro-fosforito-60a-20260815103549-nts.html",
+      "desc": "Puente Genil volvió a situar el flamenco en el centro de su programación con la celebración de la sexagésima edición del Festival de Cante Grande 'Fosforito'. Y es que la cita, celebrada este pasado 14 de agosto en la Caseta Municipal, tuvo en esta ocasión un ",
+      "date": "Sat, 15 Aug 2026 10:35:49 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Un tiroteo en el barrio de la Coma se salda con cuatro detenidos de un mismo clan familiar",
+      "link": "https://www.abc.es/espana/comunidad-valenciana/tiroteo-barrio-coma-salda-cuatro-detenidos-clan-20260815103459-nt.html",
+      "desc": "La Policía Nacional ha detenido en la localidad valenciana de Paterna a tres hombres y una mujer de un mismo clan familiar por un tiroteo ocurrido el pasado mes de marzo en el barrio de la Coma. Los presuntos autores huyeron a bordo de una furgoneta y escondie",
+      "date": "Sat, 15 Aug 2026 10:34:59 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Auxilio de la Guardia Civil a varios residentes tras el terremoto de Granada",
+      "link": "https://www.abc.es/espana/andalucia/granada/auxilio-guardia-civil-varios-residentes-tras-terremoto-20260815102050-nts.html",
+      "desc": "Granada ha temblado durante esta noche . Y no una vez ni dos, sino varias, debido a las réplicas de un terremoto de magnitud 5 y con epicentro en la localidad de Alhendín. El seísmo se ha dejado sentir ampliamente entre la población durante la madrugada de est",
+      "date": "Sat, 15 Aug 2026 10:27:49 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
     {
       "title": "El Hospital La Fe coordina un proyecto científico europeo para validar el uso de la IA en oncología",
       "link": "https://www.abc.es/espana/comunidad-valenciana/hospital-coordina-proyecto-cientifico-europeo-validar-uso-20260815101219-nt.html",
@@ -10,6 +170,16 @@
       "source": "ABC",
       "color": "#c0392b",
       "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "La marcha de Paul McGrath y María Pérez da a España los dos primeros oros en el Europeo",
+      "link": "https://www.lavanguardia.com/deportes/20260815/11614315/europeo-atletismo-birmingham-marcha-oro-espana-paul-macgrath.html",
+      "desc": "El atleta de Gavà (Barcelona) y la granadina, con récord del mundo, son los primeros campeones de Europa de la nueva distancia de medio maratón (21 km)",
+      "date": "15 Aug 2026 09:59:01 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
       "caso": "other"
     },
     {
@@ -43,139 +213,9 @@
       "caso": "lei"
     },
     {
-      "title": "Ana Belén Rubio, directora y música:  «Una banda joven necesita un repertorio que le descubra de qué es capaz»",
-      "link": "https://www.abc.es/espana/castilla-la-mancha/toledo/ana-belen-rubio-directora-musica-banda-joven-20260811092039-nt.html",
-      "desc": "El verano en La Vega no se cuenta por semanas, sino por bandas. Cada sábado, a las diez de la noche, una nueva agrupación ocupa el parque y convierte este espacio cotidiano de Toledo en un auditorio abierto. El ciclo Veranos de La Vega ha ido trazando así, con",
-      "date": "Sat, 15 Aug 2026 09:20:39 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "La futura Unidad de Daño Cerebral de Toledo convertirá los jardines en parte del tratamiento terapéutico",
-      "link": "https://www.abc.es/espana/castilla-la-mancha/toledo/unidad-dano-cerebral-toledo-unica-region-jardines-20260805091720-nt.html",
-      "desc": "No será un hospital al uso. La futura Unidad de Rehabilitación de Personas con Daño Cerebral Adquirido (Udace) de Toledo se ha concebido para que el propio edificio forme parte del tratamiento. Los pacientes no solo recibirán sesiones de fisioterapia, logopedi",
-      "date": "Sat, 15 Aug 2026 09:17:20 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "La Junta activa la fase de emergencia por el terremoto de Granada y el 112 recibe unas cien llamadas",
-      "link": "https://www.abc.es/espana/andalucia/granada/junta-activa-fase-emergencia-terremoto-granada-112-20260815090538-nts.html",
-      "desc": "El consejero de Presidencia, Sanidad y Emergencias de la Junta de Andalucía, Antonio Sanz, ha elevado a fase de emergencia, situación operativa 1, el Plan de Emergencia de Andalucía ante el riesgo sísmico en Granada, tras registrarse un terremoto de magnitud 5",
-      "date": "Sat, 15 Aug 2026 09:06:06 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Juanma Moreno, sobre el terremoto de Granada: «Mucho cuidado con las cornisas y fachadas que se puedan desprender»",
-      "link": "https://www.abc.es/espana/andalucia/granada/juanma-moreno-sobre-terremoto-granada-cuidado-cornisas-20260815083246-nts.html",
-      "desc": "Cuando todavía algunos se estaban metiendo en la cama para irse a dormir, la tierra comenzó a moverse en Granada . Un terremoto de cinco grados sacudió la provincia nazarí con tal virulencia que se sintió en casi toda Andalucía . Afortunadamente, de momento, n",
-      "date": "Sat, 15 Aug 2026 08:32:46 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "La Generalitat dará hasta 2.000 euros a los propietarios para recuperar viviendas okupadas",
-      "link": "https://www.abc.es/espana/comunidad-valenciana/generalitat-dara-2000-euros-propietarios-recuperar-viviendas-20260815082756-nt.html",
-      "desc": "La Generalitat Valenciana ha anunciado una nueva línea de ayudas destinada para financiar gastos derivados del desalojo o la recuperación de viviendas que hayan sido okupadas , así como para sufragar posibles reparaciones de daños producidos en estos inmuebles",
-      "date": "Sat, 15 Aug 2026 08:27:56 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Ana Láinez, alergóloga, indica cuándo acudir a urgencias por picaduras de abejas y avispas: «Si aparecen fuera de la zona»",
-      "link": "https://www.abc.es/espana/comunidad-valenciana/ana-lainez-alergologa-indica-acudir-urgencias-picaduras-20260815110019-nt.html",
-      "desc": "Con la llegada del verano y el aumento de la actividad al aire libre, las picaduras de insectos se convierten en una de las consultas más frecuentes en centros sanitarios. Aunque la mayoría se resuelven sin complicaciones, el Hospital Vithas Valencia Turia rec",
-      "date": "Sat, 15 Aug 2026 08:14:09 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Valencia blinda el Museo de la Ciudad ante la llegada de más de 200 obras de Sorolla",
-      "link": "https://www.abc.es/espana/comunidad-valenciana/valencia-blinda-museo-ciencias-recibir-200-obras-20260815135814-nt.html",
-      "desc": "El proyecto para traer a Valencia más de 200 obras de Joaquín Sorolla procedentes de la Hispanic Society of America pisa el acelerador. La ciudad ha dado un nuevo paso para acoger temporalmente la colección del pintor en el Museo de las Ciudad, que ha reforzad",
-      "date": "Sat, 15 Aug 2026 08:13:47 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "El gran terremoto de Granada tiene 34 réplicas y saca a la calle de noche a cientos de ciudadanos",
-      "link": "https://www.abc.es/espana/andalucia/granada/gran-terremoto-granada-replicas-saca-calle-noche-20260815072648-nts.html",
-      "desc": "Granada ha vivido una noche realmente movida, dicho sea en el peor sentido de la expresión. Hasta 34 réplicas ha tenido el terremoto que sacudió poco después de la una de la madrugada la capital y numerosos pueblos de las cercanías, un seísmo de cinco grados d",
-      "date": "Sat, 15 Aug 2026 07:26:48 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Málaga vive ya su Feria más tecnológica y segura",
-      "link": "https://www.abc.es/espana/andalucia/malaga/cuenta-atras-arranque-semana-grande-malaguena-drones-20260815175042-nts.html",
-      "desc": "A tan solo unas pocas horas de que comience la Feria de Málaga, se están ultimando los detalles para una de las semanas más importantes del calendario de la ciudad. En el Real Cortijo de Torres está casi todo preparado en las 117 casetas , además de las munici",
-      "date": "Sat, 15 Aug 2026 07:14:47 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Macenas en Mojácar, del esqueleto de la crisis al gran proyecto turístico de Cosentino en Almería",
-      "link": "https://www.abc.es/espana/andalucia/almeria/macenas-mojacar-esqueleto-crisis-gran-proyecto-turistico-20260815135810-nts.html",
-      "desc": "Durante casi dos décadas, la silueta de Macenas ha sido la imagen de un sueño roto en la costa de Almería. Estructuras abandonadas, promociones inacabadas y un campo de golf devorado por la maleza que recordaban el estallido de la burbuja inmobiliaria de 2008.",
-      "date": "Sat, 15 Aug 2026 07:14:37 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Una DANA deja casi toda Andalucía en alerta amarilla por lluvias y tormentas: hasta 20 litros en una hora",
-      "link": "https://www.abc.es/espana/andalucia/dana-deja-andalucia-alerta-amarilla-lluvias-tormentas-20260815071424-nts.html",
-      "desc": "Y del calor extremo a un tiempo más fresco. Este cambio de tiempo radical en Andalucía se debe a una nueva vaguada y una DANA que entrará por el noroeste peninsular y que, poco a poco, irá cruzando el país. Estos fenómenos traerán, además, aire más fresco con ",
-      "date": "Sat, 15 Aug 2026 07:14:24 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Granada sufre el peor terremoto en cinco años: cinco grados de magnitud que se sienten en casi toda Andalucía",
-      "link": "https://www.abc.es/espana/andalucia/granada/granada-acuesta-peor-terremoto-cinco-anos-cinco-20260815014245-nts.html",
-      "desc": "Granada ha vivido en la madrugada del 14 al 15 de agosto el peor terremoto desde el famoso enjambre sísmico que sacudió la provincia a principios de 2021. Los 4,4 grados de intensidad que se alcanzaron entonces en Santa Fe se han visto ampliamente superados po",
-      "date": "Sat, 15 Aug 2026 07:00:50 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Dónde ir de fiesta este sábado 15 de agosto en la provincia de Toledo",
-      "link": "https://www.abc.es/espana/castilla-la-mancha/toledo/pueblos/fiesta-sabado-agosto-provincia-toledo-20260815070000-nt.html",
-      "desc": "Toledo -A las 11,00 horas: misa pontifical en la catedral. -A las 22,00 horas: concierto de Lucía Santiago en la plaza del Ayuntamiento. -A las 22,00 horas: concierto de Pole en el recinto ferial de la Peraleda y después concierto de dj's. Seseña -A las 12,00 ",
-      "date": "Sat, 15 Aug 2026 07:00:05 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Un terremoto de 5 grados con epicentro en Granada deja daños materiales y activa la fase de emergencia",
+      "title": "Un terremoto de 5 grados con epicentro en Granada deja daños materiales y activa la emergencia",
       "link": "https://www.lavanguardia.com/vida/20260815/11614300/activada-fase-emergencia-terremoto-5-grados-epicentro-alhendin-granada.html",
-      "desc": "Se han registrado hasta 40 terremotos de diferente intensidad concentrados en el área metropolitana de la ciudad tras el primer seísmo, que ha provocado más de 80 llamadas a emergencias",
+      "desc": "Se han registrado más de 40 temblores de diferente intensidad tras el primer seísmo, que ha provocado más de 200 llamadas a emergencias",
       "date": "15 Aug 2026 06:42:13 +0200",
       "source": "La Vanguardia",
       "color": "#8e44ad",
@@ -183,19 +223,9 @@
       "caso": "other"
     },
     {
-      "title": "Horarios especiales de Mercadona para hoy sábado 15 de agosto, festivo de la Asunción de la Virgen",
-      "link": "https://www.abc.es/espana/comunidad-valenciana/horarios-especiales-mercadona-hoy-sabado-agosto-festivo-asuncion-20260815081201-nt.html",
-      "desc": "Mercadona ha anunciado un cambio en los horarios habituales de apertura de sus supermercados para este sábado 15 de agosto, con motivo de la festividad nacional de la Virgen de la Asunción. La cadena de distribución presidida por Juan Roig dará servicio a sus ",
-      "date": "Sat, 15 Aug 2026 06:00:21 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "La frontera, en alerta: última hora sobre una jornada que se prevé tensa",
+      "title": "Marruecos asegura que ha frenado un intento de cientos de migrantes para cruzar a Ceuta",
       "link": "https://www.lavanguardia.com/politica/20260815/11614298/marroquies-salto-frontera-ceuta-crisis-migratoria-ultima-hora-hoy-en-directo.html",
-      "desc": "Marruecos y España controlan todos los pasos fronterizos después del llamamiento en redes para llegar a Ceuta este sábado",
+      "desc": "Ceuta ha amanecido con tranquilidad este sábado ante el refuerzo de la frontera, a pesar del intento de un grupo de migrantes",
       "date": "15 Aug 2026 06:00:01 +0200",
       "source": "La Vanguardia",
       "color": "#8e44ad",
@@ -203,39 +233,9 @@
       "caso": "other"
     },
     {
-      "title": "Madrid y Rabat elevan la vigilancia en Ceuta ante los llamamientos en redes a un nuevo asalto",
+      "title": "Madrid y Rabat elevan la vigilancia en Ceuta ante los llamamientos en redes",
       "link": "https://www.lavanguardia.com/politica/20260815/11614090/madrid-rabat-elevan-vigilancia-ceuta-llamamientos-redes.html",
       "desc": "Los mensajes difundidos llaman a acudir hoy a la frontera al ser festivo en España",
-      "date": "15 Aug 2026 06:00:00 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "Nichos de hormigón para los cadáveres recuperados en Ceuta que nadie reclamará",
-      "link": "https://www.lavanguardia.com/politica/20260815/11614050/nichos-hormigon-cadaveres-recuperados-nadie-reclamara.html",
-      "desc": "Las autoridades locales han pedido que en un plazo de dos semanas esté finalizada&nbsp;la ampliación",
-      "date": "15 Aug 2026 06:00:00 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "Un techo de plástico creado por vecinos para proteger a niñas migrantes desatendidas",
-      "link": "https://www.lavanguardia.com/politica/20260815/11614054/techo-plastico-mas-vulnerables.html",
-      "desc": "Los vecinos de El Príncipe improvisan un campamento para las más vulnerables",
-      "date": "15 Aug 2026 06:00:00 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "Ceuta y el antídoto de la solidaridad europea",
-      "link": "https://www.lavanguardia.com/internacional/20260815/11613959/ceuta-antidoto-solidaridad-europea.html",
-      "desc": "",
       "date": "15 Aug 2026 06:00:00 +0200",
       "source": "La Vanguardia",
       "color": "#8e44ad",
