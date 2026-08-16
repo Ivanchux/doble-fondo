@@ -1,7 +1,57 @@
 {
-  "updated": "2026-08-16T20:15:20Z",
+  "updated": "2026-08-16T22:14:56Z",
   "count": 24,
   "items": [
+    {
+      "title": "Así está el Córdoba CF en la clasificación tras la derrota ante el Burgos",
+      "link": "https://www.abc.es/espana/andalucia/cordoba/cordoba-cf/cordoba-clasificacion-tras-20260816234356-nts.html",
+      "desc": "La historia se repite. El Córdoba CF comenzó otra temporada con derrota. En esta ocasión, el Burgos fue su verdugo (3-2) en un partido donde el conjunto blanquiverde fue superior en el grueso del encuentro, pero las constantes desconexiones defensivas dieron a",
+      "date": "Sun, 16 Aug 2026 22:26:08 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Lola Eiffel:  «Quiero que en los pueblos se pueda ver esa danza que llena teatros a nivel internacional»",
+      "link": "https://www.abc.es/espana/castilla-leon/lola-eiffel-disfruto-momento-ocurre-idea-entro-20260814221458-nt.html",
+      "desc": "¿Lola Eiffel o Mar Espinilla, cómo prefiere que le llame?, pregunto a la bailarina y coreógrafa vallisoletana mientras nos acomodamos en la terraza de una histórica cafetería de la Plaza Mayor. «Mar solo me llama mi familia», aclara. Su nombre artístico se lo ",
+      "date": "Sun, 16 Aug 2026 22:14:58 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Las notas de los jugadores del Córdoba CF tras la derrota ante el Burgos",
+      "link": "https://www.abc.es/espana/andalucia/cordoba/cordoba-cf/notas-jugadores-cordoba-tras-20260816221847-nts.html",
+      "desc": "El Córdoba CF repitió el mismo guion de las recientes temporadas. El conjunto blanquiverde supo dominar, adelantarse en el encuentro y negar al Burgos, sin embargo, sus habituales desconexiones defensivas permitieron a los locales dar la vuelta al partido en e",
+      "date": "Sun, 16 Aug 2026 22:13:01 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Ben Gvir llama públicamente a asesinar “entre 30 y 40 personas cada noche” en Gaza",
+      "link": "https://www.lavanguardia.com/internacional/20260816/11614879/ben-gvir-llama-publicamente-asesinar-30-40-personas-noche-gaza.html",
+      "desc": "El ministro de Seguridad Nacional del Gobierno israelí expresó su apoyo a llevar a cabo asesinatos selectivos contra palestinos en Gaza",
+      "date": "16 Aug 2026 22:00:30 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
+    {
+      "title": "El 4x100 mixto suma otro bronce para España",
+      "link": "https://www.lavanguardia.com/deportes/otros-deportes/20260816/11614877/espana-bronce-4x100-mixto-atletismo-record.html",
+      "desc": "Guillem Crespí, Maribel Pérez, Andoni Calbano y Jaël Bestué batieron el récord de España en Birmingham",
+      "date": "16 Aug 2026 21:46:46 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
     {
       "title": "El Córdoba CF arrastra los errores del curso anterior y encaja una dura derrota en el estreno ante el Burgos (3-2)",
       "link": "https://www.abc.es/espana/andalucia/cordoba/cordoba-cf/cordoba-convierte-peor-enemigo-encaja-dura-derrota-20260816212623-dis.html",
@@ -25,7 +75,7 @@
     {
       "title": "Principio de acuerdo Barça- Manchester City por Rodri",
       "link": "https://www.lavanguardia.com/deportes/futbol/20260816/11614859/principio-acuerdo-barca-manchester-city-rodri.html",
-      "desc": "La operación se aceleró este domingo y el futbolista llegará a Barcelona esta semana",
+      "desc": "La operación se aceleró este domingo y el futbolista llegará a Barcelona esta semana para firmar un contrato por 4 temporadas por 60 millones fijos",
       "date": "16 Aug 2026 20:38:58 +0200",
       "source": "La Vanguardia",
       "color": "#8e44ad",
@@ -143,6 +193,16 @@
       "caso": "other"
     },
     {
+      "title": "Meritxell Colell gana el Fipresci en el festival de Locarno por 'Lejos de los árboles'",
+      "link": "https://www.lavanguardia.com/cultura/20260816/11614822/meritxell-colell-gana-fipresci-festival-locarno-lejos-arboles.html",
+      "desc": "La cinta, centrada en la memoria, la diáspora y el legado del exilio, suma también el Boccalino d’Oro de la crítica independiente suiza",
+      "date": "16 Aug 2026 18:40:11 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
+    {
       "title": "Un estudio apunta que un fármaco para la diabetes baja el riesgo de cáncer de hígado tras superar la hepatitis C",
       "link": "https://www.abc.es/espana/castilla-la-mancha/estudio-apunta-farmaco-diabetes-baja-riesgo-cancer-20260816182214-nt.html",
       "desc": "Un fármaco utilizado habitualmente para tratar la diabetes tipo 2 podría desempeñar también un papel relevante a la hora de reducir el riesgo de cáncer de hígado en determinados pacientes que han superado la hepatitis C. Un estudio liderado por investigadores ",
@@ -180,66 +240,6 @@
       "source": "La Vanguardia",
       "color": "#8e44ad",
       "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "Detenido por matar a golpes a su compañero de piso en Málaga",
-      "link": "https://www.abc.es/espana/andalucia/malaga/detenido-matar-golpes-companero-piso-malaga-20260816173040-nts.html",
-      "desc": "Agentes de la Policía Nacional han detenido a un compañero de piso de un hombre de 52 años hallado sin vida y con signos haber sido golpeado de manera violenta el pasado 13 de agosto en su domicilio, en Málaga capital. El autor de 32 años se ha autoinculpado d",
-      "date": "Sun, 16 Aug 2026 17:36:12 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Burgos - Córdoba CF  en directo: resumen, goles y minuto a minuto del partido de Segunda División 2026-2027",
-      "link": "https://www.abc.es/espana/andalucia/cordoba/cordoba-cf/burgos-cordoba-directo-resumen-goles-minuto-minuto-20260816221304-dis.html",
-      "desc": "La espera ha terminado. El Córdoba CF afronta su ansiado debut de la temporada 2026-2027, curso en el que los pupilos de Iván Ania tienen entre ceja y ceja seguir creciendo en Segunda División para pelear por objetivos que le permitan soñar por todo. Para ello",
-      "date": "Sun, 16 Aug 2026 17:35:41 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Así es el nuevo observatorio de aves de La Guardia (Toledo) para descubrir su riqueza natural",
-      "link": "https://www.abc.es/espana/castilla-la-mancha/toledo/nuevo-observatorio-aves-guardia-toledo-descubrir-riqueza-20260816173457-nt.html",
-      "desc": "Las Lagunas de La Guardia cuentan desde ahora con un nuevo mirador para descubrir, observar y fotografiar su riqueza ornitológica sin alterar el entorno. La Diputación de Toledo ha impulsado la construcción de un observatorio de aves en la tercera de las tres ",
-      "date": "Sun, 16 Aug 2026 17:34:58 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "El pueblo de Niebla despide a la UME con aplausos tras su lucha titánica contra el incendio",
-      "link": "https://www.abc.es/espana/andalucia/huelva/pueblo-niebla-despide-ume-aplausos-tras-lucha-20260816172125-nts.html",
-      "desc": "El pueblo de Niebla , en la provincia de Huelva, se ha echado a la calle este domingo para despedir con aplausos y vítores a los efectivos de la UME, la Unidad Militar de Emergencias, que han mantenido una lucha titánica contra el incendio. Los militares han i",
-      "date": "Sun, 16 Aug 2026 17:21:25 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "El aeropuerto de Santiago estrenará en diciembre cinco destinos internacionales de la mano de una nueva compañía",
-      "link": "https://www.abc.es/espana/galicia/aeropuerto-santiago-estrenara-diciembre-cinco-destinos-internacionales-20260816170731-nt.html",
-      "desc": "Una compañía aérea de nueva creación, Fly2Galicia, ha anunciado que comenzará a operar a partir del 1 de diciembre con la apertura de una base en Santiago de Compostela, desde donde volará a hasta ocho destinos diferentes con un total de 17 frecuencias semanal",
-      "date": "Sun, 16 Aug 2026 17:07:31 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "El incendio de Niebla calcina gran parte de un paraje de alto valor ecológico",
-      "link": "https://www.abc.es/espana/andalucia/huelva/incendio-niebla-calcina-gran-parte-paraje-alto-20260816164716-nts.html",
-      "desc": "El incendio de Niebla, en la provincia de Huelva, ha quedado estabilizado después después de diez días de dura lucha contra el fuego. Las llamas han recorrido más de 40.000 hectáreas y queda por conocer el impacto real, pues no toda la superficie forestal ha q",
-      "date": "Sun, 16 Aug 2026 17:02:40 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
       "caso": "other"
     }
   ]
