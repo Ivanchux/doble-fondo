@@ -1,7 +1,47 @@
 {
-  "updated": "2026-08-16T12:28:23Z",
+  "updated": "2026-08-16T14:17:10Z",
   "count": 24,
   "items": [
+    {
+      "title": "Mónica García insiste en que no hay «colapso sanitario» en Ceuta, solo «tensión y sobreesfuerzo»",
+      "link": "https://www.abc.es/espana/monica-garcia-insiste-colapso-sanitario-ceuta-solo-20260816151226-nt.html",
+      "desc": "Ha llegado tarde. Dieciséis días tarde, para ser exactos, respecto al momento en que cerca de 80.000 personas cruzaron el espigón del Tarajal y desbordaron una ciudad de poco más de 83.000 habitantes. Ha llegado entre gritos de «dimisión» y «asesina», con la p",
+      "date": "Sun, 16 Aug 2026 15:15:08 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Las instituciones apelan a la «colaboración» para que la tragedia del Bierzo tenga «la respuesta que merece»",
+      "link": "https://www.abc.es/espana/castilla-leon/gobierno-llama-colaboracion-administraciones-tragedia-bierzo-respuesta-20260816145808-nt.html",
+      "desc": "La necesidad de actuar con coordinación y «colaboración» para que la tragedia del Bierzo tenga «la respuesta que se merece» fue el mensaje que este domingo coincidían en trasladar los representantes institucionales que visitavan Manzanedo de Valdueza (Ponferra",
+      "date": "Sun, 16 Aug 2026 14:58:09 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Toledo concentra 17 de las 27 intervenciones de apoyo psicosocial en emergencias",
+      "link": "https://www.abc.es/espana/castilla-la-mancha/toledo-concentra-intervenciones-apoyo-psicosocial-emergencias-20260816143504-nt.html",
+      "desc": "Toledo ha concentrado 17 de las 27 intervenciones realizadas durante el primer semestre de 2026 por el servicio de apoyo y asistencia psicosocial a víctimas, familiares y grupos operativos en situaciones de urgencia, emergencia, crisis y catástrofes de Castill",
+      "date": "Sun, 16 Aug 2026 14:35:04 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Sanidad niega la emergencia sanitaria en Ceuta pero urge a crear espacios sanitarios en la calle",
+      "link": "https://www.lavanguardia.com/politica/20260816/11614767/sanidad-niega-emergencia-sanitaria-ceuta-urge-crear-espacios-sanitarios-calle.html",
+      "desc": "Mónica García descarta el “colapso” denunciado por el PP y garantiza la atención a la población local con circuitos diferenciados",
+      "date": "16 Aug 2026 14:31:38 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
     {
       "title": "La búsqueda ciudadana de Margarita en Palomares del Campo se suspende tras rastrear todo el término",
       "link": "https://www.abc.es/espana/castilla-la-mancha/toledo/busqueda-ciudadana-margarita-palomares-campo-suspende-tras-20260816142250-nt.html",
@@ -183,16 +223,6 @@
       "caso": "other"
     },
     {
-      "title": "Herido leve un hombre de 43 años tras una agresión con arma blanca en Valdeverdeja",
-      "link": "https://www.abc.es/espana/castilla-la-mancha/toledo/pueblos/herido-leve-hombre-anos-tras-agresion-arma-20260816110328-nt.html",
-      "desc": "Un hombre de 43 años ha resultado herido leve tras sufrir una agresión con arma blanca en el abdomen durante una reyerta registrada este domingo en la localidad toledana de Valdeverdeja. Los hechos tuvieron lugar pasadas las seis y media de la mañana en la pla",
-      "date": "Sun, 16 Aug 2026 11:03:28 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
       "title": "Una pelea entre grupos étnicos en Lleida acaba con tres heridos por arma blanca y un detenido",
       "link": "https://www.lavanguardia.com/local/lleida/20260816/11614713/pelea-grupos-etnicos-lleida-acaba-tres-heridos-arma-blanca-detenido.html",
       "desc": "La Guardia Urbana local y los Mossos controlaron la situación, que dejó un cuarto herido por golpes",
@@ -203,40 +233,10 @@
       "caso": "other"
     },
     {
-      "title": "Granada, de la pesadilla del terremoto a la alegría en unas horas: más de 18 millones de euros de premio",
-      "link": "https://www.abc.es/espana/andalucia/granada/granada-pesadilla-terremoto-alegria-horas-millones-euros-20260816105039-nts.html",
-      "desc": "El Cupón Extra de Verano de la ONCE celebrado el sábado 15 de agosto ha dejado más de 20 millones de euros en Andalucía, y 18 en una misma localidad, castigada horas antes por una desgracia. El premio mayor de 15 millones de euros va para Granada y, además, 82",
-      "date": "Sun, 16 Aug 2026 10:50:39 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Un bañista arrebata la navaja a un hombre que amenazó a un socorrista en una piscina municipal de Valencia",
-      "link": "https://www.abc.es/espana/comunidad-valenciana/banista-arrebata-navaja-hombre-amenazo-socorrista-piscina-20260816104600-nt.html",
-      "desc": "La Policía Nacional han detenido en Valencia a un hombre de 39 años como presunto autor de los delitos de amenazas y tenencia de armas tras amenazar de muerte con una navaja a un socorrista y a un bañista en una piscina municipal de la ciudad. Los hechos ocurr",
-      "date": "Sun, 16 Aug 2026 10:46:00 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
       "title": "Ucrania lanza más de 600 drones hacia Moscú y alcanza el mayor almacén del Amazon ruso",
       "link": "https://www.lavanguardia.com/internacional/20260816/11614692/cuatro-muertos-ataque-ucraniano-mas-600-drones-rusia.html",
       "desc": "Según las defensas antiaéreas rusas, se derribaron desde la tarde del sábado más de 800 drones sobre los cielos de 16 regiones",
       "date": "16 Aug 2026 09:35:35 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "Dos cazas españoles derriban un dron que violaba el espacio aéreo rumano",
-      "link": "https://www.lavanguardia.com/internacional/20260816/11614684/avion-combate-espanol-otan-derriba-dron-violaba-espacio-aereo-rumania.html",
-      "desc": "La intercepción y posterior destrucción del dispositivo se produjo sobre una zona despoblada, entre las localidades de Baleni y Cudalbi, cerca de la frontera con Moldavia",
-      "date": "16 Aug 2026 08:20:29 +0200",
       "source": "La Vanguardia",
       "color": "#8e44ad",
       "feedId": "LaVanguardia",
