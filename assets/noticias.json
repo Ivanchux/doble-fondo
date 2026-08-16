@@ -1,7 +1,187 @@
 {
-  "updated": "2026-08-16T04:29:48Z",
+  "updated": "2026-08-16T06:30:42Z",
   "count": 24,
   "items": [
+    {
+      "title": "Dónde ir de fiesta este domingo 16 de agosto en la provincia de Toledo",
+      "link": "https://www.abc.es/espana/castilla-la-mancha/toledo/pueblos/fiesta-domingo-agosto-provincia-toledo-20260816070000-nt.html",
+      "desc": "Toledo -A las 11,30 horas: espectáculo de magia infantil a cargo del mago Alverete, en el Paseo de la Vega. -A las 22,00 horas: actuación de José Manuel Soto, en la plaza del Ayuntamiento. -A las 22,30 horas: concierto 'La Rock-A', en el recinto ferial de La P",
+      "date": "Sun, 16 Aug 2026 07:00:27 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "El Año Jubilar del Rocío inicia el camino al traslado de la Virgen a Almonte",
+      "link": "https://www.abc.es/espana/andalucia/rocio/ano-jubilar-rocio-inicia-camino-traslado-virgen-20260816070003-nts.html",
+      "desc": "Las calles de la aldea lucen engalanadas. Los pájaros revolotean al ritmo de la flauta y el tambor. Las campanas y cohetes resuenan en el corazón de Doñana anunciando que esa hora tan esperada está a punto de llegar. Todo son nervios e ilusión en los corazones",
+      "date": "Sun, 16 Aug 2026 07:00:03 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "El día a día de los 'menas' en Andalucía: «El móvil les hace creer que van a tener una vida muy próspera»",
+      "link": "https://www.abc.es/espana/andalucia/dia-dia-menas-andalucia-movil-creer-van-20260816182526-nts.html",
+      "desc": "Playa de El Tarajal de Ceuta . Mediodía del sábado 1 de agosto de 2026. Hace menos de cuarenta y ocho horas de que una marabunta juvenil en pleno éxtasis ha cruzado el paso fronterizo entre Marruecos y España y ha tomado, literalmente, la ciudad autónoma. Los ",
+      "date": "Sun, 16 Aug 2026 06:59:22 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "“Era una motivada, y una de las cosas que más me satisfacen es no haber perdido esa ilusión”",
+      "link": "https://www.lavanguardia.com/magazine/moda/20260816/11612681/victoria-luengo-motivada-cosas-mas-me-satisfacen-haber-perdido-ilusion.html",
+      "desc": "Nuestra actriz más dura e intensa, la única que podría enfrentarse a una fuerza de la naturaleza como Javier Bardem, se siente cómoda en Fendi",
+      "date": "16 Aug 2026 06:40:00 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
+    {
+      "title": "Los cinco pasos del Gobierno para desactivar el intento de cruce masivo que frenó Rabat",
+      "link": "https://www.lavanguardia.com/politica/20260816/11614482/cinco-pasos-gobierno-desincentivar-intento-cruce-masivo-freno-rabat.html",
+      "desc": "Los distintos ministerios implicados pusieron en marcha la maquinaria para lanzar el mensaje, a sabiendas de que es imposible de cumplir, de que todo aquel que entra irregularmente en España será expulsado",
+      "date": "16 Aug 2026 06:00:00 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
+    {
+      "title": "Solo Marruecos tiene la llave de la frontera",
+      "link": "https://www.lavanguardia.com/internacional/20260816/11614374/marruecos-llave-frontera.html",
+      "desc": "",
+      "date": "16 Aug 2026 06:00:00 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
+    {
+      "title": "Hannah Arendt en Ceuta",
+      "link": "https://www.lavanguardia.com/opinion/20260816/11614411/hannah-arendt-ceuta.html",
+      "desc": "Alguien ha tratado de poner en evidencia la debilidad no solo de nuestra soberanía en la plaza africana, sino también de nuestras convicciones",
+      "date": "16 Aug 2026 06:00:00 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
+    {
+      "title": "Instantánea de una presidencia",
+      "link": "https://www.lavanguardia.com/internacional/20260816/11614466/instantanea-presidencia.html",
+      "desc": "Una imagen difundida por la Fox exhibe el llamado declive del imperio americano, con Trump dormido en el Despacho Oval",
+      "date": "16 Aug 2026 06:00:00 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
+    {
+      "title": "'Alerta' roja en el país de Trump: los demócratas moderados reivindican una tercera vía",
+      "link": "https://www.lavanguardia.com/internacional/20260816/11614471/democratas-moderados-reivindican-tercera-frente-ascenso-socialismo-ee-uu.html",
+      "desc": "El principal lobby centrista del país impulsa una campaña para desacreditar a los Socialistas Democráticos de América y alertan de unas ideas “tan radicales que resultan completamente antiestadounidenses”",
+      "date": "16 Aug 2026 06:00:00 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
+    {
+      "title": "Crisis de vivienda: laboratorio con resultado discutido en Catalunya",
+      "link": "https://www.lavanguardia.com/economia/20260816/11614455/vivienda-laboratorio-catalunya.html",
+      "desc": "Una década después de la ley contra los desahucios, la comunidad suma una batería de normas que intentan resolver la emergencia habitacional",
+      "date": "16 Aug 2026 06:00:00 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
+    {
+      "title": "Las propuestas del sector para la crisis de la vivienda: construir más, agilizar trámites y proteger al inquilino",
+      "link": "https://www.lavanguardia.com/economia/20260816/11614456/construir-mas-agilizar-tramites-proteger-inquilino.html",
+      "desc": "Expertos y agentes del sector señalan que las soluciones de futuro pasan por aumentar la oferta",
+      "date": "16 Aug 2026 06:00:00 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
+    {
+      "title": "Ayuso pierde su armadura: algo se ha roto en el fenómeno político de la presidenta",
+      "link": "https://www.lavanguardia.com/politica/20260816/11614412/ayuso-pierde-armadura-polemicas-presidenta-comunidad-madrid-atico.html",
+      "desc": "Siete años después de su toma de posesión, algo se ha quebrado en el fenómeno de la presidenta madrileña",
+      "date": "16 Aug 2026 06:00:00 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
+    {
+      "title": "¿Crece más la ultraderecha en el mundo rural?",
+      "link": "https://www.lavanguardia.com/politica/20260816/11575458/crece-mas-ultraderecha-mundo-rural.html",
+      "desc": "El nacional populismo explota los temores del campo, aunque podría cosechar más votos en el catalán que en el español",
+      "date": "16 Aug 2026 06:00:00 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
+    {
+      "title": "La red 764, el oscuro ecosistema online que extorsiona a menores para cometer violencia",
+      "link": "https://www.lavanguardia.com/vida/20260816/11611858/red-764-ecosistema-digital-online-extorsiona-menores-cometer-violencia.html",
+      "desc": "",
+      "date": "16 Aug 2026 06:00:00 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
+    {
+      "title": "Líbano: Hizbulah tiene un modelo sostenible",
+      "link": "https://www.lavanguardia.com/internacional/20260816/11614408/hizbulah-modelo-sostenible.html",
+      "desc": "El Gobierno libanés no quiere que la organización chií lidere la reconstrucción de Beirut y el sur del país",
+      "date": "16 Aug 2026 06:00:00 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
+    {
+      "title": "El río roto de Marruecos",
+      "link": "https://www.lavanguardia.com/vida/20260816/11613508/rio-roto-marruecos.html",
+      "desc": "",
+      "date": "16 Aug 2026 06:00:00 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
+    {
+      "title": "El segundo milagro de Ferran Torres",
+      "link": "https://www.lavanguardia.com/deportes/fc-barcelona/20260816/11614484/segundo-milagro-ferran-torres.html",
+      "desc": "",
+      "date": "16 Aug 2026 06:00:00 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
+    {
+      "title": "La fiebre por el murdoku demuestra que los pasatiempos sí son para el verano",
+      "link": "https://www.lavanguardia.com/cultura/20260816/11614448/pasatiempos-son-verano.html",
+      "desc": "El furor por el murdoku culmina el auge de los libros de recreo desde la irrupción de los cuadernos de verano para adultos hace 15 años",
+      "date": "16 Aug 2026 06:00:00 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
     {
       "title": "Vivas e Imbroda: «La frontera es muy vulnerable. Hablamos de la integridad de España»",
       "link": "https://www.abc.es/espana/presidentes-ceuta-melilla-frontera-vulnerable-hablando-integridad-20260816013710-nt.html",
@@ -60,186 +240,6 @@
       "source": "ABC",
       "color": "#c0392b",
       "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "El trozo de cielo que se quedó en la T4",
-      "link": "https://www.abc.es/espana/madrid/trozo-cielo-quedo-20260815011650-nt.html",
-      "desc": "Puede que el verano sea el momento de los aeropuertos. La verdad es que son lugares que no están hechos para la poesía. Uno llega con sueño, con prisa, con una maleta que pesa tres kilos más de lo permitido y con la sospecha de que el café va a costar lo mismo",
-      "date": "Sun, 16 Aug 2026 01:16:50 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Ayuso y Almeida celebran unidos la Paloma y se preparan ante el curso más bronco",
-      "link": "https://www.abc.es/espana/madrid/almeida-20260815010050-nt.html",
-      "desc": "La Virgen de la Paloma ha regalado a Madrid, el día de su fiesta, unas nubes que han bajado de forma considerable las temperaturas y una lluvia vespertina que se ha recibido con los brazos abiertos y la mirada al cielo. Pero la patrona oficiosa de los madrileñ",
-      "date": "Sun, 16 Aug 2026 01:00:50 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Un preso de permiso acude a la casa de su pareja en Vallecas y la ataca con un cúter tras una discusión",
-      "link": "https://www.abc.es/espana/madrid/preso-permiso-acude-casa-pareja-vallecas-ataca-20260815010028-nt.html",
-      "desc": "La Policía Nacional busca a un hombre que apuñaló este viernes a una mujer de 23 años con la que mantenía una relación sentimental en su vivienda en el distrito madrileño de Puente de Vallecas . El agresor, según ha podido saber ABC, es un preso que se encontr",
-      "date": "Sun, 16 Aug 2026 01:00:28 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Alcalá abrirá al público el refugio antiaéreo creado con las ruinas de una iglesia",
-      "link": "https://www.abc.es/espana/madrid/alcala-abrira-publico-refugio-antiaereo-creado-ruinas-20260815010006-nt.html",
-      "desc": "Las ruinas de la iglesia de Santa María la Mayor, templo en el que fue bautizado Miguel de Cervantes y que fue destruido por un incendio al comienzo de la Guerra Civil, se reutilizaron en 1938 para levantar un refugio antiaéreo para proteger a los alcalaínos d",
-      "date": "Sun, 16 Aug 2026 01:00:06 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "El 'Woodstock castizo' vuelve a la Autónoma 50 años después",
-      "link": "https://www.abc.es/espana/madrid/woodstock-castizo-vuelve-autonoma-anos-despues-20260816005947-nt.html",
-      "desc": "Poco antes de que asomara el verano, el 9 de mayo de 1976, la Universidad Autónoma de Madrid reunió a cerca de 80.000 personas para disfrutar de las actuaciones de figuras emblemáticas de la canción tradicional y de autor como Raimon , Mikel Laboa, Luis Pastor",
-      "date": "Sun, 16 Aug 2026 00:59:47 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Mourinho también llora",
-      "link": "https://www.lavanguardia.com/opinion/20260816/11614356/mourinho-llora.html",
-      "desc": "",
-      "date": "16 Aug 2026 00:30:00 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "No subestimar el teatro",
-      "link": "https://www.lavanguardia.com/opinion/20260816/11614405/marruecos-espana-ceuta-policia-migrantes-teatro.html",
-      "desc": "Cuando quiere, Marruecos puede resolver el asalto de migrantes a Ceuta y Melilla",
-      "date": "16 Aug 2026 00:00:00 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "Las restricciones a la pirotecnia por el riesgo de incendios, «un varapalo brutal» para el sector",
-      "link": "https://www.abc.es/espana/castilla-leon/restricciones-pirotecnia-riesgo-incendios-varapalo-brutal-sector-20260813234933-nt.html",
-      "desc": "Si la 'cara a' de estos días en que los pueblos disfrutan de sus fiestas patronales la representan orquestas, charangas y demás grupos que amenizan las celebraciones, la 'b' la pone el sector pirotécnico. Acostumbrado, tiempo atrás, a hacer su agosto por estas",
-      "date": "Sat, 15 Aug 2026 23:49:33 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Orquestas, DJ, charangas... la cotizada 'clave' para que suenen las fiestas",
-      "link": "https://www.abc.es/espana/castilla-leon/protagonistas-encienden-fiestas-pueblos-20260813234502-nt.html",
-      "desc": "Las calles de la mayor parte de los pueblos de Castilla y León se visten este fin de semana de celebración. Sus residentes y los que aprovechan sus vacaciones para volver a los lugares de origen de la familia viven a lo grande estos días señalados en el calend",
-      "date": "Sat, 15 Aug 2026 23:45:02 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Merche, tras actuar en Granada: «Jamás imaginé que en medio de un concierto nos pillara un terremoto»",
-      "link": "https://www.abc.es/espana/andalucia/granada/merche-tras-actuar-granada-imagine-medio-concierto-20260815230841-nts.html",
-      "desc": "La fiesta dio un giro radical en cuestión de segundos. Y es que el terremoto que tuvo lugar en la madrugada de este sábado al noroeste del municipio de Alhendín (Granada) de magnitud 5 provocó unos minutos de tensión entre los asistentes al concierto de la can",
-      "date": "Sat, 15 Aug 2026 23:09:07 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Muere Albert Maruny, maestro de la comunicación y el protocolo",
-      "link": "https://www.abc.es/espana/cataluna/muere-albert-maruny-maestro-comunicacion-protocolo-20260815223221-nt.html",
-      "desc": "Albert Maruny Gispert, periodista, profesor, experto en protocolo y empresario de la comunicación, ha fallecido este viernes, 14 de agosto, a los 59 años. Nacido el 7 de enero de 1967, dedicó cuatro décadas a un oficio que entendía de una forma amplia y transv",
-      "date": "Sat, 15 Aug 2026 22:32:21 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "La evolución favorable del incendio de Zamora permite la vuelta de los casi 200 desalojados",
-      "link": "https://www.abc.es/espana/castilla-leon/evolucion-favorable-incendio-hermisende-zamora-permite-vuelta-20260815221355-nt.html",
-      "desc": "Los intensos trabajos realizados por el personal del operativo de Infocal, así como unas condiciones meteorológicas favorables a partir de la tarde han permitido rebajar a nivel 1 el incendio forestal declarado en la madrugada de este sábado La Tejera, en el t",
-      "date": "Sat, 15 Aug 2026 22:16:51 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Horario y dónde ver por televisión el Burgos - Córdoba CF",
-      "link": "https://www.abc.es/espana/andalucia/cordoba/cordoba-cf/horario-ver-television-burgos-cordoba-20260815214738-nts.html",
-      "desc": "El cordobesismo ya cuenta las horas para volver a ver al Córdoba CF en acción. En apenas 24 horas, el balón volverá a rodar para los pupilos de Iván Ania para estrenar la temporada 2026-2027 en Segunda División ante el Burgos en El Plantío . Una primera prueba",
-      "date": "Sat, 15 Aug 2026 22:05:03 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "La Virgen del Tránsito, calma en blanco y oro por las calles de Córdoba",
-      "link": "https://www.abc.es/espana/andalucia/cordoba/semana-santa/virgen-transito-calma-blanco-oro-calles-cordoba-20260815155541-nts.html",
-      "desc": "No conoció la corrupción del sepulcro. Su cuerpo y su alma se elevan en la bella tarde del 15 de agosto , día de mantillas blancas para acompañar a la que no tuvo mancha, solo gracias. En su joven rostro se ha borrado todo signo de llanto y sufrimiento, solo h",
-      "date": "Sat, 15 Aug 2026 22:02:56 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Al menos dos muertos y dos heridos tras una riada en Ponferrada",
-      "link": "https://www.lavanguardia.com/local/castilla-leon/20260815/11614499/dos-muertos-dos-heridos-riada-cerca-ponferrada.html",
-      "desc": "Una brutal tormenta ha descargado esta tarde sobre la zona y ha hecho que se desbordara el río Meruelo y provocara una riada y un deslizamiento de tierra",
-      "date": "15 Aug 2026 22:02:45 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "Un vehículo que circulaba en sentido contrario provoca tres heridos graves y el corte de la A-62 en Palencia",
-      "link": "https://www.abc.es/espana/castilla-leon/vehiculo-circulaba-sentido-contrario-provoca-tres-heridos-20260815220037-nt.html",
-      "desc": "Un vehículo que circulaba en sentido contrario ha provocado un accidente con tres heridos graves y el corte de la A-62, sentido Burgos, en Palencia. Según ha informado la Subdelegación del Gobierno, los hechos se han producido a la altura del kilómetro 89 y se",
-      "date": "Sat, 15 Aug 2026 22:01:01 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "La alcaldesa de Almadén garantiza los terrenos para la residencia de estudiantes",
-      "link": "https://www.abc.es/espana/castilla-la-mancha/alcaldesa-almaden-garantiza-terrenos-residencia-estudiantes-20260815214402-nt.html",
-      "desc": "La alcaldesa de Almadén, Raquel Jurado, ha garantizado la cesión de los terrenos municipales necesarios para construir la nueva residencia de estudiantes y ha acusado al PSOE de utilizar este proyecto con fines electorales. La regidora ha asegurado que el comp",
-      "date": "Sat, 15 Aug 2026 21:44:03 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Marruecos exhibe su control sobre la frontera de Ceuta evitando otro cruce de migrantes",
-      "link": "https://www.lavanguardia.com/politica/20260815/11614481/marruecos-exhibe-control-sobre-frontera-ceuta-evitando-cruce.html",
-      "desc": "Los gendarmes bloquean, con cargas, a cientos de subsaharianos que iban a El Tarajal",
-      "date": "15 Aug 2026 20:45:04 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
       "caso": "other"
     }
   ]
