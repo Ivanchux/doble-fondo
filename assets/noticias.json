@@ -1,7 +1,127 @@
 {
-  "updated": "2026-08-16T16:17:38Z",
+  "updated": "2026-08-16T18:20:24Z",
   "count": 24,
   "items": [
+    {
+      "title": "Castilla-La Mancha estará este lunes en aviso por lluvias y altas temperaturas",
+      "link": "https://www.abc.es/espana/castilla-la-mancha/castillala-mancha-lunes-aviso-lluvias-altas-temperaturas-20260816200338-nt.html",
+      "desc": "Tras el pequeño respiro del fin de semana, diez comunidades autónomas estarán en aviso este lunes por calor y tormentas con granizo mientras la dana persiste en el suroeste de la Península. Asimismo, se darán rachas muy fuertes de viento que afectarán especial",
+      "date": "Sun, 16 Aug 2026 20:03:38 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Muere un militar de la UME tras volcar su camión en el incendio de las Peñas de Riglos (Huesca)",
+      "link": "https://www.abc.es/espana/aragon/muere-militar-ume-incendio-penas-rieglos-20260816200335-nt.html",
+      "desc": "Un bombero de la UME ha fallecido esta tarde a consecuencia de un accidente sufrido en la localidad aragonesa de Atarés mientras formaba parte del operativo del incendio de Peñas de Riglos. Las primeras noticias que llegan tras lo sucedido es que un camión de ",
+      "date": "Sun, 16 Aug 2026 20:03:36 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Feijóo carga contra la «indolencia» de Sánchez ante al «caos» en Ceuta",
+      "link": "https://www.abc.es/espana/feijoo-carga-indolencia-sanchez-ante-caos-ceuta-20260816194403-nt.html",
+      "desc": "No hay día que pase, desde que entre el 30 y el 31 de julio entraron en Ceuta, a nado o a pie, al menos 72.000 inmigrantes de forma irregular, sin que el Partido Popular exija y critique. Exija más implicación a un presidente del Gobierno, Pedro Sánchez , que ",
+      "date": "Sun, 16 Aug 2026 19:46:36 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Castilla y León registra más de mil rayos en un día",
+      "link": "https://www.abc.es/espana/castilla-leon/castilla-leon-registra-mil-rayos-dia-20260816194605-nt.html",
+      "desc": "Castilla y León registraba más de mil rayos ayer, sábado 15 de agosto. jornada en la que gran parte del norte de la Comunidad, en concreto, la Cordillera Cantábrica y la meseta de León, el norte de las provincias de Palencia y Soria, y el este de Burgos, se en",
+      "date": "Sun, 16 Aug 2026 19:46:05 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Fallece un hombre tras ser localizado inconsciente junto al río en Garcirrey (Salamanca)",
+      "link": "https://www.abc.es/espana/castilla-leon/fallece-hombre-anos-tras-localizado-inconsciente-junto-20260816191443-nt.html",
+      "desc": "Un hombre de unos 70 años fallecía este domingo después de ser localizado inconsciente en una zona de difícil acceso junto al río, en el paraje de Los Molinos de los Avives, dentro del término municipal de Garcirrey (Salamanca). Los hechos ocurrían durante el ",
+      "date": "Sun, 16 Aug 2026 19:24:43 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Vilagarcía se empapa con su Festa da Auga en una jornada de alerta roja por calor",
+      "link": "https://www.abc.es/espana/galicia/vilagarcia-empapa-festa-auga-jornada-alerta-roja-20260816191753-nt.html",
+      "desc": "La Festa da Auga ha tomado Vilagarcía de Arousa (Pontevedra) un nuevo 16 de agosto, dejando una misma estampa: trenes llenos, gente armada con pistolas de agua y calderos cayendo desde los balcones de esta villa. Además, este año se ha desarrollado bajo un int",
+      "date": "Sun, 16 Aug 2026 19:17:53 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "El cierre de filas del delegado del Gobierno con Sánchez abre en canal al PSOE de Ceuta",
+      "link": "https://www.abc.es/espana/defensa-gestion-gobierno-crisis-ceuta-parte-delegado-20260817190859-nt.html",
+      "desc": "La crisis que vive Ceuta como consecuencia de la gran invasión del pasado 30 de julio amenaza con hacer estallar el PSOE a nivel local. Aunque la mayoría de críticas airadas se verbalizan en privado, con miedo a que se tomen represalias por sus opiniones, los ",
+      "date": "Sun, 16 Aug 2026 19:08:59 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "La plaza de toros de Ciudad Real homenajea los 93 años de la ganadería Víctor y Marín",
+      "link": "https://www.abc.es/espana/castilla-la-mancha/plaza-toros-ciudad-real-homenajea-anos-ganaderia-20260816190814-nt.html",
+      "desc": "La plaza de toros de Ciudad Real cuenta desde este domingo con un nuevo azulejo dedicado a la ganadería Víctor y Marín, un reconocimiento a sus 93 años de historia y a su estrecha vinculación con la tauromaquia de la provincia cuando se encuentra a las puertas",
+      "date": "Sun, 16 Aug 2026 19:08:14 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Un incendio en un autobús con pasajeros se propaga al monte y obliga a cortar la AG-53, en Orense",
+      "link": "https://www.abc.es/espana/galicia/incendio-autobus-pasajeros-propaga-monte-obliga-cortar-20260816190722-nt.html",
+      "desc": "El incendio de un autobús con pasajeros originado esta tarde en la AG-53, a su paso por San Cristovo de Cea (Orense), se ha propagado hacia el monte, aunque ya está estabilizado. Además, la carretera permanece cortada por el momento entre los kilómetros 65 y 7",
+      "date": "Sun, 16 Aug 2026 19:07:22 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "El Barça se da un festín en Basilea con una lluvia de goles y en pleno cásting del nueve",
+      "link": "https://www.lavanguardia.com/deportes/futbol/20260816/11614838/barca-da-festin-basilea-lluvia-goles-pleno-casting-nueve.html",
+      "desc": "Adeyemi marca y asiste a Hamza, Lamine Yamal transforma un penalti y Bisiwu se presenta&nbsp; en sociedad con un doblete creativo y vistoso",
+      "date": "16 Aug 2026 18:54:04 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
+    {
+      "title": "Un estudio apunta que un fármaco para la diabetes baja el riesgo de cáncer de hígado tras superar la hepatitis C",
+      "link": "https://www.abc.es/espana/castilla-la-mancha/estudio-apunta-farmaco-diabetes-baja-riesgo-cancer-20260816182214-nt.html",
+      "desc": "Un fármaco utilizado habitualmente para tratar la diabetes tipo 2 podría desempeñar también un papel relevante a la hora de reducir el riesgo de cáncer de hígado en determinados pacientes que han superado la hepatitis C. Un estudio liderado por investigadores ",
+      "date": "Sun, 16 Aug 2026 18:23:54 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "El PP exige al alcalde de Cuenca que «deje de hacer teatro» y pida a Page  que retire su apoyo a Pedro Sánchez",
+      "link": "https://www.abc.es/espana/castilla-la-mancha/pp-exige-alcalde-cuenca-deje-teatro-pida-20260816180747-nt.html",
+      "desc": "El presidente del Partido Popular de Cuenca, José Martín-Buro, ha exigido este domingo al alcalde socialista de la capital, Darío Dolz, que «deje de hacer teatro» y, si realmente considera que la situación política de España es «totalmente insostenible» y cree",
+      "date": "Sun, 16 Aug 2026 18:15:09 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
     {
       "title": "Valencia recupera el único 'ninot indultat' que le faltaba al Museo Fallero: desapareció hace 30 años",
       "link": "https://www.abc.es/espana/comunidad-valenciana/valencia-recupera-unico-ninot-indultat-faltaba-museo-20260816180403-nt.html",
@@ -10,6 +130,16 @@
       "source": "ABC",
       "color": "#c0392b",
       "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Un joven italiano, en coma tras ser atacado al salir de una discoteca en Barcelona",
+      "link": "https://www.lavanguardia.com/local/barcelona/20260816/11614812/joven-italiano-coma-atacado-salir-discoteca-barcelona.html",
+      "desc": "Una docena de personas abordaron a los amigos de la víctima, que se encontraban de vacaciones",
+      "date": "16 Aug 2026 17:45:53 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
       "caso": "other"
     },
     {
@@ -93,26 +223,6 @@
       "caso": "other"
     },
     {
-      "title": "La Operación Paso del Estrecho supera los dos millones de pasajeros pero baja el número respecto al año pasado",
-      "link": "https://www.abc.es/espana/andalucia/operacion-paso-estrecho-supera-dos-millones-pasajeros-20260816164126-nts.html",
-      "desc": "Más de dos millones de personas han cruzado el Estrecho de Gibraltar, en ambos sentidos, en la Operación Paso del Estrecho tras cumplir sus dos primeros meses en activo. Es el 96,9% del total nacional. No obstante, se trata de un 2,7% menos que en 2025. El núm",
-      "date": "Sun, 16 Aug 2026 16:41:26 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Estabilizado el incendio de O Riós (Orense), mientras se activa otro en Moaña (Pontevedra)",
-      "link": "https://www.abc.es/espana/galicia/estabilizado-incendio-rios-orense-activa-moana-pontevedra-20260816162705-nt.html",
-      "desc": "La Consellería do Medio Rural dio por estabilizado este domingo el incendio forestal de O Riós (Orense), que calcinó unas 30 hectáreas desde su inicio en la tarde del pasado sábado y que obligó a decretar la alerta nivel 1 por su cercanía a las casas de un peq",
-      "date": "Sun, 16 Aug 2026 16:27:05 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
       "title": "El PP acusa al Gobierno de “indolencia” en Ceuta y reclama la dimisión de Mónica García",
       "link": "https://www.lavanguardia.com/politica/20260816/11614788/pp-acusa-gobierno-indolencia-ceuta-reclama-dimision-monica-garcia.html",
       "desc": "Bendodo carga contra la visita de la ministra y Feijóo sitúa la crisis en cuatro frentes: migración, sanidad, orden público y seguridad",
@@ -123,120 +233,10 @@
       "caso": "other"
     },
     {
-      "title": "Mónica García insiste en que no hay «colapso sanitario» en Ceuta, solo «tensión y sobreesfuerzo»",
-      "link": "https://www.abc.es/espana/monica-garcia-insiste-colapso-sanitario-ceuta-solo-20260816151226-nt.html",
-      "desc": "Ha llegado tarde. Dieciséis días tarde, para ser exactos, respecto al momento en que cerca de 80.000 personas cruzaron el espigón del Tarajal y desbordaron una ciudad de poco más de 83.000 habitantes. Ha llegado entre gritos de «dimisión» y «asesina», con la p",
-      "date": "Sun, 16 Aug 2026 15:15:08 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Las instituciones apelan a la «colaboración» para que la tragedia del Bierzo tenga «la respuesta que merece»",
-      "link": "https://www.abc.es/espana/castilla-leon/gobierno-llama-colaboracion-administraciones-tragedia-bierzo-respuesta-20260816145808-nt.html",
-      "desc": "La necesidad de actuar con coordinación y «colaboración» para que la tragedia del Bierzo tenga «la respuesta que se merece» fue el mensaje que este domingo coincidían en trasladar los representantes institucionales que visitavan Manzanedo de Valdueza (Ponferra",
-      "date": "Sun, 16 Aug 2026 14:58:09 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Toledo concentra 17 de las 27 intervenciones de apoyo psicosocial en emergencias",
-      "link": "https://www.abc.es/espana/castilla-la-mancha/toledo-concentra-intervenciones-apoyo-psicosocial-emergencias-20260816143504-nt.html",
-      "desc": "Toledo ha concentrado 17 de las 27 intervenciones realizadas durante el primer semestre de 2026 por el servicio de apoyo y asistencia psicosocial a víctimas, familiares y grupos operativos en situaciones de urgencia, emergencia, crisis y catástrofes de Castill",
-      "date": "Sun, 16 Aug 2026 14:35:04 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
       "title": "Sanidad niega el colapso sanitario en Ceuta y sitúa la urgencia en la calle",
       "link": "https://www.lavanguardia.com/politica/20260816/11614767/sanidad-niega-emergencia-sanitaria-ceuta-urge-crear-espacios-sanitarios-calle.html",
       "desc": "Mónica García descarta el “emergencia sanitaria” denunciada por el PP y garantiza la atención a la población local con circuitos diferenciados",
       "date": "16 Aug 2026 14:31:38 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "La búsqueda ciudadana de Margarita en Palomares del Campo se suspende tras rastrear todo el término",
-      "link": "https://www.abc.es/espana/castilla-la-mancha/toledo/busqueda-ciudadana-margarita-palomares-campo-suspende-tras-20260816142250-nt.html",
-      "desc": "La búsqueda ciudadana de Margarita, la mujer de unos 64 años desaparecida el pasado martes en Palomares del Campo (Cuenca), queda suspendida este domingo después de que vecinos del municipio y de localidades próximas hayan rastreado de forma exhaustiva el térm",
-      "date": "Sun, 16 Aug 2026 14:22:50 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Castilla-La Mancha moviliza a 70 efectivos para luchar contra el incendio forestal de Huesca",
-      "link": "https://www.abc.es/espana/castilla-la-mancha/castillala-mancha-moviliza-efectivos-lucha-incendio-forestal-20260816135214-nt.html",
-      "desc": "Castilla-La Mancha ha movilizado este domingo a 70 efectivos, dos medios aéreos procedentes de la base aérea de Molinicos (Albacete) y cinco terrestres para colaborar en las labores de extinción del incendio forestal de Las Peñas de Riglos, en la provincia de ",
-      "date": "Sun, 16 Aug 2026 13:52:15 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Buscan a una mujer de 86 años desaparecida en Benamejí la madrugada del domingo",
-      "link": "https://www.abc.es/espana/andalucia/cordoba/buscan-mujer-anos-desaparecida-benameji-madrugada-domingo-20260816134116-nts.html",
-      "desc": "La Jefatura de Policía Local de Benamejí ha organizado un operativo de búsqueda para localizar a una mujer de 86 años, con principio de Alzheimer, cuya desaparición fue comunicada esta madrugada en el municipio. El dispositivo se pondrá en marcha esta tarde, c",
-      "date": "Sun, 16 Aug 2026 13:41:16 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Tres detenidos por una violenta pelea en plena calle en Medina del Campo",
-      "link": "https://www.abc.es/espana/castilla-leon/tres-detenidos-violenta-pelea-via-publica-medina-20260816133553-nt.html",
-      "desc": "Agentes de la Policía Nacional de Valladolid detuvieron a tres varones como presuntos autores de un delito de lesiones tras una violenta pelea ocurrida en la vía pública en la madrugada del pasado sábado, 14 de agosto, en la localidad vallisoletana de Medina d",
-      "date": "Sun, 16 Aug 2026 13:35:53 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Ponferrada declara tres días de luto oficial por las dos mujeres fallecidas en la riada de Manzanedo de Valdueza",
-      "link": "https://www.abc.es/espana/castilla-leon/ponferrada-declara-tres-dias-luto-oficial-dos-20260816131615-nt.html",
-      "desc": "El alcalde de Ponferrada, Marco Morala, firmaba este lunes el decreto que establece la declaración de tres días de luto oficial en el municipio por el fallecimiento de dos mujeres tras la avenida incontrolada de agua, piedras y lodo sufrida en la localidad de ",
-      "date": "Sun, 16 Aug 2026 13:17:17 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "El pulso de Efrén: una historia de superación, amistad y kilómetros por la inclusión",
-      "link": "https://www.abc.es/espana/castilla-la-mancha/toledo/pulso-efren-historia-superacion-amistad-kilometros-inclusion-20260816130328-nt.html",
-      "desc": "«Me he dado cuenta que no es necesario un mundo mejor, pero sí luchar para conseguirlo. El resultado final… me la suda». Son los versos de Robe Iniesta que este domingo ha recordado Efrén Gómez en el parque de la Vega de Toledo. Una frase que resume el espírit",
-      "date": "Sun, 16 Aug 2026 13:03:28 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Estabilizado el incendio de Niebla: las 417 personas evacuadas pueden volver a casa",
-      "link": "https://www.lavanguardia.com/natural/20260816/11614728/estabilizado-incendio-niebla-417-personas-evacuadas-volver-casa.html",
-      "desc": "En consecuencia, los efectivos de la Unidad Militar de Emergencias (UME) comenzarán su repliegue este domingo",
-      "date": "16 Aug 2026 11:45:32 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "Una pelea entre grupos étnicos en Lleida acaba con tres heridos por arma blanca y un detenido",
-      "link": "https://www.lavanguardia.com/local/lleida/20260816/11614713/pelea-grupos-etnicos-lleida-acaba-tres-heridos-arma-blanca-detenido.html",
-      "desc": "La Guardia Urbana local y los Mossos controlaron la situación, que dejó un cuarto herido por golpes",
-      "date": "16 Aug 2026 11:01:08 +0200",
       "source": "La Vanguardia",
       "color": "#8e44ad",
       "feedId": "LaVanguardia",
