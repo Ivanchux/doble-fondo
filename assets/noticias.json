@@ -1,7 +1,17 @@
 {
-  "updated": "2026-08-17T00:57:12Z",
+  "updated": "2026-08-17T02:54:51Z",
   "count": 24,
   "items": [
+    {
+      "title": "Detenido el preso de permiso que atacó a una mujer con un cúter en Puente de Vallecas",
+      "link": "https://www.abc.es/espana/madrid/detenido-preso-permiso-ataco-mujer-cuter-puente-20260816024636-nt.html",
+      "desc": "La Policía Nacional ha detenido este sábado al joven de 19 años que atacó a una mujer con un cúter en una vivienda el barrio de Entrevías, en Puente de Vallecas. Según informan fuentes policiales a ABC, se trata de un preso que se encontraba en la calle tras r",
+      "date": "Mon, 17 Aug 2026 02:46:36 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
     {
       "title": "Matteo Salvini: «Marruecos miró a otro lado en Ceuta, pero el Gobierno español ha fracasado»",
       "link": "https://www.abc.es/espana/matteo-salvini-marruecos-miro-lado-ceuta-gobierno-20260817014712-nt.html",
@@ -230,16 +240,6 @@
       "source": "ABC",
       "color": "#c0392b",
       "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Principio de acuerdo Barça- Manchester City por Rodri",
-      "link": "https://www.lavanguardia.com/deportes/futbol/20260816/11614859/principio-acuerdo-barca-manchester-city-rodri.html",
-      "desc": "La operación se aceleró este domingo y el futbolista llegará a Barcelona esta semana para firmar un contrato por 4 temporadas por 60 millones fijos",
-      "date": "16 Aug 2026 20:38:58 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
       "caso": "other"
     }
   ]
