@@ -1,7 +1,77 @@
 {
-  "updated": "2026-08-17T02:54:51Z",
+  "updated": "2026-08-17T04:35:38Z",
   "count": 24,
   "items": [
+    {
+      "title": "La infusión ideal de Mercadona para la retención de líquidos y deshinchar la tripa: sabe a piña y coco",
+      "link": "https://www.abc.es/espana/comunidad-valenciana/infusion-ideal-mercadona-retencion-liquidos-deshinchar-tripa-20260817114006-nt.html",
+      "desc": "Hidratarse en verano es fundamental debido a las altas temperaturas, pero es posible que si se está dieta se pretenda huir de las bebidas azucaradas y tal vez el agua en algunos momentos sepa a poco. Ahí es donde entran las infusiones frías , una moda a la que",
+      "date": "Mon, 17 Aug 2026 06:00:11 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "El reciente atentado fallido en Leipzig atiza el temor a una escalada rusa",
+      "link": "https://www.lavanguardia.com/internacional/20260817/11614839/reciente-atentado-fallido-leipzig-atiza-temor-escalada-rusa.html",
+      "desc": "Putin podría pasar de los ataques híbridos a incursiones limitadas para poner a prueba a la OTAN",
+      "date": "17 Aug 2026 06:00:00 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
+    {
+      "title": "La doble cara de la crisis en Ceuta: inmigrantes enfermos en la calle y camas hospitalarias libres",
+      "link": "https://www.lavanguardia.com/politica/20260817/11614862/doble-cara-crisis-ceuta-inmigrantes-enfermos-calle-camas-hospitalarias-libres.html",
+      "desc": "La titular de Sanidad, que pide no asociar inmigración con enfermedad por ser xenófobo, admite la crisis humanitaria",
+      "date": "17 Aug 2026 06:00:00 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
+    {
+      "title": "Ceuta, caso sin resolver",
+      "link": "https://www.lavanguardia.com/politica/20260817/11614792/ceuta-caso-resolver.html",
+      "desc": "",
+      "date": "17 Aug 2026 06:00:00 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
+    {
+      "title": "El Conde Cara Cubo de Basura como indicador",
+      "link": "https://www.lavanguardia.com/politica/20260817/11614847/conde-cara-cubo-basura-indicador.html",
+      "desc": "",
+      "date": "17 Aug 2026 06:00:00 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
+    {
+      "title": "Los créditos al consumo antes de las vacaciones llegan a máximos en 20 años",
+      "link": "https://www.lavanguardia.com/economia/20260817/11614819/creditos-consumo-vacaciones-llegan-maximos-20-anos.html",
+      "desc": "Las cifras actuales son un 91% superiores a las registradas hace diez años",
+      "date": "17 Aug 2026 06:00:00 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
+    {
+      "title": "Ferrari es la única ganadora en la tormenta bursátil del motor europeo",
+      "link": "https://www.lavanguardia.com/economia/20260817/11614825/ferrari-unica-ganadora-tormenta-bursatil-motor-europeo.html",
+      "desc": "Las dudas y los malos resultados prolongan el castigo a las grandes en el 2026",
+      "date": "17 Aug 2026 06:00:00 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
     {
       "title": "Detenido el preso de permiso que atacó a una mujer con un cúter en Puente de Vallecas",
       "link": "https://www.abc.es/espana/madrid/detenido-preso-permiso-ataco-mujer-cuter-puente-20260816024636-nt.html",
@@ -153,16 +223,6 @@
       "caso": "other"
     },
     {
-      "title": "Tres muertos, entre ellos un menor, y un herido grave en un tiroteo en Isla Cristina",
-      "link": "https://www.lavanguardia.com/local/andalucia/20260817/11615031/tres-muertos-menor-tiroteo-isla-cristina.html",
-      "desc": "Dos encapuchados en una motocicleta abrieron fuego contra las víctimas",
-      "date": "17 Aug 2026 00:11:37 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
       "title": "¿Se puede parar a Putin?",
       "link": "https://www.lavanguardia.com/opinion/20260817/11614852/putin-leipzig-guerra-hibrida-europa-extrema-derecha.html",
       "desc": "Rusia avanza más en la guerra híbrida contra Europa que en los campos de batalla",
@@ -177,66 +237,6 @@
       "link": "https://www.abc.es/espana/andalucia/cordoba/cordoba-cf/cordoba-clasificacion-tras-20260816234356-nts.html",
       "desc": "La historia se repite. El Córdoba CF comenzó otra temporada con derrota. En esta ocasión, el Burgos fue su verdugo (3-2) en un partido donde el conjunto blanquiverde fue superior en el grueso del encuentro, pero las constantes desconexiones defensivas dieron a",
       "date": "Sun, 16 Aug 2026 22:26:08 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Lola Eiffel:  «Quiero que en los pueblos se pueda ver esa danza que llena teatros a nivel internacional»",
-      "link": "https://www.abc.es/espana/castilla-leon/lola-eiffel-disfruto-momento-ocurre-idea-entro-20260814221458-nt.html",
-      "desc": "¿Lola Eiffel o Mar Espinilla, cómo prefiere que le llame?, pregunto a la bailarina y coreógrafa vallisoletana mientras nos acomodamos en la terraza de una histórica cafetería de la Plaza Mayor. «Mar solo me llama mi familia», aclara. Su nombre artístico se lo ",
-      "date": "Sun, 16 Aug 2026 22:14:58 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Las notas de los jugadores del Córdoba CF tras la derrota ante el Burgos",
-      "link": "https://www.abc.es/espana/andalucia/cordoba/cordoba-cf/notas-jugadores-cordoba-tras-20260816221847-nts.html",
-      "desc": "El Córdoba CF repitió el mismo guion de las recientes temporadas. El conjunto blanquiverde supo dominar, adelantarse en el encuentro y negar al Burgos, sin embargo, sus habituales desconexiones defensivas permitieron a los locales dar la vuelta al partido en e",
-      "date": "Sun, 16 Aug 2026 22:13:01 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Ben Gvir llama públicamente a asesinar “entre 30 y 40 personas cada noche” en Gaza",
-      "link": "https://www.lavanguardia.com/internacional/20260816/11614879/ben-gvir-llama-publicamente-asesinar-30-40-personas-noche-gaza.html",
-      "desc": "El ministro de Seguridad Nacional del Gobierno israelí expresó su apoyo a llevar a cabo asesinatos selectivos contra palestinos en Gaza",
-      "date": "16 Aug 2026 22:00:30 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "El 4x100 mixto suma otro bronce para España",
-      "link": "https://www.lavanguardia.com/deportes/otros-deportes/20260816/11614877/espana-bronce-4x100-mixto-atletismo-record.html",
-      "desc": "Guillem Crespí, Maribel Pérez, Andoni Calbano y Jaël Bestué batieron el récord de España en Birmingham",
-      "date": "16 Aug 2026 21:46:46 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "El Córdoba CF arrastra los errores del curso anterior y encaja una dura derrota en el estreno ante el Burgos (3-2)",
-      "link": "https://www.abc.es/espana/andalucia/cordoba/cordoba-cf/cordoba-convierte-peor-enemigo-encaja-dura-derrota-20260816212623-dis.html",
-      "desc": "Dominio sin recompensa. El Córdoba CF no supo materializar su buen partido en el estreno liguero ante el Burgos y terminó pagando muy cara su mandíbula de cristal en defensa. El conjunto blanquiverde tuvo fútbol y ocasiones para llevarse un botín de El Plantío",
-      "date": "Sun, 16 Aug 2026 21:29:20 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Ponferrada pide ayuda a la Junta para limpiar Manzanedo de Valdueza y Bouzas",
-      "link": "https://www.abc.es/espana/castilla-leon/luto-bierzo-riada-ano-pasado-fuego-horrible-20260816210836-nt.html",
-      "desc": "El alcalde de Ponferrada, Marco Morala, pedía este domingo la colaboración de la Junta de Castilla y León para que coadyuve en las tareas de limpieza y desescombro que ha iniciado el Ayuntamiento de la capital del Bierzo, con el fin de restituir en el plazo má",
-      "date": "Sun, 16 Aug 2026 21:08:36 +0200",
       "source": "ABC",
       "color": "#c0392b",
       "feedId": "ABC",
