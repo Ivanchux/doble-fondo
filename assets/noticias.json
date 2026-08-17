@@ -1,7 +1,27 @@
 {
-  "updated": "2026-08-17T20:20:06Z",
+  "updated": "2026-08-17T22:18:33Z",
   "count": 24,
   "items": [
+    {
+      "title": "Puerta Sevilla reabre con revolución: cocina renovada integralmente y nuevo jefe para sus fogones",
+      "link": "https://www.abc.es/espana/andalucia/cordoba/puerta-sevilla-reabre-revolucion-cocina-renovada-integralmente-20260817234033-nts.html",
+      "desc": "Restaurante Puerta Sevilla , un clásico de los fogones de Córdoba, ha informado de que reabre este martes , día 18, al público tras cerrar el 12 de julio para acometer una reforma integral de su cocina. La actuación , según ha informado este negocio de hostele",
+      "date": "Mon, 17 Aug 2026 23:40:34 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "La estremecedora vida del 'niño lobo' cordobés: «Yo cazaba. Golpeaba a ciervos y llamaba a la manada»",
+      "link": "https://www.abc.es/espana/andalucia/cordoba/estremecedora-vida-nino-lobo-cordobes-cazaba-golpeaba-20260817221838-nts.html",
+      "desc": "Marcos Rodríguez Pantoja , el niño lobo cordobés de Sierra Morena, falleció el sábado a los 80 años de edad, según se ha conocido este lunes. Su historia se reflejó en las páginas de ABC el 18 de abril de 2010 con motivo del rodaje de una película sobre él, di",
+      "date": "Mon, 17 Aug 2026 22:18:38 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
     {
       "title": "Aquellos seis veranos de Carrión de los Condes",
       "link": "https://www.abc.es/espana/castilla-leon/seis-anos-infancia-rodados-veraneos-espana-vaciada-20260815213725-nt.html",
@@ -23,9 +43,9 @@
       "caso": "other"
     },
     {
-      "title": "Mónica García comparecerá en el Congreso el 27 de agosto para dar cuenta de la situación sanitaria en Ceuta",
+      "title": "Mónica García y Elma Saiz comparecerán en el Congreso el 27 y 28 de agosto para dar cuenta de la situación en Ceuta",
       "link": "https://www.abc.es/espana/monica-garcia-comparecera-congreso-agosto-dar-cuenta-20260817213421-nt.html",
-      "desc": "La ministra de Sanidad, Mónica García, comparecerá a petición propia en el Congreso de los Diputados el próximo 27 de agosto para dar cuenta de la situación sanitaria en Ceuta tras la crisis migratoria del pasado 30 de julio. Según han informado fuentes del Mi",
+      "desc": "La ministra de Sanidad, Mónica García, y la ministra de Inclusión, Seguridad Social y Migraciones, Elma Saiz, comparecerán a petición propia en el Congreso de los Diputados los próximos 27 y 28 de agosto para dar cuenta de la situación sanitaria en Ceuta tras ",
       "date": "Mon, 17 Aug 2026 21:34:22 +0200",
       "source": "ABC",
       "color": "#c0392b",
@@ -197,26 +217,6 @@
       "link": "https://www.abc.es/espana/castilla-la-mancha/por-benjamin-prieto-muere-alfonso-munoz-duran-expresidente-diputacion-cuenca-20260817184725-nt.html",
       "desc": "El día de la festividad de San Roque, patrono de muchos pueblos de la provincia de Cuenca recibo la noticia, por mi buen y común amigo Ricardo Fernández de la Cruz, de que Alfonso Muñoz Durán nos dejaba. Una dilatada vida de un hombre bueno, como sus propios c",
       "date": "Mon, 17 Aug 2026 18:47:25 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Dimiten dos ediles del Gobierno en Torralba de Calatrava y el PSOE habla de «inestabilidad»",
-      "link": "https://www.abc.es/espana/castilla-la-mancha/dimiten-dos-ediles-gobierno-torralba-calatrava-psoe-20260817184614-nt.html",
-      "desc": "El PSOE de Torralba de Calatrava (Ciudad Real) denuncia la «inestabilidad institucional» que a su juicio ha provocado en el Ayuntamiento la alcaldesa, María Antonia Álvaro, a la que en los dos últimos meses «le han dimitido su portavoz y su concejala de Cultur",
-      "date": "Mon, 17 Aug 2026 18:46:14 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "El incendio declarado en Galápagos (Guadalajara) desciende a Nivel 0",
-      "link": "https://www.abc.es/espana/castilla-la-mancha/declarado-nivel-incendio-galapagos-guadalajara-afecta-humo-20260817184333-nt.html",
-      "desc": "El incendio forestal declarado este lunes por la tarde en Galápagos (Guadalajara) ha bajado al nivel 0 de emergencia. El fuego se originó alrededor de las 17.00 horas en las inmediaciones del Residencial Montelar y, en pocos minutos, la evolución del incendio ",
-      "date": "Mon, 17 Aug 2026 18:43:33 +0200",
       "source": "ABC",
       "color": "#c0392b",
       "feedId": "ABC",
