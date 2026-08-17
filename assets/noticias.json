@@ -1,15 +1,205 @@
 {
-  "updated": "2026-08-17T06:42:27Z",
+  "updated": "2026-08-17T08:36:24Z",
   "count": 24,
   "items": [
     {
-      "title": "Dan por controlados los incendios de O Riós (Orense) y Moaña (Pontevedra)",
+      "title": "El Hospital de Toledo realiza 28 trasplantes hepáticos en poco más de un año",
+      "link": "https://www.abc.es/espana/castilla-la-mancha/toledo/hospital-toledo-realiza-trasplantes-hepaticos-poco-ano-20260817101129-nt.html",
+      "desc": "El Hospital Universitario de Toledo ha realizado 28 trasplantes hepáticos desde la puesta en marcha del Programa de Trasplante Hepático de Castilla-La Mancha en mayo de 2025, consolidando una actividad de alta complejidad que permite atender a estos pacientes ",
+      "date": "Mon, 17 Aug 2026 10:15:02 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "El reconocimiento de Bustares a los héroes que hicieron frente al incendio de Guadalajara",
+      "link": "https://www.abc.es/espana/castilla-la-mancha/reconocimiento-bustares-heroes-hicieron-frente-incendio-guadalajara-20260817100541-nt.html",
+      "desc": "Los vecinos de la localidad guadalajareña de Bustares han ofrecido, un mes después de la declaración del incendio originado en La Mierla y que se convirtió en el más virulento que ha sufrido Castilla-La Mancha, un homenaje a todo el personal que durante semana",
+      "date": "Mon, 17 Aug 2026 10:05:41 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Veolia invierte más de 14 millones de euros en la implantación de la telelectura en la Vega Baja",
+      "link": "https://www.abc.es/espana/comunidad-valenciana/alicante/veolia-invierte-millones-euros-implantacion-telelectura-vega-20260817095745-nt.html",
+      "desc": "Veolia , empresa gestora del ciclo integral del agua en casi un centenar de municipios de la Comunidad Valenciana , ha realizado una inversión de más de 14 millones de euros en la implantación del sistema de telelectura en la comarca de la Vega Baja. En concre",
+      "date": "Mon, 17 Aug 2026 09:57:45 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Dos investigados por el robo de cobre valorado en 8.500 euros en Olmedo (Valladolid)",
+      "link": "https://www.abc.es/espana/castilla-leon/dos-investigados-robo-cobre-valorado-8500-euros-20260817095649-nt.html",
+      "desc": "La Guardia Civil investiga a dos personas como presuntas autoras del robo de cableado de cobre , valorado en 8.500 euros , en una obra que una empresa estaba realizando en la localidad vallisoletana de Olmedo. Fruto de las indagaciones, se ha podido «desarticu",
+      "date": "Mon, 17 Aug 2026 09:57:35 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "De la noche al día: cómo el Rescatado asumió los primeros puestos el Domingo de Ramos en Córdoba",
+      "link": "https://www.abc.es/espana/andalucia/cordoba/semana-santa/noche-dia-rescatado-asumio-primeros-puestos-domingo-20260817125732-nts.html",
+      "desc": "Hace 30 años era común que la cofradía del Rescatado saliera el Domingo de Ramos al caer la tarde, incluso de noche. De forma tradicional había sido la última en la carrera oficial y eso por muchos motivos, y entre ellos por uno concreto: el elevado número de ",
+      "date": "Mon, 17 Aug 2026 09:56:52 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Entre un inconfundible aroma de nardos",
+      "link": "https://www.abc.es/espana/andalucia/cordoba/inconfundible-aroma-nardos-20260817104747-nts.html",
+      "desc": "Entre un inconfundible aroma de nardos, la Virgen del Tránsito recorrió antes de ayer las calles de su barrio del Alcázar Viejo y las del barrio de la Catedral. Esta imagen es de lo poco que nos queda del antiguo convento de San Basilio, donde llegó mediado el",
+      "date": "Mon, 17 Aug 2026 09:51:14 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "El 'Garbanzo Campiña de Córdoba' afronta su último trámite para obtener la Denominación de Origen Protegida (DOP)",
+      "link": "https://www.abc.es/espana/andalucia/cordoba/garbanzo-campina-cordoba-afronta-ultimo-tramite-obtener-20260817095037-nts.html",
+      "desc": "La Denominación de Origen Protegida (DOP) 'Garbanzo Campiña de Córdoba' afronta el último trámite previo a su inscripción en el Registro de Indicaciones Geográficas de la Unión Europe a, después de que la Comisión Europea haya analizado la documentación presen",
+      "date": "Mon, 17 Aug 2026 09:50:37 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Córdoba, líder destacado en turismo en las ciudades patrimonio: cerca del medio millón de visitantes en el primer semestre",
+      "link": "https://www.abc.es/espana/andalucia/cordoba/cordoba-lider-destacado-turismo-ciudades-patrimonio-cerca-20260817122319-nts.html",
+      "desc": "Córdoba saldó la meta volante del primer semestre defendiendo su clásico liderazgo turístico en el selecto conjunto de las Ciudades Patrimonio de la Humanidad de España. Las encabezó en viajeros que hacen noche en hoteles — los indicadores de la EOH del INE co",
+      "date": "Mon, 17 Aug 2026 09:50:33 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Terrorismo",
+      "link": "https://www.abc.es/espana/cataluna/terrorismo-20260817094416-nt.html",
+      "desc": "Lo que deberíamos haber aprendido del terrorismo nueve años después del atentado que se desató sobre las ciudades de Barcelona y Cambrils. Que la barbarie terrorista aparece y reaparece y no estamos frente a la rebelión de pueblos subyugados ni ante la revuelt",
+      "date": "Mon, 17 Aug 2026 09:44:17 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Un feriante de 24 años en estado crítico tras ser apuñalado en la Feria de Málaga",
+      "link": "https://www.abc.es/espana/andalucia/malaga/policia-nacional-investiga-apunalamiento-hombre-anos-feria-20260817094413-nts.html",
+      "desc": "La Policía Nacional ha abierto una investigación por el apuñalamiento a un varón de 24 años . Los hechos se produjeron en torno a las 4.15 horas en la zona de las atracciones en la Feria de Málaga. El hombre ha sido trasladado al Hospital Regional en estado cr",
+      "date": "Mon, 17 Aug 2026 09:44:13 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Un herido tras chocar cinco vehículos en la TO-23 de Toledo frente a Luz del Tajo",
+      "link": "https://www.abc.es/espana/castilla-la-mancha/toledo/herido-tras-colision-multiple-cinco-vehiculos-to23-20260817093505-nt.html",
+      "desc": "Un hombre de 49 años, A.C.M., ha resultado herido este lunes de madrugada tras una colisión múltiple en la que se han visto implicados cinco vehículos en el kilómetro 1 de la TO-23, en la carretera que une el barrio de Santa Bárbara y el barrio del Polígono de",
+      "date": "Mon, 17 Aug 2026 09:39:19 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "El alcalde de Isla Cristina, sobre el triple crimen mortal: «La escena era dantesca»",
+      "link": "https://www.abc.es/espana/andalucia/huelva/alcalde-isla-cristina-sobre-triple-crimen-mortal-20260817092928-nts.html",
+      "desc": "El municipio de Isla Cristina (Huelva) ha amanecido este lunes conmocionado por el triple crimen de esta pasada madrugada, en el que una mujer embarazada de 8 meses, su madre y un menor de 16 años han fallecido tras un tiroteo, que ha dejado al menos dos perso",
+      "date": "Mon, 17 Aug 2026 09:29:28 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "La ola de calor no da tregua y mantiene a 35 municipios gallegos bajo alerta roja",
+      "link": "https://www.abc.es/espana/galicia/ola-calor-tregua-mantiene-municipios-gallegos-bajo-20260817092908-nt.html",
+      "desc": "Galicia afronta este lunes una de las jornadas más asfixiantes del actual episodio de calor. Tal y como avanzaban las previsiones, la Consellería de Sanidade mantiene activa la alerta roja sanitaria en 35 municipios pertenecientes a las zonas isoclimáticas de ",
+      "date": "Mon, 17 Aug 2026 09:29:08 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Detenido por llevar oculta una pistola que simulaba una tarjeta de crédito en la Pobla Llarga (Valencia)",
+      "link": "https://www.abc.es/espana/comunidad-valenciana/detenido-llevar-oculta-pistola-simulaba-tarjeta-credito-20260817092640-nt.html",
+      "desc": "La Guardia Civil ha detenido en la localidad de la Pobla Llarga (Valencia) a un hombre de 53 años por ocultar en el interior de un bolso un arma que simulaba una tarjeta de crédito, prohibida por el Reglamento de Armas (RD 137/1993). Los hechos ocurrieron el p",
+      "date": "Mon, 17 Aug 2026 09:26:40 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "De la «inacción» al ‘Toledo Emerge’, fotografía de los tres años de Velázquez",
+      "link": "https://www.abc.es/espana/castilla-la-mancha/toledo/velazquez-pasa-examen-queda-programa-pp-prometio-20260812084238-nt.html",
+      "desc": "«Ha llegado el momento de pasar página de la parálisis, el abandono y las promesas incumplidas». Con esta declaración de intenciones, Carlos Velázquez se presentó en 2023 como la alternativa a doce años de gobiernos socialistas en Toledo. Tres años después, el",
+      "date": "Mon, 17 Aug 2026 08:42:38 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Los dos hándicaps del alcalde de Toledo: Vox dentro y Tolón fuera",
+      "link": "https://www.abc.es/espana/castilla-la-mancha/toledo/dos-handicaps-alcalde-toledo-vox-dentro-tolon-20260812084211-nt.html",
+      "desc": "La legislatura de Carlos Velázquez ha estado condicionada por dos frentes políticos . El primero, dentro de casa: el PP no logró en 2023 mayoría absoluta y necesitó a Vox para gobernar. Los nueve concejales populares y los cuatro de Vox sumaron los 13 necesari",
+      "date": "Mon, 17 Aug 2026 08:42:11 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "La regulación del móvil en el aula en la región abre el debate entre docentes, sindicatos y familias",
+      "link": "https://www.abc.es/espana/castilla-la-mancha/ghf-20260812084149-nt.html",
+      "desc": "El Gobierno de Castilla-La Mancha ha regulado el uso de teléfonos móviles y otros dispositivos digitales en los centros educativos para el próximo curso con el objetivo de limitar su utilización durante la jornada escolar. Según dice la normativa, en Educación",
+      "date": "Mon, 17 Aug 2026 08:41:49 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Toledo licita por 209.000 euros dos nuevas pistas de pádel y deja preparado el terreno para otras dos en la Escuela de Gimnasia",
+      "link": "https://www.abc.es/espana/castilla-la-mancha/toledo/toledo-licita-209000-euros-dos-nuevas-pistas-20260811084132-nt.html",
+      "desc": "El Ayuntamiento de Toledo ha sacado a licitación por 209.417 euros, IVA incluido, las obras para construir dos nuevas pistas públicas de pádel en los terrenos de la Escuela de Gimnasia o Escuela Central de Educación Física, además de dejar preparada la superfi",
+      "date": "Mon, 17 Aug 2026 08:41:32 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Dan por controlados los incendios de O Riós (Orense), Moaña (Pontevedra) y Lousame",
       "link": "https://www.abc.es/espana/galicia/dan-controlados-incendios-rios-orense-moana-pontevedra-20260817083216-nt.html",
-      "desc": "Los incendios forestales declarados este fin de semana en O Riós (Orense) y Moaña (Pontevedra) quedaron controlados este domingo, según informó la Consellería do Medio Rural. El fuego de O Riós se inició el sábado a las 16.54 horas en la parroquia de Fumaces e",
+      "desc": "Los tres incendios forestales que mantenía activos Galicia, en O Riós, Moaña y Lousame, han quedado controlados, el último de ellos este lunes, según informó la Consellería do Medio Rural. El fuego de O Riós se inició el sábado a las 16.54 horas en la parroqui",
       "date": "Mon, 17 Aug 2026 08:32:16 +0200",
       "source": "ABC",
       "color": "#c0392b",
       "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Hayden Panettier, actriz de series como 'Nashville' y 'Héroes', muere a los 36 años",
+      "link": "https://www.lavanguardia.com/gente/20260817/11615038/muere-actriz-estadounidense-hayden-panettiere-36-anos.html",
+      "desc": "Conocida por sus papeles en series de televisión como&nbsp;”Nashville” y “Héroes”, se desconocen las circunstancias del fallecimiento",
+      "date": "17 Aug 2026 07:30:27 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
       "caso": "other"
     },
     {
@@ -23,43 +213,13 @@
       "caso": "other"
     },
     {
-      "title": "La larga siesta ideológica de la izquierda andaluza",
-      "link": "https://www.abc.es/espana/andalucia/larga-siesta-ideologica-izquierda-andaluza-20260817071344-nts.html",
-      "desc": "Hay veranos políticos en los que los partidos aprovechan la pausa parlamentaria para ordenar ideas, preparar el nuevo curso y decidir cuáles serán sus principales batallas. Y hay veranos en los que parece suficiente con encontrar una palabra que sirva para exp",
-      "date": "Mon, 17 Aug 2026 07:13:44 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Los 'nuevos' incendios forestales: vientos cambiantes, temperaturas extremas y riesgo mortal",
-      "link": "https://www.abc.es/espana/andalucia/nuevos-incendios-forestales-vientos-cambiantes-temperaturas-extremas-20260817120356-nts.html",
-      "desc": "En Niebla (Huelva) el infierno tiene un perímetro de 210 kilómetros cuadrados. Dentro de ese espacio todo era devorado por las llamas, en uno de esos 'nuevos' incendios forestales que asolan España cada verano y que han desatado un apocalipsis de fuego entre l",
-      "date": "Mon, 17 Aug 2026 07:13:00 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Dónde ir de fiesta este lunes 17 de agosto en la provincia de Toledo",
-      "link": "https://www.abc.es/espana/castilla-la-mancha/toledo/pueblos/fiesta-lunes-agosto-provincia-toledo-20260817063003-nt.html",
-      "desc": "Quintanar de la Orden -A las 9,00 horas: diana con la Unión Musical Quintanareña. --A las 12,00 horas: pasacalles. -A las 12,30 horas: galería del vino. -A las 14,00 horas: baile del vermú. -A las 16,00 horas: tardeo de mojito ochentero Sanva Rock Band y Quike",
-      "date": "Mon, 17 Aug 2026 06:30:03 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "La infusión ideal de Mercadona para la retención de líquidos y deshinchar la tripa: sabe a piña y coco",
-      "link": "https://www.abc.es/espana/comunidad-valenciana/infusion-ideal-mercadona-retencion-liquidos-deshinchar-tripa-20260817114006-nt.html",
-      "desc": "Hidratarse en verano es fundamental debido a las altas temperaturas, pero es posible que si se está dieta se pretenda huir de las bebidas azucaradas y tal vez el agua en algunos momentos sepa a poco. Ahí es donde entran las infusiones frías , una moda a la que",
-      "date": "Mon, 17 Aug 2026 06:00:11 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
+      "title": "La nueva era ‘Baby doll’: el vestido que cambió la manera de entender la feminidad",
+      "link": "https://www.lavanguardia.com/magazine/moda/20260817/11612719/nueva-baby-doll-vestido-cambio-manera-entender-feminidad.html",
+      "desc": "Una silueta nacida de la limitación que hoy encarna a una mujer desafiante",
+      "date": "17 Aug 2026 06:30:00 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
       "caso": "other"
     },
     {
@@ -80,166 +240,6 @@
       "source": "La Vanguardia",
       "color": "#8e44ad",
       "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "Ceuta, caso sin resolver",
-      "link": "https://www.lavanguardia.com/politica/20260817/11614792/ceuta-caso-resolver.html",
-      "desc": "",
-      "date": "17 Aug 2026 06:00:00 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "El Conde Cara Cubo de Basura como indicador",
-      "link": "https://www.lavanguardia.com/politica/20260817/11614847/conde-cara-cubo-basura-indicador.html",
-      "desc": "",
-      "date": "17 Aug 2026 06:00:00 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "Los créditos al consumo antes de las vacaciones llegan a máximos en 20 años",
-      "link": "https://www.lavanguardia.com/economia/20260817/11614819/creditos-consumo-vacaciones-llegan-maximos-20-anos.html",
-      "desc": "Las cifras actuales son un 91% superiores a las registradas hace diez años",
-      "date": "17 Aug 2026 06:00:00 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "Ferrari es la única ganadora en la tormenta bursátil del motor europeo",
-      "link": "https://www.lavanguardia.com/economia/20260817/11614825/ferrari-unica-ganadora-tormenta-bursatil-motor-europeo.html",
-      "desc": "Las dudas y los malos resultados prolongan el castigo a las grandes en el 2026",
-      "date": "17 Aug 2026 06:00:00 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "Detenido el preso de permiso que atacó a una mujer con un cúter en Puente de Vallecas",
-      "link": "https://www.abc.es/espana/madrid/detenido-preso-permiso-ataco-mujer-cuter-puente-20260816024636-nt.html",
-      "desc": "La Policía Nacional ha detenido este sábado al joven de 19 años que atacó a una mujer con un cúter en una vivienda el barrio de Entrevías, en Puente de Vallecas. Según informan fuentes policiales a ABC, se trata de un preso que se encontraba en la calle tras r",
-      "date": "Mon, 17 Aug 2026 02:46:36 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Matteo Salvini: «Marruecos miró a otro lado en Ceuta, pero el Gobierno español ha fracasado»",
-      "link": "https://www.abc.es/espana/matteo-salvini-marruecos-miro-lado-ceuta-gobierno-20260817014712-nt.html",
-      "desc": "El balcón de su despacho se asoma a la Porta Pia, uno de los históricos accesos a Roma a través de la muralla Aureliana. Diseñada por Miguel Ángel, fue famosa por la batalla del 20 septiembre de 1870, cuando la infantería italiana (Bersaglieri) entró en la urb",
-      "date": "Mon, 17 Aug 2026 01:47:12 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Choque de Leire Díez con guardias civiles en los tribunales por el caso de las 'cloacas' del PSOE",
-      "link": "https://www.abc.es/espana/choque-leire-guardias-civiles-tribunales-cloacas-psoe-20260725014423-nt.html",
-      "desc": "Leire Díez quiere impedir que una asociación de guardias civiles se persone en el procedimiento abierto contra ella en la Audiencia Nacional. La exmilitante socialista ha presentado un escrito donde sostiene que esta entidad tiene la obligación de pagar los 10",
-      "date": "Mon, 17 Aug 2026 01:44:23 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "lei"
-    },
-    {
-      "title": "Abogacía del Estado y Gobierno vasco intentaron frenar el juicio al troceo de la Seguridad Social",
-      "link": "https://www.abc.es/espana/pais-vasco/abogacia-estado-trato-impedir-supremo-juzgue-troceo-20260802014416-nt.html",
-      "desc": "El Tribunal Supremo (TS) ha desestimado las alegaciones presentadas por la Abogacía del Estado y el Gobierno vasco contra la asociación Impulso Ciudadano, que tiene recurrido el troceo y traspaso de tres materias de la Seguridad Social al País Vasco previo pac",
-      "date": "Mon, 17 Aug 2026 01:44:16 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Cuatro años sin culpables por el 'tren del infierno' de Bejís: «Nadie nos ha pedido disculpas»",
-      "link": "https://www.abc.es/espana/comunidad-valenciana/cuatro-anos-culpables-tren-infierno-bejis-pedido-20260817014308-nt.html",
-      "desc": "Cuatro años después de que un tren de media distancia de Renfe entre Valencia y Zaragoza quedara detenido entre las llamas del incendio de Bejís (Castellón), sus pasajeros ni siquiera han recibido una disculpa y, mucho menos, una explicación. El convoy se aden",
-      "date": "Mon, 17 Aug 2026 01:43:08 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Cataluña encabeza la detención de radicalizados por yihadismo",
-      "link": "https://www.abc.es/espana/cataluna/cataluna-encabeza-detencion-radicalizados-yihadismo-20260817014244-nt.html",
-      "desc": "En 2015, la operación Caronte de los Mossos d'Esquadra permitió desarticular una célula yihadista que planeaba atentar contra lugares emblemáticos de Barcelona y secuestrar a una persona, vestirla con una mono naranja y degollarla, para grabarlo y difundirlo. ",
-      "date": "Mon, 17 Aug 2026 01:42:44 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "2-1: El Talavera se impuso al Guadalajara en la final regional",
-      "link": "https://www.abc.es/espana/castilla-la-mancha/toledo/deportes/talavera-impuso-guadalajara-final-regional-20260817012945-nt.html",
-      "desc": "El CF renovado Talavera se muestra muy fuerte en vísperas de su inicio de campeonato como quedó demostrado en la noche de domingo al imponerse por 2-1 al Deportivo Guadalajara en la final regional de la Copa Federación. Bien es cierto que el triunfo de la escu",
-      "date": "Mon, 17 Aug 2026 01:29:45 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Madrid prueba su circuito de F1 con casi 470 millones en la línea de meta",
-      "link": "https://www.abc.es/espana/madrid/madrid-prueba-circuito-470-millones-linea-meta-20260816012625-nt.html",
-      "desc": "En poco menos de un mes, del 11 al 13 de septiembre, Madrid celebrará la vuelta de la Fórmula 1 casi medio siglo después de que un monoplaza rodara por última vez en el circuito del Jarama. No ha sido un camino rápido para los aficionados desde su anuncio hace",
-      "date": "Mon, 17 Aug 2026 01:26:25 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "El Día Mundial de la Fotografía en Alcalá de Henares, de paseo y cámara en mano",
-      "link": "https://www.abc.es/espana/madrid/dia-mundial-fotografia-paseo-camara-mano-20260817011954-nt.html",
-      "desc": "Este miércoles 19 de agosto es el Día Mundial de la Fotografía , y en Alcalá de Henares se va a celebrar a pie de calle con un encuentro de apasionados a este arte dedicado a recorrer la localidad cámara en mano, para captar las mejores imágenes que brinden su",
-      "date": "Mon, 17 Aug 2026 01:19:54 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "El campo de fútbol de Aluche que se cae a pedazos: «Es puro vandalismo, lo rompen todo»",
-      "link": "https://www.abc.es/espana/madrid/campo-futbol-aluche-cae-pedazos-puro-vandalismo-20260812011926-nt.html",
-      "desc": "La imagen de lo que debería ser un campo de fútbol municipal hace tiempo que dejó de corresponderse con la instalación deportiva del parque de Aluche . En la calle Valmojado, 14, una de las porterías descansa sobre el suelo, completamente partida y sin red, mi",
-      "date": "Mon, 17 Aug 2026 01:19:26 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "La robótica llega a diez centros educativos para alumnos con necesidades especiales",
-      "link": "https://www.abc.es/espana/madrid/robotica-llega-diez-centros-educativos-alumnos-necesidades-20260816011905-nt.html",
-      "desc": "El proyecto pionero que utiliza la robótica asistencial y la Inteligencia Artificial (IA) como herramienta de apoyo a alumnos con necesidades especiales se extenderá el próximo curso a diez centros educativos públicos de la Comunidad de Madrid . Esta iniciativ",
-      "date": "Mon, 17 Aug 2026 01:19:05 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "El PP de Madrid contrataca y exige las cuentas de las vacaciones de Sánchez",
-      "link": "https://www.abc.es/espana/madrid/pp-madrid-contrataca-exige-cuentas-vacaciones-sanchez-20260816011844-nt.html",
-      "desc": "El Partido Popular de Madrid ya se había enfrentado a otras polémicas durante esta legislatura, pero esta vez le está costando más de lo que esperaba desactivar o zanjar el debate en torno a la compra y posterior venta del ático en Chamberí por más de seis mil",
-      "date": "Mon, 17 Aug 2026 01:18:44 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
       "caso": "other"
     }
   ]
