@@ -1,7 +1,97 @@
 {
-  "updated": "2026-08-17T18:30:55Z",
+  "updated": "2026-08-17T20:20:06Z",
   "count": 24,
   "items": [
+    {
+      "title": "Aquellos seis veranos de Carrión de los Condes",
+      "link": "https://www.abc.es/espana/castilla-leon/seis-anos-infancia-rodados-veraneos-espana-vaciada-20260815213725-nt.html",
+      "desc": "Richard Linklater, referente del cine independiente de los 90, estrenó en 2014 'Boyhood', convertida en obra de culto por la complejidad del proyecto. El cineasta estadounidense rodó a lo largo de 12 años con los mismos actores. La película siguió el crecimien",
+      "date": "Mon, 17 Aug 2026 21:37:25 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "El nuevo Córdoba CF, a escena: brotes verdes en el centro del campo y los mismos síntomas en defensa",
+      "link": "https://www.abc.es/espana/andalucia/cordoba/cordoba-cf/nuevo-cordoba-ofrece-senales-crecimiento-viejos-sintomas-20260817181414-nts.html",
+      "desc": "El Córdoba CF ya tiene una primera referencia real sobre la que trabajar. El estreno ante el Burgos terminó sin puntos, pero dejó bastante más información que la que refleja el 3-2 del marcador. El equipo de Iván Ania mostró momentos de buen fútbol , capacidad",
+      "date": "Mon, 17 Aug 2026 21:34:43 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Mónica García comparecerá en el Congreso el 27 de agosto para dar cuenta de la situación sanitaria en Ceuta",
+      "link": "https://www.abc.es/espana/monica-garcia-comparecera-congreso-agosto-dar-cuenta-20260817213421-nt.html",
+      "desc": "La ministra de Sanidad, Mónica García, comparecerá a petición propia en el Congreso de los Diputados el próximo 27 de agosto para dar cuenta de la situación sanitaria en Ceuta tras la crisis migratoria del pasado 30 de julio. Según han informado fuentes del Mi",
+      "date": "Mon, 17 Aug 2026 21:34:22 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "El Bierzo intenta remontar del «desastre» y analiza las causas de la riada",
+      "link": "https://www.abc.es/espana/castilla-leon/bierzo-intenta-remontar-analiza-causas-riada-20260817212513-nt.html",
+      "desc": "La localidad berciana de Manzanedo de Valdueza intenta despertarse poco a poco de la pesadilla vivida al atardecer del pasado sábado, cuando una riada se cobraba la vida de dos mujeres, María Concepción y María Begoña, que en la tarde de este lunes eran desped",
+      "date": "Mon, 17 Aug 2026 21:25:13 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "El incendio de Las Peñas de Riglos se encuentra «estabilizado» en su mayor parte y pronto regresarán los evacuados",
+      "link": "https://www.abc.es/espana/aragon/incendio-penas-riglos-encuentra-estabilizado-mayor-parte-20260817205801-nt.html",
+      "desc": "El director de extinción del incendio forestal de Las Peñas de Riglos (Huesca), Francho Aso, se ha mostrado «optimista» este lunes, desde el Puesto de Mando Avanzado, ya que «la mayor parte» del fuego está estabilizado, a falta de «algunos sectores». En declar",
+      "date": "Mon, 17 Aug 2026 20:58:01 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Andalucía declara la 'guerra' al eucalipto tras reducir más de 117.000 hectáreas en cuatro décadas",
+      "link": "https://www.abc.es/espana/andalucia/andalucia-declara-guerra-eucalipto-tras-reducir-117000-20260817205515-nts.html",
+      "desc": "Andalucía sigue reduciendo la superficie de eucaliptos: más de 117.000 hectáreas en cuarenta año s, y la mitad de ellas en la provincia de Huelva. El objetivo de esta tarea es frenar los incendios, debido a que el eucalipto puede favorecer la propagación del f",
+      "date": "Mon, 17 Aug 2026 20:55:15 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Rodri aterriza en Barcelona con un mensaje contundente: “Vengo a ganar todo lo que se ponga por delante”",
+      "link": "https://www.lavanguardia.com/deportes/fc-barcelona/20260817/11615546/rodri-aterriza-barcelona-mensaje-contundente-vengo-ganar-ponga-delante.html",
+      "desc": "El jugador, que será presentado este miércoles, asegura a su llegada que jugar en el Barcelona “es un sueño”",
+      "date": "17 Aug 2026 20:45:06 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
+    {
+      "title": "Castilla-La Mancha afronta este martes un nuevo episodio de calor con avisos naranjas en Toledo y Cuenca",
+      "link": "https://www.abc.es/espana/castilla-la-mancha/toledo/castillala-mancha-afronta-martes-nuevo-episodio-calor-20260817202933-nt.html",
+      "desc": "Castilla-La Mancha volverá a estar este martes bajo los efectos de las altas temperaturas, con avisos naranjas por calor en las provincias de Toledo y Cuenca, mientras que Albacete, Ciudad Real y Guadalajara estarán en nivel amarillo, según la predicción de la",
+      "date": "Mon, 17 Aug 2026 20:29:34 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Muere un turista en Valldemossa al caerle una farola derribada por un autobús",
+      "link": "https://www.abc.es/espana/baleares/muere-turista-valldemossa-caerle-farola-derribada-autobus-20260817202522-nt.html",
+      "desc": "Un turista de nacionalidad siria de 36 años ha fallecido este lunes en Valldemossa (Mallorca) en un trágico accidente después de que una farola derribada por un autobús de la red de transporte público TIB cayera sobre él. El hombre acababa de apearse del mismo",
+      "date": "Mon, 17 Aug 2026 20:25:23 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
     {
       "title": "El PP pide a Dolz que aclare por qué ve «totalmente insostenible» la situación política de Sánchez",
       "link": "https://www.abc.es/espana/castilla-la-mancha/pp-pide-dolz-aclare-totalmente-insostenible-situacion-20260817201530-nt.html",
@@ -150,96 +240,6 @@
       "source": "La Vanguardia",
       "color": "#8e44ad",
       "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "El PP exige alargar la vida de la central nuclear de Trillo tras la prórroga de la de Almaraz",
-      "link": "https://www.abc.es/espana/castilla-la-mancha/pp-exige-alargar-vida-central-nuclear-trillo-20260817183541-nt.html",
-      "desc": "El PP de Guadalajara ha reclamado al Gobierno de España que prolongue la vida útil de la central nuclear de Trillo después de la decisión de mantener en funcionamiento la de Almaraz hasta 2030. La senadora por Guadalajara María Patricio considera que esta medi",
-      "date": "Mon, 17 Aug 2026 18:37:34 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "De dar una vuelta tranquila por San Roque a parecer a 1.000 kilómetros de su casa, en Burgos",
-      "link": "https://www.abc.es/espana/andalucia/cadiz/dar-vuelta-tranquila-san-roque-parecer-1000-20260817183220-nts.html",
-      "desc": "Francisco salió de casa como cualquier otra mañana. Tiene 92 años y vive en Pueblo Nuevo de Guadiaro, en San Roque (Cádiz), pero esta vez aquel paseo terminó de una manera que nadie de su familia podía imaginar. Dos días después, el hombre apareció en Miranda ",
-      "date": "Mon, 17 Aug 2026 18:32:42 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "El tiroteo de Isla Cristina recuerda las tensiones entre clanes andaluces de la droga de Pinos Puente",
-      "link": "https://www.abc.es/espana/andalucia/granada/pinos-puente-granada-foco-creciente-tension-venganzas-20260817133326-nts.html",
-      "desc": "El terrible suceso de Isla Cristina, con tres muertos en un tiroteo, entre ellos un menor, no es por desgracia un caso aislado. De hecho, trae a la memoria un episodio que se produjo en agosto de 2025 en Pinos Puente un pueblo del Área Metropolitana de Granada",
-      "date": "Mon, 17 Aug 2026 18:32:15 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "EE.UU. fracasa en su intento de hacer avanzar el plan de paz de Trump para Gaza",
-      "link": "https://www.lavanguardia.com/internacional/20260817/11615493/ee-uu-fracasa-intento-avanzar-plan-paz-trump-gaza.html",
-      "desc": "Jared Kushner, yerno del presidente, arranca solo unos vagos compromisos de Netanyahu&nbsp;",
-      "date": "17 Aug 2026 18:25:19 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "Detenido un joven de Toledo en un festival de música de Cangas de Onís por tener cocaína y MDMA",
-      "link": "https://www.abc.es/espana/castilla-la-mancha/toledo/detenido-joven-toledo-festival-musica-cangas-onis-20260817182108-nt.html",
-      "desc": "Ocho personas, entre ellas un vecino de Toledo de 23 años de edad, han sido detenidas en el marco del dispositivo de seguridad establecido por la Guardia Civil en torno al festival de música electrónica Aquasella que se celebra anualmente en El Merediz (Cangas",
-      "date": "Mon, 17 Aug 2026 18:21:08 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "La Junta señala al Gobierno por la «alarma social» generada ante los últimos tiroteos en Andalucía",
-      "link": "https://www.abc.es/espana/andalucia/carolina-espana-senala-gobierno-alarma-social-generada-20260817180457-nts.html",
-      "desc": "La vicepresidenta tercera de la Junta de Andalucía y consejera de Economía, Hacienda y Fondos Europeos, Carolina España , ha pedido al Gobierno central «más medios policiales y medidas drásticas» después de los últimos tiroteos que que se han producido en Isla",
-      "date": "Mon, 17 Aug 2026 18:20:06 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Óscar Puente insiste en sus ataques contra la Casa del Rey: «Se ha cruzado una línea roja»",
-      "link": "https://www.abc.es/espana/oscar-puente-alma-republicana-carga-casa-rey-20260817180535-nt.html",
-      "desc": "El ministro de Transportes y Movilidad Sostenible, el socialista Óscar Puente , considera que es la Casa Real y no el Gobierno quien ha cruzado «una línea roja» por la fotografía de Felipe VI con el periodista Javier Negre, una imagen que le sigue indignando y",
-      "date": "Mon, 17 Aug 2026 18:05:36 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "El número de la Lotería de Navidad que desata la locura en España",
-      "link": "https://www.abc.es/espana/andalucia/granada/numero-loteria-navidad-desata-locura-espana-20260817174740-nts.html",
-      "desc": "El 17 de julio de 2026 es una fecha histórica para el fútbol español. Fue el día en el que la Selección Española consiguió levantar por segunda vez en su historia la copa del mundo. Con esta triunfo, La Roja luce ahora las dos estrellas. Pero el número corresp",
-      "date": "Mon, 17 Aug 2026 18:02:32 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "El PSOE pide un pleno «urgente» en el Parlamento y que Moreno «dé explicaciones» sobre el incendio de Niebla",
-      "link": "https://www.abc.es/espana/andalucia/psoe-pide-pleno-urgente-parlamento-moreno-explicaciones-20260817175209-nts.html",
-      "desc": "El incendio de Niebla , en la provincia de Huelva, ha servido al Partido Socialista para criticar la actuación del Gobierno andaluz. El PSOE ha lamentado la falta de medios en la comunidad debido a los recortes, y asegura que es causa de la propagación del fue",
-      "date": "Mon, 17 Aug 2026 18:00:13 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
       "caso": "other"
     }
   ]
