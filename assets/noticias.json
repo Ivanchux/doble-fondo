@@ -1,9 +1,219 @@
 {
-  "updated": "2026-08-17T16:20:48Z",
+  "updated": "2026-08-17T18:30:55Z",
   "count": 24,
   "items": [
     {
-      "title": "Un Óscar Puente de «alma republicana» carga contra la Casa del Rey: «Se ha cruzado una línea roja»",
+      "title": "El PP pide a Dolz que aclare por qué ve «totalmente insostenible» la situación política de Sánchez",
+      "link": "https://www.abc.es/espana/castilla-la-mancha/pp-pide-dolz-aclare-totalmente-insostenible-situacion-20260817201530-nt.html",
+      "desc": "El PP de Cuenca ha pedido al alcalde de la ciudad, Darío Dolz, que explique qué quiso decir al calificar de «totalmente insostenible» la situación política nacional y reclamar la convocatoria de elecciones generales «lo antes posible». Los populares quieren qu",
+      "date": "Mon, 17 Aug 2026 20:15:30 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Anuncian cierres de hoteles por el Imserso del Gobierno: «Las pérdidas son inasumibles»",
+      "link": "https://www.abc.es/espana/comunidad-valenciana/anuncian-cierres-hoteles-imserso-gobierno-perdidas-inasumibles-20260817193535-nt.html",
+      "desc": "La Asociación Empresarial Hotelera y Turística de la Comunitat Valenciana (Hosbec) ha alertado de cierres de establecimientos durante la temporada de invierno por las tarifas congeladas desde hace años que les impone el Gobierno. «Las pérdidas ya son inasumibl",
+      "date": "Mon, 17 Aug 2026 19:35:36 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Ocho siglos de una primera piedra",
+      "link": "https://www.abc.es/espana/castilla-la-mancha/toledo/ocho-siglos-primera-piedra-20260817193328-nt.html",
+      "desc": "Era un 14 de agosto del año de gracia de 1226, víspera de la solemnidad de la Asunción, cuando el rey san Fernando III y el arzobispo Rodrigo Jiménez de Rada ponían la primera piedra de la que iba a ser la nueva catedral gótica de Toledo, en sustitución de la ",
+      "date": "Mon, 17 Aug 2026 19:34:26 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Muere Marcos Rodríguez Pantoja, el 'niño lobo de Sierra Morena' a los 80 años",
+      "link": "https://www.abc.es/espana/andalucia/cordoba/muere-marcos-rodriguez-pantoja-nino-lobo-sierra-20260817191939-nts.html",
+      "desc": "Marcos Rodríguez Pantoja, conocido como el 'niño lobo de Sierra Morena', ha fallecido este sábado a los 80 años en Ourense, donde residía desde hacía años. Nacido en un pueblo de Córdoba, pasó once años viviendo con una manada de lobos que, según relató durant",
+      "date": "Mon, 17 Aug 2026 19:19:40 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "La Junta financia 22 proyectos de investigación científica dirigidos a jóvenes con más de 900.000 euros",
+      "link": "https://www.abc.es/espana/castilla-la-mancha/junta-financia-proyectos-investigacion-cientifica-dirigidos-jovenes-20260817191638-nt.html",
+      "desc": "El Gobierno de Castilla-La Mancha está financiando actualmente un total de 22 proyectos de investigación científica que están dirigidos a jóvenes por un importe de más de 900.000 euros, según ha informado la directora de la Agencia de Investigación e Innovació",
+      "date": "Mon, 17 Aug 2026 19:16:39 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "El PP advierte: el Gobierno plantea «la peor financiación de la historia» para Galicia",
+      "link": "https://www.abc.es/espana/galicia/pp-advierte-gobierno-plantea-peor-financiacion-historia-20260817191438-nt.html",
+      "desc": "En un verano en el que la conversación política está alejada del siempre inflamable asunto de los incendios forestales, el PP ha querido poner el foco en uno de los temas que alimentará el regreso de la actividad parlamentaria a partir del próximo septiembre: ",
+      "date": "Mon, 17 Aug 2026 19:14:38 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "«Hoy es Ceuta; mañana, si no actuamos, puede ser Canarias»",
+      "link": "https://www.abc.es/espana/canarias/hoy-ceuta-manana-actuamos-puede-canarias-20260817190658-nt.html",
+      "desc": "«Hoy es Ceuta; mañana, si no actuamos, puede ser Canarias» . El presidente del Cabildo de Gran Canaria, Antonio Morales, ha advertido de las consecuencias que puede tener para el archipiélago el creciente poder político, económico y militar de Marruecos y recl",
+      "date": "Mon, 17 Aug 2026 19:06:58 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Cuatro crías de apenas 40 gramos devuelven la esperanza a la nutria asiática en Tenerife",
+      "link": "https://www.abc.es/espana/canarias/cuatro-crias-apenas-gramos-devuelven-esperanza-nutria-20260817184519-nt.html",
+      "desc": "Loro Parque ha dado la bienvenida a cuatro crías de nutria asiática de uñas cortas (Aonyx cinereus), un acontecimiento especialmente relevante por la delicada situación que atraviesa esta especie en la naturaleza y por su importancia dentro del programa de rep",
+      "date": "Mon, 17 Aug 2026 19:06:08 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Barcelona contiene el precio de los pisos de estudiantes mientras se dispara en Madrid",
+      "link": "https://www.lavanguardia.com/economia/20260817/11615512/barcelona-contiene-precio-pisos-estudiantes-dispara-madrid.html",
+      "desc": "El coste medio por habitación alcanza los 430 euros de media en España",
+      "date": "17 Aug 2026 18:56:36 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
+    {
+      "title": "Granada ha sufrido 348 terremotos desde el pasado 14 de agosto",
+      "link": "https://www.abc.es/espana/andalucia/granada/granada-sufrido-348-terremotos-pasado-agosto-20260817184111-nts.html",
+      "desc": "En su aplicación para teléfonos móviles no están contabilizados todos, pero el Instituto Geográfico Nacional (IGN) ha informado este lunes 17 de agosto que en el Área Metropolitana de Granada se han producido 348 movimientos sísmicos desde la primera hora del ",
+      "date": "Mon, 17 Aug 2026 18:51:12 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "En la muerte de Alfonso Muñoz Durán, expresidente de la Diputación de Cuenca",
+      "link": "https://www.abc.es/espana/castilla-la-mancha/por-benjamin-prieto-muere-alfonso-munoz-duran-expresidente-diputacion-cuenca-20260817184725-nt.html",
+      "desc": "El día de la festividad de San Roque, patrono de muchos pueblos de la provincia de Cuenca recibo la noticia, por mi buen y común amigo Ricardo Fernández de la Cruz, de que Alfonso Muñoz Durán nos dejaba. Una dilatada vida de un hombre bueno, como sus propios c",
+      "date": "Mon, 17 Aug 2026 18:47:25 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Dimiten dos ediles del Gobierno en Torralba de Calatrava y el PSOE habla de «inestabilidad»",
+      "link": "https://www.abc.es/espana/castilla-la-mancha/dimiten-dos-ediles-gobierno-torralba-calatrava-psoe-20260817184614-nt.html",
+      "desc": "El PSOE de Torralba de Calatrava (Ciudad Real) denuncia la «inestabilidad institucional» que a su juicio ha provocado en el Ayuntamiento la alcaldesa, María Antonia Álvaro, a la que en los dos últimos meses «le han dimitido su portavoz y su concejala de Cultur",
+      "date": "Mon, 17 Aug 2026 18:46:14 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "El incendio declarado en Galápagos (Guadalajara) desciende a Nivel 0",
+      "link": "https://www.abc.es/espana/castilla-la-mancha/declarado-nivel-incendio-galapagos-guadalajara-afecta-humo-20260817184333-nt.html",
+      "desc": "El incendio forestal declarado este lunes por la tarde en Galápagos (Guadalajara) ha bajado al nivel 0 de emergencia. El fuego se originó alrededor de las 17.00 horas en las inmediaciones del Residencial Montelar y, en pocos minutos, la evolución del incendio ",
+      "date": "Mon, 17 Aug 2026 18:43:33 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Granada ha sufrido 348 terremotos desde el viernes, 37 de ellos percibidos",
+      "link": "https://www.lavanguardia.com/vida/20260817/11615497/granada-sufrido-348-terremotos-viernes-37-percibidos-poblacion.html",
+      "desc": "La provincia, en el sector central de las Béticas Orientales, es una de las zonas con mayor actividad y peligrosidad sísmica de la península",
+      "date": "17 Aug 2026 18:38:34 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
+    {
+      "title": "El Gobierno ya empieza a instalar los cuatro centros de atención humanitaria en Ceuta",
+      "link": "https://www.lavanguardia.com/politica/20260817/11615498/gobierno-empieza-instalar-cuatro-centros-atencion-humanitaria-ceuta.html",
+      "desc": "Varios operarios ya han empezado los trabajos para acondicionar cuatro espacios que acojerán unas 1.500 personas",
+      "date": "17 Aug 2026 18:37:58 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
+    {
+      "title": "El PP exige alargar la vida de la central nuclear de Trillo tras la prórroga de la de Almaraz",
+      "link": "https://www.abc.es/espana/castilla-la-mancha/pp-exige-alargar-vida-central-nuclear-trillo-20260817183541-nt.html",
+      "desc": "El PP de Guadalajara ha reclamado al Gobierno de España que prolongue la vida útil de la central nuclear de Trillo después de la decisión de mantener en funcionamiento la de Almaraz hasta 2030. La senadora por Guadalajara María Patricio considera que esta medi",
+      "date": "Mon, 17 Aug 2026 18:37:34 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "De dar una vuelta tranquila por San Roque a parecer a 1.000 kilómetros de su casa, en Burgos",
+      "link": "https://www.abc.es/espana/andalucia/cadiz/dar-vuelta-tranquila-san-roque-parecer-1000-20260817183220-nts.html",
+      "desc": "Francisco salió de casa como cualquier otra mañana. Tiene 92 años y vive en Pueblo Nuevo de Guadiaro, en San Roque (Cádiz), pero esta vez aquel paseo terminó de una manera que nadie de su familia podía imaginar. Dos días después, el hombre apareció en Miranda ",
+      "date": "Mon, 17 Aug 2026 18:32:42 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "El tiroteo de Isla Cristina recuerda las tensiones entre clanes andaluces de la droga de Pinos Puente",
+      "link": "https://www.abc.es/espana/andalucia/granada/pinos-puente-granada-foco-creciente-tension-venganzas-20260817133326-nts.html",
+      "desc": "El terrible suceso de Isla Cristina, con tres muertos en un tiroteo, entre ellos un menor, no es por desgracia un caso aislado. De hecho, trae a la memoria un episodio que se produjo en agosto de 2025 en Pinos Puente un pueblo del Área Metropolitana de Granada",
+      "date": "Mon, 17 Aug 2026 18:32:15 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "EE.UU. fracasa en su intento de hacer avanzar el plan de paz de Trump para Gaza",
+      "link": "https://www.lavanguardia.com/internacional/20260817/11615493/ee-uu-fracasa-intento-avanzar-plan-paz-trump-gaza.html",
+      "desc": "Jared Kushner, yerno del presidente, arranca solo unos vagos compromisos de Netanyahu&nbsp;",
+      "date": "17 Aug 2026 18:25:19 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
+    {
+      "title": "Detenido un joven de Toledo en un festival de música de Cangas de Onís por tener cocaína y MDMA",
+      "link": "https://www.abc.es/espana/castilla-la-mancha/toledo/detenido-joven-toledo-festival-musica-cangas-onis-20260817182108-nt.html",
+      "desc": "Ocho personas, entre ellas un vecino de Toledo de 23 años de edad, han sido detenidas en el marco del dispositivo de seguridad establecido por la Guardia Civil en torno al festival de música electrónica Aquasella que se celebra anualmente en El Merediz (Cangas",
+      "date": "Mon, 17 Aug 2026 18:21:08 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "La Junta señala al Gobierno por la «alarma social» generada ante los últimos tiroteos en Andalucía",
+      "link": "https://www.abc.es/espana/andalucia/carolina-espana-senala-gobierno-alarma-social-generada-20260817180457-nts.html",
+      "desc": "La vicepresidenta tercera de la Junta de Andalucía y consejera de Economía, Hacienda y Fondos Europeos, Carolina España , ha pedido al Gobierno central «más medios policiales y medidas drásticas» después de los últimos tiroteos que que se han producido en Isla",
+      "date": "Mon, 17 Aug 2026 18:20:06 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Óscar Puente insiste en sus ataques contra la Casa del Rey: «Se ha cruzado una línea roja»",
       "link": "https://www.abc.es/espana/oscar-puente-alma-republicana-carga-casa-rey-20260817180535-nt.html",
       "desc": "El ministro de Transportes y Movilidad Sostenible, el socialista Óscar Puente , considera que es la Casa Real y no el Gobierno quien ha cruzado «una línea roja» por la fotografía de Felipe VI con el periodista Javier Negre, una imagen que le sigue indignando y",
       "date": "Mon, 17 Aug 2026 18:05:36 +0200",
@@ -30,216 +240,6 @@
       "source": "ABC",
       "color": "#c0392b",
       "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Ciudad Real renovará el firme de 24 calles con una inversión de 667.000 euros",
-      "link": "https://www.abc.es/espana/castilla-la-mancha/ciudad-real-renovara-firme-calles-inversion-667000-20260817175614-nt.html",
-      "desc": "El Ayuntamiento de Ciudad Real renovará el firme de 24 calles de la capital con una inversión de 667.000 euros. La Junta de Gobierno Local ha adjudicado este lunes las obras, incluidas en el Plan Provincial de Obras, a la empresa Antonio Miguel Alonso e Hijos ",
-      "date": "Mon, 17 Aug 2026 17:58:04 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "El PSOE acusa a Velázquez de acabar la legislatura «sin construir ni una sola vivienda en Toledo»",
-      "link": "https://www.abc.es/espana/castilla-la-mancha/toledo/psoe-acusa-velazquez-acabar-legislatura-construir-sola-20260817175731-nt.html",
-      "desc": "El Grupo Municipal Socialista ha acusado al alcalde de Toledo, Carlos Velázquez, de afrontar los últimos ocho meses de la legislatura sin haber construido ninguna vivienda en la ciudad. La portavoz socialista, Noelia de la Cruz, ha situado en «cero patatero» e",
-      "date": "Mon, 17 Aug 2026 17:57:32 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "El PSOE de Talavera denuncia la «tala masiva» de árboles en el parque de La Alameda",
-      "link": "https://www.abc.es/espana/castilla-la-mancha/toledo/talavera/psoe-talavera-denuncia-tala-masiva-arboles-parque-20260817175238-nt.html",
-      "desc": "El Grupo Municipal Socialista de Talavera de la Reina ha denunciado la « tala masiva de árboles sanos y de gran porte» que se ha llevado a cabo durante el pasado fin de semana en el parque de La Alameda, uno de los principales pulmones verdes de la ciudad. El ",
-      "date": "Mon, 17 Aug 2026 17:52:38 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Lanzan la iniciativa 'Renace Ávila', para canalizar la participación ciudadana en actuaciones afectadas por los incendios de la provincia",
-      "link": "https://www.abc.es/espana/castilla-leon/lanzan-iniciativa-renace-avila-canalizar-participacion-ciudadana-20260817174121-nt.html",
-      "desc": "FUNDABEM, Fundación Kerbest y Fundación Ávila han presentando este lunes la iniciativa 'Renace Ávila', un programa de voluntariado ambiental creado para colaborar en la recuperación de las superficies forestales afectadas por los incendios en el sur de la prov",
-      "date": "Mon, 17 Aug 2026 17:41:21 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "El PSOE plantea a PP y Vox un frente común en Talavera para frenar cuatro plantas de biometano",
-      "link": "https://www.abc.es/espana/castilla-la-mancha/toledo/talavera/psoe-plantea-pp-vox-frente-comun-talavera-20260817172602-nt.html",
-      "desc": "El PSOE de Talavera quiere que el rechazo a las plantas de biometano se convierta en una posición común de toda la Corporación municipal. para lograrlo, los socialistas han solicitado una reunión con el Gobierno local antes del Pleno extraordinario que se cele",
-      "date": "Mon, 17 Aug 2026 17:26:02 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Trump amenaza con bombardear Omán si se “interpone” para reabrir Ormuz",
-      "link": "https://www.lavanguardia.com/internacional/20260817/11615462/trump-amenaza-bombardear-oman-interpone-negociacion-reabrir-ormuz.html",
-      "desc": "Expira el memorándum de entendimiento firmado entre EE.UU. e Irán en junio que establecía un alto el fuego de 60 días",
-      "date": "17 Aug 2026 17:09:31 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "El Supremo ratifica por segunda vez el veredicto por abuso sexual contra Trump en el caso Carroll",
-      "link": "https://www.lavanguardia.com/internacional/20260817/11615460/trump-culpable-nuevo-tribunal-supremo.html",
-      "desc": "La máxima instancia judicial de EE.UU., controlada por jueces conservadores, de los que tres fueron nombrados por el actual mandatario, niega por segunda vez el intento del presidente de anular la sentencia civil de cinco millones para la escritora E. Jean Car",
-      "date": "17 Aug 2026 17:08:59 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "Los cruceros crecen en Barcelona por encima del récord del 2025",
-      "link": "https://www.lavanguardia.com/local/barcelona/20260817/11615456/cruceros-crecen-barcelona-encima-record-2025.html",
-      "desc": "El Port suma 3,23 millones de pasajeros hasta julio, un 5,3% más",
-      "date": "17 Aug 2026 17:04:38 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "La Junta aborda con las opas medidas para mejorar la rentabilidad del sector apícola",
-      "link": "https://www.abc.es/espana/castilla-leon/junta-aborda-opas-medidas-mejorar-rentabilidad-sector-20260817165710-nt.html",
-      "desc": "El consejero de Agricultura, Ganadería, Medio Rural y Política Ambiental, Joaquín Antonio Pino , ha mantenido este lunes una reunión de trabajo con las organizaciones profesionales agrarias para analizar la situación actual del sector apícola de Castilla y Leó",
-      "date": "Mon, 17 Aug 2026 16:57:11 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Un gorrilla roba a la Policía Local de Gandía y huye por los techos de los coches",
-      "link": "https://www.abc.es/espana/comunidad-valenciana/alicante/gorrilla-roba-policia-local-gandia-huye-techos-20260817164131-nt.html",
-      "desc": "Un gorrilla y ladrón reincidente ha protagonizado su última fechoría al robar en un coche patrulla de la Policía Local de Gandía y luego huir dando saltos por los techos de otros vehículos aparcados al lado hasta que lo han atrapado y reducido. En un vídeo que",
-      "date": "Mon, 17 Aug 2026 16:41:31 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Los contratos del comercio crecen en Córdoba un 9% hasta junio",
-      "link": "https://www.abc.es/espana/andalucia/cordoba/contratos-comercio-crecen-cordoba-junio-20260817163710-nts.html",
-      "desc": "El balance de los primeros seis meses del sector del comercio en Córdoba , en cuanto a contratación se refiere, refleja un aumento en los acuerdos laborales del 9% con respecto al mismo periodo del 2025. Así lo reflejan, según ha informado la Junta de Andalucí",
-      "date": "Mon, 17 Aug 2026 16:38:04 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Excarcelan por enfermedad al excoronel salvadoreño condenado por asesinar a cinco jesuitas españoles",
-      "link": "https://www.abc.es/espana/excarcelan-enfermedad-excoronel-salvadoreno-condenado-asesinar-cinco-20260817163607-nt.html",
-      "desc": "La Audiencia Nacional ha concedido la libertad condicional anticipada al excoronel salvadoreño Inocente Montano, condenado a 133 años de cárcel por el asesinato de cinco jesuitas españoles durante la guerra civil en el país centroamericano, por una enfermedad ",
-      "date": "Mon, 17 Aug 2026 16:36:40 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "gen"
-    },
-    {
-      "title": "El tranvía de Jaén circulará  a diario y de forma continuada  para completar la formación de los conductores",
-      "link": "https://www.abc.es/espana/andalucia/jaen/tranvia-jaen-circulara-manana-diario-forma-continuada-20260817134708-nts.html",
-      "desc": "A partir del martes. 18 de agosto, el tranvía de Jaén circulará a diario y de forma continuada por todo el recorrido con la finalidad de que los conductores que se encargarán de su funcionamiento finalicen la formación práctica. En horario de 8:00 de la mañana",
-      "date": "Mon, 17 Aug 2026 16:36:03 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "El cementerio de San Fernando en Jaén convertido en un vertedero con restos de féretros y mortajas mezclados con basura",
-      "link": "https://www.abc.es/espana/andalucia/jaen/cementerio-san-fernando-jaen-convertido-vertedero-restos-20260817143148-nts.html",
-      "desc": "Una zona del cementerio municipal de San Fernando en la capital jiennense presenta un estado lamentable: se ha convertido en un vertedero donde los féretros y las mortajas mortuorias se mezclan con la basura. No es que sea un área apartada, sino que en ella ha",
-      "date": "Mon, 17 Aug 2026 16:34:52 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Salazar y Moriña: el 'Romeo y Julieta' de El Torrejón de Huelva ya lleva cinco muertos",
-      "link": "https://www.abc.es/espana/andalucia/huelva/salazar-morina-romeo-julieta-torrejon-huelva-lleva-20260817163241-nts.html",
-      "desc": "Una pelea matrimonial lleva cinco muertos en Huelva. Como si se tratara de una versión aflamencada de 'Romeo y Julita'. Esta vez por desamor y sin romanticismo en las calles de uno de los barrios andaluces del 'trapicheo' de drogas. Los Salazar y los Moriña es",
-      "date": "Mon, 17 Aug 2026 16:33:41 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Nuevo choque entre el ministro Puente y el Ayuntamiento de Valladolid: «No hay más sordo que el que no quiere oír»",
-      "link": "https://www.abc.es/espana/castilla-leon/nuevo-choque-ministro-puente-ayuntamiento-valladolid-sordo-20260817161238-nt.html",
-      "desc": "A los ya habituales desencuentros entre el ministro de Transportes, Óscar Puente, y el Ayuntamiento de Valladolid se ha sumado este lunes otro a cuenta, en esta ocasión, de las obras que Adif está realizando en el viaducto de Los Tramposos, integrado en la var",
-      "date": "Mon, 17 Aug 2026 16:15:19 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Las nuevas líneas de la DGT ya están en pruebas: cómo funcionan y qué hacer cuando las veas",
-      "link": "https://www.abc.es/espana/andalucia/nuevas-lineas-dgt-pruebas-funcionan-veas-20260817160556-nts.html",
-      "desc": "La Dirección General de Tráfico ha puesto en marcha un nuevo sistema de señalización horizontal en fase de pruebas con el objetivo de frenar la siniestralidad vial en uno de los colectivos más vulnerables de la carretera: los motoristas. El despliegue de estas",
-      "date": "Mon, 17 Aug 2026 16:05:56 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Tuawa y Rototom ahorran al planeta 3,2 millones de botellas de plástico y más de seis millones de litros de agua",
-      "link": "https://www.abc.es/espana/comunidad-valenciana/tuawa-rototom-dan-vida-bosque-mediterraneo-13500-20260817160210-nt.html",
-      "desc": "El festival Rototom Sunsplash y Tuawa, empresa de Global Omnium, han conseguido ahorrar al planeta en cinco años un total de 3,2 millones de botellas de plástico que hubieran necesitado 13.500 árboles para absorber el CO2 generado por su fabricación, transport",
-      "date": "Mon, 17 Aug 2026 16:02:10 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Marruecos rechaza la repatriación de los seis cadáveres marroquíes identificados tras el asalto a Ceuta",
-      "link": "https://www.abc.es/espana/marruecos-rechaza-repatriacion-seis-cadaveres-marroquies-identificados-20260818155907-nt.html",
-      "desc": "En la macro morgue improvisada del antiguo Hospital Militar de Ceuta , casi tres semanas después de la invasión en la ciudad, 82 personas con familias, historias y proyectos de vida que quedaron truncados en busca de un futuro mejor siguen esperando recibir se",
-      "date": "Mon, 17 Aug 2026 15:59:07 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "La gorila Virunga celebra sus diez años con una «fiesta salvaje» en Bioparc Valencia",
-      "link": "https://www.abc.es/espana/comunidad-valenciana/gorila-virunga-celebra-diez-anos-fiesta-salvaje-20260817155855-nt.html",
-      "desc": "Diez años han pasado desde que la gorila Virunga llegó al mundo y, desde entonces, representa la esperanza y el compromiso con la preservación de su especie. La Fundación Bioparc desarrolla una valiosa labor en las selvas africanas y los BIOPARC de Fuengirola ",
-      "date": "Mon, 17 Aug 2026 15:58:55 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "El PP exige un mando único en Ceuta y la devolución de los migrantes, sean o no menores",
-      "link": "https://www.lavanguardia.com/politica/20260817/11615267/pp-exige-mando-unico-ceuta-devolucion-migrantes-sean-menores.html",
-      "desc": "Gamarra detalla&nbsp;el plan de los de Feijóo para “restablecer la soberanía” en&nbsp; la ciudad autónoma que incluye intervenciones del Ejército",
-      "date": "17 Aug 2026 13:47:58 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
       "caso": "other"
     }
   ]
