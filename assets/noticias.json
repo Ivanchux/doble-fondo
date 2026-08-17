@@ -1,7 +1,167 @@
 {
-  "updated": "2026-08-16T22:14:56Z",
+  "updated": "2026-08-17T00:57:12Z",
   "count": 24,
   "items": [
+    {
+      "title": "Matteo Salvini: «Marruecos miró a otro lado en Ceuta, pero el Gobierno español ha fracasado»",
+      "link": "https://www.abc.es/espana/matteo-salvini-marruecos-miro-lado-ceuta-gobierno-20260817014712-nt.html",
+      "desc": "El balcón de su despacho se asoma a la Porta Pia, uno de los históricos accesos a Roma a través de la muralla Aureliana. Diseñada por Miguel Ángel, fue famosa por la batalla del 20 septiembre de 1870, cuando la infantería italiana (Bersaglieri) entró en la urb",
+      "date": "Mon, 17 Aug 2026 01:47:12 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Choque de Leire Díez con guardias civiles en los tribunales por el caso de las 'cloacas' del PSOE",
+      "link": "https://www.abc.es/espana/choque-leire-guardias-civiles-tribunales-cloacas-psoe-20260725014423-nt.html",
+      "desc": "Leire Díez quiere impedir que una asociación de guardias civiles se persone en el procedimiento abierto contra ella en la Audiencia Nacional. La exmilitante socialista ha presentado un escrito donde sostiene que esta entidad tiene la obligación de pagar los 10",
+      "date": "Mon, 17 Aug 2026 01:44:23 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "lei"
+    },
+    {
+      "title": "Abogacía del Estado y Gobierno vasco intentaron frenar el juicio al troceo de la Seguridad Social",
+      "link": "https://www.abc.es/espana/pais-vasco/abogacia-estado-trato-impedir-supremo-juzgue-troceo-20260802014416-nt.html",
+      "desc": "El Tribunal Supremo (TS) ha desestimado las alegaciones presentadas por la Abogacía del Estado y el Gobierno vasco contra la asociación Impulso Ciudadano, que tiene recurrido el troceo y traspaso de tres materias de la Seguridad Social al País Vasco previo pac",
+      "date": "Mon, 17 Aug 2026 01:44:16 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Cuatro años sin culpables por el 'tren del infierno' de Bejís: «Nadie nos ha pedido disculpas»",
+      "link": "https://www.abc.es/espana/comunidad-valenciana/cuatro-anos-culpables-tren-infierno-bejis-pedido-20260817014308-nt.html",
+      "desc": "Cuatro años después de que un tren de media distancia de Renfe entre Valencia y Zaragoza quedara detenido entre las llamas del incendio de Bejís (Castellón), sus pasajeros ni siquiera han recibido una disculpa y, mucho menos, una explicación. El convoy se aden",
+      "date": "Mon, 17 Aug 2026 01:43:08 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Cataluña encabeza la detención de radicalizados por yihadismo",
+      "link": "https://www.abc.es/espana/cataluna/cataluna-encabeza-detencion-radicalizados-yihadismo-20260817014244-nt.html",
+      "desc": "En 2015, la operación Caronte de los Mossos d'Esquadra permitió desarticular una célula yihadista que planeaba atentar contra lugares emblemáticos de Barcelona y secuestrar a una persona, vestirla con una mono naranja y degollarla, para grabarlo y difundirlo. ",
+      "date": "Mon, 17 Aug 2026 01:42:44 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "2-1: El Talavera se impuso al Guadalajara en la final regional",
+      "link": "https://www.abc.es/espana/castilla-la-mancha/toledo/deportes/talavera-impuso-guadalajara-final-regional-20260817012945-nt.html",
+      "desc": "El CF renovado Talavera se muestra muy fuerte en vísperas de su inicio de campeonato como quedó demostrado en la noche de domingo al imponerse por 2-1 al Deportivo Guadalajara en la final regional de la Copa Federación. Bien es cierto que el triunfo de la escu",
+      "date": "Mon, 17 Aug 2026 01:29:45 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Madrid prueba su circuito de F1 con casi 470 millones en la línea de meta",
+      "link": "https://www.abc.es/espana/madrid/madrid-prueba-circuito-470-millones-linea-meta-20260816012625-nt.html",
+      "desc": "En poco menos de un mes, del 11 al 13 de septiembre, Madrid celebrará la vuelta de la Fórmula 1 casi medio siglo después de que un monoplaza rodara por última vez en el circuito del Jarama. No ha sido un camino rápido para los aficionados desde su anuncio hace",
+      "date": "Mon, 17 Aug 2026 01:26:25 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "El Día Mundial de la Fotografía en Alcalá de Henares, de paseo y cámara en mano",
+      "link": "https://www.abc.es/espana/madrid/dia-mundial-fotografia-paseo-camara-mano-20260817011954-nt.html",
+      "desc": "Este miércoles 19 de agosto es el Día Mundial de la Fotografía , y en Alcalá de Henares se va a celebrar a pie de calle con un encuentro de apasionados a este arte dedicado a recorrer la localidad cámara en mano, para captar las mejores imágenes que brinden su",
+      "date": "Mon, 17 Aug 2026 01:19:54 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "El campo de fútbol de Aluche que se cae a pedazos: «Es puro vandalismo, lo rompen todo»",
+      "link": "https://www.abc.es/espana/madrid/campo-futbol-aluche-cae-pedazos-puro-vandalismo-20260812011926-nt.html",
+      "desc": "La imagen de lo que debería ser un campo de fútbol municipal hace tiempo que dejó de corresponderse con la instalación deportiva del parque de Aluche . En la calle Valmojado, 14, una de las porterías descansa sobre el suelo, completamente partida y sin red, mi",
+      "date": "Mon, 17 Aug 2026 01:19:26 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "La robótica llega a diez centros educativos para alumnos con necesidades especiales",
+      "link": "https://www.abc.es/espana/madrid/robotica-llega-diez-centros-educativos-alumnos-necesidades-20260816011905-nt.html",
+      "desc": "El proyecto pionero que utiliza la robótica asistencial y la Inteligencia Artificial (IA) como herramienta de apoyo a alumnos con necesidades especiales se extenderá el próximo curso a diez centros educativos públicos de la Comunidad de Madrid . Esta iniciativ",
+      "date": "Mon, 17 Aug 2026 01:19:05 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "El PP de Madrid contrataca y exige las cuentas de las vacaciones de Sánchez",
+      "link": "https://www.abc.es/espana/madrid/pp-madrid-contrataca-exige-cuentas-vacaciones-sanchez-20260816011844-nt.html",
+      "desc": "El Partido Popular de Madrid ya se había enfrentado a otras polémicas durante esta legislatura, pero esta vez le está costando más de lo que esperaba desactivar o zanjar el debate en torno a la compra y posterior venta del ático en Chamberí por más de seis mil",
+      "date": "Mon, 17 Aug 2026 01:18:44 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "La ciudadrealeña Paula Sevilla roza el podio europeo con España en el 4x400",
+      "link": "https://www.abc.es/espana/castilla-la-mancha/toledo/deportes/ciudadrealena-paula-sevilla-roza-podio-europeo-espana-20260817011558-nt.html",
+      "desc": "La ciudadrealeña Paula Sevilla ha puesto el broche a una destacada actuación en el Campeonato de Europa de Birmingham con un cuarto puesto junto al equipo español en la final del relevo femenino 4x400 . La atleta de La Solana completó así una exigente semana. ",
+      "date": "Mon, 17 Aug 2026 01:15:58 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "2-1: Cruel derrota del Albacete Balompié en Las Palmas en u apertura de Liga",
+      "link": "https://www.abc.es/espana/castilla-la-mancha/toledo/deportes/cruel-derrota-albacete-balompie-palmas-apertura-liga-20260817003656-nt.html",
+      "desc": "El Albacete Balompié tuvo un cruel inicio de temporada 2026-2027 ya que perdió por 2-1 en su visita de este domingo por la noche a la UD Las Palmas y tras la disputa de un partido que se decidió con un agónico gol anotado por Sandro cuando el 'Alba' acariciaba",
+      "date": "Mon, 17 Aug 2026 00:36:56 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Tres muertos, entre ellos un menor, en un tiroteo en Isla Cristina",
+      "link": "https://www.abc.es/espana/andalucia/huelva/tres-muertos-menor-tiroteo-isla-cristina-20260817001125-nts.html",
+      "desc": "Al menos tres personas han perdido la vida este domingo por la noche en un tiroteo llevado a cado en la barriada del Rocío de la localidad onubense de Isla Cristina , según fuentes conocedoras de los hechos, a la espera de que las autoridades confirmen oficial",
+      "date": "Mon, 17 Aug 2026 00:11:41 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Tres muertos, entre ellos un menor, y un herido grave en un tiroteo en Isla Cristina",
+      "link": "https://www.lavanguardia.com/local/andalucia/20260817/11615031/tres-muertos-menor-tiroteo-isla-cristina.html",
+      "desc": "Dos encapuchados en una motocicleta abrieron fuego contra las víctimas",
+      "date": "17 Aug 2026 00:11:37 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
+    {
+      "title": "¿Se puede parar a Putin?",
+      "link": "https://www.lavanguardia.com/opinion/20260817/11614852/putin-leipzig-guerra-hibrida-europa-extrema-derecha.html",
+      "desc": "Rusia avanza más en la guerra híbrida contra Europa que en los campos de batalla",
+      "date": "17 Aug 2026 00:00:00 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
     {
       "title": "Así está el Córdoba CF en la clasificación tras la derrota ante el Burgos",
       "link": "https://www.abc.es/espana/andalucia/cordoba/cordoba-cf/cordoba-clasificacion-tras-20260816234356-nts.html",
@@ -77,166 +237,6 @@
       "link": "https://www.lavanguardia.com/deportes/futbol/20260816/11614859/principio-acuerdo-barca-manchester-city-rodri.html",
       "desc": "La operación se aceleró este domingo y el futbolista llegará a Barcelona esta semana para firmar un contrato por 4 temporadas por 60 millones fijos",
       "date": "16 Aug 2026 20:38:58 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "Muere un militar de la UME durante las tareas de extinción del incendio de Riglos",
-      "link": "https://www.lavanguardia.com/local/aragon/20260816/11614855/muere-militar-ume-tareas-extincion-incendio-riglos.html",
-      "desc": "El presidente del Gobierno de Aragón, Jorge Azcón, ha trasladado su pésame al teniente general de la Unidad Militar de Emergencias y a la familia del bombero fallecido",
-      "date": "16 Aug 2026 20:06:51 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "Castilla-La Mancha estará este lunes en aviso por lluvias y altas temperaturas",
-      "link": "https://www.abc.es/espana/castilla-la-mancha/castillala-mancha-lunes-aviso-lluvias-altas-temperaturas-20260816200338-nt.html",
-      "desc": "Tras el pequeño respiro del fin de semana, diez comunidades autónomas estarán en aviso este lunes por calor y tormentas con granizo mientras la dana persiste en el suroeste de la Península. Asimismo, se darán rachas muy fuertes de viento que afectarán especial",
-      "date": "Sun, 16 Aug 2026 20:03:38 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Muere un militar de la UME tras volcar su camión en el incendio de Las Peñas de Riglos (Huesca)",
-      "link": "https://www.abc.es/espana/aragon/muere-militar-ume-incendio-penas-rieglos-20260816200335-nt.html",
-      "desc": "Un militar de la UME ha fallecido esta tarde a consecuencia de un accidente sufrido en la localidad aragonesa de Atarés mientras formaba parte del operativo del incendio de Las Peñas de Riglos. Este fuego ha quemado ya a su paso más de 16.000 hectáreas desde q",
-      "date": "Sun, 16 Aug 2026 20:03:36 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Feijóo carga contra la «indolencia» de Sánchez ante al «caos» en Ceuta",
-      "link": "https://www.abc.es/espana/feijoo-carga-indolencia-sanchez-ante-caos-ceuta-20260816194403-nt.html",
-      "desc": "No hay día que pase, desde que entre el 30 y el 31 de julio entraron en Ceuta, a nado o a pie, al menos 72.000 inmigrantes de forma irregular, sin que el Partido Popular exija y critique. Exija más implicación a un presidente del Gobierno, Pedro Sánchez , que ",
-      "date": "Sun, 16 Aug 2026 19:46:36 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Castilla y León registra más de mil rayos en un día",
-      "link": "https://www.abc.es/espana/castilla-leon/castilla-leon-registra-mil-rayos-dia-20260816194605-nt.html",
-      "desc": "Castilla y León registraba más de mil rayos ayer, sábado 15 de agosto. jornada en la que gran parte del norte de la Comunidad, en concreto, la Cordillera Cantábrica y la meseta de León, el norte de las provincias de Palencia y Soria, y el este de Burgos, se en",
-      "date": "Sun, 16 Aug 2026 19:46:05 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Fallece un hombre tras ser localizado inconsciente junto al río en Garcirrey (Salamanca)",
-      "link": "https://www.abc.es/espana/castilla-leon/fallece-hombre-anos-tras-localizado-inconsciente-junto-20260816191443-nt.html",
-      "desc": "Un hombre de unos 70 años fallecía este domingo después de ser localizado inconsciente en una zona de difícil acceso junto al río, en el paraje de Los Molinos de los Avives, dentro del término municipal de Garcirrey (Salamanca). Los hechos ocurrían durante el ",
-      "date": "Sun, 16 Aug 2026 19:24:43 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Vilagarcía se empapa con su Festa da Auga en una jornada de alerta roja por calor",
-      "link": "https://www.abc.es/espana/galicia/vilagarcia-empapa-festa-auga-jornada-alerta-roja-20260816191753-nt.html",
-      "desc": "La Festa da Auga ha tomado Vilagarcía de Arousa (Pontevedra) un nuevo 16 de agosto, dejando una misma estampa: trenes llenos, gente armada con pistolas de agua y calderos cayendo desde los balcones de esta villa. Además, este año se ha desarrollado bajo un int",
-      "date": "Sun, 16 Aug 2026 19:17:53 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "El cierre de filas del delegado del Gobierno con Sánchez abre en canal al PSOE de Ceuta",
-      "link": "https://www.abc.es/espana/defensa-gestion-gobierno-crisis-ceuta-parte-delegado-20260817190859-nt.html",
-      "desc": "La crisis que vive Ceuta como consecuencia de la gran invasión del pasado 30 de julio amenaza con hacer estallar el PSOE a nivel local. Aunque la mayoría de críticas airadas se verbalizan en privado, con miedo a que se tomen represalias por sus opiniones, los ",
-      "date": "Sun, 16 Aug 2026 19:08:59 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "La plaza de toros de Ciudad Real homenajea los 93 años de la ganadería Víctor y Marín",
-      "link": "https://www.abc.es/espana/castilla-la-mancha/plaza-toros-ciudad-real-homenajea-anos-ganaderia-20260816190814-nt.html",
-      "desc": "La plaza de toros de Ciudad Real cuenta desde este domingo con un nuevo azulejo dedicado a la ganadería Víctor y Marín, un reconocimiento a sus 93 años de historia y a su estrecha vinculación con la tauromaquia de la provincia cuando se encuentra a las puertas",
-      "date": "Sun, 16 Aug 2026 19:08:14 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Un incendio en un autobús con pasajeros se propaga al monte y obliga a cortar la AG-53, en Orense",
-      "link": "https://www.abc.es/espana/galicia/incendio-autobus-pasajeros-propaga-monte-obliga-cortar-20260816190722-nt.html",
-      "desc": "El incendio de un autobús con pasajeros originado esta tarde en la AG-53, a su paso por San Cristovo de Cea (Orense), se ha propagado hacia el monte, aunque ya está estabilizado. Además, la carretera permanece cortada por el momento entre los kilómetros 65 y 7",
-      "date": "Sun, 16 Aug 2026 19:07:22 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "El Barça se da un festín en Basilea con una lluvia de goles y en pleno cásting del nueve",
-      "link": "https://www.lavanguardia.com/deportes/futbol/20260816/11614838/barca-da-festin-basilea-lluvia-goles-pleno-casting-nueve.html",
-      "desc": "Adeyemi marca y asiste a Hamza, Lamine Yamal transforma un penalti y Bisiwu se presenta&nbsp; en sociedad con un doblete creativo y vistoso",
-      "date": "16 Aug 2026 18:54:04 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "Meritxell Colell gana el Fipresci en el festival de Locarno por 'Lejos de los árboles'",
-      "link": "https://www.lavanguardia.com/cultura/20260816/11614822/meritxell-colell-gana-fipresci-festival-locarno-lejos-arboles.html",
-      "desc": "La cinta, centrada en la memoria, la diáspora y el legado del exilio, suma también el Boccalino d’Oro de la crítica independiente suiza",
-      "date": "16 Aug 2026 18:40:11 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "Un estudio apunta que un fármaco para la diabetes baja el riesgo de cáncer de hígado tras superar la hepatitis C",
-      "link": "https://www.abc.es/espana/castilla-la-mancha/estudio-apunta-farmaco-diabetes-baja-riesgo-cancer-20260816182214-nt.html",
-      "desc": "Un fármaco utilizado habitualmente para tratar la diabetes tipo 2 podría desempeñar también un papel relevante a la hora de reducir el riesgo de cáncer de hígado en determinados pacientes que han superado la hepatitis C. Un estudio liderado por investigadores ",
-      "date": "Sun, 16 Aug 2026 18:23:54 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "El PP exige al alcalde de Cuenca que «deje de hacer teatro» y pida a Page  que retire su apoyo a Pedro Sánchez",
-      "link": "https://www.abc.es/espana/castilla-la-mancha/pp-exige-alcalde-cuenca-deje-teatro-pida-20260816180747-nt.html",
-      "desc": "El presidente del Partido Popular de Cuenca, José Martín-Buro, ha exigido este domingo al alcalde socialista de la capital, Darío Dolz, que «deje de hacer teatro» y, si realmente considera que la situación política de España es «totalmente insostenible» y cree",
-      "date": "Sun, 16 Aug 2026 18:15:09 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Valencia recupera el único 'ninot indultat' que le faltaba al Museo Fallero: desapareció hace 30 años",
-      "link": "https://www.abc.es/espana/comunidad-valenciana/valencia-recupera-unico-ninot-indultat-faltaba-museo-20260816180403-nt.html",
-      "desc": "El Museo Fallero de Valencia ha recuperado el ninot 'Tot és cant' de la falla Espartero- Ramón y Cajal, declarado ninot indultat infantil de Valencia del año 1969 y lo restaurará para exhibirlo, según ha informado el Ayuntamiento en un comunicado. El ninot, qu",
-      "date": "Sun, 16 Aug 2026 18:04:29 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Un joven italiano, en coma tras ser atacado al salir de una discoteca en Barcelona",
-      "link": "https://www.lavanguardia.com/local/barcelona/20260816/11614812/joven-italiano-coma-atacado-salir-discoteca-barcelona.html",
-      "desc": "Una docena de personas abordaron a los amigos de la víctima, que se encontraban de vacaciones",
-      "date": "16 Aug 2026 17:45:53 +0200",
       "source": "La Vanguardia",
       "color": "#8e44ad",
       "feedId": "LaVanguardia",
