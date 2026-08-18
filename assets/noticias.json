@@ -1,7 +1,77 @@
 {
-  "updated": "2026-08-18T18:30:15Z",
+  "updated": "2026-08-18T20:16:51Z",
   "count": 24,
   "items": [
+    {
+      "title": "El Córdoba CF amplía su radar pese al 'overbooking' en la delantera",
+      "link": "https://www.abc.es/espana/andalucia/cordoba/cordoba-cf/cordoba-amplia-radar-pese-overbooking-delantera-20260818174557-nts.html",
+      "desc": "El Córdoba CF no ha dicho su última palabra en el mercado. El conjunto blanquiverde, en vísperas de encontrar una oportunidad que eleve el nivel de su plantilla, concentra sus esfuerzos en mejorar varias líneas del campo. Dentro de esta ecuación, la comitiva d",
+      "date": "Tue, 18 Aug 2026 21:55:56 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Castilla-La Mancha cuenta con 524 plazas concertadas de acogimiento residencial para menores",
+      "link": "https://www.abc.es/espana/castilla-la-mancha/castillala-mancha-cuenta-524-plazas-concertadas-acogimiento-20260818211153-nt.html",
+      "desc": "Castilla-La Mancha dispone de una red de y 524 plazas concertadas de acogimiento residencial destinadas a niños, niñas y adolescentes en situación de guarda o tutela, dentro de un modelo que apuesta por hogares de tamaño reducido y una atención especializada. ",
+      "date": "Tue, 18 Aug 2026 21:11:54 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "¡Tachaaannn! Adiós a Juan Tamariz, un mago de la percepción",
+      "link": "https://www.lavanguardia.com/vida/20260818/11616195/mago-percepcion-juan-tamariz-muere-fisico-cine-carmen-maura-un-dos-tres.html",
+      "desc": "El ilusionista, fallecido a los 83 años, más que un virtuoso del truco era un director de cine de la percepción",
+      "date": "18 Aug 2026 21:11:21 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "gen"
+    },
+    {
+      "title": "Paciente de la unidad del dolor: «El cambio fue  absoluto. Yo había llegado a tomar once fármacos al día»",
+      "link": "https://www.abc.es/espana/castilla-leon/cambio-absoluto-llegado-tomar-once-farmacos-dia-20260813205710-nt.html",
+      "desc": "En la desesperación había caído prácticamente Luis Enrique Rodríguez cuando aterrizó en la unidad del dolor de Valladolid. Su situación fue «dramática» y «drástica» porque, siendo una persona «muy activa», a la que gustaba «mucho el deporte», de la «noche a la",
+      "date": "Tue, 18 Aug 2026 20:57:10 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Las pioneras unidades del dolor crónico exportan su saber: «Hay mucho interés internacional»",
+      "link": "https://www.abc.es/espana/castilla-leon/pioneras-unidades-dolor-cronico-exportan-saber-interes-20260721205645-nt.html",
+      "desc": "Su renovado enfoque descolocó a muchos al inicio. «Afrontamiento activo del dolor crónico» es el apellido de estas unidades de Atención Primaria que comenzaron su andadura de forma «pionera» en Castilla y León en 2018 y que ya exportan su saber a otros países ",
+      "date": "Tue, 18 Aug 2026 20:56:45 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Extinguido el incendio de Galápagos (Guadalajara) que obligó a confinar dos urbanizaciones",
+      "link": "https://www.abc.es/espana/castilla-la-mancha/extinguido-incendio-galapagos-guadalajara-obligo-confinar-dos-20260818205103-nt.html",
+      "desc": "Los servicios de extinción de incendios forestales de Castilla-La Mancha han dado por extinguido este martes el incendio declarado en la localidad guadalajareña de Galápagos, que obligó a confinar preventivamente dos urbanizaciones ante la afección del humo a ",
+      "date": "Tue, 18 Aug 2026 20:51:03 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "La Diputación de Albacete invierte en Elche de la Sierra para renovar calles y servicios",
+      "link": "https://www.abc.es/espana/castilla-la-mancha/diputacion-albacete-invierte-elche-sierra-renovar-calles-20260818203536-nt.html",
+      "desc": "La Diputación de Albacete está impulsando distintas actuaciones en Elche de la Sierra y sus pedanías con inversiones destinadas a mejorar calles, redes de abastecimiento, accesibilidad y espacios públicos. El vicepresidente provincial y responsable de Obras, F",
+      "date": "Tue, 18 Aug 2026 20:35:37 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
     {
       "title": "El PP acusa al PSOE de lanzar «acusaciones falsas» por las obras del Paseo Federico García Lorca",
       "link": "https://www.abc.es/espana/castilla-la-mancha/toledo/pp-acusa-psoe-lanzar-acusaciones-falsas-obras-20260818202103-nt.html",
@@ -53,6 +123,16 @@
       "caso": "other"
     },
     {
+      "title": "Rodri nunca dudó: “El Barça fue mi primera opción, por el presente y por la proyección del proyecto”",
+      "link": "https://www.lavanguardia.com/deportes/20260818/11616171/rodri-nunca-dudo-barca-mi-primera-opcion-presente-proyeccion-proyecto.html",
+      "desc": "“Este club siempre ha sido un referente para mí, por su juego y los valores que representa”, afirma el medio, al que también quiso el Madrid",
+      "date": "18 Aug 2026 19:57:50 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
+    {
       "title": "El alcalde de Calera indica que la Guardia Civil «ha reconducido la situación» tras la oleada de delitos",
       "link": "https://www.abc.es/espana/castilla-la-mancha/toledo/pueblos/alcalde-calera-indica-guardia-civil-reconducido-situacion-20260818190229-nt.html",
       "desc": "El municipio toledano de Calera y Chozas trata de recuperar la normalidad tras unos días marcados por varios sucesos delictivos que han generado una fuerte alarma entre los vecinos que llevó el pasado sábado 15 de agosto a una concentración en la Plaza de la C",
@@ -83,6 +163,16 @@
       "caso": "other"
     },
     {
+      "title": "Así es Rodri, el nuevo fichaje del Barcelona: su personalidad, su familia y el estilo que defiende",
+      "link": "https://www.lavanguardia.com/deportes/futbol/20260818/11616146/asi-rodri-nuevo-fichaje-barcelona-personalidad-familia-estilo-defiende.html",
+      "desc": "Formado en una familia de profesionales, universitario y alejado de las redes sociales, el nuevo jugador del Barça aporta estilo, jerarquía y experiencia para el Barça de Hansi Flick",
+      "date": "18 Aug 2026 19:32:26 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
+    {
       "title": "La ayuda de 7.500 euros para padres que se puede solicitar ya en Andalucía",
       "link": "https://www.abc.es/espana/andalucia/ayuda-7500-euros-padres-puede-solicitar-andalucia-20260818235851-nts.html",
       "desc": "Conciliar la vida laboral con las responsabilidades familiares no siempre resulta sencillo, especialmente cuando el cuidado de los hijos obliga a compaginar horarios, trabajo y atención a los más pequeños. Esta dificultad puede ser todavía mayor para quienes t",
@@ -90,6 +180,26 @@
       "source": "ABC",
       "color": "#c0392b",
       "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Meta investigó el cerebro de los niños para crear productos que los engancharan, dice la fiscal",
+      "link": "https://www.lavanguardia.com/vida/20260818/11616160/meta-investigo-cerebro-ninos-crear-productos-engancharan-fiscal.html",
+      "desc": "Arranca en el tribunal de Oakland (California) el gran juicio contra Facebook e Instagram, plataformas de la empresa de Mark Zuckerberg a las que se acusa de implementar herramientas para manipular la mente de los menores en beneficio de su negocio",
+      "date": "18 Aug 2026 19:28:55 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
+    {
+      "title": "El PP reclama “rearmar el Estado” en Ceuta para no depender de Rabat",
+      "link": "https://www.lavanguardia.com/politica/20260818/11616163/pp-reclama-rearmar-ceuta-depender-rabat.html",
+      "desc": "Gamarra y Vivas exigen reformas estructurales y el despliegue de Frontex",
+      "date": "18 Aug 2026 19:27:00 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
       "caso": "other"
     },
     {
@@ -103,6 +213,16 @@
       "caso": "other"
     },
     {
+      "title": "Muere el mago Juan Tamariz, artista de la ilusión y de lo estrafalario",
+      "link": "https://www.lavanguardia.com/cultura/20260818/11616154/muere-mago-juan-tamariz.html",
+      "desc": "Icono en España por su genio televisivo y su atípica presención, su fallecimiento fue confirmado por hija Ana con un mensaje en redes sociales",
+      "date": "18 Aug 2026 19:12:15 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
+    {
       "title": "Activado el 'Plan Venida 2026' para el traslado de la Virgen de Rocío",
       "link": "https://www.abc.es/espana/andalucia/rocio/activado-plan-venida-2026-traslado-virgen-rocio-20260818191150-nts.html",
       "desc": "El vicepresidente primero de la Junta y consejero de Presidencia, Sanidad y Emergencias, Antonio Sanz , ha activado este martes el Plan Venida 2026 , dispositivo planificado al amparo del Plan Territorial de Emergencias de Protección Civil de Andalucía, en Hue",
@@ -113,130 +233,10 @@
       "caso": "other"
     },
     {
-      "title": "Gran fiesta gastronómica a finales de agosto: mil tapas de anguila, queimada popular y París de Noia",
-      "link": "https://www.abc.es/espana/galicia/gran-fiesta-gastronomica-finales-agosto-mil-tapas-20260818190145-nt.html",
-      "desc": "El calendario festivo de finales de agosto suma una de las citas gastronómicas más destacadas del verano, una celebración declarada de Interés Turístico que rinde homenaje a la anguila y al aguardiente tradicional. Los actos principales se concentrarán durante",
-      "date": "Tue, 18 Aug 2026 19:01:45 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "El PSOE acusa a la primera ministra danesa de «derecha radical» por alinearse con Meloni ante la crisis de Ceuta",
-      "link": "https://www.abc.es/espana/psoe-acusa-primera-ministra-danesa-derecha-radical-20260818183003-nt.html",
-      "desc": "El vicepresidente del Parlamento Europeo y miembro del PSC-PSOE, Javier López, y el responsable de Exteriores del Partito Democratico (PD) de Italia, Peppe Provenzano, han cargado contra la también socialista primera ministra danesa, Mette Frederiksen, por ali",
-      "date": "Tue, 18 Aug 2026 18:30:03 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "El virus del Nilo sigue avanzando en Extremadura que notifica seis nuevos contagios y suma un total de 17",
-      "link": "https://www.abc.es/espana/extremadura/virus-nilo-sigue-avanzando-extremadura-notifica-seis-20260818182611-nt.html",
-      "desc": "El virus del Nilo Occidental sigue sumando casos en Extremadura. El Servicio Extremeño de Salud (SES) ha detectado seis nuevos contagios en la región, todos ellos localizados en las localidades de Don Benito y Santa Amalia, dentro del Área de Salud de Don Beni",
-      "date": "Tue, 18 Aug 2026 18:26:12 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Rull alerta del riesgo de un independentismo «etnicista» ante el auge de Aliança Catalana",
-      "link": "https://www.abc.es/espana/cataluna/rull-alerta-riesgo-independentismo-etnicista-ante-auge-20260818181851-nt.html",
-      "desc": "El presidente del Parlament catalán, Josep Rull (Junts), ha lanzado este martes una advertencia al independentismo ante el avance de los discursos identitarios y antiinmigración que han acompañado el auge de Aliança Catalana: «Los que hacen un planteamiento et",
-      "date": "Tue, 18 Aug 2026 18:18:51 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Los transportistas y el PP protestan por «el deterioro» y los cortes de la A-6 en pleno agosto",
-      "link": "https://www.abc.es/espana/galicia/transportistas-pp-protestan-deterioro-cortes-pleno-agosto-20260818181533-nt.html",
-      "desc": "La Federación Gallega de Transporte de Mercancías (Fegatramer) ha trasladado al Ministerio de Transportes y Movilidad Sostenible su «profunda preocupación y repulsa» por la situación en la que está la autovía A-6, que ha derivado en un «problema estructural co",
-      "date": "Tue, 18 Aug 2026 18:15:33 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Detenido tras ser sorprendido en una vivienda con más de 11.000 euros en efectivo, joyas y relojes en Salamanca",
-      "link": "https://www.abc.es/espana/castilla-leon/detenido-tras-sorprendido-vivienda-11000-euros-efectivo-20260818180857-nt.html",
-      "desc": "La Policía Nacional ha detenido en Salamanca a un varón como presunto autor de un delito de robo con fuerza tras ser sorprendido en el interior de una vivienda, de la que huyó al verse descubierto, y al que se han intervenido 11.730 euros en efectivo, joyas, r",
-      "date": "Tue, 18 Aug 2026 18:08:58 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Galicia desactiva la alerta roja por calor: esta zona sigue en nivel naranja y bajan las temperaturas",
-      "link": "https://www.abc.es/espana/galicia/galicia-desactiva-alerta-roja-calor-zona-sigue-20260818180758-nt.html",
-      "desc": "El episodio de altas temperaturas que afecta a la comunidad comienza a remitir. Galicia afronta la jornada de este miércoles sin ninguna comarca bajo alerta roja por calor extremo, si bien la zona de Valdeorras permanece en nivel de aviso naranja, según los da",
-      "date": "Tue, 18 Aug 2026 18:07:58 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Los cuidadores de los Patios de Córdoba denuncian el retraso en los pagos de los premios accésit del pasado concurso",
-      "link": "https://www.abc.es/espana/andalucia/cordoba/cuidadores-patios-cordoba-denuncian-retraso-pagos-premios-20260818180205-nts.html",
-      "desc": "La Asociación de Patios de Córdoba 'Claveles y Gitanillas' denuncian el retraso «injustificado» de los pagos de los premios accésit a los cuidadores y propietarios por participar en la última edición de los Patios. A su juicio, «los Patios de Córdoba represent",
-      "date": "Tue, 18 Aug 2026 18:02:06 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Muere un bombero y un trabajador en el incendio de un taller en Calatorao (Zaragoza)",
-      "link": "https://www.abc.es/espana/aragon/muere-bombero-diputacion-zaragoza-calatorao-extincion-incendio-20260818180205-nt.html",
-      "desc": "Dos personas han muerto este martes en un incendio en un taller de la localidad de Calatorao, en la Comarca de Valdejalón (Zaragoza). La primera víctima es un bombero de la Diputación Provincial de Zaragoza (DPZ) que estaba trabajando en las labores de extinci",
-      "date": "Tue, 18 Aug 2026 18:02:06 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "OpenAI lanza 'ChatGPT para adolescentes', una versión más protegida y orientada al aprendizaje",
-      "link": "https://www.lavanguardia.com/vida/20260818/11616105/openai-lanza-chatgpt-adolescentes-version-mas-protegida-orientada-aprendizaje.html",
-      "desc": "Los adultos podrán utilizar un control parental, aunque esta modalidad no está de momento disponible para la Unión Europea",
-      "date": "18 Aug 2026 17:39:54 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "Granada, 1431: dos seísmos mayores que los actuales causaron destrozos en la Alhambra",
-      "link": "https://www.lavanguardia.com/historiayvida/edad-media/20260818/11616103/granada-1431-dos-terremotos-cerca-magnitud-7-hicieron-temblar-sur-andaluz.html",
-      "desc": "Un temblor en abril de magnitud 6,7 y un segundo sismo en julio de magnitud 6,8 dejaron un caudal de destrozos recogidos por las crónicas de la época",
-      "date": "18 Aug 2026 17:28:11 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "Granada tiembla otra vez: ¿Por qué hay tantos terremotos?",
-      "link": "https://www.lavanguardia.com/vida/20260818/11616095/granada-tiembla-vez-hay-tantos-terremotos.html",
-      "desc": "La ciencia estudia si el clima extremo activa seísmos como el de hoy con epicentro en Gójar&nbsp;",
-      "date": "18 Aug 2026 17:11:20 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "Trump proclama Ormuz como “territorio de EE.UU.” en su red social",
-      "link": "https://www.lavanguardia.com/internacional/20260818/11616049/trump-proclama-ormuz-territorio-ee-uu-red-social.html",
-      "desc": "Su sugerencia sobre Ormuz llega en un momento en el que una salida pacífica al conflicto entre Irán y Estados Unidos parece más lejana que nunca",
-      "date": "18 Aug 2026 15:41:19 +0200",
+      "title": "Bruselas recuerda que es posible la devolución de los menores a Marruecos con condiciones",
+      "link": "https://www.lavanguardia.com/politica/20260818/11616152/bruselas-avala-devolucion-menores-acompanados-marruecos.html",
+      "desc": "La directiva de retornos exige unas condiciones de acogida en el país de origen",
+      "date": "18 Aug 2026 19:06:15 +0200",
       "source": "La Vanguardia",
       "color": "#8e44ad",
       "feedId": "LaVanguardia",
