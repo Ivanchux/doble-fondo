@@ -1,7 +1,177 @@
 {
-  "updated": "2026-08-18T12:34:47Z",
+  "updated": "2026-08-18T14:27:29Z",
   "count": 24,
   "items": [
+    {
+      "title": "Valencia anuncia restricciones por la alerta roja de calor extremo para este miércoles 19 de agosto",
+      "link": "https://www.abc.es/espana/comunidad-valenciana/valencia-anuncia-restricciones-alerta-roja-calor-extremo-20260818160210-nt.html",
+      "desc": "El Ayuntamiento de Valencia ha constituido este martes el Cecopal ante la alerta roja decretada por la Generalitat Valenciana para este miércoles 19 de agosto por las altas temperaturas, que podrían alcanzar los 44 grados según el pronóstico de Aemet. La alcal",
+      "date": "Tue, 18 Aug 2026 16:02:10 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Bruselas avala el retorno a Marruecos de los menores inmigrantes no acompañados que permanezcan en Ceuta",
+      "link": "https://www.abc.es/espana/bruselas-avala-retorno-marruecos-menores-migrantes-acompanados-20260818160127-nt.html",
+      "desc": "La Comisión Europea ha defendido este martes que todos los migrantes que permanecen ilegalmente en Ceuta sean retornados a Marruecos, incluidos los menores extranjeros no acompañados que cruzaron a la ciudad autónoma, alegando que el derecho de la Unión Europe",
+      "date": "Tue, 18 Aug 2026 16:01:28 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "El Gobierno pide a la Junta «tomar medidas» para evitar tragedias como la del Bierzo",
+      "link": "https://www.abc.es/espana/castilla-leon/gobierno-pide-junta-tomar-medidas-evitar-tragedias-20260818153226-nt.html",
+      "desc": "De llamada a la colaboración a las acusaciones y exigencias. Apenas han pasado 48 horas desde que la riada de la pedanía berciana de Manzanedo de Valdueza se llevara por delante la vida de dos mujeres, María Concepción y María Begoña, y dejara cuatro heridos -",
+      "date": "Tue, 18 Aug 2026 15:32:26 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "El PP pregunta al Gobierno por qué financió el acto «de acceso restringido» del eclipse en Yebes",
+      "link": "https://www.abc.es/espana/castilla-la-mancha/pp-pregunta-gobierno-financio-acto-acceso-restringido-20260818151412-nt.html",
+      "desc": "El diputado nacional del PP por Guadalajara, Antonio Román, ha pedido al Gobierno de España «explicaciones detalladas» sobre la organización, el coste y el despliegue de recursos públicos destinado al acto institucional celebrado el pasado 12 de agosto en el O",
+      "date": "Tue, 18 Aug 2026 15:14:13 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "La Xunta tacha de «inadmisible» una multa de 3,5 millones por el programa de auxiliares de conversación",
+      "link": "https://www.abc.es/espana/galicia/xunta-tacha-inadmisible-multa-millones-programa-auxiliares-20260818150757-nt.html",
+      "desc": "El conflicto generado por las inspecciones y multas del Ministerio de Trabajo por el programa de auxiliares de conversación que convoca el Ministerio de Educación ha derivado en una multa de 3,5 millones a Galicia, que fue comunicada hace «unos días» y que el ",
+      "date": "Tue, 18 Aug 2026 15:07:58 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Wizz Air inicia su operativa nacional y establece una primera ruta que conecta Santiago de Compostela con Tenerife Norte",
+      "link": "https://www.abc.es/espana/canarias/wizz-air-inicia-operativa-nacional-establece-primera-20260818145503-nt.html",
+      "desc": "La aerolínea Wizz Air en España ha puesto en marcha la primera ruta doméstica con el aeropuerto de Tenerife Norte, conectando la isla con Santiago de Compostela . El Cabildo de Tenerife ha valorado positivamente el inicio de las operaciones nacionales de la ae",
+      "date": "Tue, 18 Aug 2026 15:04:44 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Flick elige a Raphinha como capitán del Barça ante la lesión de De Jong",
+      "link": "https://www.lavanguardia.com/deportes/futbol/20260818/11616026/flick-elige-raphinha-capitan-barca-lesion-jong.html",
+      "desc": "Con el neerlandés lesionado y a la espera de que se cierre la plantilla, el entrenador asciende a Raphinha como portador número 1 del brazalete",
+      "date": "18 Aug 2026 14:59:28 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
+    {
+      "title": "Las exportaciones de Castilla y León crecen un 6,6% en el primer semestre, hasta los 10.985,5 millones",
+      "link": "https://www.abc.es/espana/castilla-leon/exportaciones-castilla-leon-crecen-primer-semestre-109855-20260818145810-nt.html",
+      "desc": "Castilla y León exportó productos durante el primer semestre del año por 10.985,5 millones de euros, lo que supone un crecimiento del 6,6 por ciento respecto al mismo periodo de 2025, frente a un aumento en España del dos por ciento, con 201.134 millones. La a",
+      "date": "Tue, 18 Aug 2026 14:58:10 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Un exprimer ministro islamista marroquí pide a Mohamed VI explicaciones por el asalto a Ceuta",
+      "link": "https://www.abc.es/espana/lider-oposicion-marroqui-pide-mohamed-explicaciones-asalto-20260818133914-nt.html",
+      "desc": "Abdelilah Benkirane , secretario general del Partido Justicia y Desarrollo — partido islamista moderado— y uno de los principales líderes de la oposición marroquí, se pronunció este lunes en un vídeo a través de su página de Facebook sobre el asalto masivo a l",
+      "date": "Tue, 18 Aug 2026 14:55:23 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Muere un marinero tras sufrir un accidente en un pesquero faenando cerca de las islas Cíes",
+      "link": "https://www.abc.es/espana/galicia/muere-marinero-tras-sufrir-accidente-pesquero-faenando-20260818145425-nt.html",
+      "desc": "Un marinero de 61 años, del buque 'Playa de Cesantes', ha perdido la vida tras sufrir un accidente con la maquinilla (un mecanismo de alta potencia situado en la cubierta del barco para manejar los aparejos) cuando faenaba cerca de las islas Cíes. Según indica",
+      "date": "Tue, 18 Aug 2026 14:54:25 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "El Ayuntamiento destaca el «lleno en los conciertos» y hace un balance «muy positivo» de las fiestas de agosto",
+      "link": "https://www.abc.es/espana/castilla-la-mancha/toledo/ayuntamiento-destaca-lleno-conciertos-balance-positivo-fiestas-20260818144837-nt.html",
+      "desc": "El Ayuntamiento de Toledo ha hecho un balance «muy positivo» de las fiesstas de agosto de Toledo. Los conciertos de Pole, Mallo, Mauri, Lucía Santiago y los DJ locales llenaron el sábado tanto el recinto de La Peraleda como la Plaza del Ayuntamiento, según un ",
+      "date": "Tue, 18 Aug 2026 14:48:38 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Así viven los policías destinados en Ceuta: una habitación para siete, un baño para 70 y sin aire acondicionado",
+      "link": "https://www.abc.es/espana/viven-policias-destinados-ceuta-habitacion-siete-solo-20260818144559-nt.html",
+      "desc": "A raíz de lo sucedido la entrada ilegal de alrededor de 80.000 personas el 30 y 31 de julio en la ciudad autónoma de Ceuta , el Gobierno de Pedro Sánchez aumentó los efectivos policiales para mantener la seguridad en la ciudad y evitar que se repita el suceso ",
+      "date": "Tue, 18 Aug 2026 14:46:32 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Los siete terremotos de Granada dejan daños materiales y mucho miedo, pero sólo tres heridos leves",
+      "link": "https://www.abc.es/espana/andalucia/granada/siete-terremotos-granada-dejan-danos-materiales-miedo-20260818143140-nts.html",
+      "desc": "Un día de continuos sobresaltos, con siete terremotos a lo largo de la mañana, cuatro de ellos de intensidad superior a los cuatro grados, deja en Granada incidencias diversas, desalojo de edificios oficiales y monumentos, doce asistencias sanitarias, más de 5",
+      "date": "Tue, 18 Aug 2026 14:40:19 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "El Córdoba CF lleva El Arcángel al siguiente nivel: más aforo, comodidad y experiencias para el cordobesismo",
+      "link": "https://www.abc.es/espana/andalucia/cordoba/cordoba-cf/cordoba-lleva-arcangel-siguiente-nivel-aforo-comodidad-20260818141621-nts.html",
+      "desc": "El Córdoba CF continúa dando pasos en la modernización de El Arcángel. A pocos días de que el estadio abra sus puertas para el primer partido como local de la temporada 2026-2027 ante el Girona, la entidad blanquiverde ha dado a conocer las últimas actuaciones",
+      "date": "Tue, 18 Aug 2026 14:34:12 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Vox presentará alegaciones al decreto de biometanización por sus «excepciones y ambigüedades»",
+      "link": "https://www.abc.es/espana/castilla-la-mancha/vox-presentara-alegaciones-decreto-biometanizacion-excepciones-ambiguedades-20260818142834-nt.html",
+      "desc": "Vox presentará un paquete de alegaciones al borrador del decreto de biometanización que tramita el Gobierno de Castilla-La Mancha al considerar que introduce un «coladero de ambigüedades» mediante coletillas como «siempre que sea posible» o «de forma excepcion",
+      "date": "Tue, 18 Aug 2026 14:28:35 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "'Baloncesto por la ELA' reunirá en León al Real Madrid y al Baskonia",
+      "link": "https://www.abc.es/espana/castilla-leon/baloncesto-ela-reunira-leon-real-madrid-baskonia-20260818142525-nt.html",
+      "desc": "El Palacio de los Deportes de León acogerá el próximo 5 de septiembre la primera edición del Memorial Urbano González Escapa 'Baloncesto por la ELA', una cita deportiva de «alto nivel» con fines solidarios que enfrentará el Real Madrid y al Kosner Baskonia a l",
+      "date": "Tue, 18 Aug 2026 14:28:27 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Los colegios de la Sierra Oeste afrontan el nuevo curso con normalidad y sin daños por los incendios",
+      "link": "https://www.abc.es/espana/madrid/colegios-sierra-oeste-afrontan-nuevo-curso-normalidad-20260818142601-nt.html",
+      "desc": "Los colegios e institutos de las localidades más afectadas por los incendios de la Sierra Oeste del pasado mes de julio podrán abrir sus puertas en septiembre con normalidad. La Comunidad de Madrid ha concluido el plan de revisión de las infraestructuras educa",
+      "date": "Tue, 18 Aug 2026 14:26:02 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
     {
       "title": "Núñez implementará un modelo de gestión «cercano a los vecinos» si es presidente regional",
       "link": "https://www.abc.es/espana/castilla-la-mancha/nunez-implementara-modelo-gestion-cercano-vecinos-presidente-20260818142329-nt.html",
@@ -23,9 +193,19 @@
       "caso": "other"
     },
     {
+      "title": "Terremoto en Granada, última hora en directo: nuevas réplicas tras el seísmo de 4,8, más de 500 llamadas al 112 y desalojos en edificios y monumentos",
+      "link": "https://www.lavanguardia.com/local/andalucia/20260818/11615877/nuevo-terremoto-magnitud-4-7-granada-sigue-ultima-hora-directo-hoy.html",
+      "desc": "Los terremotos también han obligado a tomar medidas preventivas en algunos de los lugares con mayor afluencia del área metropolitana",
+      "date": "18 Aug 2026 14:22:20 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
+    {
       "title": "El Supremo resuelve que cambiarse de sexo no anula una condena previa por violencia de género",
       "link": "https://www.abc.es/espana/comunidad-valenciana/supremo-resuelve-cambiarse-sexo-anula-condena-previa-20260818141657-nt.html",
-      "desc": "La Sala Penal del Tribunal Supremo destaca en una sentencia que el cambio de sexo no tiene efectos retroactivos que permitan anular una condena previa por violencia de género sobre la mujer que fue su expareja sentimental por hechos cometidos cuando la persona",
+      "desc": "El Tribunal Supremo ha cerrado la puerta a utilizar un cambio de sexo para esquivar una condena por violencia de género cuando la modificación registral se haya producido después del delito. En una sentencia relativa a un caso de maltrato ocurrido en Castellón",
       "date": "Tue, 18 Aug 2026 14:16:57 +0200",
       "source": "ABC",
       "color": "#c0392b",
@@ -43,53 +223,13 @@
       "caso": "other"
     },
     {
-      "title": "El Festival Celestina vuelve a La Puebla pendiente del salto al Interés Nacional: aquí toda la programación",
-      "link": "https://www.abc.es/espana/castilla-la-mancha/toledo/pueblos/festival-celestina-vuelve-puebla-pendiente-salto-interes-20260818140437-nt.html",
-      "desc": "A solo 33 kilómetros de Toledo, La Puebla de Montalbán se convierte durante diez días en un enorme escenario teatral . Sus calles, plazas, patios, edificios históricos y, especialmente, sus cuevas se llenarán de actores, música y espectadores desde el próximo ",
-      "date": "Tue, 18 Aug 2026 14:04:37 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Última hora del terremoto en Granada | Tres heridos leves, cierre de la Alhambra y situación tras el seísmo de 4,7",
-      "link": "https://www.lavanguardia.com/local/andalucia/20260818/11615877/nuevo-terremoto-magnitud-4-7-granada-sigue-ultima-hora-directo-hoy.html",
-      "desc": "Se han desalojado “temporalmente” los Palacios Nazaríes y la Alcazaba de la Alhambra tras el seísmo",
-      "date": "18 Aug 2026 14:04:34 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
       "title": "El CGPJ pide refuerzos en Ceuta para “hacer frente a la crisis migratoria”",
       "link": "https://www.lavanguardia.com/politica/20260818/11615975/jueces-piden-refuerzos-ceuta-frente-crisis-migratoria.html",
-      "desc": "El CGPJ ve preciso un refuerzo de dos magistrados/as para el servicio de guardia y la plaza con competencia en materia de violencia sobre la mujer&nbsp;",
+      "desc": "El CGPJ ve preciso un refuerzo de dos magistrados para el servicio de guardia y la plaza con competencia en materia de violencia sobre la mujer&nbsp;",
       "date": "18 Aug 2026 14:04:25 +0200",
       "source": "La Vanguardia",
       "color": "#8e44ad",
       "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "La Generalitat Valenciana acusa al Gobierno de «condenar a muerte» al Imserso",
-      "link": "https://www.abc.es/espana/comunidad-valenciana/generalitat-valenciana-acusa-gobierno-condenar-muerte-imserso-20260818134631-nt.html",
-      "desc": "La consellera de Industria, Turismo, Innovación y Comercio, Marián Cano, ha acusado al Gobierno central de «condenar a muerte» el programa de Turismo Social del Imserso al mantener congeladas unas tarifas que, tal como han denunciado desde el sector hotelero d",
-      "date": "Tue, 18 Aug 2026 14:00:51 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "La investigación sobre la muerte del vecino de Arganza (León) determina que los presuntos autores son de su entorno más cercano",
-      "link": "https://www.abc.es/espana/castilla-leon/investigacion-sobre-muerte-vecino-arganza-leon-determina-20260818135515-nt.html",
-      "desc": "La investigación iniciada el pasado mes de mayo, tras el hallazgo del cuerpo sin vida de un vecino de la localidad berciana de Arganza (León) , determina que su fallecimiento no fue accidental y que detrás de ella están personas de su entorno más cercano . Así",
-      "date": "Tue, 18 Aug 2026 13:56:44 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
       "caso": "other"
     },
     {
@@ -100,146 +240,6 @@
       "source": "La Vanguardia",
       "color": "#8e44ad",
       "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "Una conocida cadena hotelera abre en Málaga 22 pisos turísticos: «El objetivo es acercar al viajero a sus calles, cultura y formas de vivir»",
-      "link": "https://www.abc.es/espana/andalucia/malaga/conocida-cadena-hotelera-abre-malaga-pisos-turisticos-20260818134842-nts.html",
-      "desc": "La cadena OD Hotels abre 22 apartamentos turísticos en pleno centro de Málaga . Ocean Drive es la marca de la cadena bajo la que se comercializan las estancias en estos estudios y apartamentos. Para ello, se ha rehabilitado un edificio histórico frente al parq",
-      "date": "Tue, 18 Aug 2026 13:48:42 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "'Entrelobos', la película que cuenta la vida del 'niño lobo' cordobés: «Es su historia de amor con la naturaleza»",
-      "link": "https://www.abc.es/espana/andalucia/cordoba/entrelobos-pelicula-cuenta-vida-nino-lobo-cordobes-20260818134515-nts.html",
-      "desc": "El cordobés Marcos Rodríguez Pantoja , conocido como el ' niño lobo de Sierra Morena', es tristemente noticia estos días por su fallecimiento en Orense a los 80 años de edad -nació en Añora en 1946-. Parte de la repercusión medíatica de su pérdida se debe, ade",
-      "date": "Tue, 18 Aug 2026 13:45:16 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "El Gobierno pasa al ataque contra el PP y Ceuta para tapar su falta de gestión en la crisis",
-      "link": "https://www.abc.es/espana/gobierno-pasa-ataque-pp-ceuta-tapar-falta-20260818134402-nt.html",
-      "desc": "Hasta la llegada de la ministra de Sanidad a la ciudad de Ceuta, 18 días después del inicio de la invasión, la lealtad y colaboración institucional entre las distintas administraciones implicadas era real y funcionaba. Con más o menos acierto, el Gobierno de E",
-      "date": "Tue, 18 Aug 2026 13:44:02 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "La Justicia concluye que el técnico de Mislata no estaba obligado a inspeccionar el hinchable que mató a dos niñas",
-      "link": "https://www.abc.es/espana/comunidad-valenciana/justicia-concluye-tecnico-mislata-obligado-inspeccionar-hinchable-20260818133053-nt.html",
-      "desc": "La Sección Tercera de la Audiencia Provincial de Valencia ha rechazado procesar definitivamente al técnico municipal del Ayuntamiento de Mislata por la tragedia del hinchable que salió volando el 4 de enero de 2022 y que acabó con la vida de Vera y Cayetana, d",
-      "date": "Tue, 18 Aug 2026 13:34:23 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Oficial y confirmado: la DGT sancionará a quienes usen el limpiaparabrisas mientras conducen",
-      "link": "https://www.abc.es/espana/andalucia/oficial-confirmado-dgt-sancionara-usen-limpiaparabrisas-conducen-20260818231035-nts.html",
-      "desc": "Al volante, es fácil cometer pequeñas infracciones sin ser realmente conscientes de ello. Y es que gestos que forman parte de la conducción diaria y que muchos conductores realizan por costumbre pueden no estar permitidos por el Reglamento General de Circulaci",
-      "date": "Tue, 18 Aug 2026 13:32:48 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Vox pide a Sánchez una alternativa a la tasa turística que no ponga impuestos a los andaluces",
-      "link": "https://www.abc.es/espana/andalucia/malaga/vox-pide-sanchez-alternativa-tasa-turistica-ponga-20260818130724-nts.html",
-      "desc": "Vicepresidente y consejero de Turismo, Justicia, Desregulación y Administración Local de la Junta de Andalucía, Manuel Gavira , ha pedido al presidente del Gobierno una alternativa a la tasa turística . Además ha explicado que se podría crear un nuevo modelo d",
-      "date": "Tue, 18 Aug 2026 13:30:57 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Testimonios del terremoto de Granada: “Fue como un zambombazo que duró apenas un segundo, pero se hizo eterno”",
-      "link": "https://www.lavanguardia.com/vida/20260818/11615925/testimonios-terremoto-granada-zambombazo-duro-apenas-segundo-hizo-eterno.html",
-      "desc": "“El miedo que se pasa es muy difícil de describir”, relatan los vecinos, algunos de los cuales lo han percibido como más intenso que el del sábado",
-      "date": "18 Aug 2026 13:30:42 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "Condenan a 25 años de prisión un monitor de artes marciales por agresión sexual a dos niñas",
-      "link": "https://www.abc.es/espana/andalucia/almeria/condenan-anos-prision-monitor-artes-marciales-agredir-20260818130013-nts.html",
-      "desc": "La Audiencia Provincial ha condenado a 25 años y cinco meses de prisión a un monitor de artes marciales de El Ejido que agredió sexualmente a dos alumnas de cuatro años de edad en el gimnasio donde impartía sus clases, además allí tomó imágenes de al menos una",
-      "date": "Tue, 18 Aug 2026 13:26:04 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "El Gobierno esquiva definitivamente al Senado para blindar su relato de Ceuta en el Congreso",
-      "link": "https://www.lavanguardia.com/politica/20260818/11615935/gobierno-esquiva-senado-blindar-relato-ceuta-congreso.html",
-      "desc": "La maniobra carece de consecuencias legales, aunque el PP lo elevará al Constitucional, pero margina la funcionalidad de la Cámara Alta&nbsp;",
-      "date": "18 Aug 2026 13:21:24 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "Almonte cuenta las horas para la llegada de la Virgen del Rocío",
-      "link": "https://www.abc.es/espana/andalucia/rocio/almonte-cuenta-horas-llegada-virgen-rocio-20260818131724-nts.html",
-      "desc": "La aldea del Rocío y Almonte, como todos los rocieros, viven con intensidad la víspera de la Venida de la Virgen del Rocío , que este miércoles, como cada siete años, partirá por la tarde de su Santuario, ataviada con el traje de Pastora, para recorrer durante",
-      "date": "Tue, 18 Aug 2026 13:20:08 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "El triple crimen de Isla Cristina pone el foco en la violencia del narcotráfico",
-      "link": "https://www.lavanguardia.com/local/andalucia/20260818/11615921/triple-crimen-isla-cristina-pone-foco-violencia-narcotrafico.html",
-      "desc": "La Guardia Civil investiga un posible ajuste de cuentas entre dos familias tras el asesinato de una embarazada de ocho meses, su madre y un menor de 16 años&nbsp;",
-      "date": "18 Aug 2026 13:19:10 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "Castilla-La Mancha lidera con un 9% el crecimiento de las exportaciones en el primer semestre",
-      "link": "https://www.abc.es/espana/castilla-la-mancha/castillala-mancha-acelera-crecimiento-exportaciones-junio-subida-20260818131617-nt.html",
-      "desc": "﻿ Castilla-La Mancha lideró entre enero y junio de 2026 el crecimiento de las exportaciones entre las comunidades autónomas españolas. Las ventas de mercancías al exterior alcanzaron los 5.973,5 millones de euros durante el primer semestre, un 9% más que en el",
-      "date": "Tue, 18 Aug 2026 13:16:17 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "El esfuerzo para alquilar una vivienda sube en las cuatro provincias gallegas, con incrementos de hasta un 27%",
-      "link": "https://www.abc.es/espana/galicia/esfuerzo-alquilar-vivienda-sube-cuatro-provincias-gallegas-20260818131322-nt.html",
-      "desc": "El esfuerzo para alquilar una vivienda se ha disparado en las cuatro provincias gallegas, con incrementos que alcanzan en alguna provincia hasta el 27 por ciento, como el caso de Pontevedra. Los datos que manejan las principales inmobiliarias evidencian las di",
-      "date": "Tue, 18 Aug 2026 13:13:22 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Primeras licencias para construir 164 nuevas viviendas en este barrio de Valencia",
-      "link": "https://www.abc.es/espana/comunidad-valenciana/primeras-licencias-construir-164-nuevas-viviendas-barrio-20260818130606-nt.html",
-      "desc": "El concejal de Urbanismo, Vivienda y Licencias y alcalde en funciones de Valencia, Juan Giner, ha visitado este martes las obras del PAI de Moncayo en el barrio de La Raiosa, donde, tras la urbanización que ha acabado con la conocida como «acera de la muerte»,",
-      "date": "Tue, 18 Aug 2026 13:06:06 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
       "caso": "other"
     }
   ]
