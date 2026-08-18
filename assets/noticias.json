@@ -1,7 +1,27 @@
 {
-  "updated": "2026-08-18T20:16:51Z",
+  "updated": "2026-08-18T22:16:55Z",
   "count": 24,
   "items": [
+    {
+      "title": "Granada vuelve a sentir un temblor de 3,3 horas después de los terremotos",
+      "link": "https://www.abc.es/espana/andalucia/granada/terremoto-temblar-granada-noche-martes-20260818225525-nts.html",
+      "desc": "Un nuevo temblor de magnitud 3,3 ha vuelto a sacudir Granada en la noche de este martes. Según los datos del Instituto Geográfico Nacional (IGN), el leve terremoto ha tenido su epicentro en el municipio de Alhendín, a cinco kilómetros de profundidad, aunque se",
+      "date": "Tue, 18 Aug 2026 22:55:45 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "La Alhambra presenta daños de carácter leve, ninguno estructural, centrados en la Alcazaba",
+      "link": "https://www.lavanguardia.com/local/andalucia/20260818/11616201/alhambra-presenta-danos-caracter-leve-ninguno-estructural-centrados-alcazaba.html",
+      "desc": "Los expertos mantienen el trabajo de revisión para conocer el impacto de los seísmos en el monumento, que se ha desalojado este mediodía y permanece cerrado",
+      "date": "18 Aug 2026 22:21:34 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
     {
       "title": "El Córdoba CF amplía su radar pese al 'overbooking' en la delantera",
       "link": "https://www.abc.es/espana/andalucia/cordoba/cordoba-cf/cordoba-amplia-radar-pese-overbooking-delantera-20260818174557-nts.html",
@@ -217,26 +237,6 @@
       "link": "https://www.lavanguardia.com/cultura/20260818/11616154/muere-mago-juan-tamariz.html",
       "desc": "Icono en España por su genio televisivo y su atípica presención, su fallecimiento fue confirmado por hija Ana con un mensaje en redes sociales",
       "date": "18 Aug 2026 19:12:15 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "Activado el 'Plan Venida 2026' para el traslado de la Virgen de Rocío",
-      "link": "https://www.abc.es/espana/andalucia/rocio/activado-plan-venida-2026-traslado-virgen-rocio-20260818191150-nts.html",
-      "desc": "El vicepresidente primero de la Junta y consejero de Presidencia, Sanidad y Emergencias, Antonio Sanz , ha activado este martes el Plan Venida 2026 , dispositivo planificado al amparo del Plan Territorial de Emergencias de Protección Civil de Andalucía, en Hue",
-      "date": "Tue, 18 Aug 2026 19:11:51 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Bruselas recuerda que es posible la devolución de los menores a Marruecos con condiciones",
-      "link": "https://www.lavanguardia.com/politica/20260818/11616152/bruselas-avala-devolucion-menores-acompanados-marruecos.html",
-      "desc": "La directiva de retornos exige unas condiciones de acogida en el país de origen",
-      "date": "18 Aug 2026 19:06:15 +0200",
       "source": "La Vanguardia",
       "color": "#8e44ad",
       "feedId": "LaVanguardia",
