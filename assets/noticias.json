@@ -1,7 +1,187 @@
 {
-  "updated": "2026-08-18T06:34:01Z",
+  "updated": "2026-08-18T08:29:19Z",
   "count": 24,
   "items": [
+    {
+      "title": "La televisión pública À Punt retransmite esta semana los toros de Cuenca y Ciudad Real",
+      "link": "https://www.abc.es/espana/comunidad-valenciana/television-publica-punt-retransmite-semana-toros-cuenca-20260818101550-nt.html",
+      "desc": "La televisión pública valenciana À Punt ha cerrado una completa programación taurina para el último tramo del mes de agosto, que comienza esta semana con una doble cita en las plazas de toros de Ciudad Real y Cuenca. Después de su paso por la Fira de Juliol de",
+      "date": "Tue, 18 Aug 2026 10:15:51 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "La Policía identifica, por el momento, a 2.168 menores inmigrantes en la avalancha de Ceuta",
+      "link": "https://www.abc.es/espana/policia-identifica-2168-menores-inmigrantes-avalancha-ceuta-20260818100848-nt.html",
+      "desc": "El Ministerio del Interior ha informado que en la avalancha de Ceuta consiguieron entrar en España un total de 2.168 menores inmigrantes , según informan fuentes del departamento de Fernando Grande-Marlaska. Se han puesto a disposición del Gobierno de la ciuda",
+      "date": "Tue, 18 Aug 2026 10:08:48 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Desarticulan una red que cobraba 200 euros por llevar inmigrantes de Alicante a Francia",
+      "link": "https://www.abc.es/espana/comunidad-valenciana/alicante/desarticulan-red-cobraba-200-euros-llevar-inmigrantes-20260818100516-nt.html",
+      "desc": "La Policía Nacional, en colaboración con las autoridades francesas, ha desarticulado una red criminal dedicada a favorecer la inmigración irregular entre España y Francia. La investigación permitió detectar que la organización realizó más de 20 traslados front",
+      "date": "Tue, 18 Aug 2026 10:05:16 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "La Serranía conquense exige soluciones urgentes ante el «deficiente» servicio de recogida de residuos",
+      "link": "https://www.abc.es/espana/castilla-la-mancha/serrania-conquense-exige-soluciones-urgentes-ante-deficiente-20260818100252-nt.html",
+      "desc": "Los ayuntamientos de Portilla, Arcos de la Sierra, Castillejo de la Sierra, Fresneda de la Sierra, Villalba de la Sierra y Las Majadas, ubicados en la Serranía conquense, han reclamado a la Diputación Provincial de Cuenca soluciones urgentes ante las deficienc",
+      "date": "Tue, 18 Aug 2026 10:02:52 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Detienen a un ladrón por decapitar 80 codornices y 24 palomas en Vall d'Alba (Castellón)",
+      "link": "https://www.abc.es/espana/comunidad-valenciana/detienen-ladron-decapitar-codornices-palomas-vall-dalba-20260818095302-nt.html",
+      "desc": "La Guardia Civil de Vilafamés ha detenido a un hombre de 46 años por la comisión de un supuesto delito de robo con fuerza en las cosas y un delito de maltrato animal en la localidad de Vall d'Alba (Castellón). Los hechos tuvieron lugar el pasado día 7 de agost",
+      "date": "Tue, 18 Aug 2026 09:53:02 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Elma Saiz admite no saber cuántos inmigrantes ilegales quedan en Ceuta 19 días después",
+      "link": "https://www.abc.es/espana/elma-saiz-admite-saber-cuantos-inmigrantes-quedan-20260818095127-nt.html",
+      "desc": "«No manejo esos datos». Con esa frase ha respondido este martes Elma Saiz , ministra de Inclusión, Seguridad Social y Migraciones, en una entrevista en 'Hoy por Hoy', de la 'Cadena Ser', cuando se le ha preguntado por el número de inmigrantes ilegales que perm",
+      "date": "Tue, 18 Aug 2026 09:51:27 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Muere un trabajador al ser atropellado por un camión en Benavente (Zamora)",
+      "link": "https://www.abc.es/espana/castilla-leon/muere-trabajador-atropellado-camion-benavente-zamora-20260818095011-nt.html",
+      "desc": "Un trabajador, varón de unos 60 años , ha fallecido este martes al ser atropellado por un camión en la localidad zamorana de Benavente, según ha informado el servicio de emergencias 1-1-2 de Castilla y León. Ha sido hacia las cuatro de la madrugada cuando emer",
+      "date": "Tue, 18 Aug 2026 09:50:57 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "No pensar nunca en la muerte",
+      "link": "https://www.abc.es/espana/andalucia/cordoba/jose-javier-amoros-pensar-nunca-muerte-20260818094832-nts.html",
+      "desc": "En las grandes conmociones, siempre acudimos a Dios, además de respetar los subjuntivos, para complacer a Paul Valéry. La muerte es la más grande conmoción, y hay que recibirla con estilo. Dios es estilo, y por eso nos dio el lenguaje . Aunque no sea cierto, m",
+      "date": "Tue, 18 Aug 2026 09:48:32 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Este actor nacido en Madrid ya considera Galicia su «terriña»",
+      "link": "https://www.abc.es/espana/galicia/actor-nacido-madrid-considera-galicia-terrina-20260818094724-nt.html",
+      "desc": "El actor Maxi Iglesias vuelve a tener a Galicia como protagonista de su verano. A través de un vídeo publicado en sus redes sociales, el intérprete ha repasado algunos de los momentos vividos durante sus vacaciones en la comunidad, con un mensaje que resume su",
+      "date": "Tue, 18 Aug 2026 09:47:24 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Córdoba capital suma dos años con ventas de pisos superiores a los de la burbuja inmobiliaria",
+      "link": "https://www.abc.es/espana/andalucia/cordoba/cordoba-capital-suma-dos-anos-ventas-pisos-20260818134751-nts.html",
+      "desc": "La compraventa de viviendas en Córdoba capital resiste a la subida de los precios y a las dificultades de acceso al mercado y mantiene una evolución positiva. La ciudad cerró 2025 con 5.630 operaciones , la cifra más elevada de la serie histórica que recoge el",
+      "date": "Tue, 18 Aug 2026 09:46:31 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "'Fuenteovejuna' regresa desde este martes con una propuesta «novedosa»",
+      "link": "https://www.abc.es/espana/andalucia/cordoba/fuenteovejuna-regresa-martes-propuesta-novedosa-20260818094529-nts.html",
+      "desc": "Cita grande con la cultura desde este martes en la provincia de Córdoba : regresa ' Fuenteovejuna ', uno de los máximos exponentes del teatro propular . Como es habitual dos años después regresa a este municipio el clásico de Lope de Vega —se publicó en 1619 y",
+      "date": "Tue, 18 Aug 2026 09:45:29 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Dos personas investigadas tras hallar 55 plantas de marihuana en un bar de Casasimarro (Cuenca)",
+      "link": "https://www.abc.es/espana/castilla-la-mancha/dos-personas-investigadas-tras-hallar-plantas-marihuana-20260818094250-nt.html",
+      "desc": "La Guardia Civil de Cuenca está investigando a dos personas, de 60 y 37 años de edad, por un presunto delito contra la salud pública, tras descubrir 55 plantas de marihuana en el patio de un bar de Casasimarro (Cuenca). El hallazgo se produjo el pasado mes de ",
+      "date": "Tue, 18 Aug 2026 09:42:50 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Dos detenidos por arrancar joyas a ancianas en lugares poco transitados de Sueca",
+      "link": "https://www.abc.es/espana/comunidad-valenciana/dos-detenidos-arrancar-joyas-ancianas-lugares-poco-20260818094105-nt.html",
+      "desc": "La Guardia Civil ha detenido a dos personas, una de ellas como autor material de los robos con violencia, ya que presuntamente arrancaba las joyas a sus víctimas, mujeres de avanzada edad, llegando a provocar lesiones, y otro como autor de un delito de recepta",
+      "date": "Tue, 18 Aug 2026 09:41:06 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "La candidatura de Txema Fernández, a la espera de la Asamblea de IU Toledo el mes que viene",
+      "link": "https://www.abc.es/espana/castilla-la-mancha/toledo/candidatura-txema-fernandez-espera-asamblea-iu-toledo-20260818093025-nt.html",
+      "desc": "La candidatura del actual portavoz del Grupo Municipal de Izquierda Unida en el Ayuntamiento de Toledo, Txema Fernández, a la Alcaldía o la confluencia de las fuerzas de izquierdas en la ciudad dependerá de lo que decida la formación de izquierdas en la Asambl",
+      "date": "Tue, 18 Aug 2026 09:30:26 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Última hora en Ceuta, en directo: decenas de inmigrantes logran saltar a la Península y noticias sobre la crisis migratoria hoy",
+      "link": "https://www.abc.es/espana/ultima-hora-ceuta-directo-decenas-inmigrantes-logran-20260818091559-di.html",
+      "desc": "Sigue en directo la última hora y las noticias más recientes de la crisis migratoria en Ceuta .",
+      "date": "Tue, 18 Aug 2026 09:15:59 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Dónde ir de fiesta este martes 18 de agosto en la provincia de Toledo",
+      "link": "https://www.abc.es/espana/castilla-la-mancha/toledo/pueblos/fiesta-martes-agosto-provincia-toledo-20260818070000-nt.html",
+      "desc": "Quintanar de la Orden -A las 10,30 horas: concurso de calderetas -A las 12,30 horas: concierto de pasodobles con la Banda Sinfónica Municipal. -A las 13,30 horas: baile del vermú amenizado por 'Reflexión'. -A las 14,00 horas: degustación de calderetas -A las16",
+      "date": "Tue, 18 Aug 2026 09:02:41 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "«Se nota mucho la falta de Mateo»: dos años después, «la herida sigue abierta» en Mocejón",
+      "link": "https://www.abc.es/espana/castilla-la-mancha/toledo/pueblos/nota-falta-mateo-dos-anos-despues-herida-20260817085659-nt.html",
+      "desc": "Han pasado dos años, pero en el pueblo toledano de Mocejón el tiempo no ha conseguido cerrar las heridas. El recuerdo de Mateo sigue presente en el pueblo y, sobre todo, en una familia que intenta reconstruir su vida con un hueco que ya nadie podrá llenar . Aq",
+      "date": "Tue, 18 Aug 2026 08:56:59 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Galicia encara otra jornada de calor extremo tras los 41 grados de ayer en Salvaterra",
+      "link": "https://www.abc.es/espana/galicia/galicia-encara-jornada-calor-extremo-tras-grados-20260818083105-nt.html",
+      "desc": "Galicia afronta este martes una nueva jornada de calor extremo, con previsiones que apuntan a que podrían superarse los 42 grados en la provincia de Orense, mientras que toda la de Pontevedra se mantendrá por encima de los 36. El episodio llega después de que ",
+      "date": "Tue, 18 Aug 2026 08:31:06 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
     {
       "title": "Expertos alertan: «En Granada puede haber otro terremoto de grado 5, pero es imposible precisar cuándo»",
       "link": "https://www.abc.es/espana/andalucia/granada/granada-puede-haber-terremoto-grado-imposible-precisar-20260818120307-nts.html",
@@ -60,186 +240,6 @@
       "source": "La Vanguardia",
       "color": "#8e44ad",
       "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "Las grandes petroleras duplican sus beneficios gracias a la crisis de Irán",
-      "link": "https://www.lavanguardia.com/economia/20260818/11615530/grandes-petroleras-duplican-beneficios-gracias-crisis-iran.html",
-      "desc": "Las empresas energéticas mundiales disparan su liquidez a máximos históricos",
-      "date": "18 Aug 2026 06:00:00 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "El Gobierno reorienta su gestión en Ceuta: asegurada la frontera, planifica la acogida",
-      "link": "https://www.lavanguardia.com/politica/20260818/11615550/gobierno-reorienta-gestion-ceuta-asegurada-frontera-planifica-acogida.html",
-      "desc": "Migraciones despliega cuatro nuevos centros para dar techo a 1.500 migrantes",
-      "date": "18 Aug 2026 06:00:00 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "Siria: sobrevivir en la tierra reventada",
-      "link": "https://www.lavanguardia.com/internacional/20260818/11615479/sobrevivir-tierra-reventada.html",
-      "desc": "El desarrollo inmobiliario de los arrabales arrasados de Damasco es una amenaza para la población y el nuevo régimen",
-      "date": "18 Aug 2026 06:00:00 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "“En el secuestro no sabía que mi familia había sido asesinada, yo sobrevivía por ellas”",
-      "link": "https://www.lavanguardia.com/cultura/20260818/11615394/secuestro-sabia-mi-familia-habia-sido-asesinada-sobrevivia.html",
-      "desc": "Eli Sharabi fue capturado por Hamas el 7 de octubre del 2023 y cuenta su experiencia en 'Rehén'",
-      "date": "18 Aug 2026 06:00:00 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "El calor 'funde' el Mont Blanc, vedado a los montañeros",
-      "link": "https://www.lavanguardia.com/natural/20260818/11615495/mont-blanc-echa-cierre-calor-plena-crisis-glaciares.html",
-      "desc": "Los Alpes europeos son una de las regiones donde las corrientes de hielo se reducen más rápidamente&nbsp;",
-      "date": "18 Aug 2026 06:00:00 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "Los restos del incendio de Les Gavarres: el bosque quemado que la noche no deja ver",
-      "link": "https://www.lavanguardia.com/local/barcelona/20260818/11615265/bosque-quemado-noche-deja-ver.html",
-      "desc": "La Ganga une Calonge con La Bisbal d’Empordà en dieciséis kilómetros. Hoy es una radiografía del incendio y casi nadie recuerda el desastre",
-      "date": "18 Aug 2026 06:00:00 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "Indonesios desafían a la gravedad en la carrera de los postes engrasados",
-      "link": "https://www.lavanguardia.com/internacional/20260818/11615523/indonesia-independencia-carrera.html",
-      "desc": "La tradicional Panjat Pinang reúne cada 17 de agosto a equipos que compiten por alcanzar los premios colocados en lo alto de un poste",
-      "date": "18 Aug 2026 06:00:00 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "“El gran cambio de mi vida fue provocar mis proyectos y no depender de la llamada exterior”",
-      "link": "https://www.lavanguardia.com/vivo/longevity/20260818/11606573/miriam-diaz-aroca-actriz-64-anos-telefono-nunca-dejo-sonar-gran-cambio-mi-vida-provocar-mis-propios-proyectos-depender-llamada-exterior.html",
-      "desc": "Actriz, presentadora, productora y guionista, Díaz Aroca es una mujer todoterreno y polifacética que ha sabido reinventarse y dirigir su carrera hacia donde ha querido",
-      "date": "18 Aug 2026 06:00:00 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "Ibiza renueva un verano más como codiciado escaparate internacional de los famosos",
-      "link": "https://www.lavanguardia.com/gente/20260818/11615540/ibiza-famosos-dicaprio-lamine-yamal-ricky-martin-verano.html",
-      "desc": "De Victoria Federica a Leonardo DiCaprio, de Jason Statham a Pablo Motos con Ilia Topuria y de Ester Expósito a los Beckham, la Isla Blanca se reivindica como reclamo de actores, cantantes y millonarios de medio mundo",
-      "date": "18 Aug 2026 06:00:00 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "Un vídeo de Assumpta Serna desata una ola de rabia por el sistema de dependencia",
-      "link": "https://www.lavanguardia.com/vida/20260818/11615470/denuncia-assumpta-serna-desata-ola-indignacion-sistema-dependencia-debemos-denunciar-falta-etica-administracion.html",
-      "desc": "El formulario que impulsó la actriz catalana para que los afectados incluyeran sus denuncias acumula ya más de 1.000 casos",
-      "date": "18 Aug 2026 06:00:00 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "Iván 'Melón' Lewis: «La situación en Cuba es  resultado de una nefasta manera de hacer las cosas»",
-      "link": "https://www.abc.es/espana/madrid/ivan-melon-lewis-situacion-cuba-resultado-nefasta-20260818024633-nt.html",
-      "desc": "El pianista cubano Iván 'Melón' Lewis, conocido por su alianza con Concha Buika hace más de una década y por sus brillantes colaboraciones con apellidos ilustres como Serrat, Perales o Sabina, va a capitanear este martes 18 de agosto (21.30h, 15 euros) una 'ja",
-      "date": "Tue, 18 Aug 2026 02:46:33 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "La impunidad del narco estalla con violencia extrema en los barrios andaluces",
-      "link": "https://www.abc.es/espana/andalucia/impunidad-narco-estalla-violencia-extrema-barrios-andaluces-20260818022147-nts.html",
-      "desc": "Dos encapuchados irrumpen en una calle del barrio del Rocío de Isla Cristina, suena la moto y una ráfaga de un subfusil. Las balas dejan en el suelo a todos los que estaban en esa plaza. Muere una señora, una embarazada y un chaval de 16 años que pasaba por al",
-      "date": "Tue, 18 Aug 2026 02:21:47 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Decenas de inmigrantes de la avalancha en Ceuta logran saltar a la Península",
-      "link": "https://www.abc.es/espana/decenas-inmigrantes-consiguen-escapar-ceuta-entrar-peninsula-20260818022047-nt.html",
-      "desc": "Las Fuerzas y Cuerpos de Seguridad del Estado han detectado que decenas de inmigrantes que accedieron a España en la avalancha de Ceuta del pasado 30 de julio han conseguido llegar a la Península, según informan fuentes policiales a ABC. Los agentes han descub",
-      "date": "Tue, 18 Aug 2026 02:20:47 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Un laberinto de 170 kilómetros de galerías subterráneas para 'alimentar' Madrid",
-      "link": "https://www.abc.es/espana/madrid/viaje-galerias-subterraneas-madrid-20260731021816-nt.html",
-      "desc": "En el subsuelo de la capital hay una red de túneles que te permiten llegar de Gran Vía o el Banco de España a las cinco torres o el Bernabéu sin salir a la superficie. Eso sí, entre una maraña de tuberías y cables por los que difícilmente caben, caminando codo",
-      "date": "Tue, 18 Aug 2026 02:18:16 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Cae una banda por robar hasta 76 catalizadores de coches aparcados en pueblos del este de Madrid",
-      "link": "https://www.abc.es/espana/madrid/cae-banda-robar-catalizadores-coches-aparcados-pueblos-20260817021741-nt.html",
-      "desc": "Durante la noche y bajando de un coche con una matrícula robada. Así operaba la banda criminal que ha sido desmantelada por la Guardia Civil que se dedicaba a robar catalizadores de vehículos aparcados en las calles de una veintena de municipios del este de la",
-      "date": "Tue, 18 Aug 2026 02:17:41 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "La Barcelona diplomática",
-      "link": "https://www.lavanguardia.com/opinion/20260818/11615510/casa-asia-upm-casa-america-pedralbes-barcelona.html",
-      "desc": "La casa Asia concluye su peregrinaje y se instalará en Pedralbes",
-      "date": "18 Aug 2026 00:00:00 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "Puerta Sevilla reabre con revolución: cocina renovada integralmente y nuevo jefe para sus fogones",
-      "link": "https://www.abc.es/espana/andalucia/cordoba/puerta-sevilla-reabre-revolucion-cocina-renovada-integralmente-20260817234033-nts.html",
-      "desc": "Restaurante Puerta Sevilla , un clásico de los fogones de Córdoba, ha informado de que reabre este martes , día 18, al público tras cerrar el 12 de julio para acometer una reforma integral de su cocina. La actuación , según ha informado este negocio de hostele",
-      "date": "Mon, 17 Aug 2026 23:40:34 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "La estremecedora vida del 'niño lobo' cordobés: «Yo cazaba. Golpeaba a ciervos y llamaba a la manada»",
-      "link": "https://www.abc.es/espana/andalucia/cordoba/estremecedora-vida-nino-lobo-cordobes-cazaba-golpeaba-20260817221838-nts.html",
-      "desc": "Marcos Rodríguez Pantoja , el niño lobo cordobés de Sierra Morena, falleció el sábado a los 80 años de edad, según se ha conocido este lunes. Su historia se reflejó en las páginas de ABC el 18 de abril de 2010 con motivo del rodaje de una película sobre él, di",
-      "date": "Mon, 17 Aug 2026 22:18:38 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
       "caso": "other"
     }
   ]
