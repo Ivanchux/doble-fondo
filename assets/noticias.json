@@ -1,7 +1,47 @@
 {
-  "updated": "2026-08-17T22:18:33Z",
+  "updated": "2026-08-18T00:55:38Z",
   "count": 24,
   "items": [
+    {
+      "title": "La impunidad del narco estalla con violencia extrema en los barrios andaluces",
+      "link": "https://www.abc.es/espana/andalucia/impunidad-narco-estalla-violencia-extrema-barrios-andaluces-20260818022147-nts.html",
+      "desc": "Dos encapuchados irrumpen en una calle del barrio del Rocío de Isla Cristina, suena la moto y una ráfaga de un subfusil. Las balas dejan en el suelo a todos los que estaban en esa plaza. Muere una señora, una embarazada y un chaval de 16 años que pasaba por al",
+      "date": "Tue, 18 Aug 2026 02:21:47 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Decenas de inmigrantes de la avalancha en Ceuta logran saltar a la Península",
+      "link": "https://www.abc.es/espana/decenas-inmigrantes-consiguen-escapar-ceuta-entrar-peninsula-20260818022047-nt.html",
+      "desc": "Las Fuerzas y Cuerpos de Seguridad del Estado han detectado que decenas de inmigrantes que accedieron a España en la avalancha de Ceuta del pasado 30 de julio han conseguido llegar a la Península, según informan fuentes policiales a ABC. Los agentes han descub",
+      "date": "Tue, 18 Aug 2026 02:20:47 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Un laberinto de 170 kilómetros de galerías subterráneas para 'alimentar' Madrid",
+      "link": "https://www.abc.es/espana/madrid/viaje-galerias-subterraneas-madrid-20260731021816-nt.html",
+      "desc": "En el subsuelo de la capital hay una red de túneles que te permiten llegar de Gran Vía o el Banco de España a las cinco torres o el Bernabéu sin salir a la superficie. Eso sí, entre una maraña de tuberías y cables por los que difícilmente caben, caminando codo",
+      "date": "Tue, 18 Aug 2026 02:18:16 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Cae una banda por robar hasta 76 catalizadores de coches aparcados en pueblos del este de Madrid",
+      "link": "https://www.abc.es/espana/madrid/cae-banda-robar-catalizadores-coches-aparcados-pueblos-20260817021741-nt.html",
+      "desc": "Durante la noche y bajando de un coche con una matrícula robada. Así operaba la banda criminal que ha sido desmantelada por la Guardia Civil que se dedicaba a robar catalizadores de vehículos aparcados en las calles de una veintena de municipios del este de la",
+      "date": "Tue, 18 Aug 2026 02:17:41 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
     {
       "title": "Puerta Sevilla reabre con revolución: cocina renovada integralmente y nuevo jefe para sus fogones",
       "link": "https://www.abc.es/espana/andalucia/cordoba/puerta-sevilla-reabre-revolucion-cocina-renovada-integralmente-20260817234033-nts.html",
@@ -173,26 +213,6 @@
       "caso": "other"
     },
     {
-      "title": "«Hoy es Ceuta; mañana, si no actuamos, puede ser Canarias»",
-      "link": "https://www.abc.es/espana/canarias/hoy-ceuta-manana-actuamos-puede-canarias-20260817190658-nt.html",
-      "desc": "«Hoy es Ceuta; mañana, si no actuamos, puede ser Canarias» . El presidente del Cabildo de Gran Canaria, Antonio Morales, ha advertido de las consecuencias que puede tener para el archipiélago el creciente poder político, económico y militar de Marruecos y recl",
-      "date": "Mon, 17 Aug 2026 19:06:58 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Cuatro crías de apenas 40 gramos devuelven la esperanza a la nutria asiática en Tenerife",
-      "link": "https://www.abc.es/espana/canarias/cuatro-crias-apenas-gramos-devuelven-esperanza-nutria-20260817184519-nt.html",
-      "desc": "Loro Parque ha dado la bienvenida a cuatro crías de nutria asiática de uñas cortas (Aonyx cinereus), un acontecimiento especialmente relevante por la delicada situación que atraviesa esta especie en la naturaleza y por su importancia dentro del programa de rep",
-      "date": "Mon, 17 Aug 2026 19:06:08 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
       "title": "Barcelona contiene el precio de los pisos de estudiantes mientras se dispara en Madrid",
       "link": "https://www.lavanguardia.com/economia/20260817/11615512/barcelona-contiene-precio-pisos-estudiantes-dispara-madrid.html",
       "desc": "El coste medio por habitación alcanza los 430 euros de media en España",
@@ -200,26 +220,6 @@
       "source": "La Vanguardia",
       "color": "#8e44ad",
       "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "Granada ha sufrido 348 terremotos desde el pasado 14 de agosto",
-      "link": "https://www.abc.es/espana/andalucia/granada/granada-sufrido-348-terremotos-pasado-agosto-20260817184111-nts.html",
-      "desc": "En su aplicación para teléfonos móviles no están contabilizados todos, pero el Instituto Geográfico Nacional (IGN) ha informado este lunes 17 de agosto que en el Área Metropolitana de Granada se han producido 348 movimientos sísmicos desde la primera hora del ",
-      "date": "Mon, 17 Aug 2026 18:51:12 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "En la muerte de Alfonso Muñoz Durán, expresidente de la Diputación de Cuenca",
-      "link": "https://www.abc.es/espana/castilla-la-mancha/por-benjamin-prieto-muere-alfonso-munoz-duran-expresidente-diputacion-cuenca-20260817184725-nt.html",
-      "desc": "El día de la festividad de San Roque, patrono de muchos pueblos de la provincia de Cuenca recibo la noticia, por mi buen y común amigo Ricardo Fernández de la Cruz, de que Alfonso Muñoz Durán nos dejaba. Una dilatada vida de un hombre bueno, como sus propios c",
-      "date": "Mon, 17 Aug 2026 18:47:25 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
       "caso": "other"
     },
     {
