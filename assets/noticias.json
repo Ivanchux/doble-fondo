@@ -1,11 +1,51 @@
 {
-  "updated": "2026-08-19T20:20:20Z",
+  "updated": "2026-08-19T22:19:00Z",
   "count": 24,
   "items": [
     {
-      "title": "Almonte ya espera a la Pastora",
+      "title": "Muere Francisco Jiménez, fundador del Grupo Puma y destacado empresario cordobés",
+      "link": "https://www.abc.es/espana/andalucia/cordoba/muere-francisco-jimenez-fundador-grupo-puma-destacado-20260819234019-nts.html",
+      "desc": "Francisco Jiménez , fundador del Grupo Puma y destacadísimo representante del empresariado de Córdoba, ha fallecido en Almuñécar (Granada), según han explicado a este medio este miércoles fuentes de la patronal CECO. Con su capacidad de emprendimiento fue capa",
+      "date": "Wed, 19 Aug 2026 23:40:19 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Deco y Flick confirman que el Barça no tira la toalla por el nueve",
+      "link": "https://www.lavanguardia.com/deportes/20260819/11616775/deco-flick-confirman-barca-tira-toalla-nueve.html",
+      "desc": "“Seguramente vamos a hacer algún movimiento”, anuncia el director deportivo blaugrana",
+      "date": "19 Aug 2026 22:51:39 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
+    {
+      "title": "Siete jóvenes  atendidos tras salirse una furgoneta de la vía en Sepúlveda (Segovia)",
+      "link": "https://www.abc.es/espana/castilla-leon/siete-jovenes-atendidos-tras-salirse-furgoneta-via-20260819221742-nt.html",
+      "desc": "Siete jóvenes de entre 15 y 22 años atendidas han sido atendidos tras salirse de la vía y volcar una furgoneta en el kilómetro 17 de la carretera SG-V-2323, en Sepúlveda (Segovia), según ha informado el Centro de Emergencias 112 de Castilla y León. El accident",
+      "date": "Wed, 19 Aug 2026 22:18:57 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "El Barça se lleva un Gamper en el que Flick da pocas pistas",
+      "link": "https://www.lavanguardia.com/deportes/20260819/11616771/barca-lleva-gamper-flick-da-pocas-pistas-espera-nueve.html",
+      "desc": "El equipo azulgrana gana sin alardes al Al-Ahly egipcio con un partido marcado por los múltiples cambios del técnico (Koundé hizo de central) y un calor sofocante",
+      "date": "19 Aug 2026 22:15:56 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
+    {
+      "title": "Una Venida jubilosa y jubilar lleva a la Virgen a Almonte",
       "link": "https://www.abc.es/espana/andalucia/rocio/almonte-espera-pastora-20260819211918-nts.html",
-      "desc": "Jornada de emociones y sentimientos desbocados en la aldea de El Rocio. La Blanca Paloma ya camina hacia Almonte. El rito se cumplió y siete años después, los almonteños alzaron en volandas a su patrona para iniciar ese soñado traslado hacia su pueblo. Minutos",
+      "desc": "El Rocío Chico de 2026 culminó ayer con la salida de la Blanca Paloma para iniciar el traslado que cada siete años le lleva a hombros de los almonteños a su pueblo. Un traslado histórico por ser el primero al que la Santa Sede ha concedido un Año Jubilar y por",
       "date": "Wed, 19 Aug 2026 21:19:47 +0200",
       "source": "ABC",
       "color": "#c0392b",
@@ -103,7 +143,7 @@
       "caso": "other"
     },
     {
-      "title": "Trofeo Joan Gamper: sigue el minuto a minuto del Barça-Al Ahly",
+      "title": "Gamper: De los discursos de Flick y Raphinha a la ovación a Rodri y los abucheos a De Jong",
       "link": "https://www.lavanguardia.com/deportes/futbol/20260819/11616732/gamper-discursos-flick-raphinha-ovacion-rodri-abucheos-jong.html",
       "desc": "El primer equipo pisó el Spotify Camp Nou y la afición disfrutó de los discursos emotivos de Hansi Flick y Raphinha",
       "date": "19 Aug 2026 19:49:23 +0200",
@@ -130,16 +170,6 @@
       "source": "ABC",
       "color": "#c0392b",
       "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "La pugna de las grandes marcas por el turista más adinerado dispara el precio del paseo de Gràcia",
-      "link": "https://www.lavanguardia.com/local/barcelona/20260819/11616727/pugna-grandes-marcas-turista-mas-adinerado-dispara-m2-paseo-gracia.html",
-      "desc": "El eje más señorial de Barcelona consolida de este modo su particular sorpasso al Portal de l’Àngel",
-      "date": "19 Aug 2026 19:29:37 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
       "caso": "other"
     },
     {
@@ -207,36 +237,6 @@
       "link": "https://www.abc.es/espana/comunidad-valenciana/investigado-pornografia-infantil-tras-grabar-desnudas-hija-20260819190353-nt.html",
       "desc": "Agentes de la Policía Nacional investigan a un hombre de 50 años de edad detenido el pasado mes de junio por presuntamente instalar cámaras en la habitación y el baño de su hija, menor de edad, a la que grabó en distintos momentos. Además, hay otras siete meno",
       "date": "Wed, 19 Aug 2026 19:03:54 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "València se abrasa bajo temperaturas que sobrepasan los 40ºC",
-      "link": "https://www.lavanguardia.com/local/valencia/20260819/11616690/valencia-abrasa-44-grados.html",
-      "desc": "Las elevadas temperaturas vacían las calles de la ciudad, que se blinda ante el calor asfixiante, mientras que Xàtiva, en plenas fiestas, marca el máximo con 44,1ºC",
-      "date": "19 Aug 2026 18:59:35 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "Un regalo para las mujeres que nunca necesitan nada pero siempre lo dan todo",
-      "link": "https://www.abc.es/espana/andalucia/jaen/regalo-mujeres-nunca-necesitan-siempre-dan-20260819185838-nts.html",
-      "desc": "Yolanda Sáenz de Tejada es el alma de La Pregonera aunque reconoce que la inspiración la ha encontrado en las mujeres de su vida: en su madre, sus tías y otras féminas con las que compartían anhelos y esperanzas. Pensando en ellas, ha rediseñado las batas con ",
-      "date": "Wed, 19 Aug 2026 18:58:39 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "De escaparate a fortín: la nueva defensa de una joyería en pleno centro de Marbella",
-      "link": "https://www.abc.es/espana/andalucia/malaga/escaparate-fortin-nueva-defensa-joyeria-pleno-centro-20260819185418-nts.html",
-      "desc": "El nuevo escaparate de la joyería , situada en la avenida Ramón y Cajal, está provocando asombro entre los vecinos malagueños. Lo más sorprendente es cuando esta se abre y se cierra creando un efecto óptico bastante curioso. Aunque no se queda atrás cuando est",
-      "date": "Wed, 19 Aug 2026 18:54:18 +0200",
       "source": "ABC",
       "color": "#c0392b",
       "feedId": "ABC",
