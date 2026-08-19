@@ -1,7 +1,107 @@
 {
-  "updated": "2026-08-18T22:16:55Z",
+  "updated": "2026-08-19T00:56:41Z",
   "count": 24,
   "items": [
+    {
+      "title": "Manuel Aparcero: «El día de la invasión levantábamos un cadáver y a los cinco minutos localizábamos otro»",
+      "link": "https://www.abc.es/espana/manuel-aparcero-dia-invasion-levantabamos-cadaver-cinco-20260819014602-nt.html",
+      "desc": "Las 82 personas que murieron durante la invasión de Ceuta de finales de julio conforman la cara más dura y más amarga del fenómeno migratorio y del drama humanitario. Todos tienen familia, una historia vital y sueños por cumplir, pero, una vez fallecidos, no t",
+      "date": "Wed, 19 Aug 2026 01:46:02 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "El mapa del riesgo sísmico en Andalucía: ¿qué zonas son las más expuestas a los terremotos?",
+      "link": "https://www.abc.es/espana/andalucia/mapa-riesgo-sismico-andalucia-zonas-expuestas-terremotos-20260819014456-nts.html",
+      "desc": "Granada tiembla. Y con ella, gran parte de Andalucía. Tierra trémula, el movimiento confirma lo expuesto por la ciencia. El sur de la península ibérica es terreno propenso a los terremotos debido a la convergencia entre las placas tectónicas euroasiática y afr",
+      "date": "Wed, 19 Aug 2026 01:44:56 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Inteligencia detecta mensajes en las redes marroquíes para aumentar la violencia: «Atacar la Ceuta ocupada»",
+      "link": "https://www.abc.es/espana/inteligencia-detecta-ordenes-aumentar-violencia-crisis-migratoria-20260818014337-nt.html",
+      "desc": "Los analistas de Inteligencia han detectado consignas desde los grupos marroquíes para intensificar la violencia en los ataques a la verja de Ceuta con el objetivo de intentar entrar en España. La tranquilidad de la convocatoria fallida del 15 de agosto no ha ",
+      "date": "Wed, 19 Aug 2026 01:43:37 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "El Gobierno abandona la costa de Huelva, puerta de entrada de la cocaína a Europa",
+      "link": "https://www.abc.es/espana/andalucia/huelva/gobierno-abandona-costa-huelva-puerta-entrada-cocaina-20260819014027-nts.html",
+      "desc": "El narco se hace fuerte en la costa de Huelva con la cocaína como divisa, pero el Gobierno no invierte. Deja abandonados a los agentes, que ven como los clanes toman el control e imponen su ley con armas de guerra. Una moto calcinada y al lado, quemado, sin cu",
+      "date": "Wed, 19 Aug 2026 01:40:27 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Okupa la casa de su abuela hospitalizada y cuando van a echarle lanza a la Policía toda la vajilla",
+      "link": "https://www.abc.es/espana/madrid/okupa-casa-abuela-hospitalizada-van-echarle-lanza-20260818013555-nt.html",
+      "desc": "Escena surrealista la vivida el pasado domingo por los vecinos de la calle de Aquitania, en el barrio de Las Rosas (San Blas-Canillejas) . Allí, a la altura del número 33, decenas de personas contemplaron atónitos cómo un individuo, totalmente fuera de sí, arr",
+      "date": "Wed, 19 Aug 2026 01:35:55 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Mourinho explica por qué Rodri no fichó por el Madrid: “Él tenía dudas y me las generó a mí”",
+      "link": "https://www.lavanguardia.com/deportes/real-madrid/20260819/11616345/mourinho-confiesa-chiringuito-xabi-alonso-arbeloa-pagaron-platos-rotos.html",
+      "desc": "El técnico del Real Madrid concedió a Josep Pedrerol su primera entrevista tras ser presentado hoy sin prensa: “Los jugadores protegen mi versión agresiva porque su comportamiento es intachable”",
+      "date": "19 Aug 2026 01:35:25 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
+    {
+      "title": "El fuego que borró las colmenas de la Sierra Oeste: «Las abejas ya no tienen flores para poder producir»",
+      "link": "https://www.abc.es/espana/madrid/silencio-dejo-fuego-colmenas-navalagamella-consecuencias-duraran-20260817012203-nt.html",
+      "desc": "Lo primero que recuerda Susana Pastora no es el negro de su terreno. Tampoco el hollín que cubría las cajas de las colmenas ni el poliestireno derretido por el calor. Es el silencio tan poco habitual en los entornos naturales: «No se escuchaba nada. Ni pájaros",
+      "date": "Wed, 19 Aug 2026 01:22:03 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "El Gobierno de Ayuso activa la «nube soberana» para acelerar la IA en Madrid",
+      "link": "https://www.abc.es/espana/madrid/gobierno-ayuso-activa-nube-soberana-acelerar-ia-20260818012135-nt.html",
+      "desc": "La apuesta de la Comunidad de Madrid por la Inteligencia Artificial (IA), y por la digitalización de la región en general, acaba de dar un paso de gigante con la puesta en marcha de una infraestructura pionera entre las autonomías que tendrá como fin último re",
+      "date": "Wed, 19 Aug 2026 01:21:35 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "El gambito marroquí",
+      "link": "https://www.lavanguardia.com/opinion/20260819/11615964/gambito-marroqui.html",
+      "desc": "España necesita saber qué quiere de Marruecos y qué está dispuesta a pagar por conseguirlo",
+      "date": "19 Aug 2026 00:30:00 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
+    {
+      "title": "Negar la evidencia",
+      "link": "https://www.lavanguardia.com/opinion/20260819/11616204/negar-evidencia.html",
+      "desc": "La Moncloa pretende equilibrios imposibles con Marruecos, con Ceuta, la UE y la opinión pública",
+      "date": "19 Aug 2026 00:05:00 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
     {
       "title": "Granada vuelve a sentir un temblor de 3,3 horas después de los terremotos",
       "link": "https://www.abc.es/espana/andalucia/granada/terremoto-temblar-granada-noche-martes-20260818225525-nts.html",
@@ -140,106 +240,6 @@
       "source": "ABC",
       "color": "#c0392b",
       "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Rodri nunca dudó: “El Barça fue mi primera opción, por el presente y por la proyección del proyecto”",
-      "link": "https://www.lavanguardia.com/deportes/20260818/11616171/rodri-nunca-dudo-barca-mi-primera-opcion-presente-proyeccion-proyecto.html",
-      "desc": "“Este club siempre ha sido un referente para mí, por su juego y los valores que representa”, afirma el medio, al que también quiso el Madrid",
-      "date": "18 Aug 2026 19:57:50 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "El alcalde de Calera indica que la Guardia Civil «ha reconducido la situación» tras la oleada de delitos",
-      "link": "https://www.abc.es/espana/castilla-la-mancha/toledo/pueblos/alcalde-calera-indica-guardia-civil-reconducido-situacion-20260818190229-nt.html",
-      "desc": "El municipio toledano de Calera y Chozas trata de recuperar la normalidad tras unos días marcados por varios sucesos delictivos que han generado una fuerte alarma entre los vecinos que llevó el pasado sábado 15 de agosto a una concentración en la Plaza de la C",
-      "date": "Tue, 18 Aug 2026 19:57:08 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Extinguido el incendio de San Cipriano del Condado (León) tras afectar a más de 1.500 hectáreas",
-      "link": "https://www.abc.es/espana/castilla-leon/extinguido-incendio-san-cipriano-condado-leon-tras-20260818195219-nt.html",
-      "desc": "La Junta de Castilla y León ha dado por extinguido el incendio forestal que se declaró el 29 de julio en la localidad leonesa de San Cipriano del Condado, en el municipio de Vegas del Condado, tras haber afectado a unas 1.531 hectáreas. El incendio, provocado ",
-      "date": "Tue, 18 Aug 2026 19:53:50 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Antonio Sanz, sobre los terremotos de Granada: «No hay ningún peligro inminente para la población»",
-      "link": "https://www.abc.es/espana/andalucia/granada/antonio-sanz-sobre-terremotos-granada-ningun-peligro-20260818194012-nts.html",
-      "desc": "El consejero de Emergencias de la Junta de Andalucía, Antonio Sanz , ha visitado en la tarde de este martes algunas de las zonas más afectadas por los terremotos que se han producido en Granada a lo largo de la jornada, cuatro de ellos con cuatro o más grados ",
-      "date": "Tue, 18 Aug 2026 19:45:39 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Así es Rodri, el nuevo fichaje del Barcelona: su personalidad, su familia y el estilo que defiende",
-      "link": "https://www.lavanguardia.com/deportes/futbol/20260818/11616146/asi-rodri-nuevo-fichaje-barcelona-personalidad-familia-estilo-defiende.html",
-      "desc": "Formado en una familia de profesionales, universitario y alejado de las redes sociales, el nuevo jugador del Barça aporta estilo, jerarquía y experiencia para el Barça de Hansi Flick",
-      "date": "18 Aug 2026 19:32:26 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "La ayuda de 7.500 euros para padres que se puede solicitar ya en Andalucía",
-      "link": "https://www.abc.es/espana/andalucia/ayuda-7500-euros-padres-puede-solicitar-andalucia-20260818235851-nts.html",
-      "desc": "Conciliar la vida laboral con las responsabilidades familiares no siempre resulta sencillo, especialmente cuando el cuidado de los hijos obliga a compaginar horarios, trabajo y atención a los más pequeños. Esta dificultad puede ser todavía mayor para quienes t",
-      "date": "Tue, 18 Aug 2026 19:31:50 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Meta investigó el cerebro de los niños para crear productos que los engancharan, dice la fiscal",
-      "link": "https://www.lavanguardia.com/vida/20260818/11616160/meta-investigo-cerebro-ninos-crear-productos-engancharan-fiscal.html",
-      "desc": "Arranca en el tribunal de Oakland (California) el gran juicio contra Facebook e Instagram, plataformas de la empresa de Mark Zuckerberg a las que se acusa de implementar herramientas para manipular la mente de los menores en beneficio de su negocio",
-      "date": "18 Aug 2026 19:28:55 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "El PP reclama “rearmar el Estado” en Ceuta para no depender de Rabat",
-      "link": "https://www.lavanguardia.com/politica/20260818/11616163/pp-reclama-rearmar-ceuta-depender-rabat.html",
-      "desc": "Gamarra y Vivas exigen reformas estructurales y el despliegue de Frontex",
-      "date": "18 Aug 2026 19:27:00 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "Tres muertos y un pueblo con miedo: Isla Cristina sigue en silencio tras el tiroteo mortal",
-      "link": "https://www.abc.es/espana/andalucia/huelva/tres-muertos-pueblo-miedo-isla-cristina-sigue-20260818191729-nts.html",
-      "desc": "En Isla Cristina hay miedo . Un miedo lógico y que apunta a varias direcciones. El temor más evidente, mezclado con la conmoción, lo genera la posibilidad de que la guerra entre clanes aún no haya escrito su último capítulo. Que no se haya frenado la espiral d",
-      "date": "Tue, 18 Aug 2026 19:17:29 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Muere el mago Juan Tamariz, artista de la ilusión y de lo estrafalario",
-      "link": "https://www.lavanguardia.com/cultura/20260818/11616154/muere-mago-juan-tamariz.html",
-      "desc": "Icono en España por su genio televisivo y su atípica presención, su fallecimiento fue confirmado por hija Ana con un mensaje en redes sociales",
-      "date": "18 Aug 2026 19:12:15 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
       "caso": "other"
     }
   ]
