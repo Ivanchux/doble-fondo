@@ -1,7 +1,77 @@
 {
-  "updated": "2026-08-19T02:52:17Z",
+  "updated": "2026-08-19T04:31:27Z",
   "count": 24,
   "items": [
+    {
+      "title": "Del ‘unboxing’ al no vender nada: el auge de los influencer intelectuales",
+      "link": "https://www.lavanguardia.com/magazine/lifestyle/20260819/11613844/unboxing-vender-auge-influencer-intelectuales.html",
+      "desc": "Los creadores con criterio y autoridad cultural conquistan a una audiencia cada vez más exigente y se convierten en el nuevo objeto de deseo de la moda",
+      "date": "19 Aug 2026 06:16:57 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
+    {
+      "title": "El Gobierno no planea trasladar migrantes a la Península pese al malestar que causan en Ceuta",
+      "link": "https://www.lavanguardia.com/politica/20260819/11616198/gobierno-planea-trasladar-migrantes-peninsula-pese-malestar-causan-ceuta.html",
+      "desc": "Los nuevos centros, que se están adecuando, podrían albergar a 4.000 personas",
+      "date": "19 Aug 2026 06:00:00 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
+    {
+      "title": "¿Qué es el estrés térmico incompensable y a quién afecta?",
+      "link": "https://www.lavanguardia.com/vida/20260819/11615946/22-poblacion-mayor-60-anos-estara-riesgo-calentamiento-global-alcanza-1-5-grados.html",
+      "desc": "En 2025, la temperatura global alcanzó 1,37 °C según los indicadores del cambio climático&nbsp;",
+      "date": "19 Aug 2026 06:00:00 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
+    {
+      "title": "Renfe convierte Portugal en su nueva apuesta después de las trabas de Francia",
+      "link": "https://www.lavanguardia.com/economia/20260819/11616161/renfe-convierte-portugal-nueva-apuesta-trabas-francia.html",
+      "desc": "El grupo se apoya en las ventajas técnicas de los trenes de Talgo para llegar al país",
+      "date": "19 Aug 2026 06:00:00 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
+    {
+      "title": "Fardos de cocaína a la deriva llegan a las playas catalanas",
+      "link": "https://www.lavanguardia.com/local/barcelona/20260819/11616183/fardos-cocaina-deriva-llegan-playas-catalanas.html",
+      "desc": "El mar ha devuelto este agosto tres paquetes de droga de una misma partida en el litoral de Badalona, Tarragona y Sitges",
+      "date": "19 Aug 2026 06:00:00 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
+    {
+      "title": "El forcón: la tradición taurina que une Portugal y España",
+      "link": "https://www.lavanguardia.com/vida/20260819/11616187/forcon-tradicion-taurina-une-portugal-espana.html",
+      "desc": "La tradición, exclusiva del concejo portugués de Sabugal, reúne cada agosto a miles de personas y se ha convertido en un punto de encuentro para los vecinos y la diáspora emigrada",
+      "date": "19 Aug 2026 06:00:00 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
+    {
+      "title": "Fiestas Aste Nagusia 2026 en Bilbao: programa, actividades y conciertos gratis",
+      "link": "https://www.abc.es/espana/pais-vasco/fiestas-aste-nagusia-2026-bilbao-programa-actividades-20260819050000-nt.html",
+      "desc": "El verano sigue su curso y, con él, las fiestas locales de muchas ciudades y pueblos en España. Puestos de comida tradicional, música en directo, pasacalles, procesiones y atracciones de feria son algunos de los sellos de identidad de este tipo de festividades",
+      "date": "Wed, 19 Aug 2026 05:00:08 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
     {
       "title": "'El Barberillo de Lavapiés' vuelve a La Latina",
       "link": "https://www.abc.es/espana/madrid/barberillo-lavapies-vuelve-latina-20260819030852-nt.html",
@@ -113,6 +183,16 @@
       "caso": "other"
     },
     {
+      "title": "Rusia amenaza a Londres si sigue enviando drones a Kyiv",
+      "link": "https://www.lavanguardia.com/internacional/20260819/11616205/rusia-amenaza-londres-sigue-enviando-drones-kyiv.html",
+      "desc": "Burnham responde que apoya al 100% la defensa de Ucrania",
+      "date": "19 Aug 2026 00:05:00 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
+    {
       "title": "Granada vuelve a sentir un temblor de 3,3 horas después de los terremotos",
       "link": "https://www.abc.es/espana/andalucia/granada/terremoto-temblar-granada-noche-martes-20260818225525-nts.html",
       "desc": "Un nuevo temblor de magnitud 3,3 ha vuelto a sacudir Granada en la noche de este martes. Según los datos del Instituto Geográfico Nacional (IGN), el leve terremoto ha tenido su epicentro en el municipio de Alhendín, a cinco kilómetros de profundidad, aunque se",
@@ -153,90 +233,10 @@
       "caso": "other"
     },
     {
-      "title": "¡Tachaaannn! Adiós a Juan Tamariz, un mago de la percepción",
-      "link": "https://www.lavanguardia.com/vida/20260818/11616195/mago-percepcion-juan-tamariz-muere-fisico-cine-carmen-maura-un-dos-tres.html",
-      "desc": "El ilusionista, fallecido a los 83 años, más que un virtuoso del truco era un director de cine de la percepción",
-      "date": "18 Aug 2026 21:11:21 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
-      "caso": "gen"
-    },
-    {
       "title": "Paciente de la unidad del dolor: «El cambio fue  absoluto. Yo había llegado a tomar once fármacos al día»",
       "link": "https://www.abc.es/espana/castilla-leon/cambio-absoluto-llegado-tomar-once-farmacos-dia-20260813205710-nt.html",
       "desc": "En la desesperación había caído prácticamente Luis Enrique Rodríguez cuando aterrizó en la unidad del dolor de Valladolid. Su situación fue «dramática» y «drástica» porque, siendo una persona «muy activa», a la que gustaba «mucho el deporte», de la «noche a la",
       "date": "Tue, 18 Aug 2026 20:57:10 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Las pioneras unidades del dolor crónico exportan su saber: «Hay mucho interés internacional»",
-      "link": "https://www.abc.es/espana/castilla-leon/pioneras-unidades-dolor-cronico-exportan-saber-interes-20260721205645-nt.html",
-      "desc": "Su renovado enfoque descolocó a muchos al inicio. «Afrontamiento activo del dolor crónico» es el apellido de estas unidades de Atención Primaria que comenzaron su andadura de forma «pionera» en Castilla y León en 2018 y que ya exportan su saber a otros países ",
-      "date": "Tue, 18 Aug 2026 20:56:45 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Extinguido el incendio de Galápagos (Guadalajara) que obligó a confinar dos urbanizaciones",
-      "link": "https://www.abc.es/espana/castilla-la-mancha/extinguido-incendio-galapagos-guadalajara-obligo-confinar-dos-20260818205103-nt.html",
-      "desc": "Los servicios de extinción de incendios forestales de Castilla-La Mancha han dado por extinguido este martes el incendio declarado en la localidad guadalajareña de Galápagos, que obligó a confinar preventivamente dos urbanizaciones ante la afección del humo a ",
-      "date": "Tue, 18 Aug 2026 20:51:03 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "La Diputación de Albacete invierte en Elche de la Sierra para renovar calles y servicios",
-      "link": "https://www.abc.es/espana/castilla-la-mancha/diputacion-albacete-invierte-elche-sierra-renovar-calles-20260818203536-nt.html",
-      "desc": "La Diputación de Albacete está impulsando distintas actuaciones en Elche de la Sierra y sus pedanías con inversiones destinadas a mejorar calles, redes de abastecimiento, accesibilidad y espacios públicos. El vicepresidente provincial y responsable de Obras, F",
-      "date": "Tue, 18 Aug 2026 20:35:37 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "El PP acusa al PSOE de lanzar «acusaciones falsas» por las obras del Paseo Federico García Lorca",
-      "link": "https://www.abc.es/espana/castilla-la-mancha/toledo/pp-acusa-psoe-lanzar-acusaciones-falsas-obras-20260818202103-nt.html",
-      "desc": "El PP de Toledo exige al PSOE y a su portavoz municipal, Noelia de la Cruz, que rectifiquen y pidan disculpas por acusar al Gobierno local de utilizar recursos públicos para acondicionar el acceso al negocio de un concejal, en clara referencia a Iñaki Jiménez ",
-      "date": "Tue, 18 Aug 2026 20:21:03 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Un menor de 14 años muere ahogado en una peligrosa cala de la costa de Gran Canaria",
-      "link": "https://www.abc.es/espana/canarias/menor-anos-muere-ahogado-peligrosa-cala-costa-20260818201129-nt.html",
-      "desc": "Un menor de aproximadamente 14 años de edad ha muerto este martes tras sufrir un ahogamiento en la costa del municipio de Mogán, al sur de Gran Canaria. El trágico incidente, según ha adelantado la asociación para la prevención de los accidentes en el medio ac",
-      "date": "Tue, 18 Aug 2026 20:11:29 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "CCOO alerta de un déficit del 30% en la plantilla de agentes medioambientales de Castilla-La Mancha",
-      "link": "https://www.abc.es/espana/castilla-la-mancha/ccoo-alerta-deficit-plantilla-agentes-medioambientales-castillala-20260818200843-nt.html",
-      "desc": "El sindicato Comisiones Obreras ha alertado de que la plantilla de agentes medioambientales de Castilla-La Mancha arrastra un déficit del 30% y ha reclamado al Gobierno regional más efectivos y medios materiales para garantizar su labor en la prevención, extin",
-      "date": "Tue, 18 Aug 2026 20:08:44 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Entrepeñas y Buendía pierden 19 hectómetros y bajan al 54,56% de su capacidad",
-      "link": "https://www.abc.es/espana/castilla-la-mancha/entrepenas-buendia-pierden-hectometros-bajan-5456-capacidad-20260818200321-nt.html",
-      "desc": "Los embalses de Entrepeñas y Buendía han perdido 19,19 hectómetros cúbicos de agua durante la última semana y acumulan 1.373,91 hectómetros, el 54,56% de su capacidad total, según los datos de la Confederación Hidrográfica del Tajo correspondientes al periodo ",
-      "date": "Tue, 18 Aug 2026 20:03:21 +0200",
       "source": "ABC",
       "color": "#c0392b",
       "feedId": "ABC",
