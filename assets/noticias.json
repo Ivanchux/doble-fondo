@@ -1,7 +1,77 @@
 {
-  "updated": "2026-08-19T18:26:27Z",
+  "updated": "2026-08-19T20:20:20Z",
   "count": 24,
   "items": [
+    {
+      "title": "Almonte ya espera a la Pastora",
+      "link": "https://www.abc.es/espana/andalucia/rocio/almonte-espera-pastora-20260819211918-nts.html",
+      "desc": "Jornada de emociones y sentimientos desbocados en la aldea de El Rocio. La Blanca Paloma ya camina hacia Almonte. El rito se cumplió y siete años después, los almonteños alzaron en volandas a su patrona para iniciar ese soñado traslado hacia su pueblo. Minutos",
+      "date": "Wed, 19 Aug 2026 21:19:47 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "El Ejército del Aire despide emotivamente al joven de Palma del Río que murió arrollado en la A-4",
+      "link": "https://www.abc.es/espana/andalucia/cordoba/ejercito-aire-despide-emotivamente-joven-palma-rio-20260819204944-nts.html",
+      "desc": "El dramático accidente que le costó la vida el martes a un joven de Palma del Río en la A-4 a la altura de la localidad sevillana de Carmona -se había bajado para arreglar una rueda pinchada y una furgoneta le arrolló , dándose su conductor posteriormente a la",
+      "date": "Wed, 19 Aug 2026 20:49:44 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Los nuevos kilómetros de la eterna Autovía del Duero: un avance cargado de «incertidumbre»",
+      "link": "https://www.abc.es/espana/castilla-leon/nuevos-kilometros-eterna-a11-avance-cargado-incertidumbre-20260818204606-nt.html",
+      "desc": "Tres décadas han pasado desde que despegaron los primeros proyectos de la autovía A-11. Una infraestructura largamente reclamada por municipios y vecinos de la zona como fórmula para conseguir descongestionar una N-122 cargada de vehículos pesados y que acumul",
+      "date": "Wed, 19 Aug 2026 20:46:06 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Así será el primer supermercado propio de Alcampo en Andalucía: 1.200 metros y 40 empleados",
+      "link": "https://www.abc.es/espana/andalucia/malaga/alcampo-prepara-desembarco-andalucia-primer-supermercado-propio-20260819203601-nts.html",
+      "desc": "El supermercado Alcampo abrirá su primera tienda propia en Andalucía en el centro comercial Altos del Higuerón, en Benalmádena (Málaga). El nuevo establecimiento contará con 1.200 m² de superficie de venta y una plantilla de 40 empleados. La apertura está prev",
+      "date": "Wed, 19 Aug 2026 20:44:45 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Moreno visita este jueves Ceuta en plena crisis migratoria en la ciudad",
+      "link": "https://www.abc.es/espana/andalucia/moreno-visita-jueves-ceuta-plena-crisis-migratoria-20260819204038-nts.html",
+      "desc": "El presidente de la Junta de Andalucía, Juanma Moreno , se reunirá este jueves con el presidente de Ceuta, Juan Jesús Vivas , y mantendrá un encuentro con representantes de la Confederación de Empresarios y de la Cámara de Comercio de Ceuta durante la visita i",
+      "date": "Wed, 19 Aug 2026 20:40:38 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Ciudad Real refuerza su Centro de Innovación Territorial con 850.000 euros para combatir la despoblación",
+      "link": "https://www.abc.es/espana/castilla-la-mancha/ciudad-real-refuerza-centro-innovacion-territorial-850000-20260819203441-nt.html",
+      "desc": "El Centro de Innovación Territorial (CIT) de Ciudad Real contará con una financiación de 850.000 euros para reforzar su actividad y desarrollar nuevas políticas frente al reto demográfico. El Ministerio para la Transición Ecológica y el Reto Demográfico aporta",
+      "date": "Wed, 19 Aug 2026 20:35:36 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Extinguido el fuego de Fermoselle (Zamora) que obligó a evacuar 14 pueblos y afectó a más de 10.000 hectáreas",
+      "link": "https://www.abc.es/espana/castilla-leon/extinguido-fuego-fermoselle-zamora-obligo-evacuar-pueblos-20260819203357-nt.html",
+      "desc": "La Junta de Castilla y León ha dado por extinguido este miércoles el incendio forestal que se declaró el 29 de julio en la localidad zamorana de Fermoselle , que obligó a evacuar hasta 14 pueblos cercanos y afectó a más de 10.000 hectáreas. El fuego se originó",
+      "date": "Wed, 19 Aug 2026 20:33:58 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
     {
       "title": "Castilla-La Mancha activa este jueves el Meteocam por tormentas y lluvias intensas en tres provincias",
       "link": "https://www.abc.es/espana/castilla-la-mancha/toledo/castillala-mancha-activa-jueves-meteocam-tormentas-lluvias-20260819201932-nt.html",
@@ -167,76 +237,6 @@
       "link": "https://www.abc.es/espana/andalucia/malaga/escaparate-fortin-nueva-defensa-joyeria-pleno-centro-20260819185418-nts.html",
       "desc": "El nuevo escaparate de la joyería , situada en la avenida Ramón y Cajal, está provocando asombro entre los vecinos malagueños. Lo más sorprendente es cuando esta se abre y se cierra creando un efecto óptico bastante curioso. Aunque no se queda atrás cuando est",
       "date": "Wed, 19 Aug 2026 18:54:18 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Todo por hacer",
-      "link": "https://www.abc.es/espana/castilla-la-mancha/toledo/todo-por-hacer-20260819185218-nt.html",
-      "desc": "Yo que soy concreto para habitar en la tristeza cuando me encuentro triste, toco la nada cuando doy por válida su existencia, y me diluyo en el todo como si fuese el afluente de una tormenta, también sé convivir en el mundo de la alegría si algo me alegra, por",
-      "date": "Wed, 19 Aug 2026 18:52:18 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "El incendio de Pinofranqueado (Cáceres) vuelve a coger fuerza y pone en alerta Salamanca",
-      "link": "https://www.lavanguardia.com/local/extremadura/20260819/11616712/incendio-pinofranqueado-caceres-vuelve-coger-fuerza-pone-alerta-salamanca.html",
-      "desc": "Las llamas ya han afectado a unas 1.600 hectáreas",
-      "date": "19 Aug 2026 18:45:24 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "Feijóo acudirá al Supremo por la ausencia del Gobierno en Ceuta y se erige en alternativa",
-      "link": "https://www.lavanguardia.com/politica/20260819/11616709/feijoo-acudira-supremo-ausencia-gobierno-ceuta-erige-alternativa.html",
-      "desc": "El líder del PP presenta un plan de siete puntos para la frontera sur entre criticas a Pedro Sánchez por su ausencia",
-      "date": "19 Aug 2026 18:41:38 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "Buscan un león en Toledo: alerta en los pueblos de la Sierra de San Vicente",
-      "link": "https://www.abc.es/espana/castilla-la-mancha/toledo/pueblos/presunto-avistamiento-leon-pone-alerta-pueblos-toledanos-20260819183528-nt.html",
-      "desc": "Un insólito aviso mantiene este miércoles en alerta a varios municipios de la Sierra de San Vicente, en la provincia de Toledo. La Guardia Civil ha desplegado un importante dispositivo para tratar de localizar a un felino de grandes dimensiones después de que ",
-      "date": "Wed, 19 Aug 2026 18:38:00 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Todo lo que perdimos sin darnos cuenta",
-      "link": "https://www.abc.es/espana/castilla-la-mancha/perdimos-darnos-cuenta-20260819183531-nt.html",
-      "desc": "El otro día entramos en una conocida panadería toledana , de las pocas que todavía quedan con su propio horno donde cocer el pan. La dependienta que despachaba, una simpática mujer a la que le encanta conversar con los clientes, parecía disgustada. Nos contó q",
-      "date": "Wed, 19 Aug 2026 18:35:31 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Granada no se fía de la tregua de la tierra",
-      "link": "https://www.abc.es/espana/andalucia/granada/granada-vive-dia-terremotos-teme-replicas-efectos-20260819175043-nts.html",
-      "desc": "¿Tregua o final definitivo de las hostilidades? En Granada, los más optimistas quieren creer lo primero mientras que los escépticos, como ya indica el subjetivo, tienen sus dudas. Razones no les faltan, porque si hay algo imprevisible es un terremoto. Este mié",
-      "date": "Wed, 19 Aug 2026 18:33:46 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "La Feria del Libro de Toledo abre el plazo de inscripción para su XXI edición",
-      "link": "https://www.abc.es/espana/castilla-la-mancha/toledo/feria-libro-toledo-abre-plazo-inscripcion-xxi-20260819183154-nt.html",
-      "desc": "La XXI Feria del Libro de Toledo ha abierto el plazo de inscripción para las librerías y editoriales interesadas en participar en su próxima edición, que se celebrará del 14 al 18 de octubre de 2026 en la Plaza del Ayuntamiento de Toledo. Organizada por la Aso",
-      "date": "Wed, 19 Aug 2026 18:31:54 +0200",
       "source": "ABC",
       "color": "#c0392b",
       "feedId": "ABC",
