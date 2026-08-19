@@ -1,7 +1,17 @@
 {
-  "updated": "2026-08-19T00:56:41Z",
+  "updated": "2026-08-19T02:52:17Z",
   "count": 24,
   "items": [
+    {
+      "title": "'El Barberillo de Lavapiés' vuelve a La Latina",
+      "link": "https://www.abc.es/espana/madrid/barberillo-lavapies-vuelve-latina-20260819030852-nt.html",
+      "desc": "Con motivo de las fiestas madrileñas, la productora L'Operamore ha convertido un año más el Teatro La Latina en el epicentro de la lírica y la tradición musical de este verano. 'Zarzuela en la Latina' está ofreciendo una programación continuada que recupera la",
+      "date": "Wed, 19 Aug 2026 03:08:52 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
     {
       "title": "Manuel Aparcero: «El día de la invasión levantábamos un cadáver y a los cinco minutos localizábamos otro»",
       "link": "https://www.abc.es/espana/manuel-aparcero-dia-invasion-levantabamos-cadaver-cinco-20260819014602-nt.html",
@@ -227,16 +237,6 @@
       "link": "https://www.abc.es/espana/castilla-la-mancha/entrepenas-buendia-pierden-hectometros-bajan-5456-capacidad-20260818200321-nt.html",
       "desc": "Los embalses de Entrepeñas y Buendía han perdido 19,19 hectómetros cúbicos de agua durante la última semana y acumulan 1.373,91 hectómetros, el 54,56% de su capacidad total, según los datos de la Confederación Hidrográfica del Tajo correspondientes al periodo ",
       "date": "Tue, 18 Aug 2026 20:03:21 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Figaredo se reafirma en «cazar» a inmigrantes ilegales en Ceuta: «No me arrepiento, ni me retracto»",
-      "link": "https://www.abc.es/espana/figaredo-reafirma-cazar-inmigrantes-ilegales-ceuta-arrepiento-20260818200001-nt.html",
-      "desc": "El diputado de Vox en el Congreso José María Figaredo se ha vuelto a reafirmar en sus palabras en las que habló de «cazar» a los inmigrantes que entraron ilegalmente en Ceuta. « No me arrepiento , ni me retracto de nada, centren el foco en el interés de los es",
-      "date": "Tue, 18 Aug 2026 20:00:02 +0200",
       "source": "ABC",
       "color": "#c0392b",
       "feedId": "ABC",
