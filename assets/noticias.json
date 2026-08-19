@@ -1,7 +1,77 @@
 {
-  "updated": "2026-08-19T04:31:27Z",
+  "updated": "2026-08-19T06:34:52Z",
   "count": 24,
   "items": [
+    {
+      "title": "El Gobierno multa con hasta 800 euros a profesores valencianos que participaron en la huelga indefinida",
+      "link": "https://www.abc.es/espana/comunidad-valenciana/gobierno-multa-800-euros-profesores-valencianos-participaron-20260819081109-nt.html",
+      "desc": "La Delegación del Gobierno de la Comunidad Valenciana ha notificado hasta 13 sanciones administrativas al sindicato STEPV y once profesores que participaron en diferentes protestas por la huelga indefinida del pasado mes de mayo. Según los datos ofrecidos por ",
+      "date": "Wed, 19 Aug 2026 08:22:32 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Una mujer de 35 años, en estado grave tras sufrir una agresión con arma blanca en Usera (Madrid)",
+      "link": "https://www.abc.es/espana/madrid/mujer-anos-estado-grave-tras-sufrir-agresion-20260819073555-nt.html",
+      "desc": "Una mujer de 35 años ha sufrido una agresión por arma blanca este martes en la calle Dolores Barranco del barrio de Usera ( Madrid ) a las 22.00 horas. El Samur ha conseguido estabilizarla pese a sufrir cuatro heridas «importantes». La mujer presentaba una her",
+      "date": "Wed, 19 Aug 2026 07:35:55 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Granada registra un nuevo terremoto durante la noche de magnitud 3,4 y epicentro en Ogíjares",
+      "link": "https://www.lavanguardia.com/local/andalucia/20260819/11616350/granada-registra-nuevo-terremoto-noche-magnitud-3-4-epicentro-ogijares.html",
+      "desc": "Fue un temblor de menor duración que el resto de alta intensidad, aunque se sintió en varios municipios de la provincia",
+      "date": "19 Aug 2026 07:32:08 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
+    {
+      "title": "Moros y Cristianos de Ontinyent 2026: programa completo de las fiestas, actos y conciertos",
+      "link": "https://www.abc.es/espana/comunidad-valenciana/moros-cristianos-ontinyent-2026-programa-completo-fiestas-20260819110934-nt.html",
+      "desc": "Las fiestas de Moros y Cristianos de Ontinyent (Valencia), declaradas de Interés Turístico Internacional, comienzan este miércoles 19 de agosto hasta el próximo lunes 24 con una amplia programación que va desde los actos principales como la entrada de bandas d",
+      "date": "Wed, 19 Aug 2026 07:29:06 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "El influencer español Jesús Soriano, censurado a camareros en Miami: «¿Qué temen?»",
+      "link": "https://www.abc.es/espana/comunidad-valenciana/influencer-espanol-jesus-soriano-censurado-camareros-miami-20260819225955-nt.html",
+      "desc": "El influencer valenciano Jesús Soriano, que cuenta con 456.000 seguidores en Instagram y 166.000 en X con su cuenta @soycamarero, se ha convertido para su sorpresa en objeto de censura en Estados Unidos, en concreto, en Miami, según el testimonio en primera pe",
+      "date": "Wed, 19 Aug 2026 07:28:53 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Dónde ir de fiesta este miércoles 19 de agosto en la provincia de Toledo",
+      "link": "https://www.abc.es/espana/castilla-la-mancha/toledo/pueblos/fiesta-miercoles-agosto-provincia-toledo-20260819070000-nt.html",
+      "desc": "Quintanar de la Orden -A las 10,30 horas: visita de las autoridades, Reina y Damas a la Residencia de ancianos Ntra. Sra. de la Piedad, Ntra. Sra. del Rosario y Monjas Trinitarias.. -De 11,30 a 13,30 horas: parque acuático. -A las 13,30h horas: baile del vermú",
+      "date": "Wed, 19 Aug 2026 07:00:03 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Fiesta Mayor de Sants de Barcelona: fechas, conciertos, cómo ir y cortes de tráfico previstos",
+      "link": "https://www.abc.es/espana/cataluna/fiesta-mayor-sants-barcelona-fechas-conciertos-cortes-20260819200333-nt.html",
+      "desc": "Barcelona, la ciudad que nunca para. Siempre que se terminan las Fiestas del barrio de Gracia, que este año se han celebrado del 15 de agosto al 21 del citado mes, es momento de pensar en las de Sants. Y es que los habitantes de la Ciudad Condal, de la perifer",
+      "date": "Wed, 19 Aug 2026 06:50:46 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
     {
       "title": "Del ‘unboxing’ al no vender nada: el auge de los influencer intelectuales",
       "link": "https://www.lavanguardia.com/magazine/lifestyle/20260819/11613844/unboxing-vender-auge-influencer-intelectuales.html",
@@ -56,6 +126,16 @@
       "title": "El forcón: la tradición taurina que une Portugal y España",
       "link": "https://www.lavanguardia.com/vida/20260819/11616187/forcon-tradicion-taurina-une-portugal-espana.html",
       "desc": "La tradición, exclusiva del concejo portugués de Sabugal, reúne cada agosto a miles de personas y se ha convertido en un punto de encuentro para los vecinos y la diáspora emigrada",
+      "date": "19 Aug 2026 06:00:00 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
+    {
+      "title": "Suecia produce vino de primera categoría... Sí, Suecia",
+      "link": "https://www.lavanguardia.com/vida/20260819/11616144/suecia-escania-vino-cambio-climatico.html",
+      "desc": "La región sureña sueca de Escania se promociona como la “Toscana nórdica”",
       "date": "19 Aug 2026 06:00:00 +0200",
       "source": "La Vanguardia",
       "color": "#8e44ad",
@@ -157,86 +237,6 @@
       "link": "https://www.abc.es/espana/madrid/gobierno-ayuso-activa-nube-soberana-acelerar-ia-20260818012135-nt.html",
       "desc": "La apuesta de la Comunidad de Madrid por la Inteligencia Artificial (IA), y por la digitalización de la región en general, acaba de dar un paso de gigante con la puesta en marcha de una infraestructura pionera entre las autonomías que tendrá como fin último re",
       "date": "Wed, 19 Aug 2026 01:21:35 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "El gambito marroquí",
-      "link": "https://www.lavanguardia.com/opinion/20260819/11615964/gambito-marroqui.html",
-      "desc": "España necesita saber qué quiere de Marruecos y qué está dispuesta a pagar por conseguirlo",
-      "date": "19 Aug 2026 00:30:00 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "Negar la evidencia",
-      "link": "https://www.lavanguardia.com/opinion/20260819/11616204/negar-evidencia.html",
-      "desc": "La Moncloa pretende equilibrios imposibles con Marruecos, con Ceuta, la UE y la opinión pública",
-      "date": "19 Aug 2026 00:05:00 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "Rusia amenaza a Londres si sigue enviando drones a Kyiv",
-      "link": "https://www.lavanguardia.com/internacional/20260819/11616205/rusia-amenaza-londres-sigue-enviando-drones-kyiv.html",
-      "desc": "Burnham responde que apoya al 100% la defensa de Ucrania",
-      "date": "19 Aug 2026 00:05:00 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "Granada vuelve a sentir un temblor de 3,3 horas después de los terremotos",
-      "link": "https://www.abc.es/espana/andalucia/granada/terremoto-temblar-granada-noche-martes-20260818225525-nts.html",
-      "desc": "Un nuevo temblor de magnitud 3,3 ha vuelto a sacudir Granada en la noche de este martes. Según los datos del Instituto Geográfico Nacional (IGN), el leve terremoto ha tenido su epicentro en el municipio de Alhendín, a cinco kilómetros de profundidad, aunque se",
-      "date": "Tue, 18 Aug 2026 22:55:45 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "La Alhambra presenta daños de carácter leve, ninguno estructural, centrados en la Alcazaba",
-      "link": "https://www.lavanguardia.com/local/andalucia/20260818/11616201/alhambra-presenta-danos-caracter-leve-ninguno-estructural-centrados-alcazaba.html",
-      "desc": "Los expertos mantienen el trabajo de revisión para conocer el impacto de los seísmos en el monumento, que se ha desalojado este mediodía y permanece cerrado",
-      "date": "18 Aug 2026 22:21:34 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "El Córdoba CF amplía su radar pese al 'overbooking' en la delantera",
-      "link": "https://www.abc.es/espana/andalucia/cordoba/cordoba-cf/cordoba-amplia-radar-pese-overbooking-delantera-20260818174557-nts.html",
-      "desc": "El Córdoba CF no ha dicho su última palabra en el mercado. El conjunto blanquiverde, en vísperas de encontrar una oportunidad que eleve el nivel de su plantilla, concentra sus esfuerzos en mejorar varias líneas del campo. Dentro de esta ecuación, la comitiva d",
-      "date": "Tue, 18 Aug 2026 21:55:56 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Castilla-La Mancha cuenta con 524 plazas concertadas de acogimiento residencial para menores",
-      "link": "https://www.abc.es/espana/castilla-la-mancha/castillala-mancha-cuenta-524-plazas-concertadas-acogimiento-20260818211153-nt.html",
-      "desc": "Castilla-La Mancha dispone de una red de y 524 plazas concertadas de acogimiento residencial destinadas a niños, niñas y adolescentes en situación de guarda o tutela, dentro de un modelo que apuesta por hogares de tamaño reducido y una atención especializada. ",
-      "date": "Tue, 18 Aug 2026 21:11:54 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Paciente de la unidad del dolor: «El cambio fue  absoluto. Yo había llegado a tomar once fármacos al día»",
-      "link": "https://www.abc.es/espana/castilla-leon/cambio-absoluto-llegado-tomar-once-farmacos-dia-20260813205710-nt.html",
-      "desc": "En la desesperación había caído prácticamente Luis Enrique Rodríguez cuando aterrizó en la unidad del dolor de Valladolid. Su situación fue «dramática» y «drástica» porque, siendo una persona «muy activa», a la que gustaba «mucho el deporte», de la «noche a la",
-      "date": "Tue, 18 Aug 2026 20:57:10 +0200",
       "source": "ABC",
       "color": "#c0392b",
       "feedId": "ABC",
