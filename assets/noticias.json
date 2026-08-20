@@ -1,7 +1,77 @@
 {
-  "updated": "2026-08-20T18:31:10Z",
+  "updated": "2026-08-20T20:21:38Z",
   "count": 24,
   "items": [
+    {
+      "title": "Entra en vigor el decreto que permite a entidades privadas colaborar en trámites de la Junta",
+      "link": "https://www.abc.es/espana/castilla-la-mancha/entra-vigor-decreto-permite-entidades-privadas-colaborar-20260820214837-nt.html",
+      "desc": "El decreto que regula el nuevo régimen jurídico de las Entidades Colaboradoras con la Administración de Castilla-La Mancha ha entrado en vigor este jueves, 20 de agosto, después de que fuera aprobado por el Consejo de Gobierno el pasado 28 de julio. A partir d",
+      "date": "Thu, 20 Aug 2026 21:48:37 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "El primer premio de la Lotería Nacional, con 300.000 euros al número, recala en Córdoba",
+      "link": "https://www.abc.es/espana/andalucia/cordoba/primer-premio-loteria-nacional-300000-euros-numero-20260820214457-nts.html",
+      "desc": "La fortuna ha sonreído en la noche de este jueves la ciudad de Córdoba. Ha sido con el sorteo de la Lotería Nacional. Parte de su primer premio se ha vendido en la capital, según ha informado Loterías y Apuestas del Estado. En concreto, ha sido del despacho re",
+      "date": "Thu, 20 Aug 2026 21:44:57 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Castilla-La Mancha invierte 2,6 millones en mejorar el principal acceso a la Serranía conquense",
+      "link": "https://www.abc.es/espana/castilla-la-mancha/castillala-mancha-invierte-millones-mejorar-principal-acceso-20260820213142-nt.html",
+      "desc": "El Gobierno de Castilla-La Mancha va a invertir 2,6 millones de euros en la mejora de 16 kilómetros de la CM-2105 entre Villalba de la Sierra y Huélamo, en la provincia de Cuenca, una carretera que constituye el principal acceso desde la capital a la Serranía ",
+      "date": "Thu, 20 Aug 2026 21:31:43 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Aucorsa refuerza los autobuses en Las Quemadas y añade seis nuevas paradas en tres líneas",
+      "link": "https://www.abc.es/espana/andalucia/cordoba/aucorsa-refuerza-autobuses-quemadas-anade-seis-nuevas-20260820210251-nts.html",
+      "desc": "La empresa municipal Autobuses de Córdoba, S.A. (Aucorsa) ha informado este miércoles sobre el plan de mejora de los servicios de transporte público que va a implementar de forma inmediata el Polígono de Las Quemadas de la capital. Así, a fin de mejorar la con",
+      "date": "Thu, 20 Aug 2026 21:02:51 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "gen"
+    },
+    {
+      "title": "Núñez reprocha a Page su «silencio» sobre Ceuta: «No le hemos oído decir esta boca es mía»",
+      "link": "https://www.abc.es/espana/castilla-la-mancha/nunez-reprocha-page-silencio-sobre-ceuta-oido-20260820205103-nt.html",
+      "desc": "El presidente del PP de Castilla-La Mancha, Paco Núñez, ha exigido este jueves al Gobierno de España que actúe de manera inmediata para «devolver el orden a la ciudad de Ceuta» y refuerce las fronteras para evitar nuevas entradas irregulares. Una reclamación q",
+      "date": "Thu, 20 Aug 2026 20:53:06 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "El Pentágono retira del Golfo el polémico portaaviones 'Abraham Lincoln'",
+      "link": "https://www.lavanguardia.com/internacional/20260820/11617306/pentagono-retira-golfo-persico-portaaviones-registro-deterioro-condiciones-vida.html",
+      "desc": "El Mando Central de Estados Unidos ha confirmado el despliegue de un nuevo buque, el George Washington, que sustituirá en la misión de Oriente Medio al Abraham Lincoln",
+      "date": "20 Aug 2026 20:40:23 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
+    {
+      "title": "Un terremoto de magnitud 7,2 sacude la región andina de Ayacucho, en el sur de Perú",
+      "link": "https://www.lavanguardia.com/internacional/20260820/11617304/terremoto-magnitud-7-2-sacude-region-andina-ayacucho-sur-peru.html",
+      "desc": "Hasta el momento no se han registrado daños personales o materiales",
+      "date": "20 Aug 2026 20:28:52 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
     {
       "title": "La Campana de Oropesa dice basta y pide más seguridad: «Los ladrones aquí se sienten impunes»",
       "link": "https://www.abc.es/espana/castilla-la-mancha/toledo/pueblos/campana-oropesa-dice-basta-pide-seguridad-ladrones-20260820201623-nt.html",
@@ -167,76 +237,6 @@
       "link": "https://www.abc.es/espana/castilla-la-mancha/castillala-mancha-sigue-tener-comunicacion-oficial-sobre-20260820183442-nt.html",
       "desc": "El Gobierno de Castilla-La Mancha asegura no haber recibido ninguna comunicación oficial del Ejecutivo central sobre el inicio del traslado a la región de menores migrantes no acompañados que permanecen en Ceuta tras cruzar la frontera el pasado 30 de julio. F",
       "date": "Thu, 20 Aug 2026 18:34:42 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "La Universidad de Gante anuncia medidas contra el instigador del linchamiento a Arday",
-      "link": "https://www.lavanguardia.com/vida/20260820/11617265/universidad-gante-anuncia-medidas-instigador-linchamiento-jason-arday.html",
-      "desc": "Nathan Cofnas, que ha hecho sonadas declaraciones cuestionando la capacidad intelectual de las personas negras, promovió las acusaciones contra una parte de la producción académica del profesor&nbsp;",
-      "date": "20 Aug 2026 18:31:55 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "La Xunta aboga por construir más embalses y recurrir a pozos subterráneos frente a la sequía",
-      "link": "https://www.abc.es/espana/galicia/xunta-aboga-construir-embalses-recurrir-pozos-subterraneos-20260820182148-nt.html",
-      "desc": "La Xunta de Galicia plantea ampliar la red de almacenamiento hídrico de la comunidad como respuesta al déficit de lluvias. La conselleira de Medio Ambiente e Cambio Climático, Ángeles Vázquez, ha defendido este jueves la necesidad de proyectar nuevas infraestr",
-      "date": "Thu, 20 Aug 2026 18:21:49 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Detenido uno de los ocupas que aterrorizaron a los vecinos de una finca de la calle Muntaner",
-      "link": "https://www.lavanguardia.com/local/barcelona/20260820/11617263/detenido-ocupas-aterrorizaron-vecinos-finca-calle-muntaner.html",
-      "desc": "La vivienda se había convertido en un punto de encuentro de personas con problemas con las drogas",
-      "date": "20 Aug 2026 18:20:34 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "Muere un hombre en un accidente en la A-4 a la altura Santa Cruz de Mudela (Ciudad Real)",
-      "link": "https://www.abc.es/espana/castilla-la-mancha/muere-hombre-accidente-altura-santa-cruz-mudela-20260820175741-nt.html",
-      "desc": "Un hombre de 55 años ha fallecido y una mujer de 56 ha resultado herida este jueves tras la salida de vía del turismo en el que viajaban por la A-4, a su paso por Santa Cruz de Mudela, en la provincia de Ciudad Real. El accidente se ha producido poco antes de ",
-      "date": "Thu, 20 Aug 2026 17:57:42 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "El PSOE pide a la Junta un plan de 150 millones de euros en ayudas directas al sector primario de Castilla y León",
-      "link": "https://www.abc.es/espana/psoe-pide-junta-plan-150-millones-euros-20260820173723-nt.html",
-      "desc": "El secretario general del PSOE de Castilla y León, Carlos Martínez, pedía este jueves a la Junta que ponga en marcha un plan de 150 millones de euros en ayudas directas que para paliar la actual situación del campo de la Comunidad, que «se asfixia», y proponía",
-      "date": "Thu, 20 Aug 2026 17:47:02 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "El Córdoba CF realiza la tradicional ofrenda a San Rafael: «Esta ciudad es de Primera, ojalá lo sea también en el fútbol»",
-      "link": "https://www.abc.es/espana/andalucia/cordoba/cordoba-cf/cordoba-realiza-tradicional-ofrenda-san-rafael-ciudad-20260820174355-nts.html",
-      "desc": "El Córdoba CF ha realizado este jueves en la Iglesia del Juramento la tradicional visita y ofrenda floral a San Rafael, Custodio de la ciudad, ante el inicio de una nueva temporada. Una representación de la entidad blanquiverde , encabezada por el CEO del club",
-      "date": "Thu, 20 Aug 2026 17:43:55 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "El Ayuntamiento reabre el acceso al cementerio de la Fuensanta cuatro años después de su colapso",
-      "link": "https://www.abc.es/espana/andalucia/cordoba/ayuntamiento-reabre-acceso-cementerio-fuensanta-cuatro-anos-20260820141832-nts.html",
-      "desc": "Cuatro años después el acceso al cementerio de Nuestra Señora de la Fuensanta desde la antigua Nacional IV vuelve a estar disponible. Su reapertura al tráfico, que también afecta a vecinos de urbanizaciones próximas, ha tenido lugar este jueves después de una ",
-      "date": "Thu, 20 Aug 2026 17:34:21 +0200",
       "source": "ABC",
       "color": "#c0392b",
       "feedId": "ABC",
