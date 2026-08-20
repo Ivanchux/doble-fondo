@@ -1,22 +1,222 @@
 {
-  "updated": "2026-08-20T06:36:48Z",
+  "updated": "2026-08-20T08:31:30Z",
   "count": 24,
   "items": [
     {
-      "title": "Granada vuelve a temblar con un terremoto de magnitud 3,4",
-      "link": "https://www.abc.es/espana/andalucia/granada/granada-vuelve-temblar-terremoto-magnitud-20260820075454-nts.html",
-      "desc": "Los granadinos intentan recuperar la tranquilidad tras los dos terremotos de gran magnitud que sorprendieron a la ciudad nazarí el pasado sábado 15 y martes 18 de agosto. Lo publicaba este periódico la jornada del miércoles, tras un día sin terremotos, Granada",
-      "date": "Thu, 20 Aug 2026 07:54:54 +0200",
+      "title": "Muere un hombre de 74 años atropellado en la avenida de América de Madrid",
+      "link": "https://www.abc.es/espana/madrid/muere-hombre-anos-atropellado-avenida-america-madrid-20260820101916-nt.html",
+      "desc": "Un hombre de 74 años ha fallecido en Madrid en la noche de este miércoles tras sufrir un atropello cuando cruzaba la avenida de América sin emplear un paso habilitado para ello, según ha informado Emergencias Madrid. El accidente ha tenido lugar alrededor de l",
+      "date": "Thu, 20 Aug 2026 10:19:17 +0200",
       "source": "ABC",
       "color": "#c0392b",
       "feedId": "ABC",
       "caso": "other"
     },
     {
-      "title": "Compromís lanza su 'prioridad nacional': prohibir la compra de vivienda a no residentes",
-      "link": "https://www.abc.es/espana/comunidad-valenciana/alicante/compromis-lanza-prioridad-nacional-prohibir-compra-vivienda-20260820211744-nt.html",
-      "desc": "Compromís ha exigido al Gobierno prohibir la compra de vivienda a población no residente en Alicante para garantizar el derecho a los censados allí. Aunque no lo ha definido así, el planteamiento entraña de facto una 'prioridad nacional'. Contrasta este veto s",
-      "date": "Thu, 20 Aug 2026 07:48:06 +0200",
+      "title": "Este festival celebra sus 25 años en Bergondo (La Coruña) con doce horas de conciertos gratis",
+      "link": "https://www.abc.es/espana/galicia/festival-celebra-anos-bergondo-coruna-doce-horas-20260820101807-nt.html",
+      "desc": "Bergondo, en la provincia de La Coruña , se prepara para celebrar este sábado 22 de agosto, a partir de las 13.00 horas , la vigésimo quinta edición de uno de los festivales de música tradicional más veteranos de Galicia. La cita, reúne este año el cartel más ",
+      "date": "Thu, 20 Aug 2026 10:18:07 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Investigado por estafar más de 1.000 euros con amenazas de muerte a un vecino de Salamanca",
+      "link": "https://www.abc.es/espana/castilla-leon/investigado-estafar-1000-euros-amenazas-muerte-vecino-20260820095338-nt.html",
+      "desc": "La CiberComandancia de la Guardia Civil ha esclarecido un delito de estafa realizado, presuntamente, mediante amenazas de muerte y extorsión mediante la aplicación de mensajería WhatsApp en la que la víctima, un vecino de Salamanca, llegó a entregar más de mil",
+      "date": "Thu, 20 Aug 2026 09:55:25 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "El papa León XIV recibirá el lunes a más de un centenar de personas de Marsodeto",
+      "link": "https://www.abc.es/espana/castilla-la-mancha/toledo/papa-leon-xiv-recibira-lunes-centenar-personas-20260820094431-nt.html",
+      "desc": "El papa León XIV recibirá el próximo 24 de agosto, a las once de la mañana en audiencia privada en el Vaticano a más de un centenar de personas pertenecientes o vinculadas a la Federación Provincial de Personas con Discapacidad Intelectual Marsodeto. Al frente",
+      "date": "Thu, 20 Aug 2026 09:49:03 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "La localidad de Alicante que ha dormido este jueves a 39 grados: «La noche ha sido dantesca»",
+      "link": "https://www.abc.es/espana/comunidad-valenciana/localidad-alicante-dormido-jueves-grados-noche-dantesca-20260820094527-nt.html",
+      "desc": "La Comunidad Valenciana ha vivido este jueves una madrugada histórica en la que la localidad alicantina de Denia ha registrado 39 grados. Según ha indicado la Associació Valenciana de Meteorologia (Avamet) en 'X', a las 00 horas de este jueves se han registrad",
+      "date": "Thu, 20 Aug 2026 09:45:27 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "La propuesta de un cómico granadino: hacer un álbum de cromos de los terremotos",
+      "link": "https://www.abc.es/espana/andalucia/granada/propuesta-comico-granadino-album-cromos-terremotos-20260820094435-nts.html",
+      "desc": "Se puede hacer humor de todo, ya dijo Woody Allen que la comedia es tragedia más tiempo. Ahora que la cosa parece haberse calmado –aunque casi nadie se fía de lo que pueda pasar en los próximos días- el humorista granadino Christian García ha colgado en sus re",
+      "date": "Thu, 20 Aug 2026 09:44:35 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Neutralizados seis cohetes granífugos localizados en una vivienda de Pétrola (Albacete)",
+      "link": "https://www.abc.es/espana/castilla-la-mancha/toledo/pueblos/neutralizados-seis-cohetes-granifugos-localizados-vivienda-petrola-20260820093908-nt.html",
+      "desc": "Técnicos Especialistas en Desactivación de Artefactos Explosivos (TEDAX) de la Guardia Civil de Alicante han neutralizado seis cohetes granífugos , en avanzado estado de deterioro, localizados en el interior de una vivienda de la localidad albaceteña de Pétrol",
+      "date": "Thu, 20 Aug 2026 09:39:09 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Un joven mata a su tío de una puñalada en el corazón en Massanassa (Valencia)",
+      "link": "https://www.abc.es/espana/comunidad-valenciana/joven-mata-tio-punalada-corazon-massanassa-valencia-20260820093044-nt.html",
+      "desc": "La Guardia Civil ha detenido en la madrugada de este jueves a un hombre de 22 años por presuntamente matar con un cuchillo a su tío en plena calle en la localidad valenciana de Massanassa. La agresión comenzó con una pelea en un bar nocturno, según las primera",
+      "date": "Thu, 20 Aug 2026 09:30:45 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Adiós a la ola de calor en Galicia tras la llegada de un frente atlántico",
+      "link": "https://www.abc.es/espana/galicia/adios-ola-calor-galicia-tras-llegada-frente-20260820093003-nt.html",
+      "desc": "Galicia dice adiós, al menos por el momento, a las altas temperaturas. La llegada este jueves de un frente poco activo traerá aire atlántico, más fresco y húmedo, a toda la comunidad, lo que se traducirá en un aumento de la nubosidad y un descenso notable de l",
+      "date": "Thu, 20 Aug 2026 09:30:04 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "«Controlados» los dos focos del incendio Cáceres que han saltado a Salamanca",
+      "link": "https://www.abc.es/espana/castilla-leon/controlados-dos-focos-incendio-caceres-saltado-salamanca-20260820092647-nt.html",
+      "desc": "El incendio forestal que afecta desde el martes a Pinofranqueado (Cáceres) ha alcanzado este miércoles la provincia de Salamanca a través del municipio de Agallas y ha afectado a dos pequeños puntos en Vegas de Domingo Rey, donde ya «no hay llama» y ambos foco",
+      "date": "Thu, 20 Aug 2026 09:29:06 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "MENTIR AL PUEBLO ES TRAICIONARLE",
+      "link": "https://www.abc.es/espana/andalucia/cordoba/mentir-pueblo-traicionarle-20260820092650-nts.html",
+      "desc": "Confieso que me ha sorprendido el mensaje leído en un medio de comunicación: «Se busca político que no confunda el bolsillo público con el suyo ». Verdaderamente encontrar en la España actual un político honrado que no use el dinero de todos los españoles en s",
+      "date": "Thu, 20 Aug 2026 09:26:50 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Dónde ir de fiesta este jueves 20 de agosto en la provincia de Toledo",
+      "link": "https://www.abc.es/espana/castilla-la-mancha/toledo/pueblos/fiesta-jueves-agosto-provincia-toledo-20260820070000-nt.html",
+      "desc": "Escalona -A las 21,30 horas: pasacalles con la charanga 'Imparables'. -A las 23,30 horas: concentración de peñas y chupinazo. -A las 23,45 horas: verbena con la orquesta 'Atlántida'. Layos -A las 20,00 horas: tardeo con dj locales. -A las 20,30 horas: concurso",
+      "date": "Thu, 20 Aug 2026 09:26:30 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Azucaica o la carretera de Ávila, alternativas para el futuro suelo industrial de Toledo",
+      "link": "https://www.abc.es/espana/castilla-la-mancha/toledo/junta-plantea-llevar-futuro-suelo-industrial-toledo-20260819092146-nt.html",
+      "desc": "El futuro crecimiento industrial de Toledo debería buscar nuevos espacios fuera de Santa María de Benquerencia una vez completada la ampliación ya prevista en esta zona. La Junta plantea estudiar dos posibles ámbitos para cubrir las próximas necesidades de sue",
+      "date": "Thu, 20 Aug 2026 09:21:46 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Comienza el traslado de los inmigrantes de la playa del Trampolín a dos centros temporales con 1.800 camas",
+      "link": "https://www.lavanguardia.com/politica/20260820/11616948/comienza-traslado-inmigrantes-playa-trampolin-dos-centros-temporales-1-800-camas.html",
+      "desc": "Las plazas se ampliarán progresivamente conforme finalicen los trabajos de adecuación de los demás emplazamientos previstos",
+      "date": "20 Aug 2026 09:20:03 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
+    {
+      "title": "Susto en Algeciras por un incendio cerca de la urbanización Sotorebolo",
+      "link": "https://www.abc.es/espana/andalucia/cadiz/susto-algeciras-incendio-cerca-urbanizacion-sotorebolo-20260820091626-nts.html",
+      "desc": "Susto en la ciudad gaditana de Algeciras durante la tarde noche del pasado miércoles 19 de agosto . Un incendio cerca de la urbanización de Sotorebolo sembró la preocupación entre los vecinos. Gracias al esfuerzo de los Bomberos de Algeciras , así como de la P",
+      "date": "Thu, 20 Aug 2026 09:16:27 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "LA ODISEA DE CHRISTOPHER NOLAN",
+      "link": "https://www.abc.es/espana/andalucia/cordoba/odisea-christopher-nolan-20260820090805-nts.html",
+      "desc": "Se va al cine a adentrarse en una historia que sorprenda , haga reír, llorar, temer, disfrutar, incomode o entretenga, sin saber qué ocurrirá y dejándose llevar por la palabra, la imagen y el sonido, en un tiempo y un espacio a los que se es conducido. El espe",
+      "date": "Thu, 20 Aug 2026 09:08:05 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Córdoba, capital española en la que más bajó el 'sello' del coche en 2025",
+      "link": "https://www.abc.es/espana/andalucia/cordoba/cordoba-capital-espanola-bajo-sello-coche-2025-20260820090601-nts.html",
+      "desc": "Una de las grandes señas de identidad de la labor del gobierno del PP desde que esta fuerza política regreso a la Alcaldía en 2019 ha sido la rebaja de la presión impositiva del Ayuntamiento de la capital. Ésta se viene produciendo durante los dos últimos mand",
+      "date": "Thu, 20 Aug 2026 09:06:02 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "La Guardia Civil espera a unos ladrones de bancos junto al butrón y los detiene antes de su tercer golpe",
+      "link": "https://www.abc.es/espana/comunidad-valenciana/cazan-banda-butroneros-robando-bancos-valencia-20260820085356-nt.html",
+      "desc": "La Guardia Civil ha detenido a una banda de ladrones de bancos cuando trataban de cometer su tercer robo en Valencia . En los asaltos anteriores, los delincuentes consiguieron sustraer más de 120.000 euros de las sucursales mediante butrones e intimidando a lo",
+      "date": "Thu, 20 Aug 2026 08:58:52 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Harry y Meghan regresan al Reino Unido seis años después de su marcha a California",
+      "link": "https://www.lavanguardia.com/gente/20260820/11616941/harry-meghan-regresan-reino-unido-seis-anos-marcha-california.html",
+      "desc": "Los duques de Sussex ya han matriculado a sus dos hijos en colegios británicos antes de su vuelta a Londres de cara a septiembre",
+      "date": "20 Aug 2026 08:51:49 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
+    {
+      "title": "La Policía desaloja a 4.000 inmigrantes de la playa del Trampolín en Ceuta",
+      "link": "https://www.abc.es/espana/policia-despliega-dispositivo-desalojar-inmigrantes-playa-trampolin-20260820085008-nt.html",
+      "desc": "La Policía Nacional ha desplegado este jueves un importante dispositivo en la playa del Trampolín para desalojar a los 4.000 inmigrantes que habían montado el campamento en la costa. Agentes de la Unidad de Intervención Policial (UIP) están acordonando la zona",
+      "date": "Thu, 20 Aug 2026 08:50:08 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "La calidad del aire empeora en Orense por el humo de los incendios de Portugal",
+      "link": "https://www.abc.es/espana/galicia/calidad-aire-empeora-orense-humo-incendios-portugal-20260820085003-nt.html",
+      "desc": "La calidad del aire sigue siendo mala este jueves en varios puntos de la provincia de Orense por el humo de los incendios forestales que afectan al norte de Portugal, según los datos actualizados de MeteoGalicia, aunque mejora ya en uno de los puntos afectados",
+      "date": "Thu, 20 Aug 2026 08:50:03 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Granada vuelve a temblar con un terremoto de magnitud 3,4",
+      "link": "https://www.abc.es/espana/andalucia/granada/granada-vuelve-temblar-terremoto-magnitud-20260820075454-nts.html",
+      "desc": "Los granadinos intentan recuperar la tranquilidad tras los dos terremotos de gran magnitud que sorprendieron a la ciudad nazarí el pasado sábado 15 y martes 18 de agosto. Lo publicaba este periódico la jornada del miércoles, tras un día sin terremotos, Granada",
+      "date": "Thu, 20 Aug 2026 07:54:54 +0200",
       "source": "ABC",
       "color": "#c0392b",
       "feedId": "ABC",
@@ -33,210 +233,10 @@
       "caso": "other"
     },
     {
-      "title": "Venida de la Virgen del Rocío 2026, en directo: llegada a Almonte y última hora",
-      "link": "https://www.abc.es/espana/andalucia/rocio/venida-virgen-rocio-2026-directo-llegada-almonte-20260820150239-dis.html",
-      "desc": "Almonte cumple la tradición y recibe ansiosa a la Virgen del Rocío. Tras una madrugada de ensueño por los caminos de los Llanos y Los Taranjales, la Blanca Paloma llega al Alto del Molinillo, en El Chaparral, al amanecer de este jueves, 20 de agosto . En este ",
-      "date": "Thu, 20 Aug 2026 06:56:55 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "El «efecto Ceuta» amenaza ya la costa andaluza",
-      "link": "https://www.abc.es/espana/andalucia/efecto-ceuta-amenaza-costa-andaluza-20260820133345-nts.html",
-      "desc": "La crisis migratoria desatada en Ceuta a finales de julio comienza a tener reflejo en el otro lado del Estrecho. La Guardia Civil, a través de su principal sindicato, ha alertado de un repunte de las llegadas de inmigrantes en patera a la costa gaditana y de l",
-      "date": "Thu, 20 Aug 2026 06:55:51 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
       "title": "China disputa el liderazgo a Europa en el 40% de sus industrias clave",
       "link": "https://www.lavanguardia.com/economia/20260820/11616736/china-disputa-liderazgo-europa-40-industrias-clave.html",
       "desc": "Lagarde alerta de que Pekín rivaliza con nichos europeos de valor añadido",
       "date": "20 Aug 2026 06:00:00 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "Feijóo quiere expulsar a los que entraron en Ceuta y rechaza el chantaje de Rabat",
-      "link": "https://www.lavanguardia.com/politica/20260820/11616740/feijoo-quiere-expulsar-entraron-ceuta-rechaza-chantaje-rabat.html",
-      "desc": "El líder del PP presenta un plan de siete puntos que incluye fortificar la frontera sur",
-      "date": "20 Aug 2026 06:00:00 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "El laberinto de los menores migrantes",
-      "link": "https://www.lavanguardia.com/politica/20260820/11616765/laberinto-menores-migrantes.html",
-      "desc": "Ceuta asegura desconocer el plan del Ministerio de Infancia para trasladar niñas a la Península",
-      "date": "20 Aug 2026 06:00:00 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "Polvorines",
-      "link": "https://www.lavanguardia.com/politica/20260820/11616667/polvorines.html",
-      "desc": "",
-      "date": "20 Aug 2026 06:00:00 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "Palestina: la resistencia pacífica salva a Taibe",
-      "link": "https://www.lavanguardia.com/internacional/20260820/11616715/resistencia-pacifica-salva-taibe.html",
-      "desc": "Una pequeña comunidad palestina se organiza para que nadie muera por las provocaciones de los colonos israelíes",
-      "date": "20 Aug 2026 06:00:00 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "Un Mourinho con piel de cordero",
-      "link": "https://www.lavanguardia.com/deportes/real-madrid/20260820/11616756/mourinho-piel-cordero.html",
-      "desc": "El técnico, que se abrió en el documental de Netflix para explicar su carrera, teje una estrategia infalible en el Real Madrid donde pone a los jugadores en la diana",
-      "date": "20 Aug 2026 06:00:00 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "Decomisan 27 kilos de sushi en el maletero de una moto con destino a la Feria de Málaga",
-      "link": "https://www.lavanguardia.com/local/andalucia/20260820/11616680/decomisan-27-kilos-sushi-maletero-moto-destino-feria-malaga.html",
-      "desc": "La Policía Local de Málaga ha destruido 91 tubos de sushi",
-      "date": "20 Aug 2026 06:00:00 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "La gestión de la crisis de Sánchez en Ceuta amenaza con provocar la división de los socialistas europeos",
-      "link": "https://www.abc.es/espana/gestion-crisis-sanchez-ceuta-amenaza-provocar-division-20260819013946-nt.html",
-      "desc": "Pedro Sánchez está poniendo a prueba las costuras del Partido de los Socialistas Europeos (PSE). Con su intento de que el partido denuncie a la danesa Mette Frederiksen por haber pactado con la ultraderechista italiana Giorgia Meloni deja en una situación muy ",
-      "date": "Thu, 20 Aug 2026 01:39:46 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "La Justicia investiga ya a una mafia que traslada inmigrantes de Ceuta a la Península tras la avalancha",
-      "link": "https://www.abc.es/espana/justicia-investiga-mafia-traslada-inmigrantes-ceuta-peninsula-20260820013933-nt.html",
-      "desc": "Dos patrones marroquíes de 'pateras-taxi' son el hilo del que están tirando los agentes de la Guardia Civil para descubrir y desmantelar a una mafia de la trata que está trasladado a inmigrantes desde Ceuta a la Península, según informan fuentes de la investig",
-      "date": "Thu, 20 Aug 2026 01:39:33 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "La factura del PNV a Sánchez por su apoyo desde 2023: una cárcel, el troceo de la Seguridad Social y cientos de funcionarios",
-      "link": "https://www.abc.es/espana/pais-vasco/factura-cobrado-pnv-sanchez-cambio-apoyo-resistir-20260803013850-nt.html",
-      "desc": "Después de confirmar que los siete diputados del PNV en el Congreso iban a votar 'sí' en la investidura de Pedro Sánchez en 2023, Andoni Ortuzar valoró en público lo pactado con el líder del PSOE como «bueno» para el País Vasco: «Hay un nítido avance en el cum",
-      "date": "Thu, 20 Aug 2026 01:38:50 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Alicante, refugio de fugitivos europeos por el anonimato entre extranjeros",
-      "link": "https://www.abc.es/espana/comunidad-valenciana/alicante/alicante-refugio-fugitivos-europeos-anonimato-extranjeros-20260808013822-nt.html",
-      "desc": "El anonimato de muchos habitantes en las urbanizaciones de la Costa Blanca alicantina ha propiciado que esta zona se haya convertido en un refugio para fugitivos huidos de la Justicia en Europa. Cada mes se captura en este provincia a alguno de estos delincuen",
-      "date": "Thu, 20 Aug 2026 01:38:22 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Abel, el joven que lo perdió todo bajo las llamas: «Estoy muy asustado, no tengo más recursos»",
-      "link": "https://www.abc.es/espana/madrid/dia-abel-perdio-casa-bajo-llamas-asustado-20260812013802-nt.html",
-      "desc": "Abel Viedma no es ganadero ni agricultor. Tampoco horticultor ni posee un rebaño que pastorear. No vive, por así decirlo, del campo. Es programador, de hecho. Pero volcó en el entorno rural una de sus grandes pasiones. Vivir en contacto con la naturaleza era, ",
-      "date": "Thu, 20 Aug 2026 01:38:02 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "El pueblo de Madrid que se rebela contra su alcalde por suspender las fiestas: «¡Al pilón!»",
-      "link": "https://www.abc.es/espana/madrid/pueblo-madrid-rebela-alcalde-suspender-fiestas-pilon-20260819012958-nt.html",
-      "desc": "¿Puede haber una medida más impopular en un pueblo que suspender sus fiestas de verano? En Villarejo de Salvanés, los vecinos se han rebelado contra la decisión de su alcalde de dejarlos sin las actividades más esperadas por niños, jóvenes y mayores en esta ép",
-      "date": "Thu, 20 Aug 2026 01:29:58 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Aleix Martel: «Los maestros tienen que hacer autocrítica sobre su falta de libertad»",
-      "link": "https://www.abc.es/espana/madrid/aleix-martel-maestros-autocritica-sobre-falta-libertad-20260820012303-nt.html",
-      "desc": "Ya se acerca la vuelta al cole, pero antes, los días 22 y 23 de agosto el claustro del Instituto San Isidro se transformará en una aula con 'El Profesor' (21.30h, 15 euros), una obra musical protagonizada por Aleix Martel que recorre la evolución de la figura ",
-      "date": "Thu, 20 Aug 2026 01:23:03 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Polémica en Serranillos del Valle: el PP denuncia un vídeo del alcalde «ebrio»",
-      "link": "https://www.abc.es/espana/madrid/polemica-serranillos-valle-pp-denuncia-video-alcalde-20260819012231-nt.html",
-      "desc": "Las fiestas patronales de San Roque en Serranillos del Valle han acabado con polémica, y otra vez el protagonista ha sido el alcalde, Rubén Fernández, de Transparencia Democracia Serranillos, que en los últimos meses ha copado titulares por imponer multas al p",
-      "date": "Thu, 20 Aug 2026 01:22:31 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Esperando el tren de danas",
-      "link": "https://www.lavanguardia.com/opinion/20260820/11616770/esperando-tren-danas.html",
-      "desc": "La prevención del cambio climático debería ser una prioridad, pero los vientos políticos no propician acuerdos",
-      "date": "20 Aug 2026 00:05:00 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "Muere Francisco Jiménez, fundador del Grupo Puma y destacado empresario cordobés",
-      "link": "https://www.abc.es/espana/andalucia/cordoba/muere-francisco-jimenez-fundador-grupo-puma-destacado-20260819234019-nts.html",
-      "desc": "Francisco Jiménez , fundador del Grupo Puma y destacadísimo representante del empresariado de Córdoba, ha fallecido en Almuñécar (Granada), según han explicado a este medio este miércoles fuentes de la patronal CECO. Con su capacidad de emprendimiento fue capa",
-      "date": "Wed, 19 Aug 2026 23:40:19 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Siete jóvenes  atendidos tras salirse una furgoneta de la vía en Sepúlveda (Segovia)",
-      "link": "https://www.abc.es/espana/castilla-leon/siete-jovenes-atendidos-tras-salirse-furgoneta-via-20260819221742-nt.html",
-      "desc": "Siete jóvenes de entre 15 y 22 años atendidas han sido atendidos tras salirse de la vía y volcar una furgoneta en el kilómetro 17 de la carretera SG-V-2323, en Sepúlveda (Segovia), según ha informado el Centro de Emergencias 112 de Castilla y León. El accident",
-      "date": "Wed, 19 Aug 2026 22:18:57 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "El Barça se lleva un Gamper en el que Flick da pocas pistas a la espera del nueve",
-      "link": "https://www.lavanguardia.com/deportes/20260819/11616771/barca-lleva-gamper-flick-da-pocas-pistas-espera-nueve.html",
-      "desc": "El equipo azulgrana gana sin alardes al Al-Ahly egipcio con un partido marcado por los múltiples cambios del técnico (Koundé hizo de central) y un calor sofocante",
-      "date": "19 Aug 2026 22:15:56 +0200",
       "source": "La Vanguardia",
       "color": "#8e44ad",
       "feedId": "LaVanguardia",
