@@ -1,7 +1,137 @@
 {
-  "updated": "2026-08-20T14:30:45Z",
+  "updated": "2026-08-20T16:28:07Z",
   "count": 24,
   "items": [
+    {
+      "title": "La Xunta aboga por construir más embalses y recurrir a pozos subterráneos frente a la sequía",
+      "link": "https://www.abc.es/espana/galicia/xunta-aboga-construir-embalses-recurrir-pozos-subterraneos-20260820182148-nt.html",
+      "desc": "La Xunta de Galicia plantea ampliar la red de almacenamiento hídrico de la comunidad como respuesta al déficit de lluvias. La conselleira de Medio Ambiente e Cambio Climático, Ángeles Vázquez, ha defendido este jueves la necesidad de proyectar nuevas infraestr",
+      "date": "Thu, 20 Aug 2026 18:21:49 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Muere un hombre en un accidente en la A-4 a la altura Santa Cruz de Mudela (Ciudad Real)",
+      "link": "https://www.abc.es/espana/castilla-la-mancha/muere-hombre-accidente-altura-santa-cruz-mudela-20260820175741-nt.html",
+      "desc": "Un hombre de 55 años ha fallecido y una mujer de 56 ha resultado herida este jueves tras la salida de vía del turismo en el que viajaban por la A-4, a su paso por Santa Cruz de Mudela, en la provincia de Ciudad Real. El accidente se ha producido poco antes de ",
+      "date": "Thu, 20 Aug 2026 17:57:42 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "El PSOE pide a la Junta un plan de 150 millones de euros en ayudas directas al sector primario de Castilla y León",
+      "link": "https://www.abc.es/espana/psoe-pide-junta-plan-150-millones-euros-20260820173723-nt.html",
+      "desc": "El secretario general del PSOE de Castilla y León, Carlos Martínez, pedía este jueves a la Junta que ponga en marcha un plan de 150 millones de euros en ayudas directas que para paliar la actual situación del campo de la Comunidad, que «se asfixia», y proponía",
+      "date": "Thu, 20 Aug 2026 17:47:02 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "El Córdoba CF realiza la tradicional ofrenda a San Rafael: «Esta ciudad es de Primera, ojalá lo sea también en el fútbol»",
+      "link": "https://www.abc.es/espana/andalucia/cordoba/cordoba-cf/cordoba-realiza-tradicional-ofrenda-san-rafael-ciudad-20260820174355-nts.html",
+      "desc": "El Córdoba CF ha realizado este jueves en la Iglesia del Juramento la tradicional visita y ofrenda floral a San Rafael, Custodio de la ciudad, ante el inicio de una nueva temporada. Una representación de la entidad blanquiverde , encabezada por el CEO del club",
+      "date": "Thu, 20 Aug 2026 17:43:55 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "El Ayuntamiento reabre el acceso al cementerio de la Fuensanta cuatro años después de su colapso",
+      "link": "https://www.abc.es/espana/andalucia/cordoba/ayuntamiento-reabre-acceso-cementerio-fuensanta-cuatro-anos-20260820141832-nts.html",
+      "desc": "Cuatro años después el acceso al cementerio de Nuestra Señora de la Fuensanta desde la antigua Nacional IV vuelve a estar disponible. Su reapertura al tráfico, que también afecta a vecinos de urbanizaciones próximas, ha tenido lugar este jueves después de una ",
+      "date": "Thu, 20 Aug 2026 17:34:21 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Investigado un joven de 19 años por conducir un patinete que alcanzaba los 79 kilómetros por hora en Palencia",
+      "link": "https://www.abc.es/espana/castilla-leon/investigado-joven-anos-conducir-patinete-alcanzaba-kilometros-20260820171245-nt.html",
+      "desc": "Agentes de la Policía Local de Palencia han investigado a un joven de 19 años por un presunto delito contra la seguridad vial tras ser sorprendido circulando con un patinete modificado que, según las comprobaciones realizadas por los agentes, alcanzaba los 79 ",
+      "date": "Thu, 20 Aug 2026 17:12:45 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "El Palacio Real  estrena un centro de recepción de visitantes más amplio y accesible",
+      "link": "https://www.abc.es/espana/madrid/palacio-real-estrena-centro-recepcion-visitantes-amplio-20260820165437-nt.html",
+      "desc": "Los turistas (y locales) que visiten desde este jueves el Palacio Real se encontrarán con una nueva recepción «que mejora la acogida, orientación y acceso» al monumento más visitado de Patrimonio Nacional, del que solo el año pasado disfrutaron 1,7 millones de",
+      "date": "Thu, 20 Aug 2026 16:55:44 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Una tromba de agua y rachas de viento de 143 km/h revientan el techo de una iglesia en Alzira",
+      "link": "https://www.abc.es/espana/comunidad-valenciana/tromba-agua-rachas-viento-143-kmh-revientan-20260820165456-nt.html",
+      "desc": "Las fuertes tormentas que han descargado este jueves al mediodía sobre la zona de la Ribera han provocado notables desperfectos en diferentes municipios. En Alzira, una intensa tromba de agua y las fuertes rachas de viento han derribado el techo de la Iglesia ",
+      "date": "Thu, 20 Aug 2026 16:54:56 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Reventones térmicos con granizo y vientos de 149 kilómetros por hora en Valencia",
+      "link": "https://www.abc.es/espana/comunidad-valenciana/reventones-termicos-granizo-vientos-149-kilometros-hora-20260820165111-nt.html",
+      "desc": "El fenómeno de los reventones térmicos ha traído violentas tormentas este jueves a amplias zonas en la Comunitat Valenciana, en algunos casos con granizo y con fuertes rachas de viento, de hasta 149 kilómetros por hora en Sumacàrcer y múltiples daños en difere",
+      "date": "Thu, 20 Aug 2026 16:51:12 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "La tierra prometida es Almonte",
+      "link": "https://www.abc.es/espana/andalucia/rocio/tierra-prometida-almonte-20260820164952-nts.html",
+      "desc": "Por los caminos aquello parecía un éxodo. Una inmensa columna humana avanzaba entre parcelas primero y pinares después en busca de la tierra prometida. Familias enteras, mayores, jóvenes y niños; gentes llegadas de todos los rincones de España y con todos los ",
+      "date": "Thu, 20 Aug 2026 16:49:52 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "El festival EnClave de Calle llenará las calles de Burgos de danza, magia, circo",
+      "link": "https://www.abc.es/espana/castilla-leon/festival-enclave-calle-llenara-calles-burgos-danza-20260820163705-nt.html",
+      "desc": "El festival EnClave de Calle celebra del 10 al 13 de septiembre su vigésimo quinta edición y volverá a sacar la cultura a las calles de Burgos con espectáculos de danza, magia y circo . El Ayuntamiento, de la mano de su alcaldesa, Cristina Ayala, y el concejal",
+      "date": "Thu, 20 Aug 2026 16:43:50 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Galicia perderá más de 125.000 personas en edad de trabajar en la próxima década",
+      "link": "https://www.abc.es/espana/galicia/galicia-perdera-125000-personas-edad-trabajar-proxima-20260820164338-nt.html",
+      "desc": "La pirámide de población se invierte a pasos agigantados, con una consecuencias que afectan a todos los sectores sociales, con especial incidencia en el terreno laboral. Según los expertos, la transformación demográfica ya está aquí y constituye uno de los gra",
+      "date": "Thu, 20 Aug 2026 16:43:38 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Varios reventones húmedos con vientos de 149 km/h causan graves daños en Alzira",
+      "link": "https://www.lavanguardia.com/local/valencia/20260820/11617195/tormentas-rachas-149-km-h-derriban-techo-iglesia-alzira-causan-graves-danos.html",
+      "desc": "El temporal deja también árboles caídos, cortes de carreteras y retrasos ferroviarios tras registrar fuertes rachas de viento",
+      "date": "20 Aug 2026 16:16:39 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
     {
       "title": "Prorrogado el secreto en la investigación sobre presunta corrupción en el Ayuntamiento de Soria",
       "link": "https://www.abc.es/espana/castilla-leon/prorrogado-secreto-investigacion-sobre-presunta-corrupcion-ayuntamiento-20260820161104-nt.html",
@@ -23,7 +153,7 @@
       "caso": "other"
     },
     {
-      "title": "Tensión en Ceuta: más de medio millar de insurgentes se rebelan y vuelven al asentamiento ilegal",
+      "title": "Tensión en Ceuta: más de medio millar de inmigrantes se rebelan y vuelven al asentamiento ilegal",
       "link": "https://www.abc.es/espana/tension-ceuta-medio-millar-insurgentes-rebelan-vuelven-20260820160535-nt.html",
       "desc": "Las labores de limpieza en la Playa del Trampolín se han tenido que interrumpir porque más de medio millar de inmigrantes han regresado a la costa y han protagonizado incidentes violentos, según explican fuentes policiales a ABC. Un nutrido grupo de marroquíes",
       "date": "Thu, 20 Aug 2026 16:05:36 +0200",
@@ -40,6 +170,16 @@
       "source": "ABC",
       "color": "#c0392b",
       "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Trump declara la “guerra económica” a Irán y amenaza a los países que negocien con el régimen",
+      "link": "https://www.lavanguardia.com/internacional/20260820/11617189/trump-anuncia-guerra-economica-iran-amenaza-paises-negocien-regimen.html",
+      "desc": "El presidente afirma que esta será “la operación económica más demoledora jamás emprendida” tras el estancamiento de la diplomacia",
+      "date": "20 Aug 2026 15:55:57 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
       "caso": "other"
     },
     {
@@ -83,7 +223,7 @@
       "caso": "other"
     },
     {
-      "title": "Un ex ingeniero de Meta testifica que Zuckerberg mintió para encubrir los daños a menores",
+      "title": "El testimonio de un ex ingeniero de Meta contra Zuckerberg: “Mi hija recibió insinuaciones y fotos sexuales en Instagram”",
       "link": "https://www.lavanguardia.com/vida/20260820/11617177/ex-ingeniero-meta-testifica-zuckerberg-mintio-encubrir-danos-menores.html",
       "desc": "Arturo Béjar, que trabajó cerca de ocho años en la compañía, testifica que el presidente y fundador de la plataforma mintió para encubrir los daños a menores",
       "date": "20 Aug 2026 15:25:32 +0200",
@@ -93,150 +233,10 @@
       "caso": "other"
     },
     {
-      "title": "CCOO pide que el cáncer de piel por la exposición solar laboral sea enfermedad profesional",
-      "link": "https://www.abc.es/espana/castilla-la-mancha/ccoo-pide-cancer-piel-exposicion-solar-laboral-20260820151742-nt.html",
-      "desc": "CCOO Castilla-La Mancha ha reclamado que las patologías relacionadas con la exposición prolongada a la radiación solar durante la jornada laboral sean reconocidas como enfermedades profesionales . El sindicato pide avanzar en este reconocimiento y reforzar las",
-      "date": "Thu, 20 Aug 2026 15:21:03 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Medio Rural detecta un caso de lengua azul en una explotación bovina de Chantada, cuarto foco de 2026",
-      "link": "https://www.abc.es/espana/galicia/medio-rural-detecta-lengua-azul-explotacion-bovina-20260820151738-nt.html",
-      "desc": "La Consellería do Medio Rural ha detectado a un animal bovino infectado por el serotipo 3 de la lengua azul en una explotación bovina de Chantada (Lugo), que supone el primero de este serotipo en la provincia y el cuarto foco de esta enfermedad confirmado en G",
-      "date": "Thu, 20 Aug 2026 15:17:38 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "El Camino de Santiago supera los 345.000 peregrinos en la recta final del verano",
-      "link": "https://www.abc.es/espana/galicia/camino-santiago-supera-345000-peregrinos-recta-final-20260814150000-nt.html",
-      "desc": "Con agosto ya en su segunda quincena y el verano llegando a su fin, el Camino de Santiago sigue sumando peregrinos día a día, manteniendo el ritmo que lo ha convertido en una de las rutas de peregrinación más transitadas del mundo. Según los datos oficiales de",
-      "date": "Thu, 20 Aug 2026 15:00:00 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "La Junta transformará Santa Fe en el nuevo museo de arte moderno y contemporáneo de la región",
-      "link": "https://www.abc.es/espana/castilla-la-mancha/toledo/junta-transformara-santa-nuevo-museo-arte-moderno-20260820144752-nt.html",
-      "desc": "El Gobierno de Castilla-La Mancha convertirá el museo de Santa Fe de Toledo en el nuevo museo de arte moderno y contemporáneo de la región . Para ello, se está llevando a cabo la reforma de sus 16 salas, con diferentes propuestas expositivas, además de otras a",
-      "date": "Thu, 20 Aug 2026 14:47:52 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Denunciados tres hombres por la venta de vapeadores irregulares en Cuenca",
-      "link": "https://www.abc.es/espana/castilla-la-mancha/denunciados-tres-hombres-venta-vapeadores-irregulares-cuenca-20260820144721-nt.html",
-      "desc": "La Guardia Civil de Cuenca, a través del Destacamento de Fiscal y Frontera de la Comandancia, ha llevado a cabo varias inspecciones en establecimientos de la capital para comprobar que los dispositivos conocidos como «vapers» comercializados cumplen la normati",
-      "date": "Thu, 20 Aug 2026 14:47:21 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "El alcalde de Talavera pide un estudio independiente que determine dónde y cómo instalar plantas de biometano",
-      "link": "https://www.abc.es/espana/castilla-la-mancha/toledo/talavera/alcalde-talavera-pide-estudio-independiente-determine-instalar-20260820144310-nt.html",
-      "desc": "Un día después de que el pleno municipal de Talavera de la Reina aprobase por unanimidad una moción de rechazo al proyecto de instalación de una planta de biometano en el entorno de la ciudad, el alcalde, José Julián Gregorio, ha reclamado a la Junta de Comuni",
-      "date": "Thu, 20 Aug 2026 14:43:10 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Bruselas avala que ACS, Telefónica, Santander y Gobierno opten a la gigafactoría",
+      "title": "Bruselas avala la operación de ACS, Telefónica, Santander y el Gobierno para optar a la gigafactoría",
       "link": "https://www.lavanguardia.com/economia/20260820/11617160/bruselas-avala-operacion-acs-telefonica-santander-gobierno-optar-gigafactoria.html",
       "desc": "España quiere participar en una de las principales infraestructuras europeas con un proyecto en Móra la Nova",
       "date": "20 Aug 2026 14:38:36 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "Unos niños recrearon el salto de la reja en miniatura durante la Venida de la Virgen del Rocío: «La cantera está asegurada»",
-      "link": "https://www.abc.es/espana/andalucia/rocio/ninos-recrearon-salto-reja-miniatura-venida-virgen-20260820143557-nts.html",
-      "desc": "Los rocieros han vivido con gran emoción y entusiasmo la Venida de la Virgen del Rocío 2026 . Se trata de un acontecimiento histórico que congregó una vez más a miles de devotos en torno a la Blanca Paloma para acompañarla durante su traslado a Almonte , donde",
-      "date": "Thu, 20 Aug 2026 14:35:57 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "La Junta pide que se declare zona catastrófica Valdueza y Bouzas tras la riada mortal",
-      "link": "https://www.abc.es/espana/castilla-leon/junta-pide-declare-zona-catastrofica-valdueza-bouzas-20260820143450-nt.html",
-      "desc": "La Junta de Castilla y León ha solicitado al Gobierno central la declaración de zona gravemente afectada por una emergencia de Protección Civil -la anterior zona catastrófica- las localidades bercianos de Valdueza y Bouzas tras la riada del pasado 15 de agosto",
-      "date": "Thu, 20 Aug 2026 14:34:51 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Vox acusa a Page de dar «mucha más atención» a menas que a mayores y dependientes de la región",
-      "link": "https://www.abc.es/espana/castilla-la-mancha/vox-acusa-page-dar-atencion-menas-mayores-20260820143307-nt.html",
-      "desc": "El portavoz parlamentario de Vox en las Cortes de Castilla-La Mancha, Iván Sánchez, ha acusado este jueves al Gobierno de Emiliano García-Page de ofrecer «mucha más atención» a los menores extranjeros no acompañados que a los mayores y personas dependientes de",
-      "date": "Thu, 20 Aug 2026 14:33:08 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Bruselas vuelve a insistir a España en la petición de devolver a «todos» los irregulares de Ceuta",
-      "link": "https://www.abc.es/espana/bruselas-vuelve-insistir-espana-peticion-devolver-irregulares-20260820142205-nt.html",
-      "desc": "La Comisión Europea ha vuelto a enviar el mensaje de que espera que todas las personas que entraron ilegalmente en Ceuta deben ser devueltas a Marruecos y que para que el espacio Schengen mantenga su eficacia se necesita imperativamente que las fronteras exter",
-      "date": "Thu, 20 Aug 2026 14:22:05 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Las incógnitas del regreso de Harry y Meghan a Inglaterra",
-      "link": "https://www.lavanguardia.com/gente/20260820/11617143/incognitas-regreso-harry-meghan-inglaterra.html",
-      "desc": "El duque de Sussex ha hecho méritos para que los miembros de la familia real no le reciban con una fiesta de bienvenida",
-      "date": "20 Aug 2026 14:15:50 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "Mercadona estrena en Guadalajara su nuevo modelo de supermercado en Castilla-La Mancha",
-      "link": "https://www.abc.es/espana/castilla-la-mancha/mercadona-estrena-guadalajara-nuevo-modelo-supermercado-castillala-20260820131412-nt.html",
-      "desc": "Mercadona ha estrenado en Guadalajara su nuevo modelo de supermercado, denominado 'Tienda 9', el primero de estas características que abre sus puertas en Castilla-La Mancha. La compañía ha invertido 2,9 millones de euros en la reforma del establecimiento situa",
-      "date": "Thu, 20 Aug 2026 14:15:15 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Las fiestas de San Antolín rondan el millón de euros de presupuesto y apuestan por llegar a todos los barrios",
-      "link": "https://www.abc.es/espana/castilla-leon/fiestas-san-antolin-rondan-millon-euros-presupuesto-20260820141327-nt.html",
-      "desc": "Palencia afrontará del 27 de agosto al 2 de septiembre las fiestas de San Antolín con un presupuesto que rondará el millón de euros , frente a los cerca de 900.000 euros del pasado año, según ha avanzado este jueves el concejal de Identidad Cultural, Turismo y",
-      "date": "Thu, 20 Aug 2026 14:13:27 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Segunda ola de la crisis de la gasolina en Rusia: largas colas y restricciones en Moscú",
-      "link": "https://www.lavanguardia.com/internacional/20260820/11617125/largas-colas-y-restricciones-de-suministro-en-moscu-en-la-segunda-ola-de-la-crisis-de-la-gasolina.html",
-      "desc": "Rusia, tradicionalmente exportador de petróleo y productos derivados, ha empezado a importar combustible ante la escasez provocada por los ataques ucranianos",
-      "date": "20 Aug 2026 13:47:42 +0200",
       "source": "La Vanguardia",
       "color": "#8e44ad",
       "feedId": "LaVanguardia",
