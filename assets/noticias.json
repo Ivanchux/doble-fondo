@@ -1,7 +1,57 @@
 {
-  "updated": "2026-08-20T02:51:45Z",
+  "updated": "2026-08-20T04:31:33Z",
   "count": 24,
   "items": [
+    {
+      "title": "China disputa el liderazgo a Europa en el 40% de sus industrias clave",
+      "link": "https://www.lavanguardia.com/economia/20260820/11616736/china-disputa-liderazgo-europa-40-industrias-clave.html",
+      "desc": "Lagarde alerta de que Pekín rivaliza con nichos europeos de valor añadido",
+      "date": "20 Aug 2026 06:00:00 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
+    {
+      "title": "Feijóo insta a expulsar a todos los migrantes de Ceuta y fortificar la frontera",
+      "link": "https://www.lavanguardia.com/politica/20260820/11616740/feijoo-quiere-expulsar-entraron-ceuta-rechaza-chantaje-rabat.html",
+      "desc": "El líder del PP presenta un plan de siete puntos que incluye fortificar la frontera sur",
+      "date": "20 Aug 2026 06:00:00 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
+    {
+      "title": "Polvorines",
+      "link": "https://www.lavanguardia.com/politica/20260820/11616667/polvorines.html",
+      "desc": "",
+      "date": "20 Aug 2026 06:00:00 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
+    {
+      "title": "El laberinto de los menores migrantes",
+      "link": "https://www.lavanguardia.com/politica/20260820/11616765/laberinto-menores-migrantes.html",
+      "desc": "Ceuta asegura desconocer el plan del Ministerio de Infancia para trasladar niñas a la Península",
+      "date": "20 Aug 2026 06:00:00 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
+    {
+      "title": "Palestina: la resistencia pacífica salva a Taibe",
+      "link": "https://www.lavanguardia.com/internacional/20260820/11616715/resistencia-pacifica-salva-taibe.html",
+      "desc": "Una pequeña comunidad palestina se organiza para que nadie muera por las provocaciones de los colonos israelíes",
+      "date": "20 Aug 2026 06:00:00 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
     {
       "title": "La gestión de la crisis de Sánchez en Ceuta amenaza con provocar la división de los socialistas europeos",
       "link": "https://www.abc.es/espana/gestion-crisis-sanchez-ceuta-amenaza-provocar-division-20260819013946-nt.html",
@@ -87,16 +137,6 @@
       "link": "https://www.lavanguardia.com/opinion/20260820/11616770/esperando-tren-danas.html",
       "desc": "La prevención del cambio climático debería ser una prioridad, pero los vientos políticos no propician acuerdos",
       "date": "20 Aug 2026 00:05:00 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "EE.UU. supera el hito de los 40 billones en deuda pública en otro fracaso económico de Trump",
-      "link": "https://www.lavanguardia.com/economia/20260819/11616916/ee-uu-supera-hito-40-billones-deuda-publica-fracaso-economico-trump.html",
-      "desc": "El presidente prometió reducir la carga de la deuda, pero esto se ha visto obstaculizado por el gasto en la guerra de Irán, la menor recaudación fiscal y las devoluciones de los aranceles.",
-      "date": "19 Aug 2026 23:55:47 +0200",
       "source": "La Vanguardia",
       "color": "#8e44ad",
       "feedId": "LaVanguardia",
@@ -197,46 +237,6 @@
       "link": "https://www.abc.es/espana/castilla-la-mancha/ciudad-real-refuerza-centro-innovacion-territorial-850000-20260819203441-nt.html",
       "desc": "El Centro de Innovación Territorial (CIT) de Ciudad Real contará con una financiación de 850.000 euros para reforzar su actividad y desarrollar nuevas políticas frente al reto demográfico. El Ministerio para la Transición Ecológica y el Reto Demográfico aporta",
       "date": "Wed, 19 Aug 2026 20:35:36 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Extinguido el fuego de Fermoselle (Zamora) que obligó a evacuar 14 pueblos y afectó a más de 10.000 hectáreas",
-      "link": "https://www.abc.es/espana/castilla-leon/extinguido-fuego-fermoselle-zamora-obligo-evacuar-pueblos-20260819203357-nt.html",
-      "desc": "La Junta de Castilla y León ha dado por extinguido este miércoles el incendio forestal que se declaró el 29 de julio en la localidad zamorana de Fermoselle , que obligó a evacuar hasta 14 pueblos cercanos y afectó a más de 10.000 hectáreas. El fuego se originó",
-      "date": "Wed, 19 Aug 2026 20:33:58 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Castilla-La Mancha activa este jueves el Meteocam por tormentas y lluvias intensas en tres provincias",
-      "link": "https://www.abc.es/espana/castilla-la-mancha/toledo/castillala-mancha-activa-jueves-meteocam-tormentas-lluvias-20260819201932-nt.html",
-      "desc": "El Gobierno de Castilla-La Mancha activará este jueves, a las 11.00 horas, el Meteocam en fase de alerta ante el episodio de lluvias y tormentas previsto en las provincias de Albacete, Cuenca y Guadalajara. La activación del Plan Específico ante el Riesgo por ",
-      "date": "Wed, 19 Aug 2026 20:19:33 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "El Gobierno fuerza la evacuación de 500 niñas pese a que habla de «normalidad» en Ceuta",
-      "link": "https://www.abc.es/espana/gobierno-fuerza-salida-500-ninas-pese-habla-20260820200537-nt.html",
-      "desc": "Un total de 500 niñas que entraron ilegalmente a Ceuta entre el 30 y 31 de julio serán reubicadas en recursos de la Península en un plazo máximo de dos meses. O eso es lo que pretende el Ministerio de Juventud e Infancia y así lo transmitió este miércoles el G",
-      "date": "Wed, 19 Aug 2026 20:05:37 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Bragas, marihuana y AK-47: Los entresijos de la lucha de clanes en Huelva",
-      "link": "https://www.abc.es/espana/andalucia/huelva/bragas-marihuana-ak47-entresijos-lucha-clanes-huelva-20260819194246-nts.html",
-      "desc": "El barrio de El Torrejón en Huelva, otra más de los muchos deprimidos, de bloques con viviendas sociales y familias al límite de la exclusión. Calles de la droga y donde las penas se ahogan con la guitarra, cantando lo bueno y lo malo. Chatarra y mercadillos. ",
-      "date": "Wed, 19 Aug 2026 19:53:53 +0200",
       "source": "ABC",
       "color": "#c0392b",
       "feedId": "ABC",
