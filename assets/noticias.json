@@ -1,7 +1,57 @@
 {
-  "updated": "2026-08-20T04:31:33Z",
+  "updated": "2026-08-20T06:36:48Z",
   "count": 24,
   "items": [
+    {
+      "title": "Granada vuelve a temblar con un terremoto de magnitud 3,4",
+      "link": "https://www.abc.es/espana/andalucia/granada/granada-vuelve-temblar-terremoto-magnitud-20260820075454-nts.html",
+      "desc": "Los granadinos intentan recuperar la tranquilidad tras los dos terremotos de gran magnitud que sorprendieron a la ciudad nazarí el pasado sábado 15 y martes 18 de agosto. Lo publicaba este periódico la jornada del miércoles, tras un día sin terremotos, Granada",
+      "date": "Thu, 20 Aug 2026 07:54:54 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Compromís lanza su 'prioridad nacional': prohibir la compra de vivienda a no residentes",
+      "link": "https://www.abc.es/espana/comunidad-valenciana/alicante/compromis-lanza-prioridad-nacional-prohibir-compra-vivienda-20260820211744-nt.html",
+      "desc": "Compromís ha exigido al Gobierno prohibir la compra de vivienda a población no residente en Alicante para garantizar el derecho a los censados allí. Aunque no lo ha definido así, el planteamiento entraña de facto una 'prioridad nacional'. Contrasta este veto s",
+      "date": "Thu, 20 Aug 2026 07:48:06 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "El viento tumba las tiendas militares del nuevo espacio para acoger inmigrantes en Ceuta",
+      "link": "https://www.lavanguardia.com/politica/20260820/11616923/viento-tumba-tiendas-militares-nuevo-espacio-acoger-inmigrantes-ceuta.html",
+      "desc": "Las rachas de viento de Poniente que se han levantado en el Embolsamiento de Loma Colmenar han echado abajo más de una treintena de tiendas que iban a albergar cuanto antes a decenas de personas",
+      "date": "20 Aug 2026 07:27:22 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
+    {
+      "title": "Venida de la Virgen del Rocío 2026, en directo: llegada a Almonte y última hora",
+      "link": "https://www.abc.es/espana/andalucia/rocio/venida-virgen-rocio-2026-directo-llegada-almonte-20260820150239-dis.html",
+      "desc": "Almonte cumple la tradición y recibe ansiosa a la Virgen del Rocío. Tras una madrugada de ensueño por los caminos de los Llanos y Los Taranjales, la Blanca Paloma llega al Alto del Molinillo, en El Chaparral, al amanecer de este jueves, 20 de agosto . En este ",
+      "date": "Thu, 20 Aug 2026 06:56:55 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "El «efecto Ceuta» amenaza ya la costa andaluza",
+      "link": "https://www.abc.es/espana/andalucia/efecto-ceuta-amenaza-costa-andaluza-20260820133345-nts.html",
+      "desc": "La crisis migratoria desatada en Ceuta a finales de julio comienza a tener reflejo en el otro lado del Estrecho. La Guardia Civil, a través de su principal sindicato, ha alertado de un repunte de las llegadas de inmigrantes en patera a la costa gaditana y de l",
+      "date": "Thu, 20 Aug 2026 06:55:51 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
     {
       "title": "China disputa el liderazgo a Europa en el 40% de sus industrias clave",
       "link": "https://www.lavanguardia.com/economia/20260820/11616736/china-disputa-liderazgo-europa-40-industrias-clave.html",
@@ -13,19 +63,9 @@
       "caso": "other"
     },
     {
-      "title": "Feijóo insta a expulsar a todos los migrantes de Ceuta y fortificar la frontera",
+      "title": "Feijóo quiere expulsar a los que entraron en Ceuta y rechaza el chantaje de Rabat",
       "link": "https://www.lavanguardia.com/politica/20260820/11616740/feijoo-quiere-expulsar-entraron-ceuta-rechaza-chantaje-rabat.html",
       "desc": "El líder del PP presenta un plan de siete puntos que incluye fortificar la frontera sur",
-      "date": "20 Aug 2026 06:00:00 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "Polvorines",
-      "link": "https://www.lavanguardia.com/politica/20260820/11616667/polvorines.html",
-      "desc": "",
       "date": "20 Aug 2026 06:00:00 +0200",
       "source": "La Vanguardia",
       "color": "#8e44ad",
@@ -43,9 +83,39 @@
       "caso": "other"
     },
     {
+      "title": "Polvorines",
+      "link": "https://www.lavanguardia.com/politica/20260820/11616667/polvorines.html",
+      "desc": "",
+      "date": "20 Aug 2026 06:00:00 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
+    {
       "title": "Palestina: la resistencia pacífica salva a Taibe",
       "link": "https://www.lavanguardia.com/internacional/20260820/11616715/resistencia-pacifica-salva-taibe.html",
       "desc": "Una pequeña comunidad palestina se organiza para que nadie muera por las provocaciones de los colonos israelíes",
+      "date": "20 Aug 2026 06:00:00 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
+    {
+      "title": "Un Mourinho con piel de cordero",
+      "link": "https://www.lavanguardia.com/deportes/real-madrid/20260820/11616756/mourinho-piel-cordero.html",
+      "desc": "El técnico, que se abrió en el documental de Netflix para explicar su carrera, teje una estrategia infalible en el Real Madrid donde pone a los jugadores en la diana",
+      "date": "20 Aug 2026 06:00:00 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
+    {
+      "title": "Decomisan 27 kilos de sushi en el maletero de una moto con destino a la Feria de Málaga",
+      "link": "https://www.lavanguardia.com/local/andalucia/20260820/11616680/decomisan-27-kilos-sushi-maletero-moto-destino-feria-malaga.html",
+      "desc": "La Policía Local de Málaga ha destruido 91 tubos de sushi",
       "date": "20 Aug 2026 06:00:00 +0200",
       "source": "La Vanguardia",
       "color": "#8e44ad",
@@ -153,16 +223,6 @@
       "caso": "other"
     },
     {
-      "title": "Deco y Flick confirman que el Barça no tira la toalla por el nueve",
-      "link": "https://www.lavanguardia.com/deportes/20260819/11616775/deco-flick-confirman-barca-tira-toalla-nueve.html",
-      "desc": "“Seguramente vamos a hacer algún movimiento”, anuncia el director deportivo blaugrana",
-      "date": "19 Aug 2026 22:51:39 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
       "title": "Siete jóvenes  atendidos tras salirse una furgoneta de la vía en Sepúlveda (Segovia)",
       "link": "https://www.abc.es/espana/castilla-leon/siete-jovenes-atendidos-tras-salirse-furgoneta-via-20260819221742-nt.html",
       "desc": "Siete jóvenes de entre 15 y 22 años atendidas han sido atendidos tras salirse de la vía y volcar una furgoneta en el kilómetro 17 de la carretera SG-V-2323, en Sepúlveda (Segovia), según ha informado el Centro de Emergencias 112 de Castilla y León. El accident",
@@ -173,73 +233,13 @@
       "caso": "other"
     },
     {
-      "title": "El Barça se lleva un Gamper en el que Flick da pocas pistas",
+      "title": "El Barça se lleva un Gamper en el que Flick da pocas pistas a la espera del nueve",
       "link": "https://www.lavanguardia.com/deportes/20260819/11616771/barca-lleva-gamper-flick-da-pocas-pistas-espera-nueve.html",
       "desc": "El equipo azulgrana gana sin alardes al Al-Ahly egipcio con un partido marcado por los múltiples cambios del técnico (Koundé hizo de central) y un calor sofocante",
       "date": "19 Aug 2026 22:15:56 +0200",
       "source": "La Vanguardia",
       "color": "#8e44ad",
       "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "Una Venida jubilosa y jubilar lleva a la Virgen a Almonte",
-      "link": "https://www.abc.es/espana/andalucia/rocio/almonte-espera-pastora-20260819211918-nts.html",
-      "desc": "El Rocío Chico de 2026 culminó ayer con la salida de la Blanca Paloma para iniciar el traslado que cada siete años le lleva a hombros de los almonteños a su pueblo. Un traslado histórico por ser el primero al que la Santa Sede ha concedido un Año Jubilar y por",
-      "date": "Wed, 19 Aug 2026 21:19:47 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "El Ejército del Aire despide emotivamente al joven de Palma del Río que murió arrollado en la A-4",
-      "link": "https://www.abc.es/espana/andalucia/cordoba/ejercito-aire-despide-emotivamente-joven-palma-rio-20260819204944-nts.html",
-      "desc": "El dramático accidente que le costó la vida el martes a un joven de Palma del Río en la A-4 a la altura de la localidad sevillana de Carmona -se había bajado para arreglar una rueda pinchada y una furgoneta le arrolló , dándose su conductor posteriormente a la",
-      "date": "Wed, 19 Aug 2026 20:49:44 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Los nuevos kilómetros de la eterna Autovía del Duero: un avance cargado de «incertidumbre»",
-      "link": "https://www.abc.es/espana/castilla-leon/nuevos-kilometros-eterna-a11-avance-cargado-incertidumbre-20260818204606-nt.html",
-      "desc": "Tres décadas han pasado desde que despegaron los primeros proyectos de la autovía A-11. Una infraestructura largamente reclamada por municipios y vecinos de la zona como fórmula para conseguir descongestionar una N-122 cargada de vehículos pesados y que acumul",
-      "date": "Wed, 19 Aug 2026 20:46:06 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Así será el primer supermercado propio de Alcampo en Andalucía: 1.200 metros y 40 empleados",
-      "link": "https://www.abc.es/espana/andalucia/malaga/alcampo-prepara-desembarco-andalucia-primer-supermercado-propio-20260819203601-nts.html",
-      "desc": "El supermercado Alcampo abrirá su primera tienda propia en Andalucía en el centro comercial Altos del Higuerón, en Benalmádena (Málaga). El nuevo establecimiento contará con 1.200 m² de superficie de venta y una plantilla de 40 empleados. La apertura está prev",
-      "date": "Wed, 19 Aug 2026 20:44:45 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Moreno visita este jueves Ceuta en plena crisis migratoria en la ciudad",
-      "link": "https://www.abc.es/espana/andalucia/moreno-visita-jueves-ceuta-plena-crisis-migratoria-20260819204038-nts.html",
-      "desc": "El presidente de la Junta de Andalucía, Juanma Moreno , se reunirá este jueves con el presidente de Ceuta, Juan Jesús Vivas , y mantendrá un encuentro con representantes de la Confederación de Empresarios y de la Cámara de Comercio de Ceuta durante la visita i",
-      "date": "Wed, 19 Aug 2026 20:40:38 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Ciudad Real refuerza su Centro de Innovación Territorial con 850.000 euros para combatir la despoblación",
-      "link": "https://www.abc.es/espana/castilla-la-mancha/ciudad-real-refuerza-centro-innovacion-territorial-850000-20260819203441-nt.html",
-      "desc": "El Centro de Innovación Territorial (CIT) de Ciudad Real contará con una financiación de 850.000 euros para reforzar su actividad y desarrollar nuevas políticas frente al reto demográfico. El Ministerio para la Transición Ecológica y el Reto Demográfico aporta",
-      "date": "Wed, 19 Aug 2026 20:35:36 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
       "caso": "other"
     }
   ]
