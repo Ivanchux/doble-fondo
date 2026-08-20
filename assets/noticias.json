@@ -1,7 +1,107 @@
 {
-  "updated": "2026-08-19T22:19:00Z",
+  "updated": "2026-08-20T00:56:12Z",
   "count": 24,
   "items": [
+    {
+      "title": "La gestión de la crisis de Sánchez en Ceuta amenaza con provocar la división de los socialistas europeos",
+      "link": "https://www.abc.es/espana/gestion-crisis-sanchez-ceuta-amenaza-provocar-division-20260819013946-nt.html",
+      "desc": "Pedro Sánchez está poniendo a prueba las costuras del Partido de los Socialistas Europeos (PSE). Con su intento de que el partido denuncie a la danesa Mette Frederiksen por haber pactado con la ultraderechista italiana Giorgia Meloni deja en una situación muy ",
+      "date": "Thu, 20 Aug 2026 01:39:46 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "La Justicia investiga ya a una mafia que traslada inmigrantes de Ceuta a la Península tras la avalancha",
+      "link": "https://www.abc.es/espana/justicia-investiga-mafia-traslada-inmigrantes-ceuta-peninsula-20260820013933-nt.html",
+      "desc": "Dos patrones marroquíes de 'pateras-taxi' son el hilo del que están tirando los agentes de la Guardia Civil para descubrir y desmantelar a una mafia de la trata que está trasladado a inmigrantes desde Ceuta a la Península, según informan fuentes de la investig",
+      "date": "Thu, 20 Aug 2026 01:39:33 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "La factura del PNV a Sánchez por su apoyo desde 2023: una cárcel, el troceo de la Seguridad Social y cientos de funcionarios",
+      "link": "https://www.abc.es/espana/pais-vasco/factura-cobrado-pnv-sanchez-cambio-apoyo-resistir-20260803013850-nt.html",
+      "desc": "Después de confirmar que los siete diputados del PNV en el Congreso iban a votar 'sí' en la investidura de Pedro Sánchez en 2023, Andoni Ortuzar valoró en público lo pactado con el líder del PSOE como «bueno» para el País Vasco: «Hay un nítido avance en el cum",
+      "date": "Thu, 20 Aug 2026 01:38:50 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Alicante, refugio de fugitivos europeos por el anonimato entre extranjeros",
+      "link": "https://www.abc.es/espana/comunidad-valenciana/alicante/alicante-refugio-fugitivos-europeos-anonimato-extranjeros-20260808013822-nt.html",
+      "desc": "El anonimato de muchos habitantes en las urbanizaciones de la Costa Blanca alicantina ha propiciado que esta zona se haya convertido en un refugio para fugitivos huidos de la Justicia en Europa. Cada mes se captura en este provincia a alguno de estos delincuen",
+      "date": "Thu, 20 Aug 2026 01:38:22 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Abel, el joven que lo perdió todo bajo las llamas: «Estoy muy asustado, no tengo más recursos»",
+      "link": "https://www.abc.es/espana/madrid/dia-abel-perdio-casa-bajo-llamas-asustado-20260812013802-nt.html",
+      "desc": "Abel Viedma no es ganadero ni agricultor. Tampoco horticultor ni posee un rebaño que pastorear. No vive, por así decirlo, del campo. Es programador, de hecho. Pero volcó en el entorno rural una de sus grandes pasiones. Vivir en contacto con la naturaleza era, ",
+      "date": "Thu, 20 Aug 2026 01:38:02 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "El pueblo de Madrid que se rebela contra su alcalde por suspender las fiestas: «¡Al pilón!»",
+      "link": "https://www.abc.es/espana/madrid/pueblo-madrid-rebela-alcalde-suspender-fiestas-pilon-20260819012958-nt.html",
+      "desc": "¿Puede haber una medida más impopular en un pueblo que suspender sus fiestas de verano? En Villarejo de Salvanés, los vecinos se han rebelado contra la decisión de su alcalde de dejarlos sin las actividades más esperadas por niños, jóvenes y mayores en esta ép",
+      "date": "Thu, 20 Aug 2026 01:29:58 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Aleix Martel: «Los maestros tienen que hacer autocrítica sobre su falta de libertad»",
+      "link": "https://www.abc.es/espana/madrid/aleix-martel-maestros-autocritica-sobre-falta-libertad-20260820012303-nt.html",
+      "desc": "Ya se acerca la vuelta al cole, pero antes, los días 22 y 23 de agosto el claustro del Instituto San Isidro se transformará en una aula con 'El Profesor' (21.30h, 15 euros), una obra musical protagonizada por Aleix Martel que recorre la evolución de la figura ",
+      "date": "Thu, 20 Aug 2026 01:23:03 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Polémica en Serranillos del Valle: el PP denuncia un vídeo del alcalde «ebrio»",
+      "link": "https://www.abc.es/espana/madrid/polemica-serranillos-valle-pp-denuncia-video-alcalde-20260819012231-nt.html",
+      "desc": "Las fiestas patronales de San Roque en Serranillos del Valle han acabado con polémica, y otra vez el protagonista ha sido el alcalde, Rubén Fernández, de Transparencia Democracia Serranillos, que en los últimos meses ha copado titulares por imponer multas al p",
+      "date": "Thu, 20 Aug 2026 01:22:31 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Esperando el tren de danas",
+      "link": "https://www.lavanguardia.com/opinion/20260820/11616770/esperando-tren-danas.html",
+      "desc": "La prevención del cambio climático debería ser una prioridad, pero los vientos políticos no propician acuerdos",
+      "date": "20 Aug 2026 00:05:00 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
+    {
+      "title": "EE.UU. supera el hito de los 40 billones en deuda pública en otro fracaso económico de Trump",
+      "link": "https://www.lavanguardia.com/economia/20260819/11616916/ee-uu-supera-hito-40-billones-deuda-publica-fracaso-economico-trump.html",
+      "desc": "El presidente prometió reducir la carga de la deuda, pero esto se ha visto obstaculizado por el gasto en la guerra de Irán, la menor recaudación fiscal y las devoluciones de los aranceles.",
+      "date": "19 Aug 2026 23:55:47 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
     {
       "title": "Muere Francisco Jiménez, fundador del Grupo Puma y destacado empresario cordobés",
       "link": "https://www.abc.es/espana/andalucia/cordoba/muere-francisco-jimenez-fundador-grupo-puma-destacado-20260819234019-nts.html",
@@ -137,106 +237,6 @@
       "link": "https://www.abc.es/espana/andalucia/huelva/bragas-marihuana-ak47-entresijos-lucha-clanes-huelva-20260819194246-nts.html",
       "desc": "El barrio de El Torrejón en Huelva, otra más de los muchos deprimidos, de bloques con viviendas sociales y familias al límite de la exclusión. Calles de la droga y donde las penas se ahogan con la guitarra, cantando lo bueno y lo malo. Chatarra y mercadillos. ",
       "date": "Wed, 19 Aug 2026 19:53:53 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Gamper: De los discursos de Flick y Raphinha a la ovación a Rodri y los abucheos a De Jong",
-      "link": "https://www.lavanguardia.com/deportes/futbol/20260819/11616732/gamper-discursos-flick-raphinha-ovacion-rodri-abucheos-jong.html",
-      "desc": "El primer equipo pisó el Spotify Camp Nou y la afición disfrutó de los discursos emotivos de Hansi Flick y Raphinha",
-      "date": "19 Aug 2026 19:49:23 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "El efecto llamada: Tita y el biometano",
-      "link": "https://www.abc.es/espana/castilla-la-mancha/toledo/talavera/efecto-llamada-tita-biometano-20260819193523-nt.html",
-      "desc": "Es un hecho contrastado que el Partido socialista es experto en tirar la piedra y luego esconder la mano. Y lo vemos con la actuación de Tita y Page, no olvidemos a este último, el 30 de enero de 2020 en unas jornadas en el Centro Cultural Rafael Morales, deno",
-      "date": "Wed, 19 Aug 2026 19:35:23 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "La Aemet advierte de un descenso en las temperaturas y alerta por tormentas en Castilla y León",
-      "link": "https://www.abc.es/espana/castilla-leon/aemet-advierte-descenso-temperaturas-alerta-tormentas-castilla-20260819192834-nt.html",
-      "desc": "Adiós al intenso de calor. Al menos de momento, según las previsiones de la Agencia Estatal de Meteorología, que ha advertido que a partir de este jueves los termómetros registrarán un descenso «acusado y generalizado» de hasta diez grados en algunos puntos de",
-      "date": "Wed, 19 Aug 2026 19:29:55 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "¿Quién es Natalie Harp, la asesora joven y rubia que siempre está junto a Trump?",
-      "link": "https://www.lavanguardia.com/internacional/20260819/11616723/natalie-harp-asesora-joven-rubia-siempre-esta-trump.html",
-      "desc": "La proximidad entre el presidente y esta mujer de 35 años provoca polémica una vez conocido que fue una de las pocas personas elegidas para ir en el avión de camuflaje en la salida del mandatario de Turquía tras la amenaza iraní",
-      "date": "19 Aug 2026 19:25:28 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "La plaza de toros de Ciudad Real recuerda con una placa la trayectoria de Víctor Puerto",
-      "link": "https://www.abc.es/espana/castilla-la-mancha/plaza-toros-ciudad-real-recuerda-placa-trayectoria-20260819192355-nt.html",
-      "desc": "La plaza de toros de Ciudad Real ya recuerda desde este miércoles la trayectoria profesional de Víctor Puerto como matador de toros . El propio torero ha sido el encargado de descubrir el azulejo situado en la puerta grande del coso taurino con el que el Ayunt",
-      "date": "Wed, 19 Aug 2026 19:23:55 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "El Gobierno extremeño de Vox asume la tutela de 4 menores que llegaron a Ceuta antes de la invasión",
-      "link": "https://www.abc.es/espana/extremadura/consejero-vox-extremadura-acepta-traslado-cuatro-menores-20260819192321-nt.html",
-      "desc": "En contra de lo que han proclamado por activa y por pasiva los dirigentes de Vox en Extremadura, cuatro menores no acompañados procedentes de Ceuta han sido acogidos por los servicios sociales de la autonomía en los últimos días. Se trata de personas que llega",
-      "date": "Wed, 19 Aug 2026 19:23:21 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "El viento complica el incendio de Las Hurdes, que ya ha entrado en la provincia de Salamanca",
-      "link": "https://www.abc.es/espana/extremadura/viento-complica-incendio-hurdes-entrado-provincia-salamanca-20260819190840-nt.html",
-      "desc": "El incendio forestal declarado este martes en Pinofranqueado, en la comarca cacereña de Las Hurdes, continúa complicándose a medida que avanza la tarde. El empeoramiento de las condiciones meteorológicas, con viento que está favoreciendo el avance de las llama",
-      "date": "Wed, 19 Aug 2026 19:17:09 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "El PP exige a la Diputación de Guadalajara una reunión ante el «caos» en la recogida de basuras en más de 100 municipios",
-      "link": "https://www.abc.es/espana/castilla-la-mancha/pp-exige-diputacion-guadalajara-reunion-ante-caos-20260819191641-nt.html",
-      "desc": "El PP en la Diputación de Guadalajara ha denunciado este miércoles la «insostenible» situación que atraviesan más de un centenar de municipios de la provincia adheridos al Servicio Provincial de Recogida y Transporte de Residuos de la Diputación, por los «grav",
-      "date": "Wed, 19 Aug 2026 19:16:42 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Feijóo exige el retorno a Marruecos de quienes cruzaron la frontera: «Ni mayores ni menores, todos»",
-      "link": "https://www.abc.es/espana/feijoo-reclama-retorno-marruecos-cruzaron-frontera-20260819191342-nt.html",
-      "desc": "Todos. Así de tajante se ha mostrado este miércoles el presidente del Partido Popular, Alberto Núñez Feijóo, sobre quiénes deben volver a Marruecos tras haber cruzado ilegalmente la frontera de Ceuta. «Retorno de todos aquellos que hayan entrado ilegalmente», ",
-      "date": "Wed, 19 Aug 2026 19:13:42 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Investigado por pornografía infantil tras grabar desnudas a su hija y a siete amigas suyas",
-      "link": "https://www.abc.es/espana/comunidad-valenciana/investigado-pornografia-infantil-tras-grabar-desnudas-hija-20260819190353-nt.html",
-      "desc": "Agentes de la Policía Nacional investigan a un hombre de 50 años de edad detenido el pasado mes de junio por presuntamente instalar cámaras en la habitación y el baño de su hija, menor de edad, a la que grabó en distintos momentos. Además, hay otras siete meno",
-      "date": "Wed, 19 Aug 2026 19:03:54 +0200",
       "source": "ABC",
       "color": "#c0392b",
       "feedId": "ABC",
