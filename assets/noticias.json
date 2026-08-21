@@ -1,7 +1,17 @@
 {
-  "updated": "2026-08-21T02:57:11Z",
+  "updated": "2026-08-21T04:31:58Z",
   "count": 24,
   "items": [
+    {
+      "title": "Cortes en la línea 6 de Metro de Madrid este fin de semana: días, horarios y estaciones afectadas",
+      "link": "https://www.abc.es/espana/madrid/cortes-linea-metro-madrid-fin-semana-dias-20260821060000-nt.html",
+      "desc": "Metro de Madrid ha elegido el mes de agosto para acelerar las obras en la línea 6 . La menor afluencia de viajeros permite cerrar algunas estaciones y modificar los trayectos en algunos tramos provocando las menos molestias posibles. Esta vez, las nuevas incid",
+      "date": "Fri, 21 Aug 2026 06:00:00 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
     {
       "title": "«No me creo que haya un león suelto, pero el mundo está lleno de locos»",
       "link": "https://www.abc.es/espana/castilla-la-mancha/toledo/pueblos/creo-leon-suelto-mundo-lleno-locos-20260820012600-nt.html",
@@ -230,16 +240,6 @@
       "source": "La Vanguardia",
       "color": "#8e44ad",
       "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "Granada entra en la 'nueva normalidad' tras su segundo día consecutivo sin terremotos",
-      "link": "https://www.abc.es/espana/andalucia/granada/granada-entra-nueva-normalidad-tras-segundo-dia-20260820182136-nts.html",
-      "desc": "Que Granada haya vivido su segundo día consecutivo sin sobresaltos es, sin duda, una buena noticia. Es cierto que se sintió el que se produjo a las 2.15 de la madrugada con epicentro en Dílar. Pero sus 3,4 grados quedan lejos de otros registros recientes. Las ",
-      "date": "Thu, 20 Aug 2026 19:28:04 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
       "caso": "other"
     }
   ]
