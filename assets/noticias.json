@@ -1,7 +1,57 @@
 {
-  "updated": "2026-08-21T20:19:10Z",
+  "updated": "2026-08-21T22:18:17Z",
   "count": 24,
   "items": [
+    {
+      "title": "Las notas de los jugadores del Córdoba CF tras la victoria ante el Girona",
+      "link": "https://www.abc.es/espana/andalucia/cordoba/cordoba-cf/notas-jugadores-cordoba-tras-20260822130739-nts.html",
+      "desc": "",
+      "date": "Sat, 22 Aug 2026 00:12:12 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Así está el Córdoba CF en la clasificación tras la victoria ante el Girona",
+      "link": "https://www.abc.es/espana/andalucia/cordoba/cordoba-cf/cordoba-clasificacion-tras-20260821130512-nts.html",
+      "desc": "Vencer y convencer. El Córdoba CF supo dominar al Girona y brindó la primera alegría a su afición (2-1) en un partido donde firmó una primera parte sin fisuras y ser eficaz con los tantos de Víctor Sánchez y Diego Bri. Ya en la segunda mitad el conjunto blanqu",
+      "date": "Fri, 21 Aug 2026 23:41:25 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "El Córdoba CF tumba con brillantez al Girona y se estrena en El Arcángel por todo lo alto (2-1)",
+      "link": "https://www.abc.es/espana/andalucia/cordoba/cordoba-cf/cordoba-tumba-brillantez-girona-estrena-arcangel-alto-20260821232448-dis.html",
+      "desc": "El Córdoba CF demostró tener nervios de acero para estrenarse con un gran sabor de boca ante su afición y sumar un triunfo de mucho mérito frente al Girona (2-1). El conjunto blanquiverde anuló al cuadro catalán durante una primera mitad sobresaliente y golpeó",
+      "date": "Fri, 21 Aug 2026 23:30:51 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "España responde a Marruecos que rechaza cualquier planteamiento sobre Ceuta y Melilla: «Forman parte de la soberanía e integridad del país»",
+      "link": "https://www.abc.es/espana/espana-responde-marruecos-rechaza-planteamiento-sobre-ceuta-20260821232050-nt.html",
+      "desc": "España ha respondido a la reivindicación de Rabat de este viernes, en boca del ministro de Justicia, que ha pedido establecer un diálogo para discutir la soberanía de Ceuta y Melilla. «Forman parte de la integridad territorial y de la soberanía de España», han",
+      "date": "Fri, 21 Aug 2026 23:20:51 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Susto en Santa Marina: los bomberos intervienen en el incendio de una vivienda",
+      "link": "https://www.abc.es/espana/andalucia/cordoba/bomberos-intervienen-incendio-vivienda-santa-marina-20260821221953-nts.html",
+      "desc": "El Servicio de Extinción de Incendios y Salvamento (SEIS) del Ayuntamiento de Córdoba ha intervenido este viernes por la noche en un incendio declarado en una vivienda de la calle Vera , en el barrio de Santa Marina. El aviso se recibió cerca de las 22.00 hora",
+      "date": "Fri, 21 Aug 2026 22:41:57 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
     {
       "title": "El Infoca extingue el incendio de Niebla tras dos semanas de combate",
       "link": "https://www.abc.es/espana/andalucia/huelva/infoca-extingue-incendio-niebla-tras-dos-semanas-20260821212744-nts.html",
@@ -63,7 +113,7 @@
       "caso": "other"
     },
     {
-      "title": "Al menos 14 muertos en un ataque ruso a un centro comercial de Kriví Rih, la ciudad natal de Zelenski",
+      "title": "Al menos 19 muertos en un ataque ruso a un centro comercial de Kriví Rih, la ciudad natal de Zelenski",
       "link": "https://www.lavanguardia.com/internacional/20260821/11617882/14-muertos-121-heridos-ataque-ruso-centro-comercial-krivi-rig-ciudad-natal-zelenski.html",
       "desc": "El presidente ucraniano tacha la ofensiva de “golpe cobarde” y “acto terrorista”",
       "date": "21 Aug 2026 20:12:49 +0200",
@@ -190,56 +240,6 @@
       "source": "La Vanguardia",
       "color": "#8e44ad",
       "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "Detenido otro inmigrante en Ceuta por una presunta agresión sexual a una joven de 22 años",
-      "link": "https://www.abc.es/espana/detenido-inmigrante-ceuta-presunta-agresion-sexual-joven-20260821180603-nt.html",
-      "desc": "Un hombre de nacionalidad marroquí, que entró a Ceuta a finales del pasado mes, ha sido detenido por parte de la Guardia Civil como presunto autor de una agresión sexual a una inmigrante de 22 años. Los hechos han tenido lugar en la Playa de Calamocarro, un lu",
-      "date": "Fri, 21 Aug 2026 18:06:04 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "La Plataforma A11 Pasos se moviliza el lunes en la apertura parcial de la autovía porque «traslada el problema a carreteras provinciales»",
-      "link": "https://www.abc.es/espana/castilla-leon/plataforma-a11-pasos-moviliza-lunes-apertura-parcial-20260821180138-nt.html",
-      "desc": "La Plataforma A11 Pasos se movilizará el lunes, con motivo de la apertura parcial de la Autovía del Duero , para mostrar el «descontento» ante el ministro de Transportes y Movilidad Sostenible, Óscar Puente , porque este hecho «traslada el problema actual de l",
-      "date": "Fri, 21 Aug 2026 18:01:38 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "La Ertzaintza identifica 14 posibles víctimas de agresiones sexuales ocurridas en una tienda de golosinas",
-      "link": "https://www.abc.es/espana/pais-vasco/ertzaintza-identifica-posibles-victimas-agresiones-sexuales-ocurridas-20260821175740-nt.html",
-      "desc": "La investigación iniciada por la Ertzaintza el pasado mes de junio tras la detención de un joven de 22 años por dos presuntas agresiones sexuales a una menor en una tienda de Golosinas de San Sebastián ha permitido identificar, hasta el momento, a un total de ",
-      "date": "Fri, 21 Aug 2026 17:57:41 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Las olas de calor y los bajos precios de origen avecinan una vendimia «complicada»",
-      "link": "https://www.abc.es/espana/castilla-la-mancha/avecina-vendimia-complicada-olas-calor-bajos-precios-20260821175024-nt.html",
-      "desc": "La Unión de Agricultores y Ganaderos de Castilla-La Mancha alerta de que el sector vitivinícola afronta una nueva vendimia marcada por el adelanto de la cosecha , dificultades para cerrar contratos con precios remuneradores y una demanda de vino que continúa a",
-      "date": "Fri, 21 Aug 2026 17:54:12 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "El Supremo admite el recurso del PP por la negativa de los ministros a acudir al Senado por la crisis de Ceuta",
-      "link": "https://www.abc.es/espana/supremo-admite-recurso-pp-negativa-ministros-acudir-20260821175309-nt.html",
-      "desc": "El Tribunal Supremo (TS) estudiará el recurso contencioso-administrativo que el PP interpuso este jueves con el objetivo de obligar a varios ministros del Gobierno a comparecer en el Senado antes del mes de septiembre, a raíz de las incomparecencias de algunos",
-      "date": "Fri, 21 Aug 2026 17:53:09 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
       "caso": "other"
     }
   ]
