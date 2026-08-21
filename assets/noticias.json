@@ -1,7 +1,57 @@
 {
-  "updated": "2026-08-21T18:28:40Z",
+  "updated": "2026-08-21T20:19:10Z",
   "count": 24,
   "items": [
+    {
+      "title": "El Infoca extingue el incendio de Niebla tras dos semanas de combate",
+      "link": "https://www.abc.es/espana/andalucia/huelva/infoca-extingue-incendio-niebla-tras-dos-semanas-20260821212744-nts.html",
+      "desc": "El Infoca ha conseguido extinguir las llamas en Niebla dos semanas después de que el fuego se iniciara. Esta noche se ha puesto por fin punto y final al incendio más grave en Andalucía en los últimos años, que ha calcinado 33.000 hectáreas y supuesto todo un d",
+      "date": "Fri, 21 Aug 2026 21:27:44 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "La Junta exige explicaciones a Adif por la retirada del «cerramiento histórico» de la estación de Valladolid",
+      "link": "https://www.abc.es/espana/castilla-leon/junta-exige-explicaciones-adig-retirada-cerramiento-historico-20260821212359-nt.html",
+      "desc": "La Junta de Castilla y León ha exigido este viernes explicaciones a Adif pot la retira de uno de los muros de la estación de ferrocarril de la estación de Campo Grande de Valladolid, que el Gobierno autonómico considera un «cerramiento histórico» y ha reclamad",
+      "date": "Fri, 21 Aug 2026 21:26:28 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Un motorista de 71 años, herido muy grave tras salirse de la vía en Trillo (Guadalajara)",
+      "link": "https://www.abc.es/espana/castilla-la-mancha/motorista-anos-herido-grave-tras-salirse-via-20260821210441-nt.html",
+      "desc": "Un hombre de 71 años ha resultado herido muy grave este viernes tras sufrir un accidente de moto a la altura de la localidad guadalajareña de Trillo y ha tenido que ser evacuado en helicóptero medicalizado al hospital 12 de Octubre de Madrid. El accidente se h",
+      "date": "Fri, 21 Aug 2026 21:04:41 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Un hombre resulta herido de bala tras un altercado en Barbate",
+      "link": "https://www.abc.es/espana/andalucia/cadiz/hombre-resulta-herido-bala-tras-altercado-barbate-20260821205147-nts.html",
+      "desc": "Un hombre ha resultado herido por arma de fuego tras ser tiroteado durante un altercado registrado este jueves en Barbate (Cádiz). El suceso tuvo lugar a media hora de la tarde en la barriada Blas Infante del municipio gaditano, donde en medio de una refriega ",
+      "date": "Fri, 21 Aug 2026 20:51:47 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Meghan Markle negocia su regreso a la televisión con un papel en ‘The Gentlemen’ de Netflix",
+      "link": "https://www.lavanguardia.com/gente/20260821/11617888/meghan-markle-negocia-regreso-television-papel-the-gentlemen-netflix.html",
+      "desc": "La duquesa de Sussex estaría negociando su primer papel de relevancia desde que dejó la interpretación tras su boda con el príncipe Harry",
+      "date": "21 Aug 2026 20:21:32 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
     {
       "title": "Uso del móvil en los centros educativos",
       "link": "https://www.abc.es/espana/castilla-la-mancha/carlos-martinfuertes-uso-movil-centros-educativos-20260821201535-nt.html",
@@ -10,6 +60,16 @@
       "source": "ABC",
       "color": "#c0392b",
       "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Al menos 14 muertos en un ataque ruso a un centro comercial de Kriví Rih, la ciudad natal de Zelenski",
+      "link": "https://www.lavanguardia.com/internacional/20260821/11617882/14-muertos-121-heridos-ataque-ruso-centro-comercial-krivi-rig-ciudad-natal-zelenski.html",
+      "desc": "El presidente ucraniano tacha la ofensiva de “golpe cobarde” y “acto terrorista”",
+      "date": "21 Aug 2026 20:12:49 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
       "caso": "other"
     },
     {
@@ -70,16 +130,6 @@
       "source": "ABC",
       "color": "#c0392b",
       "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Investigan un posible plan ruso de atentar en Alemania tras hallar un alijo con armas en Berlín",
-      "link": "https://www.lavanguardia.com/internacional/20260821/11617849/investigan-posible-plan-ruso-atentar-alemania-hallar-alijo-armas-berlin.html",
-      "desc": "El ministro alemán de Interior comparece en rueda de prensa y confirma el hallazgo y la detención de un sospechoso en Rumanía, donde sigue retenido",
-      "date": "21 Aug 2026 18:45:16 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
       "caso": "other"
     },
     {
@@ -187,56 +237,6 @@
       "link": "https://www.abc.es/espana/supremo-admite-recurso-pp-negativa-ministros-acudir-20260821175309-nt.html",
       "desc": "El Tribunal Supremo (TS) estudiará el recurso contencioso-administrativo que el PP interpuso este jueves con el objetivo de obligar a varios ministros del Gobierno a comparecer en el Senado antes del mes de septiembre, a raíz de las incomparecencias de algunos",
       "date": "Fri, 21 Aug 2026 17:53:09 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Rescatados 111 inmigrantes en una macrolancha en aguas de Lanzarote",
-      "link": "https://www.abc.es/espana/canarias/rescatados-111-inmigrantes-macrolancha-aguas-lanzarote-20260821173327-nt.html",
-      "desc": "Un total de 111 personas han sido rescatadas de una neumática de grandes dimensiones cuando navegaba en aguas de Lanzarote. Ha sido la Guardamar Urania la que ha rescatado a las 111 personas de la neumática, que fue localizada a unos 115 kilómetros (62 millas)",
-      "date": "Fri, 21 Aug 2026 17:33:28 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Alicante Gastronómica organiza el primer concurso de tortilla de patatas autonómico",
-      "link": "https://www.abc.es/espana/comunidad-valenciana/alicante/alicante-gastronomica-organiza-primer-concurso-tortilla-patatas-20260821173002-nt.html",
-      "desc": "El I Campeonato de Tortilla de Patatas de la Comunidad Valenciana, impulsado por la feria Alicante Gastronómica y que se celebrará el próximo 14 de septiembre en el CdT de Alicante, busca las mejores tortillas de patatas de los establecimientos hosteleros de l",
-      "date": "Fri, 21 Aug 2026 17:30:03 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Talavera restaurará «de forma integral» la azulejería de la Plaza del Pan",
-      "link": "https://www.abc.es/espana/castilla-la-mancha/toledo/talavera/talavera-restaurara-forma-integral-azulejeria-plaza-pan-20260821172943-nt.html",
-      "desc": "El primer teniente de Alcalde del Ayuntamiento de Talavera de la Reina, David Moreno, ha anunciado la restauración integral de la azulejería de la Plaza del Pan , un proyecto que fue adjudicado a Cerámica ADEVA hace dos meses con el fin de poner en valor este ",
-      "date": "Fri, 21 Aug 2026 17:29:44 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "El Barça inscribe a Rodri y Adeyemi y vende a Tommy Marqués al Braga por 11 millones",
-      "link": "https://www.lavanguardia.com/deportes/futbol/20260821/11617798/barca-inscribe-rodri-adeyemi-vende-tommy-marques-braga-11-millones.html",
-      "desc": "El curso pasado Marqués, de 19 años, estuvo en dinámica del primer equipo, con el que llegó a disputar dos partidos oficiales",
-      "date": "21 Aug 2026 17:29:20 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "Castilla-La Mancha invierte 1,8 millones para reforzar el control de la calidad del aire",
-      "link": "https://www.abc.es/espana/castilla-la-mancha/castillala-mancha-invierte-millones-reforzar-control-calidad-20260821172532-nt.html",
-      "desc": "El Gobierno de Castilla-La Mancha destinará más de 1,8 millones de euros entre 2023 y 2027 a reforzar y modernizar la Red Regional de Control y Vigilancia de la Calidad del Aire, que incorporará una nueva estación en Tarancón (Cuenca) a finales de este año. La",
-      "date": "Fri, 21 Aug 2026 17:25:32 +0200",
       "source": "ABC",
       "color": "#c0392b",
       "feedId": "ABC",
