@@ -1,7 +1,117 @@
 {
-  "updated": "2026-08-21T12:36:02Z",
+  "updated": "2026-08-21T14:28:52Z",
   "count": 24,
   "items": [
+    {
+      "title": "BNG y Sumar alimentan la 'turismofobia' en Galicia: hay demasiados visitantes",
+      "link": "https://www.abc.es/espana/galicia/bng-sumar-alimentan-turismofobia-galicia-demasiados-visitantes-20260821155118-nt.html",
+      "desc": "A falta de poco más de cuatro meses para que dé comienzo el Xacobeo 2027, un evento con un alto potencial de atracción de visitantes a Galicia, a un sector de la izquierda y al nacionalismo le parece que en la Comunidad hay demasiados turistas. BNG y Sumar exp",
+      "date": "Fri, 21 Aug 2026 15:51:18 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "El juez da una semana al príncipe Harry para pagar 11 millones de euros al editor del 'Daily Mail'",
+      "link": "https://www.lavanguardia.com/gente/20260821/11617732/juez-ordena-principe-harry-otros-seis-demandantes-pagar-11-millones-euros-editor-daily-mail.html",
+      "desc": "La sentencia de julio de la demanda contra&nbsp;contra Associated Newspapers Ltd., que ya ordenaba el pago a los demandantes fue recurrida",
+      "date": "21 Aug 2026 15:34:05 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
+    {
+      "title": "Vista Alegre albergará finalmente el estreno en la Copa Andalucía del Coto Córdoba ante el Covirán Granada",
+      "link": "https://www.abc.es/espana/andalucia/cordoba/vista-alegre-albergara-finalmente-estreno-copa-andalucia-20260821152643-nts.html",
+      "desc": "El Palacio Municipal de Deportes de Vista Alegre será finalmente el próximo 26 de agosto el escenario del primer encuentro de la Copa Andalucía entre el Covirán Granada y el Cajasol Coto Córdoba CB . El partido, previsto inicialmente en tierras granadinas, cam",
+      "date": "Fri, 21 Aug 2026 15:33:26 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Sánchez elige a Ángel Víctor Torres para coordinar la acción del Gobierno en Ceuta",
+      "link": "https://www.lavanguardia.com/politica/20260821/11617730/sanchez-elige-angel-victor-torres-coordinar-accion-gobierno-ceuta.html",
+      "desc": "El ministro de Política Territorial, que ya vivió crisis migratorias como presidente de Canarias, supervisará las actuaciones de Defensa, Interior, Exteriores, Inclusión y Migraciones, y Juventud e Infancia",
+      "date": "21 Aug 2026 15:26:22 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
+    {
+      "title": "Sánchez encarga a Torres que coordine la respuesta de cinco ministerios en Ceuta tres semanas después",
+      "link": "https://www.abc.es/espana/sanchez-encarga-torres-coordine-respuesta-cinco-ministerios-20260821151113-nt.html",
+      "desc": "Tres semanas después del inicio de la crisis en Ceuta, cuando Pedro Sánchez y sus ministros llegan al fin de sus vacaciones, el presidente del Gobierno ha decidido crear una especie de 'mando único' para dar respuesta a la situación que vive la Ciudad Autónoma",
+      "date": "Fri, 21 Aug 2026 15:11:13 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Núñez: «Mientras Page siga al frente de Castilla-La Mancha, la sanidad seguirá deteriorándose»",
+      "link": "https://www.abc.es/espana/castilla-la-mancha/nunez-page-siga-frente-castillala-mancha-sanidad-20260821150455-nt.html",
+      "desc": "El presidente del PP de Castilla-La Mancha, Paco Núñez, ha responsabilizado este viernes al Gobierno de Emiliano García-Page del «deterioro sostenido» que, a su juicio, atraviesa la sanidad pública regional y ha asegurado que la situación no cambiará mientras ",
+      "date": "Fri, 21 Aug 2026 15:04:55 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Con pasamontañas y a 'hebillazos': así fue la emboscada neonazi en un concierto de rap en la sierra de Madrid",
+      "link": "https://www.abc.es/espana/madrid/pasamontanas-latigazos-emboscada-neonazi-concierto-rap-sierra-20260821150105-nt.html",
+      "desc": "El pasado 20 de diciembre, un grupo de encapuchados aguardaron en las inmediaciones de la sala de conciertos Kaya del municipio de Guadarrama a que saliese la víctima perfecta. Un hombre, ucraniano de 32 años, que salió de la sala solo fue el elegido al que ab",
+      "date": "Fri, 21 Aug 2026 15:01:05 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "El «canto a Zamora» de Antonio Pedrero llegará a Madrid en septiembre",
+      "link": "https://www.abc.es/espana/castilla-leon/canto-zamora-antonio-pedrero-llegara-madrid-septiembre-20260821144901-nt.html",
+      "desc": "El Centro Cultural Casa de Vacas, en el parque de El Retiro, en Madrid, acogerá del 4 al 27 del próximo mes de septiembre la exposición 'Antonio Pedrero. Antológica 1952-2026, que reúne un centenar de obras realizadas durante los últimos 75 años por el pintor ",
+      "date": "Fri, 21 Aug 2026 14:49:01 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Detenido el presunto autor del atropello de un conocido empresario de Malagón",
+      "link": "https://www.abc.es/espana/castilla-la-mancha/toledo/pueblos/detenido-presunto-autor-atropello-conocido-empresario-malagon-20260821144843-nt.html",
+      "desc": "El presunto autor del atropello de un conocido empresario de Malagón (Ciudad Real) ha sido detenido varios días después de los hechos. El suceso ocurrió el pasado martes en las inmediaciones de la plaza de El Santo de esta localidad ciudadrealeña y el conducto",
+      "date": "Fri, 21 Aug 2026 14:48:43 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Un crítico del PSOE en Ceuta: «Yo soy socialista, no sanchista ni un borrego»",
+      "link": "https://www.abc.es/espana/critico-psoe-ceuta-socialista-sanchista-borrego-20260821144330-nt.html",
+      "desc": "«Estoy orgulloso de ser socialista. Lo que no soy es sanchista ni un borrego de lo que quieran que diga y que mienta a los ciudadanos». El diputado socialista ceutí, Melchor Gaspar, ha cargado este viernes directamente contra el Gobierno de Pedro Sánchez por l",
+      "date": "Fri, 21 Aug 2026 14:47:43 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Muere en Tarancón (Cuenca) a los 98 años Johnny Torales, cantante de 'Los 3 Sudamericanos'",
+      "link": "https://www.abc.es/espana/castilla-la-mancha/muere-tarancon-cuenca-anos-johnny-torales-cantante-20260821143651-nt.html",
+      "desc": "Se apaga una de las voces que popularizaron la música latinoamericana en la España de los años sesenta. Johnny Torales, cantante y fundador de 'Los 3 Sudamericanos', ha fallecido este viernes a los 98 años en la localidad conquense de Tarancón por causas natur",
+      "date": "Fri, 21 Aug 2026 14:36:51 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
     {
       "title": "La Costa Blanca se posiciona a escala internacional con La Vuelta 2026",
       "link": "https://www.abc.es/espana/comunidad-valenciana/alicante/costa-blanca-posiciona-escala-internacional-vuelta-2026-20260821142940-nt.html",
@@ -10,6 +120,16 @@
       "source": "ABC",
       "color": "#c0392b",
       "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "El ejército de EE.UU. desmantela su batallón especializado en la guerra con drones",
+      "link": "https://www.lavanguardia.com/internacional/20260821/11617706/ejercito-ee-uu-desmantela-batallon-especializado-guerra-drones.html",
+      "desc": "La unidad, con sede en Europa, fue creada el año pasado para aprender las lecciones de Ucrania",
+      "date": "21 Aug 2026 14:21:54 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
       "caso": "other"
     },
     {
@@ -93,7 +213,7 @@
       "caso": "other"
     },
     {
-      "title": "Detienen al sospechoso del sabotaje al Nord Stream mientras asesoraba una película de Hollywood sobre el propio atentado",
+      "title": "Detenido por el sabotaje al Nord Stream mientras trabajaba en una película sobre el atentado",
       "link": "https://www.lavanguardia.com/internacional/20260821/11617633/detienen-sospechoso-sabotaje-nord-stream-asesoraba-pelicula-hollywood-sobre-propio-atentado.html",
       "desc": "El ucraniano Volodymyr Zhuravlyov, señalado como cabecilla de las explosiones que en 2022 dejaron fuera de servicio el gasoducto que llevaba gas ruso a Alemania, ha sido detenido en un set de rodaje en Croacia&nbsp;",
       "date": "21 Aug 2026 13:33:58 +0200",
@@ -120,126 +240,6 @@
       "source": "ABC",
       "color": "#c0392b",
       "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Las pernoctaciones en hoteles en Canarias crecen 7 veces más que la media nacional",
-      "link": "https://www.abc.es/espana/canarias/pernoctaciones-hoteles-canarias-crecen-veces-media-nacional-20260821132653-nt.html",
-      "desc": "Los hoteles de Canarias registraron 6,78 millones de pernoctaciones en el mes de julio de 2026, lo que supone un 2,39% más en comparación con el mismo mes del año anterior. Según los datos difundidos por el Instituto Nacional de Estadística (INE), la comunidad",
-      "date": "Fri, 21 Aug 2026 13:26:53 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "El Seprona clausura en Ruidera una explotación ilegal con ovejas muertas y falta de higiene",
-      "link": "https://www.abc.es/espana/castilla-la-mancha/seprona-clausura-ruidera-explotacion-ilegal-ovejas-muertas-20260821131521-nt.html",
-      "desc": "Agentes del Servicio de Protección de la Naturaleza (Seprona) de la Guardia Civil han descubierto en una parcela urbana de Ruidera (Ciudad Real) una explotación con 28 ovejas que carecía de los requisitos de control sanitario y en la que los agentes encontraro",
-      "date": "Fri, 21 Aug 2026 13:15:22 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Cinco detenidos por llevar migrantes desde Ceuta a La Línea a cambio de 9.000 euros",
-      "link": "https://www.abc.es/espana/andalucia/cadiz/policia-nacional-detiene-cinco-personas-dos-organizaciones-20260821114849-nts.html",
-      "desc": "La Policía Nacional ha desarrollado dos investigaciones que han permitido desarticular dos organizaciones dedicadas al tráfico ilícito de migrantes desde Ceuta hasta la península, actuaciones que se han saldado con la detención de cinco personas. Los investiga",
-      "date": "Fri, 21 Aug 2026 13:11:54 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Un condenado por intentar matar a otro hombre elude la prisión por dejar las drogas",
-      "link": "https://www.abc.es/espana/comunidad-valenciana/alicante/condenado-intentar-matar-hombre-elude-prision-dejar-20260821130620-nt.html",
-      "desc": "La Audiencia Provincial de Alicante ha condenado a tres años de prisión por un delito de homicidio en grado de tentativa a un hombre que intentó matar a otro de una puñalada en Ondara. No obstante, no irá a la cárcel por haber dejado las drogas, salvo que come",
-      "date": "Fri, 21 Aug 2026 13:07:42 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Faustino Vidal, el empresario asturiano fan de Bukele que ha empapelado Oviedo con el presidente salvadoreño",
-      "link": "https://www.abc.es/espana/asturias/faustino-vidal-empresario-asturiano-fan-bukele-empapelado-20260821130729-nt.html",
-      "desc": "«Nayib Bukele, ¡presidente universal!» . La frase, acompañada de una imagen del presidente centroamericano y de una bandera del país, podría ocupar una valla publicitaria en cualquier calle de San Salvador y a nadie le resultaría extraño. El asombro llega al d",
-      "date": "Fri, 21 Aug 2026 13:07:30 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Confirman dos casos de tuberculosis con un fallecido en Segovia",
-      "link": "https://www.abc.es/espana/castilla-leon/confirman-dos-casos-tuberculosis-fallecido-segovia-20260821125418-nt.html",
-      "desc": "Dos casos de tuberculosis confirmados, uno de ellos fallecido. Es el balance por ahora de la enfermedad , según han confirmado a ABC desde la Dirección General de Salud Pública de la Consejería de Sanidad y Bienestar Social de la Junta de Castilla y León. Si b",
-      "date": "Fri, 21 Aug 2026 12:54:18 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "El Hospital La Fe supera los 1.650 casos analizados con inteligencia artificial para diagnosticar el cáncer de próstata",
-      "link": "https://www.abc.es/espana/comunidad-valenciana/hospital-supera-1650-casos-analizados-inteligencia-artificial-20260821125330-nt.html",
-      "desc": "El Hospital Universitari i Politècnic La Fe de Valencia ha superado los 1.650 estudios de próstata analizados mediante inteligencia artificial (IA) convirtiéndose en uno de los centros que mayor volumen de pacientes con sospecha de cáncer de próstata ha estudi",
-      "date": "Fri, 21 Aug 2026 12:53:31 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Granada reduce hasta en un 95% el Impuesto de Construcciones a los afectados por terremotos",
-      "link": "https://www.abc.es/espana/andalucia/granada/granada-reduce-impuesto-construcciones-afectados-terremotos-20260821124048-nts.html",
-      "desc": "El Ayuntamiento de Granada aplicará una bonificación del 95% del Impuesto sobre Construcciones, Instalaciones y Obras (ICIO) a los granadinos que tengan que realizar obras de reparación en viviendas habituales e inmuebles con actividad afectados por los terrem",
-      "date": "Fri, 21 Aug 2026 12:52:48 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "El PP reactiva en el Senado la polémica sobre el voto exterior",
-      "link": "https://www.abc.es/espana/pp-reactiva-senado-polemica-sobre-voto-exterior-20260821125204-nt.html",
-      "desc": "El Partido Popular ha registrado en el Senado una batería de preguntas para volver a «poner la lupa» en el Censo Electoral de Españoles Residentes en el Extranjero (CERA), considerando «imprescindible» conocer las razones del incremento de nuevos electores en ",
-      "date": "Fri, 21 Aug 2026 12:52:04 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "El Euribor llega al 3% tras dos años y acerca una fuerte subida de la cuota de la hipoteca",
-      "link": "https://www.lavanguardia.com/economia/20260821/11617226/euribor-3-agosto-hipotecas-variables-cuota.html",
-      "desc": "La inflación alta en la eurozona por el impacto de la energía presiona al BCE",
-      "date": "21 Aug 2026 12:42:30 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "Una mujer, herida en un tiroteo de madrugada en Badalona",
-      "link": "https://www.lavanguardia.com/local/barcelones-nord/20260821/11617627/mujer-herida-bala-herida-tiroteo-madrugada-badalona.html",
-      "desc": "Los hechos han ocurrido en la calle Simancas de la ciudad",
-      "date": "21 Aug 2026 12:35:43 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "El PSOE y el PD italiano critican a Frederisken por apoyar a Meloni en la crisis de Ceuta",
-      "link": "https://www.lavanguardia.com/politica/20260821/11617621/psoe-pd-italiano-unen-fuerzas-frederisken-apoyar-meloni-crisis-ceuta.html",
-      "desc": "Las formaciones denuncian ante el Partido Socialista Europeo la falta de solidaridad con España de la primera ministra danesa",
-      "date": "21 Aug 2026 12:29:55 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
       "caso": "other"
     }
   ]
