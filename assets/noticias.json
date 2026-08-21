@@ -1,12 +1,202 @@
 {
-  "updated": "2026-08-21T08:33:26Z",
+  "updated": "2026-08-21T10:23:37Z",
   "count": 24,
   "items": [
     {
-      "title": "Detenido en Córdoba por agredir con un arma blanca a un hombre que lo había reconocido por robar su coche",
-      "link": "https://www.abc.es/espana/andalucia/cordoba/detenido-cordoba-agredir-arma-blanca-hombre-reconocido-20260821100629-nts.html",
-      "desc": "La Policía Nacional ha detenido en Córdoba a un hombre como presunto autor de un delito de lesiones, después de que, supuestamente, agrediera con un arma blanca a otro varón en plena vía pública, en la zona del Sector Sur. Los hechos ocurrieron el pasado domin",
-      "date": "Fri, 21 Aug 2026 10:06:53 +0200",
+      "title": "Fallece aplastado por la furgoneta que estaba reparando en la vía pública en Daimiel",
+      "link": "https://www.abc.es/espana/castilla-la-mancha/fallece-aplastado-furgoneta-reparando-via-publica-daimiel-20260821121225-nt.html",
+      "desc": "Un hombre de 36 años ha fallecido este jueves tras resultar aplastado por una furgoneta que se encontraba reparando en la vía pública en Daimiel (Ciudad Real). Según han informado a ABC fuentes del Servicio de Emergencias 112 de Castilla-La Mancha, el siniestr",
+      "date": "Fri, 21 Aug 2026 12:12:26 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Abierta la convocatoria de ayudas para la mejora de caminos rurales, dotada con 10 millones de euros",
+      "link": "https://www.abc.es/espana/castilla-la-mancha/abierta-convocatoria-ayudas-mejora-caminos-rurales-dotada-20260821120321-nt.html",
+      "desc": "El Gobierno de Castilla-La Mancha ha abierto la convocatoria de ayudas destinadas a la mejora y el acondicionamiento de caminos rurales en la región. Se trata de una línea dirigida a los ayuntamientos de la región y dotada con 10 millones de euros para facilit",
+      "date": "Fri, 21 Aug 2026 12:03:22 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Conducía drogado, sin cinturón y en dirección contraria por Orense con 23 gramos de cocaína escondidos",
+      "link": "https://www.abc.es/espana/galicia/conducia-drogado-cinturon-direccion-contraria-orense-gramos-20260821115032-nt.html",
+      "desc": "La Policía Nacional ha detenido en Orense a un hombre acusado de un presunto delito contra la salud pública después de sorprenderlo conduciendo sin cinturón, en dirección prohibida y con 23 gramos de cocaína repartidos en distintos escondites del vehículo. Seg",
+      "date": "Fri, 21 Aug 2026 11:50:32 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "IU Toledo urge al equipo de Gobierno a recuperar la gestión municipal de las Escuelas Infantiles",
+      "link": "https://www.abc.es/espana/castilla-la-mancha/toledo/iu-toledo-urge-equipo-gobierno-recuperar-gestion-20260821114303-nt.html",
+      "desc": "El portavoz de Izquierda Unida en el Ayuntamiento de Toledo, Txema Fernández, ha trasladado al equipo de Gobierno que están ante «una oportunidad única» de recuperar la gestión municipal de las Escuelas Infantiles con una encomienda a la EMV que ahorre costes ",
+      "date": "Fri, 21 Aug 2026 11:43:03 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Soria encabeza el crecimiento del gasto extranjero en España por el eclipse",
+      "link": "https://www.abc.es/espana/castilla-leon/soria-encabeza-crecimiento-gasto-extranjero-espana-eclipse-20260821113927-nt.html",
+      "desc": "Un análisis de BBVA Research basado en compras con tarjetas de entidades extranjeras en terminales punto de venta (TPV) de la entidad constata que el gasto presencial de los visitantes extranjeros aumentó un 13,8 por ciento interanual en España en la semana en",
+      "date": "Fri, 21 Aug 2026 11:39:28 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Córdoba rompe en julio su tendencia negativa de visitantes y crece un 5,6%",
+      "link": "https://www.abc.es/espana/andalucia/cordoba/cordoba-rompe-julio-tendencia-negativa-visitantes-crece-20260821113859-nts.html",
+      "desc": "No está siendo el mejor año para Córdoba en lo que a cifras de visitantes y pernoctaciones se refiere, según los datos que mensualmente divulga la Encuesta de Ocupación Hotelera (EOH) del Instituto Nacional de Estadística (INE). Aunque esta encuesta solo tiene",
+      "date": "Fri, 21 Aug 2026 11:38:59 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "El enjambre sísmico de Granada tiende a remitir por la menor magnitud de las réplicas",
+      "link": "https://www.abc.es/espana/andalucia/granada/menor-magnitud-replicas-indica-enjambre-sismico-granada-20260821111742-nts.html",
+      "desc": "En sismología nada es seguro, los terremotos son imprevisibles, pero la tendencia que se está siguiendo ahora en Granada indica que el enjambre sísmico tiende a remitir. De las ocho réplicas que se han producido en la madrugada y en la mañana de este viernes 2",
+      "date": "Fri, 21 Aug 2026 11:38:16 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Dos detenidos por tocamientos a mujeres en el Real de la Feria de Málaga",
+      "link": "https://www.abc.es/espana/andalucia/malaga/dos-detenidos-tocamientos-mujeres-real-feria-malaga-20260821113509-nts.html",
+      "desc": "Agentes de la Policía Nacional han detenido a dos hombres en sendas actuaciones este pasado miércoles por presuntos tocamientos a mujeres en la Feria de Málaga, según han confirmado fuentes policiales. En concreto, ambos hechos han tenido lugar en la madrugada",
+      "date": "Fri, 21 Aug 2026 11:36:20 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Cuatro menores se enfrentan a sanciones de hasta 3.000 euros por defecar en una piscina de Burgos",
+      "link": "https://www.abc.es/espana/castilla-leon/cuatro-menores-enfrentan-sanciones-3000-euros-defecar-20260821112400-nt.html",
+      "desc": "El Ayuntamiento de Burgos ha abierto un expediente sancionador a cuatro menore s de entre 11 y 13 años como presuntos autores de defecar el pasado martes en la piscina de El Plantío y se enfrentan a multas de hasta 3.000 euros . A diferencia de ocasiones anter",
+      "date": "Fri, 21 Aug 2026 11:35:51 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Un rayo deja fuera de servicio un tren con 153 pasajeros en Caudete (Albacete)",
+      "link": "https://www.abc.es/espana/castilla-la-mancha/rayo-deja-servicio-tren-153-pasajeros-caudete-20260821112709-nt.html",
+      "desc": "El Gobierno de Castilla-La Mancha ha desactivado esta pasada medianoche el Plan Específico ante el Riesgo por Fenómenos Meteorológicos Adversos (Meteocam), después de una jornada de lluvias y tormentas que dejó siete incidentes en las provincias donde permanec",
+      "date": "Fri, 21 Aug 2026 11:35:36 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Meta culmina los trámites urbanísticos en Talavera y encara los proyectos de obra de su megacentro de datos",
+      "link": "https://www.abc.es/espana/castilla-la-mancha/toledo/talavera/meta-culmina-tramites-urbanisticos-talavera-encara-proyectos-20260821104411-nt.html",
+      "desc": "Meta culmina la fase de gestión urbanística de su futuro centro de datos en Talavera de la Reina y encara ahora la tramitación de los proyectos constructivos que deberán preceder al inicio de las obras. El Diario Oficial de Castilla-La Mancha (DOCM) publica es",
+      "date": "Fri, 21 Aug 2026 11:35:02 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Cae una banda con base en Burela dedicada a la venta de droga en Lugo y Asturias",
+      "link": "https://www.abc.es/espana/galicia/cae-banda-base-burela-dedicada-venta-droga-20260821113404-nt.html",
+      "desc": "La Guardia Civil ha desmantelado una organización criminal radicada en el municipio lucense de Burela dedicada a la distribución de cocaína y hachís a gran escala en diferentes puntos de la provincia de Lugo y del Principado de Asturias. El balance de la opera",
+      "date": "Fri, 21 Aug 2026 11:34:04 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Arranca la Feria de Almería con el pregón y el encendido extraordinario de su nueva portada",
+      "link": "https://www.abc.es/espana/andalucia/almeria/arranca-feria-almeria-pregon-encendido-extraordinario-nueva-20260821111145-nts.html",
+      "desc": "La Feria y Fiestas de Almería en honor a su patrona, la Virgen del Mar, comenzará este viernes con la lectura del pregón y el encendido extraordinario de la nueva portada monumental inspirada en la Casa de las Mariposas , de 22,5 metros de altura y 150.800 pun",
+      "date": "Fri, 21 Aug 2026 11:24:26 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Los turistas extranjeros llenan los hoteles de Málaga durante la Feria",
+      "link": "https://www.abc.es/espana/andalucia/malaga/visitantes-extranjeros-llenan-hoteles-malaga-feria-20260821112031-nts.html",
+      "desc": "Hoteles llenos por la feria. Málaga tiene sus hoteles con 93,57% de ocupación, sobre todo por la llegada de visitantes extranjeros, que dominan la estadística. Prevé cerrar con esas cifras, peses a que aún faltan tres días para que se apagan las luces y dejen ",
+      "date": "Fri, 21 Aug 2026 11:22:19 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "La Diputación impulsa los Talleres+ para crear empleo y mejorar espacios públicos en Fuensalida",
+      "link": "https://www.abc.es/espana/castilla-la-mancha/toledo/pueblos/diputacion-impulsa-talleres-crear-empleo-mejorar-espacios-20260821111746-nt.html",
+      "desc": "La presidenta de la Diputación de Toledo, Concepción Cedillo, ha visitado este viernes en Fuensalida el Taller+ 'La Picota' , donde ha destacado la importancia de estos programas para ofrecer formación y oportunidades laborales al mismo tiempo y contribuir a l",
+      "date": "Fri, 21 Aug 2026 11:17:47 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Sorprendido un pasajero en Gran Canaria con más de tres kilos de hachís en su equipaje",
+      "link": "https://www.abc.es/espana/canarias/sorprendido-pasajero-gran-canaria-tres-kilos-hachis-20260821111322-nt.html",
+      "desc": "Agentes de la Guardia Civil han detenido a un pasajero en Gran Canaria que llevaba más de tres kilos de hachís en su maleta . La detención se produjo el pasado 9 de agosto, en el Aeropuerto de Gran Canaria, cuando la actitud del pasajero despertó las sospechas",
+      "date": "Fri, 21 Aug 2026 11:13:22 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Asaja convoca al campo a dar una respuesta «contundente» el 6 de octubre en Toledo",
+      "link": "https://www.abc.es/espana/castilla-la-mancha/toledo/asaja-convoca-campo-dar-respuesta-contundente-octubre-20260821111148-nt.html",
+      "desc": "Asaja Castilla-La Mancha ha convocado a los agricultores y ganaderos de la región a una movilización el próximo 6 de octubre en Toledo ante la «gravedad» de la situación que atraviesa el sector y la falta de respuestas concretas por parte de las administracion",
+      "date": "Fri, 21 Aug 2026 11:11:49 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Guardias civiles piden medidas urgentes para solucionar la inseguridad en la custodia de internos a los centros médicos",
+      "link": "https://www.abc.es/espana/canarias/guardias-civiles-piden-medidas-urgentes-solucionar-inseguridad-20260821110014-nt.html",
+      "desc": "La Asociación Unificada de Guardias Civiles (AUGC) ha instado formalmente a la consejería de Sanidad del Gobierno de Canarias a tomar medidas urgentes para solucionar la inseguridad en las conducciones de internos a los centros médicos. Tal y como ha asegurado",
+      "date": "Fri, 21 Aug 2026 11:00:14 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "La Policía Nacional acaba con dos mafias que traían inmigrantes desde Ceuta a la península",
+      "link": "https://www.abc.es/espana/policia-nacional-acaba-dos-mafias-traian-inmigrantes-20260821105830-nt.html",
+      "desc": "La Policía Nacional ha desarticulado este viernes dos organizaciones dedicadas al tráfico ilícito de inmigrantes ilegales desde de Ceuta hasta la península a través del Estrecho de Gibraltar. A través de un comunicado, el cuerpo ha anunciado que han detenido a",
+      "date": "Fri, 21 Aug 2026 10:58:31 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "La Guardia Civil detiene a tres personas por el robo de joyas en Almería",
+      "link": "https://www.abc.es/espana/andalucia/almeria/guardia-civil-detiene-tres-personas-robo-joyas-20260821102725-nts.html",
+      "desc": "La Guardia Civil ha detenido a tres personas e investiga a una cuarta por el robo de joyas de oro valoradas en 3.500 euros en una vivienda de Cantoria, entre lo que se encuentra cuatro anillos con diamantes y un collar. Según ha explicado la Comandancia, la in",
+      "date": "Fri, 21 Aug 2026 10:48:49 +0200",
       "source": "ABC",
       "color": "#c0392b",
       "feedId": "ABC",
@@ -23,170 +213,10 @@
       "caso": "other"
     },
     {
-      "title": "Defensa refuerza con 150 militares del Mando de Canarias las fuerzas desplegadas en Ceuta",
-      "link": "https://www.abc.es/espana/canarias/defensa-refuerza-150-militares-mando-canarias-fuerzas-20260821100050-nt.html",
-      "desc": "El Ministerio de Defensa ha informado del desplazamiento de 150 militares procedentes de Canarias a Ceuta para reforzar las capacidades del Ejército de Tierra, como consecuencia de la crisis migratoria que atraviesa la ciudad autónoma desde el pasado 30 de jul",
-      "date": "Fri, 21 Aug 2026 10:00:51 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "El Gobierno declara las islas de San Simón y Santo Antón Lugar de Memoria Democrática",
-      "link": "https://www.abc.es/espana/galicia/gobierno-declara-islas-san-simon-santo-anton-20260821095723-nt.html",
-      "desc": "El Gobierno de España ha declarado este viernes, 21 de agosto, las islas de San Simón y Santo Antón, situadas en el municipio pontevedrés de Redondela, como Lugar de Memoria Democrática. La resolución, publicada en el Boletín Oficial del Estado, se adopta al a",
-      "date": "Fri, 21 Aug 2026 09:57:23 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Las vísperas, el prólogo ya indispensable de la Semana Santa de Córdoba",
-      "link": "https://www.abc.es/espana/andalucia/cordoba/semana-santa/visperas-prologo-indispensable-semana-santa-cordoba-20260821134956-nts.html",
-      "desc": "La Semana Santa de Córdoba comenzaba hace 20 años el Domingo de Ramos y entonces se podían ver los primeros pasos y los primeros nazarenos. Hubo un antecedente singular: el Señor de la Sangre , titular de la cofradía del Císter, que salió durante años para su ",
-      "date": "Fri, 21 Aug 2026 09:50:35 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Muere un subteniente del Ejército del Aire desplegado en Santiago en la lucha contra los incendios",
-      "link": "https://www.abc.es/espana/galicia/muere-subteniente-ejercito-aire-desplegado-santiago-lucha-20260821095006-nt.html",
-      "desc": "El subteniente José Ángel Fernández del 43 Grupo del Ejército del Aire y del Espacio ha muerto mientras estaba destacado en Santiago en el marco de la campaña de lucha contra los incendios forestales. En un mensaje publicado este viernes en la red social X, el",
-      "date": "Fri, 21 Aug 2026 09:50:06 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "El Córdoba CF abre la temporada en El Arcángel con el reto de asentar su proyecto ante un Girona herido",
-      "link": "https://www.abc.es/espana/andalucia/cordoba/cordoba-cf/cordoba-abre-temporada-arcangel-reto-sumar-primeros-20260820094809-nts.html",
-      "desc": "El Córdoba CF escribe un nuevo capítulo de la temporada 2026-2027. En esta ocasión, es ciertamente especial, ya que los pupilos de Iván Ania vuelven a El Arcángel en competición oficial para demostrar a su afición que este nuevo proyecto tiene los mimbres nece",
-      "date": "Fri, 21 Aug 2026 09:48:09 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "¿Hasta cuándo?",
-      "link": "https://www.abc.es/espana/andalucia/cordoba/hasta-cuando-20260821094504-nts.html",
-      "desc": "La primera de las conocidas como Catilinarias —los cuatro discursos pronunciados por Cicerón en el senado romano para denunciar las actividades de Lucio Sergio Catilina , protagonista de una conspiración para dar un golpe de Estado— comenzaba con una pregunta:",
-      "date": "Fri, 21 Aug 2026 09:45:05 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
       "title": "Human Rights Watch denuncia que en Ceuta se ha dejado a miles de personas en un “vacío legal”",
       "link": "https://www.lavanguardia.com/politica/20260821/11617530/human-right-watch-denuncia-ceuta-dejado-miles-personas-vacio-legal.html",
       "desc": "La oenegé publica un informe de urgencia que concluye que se ha mantenido en el tiempo una situación dramática humanitaria",
       "date": "21 Aug 2026 09:44:49 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "La Guardia Civil detiene a una mujer por robar 70 tapas de alcantarillado en Castellón",
-      "link": "https://www.abc.es/espana/comunidad-valenciana/guardia-civil-detiene-mujer-robar-tapas-alcantarillado-20260821094441-nt.html",
-      "desc": "La Guardia Civil, a través del Equipo Roca, ha detenido a una mujer de 30 años como presunta autora de un delito continuado de hurto de 70 tapas de alcantarillado y baterías de vehículos, cometidos en las localidades de Benicarló y Vinaròs (Castellón). La inve",
-      "date": "Fri, 21 Aug 2026 09:44:42 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Fuentes considera que la posible venta de Deoleo a Dcoop es «una oportunidad histórica para defender el peso del aceite de oliva español»",
-      "link": "https://www.abc.es/espana/andalucia/cordoba/fuentes-considera-posible-venta-deoleo-dcoop-oportunidad-20260821184739-nts.html",
-      "desc": "Deoleo está en proceso de venta. La mayor compañía de aceite del mundo tiene en Córdoba tanto su sede como su principal planta de producción, lo que convierte cualquier operación sobre la empresa en un asunto de especial relevancia para la ciudad. El propio al",
-      "date": "Fri, 21 Aug 2026 09:42:36 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Córdoba suspira ante la bajada de las temperaturas: «Lo espero como agua de mayo»",
-      "link": "https://www.abc.es/espana/andalucia/cordoba/cordoba-suspira-ante-bajada-temperaturas-espero-agua-20260821144033-nts.html",
-      "desc": "Quien tiene la opción aprovecha para no salir a la calle. Ni siquiera antes del mediodía, cuando ya es considerable el calor. Es lo que tiene Córdoba en verano, aunque éste es más tórrido que anteriores. Como ejemplo, en la primera quincena de agosto casi dos ",
-      "date": "Fri, 21 Aug 2026 09:42:32 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Detenido un narco en el aeropuerto de Alicante 48 horas después de que Francia activara su búsqueda",
-      "link": "https://www.abc.es/espana/comunidad-valenciana/alicante/detenido-narco-aeropuerto-alicante-horas-despues-francia-20260821094030-nt.html",
-      "desc": "Agentes de la Policía Nacional han detenido en el aeropuerto de Alicante-Elche Miguel Hernández a un hombre sobre el que pesaba una Orden Europea de Detención y Entrega emitida por las autoridades judiciales de Francia por un presunto delito de tráfico de drog",
-      "date": "Fri, 21 Aug 2026 09:40:30 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Muere un motorista de unos 30 años en un accidente en Villares de la Reina (Salamanca)",
-      "link": "https://www.abc.es/espana/castilla-leon/muere-motorista-anos-accidente-villares-reina-salamanca-20260821092906-nt.html",
-      "desc": "Un motorista de unos 30 años ha perdido la vida este viernes en un accidente de tráfico producido a la altura del kilómetro 233 de la N-620A, en Villares de la Reina (Salamanca) , según han informado los servicios de emergencia 1-1-2 de Castilla y León. Hacia ",
-      "date": "Fri, 21 Aug 2026 09:30:35 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "«Galicia me enamora muy fuertemente», confiesa Cristina Pedroche en sus vacaciones",
-      "link": "https://www.abc.es/espana/galicia/galicia-enamora-fuertemente-confiesa-cristina-pedroche-vacaciones-20260821092429-nt.html",
-      "desc": "«Me voy completamente enamorada». Así ha resumido Cristina Pedroche sus vacaciones de verano en Galicia, un destino que, a juzgar por sus publicaciones en Instagram, le ha dejado huella. La presentadora ha ido compartiendo con sus seguidores paisajes de las Rí",
-      "date": "Fri, 21 Aug 2026 09:24:29 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Judas Priest ofrece una noche histórica para el heavy metal en Roig Arena",
-      "link": "https://www.abc.es/espana/comunidad-valenciana/judas-priest-ofrece-noche-historica-heavy-metal-20260821074127-nt.html",
-      "desc": "Más de 9.000 aficionados al heavy metal se han dado cita este jueves en Roig Arena de Valencia para asistir al esperado concierto de Judas Priest, que se ha estrenado en el recinto valenciano con una actuación que ha repasado algunos de los grandes himnos de u",
-      "date": "Fri, 21 Aug 2026 07:41:27 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Un incendio forestal provocado por un rayo avanza hacia la Sierra Calderona",
-      "link": "https://www.abc.es/espana/comunidad-valenciana/incendio-forestal-provocado-rayo-avanza-sierra-calderona-20260821073843-nt.html",
-      "desc": "Un incendio forestal declarado este jueves por un rayo entre las localidades de Gátova y Segorbe ha encendido todas las alarmas en el parque natural de la Sierra Calderona . Este viernes se han incorporado medios aéreos después de una noche complicada donde lo",
-      "date": "Fri, 21 Aug 2026 07:38:43 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Ceuta estrecha lazos con Andalucía frente a la reclamación soberanista marroquí",
-      "link": "https://www.abc.es/espana/andalucia/ceuta-estrecha-lazos-andalucia-frente-reclamacion-soberanista-20260821181548-nts.html",
-      "desc": "Ceuta fue invadida hace 21 días y en Marruecos se reclama su soberanía desde editoriales de periódicos y voces del gubernamentales. No hay criterio histórico que sostenga esa ensoñación. Ceuta nunca fue marroquí y existe antes que el propio país Alauí, pero la",
-      "date": "Fri, 21 Aug 2026 07:03:21 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "El mundo al revés: TikTok nos enseña a tejer, coser y bordar como nuestras abuelas para desconectar",
-      "link": "https://www.lavanguardia.com/magazine/lifestyle/20260821/11616067/mundo-reves-tiktok-ensena-tejer-coser-bordar-abuelas-desconectar.html",
-      "desc": "Después de pasar media vida mirando pantallas, los jóvenes han descubierto una actividad revolucionaria: hacer cosas con las manos",
-      "date": "21 Aug 2026 06:30:00 +0200",
       "source": "La Vanguardia",
       "color": "#8e44ad",
       "feedId": "LaVanguardia",
@@ -203,39 +233,9 @@
       "caso": "other"
     },
     {
-      "title": "Cortes en la línea 6 de Metro de Madrid este fin de semana: días, horarios y estaciones afectadas",
-      "link": "https://www.abc.es/espana/madrid/cortes-linea-metro-madrid-fin-semana-dias-20260821060000-nt.html",
-      "desc": "Metro de Madrid ha elegido el mes de agosto para acelerar las obras en la línea 6 . La menor afluencia de viajeros permite cerrar algunas estaciones y modificar los trayectos en algunos tramos provocando las menos molestias posibles. Esta vez, las nuevas incid",
-      "date": "Fri, 21 Aug 2026 06:00:00 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "El otro impacto de la IA: su expansión ahora encarece la financiación de los países",
+      "title": "El otro impacto de la IA: su expansión encarece ahora la financiación de los países",
       "link": "https://www.lavanguardia.com/economia/20260821/11617286/impacto-ia-expansion-encarece-financiacion-paises.html",
       "desc": "El endeudamiento de EE.UU. marca un nuevo récord al alcanzar los 40 billones",
-      "date": "21 Aug 2026 06:00:00 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "El Gobierno aplica por fin el primer plan para poner orden en Ceuta",
-      "link": "https://www.lavanguardia.com/politica/20260821/11617318/gobierno-aplica-primer-plan-poner-orden-ceuta.html",
-      "desc": "La Administración central abre dos centros temporales que no garantizan a nadie quedarse, solo camas y cuidados",
-      "date": "21 Aug 2026 06:00:00 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "Ayuso, una inquilina polémica",
-      "link": "https://www.lavanguardia.com/politica/20260821/11617270/ayuso-inquilina-polemica.html",
-      "desc": "La presidenta de la Comunidad de Madrid cambia de piso: esta vez se va al acomodado barrio de Puerta de Hierro, de alquiler",
       "date": "21 Aug 2026 06:00:00 +0200",
       "source": "La Vanguardia",
       "color": "#8e44ad",
