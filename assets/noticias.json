@@ -1,7 +1,57 @@
 {
-  "updated": "2026-08-21T04:31:58Z",
+  "updated": "2026-08-21T06:36:46Z",
   "count": 24,
   "items": [
+    {
+      "title": "Judas Priest ofrece una noche histórica para el heavy metal en Roig Arena",
+      "link": "https://www.abc.es/espana/comunidad-valenciana/judas-priest-ofrece-noche-historica-heavy-metal-20260821074127-nt.html",
+      "desc": "Más de 9.000 aficionados al heavy metal se han dado cita este jueves en Roig Arena de Valencia para asistir al esperado concierto de Judas Priest, que se ha estrenado en el recinto valenciano con una actuación que ha repasado algunos de los grandes himnos de u",
+      "date": "Fri, 21 Aug 2026 07:41:27 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Un incendio forestal provocado por un rayo avanza hacia la Sierra Calderona",
+      "link": "https://www.abc.es/espana/comunidad-valenciana/incendio-forestal-provocado-rayo-avanza-sierra-calderona-20260821073843-nt.html",
+      "desc": "Un incendio forestal declarado este jueves por un rayo en Segorbe (Castellón) ha llevado al Centro de Coordinación de Emergencias de la Generalitat a establecer la situación 1 del Plan Especial Frente al Riesgo de Incendios Forestales (PEIF). Este viernes se i",
+      "date": "Fri, 21 Aug 2026 07:38:43 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Ceuta estrecha lazos con Andalucía frente a la reclamación soberanista marroquí",
+      "link": "https://www.abc.es/espana/andalucia/ceuta-estrecha-lazos-andalucia-frente-reclamacion-soberanista-20260821181548-nts.html",
+      "desc": "Ceuta fue invadida hace 21 días y en Marruecos se reclama su soberanía desde editoriales de periódicos y voces del gubernamentales. No hay criterio histórico que sostenga esa ensoñación. Ceuta nunca fue marroquí y existe antes que el propio país Alauí, pero la",
+      "date": "Fri, 21 Aug 2026 07:03:21 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "El mundo al revés: TikTok nos enseña a tejer, coser y bordar como nuestras abuelas para desconectar",
+      "link": "https://www.lavanguardia.com/magazine/lifestyle/20260821/11616067/mundo-reves-tiktok-ensena-tejer-coser-bordar-abuelas-desconectar.html",
+      "desc": "Después de pasar media vida mirando pantallas, los jóvenes han descubierto una actividad revolucionaria: hacer cosas con las manos",
+      "date": "21 Aug 2026 06:30:00 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
+    {
+      "title": "Utilizar la IA para hacer deberes y trabajos reduce un 20% el aprendizaje",
+      "link": "https://www.lavanguardia.com/vida/20260821/11617220/utilizar-ia-deberes-trabajos-reduce-20-aprendizaje.html",
+      "desc": "Un estudio analiza el coste que tiene para los alumnos delegar sus tareas escolares en la tecnología",
+      "date": "21 Aug 2026 06:05:00 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
     {
       "title": "Cortes en la línea 6 de Metro de Madrid este fin de semana: días, horarios y estaciones afectadas",
       "link": "https://www.abc.es/espana/madrid/cortes-linea-metro-madrid-fin-semana-dias-20260821060000-nt.html",
@@ -10,6 +60,106 @@
       "source": "ABC",
       "color": "#c0392b",
       "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "El otro impacto de la IA: su expansión ahora encarece la financiación de los países",
+      "link": "https://www.lavanguardia.com/economia/20260821/11617286/impacto-ia-expansion-encarece-financiacion-paises.html",
+      "desc": "El endeudamiento de EE.UU. marca un nuevo récord al alcanzar los 40 billones",
+      "date": "21 Aug 2026 06:00:00 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
+    {
+      "title": "El Gobierno aplica por fin el primer plan para poner orden en Ceuta",
+      "link": "https://www.lavanguardia.com/politica/20260821/11617318/gobierno-aplica-primer-plan-poner-orden-ceuta.html",
+      "desc": "La Administración central abre dos centros temporales que no garantizan a nadie quedarse, solo camas y cuidados",
+      "date": "21 Aug 2026 06:00:00 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
+    {
+      "title": "Ayuso, una inquilina polémica",
+      "link": "https://www.lavanguardia.com/politica/20260821/11617270/ayuso-inquilina-polemica.html",
+      "desc": "La presidenta de la Comunidad de Madrid cambia de piso: esta vez se va al acomodado barrio de Puerta de Hierro, de alquiler",
+      "date": "21 Aug 2026 06:00:00 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
+    {
+      "title": "Purga en el Mosad por el fracaso del plan para derrocar el régimen iraní",
+      "link": "https://www.lavanguardia.com/internacional/20260821/11617193/purga-mosad-fracaso-plan-derrocar-regimen-irani.html",
+      "desc": "El servicio de inteligencia israelí destituye a dos altos cargos por los fallos en la operación que pretendía acabar con el gobierno de los ayatolás",
+      "date": "21 Aug 2026 06:00:00 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
+    {
+      "title": "Palestina, país de árabes y judíos",
+      "link": "https://www.lavanguardia.com/internacional/20260821/11617044/palestina-pais-arabes-judios.html",
+      "desc": "La utopía es un bálsamo y también un faro que ilumina las noches de verano en un bar de Ramala",
+      "date": "21 Aug 2026 06:00:00 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
+    {
+      "title": "El piso que aterrorizó una finca de la calle Muntaner queda desocupado",
+      "link": "https://www.lavanguardia.com/local/barcelona/20260821/11617328/piso-aterrorizo-finca-calle-muntaner-queda-desocupado.html",
+      "desc": "El cabecilla de esta usurpación es detenido, y su compañera se marcha voluntariamente",
+      "date": "21 Aug 2026 06:00:00 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
+    {
+      "title": "Barcelona subvencionará con 400 euros la compra de bicis eléctricas",
+      "link": "https://www.lavanguardia.com/local/barcelona/20260821/11617308/barcelona-subvencion-400-euros-compra-bicis-electricas.html",
+      "desc": "Más de 2.000 personas se podrán beneficiar en el 2027 de unas ayudas que suponen una inversión anual de un millón de euros",
+      "date": "21 Aug 2026 06:00:00 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
+    {
+      "title": "Julián Álvarez, la última espera: las opciones y las alternativas del Barça",
+      "link": "https://www.lavanguardia.com/deportes/futbol/20260821/11617311/julian-alvarez-ultima-espera-opciones-alternativas-barca.html",
+      "desc": "El Barça aguarda al argentino hasta el próximo lunes antes de activar el plan B",
+      "date": "21 Aug 2026 06:00:00 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
+    {
+      "title": "El largo camino de regreso al Renio Unido de los duques de Sussex",
+      "link": "https://www.lavanguardia.com/gente/20260821/11617274/camino-regreso-renio-unido-duques-sussex.html",
+      "desc": "El príncipe Enrique y Meghan Markle volverán a instalarse en Inglaterra con sus hijos tras seis años de periplo",
+      "date": "21 Aug 2026 06:00:00 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
+    {
+      "title": "Bélgica reivindica la identidad de sus patatas fritas",
+      "link": "https://www.lavanguardia.com/comer/20260821/11617233/belgixa-patata-museo.html",
+      "desc": "Tan convencidos están los belgas de que sus patatas fritas son únicas en el planeta que incluso existe un museo específico dedicado a ellas",
+      "date": "21 Aug 2026 06:00:00 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
       "caso": "other"
     },
     {
@@ -90,156 +240,6 @@
       "source": "ABC",
       "color": "#c0392b",
       "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Alimentación postozempic",
-      "link": "https://www.lavanguardia.com/opinion/20260821/11617106/alimentacion-postozempic.html",
-      "desc": "El creciente uso de los nuevos adelgazantes obliga a la industria alimentaria a reposicionarse",
-      "date": "21 Aug 2026 00:30:00 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "Entra en vigor el decreto que permite a entidades privadas colaborar en trámites de la Junta",
-      "link": "https://www.abc.es/espana/castilla-la-mancha/entra-vigor-decreto-permite-entidades-privadas-colaborar-20260820214837-nt.html",
-      "desc": "El decreto que regula el nuevo régimen jurídico de las Entidades Colaboradoras con la Administración de Castilla-La Mancha ha entrado en vigor este jueves, 20 de agosto, después de que fuera aprobado por el Consejo de Gobierno el pasado 28 de julio. A partir d",
-      "date": "Thu, 20 Aug 2026 21:48:37 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "El primer premio de la Lotería Nacional, con 300.000 euros al número, recala en Córdoba",
-      "link": "https://www.abc.es/espana/andalucia/cordoba/primer-premio-loteria-nacional-300000-euros-numero-20260820214457-nts.html",
-      "desc": "La fortuna ha sonreído en la noche de este jueves la ciudad de Córdoba. Ha sido con el sorteo de la Lotería Nacional. Parte de su primer premio se ha vendido en la capital, según ha informado Loterías y Apuestas del Estado. En concreto, ha sido del despacho re",
-      "date": "Thu, 20 Aug 2026 21:44:57 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Castilla-La Mancha invierte 2,6 millones en mejorar el principal acceso a la Serranía conquense",
-      "link": "https://www.abc.es/espana/castilla-la-mancha/castillala-mancha-invierte-millones-mejorar-principal-acceso-20260820213142-nt.html",
-      "desc": "El Gobierno de Castilla-La Mancha va a invertir 2,6 millones de euros en la mejora de 16 kilómetros de la CM-2105 entre Villalba de la Sierra y Huélamo, en la provincia de Cuenca, una carretera que constituye el principal acceso desde la capital a la Serranía ",
-      "date": "Thu, 20 Aug 2026 21:31:43 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Aucorsa refuerza los autobuses en Las Quemadas y añade seis nuevas paradas en tres líneas",
-      "link": "https://www.abc.es/espana/andalucia/cordoba/aucorsa-refuerza-autobuses-quemadas-anade-seis-nuevas-20260820210251-nts.html",
-      "desc": "La empresa municipal Autobuses de Córdoba, S.A. (Aucorsa) ha informado este miércoles sobre el plan de mejora de los servicios de transporte público que va a implementar de forma inmediata el Polígono de Las Quemadas de la capital. Así, a fin de mejorar la con",
-      "date": "Thu, 20 Aug 2026 21:02:51 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "gen"
-    },
-    {
-      "title": "Núñez reprocha a Page su «silencio» sobre Ceuta: «No le hemos oído decir esta boca es mía»",
-      "link": "https://www.abc.es/espana/castilla-la-mancha/nunez-reprocha-page-silencio-sobre-ceuta-oido-20260820205103-nt.html",
-      "desc": "El presidente del PP de Castilla-La Mancha, Paco Núñez, ha exigido este jueves al Gobierno de España que actúe de manera inmediata para «devolver el orden a la ciudad de Ceuta» y refuerce las fronteras para evitar nuevas entradas irregulares. Una reclamación q",
-      "date": "Thu, 20 Aug 2026 20:53:06 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "El Pentágono retira del Golfo el polémico portaaviones 'Abraham Lincoln'",
-      "link": "https://www.lavanguardia.com/internacional/20260820/11617306/pentagono-retira-golfo-persico-portaaviones-registro-deterioro-condiciones-vida.html",
-      "desc": "El Mando Central de Estados Unidos ha confirmado el despliegue de un nuevo buque, el George Washington, que sustituirá en la misión de Oriente Medio al Abraham Lincoln",
-      "date": "20 Aug 2026 20:40:23 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "Un terremoto de magnitud 7,2 sacude la región andina de Ayacucho, en el sur de Perú",
-      "link": "https://www.lavanguardia.com/internacional/20260820/11617304/terremoto-magnitud-7-2-sacude-region-andina-ayacucho-sur-peru.html",
-      "desc": "El temblor se sintió hasta en la capital Lima, a más de 600 kilómetros, pero hasta el momento no se han registrado daños personales o materiales",
-      "date": "20 Aug 2026 20:28:52 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "La Campana de Oropesa dice basta y pide más seguridad: «Los ladrones aquí se sienten impunes»",
-      "link": "https://www.abc.es/espana/castilla-la-mancha/toledo/pueblos/campana-oropesa-dice-basta-pide-seguridad-ladrones-20260820201623-nt.html",
-      "desc": "La noche del domingo al lunes entraron en su casa de campo y estuvieron dentro durante 28 minutos. A la noche siguiente volvieron a intentarlo. Y la tercera madrugada consecutiva regresaron con inhibidores para bloquear la alarma. Raúl Sánchez, vecino de El Pu",
-      "date": "Thu, 20 Aug 2026 20:16:23 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Dónde ir de fiesta este viernes 21 de agosto en la provincia de Toledo",
-      "link": "https://www.abc.es/espana/castilla-la-mancha/toledo/pueblos/fiesta-viernes-agosto-provincia-toledo-20260820022953-nt.html",
-      "desc": "Navahermosa -A las 20,00 horas: galería de vino. -A las 23,00 horas: actuación de Carlos Canela. Santa Cruz del Retamar -A las 13,00 horas: baile del vermú con actuación musical. -A las 20,00 horas: encierro con cuatro novillos de la ganadería de Mariano de Le",
-      "date": "Thu, 20 Aug 2026 20:15:46 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Horario y dónde ver por televisión el Córdoba CF - Girona",
-      "link": "https://www.abc.es/espana/andalucia/cordoba/cordoba-cf/horario-ver-television-cordoba-20260820235233-nts.html",
-      "desc": "El Córdoba CF regresa a El Arcángel para dar el pistoletazo a su temporada local. Los pupilos de Iván Ania no tendrán un estreno plácido al enfrentarse al Girona , uno de los rivales, a priori, llamados a pelear por el ascenso a Primera División tras su descen",
-      "date": "Thu, 20 Aug 2026 20:08:04 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Juanma Moreno ofrece a los empresarios de Ceuta las herramientas de promoción de Andalucía ante la crisis migratoria",
-      "link": "https://www.abc.es/espana/andalucia/juanma-moreno-ofrece-empresarios-ceuta-herramientas-promocion-20260820200712-nts.html",
-      "desc": "El presidente de la Junta de Andalucía, Juanma Moreno , ha señalado que el Gobierno andaluz está colaborando con los empresarios de Ceuta para «implementar medidas y poner a su disposición las herramientas de promoción empresarial de Andalucía» ante el impacto",
-      "date": "Thu, 20 Aug 2026 20:07:12 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "La rotura de una tubería de fibrocemento anega varias calles del Polígono de Toledo",
-      "link": "https://www.abc.es/espana/castilla-la-mancha/toledo/rotura-tuberia-fibrocemento-anega-varias-calles-poligono-20260820195936-nt.html",
-      "desc": "Las calles Río Estenilla y Río Fresnedoso hicieron durante unas horas honor a sus nombres. La rotura de una tubería de la red de abastecimiento provocó en la noche de este miércoles una importante fuga de agua que anegó varias vías del barrio de Santa María de",
-      "date": "Thu, 20 Aug 2026 20:01:15 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "La presión vecinal acaba con la ocupación ilegal de una vivienda en Garcihernández (Salamanca)",
-      "link": "https://www.abc.es/espana/castilla-leon/presion-vecinal-acaba-ocupacion-ilegal-vivienda-garcihernandez-20260820194045-nt.html",
-      "desc": "La presión vecinal ha acabado este jueves con la ocupación ilegal de una vivienda en Garcihernández , en la provincia de Salamanca. Tras horas de suma tensión en las calles del municipio salmantino, la Guardia Civil ha podido escoltar a primera hora de esta ta",
-      "date": "Thu, 20 Aug 2026 19:40:45 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Carlos Alcaraz anuncia que regresa a las pistas en el US Open: “Estoy de vuelta”",
-      "link": "https://www.lavanguardia.com/deportes/tenis/20260820/11617282/carlos-alcaraz-anuncia-regresa-pistas-us-open-vuelta.html",
-      "desc": "Después de más de cinco meses de baja, el número dos del mundo regresa en 10 días a la competición&nbsp;",
-      "date": "20 Aug 2026 19:29:38 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
       "caso": "other"
     }
   ]
