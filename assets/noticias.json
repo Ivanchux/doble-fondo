@@ -1,7 +1,77 @@
 {
-  "updated": "2026-08-22T12:28:23Z",
+  "updated": "2026-08-22T14:15:51Z",
   "count": 24,
   "items": [
+    {
+      "title": "Arrollado un turista italiano por el tren turístico de Toledo tras ponerse en marcha sin conductor",
+      "link": "https://www.abc.es/espana/castilla-la-mancha/toledo/herido-accidente-tren-turistico-toledo-junto-alcazar-20260822152548-nt.html",
+      "desc": "Un turista italiano ha resultado herido este sábado en un accidente sufrido por el tren turístico de Toledo poco antes de las tres de la tarde, en la confluencia de la cuesta de los Capuchinos con la calle Unión, a pocos metros de la parada. El accidente en pl",
+      "date": "Sat, 22 Aug 2026 15:25:48 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "La Guardia Civil pierde su única lancha rápida de Murcia en plena crisis migratoria",
+      "link": "https://www.abc.es/espana/guardia-civil-pierde-unica-lancha-rapida-murcia-20260822150413-nt.html",
+      "desc": "Cuando vienen mal dadas, vienen todas juntas. Esta expresión del refranero español se puede emplear para la situación por las que pasan las Fuerzas y Cuerpos de Seguridad del Estado que están luchando con los efectos de la crisis migratoria de Ceuta. Por si fu",
+      "date": "Sat, 22 Aug 2026 15:04:13 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Grazalema premia a los equipos de Emergencias que la rescataron en las inundaciones",
+      "link": "https://www.abc.es/espana/andalucia/cadiz/grazalema-premia-equipos-emergencias-rescataron-inundaciones-20260822145743-nts.html",
+      "desc": "Seis meses después de unas inundaciones que obligaron a evacuar Grazalema por completo, el municipio ha querido devolver parte de la ayuda que recibió durante aquellos días. Sus fiestas han servido este año de escenario para reconocer a los servicios de emerge",
+      "date": "Sat, 22 Aug 2026 14:58:29 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Los enfermeros valencianos se movilizan para reforzar a sus colegas en Ceuta",
+      "link": "https://www.abc.es/espana/comunidad-valenciana/enfermeros-valencianos-movilizan-reforzar-colegas-ceuta-20260822144456-nt.html",
+      "desc": "El Consejo de Enfermería de la Comunidad Valenciana (Cecova) ha hecho un llamamiento a los profesionales para que acudan a reforzar el servicio de sus colegas en Ceuta ante la presión asistencial a raíz de la crisis por la llegada multitudinaria de migrantes. ",
+      "date": "Sat, 22 Aug 2026 14:44:56 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "El primer premio de la Lotería, con 600.000 euros al número, cae en Córdoba, en el Sector Sur",
+      "link": "https://www.abc.es/espana/andalucia/cordoba/primer-premio-loteria-600000-euros-numero-cae-20260822144433-nts.html",
+      "desc": "La suerte ha visitado este sábado la ciudad de Córdoba . Lo ha hecho gracias al primer premio del sorteo de la Lotería Nacional , que ha caído aquí. Según ha informado Loterías y Apuestas del Estado (Onlae), en concreto se ha vendido en parte en el Sector Sur ",
+      "date": "Sat, 22 Aug 2026 14:44:34 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "El PP subraya que el Gobierno tiene diez días para explicar al Supremo por qué no comparece en el Senado por Ceuta",
+      "link": "https://www.abc.es/espana/pp-subraya-gobierno-diez-dias-explicar-supremo-20260822143519-nt.html",
+      "desc": "El PP ha asegurado que respeta el auto del Tribunal Supremo que ha rechazado la medida cautelarísima solicitada por el PP para forzar la comparecencia de varios ministros que fueron convocados pero rechazaron acudir al Senado para dar explicaciones de la crisi",
+      "date": "Sat, 22 Aug 2026 14:35:19 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Un coche cae desde un puente a las vías de la estación de Cercanías de Fuenlabrada",
+      "link": "https://www.abc.es/espana/madrid/coche-cae-puente-vias-estacion-cercanias-fuenlabrada-20260822141528-nt.html",
+      "desc": "Un turismo se ha precipitado desde un puente hacia las vías de la estación de Cercanías de Fuenlabrada y su conductor ha salido por sus propios medios, aunque ha resultado herido, según ha informado Emergencias 112 de la Comunidad de Madrid. El accidente de tr",
+      "date": "Sat, 22 Aug 2026 14:15:28 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
     {
       "title": "El Hospital General de Valencia obtiene una certificación europea para la leucemia",
       "link": "https://www.abc.es/espana/comunidad-valenciana/hospital-general-valencia-obtiene-certificacion-europea-leucemia-20260822140659-nt.html",
@@ -133,36 +203,6 @@
       "caso": "other"
     },
     {
-      "title": "Cuando la caza salva el bar del pueblo",
-      "link": "https://www.abc.es/espana/extremadura/caza-salva-bar-pueblo-20260716120443-nt.html",
-      "desc": "No ha amanecido todavía, pero el camarero del bar del pueblo ya no da abasto. Enlaza café tras café. Tostada tras tostada. El local está lleno. Dentro, desayunan. Fuera, apuran el primer -o el segundo- cigarro de la mañana. En la puerta, se acumulan todoterren",
-      "date": "Sat, 22 Aug 2026 12:04:43 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Refuerzo aéreo por el incendio en Segorbe y mantienen a la población evacuada",
-      "link": "https://www.abc.es/espana/comunidad-valenciana/refuerzo-aereo-incendio-segorbe-mantienen-poblacion-evacuada-20260822120335-nt.html",
-      "desc": "El incendio forestal en Segorbe (Castellón) sigue avanzando sin control y se han enviado refuerzos aéreos para atajarlo, cuando ha calcinado ya 633 hectáreas de superficie en un perímetro de 15 kilómetros, por lo que se mantiene a la población evacuada de Gàto",
-      "date": "Sat, 22 Aug 2026 12:03:36 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Iván Ania 'raja' de la nueva norma para jugadores que deben ser atendidos: «Cuando es un pelotazo en los huevos, ¿qué quieres que haga el chico?»",
-      "link": "https://www.abc.es/espana/andalucia/cordoba/cordoba-cf/ivan-ania-raja-nueva-norma-jugadores-deben-20260822112212-nts.html",
-      "desc": "El Córdoba CF venció y convenció en su estreno en El Arcángel ante el Girona (2-1). El conjunto blanquiverde supo leer perfectamente las intenciones del conjunto gerundense y sumó sus primeros tres puntos de la temporada en una actuación sin fisuras. Dentro de",
-      "date": "Sat, 22 Aug 2026 11:22:13 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
       "title": "Detenidos diez narcos tras atacar a tiros a una patrullera de la Guardia Civil en Huelva",
       "link": "https://www.lavanguardia.com/local/andalucia/20260822/11618136/detenidos-diez-narcos-atacar-tiros-patrullera-guardia-civil-huelva.html",
       "desc": "Los agentes repelieron los disparos durante una persecución en alta mar que acabó con dos narcolanchas intervenidas y casi seis toneladas de hachís",
@@ -180,46 +220,6 @@
       "source": "La Vanguardia",
       "color": "#8e44ad",
       "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "El REBI Cuenca conquista el Trofeo JCCM de Balonmano por diferencia de goles",
-      "link": "https://www.abc.es/espana/castilla-la-mancha/toledo/deportes/rebi-cuenca-conquista-trofeo-jccm-balonmano-diferencia-20260822104738-nt.html",
-      "desc": "El REBI Cuenca se ha proclamado campeón del Trofeo Junta de Comunidades de Castilla-La Mancha de Balonmano tras imponerse en el triangular disputado este viernes en el Manzanares Arena. El conjunto conquense recupera así un título que no ganaba desde hace años",
-      "date": "Sat, 22 Aug 2026 10:47:39 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "El Supremo descarta la medida urgente para que los ministros comparezcan en el Senado por la crisis de Ceuta",
-      "link": "https://www.abc.es/espana/supremo-descarta-medida-urgente-ministros-comparezcan-senado-20260822104532-nt.html",
-      "desc": "El Tribunal Supremo ha rechazado la solicitud del Partido Popular de instar a los ministros a comparecer este mismo mes de agosto en el Senado para dar explicaciones sobre la crisis migratoria de Ceuta . Los magistrados consideran que «no se considera proceden",
-      "date": "Sat, 22 Aug 2026 10:45:32 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Disparan a una patrullera de la Guardia Civil en las costas de Huelva",
-      "link": "https://www.abc.es/espana/andalucia/huelva/disparan-patrullera-guardia-civil-costas-huelva-20260822104434-nts.html",
-      "desc": "La lancha trataba de entrar en Huelva cargada de hachís y se inició una persecución con la Guardia Civil. En el intento de fuga los narcos sacaron armas y trataron de matar a los guardias civiles de la patrullera que les daba alcance, junto con otro embarcació",
-      "date": "Sat, 22 Aug 2026 10:45:28 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Un muerto y nueve heridos en un accidente entre tres vehículos en O Corgo (Lugo)",
-      "link": "https://www.abc.es/espana/galicia/muerto-nueve-heridos-accidente-tres-vehiculos-corgo-20260822103904-nt.html",
-      "desc": "Una mujer de 55 años y vecina de Vizcaya ha perdido la vida y otras nueve personas han resultado heridas de diversa consideración tras un accidente entre tres vehículos en el municipio lucense de O Corgo. Según la información del 112 Galicia, el suceso se prod",
-      "date": "Sat, 22 Aug 2026 10:39:05 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
       "caso": "other"
     },
     {
