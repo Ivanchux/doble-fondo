@@ -1,15 +1,135 @@
 {
-  "updated": "2026-08-21T22:18:17Z",
+  "updated": "2026-08-22T00:56:08Z",
   "count": 24,
   "items": [
     {
+      "title": "Defensa parchea la falta de suministro eléctrico en la única base de helicópteros de ataque del Ejército",
+      "link": "https://www.abc.es/espana/defensa-parchea-falta-suministro-electrico-unica-base-20260822013908-nt.html",
+      "desc": "La base Coronel Sánchez Bilbao, a siete kilómetros de la localidad de Almagro, es la única de helicópteros de combate y ataque del Ejército de Tierra . Se trata de una unidad con «capacidades únicas» que, pese a ello, lleva más de nueve meses sin un suministro",
+      "date": "Sat, 22 Aug 2026 01:39:08 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Defender Ceuta y Melilla es defender el Estado de Derecho",
+      "link": "https://www.abc.es/espana/eugenio-ribon-defender-ceuta-melilla-defender-estado-derecho-20260822013745-nt.html",
+      "desc": "Ceuta y Melilla ocupan estos días el centro de una situación de enorme gravedad. La presión migratoria que soportan afecta a la seguridad, tensiona los servicios públicos y exige una respuesta sostenida de las Fuerzas y Cuerpos de Seguridad del Estado, de las ",
+      "date": "Sat, 22 Aug 2026 01:37:45 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "«Improvisación y caos» en la reagrupación de los inmigrantes de Ceuta",
+      "link": "https://www.abc.es/espana/improvisacion-caos-reagrupacion-inmigrantes-ceuta-20260822013605-nt.html",
+      "desc": "La improvisación está siendo la nota predominante en la gestión de la crisis migratoria de Ceuta por parte del Gobierno de Pedro Sánchez. Los mandos que conforman el dispositivo de seguridad denuncian a ABC que la falta de órdenes provoca situaciones de caos c",
+      "date": "Sat, 22 Aug 2026 01:36:05 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Caso Diana Quer: diez años de la caza a un depredador sexual que nunca pidió perdón",
+      "link": "https://www.abc.es/espana/galicia/diana-quer-anos-despues-descansa-paz-20260819013255-nt.html",
+      "desc": "Fue cuestión de horas que, un 22 de agosto de hace diez años, todo el país conociese el rostro y el nombre de una joven madrileña que había desaparecido durante sus vacaciones en Galicia. La imagen de Diana Quer, grabada en la retina de millones de personas de",
+      "date": "Sat, 22 Aug 2026 01:32:55 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "El 57% de las ayudas del Senado a los grupos parlamentarios se usa para financiar a los partidos",
+      "link": "https://www.abc.es/espana/ayudas-senado-grupos-parlamentarios-uso-financiar-partidos-20260730013159-nt.html",
+      "desc": "«El Senado facilitará a los grupos parlamentarios, con cargo al presupuesto de la cámara, una aportación económica para su funcionamiento». Con esa cobertura legal, amparado por el Reglamento de la propia Cámara Alta (artículo 27.6), el Senado reserva una part",
+      "date": "Sat, 22 Aug 2026 01:31:59 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Las incidencias en Cercanías se disparan este año y casi superan ya las de todo 2025",
+      "link": "https://www.abc.es/espana/madrid/incidencias-cercanias-disparan-ano-superan-2025-20260821012829-nt.html",
+      "desc": "La red de Cercanías en la Comunidad de Madrid va de mal en peor. Lo dicen los datos: en el tiempo transcurrido este año 2026, se han registrado 1.436 incidencias. Es decir, 6,3 al día. En todo el año 2025 se produjeron un total de 1.521 , lo que significa que ",
+      "date": "Sat, 22 Aug 2026 01:28:29 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "El 'gusano de acero' Mayrit supera ya los 2.500 metros excavados y se acerca a Palos de la Frontera",
+      "link": "https://www.abc.es/espana/madrid/gusano-acero-mayrit-supera-2500-metros-excavados-20260821011932-nt.html",
+      "desc": "La tuneladora Mayrit ya es algo así como una mascota gigante para Madrid. Este enorme 'gusano' de acero de 98 metros de longitud y 1.500 toneladas de peso, impulsado por 12 motores, empezó a perforar el subsuelo de la capital el pasado 26 de marzo, para abrir ",
+      "date": "Sat, 22 Aug 2026 01:19:32 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Un rebaño municipal de ovejas y cabras para salvar Valdemorillo de los incendios: «Es lo mejor para desbrozar»",
+      "link": "https://www.abc.es/espana/madrid/rebano-ovejas-cabras-bombero-valdemorillo-xxxx-20260815011910-nt.html",
+      "desc": "En Valdemorillo han visto este verano las consecuencias del fuego demasiado cerca: sus vecinos de Navalagamella tuvieron que ser evacuados por el incendio de la Sierra Oeste , que calcinó más de 27.000 hectáreas en la región, y por sus carreteras vieron tambié",
+      "date": "Sat, 22 Aug 2026 01:19:10 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Escenas de Verano se asoma a la recta final con danza, teatro y circo",
+      "link": "https://www.abc.es/espana/madrid/escenas-verano-asoma-recta-final-danza-teatro-20260821011849-nt.html",
+      "desc": "Todo lo bueno, incluidas las vacaciones, se acaba. Y el festival Escenas de Verano también llega ya a su recta final en la última semana de agosto, con una programación que llevará sus últimas propuestas a los diferentes municipios de la Comunidad de Madrid. D",
+      "date": "Sat, 22 Aug 2026 01:18:49 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "España responde a las pretensiones de Marruecos sobre Ceuta y Melilla",
+      "link": "https://www.lavanguardia.com/politica/20260822/11618086/espana-responde-pretensiones-marruecos-sobre-ceuta-melilla.html",
+      "desc": "Moncloa recuerda que ambas ciudades autónomas son parte de la integridad territorial y parte integrante del territorio de la UE",
+      "date": "22 Aug 2026 00:47:18 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
+    {
+      "title": "'Nuestra Tierra vuelve a arder' pide a la Junta que «ponga más medios técnicos y humanos» para la extinción de incendios",
+      "link": "https://www.abc.es/espana/castilla-leon/tierra-vuelve-arder-pide-junta-ponga-medios-20260821004444-nt.html",
+      "desc": "Decenas de personas respaldaron este viernes la movilización convocada por la plataforma 'Nuestra Tierra Quemada' en diferentes ciudades y localidades de Castilla y León, en la que exigieron a la Junta que «ponga más medios técnicos y humanos » para la prevenc",
+      "date": "Sat, 22 Aug 2026 00:44:45 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
       "title": "Las notas de los jugadores del Córdoba CF tras la victoria ante el Girona",
       "link": "https://www.abc.es/espana/andalucia/cordoba/cordoba-cf/notas-jugadores-cordoba-tras-20260822130739-nts.html",
-      "desc": "",
+      "desc": "El Córdoba CF dio un golpe de autoridad y superó a El Arcángel a uno de los equipos llamados a estar arriba como es el Girona (2-1). El conjunto blanquiverde firmó una actuación sin fisuras donde su dominar gran parte del encuentro y negar cualquier intentona ",
       "date": "Sat, 22 Aug 2026 00:12:12 +0200",
       "source": "ABC",
       "color": "#c0392b",
       "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Ni expulsan ni acogen",
+      "link": "https://www.lavanguardia.com/opinion/20260822/11617938/expulsan-acogen.html",
+      "desc": "Lo peor para el Gobierno es que no logra enviar un mensaje claro sobre la crisis migratoria",
+      "date": "22 Aug 2026 00:05:00 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
       "caso": "other"
     },
     {
@@ -117,126 +237,6 @@
       "link": "https://www.lavanguardia.com/internacional/20260821/11617882/14-muertos-121-heridos-ataque-ruso-centro-comercial-krivi-rig-ciudad-natal-zelenski.html",
       "desc": "El presidente ucraniano tacha la ofensiva de “golpe cobarde” y “acto terrorista”",
       "date": "21 Aug 2026 20:12:49 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "Agreden a una médico en el centro de salud de Garrido Sur en Salamanca",
-      "link": "https://www.abc.es/espana/castilla-leon/agreden-medico-centro-salud-garrido-sur-salamanca-20260821200517-nt.html",
-      "desc": "Una médico del centro salud Garrido Sur de Salamanca ha sido agredida este jueves. Los hechos se produjeron el denominado edificio Alamedilla de las citadas instalaciones sanitarias. Así lo ha asegurado la Consejería de Sanidad y Bienestar Social en un mensaje",
-      "date": "Fri, 21 Aug 2026 20:08:07 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Córdoba CF - Girona en directo: resumen, goles y minuto a minuto del partido de Segunda División 2026-2027",
-      "link": "https://www.abc.es/espana/andalucia/cordoba/cordoba-cf/cordoba-girona-directo-resumen-goles-minuto-minuto-20260821112640-dis.html",
-      "desc": "El fútbol está de vuelta en El Arcángel. El Córdoba CF estrena la temporada 2026-2027 en el feudo ribereño con el objetivo de sentar unas bases firmes como local y conseguir sus primeros puntos de la temporada tras la derrota ante el Burgos en El Plantío. Para",
-      "date": "Fri, 21 Aug 2026 19:53:56 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Castilla y León eleva a 29 los focos de Newcastle tras detectar un nuevo brote en Arévalo (Ávila)",
-      "link": "https://www.abc.es/espana/castilla-leon/castilla-leon-eleva-focos-newcastle-tras-detectar-20260821193931-nt.html",
-      "desc": "Las autoridades veterinarias de la Junta de Castilla y León notificaron un nuevo foco de enfermedad de Newcastle en la comarca veterinaria de Arévalo (Ávila). La explotación afectada se ubica, precisamente, en la localidad de Arévalo, y tiene un censo de 46.39",
-      "date": "Fri, 21 Aug 2026 19:41:25 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Asaja defiende que la cosecha de girasol en Córdoba «avanza con retraso» y con unos rendimientos que «no cumplen las expectativas»",
-      "link": "https://www.abc.es/espana/andalucia/cordoba/asaja-defiende-cosecha-girasol-cordoba-avanza-retraso-20260821193658-nts.html",
-      "desc": "Asaja Córdoba ha informado este viernes de que la campaña de girasol en la provincia «avanza con retraso y de forma lenta , después de que las lluvias y borrascas registradas durante la primavera retrasaran aproximadamente dos semanas el inicio de la recolecci",
-      "date": "Fri, 21 Aug 2026 19:36:59 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "La Junta de Andalucía reafirma su apoyo para declarar BIC el Cerro de las Cabezas en Fuente Tójar",
-      "link": "https://www.abc.es/espana/andalucia/cordoba/junta-andalucia-reafirma-apoyo-declarar-bic-cerro-20260821191816-nts.html",
-      "desc": "La Delegación Territorial de Cultura y Deporte de la Junta de Andalucía ha afirmado este viernes que ya ha dado «una respuesta formal» al Ayuntamiento de Fuente-Tójar (Córdoba) «en relación con el estado de su solicitud para impulsar la declaración como Bien d",
-      "date": "Fri, 21 Aug 2026 19:18:17 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Cortada la N-400 desde el lunes por las obras en la línea Aranjuez-La Font a su paso por Santa Cruz de la Zarza",
-      "link": "https://www.abc.es/espana/castilla-la-mancha/toledo/pueblos/cortada-n400-lunes-obras-linea-aranjuezla-font-20260821191258-nt.html",
-      "desc": "El Ministerio de Transportes y Movilidad Sostenible ejecuta las obras de emergencia para la reparación de la estructura sobre la línea ferroviaria 310 Aranjuez-Valencia-La Font , a la altura del kilómetro 81,95 de la N-400, en Santa Cruz de la Zarza, en la pro",
-      "date": "Fri, 21 Aug 2026 19:12:58 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Andalucía crea una red para atender a niños y adolescentes con cáncer",
-      "link": "https://www.abc.es/espana/andalucia/andalucia-crea-red-atender-ninos-adolescentes-cancer-20260821183933-nts.html",
-      "desc": "El Servicio Andaluz de Salud (SAS), perteneciente a la Consejería de Presidencia, Sanidad y Emergencias, ha creado la Red Andaluza de Atención al Cáncer Infantil y de la Adolescencia . Un modelo asistencial, ha explicado el vicepresidente primero y responsable",
-      "date": "Fri, 21 Aug 2026 18:39:34 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Sara Montiel ya tiene su 'Gigante' en el pueblo de Ciudad Real que la vio nacer",
-      "link": "https://www.abc.es/espana/castilla-la-mancha/sara-montiel-gigante-pueblo-ciudad-real-vio-20260821183530-nt.html",
-      "desc": "La legendaria actriz y cantante española Sara Montiel (1928-2013) fue una diva universal, y en su pueblo natal, Campo de Criptana, en la provincia de Ciudad Real, no había mejor forma de rendirle homenaje que incorporando su figura al patrimonio festivo y cult",
-      "date": "Fri, 21 Aug 2026 18:35:31 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Melania reaparece en plena crisis por la proximidad de Trump con una joven asesora",
-      "link": "https://www.lavanguardia.com/internacional/20260821/11617837/melania-reaparece-plena-crisis-proximidad-trump-joven-asesora.html",
-      "desc": "La primera dama ha estado desaparecida desde el 19 de julio, día de la final del Mundial, sin explicación alguna y su irrupción en la Casa Blanca no apaga las suspicacias por la presencia cotidiana junto a su marido de Natalie Harp",
-      "date": "21 Aug 2026 18:29:11 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "La Sala Orive acoge ocho días de ópera y zarzuela en septiembre: programa, fechas y artistas",
-      "link": "https://www.abc.es/espana/andalucia/cordoba/sala-orive-acoge-ocho-dias-opera-zarzuela-20260821182333-nts.html",
-      "desc": "La teniente de alcalde delegada de Cultura del Ayuntamiento de Córdoba, Isabel Albás, ha presentado este viernes la VIII edición del Ciclo de Lírica Voces de Córdoba, Grandes Voces, junto a la directora artística del mismo, Juana Castillo, que tendrá lugar des",
-      "date": "Fri, 21 Aug 2026 18:23:33 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Dos seísmos de magnitud 2,1 y 2,5 grados se dejan sentir de nuevo en Granada este viernes",
-      "link": "https://www.abc.es/espana/andalucia/granada/dos-seismos-magnitud-grados-dejan-sentir-nuevo-20260821180829-nts.html",
-      "desc": "Dos seísmos de 2,5 y 2,1 grados se han dejado sentir este viernes en la franja del mediodía en el área epicentral de la serie sísmica que viene afectando a Granada y su área metropolitana en la última semana. En concreto se han sentido con intensidad débil y c",
-      "date": "Fri, 21 Aug 2026 18:08:30 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Una pelea con cuchillos y destornilladores en la rambla del Raval crispa a los comerciantes",
-      "link": "https://www.lavanguardia.com/local/barcelona/20260821/11617815/pelea-cuchillos-destornilladores-rambla-raval-crispa-comerciantes.html",
-      "desc": "“Si el Ayuntamiento no toma medidas y mejora la seguridad perderemos los pocos clientes que nos quedan”, dicen los restauradores de este eje",
-      "date": "21 Aug 2026 18:07:52 +0200",
       "source": "La Vanguardia",
       "color": "#8e44ad",
       "feedId": "LaVanguardia",
