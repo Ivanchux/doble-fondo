@@ -1,7 +1,107 @@
 {
-  "updated": "2026-08-22T06:30:38Z",
+  "updated": "2026-08-22T08:22:01Z",
   "count": 24,
   "items": [
+    {
+      "title": "El guiño de las estrellas",
+      "link": "https://www.abc.es/espana/andalucia/cordoba/guino-estrellas-20260822130259-nts.html",
+      "desc": "No engaña la cabeza. En los cines de verano antiguos las estrellas se encendían cuando se apagaban las luces. Si el niño había escogido mal o si había tenido que unirse al plan de los demás y la película estaba llena de puñetazos de coreografía y malos de atre",
+      "date": "Sat, 22 Aug 2026 10:09:42 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Córdoba, quinta provincia del país con mayor subida de apartamentos turísticos",
+      "link": "https://www.abc.es/espana/andalucia/cordoba/cordoba-quinta-provincia-pais-mayor-subida-apartamentos-20260822100926-nts.html",
+      "desc": "El boom de los apartamentos turísticos en Córdoba capital no tiene techo por ahora. Uno de los indicadores de su fuerza lo muestra el Instituto Nacional de Estadística (INE), que ubica a nuestra provincia —su mayor ciudad es el gran referente del sector por es",
+      "date": "Sat, 22 Aug 2026 10:09:27 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "La Teleasistencia domiciliaria realiza 14.538 llamadas al 112 durante el primer semestre del año",
+      "link": "https://www.abc.es/espana/castilla-la-mancha/teleasistencia-domiciliaria-realiza-14538-llamadas-112-primer-20260822100257-nt.html",
+      "desc": "El Servicio de Atención y Coordinación de Urgencias y Emergencias 1-1-2 de Castilla-La Mancha recibió, durante el primer semestre de este año, un total de 14.538 llamadas de la central de Teleasistencia domiciliaria , a través de las cuales coordinó las situac",
+      "date": "Sat, 22 Aug 2026 10:02:57 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Castilla-La Mancha invierte más de 170.000 euros para conservar y difundir su folclore",
+      "link": "https://www.abc.es/espana/castilla-la-mancha/castillala-mancha-invierte-170000-euros-conservar-difundir-20260822094801-nt.html",
+      "desc": "El Gobierno de Castilla-La Mancha continúa reforzando su compromiso con la conservación, promoción y difusión del folclore y las tradiciones de la región, con diferentes líneas de apoyo que en los últimos años han permitido impulsar tanto proyectos de document",
+      "date": "Sat, 22 Aug 2026 09:48:01 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Coca y hachís por la puerta de atrás: un camello de 65 años vendía discretamente en su cochera",
+      "link": "https://www.abc.es/espana/comunidad-valenciana/alicante/coca-hachis-puerta-atras-camello-anos-vendia-20260822094637-nt.html",
+      "desc": "Siempre suele ser una actividad discreta y a escondidas, el trapicheo de drogas, y un camello sexagenario tenía clara esa estrategia al vender cocaína y hachís en la cochera de su domicilio en Elche. No obstante, la Policía Nacional lo ha pillado con la colabo",
+      "date": "Sat, 22 Aug 2026 09:46:38 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Se buscan trabajadores para vivir gratis en un pequeño pueblo sueco: alojamiento incluido, 3.800 euros al mes y dietas",
+      "link": "https://www.abc.es/espana/andalucia/buscan-trabajadores-vivir-gratis-pequeno-pueblo-sueco-20260821092720-nts.html",
+      "desc": "Algunas ofertas de trabajo pueden parecer difíciles de creer por las condiciones que ofrecen, pero existen y están respaldadas por organismos oficiales. Es el caso de una propuesta de empleo que se está difundiendo desde la Junta de Andalucía y que también apa",
+      "date": "Sat, 22 Aug 2026 09:27:20 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Mercadona abre este domingo 23 de agosto supermercados con horario especial de verano",
+      "link": "https://www.abc.es/espana/comunidad-valenciana/mercadona-abre-domingo-agosto-supermercados-horario-especial-20260822085045-nt.html",
+      "desc": "Mercadona mantiene vigente el horario de verano para sus supermercados ubicados en zonas de costa y con mayor afluencia turística hasta el próximo 30 de agosto. En algunos de ellos, no en todos, también ofrece servicio especial los domingos desde las nueve de ",
+      "date": "Sat, 22 Aug 2026 08:50:45 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "España responde a Marruecos: Ceuta y Melilla “forman parte de la integridad territorial”",
+      "link": "https://www.lavanguardia.com/politica/20260822/11618105/espana-responde-marruecos-ceuta-melilla-forman-parte-integridad-territorial.html",
+      "desc": "El ministro marroquí de Justicia, Abdellatif Ouahbi, defendió de nuevo el viernes que ambas ciudades constituyen un “derecho histórico y geográfico” de Marruecos",
+      "date": "22 Aug 2026 08:50:06 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
+    {
+      "title": "Crisis y riesgo de abandonos en un cultivo 'cortafuegos natural' ante los incendios",
+      "link": "https://www.abc.es/espana/comunidad-valenciana/crisis-riesgo-abandonos-cultivo-cortafuegos-natural-ante-20260822201032-nt.html",
+      "desc": "Tiene hojas gruesas y consistentes como el cuero, que retienen mucha humedad, además de una corteza más impenetrable que otros árboles como los pinos. Y por estas características y otras, los algarrobos funcionan como 'cortafuegos natural' que frena a los ince",
+      "date": "Sat, 22 Aug 2026 08:49:29 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Una 'colonia' británico-española de 30.000 vecinos busca la independencia en Orihuela",
+      "link": "https://www.abc.es/espana/comunidad-valenciana/alicante/colonia-britanicaespanola-busca-independencia-orihuela-20260822221229-nt.html",
+      "desc": "Una auténtica colonia británico-española, principalmente, aunque la integran otras muchas nacionalidades, se ha movilizado para pedir la independencia de Orihuela porque conforman una auténtica ciudad distinta, situada a más de treinta kilómetros, para empezar",
+      "date": "Sat, 22 Aug 2026 08:44:15 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
     {
       "title": "La milla de oro de Castilla-La Mancha está en Ciudad Real: sus viviendas no bajan de 335.000 euros",
       "link": "https://www.abc.es/espana/castilla-la-mancha/calle-cara-comprar-vivienda-castillala-mancha-ciudad-20260821081901-nt.html",
@@ -23,7 +123,17 @@
       "caso": "other"
     },
     {
-      "title": "Cortes de trenes y afectaciones al tráfico por las lluvias torrenciales en la Costa Daurada",
+      "title": "El fuego que ha obligado a desalojar Gátova sigue sin control y afecta a Sierra Calderona",
+      "link": "https://www.lavanguardia.com/local/valencia/20260822/11618100/fuego-obligado-desalojar-gatova-sigue-control-afecta-sierra-calderona.html",
+      "desc": "El incendio afecta ya a 423 hectáreas y mantiene dos frentes activos, mientras los equipos de extinción confían en que la mejora de las condiciones meteorológicas durante la noche facilite las labores para contener las llamas",
+      "date": "22 Aug 2026 08:10:03 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
+    {
+      "title": "Las lluvias torrenciales en la Costa Daurada dejan tres heridos y 400 evacuados de un camping",
       "link": "https://www.lavanguardia.com/local/tarragona/20260822/11618097/cortes-trenes-afectaciones-trafico-lluvias-torrenciales-costa-daurada.html",
       "desc": "En el litoral del Baix Penedès se han acumulado cantidades cercanas a los 200 litros por metro cuadrado en pocas horas y registros de más de 110 litros por metro cuadrado en el litoral norte del Tarragonès",
       "date": "22 Aug 2026 08:02:10 +0200",
@@ -93,10 +203,10 @@
       "caso": "other"
     },
     {
-      "title": "El incendio forestal de Segorbe obliga a desalojar un millar de personas",
-      "link": "https://www.lavanguardia.com/local/valencia/20260822/11618090/incendio-forestal-segorbe-obliga-desalojar-millar-personas.html",
-      "desc": "El fuego&nbsp;afecta ya a más de 400 hectáreas, parte de ellas en la Sierra Calderona",
-      "date": "22 Aug 2026 06:39:44 +0200",
+      "title": "'El Niño' más intenso en un siglo favorecerá un otoño con más tormentas",
+      "link": "https://www.lavanguardia.com/natural/20260822/11617664/nino-mas-intenso-siglo-favorecera-otono-mas-tormentas.html",
+      "desc": "",
+      "date": "22 Aug 2026 06:00:00 +0200",
       "source": "La Vanguardia",
       "color": "#8e44ad",
       "feedId": "LaVanguardia",
@@ -106,16 +216,6 @@
       "title": "Bronca por el traslado a Valencia de Cercanías de Madrid usados 23 años",
       "link": "https://www.lavanguardia.com/local/barcelona/20260822/11617934/bronca-traslado-valencia-cercanias-madrid-usados-23-anos.html",
       "desc": "La llegada de 41 trenes Civia de la Serie 465 ha abierto una nueva batalla política entre el Gobierno de España y los partidos valencianos",
-      "date": "22 Aug 2026 06:00:00 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "'El Niño' más intenso en un siglo favorecerá un otoño con más tormentas",
-      "link": "https://www.lavanguardia.com/natural/20260822/11617664/nino-mas-intenso-siglo-favorecera-otono-mas-tormentas.html",
-      "desc": "",
       "date": "22 Aug 2026 06:00:00 +0200",
       "source": "La Vanguardia",
       "color": "#8e44ad",
@@ -140,106 +240,6 @@
       "source": "La Vanguardia",
       "color": "#8e44ad",
       "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "Lo de Assumpta Serna",
-      "link": "https://www.lavanguardia.com/vida/20260822/11617251/assumpta-serna.html",
-      "desc": "",
-      "date": "22 Aug 2026 06:00:00 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "Egoísta, solitario, malcriado: la ciencia desmiente los estereotipos sobre los hijos únicos",
-      "link": "https://www.lavanguardia.com/vivo/mamas-y-papas/20260822/11599154/egoista-solitario-malcriado-ciencia-desmiente-estereotipos-sobre-hijos-unicos.html",
-      "desc": "Con una de las tasas de natalidad más bajas del mundo, España va camino de convertirse en una nación de hijos únicos. Esta figura ha estado rodeada de clichés negativos que la ciencia está demostrando que son falsos",
-      "date": "22 Aug 2026 06:00:00 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "Los robots irrumpen en el K-pop",
-      "link": "https://www.lavanguardia.com/tecnologia/20260822/11617850/robot.html",
-      "desc": "Según la compañía, una prueba realizada con 20.000 participantes ha tenido una respuesta positiva",
-      "date": "22 Aug 2026 06:00:00 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "Ridley Scott mira al fin del mundo",
-      "link": "https://www.lavanguardia.com/cultura/20260822/11617864/ridley-scott-mira-mundo.html",
-      "desc": "El director firma la distopía ‘La constelación del perro’, con Jacob Elordi como protagonista",
-      "date": "22 Aug 2026 06:00:00 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "Defensa parchea la falta de suministro eléctrico en la única base de helicópteros de ataque del Ejército",
-      "link": "https://www.abc.es/espana/defensa-parchea-falta-suministro-electrico-unica-base-20260822013908-nt.html",
-      "desc": "La base Coronel Sánchez Bilbao, a siete kilómetros de la localidad de Almagro, es la única de helicópteros de combate y ataque del Ejército de Tierra . Se trata de una unidad con «capacidades únicas» que, pese a ello, lleva más de nueve meses sin un suministro",
-      "date": "Sat, 22 Aug 2026 01:39:08 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Defender Ceuta y Melilla es defender el Estado de Derecho",
-      "link": "https://www.abc.es/espana/eugenio-ribon-defender-ceuta-melilla-defender-estado-derecho-20260822013745-nt.html",
-      "desc": "Ceuta y Melilla ocupan estos días el centro de una situación de enorme gravedad. La presión migratoria que soportan afecta a la seguridad, tensiona los servicios públicos y exige una respuesta sostenida de las Fuerzas y Cuerpos de Seguridad del Estado, de las ",
-      "date": "Sat, 22 Aug 2026 01:37:45 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "«Improvisación y caos» en la reagrupación de los inmigrantes de Ceuta",
-      "link": "https://www.abc.es/espana/improvisacion-caos-reagrupacion-inmigrantes-ceuta-20260822013605-nt.html",
-      "desc": "La improvisación está siendo la nota predominante en la gestión de la crisis migratoria de Ceuta por parte del Gobierno de Pedro Sánchez. Los mandos que conforman el dispositivo de seguridad denuncian a ABC que la falta de órdenes provoca situaciones de caos c",
-      "date": "Sat, 22 Aug 2026 01:36:05 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Caso Diana Quer: diez años de la caza a un depredador sexual que nunca pidió perdón",
-      "link": "https://www.abc.es/espana/galicia/diana-quer-anos-despues-descansa-paz-20260819013255-nt.html",
-      "desc": "Fue cuestión de horas que, un 22 de agosto de hace diez años, todo el país conociese el rostro y el nombre de una joven madrileña que había desaparecido durante sus vacaciones en Galicia. La imagen de Diana Quer, grabada en la retina de millones de personas de",
-      "date": "Sat, 22 Aug 2026 01:32:55 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "El 57% de las ayudas del Senado a los grupos parlamentarios se usa para financiar a los partidos",
-      "link": "https://www.abc.es/espana/ayudas-senado-grupos-parlamentarios-uso-financiar-partidos-20260730013159-nt.html",
-      "desc": "«El Senado facilitará a los grupos parlamentarios, con cargo al presupuesto de la cámara, una aportación económica para su funcionamiento». Con esa cobertura legal, amparado por el Reglamento de la propia Cámara Alta (artículo 27.6), el Senado reserva una part",
-      "date": "Sat, 22 Aug 2026 01:31:59 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Las incidencias en Cercanías se disparan este año y casi superan ya las de todo 2025",
-      "link": "https://www.abc.es/espana/madrid/incidencias-cercanias-disparan-ano-superan-2025-20260821012829-nt.html",
-      "desc": "La red de Cercanías en la Comunidad de Madrid va de mal en peor. Lo dicen los datos: en el tiempo transcurrido este año 2026, se han registrado 1.436 incidencias. Es decir, 6,3 al día. En todo el año 2025 se produjeron un total de 1.521 , lo que significa que ",
-      "date": "Sat, 22 Aug 2026 01:28:29 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
       "caso": "other"
     }
   ]
