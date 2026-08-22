@@ -1,7 +1,187 @@
 {
-  "updated": "2026-08-22T04:26:48Z",
+  "updated": "2026-08-22T06:30:38Z",
   "count": 24,
   "items": [
+    {
+      "title": "La milla de oro de Castilla-La Mancha está en Ciudad Real: sus viviendas no bajan de 335.000 euros",
+      "link": "https://www.abc.es/espana/castilla-la-mancha/calle-cara-comprar-vivienda-castillala-mancha-ciudad-20260821081901-nt.html",
+      "desc": "Hay calles que sirven para tomar el pulso al mercado inmobiliario de una ciudad por sí solas. Direcciones asociadas al lujo, a mansiones y a precios que quedan lejos del alcance de la mayoría. En Castilla-La Mancha, sin embargo, la frontera de lo exclusivo se ",
+      "date": "Sat, 22 Aug 2026 08:19:01 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Sergio Bleda lleva su homenaje a Goya a una pantalla gigante de Times Square",
+      "link": "https://www.abc.es/espana/castilla-la-mancha/sergio-bleda-lleva-homenaje-goya-pantalla-gigante-20260821081649-nt.html",
+      "desc": "El ilustrador e historietista albaceteño afincado en Valencia Sergio Bleda exhibirá una de sus obras este sábado, en Times Square, en Nueva York. Su trabajo formará parte de un vídeo colectivo de un minuto seleccionado por Enriqueta Hueso, propietaria de la ga",
+      "date": "Sat, 22 Aug 2026 08:16:49 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Cortes de trenes y afectaciones al tráfico por las lluvias torrenciales en la Costa Daurada",
+      "link": "https://www.lavanguardia.com/local/tarragona/20260822/11618097/cortes-trenes-afectaciones-trafico-lluvias-torrenciales-costa-daurada.html",
+      "desc": "En el litoral del Baix Penedès se han acumulado cantidades cercanas a los 200 litros por metro cuadrado en pocas horas y registros de más de 110 litros por metro cuadrado en el litoral norte del Tarragonès",
+      "date": "22 Aug 2026 08:02:10 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
+    {
+      "title": "Las negociaciones de EE.UU. con Canadá fracasan y entran en vigor los aranceles del 50 %",
+      "link": "https://www.lavanguardia.com/economia/20260822/11618095/fracasan-negociaciones-ee-uu-canada-entran-vigor-aranceles-50.html",
+      "desc": "La medida implicará tarifas sobre 20.000 millones de dólares en productos canadienses",
+      "date": "22 Aug 2026 07:42:03 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
+    {
+      "title": "Diez años de Biodomo: cómo visitar la selva tropical sin salir de Granada",
+      "link": "https://www.abc.es/espana/andalucia/granada/diez-anos-biodomo-visitar-selva-tropical-salir-20260822175514-nts.html",
+      "desc": "El Parque de las Ciencias funciona en Granada desde 1995 y es un referente indiscutible en Andalucía y en España. A lo largo de su historia ha recibido a 15 millones de visitantes y la demanda ha obligado en todo este tiempo a ampliar sus instalaciones. No hay",
+      "date": "Sat, 22 Aug 2026 07:23:36 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Una familia pide una vivienda adaptada para su hijo de 15 meses, al que le amputarán las piernas en septiembre",
+      "link": "https://www.abc.es/espana/andalucia/cadiz/familia-pide-vivienda-adaptada-hijo-meses-amputaran-20260822071525-nts.html",
+      "desc": "Se llama Ezequiel, no tiene ni año y medio y él y su familia necesitan un lugar que esté a la altura de todas sus necesidades. Las que tiene ahora y las que adolecerá en septiembre. Su madre, Laura, se muestra plenamente dispuesta a hacer todo cuanto esté en s",
+      "date": "Sat, 22 Aug 2026 07:15:25 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Andalucía suma 63.000 empleos en la construcción desde 2019 ante la urgencia de la vivienda",
+      "link": "https://www.abc.es/espana/andalucia/andalucia-suma-63000-empleos-construccion-2019-ante-20260822141519-nts.html",
+      "desc": "Las emergencias del momento eclipsan las preocupaciones constantes. La invasión de Ceuta, los graves incendios del verano, terremotos y los crímenes machistas aparecen en la primera plana de los noticiarios. No obstante, la gran angustia colectiva de andaluces",
+      "date": "Sat, 22 Aug 2026 07:01:23 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Faltan 100.000 trabajadores para construir las viviendas que se necesitan en Andalucía",
+      "link": "https://www.abc.es/espana/andalucia/faltan-100000-trabajadores-construir-viviendas-andalucia-20260822070105-nts.html",
+      "desc": "La indiscutible demanda de vivienda en Andalucía, que ha llevado a la generación de 63.000 nuevos empleos en la construcción desde 2019, exige más mano de obra . Aunque hay un mayor número de albañiles, peones, electricistas y otros técnicos desde la pandemia,",
+      "date": "Sat, 22 Aug 2026 07:01:05 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Dónde ir de fiesta este sábado 22 de agosto en la provincia de Toledo",
+      "link": "https://www.abc.es/espana/castilla-la-mancha/toledo/pueblos/fiesta-sabado-agosto-provincia-toledo-20260822070000-nt.html",
+      "desc": "Navahermosa -A las 20,00 horas: parque infantil. -A las 24,00 horas: tributo a 'La locura del zurdo' y después discoteca móvil. Santa Cruz del Retamar -A las 9,30 horas: encierro taurino. -A las 12,30 horas: baile del vermú. -A las 19,00 horas: novillada con p",
+      "date": "Sat, 22 Aug 2026 07:00:09 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "El incendio forestal de Segorbe obliga a desalojar un millar de personas",
+      "link": "https://www.lavanguardia.com/local/valencia/20260822/11618090/incendio-forestal-segorbe-obliga-desalojar-millar-personas.html",
+      "desc": "El fuego&nbsp;afecta ya a más de 400 hectáreas, parte de ellas en la Sierra Calderona",
+      "date": "22 Aug 2026 06:39:44 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
+    {
+      "title": "Bronca por el traslado a Valencia de Cercanías de Madrid usados 23 años",
+      "link": "https://www.lavanguardia.com/local/barcelona/20260822/11617934/bronca-traslado-valencia-cercanias-madrid-usados-23-anos.html",
+      "desc": "La llegada de 41 trenes Civia de la Serie 465 ha abierto una nueva batalla política entre el Gobierno de España y los partidos valencianos",
+      "date": "22 Aug 2026 06:00:00 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
+    {
+      "title": "'El Niño' más intenso en un siglo favorecerá un otoño con más tormentas",
+      "link": "https://www.lavanguardia.com/natural/20260822/11617664/nino-mas-intenso-siglo-favorecera-otono-mas-tormentas.html",
+      "desc": "",
+      "date": "22 Aug 2026 06:00:00 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
+    {
+      "title": "Choque entre un club de petanca de jubilados y los vecinos en Calafell",
+      "link": "https://www.lavanguardia.com/local/barcelona/20260822/11617894/mas-pelea-petanca.html",
+      "desc": "Cruce de acusaciones en Calafell entre un club de aficionados ya jubilados y los vecinos de la pista, hartos del “ruido” de las partidas",
+      "date": "22 Aug 2026 06:00:00 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
+    {
+      "title": "La asfixia de los médicos en Cuba: “No duermo pensando en si habrán sobrevivido”",
+      "link": "https://www.lavanguardia.com/internacional/20260822/11617008/asfixia-medicos-cuba-duermo-pensando-pacientes-habran-sobrevivido.html",
+      "desc": "La falta de medicamentos, material y personal obliga a los sanitarios a trabajar al límite y a “inventar” para salvar vidas",
+      "date": "22 Aug 2026 06:00:00 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
+    {
+      "title": "Lo de Assumpta Serna",
+      "link": "https://www.lavanguardia.com/vida/20260822/11617251/assumpta-serna.html",
+      "desc": "",
+      "date": "22 Aug 2026 06:00:00 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
+    {
+      "title": "Egoísta, solitario, malcriado: la ciencia desmiente los estereotipos sobre los hijos únicos",
+      "link": "https://www.lavanguardia.com/vivo/mamas-y-papas/20260822/11599154/egoista-solitario-malcriado-ciencia-desmiente-estereotipos-sobre-hijos-unicos.html",
+      "desc": "Con una de las tasas de natalidad más bajas del mundo, España va camino de convertirse en una nación de hijos únicos. Esta figura ha estado rodeada de clichés negativos que la ciencia está demostrando que son falsos",
+      "date": "22 Aug 2026 06:00:00 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
+    {
+      "title": "Los robots irrumpen en el K-pop",
+      "link": "https://www.lavanguardia.com/tecnologia/20260822/11617850/robot.html",
+      "desc": "Según la compañía, una prueba realizada con 20.000 participantes ha tenido una respuesta positiva",
+      "date": "22 Aug 2026 06:00:00 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
+    {
+      "title": "Ridley Scott mira al fin del mundo",
+      "link": "https://www.lavanguardia.com/cultura/20260822/11617864/ridley-scott-mira-mundo.html",
+      "desc": "El director firma la distopía ‘La constelación del perro’, con Jacob Elordi como protagonista",
+      "date": "22 Aug 2026 06:00:00 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
     {
       "title": "Defensa parchea la falta de suministro eléctrico en la única base de helicópteros de ataque del Ejército",
       "link": "https://www.abc.es/espana/defensa-parchea-falta-suministro-electrico-unica-base-20260822013908-nt.html",
@@ -60,186 +240,6 @@
       "source": "ABC",
       "color": "#c0392b",
       "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "El 'gusano de acero' Mayrit supera ya los 2.500 metros excavados y se acerca a Palos de la Frontera",
-      "link": "https://www.abc.es/espana/madrid/gusano-acero-mayrit-supera-2500-metros-excavados-20260821011932-nt.html",
-      "desc": "La tuneladora Mayrit ya es algo así como una mascota gigante para Madrid. Este enorme 'gusano' de acero de 98 metros de longitud y 1.500 toneladas de peso, impulsado por 12 motores, empezó a perforar el subsuelo de la capital el pasado 26 de marzo, para abrir ",
-      "date": "Sat, 22 Aug 2026 01:19:32 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Un rebaño municipal de ovejas y cabras para salvar Valdemorillo de los incendios: «Es lo mejor para desbrozar»",
-      "link": "https://www.abc.es/espana/madrid/rebano-ovejas-cabras-bombero-valdemorillo-xxxx-20260815011910-nt.html",
-      "desc": "En Valdemorillo han visto este verano las consecuencias del fuego demasiado cerca: sus vecinos de Navalagamella tuvieron que ser evacuados por el incendio de la Sierra Oeste , que calcinó más de 27.000 hectáreas en la región, y por sus carreteras vieron tambié",
-      "date": "Sat, 22 Aug 2026 01:19:10 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Escenas de Verano se asoma a la recta final con danza, teatro y circo",
-      "link": "https://www.abc.es/espana/madrid/escenas-verano-asoma-recta-final-danza-teatro-20260821011849-nt.html",
-      "desc": "Todo lo bueno, incluidas las vacaciones, se acaba. Y el festival Escenas de Verano también llega ya a su recta final en la última semana de agosto, con una programación que llevará sus últimas propuestas a los diferentes municipios de la Comunidad de Madrid. D",
-      "date": "Sat, 22 Aug 2026 01:18:49 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "España responde a las pretensiones de Marruecos sobre Ceuta y Melilla",
-      "link": "https://www.lavanguardia.com/politica/20260822/11618086/espana-responde-pretensiones-marruecos-sobre-ceuta-melilla.html",
-      "desc": "Moncloa recuerda que ambas ciudades autónomas son parte de la integridad territorial y parte integrante del territorio de la UE",
-      "date": "22 Aug 2026 00:47:18 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "'Nuestra Tierra vuelve a arder' pide a la Junta que «ponga más medios técnicos y humanos» para la extinción de incendios",
-      "link": "https://www.abc.es/espana/castilla-leon/tierra-vuelve-arder-pide-junta-ponga-medios-20260821004444-nt.html",
-      "desc": "Decenas de personas respaldaron este viernes la movilización convocada por la plataforma 'Nuestra Tierra Quemada' en diferentes ciudades y localidades de Castilla y León, en la que exigieron a la Junta que «ponga más medios técnicos y humanos » para la prevenc",
-      "date": "Sat, 22 Aug 2026 00:44:45 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Las notas de los jugadores del Córdoba CF tras la victoria ante el Girona",
-      "link": "https://www.abc.es/espana/andalucia/cordoba/cordoba-cf/notas-jugadores-cordoba-tras-20260822130739-nts.html",
-      "desc": "El Córdoba CF dio un golpe de autoridad y superó a El Arcángel a uno de los equipos llamados a estar arriba como es el Girona (2-1). El conjunto blanquiverde firmó una actuación sin fisuras donde su dominar gran parte del encuentro y negar cualquier intentona ",
-      "date": "Sat, 22 Aug 2026 00:12:12 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Ni expulsan ni acogen",
-      "link": "https://www.lavanguardia.com/opinion/20260822/11617938/expulsan-acogen.html",
-      "desc": "Lo peor para el Gobierno es que no logra enviar un mensaje claro sobre la crisis migratoria",
-      "date": "22 Aug 2026 00:05:00 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "Así está el Córdoba CF en la clasificación tras la victoria ante el Girona",
-      "link": "https://www.abc.es/espana/andalucia/cordoba/cordoba-cf/cordoba-clasificacion-tras-20260821130512-nts.html",
-      "desc": "Vencer y convencer. El Córdoba CF supo dominar al Girona y brindó la primera alegría a su afición (2-1) en un partido donde firmó una primera parte sin fisuras y ser eficaz con los tantos de Víctor Sánchez y Diego Bri. Ya en la segunda mitad el conjunto blanqu",
-      "date": "Fri, 21 Aug 2026 23:41:25 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "El Córdoba CF tumba con brillantez al Girona y se estrena en El Arcángel por todo lo alto (2-1)",
-      "link": "https://www.abc.es/espana/andalucia/cordoba/cordoba-cf/cordoba-tumba-brillantez-girona-estrena-arcangel-alto-20260821232448-dis.html",
-      "desc": "El Córdoba CF demostró tener nervios de acero para estrenarse con un gran sabor de boca ante su afición y sumar un triunfo de mucho mérito frente al Girona (2-1). El conjunto blanquiverde anuló al cuadro catalán durante una primera mitad sobresaliente y golpeó",
-      "date": "Fri, 21 Aug 2026 23:30:51 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "España responde a Marruecos que rechaza cualquier planteamiento sobre Ceuta y Melilla: «Forman parte de la soberanía e integridad del país»",
-      "link": "https://www.abc.es/espana/espana-responde-marruecos-rechaza-planteamiento-sobre-ceuta-20260821232050-nt.html",
-      "desc": "España ha respondido a la reivindicación de Rabat de este viernes, en boca del ministro de Justicia, que ha pedido establecer un diálogo para discutir la soberanía de Ceuta y Melilla. «Forman parte de la integridad territorial y de la soberanía de España», han",
-      "date": "Fri, 21 Aug 2026 23:20:51 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Susto en Santa Marina: los bomberos intervienen en el incendio de una vivienda",
-      "link": "https://www.abc.es/espana/andalucia/cordoba/bomberos-intervienen-incendio-vivienda-santa-marina-20260821221953-nts.html",
-      "desc": "El Servicio de Extinción de Incendios y Salvamento (SEIS) del Ayuntamiento de Córdoba ha intervenido este viernes por la noche en un incendio declarado en una vivienda de la calle Vera , en el barrio de Santa Marina. El aviso se recibió cerca de las 22.00 hora",
-      "date": "Fri, 21 Aug 2026 22:41:57 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "El Infoca extingue el incendio de Niebla tras dos semanas de combate",
-      "link": "https://www.abc.es/espana/andalucia/huelva/infoca-extingue-incendio-niebla-tras-dos-semanas-20260821212744-nts.html",
-      "desc": "El Infoca ha conseguido extinguir las llamas en Niebla dos semanas después de que el fuego se iniciara. Esta noche se ha puesto por fin punto y final al incendio más grave en Andalucía en los últimos años, que ha calcinado 33.000 hectáreas y supuesto todo un d",
-      "date": "Fri, 21 Aug 2026 21:27:44 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "La Junta exige explicaciones a Adif por la retirada del «cerramiento histórico» de la estación de Valladolid",
-      "link": "https://www.abc.es/espana/castilla-leon/junta-exige-explicaciones-adig-retirada-cerramiento-historico-20260821212359-nt.html",
-      "desc": "La Junta de Castilla y León ha exigido este viernes explicaciones a Adif pot la retira de uno de los muros de la estación de ferrocarril de la estación de Campo Grande de Valladolid, que el Gobierno autonómico considera un «cerramiento histórico» y ha reclamad",
-      "date": "Fri, 21 Aug 2026 21:26:28 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Un motorista de 71 años, herido muy grave tras salirse de la vía en Trillo (Guadalajara)",
-      "link": "https://www.abc.es/espana/castilla-la-mancha/motorista-anos-herido-grave-tras-salirse-via-20260821210441-nt.html",
-      "desc": "Un hombre de 71 años ha resultado herido muy grave este viernes tras sufrir un accidente de moto a la altura de la localidad guadalajareña de Trillo y ha tenido que ser evacuado en helicóptero medicalizado al hospital 12 de Octubre de Madrid. El accidente se h",
-      "date": "Fri, 21 Aug 2026 21:04:41 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Un hombre resulta herido de bala tras un altercado en Barbate",
-      "link": "https://www.abc.es/espana/andalucia/cadiz/hombre-resulta-herido-bala-tras-altercado-barbate-20260821205147-nts.html",
-      "desc": "Un hombre ha resultado herido por arma de fuego tras ser tiroteado durante un altercado registrado este jueves en Barbate (Cádiz). El suceso tuvo lugar a media hora de la tarde en la barriada Blas Infante del municipio gaditano, donde en medio de una refriega ",
-      "date": "Fri, 21 Aug 2026 20:51:47 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Meghan Markle negocia su regreso a la televisión con un papel en ‘The Gentlemen’ de Netflix",
-      "link": "https://www.lavanguardia.com/gente/20260821/11617888/meghan-markle-negocia-regreso-television-papel-the-gentlemen-netflix.html",
-      "desc": "La duquesa de Sussex estaría negociando su primer papel de relevancia desde que dejó la interpretación tras su boda con el príncipe Harry",
-      "date": "21 Aug 2026 20:21:32 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "Uso del móvil en los centros educativos",
-      "link": "https://www.abc.es/espana/castilla-la-mancha/carlos-martinfuertes-uso-movil-centros-educativos-20260821201535-nt.html",
-      "desc": "El uso del teléfono móvil en nuestra sociedad es un tema muy recurrente, sobre todo, si nos referimos a su empleo en los centros educativos de los niveles no universitarios. Es decir, estamos hablando de la Educación Primaria, la Secundaria en los dos ciclos y",
-      "date": "Fri, 21 Aug 2026 20:15:36 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Al menos 19 muertos en un ataque ruso a un centro comercial de Kriví Rih, la ciudad natal de Zelenski",
-      "link": "https://www.lavanguardia.com/internacional/20260821/11617882/14-muertos-121-heridos-ataque-ruso-centro-comercial-krivi-rig-ciudad-natal-zelenski.html",
-      "desc": "El presidente ucraniano tacha la ofensiva de “golpe cobarde” y “acto terrorista”",
-      "date": "21 Aug 2026 20:12:49 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
       "caso": "other"
     }
   ]
