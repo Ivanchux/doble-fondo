@@ -1,7 +1,117 @@
 {
-  "updated": "2026-08-22T18:21:03Z",
+  "updated": "2026-08-22T20:16:07Z",
   "count": 24,
   "items": [
+    {
+      "title": "1-2: Mal inicio del Albacete en el Belmonte ante un eficaz Sanse",
+      "link": "https://www.abc.es/espana/castilla-la-mancha/toledo/deportes/mal-inicio-albacete-belmonte-ante-eficaz-sanse-20260822215326-nt.html",
+      "desc": "El Albacete Balompié sufrió una inesperada derrota en su inicio de Liga en el Carlos Belmonte. La escuadra manchega no ha puntuado aún en espera de la tercera jornada que será con un partido también en el Belmonte ante el Real Oviedo el próximo sábado. Se lleg",
+      "date": "Sat, 22 Aug 2026 21:53:26 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Un mes de alerta en alerta por las llamas y miles de evacuados",
+      "link": "https://www.abc.es/espana/castilla-leon/miles-alerta-alerta-llamas-miles-evacuados-20260821211718-nt.html",
+      "desc": "Difícil de olvidar el 22 de julio de este 2026 que quedará para siempre marcado literalmente a fuego en la memoria y la retina no sólo de los vecinos de Burgohondo, sino de la veintena de localidades afectadas -entre evacuados y confinados- y un operativo de e",
+      "date": "Sat, 22 Aug 2026 21:17:18 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "«Aunque se haya quemado el traje verde, saldrá otro verde y bonito»",
+      "link": "https://www.abc.es/espana/castilla-leon/mes-tras-llamas-incendio-burgohondo-20260820211639-nt.html",
+      "desc": "Un mes se cumple ya del incendio que se inició en Burgohondo (Ávila) el pasado 22 de julio, y la paz no se termina de respirar en el ambiente de una urbanización y quince pueblos desalojados ante el acecho de las llamas voraces, pero poco a poco se trabaja por",
+      "date": "Sat, 22 Aug 2026 21:16:39 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Buscan con cámaras térmicas y drones a un octogenario desaparecido en La Alberca",
+      "link": "https://www.abc.es/espana/castilla-leon/buscan-camaras-termicas-drones-octogenario-desaparecido-alberca-20260822211502-nt.html",
+      "desc": "Tras horas de búsqueda infructuosa y la noche ya encima, drones con cámaras térmicas se sumaban a última hora de la tarde de este sábado a la búsqueda de un octogenario en La Alberca ( Salamanca ). La alerta ante la falta del hombre, de 86 años, saltaba sobre ",
+      "date": "Sat, 22 Aug 2026 21:15:03 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "La lluvia desborda la Costa Daurada y el Govern defiende sus previsiones",
+      "link": "https://www.lavanguardia.com/local/barcelona/20260822/11618278/lluvia-desborda-costa-daurada-govern-defiende-previsiones.html",
+      "desc": "Los móviles no recibieron alerta alguna, y cientos de personas tuvieron que ser evacuadas",
+      "date": "22 Aug 2026 21:12:06 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
+    {
+      "title": "El millar de evacuados por el incendio en Segorbe, en espera al no atajarse el fuego",
+      "link": "https://www.abc.es/espana/comunidad-valenciana/millar-evacuados-incendio-segorbe-espera-atajarse-fuego-20260822205658-nt.html",
+      "desc": "El millar de evacuados por el incendio de Segorbe (Castellón) -que sigue activo, pero evoluciona favorablemente- deben seguir esperando antes de regresar a sus hogares en Gàtova (Valencia) al no atajarse el fuego, que no está controlado a última hora de este s",
+      "date": "Sat, 22 Aug 2026 20:56:58 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Desalojan un edificio en Armilla (Granada) por los daños de los terremotos",
+      "link": "https://www.abc.es/espana/andalucia/granada/desalojan-edificio-armilla-granada-danos-terremotos-20260822204434-nts.html",
+      "desc": "Un edificio con 46 viviendas ubicado en la calle Mérida de Armilla en Granada ha tenido que ser desalojado de forma preventiva este sábado en torno a las 14.00 hora. El motivo es que los últimos terremotos han afectado al inmueble, que puede ser inseguro para ",
+      "date": "Sat, 22 Aug 2026 20:45:31 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Hospitalizada una niña de 3 años tras ser encontrada inconsciente en una piscina de El Casar de Escalona",
+      "link": "https://www.abc.es/espana/castilla-la-mancha/toledo/pueblos/hospitalizada-nina-anos-tras-encontrada-inconsciente-piscina-20260822204311-nt.html",
+      "desc": "Una niña de tres años ha sido ingresada este sábado en el Hospital Universitario de Toledo tras ser hallada inconsciente en una piscina particular de El Casar de Escalona. Según han informado fuentes del Servicio de Emergencias 112 de Castilla-La Mancha, el av",
+      "date": "Sat, 22 Aug 2026 20:43:11 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Pinchazo de la manifestación antiinmigración de Save Europe Act en Barcelona",
+      "link": "https://www.abc.es/espana/cataluna/pinchazo-manifestacion-antiinmigracion-save-europe-act-barcelona-20260822203433-nt.html",
+      "desc": "La movilización convocada por el movimiento Save Europe Act este sábado en la plaza de Sant Jaume de Barcelona ha quedado lejos de las expectativas de sus organizadores y ha congregado apenas a unas decenas de personas. La protesta, integrada en la campaña eur",
+      "date": "Sat, 22 Aug 2026 20:34:33 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Una familia que salió por la ventana de su coche: “Con alerta, no habríamos ido a ninguna parte”",
+      "link": "https://www.lavanguardia.com/vida/20260822/11618273/testimonio-vecino-atrapado-lluvias-torrenciales-hubieramos-recibido-alerta-habriamos-ido-ninguna-parte.html",
+      "desc": "Las lluvias torrenciales en el litoral del Baix Penedès y el Tarragonès han dejado escenas de tensión entre personas atrapadas por inundaciones",
+      "date": "22 Aug 2026 20:26:13 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
+    {
+      "title": "TikTok pagará 400 millones para resolver una demanda por violar la privacidad de niños",
+      "link": "https://www.lavanguardia.com/vida/20260822/11618267/tiktok-pagara-400-millones-resolver-demanda-violar-privacidad-ninos.html",
+      "desc": "La demanda se basa en la ley de protección de la privacidad de menores por la que ahora se está juzgando a Meta en California",
+      "date": "22 Aug 2026 19:54:03 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
     {
       "title": "El Córdoba CF rompe una década sin ganar su estreno en El Arcángel en Segunda para empezar a reconstruir su fortín",
       "link": "https://www.abc.es/espana/andalucia/cordoba/cordoba-cf/cordoba-rompe-decada-ganar-estreno-arcangel-segunda-20260822194432-nts.html",
@@ -33,9 +143,9 @@
       "caso": "other"
     },
     {
-      "title": "Dos heridos al empotrarse un coche contra una terraza en la provincia de León",
+      "title": "Tres heridos al empotrarse un coche contra una terraza en la provincia de León",
       "link": "https://www.abc.es/espana/castilla-leon/dos-heridos-empotrarse-coche-terraza-provincia-leon-20260822191811-nt.html",
-      "desc": "Al menos dos personas han resultado heridas en la tarde de este sábado después de que un coche se haya empotrado contra la terraza de un establecimiento situado en la travesía de Cabrillanes, en la provincia de León. Ocurría sobre las 18.20 horas. En este mome",
+      "desc": "Tres personas han resultado heridas de diversa consideración en la tarde de este sábado después de que un coche se haya empotrado contra la terraza de un establecimiento situado en la travesía de Cabrillanes, en la provincia de León. Ocurría sobre las 18.20 ho",
       "date": "Sat, 22 Aug 2026 19:18:59 +0200",
       "source": "ABC",
       "color": "#c0392b",
@@ -123,120 +233,10 @@
       "caso": "other"
     },
     {
-      "title": "Sanidad vuelve a desaconsejar el baño en el embalse de Cazalegas (Toledo)",
-      "link": "https://www.abc.es/espana/castilla-la-mancha/toledo/pueblos/sanidad-vuelve-desaconsejar-bano-embalse-cazalegas-toledo-20260822180521-nt.html",
-      "desc": "El baño en el embalse de Cazalegas vuelve a estar desaconsejado. La Consejería de Sanidad de Castilla-La Mancha recoge en su información actualizada sobre las zonas de baño de la región que esta de la provincia de Toledo tiene la calificación de « no recomenda",
-      "date": "Sat, 22 Aug 2026 18:05:21 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Bailes de Bollywood y fiesta Holi de agua y colores: el 54 cumpleaños de la elefanta Petita",
-      "link": "https://www.abc.es/espana/comunidad-valenciana/alicante/bailes-bollywood-fiesta-holi-agua-colores-cumpleanos-20260822175520-nt.html",
-      "desc": "Bailes de Bollywood, una fiesta Holi de agua y colores, todo tradiciones hindúes para celebrar el 54 cumpleaños de la elefanta asiática Petita, un ejemplar ahora felizmente integrado en su hogar, el parque Terra Natura de Benidorm, donde llegó hace dos décadas",
-      "date": "Sat, 22 Aug 2026 17:55:21 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Acusan de homicidio por imprudencia al presunto responsable del accidente mortal de un motorista en Salamanca",
-      "link": "https://www.abc.es/espana/castilla-leon/acusan-homicidio-imprudencia-presunto-responsable-accidente-mortal-20260822175011-nt.html",
-      "desc": "Agentes de la Guardia Civil pertenecientes al Subsector de Tráfico de Salamanca acusan al varón detenido este viernes por su supuesta implicación en un accidente de tráfico que costó la vida a un motorista de unos 30 años como presunto autor de los delitos de ",
-      "date": "Sat, 22 Aug 2026 17:50:12 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "El PP denuncia que «Page se va de vacaciones mientras la reputación turística de la región se hunde»",
-      "link": "https://www.abc.es/espana/castilla-la-mancha/pp-denuncia-page-vacaciones-reputacion-turistica-region-20260822174813-nt.html",
-      "desc": "La portavoz del área de Empleo del Partido Popular de Castilla-La Mancha, Itziar Asenjo, ha asegurado este sábado que el deterioro de la reputación turística de Castilla-La Mancha es una nueva consecuencia de «la parálisis, la dejadez y la falta de gestión de ",
-      "date": "Sat, 22 Aug 2026 17:49:55 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Cuatro detenidos y 1.500 kilos de cocaína incautados en A Pobra do Caramiñal (La Coruña)",
-      "link": "https://www.abc.es/espana/galicia/cuatro-detenidos-1500-kilos-cocaina-incautados-pobra-20260822173319-nt.html",
-      "desc": "La Policía Nacional ha detenido este sábado a cuatro personas y ha incautado más de 1.500 kilos de cocaína en una operación antidroga en A Pobra do Caramiñal (La Coruña), que todavía continúa en marcha. Durante la tarde, los agentes desplegados en la zona cont",
-      "date": "Sat, 22 Aug 2026 17:33:20 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "La Gerencia de Emergencias Sanitarias de la Junta atiende más de 150.000 llamadas en el primer semestre del año",
-      "link": "https://www.abc.es/espana/castilla-leon/gerencia-emergencias-sanitarias-junta-atiende-150000-llamadas-20260822173058-nt.html",
-      "desc": "Un total de 150.379 veces sonó durante el primer semestre de este 2026 el teléfono de la Gerencia de Emergencias Sanitarias de la Junta de Castilla y León recamando ayuda especializada urgente, lo que derivó en la atención directa a 150.731 personas y la movil",
-      "date": "Sat, 22 Aug 2026 17:30:58 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
       "title": "Un tribunal federal anula la suspensión de visados ordenada por Trump para 75 países",
       "link": "https://www.lavanguardia.com/internacional/20260822/11618221/tribunal-federal-anula-suspension-visados-ordenada-trump-75-paises.html",
       "desc": "La jueza dictamina que la orden contraviene&nbsp;la Ley de Inmigración y Nacionalidad de Estados Unidos",
       "date": "22 Aug 2026 17:28:03 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "Intervenidas 243 plantas de cannabis en Negueira de Muñiz (Lugo)",
-      "link": "https://www.abc.es/espana/galicia/intervenidas-243-plantas-cannabis-negueira-muniz-lugo-20260822170755-nt.html",
-      "desc": "La Guardia Civil ha intervenido 243 plantas de cannabis en fase de maduración en Negueira de Muñiz (Lugo) durante un operativo policial contra el cultivo y tráfico de sustancias estupefacientes. Tal y como ha trasladado la Benemérita en una nota de prensa, la ",
-      "date": "Sat, 22 Aug 2026 17:07:55 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Atardecer no Gaiás congrega a 15.000 personas en sus 12 conciertos de 2026: el de 9Louro fue el más multitudinario",
-      "link": "https://www.abc.es/espana/galicia/atardecer-gaias-congrega-15000-personas-conciertos-2026-20260822165703-nt.html",
-      "desc": "Atardecer no Gaiás ha reunido en su edición de 2026 a un total de 15.000 personas , sumando el público de los 12 conciertos celebrados entre julio y agosto. Esta ha sido, según las cifras compartidas por la Xunta, la segunda edición más multitudinaria del hist",
-      "date": "Sat, 22 Aug 2026 16:57:03 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Récords térmicos en el Cantábrico y tensión geopolítica en Kiev, entre las imágenes del día.",
-      "link": "https://www.lavanguardia.com/fotos/20260822/11618163/records-termicos-cantabrico-tension-geopolitica-kiev-imagenes-dia.html",
-      "desc": "Récords térmicos en el Cantábrico, tensión geopolítica en Kiev, comicios en Brasil, luto sísmico en Colombia, comercio ganadero mexicano y fervor religioso con tradición taurina e hípica en España.",
-      "date": "22 Aug 2026 16:56:26 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "El padre de Diana Quer, diez años después: “Su legado salvará vidas”",
-      "link": "https://www.lavanguardia.com/sucesos/20260822/11618207/padre-diana-quer-diez-anos-legado-salvara-vidas.html",
-      "desc": "La investigación del caso duró 497 días y terminó en el 2019 con la condena a prisión permanente revisable de José Enrique Abuín, 'El Chicle'.",
-      "date": "22 Aug 2026 16:25:06 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "Sanidad convoca a las comunidades autónomas para suministrar vacunas a Ceuta",
-      "link": "https://www.lavanguardia.com/politica/20260822/11618198/sanidad-convoca-lunes-comunidades-autonomas-llevar-vacunas-ceuta.html",
-      "desc": "Entre el 31 de julio y el 14 de agosto se han contabilizado 5.801 asistencias relacionadas con la entrada de migrantes",
-      "date": "22 Aug 2026 15:40:39 +0200",
       "source": "La Vanguardia",
       "color": "#8e44ad",
       "feedId": "LaVanguardia",
