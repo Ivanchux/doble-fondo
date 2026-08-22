@@ -1,7 +1,127 @@
 {
-  "updated": "2026-08-22T08:22:01Z",
+  "updated": "2026-08-22T10:17:29Z",
   "count": 24,
   "items": [
+    {
+      "title": "Cuando la caza salva el bar del pueblo",
+      "link": "https://www.abc.es/espana/extremadura/caza-salva-bar-pueblo-20260716120443-nt.html",
+      "desc": "No ha amanecido todavía, pero el camarero del bar del pueblo ya no da abasto. Enlaza café tras café. Tostada tras tostada. El local está lleno. Dentro, desayunan. Fuera, apuran el primer -o el segundo- cigarro de la mañana. En la puerta, se acumulan todoterren",
+      "date": "Sat, 22 Aug 2026 12:04:43 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Refuerzo aéreo por el incendio en Segorbe y mantienen a la población evacuada",
+      "link": "https://www.abc.es/espana/comunidad-valenciana/refuerzo-aereo-incendio-segorbe-mantienen-poblacion-evacuada-20260822120335-nt.html",
+      "desc": "El incendio forestal en Segorbe (Castellón) sigue avanzando sin control y se han enviado refuerzos aéreos para atajarlo, cuando ha calcinado ya 633 hectáreas de superficie en un perímetro de 15 kilómetros, por lo que se mantiene a la población evacuada de Gàto",
+      "date": "Sat, 22 Aug 2026 12:03:36 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Iván Ania 'raja' de la nueva norma para jugadores que deben ser atendidos: «Cuando es un pelotazo en los huevos, ¿qué quieres que haga el chico?»",
+      "link": "https://www.abc.es/espana/andalucia/cordoba/cordoba-cf/ivan-ania-raja-nueva-norma-jugadores-deben-20260822112212-nts.html",
+      "desc": "El Córdoba CF venció y convenció en su estreno en El Arcángel ante el Girona (2-1). El conjunto blanquiverde supo leer perfectamente las intenciones del conjunto gerundense y sumó sus primeros tres puntos de la temporada en una actuación sin fisuras. Dentro de",
+      "date": "Sat, 22 Aug 2026 11:22:13 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Detenidos diez narcos tras atacar a tiros a una patrullera de la Guardia Civil en Huelva",
+      "link": "https://www.lavanguardia.com/local/andalucia/20260822/11618136/detenidos-diez-narcos-atacar-tiros-patrullera-guardia-civil-huelva.html",
+      "desc": "Los agentes repelieron los disparos durante una persecución en alta mar que acabó con dos narcolanchas intervenidas y casi seis toneladas de hachís",
+      "date": "22 Aug 2026 11:21:46 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
+    {
+      "title": "El Supremo rechaza la petición del PP para forzar la comparecencia de los ministros en el Senado",
+      "link": "https://www.lavanguardia.com/politica/20260822/11618139/supremo-rechaza-peticion-pp-forzar-comparecencia-ministros-senado.html",
+      "desc": "El tribunal desestima conceder la medida cautelar solicitada por “no acreditarse la especial urgencia legalmente exigible para proceder&nbsp;de esta manera con sacrificio del derecho de audiencia de la parte contraria”",
+      "date": "22 Aug 2026 11:00:59 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
+    {
+      "title": "El REBI Cuenca conquista el Trofeo JCCM de Balonmano por diferencia de goles",
+      "link": "https://www.abc.es/espana/castilla-la-mancha/toledo/deportes/rebi-cuenca-conquista-trofeo-jccm-balonmano-diferencia-20260822104738-nt.html",
+      "desc": "El REBI Cuenca se ha proclamado campeón del Trofeo Junta de Comunidades de Castilla-La Mancha de Balonmano tras imponerse en el triangular disputado este viernes en el Manzanares Arena. El conjunto conquense recupera así un título que no ganaba desde hace años",
+      "date": "Sat, 22 Aug 2026 10:47:39 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "El Supremo descarta la medida urgente para que los ministros comparezcan en el Senado por la crisis de Ceuta",
+      "link": "https://www.abc.es/espana/supremo-descarta-medida-urgente-ministros-comparezcan-senado-20260822104532-nt.html",
+      "desc": "El Tribunal Supremo ha rechazado la solicitud del Partido Popular de instar a los ministros a comparecer este mismo mes de agosto en el Senado para dar explicaciones sobre la crisis migratoria de Ceuta . Los magistrados consideran que «no se considera proceden",
+      "date": "Sat, 22 Aug 2026 10:45:32 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Disparan a una patrullera de la Guardia Civil en las costas de Huelva",
+      "link": "https://www.abc.es/espana/andalucia/huelva/disparan-patrullera-guardia-civil-costas-huelva-20260822104434-nts.html",
+      "desc": "La lancha trataba de entrar en Huelva cargada de hachís y se inició una persecución con la Guardia Civil. En el intento de fuga los narcos sacaron armas y trataron de matar a los guardias civiles de la patrullera que les daba alcance, junto con otro embarcació",
+      "date": "Sat, 22 Aug 2026 10:45:28 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Un muerto y nueve heridos en un accidente entre tres vehículos en O Corgo (Lugo)",
+      "link": "https://www.abc.es/espana/galicia/muerto-nueve-heridos-accidente-tres-vehiculos-corgo-20260822103904-nt.html",
+      "desc": "Una mujer de 55 años y vecina de Vizcaya ha perdido la vida y otras nueve personas han resultado heridas de diversa consideración tras un accidente entre tres vehículos en el municipio lucense de O Corgo. Según la información del 112 Galicia, el suceso se prod",
+      "date": "Sat, 22 Aug 2026 10:39:05 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Un camión utiliza la marcha atrás en plena autovía para esquivar una retención en Almería",
+      "link": "https://www.abc.es/espana/andalucia/almeria/camion-utiliza-marcha-atras-plena-autovia-esquivar-20260822103249-nts.html",
+      "desc": "La conducción utilizando la maniobra de la marcha atrás de por sí está prohibida en España, lo saben bien todos los ciudadanos que cuentan con un carnet de conducir. Aunque hay una excepción, la Dirección General de Tráfico (DGT) permite circular marcha atrás ",
+      "date": "Sat, 22 Aug 2026 10:32:50 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Tres heridos, uno crítico, al derrumbarse un muro por el fuerte temporal en Tarragona",
+      "link": "https://www.abc.es/espana/cataluna/tres-heridos-critico-derrumbarse-muro-fuerte-temporal-20260822103146-nt.html",
+      "desc": "Tres personas han resultado heridas, una de ellas en estado crítico, por la caída de un muro en el paseo marítimo de Roda de Bèrà, (Tarragona) la madrugada de este sábado, dentro del extraordinario episodio de lluvias en la zona litoral de las comarcas del Bai",
+      "date": "Sat, 22 Aug 2026 10:31:46 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "El ascenso meteórico de Víctor Sánchez: de Tercera RFEF a ser goleador del Córdoba CF en Segunda División en menos de un año",
+      "link": "https://www.abc.es/espana/andalucia/cordoba/cordoba-cf/ascenso-meteorico-victor-sanchez-tercera-rfef-goleador-20260822103011-nts.html",
+      "desc": "Víctor Sánchez sigue escribiendo capítulos en su particular cuento de hadas. El ariete sevillano ha derrumbado la puerta del Córdoba CF y ha pasado de ser un jugador secundario en el ecosistema blanquiverde a ser el delantero titular de Iván Ania . Algo que ni",
+      "date": "Sat, 22 Aug 2026 10:30:12 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
     {
       "title": "El guiño de las estrellas",
       "link": "https://www.abc.es/espana/andalucia/cordoba/guino-estrellas-20260822130259-nts.html",
@@ -113,130 +233,10 @@
       "caso": "other"
     },
     {
-      "title": "Sergio Bleda lleva su homenaje a Goya a una pantalla gigante de Times Square",
-      "link": "https://www.abc.es/espana/castilla-la-mancha/sergio-bleda-lleva-homenaje-goya-pantalla-gigante-20260821081649-nt.html",
-      "desc": "El ilustrador e historietista albaceteño afincado en Valencia Sergio Bleda exhibirá una de sus obras este sábado, en Times Square, en Nueva York. Su trabajo formará parte de un vídeo colectivo de un minuto seleccionado por Enriqueta Hueso, propietaria de la ga",
-      "date": "Sat, 22 Aug 2026 08:16:49 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
       "title": "El fuego que ha obligado a desalojar Gátova sigue sin control y afecta a Sierra Calderona",
       "link": "https://www.lavanguardia.com/local/valencia/20260822/11618100/fuego-obligado-desalojar-gatova-sigue-control-afecta-sierra-calderona.html",
       "desc": "El incendio afecta ya a 423 hectáreas y mantiene dos frentes activos, mientras los equipos de extinción confían en que la mejora de las condiciones meteorológicas durante la noche facilite las labores para contener las llamas",
       "date": "22 Aug 2026 08:10:03 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "Las lluvias torrenciales en la Costa Daurada dejan tres heridos y 400 evacuados de un camping",
-      "link": "https://www.lavanguardia.com/local/tarragona/20260822/11618097/cortes-trenes-afectaciones-trafico-lluvias-torrenciales-costa-daurada.html",
-      "desc": "En el litoral del Baix Penedès se han acumulado cantidades cercanas a los 200 litros por metro cuadrado en pocas horas y registros de más de 110 litros por metro cuadrado en el litoral norte del Tarragonès",
-      "date": "22 Aug 2026 08:02:10 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "Las negociaciones de EE.UU. con Canadá fracasan y entran en vigor los aranceles del 50 %",
-      "link": "https://www.lavanguardia.com/economia/20260822/11618095/fracasan-negociaciones-ee-uu-canada-entran-vigor-aranceles-50.html",
-      "desc": "La medida implicará tarifas sobre 20.000 millones de dólares en productos canadienses",
-      "date": "22 Aug 2026 07:42:03 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "Diez años de Biodomo: cómo visitar la selva tropical sin salir de Granada",
-      "link": "https://www.abc.es/espana/andalucia/granada/diez-anos-biodomo-visitar-selva-tropical-salir-20260822175514-nts.html",
-      "desc": "El Parque de las Ciencias funciona en Granada desde 1995 y es un referente indiscutible en Andalucía y en España. A lo largo de su historia ha recibido a 15 millones de visitantes y la demanda ha obligado en todo este tiempo a ampliar sus instalaciones. No hay",
-      "date": "Sat, 22 Aug 2026 07:23:36 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Una familia pide una vivienda adaptada para su hijo de 15 meses, al que le amputarán las piernas en septiembre",
-      "link": "https://www.abc.es/espana/andalucia/cadiz/familia-pide-vivienda-adaptada-hijo-meses-amputaran-20260822071525-nts.html",
-      "desc": "Se llama Ezequiel, no tiene ni año y medio y él y su familia necesitan un lugar que esté a la altura de todas sus necesidades. Las que tiene ahora y las que adolecerá en septiembre. Su madre, Laura, se muestra plenamente dispuesta a hacer todo cuanto esté en s",
-      "date": "Sat, 22 Aug 2026 07:15:25 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Andalucía suma 63.000 empleos en la construcción desde 2019 ante la urgencia de la vivienda",
-      "link": "https://www.abc.es/espana/andalucia/andalucia-suma-63000-empleos-construccion-2019-ante-20260822141519-nts.html",
-      "desc": "Las emergencias del momento eclipsan las preocupaciones constantes. La invasión de Ceuta, los graves incendios del verano, terremotos y los crímenes machistas aparecen en la primera plana de los noticiarios. No obstante, la gran angustia colectiva de andaluces",
-      "date": "Sat, 22 Aug 2026 07:01:23 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Faltan 100.000 trabajadores para construir las viviendas que se necesitan en Andalucía",
-      "link": "https://www.abc.es/espana/andalucia/faltan-100000-trabajadores-construir-viviendas-andalucia-20260822070105-nts.html",
-      "desc": "La indiscutible demanda de vivienda en Andalucía, que ha llevado a la generación de 63.000 nuevos empleos en la construcción desde 2019, exige más mano de obra . Aunque hay un mayor número de albañiles, peones, electricistas y otros técnicos desde la pandemia,",
-      "date": "Sat, 22 Aug 2026 07:01:05 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Dónde ir de fiesta este sábado 22 de agosto en la provincia de Toledo",
-      "link": "https://www.abc.es/espana/castilla-la-mancha/toledo/pueblos/fiesta-sabado-agosto-provincia-toledo-20260822070000-nt.html",
-      "desc": "Navahermosa -A las 20,00 horas: parque infantil. -A las 24,00 horas: tributo a 'La locura del zurdo' y después discoteca móvil. Santa Cruz del Retamar -A las 9,30 horas: encierro taurino. -A las 12,30 horas: baile del vermú. -A las 19,00 horas: novillada con p",
-      "date": "Sat, 22 Aug 2026 07:00:09 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "'El Niño' más intenso en un siglo favorecerá un otoño con más tormentas",
-      "link": "https://www.lavanguardia.com/natural/20260822/11617664/nino-mas-intenso-siglo-favorecera-otono-mas-tormentas.html",
-      "desc": "",
-      "date": "22 Aug 2026 06:00:00 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "Bronca por el traslado a Valencia de Cercanías de Madrid usados 23 años",
-      "link": "https://www.lavanguardia.com/local/barcelona/20260822/11617934/bronca-traslado-valencia-cercanias-madrid-usados-23-anos.html",
-      "desc": "La llegada de 41 trenes Civia de la Serie 465 ha abierto una nueva batalla política entre el Gobierno de España y los partidos valencianos",
-      "date": "22 Aug 2026 06:00:00 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "Choque entre un club de petanca de jubilados y los vecinos en Calafell",
-      "link": "https://www.lavanguardia.com/local/barcelona/20260822/11617894/mas-pelea-petanca.html",
-      "desc": "Cruce de acusaciones en Calafell entre un club de aficionados ya jubilados y los vecinos de la pista, hartos del “ruido” de las partidas",
-      "date": "22 Aug 2026 06:00:00 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "La asfixia de los médicos en Cuba: “No duermo pensando en si habrán sobrevivido”",
-      "link": "https://www.lavanguardia.com/internacional/20260822/11617008/asfixia-medicos-cuba-duermo-pensando-pacientes-habran-sobrevivido.html",
-      "desc": "La falta de medicamentos, material y personal obliga a los sanitarios a trabajar al límite y a “inventar” para salvar vidas",
-      "date": "22 Aug 2026 06:00:00 +0200",
       "source": "La Vanguardia",
       "color": "#8e44ad",
       "feedId": "LaVanguardia",
