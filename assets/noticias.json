@@ -1,7 +1,17 @@
 {
-  "updated": "2026-08-23T02:57:15Z",
+  "updated": "2026-08-23T04:31:16Z",
   "count": 24,
   "items": [
+    {
+      "title": "Dónde ir de fiesta este domingo 23 de agosto en la provincia de Toledo",
+      "link": "https://www.abc.es/espana/castilla-la-mancha/toledo/pueblos/fiesta-domingo-agosto-provincia-toledo-20260823053000-nt.html",
+      "desc": "Navahermosa - A las 13.00 horas: baile del vermú amenizado por el saxofonista Ismael Dorado. - A las 19.30 horas: chupinazo, pregón de fiestas y desfile de cabezudos con la batukada 'Kehumba'. - A las 24.00 horas: fuegos artificiales. - A las 00.30 horas: verb",
+      "date": "Sun, 23 Aug 2026 05:30:03 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
     {
       "title": "El Gobierno busca sortear su propia ley para favorecer el traslado de 500 niñas a la Península",
       "link": "https://www.abc.es/espana/gobierno-planea-pasar-500-menores-quiere-trasladar-20260823013301-nt.html",
@@ -230,16 +240,6 @@
       "source": "La Vanguardia",
       "color": "#8e44ad",
       "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "El millar de evacuados por el incendio en Segorbe, en espera al no atajarse el fuego",
-      "link": "https://www.abc.es/espana/comunidad-valenciana/millar-evacuados-incendio-segorbe-espera-atajarse-fuego-20260822205658-nt.html",
-      "desc": "El millar de evacuados por el incendio de Segorbe (Castellón) -que sigue activo, pero evoluciona favorablemente- deben seguir esperando antes de regresar a sus hogares en Gàtova (Valencia) al no atajarse el fuego, que no está controlado a última hora de este s",
-      "date": "Sat, 22 Aug 2026 20:56:58 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
       "caso": "other"
     }
   ]
