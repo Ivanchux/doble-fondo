@@ -1,7 +1,137 @@
 {
-  "updated": "2026-08-23T06:31:43Z",
+  "updated": "2026-08-23T08:22:41Z",
   "count": 24,
   "items": [
+    {
+      "title": "0-0: El Toledo sigue con las pruebas y no puede con el Aranjuez",
+      "link": "https://www.abc.es/espana/castilla-la-mancha/toledo/deportes/toledo-sigue-pruebas-puede-aranjuez-20260822100952-nt.html",
+      "desc": "El CD Toledo no pasó de un empate a cero goles en su penúltimo partido amistoso de pretemporada disputado contra el Aranjuez en el Salto del Caballo. A los verdes les quedará una postrera cita de preparación que será la del próximo sábado visitando al Alcobend",
+      "date": "Sun, 23 Aug 2026 10:09:53 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "El Castillo de Marbella desvela su pasado: una fortaleza medieval con raíces romanas",
+      "link": "https://www.abc.es/espana/andalucia/malaga/castillo-marbella-desvela-pasado-fortaleza-medieval-raices-20260823095425-nts.html",
+      "desc": "Durante siglos, el Castillo de Marbella ha dominado el corazón de la ciudad como uno de sus principales símbolos. Sus murallas y torres han llegado hasta nuestros días asociadas al pasado medieval de Marbella. Sin embargo, las últimas investigaciones arqueológ",
+      "date": "Sun, 23 Aug 2026 09:54:26 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "La Virgen del Silencio de Córdoba, Siete Dolores desde hace más de un siglo a los pies del Cristo de la Expiración",
+      "link": "https://www.abc.es/espana/andalucia/cordoba/semana-santa/virgen-silencio-cordoba-siete-dolores-siglo-pies-20260823092624-nts.html",
+      "desc": "Conserva de su primitiva advocación el corazón de los Siete Dolores y cuando han pasado casi 120 años de su incorporación a la Semana Santa de Córdoba también su lugar, ya eterno, a los pies del Cristo de la Expiración. La imagen que ahora se conoce como María",
+      "date": "Sun, 23 Aug 2026 09:26:25 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Diego Bri se reivindica en el Córdoba CF: gol, asistencia y candidatura firme para sumar galones en el extremo izquierdo",
+      "link": "https://www.abc.es/espana/andalucia/cordoba/cordoba-cf/diego-bri-reivindica-cordoba-gol-asistencia-candidatura-20260823090003-nts.html",
+      "desc": "El nuevo Córdoba CF empezó a carburar ante el Girona en El Arcángel. La buena imagen del conjunto blanquiverde, como reconoció posteriormente Iván Ania en rueda de prensa, se sostuvo sobre una actuación coral en la que prácticamente todas las piezas respondier",
+      "date": "Sun, 23 Aug 2026 09:24:51 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Un agosto sin vacaciones",
+      "link": "https://www.abc.es/espana/andalucia/cordoba/agosto-vacaciones-20260823130538-nts.html",
+      "desc": "LEO un estudio de 'Aladina' que me ilusiona. Leo luego un estudio del 'CIS' andaluz que me lleva a una profunda reflexión. El primer estudio revela con alegría que «siete de cada diez españoles tienen algún día de vacaciones este mes, nos gastamos una media de",
+      "date": "Sun, 23 Aug 2026 09:21:47 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "'Fuenteovejuna' reúne a 7.000 personas contra el Comendador: «Esta edición ha sido un éxito histórico»",
+      "link": "https://www.abc.es/espana/andalucia/cordoba/fuenteovejuna-reune-7000-personas-comendador-edicion-exito-20260823092136-nts.html",
+      "desc": "Y el juez preguntó: «¿Quién mató al Comendador?». Todos a una, fue la respuesta de Fuente Obejuna. La localidad del Guadiato, simbólicamente, rompió otra vez el yugo del tirano. Porque en los últimos días, como cada dos años, acogió la representación de la obr",
+      "date": "Sun, 23 Aug 2026 09:21:37 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "La voz de los extranjeros en Córdoba: «Se hace la idea de que no hay trabajo, pero aquí nunca me faltó»",
+      "link": "https://www.abc.es/espana/andalucia/cordoba/idea-social-trabajo-nunca-falto-cordoba-20260823211922-nts.html",
+      "desc": "Aun cuando creció en el último lustro la población extranjera en Córdoba continúa muy por debajo que en otros muchos puntos de España. De hecho, siempre se situó en la última década como una de las dos provincias con menor número de residentes de otras naciona",
+      "date": "Sun, 23 Aug 2026 09:19:30 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Córdoba encadena tres años siendo la provincia con menos extranjeros: suponen un 4,4% de la población",
+      "link": "https://www.abc.es/espana/andalucia/cordoba/cordoba-encadena-tres-anos-provincia-extranjeros-suponen-20260823091848-nts.html",
+      "desc": "Córdoba se perpetúa como una de las provincias españolas con menor presencia de población extranjera, al menos según los datos analizados por ABC desde 2017. En la última década, la provincia ha sido la que menos extranjeros concentra o, como mucho, la segunda",
+      "date": "Sun, 23 Aug 2026 09:18:48 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "La recaudación tributaria creció un 14,3% en Castilla-La Mancha en 2025 hasta los 5.343 millones",
+      "link": "https://www.abc.es/espana/castilla-la-mancha/recaudacion-tributaria-crecio-143-castillala-mancha-2025-20260804091253-nt.html",
+      "desc": "La Agencia Tributaria recaudó en Castilla-La Mancha 5.343,3 millones de euros en ingresos tributarios netos durante 2025, un 14,3% más que el ejercicio anterior, cuando la cifra ascendió a 4.676,2 millones. En términos absolutos, Hacienda ingresó 667 millones ",
+      "date": "Sun, 23 Aug 2026 09:12:53 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "La delincuencia se apodera de La Campana de Oropesa: la comarca más insegura de Toledo",
+      "link": "https://www.abc.es/espana/castilla-la-mancha/toledo/pueblos/delincuencia-apodera-campana-oropesa-comarca-insegura-toledo-20260822091235-nt.html",
+      "desc": "La preocupación por la seguridad ha vuelto a instalarse en los municipios de la comarca toledana de La Campana de Oropesa , donde los recientes episodios registrados en localidades como Calera y Chozas, El Puente del Arzobispo o Herreruela han hecho que muchos",
+      "date": "Sun, 23 Aug 2026 09:12:35 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Un buen año para los feriantes, que reclaman un reglamento del sector en Castilla-La Mancha",
+      "link": "https://www.abc.es/espana/castilla-la-mancha/buen-ano-feriantes-reclaman-reglamento-sector-castillala-20260819091216-nt.html",
+      "desc": "Viven del calendario de fiestas. Llegan en primavera, se van en otoño y cada fin de semana levantan ferias en un pueblo distinto. Recorren cientos de kilómetros para montar sus negocios : atracciones, música y casetas. Tras los años duros de la pandemia, los f",
+      "date": "Sun, 23 Aug 2026 09:12:16 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Pedro Cases, pintor, artista, curioso y maestro de varias generaciones en Toledo",
+      "link": "https://www.abc.es/espana/castilla-la-mancha/toledo/pedro-cases-pintor-artista-curioso-maestro-varias-20260816091157-nt.html",
+      "desc": "Pedro Cases fue un artista de los que hicieron de la curiosidad una forma de vida. Pintor, fotógrafo, grabador, profesor y director de la Escuela de Arte de Toledo, pero también lector incansable, músico aficionado, viajero, amante de los bonsáis, de la cocina",
+      "date": "Sun, 23 Aug 2026 09:11:57 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Estabilizado el incendio de la Sierra Calderona tras arrasar con más de 630 hectáreas",
+      "link": "https://www.abc.es/espana/comunidad-valenciana/estabilizado-incendio-sierra-calderona-tras-quemas-630-20260823082431-nt.html",
+      "desc": "El Consorcio Provincial de Bomberos de Castellón ha dado este domingo por estabilizado el incendio de Segorbe , que afecta al parque natural de la Sierra Calderona, después de haber calcinado unas 630 hectáreas de masa forestal y obligado a evacuar la localida",
+      "date": "Sun, 23 Aug 2026 08:24:58 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
     {
       "title": "La sociedad valenciana envejece: los séniors crecen diez veces más que la población activa",
       "link": "https://www.abc.es/espana/comunidad-valenciana/sociedad-valenciana-envejece-seniors-crecen-diez-veces-20260823144452-nt.html",
@@ -110,136 +240,6 @@
       "source": "La Vanguardia",
       "color": "#8e44ad",
       "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "Natalie Harp a Trump: “No quiero decepcionarte nunca. Gracias por ser mi guardián y protector”",
-      "link": "https://www.lavanguardia.com/internacional/20260823/11618245/quiero-decepcionarte-nunca-gracias-mi-guardian-protector.html",
-      "desc": "Salen a la luz cartas apasionadas que supuestamente escribió la asistente Natalie Harp a Donald Trump",
-      "date": "23 Aug 2026 06:00:00 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "El eclipse solar de 2027 dispara los precios: hasta 12.500 euros por una noche en Tarifa",
-      "link": "https://www.lavanguardia.com/vida/20260823/11617001/eclipse-solar-2027-dispara-precios-12-500-euros-noche-tarifa.html",
-      "desc": "Apenas unos días después del último eclipse, las reservas de casas, apartamentos y habitaciones ya se disparan en Cádiz, Málaga, Granada y Almería para no perderse el del año que viene",
-      "date": "23 Aug 2026 06:00:00 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "Dónde y cuándo ver la “Luna de sangre” durante el eclipse lunar del próximo viernes",
-      "link": "https://www.lavanguardia.com/vida/20260823/11617640/donde-cuando-ver-luna-sangre-eclipse-lunar-proximo-viernes.html",
-      "desc": "La Tierra ocultará el 93% del diámetro de la Luna a las 06:12 h y será visible desde todo el país, aunque se ocultará antes de terminar en el centro y este de la península, las Balears, Ceuta y Melilla",
-      "date": "23 Aug 2026 06:00:00 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "El auge del vehículo usado dispara la importación de coches viejos europeos",
-      "link": "https://www.lavanguardia.com/economia/20260823/11618246/auge-vehiculo-usado-dispara-importacion-coches-viejos-europeos.html",
-      "desc": "El modelo más vendido en España es el VW Golf con casi 17 años de antigüedad",
-      "date": "23 Aug 2026 06:00:00 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "El Ebro contra el Mediterráneo",
-      "link": "https://www.lavanguardia.com/vida/20260823/11616520/ebro-mediterraneo.html",
-      "desc": "",
-      "date": "23 Aug 2026 06:00:00 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "La mayor piscina de olas de Europa levanta ampollas entre los madrileños",
-      "link": "https://www.lavanguardia.com/local/madrid/20260823/11618204/mayor-piscina-olas-europa-levanta-ampollas-madrilenos.html",
-      "desc": "Plataformas ecologistas denuncian el alto consumo de agua potable que requiere",
-      "date": "23 Aug 2026 06:00:00 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "Dónde ir de fiesta este domingo 23 de agosto en la provincia de Toledo",
-      "link": "https://www.abc.es/espana/castilla-la-mancha/toledo/pueblos/fiesta-domingo-agosto-provincia-toledo-20260823053000-nt.html",
-      "desc": "Navahermosa - A las 13.00 horas: baile del vermú amenizado por el saxofonista Ismael Dorado. - A las 19.30 horas: chupinazo, pregón de fiestas y desfile de cabezudos con la batukada 'Kehumba'. - A las 24.00 horas: fuegos artificiales. - A las 00.30 horas: verb",
-      "date": "Sun, 23 Aug 2026 05:30:03 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "El Gobierno busca sortear su propia ley para favorecer el traslado de 500 niñas a la Península",
-      "link": "https://www.abc.es/espana/gobierno-planea-pasar-500-menores-quiere-trasladar-20260823013301-nt.html",
-      "desc": "Discriminar a 500 niñas frente al resto de menores hombres, para acelerar su traslado a la Península desde Ceuta, no es posible con la ley aprobada por este Gobierno el año pasado. El artículo 5 de la contingencia migratoria no permite hacer esa diferenciación",
-      "date": "Sun, 23 Aug 2026 01:33:01 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Del Sahara a Ceuta y Melilla, la frontera que Marruecos quiere mover",
-      "link": "https://www.abc.es/espana/sahara-ceuta-melilla-frontera-marruecos-quiere-mover-20260823013246-nt.html",
-      "desc": "La crisis de Ceuta no comenzó este agosto, ni puede explicarse atendiendo únicamente a las imágenes de miles de personas concentrándose frente a una frontera que Marruecos abre y cierra según sus necesidades políticas. El verdadero punto de inflexión hay que b",
-      "date": "Sun, 23 Aug 2026 01:32:46 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "El sistema Mohamed VI: un reino donde todas las decisiones conducen al palacio",
-      "link": "https://www.abc.es/espana/manda-marruecos-20260822013230-nt.html",
-      "desc": "¿Quién manda en Marruecos? Parece que es una pregunta sencilla de responder, y en realidad, lo es: el rey Mohamed VI. Escrito en la Constitución, el monarca tiene plenos poderes. Controla el Poder Ejecutivo, nombrando ministros y tomando decisiones en áreas cl",
-      "date": "Sun, 23 Aug 2026 01:32:30 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Narcotráfico de altos vuelos: drones con 20 kilos de droga para cruzar el Estrecho",
-      "link": "https://www.abc.es/espana/narcotrafico-altos-vuelos-drones-kilos-droga-cruzar-20260727012932-nt.html",
-      "desc": "Por tierra, por mar y, ahora, por aire. Los narcos se adaptan a los nuevos avances tecnológicos y ya utilizan de forma asidua los drones para trasladar la droga desde Marruecos a la Península. Esta modalidad cuenta con un beneficio importante ya que incrementa",
-      "date": "Sun, 23 Aug 2026 01:29:32 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "El rastro del terror de la tienda de golosinas regentada por un depredador sexual",
-      "link": "https://www.abc.es/espana/rastro-terror-tienda-golosinas-regentada-depredador-sexual-20260823012725-nt.html",
-      "desc": "Una pequeña tienda de golosinas del barrio de Amara en San Sebastián se ha convertido en el foco de una preocupante investigación por parte de la Ertzaintza a raíz de la detención de uno de sus trabajadores por presuntamente haber agredido a decenas de menores",
-      "date": "Sun, 23 Aug 2026 01:27:25 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "El falso BMW que delató a Carlitos 'el rey del butrón' y su nueva alianza serbio-rumana",
-      "link": "https://www.abc.es/espana/madrid/falso-bmw-delato-carlitos-rey-butron-nueva-20260820012644-nt.html",
-      "desc": "Aunque a sus 40 años Carlos F. G. es ya uno de los aluniceros más 'reputados' de todo el país, para sus amigos aún sigue siendo Carlitos. Su inocente apodo contrasta con el número de veces que aparece en las bases policiales, con 25 detenciones solo en las de ",
-      "date": "Sun, 23 Aug 2026 01:26:44 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
       "caso": "other"
     }
   ]
