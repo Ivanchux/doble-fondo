@@ -1,7 +1,177 @@
 {
-  "updated": "2026-08-23T04:31:16Z",
+  "updated": "2026-08-23T06:31:43Z",
   "count": 24,
   "items": [
+    {
+      "title": "La sociedad valenciana envejece: los séniors crecen diez veces más que la población activa",
+      "link": "https://www.abc.es/espana/comunidad-valenciana/sociedad-valenciana-envejece-seniors-crecen-diez-veces-20260823144452-nt.html",
+      "desc": "La sociedad valenciana vive un proceso de «transformación demográfica» de envejecimiento en el que los séniors pre o jubilados aumentarán diez veces más rápido que la población activa, que no obstante también crecerá, en un 3% con un horizonte de más de una dé",
+      "date": "Sun, 23 Aug 2026 08:17:16 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Cristóbal Martínez, delegado de la ONCE: «No queríamos depender del Estado ni vivir de la limosna; queríamos ganarnos la vida trabajando»",
+      "link": "https://www.abc.es/espana/andalucia/cristobal-martinez-delegado-once-queriamos-depender-estado-20260823172440-nts.html",
+      "desc": "Cristóbal Martínez, delegado territorial de la ONCE en Andalucía, Ceuta y Melilla, analiza en esta entrevista los principales logros de una organización que está a punto de cumplir 88 años y que ha hecho de la autonomía, el empleo y la inclusión de las persona",
+      "date": "Sun, 23 Aug 2026 07:06:44 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Los municipios costeros andaluces al límite y sin ayuda para mantener sus servicios",
+      "link": "https://www.abc.es/espana/andalucia/municipios-costeros-limite-ayuda-mantener-servicios-20260823192707-nts.html",
+      "desc": "Los municipios turísticos necesitan ayuda para cubrir servicios. La propia Andalucía necesita ayuda ante la avalancha de turistas. El Consejo Andaluz de Colegios de Médicos tasó en un médico cada 213 habitantes para cubrir de forma eficiente a la población. La",
+      "date": "Sun, 23 Aug 2026 07:03:08 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Un matrimonio de conveniencia con el termostato en frío",
+      "link": "https://www.abc.es/espana/andalucia/matrimonio-conveniencia-termostato-frio-20260823070226-nts.html",
+      "desc": "Hay algo extraño en el nuevo Gobierno andaluz. PP y Vox gobiernan juntos, pero no muestran demasiadas ganas de parecer demasiado juntos . Comparten Consejo de Gobierno, programa, presupuesto y responsabilidades. Manuel Gavira ocupa una Vicepresidencia y dirige",
+      "date": "Sun, 23 Aug 2026 07:02:26 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "El clima extremo se ensaña con Europa y agrava su crisis política",
+      "link": "https://www.lavanguardia.com/internacional/20260823/11618197/crisis-ensanan-europa.html",
+      "desc": "La sequía y los incendios se suman a otras emergencias que fragilizan el continente: de las amenazas rusas a la inestabilidad migratoria y el envejecimiento",
+      "date": "23 Aug 2026 06:00:00 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
+    {
+      "title": "Bruselas suaviza sus políticas climáticas por la presión de la industria y de algunos países",
+      "link": "https://www.lavanguardia.com/internacional/20260823/11618202/bruselas-suaviza-politicas-climaticas-presion-industria-paises.html",
+      "desc": "Los avisos que lanza el clima este verano no hacen mella en la segunda legislatura de Ursula von der Leyen, que ha registrado un frenazo a las políticas iniciadas en el primer mandato",
+      "date": "23 Aug 2026 06:00:00 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
+    {
+      "title": "La complicada agenda de Sánchez para lo que queda de legislatura",
+      "link": "https://www.lavanguardia.com/politica/20260823/11618237/complicada-agenda-sanchez-queda-legislatura.html",
+      "desc": "El primer Consejo de Ministros se celebrará pasado mañana, martes, con una larga y compleja lista de tareas para la recta final antes de las elecciones",
+      "date": "23 Aug 2026 06:00:00 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
+    {
+      "title": "La crisis de Ceuta abre otra brecha: la política migratoria y de vecindad",
+      "link": "https://www.lavanguardia.com/politica/20260823/11618238/crisis-ceuta-abre-brecha-politica-migratoria-vecindad.html",
+      "desc": "El Gobierno asume que la respuesta de acogida, que vigila Bruselas, llevará meses",
+      "date": "23 Aug 2026 06:00:00 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
+    {
+      "title": "La pugna PSOE-PP en el Congreso y el Senado: dos cámaras, dos mayorías, una batalla",
+      "link": "https://www.lavanguardia.com/politica/20260823/11618227/pugna-psoe-pp-congreso-senado-dos-camaras-dos-mayorias-batalla.html",
+      "desc": "El reparto desigual de mayorías convierte el bicameralismo en un pulso institucional",
+      "date": "23 Aug 2026 06:00:00 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
+    {
+      "title": "El corralito de Trump",
+      "link": "https://www.lavanguardia.com/economia/20260823/11618257/corralito-trump.html",
+      "desc": "",
+      "date": "23 Aug 2026 06:00:00 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
+    {
+      "title": "A Trump se le escapa el mundo",
+      "link": "https://www.lavanguardia.com/internacional/20260823/11617846/eeuu-trump-oriente-medio-iran-europa-america-asia.html",
+      "desc": "",
+      "date": "23 Aug 2026 06:00:00 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
+    {
+      "title": "Natalie Harp a Trump: “No quiero decepcionarte nunca. Gracias por ser mi guardián y protector”",
+      "link": "https://www.lavanguardia.com/internacional/20260823/11618245/quiero-decepcionarte-nunca-gracias-mi-guardian-protector.html",
+      "desc": "Salen a la luz cartas apasionadas que supuestamente escribió la asistente Natalie Harp a Donald Trump",
+      "date": "23 Aug 2026 06:00:00 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
+    {
+      "title": "El eclipse solar de 2027 dispara los precios: hasta 12.500 euros por una noche en Tarifa",
+      "link": "https://www.lavanguardia.com/vida/20260823/11617001/eclipse-solar-2027-dispara-precios-12-500-euros-noche-tarifa.html",
+      "desc": "Apenas unos días después del último eclipse, las reservas de casas, apartamentos y habitaciones ya se disparan en Cádiz, Málaga, Granada y Almería para no perderse el del año que viene",
+      "date": "23 Aug 2026 06:00:00 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
+    {
+      "title": "Dónde y cuándo ver la “Luna de sangre” durante el eclipse lunar del próximo viernes",
+      "link": "https://www.lavanguardia.com/vida/20260823/11617640/donde-cuando-ver-luna-sangre-eclipse-lunar-proximo-viernes.html",
+      "desc": "La Tierra ocultará el 93% del diámetro de la Luna a las 06:12 h y será visible desde todo el país, aunque se ocultará antes de terminar en el centro y este de la península, las Balears, Ceuta y Melilla",
+      "date": "23 Aug 2026 06:00:00 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
+    {
+      "title": "El auge del vehículo usado dispara la importación de coches viejos europeos",
+      "link": "https://www.lavanguardia.com/economia/20260823/11618246/auge-vehiculo-usado-dispara-importacion-coches-viejos-europeos.html",
+      "desc": "El modelo más vendido en España es el VW Golf con casi 17 años de antigüedad",
+      "date": "23 Aug 2026 06:00:00 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
+    {
+      "title": "El Ebro contra el Mediterráneo",
+      "link": "https://www.lavanguardia.com/vida/20260823/11616520/ebro-mediterraneo.html",
+      "desc": "",
+      "date": "23 Aug 2026 06:00:00 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
+    {
+      "title": "La mayor piscina de olas de Europa levanta ampollas entre los madrileños",
+      "link": "https://www.lavanguardia.com/local/madrid/20260823/11618204/mayor-piscina-olas-europa-levanta-ampollas-madrilenos.html",
+      "desc": "Plataformas ecologistas denuncian el alto consumo de agua potable que requiere",
+      "date": "23 Aug 2026 06:00:00 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
     {
       "title": "Dónde ir de fiesta este domingo 23 de agosto en la provincia de Toledo",
       "link": "https://www.abc.es/espana/castilla-la-mancha/toledo/pueblos/fiesta-domingo-agosto-provincia-toledo-20260823053000-nt.html",
@@ -70,176 +240,6 @@
       "source": "ABC",
       "color": "#c0392b",
       "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "El último aullido del 'niño lobo' de Sierra Morena",
-      "link": "https://www.abc.es/espana/galicia/ultimo-aullido-nino-lobo-sierra-morena-20260819012443-nt.html",
-      "desc": "No fue hasta el final, sintiendo la proximidad del negro lobo de la muerte, cuando dejó dicho algo parecido a unas últimas voluntades. «Quiero que me metan en una caja, con el traje de la película, y que mis cenizas vayan junto a mi jefe». Si de algo sabía Mar",
-      "date": "Sun, 23 Aug 2026 01:24:43 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Los vecinos de Villarejo de Salvanés se pagan sus fiestas y dejan fuera al alcalde",
-      "link": "https://www.abc.es/espana/madrid/vecinos-villarejo-salvanes-pagan-fiestas-dejan-alcalde-20260822011614-nt.html",
-      "desc": "Los vecinos de Villarejo de Salvanés no están dispuestos a quedarse sin sus fiestas populares de verano esta próxima semana y se están volcando para organizarlas ellos mismos, en la medida de lo posible, después de que su alcalde, Jesús Díaz Raboso, decidiera ",
-      "date": "Sun, 23 Aug 2026 01:16:14 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Collage infinitos, espejos imposibles y un zoo de cerámica: dentro del despacho de Ramón Gómez de la Serna",
-      "link": "https://www.abc.es/espana/madrid/collage-infinitos-espejos-imposibles-zoo-ceramica-dentro-20260822011600-nt.html",
-      "desc": "Al entrar en el despacho de Ramón Gómez de la Serna , encapsulado como uno de los principales atractivos del Museo de Arte Contemporáneo (MAC) municipal, huele a una mezcla de papel, tinta y tienda de antigüedades. Algo natural, sobre todo si tenemos en cuenta",
-      "date": "Sun, 23 Aug 2026 01:16:00 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Madrid y vuelta",
-      "link": "https://www.abc.es/espana/madrid/madrid-vuelta-20260822011543-nt.html",
-      "desc": "Vuelve el frío, el atasco, la prisa y el sueño; el café en vaso, el concierto, las obras y el mando a distancia. Vuelven los niños, las lentejas, la radio y los miedos; titulares, poetas, resacas y celos. Vuelven colegios, trabajos, coloquios y nervios; correo",
-      "date": "Sun, 23 Aug 2026 01:15:43 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Donny's Black Shoes: «Toco música delicada, que requiere mucho cariño»",
-      "link": "https://www.abc.es/espana/madrid/donnys-black-shoes-toco-musica-delicada-requiere-20260822011526-nt.html",
-      "desc": "El joven pianista, arreglista, compositor y productor Daniel «Donny» López , uno de los más brillantes talentos de nuestro país en la escena funk y soul, se inició en la música tocando la batería a los seis años y el piano a los siete. A los once entró en la E",
-      "date": "Sun, 23 Aug 2026 01:15:26 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Sánchez se va de Lanzarote justo cuando vuelven a llegar cayucos y sin citar a Clavijo como hacía cada año",
-      "link": "https://www.abc.es/espana/sanchez-interrumpe-estancia-mareta-primera-vez-pese-20260820010635-nt.html",
-      "desc": "Este 2026 Pedro Sánchez se ha cogido, por primera vez desde que llegó al poder, su agosto más ausente de la realidad del país. A diferencia de otros años, como el pasado, el presidente del Gobierno no ha abandonado La Mareta ni un solo día, durante sus vacacio",
-      "date": "Sun, 23 Aug 2026 01:06:35 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "gen"
-    },
-    {
-      "title": "Lo que más nos debe alarmar",
-      "link": "https://www.lavanguardia.com/opinion/20260823/11618261/mas-debe-alarmar.html",
-      "desc": "Con la IA se nos viene encima un mundo en que las máquinas deciden sin conciencia moral alguna",
-      "date": "23 Aug 2026 00:30:00 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "Una selfie borrada",
-      "link": "https://www.lavanguardia.com/opinion/20260823/11618293/selfie-borrada.html",
-      "desc": "",
-      "date": "23 Aug 2026 00:05:00 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "Buffalo Bill, Stendhal, Einstein, Chopin…",
-      "link": "https://www.lavanguardia.com/local/barcelona/20260823/11617603/buffalo-bill-stendhal-einstein-chopin.html",
-      "desc": "El hotel Cuatro Naciones, en la Rambla, conserva el salón y la escalera que acogieron a decenas de ilustres huéspedes en sus 300 años de historia, en los que pasó del lujo y el esplendor a la sobriedad actual de un dos estrellas",
-      "date": "23 Aug 2026 00:05:00 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "Cruel minuto 90 para el Espanyol y feliz debut para Espí, que evita el primer fiasco del Madrid",
-      "link": "https://www.lavanguardia.com/deportes/rcde-espanyol/20260822/11618297/cruel-minuto-90-espanyol-feliz-debut-espi-evita-primer-fiasco-madrid.html",
-      "desc": "Un gol del exdelantero del Levante da los tres puntos a los de Mourinho en Cornellà, donde coquetearon con el fiasco",
-      "date": "22 Aug 2026 23:44:18 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "Susto en Carcabuey por una cornada a una espectadora: «Medio centímetro más desplazada y se podía desangrar»",
-      "link": "https://www.abc.es/espana/andalucia/cordoba/susto-carcabuey-cornada-espectadora-medio-centimetro-desplazada-20260822231919-nts.html",
-      "desc": "' Hojalatero ' ha sido el animal que ha protagonizado el festejo de la tarde de este sábado del Toro de Cuerda de Carcabuey . Ha ofrecido espectacularidad con los mozos, pero también peligro. Porque él ha dejado el único percance reseñable de la jornada que se",
-      "date": "Sat, 22 Aug 2026 23:19:20 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Carcabuey vive un día de tradición y emoción con su Toro de Cuerda",
-      "link": "https://www.abc.es/espana/andalucia/cordoba/carcabuey-vive-dia-tradicion-emocion-toro-cuerda-20260822225102-nts.html",
-      "desc": "Carcabuey ha vuelto a acoger este sábado, un año más, uno de los latidos más intensos de su calendario festivo . El tradicional Toro de Cuerda es el pulso vivo de un legado ancestral que regresó para transformar el casco urbano en el epicentro de la pasión, la",
-      "date": "Sat, 22 Aug 2026 22:51:03 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "1-2: Mal inicio del Albacete en el Belmonte ante un eficaz Sanse",
-      "link": "https://www.abc.es/espana/castilla-la-mancha/toledo/deportes/mal-inicio-albacete-belmonte-ante-eficaz-sanse-20260822215326-nt.html",
-      "desc": "El Albacete Balompié sufrió una inesperada derrota en su inicio de Liga en el Carlos Belmonte. La escuadra manchega no ha puntuado aún en espera de la tercera jornada que será con un partido también en el Belmonte ante el Real Oviedo el próximo sábado. Se lleg",
-      "date": "Sat, 22 Aug 2026 21:53:26 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Un mes de alerta en alerta por las llamas y miles de evacuados",
-      "link": "https://www.abc.es/espana/castilla-leon/miles-alerta-alerta-llamas-miles-evacuados-20260821211718-nt.html",
-      "desc": "Difícil de olvidar el 22 de julio de este 2026 que quedará para siempre marcado literalmente a fuego en la memoria y la retina no sólo de los vecinos de Burgohondo, sino de la veintena de localidades afectadas -entre evacuados y confinados- y un operativo de e",
-      "date": "Sat, 22 Aug 2026 21:17:18 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "«Aunque se haya quemado el traje verde, saldrá otro verde y bonito»",
-      "link": "https://www.abc.es/espana/castilla-leon/mes-tras-llamas-incendio-burgohondo-20260820211639-nt.html",
-      "desc": "Un mes se cumple ya del incendio que se inició en Burgohondo (Ávila) el pasado 22 de julio, y la paz no se termina de respirar en el ambiente de una urbanización y quince pueblos desalojados ante el acecho de las llamas voraces, pero poco a poco se trabaja por",
-      "date": "Sat, 22 Aug 2026 21:16:39 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Buscan con cámaras térmicas y drones a un octogenario desaparecido en La Alberca",
-      "link": "https://www.abc.es/espana/castilla-leon/buscan-camaras-termicas-drones-octogenario-desaparecido-alberca-20260822211502-nt.html",
-      "desc": "Tras horas de búsqueda infructuosa y la noche ya encima, drones con cámaras térmicas se sumaban a última hora de la tarde de este sábado a la búsqueda de un octogenario en La Alberca ( Salamanca ). La alerta ante la falta del hombre, de 86 años, saltaba sobre ",
-      "date": "Sat, 22 Aug 2026 21:15:03 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "La lluvia desborda la Costa Daurada y el Govern defiende sus previsiones",
-      "link": "https://www.lavanguardia.com/local/barcelona/20260822/11618278/lluvia-desborda-costa-daurada-govern-defiende-previsiones.html",
-      "desc": "Los móviles no recibieron alerta alguna, y cientos de personas tuvieron que ser evacuadas",
-      "date": "22 Aug 2026 21:12:06 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
       "caso": "other"
     }
   ]
