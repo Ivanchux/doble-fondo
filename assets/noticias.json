@@ -1,7 +1,77 @@
 {
-  "updated": "2026-08-23T16:17:58Z",
+  "updated": "2026-08-23T18:20:46Z",
   "count": 24,
   "items": [
+    {
+      "title": "La tregua de Don Lorenzo sigue en Córdoba: 31 grados para este lunes. ¡11 menos que hace una semana!",
+      "link": "https://www.abc.es/espana/andalucia/cordoba/tregua-don-lorenzo-sigue-cordoba-grados-lunes-20260823193544-nts.html",
+      "desc": "Las previsiones de la Agencia Estatal de Meteorología ( Aemet ) para la ciudad de Córdoba confirman la inesperada, inusual y larga tregua de Don Lorenzo en pleno mes de agosto . Sus previsiones son que durante toda la semana que está por arrancar -hay informac",
+      "date": "Sun, 23 Aug 2026 19:35:44 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Feijóo pide confinar a los inmigrantes del asalto a Ceuta por riesgo sanitario y Sanidad habla de medidas «desmesuradas»",
+      "link": "https://www.abc.es/espana/feijoo-pide-confinar-inmigrantes-asalto-ceuta-riesgo-20260823193030-nt.html",
+      "desc": "Nuevo choque entre el PP y el Gobierno, esta vez a cuenta de la situación sanitaria de Ceuta, que se ha convertido en una preocupación a medida que pasan los días desde el asalto masivo a la ciudad autónoma. Este mismo lunes, Sanidad ha convocado a las comunid",
+      "date": "Sun, 23 Aug 2026 19:30:31 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Alcaldes de la Costa Daurada piden reformar la vía del tren para evitar nuevas inundaciones",
+      "link": "https://www.lavanguardia.com/local/barcelona/20260823/11618633/alcaldes-costa-dourada-piden-reformar-tren-evitar-nuevas-inundaciones.html",
+      "desc": "Algunos turistas frenan sus vacaciones mientras que otros disfrutan de sus últimos días",
+      "date": "23 Aug 2026 19:29:54 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
+    {
+      "title": "Alicante, entre los 10 destinos «ideales» para nómadas digitales en España",
+      "link": "https://www.abc.es/espana/comunidad-valenciana/alicante/alicante-destinos-ideales-nomadas-digitales-espana-20260823185848-nt.html",
+      "desc": "Su clima mediterráneo, sus playas y su oferta gastronómica convierten a Alicante en una opción «especialmente atractiva para quienes quieren vivir y trabajar cerca del mar». Hasta ahí, los alicientes conocidos y casi tópicos de la ciudad como destino para los ",
+      "date": "Sun, 23 Aug 2026 18:58:48 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Aviso amarillo este lunes por lluvias en León, Zamora, Salamanca y Ávila",
+      "link": "https://www.abc.es/espana/castilla-leon/aviso-amarillo-lunes-lluvias-leon-zamora-salamanca-20260823184950-nt.html",
+      "desc": "Tras días de temperaturas más suaves, también con alguna tormenta, y un domingo en el que el mercurio, el tiempo vuelve a dar un cambio este lunes en Castilla y León. Al menos, en la parte más al oeste de la Comunidad , donde la Agencia Estatal de Meterología ",
+      "date": "Sun, 23 Aug 2026 18:49:50 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Galicia, en alerta amarilla por la borrasca que la barrerá esta semana",
+      "link": "https://www.abc.es/espana/galicia/galicia-alerta-amarilla-borrasca-barrera-semana-20260823184300-nt.html",
+      "desc": "La borrasca que se aproxima hacia Galicia ha llevado a los organismos meteorológicos a activar la alerta amarilla por tormentas en varias zonas del territorio desde este domingo y durante parte del lunes, principalmente en las localidades de la costa de Pontev",
+      "date": "Sun, 23 Aug 2026 18:43:00 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Muere un piloto de rally en un accidente en Orense, con otros dos heridos",
+      "link": "https://www.abc.es/espana/galicia/muere-piloto-rally-accidente-subida-taboadela-dos-20260823181454-nt.html",
+      "desc": "Luto en el mundo del rally. El piloto Jesús López ha fallecido este domingo durante la realización de la Subida a Taboadela, que acogía este municipio de Orense. Según la información del 112 Galicia, su vehículo se salió de la vía y terminó alcanzando a otro, ",
+      "date": "Sun, 23 Aug 2026 18:14:54 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
     {
       "title": "El palentino Óscar Marcos gana el VIII Campeonato Autonómico de Cortadores de Cecina",
       "link": "https://www.abc.es/espana/castilla-leon/palentino-oscar-marcos-gana-viii-campeonato-autonomico-20260823175259-nt.html",
@@ -33,9 +103,9 @@
       "caso": "other"
     },
     {
-      "title": "El Metropolitano recibe con una sonora pitada a Julián Álvarez",
+      "title": "El Metropolitano abronca a Julián, que se fue del campo solo y sin saludar",
       "link": "https://www.lavanguardia.com/deportes/atletico-de-madrid/20260823/11618598/metropolitano-recibe-sonora-pitada-julian-alvarez.html",
-      "desc": "El argentino llegó al estadio serio y se sentó en el banquillo con cara de circunstancias antes del partido contra el Villarreal",
+      "desc": "El argentino, con cara de circunstancias, fue abroncado por su afición, sobre todo cuando saltó al campo en el minuto 66, y abandonó el césped solo mientras sus compañeros aplaudían a la grada tras el empate con el Villarreal (2-2)",
       "date": "23 Aug 2026 17:25:00 +0200",
       "source": "La Vanguardia",
       "color": "#8e44ad",
@@ -170,76 +240,6 @@
       "source": "ABC",
       "color": "#c0392b",
       "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Fallece un motorista de 75 años tras sufrir una salida de vía en Elche de la Sierra",
-      "link": "https://www.abc.es/espana/castilla-la-mancha/fallece-motorista-anos-tras-sufrir-salida-via-20260823134621-nt.html",
-      "desc": "Un hombre de 75 años ha fallecido este domingo en Elche de la Sierra (Albacete) tras sufrir una salida de vía mientras circulaba en motocicleta y sufrir un fuerte impacto. Según han informado a ABC fuentes del Servicio de Emergencias 112 de Castilla-La Mancha,",
-      "date": "Sun, 23 Aug 2026 13:46:21 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "El alcalde de Córdoba defiende que que la tasa turística no debe ser generalizada",
-      "link": "https://www.abc.es/espana/andalucia/cordoba/alcalde-cordoba-defiende-tasa-turistica-debe-generalizada-20260823134527-nts.html",
-      "desc": "El presidente de la Federación Andaluza de Municipios y Provincias ( FAMP ) y alcalde de Córdoba , José María Bellido, considera que la tasa turística , que es «un debate que siempre va a estar abierto», no debe ser generalizada, porque «no en todos los munici",
-      "date": "Sun, 23 Aug 2026 13:45:57 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Castilla y León se sitúa entre las comunidades con menor estrés laboral, aunque la satisfacción con el empleo no llega a la media",
-      "link": "https://www.abc.es/espana/castilla-leon/castilla-leon-situa-comunidades-menor-estres-laboral-20260823124622-nt.html",
-      "desc": "Los trabajadores de Castilla y León figuran entre los menos estresados de España, aunque esa menor presión laboral no se traduce en una mayor satisfacción con el empleo. La última Encuesta de Salud de España coloca a la Comunidad entre las autonomías con menor",
-      "date": "Sun, 23 Aug 2026 13:09:48 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Encuentros de niños y ancianos con 400 participantes para frenar la despoblación",
-      "link": "https://www.abc.es/espana/comunidad-valenciana/encuentros-ninos-ancianos-400-participantes-frenar-despoblacion-20260823130526-nt.html",
-      "desc": "Más de 400 participantes ha tenido una iniciativa pionera para reforzar el arraigo en municipios en riesgo de despoblamiento en la Comunidad Valenciana. Entre las actividad, personas mayores han contado sus recuerdos y explicado tradiciones y elementos del bag",
-      "date": "Sun, 23 Aug 2026 13:05:26 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Ceuta recibió en un día casi tantas entradas irregulares como en tres décadas junto a Melilla",
-      "link": "https://www.abc.es/espana/ceuta-recibio-dia-tantas-entradas-irregulares-tres-20260823130332-nt.html",
-      "desc": "La avalancha de inmigrantes que sufrió a finales de julio la ciudad autónoma de Ceuta , con la entrada irregular de alrededor de 80.000 personas, es muy similar a las cifras de llegada ilegal de extranjeros durante las tres décadas anteriores tanto en Ceuta co",
-      "date": "Sun, 23 Aug 2026 13:03:32 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "La pirotecnia en Galicia resiste a las cancelaciones masivas del resto de España",
-      "link": "https://www.abc.es/espana/galicia/pirotecnia-galicia-resiste-cancelaciones-masivas-resto-espana-20260820125651-nt.html",
-      "desc": "La pirotecnia es un sector siempre acompañado por la polémica. El pasado lunes 17 de agosto, la Asociación Española de la Pirotecnia (AEPIRO) emitió un comunicado en el que denunciaba la «asfixia» ante el «veto» al uso de la pirotecnia en Andalucía, Aragón, Ca",
-      "date": "Sun, 23 Aug 2026 12:56:51 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Balde, fuera de la lista para Elche, abre nuevas alternativas en defensa",
-      "link": "https://www.lavanguardia.com/deportes/fc-barcelona/20260823/11618517/balde-fuera-lista-viajar-elche-decision-flick.html",
-      "desc": "Si el lateral acaba saliendo, el club podría apostar por una alternativa defensiva joven y de proyección ya que Flick está satisfecho con los centrales que tiene en la plantilla",
-      "date": "23 Aug 2026 11:34:25 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
       "caso": "other"
     }
   ]
