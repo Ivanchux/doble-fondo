@@ -1,172 +1,212 @@
 {
-  "updated": "2026-08-23T08:22:41Z",
+  "updated": "2026-08-23T10:17:56Z",
   "count": 24,
   "items": [
+    {
+      "title": "Muere un motorista tras chocar contra un coche en un pueblo de Jaén",
+      "link": "https://www.abc.es/espana/andalucia/jaen/muere-motorista-tras-chocar-coche-pueblo-jaen-20260823102138-nts.html",
+      "desc": "Un motorista de 40 años de edad ha muerto este sábado tras sufrir un accidente con un coche en la localidad jiennense de Villanueva de la Reina, según informa el 112, perteneciente a la Agencia de Emergencias de Andalucía, adscrita a la Consejería de Presidenc",
+      "date": "Sun, 23 Aug 2026 12:02:03 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Doctoras del Hospital Universitario de Toledo reciben el premio al artículo más citado de la revista del Sermef",
+      "link": "https://www.abc.es/espana/castilla-la-mancha/toledo/doctoras-hospital-universitario-toledo-reciben-premio-articulo-20260823120200-nt.html",
+      "desc": "Profesionales del Servicio de Medicina Física y Rehabilitación del Complejo Hospitalario Universitario de Toledo, dependiente del Servicio de Salud de Castilla-La Mancha (Sescam), han recibido el premio al artículo original más citado durante el último año en ",
+      "date": "Sun, 23 Aug 2026 12:02:01 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Políticos en vacaciones",
+      "link": "https://www.abc.es/espana/galicia/politicos-vacaciones-20260816115541-nt.html",
+      "desc": "En cuanto los marroquíes y los incendios forestales dan una pequeña tregua, hete aquí que los periódicos gallegos la aprovechan para recuperar las tradiciones del genuino reporterismo estival: las celebridades al sol y en porreta, las infinitas juergas gastron",
+      "date": "Sun, 23 Aug 2026 11:55:41 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Va de azulejos",
+      "link": "https://www.abc.es/espana/galicia/azulejos-20260821115427-nt.html",
+      "desc": "Me gusta la palabra azulejo. De su recorrido semántico a partir del árabe clásico da noticia el 'Diccionario histórico de la lengua española', cuya reciente nueva edición por la RAE hizo posible la fundación Inditex, o sea Amancio Ortega. España está llena de ",
+      "date": "Sun, 23 Aug 2026 11:54:27 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "La Escuela Taurina Domingo Ortega de Toledo encara el tramo decisivo de su temporada",
+      "link": "https://www.abc.es/espana/castilla-la-mancha/toledo/escuela-taurina-domingo-ortega-toledo-encara-tramo-20260823115423-nt.html",
+      "desc": "La Escuela Taurina 'Domingo Ortega', dependiente de la Diputación de Toledo, afronta durante los meses de agosto y septiembre el grueso de su programación de clases prácticas, con cerca de quince festejos previstos en plazas de toros de la provincia y de otros",
+      "date": "Sun, 23 Aug 2026 11:54:24 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Dos heridos graves en una colisión entre un coche y una moto en la AP-9 en Pontevedra",
+      "link": "https://www.abc.es/espana/galicia/dos-heridos-graves-colision-coche-moto-ap9-20260823114449-nt.html",
+      "desc": "El conductor de una moto y su acompañante han resultado heridos de forma grave en una colisión con un coche ocurrida en la tarde del sábado en la AP-9, a la altura de Pontevedra. Los ocupantes del turismo salieron ilesos del accidente, según ha informado la Gu",
+      "date": "Sun, 23 Aug 2026 11:44:50 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Localizan con vida al octogenario buscado desde el sábado en La Alberca",
+      "link": "https://www.abc.es/espana/castilla-leon/localizan-vida-octogenario-buscado-sabado-alberca-20260823114120-nt.html",
+      "desc": "Final feliz. Encontrado con vida el octogenario al que se buscaba desde primera hora de la tarde del sábado en La Alberca (Salamanca). El dispositivo de búsqueda ha confirmado este domingo por la mañana la localización del varón de 86 años , que estaba extravi",
+      "date": "Sun, 23 Aug 2026 11:41:20 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Malestar de los guardias civiles destinados en Senegal: incendios intencionados de coches y bichos en la cocina",
+      "link": "https://www.abc.es/espana/malestar-guardias-civiles-destinados-senegal-incendios-intencionados-20260823105215-nt.html",
+      "desc": "Incendios intencionados y convivir con insectos en la cocina. Estos son algunos de los problemas a los que se enfrentan los agentes de la Guardia Civil que están desplegados en Saint-Louis (Senegal). El contingente expresa sus quejas por las condiciones que ti",
+      "date": "Sun, 23 Aug 2026 11:39:15 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Estrella Morente y Rafael Riqueni llevarán el flamenco a Toledo el próximo 11 de octubre",
+      "link": "https://www.abc.es/espana/castilla-la-mancha/toledo/estrella-morente-rafael-riqueni-llevaran-flamenco-toledo-20260823113403-nt.html",
+      "desc": "Toledo acogerá el próximo domingo 11 de octubre una de las grandes citas flamencas de la temporada con la actuación conjunta de Estrella Morente y Rafael Riqueni en el Palacio de Congresos El Greco, en un concierto organizado por SYS Producciones. Con esta nue",
+      "date": "Sun, 23 Aug 2026 11:34:03 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Herido por arma blanca de madrugada en Salamanca capital",
+      "link": "https://www.abc.es/espana/castilla-leon/herido-arma-blanca-madrugada-salamanca-capital-20260823112901-nt.html",
+      "desc": "Un varón de unos 40 años resultaba herido por arma blanca en la madrugada de este domingo en Salamanca. Los hechos ocurría en torno a las 1.50 horas. En ese momento, una llamada entraba en el centro de emergencias Castilla y León 1-1-2 informando de una agresi",
+      "date": "Sun, 23 Aug 2026 11:29:01 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "El PP denuncia los impuestos de Page: «El Gobierno que más ha metido la mano en los bolsillos»",
+      "link": "https://www.abc.es/espana/castilla-la-mancha/pp-denuncia-impuestos-page-gobierno-metido-mano-20260823112621-nt.html",
+      "desc": "La portavoz del Partido Popular de Castilla-La Mancha, Alejandra Hernández, ha denunciado que «jamás hubo un Gobierno que metiera tanto la mano en el bolsillo de los castellanomanchegos como el Gobierno de Emiliano García-Page», después de conocerse que la rec",
+      "date": "Sun, 23 Aug 2026 11:26:22 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Familias y docentes respaldan más inspección en las aulas: «Nuestros hijos llevan años adoctrinados»",
+      "link": "https://www.abc.es/espana/comunidad-valenciana/familias-docentes-respaldan-inspeccion-aulas-hijos-llevan-20260823112303-nt.html",
+      "desc": "Representantes de familias y profesores han mostrado su respaldo al envío de la Inspección Educativa a las aulas para atajar cualquier posible adoctrinamiento a los alumnos, una norma recién aprobada por la Generalitat Valenciana. Coinciden en su valoración de",
+      "date": "Sun, 23 Aug 2026 11:23:03 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Noche de violencia en Ceuta: tres marroquíes detenidos por robar a un guardia civil y una chica agredida con una navaja en el cuello",
+      "link": "https://www.abc.es/espana/noche-violencia-ceuta-tres-marroquies-detenidos-robar-20260823111907-nt.html",
+      "desc": "Noche de violencia en Ceuta. Un agente de la Guardia Civil fuera de servicio y una joven han sido las víctimas de sendos robos con violencia por parte de varios individuos de nacionalidad marroquí. La rápida actuación de la Policía Nacional permitió la detenci",
+      "date": "Sun, 23 Aug 2026 11:19:07 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Feijóo pide a Sánchez decretar el confinamiento en Ceuta por “riesgo sanitario”",
+      "link": "https://www.lavanguardia.com/politica/20260823/11618511/feijoo-pide-sanchez-decretar-confinamiento-ceuta-riesgo-sanitario.html",
+      "desc": "Ante casos de enfermedades como la sarna o la tuberculosis",
+      "date": "23 Aug 2026 11:18:58 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
+    {
+      "title": "El 'plus' del voluntariado en los jóvenes: «No sólo ayudas, también te enriqueces»",
+      "link": "https://www.abc.es/espana/castilla-leon/plus-voluntariado-jovenes-solo-ayudas-enriqueces-20260814105338-nt.html",
+      "desc": "Álvaro Benito se define como «un joven con muchas inquietudes». A sus 22 años, estando aún estudiando, tuvo claro que «quería hacer voluntariado porque era algo que no había probado». Contactó con la Plataforma de Voluntariado Joven de Castilla y León, donde l",
+      "date": "Sun, 23 Aug 2026 10:53:38 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Fallece un hombre de 40 años tras salirse de la vía y volcar su vehículo en Yunclillos",
+      "link": "https://www.abc.es/espana/castilla-la-mancha/toledo/pueblos/fallece-hombre-anos-tras-salirse-via-volcar-20260823105307-nt.html",
+      "desc": "Un hombre de 40 años ha fallecido este pasado sábado como consecuencia de un accidente de tráfico ocurrido en un camino aledaño a la carretera TO-2515 , dentro del término municipal de Yunclillos. En el siniestro también han resultado heridos una mujer de 35 a",
+      "date": "Sun, 23 Aug 2026 10:53:07 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Detenida una administradora por apropiarse de 17.800 euros de dos comunidades",
+      "link": "https://www.abc.es/espana/comunidad-valenciana/alicante/detenida-administradora-apropiarse-17800-euros-dos-comunidades-20260823104600-nt.html",
+      "desc": "Agentes de la Policía Nacional han detenido en Orihuela (Alicante) a una administradora de fincas, de 45 años de edad, por apropiarse de 17.800 euros de dos comunidades que gestionaba cobrando cheques con las firmas falsificadas durante dos años. Está siendo i",
+      "date": "Sun, 23 Aug 2026 10:46:00 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Muere un hombre de 72 años tras sufrir un colapso mientras conducía por la TO-23 en Toledo",
+      "link": "https://www.abc.es/espana/castilla-la-mancha/toledo/muere-hombre-anos-tras-sufrir-colapso-conducia-20260823103658-nt.html",
+      "desc": "Un hombre de 72 años ha fallecido en la madrugada de este domingo cuando circulaba con un turismo por la carretera TO-23, a su paso por el barrio de Santa María de Benquerencia de la capital toledana. Según han informado fuentes del Servicio de Emergencias 112",
+      "date": "Sun, 23 Aug 2026 10:36:59 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Juanma Moreno pide recuperar la unidad de élite antidroga de la Guardia Civil  en Andalucía",
+      "link": "https://www.abc.es/espana/andalucia/juanma-moreno-pide-recuperar-unidad-elite-antidroga-20260823102857-nts.html",
+      "desc": "Recuperar OCON-Sur, una unidad de élite contra el narco. Es la petición expresa que ha hecho el presidente de la Junta de Andalucía, Juanma Moreno, al Gobierno de España por carta. Moreno quiere que vuelva a haber una unidad de élite de la Guardia Civil especi",
+      "date": "Sun, 23 Aug 2026 10:29:41 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "0-0: El Talavera conquista en los penaltis ante el Calvo Sotelo el Trofeo '25 años CMM'",
+      "link": "https://www.abc.es/espana/castilla-la-mancha/toledo/deportes/talavera-conquista-penaltis-ante-calvo-sotelo-trofeo-20260823102010-nt.html",
+      "desc": "Noche redonda para el CF Talavera la de este sábado en Puertollano. La escuadra blanquiazul se adjudicó el Trofeo «25 años CMM» y, como complemento, se clasificó para la gran final del Trofeo de la Junta de Comunidades de Castilla-La Mancha en el que espera el",
+      "date": "Sun, 23 Aug 2026 10:22:07 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
     {
       "title": "0-0: El Toledo sigue con las pruebas y no puede con el Aranjuez",
       "link": "https://www.abc.es/espana/castilla-la-mancha/toledo/deportes/toledo-sigue-pruebas-puede-aranjuez-20260822100952-nt.html",
       "desc": "El CD Toledo no pasó de un empate a cero goles en su penúltimo partido amistoso de pretemporada disputado contra el Aranjuez en el Salto del Caballo. A los verdes les quedará una postrera cita de preparación que será la del próximo sábado visitando al Alcobend",
       "date": "Sun, 23 Aug 2026 10:09:53 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "El Castillo de Marbella desvela su pasado: una fortaleza medieval con raíces romanas",
-      "link": "https://www.abc.es/espana/andalucia/malaga/castillo-marbella-desvela-pasado-fortaleza-medieval-raices-20260823095425-nts.html",
-      "desc": "Durante siglos, el Castillo de Marbella ha dominado el corazón de la ciudad como uno de sus principales símbolos. Sus murallas y torres han llegado hasta nuestros días asociadas al pasado medieval de Marbella. Sin embargo, las últimas investigaciones arqueológ",
-      "date": "Sun, 23 Aug 2026 09:54:26 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "La Virgen del Silencio de Córdoba, Siete Dolores desde hace más de un siglo a los pies del Cristo de la Expiración",
-      "link": "https://www.abc.es/espana/andalucia/cordoba/semana-santa/virgen-silencio-cordoba-siete-dolores-siglo-pies-20260823092624-nts.html",
-      "desc": "Conserva de su primitiva advocación el corazón de los Siete Dolores y cuando han pasado casi 120 años de su incorporación a la Semana Santa de Córdoba también su lugar, ya eterno, a los pies del Cristo de la Expiración. La imagen que ahora se conoce como María",
-      "date": "Sun, 23 Aug 2026 09:26:25 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Diego Bri se reivindica en el Córdoba CF: gol, asistencia y candidatura firme para sumar galones en el extremo izquierdo",
-      "link": "https://www.abc.es/espana/andalucia/cordoba/cordoba-cf/diego-bri-reivindica-cordoba-gol-asistencia-candidatura-20260823090003-nts.html",
-      "desc": "El nuevo Córdoba CF empezó a carburar ante el Girona en El Arcángel. La buena imagen del conjunto blanquiverde, como reconoció posteriormente Iván Ania en rueda de prensa, se sostuvo sobre una actuación coral en la que prácticamente todas las piezas respondier",
-      "date": "Sun, 23 Aug 2026 09:24:51 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Un agosto sin vacaciones",
-      "link": "https://www.abc.es/espana/andalucia/cordoba/agosto-vacaciones-20260823130538-nts.html",
-      "desc": "LEO un estudio de 'Aladina' que me ilusiona. Leo luego un estudio del 'CIS' andaluz que me lleva a una profunda reflexión. El primer estudio revela con alegría que «siete de cada diez españoles tienen algún día de vacaciones este mes, nos gastamos una media de",
-      "date": "Sun, 23 Aug 2026 09:21:47 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "'Fuenteovejuna' reúne a 7.000 personas contra el Comendador: «Esta edición ha sido un éxito histórico»",
-      "link": "https://www.abc.es/espana/andalucia/cordoba/fuenteovejuna-reune-7000-personas-comendador-edicion-exito-20260823092136-nts.html",
-      "desc": "Y el juez preguntó: «¿Quién mató al Comendador?». Todos a una, fue la respuesta de Fuente Obejuna. La localidad del Guadiato, simbólicamente, rompió otra vez el yugo del tirano. Porque en los últimos días, como cada dos años, acogió la representación de la obr",
-      "date": "Sun, 23 Aug 2026 09:21:37 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "La voz de los extranjeros en Córdoba: «Se hace la idea de que no hay trabajo, pero aquí nunca me faltó»",
-      "link": "https://www.abc.es/espana/andalucia/cordoba/idea-social-trabajo-nunca-falto-cordoba-20260823211922-nts.html",
-      "desc": "Aun cuando creció en el último lustro la población extranjera en Córdoba continúa muy por debajo que en otros muchos puntos de España. De hecho, siempre se situó en la última década como una de las dos provincias con menor número de residentes de otras naciona",
-      "date": "Sun, 23 Aug 2026 09:19:30 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Córdoba encadena tres años siendo la provincia con menos extranjeros: suponen un 4,4% de la población",
-      "link": "https://www.abc.es/espana/andalucia/cordoba/cordoba-encadena-tres-anos-provincia-extranjeros-suponen-20260823091848-nts.html",
-      "desc": "Córdoba se perpetúa como una de las provincias españolas con menor presencia de población extranjera, al menos según los datos analizados por ABC desde 2017. En la última década, la provincia ha sido la que menos extranjeros concentra o, como mucho, la segunda",
-      "date": "Sun, 23 Aug 2026 09:18:48 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "La recaudación tributaria creció un 14,3% en Castilla-La Mancha en 2025 hasta los 5.343 millones",
-      "link": "https://www.abc.es/espana/castilla-la-mancha/recaudacion-tributaria-crecio-143-castillala-mancha-2025-20260804091253-nt.html",
-      "desc": "La Agencia Tributaria recaudó en Castilla-La Mancha 5.343,3 millones de euros en ingresos tributarios netos durante 2025, un 14,3% más que el ejercicio anterior, cuando la cifra ascendió a 4.676,2 millones. En términos absolutos, Hacienda ingresó 667 millones ",
-      "date": "Sun, 23 Aug 2026 09:12:53 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "La delincuencia se apodera de La Campana de Oropesa: la comarca más insegura de Toledo",
-      "link": "https://www.abc.es/espana/castilla-la-mancha/toledo/pueblos/delincuencia-apodera-campana-oropesa-comarca-insegura-toledo-20260822091235-nt.html",
-      "desc": "La preocupación por la seguridad ha vuelto a instalarse en los municipios de la comarca toledana de La Campana de Oropesa , donde los recientes episodios registrados en localidades como Calera y Chozas, El Puente del Arzobispo o Herreruela han hecho que muchos",
-      "date": "Sun, 23 Aug 2026 09:12:35 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Un buen año para los feriantes, que reclaman un reglamento del sector en Castilla-La Mancha",
-      "link": "https://www.abc.es/espana/castilla-la-mancha/buen-ano-feriantes-reclaman-reglamento-sector-castillala-20260819091216-nt.html",
-      "desc": "Viven del calendario de fiestas. Llegan en primavera, se van en otoño y cada fin de semana levantan ferias en un pueblo distinto. Recorren cientos de kilómetros para montar sus negocios : atracciones, música y casetas. Tras los años duros de la pandemia, los f",
-      "date": "Sun, 23 Aug 2026 09:12:16 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Pedro Cases, pintor, artista, curioso y maestro de varias generaciones en Toledo",
-      "link": "https://www.abc.es/espana/castilla-la-mancha/toledo/pedro-cases-pintor-artista-curioso-maestro-varias-20260816091157-nt.html",
-      "desc": "Pedro Cases fue un artista de los que hicieron de la curiosidad una forma de vida. Pintor, fotógrafo, grabador, profesor y director de la Escuela de Arte de Toledo, pero también lector incansable, músico aficionado, viajero, amante de los bonsáis, de la cocina",
-      "date": "Sun, 23 Aug 2026 09:11:57 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Estabilizado el incendio de la Sierra Calderona tras arrasar con más de 630 hectáreas",
-      "link": "https://www.abc.es/espana/comunidad-valenciana/estabilizado-incendio-sierra-calderona-tras-quemas-630-20260823082431-nt.html",
-      "desc": "El Consorcio Provincial de Bomberos de Castellón ha dado este domingo por estabilizado el incendio de Segorbe , que afecta al parque natural de la Sierra Calderona, después de haber calcinado unas 630 hectáreas de masa forestal y obligado a evacuar la localida",
-      "date": "Sun, 23 Aug 2026 08:24:58 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "La sociedad valenciana envejece: los séniors crecen diez veces más que la población activa",
-      "link": "https://www.abc.es/espana/comunidad-valenciana/sociedad-valenciana-envejece-seniors-crecen-diez-veces-20260823144452-nt.html",
-      "desc": "La sociedad valenciana vive un proceso de «transformación demográfica» de envejecimiento en el que los séniors pre o jubilados aumentarán diez veces más rápido que la población activa, que no obstante también crecerá, en un 3% con un horizonte de más de una dé",
-      "date": "Sun, 23 Aug 2026 08:17:16 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Cristóbal Martínez, delegado de la ONCE: «No queríamos depender del Estado ni vivir de la limosna; queríamos ganarnos la vida trabajando»",
-      "link": "https://www.abc.es/espana/andalucia/cristobal-martinez-delegado-once-queriamos-depender-estado-20260823172440-nts.html",
-      "desc": "Cristóbal Martínez, delegado territorial de la ONCE en Andalucía, Ceuta y Melilla, analiza en esta entrevista los principales logros de una organización que está a punto de cumplir 88 años y que ha hecho de la autonomía, el empleo y la inclusión de las persona",
-      "date": "Sun, 23 Aug 2026 07:06:44 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Los municipios costeros andaluces al límite y sin ayuda para mantener sus servicios",
-      "link": "https://www.abc.es/espana/andalucia/municipios-costeros-limite-ayuda-mantener-servicios-20260823192707-nts.html",
-      "desc": "Los municipios turísticos necesitan ayuda para cubrir servicios. La propia Andalucía necesita ayuda ante la avalancha de turistas. El Consejo Andaluz de Colegios de Médicos tasó en un médico cada 213 habitantes para cubrir de forma eficiente a la población. La",
-      "date": "Sun, 23 Aug 2026 07:03:08 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Un matrimonio de conveniencia con el termostato en frío",
-      "link": "https://www.abc.es/espana/andalucia/matrimonio-conveniencia-termostato-frio-20260823070226-nts.html",
-      "desc": "Hay algo extraño en el nuevo Gobierno andaluz. PP y Vox gobiernan juntos, pero no muestran demasiadas ganas de parecer demasiado juntos . Comparten Consejo de Gobierno, programa, presupuesto y responsabilidades. Manuel Gavira ocupa una Vicepresidencia y dirige",
-      "date": "Sun, 23 Aug 2026 07:02:26 +0200",
       "source": "ABC",
       "color": "#c0392b",
       "feedId": "ABC",
@@ -196,46 +236,6 @@
       "title": "La complicada agenda de Sánchez para lo que queda de legislatura",
       "link": "https://www.lavanguardia.com/politica/20260823/11618237/complicada-agenda-sanchez-queda-legislatura.html",
       "desc": "El primer Consejo de Ministros se celebrará pasado mañana, martes, con una larga y compleja lista de tareas para la recta final antes de las elecciones",
-      "date": "23 Aug 2026 06:00:00 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "La crisis de Ceuta abre otra brecha: la política migratoria y de vecindad",
-      "link": "https://www.lavanguardia.com/politica/20260823/11618238/crisis-ceuta-abre-brecha-politica-migratoria-vecindad.html",
-      "desc": "El Gobierno asume que la respuesta de acogida, que vigila Bruselas, llevará meses",
-      "date": "23 Aug 2026 06:00:00 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "La pugna PSOE-PP en el Congreso y el Senado: dos cámaras, dos mayorías, una batalla",
-      "link": "https://www.lavanguardia.com/politica/20260823/11618227/pugna-psoe-pp-congreso-senado-dos-camaras-dos-mayorias-batalla.html",
-      "desc": "El reparto desigual de mayorías convierte el bicameralismo en un pulso institucional",
-      "date": "23 Aug 2026 06:00:00 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "El corralito de Trump",
-      "link": "https://www.lavanguardia.com/economia/20260823/11618257/corralito-trump.html",
-      "desc": "",
-      "date": "23 Aug 2026 06:00:00 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "A Trump se le escapa el mundo",
-      "link": "https://www.lavanguardia.com/internacional/20260823/11617846/eeuu-trump-oriente-medio-iran-europa-america-asia.html",
-      "desc": "",
       "date": "23 Aug 2026 06:00:00 +0200",
       "source": "La Vanguardia",
       "color": "#8e44ad",
