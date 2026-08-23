@@ -1,7 +1,47 @@
 {
-  "updated": "2026-08-23T12:28:59Z",
+  "updated": "2026-08-23T14:17:49Z",
   "count": 24,
   "items": [
+    {
+      "title": "Darío Dolz se equivoca",
+      "link": "https://www.abc.es/espana/castilla-la-mancha/dario-dolz-equivoca-20260819143827-nt.html",
+      "desc": "Darío Dolz, alcalde de Cuenca, ha pedido públicamente la convocatoria de elecciones generales alegando que la situación nacional es «insostenible». Se equivoca profundamente. Para empezar, por muy alcalde de Cuenca que sea, en el seno de nuestro partido su opi",
+      "date": "Sun, 23 Aug 2026 14:38:27 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Ibai Sanz se queda sin minutos en una delantera del Córdoba CF con muchos candidatos",
+      "link": "https://www.abc.es/espana/andalucia/cordoba/cordoba-cf/ibai-sanz-queda-minutos-delantera-cordoba-candidatos-20260823143025-nts.html",
+      "desc": "El Córdoba CF encara los últimos días de mercado con la atención puesta en cualquier oportunidad que pueda elevar el nivel de la plantilla. Aunque la dirección deportiva todavía tiene algunas tareas pendientes, también hay demarcaciones que, salvo movimientos ",
+      "date": "Sun, 23 Aug 2026 14:30:26 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Las Becas USA de la Fundación Unicaja hacen posible estudiar a casi un centenar de jóvenes en Estados Unidos",
+      "link": "https://www.abc.es/espana/andalucia/malaga/becas-usa-fundacion-unicaja-posible-estudiar-centenar-20260823142503-nts.html",
+      "desc": "Un centenar de jóvenes han viajado este domingo a Estados Unidos para disfrutar de una experiencia de intercambio lingüístico y cultural de tres semanas gracias a las Becas U.S.A. de la Fundación Unicaja . Este programa, impulsado con la colaboración de la org",
+      "date": "Sun, 23 Aug 2026 14:26:24 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "La Guardia Civil atrapa in fraganti a un furtivo en Córdoba y puede liberar en el momento 11 pájaros",
+      "link": "https://www.abc.es/espana/andalucia/cordoba/guardia-civil-atrapa-fraganti-furtivo-cordoba-puede-20260823142537-nts.html",
+      "desc": "La Guardia Civil de Córdoba ha informado este domingo, en una nota de prensa, de que en el marco de las actuaciones desarrolladas por el Servicio de Protección de la Naturaleza ( Seprona ) fue sorprendida una persona. Está, ha explicado la Benmérita, «presunta",
+      "date": "Sun, 23 Aug 2026 14:25:37 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
     {
       "title": "El Gobierno responde a la carta de Juanma Moreno: «OCON-Sur era una estructura temporal»",
       "link": "https://www.abc.es/espana/andalucia/gobierno-responde-carta-juanma-moreno-oconsur-era-20260823141736-nts.html",
@@ -11,6 +51,16 @@
       "color": "#c0392b",
       "feedId": "ABC",
       "caso": "other"
+    },
+    {
+      "title": "Un grupo de intelectuales piden la liberación del periodista argelino Ayoub Aïssiou",
+      "link": "https://www.lavanguardia.com/politica/20260823/11618554/grupo-intelectuales-piden-sanchez-macron-liberacion-periodista-argelino-ayoub-aissiou.html",
+      "desc": "Aïssiou está en prisión provisional desde el pasado 25 de julio en la cárcel de Brians 1 y la Audiencia Nacional tendrá que decidir antes de la segunda quincena de septiembre si lo extradita a Argelia",
+      "date": "23 Aug 2026 14:17:59 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "gen"
     },
     {
       "title": "La Diputación de Cuenca destina 270.000 euros a actividades de las asociaciones de mayores",
@@ -103,9 +153,9 @@
       "caso": "other"
     },
     {
-      "title": "Investigan el hallazgo de dos cadáveres en plena calle en un pueblo de León",
+      "title": "Investigan el hallazgo de dos amigos muertos en plena calle en un pueblo de León",
       "link": "https://www.abc.es/espana/castilla-leon/investigan-hallazgo-dos-cadaveres-plena-calle-pueblo-20260823125151-nt.html",
-      "desc": "La Guardia Civil investiga el hallazgo de dos cadáveres, correspondientes a dos hombres de 57 y 59 años, hallados en plena calle en Veguellina de Órbigo, perteneciente al municipio de Villarejo de Órbigo, en la provincia de León. Según la información facilitad",
+      "desc": "La localidad leonesa de Veguellina de Órbigo, perteneciente al municipio de Villarejo de Órbigo, despertaba este domingo con un sobresalto. El del hallazgo de dos cadáveres en plena vía. Se trata de dos hombres, de 57 y 59 años, cuyos cuerpos fueron encontrado",
       "date": "Sun, 23 Aug 2026 12:52:15 +0200",
       "source": "ABC",
       "color": "#c0392b",
@@ -163,46 +213,6 @@
       "caso": "other"
     },
     {
-      "title": "Políticos en vacaciones",
-      "link": "https://www.abc.es/espana/galicia/politicos-vacaciones-20260816115541-nt.html",
-      "desc": "En cuanto los marroquíes y los incendios forestales dan una pequeña tregua, hete aquí que los periódicos gallegos la aprovechan para recuperar las tradiciones del genuino reporterismo estival: las celebridades al sol y en porreta, las infinitas juergas gastron",
-      "date": "Sun, 23 Aug 2026 11:55:41 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Va de azulejos",
-      "link": "https://www.abc.es/espana/galicia/azulejos-20260821115427-nt.html",
-      "desc": "Me gusta la palabra azulejo. De su recorrido semántico a partir del árabe clásico da noticia el 'Diccionario histórico de la lengua española', cuya reciente nueva edición por la RAE hizo posible la fundación Inditex, o sea Amancio Ortega. España está llena de ",
-      "date": "Sun, 23 Aug 2026 11:54:27 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "La Escuela Taurina Domingo Ortega de Toledo encara el tramo decisivo de su temporada",
-      "link": "https://www.abc.es/espana/castilla-la-mancha/toledo/escuela-taurina-domingo-ortega-toledo-encara-tramo-20260823115423-nt.html",
-      "desc": "La Escuela Taurina 'Domingo Ortega', dependiente de la Diputación de Toledo, afronta durante los meses de agosto y septiembre el grueso de su programación de clases prácticas, con cerca de quince festejos previstos en plazas de toros de la provincia y de otros",
-      "date": "Sun, 23 Aug 2026 11:54:24 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Dos heridos graves en una colisión entre un coche y una moto en la AP-9 en Pontevedra",
-      "link": "https://www.abc.es/espana/galicia/dos-heridos-graves-colision-coche-moto-ap9-20260823114449-nt.html",
-      "desc": "El conductor de una moto y su acompañante han resultado heridos de forma grave en una colisión con un coche ocurrida en la tarde del sábado en la AP-9, a la altura de Pontevedra. Los ocupantes del turismo salieron ilesos del accidente, según ha informado la Gu",
-      "date": "Sun, 23 Aug 2026 11:44:50 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
       "title": "Feijóo pide a Sánchez decretar el confinamiento en Ceuta por “riesgo sanitario”",
       "link": "https://www.lavanguardia.com/politica/20260823/11618511/feijoo-pide-sanchez-decretar-confinamiento-ceuta-riesgo-sanitario.html",
       "desc": "Ante casos de enfermedades como la sarna o la tuberculosis",
@@ -226,16 +236,6 @@
       "title": "Bruselas suaviza sus políticas climáticas por la presión de la industria y de algunos países",
       "link": "https://www.lavanguardia.com/internacional/20260823/11618202/bruselas-suaviza-politicas-climaticas-presion-industria-paises.html",
       "desc": "Los avisos que lanza el clima este verano no hacen mella en la segunda legislatura de Ursula von der Leyen, que ha registrado un frenazo a las políticas iniciadas en el primer mandato",
-      "date": "23 Aug 2026 06:00:00 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "La complicada agenda de Sánchez para lo que queda de legislatura",
-      "link": "https://www.lavanguardia.com/politica/20260823/11618237/complicada-agenda-sanchez-queda-legislatura.html",
-      "desc": "El primer Consejo de Ministros se celebrará pasado mañana, martes, con una larga y compleja lista de tareas para la recta final antes de las elecciones",
       "date": "23 Aug 2026 06:00:00 +0200",
       "source": "La Vanguardia",
       "color": "#8e44ad",
