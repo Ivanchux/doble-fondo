@@ -1,7 +1,157 @@
 {
-  "updated": "2026-08-23T22:16:02Z",
+  "updated": "2026-08-24T00:58:36Z",
   "count": 24,
   "items": [
+    {
+      "title": "La Generalitat garantiza la continuidad de la subvención a la UCE, un foro independentista en el sur de Francia",
+      "link": "https://www.abc.es/espana/cataluna/generalitat-garantiza-continuidad-subvencion-uce-foro-independentista-20260823015722-nt.html",
+      "desc": "La Generalitat de Cataluña garantiza su apoyo al foro independentista en el sur de Francia de la Universitat Catalana d'Estiu, pese a que la institución había alertado de la incertidumbre sobre su financiación y del retraso en el pago de parte de las ayudas de",
+      "date": "Mon, 24 Aug 2026 01:57:22 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Las asociaciones de víctimas reclaman apoyo para superar la «incomprensión social» y  «la indiferencia institucional»",
+      "link": "https://www.abc.es/espana/asociaciones-victimas-reclaman-apoyo-superar-incomprension-social-20260824015657-nt.html",
+      "desc": "«El terrorismo no termina con el ataque, continúa en el silencio y el olvido». Esta frase partió de la Organización de las Naciones Unidas (ONU) para recordar el deber que tiene cualquier sociedad con sus víctimas. Su dolor debe ser recordar y servir de aprend",
+      "date": "Mon, 24 Aug 2026 01:56:57 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "El Gobierno desoyó avisos de expertos y militares del uso de Marruecos de la frontera como forma de presión",
+      "link": "https://www.abc.es/espana/gobierno-desoyo-avisos-expertos-militares-uso-marruecos-20260824013344-nt.html",
+      "desc": "Ceuta vive desde hace más de tres semanas una situación de emergencia provocada por la entrada de decenas de miles de personas de forma irregular a través de la frontera con Marruecos. Un asalto masivo consumado en pocas horas, pero basado en unos parámetros q",
+      "date": "Mon, 24 Aug 2026 01:33:44 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Marruecos monitoriza al gobierno Sánchez",
+      "link": "https://www.abc.es/espana/cataluna/sergi-doria-marruecos-monitoriza-gobierno-sanchez-20260824013333-nt.html",
+      "desc": "Desde la Marcha Verde cuando Hasan II aprovechó el vacío de poder y el aislamiento internacional del régimen franquista, Marruecos ha intentado monitorizar la política española. Sus cartas: marroquinidad del Sahara, Ceuta, Melilla y, ya puestos, las Canarias. ",
+      "date": "Mon, 24 Aug 2026 01:33:33 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "El Gobierno ya trabaja en ampliar a 4.500 las camas en carpas para inmigrantes en Ceuta",
+      "link": "https://www.abc.es/espana/gobierno-trabaja-ampliar-4500-camas-carpas-inmigrantes-20260824013316-nt.html",
+      "desc": "Cuando se está a punto de cumplir un mes de la invasión marroquí en Ceuta, la realidad en la ciudad autónoma está desbordando al Gobierno. Las previsiones iniciales, hechas a partir de la información que el ministro del Interior, Fernando Grande - Marlaska, co",
+      "date": "Mon, 24 Aug 2026 01:33:16 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Sánchez prepara un 'otoño caliente' para recuperar la iniciativa política",
+      "link": "https://www.abc.es/espana/sanchez-prepara-otono-caliente-recuperar-iniciativa-politica-20260730013308-nt.html",
+      "desc": "El Gobierno llegó al verano exhausto. No tanto por un exceso de actividad, sino por el agotamiento que genera haber perdido el control de la agenda orientada netamente a la escena judicial. De hecho, el final del mes de julio con la oleada de incendios —que ob",
+      "date": "Mon, 24 Aug 2026 01:33:08 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "El abandono de la viuda de un sargento asesinado por ETA: «Antes tenía miedo, ahora me duele la soledad»",
+      "link": "https://www.abc.es/espana/extremadura/abandono-viuda-sargento-asesinado-eta-miedo-duele-20260823013254-nt.html",
+      "desc": "Cerca de 800 kilómetros separan Lasarte de Medellín, en Badajoz. Son algo más de siete horas de coche. Para Cati es casi una odisea. Conducir tanto tiempo sola le cuesta cada vez más. Sobre todo, desde que lidia con una larga enfermedad. Ya no puede hacer el v",
+      "date": "Mon, 24 Aug 2026 01:32:54 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Manuel Milián Mestre: «El PP nació en Cataluña y Feijóo debería tener una estrategia política clara»",
+      "link": "https://www.abc.es/espana/cataluna/manuel-milian-mestre-pp-nacio-cataluna-feijoo-20260814013112-nt.html",
+      "desc": "Periodista, expolítico, fundador de Alianza Popular -génesis del Partido Popular que este 2026 cumple 50 años- y, entre otras cosas, el diario 'El País'. Pero, sobre todo, hombre de Manuel Fraga en Cataluña durante el final del franquismo y el principio de la ",
+      "date": "Mon, 24 Aug 2026 01:31:12 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "La agonía del comercio de proximidad en Madrid: «No quiero que mi hija herede el negocio y se meta en esto»",
+      "link": "https://www.abc.es/espana/madrid/ultima-generacion-comercios-barrio-madrid-quiero-hija-20260203012742-nt.html",
+      "desc": "Una certeza les acompaña cuando, cada mañana, abren sus negocios. Serán, eso creen algunos, la última generación de comerciantes de proximidad, pues el transcurso de los años ha conformado una capital a golpe de cierre . ﻿Las cifras reflejan la presión que se ",
+      "date": "Mon, 24 Aug 2026 01:27:42 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "El 'efecto Paula Echevarría': así es la brillante estrategia con la que Daniella Bustamante ha debutado a sus 18 años",
+      "link": "https://www.abc.es/espana/efecto-paula-echevarria-brillante-estrategia-daniella-bustamante-20260821012520-nt.html",
+      "desc": "El 17 de agosto no fue un cumpleaños cualquiera para Daniella Bustamante. La hija de Paula Echevarría y David Bustamante alcanzó la mayoría de edad y, con ella, dio comienzo a una nueva etapa personal que llevaba meses preparándose con mucha discreción. Aunque",
+      "date": "Mon, 24 Aug 2026 01:25:20 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "La Policía local de Getafe denuncia test antidrogas defectuosos: «Son poco fiables»",
+      "link": "https://www.abc.es/espana/madrid/policia-local-getafe-denuncia-test-antidrogas-defectuosos-20260823012258-nt.html",
+      "desc": "La Policía local de Getafe ha lanzado un aviso sobre los test antidrogas que se están utilizando en el municipio, y que según se subraya en un informe interno son «poco fiables» y por tanto no válidos. «Cuando se ha probado por los propios agentes no se ha con",
+      "date": "Mon, 24 Aug 2026 01:22:58 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Cuando las obras maestras de la pintura cobran vida",
+      "link": "https://www.abc.es/espana/madrid/obras-maestras-pintura-cobran-vida-20260824012233-nt.html",
+      "desc": "Para quienes aún siguen en Madrid o ya han vuelto de vacaciones, esta última semana de agosto se puede aprovechar para visitar una de las propuestas culturales más espectaculares de la agenda veraniega, que llega a su fin el próximo fin de semana. Se trata de ",
+      "date": "Mon, 24 Aug 2026 01:22:33 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Josep Maria Planas contra los gánsteres",
+      "link": "https://www.abc.es/espana/cataluna/sergi-doria-josep-maria-planas-gansteres-20260823011855-nt.html",
+      "desc": "El verano de 1936, con la revolución en Barcelona tras el abortado levantamiento del general Goded y la inacción de la Generalitat para contener el caos, el periodista Josep Maria Planas apareció en las listas negras de la FAI. Los anarquistas le habían situad",
+      "date": "Mon, 24 Aug 2026 01:18:55 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Raphinha: “Me siento cómodo jugando de nueve”",
+      "link": "https://www.lavanguardia.com/deportes/20260824/11618677/raphinha-me-siento-comodo-jugando-nueve.html",
+      "desc": "El brasileño, autor de dos goles, firma un gran partido ante el Elche actuando de delantero centro",
+      "date": "24 Aug 2026 00:14:43 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
+    {
+      "title": "Raphinha, nueve y capitán, lidera la goleada del Barça ante el Elche",
+      "link": "https://www.lavanguardia.com/deportes/futbol/20260823/11618674/raphinha-nueve-capitan-lidera-goleada-barca-elche.html",
+      "desc": "El brasieño marca dos goles y los de Flick sentencian el partido con otro gol de Adeyemi y un doblete de Fermín&nbsp;",
+      "date": "23 Aug 2026 23:38:03 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
     {
       "title": "Unión entre la «pasión» por la montaña y el trabajo sanitario en el medio natural",
       "link": "https://www.abc.es/espana/castilla-leon/enfermera-rescatadora-union-pasion-montana-trabajo-extrahospitalario-20260808211126-nt.html",
@@ -53,16 +203,6 @@
       "caso": "other"
     },
     {
-      "title": "¡Final! (0-5) | El Barça debuta en la Liga goleando al Elche",
-      "link": "https://www.lavanguardia.com/deportes/futbol/20260823/11618626/elche-barcelona-laliga-ea-sports-partido-futbol-hoy-en-directo.html",
-      "desc": "",
-      "date": "23 Aug 2026 20:00:16 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
       "title": "La tregua de Don Lorenzo sigue en Córdoba: 31 grados para este lunes. ¡11 menos que hace una semana!",
       "link": "https://www.abc.es/espana/andalucia/cordoba/tregua-don-lorenzo-sigue-cordoba-grados-lunes-20260823193544-nts.html",
       "desc": "Las previsiones de la Agencia Estatal de Meteorología ( Aemet ) para la ciudad de Córdoba confirman la inesperada, inusual y larga tregua de Don Lorenzo en pleno mes de agosto . Sus previsiones son que durante toda la semana que está por arrancar -hay informac",
@@ -97,146 +237,6 @@
       "link": "https://www.abc.es/espana/comunidad-valenciana/alicante/alicante-destinos-ideales-nomadas-digitales-espana-20260823185848-nt.html",
       "desc": "Su clima mediterráneo, sus playas y su oferta gastronómica convierten a Alicante en una opción «especialmente atractiva para quienes quieren vivir y trabajar cerca del mar». Hasta ahí, los alicientes conocidos y casi tópicos de la ciudad como destino para los ",
       "date": "Sun, 23 Aug 2026 18:58:48 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Aviso amarillo este lunes por lluvias en León, Zamora, Salamanca y Ávila",
-      "link": "https://www.abc.es/espana/castilla-leon/aviso-amarillo-lunes-lluvias-leon-zamora-salamanca-20260823184950-nt.html",
-      "desc": "Tras días de temperaturas más suaves, también con alguna tormenta, y un domingo en el que el mercurio, el tiempo vuelve a dar un cambio este lunes en Castilla y León. Al menos, en la parte más al oeste de la Comunidad , donde la Agencia Estatal de Meterología ",
-      "date": "Sun, 23 Aug 2026 18:49:50 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Galicia, en alerta amarilla por la borrasca que la barrerá esta semana",
-      "link": "https://www.abc.es/espana/galicia/galicia-alerta-amarilla-borrasca-barrera-semana-20260823184300-nt.html",
-      "desc": "La borrasca que se aproxima hacia Galicia ha llevado a los organismos meteorológicos a activar la alerta amarilla por tormentas en varias zonas del territorio desde este domingo y durante parte del lunes, principalmente en las localidades de la costa de Pontev",
-      "date": "Sun, 23 Aug 2026 18:43:00 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Muere un piloto de rally en un accidente en Orense, con otros dos heridos",
-      "link": "https://www.abc.es/espana/galicia/muere-piloto-rally-accidente-subida-taboadela-dos-20260823181454-nt.html",
-      "desc": "Luto en el mundo del rally. El piloto Jesús López ha fallecido este domingo durante la realización de la Subida a Taboadela, que acogía este municipio de Orense. Según la información del 112 Galicia, su vehículo se salió de la vía y terminó alcanzando a otro, ",
-      "date": "Sun, 23 Aug 2026 18:14:54 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "El palentino Óscar Marcos gana el VIII Campeonato Autonómico de Cortadores de Cecina",
-      "link": "https://www.abc.es/espana/castilla-leon/palentino-oscar-marcos-gana-viii-campeonato-autonomico-20260823175259-nt.html",
-      "desc": "El palentino Óscar Marcos, procedente de Saldaña, se alzaba este domingo con el primer premio en la octava edición del Campeonato Autonómico de Cortadores de Cecina 'Agustín Risueño', celebrado en el marco de la XXXII Feria del Vino de la localidad leonesa de ",
-      "date": "Sun, 23 Aug 2026 17:53:00 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "'A tu vera contigo' saldrá a los principales teatros de la región por el 25 aniversario de CMM",
-      "link": "https://www.abc.es/espana/castilla-la-mancha/vera-contigo-saldra-principales-teatros-region-aniversario-20260823174928-nt.html",
-      "desc": "El programa de copla 'A tu vera' regresa a Castilla-La Mancha Media con la edición especial 'A tu vera contigo', con motivo del 25 aniversario de CMM, que será presentado por el fichaje estrella de Diana Navarro . La artista de Málaga, una de las voces más rec",
-      "date": "Sun, 23 Aug 2026 17:49:28 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "La demanda extranjera de vivienda despega en Castilla y León con el segundo mayor aumento del país",
-      "link": "https://www.abc.es/espana/castilla-leon/demanda-extranjera-vivienda-despega-castilla-leon-segundo-20260823173807-nt.html",
-      "desc": "La vivienda de Castilla y León gana atractivo entre la población extranjera que hasta ahora había puesto el ojo principalmente en zonas como Islas Baleares, Levante, las grandes ciudades o el sur. La demanda foránea crece en la Comunidad, tras anotar en los tr",
-      "date": "Sun, 23 Aug 2026 17:38:07 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "El Metropolitano recibe con una sonora pitada a Julián Álvarez y le pide “que se vaya”",
-      "link": "https://www.lavanguardia.com/deportes/atletico-de-madrid/20260823/11618598/metropolitano-recibe-sonora-pitada-julian-alvarez.html",
-      "desc": "El argentino, con cara de circunstancias, fue abroncado por su afición, sobre todo cuando saltó al campo en el minuto 66, y abandonó el césped solo mientras sus compañeros aplaudían a la grada tras el empate con el Villarreal (2-2)",
-      "date": "23 Aug 2026 17:25:00 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "Soberbio triunfo de Norris ante Antonelli y Hamilton en Zandvoort; Alonso, gran 9.º puesto",
-      "link": "https://www.lavanguardia.com/deportes/20260823/11618570/f1-formula-1-zandvoort-gp-paises-bajos-carrera-ganador-victoria-resumen-norris-russell-antonelli-alonso-sainz-verstappen.html",
-      "desc": "El inglés de McLaren fue mejor por ritmo con sus gomas duras gracias a la buena estrategia de los de Woking",
-      "date": "23 Aug 2026 17:19:03 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "Hallan un cadáver en el realojo del incendio de Segorbe, sin relación con el fuego",
-      "link": "https://www.abc.es/espana/comunidad-valenciana/hallan-cadaver-realojo-incendio-segorbe-relacion-fuego-20260823171536-nt.html",
-      "desc": "El cuerpo sin vida de un vecino de Gátova (Valencia) ha sido hallado este domingo durante el realojo de los vecinos tras ser estabilizado el incendio de la Sierra Calderona , que obligó el pasado viernes a evacuar a un millar de personas. No se trata de una pe",
-      "date": "Sun, 23 Aug 2026 17:15:36 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Trump sigue invirtiendo en bolsa: más de 1.000 operaciones solo en el mes de junio",
-      "link": "https://www.lavanguardia.com/economia/20260823/11618581/trump-sigue-invirtiendo-bolsa-mas-1-000-operaciones-mes-junio.html",
-      "desc": "El magnate ha tomado participaciones en Visa, Mastercard, Palantir o la financiera de Warren Buffett, entre otras firmas",
-      "date": "23 Aug 2026 17:14:55 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "Desaparecido un empresario burgalés tras caer por la borda de su embarcación cerca de Italia",
-      "link": "https://www.abc.es/espana/castilla-leon/desaparecido-empresario-burgales-tras-caer-borda-embarcacion-20260823170100-nt.html",
-      "desc": "El empresario burgalés Juan José Mutilba Obregón, de 66 años, se encuentra desaparecido desde el pasado martes después de caerse por la borda de su embarcación mientras realizaba un trayecto entre Sicilia y Grecia. El hombre, capitán de yate y aficionado a la ",
-      "date": "Sun, 23 Aug 2026 17:01:01 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Carlos Muñoz Escobar regresa con 'El silencio de los arcanos', su cuarta novela con solo 15 años",
-      "link": "https://www.abc.es/espana/castilla-la-mancha/toledo/carlos-munoz-escobar-regresa-silencio-arcanos-cuarta-20260823163720-nt.html",
-      "desc": "El escritor toledano Carlos Muñoz Escobar vuelve a las librerías con 'El silencio de los arcanos' , la cuarta novela de la saga de Pepe Holmes y, hasta el momento, la obra más madura y ambiciosa del joven escritor. A sus 15 años, y considerado el escritor más ",
-      "date": "Sun, 23 Aug 2026 16:37:20 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Más estrellas en el Benissa en Corto: Juan José Ballesta, Melani Olivares, Fran Berenguer y Cinta Ramírez",
-      "link": "https://www.abc.es/espana/comunidad-valenciana/alicante/estrellas-benissa-corto-juan-jose-ballesta-melani-20260823161950-nt.html",
-      "desc": "Benissa vuelve a convertirse en punto de encuentro del séptimo arte. El Festival Benissa en Corto continúa consolidando su crecimiento y anuncia la participación de nuevas figuras de primer nivel del panorama audiovisual español, con la que refuerza una progra",
-      "date": "Sun, 23 Aug 2026 16:19:50 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Darío Dolz se equivoca",
-      "link": "https://www.abc.es/espana/castilla-la-mancha/dario-dolz-equivoca-20260819143827-nt.html",
-      "desc": "Darío Dolz, alcalde de Cuenca, ha pedido públicamente la convocatoria de elecciones generales alegando que la situación nacional es «insostenible». Se equivoca profundamente. Para empezar, por muy alcalde de Cuenca que sea, en el seno de nuestro partido su opi",
-      "date": "Sun, 23 Aug 2026 14:38:27 +0200",
       "source": "ABC",
       "color": "#c0392b",
       "feedId": "ABC",
