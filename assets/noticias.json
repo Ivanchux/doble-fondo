@@ -1,7 +1,187 @@
 {
-  "updated": "2026-08-24T12:38:18Z",
+  "updated": "2026-08-24T14:35:46Z",
   "count": 24,
   "items": [
+    {
+      "title": "El nuevo polideportivo del colegio Miguel Delibes de Valladolid estará listo en el curso 2027-2028",
+      "link": "https://www.abc.es/espana/castilla-leon/nuevo-polideportivo-colegio-miguel-delibes-valladolid-listo-20260824161632-nt.html",
+      "desc": "El polideportivo del Colegio de Educación Infantil y Primaria (CEIPP) Miguel Delibes de Valladolid cubrirá «en 14 meses» las necesidades del centro y del barrio de La Victoria, después de que este lunes se haya firmado el acta de replanteo con la que se da el ",
+      "date": "Mon, 24 Aug 2026 16:17:21 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Bolaños mete prisa al CGPJ y le dice cómo resolver la crisis judicial en Ceuta",
+      "link": "https://www.abc.es/espana/bolanos-mete-prisa-cgpj-dice-resolver-crisis-20260824145450-nt.html",
+      "desc": "El ministro de Justicia, Félix Bolaños, ha instado al Consejo General del Poder Judicial (CGPJ) a que haga ya su petición de refuerzo de magistrados para Ceuta por la crisis migratoria, una decisión que el órgano de gobierno de los jueces consideró necesario h",
+      "date": "Mon, 24 Aug 2026 16:04:54 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Dimite el concejal de Cultura de Almería tras dar positivo en un control de alcoholemia al salir de la Feria",
+      "link": "https://www.abc.es/espana/andalucia/almeria/dimite-concejal-cultura-almeria-tras-dar-positivo-20260824154100-nts.html",
+      "desc": "El concejal de Cultura y Educación del Ayuntamiento de Almería, Diego Cruz, ha anunciado su dimisión . El edil ha sido denunciado por un delito contra la seguridad vial al dar positivo en un control de alcoholemia la pasada madrugada cuando abandonaba el recin",
+      "date": "Mon, 24 Aug 2026 15:41:01 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Una batalla campal en las fiestas de Sitges: barricadas, quema de contenedores y ataques a la Policía",
+      "link": "https://www.abc.es/espana/cataluna/batalla-campal-fiestas-sitges-barricadas-quema-contenedores-20260824153019-nt.html",
+      "desc": "El Ayuntamiento de Sitges (Barcelona) ha lamentado en un comunicado recogido por Europa Press los «altercados» ocurridos durante la madrugada de este lunes, que han obligado a retrasar la Matinal de Sant Bartolomeu. Fuentes de los Mossos d'Esquadra han explica",
+      "date": "Mon, 24 Aug 2026 15:38:24 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Preocupación por barrancos y cauces en Valencia a las puertas de la temporada de lluvias",
+      "link": "https://www.abc.es/espana/comunidad-valenciana/preocupacion-barrancos-cauces-valencia-puertas-temporada-lluvias-20260824151810-nt.html",
+      "desc": "Después de un nuevo verano especialmente caluroso con temperaturas récord y un mar Mediterráneo rondando los 30 grados, la llegada del otoño podría provocar la llegada de nuevas lluvias torrenciales a la provincia de Valencia , todavía afectada por los estrago",
+      "date": "Mon, 24 Aug 2026 15:25:23 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Puente y Saiz se contradicen sobre cuándo y cómo tiene que ir el Rey a Ceuta",
+      "link": "https://www.abc.es/espana/puente-saiz-contradicen-sobre-rey-ceuta-20260824152357-nt.html",
+      "desc": "Los números sobre la cantidad de inmigrantes que entraron de forma ilegal en Ceuta no ha sido la única cuestión sobre la que han diferido dentro del Gobierno de Pedro Sánchez. Este lunes, Oscar Puente, ministro de Transportes y Movilidad Sostenible, ha desliza",
+      "date": "Mon, 24 Aug 2026 15:23:58 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Sanidad y comunidades acuerdan enviar 25.000 vacunas a Ceuta",
+      "link": "https://www.lavanguardia.com/politica/20260824/11619185/sanidad-comunidades-acuerdan-enviar-25-000-vacunas-ceuta-afrontar-crisis-migratoria.html",
+      "desc": "El mecanismo de solidaridad se activa para que la ciudad autónoma perciba 15.000 dosis de vacunas de triple vírica y otras 10.000&nbsp;de difteria-tétanos, varicela y polio",
+      "date": "24 Aug 2026 15:14:43 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
+    {
+      "title": "Una enfermera se lleva la peor parte al defender a una paciente de la paliza de su hijo",
+      "link": "https://www.abc.es/espana/castilla-la-mancha/enfermera-lleva-peor-parte-defender-paciente-paliza-20260824151340-nt.html",
+      "desc": "Una consulta rutinaria terminó el pasado viernes en una escena de violencia en el centro de salud de Agudo (Ciudad Real). Una enfermera se interpuso para intentar proteger a una paciente que estaba siendo golpeada por su propio hijo y acabó convirtiéndose tamb",
+      "date": "Mon, 24 Aug 2026 15:13:41 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Puente destaca que en los últimos ocho años se han construido 90 kilómetros de A-11",
+      "link": "https://www.abc.es/espana/castilla-leon/puente-destaca-kilometros-a11-construidos-ultimos-ocho-20260824150947-nt.html",
+      "desc": "Una vez que el viaducto sobre el Duero que queda pendiente de construir finalice, desde 2018 se habrán puesto en marcha 90 kilómetros de A-11. Así lo destaca el ministro de Transportes, Óscar Puente, quien fechaba la finalización de esas obras a mediados de 20",
+      "date": "Mon, 24 Aug 2026 15:09:48 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Carnero defiende que el Ayuntamiento «protege» a las víctimas de violencia de género y reclama a Redondo más fondos",
+      "link": "https://www.abc.es/espana/castilla-leon/carnero-defiende-ayuntamiento-protege-victimas-violencia-genero-20260824150458-nt.html",
+      "desc": "El alcalde de Valladolid , el 'popular' Jesús Julio Carnero, defendía este lunes ser «muy tajante» y «muy claro» en afirmar que el Ayuntamiento y, en concreto, el protocolo de vivienda social de la sociedad municipal VIVA «protege a las víctimas de violencia d",
+      "date": "Mon, 24 Aug 2026 15:04:58 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "UPA reclama medidas para que el olivar sea «referente en precios y líder en protección»",
+      "link": "https://www.abc.es/espana/castilla-la-mancha/upa-reclama-medidas-olivar-referente-precios-lider-20260824150151-nt.html",
+      "desc": "El olivar se ha convertido ya en el cultivo leñoso con mayor extensión tanto en España como en Castilla-La Mancha, una posición que, a juicio de UPA Castilla-La Mancha, obliga a reforzar su protección y a adoptar medidas que permitan garantizar la rentabilidad",
+      "date": "Mon, 24 Aug 2026 15:01:51 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Iberdrola refuerza en Bargas (Toledo) la recuperación del cernícalo primilla con nuevos ejemplares monitorizados",
+      "link": "https://www.abc.es/espana/castilla-la-mancha/iberdrola-refuerza-bargas-toledo-recuperacion-cernicalo-primilla-20260824145648-nt.html",
+      "desc": "Donde hace apenas dos años no había rastro del cernícalo primilla, hoy ya se cuentan cerca de una treintena de ejemplares entre adultos y polluelos. La planta fotovoltaica de Barcience , en el término municipal de Bargas, se ha convertido así en un nuevo encla",
+      "date": "Mon, 24 Aug 2026 14:56:48 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "El PP exige al Gobierno ampliar las unidades de extranjería en Ceuta para agilizar las repatriaciones",
+      "link": "https://www.abc.es/espana/pp-exige-gobierno-ampliar-unidades-extranjeria-ceuta-20260824145302-nt.html",
+      "desc": "«Se tramitan los retornos como si se estuviera en una situación normal». Veinticinco días después del inicio de la crisis migratoria en Ceuta, el portavoz nacional del Partido Popular, Borja Sémper, ha solicitado al Gobierno que se trasladen a Ceuta las unidad",
+      "date": "Mon, 24 Aug 2026 14:53:49 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Una colisión frontal de dos turismos deja un fallecido de 65 años y un herido grave",
+      "link": "https://www.abc.es/espana/castilla-la-mancha/toledo/pueblos/colision-frontal-dos-turismos-deja-fallecido-anos-20260824144705-nt.html",
+      "desc": "Una colisión frontal de dos turismos en Alcázar de San Juan (Ciudad Real) se ha saldado con un fallecido y un herido grave, tal y como han confirmado a Europa Press fuentes del 112 de Castilla-La Mancha. El aviso se ha recibido a las 12:19 horas en la carreter",
+      "date": "Mon, 24 Aug 2026 14:47:06 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "El PP exige el retorno de todos los migrantes en Ceuta: “Hablamos de devolución, no de reparto”",
+      "link": "https://www.lavanguardia.com/politica/20260824/11619174/pp-exige-retorno-todos-migrantes-ceuta-hablamos-devolucion-reparto.html",
+      "desc": "Los populares&nbsp; exigen movilizar al personal de extranjería “mañana, tarde y noche” ante la inacción de Moncloa: “¿Dónde está el Estado?”",
+      "date": "24 Aug 2026 14:43:11 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
+    {
+      "title": "Sánchez convoca un Consejo de Seguridad Nacional para analizar la situación de Ceuta",
+      "link": "https://www.lavanguardia.com/politica/20260824/11619175/sanchez-convoca-manana-consejo-seguridad-nacional-analizar-situacion-ceuta.html",
+      "desc": "El presidente del Gobierno convoca este máximo órgano en materia de seguridad nacional 26 días después de la avalancha de migrantes que llegaron a la ciudad autónoma",
+      "date": "24 Aug 2026 14:43:00 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
+    {
+      "title": "Fallece en el hospital uno de los heridos por un coche que se empotró contra una terraza en un pueblo de León",
+      "link": "https://www.abc.es/espana/castilla-leon/fallece-hospital-heridos-coche-empotro-terraza-pueblo-20260824144032-nt.html",
+      "desc": "Una de las tres personas que resultaron heridas el pasado sábado tras empotrarse un turismo contra la terraza de un establecimiento junto a la travesía de Cabrillanes fallecía esa misma en el Hospital de León como consecuencia de las heridas provocadas por el ",
+      "date": "Mon, 24 Aug 2026 14:40:33 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Polán conmemora un siglo de la riada de 1926 con la publicación de un libro y el estreno de un documental",
+      "link": "https://www.abc.es/espana/castilla-la-mancha/toledo/pueblos/polan-celebra-cien-anos-riada-1926-publicacion-20260824143806-nt.html",
+      "desc": "El próximo 30 de agosto se conmemora el centenario de la riada que sufrió Polán en 1926 , una tragedia que dejo cinco personas fallecidas, entre ellas tres menores, y decenas de damnificados. Con motivo a este acontecimiento, el Ayuntamiento ha querido impulsa",
+      "date": "Mon, 24 Aug 2026 14:38:06 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
     {
       "title": "El PP exige al Gobierno que «cumpla la promesa» de musealizar el Museo de Semana Santa de Zamora",
       "link": "https://www.abc.es/espana/castilla-leon/pp-exige-gobierno-cumpla-promesa-musealizar-museo-20260824142657-nt.html",
@@ -53,190 +233,10 @@
       "caso": "other"
     },
     {
-      "title": "Sánchez convoca el Consejo de Seguridad Nacional casi un mes después del asalto masivo a la frontera de Ceuta",
-      "link": "https://www.abc.es/espana/sanchez-convoca-consejo-seguridad-nacional-mes-despues-20260824140332-nt.html",
-      "desc": "Pedro Sánchez ha convocado una reunión del Consejo de Seguridad Nacional este martes, casi un mes después del asalto masivo a la frontera de Ceuta por el que entraron de forma irregular en España decenas de miles de personas, hasta 80.000 según datos del Gobie",
-      "date": "Mon, 24 Aug 2026 14:03:32 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Ciudad Real se plantea un recinto mayor para atraer grandes conciertos",
-      "link": "https://www.abc.es/espana/castilla-la-mancha/ciudad-real-plantea-recinto-mayor-atraer-grandes-20260824140249-nt.html",
-      "desc": "El Ayuntamiento de Ciudad Real ha realizado un balance «positivo» de la Feria y Fiestas en honor a la Virgen del Prado , una celebración marcada por la elevada participación en las actividades programadas, los miles de asistentes a los conciertos, el lleno de ",
-      "date": "Mon, 24 Aug 2026 14:02:50 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Puente cree que este verano ha sido mejor en viajeros de tren y puntualidad tras las dudas por el «mazazo» de Adamuz",
-      "link": "https://www.abc.es/espana/castilla-leon/puente-cree-verano-mejor-viajeros-tren-puntualidad-20260824134935-nt.html",
-      "desc": "El ministro de Transportes y Movilidad Sostenible, Óscar Puente , ha asegurado que este verano ha sido mejor que el anterior tanto en viajeros de tren como en puntualidad tras el «mazazo» de Adamuz y las dudas que se generaron. Puente, quien ha inaugurado este",
-      "date": "Mon, 24 Aug 2026 13:55:23 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Ayuso anuncia 3 millones de euros para 50 empresas afectadas por el incendio de la Sierra Oeste",
-      "link": "https://www.abc.es/espana/madrid/ayuso-anuncia-millones-euros-empresas-afectadas-incendio-20260824135447-nt.html",
-      "desc": "La Sierra Oeste intenta volver a levantarse después del incendio que este verano carbonizó cerca de 27.000 hectáreas y dejó tras de sí un paisaje de árboles quemados, infraestructuras dañadas y negocios obligados a echar el cierre; en una época que, para la ma",
-      "date": "Mon, 24 Aug 2026 13:54:47 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "El PP solicita al Parlamento Europeo que estudie el impacto de las narcolanchas en Andalucía",
-      "link": "https://www.abc.es/espana/andalucia/pp-solicita-bruselas-estudie-impacto-narcolanchas-andalucia-20260824134150-nts.html",
-      "desc": "El narcotráfico genera cada día mayor peligro y sensación de inseguridad en Andalucía, y el asesinato de tres civiles en Isla Cristina (Huelva) ha podido ser el detonante para empezar a adoptar medidas reales y eficientes en la lucha contra estos delincuentes ",
-      "date": "Mon, 24 Aug 2026 13:43:23 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Un nuevo incendio hace saltar las alarmas en la provincia Zamora",
-      "link": "https://www.abc.es/espana/castilla-leon/nuevo-incendio-saltar-alarmas-provincia-zamora-20260824134157-nt.html",
-      "desc": "Nuevo susto por el fuego en la provincia de Zamora. Tras unos días de ligera tregua en las alarmas, un incendio declarado sobre las 12.00 horas en el término de Villalcampo subía rápidamente de nivel de alerta. Primero a IGR (Índice Potencia de Riesgo) 1 y des",
-      "date": "Mon, 24 Aug 2026 13:42:56 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Adilson y Salim El Jebari avanzan en sus recuperaciones  al margen del grupo",
-      "link": "https://www.abc.es/espana/andalucia/cordoba/cordoba-cf/cordoba-comienza-semana-trabajo-adilson-salim-jebari-20260824130413-nts.html",
-      "desc": "El Córdoba CF arranca su tercera semana de competición con una sonrisa tras la convincente victoria ante el Girona. Los tres puntos permitieron al conjunto blanquiverde dejar atrás el tropiezo inicial en Burgos y reforzar las buenas sensaciones de un equipo qu",
-      "date": "Mon, 24 Aug 2026 13:41:26 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Velá de la Fuensanta 2026 en Córdoba: fechas, horarios y actividades previstas",
-      "link": "https://www.abc.es/espana/andalucia/cordoba/vela-fuensanta-2026-cordoba-fechas-horarios-actividades-20260824134053-nts.html",
-      "desc": "Resuenan las campanitas en el barrio de la Fuensanta. En menos de un mes tendrá lugar la Velá, del 4 al 8 de septiembre. El Ayuntamiento ha detallado la programación junto al pregonero de este año, Nacho Sierra, que incluirá conciertos, degustaciones e incluso",
-      "date": "Mon, 24 Aug 2026 13:40:54 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
       "title": "Quién es Erola Jons, la influencer a la que LaVuelta ha apartado tras sus comentarios sexistas a Pogacar",
       "link": "https://www.lavanguardia.com/clic/20260824/11619034/erola-jons-influencer-lavuelta-apartado-ciclistas-comentarios-sexistas-pogacar-lol.html",
       "desc": "Erola Jons seguirá formando parte de la cobertura de LaVuelta pese a la polémica generada por sus comentarios a Tadej Pogacar, aunque la organización ha decidido apartarla del contacto directo con los ciclistas y modificar las condiciones en las que desarrolla",
       "date": "24 Aug 2026 13:38:02 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "El mayor tramo de la Autovía A-11 abre en medio de 'baches políticos'",
-      "link": "https://www.abc.es/espana/castilla-leon/mayor-tramo-autovia-a11-abre-medio-baches-20260824125138-nt.html",
-      "desc": "El «tramo más largo» abierto de la anhelada Autovía del Duero echa a andar en medio de 'baches' políticos y sociales. La polémica ha salpicado la puesta en marcha de los 31 nuevos kilómetros del tramo entre Tudela y Valbuena de Duero (Valladolid) con un cruce ",
-      "date": "Mon, 24 Aug 2026 13:36:30 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "El PSOE acusa a Gregorio de cambiar de postura sobre el biometano y le exige cumplir el acuerdo del Pleno",
-      "link": "https://www.abc.es/espana/castilla-la-mancha/toledo/talavera/psoe-acusa-gregorio-cambiar-postura-sobre-biometano-20260824133214-nt.html",
-      "desc": "El Pleno de Talavera aprobó por unanimidad una posición clara sobre las plantas de biometano, pero el PSOE considera que esa decisión corre ahora el riesgo de quedar en papel mojado. El Grupo Municipal Socialista ha acusado al alcalde, José Julián Gregorio, de",
-      "date": "Mon, 24 Aug 2026 13:32:14 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Protesta multitudinaria contra el alcalde de Villarejo de Salvanés por suspender las fiestas: «El pueblo no se toca»",
-      "link": "https://www.abc.es/espana/madrid/protesta-multitudinaria-alcalde-villarejo-salvanes-suspender-fiestas-20260824132818-nt.html",
-      "desc": "Al grito de «El pueblo no se toca» y «Alcalde, cabrón, eres un ladrón», entre otros gritos de guerra, decenas de vecinos de Villarejo de Salvanés se reunieron ayer en una «quedada» frente al ayuntamiento para criticar «la nefasta gestión de estos últimos años ",
-      "date": "Mon, 24 Aug 2026 13:28:26 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Los hoteles cifran en 15.000 empleos y 150 millones las pérdidas por el Imserso 'low cost' del Gobierno",
-      "link": "https://www.abc.es/espana/comunidad-valenciana/alicante/hoteles-cifran-15000-empleos-150-millones-perdidas-20260824132406-nt.html",
-      "desc": "La asociación hotelera de Benidorm y la Comunidad Valenciana (Hosbec) ha advertido al Gobierno de que su paralización de precios del Imserso, que lo han convertido en un turismo 'low cost' a pérdidas para el sector, hará que se pierdan 15.000 empleos y 150 mil",
-      "date": "Mon, 24 Aug 2026 13:25:08 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "El nuevo portal cartográfico regional permitirá evitar conflictos por los límites municipales",
-      "link": "https://www.abc.es/espana/castilla-la-mancha/nuevo-portal-cartografico-regional-permitira-evitar-conflictos-20260824132457-nt.html",
-      "desc": "El Gobierno de Castilla-La Mancha ha presentado el nuevo portal del Centro Cartográfico regional , un espacio digital que concentra en un único espacio toda la información geográfica pública que genera y gestiona la Junta y que, entre otros objetivos, permitir",
-      "date": "Mon, 24 Aug 2026 13:24:57 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Paco Núñez exige a Page que facilite una moción de censura para convocar elecciones generales",
-      "link": "https://www.abc.es/espana/castilla-la-mancha/paco-nunez-exige-page-facilite-mocion-censura-20260824132109-nt.html",
-      "desc": "Paco Núñez ha vuelto a situar a Emiliano García-Page ante una disyuntiva política: respaldar con los ocho diputados nacionales del PSOE de Castilla-La Mancha una moción de censura contra Pedro Sánchez o, según el líder del PP regional, mantener al actual Gobie",
-      "date": "Mon, 24 Aug 2026 13:21:10 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "La joyería cordobesa estrena su reciente sello de calidad europeo en la feria internacional Madridjoya",
-      "link": "https://www.abc.es/espana/andalucia/cordoba/joyeria-cordobesa-estrena-reciente-sello-calidad-europeo-20260824131203-nts.html",
-      "desc": "El Ayuntamiento de Córdoba ha presentado el proyecto de stand que tendrá la ciudad en la feria internacional Madridjoya, donde estará representada por segundo año consecutivo. Blanca Torrent, delegada de Hacienda ha asegurado que «vamos a Madrid para mostrar t",
-      "date": "Mon, 24 Aug 2026 13:12:27 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "León XIV conoce al saxofonista de los Blues Brothers, uno de sus ídolos de su juventud",
-      "link": "https://www.lavanguardia.com/gente/20260824/11619015/mision-dios-leon-xiv-conoce-saxofonista-blues-brothers-idolos-juventud.html",
-      "desc": "El sumo Pontífice se reunió con 'Blue Lou' Marini, que le regaló unas gafas como las de la icónica banda",
-      "date": "24 Aug 2026 13:06:05 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "El Barça sale en defensa del aficionado golpeado por la Policía tras requisarle una 'estelada' en Elche",
-      "link": "https://www.lavanguardia.com/deportes/20260824/11619007/barcelona-barca-sale-defensa-socio-aficionado-detenido-aporreado-golpeado-elche-requisada-bandera-independentista-estelada.html",
-      "desc": "El club blaugrana “condena el uso desproporcionado de la fuerza” de la Policía Nacional contra socios y aficionados barcelonistas",
-      "date": "24 Aug 2026 12:51:49 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "Junts y ERC reclaman una investigación por las cargas de la Policía contra aficionados del Barça en Elche",
-      "link": "https://www.lavanguardia.com/politica/20260824/11619004/junts-erc-reclaman-investigacion-cargas-policia-aficionados-barca-elche.html",
-      "desc": "Los republicanos registran una petición de comparecencia del ministro del Interior y Puigdemont denuncia que la Policía “supura odio a la catalanidad de forma estructural”",
-      "date": "24 Aug 2026 12:47:16 +0200",
       "source": "La Vanguardia",
       "color": "#8e44ad",
       "feedId": "LaVanguardia",
