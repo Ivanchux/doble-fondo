@@ -1,7 +1,47 @@
 {
-  "updated": "2026-08-24T18:31:58Z",
+  "updated": "2026-08-24T20:23:30Z",
   "count": 24,
   "items": [
+    {
+      "title": "Activada la emergencia por el incendio en Las Tres Villas, en Almería, con ocho confinados y diez alejados",
+      "link": "https://www.abc.es/espana/andalucia/almeria/activada-emergencia-incendio-tres-villas-almeria-ocho-20260824214824-nts.html",
+      "desc": "El consejero de Presidencia, Sanidad y Emergencias y director del Plan de Emergencias por Incendios Forestales de Andalucía (Plan Infoca), Antonio Sanz, ha activado la fase de emergencia, situación operativa 1, ante la evolución del incendio declarado este lun",
+      "date": "Mon, 24 Aug 2026 21:48:52 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Marroquíes Bajos: el futuro parque arqueológico que rescata 6.000 años de historia de Jaén",
+      "link": "https://www.abc.es/espana/andalucia/jaen/marroquies-bajos-futuro-parque-arqueologico-rescata-6000-20260822134425-nts.html",
+      "desc": "La importancia del patrimonio histórico-artístico que comprende el yacimiento arqueológico de Marroquíes Bajos es impresionante no sólo por la cantidad de hallazgos que atesora sino por las diferentes civilizaciones que escogieron la zona para asentarse: desde",
+      "date": "Mon, 24 Aug 2026 21:45:40 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "El reparto de comida a los inmigrantes en Ceuta: «Cada día sois más y no hay para todos»",
+      "link": "https://www.abc.es/espana/reparto-comida-inmigrantes-trampolin-20260824205425-nt.html",
+      "desc": "Una treintena se aísla de los miles que, en fila, recogen su bolsa. Las miran, las piden, se llevan una mano a la boca para mostrar sin palabras que tienen hambre. «Cada día sois más, no da para todos, es que no da», trata de explicarles uno de los policías de",
+      "date": "Mon, 24 Aug 2026 20:54:25 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "El Ayuntamiento de Córdoba redacta el proyecto para intervenir en la Torre de la Malmuerta y frenar su deterioro",
+      "link": "https://www.abc.es/espana/andalucia/cordoba/ayuntamiento-cordoba-redacta-proyecto-intervenir-torre-malmuerta-20260824205334-nts.html",
+      "desc": "El Ayuntamiento de Córdoba está redactando un proyecto de restauración de la T orre de la Malmuerta , monumento del siglo XV que se encuentra deteriorado . Así se recoge en una respuesta de la Oficina del Casco Histórico de la Gerencia Municipal de Urbanismo (",
+      "date": "Mon, 24 Aug 2026 20:53:34 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
     {
       "title": "Muere un trabajador de mantenimiento de barcos en unas obras del Puerto de Valencia",
       "link": "https://www.abc.es/espana/comunidad-valenciana/muere-trabajador-mantenimiento-barco-obras-puerto-valencia-20260824201607-nt.html",
@@ -13,7 +53,7 @@
       "caso": "other"
     },
     {
-      "title": "La primera playa nudista andaluza proclama su fobia a los 'textiles'",
+      "title": "La primera playa nudista andaluza proclama su rechazo a los 'textiles'",
       "link": "https://www.abc.es/espana/andalucia/granada/playa-granadina-cantarrijan-reivindica-esencia-nudista-20260824151337-nts.html",
       "desc": "La de Cantarriján fue la primera playa andaluza declarada oficialmente nudista , cosa que ocurrió en 1979. Aunque desde los años sesenta, al estar apartada del mundanal ruido, había ya gente que la frecuentaba sin bañadores. Ahora está amenazada por éstos, per",
       "date": "Mon, 24 Aug 2026 20:17:24 +0200",
@@ -83,6 +123,16 @@
       "caso": "other"
     },
     {
+      "title": "EE.UU. amenaza con usar “todo el alcance” de su poder contra los países con vínculos con Irán",
+      "link": "https://www.lavanguardia.com/internacional/20260824/11619326/ee-uu-amenaza-alcance-pais-mantenga-vinculos-iran.html",
+      "desc": "El secretario del Tesoro, Scott Bessent, anuncia sanciones secundarias contra todos los países y entidades “facilitadoras” del régimen iraní en el mundo, incluida China",
+      "date": "24 Aug 2026 19:41:12 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
+    {
       "title": "Un muerto en una colisión entre tres vehículos en Curtis (La Coruña)",
       "link": "https://www.abc.es/espana/galicia/muerto-colision-tres-vehiculos-curtis-coruna-20260824193814-nt.html",
       "desc": "Una persona ha fallecido este lunes tras verse involucrado en un accidente múltiple con tres vehículos -un camión, una furgoneta y un turismo- en el municipio coruñés de Curtis. Según ha informado el 112, y ha recogido Europa Press, el suceso se produjo alrede",
@@ -90,6 +140,16 @@
       "source": "ABC",
       "color": "#c0392b",
       "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "'Dragon Ball Z' tendrá un parque temático en las cercanías de París",
+      "link": "https://www.lavanguardia.com/economia/20260824/11619339/dragon-ball-z-tendra-paruqe-tematico-cercanias-paris.html",
+      "desc": "El Elíseo confirmó la inversión durante la visita del príncipe heredero saudita Mohammed bin Salman a la capital francesa",
+      "date": "24 Aug 2026 19:35:49 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
       "caso": "other"
     },
     {
@@ -135,7 +195,7 @@
     {
       "title": "Una fuerte tormenta con granizo deja calles inundadas en Tarragona",
       "link": "https://www.lavanguardia.com/local/catalunya/20260824/11619325/bombers-reciben-mas-centenar-avisos-temporal-azota-suroeste-catalunya.html",
-      "desc": "El núcleo del temporal se desplaza hacia el área metropolitana de Barcelona",
+      "desc": "Protección Civil pide extremar la precaución en el Camp de Tarragona",
       "date": "24 Aug 2026 19:06:28 +0200",
       "source": "La Vanguardia",
       "color": "#8e44ad",
@@ -173,70 +233,10 @@
       "caso": "other"
     },
     {
-      "title": "Torrevieja reclama más Guardia Civil: la misma plantilla en 10 años de explosión demográfica",
-      "link": "https://www.abc.es/espana/comunidad-valenciana/alicante/torrevieja-reclama-guardia-civil-plantilla-anos-explosion-20260824183147-nt.html",
-      "desc": "El alcalde de Torrevieja, Eduardo Dolón, ha instado al subdelegado del Gobierno en Alicante, Manuel Pineda, a que eleve al Ministerio del Interior su reivindicación de más efectivos de la Guardia Civil, porque la plantilla se mantiene prácticamente igual desde",
-      "date": "Mon, 24 Aug 2026 18:31:47 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "El PPdeG insiste en que una comisión bilateral «corrija» la ley para transferir la AP-9",
-      "link": "https://www.abc.es/espana/galicia/ppdeg-pide-corregir-traspaso-ap9-comision-bilateral-20260824182916-nt.html",
-      "desc": "El Partido Popular de Galicia ha situado el traspaso de la autopista AP-9 como una de las prioridades del nuevo curso político y ve en la Comisión Bilateral de Cooperación Estado-Xunta —solicitada de forma formal por el presidente Alfonso Rueda— «una oportunid",
-      "date": "Mon, 24 Aug 2026 18:30:34 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
       "title": "Una tormenta de granizo obliga a cancelar la etapa de LaVuelta",
       "link": "https://www.lavanguardia.com/deportes/ciclismo/20260824/11619292/granizo-tormenta-obligan-cancelar-tercera-etapa-vuelta.html",
       "desc": "A falta de 15 kilómetros para la meta, los ciclistas, liderados por Pogacar, deciden parar ante las duras condiciones climatológicas",
       "date": "24 Aug 2026 17:55:22 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "La calle de la marihuana de Arbo: dos plantaciones a pocos metros",
-      "link": "https://www.abc.es/espana/galicia/calle-marihuana-arbo-dos-plantaciones-pocos-metros-20260824175429-nt.html",
-      "desc": "La cocaína es la reina de las drogas en Galicia , consolidada como una de las principales puertas de entrada del polvo blanco en Europa. El tráfico de hachís, sustancias sintéticas o marihuana es más característico de otras zonas de España. Pero, en todo caso,",
-      "date": "Mon, 24 Aug 2026 17:54:29 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Trump amenaza con aranceles del 50% a coches y acero de Canadá en pleno conflicto comercial",
-      "link": "https://www.lavanguardia.com/economia/20260824/11619288/trump-amenaza-aranceles-50-coches-acero-canada-pleno-conflicto-comercial.html",
-      "desc": "El primer ministro Mark Carney sostuvo que no podía negociar términos “antieconómicos e injustos” y avisó que no cederán: “Cuando te atacan, estás en guerra, y nosotros hemos sido atacados”&nbsp;",
-      "date": "24 Aug 2026 17:51:48 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "Castilla-La Mancha se suma al rescate de vacunas para Ceuta ante la falta de reserva estatal",
-      "link": "https://www.abc.es/espana/castilla-la-mancha/castillala-mancha-suma-rescate-vacunas-ceuta-ante-20260824175016-nt.html",
-      "desc": "La preocupación por la situación sanitaria derivada de la crisis migratoria en Ceuta ha llevado este lunes a las comunidades autónomas a sentarse de urgencia con el Ministerio de Sanidad. Sobre la mesa, una medida preventiva: reforzar la protección de los inmi",
-      "date": "Mon, 24 Aug 2026 17:50:17 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "El Gobierno creará un mando único dirigido por el ministro Torres para gestionar la crisis de Ceuta",
-      "link": "https://www.lavanguardia.com/politica/20260824/11619263/gobierno-constituira-mando-unico-dirigido-ministro-torres-gestionar-crisis-ceuta.html",
-      "desc": "El vicepresidente Cuerpo promete una ampliación extraordinaria del plan de desarrollo económico diseñado para la ciudad en el 2022",
-      "date": "24 Aug 2026 17:16:46 +0200",
       "source": "La Vanguardia",
       "color": "#8e44ad",
       "feedId": "LaVanguardia",
