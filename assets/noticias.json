@@ -1,7 +1,17 @@
 {
-  "updated": "2026-08-24T20:23:30Z",
+  "updated": "2026-08-24T22:19:57Z",
   "count": 24,
   "items": [
+    {
+      "title": "António Costa, evacuado a un refugio en Kyiv tras sonar las alarmas por un posible ataque ruso",
+      "link": "https://www.lavanguardia.com/internacional/20260824/11619379/antonio-costa-evacuado-refugio-kyiv-sonar-alarmas-posible-ataque-ruso.html",
+      "desc": "El presidente del Consejo Europeo coincide con el presidente finlandés en el garaje de un hotel por la amenaza de misiles balísticos",
+      "date": "24 Aug 2026 22:48:15 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
     {
       "title": "Activada la emergencia por el incendio en Las Tres Villas, en Almería, con ocho confinados y diez alejados",
       "link": "https://www.abc.es/espana/andalucia/almeria/activada-emergencia-incendio-tres-villas-almeria-ocho-20260824214824-nts.html",
@@ -195,7 +205,7 @@
     {
       "title": "Una fuerte tormenta con granizo deja calles inundadas en Tarragona",
       "link": "https://www.lavanguardia.com/local/catalunya/20260824/11619325/bombers-reciben-mas-centenar-avisos-temporal-azota-suroeste-catalunya.html",
-      "desc": "Protección Civil pide extremar la precaución en el Camp de Tarragona",
+      "desc": "Protección Civil finaliza el aviso por acumulaciones de más de 60 l/m² en 3 horas en el Baix Camp y el Tarragonès",
       "date": "24 Aug 2026 19:06:28 +0200",
       "source": "La Vanguardia",
       "color": "#8e44ad",
@@ -230,16 +240,6 @@
       "source": "ABC",
       "color": "#c0392b",
       "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Una tormenta de granizo obliga a cancelar la etapa de LaVuelta",
-      "link": "https://www.lavanguardia.com/deportes/ciclismo/20260824/11619292/granizo-tormenta-obligan-cancelar-tercera-etapa-vuelta.html",
-      "desc": "A falta de 15 kilómetros para la meta, los ciclistas, liderados por Pogacar, deciden parar ante las duras condiciones climatológicas",
-      "date": "24 Aug 2026 17:55:22 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
       "caso": "other"
     }
   ]
