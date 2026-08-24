@@ -1,9 +1,199 @@
 {
-  "updated": "2026-08-24T16:30:30Z",
+  "updated": "2026-08-24T18:31:58Z",
   "count": 24,
   "items": [
     {
-      "title": "El granizo y una tormenta obligan a cancelar la tercera etapa de LaVuelta",
+      "title": "Muere un trabajador de mantenimiento de barcos en unas obras del Puerto de Valencia",
+      "link": "https://www.abc.es/espana/comunidad-valenciana/muere-trabajador-mantenimiento-barco-obras-puerto-valencia-20260824201607-nt.html",
+      "desc": "Un trabajador ha muerto este lunes en un accidente durante las tareas de mantenimiento de una embarcación en el Puerto de Valencia, según han confirmado fuentes de la investigación. Al parecer, ha sufrido una caída en una zona en obras. La edad de la víctima p",
+      "date": "Mon, 24 Aug 2026 20:18:38 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "La primera playa nudista andaluza proclama su fobia a los 'textiles'",
+      "link": "https://www.abc.es/espana/andalucia/granada/playa-granadina-cantarrijan-reivindica-esencia-nudista-20260824151337-nts.html",
+      "desc": "La de Cantarriján fue la primera playa andaluza declarada oficialmente nudista , cosa que ocurrió en 1979. Aunque desde los años sesenta, al estar apartada del mundanal ruido, había ya gente que la frecuentaba sin bañadores. Ahora está amenazada por éstos, per",
+      "date": "Mon, 24 Aug 2026 20:17:24 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "España solicita formalmente a Bruselas fondos de emergencia para afrontar la crisis en Ceuta",
+      "link": "https://www.abc.es/espana/espana-solicita-formalmente-bruselas-fondos-emergencia-afrontar-20260824201154-nt.html",
+      "desc": "La Comisión Europea ha confirmado este lunes que ha recibido la solicitud formal del Gobierno de España para activar fondos de asistencia de emergencia con los que responder a la crisis migratoria en Ceuta , 25 días después de la entrada de más de 80.000 perso",
+      "date": "Mon, 24 Aug 2026 20:11:54 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "El Córdoba CF moviliza al cordobesismo por una vuelta al cole más solidaria con la IV Recogida de Material Escolar",
+      "link": "https://www.abc.es/espana/andalucia/cordoba/cordoba-cf/cordoba-moviliza-cordobesismo-vuelta-cole-solidaria-recogida-20260824195556-nts.html",
+      "desc": "El Córdoba CF vuelve a mostrar su vertiente más solidaria coincidiendo con la cercanía de la vuelta al cole. La Fundación Córdoba CF ha puesto en marcha este lunes la IV Recogida de Material Escolar , una iniciativa destinada a ayudar a las familias más vulner",
+      "date": "Mon, 24 Aug 2026 19:55:57 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "El amistoso ante la AD San José abre una oportunidad para los menos habituales en el Córdoba CF",
+      "link": "https://www.abc.es/espana/andalucia/cordoba/cordoba-cf/duelo-amistoso-ante-san-jose-abre-oportunidad-20260824193247-nts.html",
+      "desc": "El Córdoba CF hará un alto en el camino dentro de su preparación para el próximo compromiso liguero ante el Granada, una nueva cita en El Arcángel en la que los de Iván Ania buscarán dar continuidad a las buenas sensaciones mostradas frente al Girona. Antes, e",
+      "date": "Mon, 24 Aug 2026 19:55:52 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "La banda de música Tubamirum de Cañete de las Torres lleva los sones de Córdoba a Disneyland París",
+      "link": "https://www.abc.es/espana/andalucia/cordoba/banda-musica-tubamirum-canete-torres-lleva-sones-20260824195504-nts.html",
+      "desc": "Este lunes, uno de los parques temáticos más importantes de Europa ha tenido un marcado acento cordobés. La banda de música Tubamirum, de Cañete de las Torres, ha hecho sonar sus acordes en el paseo principal de Disneyland París, junto al emblemático castillo ",
+      "date": "Mon, 24 Aug 2026 19:55:04 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "¿Qué es el Consejo de Seguridad Nacional y qué decisiones podría tomar sobre Ceuta?",
+      "link": "https://www.abc.es/espana/consejo-seguridad-nacional-20260824195105-nt.html",
+      "desc": "El Consejo de Seguridad Nacional es el máximo órgano asesor del Gobierno en situaciones de crisis. Pese a ello, no ha sido convocado de forma extraordinaria hasta este martes, casi un mes después del asalto masivo a la frontera de Ceuta. La reunión tendrá luga",
+      "date": "Mon, 24 Aug 2026 19:51:05 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "El PP-A asegura que Montero «ataca para ocultar que el Gobierno ha dejado vendida a Andalucía ante el narcotráfico»",
+      "link": "https://www.abc.es/espana/andalucia/ppa-asegura-montero-ataca-ocultar-gobierno-dejado-20260824195022-nts.html",
+      "desc": "El secretario general del PP-A, Antonio Repullo , ha lamentado este lunes la posición del PSOE-A la postura de «negación» y «la falta de medidas sobre la mesa» por parte del partido para la lucha contra el narcotráfico tras las críticas a la petición del presi",
+      "date": "Mon, 24 Aug 2026 19:50:22 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Un muerto en una colisión entre tres vehículos en Curtis (La Coruña)",
+      "link": "https://www.abc.es/espana/galicia/muerto-colision-tres-vehiculos-curtis-coruna-20260824193814-nt.html",
+      "desc": "Una persona ha fallecido este lunes tras verse involucrado en un accidente múltiple con tres vehículos -un camión, una furgoneta y un turismo- en el municipio coruñés de Curtis. Según ha informado el 112, y ha recogido Europa Press, el suceso se produjo alrede",
+      "date": "Mon, 24 Aug 2026 19:38:14 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Precaución máxima en las playas de Huelva y Cádiz por las corrientes de resaca",
+      "link": "https://www.abc.es/espana/andalucia/precaucion-maxima-playas-huelva-cadiz-corrientes-20260824191831-nts.html",
+      "desc": "La Agencia de Emergencias de Andalucía (EMA) recomienda extremar la precaución durante el baño en la costa occidental de Cádiz y en el litoral de Huelva situado al este de Punta Umbría, donde este lunes persistirán corrientes de resaca importantes. La Agencia ",
+      "date": "Mon, 24 Aug 2026 19:18:31 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Requisados 370 kilos de pescado y marisco ilegal en una semana en Galicia",
+      "link": "https://www.abc.es/espana/galicia/gardacostas-requisa-semana-370-kilos-pescado-marisco-20260824191609-nt.html",
+      "desc": "El Servizo de Gardacostas de Galicia ha decomisado durante la última semana más de 372 kilos de pescado y marisco de procedencia ilícita y cerca de 1.300 aparejos de pesca no reglamentarios en aguas de la comunidad. El balance, correspondiente a las actuacione",
+      "date": "Mon, 24 Aug 2026 19:16:09 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "El Gobierno abre la puerta a aplicar a Fly2Galicia la ley del embargo a Israel",
+      "link": "https://www.abc.es/espana/galicia/gobierno-abre-puerta-aplicar-fly2galicia-ley-embargo-20260824191007-nt.html",
+      "desc": "El ministro de Derechos Sociales, Consumo y Agenda 2030, Pablo Bustinduy, recalca que España sigue aplicado la ley de embargo de productos y servicios provenientes de territorios ocupados ilegalmente por Israel, y defiende actuar con «contundencia» ante quiene",
+      "date": "Mon, 24 Aug 2026 19:10:07 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "La Palma, escenario científico del récord de distancia de observación del Universo: 8.000 millones de años luz",
+      "link": "https://www.abc.es/espana/canarias/palma-escenario-cientifico-record-distancia-observacion-universo-20260824190854-nt.html",
+      "desc": "Canarias ha vuelto a ser puerta para la investigación del Universo lejano gracias a un nuevo hito en la observación de los cielos. Se trata de OP 313, el blázar de muy alta energía más lejano observado hasta la fecha , que ha sido captado con gran detalle en u",
+      "date": "Mon, 24 Aug 2026 19:08:55 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Una fuerte tormenta con granizo deja calles inundadas en Tarragona",
+      "link": "https://www.lavanguardia.com/local/catalunya/20260824/11619325/bombers-reciben-mas-centenar-avisos-temporal-azota-suroeste-catalunya.html",
+      "desc": "El núcleo del temporal se desplaza hacia el área metropolitana de Barcelona",
+      "date": "24 Aug 2026 19:06:28 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
+    {
+      "title": "Canarias valora como «sorprendente» que Sánchez mantenga sus vacaciones en Lanzarote en plena crisis migratoria en Ceuta",
+      "link": "https://www.abc.es/espana/canarias/canarias-valora-sorprendente-sanchez-mantenga-vacaciones-lanzarote-20260824185351-nt.html",
+      "desc": "El portavoz del Gobierno de Canarias, Alfonso Cabello, ha valorado como « sorprendente » que el presidente, Pedro Sánchez, haya mantenido sus vacaciones completas en Lanzarote mientras Ceuta afronta la crisis migratoria. El portavoz de Canarias ha criticado qu",
+      "date": "Mon, 24 Aug 2026 18:53:51 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Los artistas Fernando Barredo y Laura Fuentes llevan su obra hasta Eslovaquia",
+      "link": "https://www.abc.es/espana/castilla-la-mancha/toledo/artistas-fernando-barredo-laura-fuentes-llevan-obra-20260824184028-nt.html",
+      "desc": "Los artistas Fernando Barredo (Loc) y Laura Fuentes, respectivos presidente y encargada de sala del Círculo de Arte de Toledo, participan estos días en el SOCHÁRSKE SYMPÓZIUM HABURA 2026 , un encuentro internacional de creadores en Eslovaquia. Loc ha ejecutado",
+      "date": "Mon, 24 Aug 2026 18:40:28 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "La disolución de OCON-Sur baja un 15% las detenciones por narcotráfico en Andalucía",
+      "link": "https://www.abc.es/espana/andalucia/sindicatos-guardia-civil-avalan-numeros-vuelta-oconsur-20260824183427-nts.html",
+      "desc": "Los 'sindicatos' de la Guardia Civil vuelven a pedir que se reactive OCON-Sur para luchar contra un narcotráfico que se expone cada vez más impune y más violento. Todos coinciden en el éxito de este operativo especial, que asfixió a los narcos. Por eso llevan ",
+      "date": "Mon, 24 Aug 2026 18:34:28 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Torrevieja reclama más Guardia Civil: la misma plantilla en 10 años de explosión demográfica",
+      "link": "https://www.abc.es/espana/comunidad-valenciana/alicante/torrevieja-reclama-guardia-civil-plantilla-anos-explosion-20260824183147-nt.html",
+      "desc": "El alcalde de Torrevieja, Eduardo Dolón, ha instado al subdelegado del Gobierno en Alicante, Manuel Pineda, a que eleve al Ministerio del Interior su reivindicación de más efectivos de la Guardia Civil, porque la plantilla se mantiene prácticamente igual desde",
+      "date": "Mon, 24 Aug 2026 18:31:47 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "El PPdeG insiste en que una comisión bilateral «corrija» la ley para transferir la AP-9",
+      "link": "https://www.abc.es/espana/galicia/ppdeg-pide-corregir-traspaso-ap9-comision-bilateral-20260824182916-nt.html",
+      "desc": "El Partido Popular de Galicia ha situado el traspaso de la autopista AP-9 como una de las prioridades del nuevo curso político y ve en la Comisión Bilateral de Cooperación Estado-Xunta —solicitada de forma formal por el presidente Alfonso Rueda— «una oportunid",
+      "date": "Mon, 24 Aug 2026 18:30:34 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Una tormenta de granizo obliga a cancelar la etapa de LaVuelta",
       "link": "https://www.lavanguardia.com/deportes/ciclismo/20260824/11619292/granizo-tormenta-obligan-cancelar-tercera-etapa-vuelta.html",
       "desc": "A falta de 15 kilómetros para la meta, los ciclistas, liderados por Pogacar, deciden parar ante las duras condiciones climatológicas",
       "date": "24 Aug 2026 17:55:22 +0200",
@@ -43,66 +233,6 @@
       "caso": "other"
     },
     {
-      "title": "El PP también pide en Málaga la vuelta de OCON-Sur: «Es donde más incautaciones hay de armas de guerra»",
-      "link": "https://www.abc.es/espana/andalucia/malaga/pp-pide-malaga-vuelta-oconsur-incautaciones-armas-20260824143824-nts.html",
-      "desc": "El PP de Málaga apoya la petición de Juanma Moreno de volver a reactivar OCON-Sur, la unidad de élite de la Guardia Civil contra el narco en Andalucía. Lo hace además destacando una singularidad de la provincia, que «es la primera provincia de Andalucía en inc",
-      "date": "Mon, 24 Aug 2026 17:44:23 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Un grave choque entre un coche y un camión en la N-502 moviliza al helicóptero del 061",
-      "link": "https://www.abc.es/espana/andalucia/cordoba/grave-choque-coche-camion-n502-moviliza-helicoptero-20260824173328-nts.html",
-      "desc": "Un aparatoso accidente de tráfico registrado este lunes en la provincia de Córdoba ha movilizado a numerosos efectivos de emergencias . El siniestro se ha producido en torno a las 14.20 horas en el cruce situado en el kilómetro 574 de la carretera N-502, a la ",
-      "date": "Mon, 24 Aug 2026 17:33:28 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "El nuevo túnel de la A-5, listo para enlazar con la M-30 a final de año",
-      "link": "https://www.abc.es/espana/madrid/nuevo-tunel-listo-conectarse-m30-final-ano-20260824172848-nt.html",
-      "desc": "Desde este lunes, los vehículos ya pueden volver a circular por el túnel que discurre bajo la avenida de Portugal, que ha permanecido cerrado todo el mes de agosto. Con esta reapertura concluyen los trabajos preliminares que ha estado realizado el Ayuntamiento",
-      "date": "Mon, 24 Aug 2026 17:28:48 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "La plantilla de Airbus ratifica la huelga indefinida en las primeras votaciones de la mañana",
-      "link": "https://www.abc.es/espana/castilla-la-mancha/plantilla-airbus-ratifica-huelga-indefinida-primeras-votaciones-20260824172607-nt.html",
-      "desc": "Los trabajadores del turno de mañana de los sindicatos CGT, UGT y ÚTIL en Airbus España han decidido por amplia mayoría mantener la huelga indefinida en la compañía prevista desde el martes 25 de agosto. Aunque aún tienen que votar los empleados del turno de t",
-      "date": "Mon, 24 Aug 2026 17:26:07 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "La patrona de Granada se traslada de templo por temor a posibles daños a causa de los terremotos",
-      "link": "https://www.abc.es/espana/andalucia/granada/patrona-granada-traslada-templo-temor-posibles-danos-20260824171548-nts.html",
-      "desc": "La Basílica de las Angustias de Granada ha podido resultar afectada por la serie de terremotos que han sacudido la capital y su Área Metropolitana desde el pasado 15 de agosto y su titular, la Virgen de las Angustias, patrona de Granada y de su provincia, va a",
-      "date": "Mon, 24 Aug 2026 17:19:20 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "El PSOE-A exige a Moreno que combata el narco mientras obvia que Sánchez desmanteló el OCON-Sur",
-      "link": "https://www.abc.es/espana/andalucia/psoea-exige-moreno-combata-narco-obvia-sanchez-20260824171712-nts.html",
-      "desc": "El PSOE-A ha reclamado este lunes a Juanma Moreno que adopte medidas contra el narcotráfico y ha acusado al presidente de la Junta de mantener una actitud «hipócrita» y de «no haber hecho absolutamente nada» durante sus ocho años de Gobierno. El secretario de ",
-      "date": "Mon, 24 Aug 2026 17:17:12 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
       "title": "El Gobierno creará un mando único dirigido por el ministro Torres para gestionar la crisis de Ceuta",
       "link": "https://www.lavanguardia.com/politica/20260824/11619263/gobierno-constituira-mando-unico-dirigido-ministro-torres-gestionar-crisis-ceuta.html",
       "desc": "El vicepresidente Cuerpo promete una ampliación extraordinaria del plan de desarrollo económico diseñado para la ciudad en el 2022",
@@ -110,136 +240,6 @@
       "source": "La Vanguardia",
       "color": "#8e44ad",
       "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "Muere el conductor de un turismo tras chocar de frente contra un camión en As Neves (Pontevedra)",
-      "link": "https://www.abc.es/espana/galicia/muere-conductor-turismo-tras-chocar-frente-camion-20260824171135-nt.html",
-      "desc": "El conductor de un turismo ha fallecido este lunes como consecuencia de una colisión frontal contra un camión en el término municipal de As Neves (Pontevedra). El conductor del vehículo pesado implicado en el siniestro ha sufrido heridas de carácter leve. El a",
-      "date": "Mon, 24 Aug 2026 17:12:34 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Este no es un vídeo de un caso de acoso en Ceuta, es un fragmento de una película argelina",
-      "link": "https://www.lavanguardia.com/vida/verificacion/20260824/11619250/video-caso-acoso-ceuta-fragmento-pelicula-argelina.html",
-      "desc": "Las imágenes son un fragmento del largometraje de ficción 'Papicha' y se han difundido de manera engañosa para reforzar una falsa vinculación entre inmigración y delincuencia",
-      "date": "24 Aug 2026 17:12:14 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "El Gobierno aprueba un mando único para Ceuta casi un mes después de la crisis migratoria",
-      "link": "https://www.abc.es/espana/gobierno-aprueba-mando-unico-ceuta-mes-despues-20260824170506-nt.html",
-      "desc": "El vicepresidente primero y ministro de Economía, Comercio y Empresa, Carlos Cuerpo, ha anunciado este lunes la declaración de situación de interés de Seguridad Nacional en Ceuta y la creación de un mando único encabezado por el ministro Ángel Víctor Torres. E",
-      "date": "Mon, 24 Aug 2026 17:05:07 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Dos hombres son detenidos en Lucena por realizar gestos obscenos a dos menores",
-      "link": "https://www.abc.es/espana/andalucia/cordoba/dos-hombres-detenidos-lucena-realizar-gestos-obscenos-20260824170254-nts.html",
-      "desc": "La Policía Local de Lucena detuvo este domingo a dos hombres por realizar gestos y comentarios obscenos a dos menores de la localidad. El Ayuntamiento recibió sobre las 23.30 horas varios avisos de los vecinos alertando de la presencia de estos dos individuos ",
-      "date": "Mon, 24 Aug 2026 17:02:54 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "León XIV recibe en el Vaticano a un centenar de toledanos por el 45 aniversario de Marsodeto",
-      "link": "https://www.abc.es/espana/castilla-la-mancha/toledo/leon-xiv-recibe-vaticano-centenar-toledanos-aniversario-20260824170138-nt.html",
-      "desc": "El Papa León XIV ha recibido este lunes en una audiencia privada en el Vaticano a más de un centenar de personas de la provincia de Toledo, con motivo del 45 aniversario de Marsodeto , la Federación Provincial de Entidades Pro Personas con Discapacidad Intelec",
-      "date": "Mon, 24 Aug 2026 17:01:39 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "La «impotencia» de una explotación de Salamanca tras otro ataque de los lobos: cuatro cerdos y un ternero muertos",
-      "link": "https://www.abc.es/espana/castilla-leon/impotencia-explotacion-salamanca-tras-ataque-lobos-cuatro-20260824165159-nt.html",
-      "desc": "Cuatro ataques de lobo en lo que va de mes de agosto, con cuatro cerdos muertos y también un ternero fallecido , además de unos nueve puercos heridos. Es el balance que acumula una explotación ganadera en Villaseco de los Reyes, en la provincia de Salamanca, a",
-      "date": "Mon, 24 Aug 2026 16:51:59 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Fátima Pérez, oradora del homenaje a los 22 liberales: «El único delito de Los Coloraos se llamaba libertad»",
-      "link": "https://www.abc.es/espana/andalucia/almeria/fatima-perez-oradora-homenaje-liberales-unico-delito-20260824140008-nts.html",
-      "desc": "Este lunes se ha celebrado el acto homenaje por el 202 aniversario del fusilamiento de 'Los Coloraos' , conocidos como los Mártires de la Libertad, a los pies del monumento situado en la Plaza Vieja donde, desde el pasado 9 de octubre, se ubican los restos mor",
-      "date": "Mon, 24 Aug 2026 16:48:01 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Londres ayudará a Ucrania a fabricar misiles de largo alcance ante la escasez de Patriots",
-      "link": "https://www.lavanguardia.com/internacional/20260824/11619165/londres-ayudara-kyiv-fabricar-misiles-alcance-escasez-patriots.html",
-      "desc": "Burnham confirma en su primera coalición de voluntarios que compartirá la tecnología de los 'Storm Shadow'",
-      "date": "24 Aug 2026 16:46:31 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "Levantan el confinamiento de los vecinos de Gátova por el incendio de Segorbe y reabren la CV-25",
-      "link": "https://www.abc.es/espana/comunidad-valenciana/levantan-confinamiento-vecinos-gatova-incendio-segorbe-reabren-20260824164625-nt.html",
-      "desc": "La Generalitat ha levantado desde las 14.30 horas de este lunes el confinamiento de los vecinos de Gátova (Valencia), que permanecían en sus domicilios a causa del incendio forestal declarado la pasada semana en Segorbe (Castellón), ya estabilizado, según ha i",
-      "date": "Mon, 24 Aug 2026 16:46:25 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Intercaza trae a Córdoba la entrega de la decimoquinta edición de los premios 'Podenquero'",
-      "link": "https://www.abc.es/espana/andalucia/cordoba/intercaza-trae-cordoba-entrega-decimoquinta-edicion-premios-20260824163807-nts.html",
-      "desc": "Intercaza 2026 , feria cinegética impulsada por la Diputación de Córdoba que celebrará su vigésimo séptima edición, acogerá este año los premios 'Podenquero'. Se trata, según ha informado este lunes la institución provincial, de los galardones que organiza 'To",
-      "date": "Mon, 24 Aug 2026 16:38:08 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "El nuevo polideportivo del colegio Miguel Delibes de Valladolid estará listo en el curso 2027-2028",
-      "link": "https://www.abc.es/espana/castilla-leon/nuevo-polideportivo-colegio-miguel-delibes-valladolid-listo-20260824161632-nt.html",
-      "desc": "El polideportivo del Colegio de Educación Infantil y Primaria (CEIPP) Miguel Delibes de Valladolid cubrirá «en 14 meses» las necesidades del centro y del barrio de La Victoria, después de que este lunes se haya firmado el acta de replanteo con la que se da el ",
-      "date": "Mon, 24 Aug 2026 16:17:21 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Bolaños mete prisa al CGPJ y le dice cómo resolver la crisis judicial en Ceuta",
-      "link": "https://www.abc.es/espana/bolanos-mete-prisa-cgpj-dice-resolver-crisis-20260824145450-nt.html",
-      "desc": "El ministro de Justicia, Félix Bolaños, ha instado al Consejo General del Poder Judicial (CGPJ) a que haga ya su petición de refuerzo de magistrados para Ceuta por la crisis migratoria, una decisión que el órgano de gobierno de los jueces consideró necesario h",
-      "date": "Mon, 24 Aug 2026 16:04:54 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Dimite el concejal de Cultura de Almería tras dar positivo en un control de alcoholemia al salir de la Feria",
-      "link": "https://www.abc.es/espana/andalucia/almeria/dimite-concejal-cultura-almeria-tras-dar-positivo-20260824154100-nts.html",
-      "desc": "El concejal de Cultura y Educación del Ayuntamiento de Almería, Diego Cruz, ha anunciado su dimisión . El edil ha sido denunciado por un delito contra la seguridad vial al dar positivo en un control de alcoholemia la pasada madrugada cuando abandonaba el recin",
-      "date": "Mon, 24 Aug 2026 15:41:01 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
       "caso": "other"
     }
   ]
