@@ -1,7 +1,47 @@
 {
-  "updated": "2026-08-24T02:57:59Z",
+  "updated": "2026-08-24T04:39:07Z",
   "count": 24,
   "items": [
+    {
+      "title": "El diseño de virus con IA dispara las alarmas sobre la bioseguridad",
+      "link": "https://www.lavanguardia.com/vida/20260824/11618644/diseno-virus-ia-alerta-investigadores-sobre-bioseguridad.html",
+      "desc": "Una investigación logra crear 16 patógenos capaces de atacar con éxito una bacteria",
+      "date": "24 Aug 2026 06:00:00 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
+    {
+      "title": "¿Podría la IA llegar a tener conciencia?",
+      "link": "https://www.lavanguardia.com/tecnologia/20260824/11617299/ia-inteligencia-artificial-robots-humanoides.html",
+      "desc": "Otorgar derechos a las inteligencias artificiales sería como darles las llaves del castillo, les proporcionaría una justificación y una base para dominar a la humanidad",
+      "date": "24 Aug 2026 06:00:00 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
+    {
+      "title": "Esperando una respuesta",
+      "link": "https://www.lavanguardia.com/politica/20260824/11618623/esperando-respuesta.html",
+      "desc": "",
+      "date": "24 Aug 2026 06:00:00 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
+    {
+      "title": "El efecto Genovés",
+      "link": "https://www.lavanguardia.com/politica/20260824/11618621/efecto-genoves.html",
+      "desc": "",
+      "date": "24 Aug 2026 06:00:00 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
     {
       "title": "La Generalitat garantiza la continuidad de la subvención a la UCE, un foro independentista en el sur de Francia",
       "link": "https://www.abc.es/espana/cataluna/generalitat-garantiza-continuidad-subvencion-uce-foro-independentista-20260823015722-nt.html",
@@ -143,6 +183,16 @@
       "caso": "other"
     },
     {
+      "title": "Cursar bioterrorismo online",
+      "link": "https://www.lavanguardia.com/opinion/20260824/11618546/cursar-bioterrorismo-online.html",
+      "desc": "Supervisar la IA para contener su potencial apocalíptico debería ser la prioridad",
+      "date": "24 Aug 2026 00:00:00 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
+    {
       "title": "Raphinha, nueve y capitán, lidera la goleada del Barça ante el Elche",
       "link": "https://www.lavanguardia.com/deportes/futbol/20260823/11618674/raphinha-nueve-capitan-lidera-goleada-barca-elche.html",
       "desc": "El brasieño marca dos goles y los de Flick sentencian el partido con otro gol de Adeyemi y un doblete de Fermín&nbsp;",
@@ -190,56 +240,6 @@
       "source": "La Vanguardia",
       "color": "#8e44ad",
       "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "Muere un motorista en la colisión con un turismo en la provincia de León",
-      "link": "https://www.abc.es/espana/castilla-leon/muere-motorista-colision-turismo-provincia-leon-20260823203640-nt.html",
-      "desc": "Las carreteras se volvían a vestir de luto este domingo con la muerte de un motorista en un accidente de tráfico. Ocurría sobre las 18.15 horas en la carretera LE-5601, dentro de l término de Villaturiel , en la provincia de León. En ese momento, una llamada d",
-      "date": "Sun, 23 Aug 2026 20:36:40 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "La tregua de Don Lorenzo sigue en Córdoba: 31 grados para este lunes. ¡11 menos que hace una semana!",
-      "link": "https://www.abc.es/espana/andalucia/cordoba/tregua-don-lorenzo-sigue-cordoba-grados-lunes-20260823193544-nts.html",
-      "desc": "Las previsiones de la Agencia Estatal de Meteorología ( Aemet ) para la ciudad de Córdoba confirman la inesperada, inusual y larga tregua de Don Lorenzo en pleno mes de agosto . Sus previsiones son que durante toda la semana que está por arrancar -hay informac",
-      "date": "Sun, 23 Aug 2026 19:35:44 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Feijóo pide confinar a los inmigrantes del asalto a Ceuta por riesgo sanitario y Sanidad habla de medidas «desmesuradas»",
-      "link": "https://www.abc.es/espana/feijoo-pide-confinar-inmigrantes-asalto-ceuta-riesgo-20260823193030-nt.html",
-      "desc": "Nuevo choque entre el PP y el Gobierno, esta vez a cuenta de la situación sanitaria de Ceuta, que se ha convertido en una preocupación a medida que pasan los días desde el asalto masivo a la ciudad autónoma. Este mismo lunes, Sanidad ha convocado a las comunid",
-      "date": "Sun, 23 Aug 2026 19:30:31 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Alcaldes de la Costa Daurada piden reformar la vía del tren para evitar nuevas inundaciones",
-      "link": "https://www.lavanguardia.com/local/barcelona/20260823/11618633/alcaldes-costa-dourada-piden-reformar-tren-evitar-nuevas-inundaciones.html",
-      "desc": "Algunos turistas frenan sus vacaciones mientras que otros disfrutan de sus últimos días",
-      "date": "23 Aug 2026 19:29:54 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "Alicante, entre los 10 destinos «ideales» para nómadas digitales en España",
-      "link": "https://www.abc.es/espana/comunidad-valenciana/alicante/alicante-destinos-ideales-nomadas-digitales-espana-20260823185848-nt.html",
-      "desc": "Su clima mediterráneo, sus playas y su oferta gastronómica convierten a Alicante en una opción «especialmente atractiva para quienes quieren vivir y trabajar cerca del mar». Hasta ahí, los alicientes conocidos y casi tópicos de la ciudad como destino para los ",
-      "date": "Sun, 23 Aug 2026 18:58:48 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
       "caso": "other"
     }
   ]
