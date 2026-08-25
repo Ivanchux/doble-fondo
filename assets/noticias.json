@@ -1,7 +1,47 @@
 {
-  "updated": "2026-08-25T20:22:05Z",
+  "updated": "2026-08-25T22:20:29Z",
   "count": 24,
   "items": [
+    {
+      "title": "Un nuevo incendio en Collserola, en fase de estabilización, desaloja a los vecinos de Torre Baró",
+      "link": "https://www.lavanguardia.com/local/barcelona/20260826/11620033/nuevo-incendio-collserola-fase-estabilizacion-obliga-desalojar-vecinos-torre-baro.html",
+      "desc": "Las llamas han arrasado un perímetro de 35 hectáreas de matorral y arboleda",
+      "date": "26 Aug 2026 00:05:00 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
+    {
+      "title": "Alcaraz regresa a las pistas después de su larga ausencia formando pareja con Serena Williams",
+      "link": "https://www.lavanguardia.com/deportes/tenis/20260825/11620028/alcaraz-regresa-pistas-larga-ausencia-formando-pareja-serena-williams.html",
+      "desc": "El murciano ha estado recuperándose de la lesión de muñeca que sufrió en el Godó en abril",
+      "date": "25 Aug 2026 23:15:13 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
+    {
+      "title": "El Córdoba CF supera con apuros a la AD San José en un ensayo con  protagonismo de los menos habituales (1-2)",
+      "link": "https://www.abc.es/espana/andalucia/cordoba/cordoba-cf/cordoba-remonta-protagonismo-habituales-ensayo-ante-san-20260825222244-nts.html",
+      "desc": "El Córdoba CF se impuso a la AD San José (1-2), conjunto de Primera Andaluza, en un encuentro amistoso que sirvió a Iván Ania para dar minutos a los menos habituales. El conjunto blanquiverde tuvo que sudar más de lo esperado para sacar adelante la cita para a",
+      "date": "Tue, 25 Aug 2026 22:36:49 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Xavi sale, habla y disfruta en la universidad del fútbol: “Hemos hecho un reset tras salir del Barça”",
+      "link": "https://www.lavanguardia.com/deportes/futbol/20260825/11620016/xavi-entrevista-la-vanguardia-seleccionador-amsterdam-sale-habla-disfruta-universidad-futbol-hemos-hecho-reset-salir-barca.html",
+      "desc": "El seleccionador de Países Bajos se sienta con 'La Vanguardia' tras su presentación en Ámsterdam",
+      "date": "25 Aug 2026 22:30:00 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
     {
       "title": "Una gran bola de fuego cruza el cielo de Andalucía a 77.000 km/h",
       "link": "https://www.abc.es/espana/andalucia/gran-bola-fuego-cruza-cielo-andalucia-77000-20260825215710-nts.html",
@@ -200,46 +240,6 @@
       "source": "ABC",
       "color": "#c0392b",
       "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "El curso escolar arrancará en Galicia con 4.617 alumnos menos",
-      "link": "https://www.abc.es/espana/galicia/curso-galicia-arrancara-4617-alumnos-20260825184257-nt.html",
-      "desc": "La caída de la natalidad en Galicia, acentuada en la última década, se percibe bien en las aulas. Para este curso 2026/2027, que arranca el próximo 9 de septiembre, acudirán a las aulas de los centros escolares de la comunidad autónoma un total de 298.436 alum",
-      "date": "Tue, 25 Aug 2026 18:42:57 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "El justificante que las familias de Ceuta preparan para no llevar a sus hijos a la vuelta al cole",
-      "link": "https://www.abc.es/espana/justificante-familias-ceuta-preparan-llevar-hijos-vuelta-20260825183957-nt.html",
-      "desc": "Una inquietud ronda desde hace días la ciudad. Cuando se habla de inmigración en Ceuta, no hay conversación en la que no se nombre a la infancia, a los niños ceutís. Quedan dos semanas para el comienzo del curso escolar y ese momento de comprar rotuladores, lá",
-      "date": "Tue, 25 Aug 2026 18:39:58 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "El director de la CIA visita Moscú en un viaje lleno de misterio",
-      "link": "https://www.lavanguardia.com/internacional/20260825/11619944/el-director-de-la-cia-visita-moscu-en-una-viaje-lleno-de-misterio.html",
-      "desc": "Según los medios CBS y Axios, John Ratcliffe, jefe de la agencia de espionaje estadounidense, vuela a Moscú, pero los gobiernos de EE.UU. y Rusia no confirman el viaje de forma oficial",
-      "date": "25 Aug 2026 18:30:54 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "El Mago Pop visita la NASA para preparar su próximo espectáculo",
-      "link": "https://www.lavanguardia.com/cultura/20260825/11619940/mago-pop-visita-nasa-preparar-proximo-espectaculo.html",
-      "desc": "Antonio Díaz charló con los ingenieros del&nbsp;Johnson Space Center pensando en su proyecto de estadios",
-      "date": "25 Aug 2026 18:23:17 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
       "caso": "other"
     }
   ]
