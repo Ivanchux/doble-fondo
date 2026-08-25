@@ -1,7 +1,67 @@
 {
-  "updated": "2026-08-25T04:33:42Z",
+  "updated": "2026-08-25T06:37:22Z",
   "count": 24,
   "items": [
+    {
+      "title": "Turismo de pantalla: «Un vídeo viral atrae como antes años en portadas de revistas»",
+      "link": "https://www.abc.es/espana/comunidad-valenciana/turismo-pantalla-video-viral-atrae-anos-portadas-20260825200048-nt.html",
+      "desc": "Turismo de pantalla o 'screen tourism', una nueva lógica para la promoción de pueblos -incluso desconocidos- con el poderoso potencial de atracción de visitantes del rodaje allí de películas o series, aunque también con riesgos y un impacto. Un estudio de la U",
+      "date": "Tue, 25 Aug 2026 07:19:25 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Horario y dónde ver en directo por televisión la Tomatina de Buñol 2026",
+      "link": "https://www.abc.es/espana/comunidad-valenciana/horario-ver-directo-television-tomatina-bunol-2026-20260825121205-nt.html",
+      "desc": "La Tomatina de Buñol (Valencia) se podrá seguir este año por primera vez en directo en RTVE. La televisión pública emitirá la batalla de tomates más popular de todo el mundo este miércoles 26 de agosto a partir de las 11.40 horas en un programa especial. 'Maña",
+      "date": "Tue, 25 Aug 2026 07:18:19 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "La Tomatina de Buñol 2026: horario, precio de las entradas y cómo llegar",
+      "link": "https://www.abc.es/espana/comunidad-valenciana/tomatina-bunol-2026-horario-precio-entradas-llegar-20260825120043-nt.html",
+      "desc": "La localidad valenciana de Buñol se prepara para vivir la Tomatina este miércoles 26 de agosto, una de las tradiciones más singulares del verano en España, cuya nueva edición congregará a 22.000 personas que se lanzarán hasta 150.000 kilos de tomate en apenas ",
+      "date": "Tue, 25 Aug 2026 07:10:17 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "OCON-Sur se desmanteló en pleno auge de la cocaína en Andalucía",
+      "link": "https://www.abc.es/espana/andalucia/oconsur-desmantelo-pleno-auge-cocaina-andalucia-20260825070216-nts.html",
+      "desc": "Los datos del Ministerio de Interior muestran una clara tendencia de auge de la cocaína en los últimos seis años. El balance desde 2020 apunta a que esta sustancia ha crecido en Andalucía un 108% . La disolución de OCON-Sur se produjo en pleno auge de la cocaí",
+      "date": "Tue, 25 Aug 2026 07:02:16 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Dónde ir de fiesta este martes 25 de agosto en la provincia de Toledo",
+      "link": "https://www.abc.es/espana/castilla-la-mancha/toledo/pueblos/fiesta-martes-agosto-provincia-toledo-20260825070000-nt.html",
+      "desc": "Orgaz -A las 14,30 horas: sesión vermú con dj Karmi. -A las 23,30 horas: feria en familia con el saxofonista Ismael Dorado. -A la 1,30 horas: verbena con la orquesta 'Bahía Show '. Navahermosa -A las 8,00 horas: vaquilla del aguardiente. -A las 9,00 horas: des",
+      "date": "Tue, 25 Aug 2026 07:00:09 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Las playas que se han puesto de moda este verano en España",
+      "link": "https://www.lavanguardia.com/magazine/viajes/20260825/11618939/playas-han-puesto-moda-verano-espana.html",
+      "desc": "Calas escondidas, playas salvajes y rincones mediterráneos que este verano han conquistado a viajeros y redes sociales",
+      "date": "25 Aug 2026 06:23:02 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
     {
       "title": "Fiestas San Sebastián de los Reyes 2026: programa, actividades, horarios y conciertos gratis",
       "link": "https://www.abc.es/espana/madrid/fiestas-san-sebastian-reyes-2026-programa-actividades-20260825060000-nt.html",
@@ -83,6 +143,56 @@
       "caso": "other"
     },
     {
+      "title": "Julián Álvarez se gana al Barça con su resiliencia",
+      "link": "https://www.lavanguardia.com/deportes/fc-barcelona/20260825/11619346/julian-alvarez-gana-barca-resiliencia.html",
+      "desc": "El jugador argentino está asumiendo muchos riesgos para forzar su salida del Atlético",
+      "date": "25 Aug 2026 06:00:00 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
+    {
+      "title": "Pesajes, medidas y controles: así revisa el Zoo de Londres a sus animales",
+      "link": "https://www.lavanguardia.com/mascotas/20260825/11619352/zoo-londres-animales.html",
+      "desc": "La información obtenida durante estos controles también se comparte con otros zoológicos y centros de conservación",
+      "date": "25 Aug 2026 06:00:00 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
+    {
+      "title": "La ruta brutal de Chéjov hacia Sajalín",
+      "link": "https://www.lavanguardia.com/cultura/20260825/11619206/ruta-brutal-chejov-sajalin.html",
+      "desc": "Enfermo de tuberculosis, viajó en 1890 a la remota isla del Pacífico para estudiar la vida en la colonia penitenciaria rusa",
+      "date": "25 Aug 2026 06:00:00 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
+    {
+      "title": "¿Qué significa hoy ser un ‘buen’ padre? El reto de la nueva paternidad sin modelos",
+      "link": "https://www.lavanguardia.com/vivo/mamas-y-papas/20260825/11618902/que-significa-hoy-buen-padre-reto-nueva-paternidad-modelos.html",
+      "desc": "Cada vez más hombres desean ocupar un lugar activo y corresponsable en la crianza, pero ese cambio en las expectativas todavía no se ha traducido en un reparto igualitario de los cuidados",
+      "date": "25 Aug 2026 06:00:00 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
+    {
+      "title": "La picadora de carne que no sirvió de vacuna",
+      "link": "https://www.lavanguardia.com/local/barcelona/20260825/11617867/picadora-carne-sirvio-vacuna.html",
+      "desc": "Trincheras, paisaje lunar a causa de los cráteres que provocó la artillería pesada y huesos de los centenares de miles de soldados muertos. Verdún es el recuerdo de una gran carnicería",
+      "date": "25 Aug 2026 06:00:00 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
+    {
       "title": "El antecedente que deja en evidencia a Sánchez",
       "link": "https://www.abc.es/espana/antecedente-deja-evidencia-sanchez-20260824015300-nt.html",
       "desc": "El jueves 24 de febrero de 2022, cuando, de madrugada, Rusia invadió Ucrania, Pedro Sánchez convocó de urgencia al Consejo de Seguridad Nacional para abordar el conflicto armado que se avecinaba y que todavía dura a día de hoy. El encuentro se celebró a instan",
@@ -130,116 +240,6 @@
       "source": "ABC",
       "color": "#c0392b",
       "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Detenido otro inmigrante en Ceuta por agredir a tres policías que le pillaron consumiendo droga",
-      "link": "https://www.abc.es/espana/detenido-inmigrante-ceuta-agredir-tres-policias-pillaron-20260825013107-nt.html",
-      "desc": "Un nuevo episodio violento tiene como protagonista a un inmigrante que accedió a España en la avalancha de Ceuta y como víctimas a tres agentes de la Policía Nacional . ABC ha tenido acceso al atestado de una nueva agresión a funcionarios que forman parte del ",
-      "date": "Tue, 25 Aug 2026 01:31:07 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "La guerra entre Marlaska y Robles empuja a Sánchez a dejar el mando único en manos del ministro de Política Territorial",
-      "link": "https://www.abc.es/espana/guerra-marlaska-robles-empuja-sanchez-dejar-mando-20260825013043-nt.html",
-      "desc": "El presidente del Gobierno, Pedro Sánchez, entregará este miércoles el mando único de la crisis en Ceuta al ministro de Política Territorial y Memoria Democrática, Ángel Víctor Torres , aunque su departamento es el que menos peso tiene de entre los implicados ",
-      "date": "Tue, 25 Aug 2026 01:30:43 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Ángel Víctor Torres, el ministro con un máster en gestión de crisis",
-      "link": "https://www.abc.es/espana/angel-victor-torres-ministro-master-gestion-crisis-20260825013035-nt.html",
-      "desc": "Tan «discreto» como «eficaz», dicen de un «tímido» Ángel Víctor Torres, que llegó a ser ministro de Política Territorial y Memoria Democrática tras quedarse sin la presidencia del Gobierno de Canarias, que ocupó entre 2019 y 2023. Al frente de una cartera más ",
-      "date": "Tue, 25 Aug 2026 01:30:35 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Mando único y Consejo de Seguridad Nacional: el Gobierno reacciona un mes después",
-      "link": "https://www.abc.es/espana/gobierno-trata-recuperar-iniciativa-ceuta-mes-despues-20260825013013-nt.html",
-      "desc": "Casi un mes —26 días exactamente— ha tenido que pasar para que el Gobierno haya decidido dar un paso al frente e intentar tomar las riendas de la crisis generada por la avalancha masiva de personas irregulares que sufrió Ceuta a finales del mes de julio. Tras ",
-      "date": "Tue, 25 Aug 2026 01:30:13 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Avalancha de comparecencias de ministros en el Congreso una vez disfrutadas sus vacaciones",
-      "link": "https://www.abc.es/espana/avalancha-comparecencias-ministros-congreso-vez-disfrutadas-vacaciones-20260824012951-nt.html",
-      "desc": "La avalancha de inmigrantes que traspasó la frontera de Ceuta con Marruecos hace más de tres semanas ha marcado la conversación política y pública de todo el mes de agosto. Sin embargo, el debate no ha llegado al Parlamento hasta esta semana, cuando los minist",
-      "date": "Tue, 25 Aug 2026 01:29:51 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "El asentamiento de chabolas para mano de obra barata e ilegal en un parque de Carabanchel",
-      "link": "https://www.abc.es/espana/madrid/echado-curriculums-asentamiento-mayoria-joven-crece-carabanchel-20260821012137-nt.html",
-      "desc": "Acompañan el recorrido toda suerte de especies arbóreas. Pinos, cipreses, cedros y chopos, entre otros tantos, otorgan al caminante una agradecida sombra. Además de las arboledas que rodean senderos de tierra, hay en su vasta extensión parques para niños y esp",
-      "date": "Tue, 25 Aug 2026 01:21:37 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Las garrapatas ya no mueren de frío y tienen más fauna a la que chupar la sangre",
-      "link": "https://www.abc.es/espana/castilla-leon/garrapatas-mueren-frio-fauna-chupar-sangre-20260820011937-nt.html",
-      "desc": "«Las garrapatas, inevitablemente, van a estar ahí». Siempre lo han hecho, si bien «es verdad que este cambio de temperatura está determinando cierta deslocalización». Es la advertencia a modo de reflejo de la realidad presente y futura que lanza Rufino Álamo, ",
-      "date": "Tue, 25 Aug 2026 01:19:37 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Las primeras vueltas de la F3 en el Madring disparan las quejas vecinales",
-      "link": "https://www.abc.es/espana/madrid/primeras-vueltas-madring-disparan-quejas-vecinales-20260824011526-nt.html",
-      "desc": "El rugido de los monoplazas ya forma parte del paisaje sonoro de los barrios cercanos al Madring . La Fórmula 3 ha comenzado este lunes a rodar por primera vez en el circuito madrileño, que acogerá el Gran Premio de España de Fórmula 1 del 11 al 13 de septiemb",
-      "date": "Tue, 25 Aug 2026 01:15:26 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "'Canal Baila', la temporada de otoño arranca danzando del Teatro del Canal",
-      "link": "https://www.abc.es/espana/madrid/canal-baila-temporada-otono-arranca-danzando-20260825011445-nt.html",
-      "desc": "El apoyo a la creación coreográfica contemporánea será el motor del arranque de la nueva temporada de Teatros del Canal, que a partir del 3 de septiembre acogerá el ciclo 'Canal Baila' , con un total de once estrenos absolutos de danza española, contemporánea ",
-      "date": "Tue, 25 Aug 2026 01:14:45 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "El Chelsea de Xabi Alonso se impone al Fulham de Arbeloa en la Premier League",
-      "link": "https://www.lavanguardia.com/deportes/futbol/20260825/11619536/chelsea-xabi-alonso-impone-fulham-arbeloa-premier-league.html",
-      "desc": "Enzo Fernández jugó quince minutos y fue abucheado en todo momento",
-      "date": "25 Aug 2026 00:35:41 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "La era ‘chao pescao’",
-      "link": "https://www.lavanguardia.com/opinion/20260825/11619341/chao-pescao-ayuso-feijoo-atico-chamberi-lujo.html",
-      "desc": "",
-      "date": "25 Aug 2026 00:00:00 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
       "caso": "other"
     }
   ]
