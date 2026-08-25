@@ -1,7 +1,87 @@
 {
-  "updated": "2026-08-25T02:53:28Z",
+  "updated": "2026-08-25T04:33:42Z",
   "count": 24,
   "items": [
+    {
+      "title": "Fiestas San Sebastián de los Reyes 2026: programa, actividades, horarios y conciertos gratis",
+      "link": "https://www.abc.es/espana/madrid/fiestas-san-sebastian-reyes-2026-programa-actividades-20260825060000-nt.html",
+      "desc": "Cada final de agosto, San Sebastián de los Reyes se prepara para vivir uno de los momentos más esperados de todo el año: sus tradicionales fiestas en honor al Santísimo Cristo de los Remedios . La ilusión vuelve a adueñarse de cada rincón del municipio, llenan",
+      "date": "Tue, 25 Aug 2026 06:00:03 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "El Gobierno crea el mando único para Ceuta un mes después del asalto",
+      "link": "https://www.lavanguardia.com/politica/20260825/11619322/mes-salto-masivo-ceuta-tendra-hoy-autoridad-unica.html",
+      "desc": "El Consejo de Ministros nombrará hoy como responsable a Víctor Ángel Torres",
+      "date": "25 Aug 2026 06:00:00 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
+    {
+      "title": "El PP exige repatriaciones: “La política social de Marruecos debe hacerla Rabat”",
+      "link": "https://www.lavanguardia.com/politica/20260825/11619335/pp-exige-repatriaciones-politica-social-marruecos-debe-hacerla-rabat.html",
+      "desc": "La dirección de Génova insiste en incluir a menores y enfermos en el retorno",
+      "date": "25 Aug 2026 06:00:00 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
+    {
+      "title": "Once causas judiciales para rematar el año político",
+      "link": "https://www.lavanguardia.com/politica/20260825/11619295/once-causas-judiciales-rematar-ano-politico.html",
+      "desc": "Tras el verano se conocerán las sentencias de los casos Pujol y Kitchen mientras prosiguen las investigaciones sobre Leire Díez y Rodríguez Zapatero y arranca el primer juicio del llamado caso Lezo",
+      "date": "25 Aug 2026 06:00:00 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "both"
+    },
+    {
+      "title": "Ulrich Siegmund, el nuevo rostro de la ultraderecha alemana",
+      "link": "https://www.lavanguardia.com/internacional/20260825/11619331/ulrich-siegmund-nuevo-rostro-ultraderecha-alemania-afd-sajonia-anhalt.html",
+      "desc": "El partido Alternativa para Alemania (AfD) roza la mayoría absoluta en los sondeos de las elecciones de Sajonia-Anhalt y aspira a gobernar",
+      "date": "25 Aug 2026 06:00:00 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
+    {
+      "title": "Más enfermedades transmitidas por mosquitos elevan la alerta en Europa",
+      "link": "https://www.lavanguardia.com/vida/20260825/11619333/mas-enfermedades-transmitidas-mosquitos-elevan-alerta-europa.html",
+      "desc": "El cambio climático expande el alcance del virus del Nilo, que llega a Países Bajos",
+      "date": "25 Aug 2026 06:00:00 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
+    {
+      "title": "Cercanías estrena trenes en Madrid, Rodalies espera hacerlo a final de año",
+      "link": "https://www.lavanguardia.com/local/barcelona/20260825/11619343/estreno-nuevos-trenes-cercanias-madrid-rodalies-espera-final-ano.html",
+      "desc": "Los nuevos convoyes fabricados por Stadler empiezan a prestar servicio en la capital mientras los de Alstom siguen pendientes del permiso de seguridad ferroviaria",
+      "date": "25 Aug 2026 06:00:00 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
+    {
+      "title": "El paraguas de sol deja de ser una excentricidad asiática y se convierte en accesorio del verano",
+      "link": "https://www.lavanguardia.com/natural/20260825/11619013/sunbrella-conquista-europa-paraguas-sol-deja-excentricidad-asiatica-convierte-accesorio-verano.html",
+      "desc": "El mercado del paraguas solar superó los 1.600 millones de dólares en 2025 y crece un 7% anual: la investigación científica confirma que reduce hasta 10 grados la temperatura radiante",
+      "date": "25 Aug 2026 06:00:00 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
     {
       "title": "El antecedente que deja en evidencia a Sánchez",
       "link": "https://www.abc.es/espana/antecedente-deja-evidencia-sanchez-20260824015300-nt.html",
@@ -143,100 +223,20 @@
       "caso": "other"
     },
     {
-      "title": "António Costa, evacuado a un refugio en Kyiv tras sonar las alarmas por un posible ataque ruso",
-      "link": "https://www.lavanguardia.com/internacional/20260824/11619379/antonio-costa-evacuado-refugio-kyiv-sonar-alarmas-posible-ataque-ruso.html",
-      "desc": "El presidente del Consejo Europeo coincide con el presidente finlandés en el garaje de un hotel por la amenaza de misiles balísticos",
-      "date": "24 Aug 2026 22:48:15 +0200",
+      "title": "El Chelsea de Xabi Alonso se impone al Fulham de Arbeloa en la Premier League",
+      "link": "https://www.lavanguardia.com/deportes/futbol/20260825/11619536/chelsea-xabi-alonso-impone-fulham-arbeloa-premier-league.html",
+      "desc": "Enzo Fernández jugó quince minutos y fue abucheado en todo momento",
+      "date": "25 Aug 2026 00:35:41 +0200",
       "source": "La Vanguardia",
       "color": "#8e44ad",
       "feedId": "LaVanguardia",
       "caso": "other"
     },
     {
-      "title": "Activada la emergencia por el incendio en Las Tres Villas, en Almería, con ocho confinados y diez alejados",
-      "link": "https://www.abc.es/espana/andalucia/almeria/activada-emergencia-incendio-tres-villas-almeria-ocho-20260824214824-nts.html",
-      "desc": "El consejero de Presidencia, Sanidad y Emergencias y director del Plan de Emergencias por Incendios Forestales de Andalucía (Plan Infoca), Antonio Sanz, ha activado la fase de emergencia, situación operativa 1, ante la evolución del incendio declarado este lun",
-      "date": "Mon, 24 Aug 2026 21:48:52 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Marroquíes Bajos: el futuro parque arqueológico que rescata 6.000 años de historia de Jaén",
-      "link": "https://www.abc.es/espana/andalucia/jaen/marroquies-bajos-futuro-parque-arqueologico-rescata-6000-20260822134425-nts.html",
-      "desc": "La importancia del patrimonio histórico-artístico que comprende el yacimiento arqueológico de Marroquíes Bajos es impresionante no sólo por la cantidad de hallazgos que atesora sino por las diferentes civilizaciones que escogieron la zona para asentarse: desde",
-      "date": "Mon, 24 Aug 2026 21:45:40 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "El reparto de comida a los inmigrantes en Ceuta: «Cada día sois más y no hay para todos»",
-      "link": "https://www.abc.es/espana/reparto-comida-inmigrantes-trampolin-20260824205425-nt.html",
-      "desc": "Una treintena se aísla de los miles que, en fila, recogen su bolsa. Las miran, las piden, se llevan una mano a la boca para mostrar sin palabras que tienen hambre. «Cada día sois más, no da para todos, es que no da», trata de explicarles uno de los policías de",
-      "date": "Mon, 24 Aug 2026 20:54:25 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "El Ayuntamiento de Córdoba redacta el proyecto para intervenir en la Torre de la Malmuerta y frenar su deterioro",
-      "link": "https://www.abc.es/espana/andalucia/cordoba/ayuntamiento-cordoba-redacta-proyecto-intervenir-torre-malmuerta-20260824205334-nts.html",
-      "desc": "El Ayuntamiento de Córdoba está redactando un proyecto de restauración de la T orre de la Malmuerta , monumento del siglo XV que se encuentra deteriorado . Así se recoge en una respuesta de la Oficina del Casco Histórico de la Gerencia Municipal de Urbanismo (",
-      "date": "Mon, 24 Aug 2026 20:53:34 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Muere un trabajador de mantenimiento de barcos en unas obras del Puerto de Valencia",
-      "link": "https://www.abc.es/espana/comunidad-valenciana/muere-trabajador-mantenimiento-barco-obras-puerto-valencia-20260824201607-nt.html",
-      "desc": "Un trabajador ha muerto este lunes en un accidente durante las tareas de mantenimiento de una embarcación en el Puerto de Valencia, según han confirmado fuentes de la investigación. Al parecer, ha sufrido una caída en una zona en obras. La edad de la víctima p",
-      "date": "Mon, 24 Aug 2026 20:18:38 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "La primera playa nudista andaluza proclama su rechazo a los 'textiles'",
-      "link": "https://www.abc.es/espana/andalucia/granada/playa-granadina-cantarrijan-reivindica-esencia-nudista-20260824151337-nts.html",
-      "desc": "La de Cantarriján fue la primera playa andaluza declarada oficialmente nudista , cosa que ocurrió en 1979. Aunque desde los años sesenta, al estar apartada del mundanal ruido, había ya gente que la frecuentaba sin bañadores. Ahora está amenazada por éstos, per",
-      "date": "Mon, 24 Aug 2026 20:17:24 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "EE.UU. amenaza con usar “todo el alcance” de su poder contra los países con vínculos con Irán",
-      "link": "https://www.lavanguardia.com/internacional/20260824/11619326/ee-uu-amenaza-alcance-pais-mantenga-vinculos-iran.html",
-      "desc": "El secretario del Tesoro, Scott Bessent, anuncia sanciones secundarias contra todos los países y entidades “facilitadoras” del régimen iraní en el mundo, incluida China",
-      "date": "24 Aug 2026 19:41:12 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "'Dragon Ball Z' tendrá un parque temático en las cercanías de París",
-      "link": "https://www.lavanguardia.com/economia/20260824/11619339/dragon-ball-z-tendra-paruqe-tematico-cercanias-paris.html",
-      "desc": "El Elíseo confirmó la inversión durante la visita del príncipe heredero saudita Mohammed bin Salman a la capital francesa",
-      "date": "24 Aug 2026 19:35:49 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "Una fuerte tormenta con granizo deja calles inundadas en Tarragona",
-      "link": "https://www.lavanguardia.com/local/catalunya/20260824/11619325/bombers-reciben-mas-centenar-avisos-temporal-azota-suroeste-catalunya.html",
-      "desc": "Protección Civil finaliza el aviso por acumulaciones de más de 60 l/m² en 3 horas en el Baix Camp y el Tarragonès",
-      "date": "24 Aug 2026 19:06:28 +0200",
+      "title": "La era ‘chao pescao’",
+      "link": "https://www.lavanguardia.com/opinion/20260825/11619341/chao-pescao-ayuso-feijoo-atico-chamberi-lujo.html",
+      "desc": "",
+      "date": "25 Aug 2026 00:00:00 +0200",
       "source": "La Vanguardia",
       "color": "#8e44ad",
       "feedId": "LaVanguardia",
