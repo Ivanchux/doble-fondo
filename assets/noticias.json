@@ -1,7 +1,57 @@
 {
-  "updated": "2026-08-25T18:32:29Z",
+  "updated": "2026-08-25T20:22:05Z",
   "count": 24,
   "items": [
+    {
+      "title": "Una gran bola de fuego cruza el cielo de Andalucía a 77.000 km/h",
+      "link": "https://www.abc.es/espana/andalucia/gran-bola-fuego-cruza-cielo-andalucia-77000-20260825215710-nts.html",
+      "desc": "Un resto de asteroide incandescente atravesó el cielo sobre el Mar de Alborán, entre el sur de la península ibérica y el norte de África, durante la madrugada del pasado domingo a una velocidad cercana a los 77.000 kilómetros por hora. El fenómeno, registrado ",
+      "date": "Tue, 25 Aug 2026 22:00:55 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "A prisión dos hombres por apuñalar a otro en Salamanca y enviarlo a la UCI",
+      "link": "https://www.abc.es/espana/castilla-leon/prision-dos-hombres-apunalar-salamanca-enviarlo-uci-20260825210447-nt.html",
+      "desc": "Prisión provisional . Es lo decretado por la autoridad judicial para dos varones detenidos por la Policía Nacional de Salamanca como presuntos autores de un delito de lesiones graves , tras una agresión en la que un hombre resultó herido de gravedad por arma b",
+      "date": "Tue, 25 Aug 2026 21:04:47 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Un incendio forestal en Nerja moviliza ocho medios aéreos y 80 bomberos",
+      "link": "https://www.abc.es/espana/andalucia/malaga/incendio-forestal-nerja-moviliza-ocho-medios-aereos-20260825202628-nts.html",
+      "desc": "Efectivos del Plan Infoca trabajan para sofocar un incendio forestal declarado este martes en el paraje Arroyo de la Miel, en el municipio malagueño de Nerja , donde se han desplegado hasta ocho medios aéreos y más de 80 medios terrestres. Según ha informado e",
+      "date": "Tue, 25 Aug 2026 20:26:29 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "UGT denuncia la agresión a una de sus trabajadoras en León al grito de «¡putas!, ¡zorras!»",
+      "link": "https://www.abc.es/espana/castilla-leon/ugt-denuncia-agresion-trabajadoras-leon-grito-putas-20260825202606-nt.html",
+      "desc": "La Unión General de los Trabajadores de León denunciaba este martes que una de sus trabajadoras resultó «agredida física y verbalmente» en plena calle de la capital leonesa, ante lo que el sindicato anunció que presentará una denuncia ante los tribunales por u",
+      "date": "Tue, 25 Aug 2026 20:26:06 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Fallece a los 80 años Dolly Parton, la reina del country, estrella de Hollywood y sonrisa global",
+      "link": "https://www.lavanguardia.com/cultura/20260825/11619993/fallece-80-anos-dolly-parton-reina-country-estrella-hollywood-sonrisa-global.html",
+      "desc": "Representante de una de esas grandes historias de EE.UU., esta mujer prodigiosa se convirtió en un ícono partiendo desde la pobreza",
+      "date": "25 Aug 2026 20:22:12 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
     {
       "title": "El PSOE de Melilla rechaza una declaración que defiende la españolidad de Ceuta y Melilla",
       "link": "https://www.abc.es/espana/psoe-melilla-rechaza-declaracion-defiende-espanolidad-ceuta-20260825202030-nt.html",
@@ -135,7 +185,7 @@
     {
       "title": "Dos barrios de la ciudad de Barcelona confinados y 35 vecinos desalojados por un incendio en Collserola",
       "link": "https://www.abc.es/espana/cataluna/dos-barrios-ciudad-barcelona-confinados-incendio-collserola-20260825185007-nt.html",
-      "desc": "El Ayuntamiento de Barcelona ha confinado los barrios de Torre Baró y Ciutat Meridiana para facilitar los trabajos de extinción y proteger a los vecinos ante el incendio declarado este martes por la tarde en el norte de Collserola. El fuego, que afecta a una z",
+      "desc": "El Ayuntamiento de Barcelona ha confinado los barrios de Torre Baró y Ciutat Meridiana para facilitar los trabajos de extinción y proteger a los vecinos ante el incendio declarado este martes por la tarde en el norte de Collserola. El fuego ha obligado a movil",
       "date": "Tue, 25 Aug 2026 18:50:07 +0200",
       "source": "ABC",
       "color": "#c0392b",
@@ -173,26 +223,6 @@
       "caso": "other"
     },
     {
-      "title": "Un agosto de pérdidas para el comercio de Ceuta: «Estoy facturando 40 euros al día cuando antes hacía 700»",
-      "link": "https://www.abc.es/espana/agosto-perdidas-comercio-ceuta-facturando-euros-dia-20260825183854-nt.html",
-      "desc": "Recuerdan en el mercado central de Ceuta el día de la avalancha migratoria. Acudieron a él los comerciantes pero las puertas cerraron, a excepción de una, y nadie pensó que estuviera abierto. Era indiferente, porque tampoco nadie se aventuró a un exterior abar",
-      "date": "Tue, 25 Aug 2026 18:38:54 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "El campo urge ayudas directas para poder seguir con la actividad «ante la peor situación» de su historia",
-      "link": "https://www.abc.es/espana/castilla-leon/campo-urge-ayudas-directas-ante-peor-situacion-20260825183440-nt.html",
-      "desc": "Las organizaciones agrarias de Castilla y León Asaja, Alianza UPA-COAG y UCCL han reclamado este martes ayudas directas de 150 millones a la Junta y han recalcado que este jueves se manifestarán a las 11.00 horas frente a la Presidencia del Gobierno autonómico",
-      "date": "Tue, 25 Aug 2026 18:34:40 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
       "title": "El director de la CIA visita Moscú en un viaje lleno de misterio",
       "link": "https://www.lavanguardia.com/internacional/20260825/11619944/el-director-de-la-cia-visita-moscu-en-una-viaje-lleno-de-misterio.html",
       "desc": "Según los medios CBS y Axios, John Ratcliffe, jefe de la agencia de espionaje estadounidense, vuela a Moscú, pero los gobiernos de EE.UU. y Rusia no confirman el viaje de forma oficial",
@@ -203,40 +233,10 @@
       "caso": "other"
     },
     {
-      "title": "Desde el púlpito, contra Sánchez: «Los socialistas viejos le odian porque se está cargando el partido»",
-      "link": "https://www.abc.es/espana/castilla-la-mancha/pulpito-sanchez-socialistas-viejos-odian-cargando-partido-20260825182854-nt.html",
-      "desc": "El sacerdote Emilio Montes, conocido como el cura de Valdepeñas, ha aprovechado su homilía durante la celebración de la Hermandad de Misericordia y Palma para pronunciarse este fin de semana sobre la situación del PSOE y cuestionar el liderazgo de Pedro Sánche",
-      "date": "Tue, 25 Aug 2026 18:28:54 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
       "title": "El Mago Pop visita la NASA para preparar su próximo espectáculo",
       "link": "https://www.lavanguardia.com/cultura/20260825/11619940/mago-pop-visita-nasa-preparar-proximo-espectaculo.html",
       "desc": "Antonio Díaz charló con los ingenieros del&nbsp;Johnson Space Center pensando en su proyecto de estadios",
       "date": "25 Aug 2026 18:23:17 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "A prisión 22 años por asesinar de 18 cuchilladas a su expareja por celos",
-      "link": "https://www.abc.es/espana/comunidad-valenciana/alicante/prision-anos-asesinar-cuchilladas-expareja-celos-20260825182213-nt.html",
-      "desc": "La sala de lo Civil y Penal del Tribunal Superior de Justicia de la Comunitat Valenciana (TSJCV) ha confirmado la condena de 22 años y medio de prisión impuesta por el presidente del tribunal del jurado de la Audiencia de Alicante a un hombre que asesinó de 18",
-      "date": "Tue, 25 Aug 2026 18:22:13 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Canadá rompe la negociación comercial con EE.UU. porque Trump ataca al idioma francés",
-      "link": "https://www.lavanguardia.com/internacional/20260825/11619937/canada-rompe-negociacion-comercial-ee-uu-trump-ataca-idioma-frances.html",
-      "desc": "El primer ministro Mark Carney sostiene que ir contra la cultura francesa es una línea roja que no se puede traspasar al aceptar las condiciones que Washington quiere imponer, mientras que la Casa Blanca niega ese intento",
-      "date": "25 Aug 2026 18:21:58 +0200",
       "source": "La Vanguardia",
       "color": "#8e44ad",
       "feedId": "LaVanguardia",
