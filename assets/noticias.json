@@ -1,7 +1,207 @@
 {
-  "updated": "2026-08-26T12:40:45Z",
+  "updated": "2026-08-26T14:38:42Z",
   "count": 24,
   "items": [
+    {
+      "title": "Agreden a un sanitario en un centro médico de Pontevedra",
+      "link": "https://www.abc.es/espana/galicia/agreden-sanitario-centro-medico-pontevedra-20260826162045-nt.html",
+      "desc": "El gerente del área sanitaria, José Flores, ha condenado la agresión que se produjo el domingo pasado en el centro de salud de A Parda (Pontevedra) por parte de un paciente a un facultativo del Punto de Atención Continuada (PAC). «Es incomprensible que tengamo",
+      "date": "Wed, 26 Aug 2026 16:20:46 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Carlos Cuerpo se alinea con Marlaska: «De haber previsto lo de Ceuta, se habrían tomado medidas»",
+      "link": "https://www.abc.es/espana/andalucia/granada/carlos-cuerpo-alinea-marlaska-haber-previsto-ceuta-20260826161605-nts.html",
+      "desc": "El ministro del Interior, Fernando García-Marlaska, dijo una cosa. La titular de Defensa, Margarita Robles, otra distinta. Pero para el vicepresidente primero del Gobierno, Carlos Cuerpo, ambas versiones son perfectamente compatibles. En Granada, donde este mi",
+      "date": "Wed, 26 Aug 2026 16:16:06 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Cataluña prueba cámaras con IA en sus carreteras: permite ver incluso si tienes el móvil en las piernas",
+      "link": "https://www.abc.es/espana/cataluna/cataluna-prueba-camaras-ia-carreteras-permite-ver-20260826155153-nt.html",
+      "desc": "Las distracciones al volante son una de las principales causas de siniestralidad en las carreteras españolas, y el teléfono móvil ocupa un lugar destacado entre ellas. Durante años, la DGT ha utilizado diferentes sistemas para detectarlas, aunque comprobar qué",
+      "date": "Wed, 26 Aug 2026 15:51:54 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "La Justicia rechaza las cautelares solicitadas por una asociación ecologista para frenar la F1 de Madrid",
+      "link": "https://www.abc.es/espana/madrid/justicia-rechaza-cautelares-solicitadas-asociacion-ecologista-frenar-20260826154619-nt.html",
+      "desc": "El Tribunal de Instancia número 18 de Madrid ha denegado las medidas cautelares solicitadas por una asociación que pedían suspensión de la licencia del Gran Premio de Fórmula 1 que incluye la ejecución de instalaciones en el circuito antes de que se resuelva l",
+      "date": "Wed, 26 Aug 2026 15:46:20 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Detienen al conductor que atropelló mortalmente a un joven soldado de Palma del Río en la A-4 y se fugó",
+      "link": "https://www.abc.es/espana/andalucia/cordoba/detienen-conductor-atropello-mortalmente-joven-soldado-palma-20260826154327-nts.html",
+      "desc": "La Guardia Civil ha informado este miércoles, en un comunicado, de que ha detenido al conductor que el pasado 18 de agosto atropelló mortalmente a un joven de Palma del Río -estaba cambiando la rueda de su vehículo- en la A-4, a la altura de Carmona. Dicho con",
+      "date": "Wed, 26 Aug 2026 15:44:02 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Page arremete contra la gestión «insuficiente» del Gobierno en Ceuta: «Lo piensa todo el mundo»",
+      "link": "https://www.abc.es/espana/page-arremete-gestion-insuficiente-gobierno-ceuta-piensa-20260826153948-nt.html",
+      "desc": "«La respuesta ha sido evidentemente insuficiente de todo punto de vista, creo que lo piensa todo el mundo en España». De esta forma Emiliano García Page ha calificado la gestión de la crisis que su líder del partido, Pedro Sánchez, ha llevado a cabo en Ceuta t",
+      "date": "Wed, 26 Aug 2026 15:39:49 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Castilla-La Mancha supera los 666 millones de euros abonados de la PAC en esta campaña",
+      "link": "https://www.abc.es/espana/castilla-la-mancha/castillala-mancha-supera-666-millones-euros-abonados-20260826153443-nt.html",
+      "desc": "El consejero de Agricultura, Ganadería y Desarrollo Rural, Julián Martínez Lizán, ha adelantado que a partir del próximo 4 de septiembre, más de 82.000 agricultores y ganaderos de Castilla-La Mancha van a percibir el pago del incremento de la PAC, unos 10,7 mi",
+      "date": "Wed, 26 Aug 2026 15:34:43 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Meta pacta pagar 17.100 millones de dólares para cerrar el juicio por atacar la salud de los niños",
+      "link": "https://www.lavanguardia.com/vida/20260826/11620521/meta-pacta-pagar-16-680-millones-dolares-cerrar-juicio-atacar-salud-ninos.html",
+      "desc": "El acuerdo llega durante la segunda semana de un juicio oral en el que la empresa de Mark Zuckerberg se jugaba su existencia económica por desarrollar prácticas en Facebook e Instagram que provocaban se engancharan a sus redes despreciando la salud metal de lo",
+      "date": "26 Aug 2026 15:29:41 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
+    {
+      "title": "El Barça cancela el homenaje a los campeones del mundo y anuncia un acto “de exaltación a la estelada”",
+      "link": "https://www.lavanguardia.com/deportes/fc-barcelona/20260826/11620515/barca-cancela-homenaje-campeones-mundo-anuncia-acto-exaltacion-estelada.html",
+      "desc": "“No es el contexto ni el momento más apropiado para hacer este homenaje. El fútbol debe servir para unir y no para generar enfrentamientos que no convienen a nadie ”, explica Joan Laporta",
+      "date": "26 Aug 2026 15:21:47 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
+    {
+      "title": "Las solicitudes de ayudas para autónomos en Castilla-La Mancha crecen un 25%",
+      "link": "https://www.abc.es/espana/castilla-la-mancha/solicitudes-ayudas-autonomos-castillala-mancha-crecen-20260826152124-nt.html",
+      "desc": "Castilla-La Mancha ha registrado 13.155 solicitudes en la convocatoria de ayudas para personas trabajadoras autónomas. El programa, impulsado por la Consejería de Economía, Empresas y Empleo a través de sus cuatro líneas de apoyo al emprendimiento, ha recibido",
+      "date": "Wed, 26 Aug 2026 15:21:24 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Laporta: “El Atlético está negociando con otros clubs por Julián, pero mantenemos la oferta”",
+      "link": "https://www.lavanguardia.com/deportes/fc-barcelona/20260826/11620506/laporta-atletico-esta-negociando-otros-clubs-julian-mantenemos-oferta.html",
+      "desc": "El presidente azulgrana insiste con la voluntad del Barça de fichar a Julián Álvarez siendo el argentino la única opción",
+      "date": "26 Aug 2026 15:10:39 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
+    {
+      "title": "Núñez asegura que el socialismo solo genera problemas: «El momento es terrible»",
+      "link": "https://www.abc.es/espana/castilla-la-mancha/nunez-asegura-socialismo-solo-genera-problemas-momento-20260826150633-nt.html",
+      "desc": "El presidente del Partido Popular de Castilla-La Mancha, Paco Núñez, ha mostrado su preocupación por la situación que atraviesa Castilla-La Mancha y España , asegura que «el momento es terrible y esto no puede seguir así», dado que tanto la región como el país",
+      "date": "Wed, 26 Aug 2026 15:06:33 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Un cuidador hace más de 700 km del Camino con dos prótesis de rodilla por la esclerosis múltiple",
+      "link": "https://www.abc.es/espana/galicia/cuidador-700-camino-dos-protesis-rodilla-esclerosis-20260826150000-nt.html",
+      "desc": "Treinta y cuatro días de ruta a pie y más de 700 kilómetros a sus espaldas . Nemesio Cuadrado, vecino de la localidad palentina de Villamuriel de Cerrato conocido popularmente como 'Neme', culminó este miércoles en la plaza del Obradoiro el Camino Francés tras",
+      "date": "Wed, 26 Aug 2026 15:00:00 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Ponferrada se plantea llevar a los tribunales a la Diputación de León para que asuma la titularidad de la carretera de Carracedo de Compludo",
+      "link": "https://www.abc.es/espana/castilla-leon/ponferrada-plantea-llevar-tribunales-diputacion-leon-asuma-20260826144436-nt.html",
+      "desc": "El alcalde de Ponferrada, Marco Morala , ha asegurado este miércoles que se están planteando llevar a la Diputación de León a los tribunales para que asuma la titularidad de la carretera de acceso a Carracedo de Compludo, algo que llevan meses reclamando ante ",
+      "date": "Wed, 26 Aug 2026 14:51:26 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Al menos 47 heridos, tres de ellos graves, tras explotar varios cohetes en el chupinazo de Noáin (Navarra)",
+      "link": "https://www.abc.es/espana/navarra/heridos-tres-graves-tras-explotar-varios-cohetes-20260826144400-nt.html",
+      "desc": "Al menos 47 personas han resultado heridas en el chupinazo de la localidad navarra de Noáin. El incidente se ha producido tras explotar varios cohetes contra la multitud, según informa 'El Correo' . Tres de los afectados se encuentran estado grave. Tras lanzar",
+      "date": "Wed, 26 Aug 2026 14:44:01 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Cuatro atendidos por lanzamiento de gas pimienta en la Tomatina de Buñol",
+      "link": "https://www.abc.es/espana/comunidad-valenciana/cuatro-atendidos-lanzamiento-gas-pimienta-tomatina-bunol-20260826144324-nt.html",
+      "desc": "Hasta cuatro personas han sido atendidas por el lanzamiento de gas pimienta durante la celebración de la fiesta de la Tomatina de Buñol , que ha congregado este miércoles 22.000 personas en la localidad valenciana, donde se han lanzado más de 150.000 kilos de ",
+      "date": "Wed, 26 Aug 2026 14:43:24 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "El alcalde de Málaga visita a Vivas tras la «invasión» de Ceuta y dice que es «un asunto de integridad territorial» de España",
+      "link": "https://www.abc.es/espana/andalucia/malaga/alcalde-malaga-visita-vivas-tras-invasion-ceuta-20260826143453-nts.html",
+      "desc": "El alcalde de Málaga, Francisco de la Torre, ha explicado que la «integridad territorial» , de España, Ceuta y Melilla, tiene que ser «perfectamente respetada». De la Torre exige que España debe alinearse con la estrategia marcada por Europa frente a la crisis",
+      "date": "Wed, 26 Aug 2026 14:40:01 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "El Borril reabre el 1 de octubre para acercar a los escolares los Montes de Toledo",
+      "link": "https://www.abc.es/espana/castilla-la-mancha/toledo/pueblos/borril-reabre-octubre-acercar-escolares-montes-toledo-20260826143648-nt.html",
+      "desc": "La Diputación Provincial de Toledo inicia el próximo 1 de octubre una nueva temporada de visitas al Aula de Naturaleza 'El Borril' , con el propósito de acercar a los escolares de la provincia el patrimonio natural de los Montes de Toledo y fomentar el conocim",
+      "date": "Wed, 26 Aug 2026 14:36:48 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Vox pide un estudio técnico del tramo de la A-67 en Herrera de Pisuerga (Palencia) donde cinco personas murieron este verano",
+      "link": "https://www.abc.es/espana/castilla-leon/vox-pide-estudio-tecnico-tramo-a67-herrera-20260826143633-nt.html",
+      "desc": "El Grupo Parlamentario de Vox en las Cortes de Castilla y León ha presentado una Proposición No de Ley (PNL) en la que se insta a la Junta de Castilla y León que solicite al Ministerio de Transportes y Movilidad Sostenible la realización urgente de un estudio ",
+      "date": "Wed, 26 Aug 2026 14:36:33 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "El PSOE pide extender la gratuidad de la matrícula universitaria a todos los cursos",
+      "link": "https://www.abc.es/espana/castilla-leon/psoe-pide-extender-gratuidad-matricula-universitaria-cursos-20260826143513-nt.html",
+      "desc": "El Grupo Parlamentario Socialista presentará una iniciativa parlamentaria para extender la gratuidad de la matrícula universitari a a todos los cursos de forma progresiva y no solo a la del primer curso, como anunció el presidente de la Junta, Alfonso Fernánde",
+      "date": "Wed, 26 Aug 2026 14:35:13 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
     {
       "title": "Los rodajes generan 4.100 pernoctaciones en hoteles de Alicante en seis meses",
       "link": "https://www.abc.es/espana/comunidad-valenciana/alicante/rodajes-generan-4100-pernoctaciones-hoteles-alicante-seis-20260826142632-nt.html",
@@ -10,6 +210,16 @@
       "source": "ABC",
       "color": "#c0392b",
       "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Más de 40 heridos por una explosión durante el 'chupinazo' de Noáin",
+      "link": "https://www.lavanguardia.com/local/navarra/20260826/11620482/cincuenta-heridos-explotar-material-pirotecnico-fiestas-noain-navarra.html",
+      "desc": "Tres personas con heridas graves han sido trasladadas al hospital por quemaduras",
+      "date": "26 Aug 2026 14:25:23 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
       "caso": "other"
     },
     {
@@ -30,216 +240,6 @@
       "source": "ABC",
       "color": "#c0392b",
       "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "La bandera de Ceuta ondeará en el Parlamento de Andalucía el 2 de septiembre",
-      "link": "https://www.abc.es/espana/andalucia/bandera-ceuta-ondeara-parlamento-andalucia-septiembre-20260826140936-nts.html",
-      "desc": "El Parlamento de Andalucía izará la bandera de Ceuta el próximo 2 de septiembre, el Día festivo en el que la Ciudad Autónoma celebra su autonomía. La Junta ha querido mostrar su apoyo a la localidad ante la grave situación en la que se encuentra tras la invasi",
-      "date": "Wed, 26 Aug 2026 14:21:40 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Antonio Sanz pide comparecer en el Parlamento andaluz para informar sobre incendios, terremotos y narcotráfico",
-      "link": "https://www.abc.es/espana/andalucia/antonio-sanz-pide-comparecer-parlamento-andaluz-informar-20260826141443-nts.html",
-      "desc": "El vicepresidente primero de la Junta de Andalucía y consejero de Presidencia, Sanidad y Emergencias, Antonio Sanz , comparecerá a petición propia en el Parlamento regional para informar sobre el balance de los incendios forestales registrados en la comunidad ",
-      "date": "Wed, 26 Aug 2026 14:14:43 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "El tercer encierro de San Sebastián de los Reyes reúne a 1.600 corredores y deja siete heridos leves",
-      "link": "https://www.abc.es/espana/madrid/tercer-encierro-san-sebastian-reyes-reune-1600-20260826141105-nt.html",
-      "desc": "San Sebastián de los Reyes ha vuelto este miércoles a echarse a las calles para correr delante de las reses de la ganadería Zalduendo. El municipio ha celebrado esta mañana su tercer encierro de las fiestas en honor al Santísimo Cristo de los Remedios , una ca",
-      "date": "Wed, 26 Aug 2026 14:11:59 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Armados con pistolas, un pico de escalada y cubiertos con máscaras: así actuaban los dos atracadores de Puente de Vallecas",
-      "link": "https://www.abc.es/espana/madrid/armados-pistolas-pico-escalada-cubiertos-mascaras-actuaban-20260826140959-nt.html",
-      "desc": "Un arsenal tan variado como peligroso, compuesto por armas de fuego, un cúter y un pico de escalada, sirvió a dos delincuentes para sembrar el pánico en agosto en distintos comercios de la Comunidad de Madrid. A pesar de emplear una agresividad verbal notable,",
-      "date": "Wed, 26 Aug 2026 14:09:59 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Uno de cada cuatro pacientes en lista de espera sanitaria corresponden al Hospital de Toledo",
-      "link": "https://www.abc.es/espana/castilla-la-mancha/cuatro-pacientes-lista-espera-sanitaria-corresponden-hospital-20260826124413-nt.html",
-      "desc": "La secretaria general y portavoz parlamentaria del Partido Popular de Castilla-La Mancha, Carolina Agudo, ha vuelto a cargar contra la gestión sanitaria del Gobierno regional y ha puesto el foco en el Hospital Universitario de Toledo, donde se concentra uno de",
-      "date": "Wed, 26 Aug 2026 14:06:34 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Cazalegas pide una distancia mínima de cuatro kilómetros para las plantas de biometano",
-      "link": "https://www.abc.es/espana/castilla-la-mancha/toledo/pueblos/cazalegas-pide-distancia-minima-cuatro-kilometros-plantas-20260826140220-nt.html",
-      "desc": "El Ayuntamiento de Cazalegas ha presentado alegaciones al Proyecto de Decreto por el que se establecen las condiciones para la gestión de los residuos orgánicos mediante su transformación en biometano en Castilla-La Mancha, con el objetivo de reforzar la prote",
-      "date": "Wed, 26 Aug 2026 14:02:21 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "El PP ficha a un exedil del PSOE como candidato en A Pobra de Trives",
-      "link": "https://www.abc.es/espana/galicia/pp-ficha-exedil-psoe-candidato-pobra-trives-20260826140126-nt.html",
-      "desc": "La temporada de fichajes no se circunscribe solo al ámbito deportivo, y parece que no va a terminar el próximo 31 de agosto. Este miércoles se hizo público que Aarón Álvarez, exteniente de alcalde del PSOE en A Pobra de Trives, será el candidato del PP en este",
-      "date": "Wed, 26 Aug 2026 14:01:26 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Gregorio exige a la Junta que concrete cuánto invertirá en la Agencia de Innovación Digital de Talavera",
-      "link": "https://www.abc.es/espana/castilla-la-mancha/toledo/talavera/gregorio-exige-junta-concrete-invertira-agencia-innovacion-20260826135952-nt.html",
-      "desc": "Dos años después del anuncio y sin proyecto, calendario ni financiación concreta sobre la mesa. El alcalde de Talavera de la Reina, José Julián Gregorio, ha reclamado al Gobierno de Castilla-La Mancha que avance en la definición de la sede de la Agencia de Inn",
-      "date": "Wed, 26 Aug 2026 13:59:53 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Emergencias del Colegio de Psicología de CyL atiende a cerca de 3.000 personas afectadas por los incendios del verano",
-      "link": "https://www.abc.es/espana/castilla-leon/emergencias-colegio-psicologia-cyl-atiende-cerca-3000-20260826135534-nt.html",
-      "desc": "El Grupo de Intervención Psicológica en Desastres y Emergencias de Castilla y León (GRIPDE) del Colegio Oficial de Psicología de Castilla y León (COPCYL) ha atendido este verano a alrededor de 3.000 personas evacuadas y realojadas como consecuencia de los ince",
-      "date": "Wed, 26 Aug 2026 13:55:34 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Aznar visitará Ceuta este jueves, 24 años después de la crisis de Perejil",
-      "link": "https://www.lavanguardia.com/politica/20260826/11620451/aznar-visitara-ceuta-jueves-24-anos-crisis-perejil.html",
-      "desc": "El PP apoya las concentraciones en los ayuntamientos para el día 2 en protesta por la situación de la ciudad autónoma",
-      "date": "26 Aug 2026 13:55:17 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "Silvia Villaú, actriz: «Lo que más me gusta cuando me subo a un escenario es sentir la energía del público»",
-      "link": "https://www.abc.es/espana/castilla-la-mancha/silvia-villau-actriz-gusta-subo-escenario-sentir-20260826135149-nt.html",
-      "desc": "La actriz, cantante y bailarina sevillana, Silvia Villaú , empezó a debutar en el teatro con tan solo nueve años. Su larga trayectoria en el mundo del cantó y el teatro la ha llevado a convertirse en la directora y protagonista de 'Sonrisas y Lagrimas', un mus",
-      "date": "Wed, 26 Aug 2026 13:51:49 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "El alcalde de Punta Umbría se suma a la petición de regreso de OCON-Sur y lamenta el «abandono» de su municipio",
-      "link": "https://www.abc.es/espana/andalucia/huelva/alcalde-punta-pide-vuelta-oconsur-lamentando-abandono-20260826130019-nts.html",
-      "desc": "El alcalde de Punta Umbría, José Carlos Hernández Cansino, ha indicado que se suma a la petición de la Junta de Andalucía sobre la restitución del grupo especializado OCON-Sur de la Guardia Civil para luchar contra el narcotráfico, al igual que ha criticado có",
-      "date": "Wed, 26 Aug 2026 13:51:10 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Detenido por escapar de la policía en sentido contrario de la M-30, sin carnet y drogado",
-      "link": "https://www.abc.es/espana/madrid/detenido-escapar-policia-sentido-contrario-m30-carnet-20260826134821-nt.html",
-      "desc": "La pasada mañana del 21 de agosto un varón, procedente de Georgia y en situación irregular en el país, protagonizó una persecución policial durante la que llegó a conducir su vehículo en sentido contrario por la autovía de la M-30 . Agentes de la Policía Munic",
-      "date": "Wed, 26 Aug 2026 13:48:21 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "El Hospital Doctor Peset de Valencia estrena Urgencias tras una inversión de 5,2 millones de euros",
-      "link": "https://www.abc.es/espana/comunidad-valenciana/hospital-doctor-peset-valencia-estrena-urgencias-tras-20260826134112-nt.html",
-      "desc": "El presidente de la Generalitat valenciana, Juanfran Pérez Llorca, ha destacado este miércoles el proyecto de modernización del área de Urgencias del Hospital Universitario Doctor Peset de Valencia, que permitirá reformar y ampliar en un 21 por ciento esta zon",
-      "date": "Wed, 26 Aug 2026 13:41:12 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Castilla-La Mancha contará con 900 profesores más y una nueva Ley de Formación Profesional",
-      "link": "https://www.abc.es/espana/castilla-la-mancha/castillala-mancha-contara-900-profesores-nueva-ley-20260826133951-nt.html",
-      "desc": "El regreso a las aulas llegará a Castilla-La Mancha con una cifra que el Gobierno regional quiere situar como uno de los principales indicadores de la evolución del sistema educativo. El presidente autonómico, Emiliano García-Page, ha avanzado que el curso esc",
-      "date": "Wed, 26 Aug 2026 13:39:52 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Al menos 31 heridos, varios de ellos graves, tras explotar varios cohetes en el chupinazo de Noáin (Navarra)",
-      "link": "https://www.abc.es/espana/pais-vasco/heridos-varios-graves-tras-explotar-varios-cohetes-20260826133909-nt.html",
-      "desc": "Al menos 31 personas han resultado heridas en el chupinazo de la localidad navarra de Noáin. El incidente se ha producido tras explotar varios cohetes contra la multitud, según informa 'El Correo'. Tras lanzar los dos primeros cohetes con normalidad, el resto ",
-      "date": "Wed, 26 Aug 2026 13:39:10 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Llorca pide devolver a los menores de Ceuta: «Lo importante es que estén con sus familias»",
-      "link": "https://www.abc.es/espana/comunidad-valenciana/llorca-pide-devolver-menores-ceuta-importante-familias-20260826133843-nt.html",
-      "desc": "El presidente de la Generalitat Valenciana, Juanfran Pérez Llorca, ha instado al Gobierno a que devuelva a sus país a los menores migrantes llegados en avalancha a Ceuta , preguntado por si va a aceptar la acogida de menas. «Lo más importante es que estén con ",
-      "date": "Wed, 26 Aug 2026 13:38:43 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "La plataforma Stop Biometano advierte a Page: «Ya no es un problema ambiental, sino político»",
-      "link": "https://www.abc.es/espana/castilla-la-mancha/plataforma-stop-biometano-advierte-page-problema-ambiental-20260826133722-nt.html",
-      "desc": "El portavoz de la Plataforma Stop Biometano de Torralba de Calatrava, Rafael Ruiz, ha advertido este miércoles en Toledo de que la oposición a la implantación de macroplantas de biometano en Castilla-La Mancha « ya no es un problema ambiental », sino que « ya ",
-      "date": "Wed, 26 Aug 2026 13:37:22 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "La Interpol detiene en Abu Dabi al empresario Alejandro Hamlyn, vinculado a Leire Diez",
-      "link": "https://www.lavanguardia.com/politica/20260826/11620398/interpol-detiene-abu-dabi-empresario-alejandro-hamlyn-vinculado-leire-diez.html",
-      "desc": "Fue detenido&nbsp; después de que su empresa&nbsp;Hafesa, fue condenada a una multa de 152,4 millones de euros por delitos fiscales",
-      "date": "26 Aug 2026 13:02:30 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
-      "caso": "lei"
-    },
-    {
-      "title": "El Gobierno de Ayuso buscó un piso con “gran terraza” antes de justificar el ático como oficina",
-      "link": "https://www.lavanguardia.com/politica/20260826/11620396/gobierno-ayuso-busco-piso-gran-terraza-justificar-atico-oficina.html",
-      "desc": "Planifica Madrid recibió entre enero y marzo el encargo de localizar una vivienda de entre 250 y 400 metros cuadrados en Chamberí o sus alrededores",
-      "date": "26 Aug 2026 12:59:29 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "Los vecinos de Collserola expresan su rabia tras estabilizarse el incendio: “La montaña se respeta”",
-      "link": "https://www.lavanguardia.com/local/barcelona/20260826/11620374/vecinos-collserola-expresan-rabia-estabilizarse-incendio-montana-respeta.html",
-      "desc": "Torre Baró reclama más mantenimiento en la sierra después de los momentos de tensión vividos por la proximidad de las llamas",
-      "date": "26 Aug 2026 12:56:45 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
       "caso": "other"
     }
   ]
