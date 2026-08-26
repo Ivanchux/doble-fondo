@@ -1,7 +1,97 @@
 {
-  "updated": "2026-08-26T19:41:31Z",
+  "updated": "2026-08-26T22:39:42Z",
   "count": 24,
   "items": [
+    {
+      "title": "Tensión en la playa del Trampolín de Ceuta donde la Policía tiene que intervenir para evitar enfrentamientos entre vecinos e inmigrantes",
+      "link": "https://www.abc.es/espana/tension-playa-trampolin-ceuta-policia-intervenir-evitar-20260826234620-nt.html",
+      "desc": "Los vecinos de Ceuta llevan días avisando de su cansancio , de su saturación. Por segundo día consecutivo, los vecinos han salido a manifestarse por sus calles. La protesta de este miércoles, que ha sido todavía más numerosa que la del martes y ha acumulado mi",
+      "date": "Wed, 26 Aug 2026 23:46:20 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Crisis migratoria en Ceuta, en directo: última hora de la entrada masiva de inmigrantes y la gestión del Gobierno de Pedro Sánchez hoy",
+      "link": "https://www.abc.es/espana/ultima-hora-crisis-migratoria-ceuta-directo-comparecencia-congreso-20260825132126-di.html",
+      "desc": "Sigue en directo la última hora de la crisis migratoria en Ceuta hoy, miércoles 26 de agosto, y las últimas noticias sobre la entrada masiva de inmigrantes en la ciudad.",
+      "date": "Wed, 26 Aug 2026 23:32:07 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Las ventas de Nvidia llegan a 96.000 millones, el doble que hace un año",
+      "link": "https://www.lavanguardia.com/economia/20260826/11620680/ventas-nvidia-llegan-96000-millones-dolares-doble-ano.html",
+      "desc": "Los extraordinarios resultados trimestrales no convencen a los inversores",
+      "date": "26 Aug 2026 23:19:22 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
+    {
+      "title": "Un tiroteo en Las Palmeras deja un herido, trasladado al Reina Sofía",
+      "link": "https://www.abc.es/espana/andalucia/cordoba/tiroteo-palmeras-deja-herido-trasladado-reina-sofia-20260826231905-nts.html",
+      "desc": "La Policía Nacional de Córdoba ha tenido que intervenir este miércoles en Las Palmeras tras un tiroteo , que dejó un herido, si bien su estado no era grave, según ha avanzado Cordópolis y ha podido confirmar este periódico. Ha sido sobre las 13.00 horas cuando",
+      "date": "Wed, 26 Aug 2026 23:19:06 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Mbappé bautiza a Mourinho con un 'hat-trick' y lidera una versión carnívora del Real Madrid",
+      "link": "https://www.lavanguardia.com/deportes/real-madrid/20260826/11620677/mbappe-bautiza-mourinho-hat-trick-lidera-version-carnivora-real-madrid.html",
+      "desc": "Después del 1-1 en el primer tiempo ante la Real Sociedad, el equipo blanco dio un paso adelante y destrozó en apenas 20 minutos a los txuri-urdin",
+      "date": "26 Aug 2026 23:03:47 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
+    {
+      "title": "Las protestas en Ceuta suben de tono contra los “invasores”: “A por ellos, a por ellos”",
+      "link": "https://www.lavanguardia.com/politica/20260826/11620675/protestas-ceuta-suben-tono-invasores.html",
+      "desc": "Miles de personas, con los ánimos cada vez más caldeados, se han manifestado contra la gestión de la crisis del Gobierno, al que exigen que la ciudad “no se convierta en un CETI”",
+      "date": "26 Aug 2026 23:03:00 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
+    {
+      "title": "El Cajasol Coto Córdoba arranca con derrota la Copa Andalucía con una exigente prueba ante el Covirán Granada (86-66)",
+      "link": "https://www.abc.es/espana/andalucia/cordoba/cordoba-cf/coto-cordoba-arranca-derrota-copa-andalucia-exigente-20260826222732-nts.html",
+      "desc": "Vista Alegre volvió a vivir baloncesto de primer nivel gracias al Cajasol Coto Córdoba y su debut en la Copa Andalucía frente al Covirán Granada. Aunque la puesta en escena de los pupilos de Gonzalo Rodríguez fue muy positiva en el grueso del encuentro, el con",
+      "date": "Wed, 26 Aug 2026 22:27:32 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "El juez archiva la querella de Iñigo Errejón contra Elisa Mouliáa por calumnias",
+      "link": "https://www.lavanguardia.com/politica/20260826/11620666/juez-archiva-querella-inigo-errejon-elisa-mouliaa-calumnias.html",
+      "desc": "El exdiputado denunció a la actriz después de que esta le acusara de haber extorsionado a dos de los testigos de la causa",
+      "date": "26 Aug 2026 22:12:26 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
+    {
+      "title": "Sánchez suspende su viaje a Andorra entre un enorme malestar por la fuga de información",
+      "link": "https://www.abc.es/espana/sanchez-precipita-comparecencia-congreso-tras-conocerse-nuevas-20260826220010-nt.html",
+      "desc": "La decisión se tomó en una reunión en Moncloa en la tarde de este miércoles. Tras una fuerte resistencia inicial y aconsejado por sus consejeros áulicos, el presidente del Gobierno decidió suspender el viaje a Andorra adelantado en exclusiva por ABC como colof",
+      "date": "Wed, 26 Aug 2026 22:00:10 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
     {
       "title": "El reparto de menores de Ceuta abre otra brecha entre la Junta y el PSOE",
       "link": "https://www.abc.es/espana/castilla-leon/reparto-menas-ceuta-agranda-brecha-junta-psoe-20260826204724-nt.html",
@@ -67,16 +157,6 @@
       "link": "https://www.abc.es/espana/andalucia/cordoba/defensa-confirma-adjudicacion-contrato-construir-base-logistica-20260826195910-nts.html",
       "desc": "El Ministerio de Defensa ha dado un paso más en la adjudicación del contrato para construir el núcleo de la próxima Base Logística del Ejército de Tierra en Córdoba. En junio, Defensa adjudicó por 278,52 millones de euros uno de los dos lotes que cubren los tr",
       "date": "Wed, 26 Aug 2026 19:59:10 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Crisis migratoria en Ceuta, en directo: última hora de la entrada masiva de inmigrantes y la gestión del Gobierno de Pedro Sánchez hoy",
-      "link": "https://www.abc.es/espana/ultima-hora-crisis-migratoria-ceuta-directo-comparecencia-congreso-20260825132126-di.html",
-      "desc": "Sigue en directo la última hora de la crisis migratoria en Ceuta hoy, miércoles 26 de agosto, y las últimas noticias sobre la entrada masiva de inmigrantes en la ciudad.",
-      "date": "Wed, 26 Aug 2026 19:54:24 +0200",
       "source": "ABC",
       "color": "#c0392b",
       "feedId": "ABC",
@@ -157,86 +237,6 @@
       "link": "https://www.lavanguardia.com/deportes/futbol-femenino/20260826/11620612/campeona-mundial-esther-gonzalez-esconde-imagenes-mujer-e-hijo-irse-arabia.html",
       "desc": "La exjugadora del Real Madrid y del Gotham, de 34 años, ha sorprendido al fichar por el&nbsp;Al Qadsiah y eliminar el rastro en sus redes sociales",
       "date": "26 Aug 2026 18:45:39 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "La Diputación incrementa hasta los 1,8 millones las ayudas de la Agencia de la Energía para proyectos de eficiencia energética",
-      "link": "https://www.abc.es/espana/andalucia/cordoba/diputacion-incrementa-millones-ayudas-agencia-energia-proyectos-20260826184125-nts.html",
-      "desc": "La Diputación de Córdoba y la Agencia Provincial de la Energía dan un paso más en su apuesta por la financiación de proyectos de eficiencia y ahorro energético, tanto de entidades locales como de empresas y centros residenciales de mayores, incrementando hasta",
-      "date": "Wed, 26 Aug 2026 18:41:25 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "United Airlines mantendrá la conexión entre Santiago de Compostela y Nueva York en el verano de 2027",
-      "link": "https://www.abc.es/espana/galicia/united-airlines-mantendra-conexion-directa-lavacolla-nueva-20260826183904-nt.html",
-      "desc": "La conexión aérea directa entre Galicia y Estados Unidos tendrá continuidad el próximo año. United Airlines ha confirmado que mantendrá operativa la ruta sin escalas entre el aeropuerto Rosalía de Castro-Lavacolla y Nueva York durante la temporada de verano de",
-      "date": "Wed, 26 Aug 2026 18:39:04 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Dos de los tres hospitalizados en Noáin tras una explosión en el 'chupinazo' de las fiestas que ha dejado 47 heridos reciben el alta",
-      "link": "https://www.lavanguardia.com/local/navarra/20260826/11620482/cincuenta-heridos-explotar-material-pirotecnico-fiestas-noain-navarra.html",
-      "desc": "La persona que permanece ingresada presenta quemaduras en las manos y se mantiene estable",
-      "date": "26 Aug 2026 18:30:58 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "La muestra sobre los 150 años de Falla en Granada se clausura por los daños del terremoto",
-      "link": "https://www.abc.es/espana/andalucia/granada/muestra-sobre-150-anos-falla-danada-terremotos-20260826170716-nts.html",
-      "desc": "La muestra conmemorativa del 150 aniversario del nacimiento de Manuel de Falla, y también de los 80 años de su muerte, ha tenido un final abrupto: la Fundación Archivo Manuel de Falla ha decidido clausurar la exposición 'Manuel de Falla esencial', que debía pe",
-      "date": "Wed, 26 Aug 2026 18:22:14 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "La oposición en Santiago exige a la alcaldesa que comparezca por el «bochorno» de Fly2Galicia",
-      "link": "https://www.abc.es/espana/galicia/oposicion-santiago-exige-alcaldesa-comparezca-bochorno-fly2galicia-20260826182039-nt.html",
-      "desc": "El líder del PP de Santiago, Borja Verea, ha acusado al gobierno local de «meter» a Santiago «en un bochorno» en relación a Fly2Galicia por no «comprobar» quién estaba detrás de la iniciativa, aunque le es «indiferente» que el capital «sea de Israel, de China ",
-      "date": "Wed, 26 Aug 2026 18:20:40 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Muere el actor británico Tim Curry",
-      "link": "https://www.lavanguardia.com/gente/20260826/11620600/muere-actor-britanico-tim-curry-80-anos.html",
-      "desc": "Según el portal estadounidense TMZ, el interprete de 'The Rocky Horror Picture Show' fue hallado sin vida en su residencia de Los Ángeles",
-      "date": "26 Aug 2026 18:19:04 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "Galicia será «solidaria con Ceuta» y aceptará el reparto de menores inmigrantes",
-      "link": "https://www.abc.es/espana/galicia/galicia-solidaria-ceuta-aceptara-reparto-menores-inmigrantes-20260826181744-nt.html",
-      "desc": "Galicia no tiene pensado cambiar una coma de su discurso respecto de un posible traslado a la Península de menores procedentes de Ceuta, tras la invasión de miles de personas que tuvo lugar el pasado 30 de julio, y un eventual reparto de estos entre las distin",
-      "date": "Wed, 26 Aug 2026 18:17:44 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Los Mossos intervienen un encendedor y una colilla en el punto del incendio de Collserola",
-      "link": "https://www.lavanguardia.com/local/barcelona/20260826/11620596/mossos-intervienen-encendedor-colilla-punto-comenzo-incendio-collserola.html",
-      "desc": "Las llamas queman el interior de un perímetro de 54 hectáreas y los Bombers de Barcelona lo han dado por controlado a las 20 horas de este miércoles",
-      "date": "26 Aug 2026 18:15:20 +0200",
       "source": "La Vanguardia",
       "color": "#8e44ad",
       "feedId": "LaVanguardia",
