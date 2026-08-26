@@ -1,7 +1,127 @@
 {
-  "updated": "2026-08-25T22:20:29Z",
+  "updated": "2026-08-26T00:59:38Z",
   "count": 24,
   "items": [
+    {
+      "title": "Sánchez se pliega a la UE y tendrá que asumir ahora la Ley de asilo que se negaba a aplicar",
+      "link": "https://www.abc.es/espana/sanchez-pliega-ue-asumir-ley-asilo-negaba-20260826023332-nt.html",
+      "desc": "El Gobierno aprobó este martes, pese a que no se había anunciado la intención en ningún momento, los anteproyectos de una nueva Ley de Asilo y de reforma de la Ley de Extranjería, cambios a los que le obliga la asunción del Pacto Europeo de Migración y Asilo (",
+      "date": "Wed, 26 Aug 2026 02:33:32 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "La Policía detecta mafias que usan barcas inflables traídas desde la Península para esquivar la vigilancia en Ceuta",
+      "link": "https://www.abc.es/espana/policia-detecta-mafias-usan-barcas-inflables-traidas-20260826015245-nt.html",
+      "desc": "La Policía Nacional ha detectado que las mafias están trasladando a Ceuta barcas plegadas para viajar a la Península con un mayor número de inmigrantes provenientes de la avalancha que se produjo a finales de julio en la ciudad autónoma, según adelantan fuente",
+      "date": "Wed, 26 Aug 2026 01:52:45 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Inteligencia detecta «movimientos» coincidiendo con las elecciones en Marruecos del 23 de septiembre",
+      "link": "https://www.abc.es/espana/inteligencia-detecta-movimientos-coincidiendo-elecciones-marruecos-septiembre-20260826015228-nt.html",
+      "desc": "Los servicios de inteligencia y de información siguen monitorizando las redes sociales para intentar adelantarse a los flujos migratorios que vienen desde Marruecos. Una de las fechas que se antoja clave es el 23 de septiembre, cuando se celebran las eleccione",
+      "date": "Wed, 26 Aug 2026 01:52:28 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Sánchez se vuelve a ir de vacaciones tras tener que rectificar toda su gestión en Ceuta",
+      "link": "https://www.abc.es/espana/sanchez-vuelve-vacaciones-tras-corregir-gestion-ceuta-20260825014546-nt.html",
+      "desc": "Pedro Sánchez aún no ha concluido sus vacaciones de verano. Apenas 48 horas después de celebrar el Consejo de Ministros y el Consejo de Seguridad Nacional que ha motivado la imposición de un mando único en Ceuta, el presidente del Gobierno vuelve a abandonar e",
+      "date": "Wed, 26 Aug 2026 01:45:46 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "El CNI informó a Interior el día antes de la invasión de la entrada de 180.000 personas",
+      "link": "https://www.abc.es/espana/robles-marlaska-vuelven-enzarzar-sobre-papel-cni-20260825014320-nt.html",
+      "desc": "El Centro Nacional de Inteligencia (CNI) avisó al Gobierno el día 29 de julio, víspera del asalto masivo a la frontera de Ceuta, de que 180.000 personas se preparaban para entrar ilegalmente en España desde Marruecos; un asunto que ha provocado un profundo cis",
+      "date": "Wed, 26 Aug 2026 01:43:20 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "El CGPJ pide a Justicia revisar el protocolo de refuerzo de tribunales para actuaciones urgentes",
+      "link": "https://www.abc.es/espana/cgpj-pide-revisar-protocolo-actuaciones-urgentes-20260825014305-nt.html",
+      "desc": "El Consejo General del Poder Judicial (CGPJ) ha pedido este martes a Justicia una reunión bilateral entre el órgano de gobierno de los jueces y el Ministerio para retomar la redacción del protocolo de refuerzo de los tribunales en situaciones de crisis, que es",
+      "date": "Wed, 26 Aug 2026 01:43:05 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Cuatro jueces se postulan para reforzar los juzgados de la ciudad autónoma",
+      "link": "https://www.abc.es/espana/cuatro-jueces-postulan-reforzar-juzgados-ciudad-autonoma-20260825014254-nt.html",
+      "desc": "Cuatro magistrados han solicitado ya ir a Ceuta para asumir la carga de trabajo que ha caído de manera extraordinaria en el Tribunal de Instancia de la ciudad autónoma tras la entrada ilegal de decenas de miles de inmigrantes a través de la frontera con Marrue",
+      "date": "Wed, 26 Aug 2026 01:42:54 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "El consejero de Ayuso responsable de la compra del ático pide comparecer en la Asamblea",
+      "link": "https://www.abc.es/espana/madrid/consejero-ayuso-responsable-compra-atico-pide-comparecer-20260825013640-nt.html",
+      "desc": "El consejero de Presidencia, Justicia y Administración Local y portavoz del Gobierno de la Comunidad de Madrid, Miguel Ángel García, ha dado un paso al frente en pleno vendaval político. El Ejecutivo autonómico ha presentado este martes en la Asamblea de Madri",
+      "date": "Wed, 26 Aug 2026 01:36:40 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "El circuito de Fórmula 1 en Madrid aprieta el acelerador con zonas de fans y barreras acústicas",
+      "link": "https://www.abc.es/espana/madrid/puesta-punto-zonas-fan-barreras-acusticas-carcavas-20260825013229-nt.html",
+      "desc": "En abril de 2025, camiones y obreros se plantaron en Valdebebas para hacer realidad la vuelta de la Fórmula 1 a Madrid tras 45 años. Casi año y medio después, sobre el terreno que una vez fue plano y se encontraba cubierto de vegetación ya se alzan las gradas ",
+      "date": "Wed, 26 Aug 2026 01:32:29 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "José Maldonado: «Pinté un retrato de Lorca, y al contemplarlo necesité bailarlo»",
+      "link": "https://www.abc.es/espana/madrid/jose-maldonado-pinte-retrato-lorca-contemplarlo-necesite-20260826012511-nt.html",
+      "desc": "El bailarín y coreógrafo barcelonés José Maldonado , un viejo conocido para los madrileños aficionados al flamenco por sus actuaciones en tablaos como el Corral de la Morería, Casa Patas, Corral de la Pacheca, Las Carboneras o Villa Rosa, llega a Veranos de la",
+      "date": "Wed, 26 Aug 2026 01:25:11 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Sánchez y la sintonía con Europa",
+      "link": "https://www.lavanguardia.com/opinion/20260826/11619681/sanchez-sintonia-europa.html",
+      "desc": "La política exterior española ha perdido peso por no jugar a fondo con los grandes aliados europeos",
+      "date": "26 Aug 2026 00:30:00 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
+    {
+      "title": "Robles apunta al ataque híbrido de un “actor interesado” en desestabilizar España",
+      "link": "https://www.lavanguardia.com/politica/20260826/11619996/robles-apunta-ataque-hibrido-actor-interesado-desestabilizar-espana.html",
+      "desc": "Atribuye la entrada masiva a los mensajes en redes sobre la falta de obstáculos",
+      "date": "26 Aug 2026 00:05:00 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
     {
       "title": "Un nuevo incendio en Collserola, en fase de estabilización, desaloja a los vecinos de Torre Baró",
       "link": "https://www.lavanguardia.com/local/barcelona/20260826/11620033/nuevo-incendio-collserola-fase-estabilizacion-obliga-desalojar-vecinos-torre-baro.html",
@@ -17,6 +137,16 @@
       "link": "https://www.lavanguardia.com/deportes/tenis/20260825/11620028/alcaraz-regresa-pistas-larga-ausencia-formando-pareja-serena-williams.html",
       "desc": "El murciano ha estado recuperándose de la lesión de muñeca que sufrió en el Godó en abril",
       "date": "25 Aug 2026 23:15:13 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
+    {
+      "title": "El Gobierno prepara una gran criba para atajar el ‘boom’ de los centros de datos",
+      "link": "https://www.lavanguardia.com/economia/20260825/11620005/gobierno-prepara-gran-criba-atajar-boom-centros-datos.html",
+      "desc": "La gran expansión del sector tensiona la red eléctrica y el suministro de agua",
+      "date": "25 Aug 2026 23:00:00 +0200",
       "source": "La Vanguardia",
       "color": "#8e44ad",
       "feedId": "LaVanguardia",
@@ -107,136 +237,6 @@
       "link": "https://www.abc.es/espana/delegacion-gobierno-defiende-marlaska-desmiente-version-robles-20260825201321-nt.html",
       "desc": "La batalla política respecto a la crisis de Ceuta va en aumento. Pero la confrontación no enfrenta al Gobierno con los partidos de la oposición, como sería previsible, ni tampoco hay un choque competencial entre administraciones; la pelea se está produciendo e",
       "date": "Tue, 25 Aug 2026 20:13:21 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Andalucía asistirá a la reunión para dialogar sobre el reparto de menores migrantes llegados a Ceuta",
-      "link": "https://www.abc.es/espana/andalucia/andalucia-asistira-reunion-dialogar-sobre-reparto-menores-20260825201241-nts.html",
-      "desc": "Andalucía estará presente en la Conferencia Sectorial de Infancia de este próximo jueves junto a otras comunidades autonómicas, aunque no todas las regiones gobernadas por PP y Vox han confirmado su asistencia. En esta reunión se tratará principalmente la ayud",
-      "date": "Tue, 25 Aug 2026 20:12:42 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Controlado el incendio de Segorbe tras cinco días de extinción y 630 hectáreas arrasadas",
-      "link": "https://www.abc.es/espana/comunidad-valenciana/controlado-incendio-segorbe-tras-cinco-dias-extincion-20260825194412-nt.html",
-      "desc": "El incendio forestal declarado el pasado jueves en Segorbe (Castellón) ya está controlado, tras cinco días de labores de extinción y de quemar unas 630 hectáreas en un perímetro de 18 kilómetros entre esta localidad y la de Gátova (Valencia), todas en el Parqu",
-      "date": "Tue, 25 Aug 2026 19:44:12 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "La Xunta impulsa 300 eventos culturales, deportivos y sociales por toda Galicia",
-      "link": "https://www.abc.es/espana/galicia/xunta-impulsa-300-eventos-culturales-deportivos-sociales-20260825193028-nt.html",
-      "desc": "La Xunta destinará casi un millón de euros a la financiación de 55 iniciativas culturales, deportivas y sociales a través del programa 'O teu Xacobeo'. La resolución, publicada este martes en el Diario Oficial de Galicia (DOG), permitirá articular una carteler",
-      "date": "Tue, 25 Aug 2026 19:30:29 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "El calor extremo provoca al menos 35.000 muertes más en Europa este verano",
-      "link": "https://www.lavanguardia.com/natural/20260825/11619838/calor-extremo-provoca-35-000-muertes-mas-europa-verano.html",
-      "desc": "El exceso de mortalidad atribuible a las altas temperaturas en Alemania, Francia y España supera los 25.000 fallecidos, según cifras provisionales brindadas por 'The Guardian'",
-      "date": "25 Aug 2026 19:30:23 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "Ciudad Rodrigo alza el telón de «una cita imprescindible para el panorama escénico en el occidente peninsular»",
-      "link": "https://www.abc.es/espana/castilla-leon/diaz-pico-alza-telon-ciudad-rodrigo-cita-20260825190258-nt.html",
-      "desc": "El consejero de Cultura, Turismo y Deporte, Alberto Díaz Pico , alzaba este martes el telón en Ciudad Rodrigo de «una cita imprescindible para el panorama escénico en el occidente peninsular», como se refería a la Feria de Teatro de Castilla y León, que este a",
-      "date": "Tue, 25 Aug 2026 19:27:35 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Avistan cuatro ballenas azules, el animal más grande del planeta, a ocho millas de Finisterre",
-      "link": "https://www.abc.es/espana/galicia/avistan-cuatro-ballenas-azules-animal-grande-planeta-20260825191904-nt.html",
-      "desc": "Cuatro ballenas azules, el animal más grande del planeta, fueron avistadas a unos pocos metros de una embarcación de Buceo Finisterre. Las especies se encontraban a ocho millas de la costa, en las proximidades del Cabo Fisterra, en La Coruña. La propia empresa",
-      "date": "Tue, 25 Aug 2026 19:19:04 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "La Consejería de Inteligencia Artificial quiere posicionar a Andalucía como un «referente digital»",
-      "link": "https://www.abc.es/espana/andalucia/consejeria-inteligencia-artificial-quiere-posicionar-andalucia-referente-20260825191831-nts.html",
-      "desc": "Es la gran novedad de esta nueva legislatura. Juanma Moreno anunció, durante la campaña electoral y ante un grupo de empresarios, la creación de una nueva consejería, donde la Inteligencia Artificial dispusiera de un papel preponderante. Así ha sido. Este nuev",
-      "date": "Tue, 25 Aug 2026 19:18:32 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Un edil del PSOE critica que le amenazasen con la expulsión y ahora Moncloa asuma su postura sobre Ceuta",
-      "link": "https://www.abc.es/espana/castilla-leon/edil-psoe-critica-amenazasen-expulsion-crisis-ceuta-20260825190353-nt.html",
-      "desc": "Con «sorpresa» está todavía Jaime Villalba, portavoz del PSOE en el ayuntamiento de Palazuelos de Eresma, una localidad del alfoz de Segovia capital, después de comprobar cómo «hace 25 días nos querían abrir expediente por exigir lo evidente y ahora hacen lo e",
-      "date": "Tue, 25 Aug 2026 19:15:44 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Será una ocasión perdida",
-      "link": "https://www.abc.es/espana/cataluna/angel-gonzalez-abad-ocasion-perdida-20260825190402-nt.html",
-      "desc": "Han pasado quince años desde la última temporada viva en la Monumental de Barcelona. La plaza sigue ahí, con sus tendidos vacíos y en silencio, con los ecos de grandes tardes de toros, de públicos entregados, de la ciudad volcada con la Fiesta… Desde entonces,",
-      "date": "Tue, 25 Aug 2026 19:04:03 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Vigo desaconseja el baño en A Punta y parte de la playa de Samil por contaminación microbiológica",
-      "link": "https://www.abc.es/espana/galicia/vigo-desaconseja-bano-punta-parte-playa-samil-20260825190040-nt.html",
-      "desc": "El Ayuntamiento de Vigo ha hecho público un aviso este martes para informar de que no está recomendado el baño en la playa de A Punta, en el barrio de Teis, ni tampoco en la zona central de la playa de Samil, tras detectarse «contaminación microbiológica». Así",
-      "date": "Tue, 25 Aug 2026 19:00:40 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "«Ceuta no es un CETI»: los vecinos salen a la calle para reclamar la vuelta a la normalidad",
-      "link": "https://www.abc.es/espana/vecinos-ceuta-tratan-entrar-hotel-delegado-gobierno-20260825185122-nt.html",
-      "desc": "Una Ceuta cansada, pero fuerte, ha salido esta tarde a las calles de su ciudad. Han detenido coches en carreteras, que pitaban para hacer ruido con ellos, aplaudido al Ejército y a la Policía y gritado por la expulsión de los inmigrantes que todavía quedan en ",
-      "date": "Tue, 25 Aug 2026 18:56:38 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Dos barrios de la ciudad de Barcelona confinados y 35 vecinos desalojados por un incendio en Collserola",
-      "link": "https://www.abc.es/espana/cataluna/dos-barrios-ciudad-barcelona-confinados-incendio-collserola-20260825185007-nt.html",
-      "desc": "El Ayuntamiento de Barcelona ha confinado los barrios de Torre Baró y Ciutat Meridiana para facilitar los trabajos de extinción y proteger a los vecinos ante el incendio declarado este martes por la tarde en el norte de Collserola. El fuego ha obligado a movil",
-      "date": "Tue, 25 Aug 2026 18:50:07 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Detenidos tres menores por herir a otros dos, uno inconsciente tras golpearle con un palo",
-      "link": "https://www.abc.es/espana/comunidad-valenciana/detenidos-tres-menores-herir-dos-inconsciente-tras-20260825184636-nt.html",
-      "desc": "Agentes de la Policía Nacional han detenido a tres menores, uno de 16 años de edad y dos de 17, como presuntos autores de la agresión a otros dos, uno que resultó herido leve y otro al que supuestamente dejaron insconsciente tras golpearle con un palo tipo pal",
-      "date": "Tue, 25 Aug 2026 18:46:36 +0200",
       "source": "ABC",
       "color": "#c0392b",
       "feedId": "ABC",
