@@ -1,7 +1,197 @@
 {
-  "updated": "2026-08-26T16:44:12Z",
+  "updated": "2026-08-26T19:41:31Z",
   "count": 24,
   "items": [
+    {
+      "title": "El reparto de menores de Ceuta abre otra brecha entre la Junta y el PSOE",
+      "link": "https://www.abc.es/espana/castilla-leon/reparto-menas-ceuta-agranda-brecha-junta-psoe-20260826204724-nt.html",
+      "desc": "El posible reparto de menores no acompañados procedentes de Ceuta entre las diferentes comunidades autónomas ha acrecentado la tensión y las diferencias entre la Junta de Castilla y León -gobernada por PP y Vox- y el PSOE. Mientras desde la Vicepresidencia pri",
+      "date": "Wed, 26 Aug 2026 20:47:24 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "La Diputación de Ciudad Real debe más de 2,5 millones de euros a 12 municipios",
+      "link": "https://www.abc.es/espana/castilla-la-mancha/diputacion-ciudad-real-debe-millones-euros-municipios-20260826203834-nt.html",
+      "desc": "El portavoz del Grupo Socialista en la Diputación de Ciudad Real, José Manuel Bolaños, ha denunciado «el caos sin precedentes» que existe ahora en la Institución provincial, «con numerosos ayuntamientos esperando el ingreso de planes y subvenciones que ya tien",
+      "date": "Wed, 26 Aug 2026 20:38:34 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Vox arremete contra el PSOE por «condenar a la región» con impuestos récord y bajas pensiones",
+      "link": "https://www.abc.es/espana/castilla-la-mancha/vox-arremete-psoe-condenar-region-impuestos-record-20260826202501-nt.html",
+      "desc": "El diputado del Grupo Parlamentario Vox Francisco Cobo ha denunciado la discriminación que sufren los mayores y las familias castellanomanchegas, tras analizar los últimos datos de pensiones y de recaudación en la región. El partido alude a la jubilación media",
+      "date": "Wed, 26 Aug 2026 20:25:01 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Rafael Lozano Jr. se abre paso hasta la final y ya apunta al oro en los Juegos del Mediterráneo",
+      "link": "https://www.abc.es/espana/andalucia/cordoba/rafael-lozano-abre-paso-final-apunta-oro-20260826202230-nts.html",
+      "desc": "Rafael Lozano Jr. ya está a un solo combate de subir a lo más alto del podio en los Juegos del Mediterráneo de Taranto. El boxeador cordobés derrotó este miércoles al argelino Amine Zanaz por decisión dividida (4-1) y selló su clasificación para la final de la",
+      "date": "Wed, 26 Aug 2026 20:22:30 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Pedro Sánchez se reunirá este viernes con Torres y Vivas por la crisis de Ceuta",
+      "link": "https://www.abc.es/espana/pedro-sanchez-reunira-viernes-torres-vivas-crisis-20260826201219-nt.html",
+      "desc": "El presidente del Gobierno, Pedro Sánchez, presidirá este viernes desde La Moncloa, por videoconferencia, la reunión del comité de crisis creado para abordar la situación de Ceuta tras la entrada ilegal de decenas de miles de personas desde Marruecos los pasad",
+      "date": "Wed, 26 Aug 2026 20:12:58 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "El derrumbe de un glaciar podría haber provocado la mortífera crecida repentina en Nepal",
+      "link": "https://www.lavanguardia.com/internacional/20260826/11620636/derrumbe-glaciar-haber-provocado-mortifera-crecida-repentina-nepal.html",
+      "desc": "Las autoridades nepalíes señalan como posible causa un sismo ocurrido en la región unos minutos antes",
+      "date": "26 Aug 2026 20:01:58 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
+    {
+      "title": "Defensa confirma la adjudicación del contrato para construir la Base Logística a la UTE Dragados-Magtel-Heliopol",
+      "link": "https://www.abc.es/espana/andalucia/cordoba/defensa-confirma-adjudicacion-contrato-construir-base-logistica-20260826195910-nts.html",
+      "desc": "El Ministerio de Defensa ha dado un paso más en la adjudicación del contrato para construir el núcleo de la próxima Base Logística del Ejército de Tierra en Córdoba. En junio, Defensa adjudicó por 278,52 millones de euros uno de los dos lotes que cubren los tr",
+      "date": "Wed, 26 Aug 2026 19:59:10 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Crisis migratoria en Ceuta, en directo: última hora de la entrada masiva de inmigrantes y la gestión del Gobierno de Pedro Sánchez hoy",
+      "link": "https://www.abc.es/espana/ultima-hora-crisis-migratoria-ceuta-directo-comparecencia-congreso-20260825132126-di.html",
+      "desc": "Sigue en directo la última hora de la crisis migratoria en Ceuta hoy, miércoles 26 de agosto, y las últimas noticias sobre la entrada masiva de inmigrantes en la ciudad.",
+      "date": "Wed, 26 Aug 2026 19:54:24 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "El Ministerio anuncia 161 nuevas viviendas para alquiler asequible en Valladolid",
+      "link": "https://www.abc.es/espana/castilla-leon/ministerio-anuncia-161-viviendas-nuevas-viviendas-alquiler-20260826194216-nt.html",
+      "desc": "La ministra de Vivienda, Isabel Rodríguez, ha anunciado este miércoles que el Gobierno construirá 161 nuevas viviendas públicas de alquiler asequible y con protección permanente en Valladolid. Las obras, que se ubicarán concretamente en la calle Universo del b",
+      "date": "Wed, 26 Aug 2026 19:42:16 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "La casa más cara de España está en Andalucía: 70 millones de euros, 13 suites, bolera y garaje para 42 coches",
+      "link": "https://www.abc.es/espana/andalucia/malaga/casa-cara-espana-andalucia-millones-euros-suites-20260826172437-nts.html",
+      "desc": "El mercado inmobiliario español cuenta con propiedades a las que pocos están al alcance económicamente hablando. Mansiones, lujosas villas y viviendas situadas en puntos del país que cuentan con precios cuyos costes alcanzan las decenas de millones de euros , ",
+      "date": "Wed, 26 Aug 2026 19:20:19 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "El PSOE pide más información a la Junta sobre los incendios en Los Gallardos y Niebla",
+      "link": "https://www.abc.es/espana/andalucia/psoe-pide-informacion-junta-sobre-incendios-gallardos-20260826191943-nts.html",
+      "desc": "El verano andaluz de 2026 ha quedado marcado por los graves incendios forestales de Los Gallardos, en Almería, y Niebla, en Huelva . El fuego arrasó con 14 vidas en el poniente. En la provincia onubense, no se lamentaron daños personales, pero se registró uno ",
+      "date": "Wed, 26 Aug 2026 19:19:44 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Santa Minia de Brión, la Noite Meiga de Sarria y la Almeja de Campelo declaradas fiesta de interés turístico",
+      "link": "https://www.abc.es/espana/galicia/santa-minia-brion-noite-meiga-sarria-almeja-20260826191246-nt.html",
+      "desc": "El catálogo de celebraciones distinguidas de la comunidad suma tres nuevas incorporaciones. El Diario Oficial de Galicia (DOG) ha publicado este miércoles la resolución formal que otorga la declaración de Fiesta de Interés Turístico de Galicia a la Romería de ",
+      "date": "Wed, 26 Aug 2026 19:13:21 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Córdoba celebra los 100 años de vida de la vecina Ana López dentro del programa 'Cordobeses Centenarios'",
+      "link": "https://www.abc.es/espana/andalucia/cordoba/cordoba-celebra-100-anos-vida-vecina-ana-20260826190952-nts.html",
+      "desc": "La delegación de Mayores del Ayuntamiento de Córdoba ha celebrado hoy el cien cumpleaños de Ana López en el marco del programa 'Cordobeses Centenarios', una iniciativa que pone en valor la vida y las experiencias de los cordobeses que cumplen 100 años o más de",
+      "date": "Wed, 26 Aug 2026 19:09:53 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Otra oportunidad en España para Minnie y Miko, dos monos titíes de los que usan su nombre",
+      "link": "https://www.abc.es/espana/comunidad-valenciana/alicante/oportunidad-espana-minnie-miko-dos-monos-tities-20260826190341-nt.html",
+      "desc": "Minnie y Miko, una pareja de titíes, esa especie capaz de ponerse nombres y utilizarlos para llamarse entre ellos, vive una nueva oportunidad en España tras ser acogidos cuando habían estado a punto de ser puestos a la venta como mascotas en Croacia. Ejemplare",
+      "date": "Wed, 26 Aug 2026 19:03:41 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Mandos policiales exigen explicaciones a Interior por los avisos del CNI: «No nos llegó ninguna información»",
+      "link": "https://www.abc.es/espana/fuerzas-seguridad-exigen-explicaciones-marlaska-avisos-cni-20260826185648-nt.html",
+      "desc": "Mandos policiales consultados por ABC exigen explicaciones al Ministerio del Interior por las advertencias previas del CNI que no recibieron sobre la crisis migratoria de Ceuta. «No recibimos esas informaciones», explica uno de estos jefes, que subraya que en ",
+      "date": "Wed, 26 Aug 2026 18:56:48 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "La campeona mundial Esther González esconde las imágenes de su mujer e hijo tras irse a Arabia",
+      "link": "https://www.lavanguardia.com/deportes/futbol-femenino/20260826/11620612/campeona-mundial-esther-gonzalez-esconde-imagenes-mujer-e-hijo-irse-arabia.html",
+      "desc": "La exjugadora del Real Madrid y del Gotham, de 34 años, ha sorprendido al fichar por el&nbsp;Al Qadsiah y eliminar el rastro en sus redes sociales",
+      "date": "26 Aug 2026 18:45:39 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
+    {
+      "title": "La Diputación incrementa hasta los 1,8 millones las ayudas de la Agencia de la Energía para proyectos de eficiencia energética",
+      "link": "https://www.abc.es/espana/andalucia/cordoba/diputacion-incrementa-millones-ayudas-agencia-energia-proyectos-20260826184125-nts.html",
+      "desc": "La Diputación de Córdoba y la Agencia Provincial de la Energía dan un paso más en su apuesta por la financiación de proyectos de eficiencia y ahorro energético, tanto de entidades locales como de empresas y centros residenciales de mayores, incrementando hasta",
+      "date": "Wed, 26 Aug 2026 18:41:25 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "United Airlines mantendrá la conexión entre Santiago de Compostela y Nueva York en el verano de 2027",
+      "link": "https://www.abc.es/espana/galicia/united-airlines-mantendra-conexion-directa-lavacolla-nueva-20260826183904-nt.html",
+      "desc": "La conexión aérea directa entre Galicia y Estados Unidos tendrá continuidad el próximo año. United Airlines ha confirmado que mantendrá operativa la ruta sin escalas entre el aeropuerto Rosalía de Castro-Lavacolla y Nueva York durante la temporada de verano de",
+      "date": "Wed, 26 Aug 2026 18:39:04 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Dos de los tres hospitalizados en Noáin tras una explosión en el 'chupinazo' de las fiestas que ha dejado 47 heridos reciben el alta",
+      "link": "https://www.lavanguardia.com/local/navarra/20260826/11620482/cincuenta-heridos-explotar-material-pirotecnico-fiestas-noain-navarra.html",
+      "desc": "La persona que permanece ingresada presenta quemaduras en las manos y se mantiene estable",
+      "date": "26 Aug 2026 18:30:58 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
     {
       "title": "La muestra sobre los 150 años de Falla en Granada se clausura por los daños del terremoto",
       "link": "https://www.abc.es/espana/andalucia/granada/muestra-sobre-150-anos-falla-danada-terremotos-20260826170716-nts.html",
@@ -23,6 +213,16 @@
       "caso": "other"
     },
     {
+      "title": "Muere el actor británico Tim Curry",
+      "link": "https://www.lavanguardia.com/gente/20260826/11620600/muere-actor-britanico-tim-curry-80-anos.html",
+      "desc": "Según el portal estadounidense TMZ, el interprete de 'The Rocky Horror Picture Show' fue hallado sin vida en su residencia de Los Ángeles",
+      "date": "26 Aug 2026 18:19:04 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
+    {
       "title": "Galicia será «solidaria con Ceuta» y aceptará el reparto de menores inmigrantes",
       "link": "https://www.abc.es/espana/galicia/galicia-solidaria-ceuta-aceptara-reparto-menores-inmigrantes-20260826181744-nt.html",
       "desc": "Galicia no tiene pensado cambiar una coma de su discurso respecto de un posible traslado a la Península de menores procedentes de Ceuta, tras la invasión de miles de personas que tuvo lugar el pasado 30 de julio, y un eventual reparto de estos entre las distin",
@@ -33,210 +233,10 @@
       "caso": "other"
     },
     {
-      "title": "Los informáticos gallegos piden enseñar a los niños el uso de pantallas en la educación",
-      "link": "https://www.abc.es/espana/galicia/informaticos-gallegos-piden-ensenar-ninos-uso-pantallas-20260826181117-nt.html",
-      "desc": "«Negar la tecnología en las aulas no cambia la realidad, solo significa cerrar los ojos ante ella« , ese es el sentir del Colexio Profesional de Enxeñaría en Informática de Galicia (CPEIG), que ha comunicado este miércoles a través de una nota de prensa que la",
-      "date": "Wed, 26 Aug 2026 18:11:17 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "La Junta aborda el incendio de Niebla junto a los alcaldes con la «prioridad inmediata» de proteger el terreno",
-      "link": "https://www.abc.es/espana/andalucia/junta-aborda-incendio-niebla-junto-alcaldes-prioridad-20260826180121-nts.html",
-      "desc": "La consejera de Sostenibilidad y Medio Ambiente de la Junta de Andalucía, Fina Martínez , ha mantenido este miércoles en Berrocal (Huelva) una reunión con los alcaldes de los municipios afectados por el incendio forestal originado en Niebla, en la que los repr",
-      "date": "Wed, 26 Aug 2026 18:01:21 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "La lluvia no achica la sequía: la Xunta mantiene restricciones en 91 concellos",
-      "link": "https://www.abc.es/espana/galicia/lluvia-achica-sequia-xunta-mantiene-restricciones-concellos-20260826175648-nt.html",
-      "desc": "Las lluvias de estos últimos días, que están pasando por agua la recta final de agosto, no son suficientes todavía para bajar la guardia frente a la sequía. Por eso, la Xunta mantiene la alerta o prealerta por escasez de agua en un total de 91 ayuntamientos de",
-      "date": "Wed, 26 Aug 2026 17:56:48 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Ávila declara no apta para consumo el agua del polígono de Vicolozano por exceso de manganeso",
-      "link": "https://www.abc.es/espana/castilla-leon/avila-declara-apta-consumo-agua-poligono-vicolozano-20260826175035-nt.html",
-      "desc": "El Ayuntamiento de Ávila ha declarado no apta para consumo humano el agua del polígono industrial de Vicolozano debido a la presencia de un exceso de manganeso en la red de distribución, una incidencia puntual que no afecta al suministro de la ciudad ni al de ",
-      "date": "Wed, 26 Aug 2026 17:50:36 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Así afectan a Meta los cambios que ha pactado para tratar de evitar la adicción de los menores",
-      "link": "https://www.lavanguardia.com/vida/20260826/11620582/asi-afectan-meta-cambios-pactado-tratar-evitar-adiccion-menores.html",
-      "desc": "La compañía de Zuckerberg pide a otras plataformas, como TikTok y YouTube, que se sumen para que las medidas sean efectivas",
-      "date": "26 Aug 2026 17:48:22 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "El Ayuntamiento de Córdoba se suma a la concentración de apoyo a Ceuta convocada por la FEMP",
-      "link": "https://www.abc.es/espana/andalucia/cordoba/ayuntamiento-cordoba-suma-concentracion-apoyo-ceuta-convocada-20260826174630-nts.html",
-      "desc": "El Ayuntamiento de Córdoba se sumará el próximo miércoles, 2 de septiembre, a las 20:00 horas, al acto simultáneo que tendrá lugar en toda España convocado por la Federación Española de Municipios y Provincias (FEMP) en apoyo a la ciudad autónoma de Ceuta y a ",
-      "date": "Wed, 26 Aug 2026 17:46:30 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "El partido 'Por Mi Pueblo' ofrece a Agustín Bravo ser candidato a la alcaldía de Marbella",
-      "link": "https://www.abc.es/espana/andalucia/malaga/partido-pueblo-ofrece-agustin-bravo-candidato-alcaldia-20260826172603-nts.html",
-      "desc": "Con ojo puesto ya en las elecciones municipales, previstas para mayo del año 2027, son muchos los partidos que ya se están moviendo en búsqueda de nuevas alternativas para así poder ganar impulso de cara a los próximos comicios. Este es el caso de 'Por Mi Pueb",
-      "date": "Wed, 26 Aug 2026 17:41:43 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "La Fiscalía insiste en que Jésica Rodríguez siga investigada y abre la puerta a pedir una pena menor por su testimonio en el juicio contra Ábalos",
-      "link": "https://www.abc.es/espana/fiscalia-insiste-jesica-rodriguez-siga-investigada-abre-20260826173553-nt.html",
-      "desc": "La Fiscalía Anticorrupción insiste en que Jésica Rodríguez, exnovia del exministro de Transportes José Luis Ábalos, condenado a 24 años de prisión por corrupción por el Tribunal Supremo, permanezca como investigada por malversación y tráfico de influencias en ",
-      "date": "Wed, 26 Aug 2026 17:35:53 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "De soñar con un crucero a ser estafados: detenida la gerente de una agencia de viajes tras quedarse con más de 30.000 euros",
-      "link": "https://www.abc.es/espana/castilla-leon/sonar-crucero-estafados-detenida-gerente-agencia-viajes-20260826173120-nt.html",
-      "desc": "Vacaciones, un crucero, un barco para navegar e ir haciendo puerto y conociendo distintos lugares conociendo así las islas griegas... El sueño para este verano convertido en pesadilla y sin hacerse realidad para numerosas personas en Valladolid, víctimas de la",
-      "date": "Wed, 26 Aug 2026 17:31:20 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "El pago millonario de Meta: así lo analizan abogados y expertos en finanzas",
-      "link": "https://www.lavanguardia.com/vida/20260826/11620572/pago-millonario-meta-asi-analizan-abogados-expertos-finanzas.html",
-      "desc": "El acuerdo se califica de “muy importante”, pero hay desconfianza sobre los próximos pasos de Zuckerberg",
-      "date": "26 Aug 2026 17:29:44 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "San Bartolomé de las Abiertas cumple 500 años y se cuela en el décimo de la Lotería Nacional",
-      "link": "https://www.abc.es/espana/castilla-la-mancha/toledo/pueblos/san-bartolome-abiertas-cumple-500-anos-cuela-20260826172819-nt.html",
-      "desc": "Hay pueblos que guardan su historia en los archivos y otros que consiguen que cinco siglos de memoria terminen impresos en un billete de lotería. Es el caso de San Bartolomé de las Abiertas, una pequeña localidad de la provincia de Toledo que este año celebra ",
-      "date": "Wed, 26 Aug 2026 17:28:20 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Detenido tras ser grabado maltratando a su perro en Lanzarote",
-      "link": "https://www.abc.es/espana/canarias/detenido-tras-grabado-maltratando-perro-lanzarote-20260826172339-nt.html",
-      "desc": "El Servicio de Protección de la Naturaleza (Seprona) ha detenido a un vecino del municipio de San Bartolomé (Lanzarote) como presunto autor de un delito de maltrato animal al ser grabado agrediendo a su perro. Un vídeo captó al hombre introduciendo de forma vi",
-      "date": "Wed, 26 Aug 2026 17:23:40 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "López Campos no descarta acuerdos con el PSOE para su Pacto da Lingua",
-      "link": "https://www.abc.es/espana/galicia/lopez-campos-descarta-acuerdos-psoe-pacto-lingua-20260826171734-nt.html",
-      "desc": "La Xunta anda con pies de plomo, porque el proceso en cualquier momento puede descarrilar por las motivaciones políticas de los distintos actores que participan en él, pero no ve imposible que pueda alcanzarse algún punto de acuerdo con una parte de la oposici",
-      "date": "Wed, 26 Aug 2026 17:17:34 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Micrófonos con inteligencia artificial para 'escuchar' a aves y murciélagos",
-      "link": "https://www.abc.es/espana/madrid/madrid-escucha-identifica-aves-murcielagos-inteligencia-artificial-20260826171520-nt.html",
-      "desc": "El Ayuntamiento de Madrid ha empezado a escuchar a sus aves y murciélagos de una forma peculiar: con sensores de monitorización que detectan sus cantos y sonidos, pero no los graban. Un total de quince dispositivos repartidos entre Madrid Río y el parque fores",
-      "date": "Wed, 26 Aug 2026 17:15:20 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Volotea quiere volar desde La Coruña a Málaga, Valencia, Bilbao, Sevilla y Alicante",
-      "link": "https://www.abc.es/espana/galicia/volotea-quiere-volar-coruna-malaga-valencia-bilbao-20260826171229-nt.html",
-      "desc": "El plazo abierto para presentar ofertas para cubrir los destinos nacionales en el concurso convocado por el Consorcio de Turismo de La Coruña se ha cerrado este martes con la presentación de una única compañía, Volotea, para operar las cinco rutas propuestas: ",
-      "date": "Wed, 26 Aug 2026 17:12:30 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Transportes finaliza la transformación urbana de 4,5 km de la N-502A en Talavera",
-      "link": "https://www.abc.es/espana/castilla-la-mancha/toledo/talavera/transportes-finaliza-transformacion-urbana-n502a-talavera-20260826171128-nt.html",
-      "desc": "El Ministerio de Transportes y Movilidad Sostenible ha finalizado las obras de integración urbana de la carretera N-502A a su paso por Talavera de la Reina, en la provincia de Toledo. La actuación ha contado con una inversión de 7 millones de euros (IVA inclui",
-      "date": "Wed, 26 Aug 2026 17:11:28 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "El PSOE responde al PP poniendo en valor el esfuerzo inversor del Gobierno en Sanidad",
-      "link": "https://www.abc.es/espana/castilla-la-mancha/psoe-responde-pp-poniendo-valor-esfuerzo-inversor-20260826170545-nt.html",
-      "desc": "El presidente del grupo parlamentario socialista en las Cortes de Castilla-La Mancha, Ángel Tomás Godoy, ha respondido a las críticas del Partido Popular en materia sanitaria poniendo en valor el esfuerzo inversor del Gobierno autonómico. El dirigente socialis",
-      "date": "Wed, 26 Aug 2026 17:05:45 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "El Ayuntamiento celebra la concesión de las Caballerizas Reales a Córdoba Ecuestre: «Es lo mejor para la ciudad»",
-      "link": "https://www.abc.es/espana/andalucia/cordoba/ayuntamiento-celebra-concesion-caballerizas-reales-cordoba-ecuestre-20260826170058-nts.html",
-      "desc": "Tras varios años de espera, el proceso para la concesión de las Caballerizas Reales ha llegado a su fin, una vez que Córdoba Ecuestre ha aceptado las condiciones para ser la entidad beneficiaria que administre el lugar, como lo había hecho estos últimos años e",
-      "date": "Wed, 26 Aug 2026 17:00:58 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "La riada de Nepal castiga un paraíso de montañas",
-      "link": "https://www.lavanguardia.com/internacional/20260826/11620500/paraiso-montaneros-azotado-nuevo.html",
-      "desc": "",
-      "date": "26 Aug 2026 16:51:17 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "Bryant Myers hará parada en Roig Arena el 30 de septiembre con su 'Burlao Tour'",
-      "link": "https://www.abc.es/espana/comunidad-valenciana/bryant-myers-hara-parada-roig-arena-septiembre-20260826164432-nt.html",
-      "desc": "El puertorriqueño Bryant Myers ofrecerá un concierto el 30 de septiembre en Roig Arena como parte de su 'Burlao Tour'. El artista, conocido internacionalmente dentro de la escena urbana, está considerado «uno de los pioneros» del trap latino. Su salto a la fam",
-      "date": "Wed, 26 Aug 2026 16:44:32 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "El Gobierno gana todas las votaciones sobre Ceuta pero pierde crédito entre sus socios",
-      "link": "https://www.lavanguardia.com/politica/20260826/11620555/gobierno-gana-todas-votaciones-sobre-ceuta-pierde-credito-socios.html",
-      "desc": "La Moncloa evita la derrota al adelantarse a la petición del PP para que comparezca Sánchez, pero sus aliados le recuerdan que no le han dado un cheque en blanco",
-      "date": "26 Aug 2026 16:39:59 +0200",
+      "title": "Los Mossos intervienen un encendedor y una colilla en el punto del incendio de Collserola",
+      "link": "https://www.lavanguardia.com/local/barcelona/20260826/11620596/mossos-intervienen-encendedor-colilla-punto-comenzo-incendio-collserola.html",
+      "desc": "Las llamas queman el interior de un perímetro de 54 hectáreas y los Bombers de Barcelona lo han dado por controlado a las 20 horas de este miércoles",
+      "date": "26 Aug 2026 18:15:20 +0200",
       "source": "La Vanguardia",
       "color": "#8e44ad",
       "feedId": "LaVanguardia",
