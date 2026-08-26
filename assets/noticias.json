@@ -1,7 +1,177 @@
 {
-  "updated": "2026-08-26T06:38:43Z",
+  "updated": "2026-08-26T08:36:51Z",
   "count": 24,
   "items": [
+    {
+      "title": "Un muerto y un herido al caer su coche por un terraplén en Sarria (Lugo)",
+      "link": "https://www.abc.es/espana/galicia/muerto-herido-caer-coche-terraplen-madrugada-sarria-20260826095804-nt.html",
+      "desc": "Una persona ha perdido la vida esta madrugada tras sufrir un grave accidente de tráfico en el municipio lucense de Sarria. El siniestro se produjo cuando el vehículo en el que viajaba se salió de la calzada y acabó cayendo por un terraplén, dejando además a un",
+      "date": "Wed, 26 Aug 2026 10:10:27 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Recupera dos motos robadas gracias a que el ladrón las puso en venta en internet",
+      "link": "https://www.abc.es/espana/comunidad-valenciana/alicante/recupera-dos-motos-robadas-gracias-ladron-puso-20260826100302-nt.html",
+      "desc": "La Guardia Civil ha detenido en Monóvar (Alicante) a un hombre como presunto autor de un robo con fuerza en las cosas cometido en una casa de campo del municipio. En la actuación se han recuperado tres de las cuatro motocicletas sustraídas, además de numerosas",
+      "date": "Wed, 26 Aug 2026 10:03:02 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Junts presiona a Sánchez y vuelve a presentar la proposición de ley para ceder inmigración a Cataluña",
+      "link": "https://www.abc.es/espana/cataluna/junts-presiona-sanchez-vuelve-presentar-proposicion-ley-20260826095348-nt.html",
+      "desc": "Junts redobla la presión sobre Pedro Sánchez con la carpeta sensible de la inmigración. En plena crisis en Ceuta, los de Puigdemont retoman su demanda para lograr la delegación de las competencias en inmigración, una cesión del Gobierno que encalló por la nega",
+      "date": "Wed, 26 Aug 2026 09:53:48 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Sabores del Mundo: la feria gastronómica que te lleva a dar la vuelta al mundo sin salir de Vigo",
+      "link": "https://www.abc.es/espana/galicia/sabores-mundo-feria-gastronomica-lleva-dar-vuelta-20260826094957-nt.html",
+      "desc": "Vigo suma una nueva cita a su calendario gastronómico veraniego. Del 4 al 6 de septiembre, la Explanada del Náutico acogerá la primera edición de Sabores del Mundo, una feria que reunirá más de veinte puestos de comida internacional en un único espacio, frente",
+      "date": "Wed, 26 Aug 2026 09:52:31 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Bèstia desembarca en S'Agaró con una cocina informalmente domesticada y vinos libres",
+      "link": "https://www.abc.es/espana/cataluna/bestia-desembarca-sagaro-cocina-informalmente-domesticada-vinos-20260826095048-nt.html",
+      "desc": "Bèstia ha dejado de ser únicamente uno de esos pequeños locales del Barri Vell de Girona que corren de boca en boca entre aficionados al vino y a la cocina informal. Este verano ha dado el salto a S'Agaró con una segunda casa que mantiene la filosofía original",
+      "date": "Wed, 26 Aug 2026 09:50:48 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Un hombre fallece en un accidente de tráfico tras salirse de la vía en Horcajo de Santiago",
+      "link": "https://www.abc.es/espana/castilla-la-mancha/toledo/pueblos/hombre-fallece-accidente-trafico-tras-salirse-via-20260826094405-nt.html",
+      "desc": "La salida de vía de un vehículo en la CM-200 a su paso por el municipio conquense de Horcajo de Santiago se ha saldado este miércoles con un fallecido. El afectado, un hombre cuyos datos personales no han trascendido, ha quedado atrapado en el interior del veh",
+      "date": "Wed, 26 Aug 2026 09:44:05 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Fallecen la madre y la hija que resultaron heridas al caerles encima un muro durante el temporal de Tarragona",
+      "link": "https://www.abc.es/espana/cataluna/fallecen-madre-hija-heridas-caerles-encima-muro-20260826092942-nt.html",
+      "desc": "Las dos mujeres, una madre y su hija de 18 años, que resultaron heridas el pasado sábado tras derrumbarse sobre ellas un muro en Roda de Berà (Tarragona), durante el episodio de fuertes lluvias, han falledido tras cuatro días ingresadas críticas en un centro h",
+      "date": "Wed, 26 Aug 2026 09:29:42 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Torres apoya la versión de Marlaska sobre la ausencia de aviso del CNI ante la crisis de Ceuta",
+      "link": "https://www.lavanguardia.com/politica/20260826/11620237/torres-apoya-version-marlaska-sobre-ausencia-aviso-cni-sobre-crisis-ceuta.html",
+      "desc": "Sánchez registra, a petición propia, la solicitud de comparecencia en el Congreso, aún sin fecha",
+      "date": "26 Aug 2026 09:25:56 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
+    {
+      "title": "Mueren las dos mujeres heridas por la caída de un muro por las lluvias en Roda de Berà",
+      "link": "https://www.lavanguardia.com/local/tarragona/20260826/11620232/mueren-mujeres-heridas-caida-muro-lluvias-roda-bera.html",
+      "desc": "Ambas, madre e hija, permanecían ingresadas desde el sábado en estado crítico tras quedar atrapadas bajo los escombros de un muro que se derrumbó",
+      "date": "26 Aug 2026 09:18:29 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
+    {
+      "title": "Mucho daño en muy poco tiempo en Asaja",
+      "link": "https://www.abc.es/espana/andalucia/cordoba/ignacio-fernandez-de-mesa-dano-poco-tiempo-asaja-20260826091554-nts.html",
+      "desc": "Durante 24 años tuve el honor de presidir Asaja Córdoba. Cuando llegué, en el año 2000, la organización atravesaba enormes dificultades. Con esfuerzo y, sobre todo, gracias a que formamos un gran equipo, conseguimos convertirla en una entidad fuerte, respetada",
+      "date": "Wed, 26 Aug 2026 09:15:54 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "El expresidente de Asaja-Córdoba, muy crítico con su sucesor: «Adell nos engañó. Ha roto buena parte de lo construido»",
+      "link": "https://www.abc.es/espana/andalucia/cordoba/expresidente-asajacordoba-critico-sucesor-adell-engano-roto-20260826091544-nts.html",
+      "desc": "Ignacio Fernández de Mesa , quien fuera presidente de Asaja-Córdoba durante 24 años (2000-2024), aborda en una ' Tribuna Abierta ' en la edición de este miércoles de ABC Córdoba -en papel y digital- el complejo momento que vive este colectivo agrario . Esta im",
+      "date": "Wed, 26 Aug 2026 09:15:44 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Una inesperada tregua de Don Lorenzo",
+      "link": "https://www.abc.es/espana/andalucia/cordoba/baltasar-lopez-inesperada-tregua-don-lorenzo-20260826091536-nts.html",
+      "desc": "Llevamos una semana de inesperada tregua meteorológica y se siente uno feliz pero raro. Y es que el cuerpo tiene memoria y no termina de relajarse , pues sabe que, cuando el calendario marca estas fechas, lo habitual es que deba estar batallando con el calor. ",
+      "date": "Wed, 26 Aug 2026 09:15:37 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Feijóo exige convocar la Comisión de Secretos Oficiales para que el CNI aclare las «versiones» del Gobierno con Ceuta",
+      "link": "https://www.abc.es/espana/feijoo-exige-convocar-comision-secretos-oficiales-cni-20260826091520-nt.html",
+      "desc": "El presidente del PP , Alberto Núñez Feijóo , ha exigido este miércoles al Congreso convocar la Comisión de Secretos Oficiales , donde los diputados ejercen el control parlamentario del Centro Nacional de Inteligencia (CNI) y del uso de los fondos reservados, ",
+      "date": "Wed, 26 Aug 2026 09:15:21 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Los hijos de una pareja irlandesa en Cullera hallan a sus padres muertos en un jacuzzi",
+      "link": "https://www.lavanguardia.com/local/valencia/20260826/11620225/hijos-matrimonio-irlandes-cullera-encuentran-padres-muertos-jacuzzi.html",
+      "desc": "Investigan si la pareja irlandesa hallada muerta en Cullera (Valencia) falleció a causa de las drogas aunque no se descartan otras hipótesis",
+      "date": "26 Aug 2026 09:02:27 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
+    {
+      "title": "Los bomberos estabilizan el incendio de Collserola (Barcelona) y esperan controlarlo este miércoles",
+      "link": "https://www.abc.es/espana/cataluna/bomberos-estabilizan-incendio-collserola-barcelona-esperan-controlarlo-20260826085557-nt.html",
+      "desc": "Los Bombers de Barcelona y los Bombers de la Generalitat han dado por estabilizado este miércoles por la mañana el incendio que afecta desde el martes por la tarde la sierra de Collserola (Barcelona). En una atención a los medios del teniente de alcalde de Seg",
+      "date": "Wed, 26 Aug 2026 08:55:57 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Esta es la feria medieval que no te puedes perder este fin de semana en Orense",
+      "link": "https://www.abc.es/espana/galicia/feria-medieval-puedes-perder-fin-semana-orense-20260826084518-nt.html",
+      "desc": "Cada último fin de semana de agosto, Ribadavia (Orense) deja de ser un pueblo gallego cualquiera para convertirse, durante tres días, en una villa medieval. Del 28 al 30 de agosto, la localidad celebra la XXXVII edición de la Festa da Istoria, una recreación h",
+      "date": "Wed, 26 Aug 2026 08:45:19 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Dos hijos hallan muertos a sus padres, un matrimonio irlandés, dentro del jacuzzi en Cullera",
+      "link": "https://www.abc.es/espana/comunidad-valenciana/hallan-cadaveres-pareja-irlandesa-desnudos-junto-jacuzzi-20260826083747-nt.html",
+      "desc": "La Guardia Civil ha abierto una investigación para tratar de esclarecer las circunstancias del macabro hallazgo de los cadáveres de un matrimonio de origen irlandés, de 45 y 50 años, dentro de un jacuzzi en un chalé ubicado en la urbanización de lujo Cap Blanc",
+      "date": "Wed, 26 Aug 2026 08:41:12 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
     {
       "title": "Detenido en las fiestas de Chiva con cocaína, hachís, MDMA y un bolígrafo-pistola del calibre 22",
       "link": "https://www.abc.es/espana/comunidad-valenciana/detenido-fiestas-chiva-cocaina-hachis-mdma-boligrafopistola-20260826082330-nt.html",
@@ -63,56 +233,6 @@
       "caso": "other"
     },
     {
-      "title": "Cuál es el origen de los tomates que se lanzan en la Tomatina de Buñol: «No son aptos para el consumo»",
-      "link": "https://www.abc.es/espana/comunidad-valenciana/origen-tomates-lanzan-tomatina-bunol-aptos-consumo-20260825161950-nt.html",
-      "desc": "La localidad valenciana de Buñol ya lo tiene todo preparado para vivir este miércoles 26 de agosto la popular fiesta de la Tomatina , una batalla de tomates que apasiona a vecinos y a turistas llegados de todas las partes del mundo. En total, más de 22.000 per",
-      "date": "Wed, 26 Aug 2026 06:40:48 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "El turismo en Andalucía no toca techo y vuelve a marcar máximos históricos",
-      "link": "https://www.abc.es/espana/andalucia/turismo-andalucia-toca-techo-sigue-marcando-maximos-20260826185001-nts.html",
-      "desc": "El turismo andaluz no sólo resiste, sino que avanza . Las previsiones, tan agoreras como en cierto modo lógicas, vaticinan un freno más pronto que tarde por la imposibilidad de mantenerse continuamente en máximos históricos. Pero un año más, otro verano, pese ",
-      "date": "Wed, 26 Aug 2026 06:36:55 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "La Guardia Civil debe hacer frente a las narcolanchas en zodiacs en Andalucía",
-      "link": "https://www.abc.es/espana/andalucia/guardia-civil-debe-frente-narcolanchas-zodiacs-andalucia-20260826195444-nts.html",
-      "desc": "Una zodiac otra vez contra las narcolanchas en Cádiz. La embarcación 'maldita' desde los agentes asesinatos de Barbate. Más grande que aquella en la que embarcaron David Pérez y Miguel Ángel González con cuatro compañeros el 9 de febrero de 2024. La que dejó d",
-      "date": "Wed, 26 Aug 2026 06:36:50 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Cortes de tráfico en Barcelona por las fiestas del barrio de Sants 2026: calles afectadas y cómo llegar",
-      "link": "https://www.abc.es/espana/cataluna/cortes-trafico-barcelona-fiestas-barrio-sants-2026-20260826063000-nt.html",
-      "desc": "Barcelona encara la recta final de agosto con una de sus fiestas populares más multitudinarias. La Fiesta Mayor de Sants 2026 ya está en marcha y continuará llenando las calles del barrio de música, cultura popular, actividades infantiles, gastronomía y concie",
-      "date": "Wed, 26 Aug 2026 06:30:09 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "La Tomatina de Buñol 2026 hoy: a qué hora empieza, duración, cómo llegar y precio de las entradas",
-      "link": "https://www.abc.es/espana/comunidad-valenciana/tomatina-bunol-2026-hoy-hora-empieza-duracion-20260826063000-nt.html",
-      "desc": "La localidad valenciana de Buñol se prepara para vivir la Tomatina este miércoles 26 de agosto, una de las tradiciones más singulares del verano en España, cuya nueva edición congregará a 22.000 personas que se lanzarán hasta 150.000 kilos de tomate en apenas ",
-      "date": "Wed, 26 Aug 2026 06:30:00 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
       "title": "¿Que es la psicosis postparto? Un trastorno “muy grave” con delirios y alucinaciones",
       "link": "https://www.lavanguardia.com/vida/20260826/11619770/psicosis-postparto-trastorno-grave-delirios-lindsay-clancy.html",
       "desc": "&nbsp;Está relacionado con el trastorno bipolar, afecta a una de cada 1.000 mujeres, requiere de internamiento y de medicación",
@@ -120,126 +240,6 @@
       "source": "La Vanguardia",
       "color": "#8e44ad",
       "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "El Gobierno admite que se informó del aumento de entradas en Ceuta pero no de un asalto “excepcional”",
-      "link": "https://www.lavanguardia.com/politica/20260826/11619977/gobierno-admite-informo-aumento-entradas-ceuta-envergadura.html",
-      "desc": "Marlaska y Robles discrepan sobre lo que sabía y comunicó de Ceuta el CNI",
-      "date": "26 Aug 2026 06:00:00 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "Merz ante el peligro: el canciller de Alemania afronta la pujanza de la ultraderecha debilitado por las crisis de agosto",
-      "link": "https://www.lavanguardia.com/internacional/20260826/11619964/merz-alemania-ultraderecha-afd-elecciones-crisis-agosto-calor.html",
-      "desc": "",
-      "date": "26 Aug 2026 06:00:00 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "Veinte novedades literarias para disfrutar este nuevo curso",
-      "link": "https://www.lavanguardia.com/cultura/20260826/11619712/veinte-libros-disfrutar-nuevo-curso-rentree-castellano-catalan.html",
-      "desc": "Lo nuevo de Dolores Redondo, Alana S. Portero, Laura Gost y Flavia Company, entre otros, llega a las librerías",
-      "date": "26 Aug 2026 06:00:00 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "Choque social en EE.UU. por el caso de una madre que mató a sus tres hijos",
-      "link": "https://www.lavanguardia.com/vida/20260826/11620003/choque-social-ee-uu-caso-madre-mato-tres-hijos.html",
-      "desc": "Un jurado resolverá si una discutida psicosis llevó a Clancy a no controlar qué hacía",
-      "date": "26 Aug 2026 06:00:00 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "El verano de las IAs rebeldes",
-      "link": "https://www.lavanguardia.com/vida/20260826/11619984/verano-ias-rebeldes.html",
-      "desc": "Cómo la narrativa de las compañías de IA nos pone en alerta sobre elementos de seguridad que sólo ellas controlan",
-      "date": "26 Aug 2026 06:00:00 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "Amaia Montero, la cantante que regresó del infierno, cumple 50 años",
-      "link": "https://www.lavanguardia.com/gente/20260826/11619674/amaia-montero-oreja-van-gogh-regreso-50.html",
-      "desc": "Su regreso a La Oreja de Van Gogh, precedido de suculentas controversias, es un éxito incontestable: la banda agota entradas y su antigua líder se ha reencontrado consigo misma sobre los escenarios",
-      "date": "26 Aug 2026 06:00:00 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "La mentira con dolor real de Tania Head, la catalana impostora del 11-S",
-      "link": "https://www.lavanguardia.com/cultura/20260826/11619825/la-superviviente-mentira-dolor-real-tania-head-impostora-catalana-11-s.html",
-      "desc": "Kike Maíllo estrena un documental que explora “qué puede llevar a alguien a hacer algo así y, sobre todo, por qué pudo suceder algo así”",
-      "date": "26 Aug 2026 06:00:00 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "Seis jugadores, una pelota y ningún rival: así es el chinlone",
-      "link": "https://www.lavanguardia.com/internacional/20260826/11619914/seis-jugadores-pelota-ningun-rival-asi-chinlone.html",
-      "desc": "Más que competir por una victoria, los participantes buscan demostrar su destreza y capacidad artística, convirtiendo cada jugada en una exhibición de habilidad",
-      "date": "26 Aug 2026 06:00:00 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "Sánchez se pliega a la UE y tendrá que asumir ahora la Ley de asilo que se negaba a aplicar",
-      "link": "https://www.abc.es/espana/sanchez-pliega-ue-asumir-ley-asilo-negaba-20260826023332-nt.html",
-      "desc": "El Gobierno aprobó este martes, pese a que no se había anunciado la intención en ningún momento, los anteproyectos de una nueva Ley de Asilo y de reforma de la Ley de Extranjería, cambios a los que le obliga la asunción del Pacto Europeo de Migración y Asilo (",
-      "date": "Wed, 26 Aug 2026 02:33:32 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "La Policía detecta mafias que usan barcas inflables traídas desde la Península para esquivar la vigilancia en Ceuta",
-      "link": "https://www.abc.es/espana/policia-detecta-mafias-usan-barcas-inflables-traidas-20260826015245-nt.html",
-      "desc": "La Policía Nacional ha detectado que las mafias están trasladando a Ceuta barcas plegadas para viajar a la Península con un mayor número de inmigrantes provenientes de la avalancha que se produjo a finales de julio en la ciudad autónoma, según adelantan fuente",
-      "date": "Wed, 26 Aug 2026 01:52:45 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Inteligencia detecta «movimientos» coincidiendo con las elecciones en Marruecos del 23 de septiembre",
-      "link": "https://www.abc.es/espana/inteligencia-detecta-movimientos-coincidiendo-elecciones-marruecos-septiembre-20260826015228-nt.html",
-      "desc": "Los servicios de inteligencia y de información siguen monitorizando las redes sociales para intentar adelantarse a los flujos migratorios que vienen desde Marruecos. Una de las fechas que se antoja clave es el 23 de septiembre, cuando se celebran las eleccione",
-      "date": "Wed, 26 Aug 2026 01:52:28 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Sánchez se vuelve a ir de vacaciones tras tener que rectificar toda su gestión en Ceuta",
-      "link": "https://www.abc.es/espana/sanchez-vuelve-vacaciones-tras-corregir-gestion-ceuta-20260825014546-nt.html",
-      "desc": "Pedro Sánchez aún no ha concluido sus vacaciones de verano. Apenas 48 horas después de celebrar el Consejo de Ministros y el Consejo de Seguridad Nacional que ha motivado la imposición de un mando único en Ceuta, el presidente del Gobierno vuelve a abandonar e",
-      "date": "Wed, 26 Aug 2026 01:45:46 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
       "caso": "other"
     }
   ]
