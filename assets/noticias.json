@@ -1,7 +1,107 @@
 {
-  "updated": "2026-08-30T18:59:41Z",
+  "updated": "2026-08-30T22:19:05Z",
   "count": 24,
   "items": [
+    {
+      "title": "Así está el Córdoba CF en la clasificación tras la derrota en el derbi andaluz ante el Granada",
+      "link": "https://www.abc.es/espana/andalucia/cordoba/cordoba-cf/cordoba-clasificacion-tras-20260831120111-nts.html",
+      "desc": "El Córdoba CF no pudo sumar su segunda victoria consecutiva en El Arcángel tras caer ante el Granada (1-3). El conjunto blanquiverde no pudo dar continuidad a una primera parte sobria y sucumbió en un segundo acto donde el cuadro nazarí supo controlar el ritmo",
+      "date": "Mon, 31 Aug 2026 00:13:59 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "El Córdoba CF pierde en un visto y no visto y cede la victoria en los últimos minutos al Granada (1-3)",
+      "link": "https://www.abc.es/espana/andalucia/cordoba/cordoba-cf/cordoba-pierde-pulso-entrega-derbi-andaluz-arcangel-20260831234811-dis.html",
+      "desc": "El Córdoba CF no pudo prolongar sus buenas sensaciones en El Arcángel y cedió en el derbi andaluz ante el Granada (1-3). Pese al gran inicio de los pupilos de Iván Ania, el conjunto nazarí supo controlar el ritmo del partido y fue ganando terreno en el encuent",
+      "date": "Mon, 31 Aug 2026 00:09:50 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "EE.UU. ataca a drones iraníes en la isla de Larak y deja al menos dos muertos",
+      "link": "https://www.lavanguardia.com/internacional/20260830/11623432/ee-uu-ataca-drones-iranies-isla-larak-deja-dos-muertos.html",
+      "desc": "La posición se encuentra cerca del estrecho de Ormuz, lugar estratégico para el tránsito de petróleo global",
+      "date": "30 Aug 2026 23:30:27 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
+    {
+      "title": "Detenidos tres marroquíes por un nuevo ataque contra una patrulla militar en Ceuta",
+      "link": "https://www.lavanguardia.com/politica/20260830/11623291/detenidos-tres-marroquies-nuevo-ataque-patrulla-militar-ceuta.html",
+      "desc": "Se ha producido este domingo en la zona de San Amaro,&nbsp;no llegando a herir a ningun integrante",
+      "date": "30 Aug 2026 23:09:57 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
+    {
+      "title": "Cataluña arranca un curso escolar convulso con los docentes en pie de guerra y en pleno  fiasco de PISA",
+      "link": "https://www.abc.es/espana/cataluna/vuelta-clase-cataluna-huelga-profesores-fiasco-pisa-20260830123148-nt.html",
+      "desc": "El nuevo curso escolar en Cataluña arrancará el próximo 8 de septiembre con los docentes aún en pie de guerra -el mismo día de apertura de curso hay una huelga prevista- y el fiasco de las pruebas PISA , de las que ha sido apartada por primera vez en la histor",
+      "date": "Sun, 30 Aug 2026 22:21:56 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Detenidos tres marroquíes tras atacar con cócteles molotov a militares en Ceuta",
+      "link": "https://www.abc.es/espana/guardia-civil-detiene-tres-marroquies-atacar-cocteles-20260830220007-nt.html",
+      "desc": "Un grupo de inmigrantes ha atacado por tercera vez a las Fuerzas Armadas desplegadas en Ceuta, esta vez con cócteles molotov. Por el momento, agentes de la Guardia Civil han detenido a tres marroquíes. Estos habrían lanzado unas botellas con líquido corrosivo ",
+      "date": "Sun, 30 Aug 2026 22:00:07 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "El 'tomate' de elegir senador autonómico en las Cortes de Castilla y León",
+      "link": "https://www.abc.es/espana/castilla-leon/tomate-elegir-senador-autonomico-20260830214603-nt.html",
+      "desc": "Dos para el PP y uno para el PSOE. Ese es el reparto de los tres senadores por designación autonómica con que cuenta la Comunidad y que deberán tener el beneplácito de las Cortes de Castilla y León. Una tarea nada fácil con tan pocas piezas para encajar unos n",
+      "date": "Sun, 30 Aug 2026 21:46:03 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Plan de choque para educación: 500 aulas de acogida y no a la IA para menores de 14 años",
+      "link": "https://www.lavanguardia.com/vida/20260830/11621930/plan-choque-educacion-500-aulas-acogida-ia-menores-14-anos.html",
+      "desc": "Estas son las novedades que Educació presentará para mejorar la atención del alumnado en el nuevo curso escolar marcado por menos alumnos y más profesores",
+      "date": "30 Aug 2026 21:10:00 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
+    {
+      "title": "Los penaltis privan al Córdoba Patrimonio de la Humanidad de su tercera Copa de Andalucía (1-1)",
+      "link": "https://www.abc.es/espana/andalucia/cordoba/penaltis-privan-cordoba-patrimonio-humanidad-tercera-copa-20260830210808-nts.html",
+      "desc": "El Córdoba Patrimonio de la Humanidad no pudo lograr su tercera Copa de Andalucía tras caer en Torredelcampo ante el Jaén Paraíso Interior en la tanda de penaltis (3-5). Un error de Titi del Rey desde el punto fatídico terminó por decidir una cita igualada que",
+      "date": "Sun, 30 Aug 2026 21:08:08 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Así será la despedida del rey Harald: capilla ardiente en el palacio real y funeral en la catedral",
+      "link": "https://www.lavanguardia.com/internacional/20260830/11623270/asi-sera-despedida-rey-harald-capilla-ardiente-palacio-real-funeral-catedral.html",
+      "desc": "La ceremonia de Estado, con asistencia de representantes de las casas reales, tendrá lugar el 9 de septiembre",
+      "date": "30 Aug 2026 21:06:47 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
     {
       "title": "Mueren una mujer y su hija de nueve años tras un incendio en un bar de Teruel",
       "link": "https://www.abc.es/espana/aragon/mueren-mujer-hija-nueve-anos-tras-incendio-20260830204455-nt.html",
@@ -113,16 +213,6 @@
       "caso": "other"
     },
     {
-      "title": "Cinco heridos, tres críticos, al salirse un coche de la vía y volcar en el Alt Urgell",
-      "link": "https://www.lavanguardia.com/local/catalunya/20260830/11623245/cinco-heridos-tres-criticos-salida-vuelco-ribera-d-urgellet.html",
-      "desc": "El accidente se produjo en un camino rural cerca de la C-14 y el SEM activó dos helicópteros medicalizados y varios equipos de emergencia para atender a los ocupantes del vehículo",
-      "date": "30 Aug 2026 19:31:01 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
       "title": "El Real Madrid de Mourinho es una apisonadora con Bellingham a los mandos",
       "link": "https://www.lavanguardia.com/deportes/real-madrid/20260830/11623222/real-madrid-mourinho-apisonadora-bellingham-mandos.html",
       "desc": "El inglés abrió la lata ante el Málaga con una brillante acción individual, su remate generó el 2-0 y fue el futbolista que mejor interpreta lo que quiere Mourinho sobre el césped (4-0)",
@@ -150,96 +240,6 @@
       "source": "La Vanguardia",
       "color": "#8e44ad",
       "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "Abraham García y Virginia Torres, vencedores de la XLIV Carrera Antonio Ruano en Mocejón",
-      "link": "https://www.abc.es/espana/castilla-la-mancha/toledo/pueblos/abraham-garcia-virginia-torres-vencedores-xliv-carrera-20260830182703-nt.html",
-      "desc": "Con casi 200 participantes, entre las categorías menores y la absoluta, se celebró la XLIV Carrera Popular Antonio Ruano, en Mocejón. Muchos amigos y compañeros se dieron cita para testimoniar, al margen de la parte deportiva, el cariño, afecto y respeto que s",
-      "date": "Sun, 30 Aug 2026 18:27:03 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Segundo ataque de orcas a barcos en 24 horas en Galicia: dañan el timón de un velero en Vigo",
-      "link": "https://www.abc.es/espana/galicia/segundo-ataque-orcas-barcos-horas-galicia-danan-20260830181148-nt.html",
-      "desc": "Un grupo de orcas han atacado un velero que navegaba con dos tripulantes en el norte de la ría de Vigo, rompiendo el timón de la embarcación. Este es el segundo ataque que se produce en las últimas 24 horas en aguas gallegas, después de otro sucedido en la ría",
-      "date": "Sun, 30 Aug 2026 18:11:49 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Guadalupe abre su Año Santo con la mirada puesta en atraer a peregrinos de toda España",
-      "link": "https://www.abc.es/espana/castilla-la-mancha/toledo/guadalupe-abre-ano-santo-mirada-puesta-atraer-20260830175315-nt.html",
-      "desc": "La Puerta Jubilar del Monasterio de Santa María de Guadalupe se abrió este sábado para dar comienzo a un nuevo Año Santo Guadalupense . El arzobispo de Toledo y Primado de España, Francisco Cerro Chaves, fue el encargado de empujar con su báculo la puerta que ",
-      "date": "Sun, 30 Aug 2026 17:53:15 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Dani Rovira se deja seducir por la gastronomía cordobesa en plena Judería",
-      "link": "https://www.abc.es/espana/andalucia/cordoba/dani-rovira-deja-seducir-gastronomia-cordobesa-plena-20260830174833-nts.html",
-      "desc": "La Taberna Casa Pedro Ximénez, situada en plena Judería de Córdoba, ha recibido una visita ilustre de la que ha querido presumir a través de sus redes sociales. El humorista, actor y presentador malagueño Dani Rovira se ha dejado seducir por la gastronomía cor",
-      "date": "Sun, 30 Aug 2026 17:48:33 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Nepal contacta con otro ciudadano español desaparecido en la riada",
-      "link": "https://www.lavanguardia.com/internacional/20260830/11623193/autoridades-nepalies-han-contactado-tres-espanoles-afectados-riada.html",
-      "desc": "El informe no precisa si han sido evacuados del terreno o si se encuentran a la espera de rescate en sus ubicaciones",
-      "date": "30 Aug 2026 17:46:19 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "La Celestina, una tragicomedia a la luz del candil y con el amor de todo un pueblo",
-      "link": "https://www.abc.es/espana/castilla-la-mancha/toledo/pueblos/celestina-20260830112135-nt.html",
-      "desc": "Velas encendidas sobre una mesa. Tarros con brebajes que solo funcionan bajo un pensamiento ilusorio. Una cueva y una alcahueta. Rufianes, prostitutas y criados infieles. Estos son solo algunos de los ingredientes de la tragicomedia de Calisto y Melibea : La C",
-      "date": "Sun, 30 Aug 2026 17:44:24 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Una de cada cinco empresas gallegas de diez o más empleados ya utiliza Inteligencia Artificial",
-      "link": "https://www.abc.es/espana/galicia/cinco-empresas-gallegas-diez-empleados-utiliza-inteligencia-20260830173745-nt.html",
-      "desc": "El uso de la Inteligencia Artificial, en todas sus variantes, se expande también entre las empresas gallegas. Y es que una de cada cinco empresas de diez o más empleados ya la ha incorporado a su sistema de trabajo. En las microempresas, es decir, las que cuen",
-      "date": "Sun, 30 Aug 2026 17:37:45 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "'Cir&Co 2026' concluye en Ávila una edición de «éxito» con 55.000 espectadores",
-      "link": "https://www.abc.es/espana/castilla-leon/circo-2026-concluye-avila-edicion-exito-55000-20260830172233-nt.html",
-      "desc": "El XIV Festival Internacional de Circo de Castilla y León concluye con más de 55.000 espectadores que han llenado todos los aforos tras cuatro jornadas en las que se han desarrollado 225 actividades de artes escénicas en la ciudad de Ávila y siete localidades ",
-      "date": "Sun, 30 Aug 2026 17:25:34 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Muere un hombre tras golpearse en la cabeza con una roca en el Pou Clar de Ontinyent",
-      "link": "https://www.abc.es/espana/comunidad-valenciana/muere-hombre-tras-golpearse-cabeza-roca-pou-20260830170825-nt.html",
-      "desc": "Un hombre de 35 años ha muerto este domingo al sufrir un fuerte golpe en la cabeza contra una roca mientras estaba con su familia en el paraje del Pou Clar, en Ontinyent (Valencia), según ha informado el consistorio en un comunicado. Los hechos se han producid",
-      "date": "Sun, 30 Aug 2026 17:08:26 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
       "caso": "other"
     }
   ]
