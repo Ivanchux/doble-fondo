@@ -1,7 +1,187 @@
 {
-  "updated": "2026-08-30T22:19:05Z",
+  "updated": "2026-08-31T03:06:56Z",
   "count": 24,
   "items": [
+    {
+      "title": "El independentismo busca agravios para la Diada",
+      "link": "https://www.abc.es/espana/cataluna/independentismo-busca-agravios-diada-20260831014630-nt.html",
+      "desc": "Se acerca la Diada del 11 de septiembre y el independentismo intenta asomar entre titulares de la invasión de Ceuta o el paseíllo judicial del sanchismo. Con el retorno de Puigdemont aplazado al otoño, los agravios cotizan cual trufa blanca. Tenemos Sijena, pr",
+      "date": "Mon, 31 Aug 2026 01:46:30 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Serrano gestó el 'enchufe' de Leire Díez en Correos tras un inusual cuestionario interno",
+      "link": "https://www.abc.es/espana/serrano-gesto-enchufe-leire-diez-correos-tras-20260727012810-nt.html",
+      "desc": "La gestión de Juanma Serrano , ex jefe de gabinete de Pedro Sánchez y el que fuera su hombre de máxima confianza, al frente de Correos sigue arrojando sombras, especialmente en lo relativo a sus políticas de contratación, promoción y gestión del personal direc",
+      "date": "Mon, 31 Aug 2026 01:28:10 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "lei"
+    },
+    {
+      "title": "Los niños de Ceuta, entre cuatro paredes: «Estoy todo el día con la tablet»",
+      "link": "https://www.abc.es/espana/infancia-ceuti-salir-casa-dia-tablet-20260829012556-nt.html",
+      "desc": "Todo inicio de curso trae consigo cierto caos, pero nada comparable con el que se avecina ahora en Ceuta. Porque es una mañana de verano, de esas en las que ya se intuye su fin, y en los parques infantiles de la ciudad autónoma solo hay quietud. Hace horas que",
+      "date": "Mon, 31 Aug 2026 01:25:56 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "La juez que investiga la avalancha de Ceuta lleva más de un año reclamando ayuda de Marruecos por el narcotúnel",
+      "link": "https://www.abc.es/espana/juez-investiga-avalancha-ceuta-lleva-ano-reclamando-20260824012547-nt.html",
+      "desc": "La juez de la Audiencia Nacional que ha abierto diligencias previas por la crisis de Ceuta lleva más de un año esperando la colaboración de Marruecos en el caso del narcotúnel que fue localizado en la ciudad autónoma. Ni una comisión rogatoria ha servido para ",
+      "date": "Mon, 31 Aug 2026 01:25:47 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "gen"
+    },
+    {
+      "title": "Mensajes soberanistas marroquíes con términos violentos y religiosos antes de la invasión de Ceuta",
+      "link": "https://www.abc.es/espana/mensajes-soberanistas-marroquies-terminos-violentos-religiosos-invasion-20260831012538-nt.html",
+      "desc": "Los mensajes soberanistas marroquíes para «liberar» Ceuta y Melilla se incrementaron en las fechas anteriores a la invasión de decenas de miles de personas en la ciudad autónoma. Un análisis de inteligencia al que ha tenido acceso ABC refleja este aumento de l",
+      "date": "Mon, 31 Aug 2026 01:25:38 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Un informe de inteligencia aconseja replantear la relación con Marruecos: subir la guardia y más cautelas",
+      "link": "https://www.abc.es/espana/cooperacion-contravigilancias-directrices-inteligencia-futuro-relaciones-marruecos-20260820012406-nt.html",
+      "desc": "La colaboración en materia de inteligencia entre España y Marruecos en ningún momento se ha cortado a pesar de las tensiones existentes entre ambos países. Ni en 2021 ni en 2026 se han roto. Los choques diplomáticos no han afectado al trasvase de información, ",
+      "date": "Mon, 31 Aug 2026 01:24:06 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "El curso judicial arranca con la imputación del PSOE en el horizonte y Begoña Gómez a un paso del banquillo",
+      "link": "https://www.abc.es/espana/curso-judicial-arranca-imputacion-psoe-horizonte-begona-20260831012202-nt.html",
+      "desc": "El curso judicial se retoma este septiembre con una intensa actividad en los tribunales. Tras el breve parón de agosto, protagonizado por la crisis sin precedentes de Ceuta, tanto en la Audiencia Nacional como en los juzgados de la Plaza de Castilla de Madrid ",
+      "date": "Mon, 31 Aug 2026 01:22:02 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "gen"
+    },
+    {
+      "title": "El clan de Os Fanchos: del narcotráfico local en Galicia a los cárteles internacionales",
+      "link": "https://www.abc.es/espana/galicia/fanchos-narcotrafico-local-galicia-alijar-carteles-internacionales-20260829011958-nt.html",
+      "desc": "Tonelada y media de cocaína no se pone en manos de cualquiera. Pero Rafael Rivas Gey no es un recién llegado: es el actual líder de Os Fanchos, un clan del Barbanza que, en algo más de dos décadas, ha pasado de distribuir droga a pequeña escala en la comarca c",
+      "date": "Mon, 31 Aug 2026 01:19:58 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "La 'Capilla Sixtina extremeña': el milagro que renace en un pueblo de 700 habitantes",
+      "link": "https://www.abc.es/espana/extremadura/capilla-sixtina-extremena-milagro-renace-pueblo-700-20260828011745-nt.html",
+      "desc": "Para entenderlo hay que cruzar sus puertas. Desde fuera, la Ermita de Nuestra Señora del Ara parece una más de las muchas que salpican las sierras del sur de Extremadura: paredes blancas, sencillas, casi austeras. Todo cambia cuando estás dentro. Las paredes d",
+      "date": "Mon, 31 Aug 2026 01:17:45 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "La nueva vida de la mítica piscina Stella: el antiguo club se convertirá en un colegio católico",
+      "link": "https://www.abc.es/espana/madrid/nueva-vida-mitica-piscina-stella-antiguo-club-20260827011725-nt.html",
+      "desc": "De ser cierto todo lo que se ha escrito sobre la piscina Stella , bien podría construirse la crónica de una tarde de agosto como esta, pero hace más de medio siglo. Una puede imaginársela impregnada de atrevidos trajes de baño de dos piezas, botones de latón d",
+      "date": "Mon, 31 Aug 2026 01:17:25 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "El cine asiático conquista la Filmoteca Española",
+      "link": "https://www.abc.es/espana/madrid/cine-asiatico-conquista-filmoteca-espanola-20260831010140-nt.html",
+      "desc": "Tras sus exitosas ediciones anteriores, Spain Moving Images Festival (SMIF 2026), el único festival de creación audiovisual, cine y videoarte asiático con sede en Madrid, vuelve del 3 de septiembre al 18 de octubre a la Filmoteca Española. Organizado por la As",
+      "date": "Mon, 31 Aug 2026 01:01:40 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Desalojan la Intervención de Armas de la Guardia Civil tras entregar un ciudadano cinco granadas",
+      "link": "https://www.abc.es/espana/madrid/desalojan-intervencion-armas-guardia-civil-tras-entregar-20260830010134-nt.html",
+      "desc": "La Guardia Civil tuvo que desalojar el pasado jueves las dependencias de la Intervención de Armas y Explosivos de Madrid después de que un ciudadano acudiera al edificio para entregar dos granadas de mano, tres granadas de mortero y dos cartuchos de gran calib",
+      "date": "Mon, 31 Aug 2026 01:01:34 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Vox lleva al máximo la judicialización como arma contra Sánchez: decenas de querellas contra el Gobierno y su núcleo duro",
+      "link": "https://www.abc.es/espana/vox-lleva-maximo-judicializacion-arma-sanchez-decenas-20260621010044-nt.html",
+      "desc": "Querellas como herramienta de oposición . Vox ha convertido los juzgados en su principal trinchera de oposición a Pedro Sánchez, presidente del Gobierno rodeado de casos de supuesta corrupción. Tres días después de estallar la crisis en Ceuta, presentaron una ",
+      "date": "Mon, 31 Aug 2026 01:00:44 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Las notas de los jugadores del Córdoba CF tras la derrota ante el Granada",
+      "link": "https://www.abc.es/espana/andalucia/cordoba/cordoba-cf/notas-jugadores-cordoba-tras-20260830120634-nts.html",
+      "desc": "La irregularidad sigue siendo una constante en el Córdoba CF . Una vez más, los pupilos de Iván Ania no fueron capaces de sostener la ventaja generada en los primeros compases de la primera mitad y fueron cediendo cada vez más terreno ante el Granada . Aunque ",
+      "date": "Mon, 31 Aug 2026 00:38:21 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Tragedia, tristeza y oración maternal en la música para la Virgen de los Dolores de Córdoba",
+      "link": "https://www.abc.es/espana/andalucia/cordoba/semana-santa/tragedia-tristeza-oracion-maternal-musica-virgen-dolores-20260831003010-nts.html",
+      "desc": "¿Qué tocará la banda de música de la Esperanza tras la Virgen de los Dolores el Viernes Santo ? La pregunta se lo hicieron muchos de los cofrades que deseaban que la formación acompañase a la Señora de Córdoba y la respuesta no tardará en saberse, pero es posi",
+      "date": "Mon, 31 Aug 2026 00:30:11 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Postal desde Güemes",
+      "link": "https://www.abc.es/espana/andalucia/cordoba/juan-jose-primo-jurado-postal-guemes-20260831003000-nts.html",
+      "desc": "Mañana es 1 de septiembre, tradicionalmente y para la mayoría, el día de vuelta a los trabajos tras la 'tregua' de agosto. Por eso escribo estas líneas con aroma a despedida de vacaciones . Una parte de un servidor de ustedes mira siempre hacia el norte de Esp",
+      "date": "Mon, 31 Aug 2026 00:30:01 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Los últimos diez retos pendientes de Bellido para redondear su mandato",
+      "link": "https://www.abc.es/espana/andalucia/cordoba/ultimos-diez-retos-pendientes-bellido-terminar-mandato-20260831183519-nts.html",
+      "desc": "Arranca un nuevo curso político en Córdoba y con él, la recta final del segundo mandato de José María Bellido al frente del Ayuntamiento de Córdoba. A nueve meses para que los cordobeses pasen de nuevo por las urnas, el alcalde popular tiene varios retos pendi",
+      "date": "Mon, 31 Aug 2026 00:29:50 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Los olivareros presionan para que la aceituna pueda recogerse de noche",
+      "link": "https://www.abc.es/espana/andalucia/cordoba/olivareros-presionan-aceituna-pueda-recogerse-noche-20260831002905-nts.html",
+      "desc": "El próximo 1 de octubre arranca oficialmente la campaña oleícola 2026/27, aunque hay explotaciones que empiezan unos días antes. Una cuenta atrás que se hace con la vista puesta en los olivos, pues estas últimas semanas son fundamentales para que se haga de ma",
+      "date": "Mon, 31 Aug 2026 00:29:06 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
     {
       "title": "Así está el Córdoba CF en la clasificación tras la derrota en el derbi andaluz ante el Granada",
       "link": "https://www.abc.es/espana/andalucia/cordoba/cordoba-cf/cordoba-clasificacion-tras-20260831120111-nts.html",
@@ -23,9 +203,29 @@
       "caso": "other"
     },
     {
-      "title": "EE.UU. ataca a drones iraníes en la isla de Larak y deja al menos dos muertos",
+      "title": "Cuando la IA nos domina",
+      "link": "https://www.lavanguardia.com/opinion/20260831/11623288/ia-domina.html",
+      "desc": "Realmente queda mucho por hacer y parece que siempre vamos tarde",
+      "date": "31 Aug 2026 00:05:00 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
+    {
+      "title": "Al menos 20 personas desaparecidas y decenas evacuadas por una gran riada en el Gran Cañón",
+      "link": "https://www.lavanguardia.com/internacional/20260830/11623437/personas-desaparecidas-decenas-evacuadas-gran-riada-gran-canon.html",
+      "desc": "Los torrentes de agua arrasaron las pasarelas peatonales sobre el arroyo, ensanchando el cauce y creando lo que parece ser un nuevo rápido en el río Colorado",
+      "date": "30 Aug 2026 23:55:26 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
+    {
+      "title": "EE.UU. ataca la isla de Larak, Irán responde lanzando misiles contra jordania",
       "link": "https://www.lavanguardia.com/internacional/20260830/11623432/ee-uu-ataca-drones-iranies-isla-larak-deja-dos-muertos.html",
-      "desc": "La posición se encuentra cerca del estrecho de Ormuz, lugar estratégico para el tránsito de petróleo global",
+      "desc": "Es el primer ataque desde julio, lanzado contra objetivos militares de la Guardia Revolucionaria iraní",
       "date": "30 Aug 2026 23:30:27 +0200",
       "source": "La Vanguardia",
       "color": "#8e44ad",
@@ -37,206 +237,6 @@
       "link": "https://www.lavanguardia.com/politica/20260830/11623291/detenidos-tres-marroquies-nuevo-ataque-patrulla-militar-ceuta.html",
       "desc": "Se ha producido este domingo en la zona de San Amaro,&nbsp;no llegando a herir a ningun integrante",
       "date": "30 Aug 2026 23:09:57 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "Cataluña arranca un curso escolar convulso con los docentes en pie de guerra y en pleno  fiasco de PISA",
-      "link": "https://www.abc.es/espana/cataluna/vuelta-clase-cataluna-huelga-profesores-fiasco-pisa-20260830123148-nt.html",
-      "desc": "El nuevo curso escolar en Cataluña arrancará el próximo 8 de septiembre con los docentes aún en pie de guerra -el mismo día de apertura de curso hay una huelga prevista- y el fiasco de las pruebas PISA , de las que ha sido apartada por primera vez en la histor",
-      "date": "Sun, 30 Aug 2026 22:21:56 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Detenidos tres marroquíes tras atacar con cócteles molotov a militares en Ceuta",
-      "link": "https://www.abc.es/espana/guardia-civil-detiene-tres-marroquies-atacar-cocteles-20260830220007-nt.html",
-      "desc": "Un grupo de inmigrantes ha atacado por tercera vez a las Fuerzas Armadas desplegadas en Ceuta, esta vez con cócteles molotov. Por el momento, agentes de la Guardia Civil han detenido a tres marroquíes. Estos habrían lanzado unas botellas con líquido corrosivo ",
-      "date": "Sun, 30 Aug 2026 22:00:07 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "El 'tomate' de elegir senador autonómico en las Cortes de Castilla y León",
-      "link": "https://www.abc.es/espana/castilla-leon/tomate-elegir-senador-autonomico-20260830214603-nt.html",
-      "desc": "Dos para el PP y uno para el PSOE. Ese es el reparto de los tres senadores por designación autonómica con que cuenta la Comunidad y que deberán tener el beneplácito de las Cortes de Castilla y León. Una tarea nada fácil con tan pocas piezas para encajar unos n",
-      "date": "Sun, 30 Aug 2026 21:46:03 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Plan de choque para educación: 500 aulas de acogida y no a la IA para menores de 14 años",
-      "link": "https://www.lavanguardia.com/vida/20260830/11621930/plan-choque-educacion-500-aulas-acogida-ia-menores-14-anos.html",
-      "desc": "Estas son las novedades que Educació presentará para mejorar la atención del alumnado en el nuevo curso escolar marcado por menos alumnos y más profesores",
-      "date": "30 Aug 2026 21:10:00 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "Los penaltis privan al Córdoba Patrimonio de la Humanidad de su tercera Copa de Andalucía (1-1)",
-      "link": "https://www.abc.es/espana/andalucia/cordoba/penaltis-privan-cordoba-patrimonio-humanidad-tercera-copa-20260830210808-nts.html",
-      "desc": "El Córdoba Patrimonio de la Humanidad no pudo lograr su tercera Copa de Andalucía tras caer en Torredelcampo ante el Jaén Paraíso Interior en la tanda de penaltis (3-5). Un error de Titi del Rey desde el punto fatídico terminó por decidir una cita igualada que",
-      "date": "Sun, 30 Aug 2026 21:08:08 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Así será la despedida del rey Harald: capilla ardiente en el palacio real y funeral en la catedral",
-      "link": "https://www.lavanguardia.com/internacional/20260830/11623270/asi-sera-despedida-rey-harald-capilla-ardiente-palacio-real-funeral-catedral.html",
-      "desc": "La ceremonia de Estado, con asistencia de representantes de las casas reales, tendrá lugar el 9 de septiembre",
-      "date": "30 Aug 2026 21:06:47 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "Mueren una mujer y su hija de nueve años tras un incendio en un bar de Teruel",
-      "link": "https://www.abc.es/espana/aragon/mueren-mujer-hija-nueve-anos-tras-incendio-20260830204455-nt.html",
-      "desc": "Un incendio declarado a las 17.30 horas en un restaurante de Cedrillas (Teruel) que se ha extendido luego al edificio se ha saldado con dos fallecidos, una mujer de 32 años y su hija menor de 9 ; mientras que hay una tercera persona que ha sido evacuada de la ",
-      "date": "Sun, 30 Aug 2026 20:44:56 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Moreno insiste en que el Gobierno debe reforzar los medios contra el narcotráfico «sin más dilación»",
-      "link": "https://www.abc.es/espana/andalucia/moreno-insiste-gobierno-debe-reforzar-medios-narcotrafico-20260830202740-nts.html",
-      "desc": "El presidente de la Junta de Andalucía, Juanma Moreno, ha reiterado su petición para que el Gobierno refuerce los medios para combatir el narcotráfico, que se ha vuelto más virulento en la comunidad en los años transcurridos desde el desmantelamiento del OCON-",
-      "date": "Sun, 30 Aug 2026 20:27:40 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Fallece una mujer de 56 años en una piscina comunitaria de Camarena",
-      "link": "https://www.abc.es/espana/castilla-la-mancha/toledo/pueblos/fallece-mujer-anos-piscina-comunitaria-camarena-20260830202638-nt.html",
-      "desc": "Una mujer de 56 años ha fallecido este domingo en una piscina comunitaria de la localidad toledana de Camarena. Según han informado los Servicios de Emergencias del 112 de Castilla-La Mancha a Europa Press, el aviso ha sido dado sobre las 13.40 horas cuando la",
-      "date": "Sun, 30 Aug 2026 20:26:39 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Córdoba CF - Granada en directo: resumen, goles y minuto a minuto del partido de Segunda División 2026-2027",
-      "link": "https://www.abc.es/espana/andalucia/cordoba/cordoba-cf/cordoba-granada-directo-resumen-goles-minuto-minuto-20260830113903-dis.html",
-      "desc": "El Córdoba CF quiere seguir asentando las bases de su fortín. Apenas una semana después de tumbar al Girona, El Arcángel vuelve a vestirse de gala para otra cita de altura en la que los blanquiverdes solo miran en una dirección: sumar de nuevo los tres puntos ",
-      "date": "Sun, 30 Aug 2026 20:21:51 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Córdoba recupera el calor del verano con 43 grados a la vista y aviso amarillo",
-      "link": "https://www.abc.es/espana/andalucia/cordoba/cordoba-recupera-calor-verano-grados-vista-aviso-20260830182026-nts.html",
-      "desc": "Tras una semana atípica, marcada por temperaturas anormalmente bajas para un mes de agosto, Córdoba regresa a la normalidad y afronta ya una subida de los termómetros que irá acompañada de un aviso amarillo. El calor vuelve con fuerza para encarar la recta fin",
-      "date": "Sun, 30 Aug 2026 20:21:41 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "La difícil labor de ordenar las terrazas",
-      "link": "https://www.abc.es/espana/castilla-leon/doble-pagina-1200-20260528201443-nt.html",
-      "desc": "Es verano, pero el calor ya no acerca a tantas personas como antaño a las terrazas, que prefieren protegerse de la asfixia con el frescor del aire acondicionado y, por contrapartida, tomar algo en el exterior durante los meses fríos. La nueva ley antitabaco pa",
-      "date": "Sun, 30 Aug 2026 20:14:43 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "El juicio contra el maltratador de perros en Melgar de Fernamental arranca este martes en Burgos",
-      "link": "https://www.abc.es/espana/castilla-leon/juicio-maltratador-perros-melgar-fernamental-arranca-martes-20260830201226-nt.html",
-      "desc": "El juicio contra el maltratador de perros en Melgar de Fernamental arranca este martes en los Juzgados de Burgos, donde se juzgan delitos de maltrato animal y alzamiento de bienes. Daniel D.O., el titular del criadero que estaba en pésimas condiciones, fue det",
-      "date": "Sun, 30 Aug 2026 20:12:26 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "La sede de EH Bildu en Baracaldo amanece con pintadas de «asesinos»",
-      "link": "https://www.abc.es/espana/sede-bildu-baracaldo-amanece-pintadas-asesinos-20260830201010-nt.html",
-      "desc": "La sede de EH Bildu en Baracaldo (País Vasco) ha amanecido este domingo con un 'grafiti' de pintura roja en el que se puede leer la palabra «asesinos» . Por el momento, se desconoce quién está detrás de la pintada. El local, situado en el número 1 de la calle ",
-      "date": "Sun, 30 Aug 2026 20:10:10 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Muere ahogada una bañista alemana de 73 años en Castelló d'Empúries (Gerona)",
-      "link": "https://www.abc.es/espana/cataluna/muere-ahogada-banista-alemana-anos-castello-dempuries-20260830200505-nt.html",
-      "desc": "Una bañista alemana de 73 años ha muerto ahogada este domingo por la tarde en la playa de la Rubina en Castelló d'Empúries (Girona), y ya son 22 los muertos en playas catalanas durante la campaña de baño iniciada el 15 de junio. La playa estaba vigilada y onde",
-      "date": "Sun, 30 Aug 2026 20:05:05 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Una concejala de O Incio (Lugo), en la UCI tras ser embestida por un toro de su propia explotación",
-      "link": "https://www.abc.es/espana/galicia/concejala-incio-lugo-uci-tras-embestida-toro-20260830194351-nt.html",
-      "desc": "Sandra Fernández, concejala de O Incio (Lugo) por el PP, permanece ingresada en la unidad de cuidados intensivos (UCI) del hospital de la capital provincial debido a que, en la tarde del sábado, fue agredida por un toro en su explotación ganadora. Los hechos o",
-      "date": "Sun, 30 Aug 2026 19:43:52 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Muere atropellado un joven de 16 años en Castelldefels y detienen al conductor, que había huido",
-      "link": "https://www.abc.es/espana/cataluna/muere-atropellado-joven-anos-castelldefels-detienen-conductor-20260830193355-nt.html",
-      "desc": "Un menor de edad ha muerto atropellado en Castelldefels (Barcelona) durante la madrugada del viernes al sábado y el conductor implicado, que había huido del lugar de los hechos, ha sido detenido en su domicilio,según ha informado la Policía Local de Castelldef",
-      "date": "Sun, 30 Aug 2026 19:34:36 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "El Real Madrid de Mourinho es una apisonadora con Bellingham a los mandos",
-      "link": "https://www.lavanguardia.com/deportes/real-madrid/20260830/11623222/real-madrid-mourinho-apisonadora-bellingham-mandos.html",
-      "desc": "El inglés abrió la lata ante el Málaga con una brillante acción individual, su remate generó el 2-0 y fue el futbolista que mejor interpreta lo que quiere Mourinho sobre el césped (4-0)",
-      "date": "30 Aug 2026 18:58:51 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "Jordi Jacas, el chef que ha convertido un molino histórico de l'Escala en una industria de la felicidad",
-      "link": "https://www.abc.es/espana/cataluna/jordi-jacas-chef-convertido-molino-historico-lescala-20260830185715-nt.html",
-      "desc": "El agua continúa circulando bajo el edificio, aunque ya no mueve las muelas del antiguo molino harinero ni la maquinaria de la central que llevó la electricidad a l'Escala en 1895. Más de dos siglos después de su construcción, el Molí de l'Escala Hotel Gastron",
-      "date": "Sun, 30 Aug 2026 18:57:15 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "El grito de Mas: primer triunfo desde el 2022 y más líder",
-      "link": "https://www.lavanguardia.com/deportes/20260830/11623218/grito-primer-triunfo-2022-mas-lider.html",
-      "desc": "En Aitana el balear se destapa como el más fuerte sin Pogacar: se defiende como una roca, ataca como nunca y gana por fin",
-      "date": "30 Aug 2026 18:32:27 +0200",
       "source": "La Vanguardia",
       "color": "#8e44ad",
       "feedId": "LaVanguardia",
