@@ -1,7 +1,47 @@
 {
-  "updated": "2026-09-01T19:09:21Z",
+  "updated": "2026-09-01T22:19:13Z",
   "count": 24,
   "items": [
+    {
+      "title": "El PP reclama a Sánchez elecciones generales ante un Gobierno «agotado» y «sin estabilidad»",
+      "link": "https://www.abc.es/espana/castilla-la-mancha/pp-reclama-sanchez-elecciones-generales-ante-gobierno-20260901001139-nt.html",
+      "desc": "El senador del Partido Popular por Toledo, Vicente Tirado, ha reclamado este martes al presidente del Gobierno, Pedro Sánchez, la convocatoria de elecciones generales para «devolver la palabra a los españoles» ante lo que considera una situación de agotamiento",
+      "date": "Wed, 02 Sep 2026 00:11:40 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Un juzgado abre diligencias contra el delegado del Gobierno en Ceuta por los informes del CNI",
+      "link": "https://www.abc.es/espana/juzgado-abre-diligencias-delegado-gobierno-ceuta-entada-20260901221133-nt.html",
+      "desc": "El Juzgado de Primera Instancia e Instrucción número 6 de Ceuta ha abierto diligencias previas contra el delegado del Gobierno en Ceuta, Miguel Ángel Pérez Triano, por la entrada masiva de inmigrantes en la ciudad autónoma el pasado 30 de julio. Las diligencia",
+      "date": "Tue, 01 Sep 2026 22:11:33 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Fotografías y patrimonio evocan las raíces y la evolución del fervor por la Virgen de la Merced en Córdoba",
+      "link": "https://www.abc.es/espana/andalucia/cordoba/semana-santa/fotografias-patrimonio-evocan-raices-evolucion-fervor-virgen-20260901220510-nts.html",
+      "desc": "Lo que aparentemente son fotografías en blanco y negro y en color, sayas, ricos bordados y orfebrería se convierten, reunidos, en una gran ventana abierta a las raíces y la evolución de la devoción por Santa María de la Merced en Córdoba ahora que nace septiem",
+      "date": "Tue, 01 Sep 2026 22:05:10 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "La mujer apuñalada mortalmente en Times Square era una directiva de Bank of America",
+      "link": "https://www.lavanguardia.com/internacional/20260901/11624986/mujer-apunalada-mortalmente-times-square-directiva-bank-of-america.html",
+      "desc": "La difunta del ataque al azar, protagonizado por una vecina neoyorquina con problemas de salud mental, tenía 32 años y ocupaba una vicepresidencia de la entidad bancaria",
+      "date": "01 Sep 2026 20:45:08 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
     {
       "title": "Nuevo positivo de Fiebre del Nilo Occidental en un caballo en Gran Canaria",
       "link": "https://www.abc.es/espana/canarias/nuevo-positivo-fiebre-nilo-occidental-caballo-gran-20260901202123-nt.html",
@@ -43,7 +83,7 @@
       "caso": "gen"
     },
     {
-      "title": "El Gobierno prohíbe en Madrid y Santander las concentraciones en apoyo a Ceuta",
+      "title": "El Gobierno pone trabas a las concentraciones en Madrid y Santander en apoyo a Ceuta",
       "link": "https://www.abc.es/espana/gobierno-prohibe-varias-concentraciones-apoyo-ceuta-convocadas-20260901200512-nt.html",
       "desc": "A menos de 24 horas para la celebración de concentraciones en todo el país en apoyo a la ciudad autónoma de Ceuta, el Gobierno de Pedro Sánchez está comunicando a última hora de este martes que prohíbe varias de estas reuniones ciudadanas promovidas por los ay",
       "date": "Tue, 01 Sep 2026 20:05:12 +0200",
@@ -85,7 +125,7 @@
     {
       "title": "Choque entre la Delegación del Gobierno de Madrid y el PP por la concentración por Ceuta en Cibeles",
       "link": "https://www.lavanguardia.com/politica/20260901/11624974/delegacion-gobierno-autoriza-concentracion-ceuta-convocada-manana-cibeles.html",
-      "desc": "Los populares denuncian que el Gobierno intenta “prohibir” la protesta y la delegación responde que sólo hace una aclaración técnico-jurídica",
+      "desc": "Los populares denuncian que el Ejecutivo intenta “prohibir” la protesta y la delegación responde que sólo hace una aclaración técnico-jurídica",
       "date": "01 Sep 2026 19:58:40 +0200",
       "source": "La Vanguardia",
       "color": "#8e44ad",
@@ -197,46 +237,6 @@
       "link": "https://www.abc.es/espana/castilla-la-mancha/toledo/deportes/habemus-camiseta-20260901190343-nt.html",
       "desc": "Al fin se descubrió el misterio. El CD Toledo presentó en el mediodía de este martes la que será su camiseta principal para la temporada 2026-27 . Se trata de un modelo de Joma un tanto vintage inspirado en las exitosas campañas del verde cuando militaba en la",
       "date": "Tue, 01 Sep 2026 19:03:43 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Miriam Andrés reta a las ciudades que se manifiesten a repartirse la «carga» de los menores de Ceuta",
-      "link": "https://www.abc.es/espana/castilla-leon/miriam-andres-reta-ciudades-manifiesten-repartan-carga-20260901185744-nt.html",
-      "desc": "La alcaldesa de Palencia, Miriam Andrés, lanzó este martes un órdago a todas las ciudades que han decidido secundar la movilización convocada por la Federación Española de Municipios y Provincias y les preguntó -también a los ciudadanos y grupos políticos que ",
-      "date": "Tue, 01 Sep 2026 18:57:44 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Revuelta en la UE contra las reglas de unanimidad que lastran su política exterior",
-      "link": "https://www.lavanguardia.com/internacional/20260901/11624892/revuelta-ue-reglas-unanimidad-lastran-politica-exterior.html",
-      "desc": "Un grupo de 11 países, entre ellos España, Francia y Alemania, piden limitar los vetos para agilizar la toma de decisiones",
-      "date": "01 Sep 2026 18:54:43 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "Asaja censura que se «criminalice» a los agricultores por los incendios y avisa: «La cosecha se hace en julio»",
-      "link": "https://www.abc.es/espana/castilla-la-mancha/toledo/asaja-censura-criminalice-agricultores-incendios-avisa-cosecha-20260901184713-nt.html",
-      "desc": "El presidente de Asaja Castilla-La Mancha, José María Fresneda , y varios miembros del Comité Ejecutivo Regional han mantenido este martes en Toledo una reunión con Francisco Castañares, uno de los grandes expertos en materia de incendios forestales de España.",
-      "date": "Tue, 01 Sep 2026 18:53:11 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Tolón 'ficha' a la concejala socialista Alicia Escalante como asesora en Educación",
-      "link": "https://www.abc.es/espana/castilla-la-mancha/toledo/tolon-ficha-concejala-socialista-alicia-escalante-asesora-20260901184948-nt.html",
-      "desc": "La concejala del Grupo Municipal Socialista en el Ayuntamiento de Toledo Alicia Escalante se incorporará como asesora al gabinete de la ministra de Educación, Formación Profesional y Deportes, la también toledana Milagros Tolón. Escalante formará parte del equ",
-      "date": "Tue, 01 Sep 2026 18:49:48 +0200",
       "source": "ABC",
       "color": "#c0392b",
       "feedId": "ABC",
