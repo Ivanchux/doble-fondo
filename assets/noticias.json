@@ -1,65 +1,225 @@
 {
-  "updated": "2026-09-02T19:09:56Z",
+  "updated": "2026-09-02T22:16:36Z",
   "count": 24,
   "items": [
     {
-      "title": "Manifestaciones en apoyo a Ceuta en Madrid, Barcelona, Valencia y resto de España, en directo: últimas noticias de la crisis migratoria hoy",
-      "link": "https://www.abc.es/espana/manifestaciones-apoyo-ceuta-ciudades-espana-ultima-hora-crisis-20260902122637-di.html",
-      "desc": "Sigue en directo la última hora de las manifestaciones convocadas en apoyo a Ceuta en todas las ciudades de España este miércoles, 2 de septiembre, y todo sobre la crisis migratoria hoy.",
-      "date": "Wed, 02 Sep 2026 21:02:31 +0200",
+      "title": "La Guardia Civil confirma que el accidente de Adamuz fue por rotura de la soldadura",
+      "link": "https://www.abc.es/espana/andalucia/guardia-civil-confirma-accidente-adamuz-rotura-soldadura-20260902232236-nts.html",
+      "desc": "La investigación judicial sobre el grave accidente ferroviario ocurrido el pasado 18 de enero en Adamuz (Córdoba) ya tiene una respuesta técnica sobre el origen del desastre. El Informe Técnico de Inspección Ocular elaborado por los especialistas del Departame",
+      "date": "Wed, 02 Sep 2026 23:22:36 +0200",
       "source": "ABC",
       "color": "#c0392b",
       "feedId": "ABC",
       "caso": "other"
     },
     {
-      "title": "Los caballas no se rinden, Ceuta no se vende",
-      "link": "https://www.abc.es/espana/caballas-rinden-ceuta-vende-20260902210032-nt.html",
-      "desc": "Junto a las murallas discurría, como una lengua de lava roja, amarilla, blanca y negra, de descrédito y de enfado, de tristeza, cansancio y desesperación, la mayor manifestación que se recuerde en Ceuta. Hablamos de una exteriorización del enfado, dela rabia, ",
-      "date": "Wed, 02 Sep 2026 21:00:33 +0200",
+      "title": "Miles de malagueños se solidarizan con el pueblo ceutí y lanzan un mensaje de apoyo a pie de calle",
+      "link": "https://www.abc.es/espana/andalucia/malaga/miles-malaguenos-solidarizan-pueblo-ceuti-lanzan-mensaje-20260902213032-nts.html",
+      "desc": "Las puertas del Ayuntamiento de Málaga ya estaban abarrotadas poco antes de las ocho de la tarde. A esa hora, miles de malagueños salieron a la calle para mostrar su apoyo al pueblo ceutí tras la entrada masiva de inmigrantes en Ceuta los días 30 y 31 de julio",
+      "date": "Wed, 02 Sep 2026 23:09:28 +0200",
       "source": "ABC",
       "color": "#c0392b",
       "feedId": "ABC",
       "caso": "other"
     },
     {
-      "title": "La Vuelta a España obliga a cortar calles en Palma del Río y Córdoba: calles afectadas y horarios de paso de los ciclistas",
-      "link": "https://www.abc.es/espana/andalucia/cordoba/vuelta-obliga-cortar-calles-palma-rio-cordoba-20260902142857-nts.html",
-      "desc": "La llegada de La Vuelta a España volverá a poner a prueba la movilidad de Córdoba. La provinciaacogerá este domingo 6 de septiembre el final de la decimoquinta etapa, una cita que obligará a desplegar un amplio dispositivo de tráfico y seguridad y que provocar",
-      "date": "Wed, 02 Sep 2026 20:59:35 +0200",
+      "title": "El ceutí que ha dado voz en Córdoba al drama de su pueblo: «El ambiente que se vive allí no transmite tranquilidad»",
+      "link": "https://www.abc.es/espana/andalucia/cordoba/ceuti-dado-voz-cordoba-drama-pueblo-ambiente-20260902230159-nts.html",
+      "desc": "En una calle Capitulares atestada no sólo se escuchaban cánticos de apoyo a Ceuta o se observaban banderas de la ciudad autónoma o camisetas de su club de fútbol. Más importante, quizá, era que el pensamiento de los cordobeses se concentraba al otro lado del E",
+      "date": "Wed, 02 Sep 2026 23:02:00 +0200",
       "source": "ABC",
       "color": "#c0392b",
       "feedId": "ABC",
       "caso": "other"
     },
     {
-      "title": "Miles de aragoneses censuran la gestión gubernamental de la crisis en Ceuta",
-      "link": "https://www.abc.es/espana/aragon/aragon-defiende-ceuta-23000-personas-censuran-gestion-20260902205516-nt.html",
-      "desc": "Con gritos de 'Ceuta no se vende, Ceuta se defiende', miles de personas han abarrotado este miércoles la plaza del Pilar, en la capital aragonesa, el punto más emblemático de las decenas de ayuntamientos que en Aragón han secundado este miércoles por la tarde ",
-      "date": "Wed, 02 Sep 2026 20:55:16 +0200",
+      "title": "Más de 22.000 personas se movilizan por Ceuta en Baleares entre críticas a Sánchez",
+      "link": "https://www.abc.es/espana/baleares/22000-personas-movilizan-ceuta-baleares-criticas-sanchez-20260902224951-nt.html",
+      "desc": "Unas 19.000 personas se han concentrado este miércoles por la noche en la plaza de Cort de Palma para mostrar su apoyo a Ceuta, en la principal movilización celebrada en Baleares dentro de los actos convocados en toda España por la Federación Española de Munic",
+      "date": "Wed, 02 Sep 2026 22:51:59 +0200",
       "source": "ABC",
       "color": "#c0392b",
       "feedId": "ABC",
       "caso": "other"
     },
     {
-      "title": "72 alcaldes del PSOE consuman su rebelión y se manifiestan por Ceuta pese a Ferraz",
-      "link": "https://www.abc.es/espana/alcaldes-psoe-consuman-rebelion-manifiestan-ceuta-20260902204730-nt.html",
-      "desc": "Lo habían advertido. Alcaldes socialistas de todo el país, la gran mayoría de ellos andaluces, han salido a la calle este miércoles para apoyar la ciudad de Ceuta en su día grande. Unas concentraciones que no han sido del agrado de Ferraz, que en los últimos d",
-      "date": "Wed, 02 Sep 2026 20:47:30 +0200",
+      "title": "Un total de 52.000 personas se concentran en Castilla-La Mancha en apoyo a Ceuta",
+      "link": "https://www.abc.es/espana/castilla-la-mancha/total-52000-personas-concentran-castillala-mancha-apoyo-20260902224546-nt.html",
+      "desc": "Un total de 52.000 personas se han concentrado este miércoles en Castilla-La Mancha para mostrar su apoyo a Ceuta, en unas movilizaciones que han llenado plazas y calles de las cinco capitales de provincia y Talavera de la Reina y que se han desarrollado sin i",
+      "date": "Wed, 02 Sep 2026 22:45:47 +0200",
       "source": "ABC",
       "color": "#c0392b",
       "feedId": "ABC",
       "caso": "other"
     },
     {
-      "title": "Más de 200 expertos analizan en Ciudad Real el futuro de la energía y las lecciones del apagón ibérico",
-      "link": "https://www.abc.es/espana/castilla-la-mancha/200-expertos-analizan-ciudad-real-futuro-energia-20260902201959-nt.html",
-      "desc": "La Universidad de Castilla-La Mancha (UCLM) celebra hasta el viernes 4 de septiembre la octava edición de la International Conference on Smart Energy Systems and Technologies (SEST 2026), que tiene como sede la Escuela Técnica Superior de Ingeniería Industrial",
-      "date": "Wed, 02 Sep 2026 20:19:59 +0200",
+      "title": "El Gobierno cuantifica en más de 161.000 los asistentes a las manifestaciones por Ceuta en Andalucía",
+      "link": "https://www.abc.es/espana/andalucia/gobierno-cuantifica-161000-asistentes-manifestaciones-ceuta-andalucia-20260902220624-nts.html",
+      "desc": "Las manifestaciones que han tenido lugar este miércoles en calles y plazas de Andalucía han sido masivas. La Delegación del Gobierno ha dado una primera cifra que estima que serían 161.000 aunque aún se desconocen los datos que manejan las distintas policías l",
+      "date": "Wed, 02 Sep 2026 22:06:24 +0200",
       "source": "ABC",
       "color": "#c0392b",
       "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Toledo se vuelca con Ceuta: lleno histórico en la plaza del Ayuntamiento",
+      "link": "https://www.abc.es/espana/castilla-la-mancha/toledo/toledo-vuelca-ceuta-lleno-historico-plaza-ayuntamiento-20260902215452-nt.html",
+      "desc": "Toledo ha querido dejar claro este miércoles que Ceuta «no está sola». Cerca de 6.000 personas, según la estimación del Ayuntamiento -5.000 según los datos de la Delegación del Gobierno-, han llenado la plaza del Consistorio y las calles aledañas en una concen",
+      "date": "Wed, 02 Sep 2026 21:55:50 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "El juez ordena seguir deliberando al jurado de Lindsay Clancy tras un nuevo bloqueo",
+      "link": "https://www.lavanguardia.com/vida/20260902/11625851/jurado-lindsay-clancy-comunica-bloqueo-segundo-dia-juez-reitera-sigan-deliberando.html",
+      "desc": "A pesar de expresar de nuevo que son incapaces de llegar a un veredicto para la acusada del triple asesinato de sus hijos, el magistrado les pide una ultima oportunidad porque lo deseable es que “el caso sea resuelto”",
+      "date": "02 Sep 2026 21:44:21 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
+    {
+      "title": "Barcelona muestra su apoyo a Ceuta con la réplica minoritaria de la izquierda",
+      "link": "https://www.abc.es/espana/cataluna/barcelona-muestra-apoyo-ceuta-replica-minoritaria-izquierda-20260902214409-nt.html",
+      "desc": "Barcelona ha llenado hoy la plaza de Sant Jaume de Barcelona para mostrar su apoyo a los vecinos de Ceuta tras la crisis migratoria provocada por la entrada masiva desde Marruecos. Fueron 1.500 personas, según la Guardia Urbana, aunque por momentos el espacio ",
+      "date": "Wed, 02 Sep 2026 21:44:09 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Córdoba abraza en masa a Ceuta, que «no está sola y es y será siempre española»",
+      "link": "https://www.abc.es/espana/andalucia/cordoba/cordoba-abraza-masa-ceuta-sola-siempre-espanola-20260902214131-nts.html",
+      "desc": "El reloj no marcaba todavía las 19:30 horas y ya había personas que aguardaban en el punto convenido. Con el paso de los minutos los pequeños grupos se transformaron en una auténtica marea humana. La calle Capitulares empequeñeció ante la respuesta de Córdoba,",
+      "date": "Wed, 02 Sep 2026 21:41:31 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Tellado (PP) reta a Sánchez: «Convoque elecciones y devuelva la palabra a los españoles»",
+      "link": "https://www.abc.es/espana/castilla-la-mancha/toledo/tellado-pp-reta-sanchez-convoque-elecciones-devuelva-20260902214017-nt.html",
+      "desc": "El Partido Popular quiere que la movilización en defensa de Ceuta se convierta también en un punto de inflexión político. El secretario general de los populares aprovechó este miércoles la concentración en Toledo para reclamar a Pedro Sánchez que disuelva las ",
+      "date": "Wed, 02 Sep 2026 21:40:17 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Vox acusa a Page de «anteponer las siglas del PSOE a las de Castilla-La Mancha»",
+      "link": "https://www.abc.es/espana/castilla-la-mancha/vox-acusa-page-anteponer-siglas-psoe-castillala-20260902213831-nt.html",
+      "desc": "El líder de Vox en Castilla-La Mancha, David Moreno, ha acusado a Emiliano García-Page de «anteponer las siglas del PSOE a las de Castilla-La Mancha» y ha advertido de las consecuencias que, a su juicio, puede tener en la región la situación que se vive en Ceu",
+      "date": "Wed, 02 Sep 2026 21:38:31 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Los valencianos abarrotan sus plazas para no dejar «sola» a Ceuta",
+      "link": "https://www.abc.es/espana/comunidad-valenciana/valencianos-abarrotan-plazas-dejar-sola-ceuta-20260902213648-nt.html",
+      "desc": "Ceuta no está sola . Decenas de miles de valencianos han abarrotado este miércoles las principales ciudades de la Comunidad para mostrar su apoyo total al pueblo de Ceuta, asediado desde el pasado 30 de julio por la crisis migratoria con Marruecos. En Valencia",
+      "date": "Wed, 02 Sep 2026 21:36:48 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "España toma la calle a favor de Ceuta y en contra de Sánchez",
+      "link": "https://www.abc.es/espana/espana-toma-calle-favor-ceuta-sanchez-20260902212410-nt.html",
+      "desc": "A las 20.00 horas de este miércoles, Día de Ceuta, las principales ciudades del país clamaron por la españolidad de la ciudad autónoma, que atraviesa una situación crítica desde el pasado 30 de julio. Las calles se llenaron de cientos de miles de personas que ",
+      "date": "Wed, 02 Sep 2026 21:24:44 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Más de 14.000 personas respaldan a Ceuta en Almería y exigen al Gobierno más recursos para afrontar la crisis",
+      "link": "https://www.abc.es/espana/andalucia/almeria/almeria-concentra-apoyo-ceuta-tras-llamamiento-femp-20260902123831-nts.html",
+      "desc": "La Plaza de la Constitución, conocida como Plaza Vieja, ha reunido este miércoles a más de 14.000 personas, según el Ayuntamiento, en la concentración convocada por la Federación Española de Municipios y Provincias (FEMP) para mostrar su apoyo a Ceuta ante la ",
+      "date": "Wed, 02 Sep 2026 21:23:59 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Miles de castellano y leoneses gritan contra el Gobierno y claman por Ceuta: «Es España»",
+      "link": "https://www.abc.es/espana/castilla-leon/castellano-leoneses-gritan-ceuta-espana-20260902212051-nt.html",
+      "desc": "Miles de personas se concentraron este miércoles en las principales capitales de Castilla y León para mostrar su apoyo a Ceuta ante la situación vivida en la ciudad autónoma y reclamar la defensa de sus fronteras y su integridad territorial. Las movilizaciones",
+      "date": "Wed, 02 Sep 2026 21:22:57 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Miles de gallegos salen a la calle en defensa de Ceuta y contra Pedro Sánchez",
+      "link": "https://www.abc.es/espana/galicia/miles-gallegos-salen-calle-expresar-solidaridad-ceuta-20260902190358-nt.html",
+      "desc": "Un grito unánime, una mano tendida y un apoyo que se extendió de norte a sur de Galicia, y que se tiñó de blanco y negro en el día de la ciudad autónoma . En total, fueron más de 150 las poblaciones gallegas -entre ciudades y concellos de distinto tamaño- las ",
+      "date": "Wed, 02 Sep 2026 21:18:13 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "El paro sube en Aragón en agosto en 945 personas y alcanza 50.174 desempleados",
+      "link": "https://www.abc.es/espana/aragon/paro-sube-aragon-agosto-945-personas-alcanza-20260902211812-nt.html",
+      "desc": "El número de desempleados registrados en las oficinas del Servicio Público de Empleo en Aragón ha aumentado en agosto en 945 personas respecto al mes anterior, un 1,92%, hasta situar el total de personas en paro en 50.174. Según los datos publicados este miérc",
+      "date": "Wed, 02 Sep 2026 21:18:12 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "7.000 jiennenses se han concentrado en la Plaza de Santa María en apoyo a Ceuta",
+      "link": "https://www.abc.es/espana/andalucia/jaen/7000-jiennenses-concentrado-plaza-santa-maria-apoyo-20260902211037-nts.html",
+      "desc": "En torno a unos 7.000 jiennenses , según los datos aportados por la Subdelegación del Gobierno, y desafiando el calor de la tarde de este miércoles, han acudido a la céntrica Plaza de Santa María para mostrar su solidaridad con la situación por la que está atr",
+      "date": "Wed, 02 Sep 2026 21:17:34 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Heridos tres guardias civiles tras ser embestidos por una narcolancha en Águilas (Murcia)",
+      "link": "https://www.abc.es/espana/murcia/heridos-tres-guardias-civiles-tras-embestidos-narcolancha-20260902211700-nt.html",
+      "desc": "Tres guardias civiles han resultado heridos este miércoles durante la interceptación en alta mar de una narcolancha cargada con una veintena de garrafas de gasolina en cabo Cope, en Águilas ( Murcia ). Los dos patrones de la embarcación han sido detenidos, de ",
+      "date": "Wed, 02 Sep 2026 21:17:00 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Veinte mil granadinos lo dicen bien alto: «Ceuta no se vende, Ceuta se defiende»",
+      "link": "https://www.abc.es/espana/andalucia/granada/veinte-mil-granadinos-dicen-bien-alto-ceuta-20260902211337-nts.html",
+      "desc": "En la Plaza del Carmen caben 3.500 personas y se ha abarrotado para que suene bien alto y bien claro un mensaje principal: «Ceuta no se vende, Ceuta se defiende». En realidad no han sido 3.500 sino muchos más: el Ayuntamiento de Granada cifra en 20.000 los asi",
+      "date": "Wed, 02 Sep 2026 21:15:30 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Documento | Un asalto en dos fases: jóvenes con neopreno y familias en chanclas",
+      "link": "https://www.lavanguardia.com/politica/20260902/11625833/documento-asalto-dos-fases-jovenes-neopreno-familias-chanclas.html",
+      "desc": "El informe de la Policía Nacional sobre la entrada masiva en Ceuta detecta distintos perfiles de migrantes, según los tramos horarios y la gestión fronteriza en España",
+      "date": "02 Sep 2026 20:40:29 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
       "caso": "other"
     },
     {
@@ -80,166 +240,6 @@
       "source": "La Vanguardia",
       "color": "#8e44ad",
       "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "Documento | Los “organizadores” en el terreno: presuntos agentes marroquíes encubiertos",
-      "link": "https://www.lavanguardia.com/politica/20260902/11625812/documento-organizadores-terreno-presuntos-agentes-marroquies-encubiertos.html",
-      "desc": "El informe de la Policía define el perfil de los presuntos policías entre la masa: varones, con camisetas discretas, nada de chancletas e impartiendo indicaciones",
-      "date": "02 Sep 2026 20:00:13 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "Globalcaja convierte su stand en la Feria de Albacete en un escenario para todos los públicos",
-      "link": "https://www.abc.es/espana/castilla-la-mancha/globalcaja-convierte-stand-feria-albacete-escenario-publicos-20260902193248-nt.html",
-      "desc": "Globalcaja convertirá su stand en el Recinto Ferial en un escenario para todos durante los diez días de la Feria de Albacete, con una programación gratuita que combinará música, humor, espectáculos familiares, radio en directo y actividades vinculadas al tejid",
-      "date": "Wed, 02 Sep 2026 19:32:48 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Trump planea financiar con cuatro millones a medios de comunicación de extrema derecha",
-      "link": "https://www.lavanguardia.com/internacional/20260902/11625799/trump-planea-financiar-cuatro-millones-medios-extrema-derecha-europa.html",
-      "desc": "La idea de la ultra conservadora Casa Blanca consiste en difundir el discurso de que hay un retroceso democrático en el Viejo Continente, que ha sucumbido a la “inmigración masiva e ilegal”",
-      "date": "02 Sep 2026 19:26:06 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "Desarticulan un grupo criminal en Córdoba dedicado a la importación fraudulenta de vehículos de Alemania",
-      "link": "https://www.abc.es/espana/andalucia/cordoba/desarticulan-grupo-criminal-cordoba-dedicado-importacion-fraudulenta-20260902192517-nts.html",
-      "desc": "La Policía Nacional ha detenido en Córdoba a tres personas como presuntas integrantes de un grupo criminal dedicado a la importación fraudulenta de vehículos procedentes de Alemania. Las detenciones se practicaron a finales de agosto, tras una investigación qu",
-      "date": "Wed, 02 Sep 2026 19:25:17 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Albacete moviliza a cientos de efectivos para blindar la Feria y hacerla «más segura»",
-      "link": "https://www.abc.es/espana/castilla-la-mancha/toledo/albacete-moviliza-cientos-efectivos-blindar-feria-hacerla-20260902190346-nt.html",
-      "desc": "Albacete ultima un amplio dispositivo de seguridad para afrontar los diez días de Feria con el objetivo de ofrecer «la Feria más segura», según se ha destacado este miércoles durante la Junta Local de Seguridad, presidida por el alcalde, Manuel Serrano, y el s",
-      "date": "Wed, 02 Sep 2026 19:03:46 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Dos afectados por inhalación de humo en el incendio de un almacén de ajos en Mota del Cuervo",
-      "link": "https://www.abc.es/espana/castilla-la-mancha/dos-afectados-inhalacion-humo-incendio-almacen-ajos-20260902190328-nt.html",
-      "desc": "Dos personas han resultado afectadas por inhalación de humo este miércoles en el incendio declarado en la cubierta de un almacén de ajos de en la localidad conquense de Mota del Cuervo. El aviso se ha recibido pasadas las doce y media del mediodía por un incen",
-      "date": "Wed, 02 Sep 2026 19:03:29 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Feijóo exprimirá la «mentira» del Gobierno sobre Ceuta y que Sánchez decidió encubrirlo",
-      "link": "https://www.abc.es/espana/feijoo-exprimira-mentira-gobierno-sobre-ceuta-sanchez-20260903190139-nt.html",
-      "desc": "El PP está convencido de que la mala gestión del Gobierno en la crisis de Ceuta -desaparecido a lo largo del verano, tomando decisiones como el mando único cuando habían pasado varias semanas y negando la participación de Marruecos a toda costa- ha terminado d",
-      "date": "Wed, 02 Sep 2026 19:01:39 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "El informe policial sobre Ceuta revienta la comparecencia de Sánchez y noquea al Gobierno",
-      "link": "https://www.abc.es/espana/informe-policial-sobre-ceuta-revienta-comparecencia-sanchez-20260902190127-nt.html",
-      "desc": "El Gobierno afronta la jornada de este jueves como una cita clave en la crisis migratoria de Ceuta. Pedro Sánchez se sube a la tribuna del Congreso de los Diputados para rendir cuentas sobre la gestión política de la emergencia provocada por la entrada masiva ",
-      "date": "Wed, 02 Sep 2026 19:01:27 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Muere Arturo Aliaga, exvicepresidente del Gobierno de Aragón y exlíder del PAR",
-      "link": "https://www.abc.es/espana/aragon/muere-arturo-aliaga-exvicepresidente-gobierno-aragon-exlider-20260902185848-nt.html",
-      "desc": "Este miércoles 2 de septiembre ha fallecido Arturo Aliaga, un nombre muy conocido en la política aragonesa, referencia indiscutible de una etapa política del Partido regionalista, el PAR . Aliaga ha muerto en el Hospital San Juan de Dios de Zaragoza tras una l",
-      "date": "Wed, 02 Sep 2026 18:58:49 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Plena inclusión celebra el nuevo Reglamento de Accesibilidad Cognitiva y reclama recursos para hacerlo efectivo",
-      "link": "https://www.abc.es/espana/castilla-la-mancha/plena-inclusion-celebra-nuevo-reglamento-accesibilidad-cognitiva-20260902185756-nt.html",
-      "desc": "Plena inclusión Castilla-La Mancha celebra la aprobación, por parte del Consejo de Ministros, del Reglamento que desarrolla la Ley de Accesibilidad Cognitiva y que crea por primera vez un marco normativo común para todo el territorio nacional para garantizar e",
-      "date": "Wed, 02 Sep 2026 18:57:56 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "La Policía ha contabilizado a 148 personas que entraron ilegalmente a Ceuta y que han cruzado a la Península",
-      "link": "https://www.abc.es/espana/policia-contabilizado-148-personas-entraron-ilegalmente-ceuta-20260902185547-nt.html",
-      "desc": "La Policía ha detectado 148 inmigrantes ilegales que llegaron a Ceuta en la Península . Así lo especifica en el informe policial que ha hecho llegar a la juez de la Audiencia Nacional, María Tardón. La magistrada solicitó a principios de la crisis sendos infor",
-      "date": "Wed, 02 Sep 2026 18:55:47 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "gen"
-    },
-    {
-      "title": "Detenida una pareja en Valencia por el presunto homicidio de su bebé de 18 meses",
-      "link": "https://www.abc.es/espana/comunidad-valenciana/detenida-pareja-valencia-presunto-homicidio-bebe-meses-20260902185403-nt.html",
-      "desc": "Agentes de la Policía Nacional han detenido a las 8:35 horas de este miércoles, en la estación del Norte de Valencia, a una pareja de Castellón sobre la que pesaba una requisitoria judicial emitida por un juzgado de la provincia de Tarragona por el presunto ho",
-      "date": "Wed, 02 Sep 2026 18:54:04 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Menasalbas en Toledo reivindica su tradición ganadera con la XXIII Fiesta de la Ternera",
-      "link": "https://www.abc.es/espana/castilla-la-mancha/toledo/menasalbas-toledo-reivindica-tradicion-ganadera-xxiii-fiesta-20260902184508-nt.html",
-      "desc": "Menasalbas ha vuelto a convertir su tradición ganadera en protagonista de sus fiestas patronales con la celebración de la XXIII Fiesta de la Ternera, una cita consolidada que cada año reúne a vecinos, visitantes y profesionales del sector en torno a uno de los",
-      "date": "Wed, 02 Sep 2026 18:45:09 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "El informe policial señala que gendarmes marroquíes “guiaron” el asalto de migrantes a Ceuta",
-      "link": "https://www.lavanguardia.com/politica/20260902/11625773/informe-policial-senala-permisividad-policias-marroquies-guiaron-cruce-masivo-ceuta.html",
-      "desc": "El dosier entregado a la Audiencia Nacional&nbsp;concluye que la finalidad migratoria fue solo “la cobertura formal” para fomentar, impulsar y dirigir una avalancha de personas para “colapsar” la capacidad de España",
-      "date": "02 Sep 2026 18:39:53 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
-      "caso": "gen"
-    },
-    {
-      "title": "La gimnasta oscense Inés Bergua recibirá la Medalla al Mérito Deportivo de Aragón",
-      "link": "https://www.abc.es/espana/aragon/gimnasta-oscense-ines-bergua-recibira-medalla-merito-20260902183413-nt.html",
-      "desc": "El presidente del Gobierno de Aragón, Jorge Azcón, ha anunciado este miércoles que el Ejecutivo autonómico concederá el próximo año la Medalla al Mérito Deportivo de Aragón, la mayor distinción que el Gobierno puede otorgar a un deportista de la comunidad, a l",
-      "date": "Wed, 02 Sep 2026 18:34:14 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "El informe policial confiere la dirección de la invasión de Ceuta a «personas vinculadas a las fuerzas de seguridad de Marruecos»",
-      "link": "https://www.abc.es/espana/informe-policial-confiere-direccion-invasion-ceuta-personas-20260902183204-nt.html",
-      "desc": "La Policía Nacional asegura que la dirección de la invasión a Ceuta fue ejecutada por «personas vinculadas a la fuerzas de seguridad de Marruecos y personas o instituciones con la capacidad y experiencia necesaria para formar parte del nivel de planificación d",
-      "date": "Wed, 02 Sep 2026 18:32:04 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
       "caso": "other"
     }
   ]
