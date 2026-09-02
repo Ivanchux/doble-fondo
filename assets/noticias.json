@@ -1,7 +1,157 @@
 {
-  "updated": "2026-09-01T22:19:13Z",
+  "updated": "2026-09-02T02:30:41Z",
   "count": 24,
   "items": [
+    {
+      "title": "El Córdoba CF cierra un mercado de verano de profunda renovación con diecisiete fichajes y veinte salidas",
+      "link": "https://www.abc.es/espana/andalucia/cordoba/cordoba-cf/cordoba-cierra-mercado-verano-profunda-renovacion-fichajes-20260902012322-nts.html",
+      "desc": "El Córdoba CF puso punto final a un mercado de fichajes marcado por una profunda transformación de su plantilla. La entidad blanquiverde se despide de la ventana estival con un balance de diecisiete incorporaciones y veinte salidas , unas cifras que reflejan l",
+      "date": "Wed, 02 Sep 2026 01:23:22 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "La torista de Illescas se salda con oreja por coleta",
+      "link": "https://www.abc.es/espana/castilla-la-mancha/toledo/pueblos/torista-illescas-salda-oreja-coleta-20260902011534-nt.html",
+      "desc": "Celebró Illescas su corrida de toros de las fiestas de septiembre, donde se anunciaba un encierro serio del hierro legendario del Conde de la Corte. Todo quedó en fachada , pues únicamente pudimos ver cómo regalaron escasas embestidas que dieran facilidad para",
+      "date": "Wed, 02 Sep 2026 01:17:46 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "La crisis de Ceuta lleva al límite la relación entre el Gobierno y Zarzuela",
+      "link": "https://www.abc.es/espana/moncloa-escuda-comunicado-zarzuela-mes-justificar-malestar-20260901011301-nt.html",
+      "desc": "Cambio de tono. El Gobierno buscó este martes maquillar el evidente deterioro de su relación con Zarzuela, una situación que se lleva larvando durante años, pero que se ha exhibido con más nitidez en las últimas semanas al calor de la crisis migratoria de Ceut",
+      "date": "Wed, 02 Sep 2026 01:13:01 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Anticorrupción cree que las joyas de Zapatero son un «pago en especie» de su red internacional",
+      "link": "https://www.abc.es/espana/anticorrupcion-cree-joyas-zapatero-pago-especie-red-20260902011251-nt.html",
+      "desc": "Ni son un regalo ni se adquirieron en su etapa de presidente del Gobierno, entre los años 2004 y 2011. La Fiscalía Anticorrupción descarta absolutamente los argumentos del expresidente del Gobierno, José Luis Rodríguez Zapatero, sobre las joyas que la Unidad d",
+      "date": "Wed, 02 Sep 2026 01:12:51 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "zap"
+    },
+    {
+      "title": "Detectan a reclutadores de yihadistas del Daesh entre los inmigrantes de la invasión en Ceuta",
+      "link": "https://www.abc.es/espana/detectan-entraron-avalancha-reclutadores-yihadistas-isis-20260901011245-nt.html",
+      "desc": "La Policía Nacional ha identificado a condenados por reclutar a yihadistas para el Daesh entre los inmigrantes que entraron en España en la avalancha a Ceuta del pasado mes de julio, según informan fuentes policiales a ABC. Varios de las personas filiadas ya h",
+      "date": "Wed, 02 Sep 2026 01:12:45 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Vox cree que Sánchez utilizará al Rey como baza electoral",
+      "link": "https://www.abc.es/espana/vox-cree-generar-descontento-rey-baza-electoral-20260902011238-nt.html",
+      "desc": "Si en los comicios generales de 2023 el gancho para movilizar a la izquierda por parte del PSOE fue el pánico contra un posible Gobierno en coalición entre PP y Vox, desde Bambú —sede nacional de los de Santiago Abascal—creen ahora que Pedro Sánchez buscará ge",
+      "date": "Wed, 02 Sep 2026 01:12:38 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Los militares exigen el mismo complemento que recibirán los policías y guardias civiles desplegados en Ceuta",
+      "link": "https://www.abc.es/espana/militares-exigen-defensa-bono-labor-ceuta-cobrara-20260901011232-nt.html",
+      "desc": "Los militares exigen al Ministerio de Defensa una compensación económica por su despliegue en las calles de Ceuta similar a la que recibirán los miembros de la Policía Nacional y la Guardia Civil, para quienes el Gobierno ha aprobado una partida extra en recon",
+      "date": "Wed, 02 Sep 2026 01:12:32 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Nostalgia del Stella",
+      "link": "https://www.abc.es/espana/madrid/angel-antonio-herrera-nostalgia-stella-20260901010916-nt.html",
+      "desc": "Madrid tuvo mar alguna vez, alcalde, y quedaba en Arturo Soria. Hablo de la piscina Stella , de la que fui asiduo, en sus últimos años, porque Stella era una manera elegante de equivocarse un rato de ciudad. Era una piscina, pero más que una piscina, naturalme",
+      "date": "Wed, 02 Sep 2026 01:09:16 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "La tienda de Goya que se hace de oro con 'merchandising' de Ceuta: «Toda España está con ellos»",
+      "link": "https://www.abc.es/espana/madrid/tienda-barrio-salamanca-volcada-ceuta-tras-invasion-20260831010909-nt.html",
+      "desc": "En la acera del número 56 de la céntrica calle Goya, en pleno corazón del barrio de Salamanca, la rutina comercial de la capital se ve abruptamente interrumpida por una estampa tan llamativa como reivindicativa. Junto a las estructuras metálicas de un andamio ",
+      "date": "Wed, 02 Sep 2026 01:09:09 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Los últimos planes antes de la vuelta al cole",
+      "link": "https://www.abc.es/espana/madrid/ultimos-planes-vuelta-cole-20260902010333-nt.html",
+      "desc": "Ya solo quedan unos pocos días para que los peques vuelvan a la guardería y el colegio, y después de tres meses buscando entretenimiento hay padres y madres a los que ya se les han agotado las ideas. Así que ahí van unos cuantos planes que quedan en la agenda ",
+      "date": "Wed, 02 Sep 2026 01:03:33 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Un falso mena de 24 años, procesado por violar a una menor en un parque de Hortaleza",
+      "link": "https://www.abc.es/espana/madrid/falso-mena-anos-procesado-violar-menor-parque-20260901010323-nt.html",
+      "desc": "Un joven marroquí que ahora tiene 24 años y que se hizo pasar por un menor extranjero no acompañado (mena) de 17, Mohamed R., ha sido procesado por el juzgado de Madrid que investiga la presunta agresión sexual contra una adolescente en un parque público de Ho",
+      "date": "Wed, 02 Sep 2026 01:03:23 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Madrid amplía a los 50 años las ayudas destinadas para la compra de primera vivienda",
+      "link": "https://www.abc.es/espana/madrid/madrid-amplia-anos-ayudas-destinadas-compra-primera-20260901010316-nt.html",
+      "desc": "La Comunidad de Madrid amplía el programa 'Mi primera vivienda' para que más madrileños puedan acceder a una casa en propiedad sin tener que disponer previamente de los ahorros necesarios para afrontar la entrada. El Consejo de Gobierno aprobará este miércoles",
+      "date": "Wed, 02 Sep 2026 01:03:16 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Vecinos de lujo por temporadas: Salamanca y Chamberí se llenan de segundas residencias",
+      "link": "https://www.abc.es/espana/madrid/vecinos-lujo-temporadas-salamanca-chamberi-llenan-segundas-20260901010306-nt.html",
+      "desc": "«Paseas por el barrio y ves edificios con persianas bajadas y tan solo alguna una luz encendida en el edificio», describe Pilar Rodríguez, vecina de Chamberí a este periódico. Le apena que la vida de barrio a la que estaba acostumbrada parezca apagarse poco a ",
+      "date": "Wed, 02 Sep 2026 01:03:06 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Agudo vaticina que Page y los alcaldes del PSOE «pagarán caro en las urnas» su «boicot» a Ceuta",
+      "link": "https://www.abc.es/espana/castilla-la-mancha/agudo-vaticina-page-alcaldes-psoe-pagaran-caro-20260902000600-nt.html",
+      "desc": "La secretaria general del PP de Castilla-La Mancha y portavoz de los populares en las Cortes regionales, Carolina Agudo, ha acusado este martes al presidente regional, Emiliano García-Page, de ser «quien más hace por Sánchez de toda España», al considerar que ",
+      "date": "Wed, 02 Sep 2026 00:55:31 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "El Córdoba CF apuntala su defensa sobre la bocina con Nélson Monte",
+      "link": "https://www.abc.es/espana/andalucia/cordoba/cordoba-cf/cordoba-apuntala-defensa-sobre-bocina-nelson-monte-20260901004730-nts.html",
+      "desc": "Hasta el rabo, todo es toro. El Córdoba CF apuró a sus últimas de mercado y añade experiencia a su renovada defensa con la incorporación de Nélson Monte . El central portugués abandona la UD Almería para ponerse a las órdenes de Iván Ania en calidad de cedido ",
+      "date": "Wed, 02 Sep 2026 00:47:30 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
     {
       "title": "El PP reclama a Sánchez elecciones generales ante un Gobierno «agotado» y «sin estabilidad»",
       "link": "https://www.abc.es/espana/castilla-la-mancha/pp-reclama-sanchez-elecciones-generales-ante-gobierno-20260901001139-nt.html",
@@ -10,6 +160,36 @@
       "source": "ABC",
       "color": "#c0392b",
       "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "El PP logra dividir a la izquierda con sus convocatorias municipales en apoyo a Ceuta",
+      "link": "https://www.lavanguardia.com/politica/20260902/11624938/pp-logra-dividir-izquierda-convocatorias-municipales-apoyo-ceuta.html",
+      "desc": "La Delegación del Gobierno de Madrid advierte que los ayuntamientos no pueden convocar manifestaciones pero eso no impedirá que se celebre la concentración convocada&nbsp;&nbsp;",
+      "date": "02 Sep 2026 00:05:00 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
+    {
+      "title": "Hablar claro en Ceuta",
+      "link": "https://www.lavanguardia.com/opinion/20260902/11625019/hablar-claro-ceuta.html",
+      "desc": "La crisis de la ciudad autónoma es muy grave y no se va a solucionar en breve",
+      "date": "02 Sep 2026 00:05:00 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
+    {
+      "title": "Noche frenética con Marc Casadó, que se marcha cedido al Deportivo de La Coruña",
+      "link": "https://www.lavanguardia.com/deportes/futbol/20260901/11625024/noche-frenetica-marc-casado-marchara-cedido-deportivo-coruna.html",
+      "desc": "El centrocampista se va cedido por un año con el Barcelona asumiendo gran parte de su ficha y una opción de compra no obligatoria de 30 millones de euros&nbsp;",
+      "date": "01 Sep 2026 23:19:01 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
       "caso": "other"
     },
     {
@@ -57,186 +237,6 @@
       "link": "https://www.abc.es/espana/andalucia/montero-azuza-miedo-derecha-concentraciones-ceuta-20260901200916-nts.html",
       "desc": "María Jesús Montero ha marcado el camino a los suyos este martes azuzando el miedo a la derecha desde Sevilla. La secretaria general del PSOE-A intervino en la reunión de la Interparlamentaria andaluza junto a los representantes de la Comisión Ejecutiva Region",
       "date": "Tue, 01 Sep 2026 20:10:32 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Bruselas acusa a Rusia de querer “sacar partido” a la crisis de Ceuta, pero no cree que la provocase",
-      "link": "https://www.lavanguardia.com/politica/20260901/11624965/bruselas-acusa-rusia-querer-sacar-partido-crisis-ceuta-cree-provocase.html",
-      "desc": "La Comisión Europea esquiva la denuncia de Sánchez de implicar a Israel en la difusión de bulos en las redes sociales",
-      "date": "01 Sep 2026 20:08:27 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "Aucorsa bate su récord histórico de viajeros en un mes de agosto con 1,3 millones de transportes realizados",
-      "link": "https://www.abc.es/espana/andalucia/cordoba/aucorsa-bate-record-historico-viajeros-mes-agosto-20260901200529-nts.html",
-      "desc": "Aucorsa ha alcanzado en el presente año el número máximo de viajeros registrados en un mes de agosto con un total de 1.354.572 transportes realizados. Esta cifra marca un máximo histórico desde el año 2004, primera anualidad del que se cuenta con registros men",
-      "date": "Tue, 01 Sep 2026 20:05:30 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "gen"
-    },
-    {
-      "title": "El Gobierno pone trabas a las concentraciones en Madrid y Santander en apoyo a Ceuta",
-      "link": "https://www.abc.es/espana/gobierno-prohibe-varias-concentraciones-apoyo-ceuta-convocadas-20260901200512-nt.html",
-      "desc": "A menos de 24 horas para la celebración de concentraciones en todo el país en apoyo a la ciudad autónoma de Ceuta, el Gobierno de Pedro Sánchez está comunicando a última hora de este martes que prohíbe varias de estas reuniones ciudadanas promovidas por los ay",
-      "date": "Tue, 01 Sep 2026 20:05:12 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Gavira trabajará para que Córdoba se una al Plan de Grandes Ciudades y que la Junta de Andalucía lo financie al 50%",
-      "link": "https://www.abc.es/espana/andalucia/cordoba/gavira-trabajara-cordoba-plan-grandes-ciudades-junta-20260901200344-nts.html",
-      "desc": "El vicepresidente segundo de la Junta de Andalucía y consejero de Turismo, Justicia, Desregulación y Administración Local, Manuel Gavira (Vox), se ha comprometido este martes a impulsar la incorporación de Córdoba al Plan Turístico de Grandes Ciudades , un ins",
-      "date": "Tue, 01 Sep 2026 20:03:44 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Córdoba pisa el acelerador con la venta de coches: cerca de 20 vehículos salen cada día de los concesionarios en agosto",
-      "link": "https://www.abc.es/espana/andalucia/cordoba/cordoba-pisa-acelerador-venta-coches-cerca-vehiculos-20260901200332-nts.html",
-      "desc": "La venta de coches en Córdoba no deja de crecer. Casi 20 coches han salido cada día de los concesionarios de Córdoba durante el pasado mes de agosto. En concreto, la provincia ha registrado 589 matriculaciones de turismos y todoterrenos, un 8,87% más que en el",
-      "date": "Tue, 01 Sep 2026 20:03:32 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "La alcaldesa de Palencia y Óscar Puente se enredan a costa de los Celtas Cortos",
-      "link": "https://www.abc.es/espana/castilla-leon/alcaldesa-palencia-oscar-puente-enredan-costa-celtas-20260901200036-nt.html",
-      "desc": "La reflexión en 'X' de la alcaldesa de Palencia, Miriam Andrés , sobre el, a su juicio, poco valor que la ciudad de Valladolid le otorga a una de sus bandas, Celtas Cortos , ha provocado que el ministro de Transportes, también pucelano y muy dado a usar las re",
-      "date": "Tue, 01 Sep 2026 20:00:36 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Choque entre la Delegación del Gobierno de Madrid y el PP por la concentración por Ceuta en Cibeles",
-      "link": "https://www.lavanguardia.com/politica/20260901/11624974/delegacion-gobierno-autoriza-concentracion-ceuta-convocada-manana-cibeles.html",
-      "desc": "Los populares denuncian que el Ejecutivo intenta “prohibir” la protesta y la delegación responde que sólo hace una aclaración técnico-jurídica",
-      "date": "01 Sep 2026 19:58:40 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "Crisis en Ceuta hoy, en directo: manifestaciones, enfrentamientos y última hora de la entrada masiva de inmigrantes",
-      "link": "https://www.abc.es/espana/entrevista-pedro-sanchez-hoy-directo-declaraciones-ultimas-20260831081306-di.html",
-      "desc": "Pedro Sánchez puso fin este lunes a sus vacaciones, tras una interrupción puntual la semana pasada, con una entrevista en la cadena Ser. El líder del Ejecutivo alabó de nuevo la acutación de Marruecos y negó que hubiera informes del CNI que alertasen de la gra",
-      "date": "Tue, 01 Sep 2026 19:51:04 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Andy Burnham culpa al Brexit del lento crecimiento económico de la última década",
-      "link": "https://www.lavanguardia.com/internacional/20260901/11624962/andy-burnham-culpa-brexit-lento-crecimiento-economico-ultima-decada.html",
-      "desc": "El primer ministro británica comparece por primera vez ante el parlamento y asegura tener un claro diagnóstico de los males del país, que considera que fueron agravados por la salida de la UE",
-      "date": "01 Sep 2026 19:36:38 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "El Gobierno aprueba 309 millones y Vivas dice que no le valen de nada sin repatriaciones",
-      "link": "https://www.abc.es/espana/gobierno-aprueba-309-millones-vivas-dice-valen-20260901192808-nt.html",
-      "desc": "El Gobierno sale del letargo ejecutivo que ha marcado la gestión de la crisis de Ceuta poniendo sobre la mesa un plan de choque que supone una movilización de 309 millones de euros en los próximos cuatro meses. En cuanto a recursos, esta inversión supone un 16",
-      "date": "Tue, 01 Sep 2026 19:28:08 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Sánchez abre otra crisis en política exterior por sus acusaciones a Rusia e Israel",
-      "link": "https://www.abc.es/espana/sanchez-abre-crisis-politica-exterior-acusaciones-rusia-20260901192156-nt.html",
-      "desc": "«Ha vuelto a mentir» . Las palabras de Pedro Sánchez este lunes sobre Rusia e Israel han abierto una nueva problemática en la política exterior española en plena crisis de Ceuta . Las afirmaciones del líder del PSOE señalando a ambos países de estar detrás de ",
-      "date": "Tue, 01 Sep 2026 19:21:56 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Aumenta el número de alcaldes del PSOE que desobedecerán a Ferraz en las concentraciones por Ceuta",
-      "link": "https://www.abc.es/espana/aumenta-numero-alcaldes-psoe-desobedeceran-hoy-ferraz-20260901192115-nt.html",
-      "desc": "Ferraz ha perdido por primera vez desde que Pedro Sánchez es el secretario general del PSOE el control del partido a nivel local. Ni las múltiples llamadas amenazadoras, ni los mensajes subidos de tono ni los correos electrónicos que han salido desde el cuarte",
-      "date": "Tue, 01 Sep 2026 19:21:15 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Guerra cognitiva",
-      "link": "https://www.abc.es/espana/castilla-la-mancha/toledo/guerra-cognitiva-20260901192006-nt.html",
-      "desc": "El presidente del gobierno español, Pedro Sánchez , afirmó el pasado 31 de julio que España había sufrido una violación de su integridad territorial, y un mes después lo ha reafirmado hablando de «ataque» a esa misma integridad. Como es natural, el gobierno es",
-      "date": "Tue, 01 Sep 2026 19:20:06 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "El Parlamento andaluz retoma su actividad con la constitución de las comisiones",
-      "link": "https://www.abc.es/espana/andalucia/nuevas-comisiones-parlamentarios-20260901191728-nts.html",
-      "desc": "Seis meses después de que se disolviera para la convocatoria electoral y mes y medio después de la sesión constitutiva, el Parlamento de Andalucía retoma su actividad ordinaria en la XIII legislatura , que arrancará con el primer Pleno en un par de semanas, co",
-      "date": "Tue, 01 Sep 2026 19:17:28 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Azcón llama a Aragón a movilizarse por Ceuta y para «defender a España»",
-      "link": "https://www.abc.es/espana/aragon/azcon-llama-aragon-movilizarse-ceuta-defender-espana-20260901190932-nt.html",
-      "desc": "El presidente del Gobierno de Aragón, Jorge Azcón , ha hecho un llamamiento a los aragoneses a participar este miércoles 2 de septiembre, a las 20.00 horas, en las concentraciones ante los ayuntamientos en solidaridad con Ceuta y para «defender España» y su so",
-      "date": "Tue, 01 Sep 2026 19:09:33 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "EE.UU. vuelve a atacar objetivos militares en Irán como represalia por su bloqueo en Ormuz",
-      "link": "https://www.lavanguardia.com/internacional/20260901/11624944/ee-uu-vuelve-atacar-objetivos-militares-iran-represalia-bloqueo-ormuz.html",
-      "desc": "El Pentágono confirma una segunda ronda de bombardeos en dos días, después de un mes sin apenas hostilidades",
-      "date": "01 Sep 2026 19:08:37 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "Indra y Gutmar se alían para impulsar la industria de la defensa en Cataluña",
-      "link": "https://www.abc.es/espana/cataluna/indra-gutmar-alian-impulsar-industria-defensa-cataluna-20260901190451-nt.html",
-      "desc": "Indra Group y Gutmar han firmado un acuerdo estratégico de colaboración para impulsar conjuntamente la industrialización y fabricación de componentes críticos para el sector de la defensa en Cataluña. La alianza busca reforzar «una cadena de suministro más pró",
-      "date": "Tue, 01 Sep 2026 19:04:51 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "¡Habemus camiseta!",
-      "link": "https://www.abc.es/espana/castilla-la-mancha/toledo/deportes/habemus-camiseta-20260901190343-nt.html",
-      "desc": "Al fin se descubrió el misterio. El CD Toledo presentó en el mediodía de este martes la que será su camiseta principal para la temporada 2026-27 . Se trata de un modelo de Joma un tanto vintage inspirado en las exitosas campañas del verde cuando militaba en la",
-      "date": "Tue, 01 Sep 2026 19:03:43 +0200",
       "source": "ABC",
       "color": "#c0392b",
       "feedId": "ABC",
