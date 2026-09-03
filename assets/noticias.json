@@ -1,7 +1,27 @@
 {
-  "updated": "2026-09-03T19:02:09Z",
+  "updated": "2026-09-03T22:10:16Z",
   "count": 24,
   "items": [
+    {
+      "title": "El abogado de Lindsay Clancy acusa a un jurado de bloquear el veredicto y pide al juez que lo saque",
+      "link": "https://www.lavanguardia.com/vida/20260903/11626674/abogado-lindsay-clancy-acusa-jurado-bloquear-veredicto-pide-juez-saque.html",
+      "desc": "Las nueve mujeres y tres hombres que tienen en sus manos el destino de la acusada de matar a sus tres hijos vuelven a señalar por tercer día consecutivo que no pueden lograr una decisión unánime y el magistrado los envía de de nuevo a deliberar recordándoles s",
+      "date": "03 Sep 2026 22:32:08 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
+    {
+      "title": "La novedad del quinto encierro obliga a ampliar el dispositivo de seguridad de las Ferias de Guadalajara",
+      "link": "https://www.abc.es/espana/castilla-la-mancha/novedad-quinto-encierro-obliga-ampliar-dispositivo-seguridad-20260903210324-nt.html",
+      "desc": "La celebración por primera vez de un quinto encierro obligará a ampliar un día el dispositivo de seguridad de las Ferias y Fiestas de Guadalajara. La novedad introducida este año en la programación ha llevado a revisar y reforzar la cobertura prevista para uno",
+      "date": "Thu, 03 Sep 2026 21:03:25 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
     {
       "title": "Una manifestación en la estación Linares-Baeza exige este sábado un tren digno para Jaén",
       "link": "https://www.abc.es/espana/andalucia/jaen/movilizacion-ciudadana-proximo-sabado-estacion-linaresbaeza-servicio-20260903173430-nts.html",
@@ -213,30 +233,10 @@
       "caso": "other"
     },
     {
-      "title": "Un niño de 5 años, crítico tras sufrir un ahogamiento en una piscina en Lanzarote",
-      "link": "https://www.abc.es/espana/canarias/nino-anos-critico-tras-sufrir-ahogamiento-piscina-20260903182827-nt.html",
-      "desc": "Un niño de 5 años se encuentra en estado crítico tras sufrir un ahogamiento en una piscina de Lanzarote. El niño tuvo que ser reanimado tras quedar en parada cardiorrespiratoria y posteriormente fue trasladado de urgencia en helicóptero al Hospital Materno Inf",
-      "date": "Thu, 03 Sep 2026 18:28:27 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
       "title": "Hacienda prevé aprobar la reforma de la financiación autonómica pese al boicot de Madrid",
       "link": "https://www.lavanguardia.com/economia/20260903/11626567/hacienda-preve-aprobar-reforma-financiacion-autonomica-pese-boicot-madrid.html",
       "desc": "Catalunya y Canarias son las únicas comunidades que apoyan el modelo propuesto por el Gobierno",
       "date": "03 Sep 2026 18:06:56 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "Illa se reúne en Kiev con el presidente de Ucrania Volodímir Zelenski",
-      "link": "https://www.lavanguardia.com/politica/20260903/11626546/illa-reune-kiev-presidente-ucrania-volodimir-zelenski.html",
-      "desc": "El president transmite la solidaridad de Catalunya ante la invasión de Rusia e invita al 'presidente ucraniano a visitar Catalunya",
-      "date": "03 Sep 2026 17:33:28 +0200",
       "source": "La Vanguardia",
       "color": "#8e44ad",
       "feedId": "LaVanguardia",
