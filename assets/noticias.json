@@ -1,15 +1,185 @@
 {
-  "updated": "2026-09-04T17:22:09Z",
+  "updated": "2026-09-04T20:10:29Z",
   "count": 24,
   "items": [
     {
-      "title": "Defensa cree que publicar los informes de Ceuta como prometió Sánchez es un error  grave y pone en peligro al CNI",
-      "link": "https://www.abc.es/espana/defensa-cree-publicar-informes-ceuta-prometio-sanchez-20260905191029-nt.html",
-      "desc": "Lejos de mejorar, las tensiones entre Moncloa y el Ministerio de Defensa se recrudecen. Pero, por ahora, no llegará la sangre al río. Ni Pedro Sánchez cesará a Margarita Robles ni la ministra dejará voluntariamente su cargo. La negativa de la titular de Defens",
-      "date": "Fri, 04 Sep 2026 19:10:29 +0200",
+      "title": "El PSOE denuncia que la falta de personal reduce a la mitad las citas en el centro social del Polígono",
+      "link": "https://www.abc.es/espana/castilla-la-mancha/toledo/psoe-denuncia-falta-personal-reduce-mitad-citas-20260904215329-nt.html",
+      "desc": "El PSOE ha denunciado que la falta de personal en el Centro Social del Polígono ha reducido aproximadamente a la mitad las citas diarias de atención al ciudadano y está provocando mayores tiempos de espera para realizar trámites municipales en el barrio más po",
+      "date": "Fri, 04 Sep 2026 21:53:30 +0200",
       "source": "ABC",
       "color": "#c0392b",
       "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Prisión provisional sin fianza para los padres del bebé muerto de Santa Bárbara (Tarragona)",
+      "link": "https://www.abc.es/espana/cataluna/prision-provisional-fianza-padres-bebe-muerto-santa-20260904212918-nt.html",
+      "desc": "El juez titular de la plaza de Amposta (Tarragona) ha acordado este viernes prisión provisional, comunicada y sin fianza para los padres de la bebé de 18 meses cuyos restos se encontraron el pasado jueves en el domicilio familiar en Santa Bárbara (Tarragona). ",
+      "date": "Fri, 04 Sep 2026 21:29:18 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Óscar Carias asumirá el mando del batallón de helicópteros de ataque de Almagro",
+      "link": "https://www.abc.es/espana/castilla-la-mancha/oscar-carias-asumira-mando-batallon-helicopteros-ataque-20260904211831-nt.html",
+      "desc": "El teniente coronel Óscar Carias Sobrino asumirá el próximo 10 de septiembre el mando del batallón de helicópteros de ataque I (Bhela I), con sede en la Base de Almagro, donde relevará a Jorge Aguado después de tres años al frente de la unidad. El próximo jefe",
+      "date": "Fri, 04 Sep 2026 21:18:31 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Miles de devotos arropan a la Virgen de la Sierra en su 'Bajá' a Cabra",
+      "link": "https://www.abc.es/espana/andalucia/cordoba/miles-devotos-arropan-virgen-sierra-baja-cabra-20260904211457-nts.html",
+      "desc": "Siguiendo la tradición, el cuatro de septiembre el Santuario de Nuestra Señora de la Sierra ha vuelto a ser lugar de encuentro de peregrinos, fieles y en general, miles de devotos, que acudieron a acompañar a la Divina Serrana en su Bajá desde la Casita blanca",
+      "date": "Fri, 04 Sep 2026 21:14:57 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Siloé arenga a Valladolid en el pregón: «¡Abracémonos! Que no somos siesos»",
+      "link": "https://www.abc.es/espana/castilla-leon/siloe-arenga-valladolid-pregon-besaros-dicen-secos-20260904173739-nt.html",
+      "desc": "«El pregón es una cosa grande, más que nosotros», decía Fito Robles, vocalista del grupo Siloé, a escasos días de subirse al balcón del Ayuntamiento de Valladolid para abrir las Ferias y Fiestas de la Virgen de San Lorenzo. Este viernes llegó el momento de dej",
+      "date": "Fri, 04 Sep 2026 21:09:10 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "La actriz cordobesa Macarena Gómez revoluciona las redes con su apoyo a Ceuta: «Se me caen las lágrimas cuando siento que mi país sufre»",
+      "link": "https://www.abc.es/espana/andalucia/cordoba/actriz-cordobesa-macarena-gomez-revoluciona-redes-apoyo-20260904204459-nts.html",
+      "desc": "La actriz cordobesa Macarena Gómez ha mostrado públicamente su apoyo a Ceuta durante la manifestación convocada en los grandes municipios del país. Lo ha hecho a través de las redes sociales donde ha publicado un vídeo en el que se le puede ver envuelta en una",
+      "date": "Fri, 04 Sep 2026 20:44:59 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Un Reino Unido en crisis económica y militar reafirma que las islas Malvinas son suyas",
+      "link": "https://www.lavanguardia.com/internacional/20260904/11627572/reino-unido-crisis-economica-militar-reafirma-islas-malvinas-son.html",
+      "desc": "Downing Street expresa su “apoyo inamovible” al derecho de autodeterminación",
+      "date": "04 Sep 2026 20:21:43 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
+    {
+      "title": "Un incendio en una planta de residuos provoca una gran columna de humo negro en Cuenca",
+      "link": "https://www.abc.es/espana/castilla-la-mancha/incendio-planta-residuos-provoca-gran-columna-humo-20260904201455-nt.html",
+      "desc": "Los bomberos de Cuenca trabajan en la extinción de un incendio declarado este viernes en una planta de gestión de residuos situada en el polígono Los Palancares de la capital conquense, que ha provocado una gran columna de humo negro visible sobre esta zona in",
+      "date": "Fri, 04 Sep 2026 20:14:56 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "La ONU cambia el mapamundi por uno más fiel al tamaño de los continentes",
+      "link": "https://www.lavanguardia.com/internacional/20260904/11627562/onu-vota-cambiar-mapamundi-utilizar-sea-mas-fiel-tamano-continentes.html",
+      "desc": "La resolución, respaldada por 164 países frente a uno en contra, Estados Unidos, y seis abstenciones, promueve el abandono progresivo de la proyección cartográfica conocida como Mercator, utilizada desde 1569",
+      "date": "04 Sep 2026 20:03:17 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
+    {
+      "title": "UGT anuncia movilizaciones por el bloqueo del convenio de ayuda a domicilio en Ciudad Real",
+      "link": "https://www.abc.es/espana/castilla-la-mancha/ugt-anuncia-movilizaciones-bloqueo-convenio-ayuda-domicilio-20260904195426-nt.html",
+      "desc": "UGT Servicios Públicos ha anunciado un calendario de movilizaciones en distintos puntos de la provincia de Ciudad Real ante el bloqueo de la negociación del convenio colectivo del sector de ayuda a domicilio, que lleva prorrogándose anualmente y cuya mesa nego",
+      "date": "Fri, 04 Sep 2026 19:54:27 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Los insultos en redes a María Márquez sacuden el Parlamento andaluz: «El machismo no tiene cabida en ningún lugar»",
+      "link": "https://www.abc.es/espana/andalucia/portavoz-psoe-andaluz-maria-marquez-denuncia-nuevo-20260904174337-nts.html",
+      "desc": "«Rata, escoria , que tengo las rodillas peladas...» y muchos más insultos muy desagradables para volver a reproducir. Estos comentarios degradantes y con un fuerte componente machista han llevado a estallar a la vicesecretaria y portavoz del PSOE andaluz, Marí",
+      "date": "Fri, 04 Sep 2026 19:44:00 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "La Fiscalía pide diez años de cárcel para un hombre acusado de violar a su compañera de piso en Puertollano",
+      "link": "https://www.abc.es/espana/castilla-la-mancha/toledo/fiscalia-pide-diez-anos-carcel-hombre-acusado-20260904194125-nt.html",
+      "desc": "La Audiencia Provincial de Ciudad Real juzgará el próximo miércoles y jueves, 9 y 10 de septiembre, a J.C.S., un hombre de 67 años acusado de un delito de agresión sexual, en su modalidad de violación, a una persona especialmente vulnerable. El Ministerio Fisc",
+      "date": "Fri, 04 Sep 2026 19:41:26 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Cuenca despide a la exconcejala Margarita Vaca Page",
+      "link": "https://www.abc.es/espana/castilla-la-mancha/cuenca-despide-exconcejala-margarita-vaca-page-20260904193249-nt.html",
+      "desc": "El Ayuntamiento de Cuenca ha lamentado en un comunicado el fallecimiento de Margarita Vaca Page, quien fuera concejala de la ciudad con el alcalde Jaime Navarrete de Varela entre 1979 y 1987. El alcalde, Darío Dolz, ha trasladado su más sentido pésame a su fam",
+      "date": "Fri, 04 Sep 2026 19:32:49 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Un Betis, de menos a más, busca el gol ante el Real Madrid (0-0)",
+      "link": "https://www.lavanguardia.com/deportes/futbol/20260904/11627099/betis-real-madrid-laliga-ea-sports-partido-futbol-hoy-en-directo.html",
+      "desc": "",
+      "date": "04 Sep 2026 19:25:03 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
+    {
+      "title": "La marca 'Sabor a Córdoba' de la Diputación lleva a 18 firmas a la feria 'Auténtica Premium Food' de Sevilla",
+      "link": "https://www.abc.es/espana/andalucia/cordoba/marca-sabor-cordoba-diputacion-lleva-firmas-feria-20260904191945-nts.html",
+      "desc": "Hasta 18 empresas agroalimentarias cordobesas acudirán de la mano de 'Sabor a Córdoba', marca impulsada por el Instituto Provincial de Desarrollo Económico (Iprodeco) de la Diputación, a Auténtica Premium Food, feria que se celebra en Sevilla los días 14 y 15 ",
+      "date": "Fri, 04 Sep 2026 19:19:45 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Ademto lleva este domingo la inclusión a las calles de Toledo con una carrera solidaria",
+      "link": "https://www.abc.es/espana/castilla-la-mancha/toledo/ademto-lleva-domingo-inclusion-calles-toledo-carrera-20260904191338-nt.html",
+      "desc": "La Asociación de Esclerosis Múltiple de Toledo (Ademto) celebrará este domingo, 6 de septiembre, la carrera solidaria 'Toledo se mueve por la inclusión', una iniciativa que combina deporte, solidaridad y reivindicación para dar visibilidad a las personas con e",
+      "date": "Fri, 04 Sep 2026 19:17:13 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "La planta 'Silverio' revoluciona la energía solar en Córdoba: será la primera híbrida con baterías",
+      "link": "https://www.abc.es/espana/andalucia/cordoba/planta-silverio-revoluciona-energia-solar-cordoba-primera-20260904191435-nts.html",
+      "desc": "Nexwell Power ha informado, en un comunicado, de que ha obtenido la Autorización Administrativa de Construcción (AAC) para incorporar un sistema de almacenamiento de energía en baterías ( BESS ) a su planta fotovoltaica 'Silverio ', en Guadalcázar. Se trata, e",
+      "date": "Fri, 04 Sep 2026 19:14:35 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "La Fiscalía pide enviar a juicio al fundador de Glovo por un delito contra sus repartidores",
+      "link": "https://www.lavanguardia.com/economia/20260904/11627507/fiscalia-pide-enviar-juicio-fundador-glovo-delito-repartidores.html",
+      "desc": "El ministerio público considera que “existen indicios suficientes” para procesar al emprendedor",
+      "date": "04 Sep 2026 19:02:04 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
       "caso": "other"
     },
     {
@@ -70,176 +240,6 @@
       "source": "ABC",
       "color": "#c0392b",
       "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Cuando el juez Grande-Marlaska ordenó a la Policía informarle sólo a él del caso Faisán",
-      "link": "https://www.abc.es/espana/juez-grandemarlaska-ordeno-policia-informarle-solo-faisan-20260904181552-nt.html",
-      "desc": "El malestar y «preocupación» que ha generado en el ministro del Interior, Fernando Grande-Marlaska, la actuación de la juez María Tardón en el procedimiento judicial de Ceuta, por impedir a los agentes informar a sus superiores sobre las pesquisas relativas a ",
-      "date": "Fri, 04 Sep 2026 18:22:12 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Canarias da el paso y comienza a administrar un tratamiento pionero para pacientes con 'Piel de Mariposa'",
-      "link": "https://www.abc.es/espana/canarias/canarias-paso-comienza-administrar-tratamiento-pionero-pacientes-20260904181540-nt.html",
-      "desc": "El Servicio Canario de la Salud ha comenzado a administrar el medicamento Vyjuvek a los dos pacientes del Hospital de Día Pediátrico del Hospital Universitario Nuestra Señora de Candelaria (Tenerife) diagnosticados de Epidermólisis Ampollosa Distrófica, una en",
-      "date": "Fri, 04 Sep 2026 18:15:40 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Asaja alerta de que la Junta quiere prohibir por ley cosechar con alerta roja o naranja por fuego",
-      "link": "https://www.abc.es/espana/castilla-la-mancha/asaja-alerta-junta-quiere-prohibir-ley-cosechar-20260904181417-nt.html",
-      "desc": "Asaja Castilla-La Mancha ha alertado de que la Junta pretende endurecer las restricciones a los trabajos agrícolas y elevar a rango de ley la prohibición de cosechar cuando el Índice de Propagación Potencial (IPP) de incendios alcance los niveles rojo o naranj",
-      "date": "Fri, 04 Sep 2026 18:14:18 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "UGT denuncia otra agresión a un trabajador de la recogida de basura en Hellín",
-      "link": "https://www.abc.es/espana/castilla-la-mancha/ugt-denuncia-agresion-trabajador-recogida-basura-hellin-20260904181212-nt.html",
-      "desc": "UGT Servicios Públicos Albacete ha condenado «enérgicamente» la última agresión sufrida por un trabajador del servicio de recogida de residuos sólidos urbanos en el barrio del Calvario de Hellín. Los hechos ocurrieron durante la madrugada del 2 al 3 de septiem",
-      "date": "Fri, 04 Sep 2026 18:12:13 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "El juez declara juicio nulo de Lindsay Clancy, pero aplaza la decisión para que el defensor apele",
-      "link": "https://www.lavanguardia.com/vida/20260904/11627471/juez-declara-juicio-nulo-lindsay-clancy-aplaza-decision-defensor-apele-emergencia.html",
-      "desc": "El jurado volvió a comunicar por tercer día consecutivo que no lograban un veredicto unánime y el magistrado consideró que no tenía otra opción que la nulidad, si bien el abogado de la acusada intentó que siguieran deliberando",
-      "date": "04 Sep 2026 18:02:00 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "Feijóo y Moreno arrancan en Málaga el camino hacia Moncloa con la tradicional fritada de huevos",
-      "link": "https://www.abc.es/espana/andalucia/malaga/feijoo-moreno-arrancan-malaga-camino-moncloa-tradicional-20260904174831-nts.html",
-      "desc": "El verano ha terminado para el PP, toca ponerse las pilas para un año electoral decisivo. Con la despedida de agosto, llega la tradicional fritada de patatas con huevos, que este viernes ha reunido en el Hotel Mirador de Alhaurín el Grande al presidente de la ",
-      "date": "Fri, 04 Sep 2026 17:56:16 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "La Diputación de Ciudad Real moviliza 17 millones para obras, gasto corriente y seguridad",
-      "link": "https://www.abc.es/espana/castilla-la-mancha/diputacion-ciudad-real-moviliza-millones-obras-gasto-20260904175114-nt.html",
-      "desc": "La Diputación de Ciudad Real ha aprobado este viernes una modificación de crédito por 16.963.642,18 euros que permitirá reforzar las inversiones y la financiación de los ayuntamientos de la provincia. La mayor parte del expediente, 15 millones de euros, se des",
-      "date": "Fri, 04 Sep 2026 17:54:25 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Murtra anima a desarrollar en Catalunya una industria de la defensa “sin complejos”",
-      "link": "https://www.lavanguardia.com/dinero/20260904/11627448/murtra-anima-desarrollar-catalunya-industria-defensa-complejos.html",
-      "desc": "El presidente de Telefónica considera “extraordinariamente peligroso” depender de tecnología no europea",
-      "date": "04 Sep 2026 17:54:00 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "Canarias inclina la balanza y permite la aprobación del nuevo modelo de financiación autonómica",
-      "link": "https://www.abc.es/espana/canarias/canarias-inclina-balanza-permite-aprobacion-nuevo-modelo-20260904175325-nt.html",
-      "desc": "El Ministerio de Hacienda ha sacado adelante en el Consejo de Política Fiscal y Financiera (CPFF) su propuesta de nuevo modelo de financiación autonómica con los votos de la Administración General del Estado y el apoyo de Cataluña y Canarias. El Ministerio ha ",
-      "date": "Fri, 04 Sep 2026 17:53:26 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Los modelos de SEAT que se fabrican en Cataluña: qué pasará con la planta de Martorell en caso de que VAG decida acabar con la marca",
-      "link": "https://www.abc.es/espana/cataluna/modelos-seat-fabrican-cataluna-pasara-planta-martorell-20260905175209-nt.html",
-      "desc": "El futuro de SEAT vuelve a estar en duda. Después de que el semanario alemán WirtschaftsWoche informara de un supuesto plan de Volkswagen para retirar progresivamente la marca, la compañía ha admitido que estudia diferentes escenarios a partir de 2030, incluid",
-      "date": "Fri, 04 Sep 2026 17:52:43 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Rusia ataca la sede del servicio de seguridad de Ucrania con Illa en un edificio colindante",
-      "link": "https://www.lavanguardia.com/internacional/20260904/11627458/zelenski-denuncia-ataque-ruso-sede-servicio-seguridad-promete-respuesta-tangible.html",
-      "desc": "Zelenski denuncia la ofensiva y promete represalias",
-      "date": "04 Sep 2026 17:46:55 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "La mujer detenida en relación al bebé hallado muerto en Sant Adrià (Barcelona) es la madre",
-      "link": "https://www.abc.es/espana/cataluna/mujer-detenida-relacion-bebe-hallado-muerto-sant-20260904173843-nt.html",
-      "desc": "La mujer detenida por los Mossos d'Esquadra este jueves en relación con la muerte de un bebé en Sant Adrià de Besos (Barcelona), cuyo cadáver fue hallado el miércoles en una bolsa de plástico en el interior de un edificio del barrio barcelonés, es su madre. La",
-      "date": "Fri, 04 Sep 2026 17:41:03 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Las caídas ya provocan más lesiones medulares que los accidentes de tráfico en Parapléjicos",
-      "link": "https://www.abc.es/espana/castilla-la-mancha/toledo/caidas-provocan-lesiones-medulares-accidentes-trafico-paraplejicos-20260904173312-nt.html",
-      "desc": "Las caídas se han convertido en la principal causa traumática de ingreso por lesión medular en el Hospital Nacional de Parapléjicos de Toledo , por delante de los accidentes de tráfico. El centro ha aprovechado la celebración del décimo aniversario del Día Int",
-      "date": "Fri, 04 Sep 2026 17:33:13 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "La batalla por el PSOE en Córdoba: tres aspirantes competirán en primarias por ser candidatos a la Alcaldía",
-      "link": "https://www.abc.es/espana/andalucia/cordoba/batalla-psoe-cordoba-tres-aspirantes-competiran-primarias-20260904173147-nts.html",
-      "desc": "La carrera por liderar al PSOE en Córdoba se aviva con, al menos, tres precandidatos que han mostrado su disposición a encabezar una candidatura para el proceso de primarias que durante el mes de septiembre acogerá la formación socialista en la capital. Victor",
-      "date": "Fri, 04 Sep 2026 17:31:47 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Del 600 al Ibiza: SEAT, la marca que puso a España sobre ruedas y ahora mira a un futuro incierto",
-      "link": "https://www.lavanguardia.com/videos/claves-del-dia/20260904/11627451/600-ibiza-seat-marca-puso-espana-sobre-ruedas-mira-futuro-incierto.html",
-      "desc": "Quico Pla, periodista de Moveo de 'La Vanguardia', repasa el peso industrial y sentimental de una enseña que forma parte del imaginario colectivo español ante las dudas sobre su continuidad dentro del Grupo Volkswagen",
-      "date": "04 Sep 2026 17:31:03 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "La Generalitat Valenciana rechaza el modelo de financiación y acusa a Sánchez de «contentar a los independentistas catalanes»",
-      "link": "https://www.abc.es/espana/comunidad-valenciana/generalitat-valenciana-rechaza-modelo-financiacion-acusa-sanchez-20260904170745-nt.html",
-      "desc": "La Comunidad Valenciana ha cumplido este viernes con lo anunciado después de que el Ejecutivo «rechazara sus alegaciones» al nuevo modelo de financiación autonómica y ha votado en contra de la propuesta presentada en el Consejo de Política Fiscal y Financiera ",
-      "date": "Fri, 04 Sep 2026 17:07:45 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Trump amenaza con cortar el comercio con los países que tienen superávit con EE.UU.",
-      "link": "https://www.lavanguardia.com/economia/20260904/11627426/trump-amenaza-fed-baja-tipos-cortara-comercio-paises-superavit-ee-uu.html",
-      "desc": "El arrebato del presidente está motivado por el dato del mercado laboral, con la creación de 162.000 ocupaciones en agosto, lo que hace pensar que&nbsp; Reserva Federal deberá subir el precio del dinero para combatir la inflación",
-      "date": "04 Sep 2026 17:06:10 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
       "caso": "other"
     }
   ]
