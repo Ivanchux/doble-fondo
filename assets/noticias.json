@@ -1,7 +1,87 @@
 {
-  "updated": "2026-09-04T20:10:29Z",
+  "updated": "2026-09-04T23:38:27Z",
   "count": 24,
   "items": [
+    {
+      "title": "Sombra aquí sombra allá",
+      "link": "https://www.lavanguardia.com/opinion/20260905/11627554/sombra-sombra.html",
+      "desc": "",
+      "date": "05 Sep 2026 00:30:00 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
+    {
+      "title": "El agujero de diez horas que engulle a Sánchez",
+      "link": "https://www.lavanguardia.com/politica/20260905/11627560/agujero-diez-horas-engulle-sanchez.html",
+      "desc": "",
+      "date": "05 Sep 2026 00:05:00 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
+    {
+      "title": "Hacia un mundo feliz",
+      "link": "https://www.lavanguardia.com/opinion/20260905/11627634/mundo-feliz.html",
+      "desc": "La influencia de las plataformas tecnológicas nos cambian nuestros hábitos, y lo que es peor, nuestro pensamiento",
+      "date": "05 Sep 2026 00:05:00 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
+    {
+      "title": "Mourinho: “Hemos hecho un gran partido, a veces pierdes y no sabes cómo explicarlo”",
+      "link": "https://www.lavanguardia.com/deportes/20260905/11627643/mourinho-hemos-hecho-gran-partido-veces-pierdes-como-explicarlo.html",
+      "desc": "El técnico portugués&nbsp;considera que incluso un empate le habría parecido un resultado insuficiente por los méritos de su equipo",
+      "date": "05 Sep 2026 00:00:15 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
+    {
+      "title": "Diego Ventura, El Fandi y David de Miranda, por la puerta grande en Priego de Córdoba",
+      "link": "https://www.abc.es/espana/andalucia/cordoba/diego-ventura-fandi-david-miranda-puerta-grande-20260904235203-nts.html",
+      "desc": "Con el Coso de las Canteras abarrotado -se ha colgado el cartel de ''No hay billetes''-, han hecho este viernes el paseíllo en Priego de Córdoba Diego Ventura, David Fandila «El Fandi» y David de Miranda para lidiar una corrida de la ganadería de Las Monjas, d",
+      "date": "Fri, 04 Sep 2026 23:52:03 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Aitana, nostalgia de nuevo cuño en el Sant Jordi",
+      "link": "https://www.lavanguardia.com/cultura/20260904/11627641/aitana-nostalgia-nuevo-cuno-sant-jordi.html",
+      "desc": "La catalana montó un ‘Cuarto azul’ sobre el escenario en un show trabajado en lo escénico que giró en torno a su último disco",
+      "date": "04 Sep 2026 23:25:55 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
+    {
+      "title": "El Real Madrid de Mourinho sucumbe al frenesí en La Cartuja",
+      "link": "https://www.lavanguardia.com/deportes/20260904/11627595/real-madrid-sucumbe-frenesi-cartuja.html",
+      "desc": "El Betis se impone con un gol de Parrott en el 80, Espí empató nada más salir pero le anularon el gol, y Mbappé falló un penalti en el 95",
+      "date": "04 Sep 2026 23:16:34 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
+    {
+      "title": "Un bello pregón, banderazo de salida para la Velá de la Fuensanta",
+      "link": "https://www.abc.es/espana/andalucia/cordoba/bello-pregon-banderazo-salida-vela-fuensanta-20260904224419-nts.html",
+      "desc": "Córdoba esta desde la noche de este viernes de fiesta y el epicentro es el barrio de la Fuensanta. El sacerdote Ignacio Sierra ha sido el encargado de pronunciar el pregón de la Velá , que ha dado el pistoletazo de salida simbólico a este ciclo festivo, que se",
+      "date": "Fri, 04 Sep 2026 22:44:19 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
     {
       "title": "El PSOE denuncia que la falta de personal reduce a la mitad las citas en el centro social del Polígono",
       "link": "https://www.abc.es/espana/castilla-la-mancha/toledo/psoe-denuncia-falta-personal-reduce-mitad-citas-20260904215329-nt.html",
@@ -75,7 +155,7 @@
     {
       "title": "Un incendio en una planta de residuos provoca una gran columna de humo negro en Cuenca",
       "link": "https://www.abc.es/espana/castilla-la-mancha/incendio-planta-residuos-provoca-gran-columna-humo-20260904201455-nt.html",
-      "desc": "Los bomberos de Cuenca trabajan en la extinción de un incendio declarado este viernes en una planta de gestión de residuos situada en el polígono Los Palancares de la capital conquense, que ha provocado una gran columna de humo negro visible sobre esta zona in",
+      "desc": "Los equipos de emergencia han logrado estabilizar y perimetrar el incendio que afecta desde la tarde de este viernes a las instalaciones de Mobec, en el polígono Los Palancares de Cuenca, y que ha provocado una gran columna de humo negro. El fuego se ha detect",
       "date": "Fri, 04 Sep 2026 20:14:56 +0200",
       "source": "ABC",
       "color": "#c0392b",
@@ -133,16 +213,6 @@
       "caso": "other"
     },
     {
-      "title": "Un Betis, de menos a más, busca el gol ante el Real Madrid (0-0)",
-      "link": "https://www.lavanguardia.com/deportes/futbol/20260904/11627099/betis-real-madrid-laliga-ea-sports-partido-futbol-hoy-en-directo.html",
-      "desc": "",
-      "date": "04 Sep 2026 19:25:03 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
       "title": "La marca 'Sabor a Córdoba' de la Diputación lleva a 18 firmas a la feria 'Auténtica Premium Food' de Sevilla",
       "link": "https://www.abc.es/espana/andalucia/cordoba/marca-sabor-cordoba-diputacion-lleva-firmas-feria-20260904191945-nts.html",
       "desc": "Hasta 18 empresas agroalimentarias cordobesas acudirán de la mano de 'Sabor a Córdoba', marca impulsada por el Instituto Provincial de Desarrollo Económico (Iprodeco) de la Diputación, a Auténtica Premium Food, feria que se celebra en Sevilla los días 14 y 15 ",
@@ -167,76 +237,6 @@
       "link": "https://www.abc.es/espana/andalucia/cordoba/planta-silverio-revoluciona-energia-solar-cordoba-primera-20260904191435-nts.html",
       "desc": "Nexwell Power ha informado, en un comunicado, de que ha obtenido la Autorización Administrativa de Construcción (AAC) para incorporar un sistema de almacenamiento de energía en baterías ( BESS ) a su planta fotovoltaica 'Silverio ', en Guadalcázar. Se trata, e",
       "date": "Fri, 04 Sep 2026 19:14:35 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "La Fiscalía pide enviar a juicio al fundador de Glovo por un delito contra sus repartidores",
-      "link": "https://www.lavanguardia.com/economia/20260904/11627507/fiscalia-pide-enviar-juicio-fundador-glovo-delito-repartidores.html",
-      "desc": "El ministerio público considera que “existen indicios suficientes” para procesar al emprendedor",
-      "date": "04 Sep 2026 19:02:04 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "Educación destina este curso 27 millones de euros para libros y material escolar",
-      "link": "https://www.abc.es/espana/galicia/educacion-destina-curso-millones-euros-libros-material-20260904185547-nt.html",
-      "desc": "El conselleiro de Educación, Ciencia, Universidades e FP, Román Rodríguez, ha reivindicado este viernes el compromiso de la Xunta con las familias gallegas en este inicio de curso que, tan sólo en materia de libros de texto y material escolar, se refleja en un",
-      "date": "Fri, 04 Sep 2026 19:01:04 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Carriedo advierte de que con el nuevo modelo de financiación  «la comunidad con más capacidad tributaria tendrá mejores servicios públicos»",
-      "link": "https://www.abc.es/espana/castilla-leon/carriedo-advierte-nuevo-modelo-financiacion-comunidad-capacidad-20260904185028-nt.html",
-      "desc": "No ha habido sorpresas en el Consejo de Política Fiscal y Financiera que se ha celebrado este viernes en Madrid y que ha reunido a los responsables de economía de las comunidades (excluidas las forales) y los ministros de Hacienda, Arcadi Espada y de Política ",
-      "date": "Fri, 04 Sep 2026 18:57:47 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Galicia denuncia la «imposición» de un modelo de financiación a medida de ERC",
-      "link": "https://www.abc.es/espana/galicia/cpff-galicia-20260904184221-nt.html",
-      "desc": "Se cumplió al milímetro el plan previsto: el Gobierno sacó adelante en el Consejo de Política Fiscal y Financiera (CPFF) su propia propuesta para reformar el sistema de financiación autonómica con el apoyo de Cataluña, con una de cuyas fuerzas políticas más re",
-      "date": "Fri, 04 Sep 2026 18:42:21 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "El alcalde avanza que el centro deportivo del Pabellón de la Juventud se adjudica este mes o en octubre",
-      "link": "https://www.abc.es/espana/andalucia/cordoba/alcalde-avanza-centro-deportivo-pabellon-juventud-adjudica-20260904183512-nts.html",
-      "desc": "El alcalde de Córdoba , el popular José María Bellido, ha informado este viernes, durante su visita a unas obras de mejora de las pistas deportivas de Arroyo del Moro en el IDM Juan Gortz, de en qué estado se encuentra la licitación para buscar una empresa que",
-      "date": "Fri, 04 Sep 2026 18:35:13 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Los vecinos de varios pueblos de Jaén tendrán que usar tres medios de transporte para suplir lo que era un viaje en tren",
-      "link": "https://www.abc.es/espana/andalucia/jaen/vecinos-mengibar-cabra-santo-cristo-utilizar-tres-20260904141052-nts.html",
-      "desc": "El apagón ferroviario llegará a Jaén este próximo 6 de septiembre. En este momento los trenes de Media Distancia que comunicaban Jaén con Madrid se anularán y estos trayectos se cubrirán por autobuses, en el mejor de los casos. Los vecinos de los municipios ji",
-      "date": "Fri, 04 Sep 2026 18:34:40 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "El Pleno de Talavera ratifica la suspensión de licencias para plantas de biometano",
-      "link": "https://www.abc.es/espana/castilla-la-mancha/toledo/talavera/pleno-talavera-ratifica-suspension-licencias-plantas-biometano-20260904182927-nt.html",
-      "desc": "El Pleno del Ayuntamiento de Talavera de la Reina ha ratificado este viernes por unanimidad la suspensión cautelar del otorgamiento de licencias para plantas de biometano, dentro de la tramitación de la modificación puntual del Plan de Ordenación Municipal (PO",
-      "date": "Fri, 04 Sep 2026 18:31:08 +0200",
       "source": "ABC",
       "color": "#c0392b",
       "feedId": "ABC",
