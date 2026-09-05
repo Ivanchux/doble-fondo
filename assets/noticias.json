@@ -1,7 +1,167 @@
 {
-  "updated": "2026-09-05T11:46:11Z",
+  "updated": "2026-09-05T14:26:05Z",
   "count": 24,
   "items": [
+    {
+      "title": "Una familia británica denuncia que encontraron restos humanos en el coche de sus padres tras el incendio en Almería",
+      "link": "https://www.abc.es/espana/andalucia/almeria/familia-britanica-denuncia-encontraron-restos-humanos-coche-20260905145923-nts.html",
+      "desc": "El incendio de Los Gallardos, en Almería , ha sido una de las grandes tragedia de este verano en toda España. El fuego sorprendió a los vecinos de la zona y, al querer abandonar sus viviendas, hasta 14 fallecieron en su huida. Entre ellos Pete y Fran Gillam , ",
+      "date": "Sat, 05 Sep 2026 15:04:32 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Los niños danzantes de Méntrida pisan la uva que da inicio al primer mosto de la vendimia",
+      "link": "https://www.abc.es/espana/castilla-la-mancha/toledo/pueblos/ninos-danzantes-mentrida-pisan-uva-inicio-primer-20260905145943-nt.html",
+      "desc": "Los niños danzantes de la Virgen de la Natividad han protagonizado este sábado en Méntrida (Toledo) uno de los momentos más simbólicos de la vendimia: la tradicional pisada de la uva que representa la obtención del primer mosto. El acto se ha celebrado en el m",
+      "date": "Sat, 05 Sep 2026 15:00:18 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Un incendio forestal amenaza varias viviendas en Alcaudete de la Jara (Toledo)",
+      "link": "https://www.abc.es/espana/castilla-la-mancha/incendio-forestal-amenaza-varias-viviendas-alcaudete-jara-20260905145542-nt.html",
+      "desc": "Un incendio forestal declarado durante la madrugada de este viernes en Alcaudete de la Jara (Toledo) llegó a amenazar varias viviendas y afectó a una casa abandonada en la zona del Cerro del Ángel. El incendio había sido detectado poco después de la medianoche",
+      "date": "Sat, 05 Sep 2026 14:55:42 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Jaén clama contra el aislamiento ferroviario",
+      "link": "https://www.abc.es/espana/andalucia/jaen/jaen-clama-aislamiento-ferroviario-20260905140945-nts.html",
+      "desc": "Masivo respaldo a la movilización en la Estación Linares-Baeza para exigir el mantenimiento y dignificación de los servicios ferroviarios en la provincia de Jaén. La protesta ha comenzado a las 11:30 de la mañana para despedirse del Intercity que hasta hoy con",
+      "date": "Sat, 05 Sep 2026 14:55:33 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Ayuso y Feijóo cargan contra Sánchez por la crisis de Ceuta: «No hay derecho a hundir a España y abandonarla»",
+      "link": "https://www.abc.es/espana/madrid/ayuso-feijoo-cargan-sanchez-crisis-ceuta-derecho-20260905143848-nt.html",
+      "desc": "Entre abanicos y un calor más propio del final de curso que del principio, el PP de Madrid, liderado por la presidenta de la región, Isabel Díaz Ayuso, y acompañado por el presidente nacional, Alberto Núñez Feijóó, ha escenificado este sábado en Getafe el inic",
+      "date": "Sat, 05 Sep 2026 14:38:49 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "La Lotería Nacional deja íntegro en Torrent el primer premio del Sorteo Extraordinario de Septiembre",
+      "link": "https://www.abc.es/espana/comunidad-valenciana/torrent-recibe-premio-loteria-nacional-30000-euros-20260905140909-nt.html",
+      "desc": "﻿La alegría se ha desatado este sábado en Torrent, donde la fortuna ha sonreído a esta localidad valenciana, afectada por la dana de 2024, con el primer premio del Sorteo Extraordinario de Septiembre de la Lotería Nacional. El número 26246 se ha vendido íntegr",
+      "date": "Sat, 05 Sep 2026 14:32:01 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Una mujer de 64 años muere tras ser corneada en el encierro de Aýna (Albacete)",
+      "link": "https://www.abc.es/espana/castilla-la-mancha/mujer-anos-muere-tras-corneada-encierro-ayna-20260905142141-nt.html",
+      "desc": "Una mujer de 64 años ha fallecido este sábado tras resultar herida por asta de toro durante el primer encierro de las fiestas patronales de Aýna (Albacete), un festejo en el que otra persona también ha sufrido una cornada. Los astados habían salido a las diez ",
+      "date": "Sat, 05 Sep 2026 14:21:41 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Un trabajador de 45 años, herido tras caer dos metros desde un tejado en Tomelloso",
+      "link": "https://www.abc.es/espana/castilla-la-mancha/trabajador-anos-herido-tras-caer-dos-metros-20260905141914-nt.html",
+      "desc": "Nuevo accidente laboral en Castilla-La Mancha. Un trabajador de 45 años ha resultado herido este sábado tras caer desde una altura de unos dos metros mientras trabajaba en el tejado de una vivienda en Tomelloso (Ciudad Real). El accidente laboral se produjo a ",
+      "date": "Sat, 05 Sep 2026 14:19:14 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "El Cajasol Ángel Ximénez cede su corona en la Copa Andalucía ante el Proin Sevilla  (32-30)",
+      "link": "https://www.abc.es/espana/andalucia/cordoba/cajasol-angel-ximenez-cede-corona-copa-andalucia-20260905141802-nts.html",
+      "desc": "No pudo ser. El Cajasol Ángel Ximénez no consiguió hacer valer su condición de gran dominador de la Copa Andalucía, competición en la que acumula diez títulos, y cayó en un duelo de alto voltaje ante el Proin Sevilla , recién ascendido a la Liga Asobal (32-30)",
+      "date": "Sat, 05 Sep 2026 14:18:03 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Feijóo acusa al Gobierno de impedir que los españoles «sepan la verdad de lo que ha pasado» en Ceuta",
+      "link": "https://www.abc.es/espana/feijoo-acusa-gobierno-impedir-espanoles-sepan-verdad-20260905141752-nt.html",
+      "desc": "El presidente del Partido Popular (PP), Alberto Núñez Feijóo, ha acusado este sábado al Gobierno de Pedro Sánchez de impedir que España «sepa la verdad de lo que ha pasado» en Ceuta con la invasión de los pasados 30 y 31 de julio. «Deja que nos cuenten la verd",
+      "date": "Sat, 05 Sep 2026 14:17:52 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Pino anuncia más ayudas para las razas de ganado selecto y medidas para reforzar el saneamiento animal",
+      "link": "https://www.abc.es/espana/castilla-leon/pino-anuncia-ayudas-razas-ganado-selecto-medidas-20260905141132-nt.html",
+      "desc": "La Junta de Castilla y León incrementará las ayudas destinadas al ganado selecto y trabajará para que estas lleguen al conjunto de las razas asentadas en la Comunidad, según anunció este sábado el consejero de Agricultura, Ganadería, Medio Rural y Política Amb",
+      "date": "Sat, 05 Sep 2026 14:13:58 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Huelva, en alerta tras detectar mosquitos portadores del virus del Nilo",
+      "link": "https://www.abc.es/espana/andalucia/huelva/huelva-alerta-tras-detectar-mosquitos-portadores-virus-20260905140104-nts.html",
+      "desc": "La ciudad de Huelva ha sido declarado área en alerta tras confirmar la presencia de mosquitos portadores del virus del Nilo en trampas situadas en las proximidades del núcleo urbano. También se han declarado en alerta los municipios sevillanos de La Luisiana y",
+      "date": "Sat, 05 Sep 2026 14:05:30 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Crisis de Ceuta, en directo: última hora de la entrada masiva de inmigrantes y la gestión del Gobierno de Pedro Sánchez hoy",
+      "link": "https://www.abc.es/espana/crisis-ceuta-directo-ultima-hora-entrada-inmigrantes-pedro-sanchez-20260904110340-di.html",
+      "desc": "Sigue en directo la última hora de la crisis migratoria que sufre Ceuta desde la entrada masiva de inmigrantes, que ocurrió a finales del mes de julio en la ciudad autónoma, y la gestión del Gobierno de Pedro Sánchez.",
+      "date": "Sat, 05 Sep 2026 14:00:15 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "El Gobierno asume el control del puerto de Ceuta para alojar a migrantes en carpas",
+      "link": "https://www.abc.es/espana/gobierno-asume-control-puerto-ceuta-alojar-migrantes-20260905135932-nt.html",
+      "desc": "El Gobierno ha asumido este sábado el control del puerto de Ceuta para instalar carpas, zonas de descanso y enfermería para atender a los migrantes que permanecen en la ciudad autónoma desde la invasión de los pasados 30 y 31 de julio. El ministro de Transport",
+      "date": "Sat, 05 Sep 2026 13:59:32 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "El PSOE reivindica la posición de Page sobre la financiación y carga contra Núñez",
+      "link": "https://www.abc.es/espana/castilla-la-mancha/toledo/psoe-reivindica-posicion-page-sobre-financiacion-carga-20260905135437-nt.html",
+      "desc": "El secretario general del PSOE de la provincia de Toledo, Álvaro Gutiérrez, ha reivindicado la «coherencia» del presidente de Castilla-La Mancha, Emiliano García-Page , en su defensa de una financiación justa para la región y ha contrapuesto su posición a la d",
+      "date": "Sat, 05 Sep 2026 13:54:37 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Feijóo acusa al Gobierno de ser “hostil con los invadidos y dócil con los invasores” en Ceuta",
+      "link": "https://www.lavanguardia.com/politica/20260905/11628000/feijoo-ayuso-arrancan-curso-orden-confiarse-frente-sanchez.html",
+      "desc": "Feijóo reclama máxima tensión para llegar a La Moncloa sin depender de Vox mientras Ayuso acusa a Sánchez de estar “obsesionado” con ella",
+      "date": "05 Sep 2026 13:50:30 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
     {
       "title": "El PP pone en duda el rechazo de Page al nuevo modelo de financiación: «Otro teatro»",
       "link": "https://www.abc.es/espana/castilla-la-mancha/toledo/pp-pone-duda-rechazo-page-nuevo-modelo-20260905132945-nt.html",
@@ -10,6 +170,16 @@
       "source": "ABC",
       "color": "#c0392b",
       "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "El Gobierno se hace con el control del puerto de Ceuta para poder alojar a inmigrantes",
+      "link": "https://www.lavanguardia.com/politica/20260905/11627977/gobierno-control-puerto-ceuta-criterio-vivas-alojar-inmigrantes.html",
+      "desc": "El ministro Puente firma una resolución de urgencia tras recabar un informe de Puertos del Estado",
+      "date": "05 Sep 2026 13:27:46 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
       "caso": "other"
     },
     {
@@ -53,166 +223,6 @@
       "caso": "other"
     },
     {
-      "title": "La Generalitat confía en que el Gobierno ceda ante Junts por la financiación: «Es una ventana de oportunidad»",
-      "link": "https://www.abc.es/espana/cataluna/generalitat-confia-gobierno-ceda-ante-junts-financiacion-20260905125128-nt.html",
-      "desc": "La Generalitat confía en que el Gobierno termine realizando nuevas concesiones a Junts para salvar en el Congreso el nuevo modelo de financiación autonómica, cuya tramitación se presenta especialmente complicada después del rechazo expresado por la práctica to",
-      "date": "Sat, 05 Sep 2026 12:51:29 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Tres alegres linces en una almazara toledana",
-      "link": "https://www.abc.es/espana/castilla-la-mancha/toledo/tres-alegres-linces-almazara-toledana-20260905123120-nt.html",
-      "desc": "Tres preciosos linces se han convertido en los protagonistas de unas increíbles imágenes tomadas en la Finca Hualdo, en El Carpio de Tajo (Toledo), un enclave situado a orillas del río Tajo donde agricultura y naturaleza conviven en un entorno especialmente ri",
-      "date": "Sat, 05 Sep 2026 12:31:21 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Vox lleva al Parlamento la defensa de la soberanía española sobre Ceuta para retratar a la izquierda",
-      "link": "https://www.abc.es/espana/andalucia/vox-lleva-parlamento-defensa-soberania-espanola-sobre-20260905115747-nts.html",
-      "desc": "La tensión frenética de la política nacional ha contagiado a la andaluza, que esta primera semana de inicio de curso político ha quedado marcada por la situación crítica en Ceuta y las multitudinarias manifestaciones del miércoles 2 de septiembre. Y será la te",
-      "date": "Sat, 05 Sep 2026 12:01:50 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Muere un ciclista tras una colisión con otro corredor en la V Vuelta Soria Máster",
-      "link": "https://www.abc.es/espana/castilla-leon/muere-ciclista-tras-colision-vuelta-soria-master-20260905115952-nt.html",
-      "desc": "Un ciclista de unos 60 años ha fallecido este sábado tras colisionar con otro corredor durante la contrarreloj individual de diez kilómetros de la V Vuelta Soria Máster celebrada en la localidad soriana de Talveila, según ha informado la Subdelegación del Gobi",
-      "date": "Sat, 05 Sep 2026 12:00:11 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "El pueblo más bonito de España para viajar en septiembre está en Galicia, según National Geographic: famoso por su romería y sus piedras mágicas",
-      "link": "https://www.abc.es/espana/galicia/pueblo-bonito-espana-viajar-septiembre-galicia-segun-20260905120000-nt.html",
-      "desc": "Para muchas personas, las vacaciones de verano ya han quedado atrás y septiembre marca la vuelta a la rutina . Sin embargo, el final del periodo estival no significa que haya que renunciar a unos días de descanso. Con temperaturas todavía agradables y jornadas",
-      "date": "Sat, 05 Sep 2026 12:00:00 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Galicia cierra agosto con un 78% de ocupación turística y el eclipse disparó las reservas",
-      "link": "https://www.abc.es/espana/galicia/galicia-cierra-agosto-ocupacion-turistica-eclipse-disparo-20260905115446-nt.html",
-      "desc": "Galicia cierra el verano con datos muy positivos en cuanto a ocupación turística, que rondó en el mes de agosto el 80%. Concretamente, un 78,09%, un 3% más que en el mismo periodo de 2025. Estos datos, facilitados a Europa Press por el Clúster de Turismo de Ga",
-      "date": "Sat, 05 Sep 2026 11:54:46 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Rescatan a un hombre de 85 años tras caer por un barranco en Los Caños de Meca",
-      "link": "https://www.abc.es/espana/andalucia/cadiz/rescatan-hombre-anos-tras-caer-barranco-canos-20260905113346-nts.html",
-      "desc": "Una operación de rescate muy compleja, de madrugada y en una zona de difícil acceso. La Guardia Civil ha rescatado este sábado a un hombre de 85 años que desapareció durante once horas, tras caer por un barranco en Los Caños de Meca en Barbate, en la provincia",
-      "date": "Sat, 05 Sep 2026 11:40:04 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "García-Page no ha dado la talla",
-      "link": "https://www.abc.es/espana/castilla-la-mancha/toledo/garciapage-dado-talla-20260905113302-nt.html",
-      "desc": "Se trataba de algo muy sencillo: una parte de nuestra casa, España, ha sido invadida. No se trata de ninguna «crisis migratoria» como nos quieren hacer creer, ni hay ninguna «crisis humanitaria». Se ha utilizado a masas de personas para perpetrar la invasión, ",
-      "date": "Sat, 05 Sep 2026 11:33:02 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "El comité de empresa del Zambrana pide limitar a 55 internos la capacidad del centro",
-      "link": "https://www.abc.es/espana/castilla-leon/comite-empresa-zambrana-pide-limitar-internos-capacidad-20260905113101-nt.html",
-      "desc": "El comité de empresa del Centro Regional Zambrana solicitó limitar a una capacidad máxima de 55 internos las instalaciones y que se mantengan otras cinco plazas vacantes para atender «situaciones excepcionales». Esa es una de las peticiones trasladadas por los",
-      "date": "Sat, 05 Sep 2026 11:31:01 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "La AVT premia a la UCO, una «unidad de referencia» con una «trayectoria ejemplar»",
-      "link": "https://www.abc.es/espana/avt-premia-uco-unidad-referencia-trayectoria-ejemplar-20260905111832-nt.html",
-      "desc": "La Asociación Víctimas del Terrorismo (AVT) ha otorgado el XIV Premio Verdad, Memoria, Dignidad y Justicia a la Unidad Central Operativa (UCO) de la Guardia Civil «por su ejemplar trayectoria profesional, su vocación de servicio público y su contribución a la ",
-      "date": "Sat, 05 Sep 2026 11:18:32 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "gen"
-    },
-    {
-      "title": "Illescas supera el umbral de partículas y recomienda a los colectivos vulnerables permanecer en interiores",
-      "link": "https://www.abc.es/espana/castilla-la-mancha/toledo/pueblos/illescas-supera-umbral-particulas-recomienda-colectivos-vulnerables-20260905111456-nt.html",
-      "desc": "La calidad del aire en Illescas ha superado este sábado el umbral de alerta a la población por partículas en suspensión PM10, según ha informado el Gobierno de Castilla-La Mancha. Ante esta situación, las autoridades recomiendan evitar las actividades de durac",
-      "date": "Sat, 05 Sep 2026 11:14:56 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "El barrio de Barcelona que le da el mote a Joan Manuel Serrat: limita con El Raval y San Antonio y tiene una vibrante vida cultural",
-      "link": "https://www.abc.es/espana/cataluna/barrio-barcelona-mote-joan-manuel-serrat-limita-20260905185722-nt.html",
-      "desc": "Joan Manuel Serrat es uno de los artistas más estrechamente vinculados con Barcelona. Aunque actualmente vive en Vallcarca, su historia personal y musical está unida especialmente al Poble-sec, el barrio donde nació y pasó buena parte de su infancia. El cantau",
-      "date": "Sat, 05 Sep 2026 11:00:00 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Controlado el incendio de Mobec tras una noche de lucha contra las llamas en Cuenca",
-      "link": "https://www.abc.es/espana/castilla-la-mancha/controlado-incendio-mobec-tras-noche-lucha-llamas-20260905105948-nt.html",
-      "desc": "El incendio declarado este viernes en las instalaciones de Mobec, en el polígono Los Palancares de Cuenca, ha quedado controlado a las cinco de la madrugada de este sábado tras una noche de intenso trabajo de los equipos de emergencia. La extinción, sin embarg",
-      "date": "Sat, 05 Sep 2026 10:59:48 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Meta da otro paso para levantar su gran campus de centros de datos en Talavera",
-      "link": "https://www.abc.es/espana/castilla-la-mancha/toledo/talavera/meta-paso-levantar-gran-campus-centros-datos-20260905105942-nt.html",
-      "desc": "El gran proyecto tecnológico de Meta en Talavera de la Reina continúa avanzando en su tramitación urbanística y se encuentra ya un paso más cerca de comenzar a hacerse realidad sobre el terreno. La empresa promotora, Zarza Networks S.L., filial de Meta , const",
-      "date": "Sat, 05 Sep 2026 10:59:43 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Detenido el sospechoso del homicidio de un taxista en Guipúzcoa tras entregarse en una comisaría de Vizcaya",
-      "link": "https://www.abc.es/espana/pais-vasco/detenido-sospechoso-homicidio-taxista-guipuzcoa-tras-entregarse-20260905105429-nt.html",
-      "desc": "El presunto autor del homicidio ocurrido el pasado martes en Azpeitia (Guipúzcoa), en el que falleció un joven taxista tras recibir varios disparos, ha sido detenido este sábado por agentes del Servicio de Investigación Criminal Territorial de Guipúzcoa tras e",
-      "date": "Sat, 05 Sep 2026 10:54:29 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "¿Está la imagen del camión cargado de migrantes relacionada con la entrada masiva en Ceuta?",
-      "link": "https://www.lavanguardia.com/politica/20260905/11627861/esta-imagen-camion-cargado-migrantes-relacionada-entrada-masiva-ceuta.html",
-      "desc": "La imagen, que circuló por redes y se incluye en el informe del CENIF, se geolocalizó en la carretera de Tetuán y los registros más antiguos son del día anterior",
-      "date": "05 Sep 2026 10:05:25 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
       "title": "Nepal eleva a 1.344 los muertos mientras siguen las operaciones de rescate y búsqueda",
       "link": "https://www.lavanguardia.com/internacional/20260905/11627852/nepal-eleva-1-344-muertos-siguen-operaciones-rescate-busqueda.html",
       "desc": "Entre las personas que no se localizan figuran al menos 606 ciudadanos extranjeros, incluidos dos españoles",
@@ -223,20 +233,10 @@
       "caso": "other"
     },
     {
-      "title": "La Fiscalía apunta a una organización criminal en la crisis de Ceuta pese a que la Policía lo descarta",
-      "link": "https://www.lavanguardia.com/politica/20260905/11627563/fiscalia-allana-camino-jueza-investigar-crisis-ceuta.html",
-      "desc": "María Tardón resolverá la próxima semana si abre una causa por la entrada masiva",
-      "date": "05 Sep 2026 06:00:00 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "Sánchez, ante la Sala Segunda",
-      "link": "https://www.lavanguardia.com/politica/20260905/11627509/sanchez-sala-segunda.html",
-      "desc": "No se habla de moción de censura, se insiste en la vía judicial, intentarán llevar al presidente a juicio por la crisis de Ceuta",
-      "date": "05 Sep 2026 06:00:00 +0200",
+      "title": "La derrota pública de la editora más poderosa de la moda",
+      "link": "https://www.lavanguardia.com/magazine/moda/20260905/11626999/dictamen-anna-wintour-dejo-incuestionable.html",
+      "desc": "Durante casi cuarenta años, el talento más extraordinario de Anna Wintour no ha sido decidir qué estaba de moda, sino conseguir que su criterio pareciera inevitable. La exposición de John Galliano demuestra que ya no lo es",
+      "date": "05 Sep 2026 06:27:00 +0200",
       "source": "La Vanguardia",
       "color": "#8e44ad",
       "feedId": "LaVanguardia",
