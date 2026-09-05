@@ -1,7 +1,47 @@
 {
-  "updated": "2026-09-05T17:51:52Z",
+  "updated": "2026-09-05T19:49:26Z",
   "count": 24,
   "items": [
+    {
+      "title": "Detenida una pareja por ocultar el cádaver del padre de la mujer durante días en Cantabria",
+      "link": "https://www.abc.es/espana/cantabria/detenida-pareja-ocultar-cadaver-padre-mujer-dias-20260905204439-nt.html",
+      "desc": "La Policía Local de Torrelavega ha detenido a una pareja por ocultar el cuerpo de un fallecido, el padre de la arrestada, durante días. En declaraciones a Europa Press, el concejal de Seguridad Ciudadana, Pedro Pérez Noriega, ha informado de que el Cuerpo come",
+      "date": "Sat, 05 Sep 2026 20:44:39 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Ni prohibirlo ni darle acceso a todo: la alternativa española para el primer móvil de los niños",
+      "link": "https://www.abc.es/espana/cataluna/prohibirlo-darle-acceso-alternativa-espanola-primer-movil-20260905201412-nt.html",
+      "desc": "Entregar el primer teléfono móvil a un hijo es una de las decisiones más delicadas para muchas familias. Por un lado, cada vez más expertos recomiendan retrasar su llegada; por otro, la necesidad de comunicarse y la presión de sus compañeros de clase hacen que",
+      "date": "Sat, 05 Sep 2026 20:14:12 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Albacete planta cara al alcohol en Feria: «La mejor Feria es la que vives, no la que recuerdas»",
+      "link": "https://www.abc.es/espana/castilla-la-mancha/albacete-planta-cara-alcohol-feria-mejor-feria-20260905200818-nt.html",
+      "desc": "El Ayuntamiento de Albacete quiere que la Feria se recuerde por todo lo que se vive y no por los excesos. Con ese objetivo, ha puesto en marcha una campaña de prevención del consumo de alcohol durante estos días bajo el lema «La mejor Feria es la que vives, no",
+      "date": "Sat, 05 Sep 2026 20:08:19 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Las estrellas de La Vuelta a España que tomarán Córdoba: de Enric Mas a Wout van Aert",
+      "link": "https://www.abc.es/espana/andalucia/cordoba/estrellas-vuelta-espana-tomaran-cordoba-enric-wout-20260905200015-nts.html",
+      "desc": "La Vuelta a España desembarcará este domingo en Córdoba con algunos de los grandes nombres del ciclismo internacional. La decimoquinta etapa, finalmente de 110,2 kilómetros entre Palma del Río y la capital cordobesa, tendrá una ausencia de peso: Tadej Pogacar ",
+      "date": "Sat, 05 Sep 2026 20:00:15 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
     {
       "title": "La Vuelta a España recorta su etapa en Córdoba por las altas temperaturas: nuevo recorrido y horarios",
       "link": "https://www.abc.es/espana/andalucia/cordoba/vuelta-espana-recorta-etapa-cordoba-altas-temperaturas-20260905192606-nts.html",
@@ -177,46 +217,6 @@
       "link": "https://www.abc.es/espana/castilla-la-mancha/bellido-reivindica-sierra-norte-guadalajara-herida-viva-20260905181645-nt.html",
       "desc": "La Sierra Norte de Guadalajara ha vuelto a reunirse este sábado en torno a una de sus tradiciones más arraigadas. El presidente de las Cortes de Castilla-La Mancha, Pablo Bellido, ha participado en la Romería del Alto Rey, celebrada en Bustares, donde ha acomp",
       "date": "Sat, 05 Sep 2026 18:16:45 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Localizan el cuerpo sin vida de un hombre desaparecido este viernes en Móra d'Ebre (Tarragona)",
-      "link": "https://www.abc.es/espana/cataluna/localizan-cuerpo-vida-hombre-desaparecido-viernes-mora-20260905175247-nt.html",
-      "desc": "Los Bomberos de la Generalitat han localizado el cuerpo sin vida de un hombre de 76 años desaparecido este viernes en Móra d'Ebre (Tarragona), han informado este sábado en un comunicado. Los bomberos fueron alertados de su desaparición este viernes a las 18.45",
-      "date": "Sat, 05 Sep 2026 18:10:26 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "La Junta defiende a Cáritas: «Ayudar a una persona vulnerable nunca puede ser motivo de señalamiento»",
-      "link": "https://www.abc.es/espana/castilla-la-mancha/junta-defiende-caritas-ayudar-persona-vulnerable-nunca-20260905175526-nt.html",
-      "desc": "La consejera de Bienestar Social de Castilla-La Mancha, Bárbara García Torijano , ha salido en defensa de Cáritas y del conjunto de entidades del Tercer Sector ante las críticas que han recibido en las últimas semanas por su labor de atención a las personas vu",
-      "date": "Sat, 05 Sep 2026 17:55:26 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "La Virgen de Guadalupe de Asorey regresa a Rianxo dos décadas después",
-      "link": "https://www.abc.es/espana/galicia/virgen-guadalupe-asorey-regresa-rianxo-dos-decadas-20260905175314-nt.html",
-      "desc": "La estatua de la Virgen de Guadalupe, obra del escultor Francisco Asorey y todo un símbolo de Rianxo, ha regresado al municipio dos décadas después de su retirada. La pieza ha sido colocada de nuevo en la playa de Tanxil tras ser restaurada con la colaboración",
-      "date": "Sat, 05 Sep 2026 17:53:14 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Sucesión de robos en iglesias de Extremadura: ya son tres en menos de una semana",
-      "link": "https://www.abc.es/espana/extremadura/sucesion-robos-iglesias-extremadura-tres-semana-20260905174857-nt.html",
-      "desc": "Preocupación en Extremadura tras sumar, en apenas unos días, tres robos, de semejante factura, en iglesias de la provincia de Badajoz : Jerez de los Caballeros, Barcarrota y Valle de Santa Ana. La Guardia Civil investiga los tres casos y no descarta que, efect",
-      "date": "Sat, 05 Sep 2026 17:49:47 +0200",
       "source": "ABC",
       "color": "#c0392b",
       "feedId": "ABC",
