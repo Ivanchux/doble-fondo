@@ -1,11 +1,151 @@
 {
-  "updated": "2026-09-06T16:40:08Z",
+  "updated": "2026-09-06T19:53:56Z",
   "count": 24,
   "items": [
     {
-      "title": "Córdoba desafía las altas temperaturas para abrazar de nuevo a La Vuelta España: «El mundo del ciclismo es una familia muy grande»",
+      "title": "El Córdoba CF busca despejar las dudas y relanzar el vuelo ante el muro del Sabadell",
+      "link": "https://www.abc.es/espana/andalucia/cordoba/cordoba-cf/cordoba-busca-despejar-dudas-relanzar-vuelo-ante-20260906213314-nts.html",
+      "desc": "Un lobo con piel de cordero. Así se presenta el duelo de este lunes entre el Córdoba CF y el Sabadell (20.30 horas) . Sobre el papel, el conjunto blanquiverde parte como favorito ante un recién ascendido, pero el escenario es bastante más incómodo de lo que ap",
+      "date": "Sun, 06 Sep 2026 21:33:14 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "2-0: El Albacete Balompié sigue con su inquietante cuesta abajo",
+      "link": "https://www.abc.es/espana/castilla-la-mancha/toledo/deportes/albacete-balompie-sigue-inquietante-cuesta-abajo-20260906211053-nt.html",
+      "desc": "No reacciona el Albacete Balompié. En su cuarto partido de Liga cosechó su cuarta derrota, en esta ocasión, con un 2-0 adverso en su visita al CD Castellón. Sin ser todavía una situación dramática, sí que empieza a ser preocupante la marcha del equipo inquilin",
+      "date": "Sun, 06 Sep 2026 21:10:54 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Buscan a un hombre de 56 años desaparecido en Toledo desde el 19 de agosto",
+      "link": "https://www.abc.es/espana/castilla-la-mancha/toledo/buscan-hombre-anos-desaparecido-toledo-agosto-20260906205405-nt.html",
+      "desc": "La Asociación SOSdesaparecidos ha difundido una alerta para localizar a un hombre de 56 años desaparecido en Toledo desde el pasado 19 de agosto. El desaparecido responde a las iniciales Joseph R., según la información facilitada por la asociación a través de ",
+      "date": "Sun, 06 Sep 2026 20:54:05 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Muere un hombre al volcar su vehículo en una aldea de Fuente Obejuna",
+      "link": "https://www.abc.es/espana/andalucia/cordoba/muere-hombre-volcar-vehiculo-aldea-fuente-obejuna-20260906203714-nts.html",
+      "desc": "Un hombre de 66 años ha fallecido al volcar el turismo que conducía en una de las aldeas del municipio cordobés de Fuente Obejuna , según informa el 1-1-2, perteneciente a la Agencia de Emergencias de Andalucía, adscrita la Consejería de Presidencia, Sanidad y",
+      "date": "Sun, 06 Sep 2026 20:37:14 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Los ganaderos de Almonte acusan a Hinojos de impedirles el acceso a la marisma con policías antidisturbios",
+      "link": "https://www.abc.es/espana/andalucia/huelva/ganaderos-almonte-acusan-hinojos-impedirles-acceso-marisma-20260906193606-nts.html",
+      "desc": "Este fin de semana se han vivido momentos de tensión entre los municipios Almonte e Hinojos. El motivo, el aprovechamiento ganadero de la marisma de Doñana, que ha vuelto a enfrentar las dos posturas. Durante la tradicional Recogida de Yeguas de Hinojos , la A",
+      "date": "Sun, 06 Sep 2026 19:36:07 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "La Xunta carga contra Abel Caballero por «presentar como un gesto de generosidad» el abastecimiento a Baiona",
+      "link": "https://www.abc.es/espana/galicia/xunta-carga-abel-caballero-presentar-gesto-generosidad-20260906192456-nt.html",
+      "desc": "La Consellería de Medio Ambiente e Cambio Climático ha reprendido al alcalde de Vigo, Abel Caballero, por referirse a la decisión de suministrar agua a Baiona desde este lunes «como si fuese una donación o un acto de caridad». «No se puede presentar como un ge",
+      "date": "Sun, 06 Sep 2026 19:24:57 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "El hombre precipitado desde una azotea de Parla malvivía en un trastero del conflictivo edificio",
+      "link": "https://www.abc.es/espana/madrid/hombre-precipitado-azotea-parla-malvivia-trastero-conflictivo-20260906192256-nt.html",
+      "desc": "El hombre de 33 años que ayer perdió la vida al precipitarse desde la azotea de uno de los edificios más conflictivos de Parla, en la calle de Fuente Arenosa, residía en un pequeño cuarto, tipo trastero, ubicado en el mismo bloque de marras. Hasta que un vecin",
+      "date": "Sun, 06 Sep 2026 19:23:43 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Von der Leyen lleva la voz europea a Groenlandia tras las amenazas de Trump",
+      "link": "https://www.lavanguardia.com/internacional/20260906/11628608/von-der-leyen-lleva-voz-europea-groenlandia-amenazas-trump.html",
+      "desc": "Su visita coincide con el inicio de los ejercicios conjuntos de los ejércitos de once países de la OTAN",
+      "date": "06 Sep 2026 19:23:40 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
+    {
+      "title": "La Xunta da por finalizado este lunes el episodio de calor que declaró el miércoles y desactiva las alertas",
+      "link": "https://www.abc.es/espana/galicia/xunta-finalizado-lunes-episodio-calor-declaro-miercoles-20260906191656-nt.html",
+      "desc": "La Consellería de Sanidade ha decidido desactivar de cara al lunes cualquier tipo de alerta en relación al episodio de calor que declaró el miércoles. Esto le llevó a activar en días sucesivos avisos en nivel rojo , naranja y amarillo ante los posibles efectos",
+      "date": "Sun, 06 Sep 2026 19:16:56 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Remite el umbral de alerta por PM10 en Illescas, aunque sigue superado el de información",
+      "link": "https://www.abc.es/espana/castilla-la-mancha/toledo/pueblos/remite-umbral-alerta-pm10-illescas-sigue-superado-20260906191114-nt.html",
+      "desc": "La superación del umbral de alerta por partículas PM10 registrada en Illescas (Toledo) ya ha remitido, aunque los niveles de contaminación todavía se mantienen por encima del umbral de información, según ha informado este domingo el Gobierno de Castilla-La Man",
+      "date": "Sun, 06 Sep 2026 19:11:14 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Radiografía del turbulento aterrizaje de Fly2Galicia en Lavacolla",
+      "link": "https://www.abc.es/espana/galicia/radiografia-turbulento-aterrizaje-fly2galicia-lavacolla-20260906190211-nt.html",
+      "desc": "La noticia saltó en mitad del parón estival. Sin sospecha, al menos pública, de ningún tipo de contacto previo, una desconocida aerolínea anunciaba la apertura de ocho nuevas rutas desde el aeropuerto de Santiago de Compostela . Bajo el nombre de Fly2Galicia, ",
+      "date": "Sun, 06 Sep 2026 19:02:11 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "“Flick: “Veo el hambre en mis jugadores, siempre quieren más”",
+      "link": "https://www.lavanguardia.com/deportes/fc-barcelona/20260906/11628587/flick-veo-hambre-mis-jugadores-siempre-quieren-mas.html",
+      "desc": "El técnico alemán ensalza la ambición de sus futbolistas y se muestra muy satisfecho con el partido de Mestalla",
+      "date": "06 Sep 2026 19:01:05 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
+    {
+      "title": "Rueda viaja a Madrid para apoyar al presidente de Ceuta antes de su viaje a Bruselas",
+      "link": "https://www.abc.es/espana/galicia/rueda-viaja-madrid-apoyar-presidente-ceuta-viaje-20260906185720-nt.html",
+      "desc": "El presidente gallego, Alfonso Rueda, y once dirigentes autonómicos más del partido arroparán este lunes al presidente de Ceuta, Juan Jesús Vivas, durante un desayuno informativo en Madrid, un día antes de que el dirigente ceutí viaje a Bruselas para abordar c",
+      "date": "Sun, 06 Sep 2026 18:57:20 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Si solo fuera Rodri",
+      "link": "https://www.lavanguardia.com/deportes/fc-barcelona/20260906/11628585/fuera-rodri.html",
+      "desc": "",
+      "date": "06 Sep 2026 18:34:24 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
+    {
+      "title": "Córdoba desafía las altas temperaturas para abrazar de nuevo a La Vuelta a España: «El mundo del ciclismo es una familia muy grande»",
       "link": "https://www.abc.es/espana/andalucia/cordoba/cordoba-desafia-altas-temperaturas-abrazar-nuevo-vuelta-20260906182424-nts.html",
-      "desc": "Córdoba volvió a despertarse este domingo con aroma a Vuelta a España. Dos años después, la serpiente ciclista regresó a una ciudad que conoce bien el ritual: vallas junto al asfalto, maillots de todos los colores y aficionados tomando posiciones muchas horas ",
+      "desc": "Córdoba volvió a despertarse este domingo con aroma a   Vuelta a España . Dos años después, la serpiente ciclista regresó a una ciudad que conoce bien el ritual: vallas junto al asfalto, maillots de todos los colores y aficionados tomando posiciones muchas hor",
       "date": "Sun, 06 Sep 2026 18:27:30 +0200",
       "source": "ABC",
       "color": "#c0392b",
@@ -20,6 +160,26 @@
       "source": "ABC",
       "color": "#c0392b",
       "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "El Barça de Lamine arrolla al Valencia en un ensordecedor Mestalla que llega a su límite",
+      "link": "https://www.lavanguardia.com/deportes/fc-barcelona/20260906/11628579/barca-lamine-arrolla-valencia-ensordeceror-mestalla-llega-limite.html",
+      "desc": "El conjunto azulgrana con un doblete de Lamine y goles de Fermín, Raphinha y Pedri son más líderes de la Liga",
+      "date": "06 Sep 2026 18:21:59 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
+    {
+      "title": "La ultraderechista AfD arrasa en Sajonia-Anhalt pero se queda al borde de la mayoría absoluta",
+      "link": "https://www.lavanguardia.com/internacional/20260906/11628575/ultraderechista-afd-arrasa-sajonia-anhalt-logra-mayoria-absoluta-sondeos.html",
+      "desc": "La democristiana CDU del canciller Merz queda segunda pero sufre un terrible batacazo",
+      "date": "06 Sep 2026 18:20:09 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
       "caso": "other"
     },
     {
@@ -73,170 +233,10 @@
       "caso": "other"
     },
     {
-      "title": "El transporte público metropolitano en Andalucía cierra su mejor semestre de la historia",
-      "link": "https://www.abc.es/espana/andalucia/transporte-publico-metropolitano-andalucia-cierra-mejor-semestre-20260906180153-nts.html",
-      "desc": "La Junta de Andalucía ha cerrado el mejor primer semestre de su historia en materia de transporte público metropolitano, con más de 77 millones de usuarios (77.659.536) que han viajado con la tarjeta del Consorcio de enero a junio. Esta cifra supone un increme",
-      "date": "Sun, 06 Sep 2026 18:01:54 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "La histórica Micaela Navarro da el paso para encabezar la candidatura del PSOE en Andújar",
-      "link": "https://www.abc.es/espana/andalucia/historica-micaela-navarro-paso-encabezar-candidatura-psoe-20260906174053-nts.html",
-      "desc": "La histórica dirigente del PSOE andaluz, Micaela Navarro , ha presentado su candidatura para encabezar la lista de su formación en las próximas elecciones municipales en Andújar (Jaén) . Navarro cuenta con una experiencia dilatada en política como alto cargo d",
-      "date": "Sun, 06 Sep 2026 17:40:53 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Uno de cada cuatro trabajadores falta al trabajo por motivos de salud, con bajas de 46,8 días de media",
-      "link": "https://www.abc.es/espana/castilla-leon/cuatro-trabajadores-falta-trabajo-motivos-salud-bajas-20260906171700-nt.html",
-      "desc": "Más de uno de cada cuatro trabajadores de Castilla y León tuvo que ausentarse de su puesto por motivos de salud durante el último año, una proporción superior a la media nacional que sitúa a la Comunidad entre las autonomías con mayor incidencia del absentismo",
-      "date": "Sun, 06 Sep 2026 17:17:00 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Identificados cuatro jóvenes por subirse a columnas del exterior de la Mezquita-Catedral de Córdoba",
-      "link": "https://www.abc.es/espana/andalucia/cordoba/identificados-cuatro-jovenes-subirse-columnas-exterior-mezquitacatedral-20260906160757-nts.html",
-      "desc": "El vandalismo ha llegado este domingo a la Mezquita-Catedral de Córdoba. No pasa de travesura, pero la idea de cuatro jóvenes de subir a cuatro de las columnas exteriores del monumento les va a salir cara. La Policía Local ha procedido a su identificación. Los",
-      "date": "Sun, 06 Sep 2026 16:07:57 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "3-0: El Talavera cae en Alcalá tras una segunda parte para olvidar",
-      "link": "https://www.abc.es/espana/castilla-la-mancha/toledo/deportes/talavera-cae-alcala-tras-segunda-parte-olvidar-20260906154610-nt.html",
-      "desc": "No ha tenido un feliz inicio de campeonato el CF Talavera ya que perdió por 3-0 en la matinal de este caluroso domingo en su visita a la RSD Alcalá. El equipo blanquiazul llevó a cabo un buen primer tiempo , pero no pudo ponerse con ventaja en el marcador debi",
-      "date": "Sun, 06 Sep 2026 15:47:48 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Núñez exige a Page que «acabe con Sánchez» si está en contra de la nueva financiación autonómica",
-      "link": "https://www.abc.es/espana/castilla-la-mancha/nunez-exige-page-acabe-sanchez-nueva-financiacion-20260906153331-nt.html",
-      "desc": "El presidente del PP de Castilla-La Mancha, Paco Núñez, ha exigido a Emiliano García-Page que, si está en contra del modelo de financiación autonómica planteado por el Gobierno de Pedro Sánchez, sus diputados lo demuestren votando en contra cuando llegue al Co",
-      "date": "Sun, 06 Sep 2026 15:33:31 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Núñez acusa a Page de tener una «doble cara»: «No es de fiar»",
-      "link": "https://www.abc.es/espana/castilla-la-mancha/nunez-acusa-page-tener-doble-cara-fiar-20260906151147-nt.html",
-      "desc": "El presidente del PP de Castilla-La Mancha, Paco Núñez, ha acusado este domingo a Emiliano García-Page de tener una «doble cara» y ha asegurado que el presidente regional «no es de fiar», una crítica que ha sustentado principalmente en la posición mantenida es",
-      "date": "Sun, 06 Sep 2026 15:11:48 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "La Virgen de los Remedios vuelve a reinar desde San Miguel entre vivas y cuestas de Toledo",
-      "link": "https://www.abc.es/espana/castilla-la-mancha/toledo/virgen-remedios-vuelve-reinar-san-miguel-vivas-20260906144907-nt.html",
-      "desc": "Pasadas las once de la mañana de este domingo, la Virgen de los Remedios abandonaba la iglesia de San Miguel el Alto, su sede, para volver a encontrarse con las calles de Toledo. No fue una salida sencilla. La estrechez de la puerta y la complejidad del recorr",
-      "date": "Sun, 06 Sep 2026 14:49:07 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Godoy contrapone la «coherencia» de Page en defensa de la región frente a un Núñez que «siempre elige al PP»",
-      "link": "https://www.abc.es/espana/castilla-la-mancha/godoy-contrapone-coherencia-page-defensa-region-frente-20260906144620-nt.html",
-      "desc": "El presidente del grupo socialista en las Cortes de Castilla-La Mancha, Ángel Tomás Godoy, ha contrapuesto este domingo la «coherencia» y la defensa de los intereses de la región que atribuye al presidente autonómico, Emiliano García-Page, con la posición de P",
-      "date": "Sun, 06 Sep 2026 14:46:20 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Un hombre resulta herido crítico tras saltar de un cuarto piso después de apuñalar a tres personas en Barcelona",
-      "link": "https://www.abc.es/espana/cataluna/hombre-resulta-herido-critico-tras-saltar-cuarto-20260906144352-nt.html",
-      "desc": "Un hombre se encuentra en estado crítico tras haber saltado este domingo de un cuarto piso, donde había apuñalado presuntamente a tres personas -una de ellas se encuentra en estado grave-, en el distrito de Sants-Montjuïc de Barcelona, según han informado a Ep",
-      "date": "Sun, 06 Sep 2026 14:43:52 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Un Barça arrollador asalta el liderato de LaLiga en Valencia (0-5)",
-      "link": "https://www.lavanguardia.com/deportes/futbol/20260906/11628465/valencia-barcelona-laliga-ea-sports-partido-futbol-hoy-en-directo.html",
-      "desc": "",
-      "date": "06 Sep 2026 14:42:35 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "El PP acusa al Gobierno de «aparcar y no solucionar» el problema de Ceuta con el campamento del puerto",
-      "link": "https://www.abc.es/espana/castilla-la-mancha/pp-acusa-gobierno-aparcar-solucionar-problema-ceuta-20260906142042-nt.html",
-      "desc": "La vicesecretaria de Sanidad y Política Social del PP, Carmen Fúnez, ha acusado este domingo al Gobierno de España de intentar «aparcar» el problema de Ceuta con la instalación de un campamento en terrenos del puerto en lugar de buscar una solución a la situac",
-      "date": "Sun, 06 Sep 2026 14:21:51 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Unas 6.000 menores de 14 años, en riesgo de sufrir mutilación genital en Cataluña",
-      "link": "https://www.abc.es/espana/cataluna/6000-ninas-anos-riesgo-potencial-sufrir-mutilacion-20260906110317-nt.html",
-      "desc": "Unas 6.000 menores de 14 años están en riesgo potencial de sufrir una mutilación genital femenina (MGF) en Cataluña, según las últimas estimaciones disponibles publicadas por la . Las matronas del Colegio Oficial de Enfermeras y Enfermeros de Tarragona (Codita",
-      "date": "Sun, 06 Sep 2026 13:56:41 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Iván Ania admite los problemas defensivos del Córdoba CF de cara al duelo ante el Sabadell: «Hemos encajado más goles de lo esperado»",
-      "link": "https://www.abc.es/espana/andalucia/cordoba/cordoba-cf/ivan-ania-avisa-peligro-sabadell-partido-caracteristicas-20260906135432-nts.html",
-      "desc": "El Córdoba CF tiene ganas de redimirse ante el Sabadell , un rival que, pese a ser un recién ascendido, ha demostrado ser una de las revelaciones de este inicio de la temporada. Por ello, el primer paso será sacudirse de la derrota en el derbi andaluz y amasar",
-      "date": "Sun, 06 Sep 2026 13:54:32 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "21 migrantes detenidos en Ceuta por lanzar piedras a militares y guardias civiles",
-      "link": "https://www.lavanguardia.com/politica/20260906/11628519/21-migrantes-detenidos-lanzar-piedras-militares-guardias-civiles-ceuta.html",
-      "desc": "El incidente se produjo a última hora de la noche de este sábado en las inmediaciones de la playa&nbsp;",
-      "date": "06 Sep 2026 13:41:40 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "En marcha la reunión de Zelenski con los enviados de EE.UU.",
-      "link": "https://www.lavanguardia.com/internacional/20260906/11628446/ucrania-reanuda-ataques-masivos-rusia-llegada-emisarios-ee-uu.html",
-      "desc": "Antes de las llegada de los emisarios,&nbsp;Ucrania reanuda los ataques masivos contra Rusia",
-      "date": "06 Sep 2026 10:30:21 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "Rescatados con vida una mujer sepultada por el lodo y un hombre atrapado en un túnel 11 días después de la riada",
-      "link": "https://www.lavanguardia.com/internacional/20260906/11628435/rescatados-vida-mujer-sepultada-lodo-hombre-atrapado-tunel-once-dias-riada-nepal.html",
-      "desc": "Cerca de 8.000 miembros de las fuerzas de seguridad participan en unas operaciones que intentan dar con el paradero de más de cinco mil personas&nbsp;",
-      "date": "06 Sep 2026 10:06:59 +0200",
+      "title": "Qué es el Informe PISA y por qué Catalunya se queda sin resultados comparables",
+      "link": "https://www.lavanguardia.com/vida/20260906/11628560/que-informe-pisa-que-sirve.html",
+      "desc": "El martes 8 de septiembre se publican los resultados del rendimiento académico de 91 países del mundo",
+      "date": "06 Sep 2026 18:03:24 +0200",
       "source": "La Vanguardia",
       "color": "#8e44ad",
       "feedId": "LaVanguardia",
