@@ -1,7 +1,37 @@
 {
-  "updated": "2026-09-06T21:54:13Z",
+  "updated": "2026-09-06T23:24:51Z",
   "count": 24,
   "items": [
+    {
+      "title": "Al menos cinco muertos tras estrellarse un avión de Amazon cerca del aeropuerto de Miami",
+      "link": "https://www.lavanguardia.com/internacional/20260907/11628756/cinco-muertos-estrellarse-avion-amazon-cerca-aeropuerto-miami.html",
+      "desc": "El  avión de carga se salió de la pista en el Aeropuerto Internacional, chocó contra varios vehículos y se incendió",
+      "date": "07 Sep 2026 00:14:15 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
+    {
+      "title": "Un futuro inquietante",
+      "link": "https://www.lavanguardia.com/opinion/20260907/11628626/afd-sajonia-anhalt-merz-hitler.html",
+      "desc": "La condescendencia de los demócratas con los ultras puede allanar el camino al desastre",
+      "date": "07 Sep 2026 00:00:00 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
+    {
+      "title": "Illa tropieza con su plan para acelerar las renovables y da oxígeno a la continuidad de las nucleares",
+      "link": "https://www.abc.es/espana/cataluna/illa-tropieza-plan-acelerar-renovables-oxigeno-continuidad-20260907235828-nt.html",
+      "desc": "Hace apenas dos fines de semana, Salvador Illa paseaba entre interminables hileras de paneles solares en Alcarrás (Lérida), el municipio que la película de Carla Simón convirtió en símbolo de una Cataluña rural que lucha por preservar su forma de vida y que ah",
+      "date": "Sun, 06 Sep 2026 23:58:28 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
     {
       "title": "La herida",
       "link": "https://www.abc.es/espana/castilla-leon/herida-20260906225046-nt.html",
@@ -210,36 +240,6 @@
       "source": "La Vanguardia",
       "color": "#8e44ad",
       "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "Rueda viaja a Madrid para apoyar al presidente de Ceuta antes de su viaje a Bruselas",
-      "link": "https://www.abc.es/espana/galicia/rueda-viaja-madrid-apoyar-presidente-ceuta-viaje-20260906185720-nt.html",
-      "desc": "El presidente gallego, Alfonso Rueda, y once dirigentes autonómicos más del partido arroparán este lunes al presidente de Ceuta, Juan Jesús Vivas, durante un desayuno informativo en Madrid, un día antes de que el dirigente ceutí viaje a Bruselas para abordar c",
-      "date": "Sun, 06 Sep 2026 18:57:20 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Si solo fuera Rodri",
-      "link": "https://www.lavanguardia.com/deportes/fc-barcelona/20260906/11628585/fuera-rodri.html",
-      "desc": "",
-      "date": "06 Sep 2026 18:34:24 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "Córdoba desafía las altas temperaturas para abrazar de nuevo a La Vuelta a España: «El mundo del ciclismo es una familia muy grande»",
-      "link": "https://www.abc.es/espana/andalucia/cordoba/cordoba-desafia-altas-temperaturas-abrazar-nuevo-vuelta-20260906182424-nts.html",
-      "desc": "Córdoba volvió a despertarse este domingo con aroma a   Vuelta a España . Dos años después, la serpiente ciclista regresó a una ciudad que conoce bien el ritual: vallas junto al asfalto, maillots de todos los colores y aficionados tomando posiciones muchas hor",
-      "date": "Sun, 06 Sep 2026 18:27:30 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
       "caso": "other"
     }
   ]
