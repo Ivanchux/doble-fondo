@@ -1,7 +1,97 @@
 {
-  "updated": "2026-09-06T19:53:56Z",
+  "updated": "2026-09-06T21:54:13Z",
   "count": 24,
   "items": [
+    {
+      "title": "La herida",
+      "link": "https://www.abc.es/espana/castilla-leon/herida-20260906225046-nt.html",
+      "desc": "La vuelta del verano nos está trayendo un extra de estrés nacional. Lo de Ceuta ha sido el corolario de un país que ya venía hiperventilando a causa de los interminables conflictos de todo tipo con los que ha de convivir la vida cotidiana. La brecha entre el d",
+      "date": "Sun, 06 Sep 2026 22:50:46 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Cultura renuncia a celebrar AR-PA para «repensarla» y volver en 2027",
+      "link": "https://www.abc.es/espana/castilla-leon/cultura-renuncia-celebrar-arpa-repensarla-volver-2027-20260819224716-nt.html",
+      "desc": "Un año en blanco para dar una vuelta de tuerca a un proyecto que debería volver a ser «referencia» en el sector. Es el motivo que ha llevado al nuevo equipo de la Consejería de Cultura y Turismo, en manos de Vox, a renunciar este año a la celebración de AR-PA,",
+      "date": "Sun, 06 Sep 2026 22:47:16 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Cabra vive un festín de orejas, temple y empaque en su Feria taurina",
+      "link": "https://www.abc.es/espana/andalucia/cordoba/cabra-vive-festin-orejas-temple-empaque-feria-20260906223657-nts.html",
+      "desc": "Una gloriosa tarde taurina más, la de este domingo, que se incorpora a la extensa nómina atesorada por el coso más antiguo de la provincia de Córdoba: la plaza de toros de Cabra. El rejoneador Andy Cartagena y los diestros Javier y Borja Jiménez hicieron el pa",
+      "date": "Sun, 06 Sep 2026 22:36:57 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "2-4: El Toledo fue un ciclón ofensivo para remontar en Quintanar del Rey",
+      "link": "https://www.abc.es/espana/castilla-la-mancha/toledo/deportes/toledo-ciclon-ofensivo-remontar-quintanar-rey-20260906223442-nt.html",
+      "desc": "Partido épico del CD Toledo en su visita de este domingo por la tarde al CD Quintanar del Rey en un encuentro valedero para una jornada con la que se levantaba el telón del campeonato. La escuadra verde, esta tarde con camiseta negra , se marcó un gran partido",
+      "date": "Sun, 06 Sep 2026 22:34:42 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Septiembre avanza en Córdoba con otro aviso naranja y el calor por encima de los 40 grados",
+      "link": "https://www.abc.es/espana/andalucia/cordoba/septiembre-avanza-aviso-naranja-calor-encima-grados-20260906202948-nts.html",
+      "desc": "Ha llegado septiembre y nada cambia en el calor de Córdoba. La ciudad sigue asomada a temperaturas muy altas que seguirán en muchos casos por encima de los 40 grados. La segunda semana del mes comenzará por los mismos caminos de los días anteriores. Así, según",
+      "date": "Sun, 06 Sep 2026 22:01:17 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Feijóo es el líder mejor valorado y Sánchez solo supera a Abascal por una décima",
+      "link": "https://www.abc.es/espana/feijoo-lider-bien-valorado-sanchez-solo-supera-20260907215852-nt.html",
+      "desc": "El líder del Partido Popular, Alberto Núñez Feijóo, sigue siendo el líder político mejor valorado por los españoles. El jefe de la oposición repite una valoración de 3,8 puntos, la misma que obtuvo en el sondeo de GAD3 para ABC de mayo de este mismo año. A Fei",
+      "date": "Sun, 06 Sep 2026 21:58:52 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "PP y Vox se disparan a los 202 escaños aunque Sánchez aguanta",
+      "link": "https://www.abc.es/espana/pp-vox-disparan-202-escanos-sanchez-aguanta-20260907215840-nt.html",
+      "desc": "El Partido Popular de Alberto Núñez Feijóo ganaría las elecciones generales, con 133 diputados, si los comicios se celebrasen hoy. Por detrás, con una diferencia de 28 escaños, le seguiría el PSOE de Pedro Sánchez, que sigue perdiendo apoyos mes tras mes aunqu",
+      "date": "Sun, 06 Sep 2026 21:58:40 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "La Fuensanta y la juventud, la raíz y las ramas alimentan la tradición en Córdoba",
+      "link": "https://www.abc.es/espana/andalucia/cordoba/semana-santa/fuensanta-juventud-raiz-ramas-20260906171859-nts.html",
+      "desc": "La juventud abre el mes de septiembre con el empuje que solo se puede tener en esta etapa de la vida. Casi sin quererlo, con la mente viajando a cada rato al nuevo comienzo del curso cofrade y académico, en lo bueno que vendrá y en la inevitable dureza de empr",
+      "date": "Sun, 06 Sep 2026 21:54:49 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Zelenski teme que la guerra seguirá en invierno pese a la mediación de Trump",
+      "link": "https://www.lavanguardia.com/internacional/20260906/11628623/zelenski-teme-guerra-seguira-invierno-pese-mediacion-trump.html",
+      "desc": "La misión de Witkoff y Kushner en Rusia y Ucrania termina sin anuncio de avances",
+      "date": "06 Sep 2026 21:34:27 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
     {
       "title": "El Córdoba CF busca despejar las dudas y relanzar el vuelo ante el muro del Sabadell",
       "link": "https://www.abc.es/espana/andalucia/cordoba/cordoba-cf/cordoba-busca-despejar-dudas-relanzar-vuelo-ante-20260906213314-nts.html",
@@ -43,6 +133,16 @@
       "caso": "other"
     },
     {
+      "title": "El 'General' Fermín asombra en Mestalla",
+      "link": "https://www.lavanguardia.com/deportes/fc-barcelona/20260906/11628612/general-fermin-asombra-mestalla.html",
+      "desc": "El centrocampista simboliza la voracidad insaciable del Barça de Flick y ya suma cuatro goles en la Liga tras una actuación excelente",
+      "date": "06 Sep 2026 20:01:15 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
+    {
       "title": "Los ganaderos de Almonte acusan a Hinojos de impedirles el acceso a la marisma con policías antidisturbios",
       "link": "https://www.abc.es/espana/andalucia/huelva/ganaderos-almonte-acusan-hinojos-impedirles-acceso-marisma-20260906193606-nts.html",
       "desc": "Este fin de semana se han vivido momentos de tensión entre los municipios Almonte e Hinojos. El motivo, el aprovechamiento ganadero de la marisma de Doñana, que ha vuelto a enfrentar las dos posturas. Durante la tradicional Recogida de Yeguas de Hinojos , la A",
@@ -70,16 +170,6 @@
       "source": "ABC",
       "color": "#c0392b",
       "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Von der Leyen lleva la voz europea a Groenlandia tras las amenazas de Trump",
-      "link": "https://www.lavanguardia.com/internacional/20260906/11628608/von-der-leyen-lleva-voz-europea-groenlandia-amenazas-trump.html",
-      "desc": "Su visita coincide con el inicio de los ejercicios conjuntos de los ejércitos de once países de la OTAN",
-      "date": "06 Sep 2026 19:23:40 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
       "caso": "other"
     },
     {
@@ -150,96 +240,6 @@
       "source": "ABC",
       "color": "#c0392b",
       "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "El Vivero Educativo Taxus abre sus reservas para acercar la naturaleza a los escolares de Toledo",
-      "link": "https://www.abc.es/espana/castilla-la-mancha/toledo/pueblos/vivero-educativo-taxus-abre-reservas-acercar-naturaleza-20260906182252-nt.html",
-      "desc": "El Vivero Educativo Taxus de la Diputación de Toledo ya prepara una nueva temporada para acercar la naturaleza a los escolares de la provincia. Los centros educativos podrán formalizar desde este mes de septiembre sus reservas para participar en el programa di",
-      "date": "Sun, 06 Sep 2026 18:24:12 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "El Barça de Lamine arrolla al Valencia en un ensordecedor Mestalla que llega a su límite",
-      "link": "https://www.lavanguardia.com/deportes/fc-barcelona/20260906/11628579/barca-lamine-arrolla-valencia-ensordeceror-mestalla-llega-limite.html",
-      "desc": "El conjunto azulgrana con un doblete de Lamine y goles de Fermín, Raphinha y Pedri son más líderes de la Liga",
-      "date": "06 Sep 2026 18:21:59 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "La ultraderechista AfD arrasa en Sajonia-Anhalt pero se queda al borde de la mayoría absoluta",
-      "link": "https://www.lavanguardia.com/internacional/20260906/11628575/ultraderechista-afd-arrasa-sajonia-anhalt-logra-mayoria-absoluta-sondeos.html",
-      "desc": "La democristiana CDU del canciller Merz queda segunda pero sufre un terrible batacazo",
-      "date": "06 Sep 2026 18:20:09 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "Valencia bate su récord de calor en septiembre con 38,4 grados",
-      "link": "https://www.abc.es/espana/comunidad-valenciana/valencia-bate-record-calor-septiembre-384-grados-20260906181919-nt.html",
-      "desc": "Valencia ha vivido este domingo una jornada de calor histórica. El observatorio meteorológico del aeropuerto ha registrado 38,4 grados, la temperatura más alta alcanzada en un mes de septiembre desde que comenzaron los registros en 1966, según ha informado la ",
-      "date": "Sun, 06 Sep 2026 18:19:20 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Alarma en Aranda de Duero (Burgos) por un incendio en el monte de La Calabaza",
-      "link": "https://www.abc.es/espana/castilla-leon/alarma-aranda-duero-burgos-incendio-monte-calabaza-20260906181547-nt.html",
-      "desc": "La Consejería de Medio Ambiente ha declarado Índice de Gravedad Potencial (IGR) 2 en un incendio originado este domingo en el monte de la localidad de La Calabaza, perteneciente al municipio de Aranda de Duero (Burgos). El fuego se ha activado a las 14.48 hora",
-      "date": "Sun, 06 Sep 2026 18:17:14 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "SailGP volverá a Valencia en 2027 con la mirada puesta en una continuidad «más allá»",
-      "link": "https://www.abc.es/espana/comunidad-valenciana/sailgp-volvera-valencia-2027-mirada-puesta-continuidad-20260906180818-nt.html",
-      "desc": "La emoción de la vela internacional volverá a tomar la Marina de Valencia en septiembre de 2027, con una nueva edición de SailGP. La continuidad de la competición en aguas valencianas ha sido confirmada por el vicepresidente segundo y conseller de Presidencia,",
-      "date": "Sun, 06 Sep 2026 18:08:19 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "El toro toma Villaseca de la Sagra: carreras y emoción en la 'Pamplona toledana'",
-      "link": "https://www.abc.es/espana/castilla-la-mancha/toledo/pueblos/toro-toma-villaseca-sagra-carreras-emocion-pamplona-20260906180649-nt.html",
-      "desc": "Tres cohetes marcan la frontera entre la espera y la carrera. Al sonar el tercero como marca la tradición, el alcalde de Villaseca de la Sagra, Jesús Hinojosa, ha abierto este domingo la puerta de los corrales y los seis novillos de Montealto han irrumpido en ",
-      "date": "Sun, 06 Sep 2026 18:06:49 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "El PSOE denuncia el estado «lamentable» de las piscinas de verano de Toledo al cierre de temporada",
-      "link": "https://www.abc.es/espana/castilla-la-mancha/toledo/psoe-denuncia-estado-lamentable-piscinas-verano-toledo-20260906180347-nt.html",
-      "desc": "Las piscinas municipales de verano de Toledo han cerrado la temporada con un «lamentable estado» que el Grupo Municipal Socialista atribuye a la falta de mantenimiento, vigilancia y planificación del Gobierno de Carlos Velázquez. El PSOE asegura que el final d",
-      "date": "Sun, 06 Sep 2026 18:03:48 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Qué es el Informe PISA y por qué Catalunya se queda sin resultados comparables",
-      "link": "https://www.lavanguardia.com/vida/20260906/11628560/que-informe-pisa-que-sirve.html",
-      "desc": "El martes 8 de septiembre se publican los resultados del rendimiento académico de 91 países del mundo",
-      "date": "06 Sep 2026 18:03:24 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
       "caso": "other"
     }
   ]
