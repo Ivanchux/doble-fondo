@@ -1,7 +1,57 @@
 {
-  "updated": "2026-09-07T22:27:31Z",
+  "updated": "2026-09-08T02:43:38Z",
   "count": 24,
   "items": [
+    {
+      "title": "La falsa escuela de hostelería colombiana que explotaba a sus alumnos en bares de Madrid",
+      "link": "https://www.abc.es/espana/madrid/falsa-escuela-hosteleria-colombiana-explotaba-alumnos-bares-20260907012853-nt.html",
+      "desc": "De puertas para fuera, una escuela de hostelería con cursos formativos y prácticas profesionales, pero debajo de esa actividad, un cebo para explotar laboralmente a decenas de alumnos. Tras casi dos años de averiguaciones, una operación conjunta de la Policía ",
+      "date": "Tue, 08 Sep 2026 01:28:53 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Sánchez se aferra al avance de la ultraderecha para escapar de Ceuta",
+      "link": "https://www.abc.es/espana/sanchez-aferra-avance-ultraderecha-escapar-ceuta-20260908012717-nt.html",
+      "desc": "Pedro Sánchez arranca el curso político con la tradicional reunión de la Interparlamentaria del PSOE. El cónclave de las huestes socialistas en el Congreso de los Diputados llega en un momento crítico para el partido y el Gobierno por la crisis de Ceuta y en p",
+      "date": "Tue, 08 Sep 2026 01:27:17 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "El ex número dos de la inteligencia marroquí infectó el móvil de Sánchez y «está en disposición de aportar» su contenido",
+      "link": "https://www.abc.es/espana/numero-dos-inteligencia-marroqui-infecto-movil-sanchez-20260908012702-nt.html",
+      "desc": "El ex número dos del servicio secreto de inteligencia exterior de Marruecos, Mehdi Hijaouy, dirigió las operaciones de espionaje realizadas a través del software espía Pegasus. Señalado como el arquitecto técnico del operativo, fuentes de su entorno desvelan a",
+      "date": "Tue, 08 Sep 2026 01:27:02 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Mandos policiales se negaron a firmar un informe para exculpar a Marruecos de la invasión a Ceuta",
+      "link": "https://www.abc.es/espana/mandos-policiales-negaron-firmar-informe-exculpar-marruecos-20260908012654-nt.html",
+      "desc": "El comisario general de Extranjería y Fronteras, Julián Ávila, y varios de sus subordinados se negaron a firmar un informe policial que exculpaba a Marruecos de la invasión a Ceuta y sostenía que no había avisos previos de la avalancha masiva del 30 y 31 de ju",
+      "date": "Tue, 08 Sep 2026 01:26:54 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "El PP se prepara para una operación del Gobierno contra Vivas",
+      "link": "https://www.abc.es/espana/pp-convencido-gobierno-prepara-operacion-vivas-20260908012646-nt.html",
+      "desc": "En el PP creen que el próximo objetivo político del Gobierno es Juan Jesús Vivas. El presidente de Ceuta ha salido reforzado de la crisis que aún mantiene en vilo a la ciudad autónoma , a diferencia del Ejecutivo central, al que según todas las encuestas la in",
+      "date": "Tue, 08 Sep 2026 01:26:46 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
     {
       "title": "LaLiga confirma el horario del Córdoba CF - Tenerife de la octava jornada en Segunda División",
       "link": "https://www.abc.es/espana/andalucia/cordoba/cordoba-cf/laliga-confirma-horario-cordoba-tenerife-octava-jornada-20260907001701-nts.html",
@@ -10,6 +60,26 @@
       "source": "ABC",
       "color": "#c0392b",
       "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "El curso escolar arranca con huelga, normas de IA y la polémica de PISA",
+      "link": "https://www.lavanguardia.com/vida/20260908/11629476/curso-escolar-arranca-huelga-normas-ia-polemica-pisa.html",
+      "desc": "El calor en el aula o el boicot a las colonias marcan un curso que se prevé convulso",
+      "date": "08 Sep 2026 00:05:00 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
+    {
+      "title": "Déjenles que gobiernen",
+      "link": "https://www.lavanguardia.com/opinion/20260908/11629510/dejenles-gobiernen.html",
+      "desc": "Hay que dejar gobernar a los ultras de la AfD, a pesar de sus políticas xenófobas",
+      "date": "08 Sep 2026 00:05:00 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
       "caso": "other"
     },
     {
@@ -60,6 +130,16 @@
       "source": "ABC",
       "color": "#c0392b",
       "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Barcelona recuerda el legado de Beatriz de Moura en la inauguración del Forum Edita",
+      "link": "https://www.lavanguardia.com/cultura/20260907/11629494/barcelona-recuerda-legado-beatriz-moura-inauguracion-forum-edita.html",
+      "desc": "La editora, referente de la edición en España y América Latina y fundadora de Tusquets, ha sido homenajeada en el Saló de Cent",
+      "date": "07 Sep 2026 21:45:00 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
       "caso": "other"
     },
     {
@@ -160,86 +240,6 @@
       "source": "ABC",
       "color": "#c0392b",
       "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "La UBU estrena Medicina con 159 matriculados, más del doble de lo previsto",
-      "link": "https://www.abc.es/espana/castilla-leon/ubu-estrena-medicina-159-matriculados-doble-previsto-20260907193328-nt.html",
-      "desc": "La Universidad de Burgos duplicará su oferta de plazas para poder atender a más del doble de los alumnos que la memoria preveía para el primer curso de Medicina. Se ofertaban 72 plazas pero, finalmente, se han formalizado 159 matrículas, lo que obligará a vari",
-      "date": "Mon, 07 Sep 2026 19:33:28 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "El PSOE ratifica a los candidatos a las Alcaldía de Lucena, Puente Genil y Palma del Río",
-      "link": "https://www.abc.es/espana/andalucia/cordoba/psoe-ratifica-candidatos-alcaldia-lucena-puente-genil-20260907193220-nts.html",
-      "desc": "El PSOE continúa inmerso en el trabajo para las próximas elecciones municipales y ya tiene candidatos en tres de los principales municipios de la provincia de Córdoba: Lucena , Puente Genil y Palma del Río. En todos ellos perdió la Alcaldía en los comicios de ",
-      "date": "Mon, 07 Sep 2026 19:32:20 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Albares contraprograma la visita de Vivas a Bruselas para informarse de sus gestiones",
-      "link": "https://www.abc.es/espana/albares-contraprograma-visita-vivas-bruselas-20260907191928-nt.html",
-      "desc": "El ministro de Asuntos Exteriores, José Manuel Albares, ha decidido contraprogramar la visita a Bruselas del presidente de Ceuta, Juan Jesús Vivas, y ha logrado que el comisario de Interior, Magnus Brunner, y la vicepresidenta encargada de democracia y demogra",
-      "date": "Mon, 07 Sep 2026 19:19:28 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "La Diputación transforma la residencia San José para «mejorar el bienestar y la seguridad» de sus 282 residentes",
-      "link": "https://www.abc.es/espana/castilla-la-mancha/toledo/diputacion-transforma-residencia-san-jose-mejorar-bienestar-20260907191628-nt.html",
-      "desc": "La Diputación de Toledo continúa con la renovación de la Residencia Social Asistida San José, donde durante los últimos meses se han llevado a cabo distintas actuaciones destinadas a mejorar la seguridad, el bienestar y la calidad de vida de sus residentes. La",
-      "date": "Mon, 07 Sep 2026 19:16:28 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "La patronal gallega rechaza la nueva financiación autonómica del Gobierno",
-      "link": "https://www.abc.es/espana/galicia/patronal-gallega-rechaza-nueva-financiacion-autonomica-gobierno-20260907191306-nt.html",
-      "desc": "La Confederación de Empresarios de Galicia (CEG) ha manifestado «su firme rechazo» al procedimiento seguido por el Gobierno central para impulsar el nuevo modelo de financiación autonómica, aprobado en el Consejo de Política Fiscal y Financiera con el único re",
-      "date": "Mon, 07 Sep 2026 19:13:06 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Grupo Godó nombra a Óscar Rodríguez al frente de medios y a Francesc Cano, director de RAC1",
-      "link": "https://www.lavanguardia.com/vida/20260907/11629369/grupo-godo-nombra-oscar-rodriguez-frente-medios-grupo-francesc-cano-director-rac1.html",
-      "desc": "Los cambios organizativos en la compañía tendrán efecto a partir del 1 de octubre",
-      "date": "07 Sep 2026 18:22:24 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "Merz ante el triunfo ultra en Sajonia-Anhalt: “Tendrá consecuencias, pero rendirse no es una opción”",
-      "link": "https://www.lavanguardia.com/internacional/20260907/11629301/merz-triunfo-ultra-sajonia-anhalt-tendra-consecuencias-rendirse-opcion.html",
-      "desc": "El canciller de Alemania admite la peor derrota de su partido, la democristiana CDU, y defiende su plan de reformas prometiendo explicarlo mejor",
-      "date": "07 Sep 2026 15:49:50 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "Santander comienza a brillar como el nuevo faro cultural del norte",
-      "link": "https://www.lavanguardia.com/cultura/20260907/11629008/santander-comienza-brillar-nuevo-faro-cultural-norte.html",
-      "desc": "El Rey Felipe VI inaugura Faro Santander, un nuevo equipamiento que acoge la desconocida colección del Banco Santander y tiene como madrinas a Frida Kahlo y Leonora Carrington&nbsp;",
-      "date": "07 Sep 2026 14:05:01 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
       "caso": "other"
     }
   ]
