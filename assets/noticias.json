@@ -1,7 +1,87 @@
 {
-  "updated": "2026-09-08T19:12:15Z",
+  "updated": "2026-09-08T22:18:19Z",
   "count": 24,
   "items": [
+    {
+      "title": "El Inter regala el partido al Madrid en su estreno en la Champions",
+      "link": "https://www.lavanguardia.com/deportes/20260908/11630451/inter-regala-partido-madrid.html",
+      "desc": "El conjunto lombardo comete graves errores en la salida del balón que le condenan ante un Madrid que se impulsa con los goles de Mbappé y Valverde",
+      "date": "08 Sep 2026 23:00:40 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
+    {
+      "title": "Brilla la Virgen de la Sierra de Cabra en su popular procesión",
+      "link": "https://www.abc.es/espana/andalucia/cordoba/brilla-virgen-sierra-cabra-popular-procesion-20260908222529-nt.html",
+      "desc": "Las calles de Cabra han vuelto a llenarse en la tarde-noche de este martes, festividad de Nuestra Señora de la Sierra , durante la procesión solemne de la patrona por las calles del centro urbano. Precedida de un largo cortejo con representaciones de hermandad",
+      "date": "Tue, 08 Sep 2026 22:25:29 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "La ópera se hace cómic: Jenufa salta al 'Viñetas desde o Atlántico'",
+      "link": "https://www.abc.es/espana/galicia/opera-comic-jenufa-salta-vinetas-atlantico-20260908220000-nt.html",
+      "desc": "La ópera no solo se ve sobre el escenario y se escucha en teatro o en disco, sino que también puede transformarse en obra gráfica. Ese es el viaje que acaba de hacer 'Jenůfa', el título con el que los Amigos de la Ópera de La Coruña (AOC) inauguran la próxima ",
+      "date": "Tue, 08 Sep 2026 22:00:00 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "El fiscal jefe de la Audiencia Nacional rechazó las «pruebas» sobre el móvil de Sánchez hackeado: «No interesa por Marruecos»",
+      "link": "https://www.abc.es/espana/fiscal-jefe-audiencia-nacional-rechazo-pruebas-sobre-20260908215738-nt.html",
+      "desc": "Ocurrió en octubre de 2024. Un mes después de haber sido detenido Mehdi Hijaouy, en cumplimiento a una orden de busca y captura internacional de la Interpol, un emisario del ex número dos de los servicios secretos marroquíes se personó en la Audiencia Nacional",
+      "date": "Tue, 08 Sep 2026 21:57:38 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "gen"
+    },
+    {
+      "title": "El Gobierno luso supera la moción de censura que deja en evidencia su frágil situación",
+      "link": "https://www.lavanguardia.com/internacional/20260908/11630379/gobierno-portugal-supera-mocion-censura-deja-evidencia-fragil-situacion.html",
+      "desc": "Cercado por la ofensiva de los ultras y en manos de unos socialistas cada vez más incómodos, el primer ministro intenta atajar su acelerado desgaste con una paga extra para los pensionistas y rebajas fiscales",
+      "date": "08 Sep 2026 21:47:13 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
+    {
+      "title": "Hay Festival: un 'oasis' para  pensar sobre la belleza en un momento de «locura y falsedad»",
+      "link": "https://www.abc.es/espana/castilla-leon/festival-oasis-pensar-sobre-belleza-momento-locura-20260907213039-nt.html",
+      "desc": "Una parada, un remanso de paz para tener la oportunidad de pensar en estos momentos de «tanta locura y falsedad», donde «la corriente mayoritaria es la inmediatez y la superficialidad más absoluta». Es lo que se ha propuesto, una edición más, Sheila Cremaschi,",
+      "date": "Tue, 08 Sep 2026 21:30:39 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Gregorio pide a la Virgen del Prado que Talavera «siga avanzando unida»",
+      "link": "https://www.abc.es/espana/castilla-la-mancha/gregorio-pide-virgen-prado-talavera-siga-avanzando-20260908212246-nt.html",
+      "desc": "El alcalde de Talavera de la Reina, José Julián Gregorio, ha aprovechado este martes la festividad de la Virgen del Prado para encomendar a la patrona los proyectos que tiene por delante la ciudad y expresar su deseo de que las iniciativas destinadas a generar",
+      "date": "Tue, 08 Sep 2026 21:22:46 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "La patronal del sector en Vigo ve «injustificada» la nueva tasa turística",
+      "link": "https://www.abc.es/espana/galicia/patronal-sector-vigo-injustificada-nueva-tasa-turistica-20260908211500-nt.html",
+      "desc": "La Federación Empresarial de Turismo y Hostelería de Pontevedra (Feprotur) ha lamentado que la tasa turística aprobada por el Ayuntamiento de Vigo «carece de justificación» y «puede perjudicar a la economía local» de una ciudad en la que «no hay masificación».",
+      "date": "Tue, 08 Sep 2026 21:15:00 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
     {
       "title": "Las obras de Coronel Baeza comenzarán a final de mes tras 40 años de espera",
       "link": "https://www.abc.es/espana/castilla-la-mancha/toledo/obras-coronel-baeza-comenzaran-final-mes-tras-20260908205949-nt.html",
@@ -41,6 +121,16 @@
       "color": "#c0392b",
       "feedId": "ABC",
       "caso": "lei"
+    },
+    {
+      "title": "El juez Peinado cierra la investigación sobre Begoña Gómez y la deja al borde del banquillo",
+      "link": "https://www.lavanguardia.com/politica/20260908/11630421/juez-peinado-cierra-investigacion-sobre-begona-gomez-deja-borde-banquillo.html",
+      "desc": "Las partes se ratifican en su posiciones en la vista preliminar previa al decreto de apertura de juicio con jurado",
+      "date": "08 Sep 2026 20:34:34 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
     },
     {
       "title": "Una joven, herida tras ser empitonada en los encierros de Villalba del Rey (Cuenca)",
@@ -143,100 +233,10 @@
       "caso": "other"
     },
     {
-      "title": "Una encuesta pregunta por Sabrido entre los candidatos del PSOE en Toledo y excluye a Tolón",
-      "link": "https://www.abc.es/espana/castilla-la-mancha/toledo/encuesta-pregunta-sabrido-candidatos-psoe-toledo-excluye-20260908184049-nt.html",
-      "desc": "A poco más de nueve meses de las elecciones municipales de mayo de 2027, los partidos políticos comienzan a mover ficha para definir quiénes encabezarán sus candidaturas a la Alcaldía de Toledo. Donde no hay dudas es en el PP ya que Carlos Velázquez se present",
-      "date": "Tue, 08 Sep 2026 18:42:55 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Un herido de bala en Marbella en un tiroteo en la Milla de Oro",
-      "link": "https://www.abc.es/espana/andalucia/malaga/herido-bala-marbella-tiroteo-milla-oro-20260908184148-nts.html",
-      "desc": "Un nuevo tiroteo en Marbella este martes deja un herido de bala en una pierna y un pie , pero esta vez los agresores no huyeron muy lejos. Según las fuentes ya hay tres detenidos . Los primeros avisos llegaron por parte de varios particulares, que dijeron habí",
-      "date": "Tue, 08 Sep 2026 18:41:48 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "IU Toledo alerta del riesgo de degradación de las zonas verdes por la «precarización» del nuevo contrato",
-      "link": "https://www.abc.es/espana/castilla-la-mancha/toledo/iu-toledo-alerta-riesgo-degradacion-zonas-verdes-20260908183930-nt.html",
-      "desc": "El concejal de Izquierda Unida (IU) en el Ayuntamiento de Toledo, Txema Fernández, ha advertido de que el pliego del contrato del ' Servicio de Limpieza, Conservación y Mantenimiento de Zonas Verdes y Arbolado Viario ' presenta algunas «deficiencias» que puede",
-      "date": "Tue, 08 Sep 2026 18:39:31 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Centenares de vuelos cancelados en el Reino Unido por un problema técnico en el control aéreo",
-      "link": "https://www.lavanguardia.com/internacional/20260908/11630340/centenares-vuelos-cancelados-reino-unido-problema-tecnico-control-aereo.html",
-      "desc": "Se han registrado también abundantes retrasos en las salidas de aeropuertos como Heathrow, Gatwick y Manchester",
-      "date": "08 Sep 2026 18:39:19 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "El Parlamento andaluz debatirá dejar de pagar «casa gratis» a altos cargos de la Junta",
-      "link": "https://www.abc.es/espana/andalucia/parlamento-andaluz-debatira-dejar-pagar-casas-gratis-20260908183242-nts.html",
-      "desc": "En plena crisis de la vivienda, con el precio disparado en buena parte del país, Adelante Andalucía ha puesto en su diana las conocidas como indemnizaciones por vivienda y alojamiento que abona la Junta de Andalucía a sus altos cargos. La formación de izquierd",
-      "date": "Tue, 08 Sep 2026 18:32:42 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
       "title": "Detenidos otros dos menores de edad por el crimen de Manresa",
       "link": "https://www.lavanguardia.com/local/barcelona/barcelona-plus/20260908/11630344/detenidos-otros-dos-menores-edad-crimen-manresa.html",
       "desc": "Los hechos se remontan a la madrugada del martes 1 de septiembre, y ya son cuatro los reclusos&nbsp;en relación a esta crimen&nbsp;",
       "date": "08 Sep 2026 18:26:15 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "La Diputación destina 7 millones a los ayuntamientos para los gastos del Plan de Empleo de la Junta",
-      "link": "https://www.abc.es/espana/castilla-la-mancha/diputacion-destina-millones-ayuntamientos-gastos-plan-empleo-20260908182407-nt.html",
-      "desc": "La portavoz del Gobierno de la Diputación de Ciudad Real, Rocío Zarco, ha anunciado la aprobación de un Plan de Empleo propio , dotado de 7 millones de euros, que permitirá a los ayuntamientos de la provincia afrontar el pago de la Seguridad Social que no cubr",
-      "date": "Tue, 08 Sep 2026 18:24:07 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "El Rey analiza con Robles y la cúpula militar la situación de Ceuta",
-      "link": "https://www.abc.es/espana/rey-analiza-robles-cupula-militar-situacion-ceuta-20260908182324-nt.html",
-      "desc": "El Rey convocó este lunes a la ministra de Defensa, Margarita Robles, y a la cúpula de las Fuerzas Armadas a una reunión en el Palacio de la Zarzuela para analizar la situación de Ceuta, en cuyas calles siguen miles de personas de las más de 70.000 que lograro",
-      "date": "Tue, 08 Sep 2026 18:23:24 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "El Rey reúne a los responsables de Defensa para hablar sobre la situación en Ceuta",
-      "link": "https://www.lavanguardia.com/politica/20260908/11630332/rey-analiza-responsables-defensa-situacion-ceuta.html",
-      "desc": "El encuentro ha tenido lugar en el palacio de la Zarzuela y han estado presentes la ministra Margarita Robles, el JEMAD, el comandante general de Ceuta y responsables de los mandos operativos",
-      "date": "08 Sep 2026 18:11:38 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "El documental 'Musk' reúne en Venecia al círculo íntimo de magnate: “Vive en la irrealidad”",
-      "link": "https://www.lavanguardia.com/cultura/20260908/11630237/documental-musk-reune-venecia-circulo-intimo-magnate-vive-realidad.html",
-      "desc": "La ex de Elon Musk Ashley St Clair y la periodista tecnológica Zoë Schiffer presentan el film de Alex Gibney",
-      "date": "08 Sep 2026 17:27:59 +0200",
       "source": "La Vanguardia",
       "color": "#8e44ad",
       "feedId": "LaVanguardia",
