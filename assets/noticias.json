@@ -1,7 +1,117 @@
 {
-  "updated": "2026-09-10T22:12:21Z",
+  "updated": "2026-09-11T02:39:14Z",
   "count": 24,
   "items": [
+    {
+      "title": "Loquillo, Siloé y Álvaro de Luna lideran el cartel musical de las Fiestas de Boadilla",
+      "link": "https://www.abc.es/espana/madrid/loquillo-siloe-alvaro-luna-lideran-cartel-musical-20260910012813-nt.html",
+      "desc": "Las fiestas que Boadilla del Monte celebran cada año en honor a Nuestra Señora del Rosario se desarrollarán entre el 27 de septiembre y el 12 de octubre, y en esta edición incluirán un amplio abanico de actividades entre las que destacan los eventos taurinos, ",
+      "date": "Fri, 11 Sep 2026 01:28:13 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "La última locura del delincuente más activo de Móstoles: roba un camión y pide 1.000 euros por su rescate",
+      "link": "https://www.abc.es/espana/madrid/ultima-locura-delincuente-activo-mostoles-roba-camion-20260910012807-nt.html",
+      "desc": "En Móstoles no hay agente que no conozca al delincuente que protagoniza esta rocambolesca historia. A punto de cumplir los 50 años, este individuo, que atesora en su historial 76 antecedentes (por malos tratos y robos con violencia, entre otros delitos), está ",
+      "date": "Fri, 11 Sep 2026 01:28:07 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "370 kilómetros en bici de Valencia a Madring: el viaje de un 'tiktoker' por el regreso de la F1 a Madrid",
+      "link": "https://www.abc.es/espana/madrid/370-kilometros-bici-antiguo-circuito-valencia-recorrido-20260907012758-nt.html",
+      "desc": "No recuerda la primera vez que pisó un circuito de Fórmula 1. Fue cuando aún era muy pequeño, con tan solo tres años, cuando conoció el circuito de Montmeló, año en el que la estrella española del automovilismo Fernando Alonso quedó en segunda posición con su ",
+      "date": "Fri, 11 Sep 2026 01:27:58 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "El Gobierno da otro volantazo y abre ahora la puerta a la Variante Sur en la A-4 a su paso por Córdoba",
+      "link": "https://www.abc.es/espana/andalucia/cordoba/gobierno-volantazo-abre-puerta-variante-sur-paso-20260911012631-nts.html",
+      "desc": "El Gobierno central da otro volantazo en su ideario para el presente y el futuro de la autovía A-4 a su paso Córdoba, la calzada principal que conecta la ciudad y parte de la provincia con Madrid, Sevilla o Cádiz y también el eje del que salen todas sus conexi",
+      "date": "Fri, 11 Sep 2026 01:26:31 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "La difusión de los informes de Ceuta causa un terremoto en el PSOE y el Gobierno",
+      "link": "https://www.abc.es/espana/fiasco-informes-ceuta-causa-terremoto-psoe-gobierno-20260911012613-nt.html",
+      "desc": "«Un tiro en el pie». Así define gráficamente un cargo socialista la decisión del Gobierno de publicar los informes relativos a la crisis de Ceuta . El movimiento político fue anunciado por Pedro Sánchez durante la comparecencia monográfica que protagonizó el 3",
+      "date": "Fri, 11 Sep 2026 01:26:13 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "El fiscal jefe Alonso se saltó con el espía marroquí una norma de la Audiencia Nacional",
+      "link": "https://www.abc.es/espana/fiscal-jefe-audiencia-nacional-actuo-circular-fiscalia-20260910012600-nt.html",
+      "desc": "El fiscal jefe de la Audiencia Nacional, Jesús Alonso, habría actuado en contra de una circular de la Fiscalía General del Estado al rechazar recibir información, en octubre de 2024, de un emisario del ex número dos de los servicios secretos marroquíes, Mehdi ",
+      "date": "Fri, 11 Sep 2026 01:26:00 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "gen"
+    },
+    {
+      "title": "El PSOE ningunea al presidente de la Diputación de Cáceres, crítico con Sánchez",
+      "link": "https://www.abc.es/espana/extremadura/psoe-ningunea-presidente-diputacion-caceres-critico-sanchez-20260910012553-nt.html",
+      "desc": "El presidente de la Diputación de Cáceres, el socialista Miguel Ángel Morales, ha cargado este jueves contra el Gobierno después de conocer por terceros la visita de la ministra de Igualdad, Ana Redondo, al municipio cacereño de Guijo de Santa Bárbara. La inst",
+      "date": "Fri, 11 Sep 2026 01:25:53 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "El curso comienza en Extremadura sin cursos de árabe",
+      "link": "https://www.abc.es/espana/extremadura/curso-comienza-extremadura-cursos-arabe-20260910012546-nt.html",
+      "desc": "Extremadura ha dado comienzo a un nuevo curso escolar este jueves que no contará, definitivamente, con clases de lengua árabe y cultura marroquí que durante años se han impartido en colegios públicos de Talayuela, en Cáceres. La desaparición del programa en la",
+      "date": "Fri, 11 Sep 2026 01:25:46 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Los robotaxis o coches sin conductor operarán en Madrid a final de este año",
+      "link": "https://www.lavanguardia.com/vida/20260911/11632569/robotaxis-coches-conductor-operaran-madrid-final-ano.html",
+      "desc": "Uber, WeRide y Avomo obtienen licencia de la DGT para iniciar las pruebas",
+      "date": "11 Sep 2026 00:21:56 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
+    {
+      "title": "El espíritu de Sant Boi",
+      "link": "https://www.lavanguardia.com/opinion/20260911/11632354/espiritu-sant-boi.html",
+      "desc": "El movimiento catalanista ha sufrido toda clase de altibajos en este medio siglo",
+      "date": "11 Sep 2026 00:05:00 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
+    {
+      "title": "El acoso escolar crece y se ceba con el aspecto físico, raza y religión de las víctimas",
+      "link": "https://www.lavanguardia.com/vida/20260911/11632100/acoso-escolar-crece-ceba-aspecto-fisico-raza-religion-victimas.html",
+      "desc": "Los abusos, que pasan del 12,3% al 14,1% en un año, se cronifican:&nbsp;uno de cada cuatro casos de acoso&nbsp; se prolonga más allá de un año",
+      "date": "11 Sep 2026 00:05:00 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
     {
       "title": "El segundo premio de la Lotería Nacional, agraciado con 60.000 euros al número, cae en Moriles",
       "link": "https://www.abc.es/espana/andalucia/cordoba/segundo-premio-loteria-nacional-agraciado-60000-euros-20260910233311-nts.html",
@@ -127,116 +237,6 @@
       "link": "https://www.abc.es/espana/numero-dos-inteligencia-marroqui-desvincula-filtraciones-jabaroot-20260910201538-nt.html",
       "desc": "El ex número dos de la inteligencia marroquí, Mehdi Hijaouy, ha hecho público un comunicado para desvincularse de las filtraciones de Jabaroot, en el que desmiente estar detrás de los hackers argelinos, como revelaron fuentes cercanas al ex controlador general",
       "date": "Thu, 10 Sep 2026 20:15:38 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "El Cajasol Ángel Ximénez vuelve a desafiar a la élite en su decimocuarta temporada consecutiva en Asobal",
-      "link": "https://www.abc.es/espana/andalucia/cordoba/cajasol-angel-ximenez-vuelve-desafiar-elite-decimocuarta-20260910200910-nts.html",
-      "desc": "La costumbre no resta mérito a la hazaña. El Cajasol Ángel Ximénez Puente Genil vuelve a colocarse en la línea de salida de la Liga Asobal para afrontar su decimocuarta temporada consecutiva en la máxima categoría del balonmano español. Una cifra que, además d",
-      "date": "Thu, 10 Sep 2026 20:09:11 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "El Córdoba CF se atasca en los tramos decisivos: cinco goles encajados en los últimos cinco minutos",
-      "link": "https://www.abc.es/espana/andalucia/cordoba/cordoba-cf/publicarel-cordoba-atasca-tramos-decisivos-cinco-goles-20260910200815-nts.html",
-      "desc": "El Córdoba CF ha convertido su fragilidad defensiva en uno de los principales problemas de su dubitativo inicio de temporada. Ya son diez goles recibidos en apenas cuatro jornadas que, hecho que ha obligado a Iván Ania ha renovar la línea defensiva e incluso l",
-      "date": "Thu, 10 Sep 2026 20:08:15 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Andalucía alegará contra el reparto de fondos de vivienda que la excluye por no tener zonas tensionadas",
-      "link": "https://www.abc.es/espana/andalucia/andalucia-alegara-reparto-fondos-vivienda-excluye-tener-20260910195447-nts.html",
-      "desc": "La consejera de Vivienda, Juventud y Ordenación del Territorio, Rocío Díaz , ha informado este jueves en comisión parlamentaria de que la Junta de Andalucía presentará alegaciones al proyecto del Gobierno de España que reserva 90 millones de euros en subvencio",
-      "date": "Thu, 10 Sep 2026 19:54:47 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Detenido un joven tras atrincherarse en su casa y amenazar en TikTok con explotar un pueblo de Burgos",
-      "link": "https://www.abc.es/espana/castilla-leon/detenido-joven-tras-atrincherarse-casa-amenazar-redes-20260910194729-nt.html",
-      "desc": "Susto mayúsculo en el municipio burgalés de Salas de los Infantes. La Guardia Civil detuvo ayer, miércoles, a un joven de 25 años que se atrincheró en su casa y manifestara, a través de las redes sociales, que disponía de supuestos artefactos para hacer explot",
-      "date": "Thu, 10 Sep 2026 19:53:14 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Marruecos irrumpe en la crisis de Ceuta: «No somos peón electoral ni chivo expiatorio de ajustes de cuentas políticos»",
-      "link": "https://www.abc.es/espana/marruecos-acusa-pp-utilizar-retorica-populista-irracional-20260910194658-nt.html",
-      "desc": "El Ministerio de Asuntos Exteriores de Marruecos ha movido ficha emitiendo un duro comunicado en el que arremete contra España ante la idea instalada de que el país vecino propició la invasión de Ceuta a finales de julio. Ese debate -consolidado entre la socie",
-      "date": "Thu, 10 Sep 2026 19:46:58 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Marruecos rechaza las acusaciones y no acepta “ser chivo expiatorio” por el salto de Ceuta",
-      "link": "https://www.lavanguardia.com/politica/20260910/11632253/marruecos-rechaza-acusaciones-acepta-chivo-expiatorio-salto-ceuta.html",
-      "desc": "Rabat sostiene que&nbsp; “ningún dato establece implicación alguna de las autoridades marroquíes”",
-      "date": "10 Sep 2026 19:45:21 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "El juez Llarena revisará la amnistía de Puigdemont con la doctrina del Constitucional",
-      "link": "https://www.lavanguardia.com/politica/20260910/11632241/juez-llarena-revisara-amnistia-puigdemont-doctrina-constitucional.html",
-      "desc": "El juez levantará la orden de detención si se tumba la tesis sobre la malversación en el primer recurso analizado",
-      "date": "10 Sep 2026 19:23:39 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "El PSOE de Toledo reclama un plan de choque para frenar el «deterioro» de las pistas multideporte",
-      "link": "https://www.abc.es/espana/castilla-la-mancha/toledo/psoe-toledo-reclama-plan-choque-frenar-deterioro-20260910190953-nt.html",
-      "desc": "El Grupo Municipal Socialista en el Ayuntamiento de Toledo ha exigido al alcalde, Carlos Velázquez, un plan urgente de choque y mantenimiento para frenar el «continuo deterioro y abandono» en el que se encuentran las pistas multideporte distribuidas por los di",
-      "date": "Thu, 10 Sep 2026 19:09:53 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Diálogo entre el presidente de Caixa Bank y el cardiólogo Valentín Fuster sobre los efectos del envejecimiento de la población",
-      "link": "https://www.abc.es/espana/cataluna/dialogo-presidente-caixa-bank-cardiologo-valentin-fuster-20260910190200-nt.html",
-      "desc": "CaixaBank ha reunido este jueves a su presidente, Tomás Muniesa, y al cardiólogo Valentín Fuster para analizar los efectos económicos, sociales y sanitarios del progresivo envejecimiento de la población. Durante el encuentro, ambos han advertido de la necesida",
-      "date": "Thu, 10 Sep 2026 19:02:01 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "El Ayuntamiento de Cuenca recupera la iluminación ornamental de las fiestas de San Mateo",
-      "link": "https://www.abc.es/espana/castilla-la-mancha/ayuntamiento-cuenca-recupera-iluminacion-ornamental-fiestas-san-20260910185836-nt.html",
-      "desc": "El Ayuntamiento de Cuenca recuperará la iluminación ornamental en las fiestas de San Mateo, incluida dentro del mismo contrato de la adjudicación para la decoración festiva de San Julián y de la Navidad, según ha explicado este jueves el concejal de Festejos, ",
-      "date": "Thu, 10 Sep 2026 18:58:36 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Un pueblo de Valencia descubre un nuevo refugio de la Guerra Civil durante las obras de peatonalización",
-      "link": "https://www.abc.es/espana/comunidad-valenciana/pueblo-valencia-descubre-nuevo-refugio-guerra-civil-20260910185126-nt.html",
-      "desc": "Las obras de reordenación y peatonalización del centro de l'Eliana (Valencia) han sacado a la luz una nueva pieza de la historia del municipio. Los trabajos en la confluencia de las calles Major y General Pastor han permitido localizar un refugio antiaéreo de ",
-      "date": "Thu, 10 Sep 2026 18:51:26 +0200",
       "source": "ABC",
       "color": "#c0392b",
       "feedId": "ABC",
