@@ -1,7 +1,147 @@
 {
-  "updated": "2026-09-11T17:42:13Z",
+  "updated": "2026-09-11T20:21:12Z",
   "count": 24,
   "items": [
+    {
+      "title": "Toledo rinde homenaje al legado de Jacinto Guerrero, el mayor compositor de la provincia",
+      "link": "https://www.abc.es/espana/castilla-la-mancha/toledo/toledo-rinde-homenaje-legado-jacinto-guerrero-mayor-20260911214416-nt.html",
+      "desc": "La ciudad de Toledo ha querido rendir homenaje a uno de sus músicos más universales en un escenario cargado de simbolismo. El Paseo de la Vega ha acogido este viernes la función de 'El huésped del sevillano', la zarzuela de Jacinto Guerrero (Ajofrín, 1895) que",
+      "date": "Fri, 11 Sep 2026 21:44:17 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "En el adiós laboral de Rafael Perezagua",
+      "link": "https://www.abc.es/espana/castilla-la-mancha/toledo/adios-laboral-rafael-perezagua-20260911213726-nt.html",
+      "desc": "Conozco a Rafael Perezagua Delgado, secretario general de la Presidencia del Gobierno de Castilla la Mancha, desde hace algunos años. Dos décadas o algo más. Y lo conozco por varias facetas, ninguna de ellas por militar en su partido, pues solo soy afiliado a ",
+      "date": "Fri, 11 Sep 2026 21:37:26 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Diada con la vista puesta en la extrema derecha",
+      "link": "https://www.lavanguardia.com/politica/20260911/11632918/independentismo-conjura-volver-mas-fuerza-2027.html",
+      "desc": "Entidades y partidos claman en la Diada contra el auge de la ultraderecha",
+      "date": "11 Sep 2026 21:19:12 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
+    {
+      "title": "La toledana Celia Reoyos conquista tres bronces en el Mundial Universitario de halterofilia",
+      "link": "https://www.abc.es/espana/castilla-la-mancha/toledo/deportes/toledana-celia-reoyos-conquista-bronce-campeonato-espana-20260911210944-nt.html",
+      "desc": "La toledana Celia Reoyos Villamor ha conquistado tres medallas de bronce en el Campeonato del Mundo Universitario de la FISU que se está celebrando en Doha (Catar). La halterófila ha subido al tercer cajón del podio en arrancada, dos tiempos y total olímpico d",
+      "date": "Fri, 11 Sep 2026 21:09:44 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "La negativa del Ayuntamiento de Baena a la planta de biometano se enreda: la Junta emite informe a favor",
+      "link": "https://www.abc.es/espana/andalucia/cordoba/negativa-ayuntamiento-baena-planta-biometano-enreda-junta-20260911210136-nts.html",
+      "desc": "La negativa del Ayuntamiento de Baena a autorizar una planta de biometano en los parajes Amarguilla y La Pililla se complica. La Junta ha informado este viernes de que ha emitido informe favorable de Ordenación del Territorio relativo al proyecto de su constru",
+      "date": "Fri, 11 Sep 2026 21:01:36 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Fallece un sacerdote en un choque frontal en la CL-615 en Husillos (Palencia)",
+      "link": "https://www.abc.es/espana/castilla-leon/fallecido-herido-grave-colisionar-dos-turismos-cl615-20260911204559-nt.html",
+      "desc": "Una persona ha fallecido y otra ha resultado herida este viernes al producirse una colisión frontal entre dos turismos a la altura del kilómetro diez de la carretera CL-615, a la altura de Husillos (Palencia). El siniestro ha tenido lugar sobre las 18.30 horas",
+      "date": "Fri, 11 Sep 2026 20:47:06 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "El Consorcio de Santiago abre este sábado las ayudas para mejorar la imagen de los locales comerciales de la zona vieja",
+      "link": "https://www.abc.es/espana/galicia/consorcio-santiago-abre-sabado-ayudas-mejorar-imagen-20260911203627-nt.html",
+      "desc": "El Consorcio de Santiago abre este sábado la primera convocatoria de las ayudas para los locales comerciales de la Ciudad Histórica , destinada a incentivar su acondicionamiento interior y favorecer a mejorar su imagen comercial y su integración en el entorno.",
+      "date": "Fri, 11 Sep 2026 20:36:27 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Guía del deporte cordobés para el fin de semana: horarios y dónde ver todos los partidos",
+      "link": "https://www.abc.es/espana/andalucia/cordoba/guia-deporte-cordobes-fin-semana-horarios-ver-20260911201743-nts.html",
+      "desc": "El deporte cordobés afronta un fin de semana cargado de estrenos. La nueva temporada levanta el telón tanto para el Cajasol Ángel Ximénez como para el Córdoba Patrimonio de la Humanidad , mientras que el fútbol provincial continúa tomando velocidad con represe",
+      "date": "Fri, 11 Sep 2026 20:17:43 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "La Junta inicia el proceso para que su edificio en la calle Manríquez de Córdoba pueda tener uso hotelero",
+      "link": "https://www.abc.es/espana/andalucia/cordoba/junta-inicia-proceso-edificio-calle-manriquez-cordoba-20260911201545-nts.html",
+      "desc": "El edificio de la Junta de Andalucía en la calle Manríquez de Córdoba, en plena Judería y a muy pocos metros de la Mezquita-Catedral , acaba de comenzar el proceso para cambiar los usos y poder albergar en un futuro, si se da la posibilidad un hotel. La Admini",
+      "date": "Fri, 11 Sep 2026 20:15:45 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "La edil de Festejos en Talavera denuncia amenazas e insultos a través de perfiles falsos",
+      "link": "https://www.abc.es/espana/castilla-la-mancha/toledo/talavera/edil-festejos-talavera-denuncia-amenazas-insultos-traves-20260911201531-nt.html",
+      "desc": "La concejala de Festejos en Talavera de la Reina, María Pilar Guerrero, ha denunciado la existencia de «bastantes» perfiles falsos creados en los últimos meses desde los que se han vertido insultos, descalificaciones, informaciones falsas e incluso amenazas co",
+      "date": "Fri, 11 Sep 2026 20:15:32 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Su corazón está en otra parte",
+      "link": "https://www.abc.es/espana/cataluna/salvador-sostres-corazon-parte-20260911200943-nt.html",
+      "desc": "Cataluña ha tenido dos grandes suertes en los últimos años. La primera es que los independentistas, a pesar de ser muchos, son muy poco inteligentes, y como los palestinos, no pierden ninguna oportunidad de perder una oportunidad. La autoinmolación del enemigo",
+      "date": "Fri, 11 Sep 2026 20:09:43 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Las obras del Museo de la Caza y la Naturaleza de Ciudad Real comenzarán en 2027",
+      "link": "https://www.abc.es/espana/castilla-la-mancha/obras-museo-caza-naturaleza-ciudad-real-comenzaran-20260911200056-nt.html",
+      "desc": "El presidente de la Diputación de Ciudad Real, Miguel Ángel Valverde, ha anunciado que el proyecto del Museo de la Caza y la Naturaleza (Mucana) ya está terminado y que en los próximos días se presentará, con la previsión de que las obras comiencen a lo largo ",
+      "date": "Fri, 11 Sep 2026 20:00:57 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "El PSCL, arrinconado en las Cortes por avalar la gestión del Gobierno en Ceuta",
+      "link": "https://www.abc.es/espana/castilla-leon/pscl-arrinconado-cortes-avalar-gestion-gobierno-ceuta-20260911195200-nt.html",
+      "desc": "La segunda sesión del primer pleno ordinario del curso político ha permitido este viernes recuperar los tradicionales corrillos parlamentarios, esos que sirven para que sus señorías intercambien impresiones y que los periodistas accedan a la información no ofi",
+      "date": "Fri, 11 Sep 2026 19:52:00 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Los rectores andaluces piden a Juanma Moreno más financiación en el inicio de curso",
+      "link": "https://www.abc.es/espana/andalucia/rectores-andaluces-piden-juanma-moreno-financiacion-inicio-20260911194815-nts.html",
+      "desc": "La Asociación de Universidades Públicas de Andalucía (AUPA) ha advertido este viernes de que el anuncio realizado por el presidente de la Junta, Juanma Moreno, acerca de que el proyecto de Presupuestos del año 2027 incluirá un incremento en la financiación uni",
+      "date": "Fri, 11 Sep 2026 19:48:16 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
     {
       "title": "El edificio de boxes del Madring, una obra a contra reloj: «En enero pusimos el primer pilar»",
       "link": "https://www.abc.es/espana/madrid/edificio-boxes-madring-obra-contrarreloj-enero-poniamos-20260911192548-nt.html",
@@ -73,36 +213,6 @@
       "caso": "other"
     },
     {
-      "title": "Hallan al hombre desaparecido en Puente Genil tras tres días de angustiosa búsqueda",
-      "link": "https://www.abc.es/espana/andalucia/cordoba/hallan-hombre-desaparecido-puente-genil-tras-tres-20260911190045-nts.html",
-      "desc": "Juan Antonio Martínez, el hombre que se hallaba desaparecido en Puente Genil desde el martes , ha sido localizado en buen estado. La asociación pontana Aliento de Vida ha confirmado este viernes su localización tras tres jornadas de angustiosa búsqueda. Ha exp",
-      "date": "Fri, 11 Sep 2026 19:00:45 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Aragón pide la revisión «integral» del decreto de centros de datos para no paralizar inversiones por 54.000 millones",
-      "link": "https://www.abc.es/espana/aragon/aragon-pide-revision-integral-decreto-centros-datos-20260911175557-nt.html",
-      "desc": "La consejera de Economía, Competitividad y Empleo, Eva Valle , ha detallado las alegaciones que ha presentado el Gobierno de Aragón al proyecto de Real Decreto gubernamental por el que se regulan los requisitos de sostenibilidad energética, medioambiental, res",
-      "date": "Fri, 11 Sep 2026 18:59:58 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "El PSOE reprocha al PP que no se «alegre» de los resultados de PISA en Castilla-La Mancha",
-      "link": "https://www.abc.es/espana/castilla-la-mancha/psoe-reprocha-pp-alegre-resultados-pisa-castillala-20260911185859-nt.html",
-      "desc": "La presidenta de la Ejecutiva provincial del PSOE de Toledo, Tita García Élez, ha reprochado este viernes al PP de Castilla-La Mancha que no se haya «alegrado» de los últimos resultados del informe PISA y le ha pedido que abandone el «oportunismo, el populismo",
-      "date": "Fri, 11 Sep 2026 18:59:00 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
       "title": "Castilla y León aprueba una iniciativa de Vox para exigir a Sánchez la ruptura con Marruecos por Ceuta",
       "link": "https://www.lavanguardia.com/politica/20260911/11632885/castilla-leon-aprueba-iniciativa-vox-exigir-sanchez-ruptura-marruecos-ceuta.html",
       "desc": "La proposición no de ley ha sido aprobada con los votos del PP y del Grupo Mixto en las Cortes autonómicas",
@@ -110,106 +220,6 @@
       "source": "La Vanguardia",
       "color": "#8e44ad",
       "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "Mueren 23 trabajadores en accidente laboral en Galicia hasta julio, 15 menos que en 2025",
-      "link": "https://www.abc.es/espana/galicia/mueren-trabajadores-accidente-laboral-galicia-julio-2025-20260911185319-nt.html",
-      "desc": "Un total de 23 trabajadores fallecieron en accidente laboral en los siete primeros meses del año en Galicia, 15 menos que en el mismo periodo de 2025, lo que, en términos relativos, supone un descenso del 39,5%, según datos provisionales del Ministerio de Trab",
-      "date": "Fri, 11 Sep 2026 18:53:19 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "El PP de Ayuso apoya una iniciativa del PSOE que exige transparencia con el ático",
-      "link": "https://www.abc.es/espana/madrid/pp-ayuso-apoya-iniciativa-psoe-exige-transparencia-20260911184735-nt.html",
-      "desc": "Después del debate sobre el estado de la región en la Asamblea de Madrid , donde la izquierda ha utilizado el ático de Chamberí comprado por la Comunidad como arma política contra Isabel Díaz Ayuso, el PSOE pretendía poner en un aprieto al PP con una propuesta",
-      "date": "Fri, 11 Sep 2026 18:47:36 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Piden el cese de un asesor de la Diputación de Pontevedra por un vídeo de TikTok donde bromea sobre apalear niños huérfanos con su palo de golf",
-      "link": "https://www.abc.es/espana/galicia/piden-cese-asesor-diputacion-pontevedra-video-tiktok-20260911183712-nt.html",
-      "desc": "El vídeo que ha puesto en el disparadero a un jefe de gabinete de la Diputación de Pontevedra lo protagonizan tres personas y arranca con una pregunta al aire por parte de una de ellas. «Le he preguntado a los chicos qué harían si se encontrasen a un niño huér",
-      "date": "Fri, 11 Sep 2026 18:37:12 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Guadalajara defiende la gasolinera de la SUE-30: «La licencia había que concederla»",
-      "link": "https://www.abc.es/espana/castilla-la-mancha/guadalajara-defiende-gasolinera-sue30-licencia-concederla-20260911181715-nt.html",
-      "desc": "El Ayuntamiento de Guadalajara defiende la legalidad de la licencia concedida para la instalación de una gasolinera en dos parcelas de la SUE-30 y sostiene que no tenía margen para rechazarla al tratarse, según explica el concejal de Urbanismo, Alfonso Esteban",
-      "date": "Fri, 11 Sep 2026 18:17:16 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "La piqueta consume el hotel que estuvo un mes ardiendo en Málaga",
-      "link": "https://www.abc.es/espana/andalucia/malaga/piqueta-consume-hotel-mes-ardiendo-malaga-20260911181006-nts.html",
-      "desc": "El ruido de la maquinaria pesada resuena por el centro de Málaga. Tres meses después de que las llamas desalojasen y consumiesen el hotel Ibis , ubicado en el Pasillo de Guimbarda, ya han arrancado los trabajos para hacer desaparecer el edificio. El derribo ma",
-      "date": "Fri, 11 Sep 2026 18:10:06 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "El rincón de la Costa Brava que eligió Susanna Griso para casarse: calas y un paseo con una glorieta sobre el mar",
-      "link": "https://www.abc.es/espana/cataluna/rincon-costa-brava-eligio-susanna-griso-casarse-20260911171313-nt.html",
-      "desc": "Susanna Griso escogió uno de los rincones más reconocibles de la Costa Brava para celebrar uno de los días más importantes de su vida. La presentadora de Espejo Público contrajo matrimonio el pasado 25 de julio con Luis Enríquez Nistal en S'Agaró, una pequeña ",
-      "date": "Fri, 11 Sep 2026 18:07:13 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Buscan a un vecino de Campologo, en Negreira, desaparecido desde el jueves",
-      "link": "https://www.abc.es/espana/galicia/buscan-vecino-campologo-negreira-desaparecido-jueves-20260911180625-nt.html",
-      "desc": "Guardia Civil, Policía Local de Negreira y Protección Civil han iniciado un dispositivo de búsqueda para tratar de localizar a un vecino de Campologo, de 69 años, que lleva desaparecido desde el jueves. José Manuel Baña Sieira fue visto por última vez sobre la",
-      "date": "Fri, 11 Sep 2026 18:06:25 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Benalmádena levanta el cierre de la playa de Bil Bil tras detectar niveles seguros de E. coli",
-      "link": "https://www.abc.es/espana/andalucia/malaga/benalmadena-levanta-cierre-playa-bil-bil-tras-20260911180247-nts.html",
-      "desc": "La bandera roja ha desaparecido de la playa de Bil Bil . La verde ya ondea de nuevo y el baño vuelve a estar permitido como de costumbre en el arenal. La Delegación Territorial de Sanidad y Consumo de la Junta de Andalucía ha comunicado al Ayuntamiento de Bena",
-      "date": "Fri, 11 Sep 2026 18:02:47 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Un 'tatu' de la legión francesa y el microchip de su perro, claves para dar con el hombre descuartizado en Yesa",
-      "link": "https://www.abc.es/espana/aragon/tatu-legion-francesa-microchip-perro-claves-dar-20260911175520-nt.html",
-      "desc": "La Guardia Civil, en coordinación con la Policía Foral, el pasado martes llevó a cabo la detención de un varón de nacionalidad española, como principal sospechoso del supuesto asesinato del varón francés cuyos restos fueron encontrados la tarde del pasado 4 ag",
-      "date": "Fri, 11 Sep 2026 17:55:21 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Ayuso encara la embestida de la izquierda por el ático y le reta: «Si he mentido, dimito y si no, dimitan ustedes»",
-      "link": "https://www.abc.es/espana/madrid/ayuso-encara-embestida-izquierda-atico-reta-mentido-20260911175306-nt.html",
-      "desc": "El ático de Chamberí ha sido la bomba de relojería que el PSOE y Más Madrid han llevado al debate sobre el estado de la región en la Asamblea para hacerla explotar en la cara de Isabel Díaz Ayuso. Sus portavoces creían realmente que en el último mes y medio, d",
-      "date": "Fri, 11 Sep 2026 17:53:06 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
       "caso": "other"
     },
     {
@@ -227,16 +237,6 @@
       "link": "https://www.lavanguardia.com/internacional/20260911/11632820/trump-rompe-unidad-unico-presidentes-tributo-zona-cero.html",
       "desc": "Donald Trump no acude a la cita en la que participan cuatro expresidentes, George Bush, Bill Clinton, Barak Obama y Joe Biden&nbsp;",
       "date": "11 Sep 2026 16:56:37 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "Libertad para los tres detenidos durante los disturbios en el Fossar de les Moreres",
-      "link": "https://www.lavanguardia.com/politica/20260911/11632817/libertad-tres-detenidos-disturbios-fossar-les-moreres.html",
-      "desc": "Quedan investigados por desórdenes, atentado contra la autoridad y lesiones leves",
-      "date": "11 Sep 2026 16:43:43 +0200",
       "source": "La Vanguardia",
       "color": "#8e44ad",
       "feedId": "LaVanguardia",
