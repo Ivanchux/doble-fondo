@@ -1,7 +1,157 @@
 {
-  "updated": "2026-09-11T20:21:12Z",
+  "updated": "2026-09-11T23:49:17Z",
   "count": 24,
   "items": [
+    {
+      "title": "El centro de Madrid se convierte en un escaparate de la Fórmula 1",
+      "link": "https://www.abc.es/espana/madrid/centro-madrid-convierte-escaparate-formula-20260910011848-nt.html",
+      "desc": "Tiene diversas formas, Madring , de aparecer por la capital. Las carreteras que rodean el recinto delatan su presencia cuando los paneles avisan de lo que en Ifema acontecerá el fin de semana. Y anuncian La Monumental banderolas publicitarias que cuelgan a amb",
+      "date": "Sat, 12 Sep 2026 01:18:48 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "La guerra entre conservadores y progresistas del CGPJ se recrudece con el inicio del curso",
+      "link": "https://www.abc.es/espana/guerra-conservadores-progresistas-cgpj-recrudece-inicio-curso-20260911011734-nt.html",
+      "desc": "El nuevo curso judicial arranca con un Consejo General del Poder Judicial (CGPJ) fracturado públicamente. El cruce de acusaciones entre los vocales progresistas y conservadores en torno al discurso de apertura del año judicial ha dinamitado cualquier atisbo de",
+      "date": "Sat, 12 Sep 2026 01:17:34 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "La marcha de Trapero frustra la apuesta de Illa por estabilizar a los Mossos",
+      "link": "https://www.abc.es/espana/cataluna/marcha-trapero-frustra-apuesta-illa-estabilizar-mossos-20260912011726-nt.html",
+      "desc": "En el arranque de un curso político que debía servir a Salvador Illa para dejar atrás los tropiezos que están arruinando su apuesta por la gestión, la dimisión de Josep Lluís Trapero como director general de la Policía de Cataluña supone algo más que la salida",
+      "date": "Sat, 12 Sep 2026 01:17:26 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Feijóo asume que Marruecos ya le mide ya como futuro presidente",
+      "link": "https://www.abc.es/espana/feijoo-asume-rabat-mide-vista-puesta-cambio-20260912011718-nt.html",
+      "desc": "Las relaciones se han deteriorado y son complicadas desde hace tiempo. La interlocución es prácticamente inexistente. El único hilo de comunicación entre la dirección nacional del Partido Popular y el país vecino mira a la embajadora de Marruecos en Madrid, Ka",
+      "date": "Sat, 12 Sep 2026 01:17:18 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "La dimisión del jefe de Gabinete del delegado en Ceuta cerca al Gobierno",
+      "link": "https://www.abc.es/espana/dimision-jefe-gabinete-delegado-ceuta-desmonta-relato-20260912011712-nt.html",
+      "desc": "¿Quién miente? Cruce de versiones, comunicados contradictorios y una fuga de información desde dentro. La gestión de la crisis de Ceuta se va complicando para Pedro Sánchez a medida que avanzan los días y este viernes se cobró la primera dimisión de un cargo p",
+      "date": "Sat, 12 Sep 2026 01:17:12 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "La Diada deja ocho detenidos por desorden público durante su celebración en Barcelona",
+      "link": "https://www.abc.es/espana/cataluna/diada-deja-ocho-detenidos-desorden-publico-celebracion-20260912005644-nt.html",
+      "desc": "Ocho personas han sido detenidas por delitos de desorden público en los incidentes registrados en Barcelona con motivo de la celebración este viernes de la Diada Nacional de Cataluña. Los Mossos han informado de que, desde las ocho de la noche, esos incidentes",
+      "date": "Sat, 12 Sep 2026 00:56:44 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Que gobiernen ya",
+      "link": "https://www.lavanguardia.com/opinion/20260912/11632909/gobiernen.html",
+      "desc": "Muchos sueñan con Sánchez sentado frente a Marchena y cía; el tiro de gracia se llama Ceuta",
+      "date": "12 Sep 2026 00:30:00 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
+    {
+      "title": "PISA contra Aristóteles",
+      "link": "https://www.lavanguardia.com/opinion/20260912/11632855/pisa-aristoteles.html",
+      "desc": "Duras o Woolf han sido sustituidas ya por lecturas breves sobre el desorden mundial",
+      "date": "12 Sep 2026 00:30:00 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
+    {
+      "title": "“Bueno, pues molt bé, pues adiós”",
+      "link": "https://www.lavanguardia.com/politica/20260912/11632840/bueno-pues-molt-be-pues-adios.html",
+      "desc": "",
+      "date": "12 Sep 2026 00:05:00 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
+    {
+      "title": "Lo que mal empieza...",
+      "link": "https://www.lavanguardia.com/opinion/20260912/11632994/mal-empieza.html",
+      "desc": "La crisis de Ceuta se está convirtiendo en una pesadilla para el Gobierno de Pedro Sánchez",
+      "date": "12 Sep 2026 00:05:00 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
+    {
+      "title": "La cantante cordobesa India Martínez conmociona las redes sociales: anuncia que será mamá... y está de 7 meses",
+      "link": "https://www.abc.es/espana/andalucia/cordoba/cantante-cordobesa-india-martinez-conmociona-redes-sociales-20260911235512-nts.html",
+      "desc": "La cantante cordobesa India Martínez ha dado la sorpresa este viernes en sus redes sociales, anunciando que espera su primer hijo . Y la sorpresa ha sido doble porque ha comunicado que está embarazada de siete meses En el mensaje en que lo ha hecho público, ha",
+      "date": "Fri, 11 Sep 2026 23:55:13 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "LaLiga confirma el horario del Eldense - Córdoba CF de la novena jornada en Segunda División",
+      "link": "https://www.abc.es/espana/andalucia/cordoba/cordoba-cf/laliga-confirma-horario-eldense-cordoba-novena-jornada-20260911231844-nts.html",
+      "desc": "El Córdoba CF ya puede marcar en rojo una nueva fecha en su calendario. LaLiga ha confirmado el horario de la novena jornada de Segunda División, que llevará al conjunto blanquiverde hasta Elda para medirse al Eldense en el Nuevo Pepico Amat . Un estadio que l",
+      "date": "Fri, 11 Sep 2026 23:18:44 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "La Noche del Patrimonio brilla en Córdoba con un original entrante",
+      "link": "https://www.abc.es/espana/andalucia/cordoba/noche-patrimonio-brilla-cordoba-original-entrante-20260911231256-nts.html",
+      "desc": "La Noche del Patrimonio ha encendido este viernes Córdoba al caer el sol y volverá a hacerlo este sábado . Porque la gran novedad de su novena edición, que tiene lugar de forma simultánea en las 15 Ciudades Patrimonio de la Humanidad de España, es que se amplí",
+      "date": "Fri, 11 Sep 2026 23:12:56 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Arabia Saudí cierra el oleoducto alternativo a Ormuz tras la ofensiva de los hutíes en el mar Rojo",
+      "link": "https://www.lavanguardia.com/internacional/20260911/11632935/arabia-saudi-cierra-unico-oleoducto-alternativo-ormuz-ofensiva-mar-rojo.html",
+      "desc": "Los ataques causaron varios heridos y los equipos de emergencia están tomando medidas para asegurar el conducto y evaluar su seguridad",
+      "date": "11 Sep 2026 22:27:35 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
+    {
+      "title": "Un acertante de Leganés se lleva un premio de un millón de euros del sorteo de Euromillones",
+      "link": "https://www.abc.es/espana/madrid/acertante-leganes-lleva-premio-millon-euros-sorteo-20260911222116-nt.html",
+      "desc": "El sorteo de Euromillones celebrado este viernes, 11 de septiembre, ha dejado un premio de un millón de euros en la localidad madrileña de Leganés. Según informa Loterías y Apuestas del Estado en su boletín, consultado por Europa Press, el boleto acertante de ",
+      "date": "Fri, 11 Sep 2026 22:21:17 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
     {
       "title": "Toledo rinde homenaje al legado de Jacinto Guerrero, el mayor compositor de la provincia",
       "link": "https://www.abc.es/espana/castilla-la-mancha/toledo/toledo-rinde-homenaje-legado-jacinto-guerrero-mayor-20260911214416-nt.html",
@@ -90,156 +240,6 @@
       "source": "ABC",
       "color": "#c0392b",
       "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "La edil de Festejos en Talavera denuncia amenazas e insultos a través de perfiles falsos",
-      "link": "https://www.abc.es/espana/castilla-la-mancha/toledo/talavera/edil-festejos-talavera-denuncia-amenazas-insultos-traves-20260911201531-nt.html",
-      "desc": "La concejala de Festejos en Talavera de la Reina, María Pilar Guerrero, ha denunciado la existencia de «bastantes» perfiles falsos creados en los últimos meses desde los que se han vertido insultos, descalificaciones, informaciones falsas e incluso amenazas co",
-      "date": "Fri, 11 Sep 2026 20:15:32 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Su corazón está en otra parte",
-      "link": "https://www.abc.es/espana/cataluna/salvador-sostres-corazon-parte-20260911200943-nt.html",
-      "desc": "Cataluña ha tenido dos grandes suertes en los últimos años. La primera es que los independentistas, a pesar de ser muchos, son muy poco inteligentes, y como los palestinos, no pierden ninguna oportunidad de perder una oportunidad. La autoinmolación del enemigo",
-      "date": "Fri, 11 Sep 2026 20:09:43 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Las obras del Museo de la Caza y la Naturaleza de Ciudad Real comenzarán en 2027",
-      "link": "https://www.abc.es/espana/castilla-la-mancha/obras-museo-caza-naturaleza-ciudad-real-comenzaran-20260911200056-nt.html",
-      "desc": "El presidente de la Diputación de Ciudad Real, Miguel Ángel Valverde, ha anunciado que el proyecto del Museo de la Caza y la Naturaleza (Mucana) ya está terminado y que en los próximos días se presentará, con la previsión de que las obras comiencen a lo largo ",
-      "date": "Fri, 11 Sep 2026 20:00:57 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "El PSCL, arrinconado en las Cortes por avalar la gestión del Gobierno en Ceuta",
-      "link": "https://www.abc.es/espana/castilla-leon/pscl-arrinconado-cortes-avalar-gestion-gobierno-ceuta-20260911195200-nt.html",
-      "desc": "La segunda sesión del primer pleno ordinario del curso político ha permitido este viernes recuperar los tradicionales corrillos parlamentarios, esos que sirven para que sus señorías intercambien impresiones y que los periodistas accedan a la información no ofi",
-      "date": "Fri, 11 Sep 2026 19:52:00 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Los rectores andaluces piden a Juanma Moreno más financiación en el inicio de curso",
-      "link": "https://www.abc.es/espana/andalucia/rectores-andaluces-piden-juanma-moreno-financiacion-inicio-20260911194815-nts.html",
-      "desc": "La Asociación de Universidades Públicas de Andalucía (AUPA) ha advertido este viernes de que el anuncio realizado por el presidente de la Junta, Juanma Moreno, acerca de que el proyecto de Presupuestos del año 2027 incluirá un incremento en la financiación uni",
-      "date": "Fri, 11 Sep 2026 19:48:16 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "El edificio de boxes del Madring, una obra a contra reloj: «En enero pusimos el primer pilar»",
-      "link": "https://www.abc.es/espana/madrid/edificio-boxes-madring-obra-contrarreloj-enero-poniamos-20260911192548-nt.html",
-      "desc": "Cuando en enero se colocó el primer pilar de lo que ahora es el edificio de boxes y la zona VIP del 'paddock' de Madring, los planos todavía no estaban completamente cerrados. La estructura comenzaba a levantarse en el Instituto Ferial de Madrid (Ifema) , mien",
-      "date": "Fri, 11 Sep 2026 19:25:48 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "El PSOE pide a sus militantes alargar el mandato de Sánchez hasta 2030 «mientras haya una sola injusticia en el mundo»",
-      "link": "https://www.abc.es/espana/psoe-pide-militantes-alargar-mandato-sanchez-2030-20260911192249-nt.html",
-      "desc": "El PSOE ha inaugurado el nuevo curso político marcando un objetivo claro a sus militantes: la continuidad de Pedro Sánchez en La Moncloa más allá de las próximas elecciones generales. A través de un editorial publicado en 'El Socialista', el órgano de expresió",
-      "date": "Fri, 11 Sep 2026 19:22:49 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Un independentismo a la defensiva no levanta cabeza en una Diada marcada por el auge de Aliança",
-      "link": "https://www.abc.es/espana/cataluna/independentismo-defensiva-levanta-cabeza-diada-marcada-auge-20260911192212-nt.html",
-      "desc": "En el cruce de la calle Casanova con Gran Via, uno de los dos puntos de salida de la manifestación independentista de Barcelona, grupos de familias aguardaban para comenzar a marchar. Cierto aire de cansancio, casi de rutina, bajo un lema —«Hi soc, hi som»; «E",
-      "date": "Fri, 11 Sep 2026 19:22:13 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "El Gobierno vacía el CIE de Algeciras ante la sospecha de que lleguen más narcolanchas con inmigrantes",
-      "link": "https://www.abc.es/espana/andalucia/cadiz/gobierno-vacia-cie-algeciras-ante-sospecha-lleguen-20260912191903-nts.html",
-      "desc": "El Centro de Internamiento de Extranjeros (CIE) de Algeciras es el más grande de España y uno de los de mayor capacidad de Europa. La instalación puede alojar a unos 500 usuarios. Sin embargo, en la actualidad, se encuentra casi vacío. Así lo explican fuentes ",
-      "date": "Fri, 11 Sep 2026 19:19:03 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Puerto Real permite a las mascotas ir al tanatorio a despedirse de sus dueños fallecidos por primera vez",
-      "link": "https://www.abc.es/espana/andalucia/cadiz/puerto-real-permite-mascotas-tanatorio-despedirse-primera-20260911191209-nts.html",
-      "desc": "El fallecimiento de una persona puede ser uno de los momentos más dolorosos para familiares y seres queridos. Pero esa pérdida no solo deja un vacío entre quienes la rodeaban. También afecta a aquellas mascotas que compartían con su dueño las pequeñas rutinas ",
-      "date": "Fri, 11 Sep 2026 19:14:48 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "'The Economist' acusa a Sánchez de «permitir» que Ceuta escale hasta ser una crisis: «Sus reflejos políticos como presidente le han fallado»",
-      "link": "https://www.abc.es/espana/the-economist-acusa-sanchez-permitir-ceuta-escale-20260911190654-nt.html",
-      "desc": "La revista británica 'The Economist' acusa al presidente del Gobierno, Pedro Sánchez, de «permitir» que la situación en Ceuta escale en crisis , en un artículo del número que publicó esta semana. El articulo editorial señala que Sánchez «no está logrando depor",
-      "date": "Fri, 11 Sep 2026 19:06:55 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Albacete rendirá tributo al torero Dámaso González con la Medalla de Oro provincial",
-      "link": "https://www.abc.es/espana/castilla-la-mancha/albacete-rendira-tributo-torero-damaso-gonzalez-medalla-20260911190257-nt.html",
-      "desc": "La Diputación y el Ayuntamiento de Albacete han anunciado que realizarán varias iniciativas para reconocer al torero Dámaso González. De un lado, la Diputación trabaja con la familia del torero fallecido en agosto de 2017 para fijar la fecha de entrega de la M",
-      "date": "Fri, 11 Sep 2026 19:02:58 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Castilla y León aprueba una iniciativa de Vox para exigir a Sánchez la ruptura con Marruecos por Ceuta",
-      "link": "https://www.lavanguardia.com/politica/20260911/11632885/castilla-leon-aprueba-iniciativa-vox-exigir-sanchez-ruptura-marruecos-ceuta.html",
-      "desc": "La proposición no de ley ha sido aprobada con los votos del PP y del Grupo Mixto en las Cortes autonómicas",
-      "date": "11 Sep 2026 18:58:27 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "Vivas dice que Moncloa le pidió “que no llamara más” tras días advirtiendo de la crisis migratoria",
-      "link": "https://www.lavanguardia.com/politica/20260911/11632827/vivas-dice-moncloa-le-pidio-llamara-mas-dias-advirtiendo-crisis-migratoria.html",
-      "desc": "Asegura que intentó hablar directamente con Sánchez el 27 de julio pero no le atendió y fue remitido a su gabinete",
-      "date": "11 Sep 2026 17:04:50 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "Homenaje a las víctimas en la Zona Cero y críticas de los familiares a Arabia Saudí",
-      "link": "https://www.lavanguardia.com/internacional/20260911/11632820/trump-rompe-unidad-unico-presidentes-tributo-zona-cero.html",
-      "desc": "Donald Trump no acude a la cita en la que participan cuatro expresidentes, George Bush, Bill Clinton, Barak Obama y Joe Biden&nbsp;",
-      "date": "11 Sep 2026 16:56:37 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
       "caso": "other"
     }
   ]
