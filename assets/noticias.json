@@ -1,7 +1,187 @@
 {
-  "updated": "2026-09-12T13:18:26Z",
+  "updated": "2026-09-12T16:40:57Z",
   "count": 24,
   "items": [
+    {
+      "title": "Alerta en Vigo por una supuesta banda de agresores encapuchados",
+      "link": "https://www.abc.es/espana/galicia/alerta-vigo-supuesta-banda-agresores-encapuchados-20260912183000-nt.html",
+      "desc": "Inquietud en el barrio vigués de Teis tras la difusión de mensajes en Instagram alertando de supuestas agresiones por parte de un grupo de jóvenes encapuchados. Los avisos describen a unos cuatro chicos, en ocasiones acompañados por alguno más, que llevarían e",
+      "date": "Sat, 12 Sep 2026 18:30:00 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Herido un menor de 16 años tras ser atropellado por un tractor en Daimiel",
+      "link": "https://www.abc.es/espana/castilla-la-mancha/herido-menor-anos-tras-atropellado-tractor-daimiel-20260912182031-nt.html",
+      "desc": "Un menor de 16 años ha resultado herido este sábado tras ser atropellado por un tractor en Daimiel (Ciudad Real). Según han informado a ABC fuentes del servicio de Emergencias 112 de Castilla-La Mancha, el accidente ha ocurrido sobre las 10.40 horas en el para",
+      "date": "Sat, 12 Sep 2026 18:20:32 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Expertos gallegos constatan que la música deja «huella» en los genes y las proteínas de quienes la escuchan",
+      "link": "https://www.abc.es/espana/galicia/expertos-gallegos-constatan-musica-deja-huella-genes-20260912180652-nt.html",
+      "desc": "¿Qué impacto puede tener la música en nuestra biología? Con esta incógnita arrancó, hace cinco años ya, el proyecto Sensogenoma. Un exhaustivo estudio desarrollado por los investigadores gallegos Antonio Salas y Federico Martinón que busca descubrir la conexió",
+      "date": "Sat, 12 Sep 2026 18:06:52 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Un trabajador sufre un aplastamiento en una pierna con un toro mecánico en Villanueva de los Infantes",
+      "link": "https://www.abc.es/espana/castilla-la-mancha/trabajador-sufre-aplastamiento-pierna-toro-mecanico-villanueva-20260912180410-nt.html",
+      "desc": "Un trabajador de 48 años ha tenido que ser trasladado este sábado al hospital de Ciudad Real tras sufrir un aplastamiento en una pierna con un toro mecánico en un supermercado de Villanueva de los Infantes. Según ha informado a ABC el servicio de Emergencias 1",
+      "date": "Sat, 12 Sep 2026 18:04:10 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Los vecinos de La Cañada de la Plata de Puente Genil exigen una solución segura al cruce de la A-318",
+      "link": "https://www.abc.es/espana/andalucia/cordoba/vecinos-canada-plata-puente-genil-exigen-solucion-20260912175316-nts.html",
+      "desc": "Los vecinos de la urbanización La Cañada de la Plata, en Puente Genil , han alzado la voz para reclamar una solución definitiva al cruce de acceso a la zona desde la carretera A-318. La asociación vecinal ha celebrado una concentración para reclamar mayor segu",
+      "date": "Sat, 12 Sep 2026 17:53:16 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Sánchez vuelve a sus recomendaciones en TikTok con el debate de si hay que controlar la IA: «Estos días he leído un libro sobre esta cuestión»",
+      "link": "https://www.abc.es/espana/sanchez-vuelve-recomendaciones-tiktok-sobre-debate-controlar-20260912173359-nt.html",
+      "desc": "Pedro Sánchez ha vuelto a compartir sus habituales recomendaciones de música y lectura en TikTok. El presidente del Gobierno ha incrementado su presencia en esta red social en los últimos meses, en una estrategia comunicativa basada en videos más informales y ",
+      "date": "Sat, 12 Sep 2026 17:46:08 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Fallece una mujer tras la colisión de un turismo y una motocicleta en Casillas de Ranera (Cuenca)",
+      "link": "https://www.abc.es/espana/castilla-la-mancha/fallece-mujer-tras-colision-turismo-motocicleta-casillas-20260912173356-nt.html",
+      "desc": "Una mujer de 50 años ha fallecido este sábado tras la colisión de un turismo y una motocicleta en el kilómetro 217 de la N-330 a su paso por Casillas de Ranera , pedanía del municipio conquense de Talayuelas. Según han informado a ABC fuentes del Servicio de E",
+      "date": "Sat, 12 Sep 2026 17:33:56 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "WhatsApp, coches y un «topo» en el explosivo pleno de Torralba de Calatrava",
+      "link": "https://www.abc.es/espana/castilla-la-mancha/whatsapp-coches-topo-explosivo-pleno-torralba-calatrava-20260912172509-nt.html",
+      "desc": "En Torralba de Calatrava el pleno municipal de septiembre vino con algo más que el habitual orden del día. Hubo reproches por la fecha de la sesión, una concejala que abandona el equipo de Gobierno, acusaciones cruzadas de mentir , conversaciones privadas de W",
+      "date": "Sat, 12 Sep 2026 17:25:10 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "La Sagra 0,0 Tostada, mejor cerveza lager 0,0 de España en los World Beer Awards 2026",
+      "link": "https://www.abc.es/espana/castilla-la-mancha/toledo/sagra-tostada-mejor-cerveza-lager-espana-world-20260912172348-nt.html",
+      "desc": "Cerveza La Sagra vuelve a situarse entre las grandes referencias del sector cervecero español. Este año, La Sagra 0,0 Tostada ha sido reconocida como la mejor cerveza lager de España en la categoría No &amp; Low Alcohol de los World Beer Awards 2026 , alzándos",
+      "date": "Sat, 12 Sep 2026 17:23:49 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "El PSCL lamenta que Mañueco esté «permanentemente mirando con el retrovisor al mandato de Madrid»",
+      "link": "https://www.abc.es/espana/castilla-leon/pscl-lamenta-manueco-permanentemente-mirando-retrovisor-mandato-20260912172058-nt.html",
+      "desc": "El secretario general del PSOE de Castilla y León, Carlos Martínez, cargaba este sábado contra los «ritmos» de trabajo del presidente de la Junta y del PP de Castilla y León, Alfonso Fernández Mañueco, al que afeaba que tras nueve meses sin sesiones de control",
+      "date": "Sat, 12 Sep 2026 17:20:59 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Norris pone su nombre a la primera 'pole' del circuito de Madring",
+      "link": "https://www.lavanguardia.com/deportes/20260912/11633318/f1-formula-1-gp-espana-qualy-clasificacion-parrilla-pole-antonelli-leclerc-alonso-sainz.html",
+      "desc": "El vigente campeón del mundo superó por solo 11 milésimas de segundo a Kimi Antonelli, el favorito",
+      "date": "12 Sep 2026 17:18:53 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
+    {
+      "title": "El CEO de Anthropic pide bajar el ritmo en el desarrollo de la IA",
+      "link": "https://www.lavanguardia.com/vida/20260912/11633315/director-ejecutivo-anthropic-afirma-hora-ralentizar-ritmo-mejora-modelos-ia.html",
+      "desc": "Amodei cita la capacidad de la IA para auto-mejorarse y el reciente incidente entre OpenAI y Hugging Face, donde un grupo de agentes artificiales formó secretamente una alianza para atacar objetivos no asignados",
+      "date": "12 Sep 2026 17:18:36 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
+    {
+      "title": "Suspendida la circulación de trenes entre La Palma y Escacena por un incendio",
+      "link": "https://www.abc.es/espana/andalucia/huelva/suspendida-circulacion-trenes-palma-escacena-incendio-20260912171741-nts.html",
+      "desc": "La circulación ferroviaria entre los municipios onubenses de La Palma del Condado y Escacena ha tenido que ser suspendida este sábado debido a la presencia de un incendio próximo a la infraestructura, que afecta a los trenes que conectan Huelva con Sevilla. Se",
+      "date": "Sat, 12 Sep 2026 17:17:42 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Juzgan en Santiago a cuatro acusados de explotar sexualmente a una mujer",
+      "link": "https://www.abc.es/espana/galicia/juzgan-santiago-cuatro-acusados-explotar-sexualmente-mujer-20260912170018-nt.html",
+      "desc": "La sección sexta de la Audiencia Provincial de La Coruña, con sede en Santiago, juzgará la próxima semana a cuatro personas acusadas de traer a España bajo engaños a una mujer colombiana y de retenerla obligándola a ejercer la prostitución para devolver una su",
+      "date": "Sat, 12 Sep 2026 17:00:18 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "'Palcos' improvisados en áticos y árboles y sonómetros vigilantes tras la valla del Madring",
+      "link": "https://www.abc.es/espana/madrid/divide-vecinos-madring-puede-vivir-frente-solo-20260912165838-nt.html",
+      "desc": "Para algunos vecinos de Valdebebas, la F1 es una oportunidad para Madrid y una molestia asumible durante tres días. Para otros, el Gran Premio es la culminación de más de un año de obras, ruido y una transformación del barrio que, aseguran, ha cambiado el luga",
+      "date": "Sat, 12 Sep 2026 16:58:38 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Ayuso carga contra la cobertura de la F1 en TVE: “Está haciendo lo imposible por deslucir el éxito de este evento”",
+      "link": "https://www.lavanguardia.com/local/madrid/20260912/11633310/ayuso-carga-cobertura-f1-tve-esta-haciendo-imposible-deslucir-exito-evento.html",
+      "desc": "La presidenta de la Comunidad de Madrid acusa a la cadena pública de estar “al servicio del Gobierno”",
+      "date": "12 Sep 2026 16:51:36 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
+    {
+      "title": "Ayuso protesta contra TVE por la F1 en Madrid: «Avergüenza su cobertura, está haciendo lo imposible por deslucir el éxito»",
+      "link": "https://www.abc.es/espana/madrid/ayuso-protesta-tve-madrid-averguenza-cobertura-haciendo-20260912163855-nt.html",
+      "desc": "La presidenta de la Comunidad de Madrid, Isabel Díaz Ayuso, ha utilizado las redes sociales para cargar contra TVE por su cobertura del Gran Premio de España de Fórmula 1 en el circuito de Madring. 'El gran circo' de la Fórmula 1 regresa a Madrid después de 45",
+      "date": "Sat, 12 Sep 2026 16:38:56 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Las mejores imágenes del circuito Madring",
+      "link": "https://www.lavanguardia.com/deportes/20260912/11633289/madrid-recupera-f-1-luces-sombras.html",
+      "desc": "La Comunidad habla de un impacto para la ciudad de 460 millones pero los vecinos se quejan del ruido",
+      "date": "12 Sep 2026 16:33:29 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
     {
       "title": "Afronta quince años de cárcel por apuñalar a la pareja de su exnovia",
       "link": "https://www.abc.es/espana/galicia/afronta-quince-anos-carcel-apunalar-pareja-exnovia-20260912150000-nt.html",
@@ -60,186 +240,6 @@
       "source": "ABC",
       "color": "#c0392b",
       "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Irene Montero lanza su carrera a 2027 prometiendo un salario mínimo de 1.800 euros y la jornada semanal de 30 horas",
-      "link": "https://www.abc.es/espana/irene-montero-lanza-carrera-2027-prometiendo-salario-20260912134917-nt.html",
-      "desc": "La candidatura de Irene Montero a las elecciones generales de 2027 ya es una realidad. La exministra de Igualdad ha formalizado su paso al frente en Podemos anunciando que se someterá a un proceso de primarias abiertas a «toda la gente que quiera participar o ",
-      "date": "Sat, 12 Sep 2026 13:49:18 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "El PP ve insuficiente la dimisión del jefe de gabinete en Ceuta: “Es una broma”",
-      "link": "https://www.lavanguardia.com/politica/20260912/11633276/pp-ve-insuficiente-dimision-jefe-gabinete-ceuta-broma.html",
-      "desc": "Sémper avisa a Rabat: “El Gobierno de Marruecos sabe que con Feijóo la posición política de España no va a ser la misma que la de Pedro Sánchez”",
-      "date": "12 Sep 2026 13:48:53 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "Montero se presentará a unas primarias abiertas para liderar una candidatura de izquierdas",
-      "link": "https://www.lavanguardia.com/politica/20260912/11633274/irene-montero-presentara-primarias-abiertas-liderar-candidatura-izquierdas.html",
-      "desc": "La formación morada celebrará unas primarias “abiertas a todo el mundo” que quiera participar",
-      "date": "12 Sep 2026 13:45:52 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "Gutiérrez: «Castilla-La Mancha es la región de Europa con más políticas favorables al mundo rural»",
-      "link": "https://www.abc.es/espana/castilla-la-mancha/gutierrez-castillala-mancha-region-europa-politicas-favorables-20260912134539-nt.html",
-      "desc": "El secretario de Organización del PSOE de Castilla-La Mancha y diputado nacional, Sergio Gutiérrez, ha reivindicado este sábado el compromiso del Gobierno de Emiliano García-Page con la igualdad de oportunidades entre el mundo rural y el urbano , y ha asegurad",
-      "date": "Sat, 12 Sep 2026 13:45:39 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Castilla y León ampliará en enero la prueba del talón hasta detectar 29 enfermedades endocrino-metabólicas",
-      "link": "https://www.abc.es/espana/castilla-leon/castilla-leon-ampliara-enero-prueba-talon-detectar-20260912134028-nt.html",
-      "desc": "El Programa de Detección Precoz de Enfermedades Congénitas de Castilla y León, conocido popularmente como la prueba del talón, ampliará en enero de 2027 su cartera de servicios hasta detectar 29 enfermedades endocrino-metabólicas, lo que reforzará el alcance d",
-      "date": "Sat, 12 Sep 2026 13:40:28 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "María Santísima Nazarena regresa plena de belleza ante sus devotos en Córdoba tras su restauración",
-      "link": "https://www.abc.es/espana/andalucia/cordoba/semana-santa/maria-santisima-nazarena-regresa-plena-belleza-ante-20260912133134-nts.html",
-      "desc": "El imponente altar habla por sí solo de la importancia del día. María Santísima Nazarena , rodeada de rosas blancas, y los cirios en composición piramidal en torno al sillón del trono, se muestra con la belleza recobrada, tras las labores de conservación y pro",
-      "date": "Sat, 12 Sep 2026 13:31:34 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "La Diputación de Toledo lleva su programa '12 meses, 12 castillos' al Castillo de Malpica de Tajo",
-      "link": "https://www.abc.es/espana/castilla-la-mancha/toledo/pueblos/diputacion-toledo-lleva-programa-meses-castillos-castillo-20260912132201-nt.html",
-      "desc": "La Diputación de Toledo continúa con su apuesta por la promoción y puesta en valor del patrimonio histórico, cultural y turístico de la provincia a través del programa '12 meses, 12 castillos' . La iniciativa tendrá este mes como protagonista al Castillo de Ma",
-      "date": "Sat, 12 Sep 2026 13:22:01 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Juanma Moreno pide al Gobierno reforzar la lucha contra el narco tras el aviso de la Fiscalía",
-      "link": "https://www.abc.es/espana/andalucia/juanma-moreno-pide-gobierno-reforzar-lucha-narco-20260912131610-nts.html",
-      "desc": "El presidente de la Junta de Andalucía, Juanma Moreno , ha instado al Gobierno de España a aportar una respuesta «contundente e inmediata» hacia el narcotráfico en Andalucía tras advertir la Fiscalía General del Estado en su memoria anual de 2025 de la «cada v",
-      "date": "Sat, 12 Sep 2026 13:16:54 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "La reforma de la Ley de Urbanismo y Vivienda pasará «próximamente» por las Cortes regionales",
-      "link": "https://www.abc.es/espana/castilla-la-mancha/reforma-ley-urbanismo-vivienda-pasara-proximamente-cortes-20260912131037-nt.html",
-      "desc": "El Gobierno regional ha compartido con la Federación de Empresas Constructoras de Castilla-La Mancha (Fereco) la Proposición de ley de medidas urgentes para la movilización de suelo, de la vivienda y la simplificación urbanística de Castilla-La Mancha que próx",
-      "date": "Sat, 12 Sep 2026 13:10:37 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Detenido por agredir a su pareja en Pontevedra",
-      "link": "https://www.abc.es/espana/galicia/detenido-tras-agredir-pareja-pontevedra-20260912125307-nt.html",
-      "desc": "La Policía ha detenido a un hombre en Pontevedra como presunto autor de un delito de violencia de género contra su pareja, a la que habría agredido el pasado 3 de septiembre en el domicilio de ella, ubicado en la misma localidad. El arresto se llevó a cabo con",
-      "date": "Sat, 12 Sep 2026 13:04:22 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Scope eleva a A+ el rating de la calificación de la deuda española",
-      "link": "https://www.lavanguardia.com/economia/20260912/11633262/scope-eleva-rating-calificacion-deuda-espanola.html",
-      "desc": "La agencia de rating cambia la perspectiva a estable por la “fortaleza” de la economía del país",
-      "date": "12 Sep 2026 12:56:27 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "Descubren 255 plantas de marihuana ocultas en una nave de Elche",
-      "link": "https://www.abc.es/espana/comunidad-valenciana/alicante/descubren-255-plantas-marihuana-ocultas-nave-elche-20260912125302-nt.html",
-      "desc": "La Policía Nacional ha detenido en la localidad alicantina de Elche a cuatro personas, de entre 28 y 36 años, por su presunta participación en los delitos de tráfico de drogas y defraudación de fluido eléctrico en el marco de una investigación desarrollada sob",
-      "date": "Sat, 12 Sep 2026 12:53:40 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Cobeja renueva su Plaza de la Constitución con el apoyo de la Diputación de Toledo",
-      "link": "https://www.abc.es/espana/castilla-la-mancha/toledo/pueblos/cobeja-renueva-plaza-constitucion-apoyo-diputacion-toledo-20260912125247-nt.html",
-      "desc": "Cobeja cuenta ya con una renovada plaza de la Constitución, después de la actuación impulsada por el Ayuntamiento con el apoyo de la Diputación de Toledo. El vicepresidente de la institución provincial, Jesús Guerrero, y el alcalde de la localidad, José Luis A",
-      "date": "Sat, 12 Sep 2026 12:52:47 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Los secretos que aún esconden los muros de la Casa del Temple de Toledo",
-      "link": "https://www.abc.es/espana/castilla-la-mancha/toledo/secretos-esconden-muros-casa-temple-toledo-20260912124844-nt.html",
-      "desc": "Hay edificios de Toledo que cuentan su historia a primera vista y otros que obligan a mirar dos veces. La Casa del Temple pertenece a estos últimos. Detrás de sus muros se esconden distintas viviendas, reformas, cambios de propietarios y hasta una antigua casa",
-      "date": "Sat, 12 Sep 2026 12:48:44 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "El campus de la Politécnica de Valencia en China arranca con casi 400 estudiantes",
-      "link": "https://www.abc.es/espana/comunidad-valenciana/campus-politecnica-valencia-china-arranca-400-estudiantes-20260912123848-nt.html",
-      "desc": "El Beihang Valencia Polytechnic Institute (BVPI), el campus internacional de la Universitat Politècnica de València (UPV) en China, celebrará su inauguración institucional el próximo 19 de septiembre. El centro inicia su primer curso académico en estas instala",
-      "date": "Sat, 12 Sep 2026 12:38:49 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Fallece el exalcalde de Aranda (Burgos) Ángel Guerra a los 76 años",
-      "link": "https://www.abc.es/espana/castilla-leon/fallece-exalcalde-aranda-burgos-angel-guerra-anos-20260912123329-nt.html",
-      "desc": "Ángel Guerra, quien fuera alcalde bajo las siglas del PP de Aranda de Duero (Burgos) entre 2003 y 2007, ha fallecido a los 76 años. Las honras fúnebres tendrán lugar este domingo, 12 de septiembre, a las 13.15 horas en el tanatorio de la Funeraria San José de ",
-      "date": "Sat, 12 Sep 2026 12:33:29 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Deja su vida en Valencia para mudarse con sus cinco hijos a un pueblo de Teruel y sentencia: «Cumplimos las expectativas y aquí seguimos»",
-      "link": "https://www.abc.es/espana/comunidad-valenciana/deja-vida-valencia-para-mudarse-cinco-hijos-pueblo-teruel-20260912123000-nt.html",
-      "desc": "En las últimas décadas, la falta de oportunidades laborales, servicios básicos e infraestructuras ha ido mermando a los pequeños hábitats rurales de nuestro país. Son muchos los que, desde hace unos años, han decidido dejar su vida en estas zonas, comúnmente l",
-      "date": "Sat, 12 Sep 2026 12:30:00 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Jueces y fiscales progresistas recuerdan al Supremo que sólo se puede privar del voto en casos con “evidencia palmaria”",
-      "link": "https://www.lavanguardia.com/politica/20260912/11633239/jueces-fiscales-recuerdan-supremo-solo-privar-voto-casos-evidencia-palmaria.html",
-      "desc": "El ministro de Justicia, Félix Bolaños, considera el auto como “muy discutible jurídicamente” y pide que el TS “resuelva este tema antes de las elecciones de 2027”",
-      "date": "12 Sep 2026 11:53:23 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
       "caso": "other"
     }
   ]
