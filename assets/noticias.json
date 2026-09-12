@@ -1,7 +1,187 @@
 {
-  "updated": "2026-09-12T16:40:57Z",
+  "updated": "2026-09-12T20:04:35Z",
   "count": 24,
   "items": [
+    {
+      "title": "Aprobado general",
+      "link": "https://www.abc.es/espana/castilla-leon/aprobado-general-20260911214220-nt.html",
+      "desc": "No tengo ni idea de lo que habrá costado el informe PISA pero para ese viaje no hacían falta alforjas. En España ya no comprendemos lo que leemos y eso es lo mismo que decir que no nos entendemos. Es paradójico que los peores resultados en nuestro país coincid",
+      "date": "Sat, 12 Sep 2026 21:42:20 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Queso, tierra y tradición",
+      "link": "https://www.abc.es/espana/castilla-leon/queso-tierra-tradicion-20260912214200-nt.html",
+      "desc": "Zamora se prepara para su gran feria internacional del queso. Aquí, cuando se trata de queso, no hace falta demasiada ceremonia. Basta con abrir una puerta, cortar una cuña y disfrutarla. Es nuestro Fromago cotidiano. Más de tres kilómetros de puestos al aire ",
+      "date": "Sat, 12 Sep 2026 21:42:00 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "María Pardo:  «Hay una emergencia nacional en la educación»",
+      "link": "https://www.abc.es/espana/castilla-leon/maria-pardo-emergencia-nacional-comprension-lectora-20260909213511-nt.html",
+      "desc": "Tres meses lleva en el cargo como consejera de Educación María Pardo y ya tiene sobre la mesa los resultados de un informe educativo de referencia: el PISA. Unos datos que demuestran una bajada generalizada en España, pero también en Castilla y León, aunque se",
+      "date": "Sat, 12 Sep 2026 21:35:11 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "El Cajasol Ángel Ximénez se cobra la revancha sobre la bocina en su estreno liguero ante el Proin Sevilla (30-31)",
+      "link": "https://www.abc.es/espana/andalucia/cordoba/cajasol-angel-ximenez-cobra-revancha-sobre-bocina-20260912211328-nts.html",
+      "desc": "La Copa Andalucía todavía escocía y el Cajasol Ángel Ximénez encontró la mejor manera de cerrar aquella herida. Apenas unos días después de caer ante el Proin Sevilla , el conjunto pontano devolvió el golpe en el estreno liguero con una victoria de enorme cará",
+      "date": "Sat, 12 Sep 2026 21:13:28 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Herido un joven de 17 años por arma blanca en una multitudinaria pelea en un parque de Salamanca",
+      "link": "https://www.abc.es/espana/castilla-leon/herido-joven-anos-arma-blanca-multitudinaria-pelea-20260912211112-nt.html",
+      "desc": "Un joven de 17 años ha resultado herido por arma blanca en un brazo durante una pelea multitudinaria registrada este sábado en el Parque de la Aldehuela de Salamanca, según ha informado el Centro de Emergencias 112 de Castilla y León. Los hechos han ocurrido s",
+      "date": "Sat, 12 Sep 2026 21:11:30 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Una historia sobre el cuerpo de las mujeres en el campo de batalla gana el León de Oro en Venecia",
+      "link": "https://www.lavanguardia.com/cultura/20260912/11633377/historia-sobre-cuerpo-mujeres-campo-batalla-gana-leon-oro-venecia.html",
+      "desc": "La única directora en la Mostra, May el-Toukhy, se lleva el máximo premio con este filme sobre la persecución de las jóvenes danesas que se acostaron con soldados nazis durante la ocupación",
+      "date": "12 Sep 2026 20:59:03 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
+    {
+      "title": "John Malkovich gana la Copa Volpi a mejor actor por su papel de agente desencantado de la CIA",
+      "link": "https://www.lavanguardia.com/cultura/20260912/11633364/john-malkovich-gana-copa-volpi-mejor-actor-papel-agente-desencantado-cia.html",
+      "desc": "El actor estadounidense calienta motores de cara a los Oscar con su interpretación en 'Wilde Horse Nine'",
+      "date": "12 Sep 2026 20:46:34 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
+    {
+      "title": "Stephen Fry alerta contra la IA, el nuevo fuego de Prometeo que quizás acabará con los humanos",
+      "link": "https://www.lavanguardia.com/cultura/20260912/11633366/stephen-fry-alerta-ia-nuevo-fuego-prometeo-quizas-acabara-humanos.html",
+      "desc": "El erudito británico deslumbra en el Hay de Segovia con una charla sobre mitos, cultura y apocalipsis",
+      "date": "12 Sep 2026 20:30:03 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
+    {
+      "title": "El profesorado valenciano vuelve a las calles y exige a la Generalitat que retome la negociación",
+      "link": "https://www.abc.es/espana/comunidad-valenciana/profesorado-valenciano-vuelve-calles-exige-generalitat-retome-20260912202124-nt.html",
+      "desc": "Una multitudinaria manifestación, la primera tras iniciarse el nuevo curso escolar, ha recorrido este sábado las calles del centro de Valencia para reclamar a la Generalitat mejoras en el sistema educativo público. La protesta, en la que han participado cerca ",
+      "date": "Sat, 12 Sep 2026 20:21:24 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Ximo Puig y Gabriela Bravo se casan en la playa de Oliva",
+      "link": "https://www.abc.es/espana/comunidad-valenciana/ximo-puig-gabriela-bravo-boda-playa-20260912200816-nt.html",
+      "desc": "El ex presidente de la Generalitat Ximo Puig, y la fiscal y ex consellera de Justicia valenciana Gabriela Bravo han contraído matrimonio este sábado al mediodía en una ceremonia civil en la localidad de Oliva. Al enlace, celebrado la terraza de un restaurante ",
+      "date": "Sat, 12 Sep 2026 20:08:49 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "La cumbre de los Brics condena “cualquier acto unilateral de guerra” en la Declaración de Delhi",
+      "link": "https://www.lavanguardia.com/internacional/20260912/11633357/cumbre-brics-condena-acto-unilateral-guerra.html",
+      "desc": "Putin, Modi y Xi le echan un cable al presidente iraní, Masud Pezeshkian&nbsp;",
+      "date": "12 Sep 2026 19:42:58 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
+    {
+      "title": "Casa do Açaí Barcelona convierte el superalimento de Neymar y Vinícius en un negocio",
+      "link": "https://www.abc.es/espana/cataluna/casa-acai-barcelona-convierte-superalimento-neymar-vinicius-20260912193039-nt.html",
+      "desc": "Cuando los brasileños André Pedroso y Pedro Artur comenzaron a comercializar açaí en España, hace más de quince años, casi nadie fuera de la comunidad brasileña sabía qué era aquella pequeña baya de intenso color morado procedente de la Amazonia. Los dos empre",
+      "date": "Sat, 12 Sep 2026 19:30:40 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "El cordobés que construyó el primer puente sobre el Tajo de Ronda y acabó derrumbándose",
+      "link": "https://www.abc.es/espana/andalucia/cordoba/cordobes-construyo-primer-puente-sobre-tajo-ronda-20260912193004-nts.html",
+      "desc": "Mucho antes de que el Puente Nuevo se convirtiera en uno de los grandes símbolos de Ronda hubo otro puente sobre su impresionante tajo, una garganta excavada por el río Guadalevín; uno apenas conocido y del que no quedaron registros gráficos. Detrás de aquella",
+      "date": "Sat, 12 Sep 2026 19:30:05 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Bellingham marca el tercero del Real Madrid ante el Rayo Vallecano en el Bernabéu (3-0)",
+      "link": "https://www.lavanguardia.com/deportes/futbol/20260912/11633238/real-madrid-rayo-vallecanp-laliga-ea-sports-partido-futbol-hoy-en-directo.html",
+      "desc": "",
+      "date": "12 Sep 2026 19:26:25 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
+    {
+      "title": "La mejor fiesta de pueblo de España está en Barcelona: baile, fuego y más de cinco siglos de historia",
+      "link": "https://www.abc.es/espana/cataluna/mejor-fiesta-pueblo-espana-barcelona-baile-fuego-20260912190729-nt.html",
+      "desc": "Las fiestas populares son tradiciones muy arraigadas que reúnen a vecinos, amigos y familiares durante días y noches. Suelen ser más habituales durante los meses de verano, en los que acompaña el buen tiempo para salir a las plazas y calles de las localidades ",
+      "date": "Sat, 12 Sep 2026 19:07:29 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Galicia encara el nuevo curso con casi mil docentes más pese a la caída del alumnado",
+      "link": "https://www.abc.es/espana/galicia/aulas-gallegas-encaran-curso-mil-docentes-20260912190041-nt.html",
+      "desc": "El sistema educativo público gallego arranca el curso con 32.712 docentes, una cifra récord que supone 956 profesionales más que el año pasado y más de 1.600 incorporaciones en los tres últimos ejercicios. Así lo ha destacado este viernes el conselleiro de Edu",
+      "date": "Sat, 12 Sep 2026 19:00:41 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Córdoba CF - Almería en directo: resumen, goles y minuto a minuto del partido de Segunda División 2026-2027",
+      "link": "https://www.abc.es/espana/andalucia/cordoba/cordoba-cf/cordoba-almeria-directo-resumen-goles-minuto-minuto-20260912185237-dis.html",
+      "desc": "Un derbi andaluz de necesidades dispares. El Córdoba CF y el Almería protagonizan un vibrante duelo territorial en El Arcángel que va más allá de los tres puntos. El conjunto blanquiverde ha protagonizado liguero con más sombras que luces para sumar únicamente",
+      "date": "Sat, 12 Sep 2026 18:52:38 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "El Córdoba Patrimonio de la Humanidad arranca la temporada con un duro correctivo ante El Ejido (4-1)",
+      "link": "https://www.abc.es/espana/andalucia/cordoba/cordoba-patrimonio-humanidad-arranca-temporada-duro-correctivo-20260912184307-nts.html",
+      "desc": "El Córdoba Patrimonio de la Humanidad arrancó su periplo en la Liga Prime Futsal con un duro revés. El conjunto blanquiverde no pudo hacer valer su condición de favorito ante El Ejido, equipo recién ascendido, y comenzó el Trofeo de Apertura con mucho trabajo ",
+      "date": "Sat, 12 Sep 2026 18:43:07 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
     {
       "title": "Alerta en Vigo por una supuesta banda de agresores encapuchados",
       "link": "https://www.abc.es/espana/galicia/alerta-vigo-supuesta-banda-agresores-encapuchados-20260912183000-nt.html",
@@ -10,6 +190,16 @@
       "source": "ABC",
       "color": "#c0392b",
       "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "La comunidad educativa valenciana vuelve a salir a la calle tres días después del inicio de curso",
+      "link": "https://www.lavanguardia.com/local/valencia/20260912/11633302/comunidad-educativa-valenciana-vuelve-salir-calle-tres-dias-inicio-curso.html",
+      "desc": "Los manifestantes piden la dimisión de la consellera de Educación por las calles de València, Alicante y Castelló",
+      "date": "12 Sep 2026 18:24:50 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
       "caso": "other"
     },
     {
@@ -47,196 +237,6 @@
       "link": "https://www.abc.es/espana/andalucia/cordoba/vecinos-canada-plata-puente-genil-exigen-solucion-20260912175316-nts.html",
       "desc": "Los vecinos de la urbanización La Cañada de la Plata, en Puente Genil , han alzado la voz para reclamar una solución definitiva al cruce de acceso a la zona desde la carretera A-318. La asociación vecinal ha celebrado una concentración para reclamar mayor segu",
       "date": "Sat, 12 Sep 2026 17:53:16 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Sánchez vuelve a sus recomendaciones en TikTok con el debate de si hay que controlar la IA: «Estos días he leído un libro sobre esta cuestión»",
-      "link": "https://www.abc.es/espana/sanchez-vuelve-recomendaciones-tiktok-sobre-debate-controlar-20260912173359-nt.html",
-      "desc": "Pedro Sánchez ha vuelto a compartir sus habituales recomendaciones de música y lectura en TikTok. El presidente del Gobierno ha incrementado su presencia en esta red social en los últimos meses, en una estrategia comunicativa basada en videos más informales y ",
-      "date": "Sat, 12 Sep 2026 17:46:08 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Fallece una mujer tras la colisión de un turismo y una motocicleta en Casillas de Ranera (Cuenca)",
-      "link": "https://www.abc.es/espana/castilla-la-mancha/fallece-mujer-tras-colision-turismo-motocicleta-casillas-20260912173356-nt.html",
-      "desc": "Una mujer de 50 años ha fallecido este sábado tras la colisión de un turismo y una motocicleta en el kilómetro 217 de la N-330 a su paso por Casillas de Ranera , pedanía del municipio conquense de Talayuelas. Según han informado a ABC fuentes del Servicio de E",
-      "date": "Sat, 12 Sep 2026 17:33:56 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "WhatsApp, coches y un «topo» en el explosivo pleno de Torralba de Calatrava",
-      "link": "https://www.abc.es/espana/castilla-la-mancha/whatsapp-coches-topo-explosivo-pleno-torralba-calatrava-20260912172509-nt.html",
-      "desc": "En Torralba de Calatrava el pleno municipal de septiembre vino con algo más que el habitual orden del día. Hubo reproches por la fecha de la sesión, una concejala que abandona el equipo de Gobierno, acusaciones cruzadas de mentir , conversaciones privadas de W",
-      "date": "Sat, 12 Sep 2026 17:25:10 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "La Sagra 0,0 Tostada, mejor cerveza lager 0,0 de España en los World Beer Awards 2026",
-      "link": "https://www.abc.es/espana/castilla-la-mancha/toledo/sagra-tostada-mejor-cerveza-lager-espana-world-20260912172348-nt.html",
-      "desc": "Cerveza La Sagra vuelve a situarse entre las grandes referencias del sector cervecero español. Este año, La Sagra 0,0 Tostada ha sido reconocida como la mejor cerveza lager de España en la categoría No &amp; Low Alcohol de los World Beer Awards 2026 , alzándos",
-      "date": "Sat, 12 Sep 2026 17:23:49 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "El PSCL lamenta que Mañueco esté «permanentemente mirando con el retrovisor al mandato de Madrid»",
-      "link": "https://www.abc.es/espana/castilla-leon/pscl-lamenta-manueco-permanentemente-mirando-retrovisor-mandato-20260912172058-nt.html",
-      "desc": "El secretario general del PSOE de Castilla y León, Carlos Martínez, cargaba este sábado contra los «ritmos» de trabajo del presidente de la Junta y del PP de Castilla y León, Alfonso Fernández Mañueco, al que afeaba que tras nueve meses sin sesiones de control",
-      "date": "Sat, 12 Sep 2026 17:20:59 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Norris pone su nombre a la primera 'pole' del circuito de Madring",
-      "link": "https://www.lavanguardia.com/deportes/20260912/11633318/f1-formula-1-gp-espana-qualy-clasificacion-parrilla-pole-antonelli-leclerc-alonso-sainz.html",
-      "desc": "El vigente campeón del mundo superó por solo 11 milésimas de segundo a Kimi Antonelli, el favorito",
-      "date": "12 Sep 2026 17:18:53 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "El CEO de Anthropic pide bajar el ritmo en el desarrollo de la IA",
-      "link": "https://www.lavanguardia.com/vida/20260912/11633315/director-ejecutivo-anthropic-afirma-hora-ralentizar-ritmo-mejora-modelos-ia.html",
-      "desc": "Amodei cita la capacidad de la IA para auto-mejorarse y el reciente incidente entre OpenAI y Hugging Face, donde un grupo de agentes artificiales formó secretamente una alianza para atacar objetivos no asignados",
-      "date": "12 Sep 2026 17:18:36 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "Suspendida la circulación de trenes entre La Palma y Escacena por un incendio",
-      "link": "https://www.abc.es/espana/andalucia/huelva/suspendida-circulacion-trenes-palma-escacena-incendio-20260912171741-nts.html",
-      "desc": "La circulación ferroviaria entre los municipios onubenses de La Palma del Condado y Escacena ha tenido que ser suspendida este sábado debido a la presencia de un incendio próximo a la infraestructura, que afecta a los trenes que conectan Huelva con Sevilla. Se",
-      "date": "Sat, 12 Sep 2026 17:17:42 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Juzgan en Santiago a cuatro acusados de explotar sexualmente a una mujer",
-      "link": "https://www.abc.es/espana/galicia/juzgan-santiago-cuatro-acusados-explotar-sexualmente-mujer-20260912170018-nt.html",
-      "desc": "La sección sexta de la Audiencia Provincial de La Coruña, con sede en Santiago, juzgará la próxima semana a cuatro personas acusadas de traer a España bajo engaños a una mujer colombiana y de retenerla obligándola a ejercer la prostitución para devolver una su",
-      "date": "Sat, 12 Sep 2026 17:00:18 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "'Palcos' improvisados en áticos y árboles y sonómetros vigilantes tras la valla del Madring",
-      "link": "https://www.abc.es/espana/madrid/divide-vecinos-madring-puede-vivir-frente-solo-20260912165838-nt.html",
-      "desc": "Para algunos vecinos de Valdebebas, la F1 es una oportunidad para Madrid y una molestia asumible durante tres días. Para otros, el Gran Premio es la culminación de más de un año de obras, ruido y una transformación del barrio que, aseguran, ha cambiado el luga",
-      "date": "Sat, 12 Sep 2026 16:58:38 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Ayuso carga contra la cobertura de la F1 en TVE: “Está haciendo lo imposible por deslucir el éxito de este evento”",
-      "link": "https://www.lavanguardia.com/local/madrid/20260912/11633310/ayuso-carga-cobertura-f1-tve-esta-haciendo-imposible-deslucir-exito-evento.html",
-      "desc": "La presidenta de la Comunidad de Madrid acusa a la cadena pública de estar “al servicio del Gobierno”",
-      "date": "12 Sep 2026 16:51:36 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "Ayuso protesta contra TVE por la F1 en Madrid: «Avergüenza su cobertura, está haciendo lo imposible por deslucir el éxito»",
-      "link": "https://www.abc.es/espana/madrid/ayuso-protesta-tve-madrid-averguenza-cobertura-haciendo-20260912163855-nt.html",
-      "desc": "La presidenta de la Comunidad de Madrid, Isabel Díaz Ayuso, ha utilizado las redes sociales para cargar contra TVE por su cobertura del Gran Premio de España de Fórmula 1 en el circuito de Madring. 'El gran circo' de la Fórmula 1 regresa a Madrid después de 45",
-      "date": "Sat, 12 Sep 2026 16:38:56 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Las mejores imágenes del circuito Madring",
-      "link": "https://www.lavanguardia.com/deportes/20260912/11633289/madrid-recupera-f-1-luces-sombras.html",
-      "desc": "La Comunidad habla de un impacto para la ciudad de 460 millones pero los vecinos se quejan del ruido",
-      "date": "12 Sep 2026 16:33:29 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "Afronta quince años de cárcel por apuñalar a la pareja de su exnovia",
-      "link": "https://www.abc.es/espana/galicia/afronta-quince-anos-carcel-apunalar-pareja-exnovia-20260912150000-nt.html",
-      "desc": "Un joven acusado de amenazar y agredir a su exnovia, así como de acuchillar a la pareja de esta en plena calle en Lugo, se enfrentará a penas que ascienden a 15 años de prisión durante el juicio que tendrá lugar el próximo martes. Los hechos ocurrieron en juli",
-      "date": "Sat, 12 Sep 2026 15:00:00 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Núñez afirma que «en la caza mandarán los cazadores» y que su Gobierno les dará protagonismo",
-      "link": "https://www.abc.es/espana/castilla-la-mancha/nunez-afirma-caza-mandaran-cazadores-gobierno-dara-20260912145718-nt.html",
-      "desc": "El presidente del Partido Popular de Castilla-La Mancha, Paco Núñez, ha asegurado este sábado, que « en la caza van a mandar los cazadores » y ha avanzado que el futuro Gobierno del Partido Popular dará al sector cinegético «el protagonismo que merece», situán",
-      "date": "Sat, 12 Sep 2026 14:58:17 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Víctimas y familiares de fallecidos del accidente de Adamuz participarán en un acto en el Congreso",
-      "link": "https://www.abc.es/espana/andalucia/victimas-familiares-fallecidos-accidente-adamuz-participaran-acto-20260912142835-nts.html",
-      "desc": "La Asociación de Víctimas del Descarrilamiento de Adamuz y la Fundación A20 Seguridad Aérea, que dará continuidad a la AVJK5022, han organizado el primero encuentro de asociaciones de víctimas y afectados en los modos de transporte que lleva por título 'Voces ",
-      "date": "Sat, 12 Sep 2026 14:29:37 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "El PP valenciano exhibe unidad a la espera de Génova para el «esprint» electoral",
-      "link": "https://www.abc.es/espana/comunidad-valenciana/pp-valenciano-inicio-curso-electoral-20260912135301-nt.html",
-      "desc": "El mensaje de Génova ha sido claro: ante la situación nacional, lo orgánico puede esperar. De momento, unidad. Y el PP de la Comunidad Valenciana la exhibió en su cena de inicio de curso este viernes, con sus principales cargos reunidos ante 1.500 personas. El",
-      "date": "Sat, 12 Sep 2026 14:24:50 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "El ponente del primer amparo de la amnistía en el TC propone desestimar el recurso de Turull",
-      "link": "https://www.abc.es/espana/ponente-primer-amparo-amnistia-tc-propone-desestimar-20260912142230-nt.html",
-      "desc": "El ponente del primer recurso de amparo sobre la amnistía que verá el Tribunal Constitucional (TC) en el Pleno del próximo 22 de septiembre propone desestimarlo al considerar que la interpretación del delito de malversación que llevó al Supremo a inaplicar la ",
-      "date": "Sat, 12 Sep 2026 14:22:31 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Crisis en Ceuta, en directo: dimisión del jefe de gabinete del delegado de Gobierno, reacción del Ejecutivo y últimas noticias hoy",
-      "link": "https://www.abc.es/espana/crisis-ceuta-directo-gobierno-sanchez-desclasifica-documentos-20260909084139-di.html",
-      "desc": "Sigue en directo todas las noticias de la crisis migratoria en Ceuta, la dimisión del jefe de gabinete del delegado de Gobierno, las reacciones del Ejecutivo y ultimas noticias hoy. La ciudad autónoma, que lleva más de 40 días bajo presión, continúa dando acog",
-      "date": "Sat, 12 Sep 2026 13:49:50 +0200",
       "source": "ABC",
       "color": "#c0392b",
       "feedId": "ABC",
