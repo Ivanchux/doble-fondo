@@ -1,7 +1,87 @@
 {
-  "updated": "2026-09-12T23:39:44Z",
+  "updated": "2026-09-13T02:46:18Z",
   "count": 24,
   "items": [
+    {
+      "title": "La exministra Laya entregó a Bolaños su teléfono hackeado tras la crisis con Marruecos por el caso Gali",
+      "link": "https://www.abc.es/espana/exministra-laya-entrego-bolanos-telefono-hackeado-tras-20260912020537-nt.html",
+      "desc": "Ocurrió en abril de 2021. La entonces ministra de Exteriores, Arancha González Laya, fue la primera que sospechó sobre una posible infección en su teléfono móvil . Personal del Ministerio confirmó la intrusión y, siguiendo el protocolo, acudió a La Moncloa par",
+      "date": "Sun, 13 Sep 2026 02:05:37 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Las declaraciones de la cúpula de Plus Ultra siembran la sospecha de que Zapatero cobró más comisiones tras el rescate",
+      "link": "https://www.abc.es/espana/declaraciones-cupula-plus-ultra-siembran-sospecha-zapatero-20260913020528-nt.html",
+      "desc": "Las declaraciones que prestaron esta semana como investigados en la Audiencia Nacional el expresidente de Plus Ultra, Julio Martínez Sola, y el exconsejero delegado de la aerolínea de capital venezolano rescatada por el Gobierno en marzo de 2021, Roberto Rosel",
+      "date": "Sun, 13 Sep 2026 02:05:28 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "zap"
+    },
+    {
+      "title": "Las tumbas sin nombre de El Tarajal",
+      "link": "https://www.abc.es/espana/tumbas-nombre-tarajal-20260913020518-nt.html",
+      "desc": "Una máquina excavadora amarilla y ruidosa muerde la roca de Ceuta para hacer hueco a más muertos . Trabaja a destajo en la ampliación del cementerio musulmán de Sidi M'Barek, que se quedó pequeño después de la avalancha de cuerpos ahogados del asalto del Taraj",
+      "date": "Sun, 13 Sep 2026 02:05:18 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "El choque entre Moncloa y el CNI, el último enfrentamiento de Sánchez con otras instituciones del Estado",
+      "link": "https://www.abc.es/espana/choque-moncloa-cni-ultimo-enfrentamiento-sanchez-instituciones-20260913020507-nt.html",
+      "desc": "Lo ocurrido en Ceuta los días 30 y 31 de julio ha abierto una nueva grieta en el Gobierno a cuenta de si hubo o no hubo avisos. La Moncloa, con el objetivo de defenderse, y en un gesto poco habitual en otros gobiernos, ha optado por señalar al Centro Nacional ",
+      "date": "Sun, 13 Sep 2026 02:05:07 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "La colaboración de Marruecos y la responsabilidad por no vigilar la frontera, claves de la causa sobre la invasión",
+      "link": "https://www.abc.es/espana/colaboracion-marruecos-responsabilidad-vigilar-frontera-claves-causa-20260912020457-nt.html",
+      "desc": "La causa que acaba de abrir la juez de la Audiencia Nacional María Tardón para investigar la entrada masiva en Ceuta los días 30 y 31 de julio avanza a la vez que el Gobierno empieza a depurar responsabilidades y a exhibir una transparencia ante los ciudadanos",
+      "date": "Sun, 13 Sep 2026 02:04:57 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "gen"
+    },
+    {
+      "title": "Control de emociones para no perder capacidad de combate: los pasos que pueden salvar la vida a un militar en el campo de batalla",
+      "link": "https://www.abc.es/espana/sacar-alguien-ataque-estres-agudo-cinco-pasos-20260913020446-nt.html",
+      "desc": "Zona de combate. Una unidad tiene orden de entrar en una vivienda en la que se ha detectado la presencia de terroristas. Los militares ocupan sus posiciones. Pero de repente, mirada perdida, confusión, sudoración, temblores… Uno de los soldados está experiment",
+      "date": "Sun, 13 Sep 2026 02:04:46 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Angrois: 80 muertos, 13 años de proceso y un polémico indulto",
+      "link": "https://www.abc.es/espana/galicia/angrois-muertos-trece-anos-proceso-acabar-prision-20260909020436-nt.html",
+      "desc": "Uno de los accidentes ferroviarios más graves de la democracia puede terminar sin nadie entre rejas. La tarde del 24 de julio de 2013, un tren Alvia que circulaba a más del doble de la velocidad permitida descarriló en una curva a las puertas de Santiago de Co",
+      "date": "Sun, 13 Sep 2026 02:04:36 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Un vocal del bloque progresista del CGPJ acusa a sus compañeros de «subordinación» a Bolaños",
+      "link": "https://www.abc.es/espana/vocal-bloque-progresista-cgpj-acusa-companeros-subordinacion-20260912020422-nt.html",
+      "desc": "El vocal Carlos Hugo Preciado, propuesto por Sumar y adscrito ideológicamente al llamado bloque progresista del Consejo General del Poder Judicial, acusa a sus compañeros de «subordinación» al ministro Félix Bolaños. En un contundente escrito al que ha tenido ",
+      "date": "Sun, 13 Sep 2026 02:04:22 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
     {
       "title": "Madrid entre 45 años: lo que hemos cambiado desde la última vez que vino la F1",
       "link": "https://www.abc.es/espana/madrid/madrid-anos-cambiado-ultima-vez-vino-20260912013201-nt.html",
@@ -83,9 +163,9 @@
       "caso": "other"
     },
     {
-      "title": "El Córdoba CF manda sin morder y el Almería castiga sus errores (0-2)",
+      "title": "El Córdoba manda sin morder y sigue agrandando sus dudas ante el Almería (0-2)",
       "link": "https://www.abc.es/espana/andalucia/cordoba/cordoba-cf/cordoba-manda-morder-almeria-castiga-errores-20260912233145-dis.html",
-      "desc": "Un constante quiero y no puedo. El Córdoba CF dio una falsa sensación de dominio durante muchos minutos a un Almería al que logró contener, pero volvió a mostrarse demasiado plano en ataque y acabó pagando sus errores. Los de Iván Ania tuvieron más balón y lle",
+      "desc": "Un constante quiero y no puedo. El Córdoba CF dio una falsa sensación de dominio durante muchos minutos a un Almería al que logró contener, pero volvió a mostrarse demasiado plano en ataque y acabó pagando sus errores (0-2). Los de Iván Ania tuvieron más balón",
       "date": "Sat, 12 Sep 2026 23:31:45 +0200",
       "source": "ABC",
       "color": "#c0392b",
@@ -143,36 +223,6 @@
       "caso": "other"
     },
     {
-      "title": "María Pardo:  «Hay una emergencia nacional en la educación»",
-      "link": "https://www.abc.es/espana/castilla-leon/maria-pardo-emergencia-nacional-comprension-lectora-20260909213511-nt.html",
-      "desc": "Tres meses lleva en el cargo como consejera de Educación María Pardo y ya tiene sobre la mesa los resultados de un informe educativo de referencia: el PISA. Unos datos que demuestran una bajada generalizada en España, pero también en Castilla y León, aunque se",
-      "date": "Sat, 12 Sep 2026 21:35:11 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "El Cajasol Ángel Ximénez se cobra la revancha sobre la bocina en su estreno liguero ante el Proin Sevilla (30-31)",
-      "link": "https://www.abc.es/espana/andalucia/cordoba/cajasol-angel-ximenez-cobra-revancha-sobre-bocina-20260912211328-nts.html",
-      "desc": "La Copa Andalucía todavía escocía y el Cajasol Ángel Ximénez encontró la mejor manera de cerrar aquella herida. Apenas unos días después de caer ante el Proin Sevilla , el conjunto pontano devolvió el golpe en el estreno liguero con una victoria de enorme cará",
-      "date": "Sat, 12 Sep 2026 21:13:28 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Herido un joven de 17 años por arma blanca en una multitudinaria pelea en un parque de Salamanca",
-      "link": "https://www.abc.es/espana/castilla-leon/herido-joven-anos-arma-blanca-multitudinaria-pelea-20260912211112-nt.html",
-      "desc": "Un joven de 17 años ha resultado herido por arma blanca en un brazo durante una pelea multitudinaria registrada este sábado en el Parque de la Aldehuela de Salamanca, según ha informado el Centro de Emergencias 112 de Castilla y León. Los hechos han ocurrido s",
-      "date": "Sat, 12 Sep 2026 21:11:30 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
       "title": "Una historia sobre el cuerpo de las mujeres en el campo de batalla gana el León de Oro en Venecia",
       "link": "https://www.lavanguardia.com/cultura/20260912/11633377/historia-sobre-cuerpo-mujeres-campo-batalla-gana-leon-oro-venecia.html",
       "desc": "La única directora en la Mostra, May el-Toukhy, se lleva el máximo premio con este filme sobre la persecución de las jóvenes danesas que se acostaron con soldados nazis durante la ocupación",
@@ -190,56 +240,6 @@
       "source": "La Vanguardia",
       "color": "#8e44ad",
       "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "Stephen Fry alerta contra la IA, el nuevo fuego de Prometeo que quizás acabará con los humanos",
-      "link": "https://www.lavanguardia.com/cultura/20260912/11633366/stephen-fry-alerta-ia-nuevo-fuego-prometeo-quizas-acabara-humanos.html",
-      "desc": "El erudito británico deslumbra en el Hay de Segovia con una charla sobre mitos, cultura y apocalipsis",
-      "date": "12 Sep 2026 20:30:03 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "El profesorado valenciano vuelve a las calles y exige a la Generalitat que retome la negociación",
-      "link": "https://www.abc.es/espana/comunidad-valenciana/profesorado-valenciano-vuelve-calles-exige-generalitat-retome-20260912202124-nt.html",
-      "desc": "Una multitudinaria manifestación, la primera tras iniciarse el nuevo curso escolar, ha recorrido este sábado las calles del centro de Valencia para reclamar a la Generalitat mejoras en el sistema educativo público. La protesta, en la que han participado cerca ",
-      "date": "Sat, 12 Sep 2026 20:21:24 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Ximo Puig y Gabriela Bravo se casan en la playa de Oliva",
-      "link": "https://www.abc.es/espana/comunidad-valenciana/ximo-puig-gabriela-bravo-boda-playa-20260912200816-nt.html",
-      "desc": "El ex presidente de la Generalitat Ximo Puig, y la fiscal y ex consellera de Justicia valenciana Gabriela Bravo han contraído matrimonio este sábado al mediodía en una ceremonia civil en la localidad de Oliva. Al enlace, celebrado la terraza de un restaurante ",
-      "date": "Sat, 12 Sep 2026 20:08:49 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "La cumbre de los Brics condena “cualquier acto unilateral de guerra” en la Declaración de Delhi",
-      "link": "https://www.lavanguardia.com/internacional/20260912/11633357/cumbre-brics-condena-acto-unilateral-guerra.html",
-      "desc": "Putin, Modi y Xi le echan un cable al presidente iraní, Masud Pezeshkian&nbsp;",
-      "date": "12 Sep 2026 19:42:58 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "Casa do Açaí Barcelona convierte el superalimento de Neymar y Vinícius en un negocio",
-      "link": "https://www.abc.es/espana/cataluna/casa-acai-barcelona-convierte-superalimento-neymar-vinicius-20260912193039-nt.html",
-      "desc": "Cuando los brasileños André Pedroso y Pedro Artur comenzaron a comercializar açaí en España, hace más de quince años, casi nadie fuera de la comunidad brasileña sabía qué era aquella pequeña baya de intenso color morado procedente de la Amazonia. Los dos empre",
-      "date": "Sat, 12 Sep 2026 19:30:40 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
       "caso": "other"
     }
   ]
