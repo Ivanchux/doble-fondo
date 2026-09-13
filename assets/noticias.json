@@ -1,7 +1,167 @@
 {
-  "updated": "2026-09-13T18:28:57Z",
+  "updated": "2026-09-13T22:01:45Z",
   "count": 24,
   "items": [
+    {
+      "title": "Heridos varios narcos tras chocar su embarcación con una patrullera de la Guardia Civil en Adra, en Almería",
+      "link": "https://www.abc.es/espana/andalucia/almeria/heridos-varios-narcos-tras-chocar-embarcacion-patrullera-20260913230359-nts.html",
+      "desc": "La costa de Adra ha sido el escenario de un violento encontronazo entre las mafias del narcotráfico y las Fuerzas de Seguridad. Cinco personas han sido detenidas en la mañana de este domingo tras colisionar una narcolancha dedicada al petaqueo contra una patru",
+      "date": "Sun, 13 Sep 2026 23:03:59 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Un incendio en Benahavís deja 50 desalojados, tres heridos y un pueblo confinado en Málaga",
+      "link": "https://www.abc.es/espana/andalucia/malaga/incendio-benahavis-deja-desalojados-tres-heridos-pueblo-20260913220853-nts.html",
+      "desc": "Cincuenta desalojados, todo un pueblo confinado y tres heridos. Ese es el saldo que deja por el momento el incendio forestal que a mediodía de este domingo se declaró en el municipio malagueño de Benahavís , situado en un terreno montañoso de la Costa del Sol ",
+      "date": "Sun, 13 Sep 2026 22:13:52 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "La Junta asegura que el proyecto para acabar con el peligroso acceso a La Cañada de la Plata de Puente Genil está «muy avanzado»",
+      "link": "https://www.abc.es/espana/andalucia/cordoba/junta-asegura-proyecto-acabar-peligroso-acceso-canada-20260913220611-nts.html",
+      "desc": "La Junta de Andalucía ha salido al paso de las reivindicaciones de los vecinos de La Cañada de la Plata, en Puente Genil , y asegura que la solución para mejorar la seguridad del acceso a la urbanización desde la carretera A-318 se encuentra ya en una fase ava",
+      "date": "Sun, 13 Sep 2026 22:06:12 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Pondal, ninguneado",
+      "link": "https://www.abc.es/espana/galicia/pondal-ninguneado-20260913220003-nt.html",
+      "desc": "A mí que me lo expliquen. Que alguien me diga qué razones asisten a quienes llevan varios años resistiéndose a la rectificación de la letra del himno gallego para ajustarla al texto pondaliano ad pedem litterae, es decir, para respetar, palabra por palabra, lo",
+      "date": "Sun, 13 Sep 2026 22:00:03 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Primer careo de Juanma Moreno con María Jesús Montero tras su pacto con Vox",
+      "link": "https://www.abc.es/espana/andalucia/primer-careo-juanma-moreno-oposicion-tras-pacto-20260913213541-nts.html",
+      "desc": "La XIII legislatura andaluz echa a andar ya totalmente instalada en la normalidad. Y esa normalidad pasa por plenos ordinarios y sesiones de control. Por eso esta semana el presidente de la Junta de Andalucía, Juanma Moreno, afrontará su primera sesión de cont",
+      "date": "Sun, 13 Sep 2026 21:35:41 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Virgen de Villaviciosa, la Enfermera celestial reina entre música sublime en Córdoba",
+      "link": "https://www.abc.es/espana/andalucia/cordoba/semana-santa/virgen-villaviciosa-enfermera-celestial-reina-musica-sublime-20260913213050-nts.html",
+      "desc": "Las calles del barrio de San Lorenzo son la alfombra donde la Virgen María acapara el fervor el domingo posterior al 8 de septiembre. Nuestra Señora de Villaviciosa , Patrona de Enfermería, una histórica devoción de siglos en Córdoba, reina sobre su paso en un",
+      "date": "Sun, 13 Sep 2026 21:30:51 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Más perros que niños: la 'familia multiespecie' gana terreno",
+      "link": "https://www.abc.es/espana/castilla-leon/doble-20260724212040-nt.html",
+      "desc": "Tener una mascota está de moda. Lo demuestra el hecho de que en la comunidad haya más canes censados que menores de edad ya que, según el Sistema de Identificación de Animales de Compañía de Castilla y León (Siacyl), en 2025 había un total de 490.189 perros, f",
+      "date": "Sun, 13 Sep 2026 21:20:40 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "La arquería del siglo XVII que rescataron los vecinos de Valladolid",
+      "link": "https://www.abc.es/espana/castilla-leon/vecinos-san-juan-recuperan-arqueria-tras-diez-20260903211955-nt.html",
+      "desc": "La «batalla» de los vecinos del barrio de San Juan, en la capital vallisoletana, ha finalizado esta semana con la inauguración de la arquería en la plaza. Fue hallada en 2016 junto a una casona de una finca abandonada muy próxima a la cercana localidad de Sima",
+      "date": "Sun, 13 Sep 2026 21:19:55 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Detenida por hacerse varios bizum por valor de 1.410 euros desde el móvil de un amigo octogenario",
+      "link": "https://www.abc.es/espana/castilla-leon/detenida-hacerse-varios-bizum-valor-1410-euros-20260913211632-nt.html",
+      "desc": "Agentes de la Policía Nacional detuvo en Valladolid a una mujer como presunta autora de un delito de estafa a un hombre de 81 años con el que mantenía una relación de amistad por haber recibido varios cargos fraudulentos a través de la plataforma de pago Bizum",
+      "date": "Sun, 13 Sep 2026 21:16:33 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "El Córdoba CF firma su tercer peor comienzo de este siglo en Segunda División",
+      "link": "https://www.abc.es/espana/andalucia/cordoba/cordoba-cf/cordoba-firma-tercer-peor-comienzo-siglo-segunda-20260913203252-nts.html",
+      "desc": "El Córdoba CF ya ocupa uno de los lugares menos deseados de su historia reciente tras su derrota ante el Almería (0-2). Los tres puntos sumados en las cinco primeras jornadas convierten el actual comienzo de temporada en el tercer peor arranque del conjunto bl",
+      "date": "Sun, 13 Sep 2026 20:32:52 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Carísimo",
+      "link": "https://www.abc.es/espana/castilla-leon/carisimo-20260913202941-nt.html",
+      "desc": "No, no crea usted, amable lector, que las instituciones tienen el superpoder, como tampoco lo tienen los particulares. ¿Cuál? El de la fijación de precios. Eso es mandar. Tener un producto, decirle al mercado cuánto cuesta y conseguir que te lo paguen. Y hay d",
+      "date": "Sun, 13 Sep 2026 20:29:41 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Buscan a un hombre de 86 años desaparecido en Carnota",
+      "link": "https://www.abc.es/espana/galicia/buscan-hombre-anos-desaparecido-carnota-20260913202809-nt.html",
+      "desc": "La Guardia Civil ha solicitado colaboración ciudadana para localizar a Juan Antonio Gil Canós, un hombre de 86 años al que se busca en la zona de Caldebarcos, en el municipio coruñés de Carnota. Según los datos difundidos por el Instituto Armado, el desapareci",
+      "date": "Sun, 13 Sep 2026 20:28:09 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "0-0: Empate del Talavera el día después de Rubén Pulido",
+      "link": "https://www.abc.es/espana/castilla-la-mancha/toledo/deportes/empate-talavera-dia-despues-ruben-pulido-20260913202754-nt.html",
+      "desc": "Había expectación en Talavera de la Reina por ver el encuentro de este domingo por la tarde en El Prado después de que el pasado jueves se consumase el cese de Rubén Pulido como entrenador y director deportivo del club blanquiazul. De momento, el técnico que h",
+      "date": "Sun, 13 Sep 2026 20:27:54 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Sergio Bomba, dueño de Jamones Lazo: «El jamón es un producto de lujo que se come cuando hay alegría; cuando no hay, la mercancía no se vende»",
+      "link": "https://www.abc.es/espana/andalucia/sergio-bomba-dueno-jamones-lazo-jamon-producto-20260913202646-nts.html",
+      "desc": "El sector del ibérico es una de las grandes señas de identidad de la gastronomía española, pero tras la imagen de un buen plato cortado a cuchillo se esconde un negocio lleno de riesgos e incertidumbre . Sergio Bomba, propietario de la reconocida firma Jamones",
+      "date": "Sun, 13 Sep 2026 20:26:46 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Las proyecciones apuntan a un empate técnico en Suecia pese a la ventaja socialdemócrata",
+      "link": "https://www.lavanguardia.com/internacional/20260913/11633822/oposicion-centroizquierda-gana-elecciones-suecia-sondeos.html",
+      "desc": "El bloque de centroizquierda de la exprimera ministra Magdalena Andersson alcanzaría los 175 escaños de la mayoría absoluta, a parca distancia de los 174 que tendría la alianza del actual gobernante conservador, Ulf Kristersson&nbsp;",
+      "date": "13 Sep 2026 20:22:31 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
+    {
+      "title": "¿Cuánto dinero ha ganado Enric Mas por conquistar La Vuelta a España 2026?",
+      "link": "https://www.lavanguardia.com/clic/20260913/11633748/dinero-ganado-enric-conquistar-vuelta-espana-2026-lol.html",
+      "desc": "Enric Mas se ha proclamado campeón de La Vuelta 2026 y solo por la general, sus días vestido de rojo y su victoria en el Alto de Aitana acumula 168.000 euros en premios",
+      "date": "13 Sep 2026 20:19:48 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
     {
       "title": "Cuatro heridos en un accidente entre un turismo y una furgoneta en la A-52 en Palacios de Sanabria (Zamora)",
       "link": "https://www.abc.es/espana/castilla-leon/cuatro-heridos-accidente-turismo-furgoneta-a52-palacios-20260913201659-nt.html",
@@ -13,13 +173,23 @@
       "caso": "other"
     },
     {
-      "title": "La egabrense Cristina Cantero conquista el bronce mundial con la selección española absoluta de baloncesto",
+      "title": "La egabrense Cristina Cantero conquista el bronce con la selección española femenina absoluta en el Mundial de baloncesto",
       "link": "https://www.abc.es/espana/andalucia/cordoba/egabrense-cristina-cantero-conquista-bronce-mundial-seleccion-20260913201232-nts.html",
       "desc": "Cristina Cantero ya puede añadir una medalla mundial con la selección española absoluta de baloncesto a una trayectoria construida paso a paso desde Cabra. La entrenadora cordobesa formó parte este domingo del cuerpo técnico de España que conquistó e l bronce ",
       "date": "Sun, 13 Sep 2026 20:12:32 +0200",
       "source": "ABC",
       "color": "#c0392b",
       "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Enric Mas, todo un sol sin sombras, recupera la Vuelta para España",
+      "link": "https://www.lavanguardia.com/deportes/20260913/11633825/enric-sol-sombras-recupera-vuelta-espana.html",
+      "desc": "El escalador mallorquín, de 31 años, se confirma como el sucesor de Alberto Contador al estar a la altura tras el accidente de Pogacar&nbsp;",
+      "date": "13 Sep 2026 20:10:01 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
       "caso": "other"
     },
     {
@@ -70,176 +240,6 @@
       "source": "ABC",
       "color": "#c0392b",
       "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "El premio a la mejor paella valenciana del mundo de 2026 viaja a México",
-      "link": "https://www.abc.es/espana/comunidad-valenciana/premio-mejor-paella-valenciana-mundo-2026-viaja-20260913190037-nt.html",
-      "desc": "El 65 Concurso Internacional de Paella Valenciana de Sueca, el más antiguo de los que se celebran en España, ya tiene ganador. El Restaurante Burguettos de la ciudad de Apizaco, en el estado de Tlaxcala (México), ha conseguido alzarse con el primer premio en u",
-      "date": "Sun, 13 Sep 2026 19:00:37 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Crece la tensión entre Alonso y Sainz: “No es la primera vez, al menos hoy lo sancionaron”",
-      "link": "https://www.lavanguardia.com/deportes/20260913/11633801/f1-formula-1-tension-fernando-alonso-carlos-sainz-gp-espana-madring-contra-muro-340.html",
-      "desc": "El piloto asturiano carga contra la maniobra del madrileño, que atribuye su sanción a la queja del de Aston Martin",
-      "date": "13 Sep 2026 18:53:13 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "El vuelco demográfico de Barcelona: casi 2 de cada 3 treintañeros  han nacido fuera de España",
-      "link": "https://www.abc.es/espana/cataluna/vuelco-demografico-barcelona-treintaneros-nacido-espana-20260912174808-nt.html",
-      "desc": "El perfil demográfico de Barcelona está cambiando de manera acelerada, y pocos datos reflejan con tanta claridad esa transformación como el lugar de nacimiento de su población en edad laboral. A 1 de enero de 2024, los nacidos fuera de España ya eran mayoría e",
-      "date": "Sun, 13 Sep 2026 18:44:08 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Las notas de los jugadores del Barça ante el Levante",
-      "link": "https://www.lavanguardia.com/deportes/fc-barcelona/20260913/11633783/levante-fc-barcelona-notas-uno-por-uno-liga-ea-sports.html",
-      "desc": "Los azulgrana se afianzaron como líderes de la Liga gracias a los goles de Espart, Yamal (2) y Adeyemi",
-      "date": "13 Sep 2026 18:34:41 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "El Barça golea pero descubre lo que es sufrir ante el Levante",
-      "link": "https://www.lavanguardia.com/deportes/fc-barcelona/20260913/11633795/resumen-levante-barca-lamine-yamal.html",
-      "desc": "Lamine Yamal anota su tercer doblete seguido en Liga en un partido incómodo en el que peligró la victoria",
-      "date": "13 Sep 2026 18:33:13 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "Detenido un hombre en Ponteareas por el presunto asesinato de su madre a puñaladas",
-      "link": "https://www.abc.es/espana/galicia/detenido-hombre-presunto-asesinato-madre-ponteareas-20260913182500-nt.html",
-      "desc": "La Guardia Civil ha detenido este domingo en la localidad pontevedresa de Ponteareas a un hombre de edad próxima a los sesenta años como presunto autor de la muerte violenta de su madre, una mujer octogenaria. Según han confirmado fuentes conocedoras del caso ",
-      "date": "Sun, 13 Sep 2026 18:25:00 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Dos detenidos por robar 100 kilos de cobre e intentar huir de la Guardia Civil en Astorga",
-      "link": "https://www.abc.es/espana/castilla-leon/dos-detenidos-robar-100-kilos-cobre-intentar-20260913181515-nt.html",
-      "desc": "La Guardia Civil de León detuvo al conductor y al ocupante de una furgoneta como presuntos autores de un delito de robo de cableado de cobre por sustraer 100 kilogramos y evadirse de la presencia de los agentes en la localidad de Astorga (León). Los hechos ocu",
-      "date": "Sun, 13 Sep 2026 18:16:52 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Madrid partido por la mitad",
-      "link": "https://www.abc.es/espana/madrid/madrid-partido-mitad-20260913181328-nt.html",
-      "desc": "Hoy la ciudad se partía en dos Madriles, aunque seguramente la ciudad ni se enteró. Estaban los que veían la Fórmula 1 y los de siempre, los del Rastro, La Latina, Plaza Mayor, Vallecas, los que habían quedado a tomar el aperitivo y terminaron comiendo, los qu",
-      "date": "Sun, 13 Sep 2026 18:14:03 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Metro supera su propia expectativa: más de 124.000 fans van a Madring en el suburbano",
-      "link": "https://www.abc.es/espana/madrid/metro-supera-propia-expectativa-124000-fans-van-20260913181101-nt.html",
-      "desc": "La Comunidad de Madrid vuelve a batir las expectativas del uso del transporte público durante un evento de grandes dimensiones, como ha sido el Gran Premio de Fórmula 1 celebrado este fin de semana en el Madring. Hasta las 14.00 horas de este domingo más de 12",
-      "date": "Sun, 13 Sep 2026 18:11:01 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Galicia vista desde fuera de la AP-9",
-      "link": "https://www.abc.es/espana/galicia/jose-luis-jimenez-galicia-vista-ap9-20260910180352-nt.html",
-      "desc": "Arranca el curso político y nos reencontramos con las asignaturas pendientes del anterior. Antes del verano quedó flotando, en el éter del olvido agosteño, qué hacer con la AP-9, si nos la quedamos como la quiere envolver el Gobierno de España -con la complici",
-      "date": "Sun, 13 Sep 2026 18:03:52 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Una marea de flores inunda las calles de Albacete en honor a la Virgen de los Llanos",
-      "link": "https://www.abc.es/espana/castilla-la-mancha/marea-flores-inunda-calles-albacete-honor-virgen-20260913175448-nt.html",
-      "desc": "Los albaceteños han mostrado el enorme cariño, fervor y devoción que sienten por la Virgen de Los Llanos durante su asistencia a la misa en honor a la patrona de la ciudad que un año más ha organizado la Peña Templete, oficiada por el obispo de la Diócesis alb",
-      "date": "Sun, 13 Sep 2026 17:54:48 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Nacho Hernández, reelegido secretario general de Juventudes Socialistas en la provincia de Toledo",
-      "link": "https://www.abc.es/espana/castilla-la-mancha/toledo/nacho-hernandez-reelegido-secretario-general-juventudes-socialistas-20260913174444-nt.html",
-      "desc": "Las Juventudes Socialistas de la provincia de Toledo han celebrado su 12 Congreso Provincial este fin de semana en Villarrubia de Santiago, donde ha sido reelegido Nacho Hernández como secretario general. Una reunión en la que, además, fue elegida la nueva Com",
-      "date": "Sun, 13 Sep 2026 17:44:45 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "El complicado rescate en helicóptero de un caballo atrapado en un estanque",
-      "link": "https://www.abc.es/espana/comunidad-valenciana/complicado-rescate-helicoptero-caballo-atrapado-estanque-20260913172323-nt.html",
-      "desc": "Los efectivos del Consorcio Provincial de Bomberos de Valencia participaron este sábado por la tarde en un operativo poco común: el rescate de un caballo que se encontraba atrapado dentro de un estanque en la zona del Brosquil de la localidad de Cullera. La in",
-      "date": "Sun, 13 Sep 2026 17:23:23 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Tradición y gastronomía se unen en la Alubiada de La Bañeza (León)",
-      "link": "https://www.abc.es/espana/castilla-leon/tradicion-gastronomia-unen-alubiada-baneza-leon-20260913171009-nt.html",
-      "desc": "El equipo de cocina integrado por una veintena de personas capitaneado por el chef local Daniel Turrano y asistido por medio centenar de voluntarios volvía este domingo a satisfacer los paladares del numeroso público congregado en la Plaza Mayor de La Bañeza p",
-      "date": "Sun, 13 Sep 2026 17:10:10 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Trópico desembarca en la Barceloneta con un viaje gastronómico por Iberoamérica",
-      "link": "https://www.abc.es/espana/cataluna/tropico-desembarca-barceloneta-viaje-gastronomico-iberoamerica-20260913165255-nt.html",
-      "desc": "Viajar por Venezuela, Colombia, Perú o Brasil sin abandonar la Barceloneta. Esa es la propuesta del nuevo restaurante que Trópico acaba de abrir en el paseo de Joan de Borbó, 15, muy cerquita del mar. El establecimiento ha abierto en el barrio marinero barcelo",
-      "date": "Sun, 13 Sep 2026 16:52:55 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Juzgan a un hombre en Vigo por agredir sexualmente a una mujer en unos aseos",
-      "link": "https://www.abc.es/espana/galicia/juzgan-hombre-vigo-agredir-mujer-aseos-20260913164656-nt.html",
-      "desc": "El tribunal de instancia de Vigo, sección penal, plaza 3, acoge este lunes un juicio contra un hombre acusado de los delitos de agresión sexual y maltrato de obra, tras atacar a una mujer en los baños del centro comercial Vialia. Según el escrito de acusación,",
-      "date": "Sun, 13 Sep 2026 16:46:56 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Antonelli reina en el sopor de Madring; Alonso, 17.º, Sainz, retirado",
-      "link": "https://www.lavanguardia.com/deportes/20260913/11633757/f1-formula-1-gp-espana-madrid-madring-carrera-resumen-alonso-sainz-norris-antonelli-verstappen-russell-hamilton.html",
-      "desc": "El líder del Mundial refuerza su ventaja en el campeonato con un triunfo facilitado por un 'virtual safety-car'&nbsp; y un error de McLaren con Norris",
-      "date": "13 Sep 2026 16:43:49 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
       "caso": "other"
     }
   ]
