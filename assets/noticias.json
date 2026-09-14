@@ -1,7 +1,97 @@
 {
-  "updated": "2026-09-13T22:01:45Z",
+  "updated": "2026-09-14T03:01:20Z",
   "count": 24,
   "items": [
+    {
+      "title": "Dos ONG se reparten los contratos para atender a los menores ilegales que llegaron a Ceuta",
+      "link": "https://www.abc.es/espana/dos-ong-reparten-contratos-millonarios-atender-menores-20260914020314-nt.html",
+      "desc": "Dos ONG se reparten los contratos millonarios que adjudica el Gobierno de Ceuta, con fondos transferidos por el Ministerio de Juventud e Infancia, para atender a los menores no acompañados que llegan ilegalmente desde Marruecos. Se trata de la Fundación SAMU y",
+      "date": "Mon, 14 Sep 2026 02:03:14 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "La UCO sospecha de nuevos escondites en la casa de los asesinos de Francisca Cadenas",
+      "link": "https://www.abc.es/espana/extremadura/uco-sospecha-nuevos-escondites-casa-asesinos-francisca-20260913020304-nt.html",
+      "desc": "La reconstrucción del crimen de Francisca Cadenas, prevista para este lunes a las 09.30h en Hornachos (Badajoz), no se limitará a recrear los últimos pasos de la vecina desaparecida el 9 de mayo de 2017. Según ha podido saber ABC, la Unidad Central Operativa (",
+      "date": "Mon, 14 Sep 2026 02:03:04 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "gen"
+    },
+    {
+      "title": "Puigdemont, Orriols y la cuestión palpitante",
+      "link": "https://www.abc.es/espana/cataluna/sergi-doria-puigdemont-orriols-cuestion-palpitante-20260913020255-nt.html",
+      "desc": "Después de ejecutar en la Diada un «ball de bastons» (coreografía catalana de la golpiza) entre los separatistas-palestinos de la CUP y la Alianza Antimoruna de Sílvia Orriols queda claro que la cuestión palpitante ya no son las banderas 'esteladas' contra Esp",
+      "date": "Mon, 14 Sep 2026 02:02:55 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "El 'lobby' marroquí trabaja a toda máquina en Bruselas para minimizar el efecto de la crisis de Ceuta",
+      "link": "https://www.abc.es/espana/lobby-marroqui-trabaja-maquina-bruselas-minimizar-efecto-20260912020245-nt.html",
+      "desc": "Lo que en Bruselas se conoce como 'lobby' marroquí no es una organización definida y registrada con este nombre, pero constituye un elemento activo imposible de ignorar en la política europea. Se trata de una red constituida por actores institucionales, diplom",
+      "date": "Mon, 14 Sep 2026 02:02:45 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "La Fiscalía Togada se adhiere al recurso del general que se plantó ante el boicot a Ayuso",
+      "link": "https://www.abc.es/espana/general-mora-ayuso-20260914020235-nt.html",
+      "desc": "La Fiscalía Togada se ha adherido al recurso presentado por el general de división Fernando Mora contra la decisión adoptada en julio por el Juzgado Togado Central Militar del Tribunal Supremo de archivar la denuncia presentada contra el actual Mando de Operac",
+      "date": "Mon, 14 Sep 2026 02:02:35 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Dirigentes del PSOE no quieren a Zapatero en sus actos de campaña",
+      "link": "https://www.abc.es/espana/efecto-zapatero-rompe-estrategia-electoral-voto-util-20260729020226-nt.html",
+      "desc": "«Por supuesto, yo voy a contar con José Luis [Rodríguez Zapatero] como he contado siempre en las campañas». Esta frase de Pedro Sánchez, durante una entrevista el pasado miércoles en TVE, generó cierto revuelo en un PSOE que se asoma con demasiado vértigo al a",
+      "date": "Mon, 14 Sep 2026 02:02:26 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "zap"
+    },
+    {
+      "title": "El PP pospone todos los frentes pendientes para no desviar el foco de Ceuta",
+      "link": "https://www.abc.es/espana/pp-pospone-frentes-pendientes-desviar-foco-ceuta-20260914020213-nt.html",
+      "desc": "La crisis de Ceuta -que mantiene a la ciudad autónoma en una situación límite- ha puesto en evidencia la descomposición interna que vive el Gobierno central. Al enfrentamiento insólito, con acusaciones públicas entre Interior y Defensa, se suma la desclasifica",
+      "date": "Mon, 14 Sep 2026 02:02:13 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Rufián desiste de su lista unitaria de izquierdas y ahora aspira a ser candidato de ERC a la Generalitat",
+      "link": "https://www.abc.es/espana/cataluna/rufian-desiste-lista-unitaria-izquierdas-aspira-candidato-20260919020205-nt.html",
+      "desc": "El fracaso de la aventura de Gabriel Rufián para liderar un frente de izquierdas en las próximas elecciones generales está consumado. Nadie, ni dentro de su partido ni fuera del mismo, han comprado la idea del portavoz de ERC en el Congreso, que buscaba con es",
+      "date": "Mon, 14 Sep 2026 02:02:05 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "El PP de Ayuso y Vox remarcan sus diferencias sobre inmigración y seguridad",
+      "link": "https://www.abc.es/espana/madrid/pp-ayuso-vox-remarcan-diferencias-sobre-inmigracion-20260913012234-nt.html",
+      "desc": "En el último debate sobre el estado de la región en la Asamblea de Madrid se produjo un choque político que quedó eclipsado por la bronca relacionada con el ático de Chamberí. Más allá de la pelea a cara de perro que mantuvieron la izquierda y la presidenta re",
+      "date": "Mon, 14 Sep 2026 01:22:34 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
     {
       "title": "Heridos varios narcos tras chocar su embarcación con una patrullera de la Guardia Civil en Adra, en Almería",
       "link": "https://www.abc.es/espana/andalucia/almeria/heridos-varios-narcos-tras-chocar-embarcacion-patrullera-20260913230359-nts.html",
@@ -113,37 +203,7 @@
       "caso": "other"
     },
     {
-      "title": "Buscan a un hombre de 86 años desaparecido en Carnota",
-      "link": "https://www.abc.es/espana/galicia/buscan-hombre-anos-desaparecido-carnota-20260913202809-nt.html",
-      "desc": "La Guardia Civil ha solicitado colaboración ciudadana para localizar a Juan Antonio Gil Canós, un hombre de 86 años al que se busca en la zona de Caldebarcos, en el municipio coruñés de Carnota. Según los datos difundidos por el Instituto Armado, el desapareci",
-      "date": "Sun, 13 Sep 2026 20:28:09 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "0-0: Empate del Talavera el día después de Rubén Pulido",
-      "link": "https://www.abc.es/espana/castilla-la-mancha/toledo/deportes/empate-talavera-dia-despues-ruben-pulido-20260913202754-nt.html",
-      "desc": "Había expectación en Talavera de la Reina por ver el encuentro de este domingo por la tarde en El Prado después de que el pasado jueves se consumase el cese de Rubén Pulido como entrenador y director deportivo del club blanquiazul. De momento, el técnico que h",
-      "date": "Sun, 13 Sep 2026 20:27:54 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Sergio Bomba, dueño de Jamones Lazo: «El jamón es un producto de lujo que se come cuando hay alegría; cuando no hay, la mercancía no se vende»",
-      "link": "https://www.abc.es/espana/andalucia/sergio-bomba-dueno-jamones-lazo-jamon-producto-20260913202646-nts.html",
-      "desc": "El sector del ibérico es una de las grandes señas de identidad de la gastronomía española, pero tras la imagen de un buen plato cortado a cuchillo se esconde un negocio lleno de riesgos e incertidumbre . Sergio Bomba, propietario de la reconocida firma Jamones",
-      "date": "Sun, 13 Sep 2026 20:26:46 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Las proyecciones apuntan a un empate técnico en Suecia pese a la ventaja socialdemócrata",
+      "title": "Un escaño decide la mayoría: ventaja del bloque opositor socialdemócrata en las elecciones suecas",
       "link": "https://www.lavanguardia.com/internacional/20260913/11633822/oposicion-centroizquierda-gana-elecciones-suecia-sondeos.html",
       "desc": "El bloque de centroizquierda de la exprimera ministra Magdalena Andersson alcanzaría los 175 escaños de la mayoría absoluta, a parca distancia de los 174 que tendría la alianza del actual gobernante conservador, Ulf Kristersson&nbsp;",
       "date": "13 Sep 2026 20:22:31 +0200",
@@ -163,26 +223,6 @@
       "caso": "other"
     },
     {
-      "title": "Cuatro heridos en un accidente entre un turismo y una furgoneta en la A-52 en Palacios de Sanabria (Zamora)",
-      "link": "https://www.abc.es/espana/castilla-leon/cuatro-heridos-accidente-turismo-furgoneta-a52-palacios-20260913201659-nt.html",
-      "desc": "Cuatro personas resultaron heridas este domingo en un accidente de tráfico entre una furgoneta y un turismo en el kilómetro 77 de la A-52, sentido Galicia, en el término de Palacios de Sanabria (Zamora), según datos del 1-1-2 Castilla y León recogidos por Ep. ",
-      "date": "Sun, 13 Sep 2026 20:16:59 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "La egabrense Cristina Cantero conquista el bronce con la selección española femenina absoluta en el Mundial de baloncesto",
-      "link": "https://www.abc.es/espana/andalucia/cordoba/egabrense-cristina-cantero-conquista-bronce-mundial-seleccion-20260913201232-nts.html",
-      "desc": "Cristina Cantero ya puede añadir una medalla mundial con la selección española absoluta de baloncesto a una trayectoria construida paso a paso desde Cabra. La entrenadora cordobesa formó parte este domingo del cuerpo técnico de España que conquistó e l bronce ",
-      "date": "Sun, 13 Sep 2026 20:12:32 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
       "title": "Enric Mas, todo un sol sin sombras, recupera la Vuelta para España",
       "link": "https://www.lavanguardia.com/deportes/20260913/11633825/enric-sol-sombras-recupera-vuelta-espana.html",
       "desc": "El escalador mallorquín, de 31 años, se confirma como el sucesor de Alberto Contador al estar a la altura tras el accidente de Pogacar&nbsp;",
@@ -193,26 +233,6 @@
       "caso": "other"
     },
     {
-      "title": "Muere un vecino de Priego de Córdoba en un accidente de moto durante una ruta de enduro en Granada",
-      "link": "https://www.abc.es/espana/andalucia/cordoba/muere-vecino-priego-cordoba-accidente-moto-ruta-20260913200833-nts.html",
-      "desc": "La localidad de Priego de Córdoba se encuentra consternada tras conocerse la muerte de un vecino de 40 años en un accidente de motocicleta ocurrido este domingo en el término municipal de Huétor Tájar (Granada). El fallecido, padre de un niño pequeño y aficion",
-      "date": "Sun, 13 Sep 2026 20:08:33 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Un incendio en Benahavís fuerza el desalojo de una urbanización y confina al resto de vecinos en este pueblo de Málaga",
-      "link": "https://www.abc.es/espana/andalucia/malaga/incendio-benahavis-fuerza-desalojo-urbanizacion-confina-resto-20260913192935-nts.html",
-      "desc": "Un incendio forestal en Benahavís, en la provincia de Málaga, ha obligado a los servicios de emergencia a ordenar el desalojo por precaución de la urbanización Montemayor Alto y el confinamiento de todo el municipio . Las llamas, que se iniciaron al mediodía d",
-      "date": "Sun, 13 Sep 2026 19:29:35 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
       "title": "Adeyemi, rayo y trueno",
       "link": "https://www.lavanguardia.com/deportes/20260913/11633812/adeyemi-rayo-trueno.html",
       "desc": "El extremo alemán sentenció el partido con un gol de crack en el que superó a tres defensas con una conducción supersónica y habilidosa y un remate sutil",
@@ -220,26 +240,6 @@
       "source": "La Vanguardia",
       "color": "#8e44ad",
       "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "La lección que aprende el Barça en Levante: “Nos hemos complicado la vida más de la cuenta”",
-      "link": "https://www.lavanguardia.com/deportes/fc-barcelona/20260913/11633810/eric-garcia-hemos-complicado-vida-mas-cuenta-reacciones-triunfo-barca-levante-liga.html",
-      "desc": "El vestuario reconoce que el Levante ha conseguido poner al equipo&nbsp; azulgrana contra las cuerdas, pese a la victoria",
-      "date": "13 Sep 2026 19:04:01 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "Incendio en Obejo: Un coche en llamas desata un fuego y obliga a movilizar a 45 efectivos del Infoca y 2 helicópteros",
-      "link": "https://www.abc.es/espana/andalucia/cordoba/incendio-obejo-coche-llamas-desata-fuego-obliga-20260913190228-nts.html",
-      "desc": "Un total de 45 efectivos del Plan Infoca , apoyados por dos helicópteros y tres autobombas, han colaborado este domingo con los Bomberos de Córdoba en la extinción de un incendio declarado en la N-432 , a la altura de Obejo , después de que un vehículo comenza",
-      "date": "Sun, 13 Sep 2026 19:02:29 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
       "caso": "other"
     }
   ]
