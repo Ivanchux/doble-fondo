@@ -1,7 +1,17 @@
 {
-  "updated": "2026-09-15T23:54:35Z",
+  "updated": "2026-09-16T02:59:13Z",
   "count": 24,
   "items": [
+    {
+      "title": "El viaje de Ulises, en primera persona gracias a la realidad virtual y un equipo de 100 personas",
+      "link": "https://www.abc.es/espana/madrid/viaje-odiseo-primera-persona-gracias-realidad-virtual-20260915015150-nt.html",
+      "desc": "La Odisea de Homero es, todos lo conocen ya, el viaje de un héroe que regresa . La Odisea de Madrid Artes Digitales (MAD) es, la conocerán a partir del próximo viernes, una aventura particular en la que el público es aqueo y es troyano, Ulises e incluso flecha",
+      "date": "Wed, 16 Sep 2026 01:51:50 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
     {
       "title": "Los engaños de Iván y sus secuaces para adquirir casas de ancianos a precios ridículos",
       "link": "https://www.abc.es/espana/madrid/cruel-engano-ivan-secuaces-adquirir-casas-ancianos-20260915014126-nt.html",
@@ -133,7 +143,7 @@
       "caso": "other"
     },
     {
-      "title": "Los socialistas tratan de proteger a Sánchez con una resolución sobre Ceuta en el Parlamento",
+      "title": "Los socialistas tratan de proteger a Sánchez con una resolución sobre Ceuta en el Europarlamento",
       "link": "https://www.abc.es/espana/socialistas-tratan-proteger-sanchez-resolucion-sobre-ceuta-20260916005821-nt.html",
       "desc": "La votación de la resolución sobre los sucesos de Ceuta este jueves puede abrir claramente la puerta a una ruptura de la coalición moderada proeuropea que ha gobernado la Unión Europea desde su origen. El empeño del grupo socialista por imponer un texto en el ",
       "date": "Wed, 16 Sep 2026 00:58:22 +0200",
@@ -227,16 +237,6 @@
       "link": "https://www.abc.es/espana/cataluna/oasis-venta-general-entradas-tramite-debes-jueves-20260915212105-nt.html",
       "desc": "Conseguir una entrada para ver a Oasis en Barcelona no funcionará esta vez como una venta convencional. Liam y Noel Gallagher actuarán los días 10 y 11 de julio de 2027 en el Estadio Olímpico Lluís Companys, pero la banda ya ha advertido de que no habrá una ve",
       "date": "Tue, 15 Sep 2026 21:21:05 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Jemad: «Tener una estrategia clara es fundamental para la disuasión y defensa»",
-      "link": "https://www.abc.es/espana/jemad-tener-estrategia-clara-fundamental-disuasion-defensa-20260915210453-nt.html",
-      "desc": "Una estrategia clara en seguridad y defensa para saber qué rumbo queremos tomar y lograr una disuasión efectiva. Este ha sido el mensaje del Jefe de Estado Mayor de la Defensa, (Emad), almirante general Teodoro López Calderón, en la presentación del Panorama E",
-      "date": "Tue, 15 Sep 2026 21:04:53 +0200",
       "source": "ABC",
       "color": "#c0392b",
       "feedId": "ABC",
