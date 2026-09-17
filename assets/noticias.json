@@ -1,7 +1,97 @@
 {
-  "updated": "2026-09-17T19:29:14Z",
+  "updated": "2026-09-17T22:36:17Z",
   "count": 24,
   "items": [
+    {
+      "title": "Jonathan Andic se interesó por una terapia que simulaba tirar a un familiar por un barranco",
+      "link": "https://www.lavanguardia.com/local/barcelona/20260918/11637568/jonathan-andic-intereso-terapia-simulaba-tirar-familiar-barranco.html",
+      "desc": "La profesora de inglés declaró que el hijo de Isak les acompañaría en una técnica de confrontación",
+      "date": "18 Sep 2026 00:05:00 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
+    {
+      "title": "Del 51 a pasar a ser el 28",
+      "link": "https://www.lavanguardia.com/opinion/20260918/11637571/51-pasar-28.html",
+      "desc": "Donald Trump ha echado a Canadá en brazos de Europa",
+      "date": "18 Sep 2026 00:05:00 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
+    {
+      "title": "El presidente del TSJA defiende a los jueces de las críticas: «La sociedad debe tener confianza en el poder judicial»",
+      "link": "https://www.abc.es/espana/andalucia/cordoba/presidente-tsja-defiende-jueces-criticas-sociedad-debe-20260917225410-nts.html",
+      "desc": "El presidente del Tribunal Superior de Justicia de Andalucía ( TSJA ), Lorenzo del Río; el vicepresidente segundo y consejero de Turismo, Justicia, Desregulación y Administración Local de la Junta, Manuel Gavira, y el presidente de la Audiencia Provincial de C",
+      "date": "Thu, 17 Sep 2026 22:54:11 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Nuevo revés judicial al PSOE al archivarse otra querella por contratos menores durante el Covid en Córdoba",
+      "link": "https://www.abc.es/espana/andalucia/cordoba/nuevo-reves-judicial-psoe-archivarse-querella-contratos-20260917224108-nts.html",
+      "desc": "Nuevo varapalo al PSOE en su cruzada judicial contra el Servicio Andaluz de Salud (SAS) : un Tribunal de Instancia de Córdoba ha emitido un auto que vuelve a dar la razón a los responsables de la citada entidad de la Junta de Andalucía en su política de contra",
+      "date": "Thu, 17 Sep 2026 22:41:39 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "El Soberano Poder, en las vísperas de 2027: irá a la Catedral con nazarenos el Sábado de Pasión en Córdoba",
+      "link": "https://www.abc.es/espana/andalucia/cordoba/semana-santa/soberano-poder-visperas-2027-ira-catedral-nazarenos-20260917223916-nts.html",
+      "desc": "Nuestro Padre Jesús en su Soberano Poder saldrá en procesión por las calles el Sábado de Pasión de 2027, por lo que la hermandad de la Quinta Angustia se une a las corporaciones que realizan estación de penitencia en las vísperas de la Semana Santa de Córdoba.",
+      "date": "Thu, 17 Sep 2026 22:39:16 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Outono Gastronómico en Lugo: cinco experiencias entre la Ribeira Sacra y la montaña",
+      "link": "https://www.abc.es/espana/galicia/outono-gastronomico-lugo-cinco-experiencias-ribeira-sacra-20260917220000-nt.html",
+      "desc": "Comer bien, dormir en una casa rural y aprovechar el viaje para descubrir otra Galicia. Esa es la fórmula del Outono Gastronómico, que celebra su 20.º aniversario desde este viernes, 18 de septiembre, hasta el 20 de diciembre y propone combinar cocina de tempo",
+      "date": "Thu, 17 Sep 2026 22:00:00 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Marruecos e Israel sellan un nuevo marco de relaciones diplomáticas",
+      "link": "https://www.lavanguardia.com/internacional/20260917/11637563/marruecos-e-israel-sellan-nuevo-marco-relaciones-diplomaticas.html",
+      "desc": "Avalado por EE.UU., el acuerdo incide en el reconocimiento de la soberanía marroquí del Sáhara",
+      "date": "17 Sep 2026 21:49:18 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
+    {
+      "title": "La Junta de Andalucía apremia al Gobierno a paliar el déficit en las carreteras y el tren",
+      "link": "https://www.abc.es/espana/andalucia/junta-andalucia-apremia-gobierno-paliar-deficit-carreteras-20260917213530-nts.html",
+      "desc": "Los problemas graves del sistema ferroviario han copado parte de la actividad del inicio del curso parlamentario en Andalucía, porque el consejero de Fomento y Movilidad, Mario Muñoz Atanet, ha pedido al Gobierno de España celeridad y concreción para paliar el",
+      "date": "Thu, 17 Sep 2026 21:35:30 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Leire revelará que le entregó a Mercedes González un expediente para restituir al guardia civil imputado por Koldo",
+      "link": "https://www.abc.es/espana/leire-diez-aclarara-ante-juez-entrego-mercedes-20260917212846-nt.html",
+      "desc": "La exmilitante socialista imputada en la causa sobre las 'cloacas' del PSOE, Leire Díez , tiene la voluntad de declarar ante el juez que instruye la causa, Santiago Pedraz, que entregó a la directora de la Guardia Civil, Mercedes González, un expediente sobre ",
+      "date": "Thu, 17 Sep 2026 21:28:46 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "lei"
+    },
     {
       "title": "Antidisturbios «hostigados»",
       "link": "https://www.abc.es/espana/cataluna/antidisturbios-hostigados-20260917204359-nt.html",
@@ -150,96 +240,6 @@
       "source": "ABC",
       "color": "#c0392b",
       "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Pastor: «Es imposible categóricamente hacer trampas en el informe PISA»",
-      "link": "https://www.abc.es/espana/castilla-la-mancha/pastor-imposible-categoricamente-trampas-informe-pisa-20260917194258-nt.html",
-      "desc": "«Lo digo así de claro. Es imposible categóricamente hacer trampas en el informe PISA ». El consejero de Educación, Cultura y Deportes, Amador Pastor, ha utilizado esta contundente afirmación para responder en la tarde de este jueves en el Pleno de las Cortes d",
-      "date": "Thu, 17 Sep 2026 19:42:59 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Manolo Franco cocina la memoria y Andorra Taste cuestiona cómo se construye la identidad gastronómica",
-      "link": "https://www.abc.es/espana/cataluna/manolo-franco-cocina-memoria-andorra-taste-cuestiona-20260917194022-nt.html",
-      "desc": "La voz de Manolo Franco se ha tornado trémula cuando el chef de La Casa de Manolo Franco, en Valdemorillo, ha recordado este jueves a su padre durante su participación en el quinto congreso Andorra Taste. El cocinero madrileño hablaba del restaurante familiar,",
-      "date": "Thu, 17 Sep 2026 19:40:23 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Rueda da «por buenas» las explicaciones del conselleiro de Emprego sobre la sanción a la bodega de su familia",
-      "link": "https://www.abc.es/espana/galicia/rueda-buenas-explicaciones-conselleiro-emprego-sobre-sancion-20260917193156-nt.html",
-      "desc": "El presidente de la Xunta, Alfonso Rueda, da por «buenas» las explicaciones del conselleiro de Emprego, José González, sobre la sanción impuesta a la bodega de su familia por la situación irregular de dos trabajadores extranjeros. En declaraciones a los medios",
-      "date": "Thu, 17 Sep 2026 19:31:57 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "La Comunidad de Madrid alquiló el ático de Chamberí por 3.000 euros al mes",
-      "link": "https://www.abc.es/espana/madrid/comunidad-madrid-alquilo-atico-chamberi-3000-euros-20260917193014-nt.html",
-      "desc": "La Comunidad de Madrid ha publicado esta tarde en el Portal de Transparencia el expediente íntegro relacionado con el ático del Paseo del General de Martínez Campos, 35 , que compró la empresa pública Planifica Madrid el pasado 14 de abril por 6,3 millones de ",
-      "date": "Thu, 17 Sep 2026 19:30:15 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Sumar intenta colar la instrucción de la 'ley de nietos' en la de educación",
-      "link": "https://www.abc.es/espana/sumar-intenta-colar-instruccion-ley-nietos-educacion-20260917192918-nt.html",
-      "desc": "«Vamos a registrar una enmienda en la primera ley orgánica que cierra plazo de enmiendas, que es la de educación, para elevar a rango normativo la presunción de exiliados a todos los españoles que salieron entre el 18 de julio de 1936 y el 31 de diciembre de 1",
-      "date": "Thu, 17 Sep 2026 19:29:18 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Mayor Oreja recuerda que Aznar tardó «una semana» en expulsar a los 103 inmigrantes de la entrada a Melilla de 1996",
-      "link": "https://www.abc.es/espana/mayor-oreja-recuerda-aznar-tardo-semana-expulsar-20260917192742-nt.html",
-      "desc": "El exministro del Interior Jaime Mayor Oreja ha recordado este jueves que el Gobierno de José María Aznar expulsó a 103 inmigrantes irregulares de Melilla en 1996 en una semana, un episodio que, según ha dicho, creó «un momento de tensión» pese a que entonces ",
-      "date": "Thu, 17 Sep 2026 19:27:43 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "El juzgado de Barcelona reactiva la causa por la eutanasia de Augé tras la sentencia del Supremo",
-      "link": "https://www.lavanguardia.com/vida/20260917/11637418/juzgado-barcelona-reactiva-causa-eutanasia-francesc-auge-sentencia-supremo.html",
-      "desc": "La Generalitat le concedió la muerte digna hace más de dos años, pero su padre se interpuso en el proceso",
-      "date": "17 Sep 2026 17:27:40 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "La subasta por el ático de Ayuso queda desierta por falta de ofertas",
-      "link": "https://www.lavanguardia.com/politica/20260917/11637400/subasta-atico-ayuso-queda-desierta-falta-ofertas.html",
-      "desc": "El polémico piso de Chamberí tiene un precio de salida de 6.694.201 euros",
-      "date": "17 Sep 2026 16:49:46 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "Oleada de violencia y persecución contra los directores del documental 'Naza' en Israel",
-      "link": "https://www.lavanguardia.com/internacional/20260917/11637393/violencia-amenazas-como-responde-israel-creadores-documental-naza.html",
-      "desc": "El ultranacionalista Mordechai David acudió a una protesta frente a la vivienda de los padres de Szor, uno de los directores del documental, con el fin de intimidarlo",
-      "date": "17 Sep 2026 16:49:00 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
       "caso": "other"
     }
   ]
