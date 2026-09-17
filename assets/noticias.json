@@ -1,7 +1,87 @@
 {
-  "updated": "2026-09-16T22:35:34Z",
+  "updated": "2026-09-17T03:02:44Z",
   "count": 24,
   "items": [
+    {
+      "title": "Más de 100 asaltantes de Ceuta encienden las cárceles españolas",
+      "link": "https://www.abc.es/espana/tension-carceles-122-inmigrantes-ceuta-funcionario-herido-20260917021007-nt.html",
+      "desc": "Un total de 122 inmigrantes que entraron en la invasión de Ceuta han entrado en la cárcel por cometer diversos delitos, según explican fuentes penitenciarias a ABC. La estancia de estos sujetos en las prisiones está siendo un auténtico calvario para los funcio",
+      "date": "Thu, 17 Sep 2026 02:10:07 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Moncloa gira su estrategia en Ceuta y pone en la diana a Vivas",
+      "link": "https://www.abc.es/espana/moncloa-asume-cronificacion-crisis-ceuta-culpa-vivas-20260917020944-nt.html",
+      "desc": "«Eso pregúnteselo a Vivas». Esta frase del presidente del Gobierno, lanzada al aire en los pasillos del Congreso, tras participar en la sesión de control , despachando la dejación de funciones con los menores en las calles de Ceuta en el presidente de la ciuda",
+      "date": "Thu, 17 Sep 2026 02:09:44 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Buscan a una mujer que habría sido arrastrada por el agua en Barcelona",
+      "link": "https://www.abc.es/espana/cataluna/buscan-mujer-arrastrada-agua-barcelona-20260917020455-nt.html",
+      "desc": "Los equipos de rescate españoles trabajaban a contrarreloj el jueves para encontrar a una mujer arrastrada por las inundaciones cerca de Barcelona, ​​mientras las lluvias torrenciales azotaban el este mediterráneo del país, sumergiendo calles e interrumpiendo ",
+      "date": "Thu, 17 Sep 2026 02:04:56 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "El PP estudia cambiar la ley para que la nacionalidad no implique derecho a voto",
+      "link": "https://www.abc.es/espana/pp-estudia-cambiar-ley-nacionalizacion-implique-derecho-20260916013414-nt.html",
+      "desc": "El PP prepara desde hace semanas una respuesta política de fondo a la llamada 'ley de nietos' -la disposición octava de la Ley de Memoria Democrática- y, muy especialmente, a la instrucción del Ministerio de Justicia que permite la nacionalización de cualquier",
+      "date": "Thu, 17 Sep 2026 01:34:14 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "El PP exige que el Gobierno vasco revele el expediente sobre la libertad de Txeroki",
+      "link": "https://www.abc.es/espana/pp-exige-gobierno-vasco-revele-expediente-sobre-20260916013341-nt.html",
+      "desc": "Este miércoles ABC reveló que Garikoitz Aspiazu Rubina 'Txeroki' se refugia en Andoain (Guipúzcoa) e incumple las condiciones legales para poder disfrutar de salidas diarias de la prisión de Zubieta autorizadas por el Gobierno vasco. Aún en segundo grado (régi",
+      "date": "Thu, 17 Sep 2026 01:33:41 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Francesc Carreño, experto en audiología: «Un GP de F1 como el de Madrid es peligroso, pero los organismos toman precauciones para prevenir daños»",
+      "link": "https://www.abc.es/espana/madrid/francesc-carreno-experto-audiologia-madrid-peligroso-organismos-20260917200220-nt.html",
+      "desc": "Hasta hace unos días no se hablaba de otra cosa en Madrid, y casi en España, que no fuera del Gran Premio de Fórmula 1 que aterrizaba por primera vez en la capital. La fecha se fue acercando y los análisis se fueron realizando desde muchos prismas: desde el ec",
+      "date": "Thu, 17 Sep 2026 01:18:44 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "La cancelación de Tapapiés pone en peligro a los bares de Lavapiés: «Era nuestro salvavidas»",
+      "link": "https://www.abc.es/espana/madrid/bares-lavapies-riesgo-tras-cancelar-tapapies-quejas-20260915011107-nt.html",
+      "desc": "División de opiniones en Lavapiés ante la noticia del día en el barrio: Tapapiés cancela su decimosexta edición este año, para alegría de los vecinos que aseguran sufrir inconvenientes durante su celebración, y tristeza e inquietud para los fans del evento y s",
+      "date": "Thu, 17 Sep 2026 01:11:07 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "¡Si son cuatro gotas!",
+      "link": "https://www.lavanguardia.com/deportes/fc-barcelona/20260917/11636677/son-cuatro-gotas.html",
+      "desc": "",
+      "date": "17 Sep 2026 00:32:34 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
     {
       "title": "El aeropuerto de Córdoba acogerá vuelos chárter del programa del Imserso 2026/2027",
       "link": "https://www.abc.es/espana/andalucia/cordoba/aeropuerto-cordoba-acogera-vuelos-charter-programa-imserso-20260917001623-nts.html",
@@ -13,6 +93,16 @@
       "caso": "other"
     },
     {
+      "title": "Los lobbies seguirán opacos",
+      "link": "https://www.lavanguardia.com/opinion/20260917/11636665/lobbies-seguiran-opacos.html",
+      "desc": "El fracaso es una mala noticia para la necesaria transparencia que debe existir en la Administración",
+      "date": "17 Sep 2026 00:05:00 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
+    {
       "title": "Clases suspendidas este jueves en municipios de Valencia y Alicante por las lluvias",
       "link": "https://www.abc.es/espana/comunidad-valenciana/clases-suspendidas-jueves-municipios-valencia-alicante-lluvias-20260916235550-nt.html",
       "desc": "Algunos municipios de la Comunidad Valenciana han decidido cerrar este jueves cerrar sus centros educativos ante la previsión de fuertes lluvias y la alerta naranja activada en algunos puntos de la región. En la ciudad de Valencia, no abrirán los centros escol",
@@ -20,16 +110,6 @@
       "source": "ABC",
       "color": "#c0392b",
       "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Balones a Cancelo y otras extravagancias en el Camp Nou",
-      "link": "https://www.lavanguardia.com/deportes/20260916/11636664/balones-cancelo-extravagancias-camp-nou.html",
-      "desc": "El portugués se destapa como goleador con dos tantos de autor desde la frontal del área en una noche repleta de fenómenos extraños en el Camp Nou",
-      "date": "16 Sep 2026 23:48:46 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
       "caso": "other"
     },
     {
@@ -55,7 +135,7 @@
     {
       "title": "Una tromba de agua paraliza València, suspende los vuelos y obliga a aplazar el Levante-Athletic",
       "link": "https://www.lavanguardia.com/local/valencia/20260916/11636656/tromba-agua-paraliza-valencia-suspende-vuelos-obliga-suspender-levante-atletic.html",
-      "desc": "Preocupación por el aumento de caudal en el barranco del Poyo. Protección Civil ha enviado un Es-Alert alertando del riesgo de inundación en la provincia",
+      "desc": "Preocupación por el aumento de caudal en el barranco del Poyo. Protección Civil ha enviado un Es-Alert alertando del riesgo de inundación en la provincia cuando la tromba ya estaba colapsando la metrópoli",
       "date": "16 Sep 2026 23:20:32 +0200",
       "source": "La Vanguardia",
       "color": "#8e44ad",
@@ -160,86 +240,6 @@
       "source": "ABC",
       "color": "#c0392b",
       "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Josep Borrell, exjefe de la diplomacia europea: «¿Por qué alguien que nunca ha pisado España tiene derecho a votar?»",
-      "link": "https://www.abc.es/espana/josep-borrell-exjefe-diplomacia-europea-alguien-nunca-20260916203829-nt.html",
-      "desc": "La Ley de Memoria Democrática, una de las grandes banderas para el Gobierno, amenaza con convertirse en un clavo ardiendo para Pedro Sánchez. Cuatro años después de su aprobación, el Tribunal Supremo ha intervenido para paralizar los efectos de la disposición ",
-      "date": "Wed, 16 Sep 2026 20:38:30 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Los ganaderos de bovino de leche de Los Pedroches, ante una nueva enfermedad que amenaza su producción",
-      "link": "https://www.abc.es/espana/andalucia/cordoba/ganaderos-bovino-leche-pedroches-ante-nueva-enfermedad-20260916202906-nts.html",
-      "desc": "Los ganaderos de bovino de leche de la comarca de Los Pedroches están siendo víctimas de una enfermedad que reduce su producción. Ante esto, la Junta de Andalucía y Covap se han reunido con ellos para informarles sobre este problema de salud animal que amenaza",
-      "date": "Wed, 16 Sep 2026 20:29:07 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Luis Tudanca, el ocaso",
-      "link": "https://www.abc.es/espana/castilla-leon/luis-tudanca-ocaso-20260916202531-nt.html",
-      "desc": "Luis Tudanca ha recorrido en poco más de una década el camino completo de la política: de promesa emergente a dirigente consolidado y, finalmente, a una figura cada vez más desdibujada. Elegido secretario general del PSOE de Castilla y León en 2014, fue candid",
-      "date": "Wed, 16 Sep 2026 20:25:31 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Antonio Sanz: «El PSOE quiere cansarme y eso es no conocerme: yo no me canso»",
-      "link": "https://www.abc.es/espana/andalucia/antonio-sanz-psoe-quiere-cansarme-conocerme-canso-20260916201919-nts.html",
-      "desc": "El vicepresidente primero de la Junta de Andalucía, Antonio Sanz , ha hecho doblete este miércoles en la apertura del curso parlamentario de la comunidad autónoma. Ha comparecido ante la Cámara a petición propia para explicar cómo ha gestionado, y como respons",
-      "date": "Wed, 16 Sep 2026 20:20:14 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Recorrer Toledo sin salir de La Vega: 28 tapas para saborear la provincia",
-      "link": "https://www.abc.es/espana/castilla-la-mancha/toledo/recorrer-toledo-salir-vega-tapas-saborear-provincia-20260916201320-nt.html",
-      "desc": "Recorrer la provincia de Toledo sin salir del parque de La Vega. Ese es el viaje que propone Sabor Toledo del 24 al 27 de septiembre a través de su gastronomía, pero también de su música, sus tradiciones y su cultura. «Queremos que quien entre en La Vega pueda",
-      "date": "Wed, 16 Sep 2026 20:18:07 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Lo «más granado de nuestras letras» se da cita hasta el domingo en Blacklladolid",
-      "link": "https://www.abc.es/espana/castilla-leon/granado-letras-cita-domingo-blacklladolid-20260916200857-nt.html",
-      "desc": "El presidente de la Diputación Provincial de Valladolid, Conrado Íscar, que este miércoles participó en la apertura de la sexta edición de Blacklladolid, aseguró que desde el equipo de gobierno de la institución se va a seguir apostando por la cultura, «ya que",
-      "date": "Wed, 16 Sep 2026 20:08:57 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Óscar Puente aprueba una lluvia de millones para Málaga pero que se ejecutará después de las elecciones",
-      "link": "https://www.abc.es/espana/andalucia/malaga/oscar-puente-aprueba-lluvia-millones-malaga-ejecutara-20260916200539-nts.html",
-      "desc": "Ocho años de olvido inversor y, de repente, 900 millones de euros sobre la mesa. El Ministerio de Transportes y Movilidad Sostenible, que dirige Óscar Puente , aprobó el pasado martes en Consejo de Ministros esa cifra para ampliar el Aeropuerto de Málaga-Costa",
-      "date": "Wed, 16 Sep 2026 20:05:39 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "La Fed desafía a Trump al subir los tipos de interés un cuarto de punto por primera vez en tres años",
-      "link": "https://www.lavanguardia.com/economia/20260916/11636606/fed-sube-tipos-interes-cuarto-punto-primera-vez-mas-tres-anos.html",
-      "desc": "Kevin Warsh no se somete a las órdenes del presidente de EE.UU., que lo promovió al cargo en el banco central precisamente para rebajar el precio del dinero, y alerta sobre cómo la guerra de Irán y los aranceles han disparado la inflación",
-      "date": "16 Sep 2026 20:02:48 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
       "caso": "other"
     }
   ]
