@@ -1,7 +1,97 @@
 {
-  "updated": "2026-09-17T22:36:17Z",
+  "updated": "2026-09-18T02:50:24Z",
   "count": 24,
   "items": [
+    {
+      "title": "Las autoridades detectan que Marruecos movilizó un dron en Ceuta durante la visita de los directores de Policía y Guardia Civil",
+      "link": "https://www.abc.es/espana/autoridades-detectan-marruecos-movilizo-extrano-dron-ceuta-20260917013130-nt.html",
+      "desc": "Marruecos desplegó en la frontera con Ceuta un dron con un extraño cable en su parte inferior durante la visita la semana pasada de los directores de Policía Nacional y Guardia Civil, Francisco Pardo y Mercedes González . ABC ha tenido acceso a las fotos del a",
+      "date": "Fri, 18 Sep 2026 01:31:30 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "La recolocación de los inmigrantes en Ceuta tumba el relato del «boicot» a Sánchez",
+      "link": "https://www.abc.es/espana/moncloa-alimenta-teoria-boicot-gobierno-ceuta-hacemos-20260918013115-nt.html",
+      "desc": "El Gobierno ha asumido que la crisis de Ceuta se ha cronificado y busca contra el reloj una solución para avanzar en la «estabilización» de la situación. Y mientras eso ocurre, el argumentario se va modulando para tratar de escapar del coste político por la fa",
+      "date": "Fri, 18 Sep 2026 01:31:15 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Bruselas presiona al Gobierno en privado: «Ni un asaltante a la Península»",
+      "link": "https://www.abc.es/espana/ue-presiona-gobierno-sanchez-ceuta-asaltante-peninsula-20260918013033-nt.html",
+      "desc": "Cuando se cumplen más de 50 días de la entrada masiva de inmigrantes a Ceuta, la situación sigue siendo igual de dramática. No hay un horizonte temporal creíble de cierta normalidad para la ciudad autónoma , ni garantías de que Marruecos vaya a colaborar con l",
+      "date": "Fri, 18 Sep 2026 01:30:33 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "La jueza Tardón busca responsables del asalto a Ceuta por encima del delegado del Gobierno",
+      "link": "https://www.abc.es/espana/juez-tardon-busca-responsables-asalto-ceuta-encima-20260918013017-nt.html",
+      "desc": "La batería de diligencias ordenadas por la juez que investiga la invasión en Ceuta sufrida por España este verano están orientadas a esclarecer, entre otros aspectos, las «actuaciones desarrolladas antes, durante y después» de la entrada masiva y apuntan a una",
+      "date": "Fri, 18 Sep 2026 01:30:17 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "La burocracia amenaza a los pueblos de la dana sin las obras terminadas",
+      "link": "https://www.abc.es/espana/comunidad-valenciana/agua-vuelve-amenazar-pueblos-dana-obras-empezar-20260918012914-nt.html",
+      "desc": "El agua volvió a la provincia de Valencia y las intensas lluvias que azotaron a las poblaciones más castigadas por la catastrófica dana de 2024 evidenciaron que ni los barrancos ni el alcantarillado están preparados para hacer frente a un otoño de gotas frías.",
+      "date": "Fri, 18 Sep 2026 01:29:14 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Las víctimas piden al juez que revoque la libertad de Txeroki",
+      "link": "https://www.abc.es/espana/victimas-piden-juez-revoque-libertad-txeroki-20260918012810-nt.html",
+      "desc": "Las víctimas del terrorismo reclaman a la Justicia que se investigue la información adelantada por ABC del alta laboral del ex jefe militar de ETA Garikoitz Aspiazu Rubina , alias 'Txeroki', en un herbolario de Andoáin (Guipúzcoa) donde no va a trabajar. La as",
+      "date": "Fri, 18 Sep 2026 01:28:10 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "La estafa infinita hasta dejar a Francisca sin casa: «El notario no dijo que era la escritura de compraventa»",
+      "link": "https://www.abc.es/espana/madrid/estafa-infinita-dejar-francisca-casa-notario-dijo-20260917012731-nt.html",
+      "desc": "Hubo un día que Francisca casi se desmaya. No por el cáncer de útero, contra el que ha tenido que luchar los últimos diez años, ni tampoco por la depresión que padece a raíz de la propia enfermedad. A sus 62 años, esta antigua enfermera de urgencias, quien hoy",
+      "date": "Fri, 18 Sep 2026 01:27:31 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Hallan un retrato perdido del legendario torero Paquiro en la taberna más antigua de Madrid",
+      "link": "https://www.abc.es/espana/madrid/increible-hallazgo-taberna-antigua-madrid-retrato-perdido-20260915012440-nt.html",
+      "desc": "«Estamos muy emocionados y sorprendidos. Sabíamos que algo podría aparecer al hacer las obras, pero esto no nos lo esperábamos». Quien se felicita es Óscar Priego, gerente de la Taberna Antonio Sánchez , la más antigua de Madrid, donde se acaba de revelar uno ",
+      "date": "Fri, 18 Sep 2026 01:24:40 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Seremos sustituidos",
+      "link": "https://www.lavanguardia.com/opinion/20260918/11637210/seremos-sustituidos.html",
+      "desc": "Hace tiempo que nuestro gran miedo no es a la muerte, sino a ser sustituidos",
+      "date": "18 Sep 2026 00:30:00 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
     {
       "title": "Jonathan Andic se interesó por una terapia que simulaba tirar a un familiar por un barranco",
       "link": "https://www.lavanguardia.com/local/barcelona/20260918/11637568/jonathan-andic-intereso-terapia-simulaba-tirar-familiar-barranco.html",
@@ -147,96 +237,6 @@
       "link": "https://www.abc.es/espana/castilla-la-mancha/toledo/mayte-garcialozoya-primera-mujer-frente-constructores-toledo-20260917202428-nt.html",
       "desc": "Mayte García-Lozoya Carrascoso se ha convertido en la primera mujer que preside la Agrupación de Empresas de la Construcción y afines de la provincia de Toledo (AECA Toledo) desde la creación de la organización, en 1977. La Asamblea General la ha elegido por u",
       "date": "Thu, 17 Sep 2026 20:24:28 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "La Coruña recauda un millón de euros en el primer semestre del año con su tasa turística",
-      "link": "https://www.abc.es/espana/galicia/coruna-recauda-millon-euros-primer-semestre-tasa-20260917202400-nt.html",
-      "desc": "La Coruña se suma a la lista de ayuntamientos que han encontrado una fuente de ingresos en su tasa turística, implantada el pasado año. En el primer semestre de este 2026, este gravamen para aquellos que visitan la ciudad ha reportado a las arcas municipales 1",
-      "date": "Thu, 17 Sep 2026 20:24:00 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Pozoblanco prepara su Feria de las Mercedes: actividades, conciertos y corridas de toros",
-      "link": "https://www.abc.es/espana/andalucia/cordoba/pozoblanco-prepara-feria-mercedes-actividades-conciertos-corridas-20260917200528-nts.html",
-      "desc": "La ciudad de Pozoblanco ya vive la cuenta atrás de la Feria de Nuestra Señora de las Mercedes 2026, que llega con una agenda amplia, participativa y pensada para todos los públicos que volverá a convertir el municipio en punto de encuentro, convivencia y celeb",
-      "date": "Thu, 17 Sep 2026 20:05:28 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Heliopol, una de las empresas que construirá la Base Logística de Córdoba: «Importa más el socio que el negocio»",
-      "link": "https://www.abc.es/espana/andalucia/cordoba/heliopol-empresas-construira-base-logistica-cordoba-importa-20260917200525-nts.html",
-      "desc": "Heliopol, empresa constructora de Grupo Rusvel, se ha adjudicado, junto a Dragados y Magtel, el contrato para la ejecución de la futura Base Logística del Ejército de Tierra (BLET) General de Ejército Javier Varela, en Córdoba, uno de los proyectos estratégico",
-      "date": "Thu, 17 Sep 2026 20:05:25 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "CSIF clama contra la falta de personal y la precariedad en Correos: «La situación es insostenible»",
-      "link": "https://www.abc.es/espana/andalucia/cordoba/csif-clama-falta-personal-precariedad-correos-situacion-20260917200522-nts.html",
-      "desc": "La situación, recalcan todos, es insoportable. Desde la plantilla de Correos denuncian falta de personal y, en consecuencia, precariedad laboral. Éste es el motivo por el que la Central Sindical Independiente y de Funcionarios (CSIF) ha desarrollado este jueve",
-      "date": "Thu, 17 Sep 2026 20:05:22 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Galicia recibirá esta semana a ocho menores inmigrantes de Ceuta, pero avisa: «Estamos al límite»",
-      "link": "https://www.abc.es/espana/galicia/galicia-recibira-semana-ocho-menores-inmigrantes-ceuta-20260917200133-nt.html",
-      "desc": "Galicia recibirá a ocho menores migrantes procedentes de Ceuta esta semana, según ha informado este jueves la conselleira de Política Social, Fabiola García, quien ha lanzado un aviso: la comunidad «ha sido y siempre será solidaria», pero está «al límite» de s",
-      "date": "Thu, 17 Sep 2026 20:01:33 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "El PP municipal reivindica haber sacado a Toledo de la «parálisis» y tacha de «cutre» la oposición del PSOE",
-      "link": "https://www.abc.es/espana/castilla-la-mancha/toledo/pp-municipal-reivindica-haber-sacado-toledo-paralisis-20260917200044-nt.html",
-      "desc": "El PP municipal ha reivindicado que el Gobierno bipartito de Carlos Velázquez ha conseguido sacar a Toledo de la «parálisis» que arrastraba en proyectos importantes para la ciudad y ha cargado contra la oposición que está realizando el PSOE, que ha llegado a c",
-      "date": "Thu, 17 Sep 2026 20:00:45 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Temporal de lluvias en España, en directo: carreteras cortadas y última hora en Valencia, Alicante, Almería, Murcia hoy",
-      "link": "https://www.abc.es/espana/temporal-lluvias-valencia-alicante-almeria-murcia-resto-20260917091907-di.html",
-      "desc": "Sigue en directo el temporal de lluvias que azota a Valencia, Alicante, Almería, Murcia y resto de España hoy,con toda la información sobre las carreteras cortadas y la última hora.",
-      "date": "Thu, 17 Sep 2026 19:58:20 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "El juzgado prorroga un mes más el secreto de la investigación de presunta corrupción en el Ayuntamiento de Soria",
-      "link": "https://www.abc.es/espana/castilla-leon/juzgado-prorroga-mes-secreto-investigacion-presunta-corrupcion-20260917195346-nt.html",
-      "desc": "La «complejidad» del denominado 'Caso Fuentona', que investiga presunta corrupción en el Ayuntamiento de Soria , ha llevado a la Sección de Instrucción (Plaza 3) del Tribunal de Instancia de Soria a prorrogar un mes más, a partir del próximo 22 de septiembre, ",
-      "date": "Thu, 17 Sep 2026 19:53:46 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Una empresa familiar gallega compra el lote de oficinas de la Comunidad de Madrid en la Gran Vía",
-      "link": "https://www.abc.es/espana/madrid/empresa-familiar-gallega-compra-lote-oficinas-comunidad-20260917194756-nt.html",
-      "desc": "Carteson S. L. es el 'holding' propuesto para la adjudicación del lote de los cuatro inmuebles de oficinas en la Gran Vía puesto en venta en la oferta en la que aparecía el ático de General Martínez Campos (y cuya adquisición ha quedado desierta) del Ejecutivo",
-      "date": "Thu, 17 Sep 2026 19:47:56 +0200",
       "source": "ABC",
       "color": "#c0392b",
       "feedId": "ABC",
