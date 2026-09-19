@@ -1,15 +1,175 @@
 {
-  "updated": "2026-09-18T22:11:38Z",
+  "updated": "2026-09-19T02:48:44Z",
   "count": 24,
   "items": [
     {
+      "title": "Seis guardias civiles para 1.700 inmigrantes: «Cada día diez marroquíes intentan colarse en barcos hacia la Península»",
+      "link": "https://www.abc.es/espana/seis-guardias-civiles-1700-inmigrantes-seguridad-puerto-20260919022834-nt.html",
+      "desc": "Seis guardias civiles para 1.700 inmigrantes. Ese es el dispositivo de seguridad que hay en el puerto de Ceuta para vigilar el campamento habilitado para las personas que accedieron a la ciudad en la invasión del pasado 30 y 31 de julio, según informan fuentes",
+      "date": "Sat, 19 Sep 2026 02:28:34 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Una reforma de la ley de extranjería no permitiría la expulsión de los miles de inmigrantes que permanecen en Ceuta",
+      "link": "https://www.abc.es/espana/reforma-ley-extranjeria-permitiria-expulsion-miles-inmigrantes-20260918022656-nt.html",
+      "desc": "La crisis por la invasión de Ceuta se enquista y el partido del Gobierno ya se abre a registrar una propuesta para modificar la ley de extranjería, como hizo el Partido Popular el 16 de julio. Los dos partidos mayoritarios del Congreso piensan en una reforma n",
+      "date": "Sat, 19 Sep 2026 02:26:56 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Mandos policiales vuelven a señalar al delegado del Gobierno en Ceuta por el caos en el traslado de inmigrantes al puerto",
+      "link": "https://www.abc.es/espana/mandos-policiales-vuelve-senalar-delegado-gobierno-ceuta-20260919022647-nt.html",
+      "desc": "El traslado de los inmigrantes al nuevo campamento del puerto de Ceuta estuvo marcado una vez más por el caos y la improvisación. Mandos policiales consultados por ABC señalan otra vez a la Delegación del Gobierno de la ciudad autónoma ya que achacan a sus res",
+      "date": "Sat, 19 Sep 2026 02:26:47 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Interior refuerza la seguridad en Melilla ante la fuerte amenaza de una invasión como la de Ceuta",
+      "link": "https://www.abc.es/espana/interior-refuerza-seguridad-melilla-ante-amenaza-invasion-20260921022615-nt.html",
+      "desc": "Decenas de agentes de la Agrupación de Reserva y Seguridad (ARS) de la Guardia Civil se han desplazado a Melilla ante la amenaza de una invasión como la vivida en Ceuta en los próximos días, según informan fuentes policiales a ABC. El aumento de los mensajes e",
+      "date": "Sat, 19 Sep 2026 02:26:15 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "La Policía española evita un ataque masivo violento en un colegio por parte de un menor",
+      "link": "https://www.abc.es/espana/policia-evita-ataque-masivo-violento-colegio-parte-20260920022140-nt.html",
+      "desc": "La Policía Nacional consiguió evitar lo que hubiera sido una auténtica tragedia al frenar los planes que tenía un menor de un ataque masivo indiscriminado en su centro escolar, según informan fuentes de la investigación a ABC. El ideólogo es un chico que es in",
+      "date": "Sat, 19 Sep 2026 02:21:40 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Dónde ir de fiesta este sábado 19 de septiembre en la provincia de Toledo",
+      "link": "https://www.abc.es/espana/castilla-la-mancha/toledo/pueblos/fiesta-sabado-septiembre-provincia-toledo-20260918021720-nt.html",
+      "desc": "Fuensalida -A las 11,30 horas: pasacalles con charanga, gigantes y cabezudos. -A las 12,30 horas: Morning Live con dj Dipal. -A las 14,00 horas: paella popular. -A las 14,15 horas: ruta-exposición de coches de época. -A las 15,00 horas: baile del vermú con el ",
+      "date": "Sat, 19 Sep 2026 02:17:20 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "1-2: Los fallos y la mala suerte condenan a un Albacete que va cuesta abajo",
+      "link": "https://www.abc.es/espana/castilla-la-mancha/toledo/deportes/fallos-mala-suerte-condenan-albacete-cuesta-abajo-20260919021517-nt.html",
+      "desc": "Sigue sin conocer la victoria el Albacete Balompié tras seis jornadas de campeonato disputadas. El caso es que en el partido de este viernes post-Feria frente al Córdoba CF la cosa empezó ideal para los manchegos, ya que a los 32 segundos llegó un pase filtrad",
+      "date": "Sat, 19 Sep 2026 02:15:18 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "El perito en secreto de Begoña Gómez torpedeó la auditoría sobre el agravio millonario del Estado con Andalucía",
+      "link": "https://www.abc.es/espana/andalucia/perito-secreto-begona-gomez-torpedeo-auditoria-sobre-20260919020735-nts.html",
+      "desc": "Antonio Manuel López Hernández, el consejero del PSOE en la Cámara de Cuentas de Andalucía que compatibilizó en secreto su sueldo público con la labor de perito judicial para Begoña Gómez , trató de torpedear con un voto discrepante el informe del órgano fisca",
+      "date": "Sat, 19 Sep 2026 02:07:35 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Una mujer que estafó 411.000 euros en el programa 'Entre todos' de Toñi Moreno, a juicio",
+      "link": "https://www.abc.es/espana/madrid/mujer-estafo-411000-euros-programa-toni-moreno-20260918020636-nt.html",
+      "desc": "La Fiscalía Provincial de Madrid solicita seis años de prisión para D. L. M,, una mujer que apareció el 19 de febrero de 2014 en el programa 'Entre todos', de TVE y presentado por Toñi Moreno, donde relató su calvario tras sufrir su marido un accidente de tráf",
+      "date": "Sat, 19 Sep 2026 02:06:36 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Puesta a punto de las casetas de la cuesta de Moyano para que «duren cien años más»",
+      "link": "https://www.abc.es/espana/madrid/puesta-punto-casetas-cuesta-moyano-duren-cien-20260918013158-nt.html",
+      "desc": "Desde hace varias semanas, en la calle más leída de Madrid el trasiego de los lectores que buscan primeras ediciones, ejemplares descatalogados o simplemente gangas que ya hayan hecho disfrutar a otros se mezcla con el ruido de las lijadoras, los sprays de pin",
+      "date": "Sat, 19 Sep 2026 01:31:58 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "'Fiebre Photobook Fest', la Casa Encendida toma la temperatura al fotolibro",
+      "link": "https://www.abc.es/espana/madrid/fiebre-photobook-fest-casa-encendida-toma-temperatura-20260918013140-nt.html",
+      "desc": "Ayer viernes arrancó en La Casa Encendida la XIII edición de Fiebre Photobook Fest , que hasta este domingo reunirá 127 propuestas de artistas, colectivos, editoriales, librerías y distribuidoras procedentes de 19 países bajo el lema 'El fotolibro está más viv",
+      "date": "Sat, 19 Sep 2026 01:31:40 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Trump anuncia haber obtenido “control permanente” sobre la seguridad de Groenlandia",
+      "link": "https://www.lavanguardia.com/internacional/20260919/11638945/trump-anuncia-haber-obtenido-control-permanente-sobre-seguridad-groenlandia.html",
+      "desc": "El mandatario asegura que Estados Unidos “comenzará de inmediato el proceso de desarrollo de una presencia militar significativa”",
+      "date": "19 Sep 2026 00:41:39 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
+    {
+      "title": "Vivas a Mbappé",
+      "link": "https://www.lavanguardia.com/opinion/20260919/11638728/vivas-mbappe.html",
+      "desc": "Cuanto más gritas “Ceuta no se vende…” o más insultas a Mbappé, más español eres",
+      "date": "19 Sep 2026 00:30:00 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
+    {
+      "title": "Putin tensa mucho la cuerda",
+      "link": "https://www.lavanguardia.com/opinion/20260919/11638768/putin-tensa-cuerda.html",
+      "desc": "La amenaza se produjo tras un ataque contra un tren cerca de la frontera entre Ucrania y Polonia este pasado domingo",
+      "date": "19 Sep 2026 00:05:00 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
+    {
+      "title": "El último baile del Supremo y Puigdemont",
+      "link": "https://www.lavanguardia.com/politica/20260919/11638732/ultimo-baile-supremo-puigdemont.html",
+      "desc": "",
+      "date": "19 Sep 2026 00:05:00 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
+    {
       "title": "Las notas de los jugadores del Córdoba CF tras la victoria ante el Albacete",
       "link": "https://www.abc.es/espana/andalucia/cordoba/cordoba-cf/notas-jugadores-cordoba-tras-victoria-ante-albacete-20260918234633-nts.html",
-      "desc": "",
+      "desc": "El Córdoba CF respira más tranquilo. El conjunto blanquiverde, en el cómputo global, no mereció los tres puntos tras una primera mitad que Iván Ania la definió como la peor desde que está en el banquillo de El Arcángel. Un preparador blanquiverde que también a",
       "date": "Fri, 18 Sep 2026 23:46:34 +0200",
       "source": "ABC",
       "color": "#c0392b",
       "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Shakira incendia Madrid",
+      "link": "https://www.lavanguardia.com/cultura/20260918/11638772/shakira-incendia-madrid.html",
+      "desc": "La colombiana se reivindica como gran diva latina en el primer concierto de su residencia",
+      "date": "18 Sep 2026 23:39:59 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
       "caso": "other"
     },
     {
@@ -77,166 +237,6 @@
       "link": "https://www.lavanguardia.com/internacional/20260918/11638752/trump-veta-cnn-msnow-politico-entrada-casa-blanca-difundir-noticias-falsas.html",
       "desc": "El presidente anuncia que “otros medios de comunicación de 'fake news' seguirán el mismo camino”",
       "date": "18 Sep 2026 21:29:43 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "Tres jóvenes detenidos en Valladolid tras cometer un robo en el que amenazaron a la víctima con un machete",
-      "link": "https://www.abc.es/espana/castilla-leon/tres-jovenes-detenidos-valladolid-tras-cometer-robo-20260918210646-nt.html",
-      "desc": "Agentes de la Policía Nacional detuvieron en Valladolid, en la madrugada del pasado jueves, 17 de septiembre, a tres jóvenes, uno de ellos menor, como presuntos autores de un delito de robo con intimidación. Los hechos ocurrieron sobre la 1:30 horas de la madr",
-      "date": "Fri, 18 Sep 2026 21:06:46 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Andorra Taste convierte las limitaciones de la montaña en una cocina con identidad",
-      "link": "https://www.abc.es/espana/cataluna/andorra-taste-convierte-limitaciones-montana-cocina-identidad-20260918205459-nt.html",
-      "desc": "La montaña no es únicamente el escenario en el que se cocina, sino una manera de entender la cocina. Esta es una de las principales conclusiones de la quinta edición de Andorra Taste, que ha cerrado sus jornadas profesionales en el Coll de la Botella, a 2.069 ",
-      "date": "Fri, 18 Sep 2026 20:54:59 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Detienen al joven que mató a su padrastro con una mancuerna en Valencia",
-      "link": "https://www.abc.es/espana/comunidad-valenciana/detienen-joven-mato-padrastro-mancuerna-valencia-20260918204845-nt.html",
-      "desc": "La Policía Nacional ha detenido este viernes por la tarde al joven de 23 años que presuntamente mató a su padrastro con una mancuerna el pasado 8 de septiembre en Valencia. Permanecía desde entonces en paradero desconocido. Fuentes policiales señalan a ABC que",
-      "date": "Fri, 18 Sep 2026 20:48:45 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Moreno subraya su «compromiso con Jaén» y el presidente de Diputación pide «las mismas oportunidades que otras provincias»",
-      "link": "https://www.abc.es/espana/andalucia/jaen/moreno-subraya-compromiso-jaen-presidente-diputacion-pide-20260918204443-nts.html",
-      "desc": "El presidente de la Junta de Andalucía, Juanma Moreno, y el presidente de la Diputación de Jaén, Juan Latorre, han mantenido una reunión en el Palacio de San Telmo de Sevilla para abordar la situación de la provincia jiennense. Moreno ha calificado el encuentr",
-      "date": "Fri, 18 Sep 2026 20:44:44 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Buscan a una joven de 25 años desaparecida en Vigo el pasado 9 de septiembre",
-      "link": "https://www.abc.es/espana/galicia/buscan-joven-anos-desaparecida-vigo-pasado-septiembre-20260918202456-nt.html",
-      "desc": "La asociación SOS Desaparecidos ha activado una alerta por la desaparición, en Vigo, de una joven de 25 años de edad, de la que se desconoce su paradero desde el pasado 9 de septiembre. Según los datos aportados por la entidad, la chica se llama Meheret G.D., ",
-      "date": "Fri, 18 Sep 2026 20:24:56 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Alquileres de casas por 11.000 euros en la romería del Rocío están bajo el foco de Hacienda",
-      "link": "https://www.abc.es/espana/andalucia/huelva/alquileres-11000-euros-romeria-rocio-bajo-foco-20260918201127-nts.html",
-      "desc": "Hasta 11.000 euros por apenas dos semanas de estancia. Los elevados precios del alquiler de temporada en la aldea de El Rocío, en Almonte (Huelva), se han convertido en el centro de una exhaustiva inspección del Ministerio de Hacienda. La Inspección Regional d",
-      "date": "Fri, 18 Sep 2026 20:11:27 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Jonathan Andic niega que se interesara por la terapia que simulaba tirar a un familiar por un barranco",
-      "link": "https://www.lavanguardia.com/local/barcelona/barcelona-plus/20260918/11638721/defensa-jonathan-andic-niega-interesara-terapia-simulaba-tirar-familiar-barranco.html",
-      "desc": "La defensa del hijo del fundador de Mango emite un comunicado después de la información publicada este viernes por 'La Vanguardia'",
-      "date": "18 Sep 2026 20:09:01 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "La Escuela de la Madera de Encinas Reales inserta a más de 2.800 alumnos en el mercado laboral",
-      "link": "https://www.abc.es/espana/andalucia/cordoba/escuela-madera-encinas-reales-inserta-2800-alumnos-20260918200222-nts.html",
-      "desc": "La Escuela de la Madera de Encinas Reales ha contribuido a la incorporación al mercado laboral de más de 2.800 alumnos durante sus más de 30 años de trayectoria y a la creación de más de 70 empresas por antiguos estudiantes. Unos datos que reflejan la conexión",
-      "date": "Fri, 18 Sep 2026 20:02:22 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "El Fiscal pide más de cinco años de cárcel para un acusado de abusar de su sobrino de 9 años en Ciudad Real",
-      "link": "https://www.abc.es/espana/castilla-la-mancha/fiscal-pide-cinco-anos-carcel-acusado-abusar-20260918192946-nt.html",
-      "desc": "La Sección Primera de la Audiencia Provincial de Ciudad Real juzgará el próximo 23 de septiembre, a J.J.P.S., un hombre para el que la Fiscalía solicita cinco años y seis meses de prisión por un delito continuado de exhibicionismo y otro de agresión sexual a s",
-      "date": "Fri, 18 Sep 2026 19:29:47 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "A juicio por proferir insultos racistas contra una menor en un bus de Vigo: «Parece que voy en una patera",
-      "link": "https://www.abc.es/espana/galicia/juicio-proferir-insultos-racistas-menor-bus-vigo-20260918192849-nt.html",
-      "desc": "La sección viguesa de la Audiencia de Pontevedra acogerá el próximo miércoles la audiencia preliminar del juicio contra un hombre acusado de proferir insultos racistas hacia una menor que viajaba con él en un autobús urbano de Vigo, ante la que llegó a decir: ",
-      "date": "Fri, 18 Sep 2026 19:28:49 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Trump cambia de criterio: menos refugiados afrikaners y ningún sudafricano negro",
-      "link": "https://www.lavanguardia.com/internacional/20260918/11638695/ee-uu-restringe-refugiados-afrikaners-prohibe-entrada-sudafricanos-negros.html",
-      "desc": "Los blancos de Sudáfrica se muestran confundidos por las denegaciones de sus peticiones para entrar en territorio estadounidense huyendo de lo que Trump calificó falsamente de genocidio",
-      "date": "18 Sep 2026 19:22:12 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "Un detenido y puesto en libertad por cuatro robos en tres iglesias de Valladolid",
-      "link": "https://www.abc.es/espana/castilla-leon/detenido-puesto-libertad-cuatro-robos-tres-iglesias-20260918191850-nt.html",
-      "desc": "La Policía Nacional ha detenido a un varón como presunto autor de cuatro robos en tres iglesias de Valladolid -Vera Cruz, San Pablo y San Felipe Neri-, si bien posteriormente ha sido puesto en libertad con cargos mientras continúan las investigaciones para tra",
-      "date": "Fri, 18 Sep 2026 19:21:26 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "El Obispado de Málaga ya ha pagado a las víctimas del padre Fran",
-      "link": "https://www.abc.es/espana/andalucia/malaga/obispado-malaga-pagado-victimas-padre-fran-20260918190808-nts.html",
-      "desc": "El Obispado de Málaga ya ha consignado los fondos en el Juzgado para que la víctimas del padre Fran puedan ser indemnizadas. El obispo José Antonio Satué lo ha confirmado este viernes. La Iglesia ya ha abonado la cantidad que le correspondía como responsable s",
-      "date": "Fri, 18 Sep 2026 19:08:43 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Azcón: «Queremos Farmacia en Huesca e Ingeniería Aeroespacial en Teruel»",
-      "link": "https://www.abc.es/espana/aragon/azcon-queremos-farmacia-huesca-ingenieria-aeroespacial-teruel-20260918190450-nt.html",
-      "desc": "El presidente del Gobierno de Aragón, Jorge Azcón, ha destacado este viernes, durante su intervención en el solemne acto de apertura del curso 2026-27 en la Universidad de Zaragoza, la apuesta del Ejecutivo por reforzar el número de titulaciones y plazas en el",
-      "date": "Fri, 18 Sep 2026 19:05:36 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Aragón reduce a 111 días la espera media para resolver un caso de dependencia",
-      "link": "https://www.abc.es/espana/aragon/aragon-reduce-111-dias-espera-media-resolver-20260918190504-nt.html",
-      "desc": "Aragón ha reducido el tiempo medio de espera en la resolución de expedientes desde la solicitud de la dependencia hasta la resolución de la prestación a 111 días , con los datos actualizados a 31 de agosto de 2026. Esta cifra se encuentra 191 días por debajo d",
-      "date": "Fri, 18 Sep 2026 19:05:05 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Robles condecora a agentes del CNI en plena polémica por los avisos de Ceuta",
-      "link": "https://www.lavanguardia.com/politica/20260918/11638441/robles-condecora-agentes-cni-plena-polemica-avisos-ceuta.html",
-      "desc": "Defensa apenas ofrece detalles del encuentro, celebrado tras conocerse los mensajes enviados antes de la crisis migratoria",
-      "date": "18 Sep 2026 16:28:02 +0200",
       "source": "La Vanguardia",
       "color": "#8e44ad",
       "feedId": "LaVanguardia",
