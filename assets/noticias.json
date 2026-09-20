@@ -1,7 +1,157 @@
 {
-  "updated": "2026-09-20T17:14:32Z",
+  "updated": "2026-09-20T20:11:32Z",
   "count": 24,
   "items": [
+    {
+      "title": "Rusia vota al partido de Putin mientras Ucrania lanza su “mayor ataque” a Moscú",
+      "link": "https://www.lavanguardia.com/internacional/20260920/11639787/rusia-vota-partido-putin-ucrania-lanza-mayor-ataque-moscu.html",
+      "desc": "Los drones ucranianos causan tres muertos en la región que rodea la capital rusa",
+      "date": "20 Sep 2026 21:24:55 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
+    {
+      "title": "Caos en Montalbán por una concentración ilegal: motos sin matrícula, conductores encapuchados y un agente herido con mordiscos",
+      "link": "https://www.abc.es/espana/andalucia/cordoba/caos-montalban-concentracion-ilegal-motos-matricula-conductores-20260920212358-nts.html",
+      "desc": "Montalbán vivió este sábado una insólita situación de orden público, tal y como ha hecho público este domingo la Policía Local de este municipio en su cuenta oficial de Facebook. Todo ello se ha debido a que el 19 de septiembre, informan desde este Cuerpo de S",
+      "date": "Sun, 20 Sep 2026 21:23:58 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Barcelona lidera una propuesta contra los especuladores globales de la vivienda",
+      "link": "https://www.lavanguardia.com/local/barcelona/20260920/11639779/barcelona-lidera-propuesta-especuladores-globales-vivienda.html",
+      "desc": "El alcalde neoyorquino, Zohran Mamdani, acoge de forma positiva la idea de Jaume Collboni",
+      "date": "20 Sep 2026 20:53:46 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
+    {
+      "title": "Vecinos ceutíes protestan contra la llegada de organizaciones proetarras a la ciudad: «No les vamos a dejar pasar»",
+      "link": "https://www.abc.es/espana/vecinos-ceuties-protestan-llegada-organizaciones-proetarras-ciudad-20260920204237-nt.html",
+      "desc": "Un grupo de vecinos ceutíes protestan este domingo la llegada a la ciudad autónoma de un ferry con integrantes de Negu Gorriak, grupo musical proetarra liderado por Fermín Muguruza, con el objetivo de «repartir ayuda humanitaria, emisiones en directo, desobedi",
+      "date": "Sun, 20 Sep 2026 20:42:55 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "El PSCL abre la tercera «ventana» para elegir candidatos a las alcaldías de seis capitales",
+      "link": "https://www.abc.es/espana/castilla-leon/pscl-abre-tercera-ventana-elegir-candidatos-alcaldias-20260918203947-nt.html",
+      "desc": "El 14 de noviembre es la fecha (el 21 si hubiera una improbable segunda vuelta). Ese día estarán ya ocupadas las casillas con los candidatos del PSOE a las alcaldías de las nueve capitales de la Comunidad, así que quedan por delante aún casi dos meses para con",
+      "date": "Sun, 20 Sep 2026 20:39:47 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Apuñalada en su casa de Leganés: Delegación apunta a un nuevo crimen de violencia machista",
+      "link": "https://www.abc.es/espana/madrid/apunalada-casa-leganes-delegacion-apunta-nuevo-crimen-20260920203024-nt.html",
+      "desc": "Acuchillada en la habitación de su casa y sin que la puerta estuviera forzada, así ha sido asesinada la última mujer en la región , en lo que todo apunta a un nuevo caso de violencia machista. Al menos, es la información que maneja la Delegación del Gobierno c",
+      "date": "Sun, 20 Sep 2026 20:30:54 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Fe de Ratas en CyL",
+      "link": "https://www.abc.es/espana/castilla-leon/ratas-cyl-20260917202422-nt.html",
+      "desc": "",
+      "date": "Sun, 20 Sep 2026 20:24:22 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Sementera",
+      "link": "https://www.abc.es/espana/castilla-leon/sementera-20260920201952-nt.html",
+      "desc": "Si hay un sector que carece del superpoder de fijación de precios del que decíamos la pasada semana que es la fuerza más determinante en una economía, ese es el agrario. Los productores siempre están pillados entre sus costes y sus ingresos, y sobre ambos tien",
+      "date": "Sun, 20 Sep 2026 20:19:52 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Cuenca revive ocho siglos después la victoria de Alfonso VIII sobre los almohades",
+      "link": "https://www.abc.es/espana/castilla-la-mancha/cuenca-revive-ocho-siglos-despues-victoria-alfonso-20260920201443-nt.html",
+      "desc": "Cada septiembre, Cuenca vuelve simbólicamente a uno de los episodios que marcaron su historia. El pendón de Alfonso VIII abandona la Catedral y queda durante una noche bajo custodia del Ayuntamiento. El ceremonial se ha repetido este domingo con motivo de las ",
+      "date": "Sun, 20 Sep 2026 20:16:12 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "El verano se va pero el calor no: Córdoba tendrá la semana que arranca máximas de hasta 37 grados",
+      "link": "https://www.abc.es/espana/andalucia/cordoba/verano-calor-cordoba-semana-arranca-maximas-grados-20260920200427-nts.html",
+      "desc": "El verano se termina este 23 de septiembre (miércoles) pero el calor no tiene planes aún de cogerse vacaciones en la ciudad de Córdoba. Así lo reflejan las previsiones de la Agencia Estatal de Meteorología (Aemet) para la semana en la que está a punto de arran",
+      "date": "Sun, 20 Sep 2026 20:04:27 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Barcelona se sienta a la mesa por La Mercè",
+      "link": "https://www.abc.es/espana/cataluna/barcelona-sienta-mesa-merce-20260920200423-nt.html",
+      "desc": "Barcelona entra en su semana grande con la agenda cultural desbordada, pero la fiesta también se abre paso en cocinas, hornos y barras. Alrededor del 24 de septiembre, restaurantes y pastelerías recuperan sabores reconocibles del recetario catalán —del pan con",
+      "date": "Sun, 20 Sep 2026 20:04:23 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "El primer mes del Córdoba CF deja una ligera mejoría desde su regreso a Segunda, aunque mantiene varias tareas por resolver",
+      "link": "https://www.abc.es/espana/andalucia/cordoba/cordoba-cf/primer-mes-cordoba-deja-ligera-mejoria-regreso-20260920200222-nts.html",
+      "desc": "El Córdoba CF arrancó el 16 de agosto su tercera temporada desde su regreso a Segunda División. Seis jornadas después, el triunfo ante el Albacete el 19 de septiembre puso el punto y final a un primer mes de competición repleto de irregularidad, dificultades d",
+      "date": "Sun, 20 Sep 2026 20:02:22 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Mourinho para llorar",
+      "link": "https://www.lavanguardia.com/deportes/real-madrid/20260920/11639768/mourinho-llorar.html",
+      "desc": "",
+      "date": "20 Sep 2026 19:50:54 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
+    {
+      "title": "Unas 5.500 personas se manifiestan en Barcelona en contra de la ampliación del aeropuerto",
+      "link": "https://www.abc.es/espana/cataluna/5500-personas-manifiestan-barcelona-ampliacion-aeropuerto-20260920192307-nt.html",
+      "desc": "Una manifestación contra la ampliación del Aeropuerto de Barcelona reunió, este domingo a mediodía, a unas 5.500 personas, 150 bicicletas y cuatro tractores en el centro de la ciudad, según las cifras facilitadas por la Guardia Urbana. La marcha, convocada por",
+      "date": "Sun, 20 Sep 2026 19:23:07 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Mourinho carga contra los árbitros: “No quiero pensar que esto estaba preparado”",
+      "link": "https://www.lavanguardia.com/deportes/real-madrid/20260920/11639756/mourinho-quejas-arbitro-real-madrid-atletico-de-madrid-comite-var.html",
+      "desc": "El portugués señala dos posibles expulsiones y carga contra el colegiado, el VAR y el comité de designación",
+      "date": "20 Sep 2026 19:14:57 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
     {
       "title": "El Cajasol Ángel Ximénez da la cara pese a la contundente derrota ante el Barça (27-39)",
       "link": "https://www.abc.es/espana/andalucia/cordoba/cajasol-angel-ximenez-cara-pese-contundente-derrota-20260920185353-nts.html",
@@ -10,6 +160,16 @@
       "source": "ABC",
       "color": "#c0392b",
       "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Juan Carlos I: “Viva donde viva, siempre perteneceré a España”",
+      "link": "https://www.lavanguardia.com/politica/20260920/11639722/juan-carlos-i-viva-viva-siempre-pertenecere-espana.html",
+      "desc": "El padre del Rey recibe en Francia el premio Saint-Simon que reconoce el valor histórico de sus memorias 'Reconciliación'",
+      "date": "20 Sep 2026 18:50:23 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
       "caso": "other"
     },
     {
@@ -63,180 +223,20 @@
       "caso": "other"
     },
     {
+      "title": "El Cholito Simeone hunde al Madrid: provoca el penalti, fuerza la roja y da una asistencia",
+      "link": "https://www.lavanguardia.com/deportes/20260920/11639738/cholito-simeone-hunde-madrid-provoca-penalti-fuerza-roja-da-asistencia.html",
+      "desc": "El nervio de Giuliano decanta el derbi para el Atlético con dos aguijonazos y deja al Barça más líder",
+      "date": "20 Sep 2026 18:37:46 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
+    {
       "title": "La izquierda triunfa en Berlín y la ultraderechista AfD arrasa en Mecklemburgo-Antepomerania, según los sondeos",
       "link": "https://www.lavanguardia.com/internacional/20260920/11639723/izquierda-triunfa-linke-berlin-elecciones-ultraderecha-arrasa-mecklemburgo-antepomerania.html",
       "desc": "Elif Eralp, candidata de Die Linke en la capital alemana, logra imponerse al ascenso ultra, mientras Manuela Schwesig, presidenta socialdemócrata del land báltico, pisa los talones a la ultradecha&nbsp;",
       "date": "20 Sep 2026 18:22:24 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "Fromago se supera en Zamora con cifras récord y ya prepara  la edición de 2028",
-      "link": "https://www.abc.es/espana/castilla-leon/fromago-supera-zamora-cifras-record-prepara-edicion-20260920181620-nt.html",
-      "desc": "Zamora ha despedido este domingo la III Feria Internacional del Queso 'Fromago Cheese Experience', con las calles de la ciudad abarrotadas por decenas de miles de personas que acudieron para visitar la capital mundial del queso, con 342 estands distribuidos en",
-      "date": "Sun, 20 Sep 2026 18:16:48 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "El pueblo de Madrid que vio crecer a Dani Martín: «A los 6 años llegué aquí con mi familia y este lugar me acogió con mucho cariño»",
-      "link": "https://www.abc.es/espana/madrid/pueblo-madrid-crecio-dani-martin-anos-llegue-20260920180000-nt.html",
-      "desc": "Dani Martín es uno de los cantantes más reconocidos de nuestro país. Los éxitos que logró al frente de 'El canto del loco' , desde 1999 hasta 2010, todavía suenan sin cesar en las radios, bares y fiestas de toda clase; y sus giras en solitario agotan las entra",
-      "date": "Sun, 20 Sep 2026 18:00:00 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Madrid destina 14 millones de euros a pymes y autónomos afectados por el incendio de la Sierra Oeste",
-      "link": "https://www.abc.es/espana/madrid/madrid-destina-millones-euros-pymes-autonomos-afectados-20260920175821-nt.html",
-      "desc": "La recuperación de la Sierra Oeste después del gran incendio de este verano pasa también por volver a levantar las persianas de los comercios y recuperar la actividad de las pequeñas empresas. Por ello, la Comunidad de Madrid ha movilizado 14 millones de euros",
-      "date": "Sun, 20 Sep 2026 17:58:21 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Muere el ganadero Germán Vidal Segarra, referente de Cabanes y «rey de los toros de calles»",
-      "link": "https://www.abc.es/espana/comunidad-valenciana/muere-ganadero-german-vidal-segarra-referente-cabanes-20260920175813-nt.html",
-      "desc": "Luto entre los aficionados taurinos de España y, especialmente, los de la provincia de Castellón y la Comunidad Valenciana. Germán Vidal Segarra , ganadero de Cabanes , una de las figuras más destacadas y reconocidas de los 'bous al carrer', ha fallecido este ",
-      "date": "Sun, 20 Sep 2026 17:58:13 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "La Virgen de los Dolores cruza Bisagra al encuentro de una tradición recuperada",
-      "link": "https://www.abc.es/espana/castilla-la-mancha/toledo/virgen-dolores-cruza-bisagra-encuentro-tradicion-recuperada-20260920175403-nt.html",
-      "desc": "La Virgen de los Dolores ha vuelto este domingo a las calles de Toledo. A primera hora de la mañana, entre oraciones y en un ambiente de recogimiento, la imagen de la Hermandad-Esclavitud del Santo Encuentro ha cruzado la Puerta de Bisagra y ha recorrido el pa",
-      "date": "Sun, 20 Sep 2026 17:54:03 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Muere por suicidio un preso de Quatre Camins, la segunda muerte en la cárcel en apenas tres días",
-      "link": "https://www.abc.es/espana/cataluna/muere-suicidio-preso-quatre-camins-segunda-muerte-20260920174605-nt.html",
-      "desc": "Un interno del centro penitenciario de Quatre Camins, en La Roca del Vallés (Barcelona), ha muerto por suicidio durante la madrugada de este domingo. Los funcionarios de la prisión lo han localizado sin signos de vida durante el recuento de primera hora de la ",
-      "date": "Sun, 20 Sep 2026 17:46:05 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Vox denuncia el «ingente gasto público» de Page a menas mientras «da la espalda» a los mayores",
-      "link": "https://www.abc.es/espana/castilla-la-mancha/toledo/pueblos/vox-denuncia-ingente-gasto-publico-page-menas-20260920174445-nt.html",
-      "desc": "El presidente del Grupo Parlamentario Vox, David Moreno, ha asistido este domingo a la concentración organizada en La Puebla de Montalbán para exigir a la Junta de Comunidades la «construcción urgente» de una residencia de mayores pública en el municipio. La m",
-      "date": "Sun, 20 Sep 2026 17:44:46 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Valladolid agradece a la Policía Municipal sus 200 años de «dedicación y entrega»",
-      "link": "https://www.abc.es/espana/castilla-leon/valladolid-agradece-policia-municipal-200-anos-dedicacion-20260920173726-nt.html",
-      "desc": "El Ayuntamiento de Valladolid ha hecho entrega este domingo de la Medalla de Oro de la Ciudad a la Policía Municipal durante un acto solemne presidido por el alcalde, Jesús Julio Carnero, en la Plaza Mayor y en el marco de la celebración del bicentenario de la",
-      "date": "Sun, 20 Sep 2026 17:37:26 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Cambio de tique",
-      "link": "https://www.abc.es/espana/galicia/cambio-tique-20260920171403-nt.html",
-      "desc": "Una denuncia que al final se demostró insostenible expulsó a Alfonso Villares de la Consellería do Mar. Venía de varias mayorías absolutas en Cervo, su municipio de nación. Una vez pasado el purgatorio (por cierto: ¿la señora Lago se va a ir de rositas?), Vill",
-      "date": "Sun, 20 Sep 2026 17:14:03 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Un experto, sobre los peligros de la IA: «Todos tenemos un cuchillo en casa, otra cosa es que lo usemos para matar»",
-      "link": "https://www.abc.es/espana/galicia/experto-sobre-peligros-ia-cuchillo-casa-usemos-20260920170710-nt.html",
-      "desc": "En los últimos días, las alertas sobre los posibles peligros que podría suponer la inteligencia artificial (IA) para la población mundial han hecho saltar todas las alarmas, después de que los grandes desarrolladores norteamericanos de esta tecnología hayan ab",
-      "date": "Sun, 20 Sep 2026 17:07:10 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Gómez del Pilar, a hombros en la corrida de Consuegra",
-      "link": "https://www.abc.es/espana/castilla-la-mancha/toledo/pueblos/gomez-pilar-hombros-corrida-consuegra-20260920170543-nt.html",
-      "desc": "Gómez del Pilar realizó en su primero una faena sin mucha trascendencia. Gran culpa la tuvo su ponente, falto de raza y codicia al que, bajando la mano, pudo argumentarle un toreo efectivo rematado con una serie de redondos invertidos dinos de elogio. Al cuart",
-      "date": "Sun, 20 Sep 2026 17:05:43 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Silvio Rodríguez emociona en La Coruña: voz impecable, destreza instrumental y compromiso social",
-      "link": "https://www.abc.es/espana/galicia/silvio-rodriguez-emociona-coruna-voz-impecable-destreza-20260920165419-nt.html",
-      "desc": "La pista y las gradas del Coliseum de La Coruña se llenaron totalmente la noche de este sábado para escuchar y sentir el reencuentro del pueblo gallego con el trovador cubano Silvio Rodríguez , quien a las puertas de los 80 años de edad mantiene su voz impecab",
-      "date": "Sun, 20 Sep 2026 16:54:19 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "María Jesús Montero reprocha a Juanma Moreno su «negativa» a acoger menores migrantes de Ceuta teniendo plazas libres",
-      "link": "https://www.abc.es/espana/andalucia/maria-jesus-montero-reprocha-juanma-moreno-negativa-20260920165151-nts.html",
-      "desc": "La secretaria general del PSOE andaluz, María Jesús Montero , ha elevado el tono contra el Gobierno andaluz del PP en la grave crisis de Ceuta y presiona para que acepte el traslado de menores migrantes, en su mayoría de origen marroquí, que participaron en la",
-      "date": "Sun, 20 Sep 2026 16:51:51 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "A juicio por estafar a un vecino de Mos con una casa prefabricada que dejaron a medias",
-      "link": "https://www.abc.es/espana/galicia/juicio-estafar-vecino-mos-casa-prefabricada-dejaron-20260920164614-nt.html",
-      "desc": "La sección segunda de la Audiencia Provincial de Pontevedra acoge el próximo 22 de septiembre el juicio contra dos personas acusadas de estafar 79.000 euros tras no ejecutar la obra de una casa prefabricada que habían comprometido en la localidad pontevedresa ",
-      "date": "Sun, 20 Sep 2026 16:46:15 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Atlético - Real Madrid: el derbi madrileño de la LaLiga, en directo",
-      "link": "https://www.lavanguardia.com/deportes/futbol/20260920/11639543/atletico-real-madrid-laliga-ea-sports-partido-futbol-hoy-en-directo.html",
-      "desc": "Victoria del Atleti por dos goles a uno ante un Real Madrid, que al principio de la segunda mitad se quedó con un hombre menos",
-      "date": "20 Sep 2026 14:42:20 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "Sánchez reprocha desde Catalunya la “deslealtad” de PP y Vox en un acto con aire de precampaña",
-      "link": "https://www.lavanguardia.com/politica/20260920/11639661/sanchez-pone-catalunya-ejemplo-convivencia-cohesion-frente-deslealtad-pp-vox.html",
-      "desc": "El presidente del Gobierno recrimina los insultos que recibe de la derecha y su estilo de oposición: “Están en el cuanto peor, mejor”.",
-      "date": "20 Sep 2026 14:16:18 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "Feijóo propone una política de unidad para que Catalunya lidere y deje “el sillón del psiquiatra”",
-      "link": "https://www.lavanguardia.com/politica/20260920/11639646/feijoo-propone-politica-unidad-catalunya-lidere-deje-sillon-psiquiatra.html",
-      "desc": "El presidente del PP aboga por recuperar la “dignidad el pasaporte español” retirando la nacionalidad a los que comentan delitos",
-      "date": "20 Sep 2026 13:57:36 +0200",
       "source": "La Vanguardia",
       "color": "#8e44ad",
       "feedId": "LaVanguardia",
