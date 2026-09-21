@@ -1,7 +1,17 @@
 {
-  "updated": "2026-09-20T23:47:32Z",
+  "updated": "2026-09-21T02:58:17Z",
   "count": 24,
   "items": [
+    {
+      "title": "Los neonazis de Núcleo Nacional se disparan a los 2.000 afiliados en plena crisis migratoria",
+      "link": "https://www.abc.es/espana/madrid/neonazis-nucleo-nacional-disparan-2000-afiliados-plena-20260915021007-nt.html",
+      "desc": "La organización neonazi Núcleo Nacional (NN) está ganando seguidores a puñados en plena crisis migratoria; la llegada de 80.000 personas desde Marruecos a Ceuta de manera ilegal no ha sido más que el último acicate. Los discursos ultras cada vez más asentados ",
+      "date": "Mon, 21 Sep 2026 02:10:07 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
     {
       "title": "Así será el arco del 'Chinatown' de Usera: un oso y dos dragones multicolor con el sello de Okuda",
       "link": "https://www.abc.es/espana/madrid/arco-chinatown-usera-oso-dos-dragones-multicolor-20260918011924-nt.html",
@@ -227,16 +237,6 @@
       "link": "https://www.abc.es/espana/castilla-la-mancha/cuenca-revive-ocho-siglos-despues-victoria-alfonso-20260920201443-nt.html",
       "desc": "Cada septiembre, Cuenca vuelve simbólicamente a uno de los episodios que marcaron su historia. El pendón de Alfonso VIII abandona la Catedral y queda durante una noche bajo custodia del Ayuntamiento. El ceremonial se ha repetido este domingo con motivo de las ",
       "date": "Sun, 20 Sep 2026 20:16:12 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "El verano se va pero el calor no: Córdoba tendrá la semana que arranca máximas de hasta 37 grados",
-      "link": "https://www.abc.es/espana/andalucia/cordoba/verano-calor-cordoba-semana-arranca-maximas-grados-20260920200427-nts.html",
-      "desc": "El verano se termina este 23 de septiembre (miércoles) pero el calor no tiene planes aún de cogerse vacaciones en la ciudad de Córdoba. Así lo reflejan las previsiones de la Agencia Estatal de Meteorología (Aemet) para la semana en la que está a punto de arran",
-      "date": "Sun, 20 Sep 2026 20:04:27 +0200",
       "source": "ABC",
       "color": "#c0392b",
       "feedId": "ABC",
