@@ -1,45 +1,235 @@
 {
-  "updated": "2026-09-22T17:53:00Z",
+  "updated": "2026-09-22T20:47:07Z",
   "count": 24,
   "items": [
     {
-      "title": "Detenido por amenazar con un hacha a su vecino en Palma tras una discusión por el volumen de la música",
-      "link": "https://www.abc.es/espana/baleares/detenido-amenazar-hacha-vecino-palma-tras-discusion-20260922194224-nt.html",
-      "desc": "La Policía Nacional ha detenido en Palma a un varón, de origen español, por haber amenazado a su vecino con un hacha tras una discusión por el volumen de la música en una vivienda. Los hechos tuvieron lugar el domingo por la tarde, según ha informado en un com",
-      "date": "Tue, 22 Sep 2026 19:42:25 +0200",
+      "title": "El juez lleva al banquillo al fundador de Glovo tras años de sentencias por los falsos autónomos",
+      "link": "https://www.abc.es/espana/cataluna/juez-lleva-banquillo-fundador-glovo-tras-anos-20260922221810-nt.html",
+      "desc": "La larga batalla judicial sobre las condiciones laborales de los repartidores de Glovo entra en una nueva fase. El Juzgado de Instrucción número 31 de Barcelona ha acordado continuar por procedimiento abreviado la causa contra Óscar Pierre, cofundador de la pl",
+      "date": "Tue, 22 Sep 2026 22:18:10 +0200",
       "source": "ABC",
       "color": "#c0392b",
       "feedId": "ABC",
       "caso": "other"
     },
     {
-      "title": "Ascires concentra la alta tecnología en su hospital de Valencia con un quirófano único en Europa",
-      "link": "https://www.abc.es/espana/comunidad-valenciana/ascires-concentra-alta-tecnologia-hospital-valencia-quirofano-20260922194059-nt.html",
-      "desc": "La última tecnología para anticipar diagnósticos, actuar con mayor precisión y acompañar mejor al paciente para que se recupere más rápido. Es la razón de ser del nuevo Hospital Ascires de Valencia, que busca convertirse en un referente en España en innovación",
-      "date": "Tue, 22 Sep 2026 19:41:00 +0200",
+      "title": "Dejar de fumar en ocho semanas sin salir de casa: la USC lanza una app con un tratamiento gratuito",
+      "link": "https://www.abc.es/espana/galicia/dejar-fumar-ocho-semanas-salir-casa-usc-20260922220100-nt.html",
+      "desc": "Fumar cigarrillos sigue siendo un grave problema de salud que mata cada año a 52.000 personas en España y dejar ese hábito evitaría la muerte de 142 personas cada día. Ahora, desde la Universidade de Santiago de Compostela (USC) han lanzado una aplicación móvi",
+      "date": "Tue, 22 Sep 2026 22:01:00 +0200",
       "source": "ABC",
       "color": "#c0392b",
       "feedId": "ABC",
       "caso": "other"
     },
     {
-      "title": "Un taxista agrede a un conductor de Uber en el aeropuerto de Vigo",
-      "link": "https://www.abc.es/espana/galicia/taxista-agrede-conductor-uber-aeropuerto-vigo-20260922193232-nt.html",
-      "desc": "Un taxista de Vigo habría agredido a un conductor de Uber en las inmediaciones del aparcamiento del aeropuerto de Peinador en la mañana de este martes. Todo ocurrió sobre las 10.45 horas, cuando el 112 Galicia recibió una llamada que alertaba de la existencia ",
-      "date": "Tue, 22 Sep 2026 19:32:33 +0200",
+      "title": "Victoria Fernández enseña colmillo en el 'predebate' de las primarias del PSOE de Córdoba",
+      "link": "https://www.abc.es/espana/andalucia/cordoba/victoria-fernandez-ensena-colmillo-predebate-primarias-psoe-20260922213943-nts.html",
+      "desc": "El PSOE de Córdoba ha vivido este martes el debate de sus tres candidatos a la Alcaldía : Victoria Fernández (actualmente parlamentaria autonómica y con una larga trayectoria pública, en la que ya fue edil de Capitulares); José Antonio Romero (concejal durante",
+      "date": "Tue, 22 Sep 2026 21:39:44 +0200",
       "source": "ABC",
       "color": "#c0392b",
       "feedId": "ABC",
       "caso": "other"
     },
     {
-      "title": "Amancio Ortega también gana como 'casero': no pagará las reformas de un restaurante en Glasgow",
-      "link": "https://www.abc.es/espana/galicia/amancio-ortega-gana-casero-pagara-reformas-restaurante-20260922191543-nt.html",
-      "desc": "El Tribunal Supremo de Reino Unido ha dado la razón a Pontegadea, grupo inversor de Amancio Ortega, en el proceso judicial que mantenía como propietario del local del restaurante el Rogano, el más antiguo de la ciudad de Glasgow (Reino Unido), frente a la comp",
-      "date": "Tue, 22 Sep 2026 19:15:44 +0200",
+      "title": "Gregorio celebra el avance del AVE a Talavera pero pide «hechos y plazos»",
+      "link": "https://www.abc.es/espana/castilla-la-mancha/toledo/talavera/gregorio-celebra-avance-ave-talavera-pide-plazos-20260922213707-nt.html",
+      "desc": "El alcalde de Talavera de la Reina, José Julián Gregorio, ha valorado positivamente la autorización del Gobierno de España para licitar por 14,7 millones de euros la redacción de los proyectos del tramo de alta velocidad entre Talavera y Talayuela, aunque ha a",
+      "date": "Tue, 22 Sep 2026 21:37:07 +0200",
       "source": "ABC",
       "color": "#c0392b",
       "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Gregorio asegura que las obras de los colectores de Talavera ya están licitadas",
+      "link": "https://www.abc.es/espana/castilla-la-mancha/toledo/talavera/gregorio-asegura-obras-colectores-talavera-licitadas-20260922212530-nt.html",
+      "desc": "Las obras relacionadas con los colectores para hacer frente a los problemas que provocan las lluvias intensas en Talavera de la Reina ya han sido licitadas . Así lo ha asegurado el alcalde, José Julián Gregorio, que ha defendido las actuaciones emprendidas por",
+      "date": "Tue, 22 Sep 2026 21:25:30 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "La Costa Blanca intenta explotar el potencial de la conexión aérea con Nápoles",
+      "link": "https://www.abc.es/espana/comunidad-valenciana/alicante/costa-blanca-intenta-explotar-potencial-conexion-aerea-20260922211348-nt.html",
+      "desc": "El Patronato de Turismo Costa Blanca intenta explotar la recuperación de la conexión aérea de Alicante-Elche con Nápoles para aumentar el flujo de visitantes hacia la provincia, tal como ha informado la Diputación en un comunicado. Con esta estrategia, ha part",
+      "date": "Tue, 22 Sep 2026 21:13:48 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Toledo dice «no» a la trata y la explotación sexual desde Zocodover",
+      "link": "https://www.abc.es/espana/castilla-la-mancha/toledo/toledo-dice-trata-explotacion-sexual-zocodover-20260922210647-nt.html",
+      "desc": "La plaza de Zocodover de Toledo se ha convertido este martes en escenario de una llamada contra la trata y la explotación sexual. Médicos del Mundo Castilla-La Mancha ha organizado una concentración y un acto de calle con motivo del Día Internacional contra la",
+      "date": "Tue, 22 Sep 2026 21:06:47 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "José Antonio Zarzalejos recibe el premio Diario Madrid de manos de Isabel Perelló",
+      "link": "https://www.abc.es/espana/madrid/agenda/jose-antonio-zarzalejos-recibe-premio-diario-madrid-20260922205811-nt.html",
+      "desc": "La presidenta del Tribunal Supremo y del Consejo General del Poder Judicial, Isabel Perelló, entregó ayer el XXII Premio de Periodismo Diario Madrid al periodista José Antonio Zarzalejos en una ceremonia celebrada en la sede de la Fundación Diario Madrid. El e",
+      "date": "Tue, 22 Sep 2026 20:58:11 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Charles Spencer: “Excepto con Carlos, no sé si Diana tuvo un amor verdadero”",
+      "link": "https://www.lavanguardia.com/gente/20260922/11641617/charles-spencer-excepto-carlos-se-diana-tuvo-amor-verdadero.html",
+      "desc": "El hermano de lady Di&nbsp;publica el libro 'El canto del cisne' y recibe a 'La Vanguardia' en Althorp House, la casa ancestral de la familia",
+      "date": "22 Sep 2026 20:55:12 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
+    {
+      "title": "Mañueco y Martínez pugnan por situarse «al lado» de los agricultores",
+      "link": "https://www.abc.es/espana/castilla-leon/manueco-martinez-pugnan-colocarse-lado-agricultores-20260922205020-nt.html",
+      "desc": "Tampoco el segundo pleno del nuevo periodo de sesiones en las Cortes de Castilla y León ha resultado precisamente intenso, aunque el reparto del hemiciclo de esta XII Legislatura tiene mucho que ver, con solo cuatro grupos parlamentarios y dos de ellos socios ",
+      "date": "Tue, 22 Sep 2026 20:50:20 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "El juez que investiga a Zapatero interrogará este viernes al epicentro del caso Plus Ultra tras ser detenido",
+      "link": "https://www.abc.es/espana/juez-investiga-zapatero-interrogara-viernes-epicentro-plus-20260922205015-nt.html",
+      "desc": "El juez de la Audiencia Nacional que investiga al expresidente del Gobierno José Luis Rodríguez Zapatero tomará declaración este viernes a Simon Leendert Verhoeven, un bróker suizo considerado epicentro de la trama que gira en torno al rescate de Plus Ultra, s",
+      "date": "Tue, 22 Sep 2026 20:50:15 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "zap"
+    },
+    {
+      "title": "Los vecinos detectan 35 puntos de deterioro en el puente de la Cava de Toledo y piden una inspección",
+      "link": "https://www.abc.es/espana/castilla-la-mancha/toledo/vecinos-detectan-puntos-deterioro-puente-cava-toledo-20260922204638-nt.html",
+      "desc": "La Asociación de Vecinos La Cava ha pedido una inspección del puente de la Cava de Toledo después de detectar alrededor de 35 puntos con grietas, deterioro y otros signos que, a juicio de los residentes, evidencian la falta de mantenimiento de esta infraestruc",
+      "date": "Tue, 22 Sep 2026 20:46:39 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Los embalses gallegos bajan al 59% de su capacidad y se sitúan por debajo de la media española",
+      "link": "https://www.abc.es/espana/galicia/embalses-gallegos-bajan-capacidad-situan-debajo-media-20260922203952-nt.html",
+      "desc": "La reserva de los embalses gallegos continúa con su bajada y se queda ya en el 59,1% de su capacidad, dos puntos menos que hace siete días, con 2.195 hectómetros cúbicos, según datos publicados por el Ministerio para la Transición Ecológica este martes. Este d",
+      "date": "Tue, 22 Sep 2026 20:39:53 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Sánchez reconoce por primera vez que falló el “control fronterizo” de Marruecos en el asalto a Ceuta",
+      "link": "https://www.lavanguardia.com/internacional/20260922/11641642/sanchez-pide-respuestas-acciones-marruecos-fallo-mecanismo-control-fronterizo.html",
+      "desc": "El presidente del Gobierno lamenta en Nueva York la falta de solidaridad de países de la Unión Europea, al contrario de lo que hizo España con la crisis de Lampedusa (Italia) o el acoso de EE.UU. a Groenlandia",
+      "date": "22 Sep 2026 20:31:55 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
+    {
+      "title": "Muere un hombre de 78 años que resultó herido en el incendio de Benahavís",
+      "link": "https://www.abc.es/espana/andalucia/malaga/muere-hombre-anos-resulto-herido-incendio-benahavis-20260922202500-nts.html",
+      "desc": "Un hombre de 78 años que resultó herido en el incendio declarado el pasado 13 de septiembre en el paraje de la Ermita del Rosario, en Benahavís (Málaga), ha fallecido en el hospital donde permanecía ingresado. Según han confirmado fuentes de la Consejería de P",
+      "date": "Tue, 22 Sep 2026 20:26:17 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Cristian Carracedo, el arma de doble filo del Córdoba CF: rey del regate, pero segundo en pérdidas",
+      "link": "https://www.abc.es/espana/andalucia/cordoba/cordoba-cf/cristian-carracedo-arma-doble-filo-cordoba-rey-20260922202220-nts.html",
+      "desc": "El Córdoba CF ya prepara su visita del próximo domingo al Real Valladolid (14.00 horas) donde buscará encadenar dos triunfos consecutivos por primera vez esta temporada. Tras una sufrida remontada en Albacete, en la que la segunda unidad terminó marcando las d",
+      "date": "Tue, 22 Sep 2026 20:22:20 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Sánchez acusa en la CNN a los socios europeos de «insolidaridad» con Ceuta y admite por primera vez que Rabat «falló»",
+      "link": "https://www.abc.es/espana/sanchez-acusa-cnn-socios-europeos-insolidaridad-ceuta-20260922202042-nt.html",
+      "desc": "Pedro Sánchez ha asegurado este martes que su Gobierno ha sufrido «insolidaridad» por parte de algunos socios de la Unión Europea en la crisis de Ceuta y defendió, pese a la situación que viven en el terreno los ceutíes, que la ciudad española «está recuperand",
+      "date": "Tue, 22 Sep 2026 20:20:42 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "El Partido Popular reclama al Gobierno desde Córdoba medidas urgentes para paliar la situación del campo",
+      "link": "https://www.abc.es/espana/andalucia/cordoba/partido-popular-reclama-gobierno-cordoba-medidas-urgentes-20260922201844-nts.html",
+      "desc": "El Partido Popular (PP) ha reclamado este martes una respuesta inmediata a la situación que atraviesa el campo español. La exigencia la ha realizado en Córdoba la portavoz de Agricultura de la formación en el Senado, Lorena Guerra . La parlamentaria de Fuente ",
+      "date": "Tue, 22 Sep 2026 20:18:44 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "La Fiscalía pide 10 años cárcel para dos acusados de vender droga en Córdoba valorada en más de 24.000 euros",
+      "link": "https://www.abc.es/espana/andalucia/cordoba/fiscalia-pide-anos-carcel-dos-acusados-vender-20260922201833-nts.html",
+      "desc": "La Fiscalía solicita cinco años de prisión para cada uno de los dos acusados de dedicarse presuntamente a la venta de sustancias estupefacientes desde el domicilio familiar en Córdoba , donde fueron intervenidas distintas drogas cuyo valor total en el mercado ",
+      "date": "Tue, 22 Sep 2026 20:18:33 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Tres heridos tras la caída del falso techo en la estación de Fabra i Puig en Barcelona",
+      "link": "https://www.abc.es/espana/cataluna/tres-heridos-tras-caida-falso-techo-estacion-20260922200848-nt.html",
+      "desc": "Tres personas han resultado heridas leves este martes por la tarde tras ceder un falso techo de la estación de Rodalies de Fabra i Puig, en Barcelona. Según el Servicio de Emergencias Médicas (SEM) dos de ellos ya han sido trasladados hasta el Hospital Vall d'",
+      "date": "Tue, 22 Sep 2026 20:09:32 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Más del 92 por ciento de los juicios con jurado acaban en condena",
+      "link": "https://www.abc.es/espana/andalucia/ciento-juicios-jurado-acaban-condena-20260922200413-nts.html",
+      "desc": "La decisión del juez Peinado de que Begoña Gómez, esposa del presidente del Gobierno, Pedro Sánchez, sea juzgada por un tribunal del jurado ha generado una fuerte polémica, especialmente porque el PSOE rechaza esta fórmula de enjuiciamiento. Desde el Gobierno ",
+      "date": "Tue, 22 Sep 2026 20:04:13 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "El vertido que amenazaba el agua potable de Santiago evoluciona «favorablemente»",
+      "link": "https://www.abc.es/espana/galicia/vertido-amenazaba-agua-potable-santiago-evoluciona-favorablemente-20260922195003-nt.html",
+      "desc": "La Xunta ha indicado que el vertido de Tordoia se sitúa todavía a unos 13 kilómetros de la estación de tratamiento de agua potable (ETAP) del Tambre y que los valores de amonio continúan disminuyendo, con una evolución «favorable». Tal y como ha informado el G",
+      "date": "Tue, 22 Sep 2026 19:50:03 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Delcy Rodríguez saluda a Pedro Sánchez en la ONU y le pide seguir hablando sobre la Venezuela",
+      "link": "https://www.lavanguardia.com/politica/20260922/11641619/delcy-rodriguez-acerca-pedro-sanchez-onu-le-pide-seguir-hablando-sobre-situacion-venezuela.html",
+      "desc": "El presidente del Gobierno accede y le traslada que España está comprometida con el futuro del país",
+      "date": "22 Sep 2026 19:49:40 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
       "caso": "other"
     },
     {
@@ -50,196 +240,6 @@
       "source": "La Vanguardia",
       "color": "#8e44ad",
       "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "«Hay algo que tengo clavado: el arreglo de la fachada sur», el deán de la Catedral urge estas obras a la espera del 2% cultural",
-      "link": "https://www.abc.es/espana/castilla-la-mancha/toledo/clavado-arreglo-fachada-sur-dean-catedral-urge-20260922190419-nt.html",
-      "desc": "La Catedral de Toledo celebra sus ocho siglos de historia mirando también a uno de sus grandes asuntos pendientes: la fachada sur. Mientras restauradores y arquitectos de catedrales de toda Europa se reúnen estos días en la ciudad para compartir experiencias s",
-      "date": "Tue, 22 Sep 2026 19:04:20 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "PP y Vox se unirán a la marcha convocada en Madrid este sábado “en defensa de España”",
-      "link": "https://www.lavanguardia.com/politica/20260922/11641586/pp-vox-uniran-marcha-convocada-madrid-sabado-defensa-espana.html",
-      "desc": "La iniciativa, impulsada por Sociedad Civil Española, reivindicará Ceuta y exigirá la convocatoria de elecciones",
-      "date": "22 Sep 2026 18:53:12 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "El coronel Gabriel Flores relevará a Juan Luis Vizuete al frente de Defensa en Castilla-La Mancha",
-      "link": "https://www.abc.es/espana/castilla-la-mancha/coronel-gabriel-flores-relevara-juan-luis-vizuete-20260922185025-nt.html",
-      "desc": "El coronel Gabriel Flores será el nuevo delegado de Defensa en Castilla-La Mancha a partir del próximo mes de octubre, cuando relevará en el cargo al coronel Juan Luis Vizuete, que cesará en su actual destino después de seis años al frente de la institución. E",
-      "date": "Tue, 22 Sep 2026 18:50:25 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Pablo López actuará el 27 de mayo en el Roig Arena de Valencia",
-      "link": "https://www.abc.es/espana/comunidad-valenciana/pablo-lopez-actuara-mayo-roig-arena-valencia-20260922184644-nt.html",
-      "desc": "Pablo López incluye el Roig Arena en su 'Hibakusha Tour 2027', una nueva gira que llegará al recinto valenciano el 27 de mayo y que llega tras la publicación de su esperado nuevo álbum 'El Cuatro'. Con 'Hibakusha Tour 2027', Pablo López abre una nueva etapa ar",
-      "date": "Tue, 22 Sep 2026 18:46:45 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "El verano se despide de Galicia, pero el calor aún se queda en Pontevedra: su interior sigue en alerta",
-      "link": "https://www.abc.es/espana/galicia/verano-despide-galicia-calor-queda-pontevedra-interior-20260922184509-nt.html",
-      "desc": "El interior de la provincia de Pontevedra continuará este miércoles en alerta por altas temperaturas, si bien el nivel de aviso desciende y pasa a amarillo. Según las predicciones remitidas por MeteoSalud, y en el ámbito del Plan de Actuación de la Xunta de Ga",
-      "date": "Tue, 22 Sep 2026 18:45:09 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Un incendio arrasa La Querola, la urbanización de lujo refugio de millonarios en Andorra",
-      "link": "https://www.abc.es/espana/cataluna/incendio-arrasa-querola-urbanizacion-lujo-refugio-millonarios-20260922184348-nt.html",
-      "desc": "Un incendio ha arrasado por completo este martes de madrugada los siete bloques de La Querola , una de las urbanizaciones más lujosas y singulares de Andorra. El complejo, situado en la parroquia de Ordino y todavía sin habitar, reunía 52 viviendas de alta gam",
-      "date": "Tue, 22 Sep 2026 18:43:48 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Iago Aspas, el 'Príncipe de las Bateas': el futbolista del Celta pone cara al mejillón gallego",
-      "link": "https://www.abc.es/espana/galicia/iago-aspas-principe-bateas-futbolista-celta-pone-20260922183430-nt.html",
-      "desc": "La conselleira do Mar, Marta Villaverde, ha presentado este martes junto al jugador del Real Club Celta, Iago Aspas, una campaña para reforzar el reconocimiento de la Denominación de Origen Protegida (DOP) Mexillón de Galicia como sinónimo de «calidad, identid",
-      "date": "Tue, 22 Sep 2026 18:34:30 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Los funcionarios de prisiones protestan por el aumento de agresiones y la falta de personal",
-      "link": "https://www.abc.es/espana/madrid/sindicato-prisiones-acudira-actos-merced-ante-falta-20260922183119-nt.html",
-      "desc": "La Central Sindical Independiente y de Funcionarios de Instituciones Penitenciarias (CSIF) no acudirá este 24 de septiembre a los actos organizados con motivo del día de Nuestra Señora de la Merced, patrona de Instituciones Penitenciarias. El sindicato ha anun",
-      "date": "Tue, 22 Sep 2026 18:31:19 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Anthropic presenta su primer modelo de IA al que somete a medidas de seguridad exhaustivas",
-      "link": "https://www.lavanguardia.com/vida/20260922/11641567/anthropic-presenta-primer-modelo-ia-somete-medidas-seguridad-exhaustivas.html",
-      "desc": "Claude Opus 5.5 es el primer lanzamiento de la compañía desde que su director ejecutivo, Dario Amodei, reclamó frenar el ritmo de producción de la IA, preocupado por los incidentes de seguridad",
-      "date": "22 Sep 2026 18:29:57 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "María Jesús Montero denuncia una «cacería política» contra el consejero del PSOE por asesorar a Begoña Gómez",
-      "link": "https://www.abc.es/espana/andalucia/maria-jesus-montero-denuncia-caceria-politica-consejero-20260922181034-nts.html",
-      "desc": "María Jesús Montero ha levantado un muro de defensa en torno al consejero socialista investigado por la Cámara de Cuentas andaluza. La secretaria general del PSOE-A atribuye el expediente de información reservada abierto contra Antonio Manuel López Hernández a",
-      "date": "Tue, 22 Sep 2026 18:10:34 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Manel Pérez: “Será muy difícil evitar que la contaminación política afecte al jurado”",
-      "link": "https://www.lavanguardia.com/videos/claves-del-dia/20260922/11641540/manel-perez-sera-dificil-evitar-contaminacion-politica-afecte-jurado.html",
-      "desc": "El adjunto al director de La Vanguardia analiza el juicio a Begoña Gómez, explica las particularidades del tribunal popular y advierte de la enorme exposición política y mediática que rodea el procedimiento",
-      "date": "22 Sep 2026 18:03:47 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "La Xunta reprocha a Sánchez su «larga lista de agravios» con Galicia en transporte",
-      "link": "https://www.abc.es/espana/galicia/xunta-reprocha-sanchez-larga-lista-agravios-galicia-20260922180146-nt.html",
-      "desc": "Diego Calvo, número dos del Ejecutivo autonómico, aprovechó su comparecencia en el pleno del Parlamento de Galicia para desgranar la «larga lista» de supuestos «agravios» del Gobierno con la comunidad en materia de transporte. Y, entre ellos, el conselleiro de",
-      "date": "Tue, 22 Sep 2026 18:01:47 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Entregadas 3.000 firmas contra el traslado de los retenes de incendios de Los Navalucillos y Robledo del Mazo",
-      "link": "https://www.abc.es/espana/castilla-la-mancha/toledo/pueblos/entregadas-3000-firmas-traslado-retenes-incendios-navalucillos-20260922180018-nt.html",
-      "desc": "El alcalde de Los Navalucillos, José Ángel Pérez Yepes, y la alcaldesa de Robledo del Mazo, Ana Belén Galán Élez, junto con una representante de la Mesa por la Recuperación de Talavera y Comarcas, Rosa Ríos Blanco, han presentado este martes en la Consejería d",
-      "date": "Tue, 22 Sep 2026 18:00:19 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "El Gobierno impide que la directora del CNI hable de Ceuta bajo secreto con los diputados",
-      "link": "https://www.abc.es/espana/gobierno-impide-directora-cni-hable-ceuta-bajo-20260922175329-nt.html",
-      "desc": "Últimamente, cada vez que la ministra de Defensa, Margarita Robles, muestra su plena disposición a hacer algo, la cosa, de una u otra forma, se acaba torciendo. En verano, tuvo que recular y rechazar comparecer en el Senado de urgencia por la crisis de Ceuta, ",
-      "date": "Tue, 22 Sep 2026 17:54:15 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "EE.UU., Dinamarca y Groenlandia firman el acuerdo que ampliará la presencia de Washington en el Ártico",
-      "link": "https://www.lavanguardia.com/internacional/20260922/11641534/ee-uu-dinamarca-groenlandia-firman-acuerdo-ampliara-presencia-washington-artico.html",
-      "desc": "Estados Unidos abrirá dos nuevas bases en Groenlandia, que se añadirán a la ya existente en Pituffik",
-      "date": "22 Sep 2026 17:53:08 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "El PP busca retratar a la izquierda con una declaración institucional sobre Ceuta en el Parlamento andaluz",
-      "link": "https://www.abc.es/espana/andalucia/pp-busca-retratar-izquierda-declaracion-institucional-sobre-20260922174724-nts.html",
-      "desc": "La izquierda no quiere que en el Parlamento andaluz se hable de la grave crisis migratoria que está viviendo Ceuta ni de la gestión que está haciendo el Gobierno de Pedro Sánchez de la situación. Sin embargo el asunto fue uno de los principales temas que se tr",
-      "date": "Tue, 22 Sep 2026 17:47:24 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Turull, feliz tras la decisión del Constitucional: «La amnistía es una enmienda a los que aplicaron el Código Penal del enemigo a los independentistas»",
-      "link": "https://www.abc.es/espana/cataluna/turull-feliz-tras-decision-constitucional-amnistia-enmienda-20260922174357-nt.html",
-      "desc": "Jordi Turull, secretario general de Junts, se ha mostrado prudentemente feliz por la decisión del Tribunal Constitucional, que hoy le ha amparado en relación a la aplicación de la amnistía sobre su caso, abriendo así la puerta, definitivamente, a que se le apl",
-      "date": "Tue, 22 Sep 2026 17:43:58 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "PP y PSOE chocan por el pabellón multiusos: «Han tenido 16 años» frente a «el culpable es Velázquez»",
-      "link": "https://www.abc.es/espana/castilla-la-mancha/toledo/pp-psoe-chocan-pabellon-multiusos-anos-frente-20260922173818-nt.html",
-      "desc": "El PP y el PSOE han vuelto a cruzar reproches por el futuro pabellón deportivo multiusos de Toledo después de que el alcalde, Carlos Velázquez, planteara en el Debate del Estado de la Ciudad la posibilidad de impulsar una infraestructura inspirada en el Roig A",
-      "date": "Tue, 22 Sep 2026 17:38:58 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "El jefe de Información de los Mossos enmienda al Govern y niega vulneración de derechos en la asistencia de dos agentes a una asamblea de docentes",
-      "link": "https://www.abc.es/espana/cataluna/jefe-informacion-mossos-enmienda-govern-niega-vulneracion-20260922173731-nt.html",
-      "desc": "Casi la mitad de las movilizaciones que se han producido en Cataluña en lo que va de año no se comunicaron a las autoridades. Es decir, la unidad de mediación de los Mossos d'Esquadra no contaba con un portavoz de los convocantes con el que comunicarse, ni por",
-      "date": "Tue, 22 Sep 2026 17:37:31 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
       "caso": "other"
     }
   ]
