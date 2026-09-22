@@ -1,7 +1,197 @@
 {
-  "updated": "2026-09-21T21:36:19Z",
+  "updated": "2026-09-22T00:31:14Z",
   "count": 24,
   "items": [
+    {
+      "title": "El nuevo 'boom' del vinilo explota en la Casa de Campo",
+      "link": "https://www.abc.es/espana/madrid/nuevo-boom-vinilo-explota-casa-campo-20260921012318-nt.html",
+      "desc": "Hace ya bastantes años que empezó un 'revival' del vinilo que ha hecho que el formato vuelva a reinar en las tiendas de discos, y aunque algunos auguraban que sería una moda pasajera que acabaría diluyéndose con el tiempo, lo cierto es que los datos indican lo",
+      "date": "Tue, 22 Sep 2026 01:23:18 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "La Policía cree que el acusado de matar a su padre con alzhéimer en Torrejón lo tiró a la basura",
+      "link": "https://www.abc.es/espana/madrid/policia-cree-acusado-matar-padre-alzheimer-tiro-20260921012310-nt.html",
+      "desc": "La Policía Nacional continúa la búsqueda de Roberto F. M., el médico jubilado de Torrejón de Ardoz que fue dado por desaparecido el pasado 7 de septiembre. Los investigadores trabajan con varias hipótesis, aunque la más sólida es que su hijo, detenido por el s",
+      "date": "Tue, 22 Sep 2026 01:23:10 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "La portavoz de Vox se lanza a la campaña en el antiguo cinturón rojo de Madrid",
+      "link": "https://www.abc.es/espana/madrid/portavoz-vox-lanza-campana-antiguo-cinturon-rojo-20260918012301-nt.html",
+      "desc": "Vox Madrid ha puesto su objetivo en el sur de la Comunidad de Madrid y de la propia capital, para captar un voto que califican de 'obrerista' y que consideran transversal, sin otras siglas que las de pedir más vivienda, más empleo, más seguridad, la defensa de",
+      "date": "Tue, 22 Sep 2026 01:23:01 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "La venta de espráis de defensa se desboca: «No solo son mujeres; también taxistas, repartidores y comerciantes»",
+      "link": "https://www.abc.es/espana/madrid/venta-esprays-defensa-desboca-solo-mujeres-taxistas-20260916012254-nt.html",
+      "desc": "Los espráis de autodefensa ya no son solo para mujeres. Su venta y uso en la Comunidad de Madrid se ha desbocado en lo que llevamos de año, pero también es más heterogéneo el público que lo adquiere en armerías oficiales. Ya no son solo chicas jóvenes (hay que",
+      "date": "Tue, 22 Sep 2026 01:22:54 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "El primer destino del Imserso reduce a un tercio sus hoteles mientras el ministro saca pecho por las colas",
+      "link": "https://www.abc.es/espana/comunidad-valenciana/alicante/primer-destino-imserso-reduce-tercio-hoteles-ministro-20260922011900-nt.html",
+      "desc": "El Imserso ha arrancado la temporada con un contraste evidente entre la demanda de los turistas sénior y la crisis que denuncia el sector hotelero por los precios congelados varios años. El principal destino peninsular -Benidorm- ha reducido a un tercio el núm",
+      "date": "Tue, 22 Sep 2026 01:19:00 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Google Maps no reconoce la soberanía española en la frontera de Ceuta y Melilla",
+      "link": "https://www.abc.es/espana/andalucia/google-maps-reconoce-soberania-espanola-ceuta-melilla-20260922011633-nts.html",
+      "desc": "Goolge Maps no reconoce la soberanía plena de España sobre Ceuta y Melilla con una frontera consolidada, como puede ser la que dibuja entre España y Portugal. Y el asunto va a llegar a la Comisión Europea , para que pida su rectificación. El navegador no marca",
+      "date": "Tue, 22 Sep 2026 01:16:33 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Vox exige inadmitir la enmienda de la 'ley de nietos' que Sumar intenta colar en la de Educación",
+      "link": "https://www.abc.es/espana/vox-exige-inadmitir-enmienda-sobre-ley-nietos-20260921011622-nt.html",
+      "desc": "Vox tratará de frenar la artimaña de Sumar para colar como una enmienda la polémica instrucción de la 'ley de nietos' suspensa cautelarmente por el Tribunal Supremo en el Proyecto de Ley por el que se modifican la Ley Orgánica 2/2006, de 3 de mayo, de Educació",
+      "date": "Tue, 22 Sep 2026 01:16:22 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "El Gobierno fracasará hoy en el nuevo intento de llevar el catalán a la UE",
+      "link": "https://www.abc.es/espana/espana-fracasara-hoy-nuevo-intento-llevar-catalan-20260922011612-nt.html",
+      "desc": "El Consejo de Asuntos Generales debatirá este martes nuevamente la cuestión de la inclusión del catalán y las demás lenguas regionales españolas en la lista de idiomas oficiales de la UE. Será un simple debate no una discusión formal ni mucho menos una votació",
+      "date": "Tue, 22 Sep 2026 01:16:12 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "El caso Juana Rivas da sus últimos coletazos tras 17 años de batalla judicial",
+      "link": "https://www.abc.es/espana/andalucia/granada/juana-rivas-ultimos-coletazos-tras-anos-batalla-20260922011540-nts.html",
+      "desc": "La granadina Juana Rivas y quien fue su marido, el italiano Francesco Arcuri, se han pasado media vida pleiteando. Ha habido tantos episodios dirimidos en los juzgados, ha sido un combate de tantos asaltos, que parece imposible que vaya a tener nunca fin. Y si",
+      "date": "Tue, 22 Sep 2026 01:15:40 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "El consejero andaluz del PSOE que asesoró a Begoña Gómez ha cobrado un 51% más que Juanma Moreno",
+      "link": "https://www.abc.es/espana/andalucia/consejero-andaluz-psoe-asesoro-begona-gomez-cobrado-20260922011503-nts.html",
+      "desc": "El consejero de la Cámara de Cuentas de Andalucía a propuesta del PSOE, Antonio Manuel López Hernández, cerró el ejercicio fiscal de 2025 con unos ingresos atípicos para un alto cargo autonómico. El vocal, que está siendo investigado por elaborar un dictamen p",
+      "date": "Tue, 22 Sep 2026 01:15:03 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Los guardias civiles creen una «temeridad» el contrato al empresario marroquí fichado por Exteriores",
+      "link": "https://www.abc.es/espana/guardias-civiles-creen-temeridad-contrato-empresario-marroqui-20260921011447-nt.html",
+      "desc": "La noticia publicada por ABC este lunes ha desatado una ola de indignación en el seno del Instituto Armado. La revelación acerca del contrato adjudicado por la Fundación para la Internacionalización de las Administraciones Públicas (FIAP) -entidad dependiente ",
+      "date": "Tue, 22 Sep 2026 01:14:47 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "La investigación sobre Ceuta en la Audiencia Nacional podría acabar en el Supremo",
+      "link": "https://www.abc.es/espana/investigacion-sobre-ceuta-audiencia-acabar-supremo-20260922011435-nt.html",
+      "desc": "La investigación de la jueza María Tardón en la Audiencia Nacional, con la que trata de identificar a los responsables de incitar la invasión de España desde Marruecos los días 30 y 31 de julio, así como despejar qué decisiones se tomaron en nuestro país para ",
+      "date": "Tue, 22 Sep 2026 01:14:35 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "gen"
+    },
+    {
+      "title": "Antxon Alonso medió como «project manager» en la reforma del pueblo de Otegi antes del 'sí' del Gobierno vasco",
+      "link": "https://www.abc.es/espana/pais-vasco/antxon-alonso-cobro-200000-euros-partida-doble-20260811011429-nt.html",
+      "desc": "Una promotora del Plan General de Ordenación Urbana (PGOU) de Elgóibar (Guipúzcoa) contrató por 151.239 euros a Antxon Alonso Egurrola   como «project manager» antes de recibir la autorización del Gobierno vasco. La inmobiliaria Lurburu SL encargó por duplicad",
+      "date": "Tue, 22 Sep 2026 01:14:29 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Marruecos pretende extraditar al asesino de los guardias civiles de Barbate",
+      "link": "https://www.abc.es/espana/andalucia/cadiz/marruecos-pretende-repatriar-asesino-guardias-civiles-barbate-20260922011423-nts.html",
+      "desc": "Marruecos ha reclamado repatriar a Karim El Baqqali , el piloto de la narcolancha que embistió y mató a dos agentes de la Guardia Civil el pasado 9 de febrero en el puerto de Barbate (Cádiz). Este hombre tiene abierto un caso por narcotráfico en su país y las ",
+      "date": "Tue, 22 Sep 2026 01:14:23 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Carmen Calvo inicia los trámites para incapacitar a De la Vega en el Consejo de Estado",
+      "link": "https://www.abc.es/espana/calvo-inicia-tramites-incapacitar-vega-consejo-estado-20260922011417-nt.html",
+      "desc": "La presidenta del Consejo de Estado, Carmen Calvo, ha iniciado los trámites para incapacitar a su predecesora en la presidencia, actual consejera permanente y titular de la sección séptima del órgano consultivo, según avanzan en exclusiva diversas fuentes del ",
+      "date": "Tue, 22 Sep 2026 01:14:17 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "El centro ya no está de moda",
+      "link": "https://www.lavanguardia.com/opinion/20260922/11640754/centro-esta-moda.html",
+      "desc": "El discurso moderado tradicional es visto como algo superado y afín al establishment",
+      "date": "22 Sep 2026 00:05:00 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
+    {
+      "title": "Joan Manuel Serrat: “Piensas que un día fallarás, entonces ¿por qué seguir arriesgando?”",
+      "link": "https://www.lavanguardia.com/cultura/musica/20260922/11640759/joan-manuel-serrat-piensas-dia-fallaras-seguir-arriesgando.html",
+      "desc": "El 'Noi del Poble Sec' protagonizó junto a Sílvia Pérez Cruz el 'Diálogo Vanguardista' auspiciado por el festival de Peralada y 'La Vanguardia'",
+      "date": "22 Sep 2026 00:05:00 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
+    {
+      "title": "Serrat, Sílvia y el Mediterráneo de Calella",
+      "link": "https://www.lavanguardia.com/cultura/20260922/11640756/serrat-silvia-perez-cruz-mediterraneo-calella.html",
+      "desc": "",
+      "date": "22 Sep 2026 00:05:00 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
+    {
+      "title": "Admitida a trámite una querella por calumnias contra Esteban Morales, parlamentario del PSOE por Córdoba",
+      "link": "https://www.abc.es/espana/andalucia/cordoba/admitida-tramite-querella-calumnias-esteban-morales-parlamentario-20260921233851-nts.html",
+      "desc": "El juzgado de Instrucción número 4 de Córdoba ha admitido a trámite una querella contra el parlamentario del PSOE por la provincia Esteban Morales, según ha avanzado Diario Córdoba y ha podido confirmar ABC en fuentes judiciales. Dicha querella es por un posib",
+      "date": "Mon, 21 Sep 2026 23:38:51 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
     {
       "title": "Las campanas volverán a tocar por la noche en La Granja de la Costera",
       "link": "https://www.abc.es/espana/comunidad-valenciana/campanas-volveran-tocar-noche-granja-costera-20260921231456-nt.html",
@@ -43,200 +233,10 @@
       "caso": "other"
     },
     {
-      "title": "Dos cazas españoles desplegados en Estonia escoltan a una aeronave de vigilancia rusa en aguas internacionales",
-      "link": "https://www.abc.es/espana/dos-cazas-espanoles-desplegados-estonia-escoltan-aeronave-20260921211824-nt.html",
-      "desc": "Dos cazas EF-18M españoles han identificado y escoltado este lunes a una aeronave de vigilancia rusa que se encontraba sobre aguas internacionales, sin haberse comunicado con el control aéreo civil, según ha informado el Estado Mayor de la Defensa a través de ",
-      "date": "Mon, 21 Sep 2026 21:18:24 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Hallan en Jerez a un menor que cruzó desde Ceuta oculto en el autobús del Real Valladolid",
-      "link": "https://www.abc.es/espana/andalucia/cadiz/hallan-jerez-menor-cruzo-estrecho-ceuta-oculto-20260921211551-nts.html",
-      "desc": "De Ceuta a la península oculto en el autobús del Real Valladolid. Así atravesó este domingo el Estrecho de Gibraltar un menor que logró esconderse para salir de la ciudad autónoma, pero que, tras la travesía marítima y una hora de conducción por autovía , acab",
-      "date": "Mon, 21 Sep 2026 21:15:52 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Talavera cierra los accesos a las murallas de El Salvador y El Charcón por su rehabilitación",
-      "link": "https://www.abc.es/espana/castilla-la-mancha/toledo/talavera/talavera-cierra-accesos-murallas-salvador-charcon-rehabilitacion-20260921210117-nt.html",
-      "desc": "Los accesos a las murallas de El Salvador y El Charcón, en Talavera de la Reina, permanecerán cerrados temporalmente con motivo del inicio de unas obras que permitirán unir ambos tramos del recinto amurallado . Una intervención que tendrá una duración aproxima",
-      "date": "Mon, 21 Sep 2026 21:01:18 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Castilla-La Mancha, primera en incorporar transfusiones de sangre a las UVI móviles",
-      "link": "https://www.abc.es/espana/castilla-la-mancha/castillala-mancha-primera-incorporar-transfusiones-sangre-uvi-20260921204556-nt.html",
-      "desc": "Castilla-La Mancha se ha convertido en la primera comunidad autónoma de España en incorporar la transfusión sanguínea prehospitalaria a las UVI móviles de su sistema público de emergencias. El despliegue ha comenzado en Guadalajara y permitirá administrar sang",
-      "date": "Mon, 21 Sep 2026 20:48:06 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Hitachi busca rebajar el rebrote del conflicto de su planta en Córdoba: ofrece una mesa de negociación",
-      "link": "https://www.abc.es/espana/andalucia/cordoba/hitachi-busca-rebajar-rebrote-conflicto-planta-cordoba-20260921203726-nts.html",
-      "desc": "Hitachi, multinacional japonesa, ha salido este lunes al paso de las críticas realizadas por Sumar al hilo del largo conflicto laboral que afecta a su planta en Córdoba, y que está de nuevo escalando . Fuentes de la multinacional han señalado a ABC que ha real",
-      "date": "Mon, 21 Sep 2026 20:37:26 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "El PP de Málaga convoca su congreso con el aval de los alcaldes a su presidenta",
-      "link": "https://www.abc.es/espana/andalucia/malaga/pp-malaga-convoca-congreso-provincial-aval-alcaldes-20260921202427-nts.html",
-      "desc": "El Partido Popular de Málaga ha convocado este lunes, en el marco de su Junta Directiva Provincial, la celebración de su 15º Congreso Provincial, que tendrá lugar los próximos 6 y 7 de noviembre en el hotel NH de la capital, una cita que se marca como objetivo",
-      "date": "Mon, 21 Sep 2026 20:30:41 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "La Junta interviene «de emergencia» en el Palacio de los Hurtado  de Almazán tras un nuevo derrumbe",
-      "link": "https://www.abc.es/espana/castilla-leon/junta-interviene-urgencia-palacio-hurtado-almazan-tras-20260921202507-nt.html",
-      "desc": "La consejería de Cultura, Turismo y Deportes ha decidido intervenir de urgencia en el Palacio de los Hurtado de Mendoza, de la localidad soriana de Almazán, tras producirse este domingo un nuevo derrumbe en este inmueble siglo XV, que ostenta la declaración de",
-      "date": "Mon, 21 Sep 2026 20:25:07 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Muere el exalcalde de Mos (Pontevedra) Justo González Ballesta a los 74 años",
-      "link": "https://www.abc.es/espana/galicia/muere-exalcalde-mos-pontevedra-justo-gonzalez-ballesta-20260921201925-nt.html",
-      "desc": "El exalcalde de Mos (Pontevedra) Justo José González Ballesta ha fallecido este lunes a los 74 años de edad, según ha informado el Ayuntamiento en sus redes sociales. Regidor de la localidad pontevedresa entre 1986 y 1898 y entre 1991 y 1997, el propio gobiern",
-      "date": "Mon, 21 Sep 2026 20:19:25 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Fernando Germán Benítez toma posesión como nuevo fiscal jefe de Málaga: «Conozco esta administración como nadie»",
-      "link": "https://www.abc.es/espana/andalucia/malaga/fernando-german-benitez-toma-posesion-nuevo-fiscal-20260921201422-nts.html",
-      "desc": "Hay quienes ejercen su carrera profesional saltando de ciudad en ciudad. Fernando Germán Benítez Pérez-Fajardo no es uno de ellos. Él llegó a Málaga en 2007, un año después de aprobar la oposición, y ya no se movió de la ciudad. «Conozco esta fiscalía como nad",
-      "date": "Mon, 21 Sep 2026 20:15:02 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Llorca se reúne con Tellado en Génova mientras espera que el PP le oficialice como candidato",
-      "link": "https://www.abc.es/espana/comunidad-valenciana/llorca-reune-tellado-genova-espera-pp-oficialice-20260921200925-nt.html",
-      "desc": "El presidente de la Generalitat, Juanfran Pérez Llorca, ha mantenido este lunes una reunión con el secretario general del PP, Miguel Tellado, en la sede del partido en Madrid. El encuentro en la calle Génova se produce en medio de la incertidumbre por el retra",
-      "date": "Mon, 21 Sep 2026 20:09:25 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Dos detenidos y 32 disparos contra una vivienda en una disputa entre clanes en El Ejido",
-      "link": "https://www.abc.es/espana/andalucia/almeria/dos-detenidos-disparos-vivienda-disputa-clanes-ejido-20260921200721-nts.html",
-      "desc": "La Policía Nacional ha detenido este lunes a dos personas y ha intervenido varias armas de fuego en el marco de una disputa entre distintas familias que ha derivado en dos episodios con disparos en la barriada de Santa María del Águila, en El Ejido (Almería). ",
-      "date": "Mon, 21 Sep 2026 20:07:21 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Misión conseguida: la hermandad de la Sentencia de Córdoba reúne 16.000 euros para un pozo en Perú",
-      "link": "https://www.abc.es/espana/andalucia/cordoba/semana-santa/mision-conseguida-hermandad-sentencia-cordoba-reune-16000-20260921195950-nts.html",
-      "desc": "La fiesta benéfica del cincuentenario de María Santísima de Gracia y Amparo, celebrada en la Bodega Plateros, se salda con una cifra récord que la cofradía de la Sentencia destinará a la construcción de un pozo en Perú, que redundará en la mejora de vida de lo",
-      "date": "Mon, 21 Sep 2026 19:59:50 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "La versatilidad en ataque guía el camino del Córdoba CF: ocho goleadores distintos en seis jornadas",
-      "link": "https://www.abc.es/espana/andalucia/cordoba/cordoba-cf/versatilidad-ataque-guia-camino-cordoba-ocho-goleadores-20260921195816-nts.html",
-      "desc": "El Córdoba CF perdió este verano la friolera de 28 tantos tras las despedidas de Adrián Fuentes, Jacobo y Sergi Guardiola. Una renta importante, especialmente en un año donde el conjunto blanquiverde busca dar un salto más en sus aspiraciones. Por ello, lejos ",
-      "date": "Mon, 21 Sep 2026 19:58:16 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Fepamic convierte a Córdoba en epicentro de la innovación social: «La discapacidad sigue siendo una barrera de entrada al mercado laboral»",
-      "link": "https://www.abc.es/espana/andalucia/cordoba/fepamic-convierte-cordoba-epicentro-innovacion-social-discapacidad-20260921195756-nts.html",
-      "desc": "El Palacio de Congresos de Córdoba acoge este 21 y 22 de septiembre las I Jornadas Técnicas de Innovación Social y Discapacidad, INNODISCAP 2026. Se trata de un encuentro impulsado por FEPAMIC que sirve para reunir a profesionales, entidades sociales, empresas",
-      "date": "Mon, 21 Sep 2026 19:57:56 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Córdoba celebra el Día Mundial del Alzheimer: «Hoy es el día donde no debemos olvidar a los que olvidan»",
-      "link": "https://www.abc.es/espana/andalucia/cordoba/cordoba-celebra-dia-mundial-alzheimer-hoy-dia-20260921195751-nts.html",
-      "desc": "'El no ya no es una respuesta'. Ese es el eslogan con el que celebra este año la Asociación San Rafael de Alzheimer Córdoba el Día Mundial del Alzheimer . Su presidente, Manuel Blasco ha explicado que el eslogan significa que «no podemos esperar a que las Admi",
-      "date": "Mon, 21 Sep 2026 19:57:52 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
       "title": "El canto a la libertad de Pau Casals resuena en el Congreso en el día internacional de la Paz",
       "link": "https://www.lavanguardia.com/cultura/20260921/11640625/canto-libertad-pau-casals-resuena-congreso-dia-internacional-paz.html",
       "desc": "El Parlamento rinde homenaje al intérprete de 'El cant dels ocells' en el 150.º aniversario de su nacimiento",
       "date": "21 Sep 2026 19:57:44 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "La Guardia Civil acude por un altercado a una casa de Hinojosa del Duque y halla un cultivo de marihuana",
-      "link": "https://www.abc.es/espana/andalucia/cordoba/investigan-persona-hinojosa-duque-cultivo-marihuana-plantas-20260921195743-nts.html",
-      "desc": "La Guardia Civil ha investigado recientemente a una persona en Hinojosa del Duque por cultivo y elaboración de drogas. El cuerpo abrió las diligencias al descubrir en la vivienda del individuo 39 plantas de marihuana, algunas con tallos próximos al metro de al",
-      "date": "Mon, 21 Sep 2026 19:57:43 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Paramount pacta con los fiscales de EE.UU. y allana el camino para la compra de Warner Bross",
-      "link": "https://www.lavanguardia.com/economia/20260921/11640701/paramount-pacta-fiscales-ee-uu-allana-camino-compra-warner-bross.html",
-      "desc": "El pacto eliminaría el último obstáculo relevante al que se enfrentaba el magnate de los medios David Ellison para crear un imperio de noticias y entretenimiento que reuniría dos estudios cinematográficos históricos, HBO, CBS y CNN",
-      "date": "21 Sep 2026 19:52:49 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "La Abogacía del Estado acusa al Supremo de “excederse” al paralizar el voto por la ley de nietos",
-      "link": "https://www.lavanguardia.com/politica/20260921/11640628/abogacia-acusa-supremo-excederse-paralizar-voto-ley-nietos.html",
-      "desc": "El escrito&nbsp;sostiene que “nadie puede predecir el sentido del voto de las personas incorporadas al censo, y en todo caso, no podría alterar el resultado electoral por pura matemática”.",
-      "date": "21 Sep 2026 17:57:13 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "Junts se ausenta del homenaje del Congreso a Pau Casals al considerar que no se destaca su catalanismo",
-      "link": "https://www.lavanguardia.com/politica/20260921/11640623/junts-ausenta-homenaje-congreso-pau-casals-considerar-destaca-catalanismo.html",
-      "desc": "La formación de Carles Puigdemont exige por carta a la presidenta de la Cámara, Francina Armengol, que el acto se haga en catalán como condición para asistir",
-      "date": "21 Sep 2026 17:48:08 +0200",
       "source": "La Vanguardia",
       "color": "#8e44ad",
       "feedId": "LaVanguardia",
