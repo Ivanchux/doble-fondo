@@ -1,7 +1,27 @@
 {
-  "updated": "2026-09-22T23:57:13Z",
+  "updated": "2026-09-23T03:39:21Z",
   "count": 24,
   "items": [
+    {
+      "title": "Madrid suma 45 nuevas viviendas de alquiler asequible en El Cañaveral de 1 a 3 habitaciones: requisitos y cómo inscribirse en el sorteo",
+      "link": "https://www.abc.es/espana/madrid/madrid-suma-nuevas-viviendas-alquiler-asequible-canaveral-20260923050000-nt.html",
+      "desc": "El precio del alquiler en Madrid es un problema que afecta a gran parte de la población. Jóvenes y familias no pueden hacer frente a unos alquileres desorbitados, incluso alquilando una sola habitación. Según un análisis de la Organización de Consumidores y Us",
+      "date": "Wed, 23 Sep 2026 05:00:19 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Fiestas de La Mercè 2026: programa, conciertos, horarios, actividades y cortes de tráfico previstos",
+      "link": "https://www.abc.es/espana/cataluna/fiestas-merce-2026-programa-conciertos-horarios-actividades-20260923050000-nt.html",
+      "desc": "Barcelona vuelve a llenarse de música, fuego y cultura popular con la llegada de La Mercè 2026. La Fiesta Mayor comienza este miércoles 23 de septiembre y se prolongará hasta el domingo 27, cinco jornadas con 109 conciertos , 55 actuaciones de cultura popular ",
+      "date": "Wed, 23 Sep 2026 05:00:07 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
     {
       "title": "Tres Cantos, municipio de 1991, pide auditar el censo exterior tras sumar 200 electores por la ley de nietos",
       "link": "https://www.abc.es/espana/madrid/tres-cantos-municipio-1991-pide-auditar-censo-20260922013002-nt.html",
@@ -153,7 +173,7 @@
       "caso": "other"
     },
     {
-      "title": "Sánchez reclama una alianza global para una IA responsable frente a los tecno-oligarcas",
+      "title": "Sánchez reclama una alianza global contra los tecno-oligarcas de la IA para proteger a los niños",
       "link": "https://www.lavanguardia.com/vida/20260923/11641872/sanchez-reclama-alianza-global-ia-responsable-frente-tecno-oligarcas.html",
       "desc": "El presidente español subrayó que hay que desarrollar la Inteligencia Artificial planteando unos límites claros, con responsabilidad y cooperación para que trabaje para la humanidad y no al contrario",
       "date": "23 Sep 2026 00:32:39 +0200",
@@ -187,26 +207,6 @@
       "link": "https://www.abc.es/espana/andalucia/cordoba/diputacion-entrega-premios-merito-turistico-convertir-cordoba-20260922232051-nts.html",
       "desc": "El Patio Barroco de la Diputación de Córdoba ha acogido el acto de entrega de los Reconocimientos al Mérito Turístico que, de la mano del Patronato Provincial de Turismo que «permiten poner el foco en quienes dedican su esfuerzo a convertir a Córdoba en un des",
       "date": "Tue, 22 Sep 2026 23:20:51 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Lo llaman primarias",
-      "link": "https://www.abc.es/espana/castilla-leon/llaman-primarias-20260922225332-nt.html",
-      "desc": "Nadie sabe en qué momento del año que viene serán las elecciones generales, pero en las agrupaciones regionales, provinciales y locales del PSOE desean que sean antes de las elecciones municipales y autonómicas de mayo, para tratar de sortear el posible castig",
-      "date": "Tue, 22 Sep 2026 22:53:32 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "El auge de la Formación Profesional choca con dificultades en el transporte",
-      "link": "https://www.abc.es/espana/castilla-leon/auge-formacion-profesional-choca-dificultades-transporte-20260921225316-nt.html",
-      "desc": "El 'boom' de la Formación Profesional ha hecho que el número de matriculados en esta enseñanza no haya dejado de crecer en los últimos tiempos. Lejos queda ya la percepción de que estas titulaciones podrían ser 'de segunda' y se sitúan ya en la cúspide educati",
-      "date": "Tue, 22 Sep 2026 22:53:16 +0200",
       "source": "ABC",
       "color": "#c0392b",
       "feedId": "ABC",
