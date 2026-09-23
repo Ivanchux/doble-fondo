@@ -1,7 +1,87 @@
 {
-  "updated": "2026-09-23T19:24:11Z",
+  "updated": "2026-09-23T22:38:00Z",
   "count": 24,
   "items": [
+    {
+      "title": "El PP lleva al Senado la reforma de la ley de extranjería para devolver a los inmigrantes que llegan a nado",
+      "link": "https://www.abc.es/espana/pp-lleva-reforma-ley-extranjeria-senado-retratar-20260924231850-nt.html",
+      "desc": "El PP llevará al Senado una reforma urgente de la ley de extranjería. La proposición de ley se debatirá y votará en apenas una semana, el próximo miércoles. El objetivo es meter presión al Gobierno, que en algunos momentos se ha mostrado partidario de este cam",
+      "date": "Wed, 23 Sep 2026 23:18:50 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "El Ayuntamiento de Córdoba renuncia al final a la subida del 1,9% del agua en 2027 y las tarifas se mantendrán",
+      "link": "https://www.abc.es/espana/andalucia/cordoba/ayuntamiento-cordoba-renuncia-final-subida-agua-2027-20260923223924-nts.html",
+      "desc": "El Ayuntamiento de Córdoba no subirá al final el recibo del agua en 2027 —año de las elecciones municipales—, pese a que inicialmente planteó un aumento para el próximo ejercicio del 1,9%. El portavoz municipal del PSOE, Antonio Hurtado, lo ha anunciado este m",
+      "date": "Wed, 23 Sep 2026 22:39:24 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Seis conciertos en La Coruña para este otoño: artistas, fechas y cartel completo de LiveXperience",
+      "link": "https://www.abc.es/espana/galicia/seis-conciertos-coruna-otono-artistas-fechas-cartel-20260923220003-nt.html",
+      "desc": "La Coruña suma seis conciertos a su agenda musical de otoño de 2026 con la tercera edición de A Coruña LiveXperience by CaixaBank, un ciclo que reunirá en el Palacio de la Ópera a artistas de estilos muy distintos, desde el blues y el soul hasta la canción de ",
+      "date": "Wed, 23 Sep 2026 22:00:03 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Barcelona arranca las fiestas de la Mercè reivindicándose a sí misma",
+      "link": "https://www.lavanguardia.com/local/barcelona/20260923/11642565/barcelona-arranca-fiestas-merce-reivindicandose.html",
+      "desc": "Los bodegueros Meritxell y Toni Falgueras dedican su pregón al comercio de proximidad",
+      "date": "23 Sep 2026 21:58:54 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
+    {
+      "title": "Collboni da inicio a La Mercè 2026 llamando a proteger la «identidad» de Barcelona",
+      "link": "https://www.abc.es/espana/cataluna/collboni-inicio-merce-2026-llamando-proteger-identidad-20260923214356-nt.html",
+      "desc": "El alcalde de Barcelona, Jaume Collboni, ha dado inicio a las fiestas de La Mercè 2026 llamando a proteger la «identidad» de Barcelona, garantizando el derecho a la vivienda e impulsando el comercio local. Lo ha dicho este miércoles antes de dar paso al pregón",
+      "date": "Wed, 23 Sep 2026 21:43:57 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Sánchez culpa a Ayuso y Almeida de la “tragedia social” del desahucio de Maricarmen",
+      "link": "https://www.lavanguardia.com/politica/20260923/11642560/sanchez-culpa-ayuso-almeida-tragedia-social-desahucio-maricarmen-urge-grupos-apoyar-decreto-vivienda.html",
+      "desc": "El presidente del Gobierno advierte desde Nueva York que Marruecos ya refuerza su control de las fronteras con Ceuta y Melilla",
+      "date": "23 Sep 2026 21:33:35 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
+    {
+      "title": "El último tiroteado en Málaga es un líder ultra del Fenerbahçe turco",
+      "link": "https://www.abc.es/espana/andalucia/malaga/ultimo-tiroteado-malaga-lider-ultra-fenerbace-turco-20260923211854-nts.html",
+      "desc": "Uno de los líderes de los ultras del Fenerbahçe , uno de los principales equipos de fútbol de Turquía, está en la Unidad de Cuidados Intensivos (UCI) en Málaga tras se tiroteado en la terraza de un restaurante cuando cenaba con su novia y un amigo. Y no es cua",
+      "date": "Wed, 23 Sep 2026 21:19:49 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Sánchez responsabiliza a Ayuso y Almeida del desahucio de Maricarmen",
+      "link": "https://www.abc.es/espana/madrid/sanchez-senala-ayuntamiento-madrid-comunidad-responsables-desahucio-20260923211717-nt.html",
+      "desc": "El desahucio de Maricarmen en pleno centro de Madrid no solo ha dado la vuelta a España, sino que ha atravesado fronteras para llegar hasta Nueva York. En el marco de la Asamblea General de Naciones Unidas, el presidente del Gobierno, Pedro Sánchez, se ha pron",
+      "date": "Wed, 23 Sep 2026 21:17:18 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
     {
       "title": "El FBI investiga el pirateo masivo de datos de miles de sus agentes a través de una página web de empleo",
       "link": "https://www.lavanguardia.com/internacional/20260923/11642551/fbi-investiga-pirateo-masivo-datos-miles-agentes-traves-pagina-web-empleo.html",
@@ -43,9 +123,9 @@
       "caso": "other"
     },
     {
-      "title": "Centenares de personas se concentran frente al ático de Chamberí al grito de «vergüenza» y «fuera fondos buitre»",
+      "title": "Miles de personas se concentran frente al ático de Chamberí al grito de «vergüenza» y «fuera fondos buitre»",
       "link": "https://www.abc.es/espana/madrid/centenares-personas-concentran-frente-atico-chamberi-grito-20260923202421-nt.html",
-      "desc": "Centenares de personas se han concentrado este miércoles frente al ático de Chamberí que adquirió la Comunidad de Madrid , al grito de «vergüenza», «fuera fondos buitre» y «Ayuso dimisión» , tras el desahucio de Maricarmen , la vecina del distrito de Retiro qu",
+      "desc": "Miles de personas –10.000, según datos de la Delegación del Gobierno– se han concentrado este miércoles frente al ático de Chamberí, que adquirió la Comunidad de Madrid, al grito de «vergüenza», «fuera fondos buitre», « el ático para Maricarmen » y «Ayuso dimi",
       "date": "Wed, 23 Sep 2026 20:24:22 +0200",
       "source": "ABC",
       "color": "#c0392b",
@@ -75,7 +155,7 @@
     {
       "title": "Tres narcos paranoicos ocultos en un piso turístico mataron a Nacho en Málaga",
       "link": "https://www.abc.es/espana/andalucia/malaga/tres-narcos-suecos-alojados-piso-turistico-mataron-20260923200125-nts.html",
-      "desc": "Nacho solo los miró. Esa fue condena. Observar a tres extraños con pinta de africanos en su barrio le costó la vida. Vestían la típica moda de narco joven de bandolera cruzada. Lo que eran. Sentado en una escalinata, Nacho los miraba, extrañado. ¿Qué hacia esa",
+      "desc": "Nacho solo los miró. Esa fue su condena. Observar a tres extraños con pinta de africanos en su barrio le costó la vida. Vestían la típica moda de narco joven de bandolera cruzada. Lo que eran. Sentado en una escalinata, Nacho los miraba, extrañado. ¿Qué hacía ",
       "date": "Wed, 23 Sep 2026 20:18:49 +0200",
       "source": "ABC",
       "color": "#c0392b",
@@ -153,90 +233,10 @@
       "caso": "other"
     },
     {
-      "title": "Sánchez ofrece una rueda de prensa desde Nueva York",
-      "link": "https://www.lavanguardia.com/politica/20260923/11642511/sanchez-ofrece-rueda-prensa-nueva-york.html",
-      "desc": "Sánchez se encuentra en Nueva York con motivo del 81.º período de sesiones de la Asamblea General de las Naciones Unidas",
-      "date": "23 Sep 2026 19:43:53 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
       "title": "Colau pide a los Comuns salir del Gobierno por el desahucio de Maricarmen: «No podemos ser cómplices de la cobardía del PSOE»",
       "link": "https://www.abc.es/espana/colau-pide-comuns-salir-gobierno-sanchez-podemos-20260923193908-nt.html",
       "desc": "La exalcaldesa de Barcelona y fundadora de los Comuns, Ada Colau, ha pedido a su partido que rompan con Pedro Sánchez si el Gobierno no hace el «máximo esfuerzo para enfrentarse» a los fondos buitres. Colau, que desde hace semanas amenaza con volver a la prime",
       "date": "Wed, 23 Sep 2026 19:43:39 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Puigdemont podría regresar a España en cuanto el Tribunal Constitucional amnistíe a Turull el día 6",
-      "link": "https://www.abc.es/espana/cataluna/fugado-regresar-espana-tribunal-constitucional-amnistie-turull-20260924194034-nt.html",
-      "desc": "Carles Puigdemont ya prepara su regreso a España, que según su entorno podría producirse en las próximas semanas. En el calendario tienen marcadas las fechas del 1 de octubre, aunque no parece la más probable, y el 27 de ese mismo mes. La decisión que tomó est",
-      "date": "Wed, 23 Sep 2026 19:40:34 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "La terapeuta de los Andic asegura que desconocía la excursión a Collbató y niega el intrusismo",
-      "link": "https://www.lavanguardia.com/sucesos/20260923/11642499/terapeuta-andic-asegura-desconocia-excursion-collbato-niega-intrusismo-mediadora-familiar.html",
-      "desc": "Los abogados de Maria Julia Luderwaltd denuncian una campaña de desprestigio y subrayan que su clienta ignoraba la excursión de Collbató de Jonathan Andic con su padre",
-      "date": "23 Sep 2026 19:31:10 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "Los padres estallan contra el calor en las aulas: «Nuestros hijos no pueden más»",
-      "link": "https://www.abc.es/espana/castilla-la-mancha/toledo/padres-estallan-calor-aulas-hijos-pueden-20260923192505-nt.html",
-      "desc": "«Tenemos calor». El grito de los niños que sostenían las pancartas abrió este miércoles en Zocodover una nueva movilización de las familias de los colegios públicos de Toledo para reclamar aulas climatizadas. Más de 200 personas, entre padres, madres, alumnos ",
-      "date": "Wed, 23 Sep 2026 19:25:06 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "El gobierno provincial de Guadalajara rechaza ceder 50 hm del Sorbe a Madrid: «No hay excedentes»",
-      "link": "https://www.abc.es/espana/castilla-la-mancha/gobierno-provincial-guadalajara-rechaza-ceder-sorbe-madrid-20260923191621-nt.html",
-      "desc": "El equipo de Gobierno de la Diputación de Guadalajara rechaza que se detraigan 50 hectómetros cúbicos anuales del río Sorbe para abastecer a la Comunidad de Madrid porque sostiene que «no hay excedentes» y que las necesidades de los municipios que actualmente ",
-      "date": "Wed, 23 Sep 2026 19:16:21 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "La terapeuta de los Andic niega haber tenido conocimiento de la excursión de padre e hijo a Montserrat",
-      "link": "https://www.abc.es/espana/cataluna/terapeuta-andic-niega-haber-conocimiento-excursion-padre-20260923191550-nt.html",
-      "desc": "La terapeuta de los Andic , Julia Lüderwaldt, ha roto su silencio este miércoles. Lo ha hecho través de su abogado, Francesc Jufresa, para negar haber tenido conocimiento del paseo entre padre e hijo, Isak y Jonathan, por Montserrat, que se saldó con la caída ",
-      "date": "Wed, 23 Sep 2026 19:15:51 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Controlado un incendio en un silo de residuos de una planta de reciclaje de As Pontes",
-      "link": "https://www.abc.es/espana/galicia/controlado-incendio-silo-residuos-planta-reciclaje-pontes-20260923191538-nt.html",
-      "desc": "Un incendio declarado este miércoles en un silo de la planta de reciclaje del polígono industrial de Os Eirios, en As Pontes de García Rodríguez (La Coruña), ha movilizado a varios equipos de emergencias. Según ha informado el 112 Galicia, el fuego se encuentr",
-      "date": "Wed, 23 Sep 2026 19:15:38 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "La Junta impulsa una nueva captación de agua para los 1.500 vecinos afectados por la emergencia del Pusa",
-      "link": "https://www.abc.es/espana/castilla-la-mancha/toledo/pueblos/junta-impulsa-nueva-captacion-agua-1500-vecinos-20260923190826-nt.html",
-      "desc": "La búsqueda de nuevas reservas de agua ha llevado estos días a Retamoso de la Jara a mirar bajo tierra. Allí, los trabajos impulsados por el Gobierno de Castilla-La Mancha para realizar un sondeo de emergencia avanzan con resultados «satisfactorios», según ha ",
-      "date": "Wed, 23 Sep 2026 19:08:26 +0200",
       "source": "ABC",
       "color": "#c0392b",
       "feedId": "ABC",
