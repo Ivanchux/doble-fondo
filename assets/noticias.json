@@ -1,46 +1,246 @@
 {
-  "updated": "2026-09-24T02:49:06Z",
-  "count": 4,
+  "updated": "2026-09-24T08:56:41Z",
+  "count": 24,
   "items": [
     {
-      "title": "Zapatero necesita un certificado de Arabia Saudí para conseguir tumbar su imputación por delito fiscal y de contrabando",
-      "link": "https://www.abc.es/espana/zapatero-necesita-certificado-arabia-saudi-conseguir-tumbar-20260923012156-nt.html",
-      "desc": "Una respuesta de Arabia Saudí. Eso es lo que necesita el expresidente del Gobierno José Luis Rodríguez Zapatero para intentar tumbar su imputación por presuntos delito fiscal y de contrabando por las joyas que le fueron incautadas en su despacho en la madrileñ",
-      "date": "Thu, 24 Sep 2026 01:21:56 +0200",
+      "title": "El desahucio de Maricarmen enfrenta a Mónica Garcia y Óscar Puente: «A izquierdista no me gana nadie»",
+      "link": "https://www.abc.es/espana/desahucio-maricarmen-provoca-rifirrafe-ministros-gobierno-izquierdista-20260924102855-nt.html",
+      "desc": "El desahucio de Maricarmen, una mujer de 87 años que residía desde hace siete décadas en el madrileño distrito de Retiro, ha abierto un nuevo frente dentro del Gobierno de coalición. La ministra de Sanidad, Mónica García, y el titular de Transportes, Óscar Pue",
+      "date": "Thu, 24 Sep 2026 10:35:03 +0200",
       "source": "ABC",
       "color": "#c0392b",
       "feedId": "ABC",
-      "caso": "zap"
+      "caso": "other"
     },
     {
-      "title": "Zapatero ocultó en su declaración como expresidente las joyas que asegura que recibió del Rey de Arabia Saudí",
-      "link": "https://www.abc.es/espana/zapatero-oculto-declaracion-expresidente-joyas-asegura-recibio-20260924012045-nt.html",
-      "desc": "En 2012, y ya fuera del Palacio de la Moncloa, José Luis Rodríguez Zapatero declaró más de 500 regalos que recibió mientras ejercía como presidente del Gobierno. Entre ellos no estaban tres juegos de joyas compuestas de rubíes, esmeraldas y zafiros por los que",
-      "date": "Thu, 24 Sep 2026 01:20:45 +0200",
+      "title": "Muere un hombre en Cee después de ser atropellado",
+      "link": "https://www.abc.es/espana/galicia/muere-hombre-cee-despues-atropellado-20260924103000-nt.html",
+      "desc": "Un hombre ha fallecido este jueves tras ser atropellado en la VG-1.4, a su paso por la parroquia de Toba, en el municipio coruñés de Cee. El accidente se produjo, aproximadamente, en el kilómetro 4 de la vía. Según ha informado el 112 y ha podido confirmar Ep,",
+      "date": "Thu, 24 Sep 2026 10:30:00 +0200",
       "source": "ABC",
       "color": "#c0392b",
       "feedId": "ABC",
-      "caso": "zap"
+      "caso": "other"
     },
     {
-      "title": "La Audiencia Nacional absuelve a Gonzalo Boye de blanqueo en el caso del narco Sito Miñanco",
-      "link": "https://www.lavanguardia.com/politica/20260923/11642285/audiencia-nacional-absuelve-gonzalo-boye-blanquear-narco-sito-minanco.html",
-      "desc": "El letrado del expresidente catalán Carles Puigdemont queda exonerado de los delitos de blanqueo de capitales y falsedad documental",
-      "date": "23 Sep 2026 15:35:28 +0200",
+      "title": "Mazón se personará en tres causas contra quienes le amenazaron de muerte tras la dana",
+      "link": "https://www.lavanguardia.com/local/valencia/20260924/11642860/mazon-personara-tres-causas-quienes-le-amenazaron-muerte-dana.html",
+      "desc": "El expresidente se sumará a las acciones que emprendió Abogacía de la Generalitat contra usuarios de las redes sociales que le dijeron frases como “La horca te espera y nosotros la ataremos a tu cuello traidor”",
+      "date": "24 Sep 2026 10:29:31 +0200",
       "source": "La Vanguardia",
       "color": "#8e44ad",
       "feedId": "LaVanguardia",
+      "caso": "other"
+    },
+    {
+      "title": "Detenidos varios trabajadores por el robo de tres lingotes de oro de 12.000 euros durante la reforma de una vivienda",
+      "link": "https://www.abc.es/espana/canarias/detenidos-varios-trabajadores-robo-tres-lingotes-oro-20260924102423-nt.html",
+      "desc": "Agentes de la Policía Nacional han detenido a tres personas por la sustracción de tres lingotes de oro valorados en 12.000 euros que fueron presuntamente robados en el interior de un domicilio del municipio La Laguna (Tenerife) mientras se estaba realizando un",
+      "date": "Thu, 24 Sep 2026 10:28:34 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Ayuso se escuda en la ley y devuelve a Sánchez la responsabilidad por el desahucio de Maricarmen",
+      "link": "https://www.lavanguardia.com/politica/20260924/11642855/ayuso-escuda-ley-devuelve-sanchez-responsabilidad-desahucio-maricarmen.html",
+      "desc": "La presidenta madrileña atribuye el desalojo a una orden judicial y acusa al presidente del Gobierno de alentar las protestas",
+      "date": "24 Sep 2026 10:25:30 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
+    {
+      "title": "Ayuso afirma que el desahucio de Maricarmen se hizo cumpliendo la ley: «No es una decisión nuestra»",
+      "link": "https://www.abc.es/espana/madrid/ayuso-acusa-sanchez-alentar-algaradas-madrid-alerta-20260924101857-nt.html",
+      "desc": "La presidenta de la Comunidad de Madrid, Isabel Díaz Ayuso , ha acusado este jueves al presidente del Gobierno, Pedro Sánchez, de alentar las protestas que se están produciendo en Madrid contra el desahucio de Maricarmen, la vecina de 87 años desalojada este m",
+      "date": "Thu, 24 Sep 2026 10:18:57 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "El Ayuntamiento de Córdoba no subirá la tasa de la basura en 2027",
+      "link": "https://www.abc.es/espana/andalucia/cordoba/ayuntamiento-cordoba-subira-tasa-basura-2027-20260924100142-nts.html",
+      "desc": "El proyecto de presupuestos de Sadeco (la empresa municipal de limpieza de Córdoba ) no recoge ninguna subida de la tasa de la basura para 2027 , que es ejercicio de elecciones municipales. Así se recoge en las cuentas para el próximo ejercicio, que serán apro",
+      "date": "Thu, 24 Sep 2026 10:01:42 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "La Junta de Andalucía publica la convocatoria de 228 plazas para Canal Sur, las primeras oposiciones en el ente público desde 2008",
+      "link": "https://www.abc.es/espana/andalucia/junta-andalucia-publica-convocatoria-228-plazas-canal-20260924095914-nts.html",
+      "desc": "La Radio y Televisión de Andalucía (RTVA) inicia un proceso selectivo después de casi 20 años sin producirse. El Boletín Oficial de la Junta de Andalucía (BOJA) ha publicado las bases reguladoras de la convocatoria de oposiciones para Canal Sur Radio y Televis",
+      "date": "Thu, 24 Sep 2026 09:59:14 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Una mujer con cáncer terminal será desahuciada este viernes en Tenerife",
+      "link": "https://www.abc.es/espana/canarias/mujer-cancer-terminal-desahuciada-viernes-tenerife-20260924095346-nt.html",
+      "desc": "Apenas unas horas después de que España sufra con conmoción el desahucio de Maricarmen, de 87 años, del piso en Madrid en el que llevaba viviendo 71 años, un nuevo desalojo sacude a la sociedad canaria. Se trata de una mujer de 54 años que padece cáncer termin",
+      "date": "Thu, 24 Sep 2026 09:53:46 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "«Guerra al invasor» y «Ceuta es España»: la sede del PSOE de Córdoba amanece con nuevas pintadas",
+      "link": "https://www.abc.es/espana/andalucia/cordoba/guerra-invasor-ceuta-espana-sede-psoe-cordoba-20260924094915-nts.html",
+      "desc": "La sede del PSOE en Córdoba ha amanecido con nuevas pintadas de contenido político en su fachada. Entre los mensajes escritos aparecen «Ceuta es España», «Guerra al invasor» , «Abajo el 78», «No robéis más» y «Falange Jons». El portavoz del PSOE en el Ayuntami",
+      "date": "Thu, 24 Sep 2026 09:49:15 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "La Torre de Caldaloba, más cerca de su recuperación tras resolverse la disputa por su propiedad",
+      "link": "https://www.abc.es/espana/galicia/torre-caldaloba-cerca-recuperacion-tras-resolverse-disputa-20260924094548-nt.html",
+      "desc": "La Torre de Caldaloba, situada en Cospeito (Lugo), afronta una nueva etapa tras una resolución judicial que, según ha informado la Xunta, ratifica su derecho de retracto sobre la parte del monumento adquirida por la Diputación de Lugo; es decir, su legitimidad",
+      "date": "Thu, 24 Sep 2026 09:46:47 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Roig Arena renueva sus creaciones audiovisuales con un espectáculo de luz y arte digital que rinde homenaje a Valencia",
+      "link": "https://www.abc.es/espana/comunidad-valenciana/roig-arena-renueva-creaciones-audiovisuales-espectaculo-luz-20260924094551-nt.html",
+      "desc": "Con el inicio de la nueva temporada de eventos de septiembre, Roig Arena ha renovado sus diseños audiovisuales, convirtiendo su arquitectura en un homenaje a Valencia y a las personas que le dan vida. A través de diez creaciones desarrolladas en 3D, el recinto",
+      "date": "Thu, 24 Sep 2026 09:45:51 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Valencia registra una rebaja media de 22.000 euros en el precio de los pisos a la venta",
+      "link": "https://www.abc.es/espana/comunidad-valenciana/valencia-registra-rebaja-media-22000-euros-precio-20260924093352-nt.html",
+      "desc": "Un nuevo estudio elaborado por el portal inmobiliario Idealista refleja que el 16% de los anuncios de pisos en venta rebajaron su precio con un descuento medio de 28.280 euros. En el caso de Valencia, el recorte es menor -22.037 euros-, pero el porcentaje de v",
+      "date": "Thu, 24 Sep 2026 09:39:41 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "¿Cuál es el mejor banco para pymes en España? El modelo de Santander que premia Euromoney",
+      "link": "https://www.lavanguardia.com/economia/20260924/11630886/cual-mejor-banco-pymes-espana-modelo-santander-reconocido-euromoney-brl.html",
+      "desc": "Euromoney distingue a Banco Santander por la transformación de su modelo para pequeñas y medianas empresas, basado en especialización, financiación, inteligencia artificial y análisis de datos",
+      "date": "24 Sep 2026 09:39:10 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
+    {
+      "title": "La segunda agresión con arma blanca en Talavera en apenas cinco días se salda con dos heridos",
+      "link": "https://www.abc.es/espana/castilla-la-mancha/segunda-agresion-arma-blanca-talavera-apenas-cinco-20260924093627-nt.html",
+      "desc": "Dos personas, un hombre de 42 años y una mujer de 72, han resultado heridas tras ser agredidas con un arma blanca en la noche de este miércoles en Talavera de la Reina. El autor del ataque, un varón de 42 años, ya ha sido detenido. La agresión tuvo lugar en la",
+      "date": "Thu, 24 Sep 2026 09:36:28 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Orense se adelanta casi medio siglo al envejecimiento previsto para España",
+      "link": "https://www.abc.es/espana/galicia/orense-adelanta-medio-siglo-envejecimiento-previsto-espana-20260924092408-nt.html",
+      "desc": "Orense ya tiene una población más envejecida que la prevista para el conjunto de España en 2074. El 32,1% de sus habitantes tiene 65 años o más, según el diagnóstico de la II Estrategia Nacional para la Equidad Territorial y el Reto Demográfico, aprobada por e",
+      "date": "Thu, 24 Sep 2026 09:24:08 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Noche intensa en la Ruta Canaria con 185 inmigrantes rescatados de tres cayucos",
+      "link": "https://www.abc.es/espana/canarias/noche-intensa-ruta-canaria-185-inmigrantes-rescatados-20260924091909-nt.html",
+      "desc": "Noche intensa de rescates en las aguas de Canarias, donde han sido localizadas tres embarcaciones irregulares con 185 personas a bordo. La tripulación de la Guardamar Urania ha sido la encargada de prestar auxilio a tres embarcaciones precarias, localizadas a ",
+      "date": "Thu, 24 Sep 2026 09:20:03 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
       "caso": "gen"
     },
     {
-      "title": "Zapatero alega ante el juez que las joyas proceden de un regalo de Arabia Saudí",
-      "link": "https://www.lavanguardia.com/politica/20260923/11642211/zapatero-alega-juez-joyas-proceden-regalo-arabia-saudi.html",
-      "desc": "El expresidente aclara que las joyas se entregaron en Madrid y aceptó el regalo por “deferencia” y “respeto” al&nbsp;Rey Abdullah Bin Abdulaziz Al-Saud",
-      "date": "23 Sep 2026 13:43:03 +0200",
+      "title": "Muere una mujer de 83 años atropellada y otra resulta herida en Argamasilla de Calatrava",
+      "link": "https://www.abc.es/espana/castilla-la-mancha/muere-mujer-anos-resulta-herida-tras-atropelladas-20260924091507-nt.html",
+      "desc": "La Policía Local de Argamasilla de Calatrava ha abierto un atestado para esclarecer las circunstancias del atropello ocurrido en la noche de este miércoles en un paso de peatones de la calle Carretera de Puertollano, en el que falleció una mujer de 83 años. En",
+      "date": "Thu, 24 Sep 2026 09:15:07 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "El «retrato» realista de Salamanca de Ángel Luis Iglesias: «Detrás de cada obra hay mucha observación»",
+      "link": "https://www.abc.es/espana/castilla-leon/retrato-salamanca-angel-luis-iglesias-detras-obra-20260924083815-nt.html",
+      "desc": "El presidente de la Junta de Castilla y León, Alfonso Fernández Mañueco, elogió ayer la «libertad del gesto pictórico en la forma de «armonizar la realidad» del artista salmantino Ángel Luis Iglesias, que este miércoles estrenó una exposición retrospectiva que",
+      "date": "Thu, 24 Sep 2026 08:38:38 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Premios Alimentos de España: Sabor y saber centenario de la tierra que recorre el mundo",
+      "link": "https://www.abc.es/espana/castilla-leon/sabor-saber-centenario-tierra-recorre-mundo-20260822082102-nt.html",
+      "desc": "Herederos de la tradición, del saber familiar, con arraigo a la tierra, pero que han sabido con el tiempo crecer, ampliar mercados y también innovar sin perder esa esencia con la que sus antepasados comenzaron en la aventura empresarial y que ha ido pasando de",
+      "date": "Thu, 24 Sep 2026 08:21:02 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "El talento, la IA y la comunicación, en el centro de la transformación industrial",
+      "link": "https://www.abc.es/espana/castilla-leon/talento-ia-comunicacion-centro-transformacion-industrial-20260922081953-nt.html",
+      "desc": "La IV edición del foro 'Mujer e Industria', celebrado en Burgos, ha concluido que el talento, la inteligencia artificial y la comunicación deben estar en el centro de la transformación industrial. En esta cuarta edición, el foro se ha consolidado como un espac",
+      "date": "Thu, 24 Sep 2026 08:19:53 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Industria en busca territorio",
+      "link": "https://www.abc.es/espana/castilla-leon/industria-busca-territorio-20260923081444-nt.html",
+      "desc": "Hay sectores industriales que de repente dejan de ser una posibilidad para convertirse en una oportunidad estratégica. La industria de defensa es hoy uno de ellos. La guerra de Ucrania, el nuevo escenario geopolítico y el aumento del gasto militar en Europa ha",
+      "date": "Thu, 24 Sep 2026 08:14:44 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Ignacio Ozores, 26 años, el cura más joven de Madrid: «Entré al seminario a los 18 años. Mi vocación sacerdotal apareció con mucha más intensidad en bachillerato»",
+      "link": "https://www.abc.es/espana/madrid/ignacio-ozores-anos-cura-joven-madrid-seminario-20260924150312-nt.html",
+      "desc": "A sus 26 años, Ignacio Ozores Puig , fue el sacerdote más joven en participar en la Asamblea Presbiteral CONVIVIUM , que se celebró en febrero en Madrid reuniendo a sacerdotes de distintas edades y trayectorias. Antes del evento, Ozores defendía lo que pueden ",
+      "date": "Thu, 24 Sep 2026 08:14:40 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Un juez bloquea el veto de Trump a la CNN, MS NOW y Politico",
+      "link": "https://www.lavanguardia.com/internacional/20260924/11642801/juez-bloquea-veto-trump-cnn-ms-now-politico.html",
+      "desc": "Considera que la prohibición impuesta a los tres medios de comunicación es probablemente inconstitucional",
+      "date": "24 Sep 2026 07:54:58 +0200",
       "source": "La Vanguardia",
       "color": "#8e44ad",
       "feedId": "LaVanguardia",
-      "caso": "zap"
+      "caso": "other"
     }
   ]
 }
