@@ -1,11 +1,101 @@
 {
-  "updated": "2026-09-24T19:44:27Z",
+  "updated": "2026-09-24T22:57:35Z",
   "count": 24,
   "items": [
     {
-      "title": "Más de 30 bomberos, dos avionetas y un helicóptero combaten un incendio forestal en Villanueva de Córdoba",
+      "title": "Junts pide rebajas fiscales para aprobar el decreto antidesahucios tras el caso Maricarmen",
+      "link": "https://www.lavanguardia.com/politica/20260925/11642978/junts-pide-rebajas-fiscales-aprobar-decreto-antidesahucios-caso-maricarmen.html",
+      "desc": "El Gobierno y el partido de Puigdemont recuperan la negociación aparcada en julio y se abre una posibilidad de acelerar medidas sobre vivienda",
+      "date": "25 Sep 2026 00:14:52 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
+    {
+      "title": "Leer, leer y volver a leer",
+      "link": "https://www.lavanguardia.com/opinion/20260925/11643291/leer-leer-volver-leer.html",
+      "desc": "Se trata­ de que las nuevas generaciones descubran el gozo de la lectura",
+      "date": "25 Sep 2026 00:05:00 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
+    {
+      "title": "Priego de Córdoba gana el galardón de la Junta a Destino Turístico Interior de Excelencia",
+      "link": "https://www.abc.es/espana/andalucia/cordoba/priego-cordoba-gana-galardon-junta-destino-turistico-20260924235741-nts.html",
+      "desc": "Priego de Cordoba ha brillado con luz propia en la noche de este juevez en los Premios Andalucía del Turismo 2026 , cuya gala ha tenido lugar en la Casa Colón de Huelva. Este municipio se ha hecho con el galardón al Destino Turístico Interior de Excelencia . S",
+      "date": "Thu, 24 Sep 2026 23:58:08 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Albares se ve con Bourita en Nueva York, sin resultados concretos: la devolución de inmigrantes será «lo antes posible»",
+      "link": "https://www.abc.es/espana/albares-bourita-nueva-york-resultados-concretos-devolucion-20260924235003-nt.html",
+      "desc": "El ministro de Asuntos Exteriores, José Manuel Albares , se reunió con su homólogo marroquí, Nasser Bourita, este jueves en Nueva York, en la primera reunión cara a cara entre los jefes de la diplomacia de España y Marruecos desde la invasión de Ceuta del pasa",
+      "date": "Thu, 24 Sep 2026 23:50:03 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Groenlandia, activo geoestratégico occidental clave",
+      "link": "https://www.abc.es/espana/jesus-argumosa-groenlandia-activo-geoestrategico-occidental-clave-20260924232538-nt.html",
+      "desc": "El pasado martes, día 22, los líderes de Estados Unidos, Dinamarca y Groenlandia firmaron el acuerdo de seguridad y defensa en una ceremonia celebrada en los márgenes de la Asamblea General de Naciones Unidas, en Nueva York. La ceremonia permitió conocer parte",
+      "date": "Thu, 24 Sep 2026 23:25:38 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Montero marca ahora distancias con Zapatero: «Yo no lo haría», afirma sobre las joyas",
+      "link": "https://www.abc.es/espana/andalucia/montero-marca-distancias-zapatero-afirma-sobre-joyas-20260924231432-nts.html",
+      "desc": "«Yo no lo haría. Pero confío en José Luis Rodríguez Zapatero ». La secretaria general de los socialistas de Andalucía y vicesecretaria del PSOE a nivel federal, María Jesús Montero , ha vuelto este jueves a defender al expresidente del Gobierno investigado por",
+      "date": "Thu, 24 Sep 2026 23:14:33 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "zap"
+    },
+    {
+      "title": "Javier González Calvo, exconsejero delegado del Córdoba CF, condenado a indemnizar al club con 524.465,63 euros por su gestión",
+      "link": "https://www.abc.es/espana/andalucia/cordoba/cordoba-cf/javier-gonzalez-calvo-exconsejero-delegado-cordoba-condenado-20260924230337-nts.html",
+      "desc": "El Córdoba CF cierra otra carpeta judicial. Javier González Calvo, quien fuera consejero delegado de la entidad entre 2019 y 2023, ha sido condenado a indemnizar al club blanquiverde con más de medio millón de euros por su gestión al frente de la entidad. Sobr",
+      "date": "Thu, 24 Sep 2026 23:03:38 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Netanyahu acusa a Mamdani en la ONU de elogiar a criminales y ser amigo de Hamas",
+      "link": "https://www.lavanguardia.com/internacional/20260924/11643269/netanyahu-acusa-mamdani-onu-elogiar-criminales-amigo-hamas.html",
+      "desc": "Desde el estrado de la Asamblea General, el líder israelí acusa al alcalde de la inseguridad hacia la comunidad judía de Nueva York y su difusión a otros lugares",
+      "date": "24 Sep 2026 22:07:45 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
+    {
+      "title": "Prisión para un profesor por violar y abusar de 22 alumnos en una escuela infantil de París",
+      "link": "https://www.lavanguardia.com/vida/20260924/11643264/prision-profesor-violar-abusar-22-alumnos-escuela-infantil-paris.html",
+      "desc": "La empresa asegura que&nbsp;durante su contratación se realizó el protocolo sin que ningún elemento impidiera su trabajo con menores, una justificación que no convence a las familias",
+      "date": "24 Sep 2026 21:50:51 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
+    {
+      "title": "El Infoca da por controlado el incendio forestal de Pozoblanco",
       "link": "https://www.abc.es/espana/andalucia/cordoba/bomberos-dos-avionetas-helicoptero-combaten-incendio-forestal-20260924211921-nts.html",
-      "desc": "Efetivos del Infoca , operativo de la Junta contra los incendios forestales, trabajan en estos momentos en apagar un incendio declarado en la tarde de este jueves en el paraje El Caballón, situado en Villanueva de Córdoba . Según informa el Infoca en sus redes",
+      "desc": "Efetivos del Infoca , operativo de la Junta contra los incendios forestales, han dado sobre las 22.30 por controlado un incendio que declarado en la tarde de este jueves en el paraje El Caballón, situado en Pozoblanco . Según informó el Infoca en sus redes soc",
       "date": "Thu, 24 Sep 2026 21:19:22 +0200",
       "source": "ABC",
       "color": "#c0392b",
@@ -23,7 +113,7 @@
       "caso": "other"
     },
     {
-      "title": "España boicotea el discurso de Netanyahu en la ONU",
+      "title": "España boicotea el discurso desafiante de Netanyahu en la ONU",
       "link": "https://www.abc.es/espana/espana-boicotea-discurso-netanyahu-onu-20260924210028-nt.html",
       "desc": "La delegación española participó en el boicot de decenas de miembros de la ONU al discurso ante la Asamblea General del primer ministro de Israel, Benjamin Netanyahu, en el episodio más turbulento hasta ahora del gran cónclave anual de la comunidad internacion",
       "date": "Thu, 24 Sep 2026 21:00:28 +0200",
@@ -150,96 +240,6 @@
       "source": "ABC",
       "color": "#c0392b",
       "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Vadym Kholodenko y Simon Trpceski, entre las estrellas del Festival de Piano Rafael Orozco de Córdoba",
-      "link": "https://www.abc.es/espana/andalucia/cordoba/vadym-kholodenko-simon-trpceski-estrellas-festival-piano-20260924201109-nts.html",
-      "desc": "La XXIV edición del Festival Internacional de Piano Rafael Orozco tendrá lugar entre el 22 de octubre y el 13 de noviembre y, entre otros nombres muy destacados, contará con la presencia de Vadym Kholodenko , pianista ucraniano y medalla de oro del Concurso In",
-      "date": "Thu, 24 Sep 2026 20:11:09 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Córdoba llega a Madridjoya como la gran ciudad europea para el sector",
-      "link": "https://www.abc.es/espana/andalucia/cordoba/cordoba-llega-madridjoya-gran-ciudad-europea-sector-20260924201038-nts.html",
-      "desc": "El Ayuntamiento de Córdoba y el Instituto Municipal de Desarrollo Económico y Empleo (Imdeec) han inaugurado este jueves oficialmente el stand de la ciudad en la nueva edición de Madridjoya , que se celebra en el recinto ferial Ifema-Madrid hasta este domingo.",
-      "date": "Thu, 24 Sep 2026 20:10:38 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "La investigación contra el cáncer y la esperanza salen a la calle en Córdoba: «La vida me da una segunda oportunidad»",
-      "link": "https://www.abc.es/espana/andalucia/cordoba/investigacion-cancer-esperanza-salen-calles-cordoba-vida-20260924200549-nts.html",
-      "desc": "La palabra cáncer no pierde este jueves el escalofrío que siempre la acompaña. Muchas veces cambia enseguida a un horizonte duro, pero que llegará a la curación. En este 24 de septiembre, el Día Internacional de la Investigación contra el Cáncer , en Córdoba s",
-      "date": "Thu, 24 Sep 2026 20:05:49 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "La campaña de vacunación de la gripe en Córdoba: conoce las fechas de inicio para cada grupo",
-      "link": "https://www.abc.es/espana/andalucia/cordoba/campana-vacunacion-gripe-cordoba-conoce-fechas-inicio-20260924200021-nts.html",
-      "desc": "El vicepresidente primero y consejero de Presidencia , Sanidad y Emergencias, Antonio Sanz, ha desgranado este jueves en la Comisión de Sanidad del Parlamento de Andalucía las claves de la campaña de vacunación estacional frente a la gripe y la covid 2026/2027",
-      "date": "Thu, 24 Sep 2026 20:01:03 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "El PP acusa a Page de apropiarse de su reivindicación sobre la despoblación de Guadalajara",
-      "link": "https://www.abc.es/espana/castilla-la-mancha/pp-acusa-page-apropiarse-reivindicacion-sobre-despoblacion-20260924195803-nt.html",
-      "desc": "La vicesecretaria de Igualdad y Mujer del PP de Castilla-La Mancha y senadora, María Patricio, ha acusado al presidente regional, Emiliano García-Page, de «apropiarse» de una reivindicación que, según sostiene, el Partido Popular ya había planteado en las Cort",
-      "date": "Thu, 24 Sep 2026 19:58:04 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Dos fallecidos en otro accidente mortal en la A-67 en Palencia",
-      "link": "https://www.abc.es/espana/castilla-leon/fallece-operario-grua-tras-alcanzado-camion-volco-20260924194350-nt.html",
-      "desc": "Nuevo siniestro vial mortal en la A-67 en la provincia de Palencia, donde dos personas perdían en la tarde de este jueves la vida en un accidente de tráfico con varios vehículos implicados. El suceso ocurría poco después de las 18.80 horas, a la altura del kil",
-      "date": "Thu, 24 Sep 2026 19:46:16 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Adif finaliza la supresión de un paso a nivel en Caudete con una inversión de 3,2 millones",
-      "link": "https://www.abc.es/espana/castilla-la-mancha/adif-finaliza-supresion-paso-nivel-caudete-inversion-20260924194609-nt.html",
-      "desc": "Adif ha finalizado la construcción de un nuevo paso superior en Caudete (Albacete) que ha permitido suprimir un paso a nivel de la línea convencional La Encina-Alacant Terminal, situado en el entorno de Casilla de los Villares. La actuación ha supuesto una inv",
-      "date": "Thu, 24 Sep 2026 19:46:10 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Los desahucios agitan el choque entre los modelos de gestión de Illa y Ayuso",
-      "link": "https://www.lavanguardia.com/politica/20260924/11643188/desahucios-agitan-choque-modelos-gestion-illa-ayuso.html",
-      "desc": "La presidenta madrileña usa el número de desalojos en la comunidad catalana para defenderse",
-      "date": "24 Sep 2026 19:24:36 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "Los cuerpos especiales del Ejército entrenan en combate acuático con drones en Alicante y Cádiz",
-      "link": "https://www.lavanguardia.com/local/valencia/20260924/11643139/cuerpos-especiales-ejercito-entrenan-combate-acuatico-drones-alicante-cadiz.html",
-      "desc": "Uno de los objetivos fue comprobar cómo pueden actuar estos equipos frente a un enemigo que dispone de medios para detectar, dificultar o impedir la entrada de fuerzas en una determinada zona",
-      "date": "24 Sep 2026 17:49:02 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
       "caso": "other"
     }
   ]
