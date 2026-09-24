@@ -1,246 +1,46 @@
 {
-  "updated": "2026-09-23T22:38:00Z",
-  "count": 24,
+  "updated": "2026-09-24T02:49:06Z",
+  "count": 4,
   "items": [
     {
-      "title": "El PP lleva al Senado la reforma de la ley de extranjería para devolver a los inmigrantes que llegan a nado",
-      "link": "https://www.abc.es/espana/pp-lleva-reforma-ley-extranjeria-senado-retratar-20260924231850-nt.html",
-      "desc": "El PP llevará al Senado una reforma urgente de la ley de extranjería. La proposición de ley se debatirá y votará en apenas una semana, el próximo miércoles. El objetivo es meter presión al Gobierno, que en algunos momentos se ha mostrado partidario de este cam",
-      "date": "Wed, 23 Sep 2026 23:18:50 +0200",
+      "title": "Zapatero necesita un certificado de Arabia Saudí para conseguir tumbar su imputación por delito fiscal y de contrabando",
+      "link": "https://www.abc.es/espana/zapatero-necesita-certificado-arabia-saudi-conseguir-tumbar-20260923012156-nt.html",
+      "desc": "Una respuesta de Arabia Saudí. Eso es lo que necesita el expresidente del Gobierno José Luis Rodríguez Zapatero para intentar tumbar su imputación por presuntos delito fiscal y de contrabando por las joyas que le fueron incautadas en su despacho en la madrileñ",
+      "date": "Thu, 24 Sep 2026 01:21:56 +0200",
       "source": "ABC",
       "color": "#c0392b",
       "feedId": "ABC",
-      "caso": "other"
+      "caso": "zap"
     },
     {
-      "title": "El Ayuntamiento de Córdoba renuncia al final a la subida del 1,9% del agua en 2027 y las tarifas se mantendrán",
-      "link": "https://www.abc.es/espana/andalucia/cordoba/ayuntamiento-cordoba-renuncia-final-subida-agua-2027-20260923223924-nts.html",
-      "desc": "El Ayuntamiento de Córdoba no subirá al final el recibo del agua en 2027 —año de las elecciones municipales—, pese a que inicialmente planteó un aumento para el próximo ejercicio del 1,9%. El portavoz municipal del PSOE, Antonio Hurtado, lo ha anunciado este m",
-      "date": "Wed, 23 Sep 2026 22:39:24 +0200",
+      "title": "Zapatero ocultó en su declaración como expresidente las joyas que asegura que recibió del Rey de Arabia Saudí",
+      "link": "https://www.abc.es/espana/zapatero-oculto-declaracion-expresidente-joyas-asegura-recibio-20260924012045-nt.html",
+      "desc": "En 2012, y ya fuera del Palacio de la Moncloa, José Luis Rodríguez Zapatero declaró más de 500 regalos que recibió mientras ejercía como presidente del Gobierno. Entre ellos no estaban tres juegos de joyas compuestas de rubíes, esmeraldas y zafiros por los que",
+      "date": "Thu, 24 Sep 2026 01:20:45 +0200",
       "source": "ABC",
       "color": "#c0392b",
       "feedId": "ABC",
-      "caso": "other"
+      "caso": "zap"
     },
     {
-      "title": "Seis conciertos en La Coruña para este otoño: artistas, fechas y cartel completo de LiveXperience",
-      "link": "https://www.abc.es/espana/galicia/seis-conciertos-coruna-otono-artistas-fechas-cartel-20260923220003-nt.html",
-      "desc": "La Coruña suma seis conciertos a su agenda musical de otoño de 2026 con la tercera edición de A Coruña LiveXperience by CaixaBank, un ciclo que reunirá en el Palacio de la Ópera a artistas de estilos muy distintos, desde el blues y el soul hasta la canción de ",
-      "date": "Wed, 23 Sep 2026 22:00:03 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Barcelona arranca las fiestas de la Mercè reivindicándose a sí misma",
-      "link": "https://www.lavanguardia.com/local/barcelona/20260923/11642565/barcelona-arranca-fiestas-merce-reivindicandose.html",
-      "desc": "Los bodegueros Meritxell y Toni Falgueras dedican su pregón al comercio de proximidad",
-      "date": "23 Sep 2026 21:58:54 +0200",
+      "title": "La Audiencia Nacional absuelve a Gonzalo Boye de blanqueo en el caso del narco Sito Miñanco",
+      "link": "https://www.lavanguardia.com/politica/20260923/11642285/audiencia-nacional-absuelve-gonzalo-boye-blanquear-narco-sito-minanco.html",
+      "desc": "El letrado del expresidente catalán Carles Puigdemont queda exonerado de los delitos de blanqueo de capitales y falsedad documental",
+      "date": "23 Sep 2026 15:35:28 +0200",
       "source": "La Vanguardia",
       "color": "#8e44ad",
       "feedId": "LaVanguardia",
-      "caso": "other"
+      "caso": "gen"
     },
     {
-      "title": "Collboni da inicio a La Mercè 2026 llamando a proteger la «identidad» de Barcelona",
-      "link": "https://www.abc.es/espana/cataluna/collboni-inicio-merce-2026-llamando-proteger-identidad-20260923214356-nt.html",
-      "desc": "El alcalde de Barcelona, Jaume Collboni, ha dado inicio a las fiestas de La Mercè 2026 llamando a proteger la «identidad» de Barcelona, garantizando el derecho a la vivienda e impulsando el comercio local. Lo ha dicho este miércoles antes de dar paso al pregón",
-      "date": "Wed, 23 Sep 2026 21:43:57 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Sánchez culpa a Ayuso y Almeida de la “tragedia social” del desahucio de Maricarmen",
-      "link": "https://www.lavanguardia.com/politica/20260923/11642560/sanchez-culpa-ayuso-almeida-tragedia-social-desahucio-maricarmen-urge-grupos-apoyar-decreto-vivienda.html",
-      "desc": "El presidente del Gobierno advierte desde Nueva York que Marruecos ya refuerza su control de las fronteras con Ceuta y Melilla",
-      "date": "23 Sep 2026 21:33:35 +0200",
+      "title": "Zapatero alega ante el juez que las joyas proceden de un regalo de Arabia Saudí",
+      "link": "https://www.lavanguardia.com/politica/20260923/11642211/zapatero-alega-juez-joyas-proceden-regalo-arabia-saudi.html",
+      "desc": "El expresidente aclara que las joyas se entregaron en Madrid y aceptó el regalo por “deferencia” y “respeto” al&nbsp;Rey Abdullah Bin Abdulaziz Al-Saud",
+      "date": "23 Sep 2026 13:43:03 +0200",
       "source": "La Vanguardia",
       "color": "#8e44ad",
       "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "El último tiroteado en Málaga es un líder ultra del Fenerbahçe turco",
-      "link": "https://www.abc.es/espana/andalucia/malaga/ultimo-tiroteado-malaga-lider-ultra-fenerbace-turco-20260923211854-nts.html",
-      "desc": "Uno de los líderes de los ultras del Fenerbahçe , uno de los principales equipos de fútbol de Turquía, está en la Unidad de Cuidados Intensivos (UCI) en Málaga tras se tiroteado en la terraza de un restaurante cuando cenaba con su novia y un amigo. Y no es cua",
-      "date": "Wed, 23 Sep 2026 21:19:49 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Sánchez responsabiliza a Ayuso y Almeida del desahucio de Maricarmen",
-      "link": "https://www.abc.es/espana/madrid/sanchez-senala-ayuntamiento-madrid-comunidad-responsables-desahucio-20260923211717-nt.html",
-      "desc": "El desahucio de Maricarmen en pleno centro de Madrid no solo ha dado la vuelta a España, sino que ha atravesado fronteras para llegar hasta Nueva York. En el marco de la Asamblea General de Naciones Unidas, el presidente del Gobierno, Pedro Sánchez, se ha pron",
-      "date": "Wed, 23 Sep 2026 21:17:18 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "El FBI investiga el pirateo masivo de datos de miles de sus agentes a través de una página web de empleo",
-      "link": "https://www.lavanguardia.com/internacional/20260923/11642551/fbi-investiga-pirateo-masivo-datos-miles-agentes-traves-pagina-web-empleo.html",
-      "desc": "De confirmarse el alcance del hackeo, supondrá un duro golpe a la credibilidad de la agencia encargada de investigar las amenazas cibernéticas",
-      "date": "23 Sep 2026 21:04:02 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "Trump obliga a Londres a “revisar” la entrega de las islas Chagos a Mauricio",
-      "link": "https://www.lavanguardia.com/internacional/20260923/11642537/trump-obliga-londres-revisar-entrega-islas-chagos-mauricio.html",
-      "desc": "El premier británico Andy Burnham cede ante las presiones de Washington",
-      "date": "23 Sep 2026 20:37:06 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "La Policía Local de Córdoba intensifica la vigilancia de los patinetes eléctricos con nuevos controles y multas",
-      "link": "https://www.abc.es/espana/andalucia/cordoba/policia-local-cordoba-intensifica-vigilancia-patinetes-electricos-20260923203304-nts.html",
-      "desc": "La Policía Local de Córdoba ha intensificado los controles sobre los patinetes eléctricos, también conocidos como vehículos de movilidad personal (VMP) , para comprobar que sus usuarios cumplen con la normativa vigente. Los agentes están sancionando a conducto",
-      "date": "Wed, 23 Sep 2026 20:33:04 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "La Junta reabre de forma provisional la A-4154  entre Algarinejo y Priego de Córdoba tras cumplir el plazo asumido con los vecinos",
-      "link": "https://www.abc.es/espana/andalucia/cordoba/junta-reabre-forma-provisional-a4154-algarinejo-priego-20260923202959-nts.html",
-      "desc": "La delegada territorial de Fomento de la Junta de Andalucía en Córdoba, Carmen Granados, ha anunciado la reapertura provisional al tráfico de la carretera A-4154 , que une Priego de Córdoba con Algarinejo, en la provincia de Córdoba, dando cumplimiento al comp",
-      "date": "Wed, 23 Sep 2026 20:29:59 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Miles de personas se concentran frente al ático de Chamberí al grito de «vergüenza» y «fuera fondos buitre»",
-      "link": "https://www.abc.es/espana/madrid/centenares-personas-concentran-frente-atico-chamberi-grito-20260923202421-nt.html",
-      "desc": "Miles de personas –10.000, según datos de la Delegación del Gobierno– se han concentrado este miércoles frente al ático de Chamberí, que adquirió la Comunidad de Madrid, al grito de «vergüenza», «fuera fondos buitre», « el ático para Maricarmen » y «Ayuso dimi",
-      "date": "Wed, 23 Sep 2026 20:24:22 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Cabalcor concentra en Córdoba a la élite mundial del caballo PRE con 45 ganaderías y 88 ejemplares",
-      "link": "https://www.abc.es/espana/andalucia/cordoba/cabalcor-concentra-cordoba-elite-mundial-caballo-pre-20260923202141-nts.html",
-      "desc": "Córdoba se prepara para convertirse, del 24 al 26 de septiembre , en uno de los grandes puntos de encuentro internacional del Pura Raza Española . Cabalcor'26 , Feria Internacional del Caballo de Córdoba, reunirá en las Caballerizas Reales a una amplia represe",
-      "date": "Wed, 23 Sep 2026 20:21:42 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Córdoba brilla en Nueva York: se cuela en el encuentro de Pedro Sánchez y su alcalde gracias a Lorca",
-      "link": "https://www.abc.es/espana/andalucia/cordoba/alcalde-nueva-york-recita-poema-federico-garcia-20260923202128-nts.html",
-      "desc": "Córdoba se ha colado este miércoles en el encuentro entre el presidente del Gobierno, Pedro Sánchez, y el alcalde de Nueva York, el demócrata Zohran Mamdani. Y lo ha hecho de la mano de Federico García Lorca y de uno de sus poemas más vinculados a la ciudad: '",
-      "date": "Wed, 23 Sep 2026 20:21:28 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Tres narcos paranoicos ocultos en un piso turístico mataron a Nacho en Málaga",
-      "link": "https://www.abc.es/espana/andalucia/malaga/tres-narcos-suecos-alojados-piso-turistico-mataron-20260923200125-nts.html",
-      "desc": "Nacho solo los miró. Esa fue su condena. Observar a tres extraños con pinta de africanos en su barrio le costó la vida. Vestían la típica moda de narco joven de bandolera cruzada. Lo que eran. Sentado en una escalinata, Nacho los miraba, extrañado. ¿Qué hacía ",
-      "date": "Wed, 23 Sep 2026 20:18:49 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Castilla-La Mancha moviliza 8,8 millones para aliviar el coste de fertilizantes y combustible",
-      "link": "https://www.abc.es/espana/castilla-la-mancha/toledo/castillala-mancha-moviliza-millones-aliviar-coste-fertilizantes-20260923201802-nt.html",
-      "desc": "Castilla-La Mancha destinará 8,8 millones de euros a apoyar a agricultores y ganaderos ante el incremento de los costes de producción, especialmente los derivados de la compra de fertilizantes y combustible. El consejero de Agricultura, Ganadería y Desarrollo ",
-      "date": "Wed, 23 Sep 2026 20:18:02 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "El 90% de las rutas escolares de Jaén quedan restablecidas",
-      "link": "https://www.abc.es/espana/andalucia/jaen/rutas-escolares-jaen-quedan-restablecidas-20260923200813-nts.html",
-      "desc": "1.500 escolares han recuperado el servicio de transporte escolar, al volver a ponerse en servicio 44 de las 56 rutas que se habían quedado desiertas al principio de este curso escolar y que afectaban a un total de 32 municipios de la provincia de Jaén, con más",
-      "date": "Wed, 23 Sep 2026 20:08:14 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "UGT prepara movilizaciones en la marroquinería por una subida salarial «insuficiente»",
-      "link": "https://www.abc.es/espana/castilla-la-mancha/toledo/ugt-prepara-movilizaciones-marroquineria-subida-salarial-insuficiente-20260923200658-nt.html",
-      "desc": "UGT FICA prepara movilizaciones en el sector de la marroquinería ante la propuesta salarial planteada por la patronal en la negociación del convenio colectivo, que el sindicato considera «insuficiente» y una «decepción» para los trabajadores. La Comisión Negoc",
-      "date": "Wed, 23 Sep 2026 20:06:58 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Vox, sobre la prohibición al regreso de Machado: «¡María Corina a Venezuela! ¡Ya!»",
-      "link": "https://www.abc.es/espana/vox-sobre-prohibicion-regreso-machado-maria-corina-20260923200312-nt.html",
-      "desc": "Vox se ha sumado de forma tajante a las reacciones provocadas por las últimas revelaciones periodísticas sobre Venezuela. Con un mensaje conciso y directo publicado en la red social X, el eurodiputado de Vox Hermann Tertsch expresaba la posición de su partido ",
-      "date": "Wed, 23 Sep 2026 20:03:13 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Cavadas alerta de vídeos falsos para suplantarle y vender productos 'milagro': «Estafa indignante»",
-      "link": "https://www.abc.es/espana/comunidad-valenciana/cavadas-alerta-videos-falsos-suplantarle-vender-productos-20260923200119-nt.html",
-      "desc": "El conocido cirujano valenciano Pedro Cavadas ha alertado este miércoles de la difusión en Internet y redes sociales de vídeos falsos en los que se suplanta su identidad para promocionar productos 'milago' de salud, belleza y bienestar, en pastillas, cremas y ",
-      "date": "Wed, 23 Sep 2026 20:01:19 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "El poeta cordobés José María Higuera gana el premio Ciudad de Salamanca con 'Flores de plástico'",
-      "link": "https://www.abc.es/espana/andalucia/cordoba/poeta-cordobes-jose-maria-higuera-gana-premio-20260923195747-nts.html",
-      "desc": "La carrera del cordobés José María Higuera González (Córdoba, 1970) como poeta comenzó de manera tardía, pero no para de crecer. El autor acaba de ganar el premio Ciudad de Salamanca de Poesía , dotado con 8.000 euros y la publicación de la obra en la editoria",
-      "date": "Wed, 23 Sep 2026 19:57:47 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Hospitalizado un trabajador de 59 años tras caer desde siete metros en Alcázar",
-      "link": "https://www.abc.es/espana/castilla-la-mancha/toledo/hospitalizado-trabajador-anos-tras-caer-siete-metros-20260923194525-nt.html",
-      "desc": "Un trabajador de 59 años ha sido trasladado este miércoles al Hospital Mancha Centro de Alcázar de San Juan tras sufrir una caída desde unos siete metros de altura mientras se encontraba en su centro de trabajo. El accidente laboral se ha producido alrededor d",
-      "date": "Wed, 23 Sep 2026 19:45:25 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Colau pide a los Comuns salir del Gobierno por el desahucio de Maricarmen: «No podemos ser cómplices de la cobardía del PSOE»",
-      "link": "https://www.abc.es/espana/colau-pide-comuns-salir-gobierno-sanchez-podemos-20260923193908-nt.html",
-      "desc": "La exalcaldesa de Barcelona y fundadora de los Comuns, Ada Colau, ha pedido a su partido que rompan con Pedro Sánchez si el Gobierno no hace el «máximo esfuerzo para enfrentarse» a los fondos buitres. Colau, que desde hace semanas amenaza con volver a la prime",
-      "date": "Wed, 23 Sep 2026 19:43:39 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
+      "caso": "zap"
     }
   ]
 }
