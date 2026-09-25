@@ -1,7 +1,117 @@
 {
-  "updated": "2026-09-25T19:46:00Z",
+  "updated": "2026-09-25T23:00:59Z",
   "count": 24,
   "items": [
+    {
+      "title": "Desahucios y gas pimienta",
+      "link": "https://www.lavanguardia.com/opinion/20260926/11644068/desahucios-gas-pimienta.html",
+      "desc": "Nadie alegó objeción de conciencia; ni el ministro, ni la ministra, ni la policía, ni la juez",
+      "date": "26 Sep 2026 00:30:00 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
+    {
+      "title": "Diamantes tristes",
+      "link": "https://www.lavanguardia.com/opinion/20260926/11644050/diamantes-tristes.html",
+      "desc": "Quienes votamos al Zapatero que hizo de la igualdad bandera sentimos que el faro se fundió",
+      "date": "26 Sep 2026 00:30:00 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "zap"
+    },
+    {
+      "title": "Una bola negra que rueda y rueda",
+      "link": "https://www.lavanguardia.com/cultura/20260926/11644177/bola-negra-nieve-rueda-rueda.html",
+      "desc": "",
+      "date": "26 Sep 2026 00:10:00 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
+    {
+      "title": "Maricarmen, ¿líder del nuevo 15-M?",
+      "link": "https://www.lavanguardia.com/politica/20260926/11644074/maricarmen-lider-nuevo-15-m.html",
+      "desc": "",
+      "date": "26 Sep 2026 00:05:00 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
+    {
+      "title": "La inmobiliaria propone que Maricarmen vuelva a su casa y Almeida lo rechaza",
+      "link": "https://www.lavanguardia.com/vida/20260926/11644176/inmobiliaria-propone-maricarmen-vuelva-casa-almeida-rechaza.html",
+      "desc": "La oferta llega tras un dictamen municipal según el cual debe vivir en un geriátrico",
+      "date": "26 Sep 2026 00:05:00 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
+    {
+      "title": "Crecer a costa de Trump",
+      "link": "https://www.lavanguardia.com/opinion/20260926/11644167/crecer-costa-trump.html",
+      "desc": "León XIV fue recibido ayer en la Unesco con vítores y una larga ovación",
+      "date": "26 Sep 2026 00:05:00 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
+    {
+      "title": "Así resucitará el histórico estadio San Eulogio: las cuatro actuaciones, valoradas en dos millones, al detalle",
+      "link": "https://www.abc.es/espana/andalucia/cordoba/resucitara-historico-estadio-san-eulogio-cuatro-actuaciones-20260925234432-nts.html",
+      "desc": "El consejo del Instituto Municipal de Deportes de Córdoba ( Imdeco ) abordará la próxima semana la aprobación del proyecto de gasto para la segunda fase de la remodelación del histórico estadio San Eulogio -ya se sometió a un primer paquete de actuaciones, que",
+      "date": "Fri, 25 Sep 2026 23:44:57 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Mbappé se retira lesionado en la rodilla izquierda tras marcar ante Turquía",
+      "link": "https://www.lavanguardia.com/deportes/20260925/11644161/mbappe-retira-lesionado-rodilla-izquierda-marcar-turquia.html",
+      "desc": "El delantero del Madrid logra el gol del triunfo en el estreno de Zidane con Francia pero se marcha muy dolorido",
+      "date": "25 Sep 2026 22:46:12 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
+    {
+      "title": "Caja Rural de Zamora se reivindica: «Nuestro modelo se ha construido sobre la cercanía y la confianza»",
+      "link": "https://www.abc.es/espana/castilla-leon/caja-rural-zamora-reivindica-banca-local-modelo-20260925215838-nt.html",
+      "desc": "El presidente de Caja Rural de Zamora, Julio Asensio Villar, reivindicaba este viernes la banca local y de proximidad y ha destacado que el modelo de la cooperativa de crédito «se ha construido sobre la cercanía, la confianza y la permanencia», además de «esta",
+      "date": "Fri, 25 Sep 2026 21:58:38 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Siri Hustvedt abre Cosmopoética en Córdoba: «La literatura es la magia de poder ver más allá de lo obvio»",
+      "link": "https://www.abc.es/espana/andalucia/cordoba/siri-hustvedt-abre-cosmopoetica-cordoba-literatura-magia-20260925215026-nts.html",
+      "desc": "Lo ambiguo, lo que no es fácil de percibir, aquello que no está siempre a la vista. Ese es el objeto de la poesía y de la literatura. Ahí está el lugar al que el escritor tiene que dirigir la mirada del lector. Con este espíritu se abrió este viernes la nueva ",
+      "date": "Fri, 25 Sep 2026 21:50:27 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Renfe denuncia un ciberataque con origen en Adif que filtró nombres y correos de clientes",
+      "link": "https://www.lavanguardia.com/vida/20260925/11644154/renfe-denuncia-ciberataque-origen-adif-filtro-nombres-mails-clientes.html",
+      "desc": "La investigación apunta a que los atacantes pudieron acceder a información limitada de usuarios, consistente principalmente en nombres y direcciones de correo electrónico",
+      "date": "25 Sep 2026 21:49:36 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
     {
       "title": "Pactar es necesario en democracia",
       "link": "https://www.abc.es/espana/galicia/pactar-necesario-democracia-20260925210007-nt.html",
@@ -23,7 +133,7 @@
       "caso": "other"
     },
     {
-      "title": "Armisén reivindica en el Día de la Provincia una Diputación «pegada al terreno»",
+      "title": "Armisén, en el Día de la Provincia: «En estos cuatro años nos hemos adelantado a los problemas de los palentinos»",
       "link": "https://www.abc.es/espana/castilla-leon/armisen-reivindica-dia-provincia-diputacion-pegada-terreno-20260925204424-nt.html",
       "desc": "La presidenta de la Diputación de Palencia, Ángeles Armisén, ha reivindicado el papel de la institución provincial como una administración «pegada al terreno» y capaz de anticiparse a las necesidades de los ciudadanos, al hacer balance de los cuatro años de le",
       "date": "Fri, 25 Sep 2026 20:44:24 +0200",
@@ -83,16 +193,6 @@
       "caso": "other"
     },
     {
-      "title": "El Ayuntamiento de Madrid rechaza la propuesta de Urbagestión, pero se abre a una mediación",
-      "link": "https://www.lavanguardia.com/vida/20260925/11644090/ayuntamiento-madrid-rechaza-propuesta-urbagestion-abre-mediacion.html",
-      "desc": "El próximo lunes se reunirán la representante de Maricarmen y la inmobiliaria para negociar una salida",
-      "date": "25 Sep 2026 20:00:20 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
       "title": "Urbanismo tramita el cambio radical de la plaza del parking de Bodegas Campos: más grande y con arboleda",
       "link": "https://www.abc.es/espana/andalucia/cordoba/gran-cambio-plaza-parking-bodegas-campos-grande-20260925213032-nts.html",
       "desc": "La Gerencia de Urbanismo de Córdoba verá este martes en su consejo un nuevo paso vinculado al futuro hotel del parking de Bodegas Campos. Admitirá a trámite el proyecto de reurbanización de la plaza existente: se ampliará y se mejorará notablemente su imagen a",
@@ -141,106 +241,6 @@
       "color": "#c0392b",
       "feedId": "ABC",
       "caso": "other"
-    },
-    {
-      "title": "Cuándo podrán usar los militares el spray de pimienta en Ceuta: conductas agresivas, acciones violentas o protección de bienes",
-      "link": "https://www.abc.es/espana/podran-usar-militares-spray-pimienta-ceuta-conductas-20260925193621-nt.html",
-      "desc": "El Ministerio de Defensa ha distribuido el protocolo de uso del spray de pimienta que ha facilitado a los militares desplegados en Ceuta: conductas agresivas, acciones violentas y protección de propiedades. Esos son los supuestos que avalan a los soldados a re",
-      "date": "Fri, 25 Sep 2026 19:36:22 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Los farmacéuticos de la región reivindican su papel asistencial",
-      "link": "https://www.abc.es/espana/castilla-la-mancha/toledo/farmaceuticos-region-reivindican-papel-asistencial-20260925193155-nt.html",
-      "desc": "La iglesia de San Miguel de Brihuega acoge el acto institucional regional, que organizaron el Consejo de Colegios Oficiales de Farmacéuticos de Castilla-La Mancha (Cofcam) junto al Colegio Oficial de Farmacéuticos de Guadalajara. La inauguración ha corrido a c",
-      "date": "Fri, 25 Sep 2026 19:31:55 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Castilla-La Mancha ha destinado 208 millones a más de 66.000 autónomos desde 2015",
-      "link": "https://www.abc.es/espana/castilla-la-mancha/castillala-mancha-destinado-208-millones-66000-autonomos-20260925193146-nt.html",
-      "desc": "El Gobierno de Castilla-La Mancha ha destinado más de 208 millones de euros en ayudas directas a más de 66.000 personas trabajadoras autónomas desde 2015, según ha destacado este viernes la consejera de Economía, Empresas y Empleo, Patricia Franco, durante la ",
-      "date": "Fri, 25 Sep 2026 19:31:47 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Una nueva aerolínea operará seis vuelos semanales entre Santiago y Londres",
-      "link": "https://www.abc.es/espana/galicia/nueva-aerolinea-operara-seis-vuelos-semanales-santiago-20260925192437-nt.html",
-      "desc": "Ya están a la venta los billetes con los que el aeropuerto de Santiago verá reforzada su oferta de cara a la próxima primavera. Lo hará con una nueva conexión entre la capital gallega y Londres , unos enlaces directos que incluyen seis servicios semanales con ",
-      "date": "Fri, 25 Sep 2026 19:24:37 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Miguel Ángel Rivero, reelegido por unanimidad al frente de ATA Castilla-La Mancha",
-      "link": "https://www.abc.es/espana/castilla-la-mancha/miguel-angel-rivero-reelegido-unanimidad-frente-ata-20260925192317-nt.html",
-      "desc": "Miguel Ángel Rivero continuará cinco años más al frente de ATA Castilla-La Mancha. La Asamblea Electoral de la organización de trabajadores autónomos le ha reelegido este viernes por unanimidad como presidente regional durante la reunión celebrada en el Museo ",
-      "date": "Fri, 25 Sep 2026 19:23:18 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Una oficinal móvil para llevar la digitalización a las empresas",
-      "link": "https://www.abc.es/espana/castilla-leon/oficinal-movil-llevar-digitalizacion-empresas-20260922192000-nt.html",
-      "desc": "La Federación Leonesa de Empresarios (FELE) ha vuelto a poner en marcha este verano su Oficina Acelera pyme (OAP) móvil, una iniciativa con la que la organización empresarial acerca de forma directa la digitalización a las empresas y autónomos de la provincia ",
-      "date": "Fri, 25 Sep 2026 19:20:00 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "A juicio por acosar con insultos racistas durante meses a una vecina de origen marroquí en Argamasilla de Alba",
-      "link": "https://www.abc.es/espana/castilla-la-mancha/juicio-acosar-insultos-racistas-meses-vecina-origen-20260925191936-nt.html",
-      "desc": "La Fiscalía pide 15 meses de prisión para una mujer acusada de acosar durante prácticamente todo 2024 a una vecina de origen marroquí en Argamasilla de Alba con insultos y expresiones racistas. La Audiencia Provincial de Ciudad Real juzgará el próximo miércole",
-      "date": "Fri, 25 Sep 2026 19:19:36 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Volkswagen y Audi retiran casi tres millones de vehículos en todo el mundo por un fallo técnico",
-      "link": "https://www.lavanguardia.com/economia/20260925/11644027/volkswagen-audi-retiran-tres-millones-vehiculos-mundo-fallo-tecnico.html",
-      "desc": "Tendrán que&nbsp;ser sometidos a ajustes debido a posibles problemas en el sistema de dirección",
-      "date": "25 Sep 2026 17:30:07 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "El Papa pide preservar la dignidad humana frente a la inteligencia artificial",
-      "link": "https://www.lavanguardia.com/internacional/20260925/11643987/papa-pide-preservar-dignidad-humana-frente-inteligencia-artificial.html",
-      "desc": "León XIV visita la Unesco, la agencia de la ONU que los Estados Unidos de Trump vuelven a abandonar en diciembre",
-      "date": "25 Sep 2026 17:16:11 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "Zapatero se opone a una nueva tasación de las joyas de Arabia",
-      "link": "https://www.lavanguardia.com/politica/20260925/11643986/zapatero-opone-nueva-tasacion-joyas-halladas-oficina.html",
-      "desc": "El expresidente del gobierno propondrá un perito para valorar las alhajas si el juez mantiene la diligencia",
-      "date": "25 Sep 2026 16:41:36 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
-      "caso": "zap"
     }
   ]
 }
