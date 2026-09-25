@@ -1,46 +1,246 @@
 {
-  "updated": "2026-09-25T03:06:10Z",
-  "count": 4,
+  "updated": "2026-09-25T09:18:23Z",
+  "count": 24,
   "items": [
     {
-      "title": "Begoña, Pegasus, Zapatero… Los escándalos persiguen a Sánchez hasta Harvard",
-      "link": "https://www.abc.es/espana/begona-pegasus-zapatero-escandalos-persiguen-sanchez-harvard-20260925031353-nt.html",
-      "desc": "Pedro Sánchez viajó este jueves hasta Boston, un día después de haber dado su discurso ante la Asamblea General de la ONU en Nueva York. Acudió invitado por la Universidad de Harvard para dar una conferencia sobre un tema de la máxima actualidad: la inteligenc",
-      "date": "Fri, 25 Sep 2026 03:13:53 +0200",
+      "title": "Las primeras declaraciones de Maricarmen desde el hospital tras su desahucio en Madrid: «No lo he logrado, pero sí he luchado»",
+      "link": "https://www.abc.es/espana/madrid/primeras-declaraciones-maricarmen-hospital-tras-desahucio-madrid-20260925110559-nt.html",
+      "desc": "Maricarmen ha hablado este viernes desde el Hopital Gregorio Marañón (Madrid), donde permanece ingresada tras su desahucio producido este miércoles en la calle Alcalde Sainz de Baranda, para dar las gracias a todas las personas que se han sumado a su lucha. En",
+      "date": "Fri, 25 Sep 2026 11:05:59 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "La compraventa de vivienda en Canarias sube un 2,1%, con 2.289 operaciones",
+      "link": "https://www.abc.es/espana/canarias/compraventa-vivienda-canarias-sube-2289-operaciones-20260925110412-nt.html",
+      "desc": "La compraventa de viviendas en Canarias ha subido un 2,1% en julio respecto al mismo mes del año anterior (frente a una bajada del 5,11% a nivel nacional), con unas cifras que, aunque crecen, están muy por detrás de la tendencia en el conjunto de España. En to",
+      "date": "Fri, 25 Sep 2026 11:04:13 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Detenidos en Cordoba dos 'especialistas' en robos al descuido en áreas de servicio: eran buscados en varias provincias y por Interpol",
+      "link": "https://www.abc.es/espana/andalucia/cordoba/detenidos-cordoba-dos-especialistas-robos-descuido-areas-20260925110112-nts.html",
+      "desc": "La Guardia Civil ha detenido a dos personas como presuntas autoras de varios delitos de hurto tras ser sorprendidas en un área de servicio de Pedro Abad (Córdoba). Ambos detenidos contaban además con órdenes de detención en vigor y uno de ellos acumulaba numer",
+      "date": "Fri, 25 Sep 2026 11:01:13 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "No hay que leer. Hay que escribir",
+      "link": "https://www.abc.es/espana/cataluna/leer-escribir-20260925105719-nt.html",
+      "desc": "No hay que leer. Hay que escribir. Escribir es pensar, escribir es ordenar. Escribir es encontrar el sentido de tu vida. Se puede leer pero no hay que leer. El problema no es que la gente no lea, el problema es que la gente no escribe. Es una estupidez, y algo",
+      "date": "Fri, 25 Sep 2026 10:57:20 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Las farmacias de Andalucía renuevan casi un millón de tratamientos de pacientes del SAS en ocho meses",
+      "link": "https://www.abc.es/espana/andalucia/farmacias-andalucia-renuevan-millon-tratamientos-pacientes-sas-20260925105234-nts.html",
+      "desc": "Las oficinas de farmacia se afianzan como parte sustancial del sistema público de salud. Un ejemplo es que el Proyecto de Mejora de la Comunicación Interprofesional, desarrollado por el Servicio Andaluz de Salud (SAS) desde este mes de febrero, permite que det",
+      "date": "Fri, 25 Sep 2026 10:52:34 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Hallan 200 reptiles en una empresa que criaba especies protegidas en la clandestinidad",
+      "link": "https://www.abc.es/espana/comunidad-valenciana/hallan-200-reptiles-empresa-criaba-especies-protegidas-20260925104332-nt.html",
+      "desc": "La Guardia Civil ha detenido en Valencia a tres personas acusadas de tráfico de reptiles. Presuntamente operaban como una empresa dedicada al envío de animales pero comercializaban de forma ilícita con especies protegidas por la Convención sobre el Comercio In",
+      "date": "Fri, 25 Sep 2026 10:43:33 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Las hermanas que huyeron de Gaza a Valencia ya tienen sus notas de acceso a la universidad",
+      "link": "https://www.abc.es/espana/comunidad-valenciana/hermanas-huyeron-gaza-valencia-notas-acceso-universidad-20260925104222-nt.html",
+      "desc": "Después de meses de incertidumbre, trámites y un viaje que comenzó en Gaza y terminó en Valencia, Nariman y Roba Salem Irheem tienen ahora en sus manos una cifra que marcará el inicio de una nueva etapa. Las dos hermanas palestinas ya conocen sus notas de acce",
+      "date": "Fri, 25 Sep 2026 10:42:22 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "El nuevo convenio del metal de Córdoba eleva los salarios casi un 11%, incorpora nuevos pluses y reduce la jornada: todas las claves",
+      "link": "https://www.abc.es/espana/andalucia/cordoba/nuevo-convenio-metal-cordoba-eleva-salarios-incorpora-20260925103553-nts.html",
+      "desc": "La Federación de Industria, Construcción y Agroalimentación de UGT (UGT FICA) en Córdoba ha firmado el nuevo Convenio Provincial del Metal, un acuerdo que afecta a alrededor de 25.000 personas trabajadoras y que introduce mejoras salariales, una reducción prog",
+      "date": "Fri, 25 Sep 2026 10:35:54 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "León XIV llega a una Francia laica, pero entusiasmada por su visita",
+      "link": "https://www.lavanguardia.com/internacional/20260925/11643603/leon-xiv-llega-francia-laica-entusiasmada-visita.html",
+      "desc": "El talante del Papa, que dice venir “a proclamar la paz”, atrae a creyentes y ateos ante la crisis globaly la falta de referentes",
+      "date": "25 Sep 2026 10:34:31 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
+    {
+      "title": "Detenidos por secuestrar a un hombre por orden del dueño de una finca de Palma que quería echar al morador",
+      "link": "https://www.abc.es/espana/baleares/detenidos-secuestrar-hombre-orden-dueno-finca-palma-20260925103110-nt.html",
+      "desc": "La Policía Nacional detuvo entre el miércoles y el jueves a tres hombres tras la aparición de un hombre herido y maniatado en la cuneta de la carretera de s'Aranjassa de Palma , y que aseguraba haber sido secuestrado. La hija de la víctima fue la que se puso e",
+      "date": "Fri, 25 Sep 2026 10:31:11 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Detenido en Bruselas uno de los asesinos de Coco, el gerente chino de un piso burdel",
+      "link": "https://www.abc.es/espana/madrid/detenido-bruselas-asesinos-coco-gerente-chino-piso-20260925102749-nt.html",
+      "desc": "La Sección de Localización de Fugitivos de la Udyco Central de la Policía Nacional ha detenido en Bruselas a uno de los presuntos autores de la muerte de un ciudadano chino, conocido como Coco, que regentaba un prostíbulo en Carabanchel. Los hechos, de los que",
+      "date": "Fri, 25 Sep 2026 10:27:49 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Maricarmen culpa primero a Pedro Sánchez de su desahucio: «¿No se entera o no quiere enterarse?»",
+      "link": "https://www.abc.es/espana/maricarmen-culpa-primero-pedro-sanchez-desahucio-entera-20260925101455-nt.html",
+      "desc": "Pedro Sánchez prometió en 2015 que, cuando él fuera presidente, no iba a haber desahucios y la realidad le ha golpeado con dureza: bajo su gobierno, más de 246.000 alzamientos se han ejecutado . El de Maricarmen Abascal, la anciana de 87 años , ha devuelto el ",
+      "date": "Fri, 25 Sep 2026 10:14:55 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Paralizada la actividad del laboratorio de Anatomía Patológica tras nuevas intoxicaciones",
+      "link": "https://www.abc.es/espana/castilla-la-mancha/toledo/paralizada-actividad-laboratorio-anatomia-patologica-tras-nuevas-20260925101202-nt.html",
+      "desc": "La actividad del Laboratorio de Anatomía Patológica del Hospital Universitario de Toledo se encuentra totalmente paralizada después de que varios profesionales hayan presentado nuevos síntomas de intoxicación por un agente desconocido. Los delegados de prevenc",
+      "date": "Fri, 25 Sep 2026 10:12:03 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "El juez del caso Plus Ultra deja en libertad al presunto epicentro de la trama y le retira el pasaporte tras negarse a declarar",
+      "link": "https://www.abc.es/espana/juez-plus-ultra-deja-libertad-presunto-epicentro-20260925100522-nt.html",
+      "desc": "El juez de la Audiencia Nacional que investiga al expresidente del Gobierno José Luis Rodríguez Zapatero ha acordado este viernes la puesta en libertad de Simon Leendert Verhoeven, un bróker neerlandés considerado el presunto epicentro de la trama que gira en ",
+      "date": "Fri, 25 Sep 2026 10:05:22 +0200",
       "source": "ABC",
       "color": "#c0392b",
       "feedId": "ABC",
       "caso": "zap"
     },
     {
-      "title": "El PSOE estalla contra el «vergonzoso» origen de las joyas de Zapatero y urge a dejarle caer",
-      "link": "https://www.abc.es/espana/psoe-estalla-vergonzoso-origen-joyas-zapatero-urge-20260925020242-nt.html",
-      "desc": "La investigación a José Luis Rodríguez Zapatero en el 'caso Plus Ultra' transcurre por dos vías paralelas. Por un lado, la judicial en la que el expresidente está dispuesto a utilizar todos los resortes legales que le exoneren y, por otro, la de la opinión púb",
-      "date": "Fri, 25 Sep 2026 02:02:42 +0200",
+      "title": "Bolaños persiste en el choque contra el CGPJ: ahora le acusa de negarle el acceso al expediente de Peinado",
+      "link": "https://www.abc.es/espana/bolanos-persiste-choque-cgpj-acusa-negarle-acceso-20260925100058-nt.html",
+      "desc": "El ministro de Justicia, Félix Bolaños, ha presentado un nuevo recurso de alzada ante el Consejo General del Poder Judicial, esta vez contra la decisión que le denegó el acceso al expediente completo de su queja contra el juez Peinado, lo que, según sostiene, ",
+      "date": "Fri, 25 Sep 2026 10:00:59 +0200",
       "source": "ABC",
       "color": "#c0392b",
       "feedId": "ABC",
-      "caso": "zap"
+      "caso": "other"
     },
     {
-      "title": "El juez Calama rechazará la comisión rogatoria a Arabia Saudí que solicita Zapatero para certificar sus joyas",
-      "link": "https://www.abc.es/espana/juzgado-rechazara-comision-rogatoria-arabia-saudi-solicita-20260924020220-nt.html",
-      "desc": "El último movimiento del expresidente del Gobierno, José Luis Rodríguez Zapatero, de solicitar una comisión rogatoria al que instruye su causa, José Luis Calama, no tiene visos de prosperar. Fuentes judiciales desvelan a ABC que la intención del magistrado es ",
-      "date": "Fri, 25 Sep 2026 02:02:20 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "zap"
+      "title": "Detenido un joven por matar a puñaladas a una mujer en un hotel en Bormujos",
+      "link": "https://www.lavanguardia.com/vida/20260925/11643572/detenido-joven-matar-punaladas-mujer-hotel-bormujos.html",
+      "desc": "El presunto asesino alertó a los servicios de emergencias de lo sucedido cuando abandonó el lugar de los hechos",
+      "date": "25 Sep 2026 09:58:21 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
     },
     {
-      "title": "Montero marca ahora distancias con Zapatero: «Yo no lo haría», afirma sobre las joyas",
-      "link": "https://www.abc.es/espana/andalucia/montero-marca-distancias-zapatero-afirma-sobre-joyas-20260924231432-nts.html",
-      "desc": "«Yo no lo haría. Pero confío en José Luis Rodríguez Zapatero ». La secretaria general de los socialistas de Andalucía y vicesecretaria del PSOE a nivel federal, María Jesús Montero , ha vuelto este jueves a defender al expresidente del Gobierno investigado por",
-      "date": "Thu, 24 Sep 2026 23:14:33 +0200",
+      "title": "Secuestra a su novia en Málaga y la deja atada a un árbol en el campo",
+      "link": "https://www.abc.es/espana/andalucia/malaga/secuestra-novia-malaga-deja-atada-arbol-20260925095644-nts.html",
+      "desc": "Recibieron un vídeo en el que se veía un joven en un coche. Parecía el fragmento de una película de terror . Estaban seguros de que era ella la que iba en el coche. Estaba aterrorizada. Paró el coche y el hombre la bajó. No podían creerlo. Era el novio de su h",
+      "date": "Fri, 25 Sep 2026 09:57:06 +0200",
       "source": "ABC",
       "color": "#c0392b",
       "feedId": "ABC",
-      "caso": "zap"
+      "caso": "other"
+    },
+    {
+      "title": "Incendios en Orense: 350 hectáreas arrasadas en Calvos de Randín y se declara otro en Manzaneda",
+      "link": "https://www.abc.es/espana/galicia/incendios-orense-350-hectareas-arrasadas-calvos-randin-20260925095527-nt.html",
+      "desc": "El incendio forestal iniciado este jueves en el municipio de Calvos de Randín (Orense) permanece activo y con la situación 2 declarada, tras arrasar al menos 350 hectáreas, mientras que se ha declarado un nuevo fuego, también la provincia de Orense, en el muni",
+      "date": "Fri, 25 Sep 2026 09:55:27 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "El mayor proyecto urbanístico de Europa está en Madrid: Valdecarros tendrá más de 28.000 viviendas públicas y será más grande que Badajoz",
+      "link": "https://www.abc.es/espana/madrid/mayor-proyecto-urbanistico-europa-madrid-valdecarros-28000-20260925050000-nt.html",
+      "desc": "Madrid sigue en expansión. Según los últimos datos del gobierno autonómico, 3.506.730 personas viven en la capital de España. Una cifra que va a seguir aumentando en los próximos años, gracias en parte, a los diferentes proyectos residenciales en marcha. Apart",
+      "date": "Fri, 25 Sep 2026 09:53:49 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Alberto Garzón, ex ministro: «Decir que en ocho años de Gobierno no se ha mejorado la vida de la gente denota que se habla desde un lugar teórico»",
+      "link": "https://www.abc.es/espana/alberto-garzon-ministro-decir-ocho-anos-gobierno-20260924164622-nt.html",
+      "desc": "El exministro de Consumo y excoordinador federal de Izquierda Unida, Alberto Garzón, ha reivindicado los avances sociales impulsados durante los últimos años por los gobiernos de izquierdas y ha cuestionado a quienes sostienen que no se ha mejorado la vida de ",
+      "date": "Fri, 25 Sep 2026 09:49:04 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Rescatado un cayuco en El Hierro con 107 personas y varios niños",
+      "link": "https://www.abc.es/espana/canarias/rescatado-cayuco-hierro-107-personas-varios-ninos-20260925094414-nt.html",
+      "desc": "Salvamento Marítimo ha rescatado un cayuco con 107 migrantes a bordo cuando navegaba al suroeste de la isla de El Hierro. El aviso, que llegó durante la tarde de ayer jueves, puso en marcha el operativo que ha trasladado al grupo al puerto de la Restinga. A bo",
+      "date": "Fri, 25 Sep 2026 09:44:14 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "gen"
+    },
+    {
+      "title": "Muere un motorista de 48 años tras chocar con un turismo en Córdoba",
+      "link": "https://www.abc.es/espana/andalucia/cordoba/muere-motorista-anos-tras-chocar-turismo-cordoba-20260925092018-nts.html",
+      "desc": "Un motorista de 48 años ha fallecido tras sufrir un accidente de tráfico en la noche de este jueves en Córdoba capital. El siniestro se produjo alrededor de las 22.30 horas en la calle Los Artesanos, en el polígono Pedroches, donde la motocicleta que conducía ",
+      "date": "Fri, 25 Sep 2026 09:20:19 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "La economía española acelera con un crecimiento del 0,7% en el segundo trimestre",
+      "link": "https://www.lavanguardia.com/economia/20260925/11643531/economia-acelera-crecimiento-0-7-segundo-trimestre.html",
+      "desc": "El consumo y la inversión tiran del PIB, que sube una décima más que en el periodo anterior",
+      "date": "25 Sep 2026 09:00:00 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
+    {
+      "title": "Daniel Sancho seguirá cumpliendo cadena perpetua en Tailandia",
+      "link": "https://www.lavanguardia.com/gente/20260925/11643272/daniel-sancho-fallo-sentencia-tailandia-recurso.html",
+      "desc": "El Tribunal Provincial de Samui ha comunicado la desestimación del recurso de la defensa, que pedía repetir el juicio y de la acusación, que solicitaba la pena de muerte se conocerá el próximo 7 de octubre",
+      "date": "25 Sep 2026 07:55:10 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
     }
   ]
 }
