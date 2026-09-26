@@ -1,7 +1,107 @@
 {
-  "updated": "2026-09-25T23:00:59Z",
+  "updated": "2026-09-26T03:09:40Z",
   "count": 24,
   "items": [
+    {
+      "title": "La Aemet pone fecha al fin del calor en la Comunidad Valenciana y avisa de la llegada de lluvias: estos son los pueblos más afectados",
+      "link": "https://www.abc.es/espana/comunidad-valenciana/aemet-pone-fecha-fin-calor-comunidad-valenciana-20260926050000-nt.html",
+      "desc": "Sol y temperaturas de hasta 38 grados. Así están siendo los últimos días de septiembre en la Comunidad Valenciana , donde el ambiente plenamente veraniego sigue siendo el protagonista a pesar de que el calendario ya anuncia la llegada del otoño. Y es que el ve",
+      "date": "Sat, 26 Sep 2026 05:00:14 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Daniel, uno de los estudiantes de Harvard que incomodó a Sánchez: «Quizá no se lo esperaba»",
+      "link": "https://www.abc.es/espana/daniel-estudiantes-harvard-incomodo-sanchez-quiza-esperaba-20260926023339-nt.html",
+      "desc": "Lo que ocurrió este jueves en la Universidad de Harvard debería ser la normalidad, pero es la excepción: Pedro Sánchez enfrentado a preguntas incisivas. El presidente del Gobierno acudió encantado a Boston a cerrar con un baño de prestigio académico su visita ",
+      "date": "Sat, 26 Sep 2026 02:33:40 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Drogas, robos y venta ambulante: 'los malos' de la playa del Trampolín de Ceuta",
+      "link": "https://www.abc.es/espana/drogas-robos-venta-ambulante-malos-playa-trampolin-20260925022143-nt.html",
+      "desc": "Son las seis de la tarde, y el paseo marítimo en el que finalizan las playas de Benítez y el Trampolín , en Ceuta, está lleno de inmigrantes que caminan a buen paso con bolsas cargadas de alimentos. Todas proceden del reparto que, cada día a estas horas, reali",
+      "date": "Sat, 26 Sep 2026 02:21:43 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "El PP rechaza una ordenanza trampa que «no prohíbe sino que legitima el burka»",
+      "link": "https://www.abc.es/espana/cataluna/reus-pionera-prohibicion-burka-justicia-tumbo-20260925022108-nt.html",
+      "desc": "La aprobación por parte del pleno del Ayuntamiento de Lérida de la ordenanza municipal que permite prohibir el uso del burka y el niqab en el espacio público en determinados supuestos contó con los votos a favor de PSC, Junts y Vox, y la oposición de ERC, Comu",
+      "date": "Sat, 26 Sep 2026 02:21:08 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Vox sospecha que se ha dado la nacionalidad por antepasados que emigraron antes de 1936",
+      "link": "https://www.abc.es/espana/vox-sospecha-dado-nacionalidad-personas-emigraron-1936-20260926022058-nt.html",
+      "desc": "El grupo de trabajo de Vox por la 'ley de nietos' analiza al detalle cada posible escenario. Ahora, con el derecho a voto de quienes han obtenido la nacionalidad por esta vía suspendido hasta que demuestren un vínculo real con exiliados por el franquismo, como",
+      "date": "Sat, 26 Sep 2026 02:20:58 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "La pesadilla de Begoña Gómez cuelga la toga",
+      "link": "https://www.abc.es/espana/pesadilla-begona-jubila-20260926022038-nt.html",
+      "desc": "El juez que envió al banquillo a Begoña Gómez cuelga la toga. Juan Carlos Peinado se despide este domingo de la carrera judicial, en la que ingresó en septiembre de 1994, tras unos últimos y turbulentos años marcados por polémicas y enfrentamientos directos co",
+      "date": "Sat, 26 Sep 2026 02:20:38 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Alfonso Basterra, más cerca de la libertad en el aniversario del asesinato de Asunta",
+      "link": "https://www.abc.es/espana/galicia/alfonso-basterra-cerca-calle-aniversario-muerte-asunta-20260925021450-nt.html",
+      "desc": "Una montaña de flores y peluches en una pista forestal de Teo, al lado de la capital gallega, recuerda el hallazgo del cadáver de la niña Asunta Basterra hace justo 13 años. Lo que entonces se convirtió en inesperada escena de un crimen, hoy es una suerte de m",
+      "date": "Sat, 26 Sep 2026 02:14:50 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "El 'tardeo' se adueña de los mercados de barrio: «Los hijos no quieren seguir en el puesto, es muy sacrificado»",
+      "link": "https://www.abc.es/espana/madrid/tardeo-aduena-mercados-barrio-20260924015546-nt.html",
+      "desc": "Hace décadas que apareció una estudiante en la frutería de Manolo, en el vallecano Mercado de Numancia, y compró dos peras y dos manzanas. Pasaron días y años, un anillo apareció en su anular y su compra habitual se dobló. Después creció la familia y pasaron a",
+      "date": "Sat, 26 Sep 2026 01:55:46 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "2-0: Gazzaniga y un acertado Girona hunden aún más al Albacete Balompié",
+      "link": "https://www.abc.es/espana/castilla-la-mancha/toledo/deportes/gazzaniga-acertado-girona-hunden-albacete-balompie-20260926014612-nt.html",
+      "desc": "Parece mentira, pero el Albacete Balompié no se trajo nada positivo de su viaje a Girona tras la disputa de un partido en el que la escuadra albaceteña se topó con un noche espléndida del veterano meta argentino Paulo Gazzaniga, quien con tres mágicas interven",
+      "date": "Sat, 26 Sep 2026 01:46:12 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Netrebko enciende el Liceu con la ‘Aida’ de Shirin Neshat, una lección de ‘opéra vérité’",
+      "link": "https://www.lavanguardia.com/cultura/20260926/11644181/netrebko-enciende-liceu-aida-shirin-neshat-leccion-opera-verite.html",
+      "desc": "La deseada cantante demuestra amar el papel y también el montaje de la artista visual iraní, cien por cien político y crítico con la guerra y los intereses espurios de los grandes mandatarios que rigen el planeta",
+      "date": "26 Sep 2026 00:49:35 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
     {
       "title": "Desahucios y gas pimienta",
       "link": "https://www.lavanguardia.com/opinion/20260926/11644068/desahucios-gas-pimienta.html",
@@ -137,106 +237,6 @@
       "link": "https://www.abc.es/espana/castilla-leon/armisen-reivindica-dia-provincia-diputacion-pegada-terreno-20260925204424-nt.html",
       "desc": "La presidenta de la Diputación de Palencia, Ángeles Armisén, ha reivindicado el papel de la institución provincial como una administración «pegada al terreno» y capaz de anticiparse a las necesidades de los ciudadanos, al hacer balance de los cuatro años de le",
       "date": "Fri, 25 Sep 2026 20:44:24 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "La Xunta promociona el Xacobeo 2027 invitando a visitar Galicia en su «mejor momento»",
-      "link": "https://www.abc.es/espana/galicia/xunta-promociona-xacobeo-2027-invitando-visitar-galicia-20260925204045-nt.html",
-      "desc": "La Xunta ha presentado este viernes en Madrid la campaña institucional con la que promocionará el Xacobeo 2027, a menos de cien días del comienzo del próximo Año Santo. El presidente del Gobierno gallego, Alfonso Rueda, ha defendido durante el acto que Galicia",
-      "date": "Fri, 25 Sep 2026 20:40:45 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Tres afectados por un brote de sarna en una residencia de ancianos de Alicante",
-      "link": "https://www.abc.es/espana/comunidad-valenciana/alicante/tres-afectados-brote-sarna-residencia-ancianos-alicante-20260925203632-nt.html",
-      "desc": "La Conselleria de Sanidad ha confirmado este viernes que se ha declarado un brote de sarna en Sant Vicent del Raspeig (Alicante), dos mayores de una residencia de ancianos y una persona externa a este establecimiento. Según fuentes de este departamento de la G",
-      "date": "Fri, 25 Sep 2026 20:36:33 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Muere un peregrino que hacía el Camino en bicicleta al caer por una pendiente en Cee",
-      "link": "https://www.abc.es/espana/galicia/muere-peregrino-camino-bicicleta-caer-pendiente-cee-20260925202835-nt.html",
-      "desc": "Un peregrino que formaba parte de un grupo de siete personas que recorría el Camino a Fisterra en bicicleta ha fallecido esta tarde de viernes a su paso por el municipio coruñés de Cee. En una pista forestal en el lugar de San Martiño, en Brens, municipio Cee,",
-      "date": "Fri, 25 Sep 2026 20:28:35 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "En libertad un hombre con 34 antecedentes tras amenazar de muerte a un vigilante: «Te voy a cortar el cuello»",
-      "link": "https://www.abc.es/espana/castilla-leon/libertad-hombre-antecedentes-tras-amenazar-muerte-vigilante-20260925201457-nt.html",
-      "desc": "La autoridad judicial decretaba la libertad para un hombre, que cuenta con 34 antecedentes policiales, detenido en Valladolid el pasado lunes 21 de septiembre como presunto autor de un delito de amenazas después de que esgrimiera una navaja de ocho centímetros",
-      "date": "Fri, 25 Sep 2026 20:14:57 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Azcón placa a Alegría en el debate sobre el fichaje de su exasesora por Blackstone: «Cumple la ley»",
-      "link": "https://www.abc.es/espana/aragon/azcon-placa-alegria-debate-sobre-fichaje-exasesora-20260924200744-nt.html",
-      "desc": "El presidente del Gobierno de Aragón, Jorge Azcón, ha acusado en las Cortes esta semana al Gobierno de Pedro Sánchez de «tratar de torpedear el futuro de Aragón» con su proyecto de Real Decreto de regulación de los centros de datos, que tildó de «sectario». El",
-      "date": "Fri, 25 Sep 2026 20:07:44 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Urbanismo tramita el cambio radical de la plaza del parking de Bodegas Campos: más grande y con arboleda",
-      "link": "https://www.abc.es/espana/andalucia/cordoba/gran-cambio-plaza-parking-bodegas-campos-grande-20260925213032-nts.html",
-      "desc": "La Gerencia de Urbanismo de Córdoba verá este martes en su consejo un nuevo paso vinculado al futuro hotel del parking de Bodegas Campos. Admitirá a trámite el proyecto de reurbanización de la plaza existente: se ampliará y se mejorará notablemente su imagen a",
-      "date": "Fri, 25 Sep 2026 19:55:20 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Ciudad Real bajará el IBI urbano al 0,75 en 2027 con el apoyo de Vox y Ciudadanos",
-      "link": "https://www.abc.es/espana/castilla-la-mancha/ciudad-real-bajara-ibi-urbano-075-2027-20260925194438-nt.html",
-      "desc": "El Ayuntamiento de Ciudad Real bajará en 2027 el tipo del IBI urbano del 0,78 al 0,75, mientras que el rústico quedará situado en el 0,70. Las nuevas ordenanzas fiscales han sido aprobadas este viernes con los votos del equipo de Gobierno, Ciudadanos, Vox y el",
-      "date": "Fri, 25 Sep 2026 19:44:39 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Los bomberos dan por extinguido el fuego en la planta de reciclaje de Cuenca",
-      "link": "https://www.abc.es/espana/castilla-la-mancha/bomberos-dan-extinguido-fuego-planta-reciclaje-cuenca-20260925194326-nt.html",
-      "desc": "El Servicio de Bomberos del Ayuntamiento de Cuenca informa de que, una vez finalizadas las labores de extinción, vigilancia y control de los puntos calientes, se da oficialmente por extinguido el incendio que afectó a las instalaciones del Centro de Reciclaje ",
-      "date": "Fri, 25 Sep 2026 19:43:26 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Los medios contra el narco sin OCON-Sur: grupos especializados de Udyco y planes de seguridad",
-      "link": "https://www.abc.es/espana/andalucia/malaga/medios-narco-oconsur-grupos-especializados-udyco-planes-20260925194055-nts.html",
-      "desc": "La petición de regreso de OCON-Sur, la unidad de élite de antidroga de la Guardia Civil en Andalucía, retumba cada vez con más fuerza desde la región acuciada por el narco. Sindicatos, la Junta de Andalucía, partidos políticos de la oposición y voces expertas ",
-      "date": "Fri, 25 Sep 2026 19:40:56 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "El PP defenderá en el Senado a policías y guardias civiles frente a los narcos",
-      "link": "https://www.abc.es/espana/andalucia/cadiz/pp-defendera-senado-policias-guardias-civiles-frente-20260925194027-nts.html",
-      "desc": "La portavoz del PP en el Senado, Alicia García, ha acudido este viernes a una Junta Directiva Provincial en Cádiz. Antes del iniciado de la cita, ha criticado la respuesta del Gobierno central al incremento de los delitos relacionados con el narcotráfico en la",
-      "date": "Fri, 25 Sep 2026 19:40:27 +0200",
       "source": "ABC",
       "color": "#c0392b",
       "feedId": "ABC",
