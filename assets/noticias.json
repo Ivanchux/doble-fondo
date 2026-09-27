@@ -1,7 +1,67 @@
 {
-  "updated": "2026-09-27T19:27:57Z",
+  "updated": "2026-09-27T22:45:45Z",
   "count": 24,
   "items": [
+    {
+      "title": "Barcelona despide otra Mercè con gran participación y pocas incidencias",
+      "link": "https://www.lavanguardia.com/local/barcelona/20260927/11645100/barcelona-despide-merce-gran-participacion-pocas-incidencias.html",
+      "desc": "El piromusical encuentra acomodo, quizás definitivo, en las playas de la ciudad y Collboni anuncia que Ciudad de México será la invitada de les fiestas del 2027",
+      "date": "27 Sep 2026 23:07:36 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
+    {
+      "title": "El teatro, «último reducto de la verdad», reina en una gala llena de emoción en el Rojas",
+      "link": "https://www.abc.es/espana/castilla-la-mancha/toledo/teatro-ultimo-reducto-verdad-reina-gala-llena-20260927221752-nt.html",
+      "desc": "El Teatro de Rojas se ha convertido este domingo en una celebración del teatro, la cultura y quienes hacen posible que el escenario siga vivo. La XXXIV edición de los Premios Teatro de Rojas, presentada por Nancho Novo y Antea Rodríguez y amenizada por Yllana,",
+      "date": "Sun, 27 Sep 2026 22:17:53 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Los patinetes podrán volver al transporte público de Barcelona, pero todavía faltan fecha y condiciones",
+      "link": "https://www.abc.es/espana/cataluna/patinetes-podran-volver-transporte-publico-barcelona-faltan-20260927220056-nt.html",
+      "desc": "Después de más de tres años y medio de prohibición, Barcelona prepara el regreso de los patinetes eléctricos al transporte público. La Autoritat del Transport Metropolità (ATM) ha abierto un proceso para estudiar en qué condiciones podrían volver a los trenes,",
+      "date": "Sun, 27 Sep 2026 22:00:56 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "La emotiva despedida de Paco Plaza tras 34 años al frente del Teatro de Rojas",
+      "link": "https://www.abc.es/espana/castilla-la-mancha/toledo/emotiva-despedida-paco-plaza-tras-anos-frente-20260927215209-nt.html",
+      "desc": "Paco Plaza no sabía que la XXXIV Gala de entrega de los Premios Teatro de Rojas se iba a convertirse en su despedida. El director del teatro toledano ha recibido este domingo por la noche un fuerte e aplauso de todo el público después de que el alcalde, Carlos",
+      "date": "Sun, 27 Sep 2026 21:52:09 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "El diputado del PSOE Alberto Mayoral y la concejal Carmen González denuncian una amenaza recibida por carta en su domicilio familiar",
+      "link": "https://www.abc.es/espana/andalucia/cordoba/diputado-psoe-rafael-mayoral-concejal-carmen-gonzalez-20260927214722-nts.html",
+      "desc": "El diputado del PSOE en el Congreso por Córdoba Alberto Mayoral De Lamo y su esposa, la concejal socialista en el Ayuntamiento de la capital, Carmen González, han presentado este domingo una denuncia en la Policía tras recibir una carta «con amenaza» en el dom",
+      "date": "Sun, 27 Sep 2026 21:47:22 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Pasear muertos",
+      "link": "https://www.abc.es/espana/galicia/pasear-muertos-20260925213000-nt.html",
+      "desc": "Corren por estas fechas los 175 años de la muerte de la Pardo Bazán, nuestra gran doña Emilia, y parece que asoman voces que piden el traslado de sus restos desde su enterramiento actual en Madrid, en el nicho familiar de la cripta de la Concepción, en la call",
+      "date": "Sun, 27 Sep 2026 21:30:00 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
     {
       "title": "Ainhoa Arteta, Montserrat Martí y Luis Santana ponen el broche final al Festival de Música Clásica Milla de Oro del Vino",
       "link": "https://www.abc.es/espana/castilla-leon/ainhoa-arteta-montserrat-marti-luis-santana-ponen-20260927212328-nt.html",
@@ -60,6 +120,16 @@
       "source": "ABC",
       "color": "#c0392b",
       "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Almodóvar visita el campamento por el derecho a la vivienda en Madrid y exige soluciones “ya”",
+      "link": "https://www.lavanguardia.com/politica/20260927/11645152/almodovar-visita-campamento-derecho-vivienda-madrid-exige-soluciones.html",
+      "desc": "El director de cine Pedro Almodóvar respalda a los manifestantes concentrados en la Puerta del Sol tras el desalojo de Maricarmen",
+      "date": "27 Sep 2026 20:26:08 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
       "caso": "other"
     },
     {
@@ -163,80 +233,10 @@
       "caso": "other"
     },
     {
-      "title": "El PSOE denuncia 318 días sin Consejo de Medio Ambiente tras caer otro árbol en Toledo",
-      "link": "https://www.abc.es/espana/castilla-la-mancha/toledo/psoe-denuncia-318-dias-consejo-medio-ambiente-20260927182055-nt.html",
-      "desc": "El Grupo Municipal Socialista ha reclamado explicaciones al alcalde de Toledo, Carlos Velázquez, tras la caída de un «árbol de grandes dimensiones» en el paseo de Recaredo y ha denunciado que el Consejo de Medio Ambiente lleva 318 días sin ser convocado. La vi",
-      "date": "Sun, 27 Sep 2026 18:20:55 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Sigüenza reúne este lunes al sector turístico de Castilla-La Mancha en el II Foro Regional de Turismo",
-      "link": "https://www.abc.es/espana/castilla-la-mancha/siguenza-reune-lunes-sector-turistico-castillala-mancha-20260927181748-nt.html",
-      "desc": "Sigüenza se convierte este lunes en punto de encuentro del sector turístico de Castilla-La Mancha. El presidente regional, Emiliano García-Page, inaugurará en el Parador Nacional de Turismo de la localidad el II Foro Regional de Turismo , una jornada que reuni",
-      "date": "Sun, 27 Sep 2026 18:17:49 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "La palabra imaginada (54):  Esos bichos",
-      "link": "https://www.abc.es/espana/castilla-la-mancha/toledo/palabra-imaginada-bichos-20260927180808-nt.html",
-      "desc": "Breves I El clavel blanco de Isabel Quintanilla en su vaso con agua callada. Dos abejas, la avispa, un abejorro, un escarabajo volador, una mariposa, se querencian en el blanco, en el rizado blanco. Sin sonido ni temblor blanquean, hacen que vuelan sobre la me",
-      "date": "Sun, 27 Sep 2026 18:08:08 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Juzgan a un repartidor que se embolsó 386.000 euros vendiendo congelados de su empresa",
-      "link": "https://www.abc.es/espana/comunidad-valenciana/alicante/juzgan-repartidor-embolso-386000-euros-vendiendo-congelados-20260927180106-nt.html",
-      "desc": "Un repartidor de una empresa de congelados de Santa Pola se enfrenta a una pena de prisión de siete años por embolsarse 360.000 euros vendiendo productos al margen de la compañía a clientes propios suyos, sin su conocimiento. El juicio está previsto que empiec",
-      "date": "Sun, 27 Sep 2026 18:07:55 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Colar droga en la cárcel aprovechando un permiso puede salir caro a un preso de Teixeiro",
-      "link": "https://www.abc.es/espana/galicia/colar-droga-carcel-aprovechando-permiso-puede-salir-20260927180606-nt.html",
-      "desc": "La Audiencia Provincial de La Coruña acoge el próximo martes, 29 de septiembre, el juicio contra un hombre acusado de introducir droga en el centro penitenciario de Teixeiro, por lo que la Fiscalía solicita para él cuatro años y seis meses de cárcel. Según se ",
-      "date": "Sun, 27 Sep 2026 18:06:07 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
       "title": "La acampada en Sol se organiza para resistir: “Ni una Maricarmen más”",
       "link": "https://www.lavanguardia.com/politica/20260927/11645078/acampada-sol-organiza-resistir-maricarmen-mas.html",
       "desc": "El movimiento social recuerda al 15-M por algunos detalles en la organización de la protesta",
       "date": "27 Sep 2026 16:57:33 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "Lamine Yamal acelera hacia el Balón de Oro con su exhibición en Wembley",
-      "link": "https://www.lavanguardia.com/deportes/futbol/20260927/11645046/lamine-yamal-balon-de-oro-espana-nations-league.html",
-      "desc": "El azulgrana cimenta su favortismo tras el triunfo de España ante Inglaterra",
-      "date": "27 Sep 2026 14:45:53 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "Tiendas de campaña contra el desahucio: Sol se planta por la vivienda",
-      "link": "https://www.lavanguardia.com/politica/20260927/11645041/tiendas-campana-desahucio-sol-planta-vivienda.html",
-      "desc": "Cientos de personas ocupan la plaza del Sol de Madrid para exigir el 'decreto Maricarmen' antes del Consejo de Ministros del martes",
-      "date": "27 Sep 2026 14:12:49 +0200",
       "source": "La Vanguardia",
       "color": "#8e44ad",
       "feedId": "LaVanguardia",
