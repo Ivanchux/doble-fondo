@@ -1,12 +1,222 @@
 {
-  "updated": "2026-09-26T22:18:44Z",
+  "updated": "2026-09-27T03:16:28Z",
   "count": 24,
   "items": [
     {
-      "title": "De Lamine Yamal a Anthony Gordon, un templo blaugrana",
-      "link": "https://www.lavanguardia.com/deportes/20260926/11644706/lamine-yamal-anthony-gordon-templo-blaugrana.html",
-      "desc": "El extremo de Rocafonda le gana la partida a Harry Kane y el inglés del Barça también&nbsp; brilla",
-      "date": "26 Sep 2026 23:10:12 +0200",
+      "title": "Usera se convierte oficialmente en el Chinatown de Madrid: así es el arco de entrada que dará la bienvenida al barrio",
+      "link": "https://www.abc.es/espana/madrid/usera-convierte-oficialmente-chinatown-madrid-arco-entrada-20260928050000-nt.html",
+      "desc": "Si hay una palabra que define de forma muy fiel a Madrid esa es 'diversa'. La capital de España acoge a todo aquel que acude a ella, pese a que el mercado de la vivienda sea uno de los más acusados por los altos precios. En Madrid hay cabida para todo tipo de ",
+      "date": "Sun, 27 Sep 2026 05:00:07 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Designar Ceuta como 'ciudad-frontera' para agilizar las devoluciones de los inmigrantes que entraron en la invasión",
+      "link": "https://www.abc.es/espana/designar-ceuta-ciudadfrontera-agilizar-devoluciones-inmigrantes-entraron-20260927030456-nt.html",
+      "desc": "La designación de Ceuta como 'ciudad-frontera' agilizaría la expulsión de los inmigrantes que entraron en la ciudad autónoma durante la invasión de julio, según explican fuentes policiales a ABC. Esta circunstancia tendría una doble vertiente, ya que se podría",
+      "date": "Sun, 27 Sep 2026 03:04:56 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "La Ley de Nietos y las nacionalizaciones siembran la confusión en México",
+      "link": "https://www.abc.es/espana/ley-nietos-nacionalizaciones-siembran-confusion-mexico-20260927030340-nt.html",
+      "desc": "La decisión sobre el alcance electoral de la Ley de Memoria Democrática, emitida por el Tribunal Supremo, siembra dudas en las oficinas consulares de España en América Latina. Un caso en especial es el de México, donde, según han señalado a ABC fuentes diplomá",
+      "date": "Sun, 27 Sep 2026 03:03:40 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Las inmigrantes escondidas en el Trampolín: «Mi padre me pegaba. Aquí han intentado agredirme»",
+      "link": "https://www.abc.es/espana/mujeres-escondidas-trampolin-padre-pegaba-intentado-agredirme-20260927020951-nt.html",
+      "desc": "Dikra y Aya caminan juntas por la carretera que bordea el Trampolín. Van vestidas con pantalón largo y sudadera a pesar del calor. En los pies, chanclas. Sujetan una bolsa en la mano con comida que acaban de comprar en el zoco de la playa. Un kilómetro de pues",
+      "date": "Sun, 27 Sep 2026 02:09:51 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Moncloa activa a la Abogacía del Estado y a los ministerios para agilizar las devoluciones en Ceuta",
+      "link": "https://www.abc.es/espana/moncloa-activa-abogacia-estado-ministerios-agilizar-devoluciones-20260925020939-nt.html",
+      "desc": "12 semanas. Tres meses. Este es el plazo que el Pacto Europeo de Migración y Asilo fija para lo que se denomina «procedimiento de asilo en frontera», esto es, el tiempo máximo que debe mediar entre que se registra una solicitud de asilo hasta que se resuelve e",
+      "date": "Sun, 27 Sep 2026 02:09:39 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "El estado de excepción se abre camino como vía exprés para la crisis en Ceuta",
+      "link": "https://www.abc.es/espana/estado-excepcion-abre-camino-via-expres-crisis-20260924020919-nt.html",
+      "desc": "La creciente ola de inseguridad, el aumento sostenido de la delincuencia y la alarmante sensación de descontrol en las calles siguen mantienen en vilo a los ciudadanos ceutíes casi sesenta días después de la invasión que Sánchez calificó inicialmente de «ataqu",
+      "date": "Sun, 27 Sep 2026 02:09:19 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Los 75 minutos del Gerbera: así derribaron dos F-18 españoles un dron ruso sobre Rumanía",
+      "link": "https://www.abc.es/espana/minutos-gerbera-derribaron-dos-f18-espanoles-dron-20260925020853-nt.html",
+      "desc": "Sobre la pantalla del puesto de mando parpadea la geografía del mar Negro. Una traza blanca dibuja el vuelo de la patrulla de combate española; la otra, errática y escurridiza, marca la trayectoria del intruso. El trazo entra en territorio rumano, roza la fron",
+      "date": "Sun, 27 Sep 2026 02:08:53 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Julito Martínez detallaba los pagos a Zapatero como «guías de montaña»",
+      "link": "https://www.abc.es/espana/julito-martinez-detallaba-pagos-zapatero-guias-montana-20260727020821-nt.html",
+      "desc": "Julio Martínez Martínez realizaba los pagos a José Luis Rodríguez Zapatero con el concepto de «guías de montaña». Los cuadros de Excel analizados por la Unidad de Delincuencia Económica y Fiscal (UDEF) de la Policía Nacional revelan que el empresario amigo del",
+      "date": "Sun, 27 Sep 2026 02:08:21 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "zap"
+    },
+    {
+      "title": "Las hijas de Zapatero ocultaron a Hacienda el pago de un bróker chavista",
+      "link": "https://www.abc.es/espana/hijas-zapatero-ocultaron-hacienda-pago-broker-chavista-20260727020738-nt.html",
+      "desc": "La empresa de las hijas de José Luis Rodríguez Zapatero ocultó a Hacienda el pago de más de 20.000 euros de un conocido bróker chavista que está investigado en el marco del caso Plus Ultra. La Unidad de Delincuencia Económica y Fiscal (UDEF) de la Policía Naci",
+      "date": "Sun, 27 Sep 2026 02:07:38 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "zap"
+    },
+    {
+      "title": "Dos manifas iguales, pero distintas",
+      "link": "https://www.abc.es/espana/madrid/dos-manifas-iguales-distintas-20260926020638-nt.html",
+      "desc": "Madrid a veces es cosa de locos. Ayer se convocaron dos Españas distintas de las que difícilmente podrán ponerse de acuerdo, por mucha razón que tengan las dos. Esa paradoja demuestra que la politización de nuestras causas mayores, de las generales, de las que",
+      "date": "Sun, 27 Sep 2026 02:06:38 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "El portador del segundo ADN en la niña violada por el falso mena niega conocerla",
+      "link": "https://www.abc.es/espana/madrid/portador-segundo-adn-nina-violada-falso-mena-20260911020158-nt.html",
+      "desc": "El caso del falso mena acusado de violar a una niña de 14 años saltó de nuevo a la actualidad el pasado 2 de septiembre, cuando ABC desveló el procesamiento del acusado y que, además, la Policía Científica había hallado restos de semen de un segundo varón en l",
+      "date": "Sun, 27 Sep 2026 02:01:58 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "La Policía libera a una mujer secuestrada y detiene a su captor gracias a la aplicación AlertCops",
+      "link": "https://www.abc.es/espana/madrid/policia-libera-mujer-secuestrada-detiene-captor-gracias-20260926020139-nt.html",
+      "desc": "Secuestro y liberación , con captor detenido, de película por las calles de Madrid. La tarde de este sábado, 26 de septiembre, una mujer fue retenida por el que presuntamente ha sido su pareja, quien la pretendía hacer desaparecer trasladándola en un coche con",
+      "date": "Sun, 27 Sep 2026 02:01:39 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "África, la joven que inicia la universidad con 16 años: «He llegado cuando me tocaba»",
+      "link": "https://www.abc.es/espana/comunidad-valenciana/africa-joven-inicia-universidad-anos-llegado-tocaba-20260927015942-nt.html",
+      "desc": "La universidad ha supuesto para África Mateos Bou un nuevo comienzo. A sus 16 años, ha dejado atrás el instituto para incorporarse al grado de Química de la Universidad Jaume I de Castellón, después de adelantar un curso en Primaria y otro en Secundaria por su",
+      "date": "Sun, 27 Sep 2026 01:59:42 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Chandavila: el santuario extremeño que el Papa Francisco puso en el mapa y ya recibe peregrinos de todo el mundo",
+      "link": "https://www.abc.es/espana/extremadura/chandavila-santuario-extremeno-papa-francisco-puso-mapa-20260907015711-nt.html",
+      "desc": "A escasos kilómetros de la frontera con Portugal, en un pequeño rincón de la geografía extremeña, se ubica el municipio pacense de La Codosera. No llegan a ser 2.000 los vecinos que viven en el pueblo. Sin embargo, allí, justo allí, puso su mirada, no mucho an",
+      "date": "Sun, 27 Sep 2026 01:57:11 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Las salas de la rabia para reventar televisores emergen en Madrid: «Hay a quienes los manda su terapeuta»",
+      "link": "https://www.abc.es/espana/madrid/salas-rabia-reventar-televisores-emergen-madridalgunos-vienen-20260925015107-nt.html",
+      "desc": "El motivo que ha llevado a cientos de personas este año a pagar por pasar media hora rompiendo objetos en una habitación con una barra de hierro o un martillo es para la gran mayoría el mismo: liberar estrés del día a día. Mientras que unos recurren a meditar,",
+      "date": "Sun, 27 Sep 2026 01:51:07 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Cuatro policías, acusados de inventarse el atestado de la detención y golpes a un menor",
+      "link": "https://www.abc.es/espana/madrid/cuatro-policias-acusados-inventarse-atestado-detencion-golpes-20260926012759-nt.html",
+      "desc": "La Fiscalía Provincial de Madrid solicita siete años de prisión para cuatro policías que, tras detener y golpear a un menor, le dejaron tendido en el suelo y luego elaboraron un atestado que no se correspondía con el testimonio de varios vecinos que habían sid",
+      "date": "Sun, 27 Sep 2026 01:27:59 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "'El listado' reúne en el CA2M obras de Nadia Barkate y Fátima Moreno",
+      "link": "https://www.abc.es/espana/madrid/listado-reune-ca2m-obras-nadia-barkate-fatima-20260926012730-nt.html",
+      "desc": "El CA2M de Móstoles inauguró ayer 'El listado. Nadia Barkate y Fátima Moreno', una exposición centrada en el dibujo contemporáneo . La muestra reúne obras de ambas artistas, que también ejercen como comisarias, junto a piezas procedentes de las colecciones del",
+      "date": "Sun, 27 Sep 2026 01:27:30 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "¿El Anticristo anda por la Tierra?",
+      "link": "https://www.lavanguardia.com/opinion/20260927/11644573/anticristo-anda-tierra.html",
+      "desc": "Entre los candidatos a Anticristo: Trump y Putin, demasiado evidentes; Sánchez, demasiado local",
+      "date": "27 Sep 2026 00:30:00 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
+    {
+      "title": "Las cien horas que convirtieron Ceuta en un polvorín",
+      "link": "https://www.abc.es/espana/cien-horas-convirtieron-ceuta-polvorin-20260927002857-ntrc.html",
+      "desc": "La primera alarma cabía entera en un teléfono móvil. A las 13:52 del 29 de julio, el Centro Nacional de Inteligencia (CNI) envió un wasap al gabinete de la Delegación del Gobierno en Ceuta sobre una convocatoria difundida en redes sociales (RRSS): «En RRSS hay",
+      "date": "Sun, 27 Sep 2026 00:28:57 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Sánchez ya no puede fallar",
+      "link": "https://www.lavanguardia.com/opinion/20260927/11644636/sanchez-fallar.html",
+      "desc": "El líder socialista lo tiene casi imposible para repetir en el 2027 la gesta del 2023",
+      "date": "27 Sep 2026 00:05:00 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
+    {
+      "title": "Elogio del canto de taberna",
+      "link": "https://www.lavanguardia.com/cultura/20260927/11644492/serrat-perez-cruz-ia-isaac-marcet-automejora-openai-algoritmo.html",
+      "desc": "",
+      "date": "27 Sep 2026 00:00:00 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
+    {
+      "title": "España conserva el apetito",
+      "link": "https://www.lavanguardia.com/deportes/futbol/20260926/11644709/espana-conserva-apetito.html",
+      "desc": "",
+      "date": "26 Sep 2026 23:46:00 +0200",
       "source": "La Vanguardia",
       "color": "#8e44ad",
       "feedId": "LaVanguardia",
@@ -27,216 +237,6 @@
       "link": "https://www.lavanguardia.com/cultura/20260926/11644705/concha-san-sebastian-tender.html",
       "desc": "",
       "date": "26 Sep 2026 23:04:49 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "España también profana Wembley en una noche de altibajos",
-      "link": "https://www.lavanguardia.com/deportes/20260926/11644700/espana-profana-wembley-noche-altibajos.html",
-      "desc": "La selección sobrevive a una noche divertida pero escasa de solidez en su estreno en la Nations",
-      "date": "26 Sep 2026 22:42:06 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "El Córdoba Patrimonio sigue alimentando sus dudas con una contundente derrota ante ElPozo Murcia (6-1)",
-      "link": "https://www.abc.es/espana/andalucia/cordoba/cordoba-patrimonio-sigue-alimentando-dudas-contundente-derrota-20260926223639-nts.html",
-      "desc": "El Córdoba Patrimonio de la Humanidad sigue sin levantar cabeza. El reto ante ElPozo Murcia ya se presentaba mayúsculo, pero el conjunto blanquiverde apenas pudo ofrecer resistencia y terminó cayendo con claridad (6-1). La fragilidad defensiva de los de David ",
-      "date": "Sat, 26 Sep 2026 22:36:39 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Julio Millán será el candidato del PSOE a la alcaldía de Jaén en las próximas municipales",
-      "link": "https://www.abc.es/espana/andalucia/jaen/julio-millan-candidato-psoe-alcaldia-jaen-proximas-20260926223235-nts.html",
-      "desc": "Julio Millán, el actual alcalde de Jaén, iha conseguido imponerse a su rival, Carlos Alberca, en las primarias que se han celebrado este sábado en Jaén para elegir al candidato que representará al PSOE en las elecciones municipales de 2027 a la alcaldía de la ",
-      "date": "Sat, 26 Sep 2026 22:32:36 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "María Jesús Montero sufre una dura derrota en Córdoba en las primarias del PSOE en Andalucía",
-      "link": "https://www.abc.es/espana/andalucia/maria-jesus-montero-amarra-candidaturas-duras-primarias-20260926214122-nts.html",
-      "desc": "La secretaria general del PSOE andaluz, María Jesús Montero, ha sufrido una severa derrota en las primarias del partido. Córdoba es el agujero por el que se puede empezar a descoser una formación muy tocada tras las últimas debacles electorales, especialmente ",
-      "date": "Sat, 26 Sep 2026 22:18:30 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Romero y Ortiz se disputarán en segunda vuelta las primarias del PSOE de Córdoba",
-      "link": "https://www.abc.es/espana/andalucia/cordoba/romero-ortiz-disputaran-segunda-vuelta-primarias-psoe-20260926221235-nts.html",
-      "desc": "Habrá una nueva votación en las primarias del PSOE de Córdoba. Y llega con sorpresa. La militancia socialista tendrá que acudir a una segunda vuelta para elegir al candidato que les representará en las elecciones municipales de mayo de 2027. Y lo harán entre J",
-      "date": "Sat, 26 Sep 2026 22:12:36 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Mike Leigh se alza con la Concha de Oro en su conmovedora despedida del cine",
-      "link": "https://www.lavanguardia.com/cultura/20260926/11644506/mike-leigh-alza-concha-oro-conmovedora-despedida-cine.html",
-      "desc": "El director británico conquista el palmarés con 'Tender loving care', una película sobre la compasión y los cuidados&nbsp; &nbsp;",
-      "date": "26 Sep 2026 21:50:59 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "Antonio Pedrero:  «He pretendido hacer de lo local lo universal»",
-      "link": "https://www.abc.es/espana/castilla-leon/antonio-pedrero-20260923214748-nt.html",
-      "desc": "Cuando uno llega a la Plaza de Fray Diego de Leza parece que Zamora retrocede en el tiempo. Atrás queda el bullicio de la céntrica Rúa de los Francos. Nada más cruzar el arco de la iglesia de San Pedro y San Ildefonso, en el número 2 se ubica la residencia de ",
-      "date": "Sat, 26 Sep 2026 21:47:48 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Tarde triunfal en la plaza de toros de Pozoblanco con la terna a hombros",
-      "link": "https://www.abc.es/espana/andalucia/cordoba/tarde-triunfal-plaza-toros-pozoblanco-terna-hombros-20260926214613-nts.html",
-      "desc": "En la tarde de este sábado asistimos al primer festejo de la feria taurina de Pozoblanco 2026 en honor a Nuestra Señora de las Mercedes, en un cartel conformado de tres figuras del toreo como son Daniel Luque, Borja Jiménez y David de Miranda . La fecha del fe",
-      "date": "Sat, 26 Sep 2026 21:46:13 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Mar Sancho intenta «encapsular el agua» en un ensayo «casi poético»",
-      "link": "https://www.abc.es/espana/castilla-leon/mar-sancho-intenta-encapsular-agua-ensayo-poetico-20260925214557-nt.html",
-      "desc": "Chirimiri, orvallo, llovizna, garúa, chaparrón, chubasco, tromba, aguacero, chaparrón, chubasco, borrasca, diluvio…. Son algunas de las mil y una palabras que recoge el diccionario de la Real Academia Española para nombrar la lluvia. Hace tiempo que a Mar Sanc",
-      "date": "Sat, 26 Sep 2026 21:45:57 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Detenidos dos inmigrantes en Ceuta por tratar de agredir sexualmente a una menor marroquí",
-      "link": "https://www.abc.es/espana/detenidos-dos-inmigrantes-ceuta-tratar-agredir-sexualmente-20260926213536-nt.html",
-      "desc": "Dos inmigrantes que entraron en Ceuta el 30 y 31 de julio han sido detenidos en las últimas horas como presuntos autores de un intento de agresión a otra inmigrante marroquí menor de edad, quien en la jornada del viernes ya había vivido un altercado parecido, ",
-      "date": "Sat, 26 Sep 2026 21:35:37 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Acampada en Sol contra las políticas de vivienda: «¿Dónde está el Gobierno progresista?»",
-      "link": "https://www.abc.es/espana/madrid/grupos-radicales-acampan-puerta-sol-tras-manifestacion-20260926213121-nt.html",
-      "desc": "«¿Dónde está el gobierno progresista?», gritaban los manifestantes por las calles, en dirección a la Puerta del Sol. A su llegada ya había decenas de acampados y otros tantos que se sorprendían de la masa que se dirigía a acompañarlos. «Cuántos son, cuántos so",
-      "date": "Sat, 26 Sep 2026 21:31:21 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Caos en la boda",
-      "link": "https://www.abc.es/espana/galicia/caos-boda-20260925213000-nt.html",
-      "desc": "Cuando las infidelidades y los intereses económicos se juntan, la cosa puede acabar mal. Ese parecía ser el motivo de la disputa ocurrida en una boda celebrada en Gomesende . Todo iba bien. Los novios se querían, los invitados disfrutaban y los dueños de la ca",
-      "date": "Sat, 26 Sep 2026 21:30:00 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Fe de Ratas de CyL",
-      "link": "https://www.abc.es/espana/castilla-leon/ratas-cyl-20260924212848-nt.html",
-      "desc": "",
-      "date": "Sat, 26 Sep 2026 21:28:48 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "No dan miedo",
-      "link": "https://www.abc.es/espana/castilla-leon/dan-miedo-20260925212548-nt.html",
-      "desc": "Ni me imaginaba que pasando por la plaza de la Universidad me iba a acordar de Mecklemburgo-Pomerania. La relación, a bote pronto, puede parecer difícil pero sólo hicieron falta unas banderas de Falange y un grupete de chico y chicas de lo mas normales apostad",
-      "date": "Sat, 26 Sep 2026 21:25:48 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Los otros menas",
-      "link": "https://www.abc.es/espana/castilla-leon/menas-20260925212420-nt.html",
-      "desc": "Entendemos por “menas” a los menores no acompañados. Unos llegan a España huyendo de la guerra; otros, miles, han arribado a Ceuta, invadiendo el territorio, desafiando la soberanía de España, con sus familias esperando a escasos metros de la frontera. Pero ex",
-      "date": "Sat, 26 Sep 2026 21:24:20 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Valladolid recrea con solemnidad el funeral del príncipe irlandés 'Red' Hugh O'Donnell",
-      "link": "https://www.abc.es/espana/castilla-leon/valladolid-recrea-solemnidad-funeral-principe-irlandes-red-20260926212157-nt.html",
-      "desc": "Valladolid volvía a rendir este sábado tributo a 'Red 'Hugh O'Donnell , el príncipe irlandés que desafió a Inglaterra en el siglo XVI. En una emotiva recreación del funeral de Estado que recibió en 1602, la ciudad revivía con solemnidad su legado con un desfil",
-      "date": "Sat, 26 Sep 2026 21:21:58 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "El milagro de La Janda: las 15 aves guiadas por humanos en ultraligero que aterrizan este octubre en Cádiz",
-      "link": "https://www.abc.es/espana/andalucia/cadiz/milagro-janda-aves-guiadas-humanos-ultraligero-aterrizan-20260926192813-nts.html",
-      "desc": "El ibis eremita es un ave en peligro de extinción . Tan en peligro que en Europa llegó a extinguirse hace cuatro siglos. Hasta hace unos años, el 100% de los ejemplares se situaban en el norte de África, entre Marruecos y Argelia. Está entre las 10 aves más am",
-      "date": "Sat, 26 Sep 2026 21:19:24 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Demasiado Torrelavega para el Cajasol Ángel Ximénez Puente Genil que atraviesa un duro inicio de competición (28-35)",
-      "link": "https://www.abc.es/espana/andalucia/cordoba/torrelavega-cajasol-angel-ximenez-puente-genil-atraviesa-20260926211405-nts.html",
-      "desc": "El Cajasol Ángel Ximénez sigue atravesando puertos de montaña en un inicio durísimo de competición. El Torrelavega se llevó la victoria del Miguel Salas por 28 goles a 35, un marcador algo engañoso porque los pontanenses, en el segundo tiempo, le complicaron l",
-      "date": "Sat, 26 Sep 2026 21:14:06 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "El Cajasol Coto Córdoba firma un estreno de ensueño en Primera FEB con un triunfo incontestable ante Zamora (72-57)",
-      "link": "https://www.abc.es/espana/andalucia/cordoba/cajasol-coto-cordoba-firma-estreno-ensueno-primera-20260926210623-nts.html",
-      "desc": "El Cajasol Coto Córdoba arrancó su aventura en Primera FEB con un estreno difícil de mejorar. El conjunto blanquiverde se impuso al Caja Rural Zamora en una noche especial para Vista Alegre, que volvió a acoger 24 años después un partido de la segunda categorí",
-      "date": "Sat, 26 Sep 2026 21:06:24 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Pasión cofrade en septiembre",
-      "link": "https://www.abc.es/espana/castilla-leon/pasion-cofrade-septiembre-20260926205839-nt.html",
-      "desc": "Salamanca vivía este sábado una jornada de Semana Santa en pleno septiembre con la celebración de la procesión extraordinaria 'Vía Áurea' , un cortejo multitudinario que sacaba a las calles del centro histórico 17 pasos y cerca de un millar de participantes en",
-      "date": "Sat, 26 Sep 2026 20:58:40 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "La manifestación en apoyo a Maricarmen, en imágenes",
-      "link": "https://www.lavanguardia.com/vida/20260926/11644630/manifestacion-apoyo-maricarmen-imagenes.html",
-      "desc": "Miles de personas han protestado este sábado en el centro de Madrid por el desahucio de Maricarmen, la inquilina de 87 años desalojada de la casa donde residía desde hacía 71 años&nbsp;",
-      "date": "26 Sep 2026 20:48:56 +0200",
       "source": "La Vanguardia",
       "color": "#8e44ad",
       "feedId": "LaVanguardia",
