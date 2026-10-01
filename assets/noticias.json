@@ -1,7 +1,177 @@
 {
-  "updated": "2026-09-30T20:28:18Z",
+  "updated": "2026-10-01T01:01:13Z",
   "count": 24,
   "items": [
+    {
+      "title": "El PP rechaza los decretos de vivienda y presiona a Junts y PNV: «Ellos sabrán si caen en la trampa»",
+      "link": "https://www.abc.es/espana/pp-rechaza-decretos-vivienda-presiona-junts-pnv-20261001012259-nt.html",
+      "desc": "El PP votará en contra de los dos reales decretos leyes del Gobierno en materia de vivienda en el pleno del viernes. No era ninguna sorpresa , pero Alberto Núñez Feijóo quiso despejar el balón ayer para que no quedara ninguna duda. De paso, se quitó de encima ",
+      "date": "Thu, 01 Oct 2026 01:22:59 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "El 'think tank' cercano al Sindicato de Inquilinas recibió 1,2 millones de euros en subvenciones públicas",
+      "link": "https://www.abc.es/espana/cataluna/think-tank-cercano-sindicato-inquilinas-recibio-millones-20260930012237-nt.html",
+      "desc": "La red alrededor del Sindicato de Inquilinas de Barcelona sigue un patrón similar al que acabó por impulsar a Ada Colau a la alcaldía de la capital catalana. Del activismo a la primera línea de la política con la ayuda del dinero de todos. El 'think tank' Inst",
+      "date": "Thu, 01 Oct 2026 01:22:37 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "El Gobierno vuelve a incumplir la Constitución y presentará otra vez tarde los Presupuestos",
+      "link": "https://www.abc.es/espana/gobierno-vuelve-incumplir-constitucion-presentara-vez-tarde-20260925012232-nt.html",
+      "desc": "Es el drama de cada año. Un bucle del que el Ejecutivo es incapaz salir cada vez que se acerca el otoño. La Constitución Española fija en su artículo 134.3 que el Gobierno debe presentar los Presupuestos Generales del Estado (PGE) para el próximo año «al menos",
+      "date": "Thu, 01 Oct 2026 01:22:32 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "El 15 meme y dos huevos duros",
+      "link": "https://www.abc.es/espana/meme-dos-huevos-duros-20260930012224-nt.html",
+      "desc": "En 2012 fue el 15M y en 2026 ha salido el 15 meme. Los medios han repetido tanto que lo de la Puerta del Sol es un hito histórico, que yo me lo he creído. He anotado lo que estaba haciendo en ese momento, para que no se me olvide. Cuando pasa algo tan históric",
+      "date": "Thu, 01 Oct 2026 01:22:24 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "El Gobierno confía en aprobar el decreto Maricarmen pese a que Junts se resiste",
+      "link": "https://www.abc.es/espana/gobierno-optimista-sobre-aprobacion-decretos-maricarmen-20260930012220-nt.html",
+      "desc": "A horas de que se inicie el debate parlamentario y cuando el segundo real decreto ley sobre la prórroga indefinida de los alquileres apenas se acaba de publicar en el BOE, el Gobierno encara la jornada parlamentaria de este viernes con confianza. Todas las fue",
+      "date": "Thu, 01 Oct 2026 01:22:20 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "La declaración de Vivas apunta a un delito de omisión del deber por parte del Gobierno",
+      "link": "https://www.abc.es/espana/declaracion-vivas-apunta-delito-omision-deber-parte-20260930011952-nt.html",
+      "desc": "La declaración del presidente de Ceuta, Juan Jesús Vivas, este miércoles como testigo ante la jueza de la Audiencia Nacional María Tardón apunta, si los hechos se produjeron según ha relatado minuciosamente, a un posible delito de omisión del deber de persegui",
+      "date": "Thu, 01 Oct 2026 01:19:52 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "gen"
+    },
+    {
+      "title": "Rabat paraliza la extradición de presos españoles en Marruecos pese a cumplir los requisitos",
+      "link": "https://www.abc.es/espana/marruecos-paraliza-traslado-presos-espanoles-carceles-peninsula-20260928011947-nt.html",
+      "desc": "Marruecos ha paralizado la extradición de presos españoles a cárceles de la Península. Una decisión del Ministerio Fiscal de Rabat que se lleva implantando desde poco tiempo antes de la invasión a Ceuta y que afecta a decenas de familias que alzan la voz para ",
+      "date": "Thu, 01 Oct 2026 01:19:47 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "La fortaleza española que resiste a treinta metros del Trampolín de Ceuta",
+      "link": "https://www.abc.es/espana/fortaleza-espanola-resiste-treinta-metros-trampolin-ceuta-20260927011942-nt.html",
+      "desc": "La tarde muere en Ceuta. Mientras los 1.500 ilegales afincados en la playa del Trampolín se preparan para una nueva noche de hogueras, timbales y venta ambulante, en la calle de la Colina, ubicada a unos 30 metros de la arena, un vecino discute con un magrebí ",
+      "date": "Thu, 01 Oct 2026 01:19:42 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Galicia pagará más a los médicos con pacientes ancianos y bebés en sus cupos",
+      "link": "https://www.abc.es/espana/galicia/medicos-gallegos-cobraran-pacientes-bebes-ancianos-20260930011844-nt.html",
+      "desc": "El ayuntamiento coruñés de Tordoia es el más envejecido de toda Galicia. Allí, los mayores de 65 años triplican a los de 20 . En Sober (Lugo) presumen de estar a la cabeza de España en cuanto a vecinos centenarios, y en Ames (La Coruña) los carritos de bebés t",
+      "date": "Thu, 01 Oct 2026 01:18:44 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "La ley de nietos dispara un 40% el voto exterior en Madrid y ya son un tercio de los nuevos inscritos",
+      "link": "https://www.abc.es/espana/madrid/tercio-nuevos-inscritos-censo-exterior-asignan-madrid-20260930011826-nt.html",
+      "desc": "Los casos de Tres Cantos y Madarcos activaron las alarmas en la Comunidad de Madrid, por los efectos que estaba teniendo la ley de nietos en el Censo Electoral de Residentes Ausentes (CERA). Con los datos generales ya en la mano, los recelos se han disparado y",
+      "date": "Thu, 01 Oct 2026 01:18:26 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Las conversaciones del marido de Verónica Hidalgo con los narcos: «Amigo tienes 30 kilos donde 'titi' a 2.600 euros el kilo»",
+      "link": "https://www.abc.es/espana/conversaciones-marido-veronica-hidalgo-narcos-amigo-kilos-20261001011816-nt.html",
+      "desc": "Juan Andrés González Santos, el marido de la modelo Verónica Hidalgo, no solo blanqueaba dinero del narcotráfico sino que también participaba en el negocio de la compra y venta de sustancias estupefacientes. ABC ha tenido acceso a los informes policiales de la",
+      "date": "Thu, 01 Oct 2026 01:18:16 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "La Comunidad Valenciana considerará numerosas a las familias con dos hijos",
+      "link": "https://www.abc.es/espana/comunidad-valenciana/comunidad-valenciana-quiere-familias-numerosas-dos-hijos-20261001011718-nt.html",
+      "desc": "Dicho y hecho, en apenas tres días. El anuncio realizado por el presidente de la Generalitat Valenciana, Juanfran Pérez Llorca, para ampliar la condición oficial de familia numerosa a los hogares con dos hijos recibe previsiblemente hoy la aprobación del pleno",
+      "date": "Thu, 01 Oct 2026 01:17:18 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Caen cuatro pandilleros en un coche de 40.000 euros y tras una agresión: «Agente, me estoy comiendo una hamburguesa»",
+      "link": "https://www.abc.es/espana/madrid/caen-cuatro-pandilleros-coche-40000-euros-tras-20260930010841-nt.html",
+      "desc": "La Policía Municipal de Madrid ha detenido a cuatro jóvenes de una banda latina después de que, presuntamente, participaran en una reyerta el pasado 21 de septiembre en la zona de Ascao, en Ciudad Lineal. Se da la circunstancia de que los encartados iban armad",
+      "date": "Thu, 01 Oct 2026 01:08:41 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Un joven del clan de los Cucos, detenido con dos rifles en una persecución al quedarse sin gasolina",
+      "link": "https://www.abc.es/espana/madrid/joven-clan-cucos-detenido-dos-rifles-persecucion-20260930010827-nt.html",
+      "desc": "La Policía Nacional ha echado el guante a uno de los integrantes del clan de los Cucos, la familia que fue arrestada el pasado 18 de septiembre, cuando pretendían provocar una matanza contra sus rivales , los Milagros, a la salida de los juzgados de la plaza d",
+      "date": "Thu, 01 Oct 2026 01:08:27 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "gen"
+    },
+    {
+      "title": "Si Canadá se lo piensa...",
+      "link": "https://www.lavanguardia.com/opinion/20261001/11647982/canada-piensa.html",
+      "desc": "No tiene sentido que Canadá estudie ser el primer “miembro asociado” de la UE y Gran Bretaña se aísle",
+      "date": "01 Oct 2026 00:05:00 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
+    {
+      "title": "Heridas en el cuello compatibles «con empleo de fuerza externa» y una relación «tensa», los indicios que esgrime el juez contra la pareja de Juanpere",
+      "link": "https://www.abc.es/espana/cataluna/heridas-cuello-compatibles-empleo-fuerza-externa-relacion-20261001232653-nt.html",
+      "desc": "Tras nueve meses de pesquisas bajo secreto, los Mossos d'Esquadra detenían la semana pasada en Madrid a la pareja del arquitecto Josep Juanpere , acusada de su homicidio en Baqueira, a finales de diciembre. Tras pasar a disposición judicial, el instructor de V",
+      "date": "Wed, 30 Sep 2026 23:26:53 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "La Comunidad de Madrid lidera las empresas de capital extranjero en España con más de 15.500",
+      "link": "https://www.abc.es/espana/madrid/comunidad-madrid-lidera-empresas-capital-extranjero-espana-20260930222255-nt.html",
+      "desc": "La Comunidad de Madrid lidera las empresas de capital extranjero en España con 15.548, el 43,5% del total nacional, como ha resaltado hoy la consejera de Economía, Hacienda y Empleo, Rocío Albert, en la clausura del III Madrid Investment Forum en Alcalá de Hen",
+      "date": "Wed, 30 Sep 2026 22:22:55 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
     {
       "title": "Adelante Andalucía quiere que los diputados se bajen el sueldo a la mitad",
       "link": "https://www.abc.es/espana/andalucia/adelante-andalucia-quiere-diputados-bajen-sueldo-mitad-20260930213539-nts.html",
@@ -43,36 +213,6 @@
       "caso": "other"
     },
     {
-      "title": "Muere un trabajador de una cuadrilla forestal tras despeñarse por una ladera en la provincia de León",
-      "link": "https://www.abc.es/espana/castilla-leon/muere-trabajador-cuadrilla-forestal-tras-despenarse-ladera-20260930210128-nt.html",
-      "desc": "U n trabajador de una cuadrilla forestal ha fallecido durante la mañana de este miércoles en la localidad de Fasgar (León) tras despeñarse con la maquinaria que manejaba por la ladera de una pista forestal mientras realizaba sus labores habituales. UGT Servici",
-      "date": "Wed, 30 Sep 2026 21:01:28 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "El último examen del alcalde de Málaga antes de ir a las urnas con 84 años",
-      "link": "https://www.abc.es/espana/andalucia/malaga/ultimo-examen-alcalde-malaga-urnas-anos-20260930210116-nts.html",
-      "desc": "El pleno de Málaga se vistió de largo este miércoles. Desde temprano había ciudadanos esperando. El alcalde Francisco de la Torre llegó saludando. Nada lo opaca en días así. Se sabe la estrella. Era una mañana que se antojaba compleja, porque la ciudad anda ag",
-      "date": "Wed, 30 Sep 2026 21:01:17 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Lasarte brinda con Krug por una zanahoria que llega hasta Navidad",
-      "link": "https://www.abc.es/espana/cataluna/lasarte-brinda-krug-zanahoria-llega-navidad-20260930205355-nt.html",
-      "desc": "La zanahoria tiene reservado un sitio entre el caviar, la cigala y el cangrejo real. En Lasarte, el restaurante barcelonés de Martín Berasategui cuya cocina dirige Paolo Casagrande, esta raíz cotidiana se convierte en el hilo conductor de una experiencia que i",
-      "date": "Wed, 30 Sep 2026 20:53:55 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
       "title": "El supervisor de la Fed no halla irregularidades ni indicios de delito en la renovación de su sede",
       "link": "https://www.lavanguardia.com/economia/20260930/11647943/supervisor-fed-halla-irregularidades-indicios-delito-renovacion-sede.html",
       "desc": "Este informe desmiente al presidente Donald Trump que, con el fin de echar al máximo responsable entonces de la Reserva Federal, Jerome Powell, denunció ante la justicia el sobrecoste de la obra",
@@ -93,150 +233,10 @@
       "caso": "other"
     },
     {
-      "title": "La lesión de Diarra pone a prueba el fondo de armario por un puesto en la medular del Córdoba CF",
-      "link": "https://www.abc.es/espana/andalucia/cordoba/cordoba-cf/lesion-diarra-pone-prueba-fondo-armario-puesto-20260930202257-nts.html",
-      "desc": "La lesión de Yussi Diarra obliga al Córdoba CF a reconstruir una de las piezas que Iván Ania había tocado durante el comienzo de la temporada. El maliense había sido titular en las siete primeras jornadas y se había convertido en uno de los futbolistas con may",
-      "date": "Wed, 30 Sep 2026 20:22:58 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "La cárcel de Topas cambia de criterio y no avala la salida de Alfonso Basterra",
-      "link": "https://www.abc.es/espana/galicia/carcel-topas-cambia-criterio-avala-salida-alfonso-20260930202236-nt.html",
-      "desc": "La Junta de Tratamiento de la prisión de Topas, en Salamanca, ha cambiado finalmente el sentido de su voto sobre el nuevo permiso solicitado por Alfonso Basterra, condenado a 18 años de cárcel por el asesinato de su hija Asunta en Galicia en 2013. Aunque en un",
-      "date": "Wed, 30 Sep 2026 20:22:36 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Una intervención pionera en el Hospital Cruz Roja de Córdoba permite aliviar la presión intracraneal con éxito",
-      "link": "https://www.abc.es/espana/andalucia/cordoba/intervencion-pionera-hospital-cruz-roja-cordoba-permite-20260930201228-nts.html",
-      "desc": "El Hospital Cruz Roja de Córdoba ha realizado una neuroendoscopia para el tratamiento de una hidrocefalia obstructiva , una patología que se produce cuando se bloquea el recorrido normal del líquido cefalorraquídeo dentro del cerebro y éste se acumula, provoca",
-      "date": "Wed, 30 Sep 2026 20:12:28 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "La Junta de Andalucía pone en servicio el primer tramo de la carretera A-3133 a su paso por La Rambla",
-      "link": "https://www.abc.es/espana/andalucia/cordoba/junta-andalucia-pone-servicio-primer-tramo-carretera-20260930201101-nts.html",
-      "desc": "La Consejería de Fomento y Movilidad ha puesto en servicio de manera parcial la carretera A-3133 en La Rambla, tras una actuación de mejora que permitirá incrementar la seguridad vial y mejorar las conexiones de acceso al municipio y al polígono industrial Los",
-      "date": "Wed, 30 Sep 2026 20:11:02 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "La Diputación de Córdoba incorpora al Consorcio de Bomberos el primero de los cuatro camiones para cascos históricos por 230.000 euros",
-      "link": "https://www.abc.es/espana/andalucia/cordoba/diputacion-cordoba-incorpora-consorcio-bomberos-primero-cuatro-20260930201049-nts.html",
-      "desc": "Los parques de bomberos de Baena, Priego de Córdoba, Peñarroya-Pueblonuevo y Montoro contarán con cuatro autobombas urbanas ligeras (BUL) diseñadas especialmente para intervenir en calles estrechas y cascos históricos. La primera de ellas, con un coste de 230.",
-      "date": "Wed, 30 Sep 2026 20:10:50 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Córdoba, epicentro de los avances tecnológicos en traumatología: «Nos apoyamos cada vez más en la robótica y la IA, pero nunca puede faltar el cirujano»",
-      "link": "https://www.abc.es/espana/andalucia/cordoba/cordoba-epicentro-avances-tecnologicos-traumatologia-apoyamos-vez-20260930200959-nts.html",
-      "desc": "La tecnología médica avanza a pasos agigantados; ya no es el futuro, ahora es el presente. Y así se demuestra en el 63º Congreso Nacional de la SECOT (Sociedad Española de Cirugía Ortopédica y Traumatología), que acoge esta semana el Centro de y Exposiciones, ",
-      "date": "Wed, 30 Sep 2026 20:09:59 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Los peritos examinan en Villanueva de Córdoba los cinco primeros vagones del Iryo accidentado en Adamuz",
-      "link": "https://www.abc.es/espana/andalucia/cordoba/peritos-examinan-villanueva-cordoba-cinco-primeros-vagones-20260930200359-nts.html",
-      "desc": "La inspección judicial de los vagones del tren Iryo siniestrado en Adamuz se ha trasladado este miércoles hasta la estación de Villanueva de Córdoba para examinar los coches 1 al 5 del convoy, después de que durante la jornada del martes, el peritaje se centra",
-      "date": "Wed, 30 Sep 2026 20:03:59 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "'Marina', cima del teatro lírico en lengua española, llega al Gran Teatro de Córdoba impulsada por el Coro de Ópera",
-      "link": "https://www.abc.es/espana/andalucia/cordoba/marina-cima-teatro-lirico-lengua-espanola-llega-20260930200341-nts.html",
-      "desc": "«A beber, a beber, a ahogar / el grito del dolor, / que el vino hará olvidar / las penas del amor». Es teatro cantado y se canta en lengua española y muchos identificarán esos versos con un título, 'Marina' , y con un género, la zarzuela. Lo primero es cierto,",
-      "date": "Wed, 30 Sep 2026 20:03:41 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "El conflicto por pagos pendientes en la Policía Local de Córdoba se reabre: asamblea urgente este jueves",
-      "link": "https://www.abc.es/espana/andalucia/cordoba/conflicto-pagos-pendientes-policia-local-cordoba-reabre-20260930200316-nts.html",
-      "desc": "Los episodios de tensiones entre la plantilla de la Policía Local de Córdoba y el gobierno municipal se vienen sucediendo en los últimos tiempos y han regresado . Según ha podido saber ABC de fuentes de los representantes de los agentes, los cuatro sindicatos ",
-      "date": "Wed, 30 Sep 2026 20:03:16 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Cinco detenidos al caer una red de tráfico de drogas en Ribeira",
-      "link": "https://www.abc.es/espana/galicia/cinco-detenidos-caer-red-trafico-drogas-ribeira-20260930194927-nt.html",
-      "desc": "La Guardia Civil y la Unidad de Drogas y Crimen Organizado (Udyco) de la Policía Nacional de Ribeira han detenido a cinco personas tras desarticular un grupo criminal dedicado al tráfico de drogas en el municipio coruñés. Los arrestados están investigados como",
-      "date": "Wed, 30 Sep 2026 19:49:27 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
       "title": "El sector de la vivienda alerta que el decreto Maricarmen desincentivará la oferta",
       "link": "https://www.lavanguardia.com/economia/20260930/11647908/sector-vivienda-alerta-decreto-maricarmen-desincentivara-oferta.html",
       "desc": "Empresas y propietarios piden medidas para aumentar la construcción de pisos",
       "date": "30 Sep 2026 19:29:32 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "Los municipios de Valencia que suspenden las clases  este jueves ante la alerta naranja por lluvias",
-      "link": "https://www.abc.es/espana/comunidad-valenciana/clases-suspendidas-valencia-municipios-colegios-cerrados-jueves-20260930191033-nt.html",
-      "desc": "La previsión de lluvias intensas y tormentas, con aviso naranja por precipitaciones y amarillo por tormentas, ha llevado a varios municipios a adoptar medidas preventivas y suspender la actividad lectiva este jueves y viernes. En Valencia , el Ayuntamiento ha ",
-      "date": "Wed, 30 Sep 2026 19:18:27 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "El Cristo de la Cruz a Cuestas de Escalonilla estrena túnica con bordados de oro de 1890",
-      "link": "https://www.abc.es/espana/castilla-la-mancha/toledo/cristo-cruz-cuestas-escalonilla-estrena-tunica-bordados-20260930191527-nt.html",
-      "desc": "El Santísimo Cristo de la Cruz a Cuestas de Escalonilla (Toledo), patrón de la localidad, estrenó durante las fiestas celebradas el pasado mes de septiembre una nueva túnica confeccionada por el diseñador y artesano toledano Andrés Rodríguez Novillo , cuyo ate",
-      "date": "Wed, 30 Sep 2026 19:15:28 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Madrid ya es la primera región que aporta el 20 por ciento del PIB de toda España",
-      "link": "https://www.abc.es/espana/madrid/madrid-primera-region-aporta-ciento-pib-espana-20260930191034-nt.html",
-      "desc": "La Comunidad de Madrid ha logrado tener el PIB del 20 por ciento de toda España para convertirse en la primera región que llega a este dato histórico, según ha subrayado el Gobierno autonómico. El Producto Interior Bruto madrileño ha crecido hasta sumar 337.21",
-      "date": "Wed, 30 Sep 2026 19:10:35 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Rusia amenaza a la OTAN con su arsenal nuclear si aísla Kaliningrado",
-      "link": "https://www.lavanguardia.com/internacional/20260930/11647836/rusia-amenaza-otan-arsenal-nuclear-aisla-kaliningrado.html",
-      "desc": "Moscú envía una misiva a la Alianza Atlántica alertando de que asumirá cualquier ataque o intromisión como un acto bélico",
-      "date": "30 Sep 2026 18:12:17 +0200",
       "source": "La Vanguardia",
       "color": "#8e44ad",
       "feedId": "LaVanguardia",
