@@ -1,15 +1,165 @@
 {
-  "updated": "2026-10-01T22:15:20Z",
+  "updated": "2026-10-02T03:43:46Z",
   "count": 24,
   "items": [
     {
+      "title": "José Elías, millonario catalán: «Tengo algunas viviendas de cuando estaba empezando que las tengo alquiladas pero si pudiera me las quitaría»",
+      "link": "https://www.abc.es/espana/cataluna/jose-elias-millonario-catalan-viviendas-empezando-alquiladas-20261002050000-nt.html",
+      "desc": "José Elías, empresario millonario, presidente de Audax Renovables y propietario de La Sirena, conocida cadena española de tiendas de alimentos congelados, mantiene una postura clara sobre las segundas residencias. «Yo soy bastante crítico con las segundas resi",
+      "date": "Fri, 02 Oct 2026 05:00:39 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "La Orquesta Panorama actúa hoy gratis en Madrid: municipio y a qué hora empieza",
+      "link": "https://www.abc.es/espana/madrid/orquesta-panorama-actua-hoy-gratis-madrid-municipio-20261002050000-nt.html",
+      "desc": "Esta semana comienza el mes de octubre y, de forma extraoficial, el otoño llega para quedarse. La rutina escolar y laboral se intensifica, las primeras lluvias cubren el cielo y las fiestas populares organizan las últimas noches de ocio a cielo abierto en los ",
+      "date": "Fri, 02 Oct 2026 05:00:33 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Lluvias torrenciales dejan a oscuras pueblos de Castellón y se activa la alerta hidrológica",
+      "link": "https://www.lavanguardia.com/local/valencia/20261002/11649214/lluvias-torrenciales-dejan-oscuras-pueblos-castellon-obligan-activar-alerta-hidrologica.html",
+      "desc": "El epicentro del aguacero se situó en la localidad castellonense de Aín (Plana Baixa), que registró 153,8 l/m2&nbsp;",
+      "date": "02 Oct 2026 01:34:40 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
+    {
+      "title": "El Congreso amanece blindado con vallas y más de 500 antidisturbios en previsión de una protesta de los acampados",
+      "link": "https://www.abc.es/espana/madrid/congreso-amanece-blindado-vallas-500-antidisturbios-prevision-20261001011941-nt.html",
+      "desc": "El Congreso de los Diputados y sus alrededores permanecen hoy viernes blindados con vallas y policías ante la previsión de que los acampados en Sol, como ya adelantó este periódico el miércoles, intenten reeditar una protesta ante el Parlamento durante la vota",
+      "date": "Fri, 02 Oct 2026 01:19:41 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Las cuentas del Gobierno para sacar adelante los dos decretos de Vivienda",
+      "link": "https://www.abc.es/espana/cuentas-gobierno-sacar-adelante-dos-decretos-vivienda-20261002011924-nt.html",
+      "desc": "El Gobierno se enfrenta este viernes a su supervivencia. El Congreso vota los dos decretos de vivienda aprobados por el Consejo de Ministros este martes. Se pondrán a prueba los apoyos de sus socios para sacar adelante el 'decreto Maricarmen', que ha tenido qu",
+      "date": "Fri, 02 Oct 2026 01:19:24 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Agujeros de seguridad en los accesos a las zonas restringidas del aeropuerto de Barajas",
+      "link": "https://www.abc.es/espana/madrid/agujeros-seguridad-accesos-zonas-restringidas-aeropuerto-barajas-20260930011601-nt.html",
+      "desc": "El aeropuerto de Barajas es una de las infraestructuras más importantes y más sensibles de Madrid y, por su volumen, de todo el país. Son millones de viajeros, pero también miles de empleados y personas de tránsito por estas instalaciones, donde se concentra b",
+      "date": "Fri, 02 Oct 2026 01:16:01 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Un informe señala que Rabat utiliza sus aeropuertos para infectar con Pegasus a sus objetivos",
+      "link": "https://www.abc.es/espana/informe-senala-rabat-utiliza-aeropuertos-infectar-pegasus-20261002011551-nt.html",
+      "desc": "Rabat utiliza sus infraestructuras críticas como aeropuertos para poder infectar los dispositivos de sus objetivos con programas espías como Pegasus. Un confidente del servicio de Inteligencia marroquí ha revelado a Amnistía Internacional los movimientos inter",
+      "date": "Fri, 02 Oct 2026 01:15:51 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Así fue la última visita de los Reyes a Ceuta hace casi 19 años",
+      "link": "https://www.abc.es/espana/ultima-visita-reyes-ceuta-anos-20261001011501-nt.html",
+      "desc": "Bastaron unas horas para romper una anomalía histórica de más de siete décadas y, al mismo tiempo, desatar un terremoto a ambos lados del Estrecho. Los días 5 y 6 de noviembre de 2007, los entonces Reyes de España, Don Juan Carlos I y Doña Sofía, protagonizaro",
+      "date": "Fri, 02 Oct 2026 01:15:01 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "La sombra del mal del apellido Anglés: Mauri, el hermano condenado por secuestro y torturas",
+      "link": "https://www.abc.es/espana/comunidad-valenciana/sombra-mal-apellido-angles-mauri-hermano-condenado-20261002011438-nt.html",
+      "desc": "El lastre del apellido Anglés ha perseguido toda su vida a Mauricio. 'El Mauri', como le llamaban en su niñez, ahora Joaquín Martins en el intento desesperado de huir de su pasado, ha crecido atormentado por el crimen atroz que perpetró su hermano Antonio junt",
+      "date": "Fri, 02 Oct 2026 01:14:38 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "El espionaje a Llorca detona la guerra en el PP valenciano y deja en el aire su cartel electoral",
+      "link": "https://www.abc.es/espana/espionaje-llorca-detona-guerra-pp-valenciano-deja-20261001011426-nt.html",
+      "desc": "Al eterno polvorín en el que está instalado, desde hace décadas, el PP de la Comunidad Valenciana solo le faltaba un supuesto caso de espionaje al líder para completar un auténtico historial de conflictos internos . La existencia y difusión de un dosier con in",
+      "date": "Fri, 02 Oct 2026 01:14:26 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Filomeno García, el hombre que vio pasar Madrid",
+      "link": "https://www.abc.es/espana/madrid/filomeno-garcia-hombre-vio-pasar-madrid-20261001010001-nt.html",
+      "desc": "El 17 de julio de 1976, un chico de quince años se vino de Salamanca a Madrid para ver de qué iba esto de la capital. Era verano, así que dejó sus cosas en el colegio Calasancio, donde construía su vida lejos de su pueblo natal del norte de Cáceres. Lo que no ",
+      "date": "Fri, 02 Oct 2026 01:00:01 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Vivienda, legalidad y seguridad jurídica",
+      "link": "https://www.lavanguardia.com/opinion/20261002/11649020/vivienda-legalidad-seguridad-juridica.html",
+      "desc": "",
+      "date": "02 Oct 2026 00:05:00 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
+    {
+      "title": "Una derrota con secuelas",
+      "link": "https://www.lavanguardia.com/opinion/20261002/11649018/derrota-secuelas.html",
+      "desc": "La decisión de Junts puede provocar un adelanto electoral",
+      "date": "02 Oct 2026 00:05:00 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
+    {
+      "title": "'Superjueves' de la fortuna en Córdoba: primer premio de la Lotería y un acertante de la Primitiva",
+      "link": "https://www.abc.es/espana/andalucia/cordoba/superjueves-fortuna-cordoba-primer-premio-loteria-acertante-20261002000046-nts.html",
+      "desc": "La diosa fortuna ha enloquecido en la noche de este jueves con la provincia de Córdoba : aquí ha caído parte del primer premio de la Lotería Nacional y ha habido un acertante de segunda categoría de la Primitiva, tal y como informe Loterías y Apuestas del Esta",
+      "date": "Fri, 02 Oct 2026 00:00:46 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
       "title": "Heridos dos guardias civiles tras ser tiroteados por unos 'teloneros' en Tarrasa",
       "link": "https://www.abc.es/espana/cataluna/heridos-dos-guardias-civiles-tras-tiroteados-teloneros-20261001234249-nt.html",
-      "desc": "Dos agentes de la Guardia Civil han resultado heridos este jueves tras ser tiroteados por unos 'teloneros' en Tarrasa, Barcelona. Según las primeras informaciones, el suceso se ha producido en la calle Europa de la citada localidad, cuando la Benemérita seguía",
+      "desc": "Dos agentes de la Guardia Civil han resultado heridos este jueves por la noche, tras ser tiroteados por unos 'teloneros' en Tarrasa , Barcelona. Según las primeras informaciones, el suceso se ha producido en la calle Europa de la citada localidad, cuando la Be",
       "date": "Thu, 01 Oct 2026 23:42:49 +0200",
       "source": "ABC",
       "color": "#c0392b",
       "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "El sur de Catalunya en alerta ante la llegada de lluvias torrenciales",
+      "link": "https://www.lavanguardia.com/local/tarragona/20261001/11649011/sur-catalunya-alerta-llegada-lluvias-torrenciales.html",
+      "desc": "Protecció Civil envía un aviso a los teléfonos de las comarcas afectadas para exigir que se evite cualquier desplazamiento por riesgo de inundaciones",
+      "date": "01 Oct 2026 23:10:50 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
       "caso": "other"
     },
     {
@@ -25,7 +175,7 @@
     {
       "title": "Junts tumbará los dos decretos de vivienda y priva al Gobierno de una victoria que le dé oxígeno",
       "link": "https://www.lavanguardia.com/politica/20261001/11649001/junts-tumbara-dos-decretos-vivienda-priva-gobierno-victoria-le-de-oxigeno.html",
-      "desc": "La dirección posconvergente exige al Ejecutivo de Pedro Sánchez que retire el texto y negocie uno nuevo al considerar que el actual provocará el efecto contrario a su objetivo y que se reducirá el mercado del alquiler",
+      "desc": "La dirección posconvergente exige al Ejecutivo de Pedro Sánchez que retire el texto y negocie uno nuevo, pero el Ejecutivo central se niega y aboga por que PP, Vox y JxCat se retraten y decidan de qué lado están",
       "date": "01 Oct 2026 22:20:20 +0200",
       "source": "La Vanguardia",
       "color": "#8e44ad",
@@ -87,156 +237,6 @@
       "link": "https://www.abc.es/espana/castilla-la-mancha/toledo/500-vehiculos-buscan-comprador-feria-automovil-toledo-20261001205742-nt.html",
       "desc": "Más de 500 vehículos de todas las marcas buscan comprador desde este jueves en La Peraleda, donde la Feria del Vehículo de Ocasión de Toledo celebra su vigésima edición. La cita permanecerá abierta hasta el domingo 4 de octubre y reúne alrededor del 90% de los",
       "date": "Thu, 01 Oct 2026 21:04:12 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Núñez reprocha a Page que Castilla-La Mancha ocupe el penúltimo puesto en el Índice de Competitividad Fiscal",
-      "link": "https://www.abc.es/espana/castilla-la-mancha/nunez-reprocha-castillala-mancha-ocupa-penultimo-puesto-20261001204121-nt.html",
-      "desc": "El presidente del Partido Popular de Castilla-La Mancha, Paco Núñez, ha denunciado que la región ocupa el penúltimo puesto del Índice Autonómico de Competitividad Fiscal (IACF) 2026 , elaborado por la Fundación para el Avance de la Libertad y Tax Foundation pa",
-      "date": "Thu, 01 Oct 2026 20:41:22 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Putin insiste en que Rusia usará “todo su arsenal” si Kaliningrado es atacada",
-      "link": "https://www.lavanguardia.com/internacional/20261001/11648908/putin-insiste-en-que-rusia-usara-todo-su-arsenal-si-kaliningrado-es-atacada.html",
-      "desc": "El jefe del Kremlin dice que en la carta a la OTAN no se mencionaron “las armas nucleares”, pero recordó que Moscú tiene armamento hipersónico, “que nadie posee”",
-      "date": "01 Oct 2026 20:40:40 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "Coalición Canaria votará a favor del primer real decreto de vivienda y en contra del segundo",
-      "link": "https://www.abc.es/espana/coalicion-canaria-votara-favor-primer-real-decreto-20261001203300-nt.html",
-      "desc": "La única diputada de Coalición Canaria votará este viernes a favor del primer real decreto ley en materia de vivienda aprobado el martes en el Consejo de Ministros, según ha informado este jueves el secretario de Organización Nacional de Coalición Canaria , Da",
-      "date": "Thu, 01 Oct 2026 20:33:00 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Leire Díez pide que se anule la personación de la juez que investigó al hermano de Sánchez y niega haberla calumniado",
-      "link": "https://www.abc.es/espana/leire-diez-pide-anule-personacion-juez-investigo-20261001202348-nt.html",
-      "desc": "La exmilitante socialista Leire Díez ha solicitado al juez de la Audiencia Nacional Santiago Pedraz que anule la personación como perjudicada de Beatriz Biedma , la magistrada que investigó a David Sánchez, hermano del presidente del Gobierno, y ha afirmado qu",
-      "date": "Thu, 01 Oct 2026 20:23:48 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "lei"
-    },
-    {
-      "title": "Solo una de cada cuatro entidades conoce la ley que regula la accesibilidad cultural en Galicia",
-      "link": "https://www.abc.es/espana/galicia/solo-cuatro-entidades-conoce-ley-regula-accesibilidad-20261001201523-nt.html",
-      "desc": "El acceso a la cultura en Galicia es cada vez más abierto, pero avanza de forma «parcial y desigual». Así lo concluye el informe 'Accesibilidad cultural en Galicia. Diagnóstico de las prácticas, capacidades y necesidades del sector', elaborado por el Consello ",
-      "date": "Thu, 01 Oct 2026 20:15:23 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Rubén Alves señala el camino para cambiar la dinámica del Córdoba CF: «Una vez que subamos todos el nivel, se verá reflejado en el campo»",
-      "link": "https://www.abc.es/espana/andalucia/cordoba/cordoba-cf/ruben-alves-senala-camino-cambiar-dinamica-cordoba-20261001201420-nts.html",
-      "desc": "El central del Córdoba CF Rubén Alves ha pasado este jueves por la sala de prensa de El Arcángel para repasar la actualidad blanquiverde en un momento complicado para el equipo, con un tercer arranque consecutivo en Segunda División que vuelve a dejar dudas so",
-      "date": "Thu, 01 Oct 2026 20:14:21 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Villanueva de Córdoba inicia los trámites para  la declaración de Interés Turístico de la Feria del Jamón",
-      "link": "https://www.abc.es/espana/andalucia/cordoba/villanueva-cordoba-inicia-tramites-declaracion-interes-turistico-20261001201308-nts.html",
-      "desc": "El Ayuntamiento de Villanueva de Córdoba ha iniciado los trámites para declarar de Interés Turístico la Feria del Jamón de Bellota 100% Ibérico DOP Los Pedroches. Este año celebra su vigésima sexta edición de después de cumplir las bodas de plata, un requisito",
-      "date": "Thu, 01 Oct 2026 20:13:08 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Patrimonio autoriza la ampliación de la red hidráulica contra incendios de la Mezquita-Catedral de Córdoba",
-      "link": "https://www.abc.es/espana/andalucia/cordoba/patrimonio-autoriza-ampliacion-red-hidraulica-incendios-mezquitacatedral-20261001201144-nts.html",
-      "desc": "La Comisión Provincial de Patrimonio Histórico, adscrita a la Delegación de Cultura, Patrimonio Histórico y Deporte, ha informado favorablemente el proyecto para ampliar la red hidráulica de protección contra incendios en la planta baja de la Mezquita-Catedral",
-      "date": "Thu, 01 Oct 2026 20:11:44 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Fuente Palmera de Boda se viste de largo como centro de la moda nupcial",
-      "link": "https://www.abc.es/espana/andalucia/cordoba/fuente-palmera-boda-viste-largo-centro-moda-20261001201003-nts.html",
-      "desc": "Fuente Palmera luce ya radiante con la feria Fuente Palmera de Boda , cuya decimonovena edición acaba de inaugurarse este jueves para convertirse en el centro de todas las miradas, como punto de encuentro en el que admirar la moda nupcial, de ceremonia, el dis",
-      "date": "Thu, 01 Oct 2026 20:10:03 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Valladolid iza una gran bandera de 150 metros cuadrados en el centro de la ciudad",
-      "link": "https://www.abc.es/espana/castilla-leon/valladolid-iza-gran-bandera-150-metros-cuadrados-20261001200951-nt.html",
-      "desc": "La ciudad de Valladolid ha estrenado este jueves un nuevo mástil de 30 metros donde ondeará diariamente una gran bandera de España de 150 metros cuadrado s, una «de las más grandes del país», según han explicado desde el Ayuntamiento de la ciudad en un comunic",
-      "date": "Thu, 01 Oct 2026 20:09:52 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Los juicios en los juzgados de lo Penal de Córdoba se disparan un 43% en un año",
-      "link": "https://www.abc.es/espana/andalucia/cordoba/juicios-juzgados-penal-cordoba-disparan-ano-20261001200424-nts.html",
-      "desc": "Los juzgados de lo Penal de Córdoba celebraron 2.227 juicios durante 2025, un 43% más que el año anterior, según constata la memoria de la Fiscalía. En total fueron 667 vistas más que en 2024, un incremento que refleja el fuerte aumento de la actividad judicia",
-      "date": "Thu, 01 Oct 2026 20:04:24 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "La Fiscalía avisa: están prescribiendo delitos y rebajando penas por el atasco de las causas contra los narcos en Andalucía",
-      "link": "https://www.abc.es/espana/andalucia/fiscalia-avisa-prescribiendo-delitos-rebajando-penas-atasco-20261001200352-nts.html",
-      "desc": "La desigual batalla de la ley contra el narcotráfico en Andalucía no solo se está librando en las aguas del Estrecho o en la desembocadura del Guadalquivir, sino en unos juzgados totalmente colapsados. La acumulación de macrocausas , la falta de medios persona",
-      "date": "Thu, 01 Oct 2026 20:03:52 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "La alerta roja paraliza Valencia y Castellón por lluvias «muy irregulares y torrenciales»",
-      "link": "https://www.abc.es/espana/comunidad-valenciana/alerta-roja-paraliza-valencia-castellon-tormentas-mueven-20261001195652-nt.html",
-      "desc": "Las lluvias que mantienen en alerta roja al litoral de Valencia y toda la provincia de Castellón han descargado con fuerza en algunos puntos de esta última provincia, sin incidentes destacables -achiques, incidencias en la circulación o daños en instalaciones ",
-      "date": "Thu, 01 Oct 2026 19:56:53 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Los policías acusados de reventar un ojo a Roger Español alegan un “peligro extremo”",
-      "link": "https://www.lavanguardia.com/politica/20261001/11648896/policias-acusados-reventar-ojo-roger-espanol-justifican-estaban-peligro-extremo-1.html",
-      "desc": "El escopetero que disparó contra el manifestante dice que no se fijó a dónde iba la pelota de goma",
-      "date": "01 Oct 2026 19:56:26 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "Prisión para tres de los detenidos por el asesinato de un hombre cuyo cadáver fue calcinado en Almadén",
-      "link": "https://www.abc.es/espana/castilla-la-mancha/prision-tres-detenidos-asesinato-hombre-cadaver-calcinado-20261001195128-nt.html",
-      "desc": "Los tres detenidos por su presunta relación con el asesinato del hombre cuyo cadáver apareció calcinado el pasado 21 de marzo en un camino rural de la localidad ciudadrealeña de Almadén han ingresado en prisión provisional y sin fianza. El juez responsable de ",
-      "date": "Thu, 01 Oct 2026 19:51:29 +0200",
       "source": "ABC",
       "color": "#c0392b",
       "feedId": "ABC",
