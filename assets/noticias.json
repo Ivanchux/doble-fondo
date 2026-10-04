@@ -1,7 +1,167 @@
 {
-  "updated": "2026-10-04T17:57:25Z",
+  "updated": "2026-10-04T20:55:30Z",
   "count": 24,
   "items": [
+    {
+      "title": "El censo exterior de Castilla y León es superior al de Ávila, Palencia, Segovia, Soria y Zamora",
+      "link": "https://www.abc.es/espana/castilla-leon/censo-exterior-castilla-leon-superior-avila-palencia-20260926224352-nt.html",
+      "desc": "CERA (Censo Electoral de Residentes Ausentes). Así podría llamarse la décima circunscripción electoral que añadir al ya de por sí extenso territorio de Castilla y León, y con un peso incluso mayor que más de la mitad de las provincias. Y es que quienes hunden ",
+      "date": "Sun, 04 Oct 2026 22:43:52 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "José Manuel Soto, cantante, sobre las protestas por la vivienda: «Se la van a jugar haciendo lo que mejor saben hacer: crear tensión en la calle»",
+      "link": "https://www.abc.es/espana/andalucia/jose-manuel-soto-cantante-sobre-protestas-vivienda-20261004222810-nts.html",
+      "desc": "El cantante José Manuel Soto , que no se muerde la lengua en sus redes sociales, ha colgado en estos últimos días numerosos mensajes en ellas en las que muestra su opinión sobre las acampadas y las manifestaciones que ha provocado el desahucio de Maricarmen . ",
+      "date": "Sun, 04 Oct 2026 22:28:10 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Sánchez se inclina por adelantar las elecciones, pendiente de fijar la fecha",
+      "link": "https://www.lavanguardia.com/politica/20261004/11650799/sanchez-inclina-adelantar-elecciones-pendiente-fijar-fecha.html",
+      "desc": "El presidente prioriza adoptar medidas de choque ante la crisis de la vivienda",
+      "date": "04 Oct 2026 22:06:45 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
+    {
+      "title": "Últimos conciertos de SON&MAR en La Coruña: quién actúa del 9 al 11 de octubre",
+      "link": "https://www.abc.es/espana/galicia/ultimos-conciertos-sonmar-coruna-actua-octubre-20261004220000-nt.html",
+      "desc": "El ciclo SON&amp;MAR encara su recta final después de varias semanas de conciertos y actividades en el puerto coruñés. Abrió sus puertas el pasado 18 de septiembre y se prolongará hasta el próximo 11 de octubre; así que ahora, en apenas tres días —de viernes a",
+      "date": "Sun, 04 Oct 2026 22:00:00 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Manu Sánchez, presentador de televisión, sobre las protestas por la vivienda: «Si te sorprendes de la protesta no haberla 'echao', 'chao', 'chao'»",
+      "link": "https://www.abc.es/espana/andalucia/manu-sanchez-presentador-television-sobre-protestas-vivienda-20261004215524-nts.html",
+      "desc": "El desahucio de Maricarmen ha provocado una cascada de reacciones sociales que han llegado hasta las calles. Numerosas plazas del país han sido tomadas con acampadas improvisadas para pedir al Gobierno el ya conocido 'Decreto Maricarmen'. La caída de los dos d",
+      "date": "Sun, 04 Oct 2026 21:55:24 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Cuatro órganos en batalla, una lira y un santo: Toledo en estado de gracia musical",
+      "link": "https://www.abc.es/espana/castilla-la-mancha/toledo/cuatro-organos-batalla-lira-santo-toledo-estado-20261004212946-nt.html",
+      "desc": "La Catedral de Toledo ha recuperado, una vez más -y van treinta y una-, las batallas de órganos. Ya han tomado carta de naturaleza como una enhiesta torre en el páramo musical toledano. El género no es nuevo: nació en la Edad Moderna y en la catedral de Toledo",
+      "date": "Sun, 04 Oct 2026 21:29:47 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Mueren ahogados dos jóvenes en una playa de la localidad alicantina de Guardamar del Segura",
+      "link": "https://www.abc.es/espana/comunidad-valenciana/alicante/mueren-ahogados-dos-jovenes-playa-localidad-alicantina-20261004211808-nt.html",
+      "desc": "Dos jóvenes han muerto ahogados en la playa de Els Vivers de la localidad alicantina de Guardamar del Segura mientras se bañaban con bandera roja. Tras haber sido rescatados del agua, las maniobras de reanimación no lograron recuperar sus constantes vitales. L",
+      "date": "Sun, 04 Oct 2026 21:18:30 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "La vivienda en las redes: del 'no haberla echao, chao, chao de Manu Sánchez a los 'craks' que se olvidan de Ceuta de José Manuel Soto",
+      "link": "https://www.abc.es/espana/andalucia/vivienda-redes-haberla-echao-chao-chao-manu-20261004211054-nts.html",
+      "desc": "Las manifestaciones y las acampadas en numerosas ciudades españolas tras el desahucio de Maricarmen en un barrio de Madrid están en la barra de cada bar y en cada sobremesa doméstica. Como de los problemas del tráfico en la hora punta, de la vivienda todo el m",
+      "date": "Sun, 04 Oct 2026 21:10:54 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Más de 6.000 personas recorren Córdoba por el derecho a la vivienda: «Me sobra alquiler después de pagar mi sueldo»",
+      "link": "https://www.abc.es/espana/andalucia/cordoba/6000-personas-recorren-cordoba-derecho-vivienda-sobra-20261004203952-nts.html",
+      "desc": "Las manifestaciones por el derecho a la vivienda y por la aprobación de los decretos que esta semana no ha podido sacar adelante el Gobierno no han pasado de largo por Córdoba. Más de 6.000 personas, según la Policía Local , han recorrido las calles en la tard",
+      "date": "Sun, 04 Oct 2026 20:39:52 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "El PP denuncia que Page permite que su región tenga menos oportunidades en materia de vivienda",
+      "link": "https://www.abc.es/espana/castilla-la-mancha/pp-denuncia-page-permite-region-oportunidades-materia-20261004200709-nt.html",
+      "desc": "El vicesecretario de Territorial del Partido Popular de Castilla-La Mancha y senador, Raúl Valero, ha denunciado que Emiliano García-Page «vuelve a demostrar que sus titulares y sus discursos no se corresponden con sus hechos », después de que los ocho diputad",
+      "date": "Sun, 04 Oct 2026 20:07:09 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "A juicio un ladrón con nueve condenas acusado de asaltar y retener con un cuchillo a un vecino de Boiro",
+      "link": "https://www.abc.es/espana/galicia/juicio-ladron-nueve-condenas-acusado-asaltar-retener-20261004200529-nt.html",
+      "desc": "La sección sexta de la Audiencia Provincial de La Coruña, con sede en Santiago, celebrará el próximo viernes, día 9, la audiencia preliminar contra un hombre con nueve condenas previas por robo con violencia, acusado ahora de asaltar una vivienda en Boiro y ma",
+      "date": "Sun, 04 Oct 2026 20:05:29 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Un escupitajo",
+      "link": "https://www.abc.es/espana/cataluna/escupitajo-20261004195052-nt.html",
+      "desc": "Tomo el ascensor en mi planta que es la décima y en la novena se abren las puertas y entra una chica. Yo la vi crecer porque era la hija de los vecinos de rellano de la casa de mis padres. Hace 25 años también con su madre un día nos encontramos en el ascensor",
+      "date": "Sun, 04 Oct 2026 19:54:50 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "El Córdoba CF se encomienda a El Arcángel para enderezar el rumbo y alejar males mayores ante el Tenerife",
+      "link": "https://www.abc.es/espana/andalucia/cordoba/cordoba-cf/cordoba-encomienda-arcangel-enderezar-rumbo-alejar-males-20261004194930-nts.html",
+      "desc": "El Córdoba CF regresa a El Arcángel con la necesidad de empezar a cambiar un rumbo que vuelve a llenarse de dudas. El conjunto blanquiverde recibirá este lunes (20.30 horas) al Tenerife , un rival que, pese a ser un recién ascendido, se presenta como un hueso ",
+      "date": "Sun, 04 Oct 2026 19:49:30 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "La semana empieza en Córdoba con más lluvias y el termómetro lejos de los 30 grados",
+      "link": "https://www.abc.es/espana/andalucia/cordoba/semana-empieza-cordoba-lluvias-termometro-lejos-grados-20261004194920-nts.html",
+      "desc": "A nadie sorprenderán ya las lluvias , el bajón de las temperaturas y el viento, cuando se presente. En estos días de octubre, el tiempo se ha instalado en Córdoba sin duda alguna en el otoño y la primera semana completa del décimo mes del año lo confirmará. Es",
+      "date": "Sun, 04 Oct 2026 19:49:20 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "José Antonio Romero, el alcaldable para Córdoba de un PSOE distanciado de Ferraz",
+      "link": "https://www.abc.es/espana/andalucia/cordoba/jose-antonio-romero-alcaldable-cordoba-psoe-distanciado-20261004194917-nts.html",
+      "desc": "Después de casi un mes de debate interno, de llamadas y de puesta en común de proyectos de ideas, los socialistas de Córdoba capital ya tienen a la persona que encabezará su candidatura en las próximas elecciones municipales. José Antonio Romero ganó las prima",
+      "date": "Sun, 04 Oct 2026 19:49:17 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Bellido acusa al PP de Núñez de «dar de nuevo la espalda a Castilla-La Mancha» con la vivienda",
+      "link": "https://www.abc.es/espana/castilla-la-mancha/bellido-acusa-pp-nunez-dar-nuevo-espalda-20261004194556-nt.html",
+      "desc": "El secretario general del PSOE Guadalajara, Pablo Bellido, se ha referido este domingo al contexto actual en el que la política nacional «necesita respuestas urgentes en materia de vivienda », ante lo que ha reprochado al PP de Paco Núñez que se haya dedicado ",
+      "date": "Sun, 04 Oct 2026 19:47:15 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
     {
       "title": "El centro de salud de Madrigueras no podrá recuperar este lunes su actividad habitual",
       "link": "https://www.abc.es/espana/castilla-la-mancha/centro-salud-madrigueras-podra-recuperar-lunes-actividad-20261004194050-nt.html",
@@ -13,7 +173,17 @@
       "caso": "other"
     },
     {
-      "title": "Trump nombra a Jay Clayton, jefe de espías, zar de la 'Fuerza de la Superinteligencia'",
+      "title": "Ocho centros educativos estarán cerrados el lunes por las afectaciones del temporal",
+      "link": "https://www.lavanguardia.com/local/catalunya/20261004/11650762/ocho-centros-educativos-estaran-cerrados-lunes-afectaciones-temporal.html",
+      "desc": "Un total de 87 escuelas, institutos o centros de formación de adultos que sufren incidencias pero podrán abrir",
+      "date": "04 Oct 2026 19:40:22 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
+    {
+      "title": "Trump nombra a Jay Clayton, jefe de espías, zar de la Superinteligencia",
       "link": "https://www.lavanguardia.com/internacional/20261004/11650751/trump-nombra-jay-clayton-jefe-espias-cargo-zar-ia.html",
       "desc": "El presidente estadounidense pretende demostrar que su gobierno está alerta pero dejando hacer",
       "date": "04 Oct 2026 19:22:09 +0200",
@@ -30,6 +200,16 @@
       "source": "ABC",
       "color": "#c0392b",
       "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "La Policía de Brasil investiga una posible injerencia de EE.UU. en las elecciones",
+      "link": "https://www.lavanguardia.com/internacional/20261004/11650743/policia-brasil-investiga-posible-injerencia-ee-uu-elecciones.html",
+      "desc": "La denuncia, basada en un reportaje periodístico, apunta a fondos estadounidenses para influir en el debate político",
+      "date": "04 Oct 2026 19:13:17 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
       "caso": "other"
     },
     {
@@ -60,186 +240,6 @@
       "source": "ABC",
       "color": "#c0392b",
       "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Un menor de edad, entre los tres neonazis detenidos por intentar atacar la acampada de Sol",
-      "link": "https://www.abc.es/espana/madrid/menor-edad-tres-neonazis-detenidos-intentar-atacar-20261004185050-nt.html",
-      "desc": "¿«Dónde están los antifascistas?». Con este y otros gritos amenazantes, unos 400 simpatizantes de los grupúsculos neonazis Núcleo Nacional y Democracia Nacional se congregaron el sábado junto al metro de Banco de España. El objetivo, al menos el que su líderes",
-      "date": "Sun, 04 Oct 2026 18:50:50 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "La Comic-Con de Málaga se despide con el examen de fuego aprobado: un lleno sin aglomeraciones",
-      "link": "https://www.abc.es/espana/andalucia/malaga/comiccon-malaga-despide-examen-fuego-aprobado-lleno-20261004183956-nts.html",
-      "desc": "El Capitán América, el Guardián Rojo y el Hombre Mono de 'Los Vengadores: Doomsday' , subieron al escenario el sábado por la noche, y su presencia fue la gran sorpresa del fin de semana. Veinticuatro horas después, Elijah Wood y Sean Astin, Frodo y Sam, cerrab",
-      "date": "Sun, 04 Oct 2026 18:48:00 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "La Real Academia de Toledo se ofrece a los partidos para colaborar en la definición de proyectos culturales",
-      "link": "https://www.abc.es/espana/castilla-la-mancha/toledo/real-academia-toledo-ofrece-partidos-colaborar-definicion-20261004184422-nt.html",
-      "desc": "La Real Academia de Bellas Artes y Ciencias Históricas de Toledo se ha puesto a disposición de todas las fuerzas políticas ante las próximas convocatorias electorales para ofrecerles su colaboración a la hora de planificar sus proyectos culturales. Así lo ha t",
-      "date": "Sun, 04 Oct 2026 18:44:22 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Un preso de Albolote (Granada) agrede a dos funcionarios tras amenazar de muerte a su compañero de celda",
-      "link": "https://www.abc.es/espana/andalucia/granada/preso-albolote-granada-agrede-dos-funcionarios-tras-20261004181259-nts.html",
-      "desc": "Nuevo conflicto en las prisiones de Andalucía. La Asociación Profesional de Funcionarios de Prisiones (APFP) ha denunciado este domingo la agresión a dos funcionarios de prisiones este domingo en el Centro Penitenciario de Albolote, en la provincia de Granada ",
-      "date": "Sun, 04 Oct 2026 18:13:00 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "3-0: El Valladolid Promesas fue mucho equipo para el Calvo Sotelo",
-      "link": "https://www.abc.es/espana/castilla-la-mancha/toledo/deportes/valladolid-promesas-equipo-calvo-sotelo-20261004181105-nt.html",
-      "desc": "Derrota matinal la del Calvo Sotelo de Puertollano en su visita al Valladolid Promesas por un contundente 3-0. Los discípulos que dirige el técnico toledano Javi Sánchez ya perdían por 2-0 al llegar a la primera media hora de juego con sendas dianas de Mario D",
-      "date": "Sun, 04 Oct 2026 18:11:05 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Herido por arma blanca un joven de unos 18 años en una pelea en Aranda de Duero (Burgos)",
-      "link": "https://www.abc.es/espana/castilla-leon/herido-arma-blanca-joven-anos-pelea-aranda-20261004180945-nt.html",
-      "desc": "Un joven de unos 18 año s ha resultado herido por arma blanca en una pelea entre cuatro personas ocurrida en Aranda de Duero (Burgos), según ha informado el servicio de emergencias 1-1-2 de Castilla y León. Hacia la una y media de la tarde, un alertante ha avi",
-      "date": "Sun, 04 Oct 2026 18:09:45 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Hallan muerto al conductor de una carretilla portacontenedores que cayó al mar en Vilagarcía",
-      "link": "https://www.abc.es/espana/galicia/hallan-muerto-conductor-carretilla-portacontenedores-cayo-mar-20261004175213-nt.html",
-      "desc": "El cuerpo sin vida del conductor de una carretilla portacontenedores que cayó al mar este domingo en Vilagarcía de Arousa ha sido localizado tras varias horas de búsqueda. Según informó Salvamento Marítimo, fue la tripulación de la embarcación Salvamar Pollux ",
-      "date": "Sun, 04 Oct 2026 17:52:13 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "La Fiscalía pide 2 años y 9 meses de cárcel para un agricultor por emplear a 9 extranjeros sin contrato",
-      "link": "https://www.abc.es/espana/castilla-la-mancha/fiscalia-pide-anos-meses-carcel-agricultor-emplear-20261004174632-nt.html",
-      "desc": "La Audiencia Provincial de Ciudad Real juzgará este martes, 6 de octubre, a un agricultor de Bolaños de Calatrava acusado de tener a nueve personas trabajando en una finca sin contrato laboral y sin estar dadas de alta en la Seguridad Social. Los empleados, to",
-      "date": "Sun, 04 Oct 2026 17:46:32 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "La Junta adjudica por 6,7 millones la última subasta de madera de chopo y repartirá los fondos entre 44 localidades",
-      "link": "https://www.abc.es/espana/castilla-leon/junta-adjudica-millones-ultima-subasta-madera-chopo-20261004173315-nt.html",
-      "desc": "La última subasta de madera de chopo coordinada por la Junta de Castilla y León fue adjudicada por un importe total de más de 6,7 millones de euros, una cantidad que se repartirá entre 44 localidades pertenecientes a siete de las nueve provincias de la Comunid",
-      "date": "Sun, 04 Oct 2026 17:33:15 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Los fuertes chubascos persistirán este lunes, con intensidades torrenciales en Girona",
-      "link": "https://www.lavanguardia.com/natural/20261004/11650697/fuertes-chubascos-persistiran-lunes-intensidades-torrenciales-girona.html",
-      "desc": "El noreste peninsular, en alerta por nuevos aguaceros y tormentas, según AEMET",
-      "date": "04 Oct 2026 17:19:31 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "A juicio por atropellar en patinete a un policía tras ser descubierto con MDMA, cocaína, ketamina y hachís",
-      "link": "https://www.abc.es/espana/comunidad-valenciana/juicio-atropellar-patinete-policia-tras-descubierto-mdma-20261004171225-nt.html",
-      "desc": "La Fiscalía solicita inicialmente una pena de prisión de cuatro años y medio y una multa por un delito contra la salud pública y otro de resistencia para un hombre al que acusa de traficar con drogas en Alboraya (Valencia) y de atropellar con un patinete y les",
-      "date": "Sun, 04 Oct 2026 17:12:25 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "El alcalde de Vilagarcía de Arousa denuncia una agresión al grito de «rojos de mierda»",
-      "link": "https://www.abc.es/espana/galicia/alcalde-vilagarcia-denuncia-agresion-grito-rojos-mierda-20261004164831-nt.html",
-      "desc": "El alcalde de Vilagarcía de Arousa y presidente de la Federación Galega de Municipios e Provincias (Fegamp), Alberto Varela, ha denunciado haber sufrido este sábado una «violenta agresión» en plena calle después de que un hombre se encarase con el grupo en el ",
-      "date": "Sun, 04 Oct 2026 16:48:31 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Dos detenidos por matar a otro en Lérida tras una pelea",
-      "link": "https://www.abc.es/espana/cataluna/dos-detenidos-matar-lerida-tras-pelea-20261004162517-nt.html",
-      "desc": "Los Mossos d'Esquadra han detenido a dos hombres, de 18 y 43 años, por la muerte violenta de un tercero en Lérida , tras una pelea entre personas sin hogar. Según ha informado el Cuerpo en un comunicado, el hallazgo del cadáver se produjo ayer pasadas las cuat",
-      "date": "Sun, 04 Oct 2026 16:25:17 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Sumar presentará su Frente Amplio y anunciará el candidato electoral el 17 de octubre",
-      "link": "https://www.abc.es/espana/sumar-presentara-frente-amplio-anunciara-candidato-electoral-20261004161812-nt.html",
-      "desc": "Los partidos implicados en la refundación de Sumar (Izquierda Unida, Movimiento Sumar, los Comunes y Más Madrid) presentarán el próximo 17 de octubre su nuevo proyecto bajo el nombre de Frente Amplio y su hoja de ruta, en una jornada en la que también se esper",
-      "date": "Sun, 04 Oct 2026 16:18:13 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Globalcaja ofrece financiación especial a los afectados por la riada de Madrigueras",
-      "link": "https://www.abc.es/espana/castilla-la-mancha/globalcaja-ofrece-financiacion-especial-afectados-riada-madrigueras-20261004161119-nt.html",
-      "desc": "Globalcaja ha activado un dispositivo especial para atender a las personas, comercios y explotaciones afectados por las inundaciones de la localidad albaceteña de Madrigueras. La primera de las medidas permite acceder a un máximo de 3.000 euros, sin comisiones",
-      "date": "Sun, 04 Oct 2026 16:11:19 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "La riada podría haber afectado al 70% de las viviendas de Madrigueras",
-      "link": "https://www.abc.es/espana/castilla-la-mancha/riada-haber-afectado-viviendas-madrigueras-20261004155022-nt.html",
-      "desc": "La riada que golpeó el viernes Madrigueras podría haber afectado a siete de cada diez viviendas del municipio. Es la primera estimación realizada este domingo por el presidente de la Diputación de Albacete, Santi Cabañero, tras recorrer nuevamente algunas de l",
-      "date": "Sun, 04 Oct 2026 15:50:23 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Sumar acelera su Frente Amplio y fija el 17 de octubre para su lanzamiento",
-      "link": "https://www.lavanguardia.com/politica/20261004/11650670/partidos-sumar-aceleran-frente-amplio-fijan-17-octubre-presentacion.html",
-      "desc": "La coalición confirma que desvelará a su cabeza de lista haya o no adelanto electoral y reivindica la vivienda como eje de su proyecto",
-      "date": "04 Oct 2026 15:04:47 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "La Policía Nacional inicia el desalojo del asentamiento de la playa del Trampolín en Ceuta",
-      "link": "https://www.lavanguardia.com/politica/20261004/11650626/policia-nacional-inicia-desalojo-asentamiento-playa-trampolin-ceuta.html",
-      "desc": "Se trata de una primera fase del operativo en la que intervienen un gran número de efectivos humanos y materiales",
-      "date": "04 Oct 2026 09:43:43 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
       "caso": "other"
     }
   ]
