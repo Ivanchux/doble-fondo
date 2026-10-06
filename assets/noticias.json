@@ -1,15 +1,225 @@
 {
-  "updated": "2026-10-05T19:05:45Z",
+  "updated": "2026-10-06T01:04:48Z",
   "count": 24,
   "items": [
     {
-      "title": "Madruga reclama al próximo Gobierno «minimizar la polarización» y aliviar la presión empresarial",
-      "link": "https://www.abc.es/espana/castilla-la-mancha/toledo/madruga-reclama-proximo-gobierno-minimizar-polarizacion-aliviar-20261005202721-nt.html",
-      "desc": "El secretario general de Fedeto, Manuel Madruga, valora positivamente la convocatoria de elecciones anunciada este lunes y reclama al Gobierno que salga de las urnas que reduzca la polarización existente entre las empresas y los sindicatos y afronte una revisi",
-      "date": "Mon, 05 Oct 2026 20:27:22 +0200",
+      "title": "Sánchez podría colar los decretos de vivienda en la Diputación Permanente con mínimos cambios si justifica su urgencia y necesidad",
+      "link": "https://www.abc.es/espana/sanchez-colar-decretos-vivienda-diputacion-permanente-minimos-20261006011651-nt.html",
+      "desc": "El Gobierno de Pedro Sánchez podría sacar adelante los decretos de vivienda que el Congreso le tumbó la pasada semana utilizando la mayoría de la que dispondría en la Diputación Permanente, siempre que realice una serie de cambios mínimos en su contenido y jus",
+      "date": "Tue, 06 Oct 2026 01:16:51 +0200",
       "source": "ABC",
       "color": "#c0392b",
       "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Sánchez aspira a quedarse en la oposición si consigue un resultado solvente",
+      "link": "https://www.abc.es/espana/sanchez-plantea-campana-plebiscitaria-aguantar-oposicion-20261006011630-nt.html",
+      "desc": "Pedro Sánchez canceló toda la agenda prevista para este lunes, después de activar el adelanto electoral , menos su presencia en la Ejecutiva federal del PSOE. El presidente, en su condición de secretario general del partido, acudió a la reunión de la dirección",
+      "date": "Tue, 06 Oct 2026 01:16:30 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "El Supremo tiene que resolver en tiempo récord sobre el voto de la 'ley de nietos'",
+      "link": "https://www.abc.es/espana/supremo-resolver-tiempo-record-sobre-voto-ley-20261005011412-nt.html",
+      "desc": "Si con la vista puesta en las elecciones el primer semestre de 2027 ya resultaba complicado llegar a tiempo, el adelanto electoral al 29 de noviembre convierte en imposible el examen de los inscritos en el censo exterior gracias a la 'ley de nietos'. El nuevo ",
+      "date": "Tue, 06 Oct 2026 01:14:12 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "La campaña no paralizará las investigaciones que cercan al PSOE pero puede retrasar las decisiones más graves",
+      "link": "https://www.abc.es/espana/campana-electoral-paralizara-investigaciones-cercan-psoe-sanchez-20261006011407-nt.html",
+      "desc": "El adelanto de la campaña electoral no paralizará las causas en curso —principalmente en la Audiencia Nacional— que cercan al PSOE, tanto en la que el juez Santiago Pedraz investiga si se benefició de la actividad 'cloaquera' de la exmilitante Leire Díez para ",
+      "date": "Tue, 06 Oct 2026 01:14:07 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "lei"
+    },
+    {
+      "title": "Una estudiada puesta en escena para el primer acto de campaña",
+      "link": "https://www.abc.es/espana/ruben-rodriguez-marcos-primer-acto-campana-sanchez-20261006011357-nt.html",
+      "desc": "La declaración de Pedro Sánchez anunciando la convocatoria de elecciones generales para el próximo 29 de noviembre ha sido el primer acto de la campaña electoral. El presidente no se ha limitado a comunicar una decisión institucional, sino que ha aprovechado s",
+      "date": "Tue, 06 Oct 2026 01:13:57 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "El PP asume una campaña sucia y que necesitará combatir el miedo a la derecha",
+      "link": "https://www.abc.es/espana/pp-asume-campana-caliente-prepara-disuadir-miedo-20261006011345-nt.html",
+      "desc": "«Llevamos dos años preparándonos para esto. ¿Cómo no vamos a estar contentos?». Un dirigente de la cúpula del PP resume así el sentimiento colectivo del partido ahora que las elecciones están puestas en el calendario. La maquinaria electoral ya estaba engrasad",
+      "date": "Tue, 06 Oct 2026 01:13:45 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Vox no se esperaba el 29N: temor a nuevos errores del PP y centrado en su 'prioridad nacional'",
+      "link": "https://www.abc.es/espana/vox-esperaba-29n-temor-nuevos-errores-pp-20261006011338-nt.html",
+      "desc": "Pedro Sánchez dio ayer el pistoletazo de salida a la convocatoria electoral y pilló desprevenido a Vox . Desde Bambú, sede nacional del partido, confiesan que no esperaban este movimiento del presidente del Gobierno por el momento en la legislatura con la dero",
+      "date": "Tue, 06 Oct 2026 01:13:38 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Ceuta y el CNI, los agujeros negros de Sánchez",
+      "link": "https://www.abc.es/espana/esteban-villarejo-ceuta-cni-agujeros-negros-sanchez-20261006011156-nt.html",
+      "desc": "Hay omisiones que terminan diciendo más que cualquier declaración institucional. Al anunciar la convocatoria de las elecciones generales para el 29 de noviembre, el presidente Pedro Sánchez glosó sus habituales argumentos sobre supuestos avances sociales, esta",
+      "date": "Tue, 06 Oct 2026 01:11:56 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Examen a todos los ministerios de Sánchez en la legislatura que concluye",
+      "link": "https://www.abc.es/espana/balance-ministerios-sanchez-legislatura-concluye-20261005011151-nt.html",
+      "desc": "Punto y final a la legislatura y al Gobierno de Pedro Sánchez, de momento. El presidente anunció el adelanto electoral para el 29 de noviembre este lunes y puso punto y final a esta convulso periodo antes de lo que se esperaba, tras el varapalo que sufrió el p",
+      "date": "Tue, 06 Oct 2026 01:11:51 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "La izquierda radical afronta dividida y descabezada unas elecciones «incómodas»",
+      "link": "https://www.abc.es/espana/izquierda-radical-afronta-dividida-descabezada-elecciones-dificiles-20261006011127-nt.html",
+      "desc": "«¡Por fin!». exclamaba, aliviado y sabedor de que la XV legislatura lleva meses -sino años- encallada, un dirigente de unos de los partidos a la izquierda del PSOE, que reaccionaba así a la convocatoria electoral anunciada este lunes por Pedro Sánchez. El jefe",
+      "date": "Tue, 06 Oct 2026 01:11:27 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "El Supremo facilitará la vuelta de Puigdemont de forma inminente tras el fallo del TC",
+      "link": "https://www.abc.es/espana/supremo-facilitara-vuelta-puigdemont-forma-inminente-tras-20261005010925-nt.html",
+      "desc": "Nueve años después del golpe secesionista en Cataluña, el Tribunal Constitucional dará luz verde este martes a la amnistía de la malversación del 'procés', borrando así las responsabilidades penales del equipo de Gobierno de Puigdemont y del propio 'president'",
+      "date": "Tue, 06 Oct 2026 01:09:25 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "El PP de Ayuso aplaza su congreso y Más Madrid deja ahora en el aire el futuro de su candidata",
+      "link": "https://www.abc.es/espana/madrid/pp-ayuso-desliga-generales-autonomicas-momento-desmontar-20261005010052-nt.html",
+      "desc": "El adelanto electoral que ha anunciado Pedro Sánchez este lunes , en contradicción con todo lo que había prometido, ha revolucionado a los partidos madrileños, que hasta ahora habían tenido las elecciones autonómicas de mayo de 2027 como reto más inmediato. La",
+      "date": "Tue, 06 Oct 2026 01:00:52 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Mucho más que una elección",
+      "link": "https://www.lavanguardia.com/opinion/20261006/11651807/mas-eleccion.html",
+      "desc": "Sánchez ha encontrado en la vivienda una buena excusa para plantear una batalla a fondo contra el PP",
+      "date": "06 Oct 2026 00:05:00 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
+    {
+      "title": "Las notas de los jugadores del Córdoba CF tras la victoria ante el Tenerife",
+      "link": "https://www.abc.es/espana/andalucia/cordoba/cordoba-cf/notas-jugadores-cordoba-tras-victoria-ante-tenerife-20261005234257-nts.html",
+      "desc": "El Arcángel asistió a una noche de vértigo. El Córdoba CF encontró en su pegada la respuesta a un partido que volvió a desnudar algunas de sus carencias atrás , pero en el que terminó imponiéndose al Tenerife después de verse obligado a golpear una y otra vez.",
+      "date": "Mon, 05 Oct 2026 23:42:58 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Encontrado el cadáver de un hombre en una furgoneta en Isla Cristina",
+      "link": "https://www.abc.es/espana/andalucia/huelva/encontrado-cadaver-hombre-furgoneta-isla-cristina-20261005233137-nts.html",
+      "desc": "Este lunes se ha encontrado el cadáver de un hombre en el interior de una furgoneta en el municipio de Isla Cristina en Huelva. El hallazgo ha sido en torno a las 16:00 horas. El Servicio de Emergencias 112 ha recibido la llamada de un testigo que decía que ha",
+      "date": "Mon, 05 Oct 2026 23:31:38 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Así está el Córdoba CF en la clasificación tras la victoria ante el Tenerife",
+      "link": "https://www.abc.es/espana/andalucia/cordoba/cordoba-cf/cordoba-clasificacion-tras-victoria-ante-tenerife-20261005230554-nts.html",
+      "desc": "El Córdoba CF sigue a flote a costa del Tenerife (3-2) . El conjunto blanquiverde necesitaba sumar tres puntos y, aunque no solventó sus dudas defensivas, mostró su versión más afinada de cara a puerta para cerrar el triunfo y salir de los puestos de peligro. ",
+      "date": "Mon, 05 Oct 2026 23:05:55 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "El Córdoba CF sobrevive a la locura y vuelve a sonreír tras un duelo eléctrico ante el Tenerife (3-2)",
+      "link": "https://www.abc.es/espana/andalucia/cordoba/cordoba-cf/cordoba-sobrevive-locura-vuelve-sonreir-tras-duelo-20261005230442-nts.html",
+      "desc": "Era necesario responder en El Arcángel, y el Córdoba CF supo hacerlo con creces. El conjunto blanquiverde sobrevivió a la locura del duelo ante el Tenerife y pudo reencontrarse de nuevo con la victoria en un partido repleto de acción y de intervenciones del VA",
+      "date": "Mon, 05 Oct 2026 23:04:42 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Rafael Campanero abraza para siempre El Arcángel: «Hay nombres escritos en el corazón de una ciudad y el suyo es uno de ellos»",
+      "link": "https://www.abc.es/espana/andalucia/cordoba/cordoba-cf/rafael-campanero-abraza-siempre-arcangel-nombres-escritos-20261005221356-nts.html",
+      "desc": "Rafael Campanero sigue ganando presencia en la memoria del Córdoba CF y también en la propia ciudad. El histórico dirigente blanquiverde, fallecido el 19 de junio de 2022, ya da nombre oficialmente al espacio situado entre El Arcángel y el recinto ferial de El",
+      "date": "Mon, 05 Oct 2026 22:13:57 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "CC.OO. de Andalucía defiende la huelga general: «Es posible controlar el precio de la vivienda y  necesario subir los salarios»",
+      "link": "https://www.abc.es/espana/andalucia/ccoo-andalucia-defiende-huelga-general-posible-controlar-20261005220359-nts.html",
+      "desc": "La secretaria general de CC.OO. de Andalucía, Nuria López, ha defendido la huelga general de 24 horas acordada en la tarde de este lunes por los sindicatos CC.OO. y UGT, para reivindicar salarios dignos y garantizar el acceso a una vivienda digna, como una res",
+      "date": "Mon, 05 Oct 2026 22:03:59 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Iñaqui Carnicero presentó «gastos manipulados» que Transportes autorizó",
+      "link": "https://www.abc.es/espana/carnicero-presento-gastos-manipulados-transportes-autorizo-20261006214502-nt.html",
+      "desc": "El actual secretario general de Agenda Urbana, Vivienda y Arquitectura, Iñaqui Carnicero , presentó «gastos manipulados» en el Ministerio de Transportes, durante su etapa como director general de Agenda Urbana y Arquitectura. Así lo desvelan las fuentes minist",
+      "date": "Mon, 05 Oct 2026 21:45:02 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Cómo eran los pueblos de Córdoba a principios del siglo XX, en una exposición de fotografías",
+      "link": "https://www.abc.es/espana/andalucia/cordoba/pueblos-cordoba-principios-siglo-exposicion-fotografias-20261005212617-nts.html",
+      "desc": "La pregunta de cómo eran los pueblos de Córdoba a principios del siglo XX con su industria, comercio, costumbres, obras de arte, interiores de las iglesias con sus Patronas e imágenes de Semana Santa tiene respuesta en la exposición que acaba de inaugurarse en",
+      "date": "Mon, 05 Oct 2026 21:26:18 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "UGT y CC.OO. convocan huelga general antes de la campaña electoral",
+      "link": "https://www.lavanguardia.com/politica/20261005/11651799/ugt-cc-oo-convocan-huelga-general-campana-electoral.html",
+      "desc": "Los sindicatos ultiman los detalles de la protesta que podría incluir paros parciales",
+      "date": "05 Oct 2026 21:23:21 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
       "caso": "other"
     },
     {
@@ -23,220 +233,10 @@
       "caso": "other"
     },
     {
-      "title": "La fábula de la lata de sardinas y la especulación inmobiliaria",
-      "link": "https://www.abc.es/espana/castilla-la-mancha/fabula-lata-sardinas-especulacion-inmobiliaria-20261005201331-nt.html",
-      "desc": "Ayer vi una imagen en la que unos jóvenes acampados en la Puerta del Sol daban buena cuenta de una lata de sardinas. La imagen me recordó una vieja fábula que puede servir a la perfección para ilustrar la gravísima crisis inmobiliaria que estamos sufriendo, en",
-      "date": "Mon, 05 Oct 2026 20:13:31 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "La Mezquita-Catedral de Córdoba, espectacular escenario de videojuego en el nuevo corto de Turismo de Andalucía con música de Hans Zimmer",
-      "link": "https://www.abc.es/espana/andalucia/cordoba/mezquitacatedral-cordoba-protagonista-nuevo-corto-turismo-andalucia-20261005201110-nts.html",
-      "desc": "Córdoba y, especialmente, la Mezquita-Catedral vuelven a convertirse en escaparate internacional de Andalucía. El monumento cordobés, Patrimonio de la Humanidad es uno de los escenarios protagonistas de 'The Surrender', el nuevo cortometraje de animación cread",
-      "date": "Mon, 05 Oct 2026 20:11:10 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "La Audiencia de Córdoba mantiene abierta la causa por los carteles contra Isabel Ambrosio y revoca el archivo definitivo",
-      "link": "https://www.abc.es/espana/andalucia/cordoba/audiencia-cordoba-mantiene-abierta-causa-carteles-isabel-20261005200844-nts.html",
-      "desc": "La Audiencia Provincial de Córdoba ha estimado parcialmente el recurso presentado por la exalcaldesa de la ciudad Isabel Ambrosio contra el archivo de la investigación abiera por la colocación de unos carteles el pasado mes de mayo con mensajes dirigidos conta",
-      "date": "Mon, 05 Oct 2026 20:08:44 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Castilla-La Mancha conquista ocho medallas en el Nacional de cross máster",
-      "link": "https://www.abc.es/espana/castilla-la-mancha/toledo/deportes/castillala-mancha-conquista-ocho-medallas-nacional-cross-20261005195937-nt.html",
-      "desc": "Castilla-La Mancha volvió del Campeonato de España de cross máster con ocho medallas individuales. Tres oros, una plata y cuatro bronces fue el balance de los atletas de la región en una competición celebrada en el circuito de Las Erillas, en la localidad cord",
-      "date": "Mon, 05 Oct 2026 19:59:37 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Las trampas de la retórica",
-      "link": "https://www.abc.es/espana/castilla-la-mancha/toledo/trampas-retorica-20261005195704-nt.html",
-      "desc": "Los discursos del tramposo rara vez buscan informar de manera neutral, y persuadir es un objetivo primitivo, pero llegar a convencer de algo concreto a quien escucha con atención, movilizarle emocionalmente, o en cualquier caso, neutralizar su falta de convenc",
-      "date": "Mon, 05 Oct 2026 19:57:04 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "El PP exige a la JEC que en un máximo de 18 días suprima del censo todas las inscripciones suspendidas por el Supremo",
-      "link": "https://www.abc.es/espana/pp-exige-jec-maximo-dias-suprima-censo-20261005195350-nt.html",
-      "desc": "El Partido Popular ha solicitado a la Junta Electoral Central (JEC) excluya del censo electoral todas las inscripciones de la 'ley de nietos' quláe fueron suspendidas por el Tribunal Supremo en el auto del pasado 10 de septiembre. Solicita, además, que lo haga",
-      "date": "Mon, 05 Oct 2026 19:53:51 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Elecciones generales en España, en directo: aprobación de los decretos de vivienda, adelanto electoral de Pedro Sánchez y últimas noticias de Pedro Sánchez hoy",
-      "link": "https://www.abc.es/espana/comparecencia-pedro-sanchez-directo-posible-convocatoria-elecciones-20261005080806-di.html",
-      "desc": "Sigue en directo la última hora de l a convocatoria de elecciones generales en España para el próximo 29 de noviembre tras la derrota de los decretos de la vivienda, con las reacciones a la comparecencia de Pedro Sánchez hoy.",
-      "date": "Mon, 05 Oct 2026 19:46:03 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Los quioscos de prensa de Madrid celebraron, como cada 5 de octubre, el Día del Vendedor",
-      "link": "https://www.abc.es/espana/madrid/quioscos-prensa-madrid-celebraron-octubre-dia-vendedor-20261005194559-nt.html",
-      "desc": "El Ayuntamiento de Madrid recibió, un año más, en el Palacio de Cibeles, a los representantes de los quioscos en el Día del Vendedor de Prensa , que se celebra cada 5 de octubre, fecha en la que se autorizó a los antiguos voceadores de periódicos a instalarse ",
-      "date": "Mon, 05 Oct 2026 19:45:59 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "El 'efecto pratfall': por qué cometer errores te hace más cercano",
-      "link": "https://www.abc.es/espana/castilla-la-mancha/toledo/efecto-pratfall-cometer-errores-cercano-20261005191333-nt.html",
-      "desc": "Llevo años viendo en consulta el mismo patrón en muchas personas perfeccionistas: personas brillantes, capaces, que se agotan intentando mantener una imagen de perfección que nadie les ha pedido, solo ellos mismos. Y es más acentuado en personas expuestas públ",
-      "date": "Mon, 05 Oct 2026 19:44:47 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Acampada por la vivienda en Alicante porque «los decretos del Gobierno son insuficientes»",
-      "link": "https://www.abc.es/espana/comunidad-valenciana/alicante/acampada-vivienda-alicante-decretos-gobierno-insuficientes-20261005194319-nt.html",
-      "desc": "La acampada de protesta en Alicante de un centenar de personas para exigir medidas de mejora del acceso a la vivienda se mantendrá porque los decretos del Gobierno resultan «insuficientes» y únicamente «paliativos», según sus integrantes. Tampoco ha influido e",
-      "date": "Mon, 05 Oct 2026 19:43:20 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "La CHD repara los daños causados por un sabotaje en la nueva tubería del Pontón Alto y refuerza la vigilancia",
-      "link": "https://www.abc.es/espana/castilla-leon/chd-repara-danos-causados-sabotaje-nueva-tuberia-20261005194129-nt.html",
-      "desc": "La Confederación Hidrográfica del Duero ha reforzado la vigilancia sobre las obras de bombeo en el embalse del Pontón Alto tras sufrir un sabotaje en la tubería provisional que se ha instalado con el objetivo de garantizar el suministro de agua a la capital se",
-      "date": "Mon, 05 Oct 2026 19:41:29 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Qué supone que un Gobierno esté en funciones y cuáles son sus atribuciones",
-      "link": "https://www.abc.es/espana/supone-gobierno-funciones-atribuciones-20261005194026-nt.html",
-      "desc": "El presidente del Gobierno, Pedro Sánchez, ha confirmado este lunes el rumor a voces que circulaba desde que el viernes decayeron los dos decretos ley en el Congreso y que se había convertido en un clamor al terminar el fin de semana: ha convocado elecciones g",
-      "date": "Mon, 05 Oct 2026 19:40:27 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Córdoba CF - Tenerife en directo: resumen, goles y minuto a minuto del partido de Segunda División 2026-2027",
-      "link": "https://www.abc.es/espana/andalucia/cordoba/cordoba-cf/cordoba-tenerife-directo-resumen-goles-minuto-minuto-20261005192719-dis.html",
-      "desc": "Ganar para evitar males mayores. El Córdoba CF se somete hoy a una auténtica prueba de fuego en El Arcángel ante el Tenerife (20.30 horas), un recién ascendido que, por el peso de su historia y su grana arranque, hacen que el envite sea cuanto menos una prueba",
-      "date": "Mon, 05 Oct 2026 19:27:20 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "El adelanto electoral frena la reforma del Estatuto de Castilla-La Mancha y hace decaer todas sus enmiendas",
-      "link": "https://www.abc.es/espana/castilla-la-mancha/adelanto-electoral-frena-reforma-estatuto-castillala-mancha-20261005192240-nt.html",
-      "desc": "La convocatoria de elecciones generales para el próximo 29 de noviembre frena la reforma del Estatuto de Autonomía de Castilla-La Mancha cuando llevaba meses tramitándose en el Congreso de los Diputados. El texto no desaparece con la disolución de las Cortes y",
-      "date": "Mon, 05 Oct 2026 19:22:41 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Sánchez abre la campaña con la treta de recuperar los decretos que tumbó el Congreso",
-      "link": "https://www.abc.es/espana/sanchez-arranca-campana-aprobando-decretos-tumbo-congreso-20261006191920-nt.html",
-      "desc": "Pedro Sánchez tenía un as bajo la manga y no era la convocatoria electoral. El presidente del Gobierno no sorprendió con el anuncio del anticipo de las generales , un adelanto que lleva gestándose y digiriéndose todo el fin de semana y cuya única incertidumbre",
-      "date": "Mon, 05 Oct 2026 19:19:20 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "El 'chapapote' de los incendios amenaza el agua de Madrid y Toledo",
-      "link": "https://www.abc.es/espana/castilla-leon/tras-incendios-avila-llega-chapapote-monte-20261005191904-nt.html",
-      "desc": "Las últimas lluvias caídas en la provincia de Ávila han ayudado a acabar por fin con el incendio de Burgohondo, que más de dos meses después de que se originara consiguió extinguirse este sábado. Pero el volumen de precipitación ha sido tal que, como muchos se",
-      "date": "Mon, 05 Oct 2026 19:19:04 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Talavera adjudica el mantenimiento de sus zonas verdes por 4,88 millones de euros",
-      "link": "https://www.abc.es/espana/castilla-la-mancha/toledo/talavera/talavera-adjudica-mantenimiento-zonas-verdes-488-millones-20261005191751-nt.html",
-      "desc": "El portavoz del Ayuntamiento de Talavera de la Reina, Jesús García-Barroso, ha informado de la adjudicación del contrato de servicio de mantenimiento integral de las zonas verdes municipales de la ciudad por un importe de 4.889.639,17 euros, IVA incluido. Garc",
-      "date": "Mon, 05 Oct 2026 19:17:52 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Muere un trabajador atropellado por una carretilla en una empresa de Betanzos",
-      "link": "https://www.abc.es/espana/galicia/muere-trabajador-atropellado-carretilla-empresa-betanzos-20261005191626-nt.html",
-      "desc": "Un hombre ha fallecido este lunes atropellado por una carretilla mientras trabajaba en una empresa situada en el municipio coruñés de Betanzos. Según ha informado el 112 Galicia, el accidente laboral ocurrió en una empresa ubicada en la parroquia de Requián. S",
-      "date": "Mon, 05 Oct 2026 19:16:26 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Del «salvar la democracia» de Moreno al apoyo de Susana Díaz a Pedro Sánchez",
-      "link": "https://www.abc.es/espana/andalucia/salvar-democracia-moreno-apoyo-susana-diaz-pedro-20261005191609-nts.html",
-      "desc": "Pedro Sánchez rompió la baraja. Este lunes, a las 9.00 horas, para las conexiones de radio y los programas de la mañana en televisión, el presidente del Gobierno salió a la puerta de La Moncloa para anunciar que convoca Elecciones Generales para el 29 de novie",
-      "date": "Mon, 05 Oct 2026 19:16:10 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
       "title": "Jordi Juan: “Las dificultades para Pedro Sánchez son ahora mucho mayores que en el 2023”",
       "link": "https://www.lavanguardia.com/videos/claves-del-dia/20261005/11651732/jordi-juan-dificultades-pedro-sanchez-son-mayores-2023.html",
       "desc": "El director de 'La Vanguardia' analiza el adelanto electoral del 29-N y señala la vivienda, la fragmentación de la izquierda y la pérdida de cohesión de la mayoría de investidura como claves de la nueva campaña",
       "date": "05 Oct 2026 19:05:56 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "Los sindicatos convocan huelga general antes de la campaña electoral",
-      "link": "https://www.lavanguardia.com/economia/20261005/11651683/sindicatos-ultiman-gran-jornada-protesta-huelga-campana-electoral.html",
-      "desc": "UGT y CC.OO. analizan los detalles de los paros y manifestaciones por un cambio en políticas como la de vivienda",
-      "date": "05 Oct 2026 18:57:24 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "RTVE y Mediaset proponen sendos cara a cara para el 17 de noviembre y Atresmedia, para el 23",
-      "link": "https://www.lavanguardia.com/politica/20261005/11651711/rtve-mediaset-proponen-sendos-cara-cara-17-noviembre-atresmedia-23.html",
-      "desc": "Las cadenas ofrecen a los partidos distintos formatos de debate",
-      "date": "05 Oct 2026 18:41:42 +0200",
       "source": "La Vanguardia",
       "color": "#8e44ad",
       "feedId": "LaVanguardia",
