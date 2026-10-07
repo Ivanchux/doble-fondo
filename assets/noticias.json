@@ -1,9 +1,139 @@
 {
-  "updated": "2026-10-06T22:12:02Z",
+  "updated": "2026-10-07T03:55:13Z",
   "count": 24,
   "items": [
     {
-      "title": "Las lluvias torrenciales se instalan en Catalunya e imposibilita la vuelta a la normalidad",
+      "title": "Encuestas elecciones Cataluña: estos serían los resultados de las catalanas según las últimas encuestas",
+      "link": "https://www.abc.es/espana/cataluna/encuestas-elecciones-cataluna-resultados-catalanas-segun-ultimas-20261007212057-nt.html",
+      "desc": "Siempre se ha dicho popularmente que Cataluña es la región de España que mejor refleja las tendencias europeas. Y el último sondeo electoral apunta precisamente en esa dirección: el Parlament daría un acusado giro hacia la derecha, con estas formaciones reunie",
+      "date": "Wed, 07 Oct 2026 05:00:30 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "'Ad10s' a una era: Messi se despide de la selección argentina con un gol y dos asistencias ante Benín",
+      "link": "https://www.lavanguardia.com/deportes/futbol/20261007/11652782/ad10s-messi-despide-seleccion-argentina-gol-dos-asistencias-benin.html",
+      "desc": "El astro argentino se retira del combinado nacional tras 208 partidos, 126 goles y 70 asistencias en un Estadio Monumental abarrotado y lleno de homenajes",
+      "date": "07 Oct 2026 04:02:53 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
+    {
+      "title": "Recibe la carta de Ketty Garat: la newsletter para sumergirte en el periodismo de investigación",
+      "link": "https://www.abc.es/espana/recibe-carta-ketty-garat-newsletter-sumergirse-periodismo-20261007012313-nt.html",
+      "desc": "Adentrarse en el mundo del periodismo de investigación es bajar al subterráneo que yace bajo los pilares de todas las instituciones y estamentos de la sociedad: los partidos políticos, el Gobierno, la SEPI, el Consejo de Estado, las empresas, los tribunales de",
+      "date": "Wed, 07 Oct 2026 01:23:13 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Carnicero se encontraba en Argentina mientras se disolvían las Cortes por el rechazo a los decretos de Vivienda",
+      "link": "https://www.abc.es/espana/carnicero-encontraba-argentina-disolvian-cortes-rechazo-decretos-20261007012251-nt.html",
+      "desc": "Cuando el presidente del Gobierno, Pedro Sánchez, anunciaba la disolución de las Cortes el lunes, el número tres del Ministerio de Vivienda, Iñaqui Carnicero , no estaba en España. El secretario general de Agenda Urbana, Vivienda y Arquitectura se encontraba e",
+      "date": "Wed, 07 Oct 2026 01:22:51 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Podemos escenificará unas primarias abiertas aunque se descuelgue Sumar",
+      "link": "https://www.abc.es/espana/podemos-escenificara-primarias-abiertas-descuelgue-sumar-20261006012141-nt.html",
+      "desc": "La convocatoria de primarias abiertas y conjuntas de todo el espacio político para los días 14 y 15 de octubre anunciada el lunes por Irene Montero no responde a una maniobra a tientas. Podemos está decidido a llevar a término este proceso interno del que salg",
+      "date": "Wed, 07 Oct 2026 01:21:41 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "La disolución del Parlamento frustra la enmienda trampa sobre la 'ley de nietos'",
+      "link": "https://www.abc.es/espana/disolucion-parlamento-frustra-enmienda-trampa-sobre-ley-20261007012136-nt.html",
+      "desc": "La maniobra de PSOE y Sumar para modificar la 'ley de nietos' por la puerta de atrás, aprovechando la tramitación de una reforma educativa, ha naufragado antes de lo esperado. El adelanto electoral y la consecuente disolución de las Cortes provocan que las nor",
+      "date": "Wed, 07 Oct 2026 01:21:36 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Moncloa cree que la vuelta de Puigdemont es un aval a su gestión y beneficia a Illa",
+      "link": "https://www.abc.es/espana/moncloa-cree-vuelta-puigdemont-aval-gestion-beneficia-20261007012130-nt.html",
+      "desc": "Casi como un quiebro del destino. La legislatura que arrancó con la amnistía culmina con su aplicación efectiva. Solo 24 horas después de que Pedro Sánchez apretara el botón del adelanto electoral por el rechazo de Junts al decreto sobre vivienda, el Tribunal ",
+      "date": "Wed, 07 Oct 2026 01:21:30 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "La Policía identifica a militares marroquíes en el desalojo de El Trampolín",
+      "link": "https://www.abc.es/espana/policia-identifica-militares-marroquies-desalojo-trampolin-20261007011857-nt.html",
+      "desc": "La Policía Nacional identificó a militares marroquíes entre los inmigrantes que estaban alojados en la playa de El Trampolín, según avanzan fuentes policiales a ABC. Estos soldados admitieron que pertenecían al Ejército del régimen de Mohamed VI, pero insistie",
+      "date": "Wed, 07 Oct 2026 01:18:57 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Pérdidas del 60% de la facturación y cierres anticipados: la desesperación de los comercios ante la acampada de Sol",
+      "link": "https://www.abc.es/espana/madrid/cierre-anticipado-perdidas-facturacion-desesperacion-comercios-ante-20261005011842-nt.html",
+      "desc": "Los comerciantes de Sol se niegan a hablar. No porque no quieran, sino porque no pueden. «No estamos autorizados para dar ese tipo de información ni hablar con los medios de comunicación». Es la respuesta que más se repite cuando este periódico pregunta en los",
+      "date": "Wed, 07 Oct 2026 01:18:42 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Crecen las denuncias contra el masajista de Rivas encarcelado por grabar a 131 pacientes y agredir a 9",
+      "link": "https://www.abc.es/espana/madrid/crecen-denuncias-masajista-rivas-encarcelado-grabar-131-20261006010021-nt.html",
+      "desc": "La causa judicial contra Ricardo V. M., español de 60 años, sigue sumando denuncias, que superan la treintena. Este masajista de Rivas Vaciamadrid fue detenido el pasado mes de julio, acusado de grabar sin su consentimiento a 131 pacientes mujeres y agredir se",
+      "date": "Wed, 07 Oct 2026 01:00:21 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "La ciudad y su doble",
+      "link": "https://www.abc.es/espana/madrid/angel-antonio-herrera-ciudad-doble-20261006010015-nt.html",
+      "desc": "Ya tiene un doble la ciudad, alcalde, y ese doble vive en el móvil. Quiero decir que hay dos ciudades, la real y la virtual, y ya casi la ciudad virtual va por delante de la real, en cuanto a la existencia. Tenemos el Madrid de toda la santa vida, y luego está",
+      "date": "Wed, 07 Oct 2026 01:00:15 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Ayuso potencia las emergencias sanitarias y destina ocho millones a subir salarios",
+      "link": "https://www.abc.es/espana/madrid/ayuso-potencia-emergencias-sanitarias-destina-ocho-millones-20261006010009-nt.html",
+      "desc": "En la recta final de la legislatura , el Gobierno regional de Isabel Díaz Ayuso pisa el acelerador en una de sus áreas clave: la sanidad pública, que suele ser utilizada como arma arrojadiza en las calles de Madrid por los partidos de la izquierda cuando se ac",
+      "date": "Wed, 07 Oct 2026 01:00:09 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "El restaurante de Manuel Becerra con tres muertos en su incendio incumplía gran parte de la normativa",
+      "link": "https://www.abc.es/espana/madrid/restaurante-manuel-becerra-tres-muertos-incendio-incumplia-20261006010002-nt.html",
+      "desc": "La investigación pericial en torno al incendio que mató a tres personas en el restaurante Burro Canaglia deja, tres años y medio después del suceso, una retahíla de presuntas irregularidades en materia de seguridad en el local de la plaza de Manuel Becerra. Lo",
+      "date": "Wed, 07 Oct 2026 01:00:02 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Las lluvias torrenciales se instalan en Catalunya e imposibilitan la vuelta a la normalidad",
       "link": "https://www.lavanguardia.com/local/catalunya/20261006/11652764/lluvias-torrenciales-instalan-catalunya-e-imposibilita-vuelta-normalidad.html",
       "desc": "Un nuevo temporal se desplaza de sur a norte y agrava el problema por acumulación de agua",
       "date": "06 Oct 2026 23:06:11 +0200",
@@ -93,76 +223,6 @@
       "caso": "other"
     },
     {
-      "title": "Los platos que arrasan en la Festa do Marisco de O Grove y el que menos convence",
-      "link": "https://www.abc.es/espana/galicia/platos-arrasan-festa-marisco-grove-convence-20261006201500-nt.html",
-      "desc": "El recinto de la Festa do Marisco de O Grove (Pontevedra) continúa llenándose pese a no ser fin de semana. El lunes, las carpas de degustación registraron un gran ambiente, y donde destacaba una elevada presencia de visitantes portugueses. Al cierre de la jorn",
-      "date": "Tue, 06 Oct 2026 20:15:00 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Víctor Sánchez progresa en su camino hacia la reaparición con el Córdoba CF",
-      "link": "https://www.abc.es/espana/andalucia/cordoba/cordoba-cf/victor-sanchez-progresa-camino-reaparicion-cordoba-20261006201450-nts.html",
-      "desc": "El Córdoba CF empieza a ver algo de luz con Víctor Sánchez . Después de varias semanas en las que su evolución ha estado marcada por la prudencia, el atacante sevillano dejó este martes una de las imágenes más positivas de la sesión al volver a ejercitarse jun",
-      "date": "Tue, 06 Oct 2026 20:14:50 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Dos acusados se enfrentan este miércoles a tres y cinco años de cárcel por robar en un bar de Manzanares",
-      "link": "https://www.abc.es/espana/castilla-la-mancha/toledo/dos-acusados-enfrentan-miercoles-tres-cinco-anos-20261006201344-nt.html",
-      "desc": "La Audiencia Provincial de Ciudad Real juzgará este miércoles, 7 de octubre, a G.F.Y. y H.B., acusados de participar en un robo con fuerza cometido en un bar de Manzanares en marzo de 2019. La Fiscalía sostiene que ambos, junto a un tercer hombre que permanece",
-      "date": "Tue, 06 Oct 2026 20:13:45 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Action abre su primera tienda en un centro comercial de Córdoba capital con cuatro ofertas de trabajo",
-      "link": "https://www.abc.es/espana/andalucia/cordoba/action-abre-primera-tienda-centro-comercial-cordoba-20261006201256-nts.html",
-      "desc": "Action, la conocida cadena holandesa de productos de bajo precio, prepara la apertura de su primera tienda en Córdoba capital. Se implantará en el centro comercial los Patios de Azazaha, según han confirmado a ABC desde esta gran superficie. La compañía, espec",
-      "date": "Tue, 06 Oct 2026 20:12:57 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Vicente Amigo abrirá el nuevo curso de la Cátedra de Flamencología de Córdoba",
-      "link": "https://www.abc.es/espana/andalucia/cordoba/vicente-amigo-abrira-nuevo-curso-catedra-flamencologia-20261006200911-nts.html",
-      "desc": "La Cátedra de Flamencología de la Universidad de Córdoba ha dado a conocer los detalles de su nueva programación académica para el curso 2026/2027, una edición especialmente significativa al celebrarse el 30 aniversario de la institución (1996–2026). El direct",
-      "date": "Tue, 06 Oct 2026 20:09:11 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Córdoba acoge desde este miércoles el Congreso Internacional de la Industria de Defensa",
-      "link": "https://www.abc.es/espana/andalucia/cordoba/cordoba-acoge-miercoles-congreso-internacional-industria-defensa-20261006200856-nts.html",
-      "desc": "El Centro de Exposiciones, Ferias y Convenciones (CEFC) de Córdoba abre de nuevo sus puertas a un evento de gran envergadura. De hecho, esta vez el recinto acogerá la visita de Su Majestad el Rey, Felipe VI, entre otras muchas autoridades. Se trata en esta oca",
-      "date": "Tue, 06 Oct 2026 20:08:56 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Martita de Graná se pone seria y critica las «pintadas de mierda» en el Albaicín",
-      "link": "https://www.abc.es/espana/andalucia/granada/martita-grana-pone-critica-pintadas-mierda-albaicin-20261006185242-nts.html",
-      "desc": "La figura de Martita de Graná está asociada al humor, pero esta vez se ha hecho viral por algo serio. La monologuista y actriz ha utilizado sus redes para criticar una costumbre muy extendida entre los turistas: escribir frases en las paredes. Con el ceño frun",
-      "date": "Tue, 06 Oct 2026 20:07:09 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
       "title": "Puigdemont aguardará al archivo de la causa en el Supremo para volver a Catalunya",
       "link": "https://www.lavanguardia.com/politica/20261006/11652725/puigdemont-aguardara-archivo-causa-supremo-volver-catalunya.html",
       "desc": "JxCat destaca que el retorno debe ser en clave institucional más que de partido y por ahora no hay ninguna fecha definida&nbsp;",
@@ -173,70 +233,10 @@
       "caso": "other"
     },
     {
-      "title": "Ofertan hotel gratis para visitar viviendas pendientes de desahucios de familias",
-      "link": "https://www.abc.es/espana/comunidad-valenciana/alicante/ofertan-hotel-gratis-visitar-viviendas-pendientes-desahucios-20261006194904-nt.html",
-      "desc": "Una inmobiliaria oferta noches de hotel gratis para los potenciales compradores extranjeros que quieran visitar sus viviendas a la venta, incluida una en la que está previsto desahuciar en Alicante a una madre con sus tres hijos menores, de 8, 15 y 17 años, es",
-      "date": "Tue, 06 Oct 2026 19:49:04 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Valencia culpa al Gobierno de posibles «incidentes» si coinciden la acampada y el 9 d'Octubre",
-      "link": "https://www.abc.es/espana/comunidad-valenciana/valencia-culpa-gobierno-posibles-incidentes-acampada-doctubre-20261006193956-nt.html",
-      "desc": "El Ayuntamiento de Valencia ha enviado un requerimiento a la Delegación del Gobierno en el que le insta, bajo la amenaza de emprender acciones legales, a garantizar el normal desarrollo de los actos tradicionales del 9 d'Octubre -Día de la Comunidad Valenciana",
-      "date": "Tue, 06 Oct 2026 19:46:19 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Gregorio reclama «celeridad» para que el AVE en Talavera sea una realidad en 2030",
-      "link": "https://www.abc.es/espana/castilla-la-mancha/toledo/talavera/gregorio-reclama-celeridad-ave-talavera-realidad-2030-20261006194349-nt.html",
-      "desc": "El alcalde de Talavera de la Reina, José Julián Gregorio, ha reivindicado este martes en el X Foro del Corredor Sudoeste Ibérico , celebrado en Madrid, que el AVE sea una realidad en 2030 tal y como «se nos prometió por parte del Gobierno», y ha reclamado «cel",
-      "date": "Tue, 06 Oct 2026 19:43:49 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Puigdemont descarta volver de forma inminente: lo hará cuando «se le aplique toda» la amnistía",
-      "link": "https://www.abc.es/espana/cataluna/puigdemont-descarta-volver-forma-inminente-hara-aplique-20261006193230-nt.html",
-      "desc": "Aunque Carles Puigdemont ya conoce que será amnistiado, y con la tranquilidad, también, de saber que no será detenido en caso de poner un pie en territorio español, el aterrizaje del ex presidente de la Generalitat en Cataluña no se prevé que sea inmediato. En",
-      "date": "Tue, 06 Oct 2026 19:32:30 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Despedido por llamar «chihuahua» a una compañera y afirmar que soñaba con matar a dos jefes",
-      "link": "https://www.abc.es/espana/canarias/despedido-llamar-chihuahua-companera-afirmar-sonaba-matar-20261006192843-nt.html",
-      "desc": "Decía Carl Gustav Jung que la función principal de los sueños es intentar restablecer el equilibrio psicológico. Habría sido interesante saber qué opinaba el psiquiatra suizo sobre las supuestas pesadillas de un empleado de un supermercado despedido tras decir",
-      "date": "Tue, 06 Oct 2026 19:28:43 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
       "title": "El PP lleva a Sánchez ante la Junta Electoral por “usar Moncloa para dar un mitin” del 29-N",
       "link": "https://www.lavanguardia.com/politica/20261006/11652683/pp-lleva-sanchez-junta-electoral-moncloa-dar-mitin-29-n.html",
       "desc": "Los populares sostienen que el presidente “ha utilizado la sede de la Presidencia del Gobierno para exponer supuestos logros de su Gobierno, descalificar a la oposición y dirigir mensajes propios de campaña electoral a los ciudadanos”",
       "date": "06 Oct 2026 18:36:55 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "El nuevo decreto de vivienda recupera la cuenta para invertir los ahorros en empresas europeas",
-      "link": "https://www.lavanguardia.com/economia/20261006/11652605/nuevo-decreto-vivienda-recupera-cuenta-invertir-ahorros-empresas-europeas.html",
-      "desc": "Queda pendiente de una orden ministerial de Hacienda para su lanzamiento",
-      "date": "06 Oct 2026 17:09:54 +0200",
       "source": "La Vanguardia",
       "color": "#8e44ad",
       "feedId": "LaVanguardia",
