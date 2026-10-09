@@ -1,7 +1,77 @@
 {
-  "updated": "2026-10-08T19:37:31Z",
+  "updated": "2026-10-09T00:06:08Z",
   "count": 24,
   "items": [
+    {
+      "title": "Ceuta versus vivienda",
+      "link": "https://www.lavanguardia.com/opinion/20261009/11654607/ceuta-versus-vivienda.html",
+      "desc": "El PP es el favorito para formar gobierno tras el 29-N, pero el PSOE no da la batalla por perdida",
+      "date": "09 Oct 2026 00:05:00 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
+    {
+      "title": "El concurso de ideas vuelve a Urbanismo 23 años después: así se diseñará el nuevo parque de bomberos",
+      "link": "https://www.abc.es/espana/andalucia/cordoba/concurso-ideas-vuelve-urbanismo-anos-despues-disenara-20261008234842-nts.html",
+      "desc": "Los concursos de ideas vuelven a la Gerencia de Urbanismo 23 años después: será el mecanismo para elegir al estudio de arquitectos que redacte el proyecto del futuro nuevo parque central del cuerpo municipal de bomberos. Hubo un mandato, ya lejano en el tiempo",
+      "date": "Thu, 08 Oct 2026 23:48:43 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Hallan los cuerpos de un hombre y una mujer con indicios de muerte violenta en Valverde de Júcar (Cuenca)",
+      "link": "https://www.abc.es/espana/castilla-la-mancha/hallan-cuerpos-hombre-mujer-indicios-muerte-violenta-20261008222549-nt.html",
+      "desc": "Una mujer de 37 años y su pareja han sido hallados muertos con indicios de violencia este jueves en el interior de una vivienda de Valverde del Júcar (Cuenca), en un caso sobre el que ya está recabando información la Delegación del Gobierno contra la Violencia",
+      "date": "Thu, 08 Oct 2026 22:25:50 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Silbon convierte el Puente Romano de Córdoba en una pasarela monumental",
+      "link": "https://www.abc.es/espana/andalucia/cordoba/silbon-convierte-puente-romano-cordoba-pasarela-monumental-20261008221315-nts.html",
+      "desc": "Silbon ha celebrado este jueves en su ciudad natal una espectacular fiesta de la moda. Desde las ocho de la tarde, el Puente Romano se convirtió en una monumental pasarela en la que la firma cordobesa exhibió sus diseños. Así, mostró su nueva colección FW26 , ",
+      "date": "Thu, 08 Oct 2026 22:14:45 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Desconvocada la huelga del transporte urbano en Jaén a escasas horas del inicio de la feria",
+      "link": "https://www.abc.es/espana/andalucia/jaen/desconvocada-huelga-transporte-urbano-jaen-escasas-horas-20261008214804-nts.html",
+      "desc": "Cerrado el acuerdo entre los trabajadores y ALSA para desconvocar la huelga indefinida que iba a comenzar a las seis de la madrugada de este viernes, 9 de octubre. Tras una jornada en la que ambas partes han mantenido un encuentro de urgencia, solicitado por l",
+      "date": "Thu, 08 Oct 2026 21:48:04 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Hallan los cuerpos de una pareja con indicios de muerte violenta en Valverde del Júcar",
+      "link": "https://www.lavanguardia.com/local/castilla-la-mancha/20261008/11654599/hallan-cuerpos-hombre-mujer-indicios-muerte-violenta-valverde-jucar.html",
+      "desc": "Una persona ha llamado a emergencias al no poder acceder a la vivienda, situada en la calle Mayorazgo",
+      "date": "08 Oct 2026 21:36:43 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
+    {
+      "title": "Ketty Garat presenta en Zamora su libro 'Todos los hombres de Sánchez'",
+      "link": "https://www.abc.es/espana/castilla-leon/ketty-garat-presenta-zamora-libro-hombres-sanchez-20261008213514-nt.html",
+      "desc": "El presidente de la Junta de Castilla y León, Alfonso Fernández Mañueco, asistía este jueves a la presentación en Zamora del libro de Ketty Garat 'Todos los hombres de Sánchez. Cómo se organizó la mayor trama de corrupción de la historia de la democracia en Es",
+      "date": "Thu, 08 Oct 2026 21:35:15 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
     {
       "title": "Miles de personas recorren el corazón de Madrid en homenaje a Maricarmen: «No toleramos ni un desahucio más»",
       "link": "https://www.abc.es/espana/madrid/miles-personas-recorren-corazon-madrid-homenaje-maricarmen-20261008211948-nt.html",
@@ -65,7 +135,7 @@
     {
       "title": "Madrid despide a Maricarmen con una marcha multitudinaria y pacífica",
       "link": "https://www.lavanguardia.com/politica/20261008/11654566/marcha-pacifica-multitudinaria-despide-maricarmen-madrid.html",
-      "desc": "El recorrido transcurre entre la acampada de Sol y la calle Sainz de Baranda, vivienda de la anciada fallecida&nbsp;",
+      "desc": "El recorrido ha transcurrido entre la acampada de Sol y la calle Sainz de Baranda, donde residía la anciana",
       "date": "08 Oct 2026 20:46:35 +0200",
       "source": "La Vanguardia",
       "color": "#8e44ad",
@@ -167,76 +237,6 @@
       "link": "https://www.lavanguardia.com/cultura/20261008/11654534/quinto-elemento-poesia-anne-carson.html",
       "desc": "",
       "date": "08 Oct 2026 19:49:57 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "El palio del Rocío y Lágrimas de Córdoba empieza a bordarse: el Perdón encarga el frontal a Juan Rosén",
-      "link": "https://www.abc.es/espana/andalucia/cordoba/semana-santa/palio-rocio-lagrimas-cordoba-empieza-bordarse-perdon-20261008193015-nts.html",
-      "desc": "El nuevo palio de María Santísima del Rocío y Lágrimas , un personal diseño de Álvaro Abril , ha ido creciendo desde su aprobación hace más de una década. Se ha visto en respiraderos, jarras y crestería, pero pronto será una realidad en lo más visible: las bam",
-      "date": "Thu, 08 Oct 2026 19:31:06 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "El Camino Portugués de la Costa está de moda: ya supera los 100.000 peregrinos en 2026",
-      "link": "https://www.abc.es/espana/galicia/camino-portugues-costa-moda-supera-100000-peregrinos-20261008192919-nt.html",
-      "desc": "El Camino Portugués de la Costa ha alcanzado la cifra de 100.000 peregrinos en 2026 tras experimentar el mayor incremento de las rutas xacobeas en estos diez primeros meses del año. «Es una cifra estratosférica», ha celebrado la delegada de la Xunta en Vigo, A",
-      "date": "Thu, 08 Oct 2026 19:29:19 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "El duelo por Maricarmen anticipa el duro choque electoral del 29-N",
-      "link": "https://www.lavanguardia.com/politica/20261008/11654533/duelo-maricarmen-anticipa-duro-choque-electoral-29-n.html",
-      "desc": "El PP rechaza sumarse a los homenajes de la izquierda a la vecina desahuciada",
-      "date": "08 Oct 2026 19:25:21 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "El sector logístico de Guadalajara alcanza un preacuerdo con mejoras salariales y laborales",
-      "link": "https://www.abc.es/espana/castilla-la-mancha/sector-logistico-guadalajara-alcanza-preacuerdo-mejoras-salariales-20261008191612-nt.html",
-      "desc": "UGT, CCOO y las organizaciones empresariales han alcanzado un preacuerdo para desbloquear la negociación del convenio colectivo del sector logístico de Guadalajara , que contempla subidas salariales, una reducción de la jornada anual y mejoras en los pluses po",
-      "date": "Thu, 08 Oct 2026 19:16:13 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Valladolid reunirá a 61 cocineros en los concursos Nacional y Mundial de Tapas",
-      "link": "https://www.abc.es/espana/castilla-leon/valladolid-reunira-cocineros-concursos-nacional-mundial-tapas-20261008190640-nt.html",
-      "desc": "Valladolid volverá a convertirse en el epicentro de la gastronomía en miniatura con la celebración del XXII Concurso Nacional de Pinchos y Tapas y el X Campeonato Mundial de Tapas, que reunirán a 61 cocineros del 9 al 11 de noviembre en la Cúpula del Milenio. ",
-      "date": "Thu, 08 Oct 2026 19:08:33 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "José Alberto Camacho, nuevo jefe superior de Policía de Castilla-La Mancha",
-      "link": "https://www.abc.es/espana/castilla-la-mancha/jose-alberto-camacho-nuevo-jefe-superior-policia-20261008190013-nt.html",
-      "desc": "José Alberto Camacho Pedrero es el nuevo jefe superior de Policía de Castilla-La Mancha. El comisario principal, hasta ahora máximo responsable de la Comisaría Provincial de Ciudad Real, toma el relevo de Francisco Herrero Fernández-Quesada, que deja la jefatu",
-      "date": "Thu, 08 Oct 2026 19:00:14 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "¿Quién no es un monstruo enamorado?",
-      "link": "https://www.lavanguardia.com/cultura/20261008/11654509/anne-carson-premio-nobel-monstruo-enamorado.html",
-      "desc": "",
-      "date": "08 Oct 2026 18:38:33 +0200",
       "source": "La Vanguardia",
       "color": "#8e44ad",
       "feedId": "LaVanguardia",
