@@ -1,7 +1,197 @@
 {
-  "updated": "2026-10-10T21:02:39Z",
+  "updated": "2026-10-11T00:37:56Z",
   "count": 24,
   "items": [
+    {
+      "title": "Seis de cada diez españoles sitúa la vivienda como principal preocupación",
+      "link": "https://www.abc.es/espana/seis-diez-espanoles-situa-vivienda-principal-preocupacion-20261011021324-nt.html",
+      "desc": "Poder comprarse una casa o pagar el alquiler quita el sueño a los españoles. Un 64 por ciento de españoles (esto es, seis de cada diez personas) percibe la vivienda como «principal» problema que existe actualmente en nuestro país, muy por delante de su situaci",
+      "date": "Sun, 11 Oct 2026 02:13:24 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Casi el 70% de españoles pide frenar las nacionalizaciones vía 'ley de nietos'",
+      "link": "https://www.abc.es/espana/espanoles-pide-frenar-nacionalizaciones-via-ley-nietos-20261011021312-nt.html",
+      "desc": "El adelanto de las elecciones generales al domingo 29 de noviembre que anunció el lunes el presidente Pedro Sánchez abre un nuevo escenario político en el conjunto del país al tiempo que viene a aportar un elemento de complejidad extra a un asunto que, ya de p",
+      "date": "Sun, 11 Oct 2026 02:13:12 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Dos tercios del país aplicarían el estado de excepción en Ceuta tras la invasión",
+      "link": "https://www.abc.es/espana/dos-tercios-pais-aplicarian-estado-excepcion-ceuta-20261011021213-nt.html",
+      "desc": "Faltan 48 horas para la visita de los Reyes a Ceuta. Sus Majestades se desplazarán hasta la ciudad autónoma el día después de la Fiesta Nacional—en realidad, a ambas, ya que el día 14 también recalarán en Melilla— en la que será la primera visita de un monarca",
+      "date": "Sun, 11 Oct 2026 02:12:13 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "El 60% de la sociedad opina que Puigdemont no debería ser amnistiado ni volver a España",
+      "link": "https://www.abc.es/espana/sociedad-opina-puigdemont-deberia-amnistiado-volver-espana-20261011021206-nt.html",
+      "desc": "Desde el pasado martes, Carles Puigdemont, expresidente de la Generalitat de Cataluña y líder independentista fugado de la Justicia que impulsó la celebración de un referéndum ilegal, puede regresar a España gracias al fallo del Tribunal Constitucional que bor",
+      "date": "Sun, 11 Oct 2026 02:12:06 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Santiago Abascal: «Los españoles deben temerse lo peor. Van a ser unas elecciones muy complicadas y sucias»",
+      "link": "https://www.abc.es/espana/santiago-abascal-espanoles-deben-temerse-peor-van-20261011021159-nt.html",
+      "desc": "Santiago Abascal se prepara para las elecciones generales más trascendentales. Su obsesión es no repetir los errores de 2023 ni dar por hecha la victoria. Advierte, en su primera entrevista tras la convocatoria electoral, de que la continuidad de Sánchez en el",
+      "date": "Sun, 11 Oct 2026 02:11:59 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Santiago Abascal: «La amistad con Marruecos ahora no es posible. Pedimos poco, que no nos invadan»",
+      "link": "https://www.abc.es/espana/santiago-abascal-amistad-marruecos-posible-pedimos-poco-20261011021149-nt.html",
+      "desc": "El líder de Vox aborda en esta segunda parte de la entrevista la invasión en Ceuta y las relaciones de un futuro Gobierno de la derecha con Rabat. —¿Qué es lo más urgente en España si llegan al Gobierno? —Lo más urgente es recuperar Ceuta. Pero no ya por el nú",
+      "date": "Sun, 11 Oct 2026 02:11:49 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Misma escenografía para blindar a Sánchez de los pitidos en el desfile del 12 de octubre",
+      "link": "https://www.abc.es/espana/escenografia-blindar-sanchez-pitidos-desfile-octubre-20261011020854-nt.html",
+      "desc": "Si hay una fecha que Pedro Sánchez tiene marcada a rojo en el calendario, es el 12 de octubre. Día de la Fiesta Nacional , el presidente se somete año tras año al escrutinio de un público que ya ha elegido el escenario del desfile militar para hacer resonar su",
+      "date": "Sun, 11 Oct 2026 02:08:54 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "El parricida de la habitación de al lado: drogas, sexo extremo y graves problemas psiquiátricos",
+      "link": "https://www.abc.es/espana/madrid/parricida-habitacion-lado-drogas-sexo-extremo-graves-20261006020510-nt.html",
+      "desc": "César G. fue un niño normal, quizás un poco despistado, pero sin ninguna estridencia que los vecinos de la colonia militar de Cuatro Vientos , el barrio en el que se crio y al que ya de adulto regresaba por temporadas, recuerden especialmente reseñable. Sus pa",
+      "date": "Sun, 11 Oct 2026 02:05:10 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Vivir un día la berrea en 'su capital' Monfragüe",
+      "link": "https://www.abc.es/espana/extremadura/vivir-dia-berrea-capital-monfrague-20261009020338-nt.html",
+      "desc": "La noche ha caído. Entre los últimos rayos de luz ya empezó a colarse la lluvia. Huele a tierra mojada. Pintea. El paisaje imponente de Monfragüe lo agradece. Lo vuelve aún más portentoso. Las pocas gotas no tardan, con la oscuridad, en tornar en la primera gr",
+      "date": "Sun, 11 Oct 2026 02:03:38 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Los desencantados del 15-M y de la nueva acampada de Sol: «Yo me caí de la burra»",
+      "link": "https://www.abc.es/espana/desencantados-15m-nueva-acampada-sol-20261011020246-nt.html",
+      "desc": "En 2011, con un paro juvenil por encima del 40%, las pensiones congeladas y una reforma laboral que retrasaba la jubilación hasta los 67 años, con el estallido de la burbuja inmobiliaria que acarreó desahucios masivos, los polémicos rescates bancarios y los su",
+      "date": "Sun, 11 Oct 2026 02:02:46 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "La inmortalidad se sirve en barra",
+      "link": "https://www.abc.es/espana/madrid/inmortalidad-sirve-barra-20261010020151-nt.html",
+      "desc": "Pasar a la posteridad en Madrid no es que una calle lleve tu nombre, ni salir en las páginas de sucesos. Tampoco se consigue la eternidad siendo alcalde, ni presidente, ni mucho menos concejal. Uno de sus atajos es, posiblemente, ser jugador del Real Madrid, p",
+      "date": "Sun, 11 Oct 2026 02:01:51 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Los rostros de la independencia de Estados Unidos dan la cara en Vista Alegre",
+      "link": "https://www.abc.es/espana/madrid/rostros-independencia-estados-unidos-dan-cara-vista-20261010013805-nt.html",
+      "desc": "La Comunidad de Madrid acoge una exposición de retratos en homenaje a las personalidades españolas e hispanas que contribuyeron a la independencia de Estados Unidos, con motivo de su 250 aniversario, que el Gobierno regional conmemora en el marco de Hispanidad",
+      "date": "Sun, 11 Oct 2026 01:38:05 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Un caleidoscopio llamado Cayetana regresa a Liria",
+      "link": "https://www.abc.es/espana/madrid/caleidoscopio-llamado-cayetana-regresa-liria-20261007013741-nt.html",
+      "desc": "Cayetana Fitz-James Stuart, XVIII duquesa de Alba (1926-2014), se abre como un caleidoscopio en todas sus facetas en la exposición que acoge ahora en Madrid en el palacio de Liria tras su paso por el de las Dueñas , en Sevilla. Una muestra, mediana eso sí, de ",
+      "date": "Sun, 11 Oct 2026 01:37:41 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "El PSOE pone autobuses para poder llenar el primer mitin de Pedro Sánchez en su feudo histórico de Dos Hermanas",
+      "link": "https://www.abc.es/espana/andalucia/psoe-necesita-poner-autobuses-llenar-primer-mitin-20261011012428-nts.html",
+      "desc": "El PSOE ha elegido el feudo de Dos Hermanas, la ciudad sevillana donde Pedro Sánchez inició su resurrección política, para arrancar la precampaña de las generales del 29 de noviembre, pero ha necesitado recurrir a una marea de autobuses fletados desde toda And",
+      "date": "Sun, 11 Oct 2026 01:24:28 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Historia de dos portadas",
+      "link": "https://www.lavanguardia.com/opinion/20261011/11656127/historia-dos-portadas.html",
+      "desc": "Los medios libres debemos denunciar las atrocidades que se cometen en todo el mundo",
+      "date": "11 Oct 2026 00:05:00 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
+    {
+      "title": "La sombra que amenaza la ciudad literaria",
+      "link": "https://www.lavanguardia.com/cultura/20261011/11655885/comprension-lectora-pisa-lectura-libros-barcelona-literaria.html",
+      "desc": "",
+      "date": "11 Oct 2026 00:00:00 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
+    {
+      "title": "Diomande salva al Madrid de un tirón de pelo inoportuno",
+      "link": "https://www.lavanguardia.com/deportes/real-madrid/20261010/11656128/diomande-salva-madrid-tiron-pelo-inoportuno.html",
+      "desc": "El marfileño se estrena en la Liga con un gol que le dio la victoria a los de Mourinho en un partido gris marcado por la expulsión de Vinícius por tirarle del pelo a Saliba",
+      "date": "10 Oct 2026 23:10:44 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
+    {
+      "title": "Ahora sí, el último concierto de Oques Grasses",
+      "link": "https://www.lavanguardia.com/cultura/20261010/11656126/ultimo-concierto-oques-grasses.html",
+      "desc": "La banda de Josep Montero se despide en un baile de masas lleno de épica emocional en el Estadi Olímpic",
+      "date": "10 Oct 2026 22:59:59 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
+    {
+      "title": "Vinícius se queda sin gol y roja por tirar del pelo a Saliba",
+      "link": "https://www.lavanguardia.com/deportes/real-madrid/20261010/11656123/vinicius-queda-gol-roja-tirar-pelo-saliba.html",
+      "desc": "El VAR anula el tanto del brasileño, que pasa de celebrar a encararse con el árbitro",
+      "date": "10 Oct 2026 22:44:01 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
     {
       "title": "El Cajasol Coto Córdoba se queda a medio camino ante el Albacete Basket (81-71)",
       "link": "https://www.abc.es/espana/andalucia/cordoba/cajasol-coto-cordoba-queda-medio-camino-ante-20261010221240-nts.html",
@@ -50,196 +240,6 @@
       "source": "ABC",
       "color": "#c0392b",
       "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Hiperinflación",
-      "link": "https://www.abc.es/espana/castilla-leon/david-frontela-hiperinflacion-20261009212422-nt.html",
-      "desc": "Esta noche he soñado que era ingeniero nuclear. Tengo derecho a soñar lo que me parezca y ahora que estamos en campaña electoral quiero que algún partido me prometa que si le voto lo va a hacer realidad. No tengo ni idea de matemáticas, ni de física, ni tiempo",
-      "date": "Sat, 10 Oct 2026 21:24:22 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Tierra somos",
-      "link": "https://www.abc.es/espana/castilla-leon/tierra-20261010212312-nt.html",
-      "desc": "Hay fechas en las que la tierra nos recuerda quiénes somos. Cuando llega octubre, Zamora huele a fruto maduro, vino nuevo, pan, miel, historia y celebración. En el recinto de IFEZA, la feria Ecocultura reconoce a quienes apuestan por hacer las cosas respetando",
-      "date": "Sat, 10 Oct 2026 21:23:12 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Fe de Ratas de CyL",
-      "link": "https://www.abc.es/espana/castilla-leon/ratas-cyl-20261007211841-nt.html",
-      "desc": "",
-      "date": "Sat, 10 Oct 2026 21:18:41 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Zamora marca el camino para que los pueblos con embalses cobren su «deuda histórica»",
-      "link": "https://www.abc.es/espana/castilla-leon/zamora-marca-ruta-pueblos-embalses-cobren-deuda-20261005211405-nt.html",
-      "desc": "La concesión de la explotación del embalse de Villalcampo (Zamora) ha caducado. Eso, que en principio podría parecer poco más que un trámite administrativo, supone, en la práctica, no sólo que las grandes empresas eléctricas deberán concursar para hacerse con ",
-      "date": "Sat, 10 Oct 2026 21:14:05 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Ponferrada regresa al siglo XV para revivir la batalla de los Irmandiños",
-      "link": "https://www.abc.es/espana/castilla-leon/ponferrada-regresa-siglo-revivir-batalla-irmandinos-20261010211026-nt.html",
-      "desc": "La capital del Bierzo ha regresado este fin de semana al siglo XV para revivir, por octavo año, la batalla de los Irmandiños, de la mano de Caballeros de Ulver y con la participación de 60 recreadores de varios colectivos. El Castillo de los Templarios, fortal",
-      "date": "Sat, 10 Oct 2026 21:10:26 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Así está el Córdoba CF en la clasificación tras la derrota ante el Eldense",
-      "link": "https://www.abc.es/espana/andalucia/cordoba/cordoba-cf/cordoba-clasificacion-tras-derrota-ante-eldense-20261010210707-nts.html",
-      "desc": "El Córdoba CF sigue sumando desastres ante el Eldense (2-1). El conjunto blanquiverde salió valiente al encuentro y logró rápidamente ponerse por delante gracias a Rubén Alves. Las buenas sensaciones no acabaron ahí y el aluvión ofensivo ribereño fue una const",
-      "date": "Sat, 10 Oct 2026 21:07:07 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "María Rivas aspira a liderar la lista del PSOE al Congreso por La Coruña",
-      "link": "https://www.abc.es/espana/galicia/maria-rivas-aspira-liderar-lista-psoe-congreso-20261010210006-nt.html",
-      "desc": "La exsubdelegada del Gobierno en La Coruña María Rivas ha dado un paso al frente para encabezar la candidatura del PSOE al Congreso de los Diputados por la provincia coruñesa. La socialista, que actualmente ejerce como directora del Plan Estratégico de La Coru",
-      "date": "Sat, 10 Oct 2026 21:00:06 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Cuatro detenidos por asaltar una casa en  Sanchonuño (Segovia) y amenazar a su dueño con armas blancas",
-      "link": "https://www.abc.es/espana/castilla-leon/cuatro-detenidos-asaltar-casa-sanchonuno-segovia-amenazar-20261010205625-nt.html",
-      "desc": "Agentes de la Guardia Civil de Segovia, a través de la Unidad Orgánica de Policía Judicial (UOPJ) de la Comandancia, detuvieron a cuatro hombres, residentes en diferentes localidades segovianas, como presuntos autores de un delito de robo con violencia e intim",
-      "date": "Sat, 10 Oct 2026 20:58:12 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "El Córdoba CF se convierte en su peor enemigo y regala el triunfo al Eldense (2-1)",
-      "link": "https://www.abc.es/espana/andalucia/cordoba/cordoba-cf/cordoba-convierte-peor-enemigo-regala-triunfo-eldense-20261010204935-nts.html",
-      "desc": "Cuando perdonas, lo acabas pagando. Y el Córdoba CF lo sufrió en sus propias carnes ante el Eldense (2-1) en un partido que parecía tener bajo control y que terminó convirtiéndose en una pesadilla . El tempranero gol de Rubén Alves y una brillante primera mita",
-      "date": "Sat, 10 Oct 2026 20:49:35 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "El Valle de los Seis Sentidos celebra 20 años con un incremento de visitas del 62%",
-      "link": "https://www.abc.es/espana/castilla-leon/valle-seis-sentidos-celebra-anos-incremento-visitas-20261010204545-nt.html",
-      "desc": "El presidente de la Diputación de Valladolid, Conrado Íscar, ha participado este sábado en el Valle de los Seis Sentidos, ubicado en Renedo de Esgueva, en los actos conmemorativos del XX aniversario de este parque temático infantil y familiar, que celebra esta",
-      "date": "Sat, 10 Oct 2026 20:45:45 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Gol de Deco",
-      "link": "https://www.lavanguardia.com/deportes/20261010/11656096/gol-deco.html",
-      "desc": "",
-      "date": "10 Oct 2026 20:43:43 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "Fuerte despliegue policial en la zona sur de Ávila tras escucharse una veintena de disparos",
-      "link": "https://www.abc.es/espana/castilla-leon/fuerte-despliegue-policial-zona-sur-avila-tras-20261010203454-nt.html",
-      "desc": "Nuevo susto en la zona sur de Ávila. En esta ocasión, a última hora de la noche del pasado viernes, cuando las salas operativas del 1-1-2 y del 091 recibieron varias llamadas de vecinos alertando de numerosas detonaciones. Según los alertantes, llegaron a escu",
-      "date": "Sat, 10 Oct 2026 20:34:55 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Un Barça impecable iguala su mejor inicio de Liga",
-      "link": "https://www.lavanguardia.com/deportes/fc-barcelona/20261010/11655994/barca-impecable-iguala-mejor-inicio-liga.html",
-      "desc": "El conjunto barcelonista supera con claridad al Getafe y suma su octava victoria en ocho jornadas",
-      "date": "10 Oct 2026 20:32:17 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "Osteria Condal convierte su cocina abierta en una ópera culinaria en el Paralelo",
-      "link": "https://www.abc.es/espana/cataluna/osteria-condal-convierte-cocina-abierta-opera-culinaria-20261010203203-nt.html",
-      "desc": "Un ballet de quince cocineros opera a la vista de los comensales que se sientan en la barra de Osteria Condal. Bajo la dirección de Andrea Fiori, que a sus 27 años procede de Lasarte y luego estuvo en Da Vittorio en Shanghai, cada pase se prepara y se termina ",
-      "date": "Sat, 10 Oct 2026 20:32:04 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Locura de color y música latina en Madrid: «Vengo desde Italia por Sebastián Yatra»",
-      "link": "https://www.abc.es/espana/madrid/locura-color-musica-latina-madrid-vengo-italia-20261010202752-nt.html",
-      "desc": "Son miles las personas que aguardan desde primera hora de la mañana en Plaza de España para acompañar al artista colombiano Sebastián Yatra en la recta final de las fiestas de la Hispanidad 2026 , que arrancaron el pasado 2 de octubre con una amplia programaci",
-      "date": "Sat, 10 Oct 2026 20:27:53 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Isabel Díaz Ayuso defiende desde Madrigal de las Altas Torres el valor de la Hispanidad",
-      "link": "https://www.abc.es/espana/castilla-leon/isabel-diaz-ayuso-investida-dama-honor-capitulo-20261010195645-nt.html",
-      "desc": "El Real Monasterio de Santa María de Gracia de las Madres Agustinas, sede estatutaria y el domicilio espiritual y simbólico del Capítulo de Nobles Caballeros y Damas de la Reina Isabel la Católica en Madrigal de las Altas, acogía este sábado la investidura de ",
-      "date": "Sat, 10 Oct 2026 19:56:46 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "La Junta derribará la antigua sede de UGT en la calle Marbella en Córdoba para construir una nueva oficina de empleo",
-      "link": "https://www.abc.es/espana/andalucia/cordoba/junta-derribara-antigua-sede-ugt-calle-marbella-20261010195021-nts.html",
-      "desc": "La Junta de Andalucía ha decidido derribar el antiguo edificio sindical de la calle Marbella de Córdoba, abandonado y sin uso desde 2010, en lugar de acometer su rehabilitación, debido al mal estado de la estructura. La decisión no altera los planes del Gobier",
-      "date": "Sat, 10 Oct 2026 19:50:21 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Trump carga contra Zelenski y pide para Ucrania “un nuevo presidente” con el que pactar",
-      "link": "https://www.lavanguardia.com/internacional/20261010/11656085/trump-carga-zelenski-pide-ucrania-nuevo-presidente-pactar.html",
-      "desc": "El presidente ucraniano ha ironizado sobre el acuerdo por el diésel entre EE.UU. y Rusia afirmando que las cinco bombas lanzadas por Putin sobre su territorio son una muestra de su “agradecimiento”",
-      "date": "10 Oct 2026 19:43:28 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "Trump desprecia a Zelenski (y van...)",
-      "link": "https://www.lavanguardia.com/internacional/20261010/11656083/trump-desprecia-zelenski.html",
-      "desc": "",
-      "date": "10 Oct 2026 19:32:32 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
       "caso": "other"
     }
   ]
