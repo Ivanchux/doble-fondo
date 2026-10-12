@@ -1,7 +1,157 @@
 {
-  "updated": "2026-10-11T21:23:34Z",
+  "updated": "2026-10-12T00:54:48Z",
   "count": 24,
   "items": [
+    {
+      "title": "«Si me acorrala la Policía, la cosa acabará mal»",
+      "link": "https://www.abc.es/espana/cataluna/neutralizar-pistolero-atrincherado-salvarle-vida-deja-dos-20261012022400-nt.html",
+      "desc": "El 14 de diciembre del 2021, un exvigilante de la empresa Securitas, Eugen Martin Sabau, disparó contra tres compañeros de trabajo y, durante su huida, también a un mosso d'esquadra. Después se atrincheró en el exterior de una masía de Riudoms (Tarragona) y, a",
+      "date": "Mon, 12 Oct 2026 02:24:00 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "La derecha mantiene su mayoría absoluta pese a la agitación callejera de la izquierda",
+      "link": "https://www.abc.es/espana/derecha-mantiene-mayoria-absoluta-pese-agitacion-callejera-20261012015025-nt.html",
+      "desc": "Una campaña electoral —y su precampaña— es muy larga. Pero si se votase hoy, según los datos de la encuesta de ABC para GAD3, la mayoría absoluta de la derecha, absolutísima, estaría garantizada. El PP y Vox, juntos, rozan los doscientos escaños. Un margen suf",
+      "date": "Mon, 12 Oct 2026 01:50:25 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Seis de cada diez españoles creen que PP y Vox gobernarán en coalición tras las elecciones",
+      "link": "https://www.abc.es/espana/seis-diez-espanoles-creen-pp-vox-gobernaran-20261012015019-nt.html",
+      "desc": "La sensación es generalizada. Entre los votantes cunde la sensación de que la derecha no solo va a ganar las elecciones generales del 29 de noviembre, como pasó el 23 de julio del 2023, sino que esta vez va a formar gobierno. Según la encuesta de GAD3 para ABC",
+      "date": "Mon, 12 Oct 2026 01:50:19 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Sánchez intenta evitar el hundimiento del PSOE por la corrupción pero no cuela entre jueces y fiscales",
+      "link": "https://www.abc.es/espana/carmen-lucastorres-sanchez-intenta-evitar-implosion-psoe-corrupcion-cuela-20261012014955-nt.html",
+      "desc": "Los jueces y fiscales de este país no bajarán los brazos por el anuncio de adelanto electoral del presidente del Gobierno, Pedro Sánchez. Lo tienen claro los magistrados de la Audiencia Nacional que investigan en este momento causas que afectan al Gobierno y a",
+      "date": "Mon, 12 Oct 2026 01:49:55 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "gen"
+    },
+    {
+      "title": "Defensa prepara el relevo de los aviones vip de transporte de autoridades",
+      "link": "https://www.abc.es/espana/defensa-prepara-relevo-aviones-vip-transporte-autoridades-20261012014924-nt.html",
+      "desc": "El Ministerio de Defensa ha dado el primer paso burocrático para renovar la flota estratégica de transporte del Ejército del Aire y del Espacio. Tras el aval del Consejo de Ministros del 25 de agosto al Acuerdo Marco entre España y Polonia para la adquisición ",
+      "date": "Mon, 12 Oct 2026 01:49:24 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Más de 4.300 militares, 183 vehículos y 82 aeronaves en el desfile, pero sin unidades de Ceuta",
+      "link": "https://www.abc.es/espana/4300-militares-183-vehiculos-aeronaves-novedad-eurofighter-20261012014857-nt.html",
+      "desc": "El centro de Madrid volverá a acoger este lunes el acto central por el Día de la Fiesta Nacional con un desfile de números deslumbrantes: más de 4.300 miembros de las Fuerzas Armadas y de las Fuerzas y Cuerpos de Seguridad del Estado, 183 vehículos y 82 aerona",
+      "date": "Mon, 12 Oct 2026 01:48:57 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Okupación a cuenta del contribuyente en Barcelona: «Algún día lo vamos a hacer todos así»",
+      "link": "https://www.abc.es/espana/cataluna/okupacion-cuenta-contribuyente-barcelona-dia-vamos-20261012014607-nt.html",
+      "desc": "«He oído que hay problemas muy concretos». Llum lleva apenas un mes viviendo en el barrio, pero ya le han llegado quejas de vecinos por el ruido de los ocupantes de Llenguadoc 74. Prefiere no extenderse. Tampoco se pronuncia sobre la compra del edificio que ha",
+      "date": "Mon, 12 Oct 2026 01:46:07 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Sánchez necesita que Cataluña vote en clave española para contener el desgaste del PSC",
+      "link": "https://www.abc.es/espana/cataluna/sanchez-necesita-cataluna-vote-clave-espanola-contener-20261012014559-nt.html",
+      "desc": "Pedro Sánchez necesita, si quiere revalidar su estancia en la Moncloa, que los catalanes tengan muy claro que la cita del 29 de noviembre es para escoger a los diputados del Congreso. Que las urnas de aquel domingo desplegadas por Cataluña son para elegir al p",
+      "date": "Mon, 12 Oct 2026 01:45:59 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Cataluña quiere votar a las derechas",
+      "link": "https://www.abc.es/espana/cataluna/sergi-doria-cataluna-quiere-votar-derechas-20261012014547-nt.html",
+      "desc": "El 18 de octubre de 2022 publiqué una Tercera, 'Feijóo puede rimar con Cambó'. Partía de una evidencia de la aritmética electoral: el líder popular sabe que nunca ganarán las elecciones en España si el voto al PP no mejora en Cataluña. La cuestión es cómo revo",
+      "date": "Mon, 12 Oct 2026 01:45:47 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "El lamento de los antidisturbios del 1-O con el regreso de Puigdemont: «Se van de rositas después de humillar a España»",
+      "link": "https://www.abc.es/espana/lamento-antidisturbios-regreso-puigdemont-policias-jubilados-culpa-20261009014534-nt.html",
+      "desc": "Policías antidisturbios que participaron en el operativo para impedir el referéndum ilegal del 1 de octubre lamentan que Carles Puigdemont regrese a España de «rositas» sin responder de sus acciones ante la Justicia. «Hay policías jubilados por su culpa», subr",
+      "date": "Mon, 12 Oct 2026 01:45:34 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "La llegada de cárteles mexicanos y albaneses dispara la violencia entre narcos",
+      "link": "https://www.abc.es/espana/madrid/llegada-carteles-mexicanos-albaneses-aumenta-violencia-narcos-20260923014300-nt.html",
+      "desc": "La Policía Nacional y la Guardia Civil son claras: «Ahora mismo, hay una violencia terrible», no ya solo en las calles, sino esa que resulta impermeable a la vista del ciudadano de a pie. A la que se están sometiendo, entre sí, las distintas organizaciones cri",
+      "date": "Mon, 12 Oct 2026 01:43:00 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Cinco días para navegar músicas con Javier Ruibal",
+      "link": "https://www.abc.es/espana/madrid/cinco-dias-navegar-musicas-javier-ruibal-20261011013014-nt.html",
+      "desc": "A partir de este martes 13 de octubre, la Fundación SGAE dedica una semana de programación al legado del cantautor Javier Ruibal , compositor, guitarrista y «músico de músicos», ganador del Premio Nacional de Músicas Actuales 2017 y Goya a la Mejor canción ori",
+      "date": "Mon, 12 Oct 2026 01:30:14 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Una mujer vacía las cuentas del banco del marido, que había muerto una hora antes",
+      "link": "https://www.abc.es/espana/madrid/mujer-vacia-cuentas-banco-marido-muerto-hora-20261011012950-nt.html",
+      "desc": "La Fiscalía Provincial de Madrid solicita 33 meses de prisión para P. M. P. M. G., una mujer que, una hora después del fallecimiento de su pareja, vació las dos cuentas corrientes en las que tenía firma autorizada para ingresar 21.500 euros, es decir, casi la ",
+      "date": "Mon, 12 Oct 2026 01:29:50 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Las pantallas, la nueva droga de los jóvenes: «No me creía adicto, pero me pasaba 18 horas enganchado»",
+      "link": "https://www.abc.es/espana/madrid/pantallas-nueva-droga-jovenes-creia-adicto-pasaba-20261007012936-nt.html",
+      "desc": "El relato de Sabina (nombre ficticio para preservar su identidad) es la evocación de una herida íntima. Con 23 años se vio obligada a convivir con la muerte: la de su madre y, de algún modo, la de ella misma. Ocurrió que la pena acabó derivando en una profunda",
+      "date": "Mon, 12 Oct 2026 01:29:36 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Empatía con el populista",
+      "link": "https://www.lavanguardia.com/opinion/20261012/11656620/rufian-populista-da-empoli-redes-ia.html",
+      "desc": "Los políticos populistas son reflejo de nuestra ira y de nuestra actitud en las redes",
+      "date": "12 Oct 2026 00:00:00 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
     {
       "title": "La Academia Xacobea suma a John Rutherford y Manuel Valín ante el próximo Año Santo",
       "link": "https://www.abc.es/espana/galicia/academia-xacobea-suma-john-rutherford-manuel-valin-20261011213000-nt.html",
@@ -53,6 +203,16 @@
       "caso": "other"
     },
     {
+      "title": "Netanyahu pide una investigación sobre los militares anónimos que testifican en 'NAZA'",
+      "link": "https://www.lavanguardia.com/internacional/20261011/11656658/netanyahu-pide-investigacion-sobre-militares-anonimos-testifican-naza.html",
+      "desc": "“Esta película cuenta un relato falso, engañoso y tendencioso, que difama al Estado de Israel y al Ejército en todo el mundo”, afirmó el primer ministro israelí",
+      "date": "11 Oct 2026 20:39:28 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
+    {
       "title": "Siete años de cárcel para una mujer de Córdoba por abandonar a su bebé recién nacida en un descampado",
       "link": "https://www.abc.es/espana/andalucia/cordoba/siete-anos-carcel-mujer-cordoba-abandonar-bebe-20261011203355-nts.html",
       "desc": "Una mujer procedente de Córdoba ha sido condenada a siete años de prisión por abandonar a su hija recién nacida en un descampado de Málaga durante la madrugada de un día de octubre de 2023. La Audiencia Provincial de Málaga considera que tanto ella como el hom",
@@ -77,166 +237,6 @@
       "link": "https://www.abc.es/espana/andalucia/cordoba/cordoba-cf/cordoba-atrapado-sangria-defensiva-devora-potencial-ofensivo-20261011200922-nts.html",
       "desc": "El Córdoba CF tiene un problema que empieza a resultar insostenible. De poco sirve presumir de una notable capacidad ofensiva cuando cada partido se convierte en un nuevo ejercicio de supervivencia para evitar los goles del rival. El conjunto blanquiverde cont",
       "date": "Sun, 11 Oct 2026 20:09:23 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Tres puñaladas tras una discusión: una mujer afronta cuatro años por intento de homicidio en Ames",
-      "link": "https://www.abc.es/espana/galicia/tres-punaladas-tras-discusion-mujer-afronta-cuatro-20261011200002-nt.html",
-      "desc": "La sección sexta de la Audiencia Provincial de La Coruña, con sede en Santiago, juzgará el próximo jueves a una mujer acusada de intentar matar a un hombre al que supuestamente asestó tres puñaladas con un cuchillo en Bertamiráns, en el municipio de Ames. Los ",
-      "date": "Sun, 11 Oct 2026 20:00:02 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Playa de San Juan de Alicante, reconocida por sus 40 años seguidos con bandera azul",
-      "link": "https://www.abc.es/espana/comunidad-valenciana/alicante/playa-san-juan-alicante-reconocida-anos-seguidos-20261011195958-nt.html",
-      "desc": "Playa de San Juan ha sido reconocida por sus 40 años ininterrumpidos con Bandera Azul en el III Congreso Internacional Bandera Azul: Sostenibilidad, Salud y Seguridad», que se ha celebrado en Islantilla (Huelva), tal como ha informado el Ayuntamiento de Alican",
-      "date": "Sun, 11 Oct 2026 19:59:59 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Abascal da comienzo a la precampaña de la «última oportunidad» en Estepona: «Es momento de dejar de soportar injusticias»",
-      "link": "https://www.abc.es/espana/abascal-comienzo-precampana-ultima-oportunidad-estepona-momento-20261011195837-nt.html",
-      "desc": "La «última oportunidad» ha comenzado para Vox. Santiago Abascal ha dado el pistoletazo de salida este domingo a su precampaña en Estepona (Málaga) con los tres vértices principales de su estrategia: 'prioridad nacional', remigración y desregulación. En un comp",
-      "date": "Sun, 11 Oct 2026 19:58:38 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "La Asociación de Periodistas de Ciudad Real busca hasta noviembre logotipo para su 110 aniversario",
-      "link": "https://www.abc.es/espana/castilla-la-mancha/asociacion-periodistas-ciudad-real-busca-noviembre-logotipo-20261011194324-nt.html",
-      "desc": "La Asociación de Periodistas de Ciudad Real celebra en 2027 su 110 aniversario. Por ese motivo, la entidad busca un logotipo que refleje la importancia de dicha efeméride y lo hace lanzando un concurso de ideas entre el alumnado de la Escuela de Arte 'Pedro Al",
-      "date": "Sun, 11 Oct 2026 19:43:25 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Detenido un octogenario reincidente por rayar coches en un aparcamiento de Ponferrada",
-      "link": "https://www.abc.es/espana/castilla-leon/detenido-octogenario-reincidente-rayar-coches-aparcamiento-ponferrada-20261011191539-nt.html",
-      "desc": "La Policía Municipal de Ponferrada (León) ha detenido a un hombre octogenario reincidente como presunto autor de rayadas a vehículos estacionados en el aparcamiento situado junto a las instalaciones de la Ciudad de la Energía (Ciuden). La detención se produjo ",
-      "date": "Sun, 11 Oct 2026 19:15:39 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "A juicio por secuestrar a un hombre en Vigo, desnudarlo y amenazarlo con una navaja",
-      "link": "https://www.abc.es/espana/galicia/juicio-secuestrar-hombre-vigo-desnudarlo-amenazarlo-navaja-20261011190905-nt.html",
-      "desc": "La sección quinta de la Audiencia Provincial de Pontevedra, con sede en Vigo, juzgará el próximo miércoles, 14 de octubre, a un hombre acusado de secuestrar, extorsionar y amenazar a otro individuo en la ciudad. La Fiscalía solicita para él penas que suman och",
-      "date": "Sun, 11 Oct 2026 19:09:06 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Carbayo reivindica la Escuela de Salamanca para defender que «ningún gobernante está por encima de la ley»",
-      "link": "https://www.abc.es/espana/castilla-leon/carbayo-reivindica-escuela-salamanca-defender-ningun-gobernante-20261011190046-nt.html",
-      "desc": "El presidente del Partido Popular de Salamanca, Carlos García Carbayo, reivindicaba este domingo el legado de la Escuela de Salamanca para defender que ningún gobernante puede situarse por encima de la ley y la justicia, durante una comparecencia ante los medi",
-      "date": "Sun, 11 Oct 2026 19:01:13 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "La DO Rueda pone el broche final a la vendimia con la unión de vino, tradición, cultura en torno a la uva Verdejo",
-      "link": "https://www.abc.es/espana/castilla-leon/rueda-pone-broche-final-vendimia-union-vino-20261011184540-nt.html",
-      "desc": "La Denominación de Origen Rueda ponía este domingo el broche final a la vendimia 2026 con el cierre de la XXXVI edición de su fiesta, que permite la unión de vino, tradición, cultura y participación popular entorno a la variedad de la uva Verdejo. Tras empezar",
-      "date": "Sun, 11 Oct 2026 18:45:40 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "El eurodiputado Raphaël Glucksmann gana las primarias de los socialistas franceses",
-      "link": "https://www.lavanguardia.com/internacional/20261011/11656515/eurodiputado-raphael-glucksmann-gana-primarias-socialistas-franceses.html",
-      "desc": "El candidato vencedor se impone ya en la primera vuelta, con un contundente 66,13% de los votos",
-      "date": "11 Oct 2026 18:40:14 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "El Córdoba Patrimonio se encomienda a la épica para lograr su primera victoria de la temporada ante Peñíscola (3-4)",
-      "link": "https://www.abc.es/espana/andalucia/cordoba/cordoba-patrimonio-encomienda-epica-lograr-primera-victoria-20261011183652-nts.html",
-      "desc": "Creer hasta el final tiene premio. El Córdoba Patrimonio ya puede quitarse de encima la losa de la primera victoria de la temporada después de conquistar el Juan Vizcarro con una remontada épica ante Peñíscola (3-4). Los pupilos de David Fernández fueron a rem",
-      "date": "Sun, 11 Oct 2026 18:36:53 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "La Junta reivindica la ganadería de lidia como patrimonio genético y cultural",
-      "link": "https://www.abc.es/espana/castilla-leon/junta-reivindica-ganaderia-lidia-patrimonio-genetico-cultural-20261011182853-nt.html",
-      "desc": "La Junta de Castilla y León reivindicaba este domingo el valor de la ganadería de lidia como patrimonio genético, natural y cultural, así como su contribución a la conservación de la dehesa y a la actividad económica del medio rural, durante la celebración en ",
-      "date": "Sun, 11 Oct 2026 18:29:15 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Toledo acogerá el Congreso de Archivos y Patrimonio Musical de las bandas de Castilla-La Mancha",
-      "link": "https://www.abc.es/espana/castilla-la-mancha/toledo-acogera-congreso-archivos-patrimonio-musical-bandas-20261011182450-nt.html",
-      "desc": "Toledo acogerá el próximo 24 de octubre el Congreso de Archivos y Patrimonio Musical de las Bandas de Música en Castilla-La Mancha, una cita organizada por la Federación Regional Castellano-Manchega de Sociedades de Música y patrocinada por la Junta de Comunid",
-      "date": "Sun, 11 Oct 2026 18:24:51 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Francesc-Marc Álvaro será el cabeza de lista de ERC al Senado por Barcelona el 29-N",
-      "link": "https://www.lavanguardia.com/politica/20261011/11656609/francesc-marc-alvaro-sera-cabeza-lista-erc-senado-barcelona-29-n.html",
-      "desc": "El diputado, que fue el número tres de la candidatura republicana al Congreso en las elecciones del 2023, pasará de la Cámara Baja a la Cámara Alta",
-      "date": "11 Oct 2026 17:42:33 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "El Domingo das Mozas llena Lugo de trajes tradicionales gallegos",
-      "link": "https://www.abc.es/espana/galicia/domingo-das-mozas-llena-lugo-trajes-tradicionales-20261011174027-nt.html",
-      "desc": "Lugo ha celebrado este domingo una de las jornadas más emblemáticas de las fiestas de San Froilán, el tradicional Domingo das Mozas, con un desfile de trajes gallegos en el que han participado la alcaldesa, Elena Candia, y la secretaria xeral del PP gallego, P",
-      "date": "Sun, 11 Oct 2026 17:41:57 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Una mujer resulta herida en un tiroteo en Figueres (Gerona)",
-      "link": "https://www.abc.es/espana/cataluna/mujer-resulta-herida-tiroteo-figueres-gerona-20261011172932-nt.html",
-      "desc": "Una mujer ha resultado herida en un tiroteo en el barrio de Bon Pastor de Figueres (Gerona) en la madrugada de este domingo, según ha avanzado 'El Caso' y han confirmado fuentes policiales a Ep. Los Mossos d'Esquadra recibieron el aviso sobre las 03.30 horas p",
-      "date": "Sun, 11 Oct 2026 17:29:32 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Estampas irrepetibles de una Semana Santa en otoño: un año del Magno Vía Crucis de Córdoba",
-      "link": "https://www.abc.es/espana/andalucia/cordoba/semana-santa/estampas-irrepetibles-semana-santa-otono-ano-magno-20261011185726-nts.html",
-      "desc": "Una procesión extraordinaria no siempre es una manera de reeditar en cualquier momento del año lo que siempre pasa en Semana Santa : también es una forma de conseguir lo que no se volverá a repetir. Ni en número, ni en recorrido ni en aquello que sólo puede pa",
-      "date": "Sun, 11 Oct 2026 17:27:49 +0200",
       "source": "ABC",
       "color": "#c0392b",
       "feedId": "ABC",
