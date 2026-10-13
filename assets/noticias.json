@@ -1,7 +1,187 @@
 {
-  "updated": "2026-10-12T19:34:17Z",
+  "updated": "2026-10-13T01:46:12Z",
   "count": 24,
   "items": [
+    {
+      "title": "El voto exterior favorece a la izquierda: el PSOE gana fuera mientras pierde en casa",
+      "link": "https://www.abc.es/espana/voto-exterior-favorece-izquierda-psoe-gana-pierde-20261013015532-nt.html",
+      "desc": "La conocida como 'ley de nietos' o disposición adicional octava de la Ley 20/2022 de Memoria Democrática ha permitido que 557.709 ciudadanos consigan la nacionalidad española y ensanchen así la saca del sufragio en el exterior. En esa base ampliada se repite u",
+      "date": "Tue, 13 Oct 2026 01:55:32 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Feijóo, ante la ausencia de Abascal en la Fiesta Nacional: «Con Vox, ni cordón sanitario ni cordón umbilical»",
+      "link": "https://www.abc.es/espana/feijoo-ante-ausencia-abascal-vox-cordon-sanitario-20261013014249-nt.html",
+      "desc": "Con todas las encuestas arrojando la más que probable mayoría absoluta de la derecha -PP y Vox rozan los 200 escaños según los sondeos- la relación entre ambos, que podrían compartir Consejo de Ministros dentro de unos meses, está bajo lupa. La interlocución e",
+      "date": "Tue, 13 Oct 2026 01:42:49 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Feijóo, a la embajadora de Marruecos: «He cumplido con mi deber»",
+      "link": "https://www.abc.es/espana/feijoo-embajadora-marruecos-cumplido-deber-20261013014233-nt.html",
+      "desc": "La imagen no era aparentemente extraordinaria porque en Palacio Real estaba buena parte del cuerpo diplomático. A la Fiesta Nacional acuden la inmensa mayoría de embajadores y el contacto con los distintos políticos –del Gobierno y de la oposición– es habitual",
+      "date": "Tue, 13 Oct 2026 01:42:33 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Mónica García se protege ante el posible batacazo de Más Madrid en las generales",
+      "link": "https://www.abc.es/espana/madrid/monica-garcia-protege-ante-posible-batacazo-madrid-20261012013621-nt.html",
+      "desc": "El tiempo se agota y en Más Madrid siguen sin vislumbrar un acuerdo sobre la candidatura de Frente Amplio en las elecciones generales del 29 de noviembre. La izquierda radical está en plena ebullición y en el partido de Mónica García están comprobando que la m",
+      "date": "Tue, 13 Oct 2026 01:36:21 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Sáenz de Tejada, el exjuez condenado por violencia de género que acabó siendo el enlace de Leire Díez en Badajoz",
+      "link": "https://www.abc.es/espana/extremadura/saenz-tejada-exjuez-condenado-violencia-genero-acabo-20261012013425-nt.html",
+      "desc": "Luis José Sáenz de Tejada. El nombre del exjuez aparece últimamente con mucha frecuencia en los medios. También en los atestados de la Unidad Central Operativa (UCO) de la Guardia Civil como una de las piezas de toda la investigación en torno a Leire Díez y có",
+      "date": "Tue, 13 Oct 2026 01:34:25 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "lei"
+    },
+    {
+      "title": "Un coronel de la Guardia Civil se enfrenta a 4 años de cárcel por manipular la compra de 8.250 fusiles de asalto",
+      "link": "https://www.abc.es/espana/madrid/coronel-guardia-civil-enfrenta-anos-carcel-manipular-20261012013326-nt.html",
+      "desc": "La Fiscalía Provincial de Madrid solicita 4 años de prisión para J. F. P. B., un coronel de la Guardia Civil que falsificó unos documentos para favorecer durante el proceso de licitación a una empresa, para la adquisición de un mínimo de 8.250 fusiles de asalt",
+      "date": "Tue, 13 Oct 2026 01:33:26 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Encapuchados encañonan a la empleada de un bingo por 800 euros y se empotran con un bus y un coche",
+      "link": "https://www.abc.es/espana/madrid/banda-atraca-bingo-pistola-choca-bus-etm-20261012013306-nt.html",
+      "desc": "La Policía Nacional está detrás de una banda de delincuentes que la madrugada de este domingo ha asaltado con extrema violencia un bingo de la capital. Los hechos han terminado con un exiguo botín para tratarse de un negocio de esas características, apenas 800",
+      "date": "Tue, 13 Oct 2026 01:33:06 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Ensaya Carabanchel, cinco años catapultando a las nuevas bandas de Madrid",
+      "link": "https://www.abc.es/espana/madrid/ensaya-carabanchel-cinco-anos-catapultando-nuevas-bandas-20261012011717-nt.html",
+      "desc": "Un año más, quince bandas madrileñas tendrán la oportunidad de catapultarse al circuito profesional de música en directo gracias a Ensaya Carabanchel , un ciclo de formación que ya está en marcha tras presentar su quinta edición en el lugar en el que nació: la",
+      "date": "Tue, 13 Oct 2026 01:17:17 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "La ampliación de la línea 11 de Metro mira ya a Valdebebas en el horizonte de 2030",
+      "link": "https://www.abc.es/espana/madrid/ampliacion-linea-metro-mira-valdebebas-horizonte-2030-20261012011700-nt.html",
+      "desc": "La 'Gran Diagonal' de Metro , la línea que cruzará Madrid de suroeste a noreste, sigue dando pasos para llegar hasta Valdebebas Norte desde Mar de Cristal. Seis consorcios empresariales optan a la que es la mayor obra pública de España, una ampliación, en su t",
+      "date": "Tue, 13 Oct 2026 01:17:00 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "La recuperación total de los montes de la Sierra Oeste tras los incendios se extenderá una década",
+      "link": "https://www.abc.es/espana/madrid/plan-recuperar-montes-sierra-oeste-perdidos-mayor-20261012004753-nt.html",
+      "desc": "Tras varios días agónicos, el pasado 4 de agosto la Comunidad de Madrid dio por controlado y en fase de extinción el fuego que comenzó a arrasar la Sierra Oeste a finales de julio y cuya gravedad llevó al Ministerio del Interior a declarar emergencia de interé",
+      "date": "Tue, 13 Oct 2026 00:47:53 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Feijóo y la bola negra",
+      "link": "https://www.lavanguardia.com/opinion/20261013/11657328/feijoo-bola-negra.html",
+      "desc": "El PP lo tiene todo de cara, pero hará bien en no confiarse",
+      "date": "13 Oct 2026 00:27:33 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
+    {
+      "title": "Landaluce: Fin precipitado a su cuarto mandato",
+      "link": "https://www.abc.es/espana/andalucia/cadiz/landaluce-fin-precipitado-cuarta-legislatura-20261012223912-nts.html",
+      "desc": "Landaluce nació en Logroño en 1959, aunque muy pronto se mudó a Algeciras con toda su familia. Su hermano Gerardo también ha hecho carrera en la política y es actualmente el presidente de la Autoridad Portuaria de la Bahía de Algeciras. Cursó los estudios de M",
+      "date": "Mon, 12 Oct 2026 22:39:12 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Serrat y sus ‘Paraules d’amor’ para Tete Montoliu",
+      "link": "https://www.lavanguardia.com/cultura/20261012/11657288/serrat-paraules-amor-tete-montoliu-festival-jazz-barcelona-bebo-valdes.html",
+      "desc": "El Festival de Jazz de Barcelona rinde tributo a Tete Montoliu y Bebo Valdés en el Park Güell",
+      "date": "12 Oct 2026 22:08:32 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
+    {
+      "title": "Fallece una segunda persona que se encontraba ingresada, víctima del grave accidente del viernes en la A-62",
+      "link": "https://www.abc.es/espana/castilla-leon/fallece-segunda-persona-encontraba-ingresada-victima-grave-20261012215934-nt.html",
+      "desc": "Una segunda persona que se encontraba ingresada en el Hospital de Salamanca, víctima del trágico accidente del viernes en la A-62 en Tordesillas, fallecía este lunes tras no poder superar las heridas que le mantenían ingresado desde ese trágico suceso, según f",
+      "date": "Mon, 12 Oct 2026 22:00:13 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Casi la mitad de los pueblos con más votos del extranjero que residentes están en Castilla y León",
+      "link": "https://www.abc.es/espana/castilla-leon/mitad-pueblos-votos-extranjero-residentes-castilla-leon-20261006215345-nt.html",
+      "desc": "Con un total de 78 pueblos en los que los electores residiendo en el extranjero son más que los que transitan por sus calles, Castilla y León es la comunidad de España con más localidades que se encuentran en esa situación. Del total de 166 municipios que exis",
+      "date": "Mon, 12 Oct 2026 21:53:45 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "El PP de Cádiz exige al alcalde de Algeciras que dimita al conocer otra denuncia por abuso sexual",
+      "link": "https://www.abc.es/espana/andalucia/cadiz/genova-exige-alcalde-algeciras-dimita-conocer-denuncia-20261012213812-nts.html",
+      "desc": "El Partido Popular de Cádiz ha pedido la dimisión como alcalde de Algeciras, José Ignacio Landaluce, después de que el partido haya tenido conocimiento de una nueva denuncia por acoso sexual, que se suma a las dos que ya se conocían. El presidente del PP de Cá",
+      "date": "Mon, 12 Oct 2026 21:38:12 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Tres detenidos en los incidentes entre manifestantes y acampados de ideologías extremas opuestas en la Puerta del Sol",
+      "link": "https://www.abc.es/espana/madrid/tres-detenidos-incidentes-manifestantes-acampados-ideologias-extremas-20261012213354-nt.html",
+      "desc": "Al menos tres personas han sido detenidas en la jornada de esta Fiesta Nacional cuando grupos de ideología de extrema derecha se acercaron a la Puerta del Sol, donde fueron recibidos con gritos e insultos por acampados, casi todos de ellos de ideología opuesta",
+      "date": "Mon, 12 Oct 2026 21:33:54 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Un muerto en un accidente de tráfico en la CO-6301, a la altura de Puente Genil",
+      "link": "https://www.abc.es/espana/andalucia/cordoba/muerto-accidente-trafico-co6301-altura-puente-genil-20261012212617-nts.html",
+      "desc": "Una persona ha muerto en un accidente de tráfico registrado a las 16.10 horas de este lunes en el kilómetro 5,1 de la CO-6301 en el término municipal de Puente Genil , según se ha indicado en el resumen de accidentes de la Operación Especial de Tráfico del pue",
+      "date": "Mon, 12 Oct 2026 21:26:17 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
     {
       "title": "La recepción en el Palacio Real, entre un acto más de campaña y una boda sin novios",
       "link": "https://www.abc.es/espana/recepcion-palacio-real-acto-campana-boda-novios-20261012203851-nt.html",
@@ -43,200 +223,20 @@
       "caso": "other"
     },
     {
+      "title": "Seat liga la continuidad de la marca a la legislación europea sobre emisiones",
+      "link": "https://www.lavanguardia.com/economia/20261012/11657269/seat-marca-cupra-futuro-legislacion-europa-emisiones.html",
+      "desc": "Las ventas de la histórica enseña caen un 6% mientras las de Cupra suben un 2%",
+      "date": "12 Oct 2026 20:11:23 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
+    {
       "title": "Retrasos de hasta dos horas en los trenes de Alta Velocidad a Andalucía por el incendio de Zaragoza",
       "link": "https://www.abc.es/espana/andalucia/retrasos-dos-horas-trenes-alta-velocidad-andalucia-20261012200950-nts.html",
       "desc": "Nueva jornada conflictiva en el transporte ferroviario en Andalucía . El incendio de un vagón de un convoy de la Alta Velocidad entre en Zaragoza y en el tendido entre Barcelona y Madrid no solo afecta a ese tramo de la circulación: el perjuicio también lo est",
       "date": "Mon, 12 Oct 2026 20:09:50 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Santiago Abascal celebra en Ceuta junto a Bardella el 12 de Octubre",
-      "link": "https://www.lavanguardia.com/politica/20261012/11657266/santiago-abascal-celebra-ceuta-bardella-12-octubre.html",
-      "desc": "El dirigente lepenista francés propone cerrar las fronteras de la UE",
-      "date": "12 Oct 2026 20:07:05 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "Frente Amplio elige a Colau como candidata y alfombra su vuelta a la política",
-      "link": "https://www.abc.es/espana/frente-amplio-coloca-candidata-presidencia-colau-vuelve-20261012200501-nt.html",
-      "desc": "Los partidos del Frente Amplio han situado oficialmente como candidata a la Presidencia del Gobierno en las elecciones del 29-N a la exalcaldesa de Barcelona, Ada Colau, que regresa así, por todo lo alto, a la política institucional tras dos años. IU, Comuns, ",
-      "date": "Mon, 12 Oct 2026 20:05:02 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "El Frente Amplio apuesta por Colau y emplaza a Podemos a entrar en la coalición",
-      "link": "https://www.lavanguardia.com/politica/20261012/11657267/frente-amplio-oficializa-apuesta-colau-emplaza-entrar-coalicion.html",
-      "desc": "El respaldo IU, Más Madrid, Comuns y Movimiento Sumar a la exalcaldesa eleva la presión sobre Podemos",
-      "date": "12 Oct 2026 20:02:21 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "El Ayuntamiento de Valladolid, premiado por la calidad de sus Servicios Sociales",
-      "link": "https://www.abc.es/espana/castilla-leon/ayuntamiento-valladolid-premiado-calidad-servicios-sociales-20261012195613-nt.html",
-      "desc": "El Ayuntamiento de Valladolid ha sido distinguido con el Premio Anual en la modalidad de Institución Pública 2026 otorgado por la Asociación Estatal de Directoras y Gerentes en Servicios Sociales , un galardón con el que se reconoce la labor desarrollada en el",
-      "date": "Mon, 12 Oct 2026 19:56:14 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "El Córdoba CF paga su incapacidad para cerrar los partidos: cuatro puntos perdidos en el último suspiro",
-      "link": "https://www.abc.es/espana/andalucia/cordoba/cordoba-cf/cordoba-paga-incapacidad-cerrar-partidos-cuatro-puntos-20261012195117-nts.html",
-      "desc": "Hay puntos que se escapan por falta de fútbol y otros que se pierden por no saber administrar lo que ya se tiene. El Córdoba CF está convirtiendo los minutos finales en uno de sus mayores enemigos, una tendencia que volvió a quedar al descubierto en su visita ",
-      "date": "Mon, 12 Oct 2026 19:51:18 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Julio Romero de Torres revive para la chavalería: así son los guiños al pintor de la exitosa Judeline en 'La falda'",
-      "link": "https://www.abc.es/espana/andalucia/cordoba/julio-romero-torres-revive-chavaleria-guinos-pintor-20261012194704-nts.html",
-      "desc": "Julio Romero de Torres es un pintor nunca suficientemente reconocido. Ahora, se abre una enorme ventana de oportunidad para que la chavalería lo conozca . Judeline, cantante gaditana lanzada al estrellato tras una colaboración con Karol G, ha hecho en la estét",
-      "date": "Mon, 12 Oct 2026 19:47:04 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Más de 28.000 cordobeses votarán por primera vez en unas generales el 29 de noviembre",
-      "link": "https://www.abc.es/espana/andalucia/cordoba/28000-cordobeses-votaran-primera-vez-generales-noviembre-20261012194354-nts.html",
-      "desc": "El colectivo de los nuevos votantes es especialmente interesante para los partidos cuando llega una cita con las urnas , como es el caso de los comicios del 29 de noviembre , en el que se elegirán los componentes de Congreso y Senado . El Instituto Nacional de",
-      "date": "Mon, 12 Oct 2026 19:43:54 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "El Gobierno estudiará si el fallo del Supremo es recurrible ante el Constitucional",
-      "link": "https://www.abc.es/espana/gobierno-estudiara-fallo-supremo-recurrible-ante-constitucional-20261012194100-nt.html",
-      "desc": "Si el ambiente de la precampaña electoral ya invadía de alguna manera todo el ambiente en la recepción que los Reyes ofrecen en el Palacio Real por la Fiesta Nacional, en esta ocasión hubo un añadido de especial relevancia. Sobre las 14.30 horas de la tarde es",
-      "date": "Mon, 12 Oct 2026 19:41:32 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "El PSOE de Ávila muestra su división a dos días de cerrar las listas electorales",
-      "link": "https://www.abc.es/espana/castilla-leon/psoe-avila-muestra-division-dos-dias-cerrar-20261012193718-nt.html",
-      "desc": "Corre el río revuelto en el PSOE de Ávila. A escasos dos días de cerrar las listas electorales de cara al 29N la división es más que evidente. Fuentes de las direcciones provincial y autonómica del PSOE atribuyen al senador Jesús Caro el movimiento crítico sur",
-      "date": "Mon, 12 Oct 2026 19:38:37 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Rechazo de Bruselas al recorte de Irlanda sobre el futuro presupuesto europeo",
-      "link": "https://www.lavanguardia.com/economia/20261012/11657261/rechazo-bruselas-recorte-irlanda-sobre-futuro-presupuesto-europeo.html",
-      "desc": "La mayoría europeísta de la Eurocámara avisa que votará en contra de un tijeretazo en las prioridades europeas",
-      "date": "12 Oct 2026 19:38:33 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "La Diputación, sobre el virulento incendio de una nave en Palma del Río: «En 2 ó 3 días, se extinguirá del todo»",
-      "link": "https://www.abc.es/espana/andalucia/cordoba/diputacion-sobre-virulento-incendio-nave-palma-rio-20261012193157-nts.html",
-      "desc": "El presidente de la Diputación de Córdoba, Salvador Fuentes, ha felicitado este lunes a los Bomberos de la institución provincial, al Infoca , a Protección Civil y a la Guardia Civil por lograr controlar el fuerte incendio declarado el domingo en una nave text",
-      "date": "Mon, 12 Oct 2026 19:31:57 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Ecocultura ratifica su condición de «cita de referencia» para la producción ecológica en España y Portugal",
-      "link": "https://www.abc.es/espana/castilla-leon/ecocultura-ratifica-condicion-cita-referencia-produccion-ecologica-20261012192254-nt.html",
-      "desc": "La XXII Feria Hispano-Lusa de Productos Ecológicos 'Ecocultura', celebrada este pasado fin de semana en el recinto ferial de Ifeza, en la capital zamorana, ratificó su condición de «cita de referencia» para la producción ecológica y de «importante punto de enc",
-      "date": "Mon, 12 Oct 2026 19:22:54 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Guadalupe realza el papel de España en EE.UU. en sus Jornadas de la Hispanidad",
-      "link": "https://www.abc.es/espana/extremadura/guadalupe-realza-papel-espana-eeuu-jornadas-hispanidad-20261012190545-nt.html",
-      "desc": "El Real Monasterio de Santa María de Guadalupe (Cáceres) ha acogido este puente las 97 Jornadas de la Hispanidad con las que este imponente santuario dedicado a la Patrona de Extremadura y Reina de las Españas realza la veneración por la Madre de Dios a ambos ",
-      "date": "Mon, 12 Oct 2026 19:05:45 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Cuatro de cada diez hombres sufren una pérdida importante de cabello a los 40 años",
-      "link": "https://www.abc.es/espana/castilla-la-mancha/toledo/cuatro-diez-hombres-sufren-perdida-importante-cabello-20261012190042-nt.html",
-      "desc": "Cuatro de cada diez hombres presentan algún grado de pérdida significativa de cabello al alcanzar los 40 años, una proporción que puede acercarse a la mitad en torno a los 50. La elevada incidencia de la alopecia androgenética, la forma más habitual de pérdida",
-      "date": "Mon, 12 Oct 2026 19:00:43 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Detenido en Santander un hombre reclamado por un juzgado de Ciudad Real",
-      "link": "https://www.abc.es/espana/castilla-la-mancha/detenido-santander-hombre-reclamado-juzgado-ciudad-real-20261012184616-nt.html",
-      "desc": "La Policía Local de Santander ha detenido a un hombre de 30 años sobre el que pesaba una orden de búsqueda, detención y personación dictada por el Juzgado de lo Penal número 1 de Ciudad Real. La detención se produjo poco antes de las 9horas del sábado en la ca",
-      "date": "Mon, 12 Oct 2026 18:46:16 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Muere un ciclista de un infarto en una carretera de Foz (Lugo)",
-      "link": "https://www.abc.es/espana/galicia/muere-ciclista-infarto-carretera-foz-lugo-20261012183550-nt.html",
-      "desc": "Un ciclista ha fallecido este lunes en Foz (Lugo) en una jornada en la que, además, ha habido varios heridos leves en accidentes de tráfico en distintos municipios de la comunidad gallega. Según recoge el 112 Galicia, a las 13.30 horas, se tuvo constancia, a t",
-      "date": "Mon, 12 Oct 2026 18:35:51 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Beatriz Jiménez renuncia a encabezar la lista del PP al Congreso por Cuenca el 29N",
-      "link": "https://www.abc.es/espana/castilla-la-mancha/beatriz-jimenez-renuncia-encabezar-lista-pp-congreso-20261012183231-nt.html",
-      "desc": "La presidenta del Grupo Municipal Popular en el Ayuntamiento de Cuenca, Beatriz Jiménez , no encabezará la candidatura del PP al Congreso de los Diputados por la provincia en las próximas elecciones generales del 29 de noviembre. Así lo ha anunciado la propia ",
-      "date": "Mon, 12 Oct 2026 18:32:31 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Cambios en los permisos de los funcionarios de la Junta de Andalucía para padres con hijos enfermos: la nueva regla para compartir el 100% de la jornada",
-      "link": "https://www.abc.es/espana/andalucia/cambios-permisos-funcionarios-junta-andalucia-padres-hijos-20261012183026-nts.html",
-      "desc": "Cuidar de un hijo con una enfermedad grave o en situación de gran dependencia requiere de un esfuerzo enorme que puede cambiar enormemente el día a día de cualquier familia. Y es que hasta hace muy poco, los permisos de trabajo para atender este tipo de situac",
-      "date": "Mon, 12 Oct 2026 18:30:27 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "A Festa do Marisco bate récords con más de 150.000 visitantes y 12.000 platos de pulpo vendidos",
-      "link": "https://www.abc.es/espana/galicia/festa-marisco-bate-records-150000-visitantes-12000-20261012182755-nt.html",
-      "desc": "La Festa do Marisco ha hecho historia con unas cifras de ventas que superan con creces los mejores registros obtenidos hasta la fecha. En su 63.ª edición se vendieron 215.273 tickets, generando unos ingresos de 1.441.075 euros ; una facturación inédita en este",
-      "date": "Mon, 12 Oct 2026 18:27:55 +0200",
       "source": "ABC",
       "color": "#c0392b",
       "feedId": "ABC",
