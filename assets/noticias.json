@@ -1,7 +1,137 @@
 {
-  "updated": "2026-10-13T22:13:06Z",
+  "updated": "2026-10-14T03:13:52Z",
   "count": 24,
   "items": [
+    {
+      "title": "Pardo de Vera señala a Jorge San José, el director de Recursos Humanos de Ineco en la contratación de Jésica",
+      "link": "https://www.abc.es/espana/pardo-vera-senala-jorge-san-jose-director-20261014013126-nt.html",
+      "desc": "La expresidenta de Adif investigada por la contratación de Jésica Rodríguez García en Ineco pide que se «profundice» en las personas que realizaron las entrevistas de trabajo a la amante del exministro José Luis Ábalos, que fichó como auxiliar administrativa p",
+      "date": "Wed, 14 Oct 2026 01:31:26 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Pardo de Vera, tras solicitar los gastos de Carnicero: «Me dijeron 'ten cuidado, puedes tener problemas, Isabel'»",
+      "link": "https://www.abc.es/espana/pardo-vera-cesaron-solicitar-gastos-carnicero-20261014013121-nt.html",
+      "desc": "Isabel Pardo de Vera (Lugo, 1975), solicitó y recopiló información sobre los gastos en viajes del número 3 de Vivienda, Iñaqui Carnicero, días antes de ser destituida por el Gobierno de Pedro Sánchez como secretaria de Estado de Transportes, antes de poder dar",
+      "date": "Wed, 14 Oct 2026 01:31:21 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "España interceptó órdenes de la Marina marroquí a pesqueros para que violasen aguas españolas",
+      "link": "https://www.abc.es/espana/espana-intercepto-ordenes-marina-marroqui-pesqueros-violasen-20261014012636-nt.html",
+      "desc": "La pátina de normalidad que el Gobierno intenta dar a la relación con Marruecos está cada vez más alejada de las informaciones que se van conociendo sobre los hechos que rodearon a la entrada masiva de inmigrantes en Ceuta los días 30 y 31 de julio, generando ",
+      "date": "Wed, 14 Oct 2026 01:26:36 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "El entorno del PSOE anima a nietos nacionalizados a recurrir la decisión del Supremo: «Os ayudaremos con lo que sea»",
+      "link": "https://www.abc.es/espana/entorno-psoe-anima-nietos-nacionalizados-recurrir-decision-20261014012325-nt.html",
+      "desc": "A pocas semanas de las elecciones generales del 29 de noviembre, convocadas de forma adelantada la semana pasada por parte de Pedro Sánchez, ha provocado un desajuste en los planes del Gobierno respecto a la posibilidad de votar por parte de los nietos del fra",
+      "date": "Wed, 14 Oct 2026 01:23:25 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Moncloa eleva el choque con el Supremo y le acusa de alentar la tesis del pucherazo con la 'ley de nietos'",
+      "link": "https://www.abc.es/espana/moncloa-eleva-choque-supremo-acusa-alentar-tesis-20261013012313-nt.html",
+      "desc": "El historial de choques entre el poder ejecutivo y judicial vuelve a engrosarse a cuenta de la 'ley de nietos'. La decisión del Tribunal Supremo de mantener la suspensión del censo ha generado un nuevo enfrentamiento, por lo que, en la práctica, implica que un",
+      "date": "Wed, 14 Oct 2026 01:23:13 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Conde-Pumpido no irá a un nuevo choque con el Supremo por la 'ley de nietos' antes del 29-N",
+      "link": "https://www.abc.es/espana/condepumpido-ira-nuevo-choque-supremo-ley-nietos-20261014012241-nt.html",
+      "desc": "La decisión del Tribunal Supremo de mantener la suspensión del censo de la 'ley nietos' ha caído como un jarro de agua fría en el Gobierno, que confiaba en que esa \"imposibilidad\" de ordenar los expedientes de nacionalización alegada por la Abogacía del Estado",
+      "date": "Wed, 14 Oct 2026 01:22:41 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "La inacción del Gobierno harta a la Policía: «Hay que investigar a los grupos radicales de Sol, han llegado más»",
+      "link": "https://www.abc.es/espana/madrid/inaccion-gobierno-colma-policia-vinieron-bukaneros-municipales-20261013012217-nt.html",
+      "desc": "Han pasado 18 días y la acampada en la Puerta del Sol no solo va a más en cuanto al número de tiendas, sino que está incrementándose el número de elementos radicales y su violencia, que poco o nada tienen que ver con el derecho a una vivienda digna. Este diari",
+      "date": "Wed, 14 Oct 2026 01:22:17 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "La 'fábrica de viviendas' prometida por Sánchez, en el limbo un año y medio después",
+      "link": "https://www.abc.es/espana/comunidad-valenciana/fabrica-viviendas-prometida-sanchez-limbo-ano-medio-20261014012104-nt.html",
+      "desc": "24 de abril de 2025. El presidente del Gobierno, Pedro Sánchez, anuncia el lanzamiento del PERTE de la Industrialización de la Vivienda con una inversión pública de 1.300 millones a lo largo de una década. Valencia acogerá la nueva Ciudad de la Industrializaci",
+      "date": "Wed, 14 Oct 2026 01:21:04 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Juegos, danza y cómics para llevar la Hispanidad a las aulas madrileñas",
+      "link": "https://www.abc.es/espana/madrid/juegos-danza-comics-llevar-hispanidad-aulas-madrilenas-20261013011259-nt.html",
+      "desc": "La Comunidad de Madrid ha trasladado la programación de Hispanidad 2026 a colegios e institutos con una propuesta que combina actividades culturales y materiales educativos para acercar a los alumnos la historia y las tradiciones de los países hispanohablantes",
+      "date": "Wed, 14 Oct 2026 01:12:59 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Un jardín pendiente en Cava Baja",
+      "link": "https://www.abc.es/espana/madrid/jardin-pendiente-cava-baja-20261013011248-nt.html",
+      "desc": "Asomado de reja a la Cava Baja hay un parque breve, recóndito y desatendido, alcalde, con aire de esos parientes lejanos a los que ya no visita nadie. El sitio es insólito, ahí en la vértebra del mejor Madrid, pero el sitio es un descuido, un largo descuido cl",
+      "date": "Wed, 14 Oct 2026 01:12:48 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Tabletas gigantes y planes personalizados para atender a personas con discapacidad intelectual en envejecimiento prematuro",
+      "link": "https://www.abc.es/espana/madrid/tabletas-gigantes-planes-personalizados-atender-personas-discapacidad-20261013011236-nt.html",
+      "desc": "Tabletas gigantes y con tecnología interactiva para estimular las capacidades cognitivas, planes de vida diseñados a medida y profesionales de referencia para cada residente. Son algunas de las novedades que la Comunidad de Madrid incorporará a la atención de ",
+      "date": "Wed, 14 Oct 2026 01:12:36 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Tudanca se impone entre las agrupaciones del PSOE de Burgos para ser el cabeza de lista al Senado",
+      "link": "https://www.abc.es/espana/castilla-leon/tudanca-impone-agrupaciones-psoe-burgos-cabeza-lista-20261013001314-nt.html",
+      "desc": "El exsecretario autonómico del PSOE y exsenador autonómico Luis Tudanca se ha impuesto este martes con holgura como candidato al Senado por la provincia de Burgos en las elecciones generales del 29 de noviembre en la votación de la Agrupación Municipal de la c",
+      "date": "Wed, 14 Oct 2026 00:13:14 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "El bulo como arma electoral",
+      "link": "https://www.lavanguardia.com/opinion/20261014/11658229/bulo-arma-electoral.html",
+      "desc": "La campaña del 29-N va a ser una de las más duras y sucias",
+      "date": "14 Oct 2026 00:05:00 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
     {
       "title": "UPL no concurrirá a las elecciones generales para centrar sus esfuerzos en las municipales de mayo",
       "link": "https://www.abc.es/espana/castilla-leon/upl-concurrira-elecciones-generales-centrar-esfuerzos-municipales-20261013234112-nt.html",
@@ -23,10 +153,30 @@
       "caso": "other"
     },
     {
+      "title": "Ser (y sentirse) imbatible",
+      "link": "https://www.lavanguardia.com/deportes/fc-barcelona/20261013/11658231/sentirse-imbatible.html",
+      "desc": "",
+      "date": "13 Oct 2026 23:28:03 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
+    {
       "title": "El Barça remonta en Estambul con un recital apabullante",
       "link": "https://www.lavanguardia.com/deportes/fc-barcelona/20261013/11658137/barca-remonta-estambul-recital-apabullante.html",
       "desc": "Lamine Yamal somete al Galatasaray tras el descanso con una exhibición de regates y asistencias",
       "date": "13 Oct 2026 22:58:32 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
+    {
+      "title": "Comer reivindica la alegría y la conciencia en la sexta edición de sus premios",
+      "link": "https://www.lavanguardia.com/local/barcelona/20261013/11658216/comer-reivindica-alegria-conciencia-sexta-edicion-premios.html",
+      "desc": "Carlo Petrini, impulsor del movimiento Slow food, y el repostero Jordi Roca recibieron los premios especiales de la noche",
+      "date": "13 Oct 2026 22:52:38 +0200",
       "source": "La Vanguardia",
       "color": "#8e44ad",
       "feedId": "LaVanguardia",
@@ -87,156 +237,6 @@
       "link": "https://www.lavanguardia.com/politica/20261013/11658182/feijoo-echa-cara-sanchez-acompane-reyes-ceuta.html",
       "desc": "“Yo no lo hubiera dejado solo”, ha asegurado desde un mitin preelectoral en Huesca",
       "date": "13 Oct 2026 20:35:57 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "Angélica Liddell: “Me tiraría sobre el público ahora mismo para que me descuartizara”",
-      "link": "https://www.lavanguardia.com/cultura/20261013/11658183/angelica-liddell-silk-road-biennal-pensament-muerte-gaijin.html",
-      "desc": "A partir de su nuevo libro, 'Silk Road', la actriz, dramaturga y escritora conversa con Luna Miguel sobre su trayectoria artística en el marco de la Biennal de Pensament",
-      "date": "13 Oct 2026 20:35:25 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "Ceuta, capital de españolidad y fervor Real",
-      "link": "https://www.abc.es/espana/ceuta-capital-espanolidad-fervor-real-20261013203421-nt.html",
-      "desc": "Hay jornadas en las que las calles de una ciudad no solo hablan, sino que proclaman su identidad con la fuerza de un acto de afirmación soberana. Ceuta vivió este 13 de octubre de 2026 una fecha escrita con letras de oro en los anales de su historia contemporá",
-      "date": "Tue, 13 Oct 2026 20:34:22 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "El PSOE acusa a Núñez de estar «poco preparado para la política» y le pide que estudie más",
-      "link": "https://www.abc.es/espana/castilla-la-mancha/toledo/psoe-acusa-nunez-estar-poco-preparado-politica-20261013201807-nt.html",
-      "desc": "El PSOE de Castilla-La Mancha ha acusado al presidente regional del PP, Paco Núñez, de carecer de argumentos y de una hoja de ruta para la comunidad autónoma. El secretario de Formación de los socialistas castellanomanchegos, Sergio García-Navas, ha asegurado ",
-      "date": "Tue, 13 Oct 2026 20:18:08 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "El PP de Córdoba empieza a perfilar sus listas para el 29-N con la aspiración del tercer escaño",
-      "link": "https://www.abc.es/espana/andalucia/cordoba/pp-cordoba-empieza-perfilar-listas-29n-aspiracion-20261013201259-nts.html",
-      "desc": "Todavía no se conocen los nombres, pero, probablemente, ya hay más de uno y de dos en cartera. En todo caso, el Partido Popular (PP) de Córdoba ha empezado este martes a perfilar sus listas de cara a las elecciones generales del 29 de noviembre. Aunque el prim",
-      "date": "Tue, 13 Oct 2026 20:12:59 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Kevin Medina apunta a estar un mes y medio de baja por una lesión muscular en el isquiosural",
-      "link": "https://www.abc.es/espana/andalucia/cordoba/cordoba-cf/kevin-medina-apunta-estar-mes-medio-baja-20261013200512-nts.html",
-      "desc": "Las malas noticias nunca llegan solas para el Córdoba CF . A la dolorosa derrota sufrida ante el Eldense (2-1) se suma ahora un nuevo contratiempo que vuelve a castigar a la plantilla de Iván Ania. Kevin Medina tendrá que permanecer alejado de los terrenos de ",
-      "date": "Tue, 13 Oct 2026 20:05:13 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "La memoria de Aurelio Teno volverá con un gran documental en Córdoba con su legado audiovisual",
-      "link": "https://www.abc.es/espana/andalucia/cordoba/memoria-aurelio-teno-volvera-gran-documental-cordoba-20261013200457-nts.html",
-      "desc": "Aurelio Teno (1927-2013) fue protagonista en la escultura y artes plásticas, pero también dejó un amplio legado documental y audiovisual que ahora llega a manos públicas para ordenarse y ponerse a disposición de todo el mundo. La familia acaba de entregarlo pa",
-      "date": "Tue, 13 Oct 2026 20:04:57 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Flora Córdoba 2026: así es la instalación de Taller Banegas en el patio del Museo Arqueológico de Córdoba",
-      "link": "https://www.abc.es/espana/andalucia/cordoba/flora-cordoba-2026-instalacion-taller-banegas-patio-20261013200446-nts.html",
-      "desc": "El estudio nacional Taller Banegas, fundado por el ciudadrealeño Alejandro Fernández Banegas, aporta la mirada española a la novena edición del festival 'Flora' desde el patio del Museo Arqueológico de Córdoba , donde presenta Interludio, una instalación que r",
-      "date": "Tue, 13 Oct 2026 20:04:46 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "El ciclo de Conciertos de Otoño, del Cabildo Catedral de Córdoba, arranca este viernes",
-      "link": "https://www.abc.es/espana/andalucia/cordoba/ciclo-conciertos-otono-cabildo-catedral-cordoba-arranca-20261013200343-nts.html",
-      "desc": "El Cabildo Catedral de Córdoba ha presentado este martes una nueva edición de su ciclo de Conciertos de Otoño , protagonizado por la Orquesta y el Coro de la institución capitular, que ofrecerán seis conciertos gratuitos, entre este viernes y el 19 de diciembr",
-      "date": "Tue, 13 Oct 2026 20:03:43 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Los hoteles de Córdoba saldan el puente del 12 de octubre con una ocupación del 88,5%",
-      "link": "https://www.abc.es/espana/andalucia/cordoba/hoteles-cordoba-saldan-puente-octubre-ocupacion-885-20261013200339-nts.html",
-      "desc": "Los establecimientos hoteleros de la provincia de Córdoba han alcanzado un grado de ocupación del 88,5% en el puente del 12 de octubre en la provincia de Córdoba , según el sondeo realizado por la Consejería de Turismo y que ha difundido este martes a los medi",
-      "date": "Tue, 13 Oct 2026 20:03:39 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "El cupón de la ONCE visibiliza a las mujeres rurales y su contribución al desarrollo del medio rural",
-      "link": "https://www.abc.es/espana/castilla-la-mancha/toledo/cupon-once-visibiliza-mujeres-rurales-contribucion-desarrollo-20261013194642-nt.html",
-      "desc": "El Día Internacional de las Mujeres Rurales protagoniza el cupón de la ONCE del jueves 15 de octubre, con cinco millones de ejemplares dedicados a reconocer la labor de las mujeres que viven y trabajan en el medio rural. La organización pone el foco en su cont",
-      "date": "Tue, 13 Oct 2026 19:46:43 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Feijóo eleva el tono: «Señor Sánchez: ¿dónde está el oro de Maduro? ¿Cuántas cajas fuertes hay como la de Zapatero?»",
-      "link": "https://www.abc.es/espana/aragon/feijoo-eleva-tono-senor-sanchez-oro-maduro-20261013194551-nt.html",
-      "desc": "La jornada ha sido intensa para Alberto Núñez Feijóo en tierras aragonesas. Antes, entrevista en 'esRadio' por la mañana. Ofrenda a la Virgen del Pilar y baño de masas en el corazón de Zaragoza, atestado de residentes y visitantes. Para finalizar con un mitin ",
-      "date": "Tue, 13 Oct 2026 19:45:52 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "zap"
-    },
-    {
-      "title": "El discurso íntegro de Don Felipe en Ceuta",
-      "link": "https://www.abc.es/espana/casa-real/discurso-integro-don-felipe-ceuta-20261013194325-nt.html",
-      "desc": "El Rey Felipe ha pronunciado sus primeras palabras en Ceuta tras un día intenso con varias visitas en la ciudad autónoma. Al final de su trayecto, en el Parador de Ceuta, se ha querido dirigir a los ciudadanos. Así ha sido su discurso íntegro : Queridos ceutíe",
-      "date": "Tue, 13 Oct 2026 19:43:52 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "El Rey pide en Ceuta que vuelvan «lo antes posible» a su país de origen quienes entraron irregularmente",
-      "link": "https://www.abc.es/espana/casa-real/rey-pide-ceuta-vuelvan-pais-origen-posible-20261013190013-nt.html",
-      "desc": "Hay discursos que marcan un reinado y hay momentos en los que la palabra del Rey adquiere la densidad de un acto supremo de afirmación de Estado. En el Parador de Ceuta, ante la representación viva de la sociedad civil caballa y como colofón a una jornada carg",
-      "date": "Tue, 13 Oct 2026 19:43:46 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Malestar en Moncloa con Robles por filtrar el altercado de la Armada marroquí",
-      "link": "https://www.abc.es/espana/malestar-moncloa-robles-filtrar-altercado-armada-marroqui-20261014194247-nt.html",
-      "desc": "Por tierra. Y también por mar. La entrada masiva de más de 80.000 personas en Ceuta los días 30 y 31 de julio no fue un hecho aislado. En paralelo también se produjo una incursión marítima de buques de guerra marroquíes que invadieron aguas españolas, coincidi",
-      "date": "Tue, 13 Oct 2026 19:42:47 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "El Rey exige “buena fe” a Marruecos y advierte que la soberanía española “no es negociable”",
-      "link": "https://www.lavanguardia.com/politica/20261013/11658141/rey-exige-buena-fe-marruecos-advierte-soberania-espanola-negociable.html",
-      "desc": "En su primera visita a Ceuta, los Reyes terminan el día con un homenaje a las víctimas del salto a la frontera del 30 y 31 de julio",
-      "date": "13 Oct 2026 19:41:45 +0200",
       "source": "La Vanguardia",
       "color": "#8e44ad",
       "feedId": "LaVanguardia",
