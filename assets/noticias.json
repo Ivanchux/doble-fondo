@@ -1,7 +1,127 @@
 {
-  "updated": "2026-10-15T19:39:00Z",
+  "updated": "2026-10-15T22:51:11Z",
   "count": 24,
   "items": [
+    {
+      "title": "La familia militar: el pilar invisible de la operatividad de las Fuerzas Armadas",
+      "link": "https://www.abc.es/espana/familia-militar-pilar-invisible-operatividad-fuerzas-armadas-20261016001113-nt.html",
+      "desc": "Las Fuerzas Armadas españolas no se sostienen únicamente sobre el compromiso individual de cada militar. Detrás de cada servicio, de cada misión en el exterior y de cada cambio de destino se encuentra una realidad que el Observatorio de la Vida Militar ha veni",
+      "date": "Fri, 16 Oct 2026 00:12:21 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Feijóo garantiza que revalorizará las pensiones y Sánchez le acusa de mentir",
+      "link": "https://www.lavanguardia.com/politica/20261016/11660046/feijoo-garantiza-revalorizara-pensiones-sanchez-le-acusa-mentir.html",
+      "desc": "El Gobierno apunta que podría aprobar el decreto en diciembre, ya en funciones",
+      "date": "16 Oct 2026 00:05:00 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
+    {
+      "title": "Trump deja caer a Ucrania",
+      "link": "https://www.lavanguardia.com/opinion/20261016/11660147/trump-deja-caer-ucrania.html",
+      "desc": "La única tabla de salvación que tiene Kyiv es Europa",
+      "date": "16 Oct 2026 00:05:00 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
+    {
+      "title": "Puigdemont confirma que no será jefe de la oposición en el Parlament cuando regrese a Catalunya",
+      "link": "https://www.lavanguardia.com/politica/20261015/11660068/puigdemont-confirma-sera-jefe-oposicion-parlament-regrese-catalunya.html",
+      "desc": "El expresidente catalán apunta que aunque tiene todos los datos, no conoce la realidad catalana de primera mano&nbsp;",
+      "date": "15 Oct 2026 23:00:00 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
+    {
+      "title": "Isabel Allende: “Una vez probé la IA y fue horrible; te sale con unas cursiladas que no te imaginas”",
+      "link": "https://www.lavanguardia.com/magazine/protagonistas/20261015/11659962/isabel-allende-vez-probe-ia-horrible-te-sale-cursiladas-te-imaginas.html",
+      "desc": "En una entrevista íntima y personal, la flamante ganadora del Premio Planeta valora que la realidad y la lectura le fastidiaron la vida. Le abrieron los ojos y le marcaron el camino",
+      "date": "15 Oct 2026 22:55:32 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
+    {
+      "title": "La gala del Planeta: más elegancia y menos brilli brilli",
+      "link": "https://www.lavanguardia.com/cultura/20261015/11660127/premio-planeta-gala-invitados.html",
+      "desc": "La presencia de los Reyes añadió un plus de glamour e institucionalidad a la velada",
+      "date": "15 Oct 2026 22:54:11 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
+    {
+      "title": "Isabel Allende gana el premio Planeta",
+      "link": "https://www.lavanguardia.com/cultura/20261015/11660064/isabel-allende-gana-premio-planeta-casa-de-los-espiritus-segunda-parte.html",
+      "desc": "El finalista es el escritor y guionista Sergio Hernández, muy ligado al mundo del cómic",
+      "date": "15 Oct 2026 22:53:45 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
+    {
+      "title": "El PSOE-A relega al ex número dos de Cerdán en Jaén con el argumento de la paridad",
+      "link": "https://www.abc.es/espana/andalucia/psoea-relega-numero-dos-cerdan-jaen-argumento-20261015224653-nts.html",
+      "desc": "La Comisión Ejecutiva Regional del PSOE de Andalucía ha aprobado las propuestas de candidaturas para las próximas elecciones generales del 29 de noviembre con una única novedad: un cambio en la lista al Congreso por Jaén, donde Juan Francisco Serrano, exadjunt",
+      "date": "Thu, 15 Oct 2026 22:48:04 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "lei"
+    },
+    {
+      "title": "Las medidas frente a los precios de la energía dividen a los líderes europeos",
+      "link": "https://www.lavanguardia.com/economia/20261015/11660126/medidas-frente-precios-energia-dividen-lideres-europeos.html",
+      "desc": "Italia, Grecia y Visegrado intentan aguar la ambición climática comunitaria",
+      "date": "15 Oct 2026 22:25:48 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
+    {
+      "title": "Una patrullera marroquí invade aguas españolas tras la visita real",
+      "link": "https://www.abc.es/espana/guardia-civil-detecta-entrada-patrullera-marroqui-aguas-20261015220839-nt.html",
+      "desc": "Una patrullera marroquí invadió este jueves durante horas aguas españolas en la costa de Ceuta, según informan fuentes policiales a ABC. Los agentes de la Guardia Civil que vigilan la seguridad del perímetro de la ciudad autónoma fueron los primeros que divisa",
+      "date": "Thu, 15 Oct 2026 22:08:39 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "El Rey destaca que la literatura “nos permite descubrir la diversidad”",
+      "link": "https://www.lavanguardia.com/cultura/20261015/11660121/rey-premio-planeta-gala.html",
+      "desc": "Felipe VI señala en su parlamento “las grandes aportaciones de la literatura a nuestra convivencia democrática”",
+      "date": "15 Oct 2026 21:51:20 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
+    {
+      "title": "Visitas de sus titulares a conventos y dos exposiciones, por el 50 aniversario de la hermandad del Císter de Córdoba",
+      "link": "https://www.abc.es/espana/andalucia/cordoba/semana-santa/visitas-titulares-conventos-dos-exposiciones-aniversario-hermandad-20261015214002-nts.html",
+      "desc": "Dos visitas de sus sagrados titulares a dos conventos ligados a su historia, dos exposiciones y una ambiciosa obra social aparecen en el calendario de celebraciones del 50 aniversario fundacional de la hermandad del Císter , repleto de cultos religiosos y cult",
+      "date": "Thu, 15 Oct 2026 21:40:02 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
     {
       "title": "Los acampados en la Puerta del Sol utilizan la fuente de la plaza como piscina y se bañan con colchonetas",
       "link": "https://www.abc.es/espana/madrid/acampados-puerta-sol-utilizan-fuente-plaza-piscina-20261015212040-nt.html",
@@ -117,126 +237,6 @@
       "link": "https://www.lavanguardia.com/sucesos/20261015/11660055/jueza-caso-andic-reactiva-declaraciones-citacion-30-nuevos-testigos.html",
       "desc": "Los tres albaceas de Isak Andic, José Crehueras, Toni Ruiz y Daniel López acudirán a los juzgados de Martorell la primera quincena de noviembre",
       "date": "15 Oct 2026 19:54:15 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "El 94% de los universitarios gallegos entra en una de sus tres primeras opciones de carrera",
-      "link": "https://www.abc.es/espana/galicia/universitarios-gallegos-entra-tres-primeras-opciones-carrera-20261015195406-nt.html",
-      "desc": "El Sistema Universitario de Galicia (SUG) ha cerrado el proceso de matrícula con 12.035 estudiantes en sus titulaciones de grado y con un elevado nivel de ajuste entre las preferencias del alumnado y las plazas obtenidas. Según los datos recopilados por la Com",
-      "date": "Thu, 15 Oct 2026 19:54:06 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "La mitad de las viviendas compradas durante la burbuja inmobiliaria se vendieron a pérdidas",
-      "link": "https://www.lavanguardia.com/economia/20261015/11660054/mitad-viviendas-compradas-burbuja-inmobiliaria-vendieron-perdidas.html",
-      "desc": "La nueva estadística de la Agencia Tributaria rompe con el mito de que la inversión inmobiliaria residencial siempre es rentable",
-      "date": "15 Oct 2026 19:53:59 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "La Carrera Solidaria contra la ELA bate récords en Toledo con 151.100 euros y más de 6.700 participantes",
-      "link": "https://www.abc.es/espana/castilla-la-mancha/toledo/carrera-solidaria-ela-bate-records-toledo-151100-20261015195123-nt.html",
-      "desc": "La Carrera Solidaria contra la ELA de Fundación Eurocaja Rural ha batido sus récords de participación y recaudación en su edición de 2026, con más de 6.700 participantes y un total de 151.100 euros destinados íntegramente a apoyar a las personas afectadas por ",
-      "date": "Thu, 15 Oct 2026 19:51:23 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "El juez que investiga presuntos amaños de obras públicas por parte de Cerdán pide sus agendas requisadas en el caso Leire",
-      "link": "https://www.abc.es/espana/juez-investiga-presuntos-amanos-obras-publicas-parte-20261015194934-nt.html",
-      "desc": "El juez de la Audiencia Nacional Ismael Moreno, que investiga si el exsecretario de Organización del PSOE, Santos Cerdán, se benefició económicamente del amaño de adjudicaciones de obra pública en el período en el que José Luis Ábalos estuvo al frente del Mini",
-      "date": "Thu, 15 Oct 2026 19:49:34 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "lei"
-    },
-    {
-      "title": "Núñez y Velázquez unen fuerzas para echar al presidente «más corrupto» de la democracia",
-      "link": "https://www.abc.es/espana/castilla-la-mancha/toledo/nunez-velazquez-unen-fuerzas-echar-presidente-corrupto-20261015194258-nt.html",
-      "desc": "El presidente del Partido Popular de Castilla-La Mancha, Paco Núñez, y el provincial en Toledo, Carlos Velázquez, han presidido en la tarde de este jueves el Comité Ejecutivo Provincial del PP, donde han aprobado su Comité de Campaña y han unido fuerzas de car",
-      "date": "Thu, 15 Oct 2026 19:42:58 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Una asociación fantasma cercana al PSOE se persona en el Supremo contra la suspensión del voto de los nietos",
-      "link": "https://www.abc.es/espana/asociacion-fantasma-cercana-psoe-persona-supremo-suspension-20261015193605-nt.html",
-      "desc": "Una asociación fantasma, sin personalidad jurídica y cercana al Partido Socialista, ha presentado alegaciones ante el Tribunal Supremo por la suspensión del voto de las personas que se han acogido a la nacionalización impulsada por el Gobierno de Pedro Sánchez",
-      "date": "Thu, 15 Oct 2026 19:36:05 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Incidentes en Pamplona en las protestas contra el acto de Vito Quiles",
-      "link": "https://www.abc.es/espana/incidentes-pamplona-protestas-acto-vito-quiles-20261015192853-nt.html",
-      "desc": "La Policía Nacional ha cargado este jueves contra un grupo de manifestantes que protestaban por un acto convocado por el activista Vito Quiles en la plaza Yamaguchi de Pamplona. Los agentes, junto con la Policía Foral, ha blindado la plaza, pero la convocatori",
-      "date": "Thu, 15 Oct 2026 19:28:53 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "La izquierda canaria concurrirá en el 29N bajo la marca 'Unidad del Pueblo Canario (UPC)'",
-      "link": "https://www.abc.es/espana/canarias/izquierda-canaria-concurrira-29n-bajo-marca-unidad-20261015192622-nt.html",
-      "desc": "Nueva Canarias, Podemos, Izquierda Unida y Sumar han firmado un acuerdo para concurrir conjuntamente a las elecciones generales del 29 de noviembre bajo la marca 'Unidad del Pueblo Canario (UPC)'. Las cuatro organizaciones han alcanzado un «acuerdo histórico»;",
-      "date": "Thu, 15 Oct 2026 19:26:22 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "La «oleada» de robos de cobre en aserraderos provoca pérdidas de 300.000 euros",
-      "link": "https://www.abc.es/espana/galicia/oleada-robos-cobre-aserraderos-provoca-perdidas-300000-20261015192029-nt.html",
-      "desc": "La Federación Empresarial de Aserraderos y Rematantes de Maderas de Galicia (Fearmaga) ha alertado este jueves de una «oleada de robos de cableado de cobre» en instalaciones industriales del sector, una situación que ya ha provocado pérdidas que la organizació",
-      "date": "Thu, 15 Oct 2026 19:20:30 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "El juego de sillas aboca a la izquierda a una nueva negociación sobre la bocina",
-      "link": "https://www.abc.es/espana/juego-sillas-aboca-izquierda-nueva-negociacion-sobre-20261015191759-nt.html",
-      "desc": "A nadie puede sorprenderle ya en este país que, a poco más de 24 horas del cierre del plazo para el registro de coaliciones que concurrirán a las generales del 29 de noviembre, los herederos de Sumar, Podemos y las izquierdas soberanistas sigan sin acuerdo par",
-      "date": "Thu, 15 Oct 2026 19:18:00 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Treviño aprueba una consulta no vinculante para integrar el enclave burgalés a Álava",
-      "link": "https://www.abc.es/espana/castilla-leon/trevino-aprueba-consulta-vinculante-integrar-enclave-burgales-20261015184845-nt.html",
-      "desc": "El Ayuntamiento de Condado de Treviño (Burgos) aprobaba este jueves por la tarde o una moción para solicitar al Consejo de Ministros su autorización para realizar una consulta no vinculante para la integración del enclave en Álava. El pleno daba el visto bueno",
-      "date": "Thu, 15 Oct 2026 19:08:04 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "El virus del Nilo Occidental se expande en Europa y ya ha causado 130 muertes este año",
-      "link": "https://www.lavanguardia.com/ciencia/20261015/11659959/virus-nilo-occidental-expande-europa-causado-130-muertes-ano.html",
-      "desc": "España es el cuarto país más afectado en número de casos y el quinto en muertes",
-      "date": "15 Oct 2026 17:40:40 +0200",
       "source": "La Vanguardia",
       "color": "#8e44ad",
       "feedId": "LaVanguardia",
