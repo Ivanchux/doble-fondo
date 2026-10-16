@@ -1,7 +1,57 @@
 {
-  "updated": "2026-10-15T22:51:11Z",
+  "updated": "2026-10-16T02:49:58Z",
   "count": 24,
   "items": [
+    {
+      "title": "La Policía descubre un cambio de patrón en Ceuta: el 70% de los marroquíes dice ser gay y pide asilo",
+      "link": "https://www.abc.es/espana/policia-detecta-cambio-patron-ceuta-marroquies-pide-20261016013955-nt.html",
+      "desc": "La Policía Nacional ha detectado un cambio de tendencia en las solicitudes de asilo de los inmigrantes que entraron en Ceuta durante la invasión de finales de julio. Fuentes policiales desvelan a ABC que un 70% de las peticiones argumentan que están sufriendo ",
+      "date": "Fri, 16 Oct 2026 01:39:55 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Koldo envió a Pardo de Vera el currículum de Jésica tras una fiesta de Ábalos con prostitutas en México",
+      "link": "https://www.abc.es/espana/koldo-envio-pardo-vera-curriculum-jessica-tras-20261016013901-nt.html",
+      "desc": "¿Por qué Koldo García envió el currículum de Jésica Rodríguez a la presidenta de Adif, Isabel Pardo de Vera, en lugar de a la presidenta de Ineco, donde fue colocada? La respuesta está en el viaje a México que realizó el entonces ministro de Transportes José L",
+      "date": "Fri, 16 Oct 2026 01:39:01 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "gen"
+    },
+    {
+      "title": "Feijóo lanzará este lunes un manifiesto por la «reconstrucción nacional»",
+      "link": "https://www.abc.es/espana/feijoo-lanzara-manifiesto-reconstruccion-nacional-lunes-lineas-20261016013633-nt.html",
+      "desc": "Justo quedarán seis semanas para las elecciones generales. El próximo lunes, Alberto Núñez Feijóo pretende lanzar un documento con los grandes principios rectores de su futuro Gobierno si finalmente llega a la Moncloa. El acto tendrá lugar en Madrid, según ha ",
+      "date": "Fri, 16 Oct 2026 01:36:33 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Cae el pirómano del soplete, un joven de 19 años adicto a quemar coches, papeleras y telefonillos",
+      "link": "https://www.abc.es/espana/madrid/cae-piromano-soplete-joven-anos-adicto-quemar-20261015013311-nt.html",
+      "desc": "Armado con un mechero y un aerosol a modo de soplete. Así, hasta calcinar 23 contenedores, 8 vehículos, la valla perimetral de un restaurante, varios buzones, telefonillos y una veintena de arbustos de un parque que tuvieron que ser segados. Incendios de muy d",
+      "date": "Fri, 16 Oct 2026 01:33:11 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Un pistolero mata al menos a cuatro personas, tres de ellas niños, en una escuela de primaria",
+      "link": "https://www.lavanguardia.com/internacional/20261016/11660337/cuatro-muertos-tres-ninos-tiroteo-escuela-primaria-oregon.html",
+      "desc": "El sospechoso fue abatido a tiros, según la policía de Bend y se desconoce si se encuentra incluido en el recuento",
+      "date": "16 Oct 2026 01:02:49 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
     {
       "title": "La familia militar: el pilar invisible de la operatividad de las Fuerzas Armadas",
       "link": "https://www.abc.es/espana/familia-militar-pilar-invisible-operatividad-fuerzas-armadas-20261016001113-nt.html",
@@ -35,7 +85,7 @@
     {
       "title": "Puigdemont confirma que no será jefe de la oposición en el Parlament cuando regrese a Catalunya",
       "link": "https://www.lavanguardia.com/politica/20261015/11660068/puigdemont-confirma-sera-jefe-oposicion-parlament-regrese-catalunya.html",
-      "desc": "El expresidente catalán apunta que aunque tiene todos los datos, no conoce la realidad catalana de primera mano&nbsp;",
+      "desc": "El expresidente catalán apunta que aunque tiene todos los datos, no conoce la realidad catalana de primera mano:&nbsp;“La Catalunya de la que me fui no existe y hay una Catalunya que no conozco”",
       "date": "15 Oct 2026 23:00:00 +0200",
       "source": "La Vanguardia",
       "color": "#8e44ad",
@@ -190,56 +240,6 @@
       "source": "ABC",
       "color": "#c0392b",
       "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "La Diputación de Córdoba acomete la renovación integral de la red de agua de la calle Horno de Puente Genil",
-      "link": "https://www.abc.es/espana/andalucia/cordoba/diputacion-cordoba-acomete-renovacion-integral-red-agua-20261015200223-nts.html",
-      "desc": "La Diputación de Córdoba, a través de la Empresa Provincial de Aguas de Córdoba S.A. ( Emproacsa ), ha informado de la apertura del proceso de licitación pública para la ejecución de las obras de renovación de las redes de abastecimiento y saneamiento en la Ca",
-      "date": "Thu, 15 Oct 2026 20:02:23 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "El Gobierno municipal de Córdoba se compromete a que el 50% de las nuevas viviendas sean de protección oficial",
-      "link": "https://www.abc.es/espana/andalucia/cordoba/pleno-vivienda-cordoba-acaba-reproches-acordado-cuatro-20261015200055-nts.html",
-      "desc": "El Pleno extraordinario sobre vivienda que ha celebrado este jueves el Ayuntamiento de Córdoba ha terminado con un acuerdo y cruce de reproches entre el Gobierno municipal y la oposición, pero también entre el portavoz popular y el socialista a cuenta del pape",
-      "date": "Thu, 15 Oct 2026 20:00:56 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Canarias propone al Gobierno exigir diez años de residencia en las islas para comprar vivienda",
-      "link": "https://www.abc.es/espana/canarias/canarias-propone-gobierno-exigir-diez-anos-residencia-20261015195834-nt.html",
-      "desc": "El Gobierno de Canarias ha remitido al Gobierno central una propuesta de real decreto ley en la que propone fijar un mínimo de diez años de residencia en las islas o acreditar 15 de forma interrumpida para comprar una vivienda. «Esto es un paso al frente con u",
-      "date": "Thu, 15 Oct 2026 19:58:35 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "El fiscal mantiene los 46 y 19 años de cárcel para los acusados por los dos asesinatos de Manzanares",
-      "link": "https://www.abc.es/espana/castilla-la-mancha/fiscal-mantiene-anos-carcel-acusados-dos-asesinatos-20261015195700-nt.html",
-      "desc": "La Fiscalía ha mantenido este jueves su petición de 46 años de prisión para Antonio Caba y 19 para Gaspar Rivera por las muertes de los empresarios Jesús María González-Borrajo, desaparecido en 2019, y Juan Miguel Isla, en 2022. Tras diez días de juicio en la ",
-      "date": "Thu, 15 Oct 2026 19:57:00 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "La jueza del caso Andic reactiva las declaraciones con la citación de 32 nuevos testigos",
-      "link": "https://www.lavanguardia.com/sucesos/20261015/11660055/jueza-caso-andic-reactiva-declaraciones-citacion-30-nuevos-testigos.html",
-      "desc": "Los tres albaceas de Isak Andic, José Crehueras, Toni Ruiz y Daniel López acudirán a los juzgados de Martorell la primera quincena de noviembre",
-      "date": "15 Oct 2026 19:54:15 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
       "caso": "other"
     }
   ]
