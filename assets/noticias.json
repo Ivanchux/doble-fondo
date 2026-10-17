@@ -1,7 +1,47 @@
 {
-  "updated": "2026-10-17T19:59:19Z",
+  "updated": "2026-10-17T22:06:56Z",
   "count": 24,
   "items": [
+    {
+      "title": "Controlado un incendio junto al vertedero de Cuenca que afecta a dos camiones",
+      "link": "https://www.abc.es/espana/castilla-la-mancha/controlado-incendio-junto-vertedero-cuenca-afecta-dos-20261017221752-nt.html",
+      "desc": "Los bomberos de Cuenca han dado por controlado un incendio declarado este sábado en el exterior de unas instalaciones próximas al vertedero de la capital, donde las llamas han afectado a un almacenamiento de contenedores antiguos y a dos camiones. Según han tr",
+      "date": "Sat, 17 Oct 2026 22:19:34 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "El paso de Adam por Andalucía provoca 155 indidencias, la mayoría en Almería",
+      "link": "https://www.abc.es/espana/andalucia/paso-adam-andalucia-provoca-155-indidencias-mayoria-20261017221304-nts.html",
+      "desc": "El paso de la borrasca Adam ha dejado un total de 155 incidencias en toda Andalucía durante la jornada de este sábado, de las que 121 se han registrado en Almería -casi el 80%-, donde permanecía activado el aviso rojo por estos fenómenos meteorológicos en los ",
+      "date": "Sat, 17 Oct 2026 22:13:04 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "2-1: Cruel derrota del Albacete en Gijón",
+      "link": "https://www.abc.es/espana/castilla-la-mancha/toledo/deportes/cruel-derrota-albacete-gijon-20261017220049-nt.html",
+      "desc": "El Albacete Balompié sufrió una cruel derrota en Gijón después de acariciar un punto e incluso tener opciones de llevarse la victoria en los últimos minutos. Un gol de Gelabert en el minuto 95 dio el 2-1 al conjunto asturiano y dejó al equipo manchego sin cono",
+      "date": "Sat, 17 Oct 2026 22:00:50 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Toledo se vuelca con su Nocturna: una noche de deporte y solidaridad en «la ciudad más bonita del mundo»",
+      "link": "https://www.abc.es/espana/castilla-la-mancha/toledo/toledo-vuelca-nocturna-noche-deporte-solidaridad-ciudad-20261017215806-nt.html",
+      "desc": "La Nocturna de Toledo volvió a convertir este sábado las calles del casco histórico en una gran fiesta del deporte, la emoción y la solidaridad. Más de 6.700 corredores participaron en la XIX edición de una prueba que, con el patrimonio iluminado como telón de",
+      "date": "Sat, 17 Oct 2026 21:58:06 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
     {
       "title": "Buscan a una persona en Cabrera de Mar (Barcelona) tras caer en una riera",
       "link": "https://www.abc.es/espana/cataluna/buscan-persona-cabrera-mar-barcelona-tras-caer-20261017214925-nt.html",
@@ -43,6 +83,36 @@
       "caso": "other"
     },
     {
+      "title": "Eric Garcia, Gerard Martín y Gabriel Jesus se retiran tocados antes del PSG y el clásico",
+      "link": "https://www.lavanguardia.com/deportes/20261017/11661642/eric-gerard-martin-gabriel-jesus-retiran-tocados-antes-psg-clasico.html",
+      "desc": "Los esfuerzos del Barça se centrarán en recuperarlos a tiempo de viajar este lunes a París para jugar en la Champions",
+      "date": "17 Oct 2026 21:30:29 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
+    {
+      "title": "Un grupo de manifestantes incendia el histórico ayuntamiento de Limoges",
+      "link": "https://www.lavanguardia.com/internacional/20261017/11661641/grupo-manifestantes-incendia-historico-ayuntamiento-limoges.html",
+      "desc": "Los edificios consistoriales de Lille y Marsella son también asaltados por grupos violentos que provocan destrozos",
+      "date": "17 Oct 2026 21:25:10 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
+    {
+      "title": "Las notas de los jugadores del Barça ante el Betis",
+      "link": "https://www.lavanguardia.com/deportes/fc-barcelona/20261017/11661597/betis-fc-barcelona-notas-liga-ea-sports.html",
+      "desc": "Lamine inauguró el marcador con una obra de arte, Olmo firmó grandes minutos y reapareció Raphinha",
+      "date": "17 Oct 2026 21:21:37 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
+    {
       "title": "Bellido, «satisfecho» con el acuerdo con Ferraz tras los cambios en las listas de Guadalajara",
       "link": "https://www.abc.es/espana/castilla-la-mancha/bellido-satisfecho-acuerdo-ferraz-tras-cambios-listas-20261017210626-nt.html",
       "desc": "El secretario general del PSOE de Guadalajara, Pablo Bellido, se ha mostrado «satisfecho» con el acuerdo alcanzado con la dirección federal del partido después de los cambios introducidos en las candidaturas de la provincia para las elecciones generales del pr",
@@ -73,20 +143,10 @@
       "caso": "other"
     },
     {
-      "title": "Las imágenes de las protestas en Francia",
+      "title": "El ayuntamiento de Limoges en llamas y otras imágenes de los disturbios en Francia",
       "link": "https://www.lavanguardia.com/internacional/20261017/11661587/imagenes-protestas-francia.html",
       "desc": "Los 'chalecos amarillos' reaparecieron en las movilizaciones por la carestía de la vida",
       "date": "17 Oct 2026 20:47:18 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "El Barça firma su novena maravilla para hacer historia en la Liga",
-      "link": "https://www.lavanguardia.com/deportes/fc-barcelona/20261017/11661576/resumen-betis-barca-record-lamine-yamal.html",
-      "desc": "Los de Flick salvan con nota su primer examen de la semana para mantener el pleno de victorias",
-      "date": "17 Oct 2026 20:36:49 +0200",
       "source": "La Vanguardia",
       "color": "#8e44ad",
       "feedId": "LaVanguardia",
@@ -180,66 +240,6 @@
       "source": "ABC",
       "color": "#c0392b",
       "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Picasso, más allá del Guernica: la exposición que muestra su faceta como activista político",
-      "link": "https://www.abc.es/espana/andalucia/malaga/picasso-alla-guernica-exposicion-muestra-faceta-activista-20261017195455-nts.html",
-      "desc": "Hay una obra que casi todo el mundo asocia con Picasso y la política. Pero antes de que el Guernica existiera, el pintor ya estaba haciendo otra cosa, burlarse de Franco. Esa es una de las claves de Picasso, la propaganda y activismo político . En torno a esta",
-      "date": "Sat, 17 Oct 2026 19:54:55 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "La borrasca Adam obliga a cortar tres carreteras en Almería y provoca más de cien incidencias",
-      "link": "https://www.abc.es/espana/andalucia/almeria/borrasca-adam-obliga-cortar-tres-carreteras-almeria-20261017195407-nts.html",
-      "desc": "La borrasca Adam está descargando con fuerza en Almería donde la lluvia ha obligado a cortar tres carreteras y se han detectado ya más de un centenar de incidencias. El municipio más afectado por el momento es El Ejido, que ha activado un plan de emergencia mu",
-      "date": "Sat, 17 Oct 2026 19:54:07 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Queda en libertad la detenida por una presunta agresión sexual a otra mujer en Lugo",
-      "link": "https://www.abc.es/espana/galicia/queda-libertad-mujer-detenida-presunta-agresion-sexual-20261017194456-nt.html",
-      "desc": "El juzgado número de 3 de Lugo, en funciones de guardia, ha decretado la puesta en libertad de la mujer que, supuestamente, agredió sexualmente a otra en un baño de un local de la ciudad de Lugo. Según han informado fuentes del Tribunal Superior de Xustiza de ",
-      "date": "Sat, 17 Oct 2026 19:44:56 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Un Cajasol Ángel Ximénez superlativo empata ante el portentoso Logroño (32-32)",
-      "link": "https://www.abc.es/espana/andalucia/cordoba/cajasol-angel-ximenez-superlativo-empata-ante-portentoso-20261017193608-nts.html",
-      "desc": "Empate con sabor agridulce del Cajasol Ángel Ximénez que hizo un partido enorme ante uno de los mejores equipos de la Liga Asobal como es Logroño La Rioja (32-32) pero que no fue suficiente para darle la victoria en un partido donde siempre fue por delante en ",
-      "date": "Sat, 17 Oct 2026 19:36:09 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "La Merced, la blanca belleza deslumbra con medio siglo de rezos en Córdoba",
-      "link": "https://www.abc.es/espana/andalucia/cordoba/semana-santa/merced-blanca-belleza-deslumbra-medio-siglo-rezos-20261017193320-nts.html",
-      "desc": "El cielo y Ella así lo quisieron. Santa María de la Merced brilló entre sus calles, en el barrio que la venera. No pudo ir por otros muchos lugares para que toda la ciudad disfrutase, lo que hizo que el Zumbacón se llenara con personas de toda Córdoba y pareci",
-      "date": "Sat, 17 Oct 2026 19:33:20 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Vox estudiará opciones para no hurtar senadores al PP en favor de la izquierda",
-      "link": "https://www.lavanguardia.com/politica/20261017/11661547/vox-estudiara-opciones-hurtar-senadores-pp-favor-izquierda.html",
-      "desc": "Abascal promete “altura de miras” ante la lista conjunta del PSOE y el Frente Amplio al Senado",
-      "date": "17 Oct 2026 19:14:57 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
       "caso": "other"
     }
   ]
