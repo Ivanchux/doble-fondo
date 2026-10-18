@@ -1,7 +1,67 @@
 {
-  "updated": "2026-10-18T19:59:14Z",
+  "updated": "2026-10-18T22:20:00Z",
   "count": 24,
   "items": [
+    {
+      "title": "Suspendido el acto de precampaña de Pedro Sánchez previsto en Toledo para este miércoles",
+      "link": "https://www.abc.es/espana/castilla-la-mancha/toledo/suspendido-acto-precampana-pedro-sanchez-previsto-toledo-20261018232159-nt.html",
+      "desc": "El acto de precampaña que Pedro Sánchez tenía previsto protagonizar este miércoles, 21 de octubre, en Toledo ha quedado suspendido. El encuentro con militantes y simpatizantes, que fue anunciado el pasado viernes en redes sociales por la Agrupación Local del P",
+      "date": "Sun, 18 Oct 2026 23:21:59 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Hallan muerta a una mujer que se bañaba en una playa de Valencia en pleno temporal",
+      "link": "https://www.abc.es/espana/comunidad-valenciana/hallan-muerta-mujer-banaba-playa-valencia-pleno-20261018224722-nt.html",
+      "desc": "Una mujer ha muerto este domingo tras lanzarse al mar para bañarse en una playa de la localidad valenciana de Sagunto, en plena alerta naranja por el temporal de fuertes lluvias que azota a esta zona del litoral mediterráneo. El cuerpo sin vida ha aparecido ho",
+      "date": "Sun, 18 Oct 2026 22:47:23 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "El enfermo verdadero",
+      "link": "https://www.abc.es/espana/castilla-leon/enfermo-verdadero-20261018222907-nt.html",
+      "desc": "Si, como estaba previsto, Renault reanuda hoy la fabricación en Palencia tras 18 días de «valle de producción» habrá concluido el primero de los periodos de regulación que se esperan en este mercado tan difícil. Dos países provocan nuestra preocupación: China,",
+      "date": "Sun, 18 Oct 2026 22:29:07 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Castrovido, la historia casi interminable de un embalse",
+      "link": "https://www.abc.es/espana/castilla-leon/castrovido-historia-interminable-embalse-20261014222842-nt.html",
+      "desc": "El proceso de puesta en carga del embalse de Castrovido, en Burgos , avanza gota a gota, una vez finalizadas las obras de emergencia en el vaso de la presa para garantizar la seguridad aguas abajo. Actualmente, y tras la reanudación del llenado progresivo hace",
+      "date": "Sun, 18 Oct 2026 22:28:42 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Una tromba de agua descarga 140 litros en hora y media sobre Urda y anega calles y casas",
+      "link": "https://www.abc.es/espana/castilla-la-mancha/toledo/pueblos/tromba-agua-descarga-140-litros-hora-media-20261018221650-nt.html",
+      "desc": "Casi 140 litros por metro cuadrado en apenas hora y media. Es la cantidad de agua que ha descargado esta tarde sobre Urda. Una tromba de agua de tal intensidad que el alcalde, Manuel Galán, asegura que no se recuerda en el municipio. El episodio superó ampliam",
+      "date": "Sun, 18 Oct 2026 22:16:50 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "La dana Adam mantiene en alerta roja a Valencia y Alicante al amenazar con otra tromba de agua",
+      "link": "https://www.abc.es/espana/comunidad-valenciana/dana-adam-mantiene-alerta-roja-valencia-alicante-20261018220213-nt.html",
+      "desc": "Lo peor todavía no ha pasado. Las fuertes lluvias que puede descargar la dana Adam mantienen en vilo a la costa mediterránea tras cobrarse una víctima mortal , una mujer que se bañaba en la playa valenciana de Sagunto pese al temporal. El litoral norte de Alic",
+      "date": "Sun, 18 Oct 2026 22:02:13 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
     {
       "title": "Amil López,  nutricionista: «Estamos sobrealimentados de consejos y desnutridos de sentido común»",
       "link": "https://www.abc.es/espana/galicia/amil-lopez-nutricionista-sobrealimentados-consejos-desnutridos-sentido-20261016214700-nt.html",
@@ -113,7 +173,7 @@
       "caso": "other"
     },
     {
-      "title": "El Real Madrid recibe al Sevilla obligado a ganar antes del Clásico (0-0)",
+      "title": "Mbappé marca de penalti el tercero del Real Madrid ante el Sevilla (3-0)",
       "link": "https://www.lavanguardia.com/deportes/futbol/20261018/11661945/real-madrid-sevilla-laliga-ea-sports-partido-futbol-hoy-en-directo.html",
       "desc": "",
       "date": "18 Oct 2026 19:26:33 +0200",
@@ -173,67 +233,7 @@
       "caso": "other"
     },
     {
-      "title": "«¿Coches eléctricos? Para mí, no posible»: el chascarrillo en un evento de Mustangs americanos",
-      "link": "https://www.abc.es/espana/comunidad-valenciana/alicante/coches-electricos-posible-chascarrillo-evento-mustangs-americanos-20261018183421-nt.html",
-      "desc": "Uno de los eventos consolidado para los amantes de los coches americanos de todas las épocas, el International American Cars Meeting, se ha vivido este fin de semana en Denia (Alicante) con más de un centenar de vehículos (120), exhibiciones de ruido de motore",
-      "date": "Sun, 18 Oct 2026 18:34:22 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Zamora se viste de verde y rosa con más de 7.000 participantes en la 'Carrera Mucho x Vivir'",
-      "link": "https://www.abc.es/espana/castilla-leon/zamora-viste-verde-rosa-7000-participantes-carrera-20261018182828-nt.html",
-      "desc": "Iberdrola y la Asociación Española Contra el Cáncer (AECC) han unido sus fuerzas un año más y una auténtica marea verde y rosa ha recorrido este domingo las calles más céntricas de Zamora durante la XVIII Carrera Mucho x Vivir 2026. Más de 7.000 personas parti",
-      "date": "Sun, 18 Oct 2026 18:28:29 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Palomarejos convierte la salud en una forma de hacer barrio",
-      "link": "https://www.abc.es/espana/castilla-la-mancha/toledo/palomarejos-convierte-salud-forma-barrio-20261018182428-nt.html",
-      "desc": "Palomarejos ha convertido durante una semana la promoción de hábitos saludables en una forma de hacer barrio en Toledo. Su centro de salud, en colaboración con la Mesa de Salud, ha organizado la primera Semana de la Salud bajo el lema 'Cuidarnos es también hac",
-      "date": "Sun, 18 Oct 2026 18:24:29 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Los aladros",
-      "link": "https://www.abc.es/espana/galicia/aladros-20261018182032-nt.html",
-      "desc": "Diputados y senadores a los que el acta les cayó del cielo en medio de un diluvio de mierda, parlamentarios cuneros, paracaidistas ajenos al distrito y, lo que es peor, hostiles al trabajo, manga de ineptos, pelotón de vividores, caterva de parásitos: por esos",
-      "date": "Sun, 18 Oct 2026 18:20:32 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Consuegra celebra la Fiesta de la Rosa del Azafrán con música, tradición y folclore manchego",
-      "link": "https://www.abc.es/espana/castilla-la-mancha/toledo/consuegra-celebra-fiesta-rosa-azafran-musica-tradicion-20261018181924-nt.html",
-      "desc": "Consuegra ha dado comienzo a la LXIV edición de la Fiesta de la Rosa del Azafrán , declarada de Interés Turístico Regional, con un fin de semana dedicado a la cultura manchega, la música tradicional y las costumbres populares. La programación arrancó el sábado",
-      "date": "Sun, 18 Oct 2026 18:19:25 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Luto en la escena vallisoletana por la muerte del actor Javier Semprún, uno de los fundadores de Teatro Corsario",
-      "link": "https://www.abc.es/espana/castilla-leon/fallece-actor-vallisoletano-javier-semprun-fundadores-teatro-20261018181917-nt.html",
-      "desc": "El actor Javier Semprún (Valladolid, 1952) ha fallecido este domingo en su ciudad natal, según han confirmado desde Teatro Corsario, la compañía que fundó en 1982 junto a Fernando Urdiales, Rosa Manzano y Luis Miguel García. Uno más actores más reconocidos en ",
-      "date": "Sun, 18 Oct 2026 18:19:18 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Temporal en Catalunya, Valencia y Baleares, última hora en directo | Alerta roja por lluvias, clases suspendidas y 19 comarcas catalanas en riesgo",
+      "title": "Temporal en Catalunya, Valencia y Baleares, última hora | Una mujer muere en Cabrera de Mar y hallan otro cuerpo en Sagunto: inundaciones y alertas por lluvias para el lunes",
       "link": "https://www.lavanguardia.com/vida/20261018/11661863/lluvias-torrenciales-temporal-dana-catalunya-valencia-baleares-ultima-hora-hoy-en-directo.html",
       "desc": "Adif suspende la circulación ferroviaria en varios tramos de la Comunitat Valenciana y Protección Civil envía nuevos mensajes Es-Alert a Mallorca, Ibiza y Formentera ante el riesgo de inundaciones",
       "date": "18 Oct 2026 14:43:37 +0200",
