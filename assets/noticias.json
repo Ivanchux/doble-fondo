@@ -1,7 +1,157 @@
 {
-  "updated": "2026-10-18T22:20:00Z",
+  "updated": "2026-10-19T02:56:06Z",
   "count": 24,
   "items": [
+    {
+      "title": "Currículo Colau para la izquierda populista",
+      "link": "https://www.abc.es/espana/cataluna/curriculo-colau-izquierda-populista-20261019021849-nt.html",
+      "desc": "Cuando Ada Colau dejó la alcaldía proclamó que su obra había sido más valorada fuera que en la desagradecida Barcelona. Cabía inferir que, cual expresidente Obama, no daría abasto en impartir charlas espléndidamente remuneradas. Nada de eso ocurrió. La activis",
+      "date": "Mon, 19 Oct 2026 02:18:49 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "La Ciudad de la Justicia comienza a alzarse en Valdebebas tras mover 1,5 millones de toneladas de tierra",
+      "link": "https://www.abc.es/espana/madrid/ciudad-justicia-comienza-alzarse-valdebebas-tras-mover-20261016020715-nt.html",
+      "desc": "Observar el movimiento coordinado de 19 grúas de construcción, todas a la vez, puede llegar a hipnotizar. Es el resultado de un trabajo de ingeniería de máxima precisión, que hace posible que el macroproyecto de la Ciudad de Justicia avance a velocidad de cruc",
+      "date": "Mon, 19 Oct 2026 02:07:15 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "756 altos cargos y 959 asesores a dedo: la herencia que deja Sánchez si sale del Gobierno",
+      "link": "https://www.abc.es/espana/756-altos-cargos-959-asesores-dedo-herencia-20261016014144-nt.html",
+      "desc": "Las elecciones generales del próximo 29 de noviembre someterán a escrutinio no solo un proyecto político, sino la mayor estructura burocrática y de libre designación de la historia de la democracia. Con las encuestas anticipando un cambio de ciclo - el último ",
+      "date": "Mon, 19 Oct 2026 01:41:44 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Génova desarrolla un sistema paralelo de recuento de votos para las mesas electorales",
+      "link": "https://www.abc.es/espana/genova-desarrolla-sistema-paralelo-recuento-votos-mesas-20261019014048-nt.html",
+      "desc": "El PP ha desarrollado una aplicación móvil propia destinada a conseguir un recuento más ágil en la noche electoral del 29 de noviembre. La iniciativa salió hace meses del área de Organización –dependiente a su vez de la secretaría general de Miguel Tellado– y ",
+      "date": "Mon, 19 Oct 2026 01:40:48 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Fieles a Ortuzar ponen contra las cuerdas al PNV de Esteban en plena precampaña",
+      "link": "https://www.abc.es/espana/pais-vasco/fieles-ortuzar-ponen-cuerdas-pnv-esteban-plena-20261019013232-nt.html",
+      "desc": "La crisis interna abierta hace una semana en el PNV amenaza con enviar al traste los planes de Aitor Esteban de cara a las elecciones del 29 de noviembre. El líder del Euzkadi Buru Batzar (EBB, ejecutiva del PNV) quiere presentar a su partido como garante de l",
+      "date": "Mon, 19 Oct 2026 01:32:32 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "De la inmigración a las redes sociales o la diplomacia: el decálogo del ataque híbrido de Marruecos a España",
+      "link": "https://www.abc.es/espana/inmigracion-redes-sociales-diplomacia-decalogo-ataque-hibrido-20261019013220-nt.html",
+      "desc": "El uso de la inmigración como instrumento de presión, la intrusión de fragatas en aguas de soberanía española, las campañas en redes sociales o el despliegue de una diplomacia activa. Todas ellas son herramientas que los expertos enmarcan dentro de una estrate",
+      "date": "Mon, 19 Oct 2026 01:32:20 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Precariedad informática en Exteriores: volcado manual en Excel ante el bloqueo de los 163.000 votos de la 'ley de nietos'",
+      "link": "https://www.abc.es/espana/precariedad-informatica-exteriores-volcado-manual-excel-ante-20261019013214-nt.html",
+      "desc": "El procedimiento para determinar quiénes pueden votar tras la aplicación de la 'ley de nietos' ha derivado en un embotellamiento tecnológico en el Ministerio de Asuntos Exteriores, según informan a ABC fuentes conocedoras del proceso administrativo consular. L",
+      "date": "Mon, 19 Oct 2026 01:32:14 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Vox convierte sus alianzas internacionales en una de sus principales bazas electorales",
+      "link": "https://www.abc.es/espana/vox-convierte-alianzas-internacionales-principales-bazas-electorales-20261018013208-nt.html",
+      "desc": "Una de las principales bazas electorales de Vox para los comicios del próximo 29 de noviembre se encuentra fuera de España . Desde hace años, Santiago Abascal ha tejido una red de alianzas con el objetivo de auparle en el panorama internacional cuando se diese",
+      "date": "Mon, 19 Oct 2026 01:32:08 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "La madre de un intermediario de los Charlines lanzó 106.000 euros por la ventana durante un registro",
+      "link": "https://www.abc.es/espana/galicia/madre-intermediario-charlines-lanzo-106000-euros-ventana-20261018012832-nt.html",
+      "desc": "Lo detuvieron de madrugada en su piso y, tras registrarlo, lo condujeron al domicilio de su madre, también en Vilagarcía de Arousa (Pontevedra). Allí, los agentes le preguntaron si quería entregar alguna cosa relacionada con el tráfico de drogas. Y él contestó",
+      "date": "Mon, 19 Oct 2026 01:28:32 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Vox Madrid cierra filas y confía en que una derrota de Sánchez el 29N quite fuerza a Ayuso",
+      "link": "https://www.abc.es/espana/madrid/vox-madrid-cierra-filas-confia-derrota-sanchez-20261017012102-nt.html",
+      "desc": "Vox Madrid se ha reunido este fin de semana en San Lorenzo de El Escorial para conjurarse y definir su estrategia en los meses clave que se avecinan, tanto en el conjunto de España como en la Comunidad de Madrid. La cita ha servido para impulsar internamente a",
+      "date": "Mon, 19 Oct 2026 01:21:02 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Desbloqueada la reconstrucción la Colonia Experimental, las chabolas verticales de Villaverde",
+      "link": "https://www.abc.es/espana/madrid/desbloqueada-reconstruccion-colonia-experimental-chabolas-verticales-villaverde-20261018012035-nt.html",
+      "desc": "Después de más de dos décadas de lucha, un total de 36 familias de la Colonia Experimental de Villaverde vivirán, esperan, sus últimas Navidades en unas infraviviendas que, entre fallos estructurales y humedades apenas se tienen en pie. El Consejo de Gobierno ",
+      "date": "Mon, 19 Oct 2026 01:20:35 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "La instalación de cajeros en los pueblos pequeños movilizará 30 millones al año, la mitad para el comercio local",
+      "link": "https://www.abc.es/espana/madrid/cajeros-pueblos-20261016012019-nt.html",
+      "desc": "Los pueblos de la Comunidad de Madrid cada vez están más vivos y, a partir de ahora, los más pequeños multiplicarán su actividad. Al menos, sus habitantes podrán disponer de dinero contante y sonante cuando lo necesiten, algo que parece muy básico pero que pue",
+      "date": "Mon, 19 Oct 2026 01:20:19 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "La Comunidad de Madrid lleva a Washington una exposición sobre las víctimas de ETA",
+      "link": "https://www.abc.es/espana/madrid/comunidad-madrid-lleva-washington-exposicion-sobre-victimas-20261016011939-nt.html",
+      "desc": "El Gobierno de Isabel Díaz Ayuso quiere llevar la memoria de las víctimas del terrorismo ETA fuera de España, para que se conozca su historia más allá de nuestras fronteras y del océano Atlántico. El próximo año 2027 será clave para las víctimas, tanto por el ",
+      "date": "Mon, 19 Oct 2026 01:19:39 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Feijóo marca Catalunya como un territorio clave para llegar a la Moncloa tras las elecciones del 29-N",
+      "link": "https://www.lavanguardia.com/politica/20261019/11662138/feijoo-marca-catalunya-territorio-clave-llegar-moncloa-elecciones-29-n.html",
+      "desc": "El líder del PP promete en el primer mitin en Barcelona una nueva ley contra las ocupaciones de la mano de Albiol",
+      "date": "19 Oct 2026 00:05:00 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
+    {
+      "title": "La sociedad de las alertas",
+      "link": "https://www.lavanguardia.com/opinion/20261019/11662130/sociedad-alertas.html",
+      "desc": "Pese a las críticas, el ES-Alert se ha convertido en una herramienta muy útil",
+      "date": "19 Oct 2026 00:05:00 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
     {
       "title": "Suspendido el acto de precampaña de Pedro Sánchez previsto en Toledo para este miércoles",
       "link": "https://www.abc.es/espana/castilla-la-mancha/toledo/suspendido-acto-precampana-pedro-sanchez-previsto-toledo-20261018232159-nt.html",
@@ -10,6 +160,26 @@
       "source": "ABC",
       "color": "#c0392b",
       "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Rescatan el cadáver de un mujer que se bañaba en la playa de Sagunt en plena alerta naranja",
+      "link": "https://www.lavanguardia.com/local/valencia/20261018/11662171/rescatan-cadaver-mujer-banaba-playa-sagunto-plena-alerta-naranja.html",
+      "desc": "La víctima estaba en compañía de un hombre que la perdió de vista y alertó a los servicios de emergencia",
+      "date": "18 Oct 2026 23:14:52 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
+    {
+      "title": "El Madrid de Güler y Diomande golea con viento a favor antes del clásico",
+      "link": "https://www.lavanguardia.com/deportes/real-madrid/20261018/11662169/madrid-gueler-diomande-golea-viento-favor-clasico.html",
+      "desc": "Dos goles de Mbappé y otros dos del turco y el marfileño liquidan a un Sevilla que reclamó dos expulsiones el día que la grada de animación cargó contra Javier Tebas",
+      "date": "18 Oct 2026 23:06:26 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
       "caso": "other"
     },
     {
@@ -70,176 +240,6 @@
       "source": "ABC",
       "color": "#c0392b",
       "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "La borrasca Adam golpea Andalucía y deja más de 600 incidencias",
-      "link": "https://www.abc.es/espana/andalucia/borrasca-adam-golpea-andalucia-20261018205916-nts.html",
-      "desc": "La borrasca Adam ha provocado numerosas incidencias en Andalucía durante el fin de semana, y se ha mostrado especialmente virulenta este domingo. El temporal de lluvias y tormentas ha azotado a todas las provincias. Hasta el momento ha motivado un total de 579",
-      "date": "Sun, 18 Oct 2026 21:08:34 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "El diseñador toledano Félix Ramiro lleva la sastrería española a la pasarela de Chicago",
-      "link": "https://www.abc.es/espana/castilla-la-mancha/toledo/disenador-toledano-felix-ramiro-lleva-sastreria-espanola-20261018210050-nt.html",
-      "desc": "El diseñador toledano Félix Ramiro ha llevado su sastrería hasta Estados Unidos con la presentación de 'Majestic' en el World Fashion Festival de Chicago. La firma española ha participado como representante de la moda nacional en una cita internacional que reú",
-      "date": "Sun, 18 Oct 2026 21:00:50 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "El Córdoba CF vive su particular 'deja vu' tras diez jornadas con el gol como aliado y la defensa como lastre",
-      "link": "https://www.abc.es/espana/andalucia/cordoba/cordoba-cf/cordoba-vive-particular-deja-tras-diez-jornadas-20261018202627-nts.html",
-      "desc": "El Córdoba CF vive su particular 'deja vu' tras alcanzar las diez primeras jornadas de Segunda División, es decir, alrededor del primer cuarto de competición. Los pupilos de Iván Ania acumulan doce puntos y presentan una cosecha prácticamente idéntica a las de",
-      "date": "Sun, 18 Oct 2026 20:26:27 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "La semana arrancará en Córdoba con lluvias y alerta amarilla pero hará buen tiempo para los peroles de San Rafael",
-      "link": "https://www.abc.es/espana/andalucia/cordoba/semana-arrancara-cordoba-lluvias-alerta-amarilla-hara-20261018202015-nts.html",
-      "desc": "La semana que va a comenzar arrancará , como el sábado y el domingo, con previsión de lluvias en la ciudad de Córdoba y alerta amarilla por precipitaciones y tormentas. Eso sí, el buen tiempo se irá abriendo paso a medida que avance la semana. Según las predic",
-      "date": "Sun, 18 Oct 2026 20:20:16 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "El cirujano que desarrolló la técnica con la que operaron al Papa reivindica la sanidad pública en el podcast de Rueda",
-      "link": "https://www.abc.es/espana/galicia/cirujano-desarrollo-tecnica-operaron-papa-reivindica-sanidad-20261018201754-nt.html",
-      "desc": "El presidente de la Xunta, Alfonso Rueda, ha conversado con el cirujano coruñés Diego González Rivas en el cuarto episodio de su podcast Galicia Calidade. Abordaron cuestiones como la creación de su técnica mínimamente invasiva, conocida como Uniportal VATS, q",
-      "date": "Sun, 18 Oct 2026 20:17:54 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "El comercio y la hostelería de Córdoba reverdecen con Flora: «Se ha notado bastante»",
-      "link": "https://www.abc.es/espana/andalucia/cordoba/festival-flora-notado-bastante-deseado-impulso-turismo-20261019201631-nts.html",
-      "desc": "En su origen el Ayuntamiento de Córdoba lo vio como una oportunidad para que no sólo su mes por excelencia, el Mayo Festivo, resultara atractivo al turista. Aunque la ciudad alcanza su esplendor en la primavera, tiene mucho que ofrecer durante el resto del año",
-      "date": "Sun, 18 Oct 2026 20:16:31 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Una ola de violencia juvenil sacude el centro de Milán",
-      "link": "https://www.lavanguardia.com/internacional/20261018/11662126/ola-violencia-juvenil-sacude-centro-milan.html",
-      "desc": "El 80% de los 160 detenidos por los saqueos son menores de edad y carecen de vínculos políticos",
-      "date": "18 Oct 2026 20:07:05 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "La Sociedad Toledana de Estudios Heráldicos reclama voz en las decisiones sobre patrimonio",
-      "link": "https://www.abc.es/espana/castilla-la-mancha/toledo/sociedad-toledana-estudios-heraldicos-reclama-voz-decisiones-20261018200638-nt.html",
-      "desc": "La Sociedad Toledana de Estudios Heráldicos y Genealógicos (STEHG) ha reivindicado el papel de las instituciones culturales en las decisiones que afectan al patrimonio y al futuro de Toledo. La entidad ha aprovechado la apertura del curso académico 2026-2027 p",
-      "date": "Sun, 18 Oct 2026 20:06:38 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "La dana obliga a suspender clases en Mallorca, Eivissa y Formentera y moviliza a la UME",
-      "link": "https://www.lavanguardia.com/vida/20261018/11662117/dana-obliga-suspender-clases-mallorca-eivissa-formentera-moviliza-ume.html",
-      "desc": "El Gobierno envía un Es-Alert a la poblacion y le pide que permanezca en sus casas.",
-      "date": "18 Oct 2026 19:52:51 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "0-0: Meritorio y sufrido empate del Talavera en Soria",
-      "link": "https://www.abc.es/espana/castilla-la-mancha/toledo/talavera/meritorio-sufrido-empate-talavera-soria-20261018193917-nt.html",
-      "desc": "El encuentro comenzó con una buena ocasión para el Numancia tras un centro lateral desde la izquierda que no supo embocar en gol Pablo en buena posición. La réplica tajaverana llegó con un fuerte disparo desde la frontal a cargo de Hugo Gil que obligó a una ap",
-      "date": "Sun, 18 Oct 2026 19:39:17 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Mbappé marca de penalti el tercero del Real Madrid ante el Sevilla (3-0)",
-      "link": "https://www.lavanguardia.com/deportes/futbol/20261018/11661945/real-madrid-sevilla-laliga-ea-sports-partido-futbol-hoy-en-directo.html",
-      "desc": "",
-      "date": "18 Oct 2026 19:26:33 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "Toledo, siete órganos y una última batalla",
-      "link": "https://www.abc.es/espana/castilla-la-mancha/toledo/toledo-siete-organos-ultima-batalla-20261018192612-nt.html",
-      "desc": "Toledo, 17 de octubre de 2026. Catedral Primada de Toledo. Festival de Música El Greco en Toledo. XXXII Batalla de Órganos: «La Catedral de Santa María de Toledo». Obras de Jusepe Ximénez, Andrea Bonelli, Vincenzo Trofeo, Georg Friedrich Händel, Joan Baptista ",
-      "date": "Sun, 18 Oct 2026 19:26:12 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "La Plataforma de Afectados por la Ocupación denuncia los «cinco años de silencio» del Gobierno",
-      "link": "https://www.abc.es/espana/andalucia/plataforma-afectados-ocupacion-denuncia-cinco-anos-silencio-20261018191913-nts.html",
-      "desc": "La Plataforma de Afectados por la Ocupación vuelve a alzar la voz para denunciar el «cordón sanitario» y el ninguneo sistemático al que el Gobierno ha sometido a las miles de familias afectadas por la ocupación e inquiocupación en España. El colectivo acumula ",
-      "date": "Sun, 18 Oct 2026 19:20:37 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Piden cuatro años de cárcel para dos acusados de vender cocaína en Albacete",
-      "link": "https://www.abc.es/espana/castilla-la-mancha/toledo/piden-cuatro-anos-carcel-dos-acusados-vender-20261018191054-nt.html",
-      "desc": "La Audiencia Provincial de Albacete juzgará este martes, 20 de octubre, a dos hombres acusados de un delito de tráfico de drogas por unos hechos ocurridos en agosto de 2025. La Fiscalía solicita para cada uno de ellos cuatro años de prisión y una multa de 15.0",
-      "date": "Sun, 18 Oct 2026 19:10:54 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Aviso naranja por tormentas en Almería y amarillo en toda Andalucía salvo Huelva",
-      "link": "https://www.abc.es/espana/andalucia/aviso-naranja-tormentas-almeria-amarillo-andalucia-salvo-20261018190654-nts.html",
-      "desc": "La Agencia Estatal de Meteorología (Aemet) ha activado para la jornada de este lunes, 19 de octubre, el aviso naranja por fuertes lluvias y tormentas en la provincia de Almería, donde se esperan acumulaciones de agua de 50 litros por metro cuadrado en una hora",
-      "date": "Sun, 18 Oct 2026 19:06:54 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "El SIT revalida su mayoría en Stellantis Vigo con 21 de los 33 delegados del comité de empresa",
-      "link": "https://www.abc.es/espana/galicia/sit-revalida-mayoria-stellantis-vigo-delegados-comite-20261018184027-nt.html",
-      "desc": "El Sindicato Independiente de Trabajadores (SIT-FSI) ha revalidado su mayoría en el comité de empresa de Stellantis en las últimas elecciones sindicales, celebradas este sábado, con el 61,12 % de los votos, que se traducen en 21 de los 33 delegados que lo conf",
-      "date": "Sun, 18 Oct 2026 18:40:27 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Temporal en Catalunya, Valencia y Baleares, última hora | Una mujer muere en Cabrera de Mar y hallan otro cuerpo en Sagunto: inundaciones y alertas por lluvias para el lunes",
-      "link": "https://www.lavanguardia.com/vida/20261018/11661863/lluvias-torrenciales-temporal-dana-catalunya-valencia-baleares-ultima-hora-hoy-en-directo.html",
-      "desc": "Adif suspende la circulación ferroviaria en varios tramos de la Comunitat Valenciana y Protección Civil envía nuevos mensajes Es-Alert a Mallorca, Ibiza y Formentera ante el riesgo de inundaciones",
-      "date": "18 Oct 2026 14:43:37 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
       "caso": "other"
     }
   ]
