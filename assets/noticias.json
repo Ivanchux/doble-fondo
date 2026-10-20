@@ -1,7 +1,157 @@
 {
-  "updated": "2026-10-19T21:56:08Z",
+  "updated": "2026-10-20T00:53:46Z",
   "count": 24,
   "items": [
+    {
+      "title": "El juez Pedraz retrasa la declaración del líder de la trama del fuel al 3 de diciembre, tras las elecciones generales",
+      "link": "https://www.abc.es/espana/juez-pedraz-retrasa-declaracion-lider-trama-fuel-20261020014958-nt.html",
+      "desc": "El juez que instruye la causa de los hidrocarburos en la Audiencia Nacional, Santiago Pedraz, ha fijado la declaración del presunto líder de la trama del fuel, Claudio Rivas , para el próximo 3 de diciembre , según adelantan fuentes judiciales al diario ABC. E",
+      "date": "Tue, 20 Oct 2026 01:49:58 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "lei"
+    },
+    {
+      "title": "El precedente del amparo 'preventivo' del Defensor del Pueblo: fue en 1984, y se retiró al personarse los afectados",
+      "link": "https://www.abc.es/espana/precedente-historico-amparo-defensor-pueblo-1984-retiro-20261019013330-nt.html",
+      "desc": "El recurso de amparo del Defensor del Pueblo ante el Tribunal Constitucional cuenta con un precedente similar en un auto de 1984, al que ha tenido acceso ABC, en el que acuerda retirarse tras reconocer que actuaba de forma preventiva y subsidiaria a la interve",
+      "date": "Tue, 20 Oct 2026 01:33:30 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Los privilegios que tendrá Puigdemont al volver a España: 70.385 de sueldo, chófer, escolta y un despacho con tres asesores",
+      "link": "https://www.abc.es/espana/11730867-sueldo-chofer-escolta-despacho-tres-asesores-20261027012912-nt.html",
+      "desc": "El inminente retorno de Carles Puigdemont, que se producirá de forma solemne y con toda pomposidad tras las elecciones del 29 de noviembre, ha generado mucho debate por el hecho de poder volver sin haber respondido ante la Justicia del golpe que dirigió durant",
+      "date": "Tue, 20 Oct 2026 01:29:12 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "El recurso del Defensor del Pueblo sobre la 'ley de nietos' rompe al sector progresista del Constitucional",
+      "link": "https://www.abc.es/espana/recurso-defensor-pueblo-sobre-ley-nietos-rompe-20261019012905-nt.html",
+      "desc": "Por primera vez desde la llegada de Cándido Conde-Pumpido a la presidencia del Tribunal Constitucional, la mayoría progresista amenaza con fracturarse con motivo del recurso de amparo presentado por el Defensor del Pueblo para desactivar la suspensión del cens",
+      "date": "Tue, 20 Oct 2026 01:29:05 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "La importancia de tener mayoría en el Senado: comisiones de investigación y artículo 155",
+      "link": "https://www.abc.es/espana/importancia-tener-mayoria-senado-comisiones-investigacion-articulo-20261020012638-nt.html",
+      "desc": "El Senado, la cámara territorial, se ha convertido en la XV Legislatura en una herramienta decisiva para controlar al Gobierno. La izquierda lo sabe y por eso, a escasos minutos de que el viernes cerrase el plazo para registrar coaliciones, el PSOE y Frente Am",
+      "date": "Tue, 20 Oct 2026 01:26:38 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "El PP propone a Vox que no se presente en todas las circunscripciones y le garantiza senadores autonómicos",
+      "link": "https://www.abc.es/espana/negociacion-quirurgica-pp-vox-evitar-izquierda-haga-20261020012626-nt.html",
+      "desc": "Las conversaciones llevan días produciéndose y ha habido varias opciones encima de la mesa. Lo estuvo también la de la coalición electoral para el Senado, según ha podido confirmar ABC. El secretario general del PP, Miguel Tellado, lo propuso al núcleo duro de",
+      "date": "Tue, 20 Oct 2026 01:26:26 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "El pacto con Vox no pasa factura a Juanma Moreno pero los andaluces sí penalizan a Pedro Sánchez",
+      "link": "https://www.abc.es/espana/andalucia/andalucia-pasa-factura-juanma-moreno-alianza-vox-20261020012558-nts.html",
+      "desc": "El primer gobierno de coalición con Vox no pasa factura al PP de Juanma Moreno, considerado tradicionalmente como uno de los barones de perfil más centrista en las filas del partido conservador. Al contrario. El electorado valida sin fisuras la alianza de las ",
+      "date": "Tue, 20 Oct 2026 01:25:58 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Montse Lluis, el nexo de Vox con el PP que acompañará a Abascal en el Congreso",
+      "link": "https://www.abc.es/espana/montse-lluis-nexo-vox-pp-acompanara-abascal-20261020012541-nt.html",
+      "desc": "Siempre en segundo plano y detrás de los focos en Vox. Montse Lluis, secretaria general adjunta del partido, deberá acostumbrarse —si no hay un batacazo sin precedentes en el 29-N— a tomar protagonismo en la cara principal de la política. Santiago Abascal aupó",
+      "date": "Tue, 20 Oct 2026 01:25:41 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Abascal sale a buscar votos en Burgos, León, Segovia y La Coruña, donde no logró representación en 2023",
+      "link": "https://www.abc.es/espana/abascal-sale-buscar-votos-burgos-leon-coruna-20261019012534-nt.html",
+      "desc": "A 40 días del 29-N, Vox arranca su campaña para hacer llegar el 'sentido común' al máximo número posible de ciudadanos. Tras un primer mitin descafeinado en Estepona (Málaga) el 11 de octubre, Santiago Abascal empezará este martes una ruta por el norte con un ",
+      "date": "Tue, 20 Oct 2026 01:25:34 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Así se gestó el anuncio del cese de la violencia de ETA: «No nos lo creímos»",
+      "link": "https://www.abc.es/espana/pais-vasco/gesto-anuncio-cese-violencia-eta-creimos-20261018012222-nt.html",
+      "desc": "«No nos lo creímos. Parecía otro engaño más. Nosotros seguimos trabajando igual, como si no hubieran anunciado nada». Responsables de la lucha antiterrorista en el País Vasco, que hoy centran su atención en grupos de la izquierda aberzale como Gazte Koordinado",
+      "date": "Tue, 20 Oct 2026 01:22:22 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "La banda 'Fast & Furious' del millón de euros: asaltos a furgones blindados en plena autopista",
+      "link": "https://www.abc.es/espana/madrid/banda-fast-furious-millon-euros-asaltos-furgones-20261019012102-nt.html",
+      "desc": "Al más puro estilo de la película original de la saga 'Fast &amp; Furious' , donde los protagonistas se valían de coches deportivos trucados para asaltar camiones de reparto en plena ruta, la Policía Nacional ha dado caza a dos individuos que bien podrían habe",
+      "date": "Tue, 20 Oct 2026 01:21:02 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Detenido por agredir a su novia con un 'vaper' y atrincherarse en su casa de Getafe",
+      "link": "https://www.abc.es/espana/madrid/detenido-tras-agredir-novia-vaper-atrincherarse-casa-20261019010921-nt.html",
+      "desc": "Una discusión subida de tono terminó el pasado fin de semana en Getafe con una mujer golpeada a manos de su novio. Hasta ahí, otro episodio más de una lacra llamada violencia de género, pero esta vez perpetrada con un objeto singular: un cigarrillo electrónico",
+      "date": "Tue, 20 Oct 2026 01:09:21 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "El calvario de vivir junto a las obras del estadio del Getafe: «Llevamos cuatro meses de golpes continuos, tiembla toda la casa»",
+      "link": "https://www.abc.es/espana/madrid/vecinos-getafe-denuncian-molestias-obras-coliseum-temblaba-20261019010906-nt.html",
+      "desc": "El estadio Coliseum de Getafe está rodeado de vallas, maquinaria, casetas de obra y restos de materiales. El polvo presente en la calle de Teresa de Calcuta se mezcla con el olor propio de una obra que avanza, mientras al otro lado de la calle los vecinos cuen",
+      "date": "Tue, 20 Oct 2026 01:09:06 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "La dana ‘Adam’ deja cuatro muertos, tres en Valencia y uno en Andalucía",
+      "link": "https://www.lavanguardia.com/local/valencia/20261020/11662975/dana-adam-deja-cuatro-muertos-tres-valencia-andalucia.html",
+      "desc": "Le Generalitat Valenciana confinó a más de 850.000 personas en 145 municipios, fueron cientos las personas rescatadas, pero tres fallecidos&nbsp;ayer por el temporal se suman a la mujer muerta el domingo en Sagunt",
+      "date": "20 Oct 2026 00:05:00 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
+    {
+      "title": "Francia no puede caer",
+      "link": "https://www.lavanguardia.com/opinion/20261020/11663093/francia-caer.html",
+      "desc": "",
+      "date": "20 Oct 2026 00:05:00 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
     {
       "title": "Castilla-La Mancha desactiva el Meteocam tras el fin del episodio de tormentas",
       "link": "https://www.abc.es/espana/castilla-la-mancha/castillala-mancha-desactiva-meteocam-tras-fin-episodio-20261019230905-nt.html",
@@ -23,7 +173,7 @@
       "caso": "other"
     },
     {
-      "title": "La Armada comprará  bombas para sus aviones de combate Harrier",
+      "title": "La Armada comprará un nuevo lote de bombas para sus aviones de combate Harrier",
       "link": "https://www.abc.es/espana/armada-comprara-bombas-aviones-combate-harrier-20261019224247-nt.html",
       "desc": "La Armada prepara la adquisición de un nuevo lote de bombas aéreas BLU-111 C/B para abastecer las existencias de munición de su aviación de combate. La operación, con un presupuesto de 614.500 euros, está destinada a mantener la disponibilidad de este tipo de ",
       "date": "Mon, 19 Oct 2026 22:46:23 +0200",
@@ -73,56 +223,6 @@
       "caso": "other"
     },
     {
-      "title": "Ester Muñoz: «Los recortes masivos han llegado con Sánchez y se acabarán con Feijóo»",
-      "link": "https://www.abc.es/espana/castilla-la-mancha/ester-munoz-recortes-masivos-llegado-sanchez-acabaran-20261019214852-nt.html",
-      "desc": "La portavoz del Grupo Parlamentario Popular en el Congreso, Ester Muñoz, ha acusado al PSOE de desplegar una «campaña del miedo» ante las elecciones generales del próximo 29 de noviembre al advertir de los tijeretazos a las políticas sociales que supondría la ",
-      "date": "Mon, 19 Oct 2026 21:50:48 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Sánchez 'pasa' por Valladolid con su «partido del amor» y sin aludir a las listas",
-      "link": "https://www.abc.es/espana/castilla-leon/sanchez-pasa-valladolid-partido-amor-aludir-listas-20261019213557-nt.html",
-      "desc": "Con más de 40 minutos de retraso y hasta un grupo que amenizaba la espera a casi 90 decibelios difíciles de aguantar para oídos sensibles al que se le agotó el repertorio y hasta el tiempo de actuación, Pedro Sánchez hacía este lunes su entrada en la Cúpula de",
-      "date": "Mon, 19 Oct 2026 21:36:48 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "La costa valenciana sobrevive a una dana que hizo recordar la tragedia de hace dos años",
-      "link": "https://www.abc.es/espana/comunidad-valenciana/dana-engulle-pego-oliva-evidencia-lecciones-aprendidas-20261020213112-nt.html",
-      "desc": "Llovía sobre mojado en las comarcas de La Safor y la Marina Alta, dos zonas del litoral mediterráneo limítrofes en las provincias de Valencia y Alicante, respectivamente, que amanecieron este lunes con calles anegadas , gente atrapada en los tejados, ríos desb",
-      "date": "Mon, 19 Oct 2026 21:31:12 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "De Fisterra a Silleiro: arranca la candidatura de la octava reserva de la biosfera de Galicia",
-      "link": "https://www.abc.es/espana/galicia/fisterra-silleiro-arranca-candidatura-octava-reserva-biosfera-20261019213000-nt.html",
-      "desc": "La Xunta ha dado este lunes el primer paso formal para impulsar la que sería la octava reserva de la biosfera de Galicia, un espacio de casi 146.000 hectáreas situado entre los cabos Fisterra y Silleiro y con un marcado carácter marino. El presidente autonómic",
-      "date": "Mon, 19 Oct 2026 21:30:00 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "El PP afea al PSOE de Toledo su legado en vivienda: venta de suelo público y ni un piso en 16 años",
-      "link": "https://www.abc.es/espana/castilla-la-mancha/toledo/pp-afea-psoe-toledo-legado-vivienda-venta-20261019205048-nt.html",
-      "desc": "'Consejos vendo, que para mí no tengo'. Es, en esencia, el reproche que el PP de Toledo lanza al PSOE después de que los socialistas hayan puesto el foco en la política de vivienda y, en concreto, en el futuro de los inmuebles públicos de la calle Esteban Illá",
-      "date": "Mon, 19 Oct 2026 20:50:48 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
       "title": "Sánchez alerta ante nueva la visita de Milei: “PP y Vox planean gobernar con el de la motosierra”",
       "link": "https://www.lavanguardia.com/politica/20261019/11663052/sanchez-alerta-nueva-visita-milei-pp-vox-planean-gobernar-motosierra.html",
       "desc": "El ministro Puente calienta el nuevo viaje a Madrid del presidente argentino, en plena precampaña electoral: “La motosierra no crea ni construye nada, solo siega y corta, y eso es lo que trae la derecha”",
@@ -140,106 +240,6 @@
       "source": "La Vanguardia",
       "color": "#8e44ad",
       "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "Renuncia toda la lista del PSOE de Palencia al Congreso al cambiar Ferraz al número uno",
-      "link": "https://www.lavanguardia.com/politica/20261019/11663048/renuncia-toda-lista-psoe-palencia-congreso-cambiar-ferraz-numero.html",
-      "desc": "La candidatura la encabezaba en un principio Álvaro Bilbao, que fue sustituido por Mariluz Martínez Seijo",
-      "date": "19 Oct 2026 20:32:57 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "El PP de Algeciras explica a sus «inquietos» militantes las razones de la moción de censura contra Landaluce",
-      "link": "https://www.abc.es/espana/andalucia/cadiz/pp-algeciras-explica-inquietos-militantes-razones-mocion-20261019201658-nts.html",
-      "desc": "La crisis que ha estallado en el Ayuntamiento de Algeciras ha dejado al municipio en un estado de conmoción. El alcalde José Ignacio Landaluce, exsenador y que suma 15 años como regidor de la ciudad, ha anunciado que dimitirá al perder el apoyo de doce de sus ",
-      "date": "Mon, 19 Oct 2026 20:16:59 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "A juicio por intentar matar a tiros a un hombre cerca de un centro comercial en Lugo",
-      "link": "https://www.abc.es/espana/galicia/juicio-intentar-matar-tiros-hombre-cerca-centro-20261019201500-nt.html",
-      "desc": "La Audiencia Provincial de Lugo ha celebrado este lunes la primera jornada del juicio contra un hombre acusado de intentar matar a tiros a otro en agosto de 2025 en el Camiño de Sisulfes, en las inmediaciones del centro comercial As Termas. La Fiscalía le atri",
-      "date": "Mon, 19 Oct 2026 20:15:00 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Sánchez: «No pido una victoria como la de 2023, sino amplia de las fuerzas progresistas»",
-      "link": "https://www.abc.es/espana/castilla-leon/sanchez-pido-victoria-2023-amplia-fuerzas-progresistas-20261019201438-nt.html",
-      "desc": "Con la vista puesta en el 29 de noviembre e incluso a cuatro años vista más allá en los que dibujaba cómo imagina España para entonces, el secretario general del PSOE y presidente del Gobierno, Pedro Sánchez, se mostraba este lunes convencido de que ganará y e",
-      "date": "Mon, 19 Oct 2026 20:14:38 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Los fogones de Córdoba despliegan su creatividad en Califato Gourmet: «Son los alimentos típicos en un solo bocado»",
-      "link": "https://www.abc.es/espana/andalucia/cordoba/fogones-cordoba-despliegan-creatividad-califato-gourmet-alimentos-20261019201234-nts.html",
-      "desc": "La gastronomía cordobesa más vanguardista, con el producto local como protagonista, se ha dado cita este lunes en Córdoba Califato Gourmet. El encuentro ha desplegado una intensa jornada de actividades que reúne a cocineros, productores, profesionales del sect",
-      "date": "Mon, 19 Oct 2026 20:12:34 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "El impacto de Escribano en Córdoba sobrepasa el millar de empleos entre directos e indirectos",
-      "link": "https://www.abc.es/espana/andalucia/cordoba/impacto-escribano-cordoba-sobrepasa-millar-empleos-directos-20261019201230-nts.html",
-      "desc": "El alcalde de Córdoba, José María Bellido , ha visitado las instalaciones en Córdoba de la empresa EM&amp;E Group, donde ha mantenido un encuentro con sus responsables, encabezados por el presidente de la compañía, Javier Escribano . En este encuentro se han a",
-      "date": "Mon, 19 Oct 2026 20:12:30 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Un muerto y tres heridos al caer una roca sobre un vehículo en Málaga",
-      "link": "https://www.lavanguardia.com/local/andalucia/20261019/11663033/muerto-tres-heridos-caer-roca-sobre-vehiculo-malaga.html",
-      "desc": "Los afectados&nbsp;han sido evacuados por el equipo sanitario al punto de urgencias prehospitalario",
-      "date": "19 Oct 2026 20:03:10 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "Vito Quiles renuncia a entrar en la Autònoma de Barcelona, donde los Mossos cargan contra los manifestantes",
-      "link": "https://www.abc.es/espana/cataluna/vito-quiles-renuncia-entrar-autonoma-barcelona-mossos-20261019200057-nt.html",
-      "desc": "El activista de extrema derecha Vito Quiles ha renunciado a celebrar el acto que tenía previsto en la Universitat Autònoma de Barcelona (UAB), donde los Mossos d'Esquadra han cargado contra decenas de jóvenes que se manifestaban para impedir su entrada. Durant",
-      "date": "Mon, 19 Oct 2026 20:02:31 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Ecologistas alerta de que el ozono afecta a un millón de personas en la región y exige planes contra la contaminación",
-      "link": "https://www.abc.es/espana/castilla-la-mancha/toledo/ecologistas-alerta-ozono-afecta-millon-personas-region-20261019195112-nt.html",
-      "desc": "Ecologistas en Acción ha reclamado al Gobierno de Castilla-La Mancha la elaboración urgente de los planes autonómicos de mejora de la calidad del aire, pendientes desde hace años, para combatir la contaminación por ozono, un problema que, según la organización",
-      "date": "Mon, 19 Oct 2026 19:51:13 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Del 1-O a la amnistía: un traje a medida para borrar el 'procès'",
-      "link": "https://www.abc.es/espana/amnistia-traje-medida-borrar-proces-20261010194659-nt.html",
-      "desc": "Como si los hechos ocurridos en Cataluña hasta octubre de 2017 nunca hubieran sucedido. Al menos a ojos de la Justicia. Unos acontecimientos que quedan sin culpa ni castigo y para cuyos responsables no cabe pena de prisión, inhabilitación o multa. Ese es el re",
-      "date": "Mon, 19 Oct 2026 19:46:59 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
       "caso": "other"
     }
   ]
