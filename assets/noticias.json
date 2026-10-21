@@ -1,106 +1,26 @@
 {
-  "updated": "2026-10-20T22:53:17Z",
-  "count": 24,
+  "updated": "2026-10-21T03:00:15Z",
+  "count": 5,
   "items": [
     {
-      "title": "Al servicio de los lectores",
-      "link": "https://www.lavanguardia.com/opinion/20261021/11664025/servicio-lectores.html",
-      "desc": "Javier Godó defiende un periodismo de calidad que “sobrevivirá a todos los cambios”",
-      "date": "21 Oct 2026 00:05:00 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "La mala idea de rotar a Rodri en París",
-      "link": "https://www.lavanguardia.com/deportes/20261020/11664022/mala-idea-rotar-rodri-paris.html",
-      "desc": "",
-      "date": "20 Oct 2026 23:41:20 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "Un inmenso PSG noquea al Barça al final",
-      "link": "https://www.lavanguardia.com/deportes/fc-barcelona/20261020/11663775/inmenso-psg-noquea-barca-final.html",
-      "desc": "El conjunto barcelonista empató dos veces el enuentro pero sucumbió en los diez últimos minutos",
-      "date": "20 Oct 2026 23:04:15 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "Dos mujeres heridas en un robo con violencia en un comercio de Talavera",
-      "link": "https://www.abc.es/espana/castilla-la-mancha/toledo/talavera/dos-mujeres-heridas-robo-violencia-comercio-talavera-20261020225103-nt.html",
-      "desc": "Dos mujeres de 35 y 29 años han resultado heridas este martes durante un robo con violencia cometido en un establecimiento comercial del parque comercial El Golf, en Talavera de la Reina. Ambas heridas han tenido que trasladadas al hospital Nuestra Señora del ",
-      "date": "Tue, 20 Oct 2026 22:51:04 +0200",
+      "title": "El caso del narcotúnel de Ceuta pende de un hilo por un choque entre UCO y Policía",
+      "link": "https://www.abc.es/espana/narcotunel-ceuta-pende-hilo-choque-uco-policia-20261021012204-nt.html",
+      "desc": "La defensa de uno de los principales investigados por el narcotúnel localizado en Ceuta por la Policía Nacional ha presentado un incidente de nulidad para que se archive el procedimiento, según el escrito al que ha tenido acceso ABC. El motivo de este importan",
+      "date": "Wed, 21 Oct 2026 01:22:04 +0200",
       "source": "ABC",
       "color": "#c0392b",
       "feedId": "ABC",
-      "caso": "other"
+      "caso": "gen"
     },
     {
-      "title": "La A-42 recupera la normalidad tres horas y media después del accidente ocurrido en Illescas",
-      "link": "https://www.abc.es/espana/castilla-la-mancha/toledo/pueblos/a42-recupera-normalidad-tres-horas-media-despues-20261020223525-nt.html",
-      "desc": "La A-42 ha recuperado la normalidad a las nueve de la tarde, tres horas y media después del accidente de tráfico ocurrido a su paso por Illescas que obligó inicialmente a cortar la autovía en sentido Toledo. El siniestro se produjo poco antes de las cinco y me",
-      "date": "Tue, 20 Oct 2026 22:35:26 +0200",
+      "title": "El profesor pederasta embaucó a sus alumnos durante cinco cursos a través de la PlayStation",
+      "link": "https://www.abc.es/espana/madrid/profesor-pederasta-embauco-cinco-anos-alumnos-traves-20261020012145-nt.html",
+      "desc": "Durante años Mario fue un tipo escurridizo, amable y persuasivo, capaz de embaucar a un amplio número de menores sin levantar sospechas. En 2019, este joven, graduado en Química, entró como profesor al colegio concertado Mercedarias de Don Juan de Alarcón, a s",
+      "date": "Wed, 21 Oct 2026 01:21:45 +0200",
       "source": "ABC",
       "color": "#c0392b",
       "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "El político y cofrade Andrés Lorite pregonará la Semana Santa de Córdoba 2027",
-      "link": "https://www.abc.es/espana/andalucia/cordoba/semana-santa/politico-cofrade-andres-lorite-pregonara-semana-santa-20261020213906-nts.html",
-      "desc": "El vicepresidente primero de la Diputación Provincial, Andrés Lorite , es quien pregonará la Semana Santa de Córdoba de 2027. Cofrade de las hermandades de la Merced y de la Esperanza, reconoce asumir «con emoción y como un profundo honor» el encargo. En sus p",
-      "date": "Tue, 20 Oct 2026 21:39:06 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Javier Godó reivindica el “buen periodismo” como garantía de libertad",
-      "link": "https://www.lavanguardia.com/vida/20261020/11663985/javier-godo-reivindica-buen-periodismo-garantia-libertad.html",
-      "desc": "El editor de 'La Vanguardia' recibe el primer homenaje Hall of Fame de Forbes",
-      "date": "20 Oct 2026 21:38:48 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "Llorca activa ayudas directas por la dana Adam: 6.000 euros en enseres y 800 al mes para vivienda",
-      "link": "https://www.abc.es/espana/comunidad-valenciana/llorca-activa-ayudas-directas-dana-adam-6000-20261020211639-nt.html",
-      "desc": "El Gobierno valenciano ha aprobado un primer paquete de ayudas por valor de 23,5 millones de euros para los afectados por la dana Adam que ha afectado a zonas del litoral de Valencia y Alicante. Tras un pleno del Consell extraordinario este martes por la tarde",
-      "date": "Tue, 20 Oct 2026 21:16:40 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Meloni decreta la prisión preventiva para menores para frenar las protestas violentas",
-      "link": "https://www.lavanguardia.com/internacional/20261020/11663987/meloni-decreta-prision-preventiva-menores-frenar-protestas-violentas.html",
-      "desc": "El Gobierno italiano despliega 500 militares en Milán ante unos disturbios que dejan 200 policías heridos",
-      "date": "20 Oct 2026 21:16:27 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "Abascal llama desde Ponferrada a la movilización: «No os creáis ninguna encuesta»",
-      "link": "https://www.abc.es/espana/castilla-leon/abascal-llama-ponferrada-movilizacion-creais-ninguna-encuesta-20261020211135-nt.html",
-      "desc": "Con múltiples banderas de España ondeando, también de Vox y hasta alguna de Ceuta, Santiago Abascal arrancaba prácticamente este martes en Ponferrada la precampaña de cara a las elecciones del próximo 29 de noviembre en el que invitaba a los suyos a la «descon",
-      "date": "Tue, 20 Oct 2026 21:11:35 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
+      "caso": "gen"
     },
     {
       "title": "María Jesús Montero 'olvida' que Zapatero fue el presidente que congeló las pensiones",
@@ -123,124 +43,14 @@
       "caso": "gen"
     },
     {
-      "title": "Cuatro detenidos por el asesinato a golpes de una anciana en su casa en Galapagar",
-      "link": "https://www.abc.es/espana/madrid/cuatro-detenidos-asesinato-golpes-anciana-casa-galapagar-20261020205040-nt.html",
-      "desc": "La Guardia Civil ha detenido este martes a cuatro personas por el asesinato a golpes de una anciana de 80 años el pasado 6 de mayo en su vivienda en la localidad madrileña de Galapagar. Además, el instituto armado ha llevado a cabo tres registros domiciliarios",
-      "date": "Tue, 20 Oct 2026 20:51:00 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Abascal acusa a Sánchez de pretender «sustituir» el 29-N a «un pueblo al que odia dando el voto a personas que nunca han vivido en España»",
-      "link": "https://www.abc.es/espana/castilla-leon/abascal-acusa-sanchez-pretender-sustituir-29n-pueblo-20261020204446-nt.html",
-      "desc": "«Nos lo jugamos todo», arengaba este martes desde Ponferrada el presidente de Vox, Santiago Abascal , en un acto con el que prácticamente arrancaba la precampaña de cara a las elecciones del próximo 29 de noviembre , sobre las que llamaba a la participación. «",
-      "date": "Tue, 20 Oct 2026 20:44:46 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Kumi Café lleva el brunch japonés a la esquina de Aribau con Consell de Cent",
-      "link": "https://www.abc.es/espana/cataluna/kumi-cafe-lleva-brunch-japones-esquina-aribau-20261020204238-nt.html",
-      "desc": "Abierto desde finales de julio, Kumi Café propone en Barcelona un brunch de inspiración japonesa que se puede disfrutar desde primera hora de la mañana hasta las cinco de la tarde, ideal tanto para oficinistas de la zona como para visitantes y también para des",
-      "date": "Tue, 20 Oct 2026 20:42:38 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Francisco Navarro encabezará la lista del PP al Congreso por Albacete",
-      "link": "https://www.abc.es/espana/castilla-la-mancha/francisco-navarro-encabezara-lista-pp-congreso-albacete-20261020203413-nt.html",
-      "desc": "El primer teniente de alcalde del Ayuntamiento de Albacete, Francisco Navarro Cebrián, encabezará la candidatura del Partido Popular al Congreso de los Diputados por la provincia en las elecciones generales del próximo 29 de noviembre. La designación ha sido a",
-      "date": "Tue, 20 Oct 2026 20:34:13 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Andalucía abre la vacunación a mayores de 60 años y profesionales de servicios esenciales",
-      "link": "https://www.abc.es/espana/andalucia/andalucia-abre-vacunacion-mayores-anos-profesionales-servicios-20261020203111-nts.html",
-      "desc": "Comienza una nueva fase de la vacunación contra la gripe. A partir de este miércoles en Andalucía se incorporan a la inmunización los últimos grupos para los que está recomendada: las personas de 60 años o más, los miembros de cuerpos y fuerzas de seguridad de",
-      "date": "Tue, 20 Oct 2026 20:32:12 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Barcelona pide al Govern que inicie la reapertura de Collserola por la carretera de las Aigües",
-      "link": "https://www.lavanguardia.com/local/barcelona/20261020/11663973/barcelona-pide-govern-inicie-reapertura-collserola-carretera-aiguees.html",
-      "desc": "El Ayuntamiento prepara una propuesta para que la Generalitat inicie la desescalada del cierre por la peste porcina africana en algunos de los puntos más añorados por la ciudadanía",
-      "date": "20 Oct 2026 20:25:57 +0200",
+      "title": "La Audiencia de Madrid ordena que la UCO analice los datos tributarios de González Amador",
+      "link": "https://www.lavanguardia.com/politica/20261020/11663715/audiencia-madrid-ordena-uco-analice-datos-tributarios-gonzalez-amador.html",
+      "desc": "La Sala estima el recurso de la Fiscalía y autoriza que la Guardia Civil analice información tributaria y de la Seguridad Social de la pareja de la presidenta de Madrid, Isabel Díaz Ayuso",
+      "date": "20 Oct 2026 14:59:46 +0200",
       "source": "La Vanguardia",
       "color": "#8e44ad",
       "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "Una boda en un pueblo de Málaga acaba con 40 infectados por salmonelosis",
-      "link": "https://www.abc.es/espana/andalucia/malaga/boda-pueblo-malaga-acaba-infectados-salmonelosis-20261020202404-nts.html",
-      "desc": "Una boda en Iznate (Málaga) ha acabado con 40 personas intoxicadas. La Consejería de Sanidad ya ha iniciado una investigación al respecto. La Delegación de Sanidad de la Junta de Andalucía en Málaga ha confirmado que la consejería «está llevando a cabo las act",
-      "date": "Tue, 20 Oct 2026 20:25:02 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "La Diócesis de Zamora denuncia a su exvicario por presuntas irregularidades económicas",
-      "link": "https://www.abc.es/espana/castilla-leon/diocesis-zamora-denuncia-exvicario-presuntas-irregularidades-economicas-20261020211305-nt.html",
-      "desc": "La Diócesis de Zamora ha presentado una denuncia contra el exvicario general, Antonio Jesús Martín de Lera, por presuntas irregularidades económicas en su etapa como vicario y responsable de Cáritas. El proceso, que viene de atrás pero que se ha desencadenado ",
-      "date": "Tue, 20 Oct 2026 20:20:57 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "El jurado declara culpable del doble asesinato de Manzanares a Caba y cómplice y encubridor a Rivera",
-      "link": "https://www.abc.es/espana/castilla-la-mancha/jurado-declara-culpable-doble-asesinato-manzanares-caba-20261020201439-nt.html",
-      "desc": "El jurado popular ha declarado este martes culpable a Antonio Caba de los asesinatos de Jesús María González y Juan Miguel Isla, los dos empresarios de Manzanares cuyas muertes, ocurridas en 2019 y 2022, han sido juzgadas durante las últimas dos semanas en la ",
-      "date": "Tue, 20 Oct 2026 20:14:40 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "El Córdoba CF mueve el banquillo, pero apenas obtiene respuestas: el gol se resiste a los suplentes",
-      "link": "https://www.abc.es/espana/andalucia/cordoba/cordoba-cf/cordoba-mueve-banquillo-apenas-obtiene-respuestas-gol-20261020200333-nts.html",
-      "desc": "El Córdoba CF continúa buscando la mejor respuesta de sus futbolistas desde el banquillo tras un mercado de mucho movimiento en las oficinas de El Arcángel. En una temporada donde ha mostrado su faceta más intervencionista, Iván Ania ha recurrido de manera con",
-      "date": "Tue, 20 Oct 2026 20:03:33 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "El Gobierno asegura que subirá el sueldo a los funcionarios un 4,5% pero sin fecha concreta de aprobación",
-      "link": "https://www.lavanguardia.com/economia/20261020/11663963/gobierno-asegura-subira-sueldo-funcionarios-4-5-fecha.html",
-      "desc": "",
-      "date": "20 Oct 2026 20:02:35 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "Vox veta en Castilla y León las ayudas al cine que “adoctrine” ideológicamente",
-      "link": "https://www.lavanguardia.com/cultura/20261020/11663931/vox-veta-castilla-leon-ayudas-cine-adoctrine-ideologicamente-castilla-leon-convoca-ayudas-cine-limitadas-proyectos-adoctrinamiento-castilla-leon-convoca-ayudas-cine-limitadas-proyectos-adoctrinamiento-castilla-leon-convoca-ayudas.html",
-      "desc": "Cultura introduce una cláusula contra la&nbsp; “propaganda partidista”",
-      "date": "20 Oct 2026 20:00:35 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
-      "caso": "other"
+      "caso": "gen"
     }
   ]
 }
