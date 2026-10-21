@@ -1,7 +1,57 @@
 {
-  "updated": "2026-10-21T19:53:05Z",
+  "updated": "2026-10-21T22:58:38Z",
   "count": 24,
   "items": [
+    {
+      "title": "El Cajasol Coto Córdoba se desinfla ante el Tizona Burgos y se despide del sueño de la Copa España (76-82)",
+      "link": "https://www.abc.es/espana/andalucia/cordoba/cajasol-coto-cordoba-desinfla-ante-tizona-burgos-20261021231119-nts.html",
+      "desc": "El Cajasol Coto Córdoba no pudo dar continuidad a las buenas sensaciones de su última victoria ante Caja 87 y se despidió de la Copa España a las primeras de cambio tras caer en octavos de final frente al Tizona Burgos (76-82). El conjunto blanquiverde protago",
+      "date": "Wed, 21 Oct 2026 23:11:20 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Antonio Vázquez recoge el premio Gran Capitán de ABC: «Al final de los años, el camino me ha traído de vuelta a Córdoba»",
+      "link": "https://www.abc.es/espana/andalucia/cordoba/antonio-vazquez-recoge-premio-gran-capitan-abc-20261021225745-nts.html",
+      "desc": "«Hay algo claro: a Antonio Vázquez Romero nunca le tiembla la voz. Ni cantando ni tomando decisiones». Así han definido al empresario cordobés durante el sentido homenaje que ha recibido de la mano de ABC en el Palacio de Orive, donde este lunes se le ha hecho",
+      "date": "Wed, 21 Oct 2026 22:57:45 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Bernardo Silva colorea y le sube al ánimo al Madrid antes del clásico",
+      "link": "https://www.lavanguardia.com/deportes/real-madrid/20261021/11664936/bernardo-silva-colorea-le-sube-animo-madrid-clasico.html",
+      "desc": "El portugués, titular en mediocampo, abrió el marcador y se convirtió en el arquitecto del juego de los de Mourinho, especialmente efectivo en la segunda mitad",
+      "date": "21 Oct 2026 22:56:53 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
+    {
+      "title": "El Madrid insiste con Negreira hasta en la Champions: “Laporta sigue pagando”",
+      "link": "https://www.lavanguardia.com/deportes/real-madrid/20261021/11664927/madrid-insiste-negreira-champions-laporta-sigue-pagando.html",
+      "desc": "La grada de animación, al comienzo de la segunda parte, mostró una pancarta como el día del Sevilla, aunque en este ocasión con el mensaje en inglés “no impunidad para Negreira”",
+      "date": "21 Oct 2026 22:17:29 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
+    {
+      "title": "Durísimo enfrentamiento al borde del insulto entre Sánchez y el polaco Tusk por la inmigración",
+      "link": "https://www.abc.es/espana/intercambio-insultos-durisimo-enfrentamiento-sanchez-polaco-tusk-20261021215948-nt.html",
+      "desc": "El primer ministro polaco, el popular Donald Tusk, mantuvo un durísimo enfrentamiento con el presidente del Gobierno Pedro Sánchez en la última reunión del Consejo Europeo. Según la prensa polaca, la situación fue tan tensa que obligó a intervenir al president",
+      "date": "Wed, 21 Oct 2026 22:00:18 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
     {
       "title": "El PP se enreda con las listas electorales de Castilla y León",
       "link": "https://www.abc.es/espana/castilla-leon/pp-enreda-castilla-leon-listas-electorales-20261021213037-nt.html",
@@ -20,6 +70,26 @@
       "source": "ABC",
       "color": "#c0392b",
       "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "El papa León XIV no necesitará más terapia tras su operación de cáncer de pulmón",
+      "link": "https://www.lavanguardia.com/internacional/20261021/11664915/papa-leon-xiv-necesitara-mas-terapia-operacion.html",
+      "desc": "Los resultados de los exámenes histológicos confirman el diagnóstico de adenocarcinoma pulmonar, cuya enfermedad permanece localizada",
+      "date": "21 Oct 2026 21:16:13 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
+    {
+      "title": "Junqueras y Romeva celebran su amnistía en Sant Vicenç dels Horts: “Estamos aquí para continuar”",
+      "link": "https://www.lavanguardia.com/politica/20261021/11664913/junqueras-romeva-celebran-amnistia-sant-vicenc-dels-horts-continuar.html",
+      "desc": "Ambos dirigentes republicanos reivindican que la amnistía “no cierra nada”, sino que devuelve una cuestión política “al terreno de la política”",
+      "date": "21 Oct 2026 21:13:26 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
       "caso": "other"
     },
     {
@@ -43,7 +113,7 @@
       "caso": "other"
     },
     {
-      "title": "De la «pandemia del horror» a la «escarnio público»: Camps y Oltra reviven cómo les afectó el bulo del Bar España",
+      "title": "De la «pandemia del horror» al «escarnio público»: Camps y Oltra reviven cómo les afectó el bulo del Bar España",
       "link": "https://www.abc.es/espana/comunidad-valenciana/pandemia-horror-escarnio-publico-camps-oltra-reviven-20261022204015-nt.html",
       "desc": "El expresidente de la Generalitat Valenciana Francisco Camps , la exvicepresidenta del Consell Mónica Oltra y el expresidente de la Diputación de Castellón Carlos Fabra , han declarado este miércoles por la tarde como testigos en la tercera sesión del juicio p",
       "date": "Wed, 21 Oct 2026 20:43:55 +0200",
@@ -170,76 +240,6 @@
       "source": "ABC",
       "color": "#c0392b",
       "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Vox mantiene a su único diputado y renueva a casi todos sus cabezas de lista al Congreso en Castilla y León",
-      "link": "https://www.abc.es/espana/castilla-leon/vox-mantiene-unico-diputado-renueva-cabezas-lista-20261021192503-nt.html",
-      "desc": "'Plan renove' casi al completo por parte de Vox en la elección de sus cabezas de cartel como candidatos al Congreso por las nueve provincias de Castilla y León de cara a las elecciones generales del próximo 29 de noviembre. Según han dado a conocer este miérco",
-      "date": "Wed, 21 Oct 2026 19:31:09 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "El Real Madrid recibe al Leipzig en la Champions en el Bernabéu (0-0)",
-      "link": "https://www.lavanguardia.com/deportes/futbol/20261021/11664855/real-madrid-leipzig-champions-league-partido-futbol-hoy-en-directo.html",
-      "desc": "",
-      "date": "21 Oct 2026 19:29:35 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "Vox presenta sus candidatos por las tres provincias y Chunta desiste de Teruel",
-      "link": "https://www.abc.es/espana/aragon/vox-presenta-candidatos-tres-provincias-chunta-desiste-20261021192701-nt.html",
-      "desc": "Vox ha presentado esta tarde sus candidatos al Congreso por las tres provincias aragonesas. Son Ester Blanco, candidata por Huesca, de 40 años, graduada en Arqueología por la Universidad Complutense de Madrid y técnica Superior de Artes Plásticas y Diseño en O",
-      "date": "Wed, 21 Oct 2026 19:27:02 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Alcalde y Corroto representan a Toledo en el Congreso Internacional de Ciudades de la Amistad de China",
-      "link": "https://www.abc.es/espana/castilla-la-mancha/toledo/alcalde-corroto-representan-toledo-congreso-internacional-ciudades-20261021192318-nt.html",
-      "desc": "Toledo ha presentado su historia, su patrimonio y su identidad cultural en el Congreso Internacional de Ciudades de la Amistad de China 2026 , que se celebra en Xi'an y reúne a representantes institucionales de más de 70 países, un centenar de regiones y más d",
-      "date": "Wed, 21 Oct 2026 19:23:19 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "La unión de PSOE y Frente Amplio para el Senado toma forma: el alcalde de Zuheros renuncia al número dos de la lista socialista",
-      "link": "https://www.abc.es/espana/andalucia/cordoba/union-psoe-frente-amplio-senado-toma-forma-20261021191459-nts.html",
-      "desc": "Movimiento en las filas del PSOE de Córdoba con motivo de la alianza nacional entre los socialistas y el Frente Amplio para el Senado , para arrebatarle la mayoría absoluta al PP. El alcalde de Zuheros, Juan Manuel Poyato, que había sido elegido por los social",
-      "date": "Wed, 21 Oct 2026 19:15:00 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Los funcionarios de prisiones denuncian que el 76% de las plazas médicas madrileñas están vacantes",
-      "link": "https://www.abc.es/espana/madrid/funcionarios-prisiones-denuncian-plazas-medicas-madrilenas-vacantes-20261021190758-nt.html",
-      "desc": "El Central Sindical Independiente y de Funcionarios (CSIF) denuncia la situación de la atención médica en los centros penitenciarios de la Comunidad de Madrid . Según los datos actualizados de la Relación de Puestos de Trabajo (RPT) de Instituciones Penitencia",
-      "date": "Wed, 21 Oct 2026 19:07:58 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Javier Milei se reúne con Ayuso y bromea por videollamada con Abascal",
-      "link": "https://www.lavanguardia.com/politica/20261021/11664837/milei-reune-ayuso-hae-videollamada-tono-jocoso-abascal.html",
-      "desc": "“No hay nada más divertido que patear culos zurdos”, dice el mandatario al líder de Vox",
-      "date": "21 Oct 2026 18:54:43 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
       "caso": "other"
     }
   ]
