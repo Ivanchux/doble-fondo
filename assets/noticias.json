@@ -1,56 +1,246 @@
 {
-  "updated": "2026-10-21T03:00:15Z",
-  "count": 5,
+  "updated": "2026-10-21T09:03:38Z",
+  "count": 24,
   "items": [
     {
-      "title": "El caso del narcotúnel de Ceuta pende de un hilo por un choque entre UCO y Policía",
-      "link": "https://www.abc.es/espana/narcotunel-ceuta-pende-hilo-choque-uco-policia-20261021012204-nt.html",
-      "desc": "La defensa de uno de los principales investigados por el narcotúnel localizado en Ceuta por la Policía Nacional ha presentado un incidente de nulidad para que se archive el procedimiento, según el escrito al que ha tenido acceso ABC. El motivo de este importan",
-      "date": "Wed, 21 Oct 2026 01:22:04 +0200",
+      "title": "José María Aznar, contundente sobre el problema de la vivienda en España: «Cuando yo era más joven, la vivienda era una expectativa, ahora es un derecho. Yo nunca sentí el derecho a tener una casa»",
+      "link": "https://www.abc.es/espana/jose-maria-aznar-contundente-sobre-problema-vivienda-20261021105312-nt.html",
+      "desc": "La vivienda se ha convertido en el principal problema de los españoles. Algo que se ha reflejado tras el desahucio de Mari Carmen Abascal hace unas semanas. Un caso que desencadenó movilizaciones sociales por toda España, la acampada de Sol e incluso un adelan",
+      "date": "Wed, 21 Oct 2026 10:53:12 +0200",
       "source": "ABC",
       "color": "#c0392b",
       "feedId": "ABC",
-      "caso": "gen"
+      "caso": "other"
     },
     {
-      "title": "El profesor pederasta embaucó a sus alumnos durante cinco cursos a través de la PlayStation",
-      "link": "https://www.abc.es/espana/madrid/profesor-pederasta-embauco-cinco-anos-alumnos-traves-20261020012145-nt.html",
-      "desc": "Durante años Mario fue un tipo escurridizo, amable y persuasivo, capaz de embaucar a un amplio número de menores sin levantar sospechas. En 2019, este joven, graduado en Química, entró como profesor al colegio concertado Mercedarias de Don Juan de Alarcón, a s",
-      "date": "Wed, 21 Oct 2026 01:21:45 +0200",
+      "title": "Ada Colau denuncia que EE.UU. no le deja entrar por su participación en la Flotilla y critica la «apropiación colonial» de Puerto Rico",
+      "link": "https://www.abc.es/espana/ada-colau-denuncia-eeuu-deja-entrar-participacion-20261021104350-nt.html",
+      "desc": "La candidata de Frente Amplio, Ada Colau, ha denunciado en sus redes sociales que Estados Unidos le ha impedido la entrada a Puerto Rico por su participación en la Flotilla. Según la activista, que califica a la isla estadounidense como «un territorio del que ",
+      "date": "Wed, 21 Oct 2026 10:43:50 +0200",
       "source": "ABC",
       "color": "#c0392b",
       "feedId": "ABC",
-      "caso": "gen"
+      "caso": "other"
     },
     {
-      "title": "María Jesús Montero 'olvida' que Zapatero fue el presidente que congeló las pensiones",
-      "link": "https://www.abc.es/espana/andalucia/maria-jesus-montero-olvida-zapatero-presidente-congelo-20261020210510-nts.html",
-      "desc": "La secretaria general del PSOE en Andalucía, María Jesús Montero , jefa de la estrategia de campaña de Sánchez para las próximas elecciones generales, pasaba este martes por la ronda de portavoces, donde analiza las diferentes cuestiones que rodean a la políti",
-      "date": "Tue, 20 Oct 2026 21:05:10 +0200",
+      "title": "El accidente de un camión en Chinchilla de Montearagón obliga a cortar la A-31 en sentido Alicante",
+      "link": "https://www.abc.es/espana/castilla-la-mancha/accidente-camion-obliga-cortar-a31-sentido-alicante-20261021104346-nt.html",
+      "desc": "El accidente de un camión a la altura de la localidad albaceteña de Chinchilla de Montearagón ha obligado a cortar durante la madrugada de este miércoles la A-31 en sentido Alicante después de que el vehículo se saliera de la vía. El suceso se produjo sobre la",
+      "date": "Wed, 21 Oct 2026 10:43:46 +0200",
       "source": "ABC",
       "color": "#c0392b",
       "feedId": "ABC",
-      "caso": "zap"
+      "caso": "other"
     },
     {
-      "title": "El Colegio de Procuradores reconoce a la Audiencia Nacional en su 50 aniversario",
-      "link": "https://www.abc.es/espana/procuradores-reclaman-gran-pacto-nacional-justicia-20261020205218-nt.html",
-      "desc": "Los procuradores de España han reconocido este martes la trayectoria de la Audiencia Nacional en vísperas de su 50 aniversario, que se cumplirá el próximo enero. Con el Premio Convivencia y Tolerancia, que distingue cada año a personas e instituciones que cont",
-      "date": "Tue, 20 Oct 2026 20:52:18 +0200",
+      "title": "Milei llama «dictador» a Sánchez e insta a los españoles a «sacar a patadas a los socialistas»",
+      "link": "https://www.abc.es/espana/javier-milei-llama-impresentable-dictador-pedro-sanchez-20261021103446-nt.html",
+      "desc": "El presidente argentino, Javier Milei , aparecía en la calle Alcalá de Madrid dos minutos antes de las diez. Saludaba al bajar de un coche rodeado de una extensa comitiva presidencial, pero no se detenía ante la prensa y cruzaba las puertas del Real Casino de ",
+      "date": "Wed, 21 Oct 2026 10:34:46 +0200",
       "source": "ABC",
       "color": "#c0392b",
       "feedId": "ABC",
-      "caso": "gen"
+      "caso": "other"
     },
     {
-      "title": "La Audiencia de Madrid ordena que la UCO analice los datos tributarios de González Amador",
-      "link": "https://www.lavanguardia.com/politica/20261020/11663715/audiencia-madrid-ordena-uco-analice-datos-tributarios-gonzalez-amador.html",
-      "desc": "La Sala estima el recurso de la Fiscalía y autoriza que la Guardia Civil analice información tributaria y de la Seguridad Social de la pareja de la presidenta de Madrid, Isabel Díaz Ayuso",
-      "date": "20 Oct 2026 14:59:46 +0200",
+      "title": "Retenciones de 6 km en la ronda de Dalt dirección Llobregat",
+      "link": "https://www.lavanguardia.com/local/catalunya/20261021/11663840/ultima-hora-trafico-trenes-rodalies-catalunya-directo-accesos-barcelona-cortes-carretera-hoy-21-octubre.html",
+      "desc": "Sigue en directo, minuto a minuto, toda la última hora del estado del tráfico y los transportes en Catalunya",
+      "date": "21 Oct 2026 10:20:40 +0200",
       "source": "La Vanguardia",
       "color": "#8e44ad",
       "feedId": "LaVanguardia",
-      "caso": "gen"
+      "caso": "other"
+    },
+    {
+      "title": "Amplían hasta el 5 de noviembre el plazo para solicitar las ayudas a la primera matrícula universitaria",
+      "link": "https://www.abc.es/espana/castilla-leon/junta-amplia-noviembre-plazo-solicitar-ayudas-primera-20261021101654-nt.html",
+      "desc": "La Junta ha ampliado hasta el jueves 5 de noviembre, incluido, el plazo de presentación de solicitudes para las ayudas dirigidas al alumnado empadronado en Castilla y León que realice su primera matrícula de primer curso de Grado Universitario en la Comunidad ",
+      "date": "Wed, 21 Oct 2026 10:18:12 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Heroico rescate de la Guardia Civil  a dos jóvenes que se precipitaron con su coche al río Badiel",
+      "link": "https://www.abc.es/espana/castilla-la-mancha/heroico-rescate-guardia-civil-dos-jovenes-precipitaron-20261021101326-nt.html",
+      "desc": "La Guardia Civil ha rescatado a dos jóvenes que quedaron atrapadas en el interior de un vehículo después de salirse de la carretera GU-115 y precipitarse desde un puente al cauce del río Badiel, entre las localidades guadalajareñas de Ledanca y Argecilla. Una ",
+      "date": "Wed, 21 Oct 2026 10:13:26 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Investigados por caza furtiva y esconder un arma entre la vegetación en Zamora",
+      "link": "https://www.abc.es/espana/castilla-leon/investigados-caza-furtiva-esconder-arma-molezuelas-carballeda-20261020001400-nt.html",
+      "desc": "La Guardia Civil de Zamora investiga a dos personas por presuntos delitos de caza furtiva en el término municipal de Molezuelas de la Carballeda. Componentes del Puesto de la Guardia Civil de Mombuey recibieron hace unos días un aviso por parte de un agente me",
+      "date": "Wed, 21 Oct 2026 10:09:31 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "¿Se puede prohibir el uso de las redes sociales a los ciberdelincuentes?",
+      "link": "https://www.abc.es/espana/cataluna/david-miras-estevez-puede-prohibir-uso-redes-sociales-ciberdelincuentes-20261021100450-nt.html",
+      "desc": "El pasado 5 de octubre, el presidente Sánchez anunció la disolución de las Cortes Generales y la convocatoria de elecciones anticipadas para el próximo 29-N. En consecuencia, se ha producido el decaimiento automático de todas las iniciativas legislativas en tr",
+      "date": "Wed, 21 Oct 2026 10:08:02 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Secuestran las pantallas de navegación de un helicóptero de extinción de incendios en Málaga",
+      "link": "https://www.abc.es/espana/andalucia/malaga/secuestro-pantallas-navegacion-helicoptero-extincion-incendios-malaga-20261021100318-nts.html",
+      "desc": "No fue un robo, sino una especia de 'secuestro' de material tecnológico sensible. Los ladrones entraron en la base del Infoca de Cártama, se llevaron un botín de 1,2 millones de euros en pantallas de navegación de los helicópteros y luego pidieron un rescate p",
+      "date": "Wed, 21 Oct 2026 10:04:15 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Trasladados a Canarias 27 inmigrantes de una neumática localizada en alta mar por un mercante",
+      "link": "https://www.abc.es/espana/canarias/trasladados-canarias-inmigrantes-neumatica-localizada-alta-mar-20261021100057-nt.html",
+      "desc": "Salvamento Marítimo ha rescatado a 27 personas de origen magrebí y subsahariano que viajaban a bordo de una embarcación neumática , 5 de ellos menores. El grupo ha sido avistado por un buque mercante a 148 kilómetros al oeste del cabo Bojador, en la costa del ",
+      "date": "Wed, 21 Oct 2026 10:00:57 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Un menor, presunto autor de la pedrada a que llevó a la UCI de Toledo a un hombre que viajaba por AP-41",
+      "link": "https://www.abc.es/espana/castilla-la-mancha/menor-presunto-autor-pedrada-llevo-uci-toledo-20261021094525-nt.html",
+      "desc": "La Guardia Civil investiga a un menor de edad como presunto autor del lanzamiento desde un puente de una piedra de grandes dimensiones que impactó contra un vehículo en la AP-41 y causó graves heridas a su conductor, un hombre de 42 años que, una semana despué",
+      "date": "Wed, 21 Oct 2026 09:45:26 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Colau denuncia que Trump le ha vetado la entrada a Puerto Rico por motivos políticos",
+      "link": "https://www.lavanguardia.com/politica/20261021/11664312/colau-denuncia-trump-le-vetado-entrada-puerto-rico-motivos-politicos.html",
+      "desc": "La exalcaldesa vincula la decisión a su activismo propalestino, tras ser interrogada por su participación en la flotilla que Israel interceptó rumbo a Gaza",
+      "date": "21 Oct 2026 09:36:39 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
+    {
+      "title": "Roban en la casa del jugador del Celta Ilaix Moriba y se llevan joyas y dinero en efectivo",
+      "link": "https://www.abc.es/espana/galicia/roban-casa-jugador-celta-ilaix-moriba-llevan-20261021093330-nt.html",
+      "desc": "La oleada de robos en la zona de Nigrán (Pontevedra) continúa, y suma a su lista la vivienda de un conocido futbolista. Se trata del centrocampista del Celta de Vigo, Ilaix Moriba, en cuya casa entró en la madrugada del pasado martes un grupo de ladrones que s",
+      "date": "Wed, 21 Oct 2026 09:33:30 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "La Guardia Civil recupera en Adamuz material del Infoca valorado en 1,2 millones y detiene a un expiloto y un mecánico",
+      "link": "https://www.abc.es/espana/andalucia/cordoba/guardia-civil-recupera-adamuz-material-infoca-valorado-20261021093204-nts.html",
+      "desc": "La localidad cordobesa de Adamuz ha sido un punto clave en la operación 'Heliplay' de la Guardia Civil , que se ha saldado con tres detenidos por el robo de cuatro pantallas de navegación de un helicóptero destinado a la lucha contra los incendios forestales e",
+      "date": "Wed, 21 Oct 2026 09:32:05 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Culpable por unanimidad el acusado de grabar a mujer tendida en el suelo con el móvil mientras se burlaba, antes de matarla",
+      "link": "https://www.abc.es/espana/galicia/culpable-unanimidad-acusado-grabar-mujer-tendida-suelo-20261021091938-nt.html",
+      "desc": "El Tribunal del Jurado ha considerado culpable, por unanimidad, de homicidio doloso al septuagenario acusado de matar en La Coruña, en agosto de 2024, a su esposa al estrangularla. También lo ve autor de un delito contra la integridad moral y de otro leve de v",
+      "date": "Wed, 21 Oct 2026 09:19:39 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "La concejala de Montilla Raquel Casado será la nueva subdelegada del Gobierno en Córdoba",
+      "link": "https://www.abc.es/espana/andalucia/cordoba/concejala-montilla-raquel-casado-nueva-subdelegada-gobierno-20261021091144-nts.html",
+      "desc": "La tercera teniente de alcalde del Ayuntamiento cordobés de Montilla, Raquel Casado , sustituirá a Ana López como subdelegada del Gobierno de España en la provincia después de que ésta última concurre en las listas del PSOE al Senado en las Elecciones Generale",
+      "date": "Wed, 21 Oct 2026 09:11:44 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "El poder geopolítico del cine y las series, en el punto de mira",
+      "link": "https://www.abc.es/espana/castilla-leon/poder-geopolitico-cine-series-punto-mira-20261015090612-nt.html",
+      "desc": "La Academia de Caballería acogió una nueva edición de las Jornadas Científicas sobre Cultura de Defensa impulsadas por la Universidad Europea Miguel de Cervantes, que bajo el título 'Desinformación y noticias falsas en la gran pantalla', abordó el papel de la ",
+      "date": "Wed, 21 Oct 2026 09:06:12 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Sánchez y el PSOE calientan la visita de Milei a Madrid: lonas, motosierras y «zurdos orgullosos»",
+      "link": "https://www.abc.es/espana/sanchez-psoe-calientan-visita-milei-madrid-pancartas-20261021090456-nt.html",
+      "desc": "El presidente de Argentina, Javier Milei , está en Madrid y el PSOE ha decido convertirlo en un nuevo elemento movilizador de cara a la inminente campaña electoral. El partido ha colgado este miércoles un gran cartel en la fachada de su sede en Madrid para rec",
+      "date": "Wed, 21 Oct 2026 09:04:56 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "'Cuestión de respeto': un servicio telefónico de apoyo a los profesores ante «conflictos e indisciplina»",
+      "link": "https://www.abc.es/espana/castilla-leon/cuestion-respeto-profesores-ante-conflictos-indisciplina-20261007090238-nt.html",
+      "desc": "El «preocupante aumento» de los problemas de «faltas de consideración, conflictos y situaciones de indisciplina» han hecho que desde la Asociación de Profesores de Secundaria de Castilla y León (Aspes CL) hayan decidido actuar. Ante ese escenario, que, según d",
+      "date": "Wed, 21 Oct 2026 09:02:38 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Muere una mujer en un accidente de tráfico en Pozoblanco tras salirse de la carretera",
+      "link": "https://www.abc.es/espana/andalucia/cordoba/muere-mujer-accidente-trafico-pozoblanco-tras-salirse-20261021090223-nts.html",
+      "desc": "Una mujer ha fallecido y otra persona ha resultado herida tras salirse de la vía el vehículo en el que viajaban en la carretera A-424, a su paso por Pozoblanco (Córdoba). El accidente se produjo anoche, sobre las 22.10 horas, y obligó a movilizar a los servici",
+      "date": "Wed, 21 Oct 2026 09:02:23 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Un latín para el siglo XXI",
+      "link": "https://www.abc.es/espana/castilla-leon/latin-siglo-xxi-20261014085628-nt.html",
+      "desc": "A pesar de que está como una lengua muerta, el latín vive un buen momento con una «renovación» en las aulas europeas. Según los últimos datos, son más de tres millones de estudiantes los que lo estudian actualmente en el nivel de la Educación Secundaria y su p",
+      "date": "Wed, 21 Oct 2026 08:56:28 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "‘La Vanguardia’ lanza un informativo diario sobre el estado de la movilidad",
+      "link": "https://www.lavanguardia.com/local/barcelona/20261021/11664138/vanguardia-lanza-informativo-diario-sobre-movilidad.html",
+      "desc": "Un directo minuto a minuto detalla las incidencias en transportes y carreteras",
+      "date": "21 Oct 2026 07:31:55 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
+    {
+      "title": "Trump plantea transformar la sala de prensa de la Casa Blanca en una piscina",
+      "link": "https://www.lavanguardia.com/internacional/20261021/11664227/trump-plantea-transformar-sala-prensa-casa-blanca-piscina.html",
+      "desc": "Según el diario 'The New York Times', el presidente habría dicho en una reunión privada que sería “su último legado”",
+      "date": "21 Oct 2026 06:26:21 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
     }
   ]
 }
