@@ -1,7 +1,97 @@
 {
-  "updated": "2026-10-21T22:58:38Z",
+  "updated": "2026-10-22T02:59:33Z",
   "count": 24,
   "items": [
+    {
+      "title": "Feijóo se compromete a aprobar una ley anti okupas en los primeros cien días de Gobierno",
+      "link": "https://www.abc.es/espana/feijoo-compromete-aprobar-ley-anti-okupas-primeros-20261022013754-nt.html",
+      "desc": "La crisis de la vivienda fue el detonante para la convocatoria de las elecciones del próximo 29 de noviembre y es también el gancho al que Alberto Núñez Feijóo se agarra como «gran éxito» del Gobierno que espera constituir tras una ansiada victoria en las urna",
+      "date": "Thu, 22 Oct 2026 01:37:54 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "El Supremo responderá al desafío de Exteriores con el censo de la 'ley de nietos'",
+      "link": "https://www.abc.es/espana/supremo-respondera-desafio-exteriores-censo-ley-nietos-20261022013259-nt.html",
+      "desc": "La estrategia del Gobierno de ganar tiempo alegando la imposibilidad de revisar 163.000 expedientes, en su intento a la desesperada por que voten todos los nacionalizados con la 'ley de nietos', no va a servir de nada más que para perder tiempo en la cuenta at",
+      "date": "Thu, 22 Oct 2026 01:32:59 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Sánchez arma un ejército de fieles para resistir desde el Congreso tras el 29-N",
+      "link": "https://www.abc.es/espana/sanchez-arma-ejercito-fieles-resistir-congreso-tras-20261022013249-nt.html",
+      "desc": "Todo lleva a 2016. En el PSOE y en Pedro Sánchez existe una herida abierta sobre la gestión y consecuencias de la abstención del partido para que gobernara Mariano Rajoy. Este movimiento desembocó en la abrupta salida del entonces secretario general socialista",
+      "date": "Thu, 22 Oct 2026 01:32:49 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Los 172 diputados que votaron a favor de los decretos suman 242 viviendas",
+      "link": "https://www.abc.es/espana/172-diputados-votaron-favor-decretos-suman-242-20261022013145-nt.html",
+      "desc": "La cuestión de la vivienda centrará la próxima campaña para las elecciones del 29 de noviembre según lo establecido por Pedro Sánchez. Pese a sus promesas de agotar el mandato, el presidente utilizó la derrota parlamentaria por dos decretos tras el desahucio d",
+      "date": "Thu, 22 Oct 2026 01:31:45 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "La Ertzaintza dejó ir al «líder de Jardun», acusado de terrorismo, tras identificarle con datos de policías y un zulo de ETA",
+      "link": "https://www.abc.es/espana/pais-vasco/ertzaintza-libero-lider-jardun-acusado-terrorismo-tras-20261022013033-nt.html",
+      "desc": "Aratz Bilbao Gómez (Barrica, 1992), a quien el juez de la Audiencia Nacional Antonio Piña envió el martes a prisión provisional acusado de presuntos delitos de terrorismo, era el «príncipe» de Jardun Koordinadora. Según desliza la investigación de la Ertzaintz",
+      "date": "Thu, 22 Oct 2026 01:30:33 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "gen"
+    },
+    {
+      "title": "Toni Comín, piruetas políticas y un «exilio» turbulento",
+      "link": "https://www.abc.es/espana/cataluna/toni-comin-piruetas-politicas-exilio-turbulento-20261022013026-nt.html",
+      "desc": "«Crecí al lado de un mito». Para escribir de Toni Comín hay que recordar a su padre. Alfonso Carlos Comín fue un marxista cristiano de familia carlista de origen aragonés y diputado autonómico electo del PSUC en 1980. Y, a su vez, del padre de Alfonso, Jesús. ",
+      "date": "Thu, 22 Oct 2026 01:30:26 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Medio centenar de manteros y 'lateros' toman Sol con la ayuda de los acampados",
+      "link": "https://www.abc.es/espana/madrid/medio-centenar-manteros-lateros-toman-sol-ayuda-20261021012750-nt.html",
+      "desc": "El paisanaje en la Puerta del Sol siempre ha sido de lo más diverso, pero en tiempos de precampaña navideña y colocación de las luces para despedir el año 2026 a los acampados desde hace casi un mes se les han sumado unos aliados que llevaban tiempo desplazado",
+      "date": "Thu, 22 Oct 2026 01:27:50 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "La acampada de Sol degenera con peleas, protocolos por violaciones, ayuda a inmigrantes de Ceuta y sin liderazgo",
+      "link": "https://www.abc.es/espana/madrid/acampada-sol-degenera-peleas-protocolos-violaciones-ayuda-20261020012739-nt.html",
+      "desc": "La acampada de Sol resiste contra sí misma. En el último fin de semana, se han repetido enfrentamientos violentos entre la masa heterogénea que se mueve bajo el mar de plástico de la plaza. No hay un liderazgo claro, por mucho que la supuesta organización haya",
+      "date": "Thu, 22 Oct 2026 01:27:39 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Ruy González de Clavijo",
+      "link": "https://www.abc.es/espana/madrid/ruy-gonzalez-clavijo-20261021011130-nt.html",
+      "desc": "Madrid tiene a veces un delicado recuerdo con algunos de sus personajes más importantes. Este es el caso de Ruy González de Clavijo, un vecino de esta Villa que llegó al fin del mundo mientras nosotros perdimos hasta su tumba. Vivió en el Siglo XIV en la zona ",
+      "date": "Thu, 22 Oct 2026 01:11:30 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
     {
       "title": "El Cajasol Coto Córdoba se desinfla ante el Tizona Burgos y se despide del sueño de la Copa España (76-82)",
       "link": "https://www.abc.es/espana/andalucia/cordoba/cajasol-coto-cordoba-desinfla-ante-tizona-burgos-20261021231119-nts.html",
@@ -147,96 +237,6 @@
       "link": "https://www.abc.es/espana/andalucia/grados-diferencia-dia-aemet-afina-previsiones-fin-20261021202803-nts.html",
       "desc": "Después de dejar atrás varios días de inestabilidad climática en Andalucía, los cielos se despejan y las temperaturas se mantienen suaves durante la segunda mitad de octubre. Según las previsiones de la Aemet, los próximos días estarán marcados por la estabili",
       "date": "Wed, 21 Oct 2026 20:28:03 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Lluís Puig ya pasea por las calles de Terrassa arropado por la plana mayor de Junts",
-      "link": "https://www.lavanguardia.com/politica/20261021/11664885/lluis-puig-pasea-calles-terrassa-arropado-plana-mayor-junts.html",
-      "desc": "El exconseller de Cultura, diputado de Junts, tiene previsto acudir al Parlament por primera vez desde que es parlamentario este jueves; retirará el lazo amarillo y se sentará en su escaño tras una audiencia con Rull",
-      "date": "21 Oct 2026 20:24:03 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "La gran paradoja defensiva del Córdoba CF: entre los mejores recuperadores y los más goleados de Segunda División",
-      "link": "https://www.abc.es/espana/andalucia/cordoba/cordoba-cf/gran-paradoja-defensiva-cordoba-mejores-recuperadores-goleados-20261021200340-nts.html",
-      "desc": "El Córdoba CF logró en la pasada jornada mostrar su mejor imagen defensiva al lograr su primera portería a cero ante el Leganés después de nueve jornadas de muchas neblinas en la retaguardia. Precisamente, este hecho hace que el conjunto blanquiverde presente ",
-      "date": "Wed, 21 Oct 2026 20:03:40 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Condenado a 2 años de cárcel por una estafa con un falso concierto de Saiko en el Teatro La Axerquía de Córdoba",
-      "link": "https://www.abc.es/espana/andalucia/cordoba/condenado-anos-carcel-estafa-falso-concierto-saiko-20261021200226-nts.html",
-      "desc": "La Audiencia Provincial de Córdoba ha condenado a dos años de prisión a un hombre por un delito de estafa agravada tras engañar a su entonces cuñada con la supuesta organización de un concierto en la capital cordobesa. El acusado le hizo creer que iba a celebr",
-      "date": "Wed, 21 Oct 2026 20:02:27 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "La Diputación de Valladolid edita la cuarta Guía del Cocido Alimentos de Valladolid",
-      "link": "https://www.abc.es/espana/castilla-leon/diputacion-valladolid-edita-cuarta-guia-cocido-alimentos-20261021195511-nt.html",
-      "desc": "El presidente de la Diputación de Valladolid, Conrado Íscar, acompañado del alcalde de Zaratán, Roberto Migallón y de los presidentes de las Asociaciones Provinciales de Hoteleros y de Hosteleros, Francisco Javier de Frutos y Jaime Fernández respectivamente, h",
-      "date": "Wed, 21 Oct 2026 19:55:11 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "VDS 2026 une inversión, talento y tecnología de 120 países en Valencia para crear empleo",
-      "link": "https://www.abc.es/espana/comunidad-valenciana/vds-2026-une-inversion-talento-tecnologia-120-20261021195029-nt.html",
-      "desc": "El evento tecnológico VDS 2026 ha abierto las puertas de su novena edición, que reúne en el Museu de Ciències de Valencia a startups, inversores, grandes corporaciones, instituciones y líderes de la innovación de 120 países, con el foco puesto en el ciclo «dis",
-      "date": "Wed, 21 Oct 2026 19:50:29 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "La inspiradora respuesta de Carl Lewis sobre si cambiaría algo de su exitosa vida",
-      "link": "https://www.abc.es/espana/comunidad-valenciana/inspiradora-respuesta-carl-lewis-sobre-cambiaria-exitosa-20261021194243-nt.html",
-      "desc": "El deportista Carl Lewis, ganador de nueve oros olímpicos y reconocido como World Athlete of the Century, ha sido uno de los protagonistas de la primera jornada de VDS 2026, donde ha compartido el papel que el sacrificio y la preparación han jugado en su traye",
-      "date": "Wed, 21 Oct 2026 19:42:44 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "El sector textil gallego mira a París, Milán y Tokio para crear su propia incubadora de empresas",
-      "link": "https://www.abc.es/espana/galicia/sector-textil-gallego-mira-paris-milan-tokio-20261021194241-nt.html",
-      "desc": "El sector textil gallego prepara la puesta en marcha de una nueva incubadora de empresas, las llamadas 'business factory', con la que pretende impulsar la creación de compañías y reforzar la competitividad de las ya existentes. La iniciativa, promovida por el ",
-      "date": "Wed, 21 Oct 2026 19:42:41 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Castilla-La Mancha recibe casi 9 millones de euros en ayudas por el encarecimiento de fertilizantes",
-      "link": "https://www.abc.es/espana/castilla-la-mancha/castillala-mancha-recibe-millones-euros-ayudas-encarecimiento-20261021193705-nt.html",
-      "desc": "La Conferencia Sectorial de Agricultura y Desarrollo Rural ha anunciado este miércoles el reparto de 69,2 millones de euros de fondos agrarios para las comunidades autónomas, de los cuales 50,2 millones están destinados a reforzar las ayudas por el encarecimie",
-      "date": "Wed, 21 Oct 2026 19:38:12 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Guadalajara tendrá 154 viviendas de alquiler asequible en dos promociones de Casa 47",
-      "link": "https://www.abc.es/espana/castilla-la-mancha/guadalajara-154-viviendas-alquiler-asequible-dos-promociones-20261021193606-nt.html",
-      "desc": "La entidad estatal Casa 47 ha adjudicado a Lumo Arquitectos S.L.P. la redacción de los proyectos de edificación de dos promociones residenciales en Guadalajara que sumarán 154 viviendas destinadas al alquiler asequible. El contrato asciende a 470.900 euros, im",
-      "date": "Wed, 21 Oct 2026 19:36:07 +0200",
       "source": "ABC",
       "color": "#c0392b",
       "feedId": "ABC",
