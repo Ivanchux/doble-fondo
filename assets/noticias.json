@@ -1,7 +1,97 @@
 {
-  "updated": "2026-10-22T19:41:51Z",
+  "updated": "2026-10-22T22:55:34Z",
   "count": 24,
   "items": [
+    {
+      "title": "Las encuestas confirman el empate técnico entre Lula y Bolsonaro a tres días de las elecciones",
+      "link": "https://www.lavanguardia.com/internacional/20261023/11665851/encuestas-confirman-empate-tecnico-lula-bolsonaro-tres-dias-elecciones.html",
+      "desc": "Un punto porcentual separa al actual presidente del candidato ultraderechista, que ganó la primera vuelta con dos puntos de ventaja",
+      "date": "23 Oct 2026 00:36:25 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
+    {
+      "title": "Zuckerberg se la juega",
+      "link": "https://www.lavanguardia.com/opinion/20261023/11665871/zuckerberg-juega.html",
+      "desc": "El goteo de sentencias ante las miles de demandas es un mal augurio para Meta",
+      "date": "23 Oct 2026 00:05:00 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
+    {
+      "title": "Tu programa de confianza",
+      "link": "https://www.lavanguardia.com/politica/20261022/11665910/programa-confianza.html",
+      "desc": "",
+      "date": "22 Oct 2026 23:53:58 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
+    {
+      "title": "El jurado declara probado que el Baba mató en legítima defensa a la víctima del crimen del Torrejón",
+      "link": "https://www.abc.es/espana/andalucia/huelva/jurado-declara-probado-baba-mato-legitima-defensa-20261022234632-nts.html",
+      "desc": "El jurado popular ha declarado probado que Manuel S., alias 'El Baba', actuó en legítima defensa cuando disparó e hirió de muerte al que fuera su cuñado, Ramón Moriña, en un crimen ejecutado el 10 de septiembre de 2024 en la calle Margarita de El Torrejón. Con",
+      "date": "Thu, 22 Oct 2026 23:46:32 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Benjamín Prieto será el número dos del PP de Cuenca al Congreso",
+      "link": "https://www.abc.es/espana/castilla-la-mancha/benjamin-prieto-numero-dos-pp-cuenca-congreso-20261022222108-nt.html",
+      "desc": "El expresidente del PP de Cuenca Benjamín Prieto ocupará el número dos de la candidatura del partido al Congreso de los Diputados para las elecciones generales del próximo 29 de noviembre, mientras que el actual diputado nacional Daniel Pérez Osma encabezará l",
+      "date": "Thu, 22 Oct 2026 22:21:08 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Toledo ampliará la Escuela Jiménez de Rada tras recibir 300 solicitudes para 50 plazas",
+      "link": "https://www.abc.es/espana/castilla-la-mancha/toledo/toledo-ampliara-escuela-jimenez-rada-tras-recibir-20261022220008-nt.html",
+      "desc": "El Ayuntamiento de Toledo trabajará para ampliar los recursos de la Escuela de Estudios Toledanos 'Jiménez de Rada' después de que su primera edición haya recibido 300 solicitudes para las 50 plazas disponibles. La elevada demanda ha dejado fuera a 250 persona",
+      "date": "Thu, 22 Oct 2026 22:00:37 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "La Fiscalía pide que Óscar López sea juzgado por la justicia ordinaria por propagar el bulo de la bomba lapa",
+      "link": "https://www.abc.es/espana/fiscalia-pide-oscar-lopez-juzgado-justicia-ordinaria-20261022214538-nt.html",
+      "desc": "El ministro para la Transformación Digital, Óscar López , podría ser juzgado por la Justicia ordinaria por propagar el bulo de la bomba lapa . La Fiscalía de la Audiencia Provincial de Madrid se ha mostrado partidaria de rechazar que el líder del PSOE de Madri",
+      "date": "Thu, 22 Oct 2026 21:45:38 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Un consorcio empresarial se ofrece a construir la presa de Alcolea",
+      "link": "https://www.abc.es/espana/andalucia/consorcio-empresarial-ofrece-construir-presa-alcolea-20261022214128-nts.html",
+      "desc": "Grupo Azvi ha presentado a la Consejería de Agua de la Junta de Andalucía una propuesta de iniciativa de colaboración público-privada para la construcción, puesta en marcha, operación y mantenimiento del sistema hidráulico integrado por la Presa de Alcolea y e",
+      "date": "Thu, 22 Oct 2026 21:41:28 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Agricultura vigila el virus Shamonda en Toledo tras morir una persona en Francia",
+      "link": "https://www.abc.es/espana/castilla-la-mancha/toledo/agricultura-vigila-virus-shamonda-toledo-tras-morir-20261022213430-nt.html",
+      "desc": "El Ministerio de Agricultura, Pesca y Alimentación mantiene bajo seguimiento la evolución del virus Shamonda después de que se haya confirmado su presencia en ganado de al menos seis provincias españolas, entre ellas Toledo, y tras conocerse la muerte en Franc",
+      "date": "Thu, 22 Oct 2026 21:34:30 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
     {
       "title": "Valencia presenta un presupuesto récord para 2027 con 279 millones en inversiones",
       "link": "https://www.abc.es/espana/comunidad-valenciana/valencia-presenta-presupuesto-record-2027-279-millones-20261022212219-nt.html",
@@ -143,100 +233,10 @@
       "caso": "other"
     },
     {
-      "title": "El Seprona investiga la muerte de un jabalí en un bar de copas durante las fiestas del Pilar",
-      "link": "https://www.abc.es/espana/aragon/seprona-investiga-muerte-jabali-bar-copas-fiestas-20261022195842-nt.html",
-      "desc": "El Servicio de Protección de la Naturaleza de la Guardia Civil (Seprona) investiga cómo se redujo y mató a un jabalí que recorrió en la madrugada del 17 al 18 de octubre varias calles del centro de Zaragoza hasta meterse en un local de copas del Casco Viejo, E",
-      "date": "Thu, 22 Oct 2026 19:58:42 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "El Govern confirma otros nueve casos de peste porcina en Collserola",
-      "link": "https://www.lavanguardia.com/local/barcelona/20261022/11665812/govern-confirma-9-nuevos-casos-ppa-zona-alto-riesgo-collserola.html",
-      "desc": "En esta última semana se han capturado 308 jabalíes dentro de la zona restringida",
-      "date": "22 Oct 2026 19:55:40 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
       "title": "La revolución de Gutenberg, protagonista del primer día de los Reyes y sus hijas en Oviedo",
       "link": "https://www.lavanguardia.com/cultura/20261022/11665803/revolucion-gutenberg-protagonista-primera-noche-reyes-hijas-oviedo.html",
       "desc": "La Familia Real asiste al tradicional concierto que da comienzo a los actos de los Premios Princesa de Asturias, dedicado este año a la invención de la imprenta",
       "date": "22 Oct 2026 19:43:28 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "El alcalde, sobre los barrios desfavorecidos de Córdoba: «Les cuesta recortar, pero hay mejoras»",
-      "link": "https://www.abc.es/espana/andalucia/cordoba/alcalde-sobre-barrios-desfavorecidos-cordoba-cuesta-recortar-20261022193456-nts.html",
-      "desc": "El alcalde de Córdoba, José María Bellido , ha defendido este jueves «los esfuerzos» con medidas para hacer frente a la situación que viven determinados barrios de la ciudad, como Sector Sur, Guadalquivir, Palmeras y Moreras, a los que les «cuesta recortar bre",
-      "date": "Thu, 22 Oct 2026 19:34:56 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Así es el Uro Vamtac, el versátil y fuerte vehículo que ha atropellado a un soldado en Cerro Muriano",
-      "link": "https://www.abc.es/espana/andalucia/cordoba/uro-vamtac-versatil-fuerte-vehiculo-atropellado-soldado-20261022193438-nts.html",
-      "desc": "La muerte de un soldado atropellado por un vehículo en la base de Cerro Muriano en Córdoba ha causado una conmoción en la ciudad. Sergio Ajenjo ha fallecido tras el accidente con un vehículo llamado Uro Vamtac, de fabricación española, en unas maniobras . El V",
-      "date": "Thu, 22 Oct 2026 19:34:39 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Los vecinos de Santa Bárbara exigen medidas «urgentes» ante una nueva plaga de cucarachas",
-      "link": "https://www.abc.es/espana/castilla-la-mancha/toledo/vecinos-santa-barbara-exigen-medidas-urgentes-ante-20261022193423-nt.html",
-      "desc": "La Asociación Vecinal Alcántara ha vuelto a denunciar la presencia de cucarachas en el barrio de Santa Bárbara y ha exigido al Ayuntamiento de Toledo medidas «urgentes, eficaces y duraderas». El pasado 8 de julio, la Asociación ya alertó de esta situación y de",
-      "date": "Thu, 22 Oct 2026 19:34:24 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "El patrimonio inmobiliario de Pedro Sánchez: dos viviendas, dos plazas de aparcamiento y 12.845 euros anuales por alquilar inmuebles",
-      "link": "https://www.abc.es/espana/patrimonio-inmobiliario-pedro-sanchez-dos-viviendas-dos-20261022193058-nt.html",
-      "desc": "La vivienda en España lleva semanas en el ojo del huracán, más aún después de que el fracaso del Gobierno a la hora de sacar adelante medidas para apaciguar este problema acabara por precipitar el adelanto electoral anunciado por Pedro Sánchez a principios de ",
-      "date": "Thu, 22 Oct 2026 19:30:58 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "El PP espera que Feijóo esté en Andalucía «tres o cuatro veces» durante la campaña",
-      "link": "https://www.abc.es/espana/andalucia/pp-espera-feijoo-andalucia-tres-cuatro-veces-20261022192426-nts.html",
-      "desc": "El líder nacional del PP, Alberto Núñez Feijóo, participará en la campaña electoral de las elecciones generales en Andalucía al menos «tres o cuatro veces». Así lo esperan en el PP andaluz tras el acto sobre vivienda que protagonizó el pasado miércoles en Sevi",
-      "date": "Thu, 22 Oct 2026 19:24:26 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Detectado el virus Shamonda en tres explotaciones de vacuno de leche en Girona",
-      "link": "https://www.lavanguardia.com/vida/20261022/11665772/detectado-virus-shamonda-tres-explotaciones-vacuno-leche-girona.html",
-      "desc": "Las explotaciones afectadas han presentado síntomas compatibles con la enfermedad, “principalmente fiebre, diarrea y disminución de la producción”",
-      "date": "22 Oct 2026 18:48:33 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "Portugal reanuda las acampadas por la vivienda",
-      "link": "https://www.lavanguardia.com/internacional/20261022/11665666/portugal-reanuda-acampadas-vivienda.html",
-      "desc": "Los manifestantes ignoran las advertencias de la policía y han decidido dormir al raso para evitar que desalojen las tiendas de campaña",
-      "date": "22 Oct 2026 18:38:32 +0200",
       "source": "La Vanguardia",
       "color": "#8e44ad",
       "feedId": "LaVanguardia",
