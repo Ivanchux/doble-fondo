@@ -1,7 +1,117 @@
 {
-  "updated": "2026-10-23T19:43:40Z",
+  "updated": "2026-10-23T22:50:35Z",
   "count": 24,
   "items": [
+    {
+      "title": "La aldea gala",
+      "link": "https://www.lavanguardia.com/opinion/20261024/11666798/aldea-gala.html",
+      "desc": "",
+      "date": "24 Oct 2026 00:30:00 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
+    {
+      "title": "Un canto a la esperanza",
+      "link": "https://www.lavanguardia.com/opinion/20261024/11666817/canto-esperanza.html",
+      "desc": "La princesa Leonor lleva tiempo enganchada a la realidad que viven muchos jóvenes de su edad",
+      "date": "24 Oct 2026 00:05:00 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
+    {
+      "title": "Un atentado mortal de signo racista sacude Francia en plena ola de protestas",
+      "link": "https://www.lavanguardia.com/internacional/20261024/11666807/atentado-mortal-signo-racista-sacude-francia-plena-ola-protestas.html",
+      "desc": "El ataque de Trappes por un individuo que disparó contra personas de aspecto extranjero añade más tensión a la protesta del sábado",
+      "date": "24 Oct 2026 00:05:00 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
+    {
+      "title": "Testosterona en el Supremo",
+      "link": "https://www.lavanguardia.com/politica/20261024/11666638/testosterona-supremo-amnistia-constitucional-puigdemont.html",
+      "desc": "",
+      "date": "24 Oct 2026 00:05:00 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
+    {
+      "title": "Sólo 91 de los 31.390 expedientes revisados cumplen los requisitos de la 'ley de nietos'",
+      "link": "https://www.abc.es/espana/solo-31000-expedientes-nietos-bien-tramitados-20261024231709-nt.html",
+      "desc": "Dos informes de la Dirección General de Españoles y Asuntos Consulares y uno del Instituto Nacional de Estadística aportados por la Abogacía del Estado a la Sala Tercera del Tribunal Supremo revelan que se han revisado 31.390 expedientes de beneficiados por la",
+      "date": "Fri, 23 Oct 2026 23:17:09 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Tensión en Burgos al coincidir sendas concentraciones de colectivos radicales de izquierdas y de derechas",
+      "link": "https://www.abc.es/espana/castilla-leon/tension-burgos-coincidir-sendas-concentraciones-colectivos-radicales-20261023224750-nt.html",
+      "desc": "Un fuerte despliegue policial ha impedido que la tensión vivida en el centro de Burgos a raíz de coincidir sendas manifestaciones de colectivos radicales de izquierdas y de derechas pudiera derivar en incidentes. Los primeros en concentrarse han sido los grupo",
+      "date": "Fri, 23 Oct 2026 22:47:50 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "García Albiol ve el caso de la familia marroquí desahuciada en Vitoria que cobra 2.450 euros al mes de ayudas y dice lo que muchos piensan: «No puede ser que en España estemos manteniendo a familias de fuera»",
+      "link": "https://www.abc.es/espana/cataluna/garcia-albiol-familia-marroqui-desahuciada-vitoria-cobra-euros-ayudas-manteniendo-20261023214258-nt.html",
+      "desc": "Tras una mañana de protestas y cargas policiales, una familia marroquí ha sido desahuciada este viernes 23 de octubre de la vivienda en la que residía en el barrio vitoriano de Sansomendi. El Ayuntamiento de Vitoria ha descartado la adjudicación de una viviend",
+      "date": "Fri, 23 Oct 2026 22:06:58 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Sarasate en el Teatro de Rojas",
+      "link": "https://www.abc.es/espana/castilla-la-mancha/toledo/sarasate-teatro-rojas-20261023215949-nt.html",
+      "desc": "En su número de 6 de abril de 1881, la revista semanal Crónica de la música se hace eco de la llegada a Madrid de Pablo Sarasate, el eminente violinista y compositor de fama mundial que por esas mismas fechas se encontraba culminando la más celebrada de sus Fa",
+      "date": "Fri, 23 Oct 2026 21:59:49 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Lili Horvát levanta el telón de la Seminci con 'My Notes on Mars', un melodrama salpicado de ciencia ficción",
+      "link": "https://www.abc.es/espana/castilla-leon/lili-horvat-levanta-telon-seminci-notes-mars-20261023215052-nt.html",
+      "desc": "Seis años después de conquistar en el año de la pandemia la Espiga de Oro, el Premio Pilar Miró a la mejor nueva dirección y el premio a la mejor actriz para Natasa Stork con 'Preparativos para estar juntos un periodo de tiempo desconocido', la cineasta húngar",
+      "date": "Fri, 23 Oct 2026 21:50:52 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Willie D. Burton:  «'La Odisea' ha sido la película más exigente y desafiante de mi carrera»",
+      "link": "https://www.abc.es/espana/castilla-leon/willie-burton-odisea-pelicula-exigente-desafiante-carrera-20261023214337-nt.html",
+      "desc": "Pidió colocar el escenario para las entrevistas en un rincón del vestíbulo del Teatro Calderón de Valladolid -un par de sillas y una pequeña mesa- de forma estratégica para escuchar el menor ruido posible del trasiego de la gente. Se fija en la grabadora que p",
+      "date": "Fri, 23 Oct 2026 21:43:37 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "La red de Atención Temprana de Castilla-La Mancha atiende a más de 8.000 familias al año",
+      "link": "https://www.abc.es/espana/castilla-la-mancha/red-atencion-temprana-castillala-mancha-atiende-8000-20261023213558-nt.html",
+      "desc": "La red de Atención Temprana de Castilla-La Mancha atiende a más de 8.000 familias cada año a través de los más de 70 centros repartidos por las cinco provincias. Un servicio dirigido a niños de entre cero y seis años que no se limita a los menores con discapac",
+      "date": "Fri, 23 Oct 2026 21:35:58 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
     {
       "title": "Sánchez acepta sentarse con Jordi Wild y ser entrevistado: «Ahí estaré»",
       "link": "https://www.abc.es/espana/sanchez-acepta-sentarse-jordi-wild-entrevistado-ahi-20261023213146-nt.html",
@@ -13,7 +123,7 @@
       "caso": "other"
     },
     {
-      "title": "La Seminci echa a andar con un «emocionado» recuerdo al «legado» de Cienfuegos",
+      "title": "La 71 Seminci echa a andar con un «emocionado» recuerdo al «legado» de Cienfuegos",
       "link": "https://www.abc.es/espana/castilla-leon/seminci-echa-andar-emocionado-recuerdo-legado-cienfuegos-20261023213059-nt.html",
       "desc": "Ni el ruido creado estos días atrás a cuenta de los cambios en la convocatoria de ayudas a las producciones audiovisuales por parte de la Consejería de Cultura, en manos de Vox, ni las manifestaciones de los sindicatos de la Policía Local y a favor de una Pale",
       "date": "Fri, 23 Oct 2026 21:30:59 +0200",
@@ -23,7 +133,7 @@
       "caso": "other"
     },
     {
-      "title": "La Policía carga contra manifestantes antifascistas tras el mitin de Abascal en Mahón",
+      "title": "La Policía carga contra manifestantes radicales tras el mitin de Abascal en Mahón",
       "link": "https://www.abc.es/espana/baleares/policia-carga-manifestantes-antifascistas-tras-mitin-abascal-20261023211951-nt.html",
       "desc": "La visita del presidente de Vox, Santiago Abascal, a Menorca ha estado marcada este viernes por las protestas de unos 300 manifestantes, que han intentado acercarse al mitin electoral celebrado en la plaza de la Conquesta de Mahón . La tensión ha ido aumentand",
       "date": "Fri, 23 Oct 2026 21:19:51 +0200",
@@ -40,16 +150,6 @@
       "source": "ABC",
       "color": "#c0392b",
       "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Sánchez acepta la propuesta del youtuber Jordi Wild para acudir a su programa tras el sí de Feijóo, Abascal y Colau",
-      "link": "https://www.lavanguardia.com/politica/20261023/11666759/sanchez-acepta-propuesta-youtuber-jordi-wild-acudir-programa-entrevistas.html",
-      "desc": "El anuncio del presidente se produce después del&nbsp;éxito de audiencias que dejó su paso por el programa 'La Revuelta'",
-      "date": "23 Oct 2026 20:44:37 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
       "caso": "other"
     },
     {
@@ -141,106 +241,6 @@
       "color": "#c0392b",
       "feedId": "ABC",
       "caso": "other"
-    },
-    {
-      "title": "Carriedo anima a los grupos a hacer aportaciones a un presupuesto «por un futuro mejor»",
-      "link": "https://www.abc.es/espana/castilla-leon/carriedo-anima-grupos-aportaciones-presupuesto-futuro-mejor-20261023194734-nt.html",
-      "desc": "Con la teórica tranquilidad de que esta vez, sí, el proyecto de presupuestos para el próximo año saldrá adelante gracias a la mayoría absoluta que suman los socios de gobierno, PP y Vox , el consejero de Economía y Hacienda, Carlos Fernández Carriedo, daba est",
-      "date": "Fri, 23 Oct 2026 19:47:35 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "El Rey advierte ante las elecciones del 29-N que la democracia “no se agota” en las urnas",
-      "link": "https://www.lavanguardia.com/cultura/20261023/11666741/rey-advierte-elecciones-29-n-democracia-agota-urnas.html",
-      "desc": "La Princesa Leonor reivindica la esperanza frente al desencanto de los jóvenes y sus dificultades para construir un futuro",
-      "date": "23 Oct 2026 19:47:26 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "Discurso íntegro del Rey Felipe VI en los Premios Princesa de Asturias 2026",
-      "link": "https://www.abc.es/espana/casa-real/discurso-integro-rey-felipe-premios-princesa-asturias-20261023194658-nt.html",
-      "desc": "Es una alegría estar de vuelta en Asturias. Estos premios, ya por sus 46 ediciones, han adquirido la cadencia serena de las cosas bien hechas, pero sin renunciar a la novedad: siempre hay algo que nos sorprende. Gracias a todos por acompañarnos, a la Fundación",
-      "date": "Fri, 23 Oct 2026 19:46:58 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "El Rey defiende que la democracia «no se agota en unas elecciones» y pide «cuidar sus formas e instituciones»",
-      "link": "https://www.abc.es/espana/casa-real/rey-defiende-democracia-agota-elecciones-pide-cuidar-20261023194533-nt.html",
-      "desc": "Hay escenarios donde la arquitectura institucional de España adquiere su máxima expresión y simbolismo. El Teatro Campoamor de Oviedo , engalanado una vez más para acoger la cuadragésima sexta edición de los Premios Princesa de Asturias, se convirtió este vier",
-      "date": "Fri, 23 Oct 2026 19:45:33 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Galicia sigue a la cola de España en calidad de vida pese a mejorar sus resultados",
-      "link": "https://www.abc.es/espana/galicia/galicia-sigue-cola-espana-calidad-vida-pese-20261023194026-nt.html",
-      "desc": "Galicia vuelve a situarse entre las comunidades autónomas con peor calidad de vida de España, pese a experimentar una ligera mejoría durante el último año. La comunidad ha obtenido 99,88 puntos en el Indicador Multidimensional de Calidad de Vida (IMCV) corresp",
-      "date": "Fri, 23 Oct 2026 19:40:26 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "La Princesa Leonor apela al sentido de la esperanza frente a «estos tiempos de desencanto social profundo»",
-      "link": "https://www.abc.es/espana/casa-real/princesa-leonor-apela-sentido-esperanza-frente-tiempos-20261023193653-nt.html",
-      "desc": "La voz de la Princesa de Asturias ha resonado este viernes en el Teatro Campoamor de Oviedo no solo con la solemnidad propia del galardón anual, sino con la lucidez y el aplomo de quien asume la voz de toda una generación «en estos tiempos de desencanto social",
-      "date": "Fri, 23 Oct 2026 19:36:53 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Discurso íntegro de la Princesa Leonor en los Premios Princesa de Asturias 2026",
-      "link": "https://www.abc.es/espana/casa-real/discurso-integro-princesa-leonor-premios-princesa-asturias-20261023193647-nt.html",
-      "desc": "Permítanme que abra una ventana al pasado. Situémonos, estamos en 1981, en este mismo escenario y durante la primera entrega de estos premios. Anuncian el de Comunicación y Humanidades y sale, con una notita en la mano, José Ortega Spottorno. La nota es de Mar",
-      "date": "Fri, 23 Oct 2026 19:36:47 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Seat detiene la producción de eléctricos en Martorell de forma provisional",
-      "link": "https://www.lavanguardia.com/dinero/20261023/11666723/seat-martorell-produccion-electricos-martorell-fabrica.html",
-      "desc": "La falta de celdas de baterías obliga a programar parones varios días",
-      "date": "23 Oct 2026 19:28:01 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "El Córdoba CF saca músculo económico y dispara sus ingresos anuales hasta los 22,4 millones de euros",
-      "link": "https://www.abc.es/espana/andalucia/cordoba/cordoba-cf/cordoba-saca-musculo-economico-dispara-ingresos-anuales-20261023192755-nts.html",
-      "desc": "El Córdoba CF quiere consolidarse como mucho más que un club de fútbol. La entidad blanquiverde continúa avanzando en su transformación empresarial y aspira a convertirse en uno de los principales motores de la provincia y obtener rédito para su proyecto depor",
-      "date": "Fri, 23 Oct 2026 19:27:55 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "La Fiscalía pide añadir a la imputación de Zapatero el delito de malversación",
-      "link": "https://www.lavanguardia.com/politica/20261023/11666707/fiscalia-pide-anadir-imputacion-zapatero-delito-malversacion.html",
-      "desc": "El juez Calama urge a Patrimonio un listado de regalos devueltos por el expresidente",
-      "date": "23 Oct 2026 19:02:12 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
-      "caso": "zap"
     }
   ]
 }
