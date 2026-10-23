@@ -1,7 +1,87 @@
 {
-  "updated": "2026-10-22T22:55:34Z",
+  "updated": "2026-10-23T03:02:58Z",
   "count": 24,
   "items": [
+    {
+      "title": "Génova cierra una «renovación silenciosa» más profunda de lo esperado para el 29N",
+      "link": "https://www.abc.es/espana/genova-cierra-renovacion-silenciosa-profunda-esperado-29n-20261023025045-nt.html",
+      "desc": "Las listas electorales siempre generan tensiones internas. En Génova habían advertido de que habría renovación, pero sin giros inesperados ni fichajes estrella. Aunque todavía quedan algunas incógnitas por resolver, los cambios son más profundos de lo que much",
+      "date": "Fri, 23 Oct 2026 02:50:45 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Diputados y altos cargos del PSOE se convierten en falsos periodistas en redes",
+      "link": "https://www.abc.es/espana/psoe-pasar-altos-cargos-periodistas-neutrales-pseudomedios-20261023025033-nt.html",
+      "desc": "Tras varios años con la prensa bajo la lupa, poder contra el que el propio presidente del Gobierno y distintos ministros socialistas han lanzado duros ataques a lo largo de los últimos años, el PSOE ha pasado a la acción haciendo exactamente lo mismo que cuest",
+      "date": "Fri, 23 Oct 2026 02:50:33 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Frente Amplio cierra la puerta a retirar listas al Congreso como en Teruel",
+      "link": "https://www.abc.es/espana/frente-amplio-cierra-puerta-retirar-listas-teruel-20261023025027-nt.html",
+      "desc": "No hay conversaciones ni negociaciones entre Frente Amplio y PSOE para cerrar un pacto para retirar listas al Congreso de los Diputados en aquellas provincias medianas. Fuentes de todos los partidos del artefacto electoral que ha sustituido al Sumar de Yolanda",
+      "date": "Fri, 23 Oct 2026 02:50:27 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Los policías critican la pasividad de los delegados del Gobierno con los radicales ante el 29N",
+      "link": "https://www.abc.es/espana/servicios-informacion-detectan-movimientos-grupos-radicales-reventar-20261023024929-nt.html",
+      "desc": "La Policía Nacional se prepara para un «otoño caliente» con un abanico de grupos radicales preparados para ganar visibilidad gracias a sus actos violentos durante la campaña electoral. Mientras, las calles se agitan, sus agentes critican la pasividad de los de",
+      "date": "Fri, 23 Oct 2026 02:49:29 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "La falsa urgencia que 'siembra' de robos los aparcamientos del sur de Madrid",
+      "link": "https://www.abc.es/espana/madrid/falsa-urgencia-siembra-robos-aparcamientos-sur-madrid-20260924023020-nt.html",
+      "desc": "Un parking de un centro comercial de Fuenlabrada, una mujer de avanzada edad que saca las bolsas del carro para meterlas en su maletero y un vehículo que aparca justo delante del suyo. Este es el escenario de una función que no ha hecho más que empezar. Primer",
+      "date": "Fri, 23 Oct 2026 02:30:20 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Tres falsos policías encapuchados asaltan a una empresaria en su coche y le roban 70.000 euros",
+      "link": "https://www.abc.es/espana/madrid/tres-falsos-policias-encapuchados-asaltan-empresaria-coche-20261022023009-nt.html",
+      "desc": "Atraco y fuga de película por pleno barrio de Chamberí a la luz del día. Una empresaria de origen chino fue ayer jueves asaltada por una banda de 'policías ful' cuando circulaba con su coche por el distrito. Es el término que se utiliza en el argot criminal pa",
+      "date": "Fri, 23 Oct 2026 02:30:09 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Un juez abre una investigación penal por el incendio de más de 800 trasteros en Villaverde",
+      "link": "https://www.abc.es/espana/madrid/juez-abre-investigacion-penal-incendio-800-trasteros-20261022022938-nt.html",
+      "desc": "El pasado 18 de junio, varias dotaciones de Bomberos del Ayuntamiento de Madrid trabajaron incesantemente para sofocar las llamas que brotaban de una macronave de trasteros ubicada en el polígono industrial El Gato del madrileño distrito de Villaverde. Cuatro ",
+      "date": "Fri, 23 Oct 2026 02:29:38 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Barcelona fue este verano la segunda urbe europea con más muertes por el cambio climático",
+      "link": "https://www.lavanguardia.com/vida/20261023/11665726/barcelona-verano-segunda-urbe-europea-mas-muertes-cambio-climatico.html",
+      "desc": "Un estudio del Imperial College de Londres cifra en 1.587 los fallecimientos por el calentamiento en el área metropolitana en verano",
+      "date": "23 Oct 2026 01:05:00 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
     {
       "title": "Las encuestas confirman el empate técnico entre Lula y Bolsonaro a tres días de las elecciones",
       "link": "https://www.lavanguardia.com/internacional/20261023/11665851/encuestas-confirman-empate-tecnico-lula-bolsonaro-tres-dias-elecciones.html",
@@ -160,86 +240,6 @@
       "source": "ABC",
       "color": "#c0392b",
       "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "La Familia Real inaugura con música la agenda de los Premios Princesa de Asturias",
-      "link": "https://www.abc.es/espana/casa-real/familia-real-inaugura-musica-agenda-premios-princesa-20261022203317-nt.html",
-      "desc": "La Familia Real al completo ya está en Oviedo. Don Felipe y Doña Letizia, acompañados por la Princesa Leonor y la Infanta Sofía, han presidido esta tarde el tradicional concierto de los Premios Princesa de Asturias , primera gran cita de una agenda que tendrá ",
-      "date": "Thu, 22 Oct 2026 20:33:17 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Varios guardias civiles heridos leves tras embestir una narcolancha a una patrullera en Cádiz",
-      "link": "https://www.abc.es/espana/andalucia/cadiz/varios-guardias-civiles-heridos-leves-tras-embestir-20261022203155-nts.html",
-      "desc": "La desembocadura del río Guadalquivir ha vivido este jueves otro episodio de violencia relacionado con el narcotráfico, que ha provocado varios heridos leves entre los agentes, aunque finalmente se ha podido detener a cinco de los tripulantes de dos narcolanch",
-      "date": "Thu, 22 Oct 2026 20:31:56 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Rueda da a entender que el ajuste por la salida de Fabiola García será limitado: «El Gobierno funciona perfectamente»",
-      "link": "https://www.abc.es/espana/galicia/rueda-entender-ajuste-salida-fabiola-garcia-limitado-20261022203118-nt.html",
-      "desc": "El presidente de la Xunta, Alfonso Rueda, se ha reafirmado este jueves en que su Gobierno «funciona bien» y en que está «satisfecho» con el mismo, dando a entender que la remodelación forzada por la salida de la conselleira de Política Social, Fabiola García, ",
-      "date": "Thu, 22 Oct 2026 20:31:18 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "El Ayuntamiento de Córdoba aprueba este martes contratar la segunda fase de la reforma del estadio San Eulogio",
-      "link": "https://www.abc.es/espana/andalucia/cordoba/ayuntamiento-cordoba-aprueba-martes-contratar-segunda-fase-20261022202654-nts.html",
-      "desc": "El Instituto Municipal de Deportes de Córdoba (Imdeco) llevará al consejo rector del próximo martes la aprobación del expediente de contratación de las obras de la segunda fase de reforma del estadio San Eulogio , con un presupuesto base de licitación de 2,07 ",
-      "date": "Thu, 22 Oct 2026 20:26:55 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "La consellera Albalat lidera la lista del PP por Castellón y fuerza cambios en el Gobierno de Llorca",
-      "link": "https://www.abc.es/espana/comunidad-valenciana/consellera-albalat-lidera-lista-pp-castellon-obliga-20261022201623-nt.html",
-      "desc": "A pocas horas del mitin de precampaña que el líder nacional del PP, Alberto Núñez Feijóo, protagonizará este viernes en Valencia, el partido empieza a desvelar sus cartas en la Comunidad Valenciana para las elecciones generales del 29 de noviembre. La conselle",
-      "date": "Thu, 22 Oct 2026 20:16:23 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Cargas policiales y lanzamiento de objetos: máxima tensión en la manifestación contra Vito Quiles en Zaragoza",
-      "link": "https://www.abc.es/espana/aragon/cargas-policiales-lanzamiento-objetos-maxima-tension-manifestacion-20261022200837-nt.html",
-      "desc": "La presencia de Vito Quiles en el entorno de la Universidad de Zaragoza había sido desautorizada por la institución. Pasadas las 19.30 horas de este jueves 22 de octubre, partidarios y detractores de Quiles han protagonizado algunos momentos de tensión, con la",
-      "date": "Thu, 22 Oct 2026 20:08:37 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Pablo Motos, sobre por qué no quiere ser padre: «Me insistían mi mujer y mis padres. Valoré cómo había sido de niño y dije: 'Ni de coña tengo un delincuente enano por casa'»",
-      "link": "https://www.abc.es/espana/comunidad-valenciana/pablo-motos-sobre-quiere-padre-insistian-mujer-20261022200139-nt.html",
-      "desc": "Tener hijos es una de las decisiones más importantes en la vida de una persona . Mientras que para algunos formar una familia es uno de sus grandes sueños, otros no tienen tan claro dar ese paso o, directamente, descartan la posibilidad de convertirse en padre",
-      "date": "Thu, 22 Oct 2026 20:01:40 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "La revolución de Gutenberg, protagonista del primer día de los Reyes y sus hijas en Oviedo",
-      "link": "https://www.lavanguardia.com/cultura/20261022/11665803/revolucion-gutenberg-protagonista-primera-noche-reyes-hijas-oviedo.html",
-      "desc": "La Familia Real asiste al tradicional concierto que da comienzo a los actos de los Premios Princesa de Asturias, dedicado este año a la invención de la imprenta",
-      "date": "22 Oct 2026 19:43:28 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
       "caso": "other"
     }
   ]
