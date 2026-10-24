@@ -1,7 +1,67 @@
 {
-  "updated": "2026-10-24T20:05:26Z",
+  "updated": "2026-10-24T23:56:45Z",
   "count": 24,
   "items": [
+    {
+      "title": "España roza la victoria en Eurovisión Junior: Lucas Paulano queda segundo y Armenia se lleva el triunfo",
+      "link": "https://www.lavanguardia.com/television/20261024/11667363/espana-roza-victoria-eurovision-junior-lucas-paulano-queda-segundo-armenia-lleva-triunfo-18-puntos.html",
+      "desc": "El candidato español consiguió la segunda posición con 'Cuore Bello (Te Quiero, Te Quiero)' en una emocionante final celebrada en Malta, donde la armenia Naré se proclamó vencedora",
+      "date": "24 Oct 2026 23:40:26 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
+    {
+      "title": "El rey Felipe, operado de cataratas en su ojo izquierdo en Oviedo",
+      "link": "https://www.lavanguardia.com/gente/20261024/11667361/rey-felipe-operado-cataratas-ojo-izquierdo-oviedo.html",
+      "desc": "La intervención, de carácter rutinario, se ha desarrollado sin incidencias",
+      "date": "24 Oct 2026 23:06:36 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
+    {
+      "title": "El Rey, operado con éxito de cataratas en el ojo izquierdo en Oviedo",
+      "link": "https://www.abc.es/espana/casa-real/felipe-operado-cataratas-ojo-izquierdo-20261024225005-nt.html",
+      "desc": "Su Majestad el Rey ha sido intervenido con éxito de cataratas en su ojo izquierdo en el Instituto Oftalmológico Fernández-Vega de Oviedo. Según informaron fuentes de la Casa del Rey pasadas las 22:30 horas de este sábado, la operación se resolvió en apenas med",
+      "date": "Sat, 24 Oct 2026 22:50:06 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Quinientos",
+      "link": "https://www.abc.es/espana/castilla-leon/quinientos-20261023220655-nt.html",
+      "desc": "Quinientos encapuchados no son suficientes para que un país cambie. No lo son ni lo serán por muy violentos que sean, por mucho que ataquen a la policía, por mucho que revienten terrazas de bar o por mucho que se autoproclamen salvadores de la libertad, demócr",
+      "date": "Sat, 24 Oct 2026 22:06:55 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Besos consentidos",
+      "link": "https://www.abc.es/espana/castilla-leon/ana-pedrero-besos-consentidos-20261023220621-nt.html",
+      "desc": "Irlanda ha anunciado que recomendará restringir los besos y abrazos de los abuelos a sus nietos si no existe un previo consentimiento explícito. Un «solo sí es sí» al tierno beso de la memoria. Los ideólogos del nuevo orden afectivo esgrimen que se trata de ed",
+      "date": "Sat, 24 Oct 2026 22:06:21 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Jóvenes de los disturbios en Barcelona: “Nos aburríamos en casa”",
+      "link": "https://www.lavanguardia.com/local/barcelona/20261024/11667352/aburriamos-casa.html",
+      "desc": "Centenares de chicos y chicas provocan daños en el centro de la ciudad en una convocatoria de redes sociales",
+      "date": "24 Oct 2026 21:45:17 +0200",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
     {
       "title": "Un muerto y cuatro heridos en una colisión frontal en Alhaurín el Grande",
       "link": "https://www.abc.es/espana/andalucia/malaga/muerto-cuatro-heridos-colision-frontal-alhaurin-grande-20261024205830-nts.html",
@@ -23,7 +83,7 @@
       "caso": "other"
     },
     {
-      "title": "José Luis Navarro Jr. defenderá su corona europea ante e Kamil Kuzdzien",
+      "title": "José Luis Navarro Jr. defenderá su corona europea ante Kamil Kuzdzien",
       "link": "https://www.abc.es/espana/andalucia/cordoba/jose-luis-navarro-defendera-corona-europea-ante-20261024203249-nts.html",
       "desc": "José Luis Navarro Jr. ya conoce quién será su próximo obstáculo para prolongar su reinado continental. El boxeador cordobés realizará su primera defensa del título de campeón de Europa del peso supermedio el próximo viernes 18 de diciembre ante el polaco Kamil",
       "date": "Sat, 24 Oct 2026 20:32:50 +0200",
@@ -53,9 +113,9 @@
       "caso": "other"
     },
     {
-      "title": "Grupos de encapuchados vestidos de negro causan destrozos en el centro de Barcelona emulando los disturbios de París",
+      "title": "Un centenar de detenidos por los destrozos y saqueos de los antisistema en Barcelona",
       "link": "https://www.abc.es/espana/cataluna/disturbios-centro-barcelona-marcha-sistema-20261024202028-nt.html",
-      "desc": "Emulando las escenas de los disturbios de París, varias centenares de jóvenes ha convertido esta tarde y noche el centro de Barcelona en un campo de batalla, con barricadas ardiendo y comercios saqueados. Decenas de dotaciones de los Mossos d'Esquadra se están",
+      "desc": "Emulando las escenas de los disturbios de París, centenares de jóvenes, unos 500 en el momento álgido de los disturbios, han convertido esta tarde y noche el centro de Barcelona en un campo de batalla, con barricadas ardiendo y comercios saqueados. Decenas de ",
       "date": "Sat, 24 Oct 2026 20:20:29 +0200",
       "source": "ABC",
       "color": "#c0392b",
@@ -143,9 +203,9 @@
       "caso": "other"
     },
     {
-      "title": "Disturbios en Barcelona en una concentración alentada por redes",
+      "title": "Disturbios y pillaje en Barcelona tras una protesta que emulaba a las de Francia",
       "link": "https://www.lavanguardia.com/local/barcelona/20261024/11667279/mossos-guardia-urbana-dispersan-concentracion-sistema-placa-catalunya.html",
-      "desc": "Algunas calles del centro de Barcelona han sido cortadas y varios comercios, incluido el Corte Inglés, han cerrado sus puertas después de que varias decenas de jóvenes lanzaran piedras, petardos y bengalas",
+      "desc": "Algunas calles del centro de Barcelona han sido cortadas y varios comercios han cerrado sus puertas después de que cientos de jóvenes hayan provocado destrozos en el mobiliario urbano y saqueado 14 tiendas",
       "date": "24 Oct 2026 19:17:32 +0200",
       "source": "La Vanguardia",
       "color": "#8e44ad",
@@ -180,66 +240,6 @@
       "source": "ABC",
       "color": "#c0392b",
       "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "El Vaticano dedica un sello conmemorativo a la Catedral de Toledo por su VIII Centenario",
-      "link": "https://www.abc.es/espana/castilla-la-mancha/toledo/vaticano-dedica-sello-conmemorativo-catedral-toledo-viii-20261024184012-nt.html",
-      "desc": "El Estado de la Ciudad del Vaticano ha rendido este sábado a la Catedral de Toledo un homenaje con motivo de su VIII Centenario. A tan solo 24 horas del inicio del Año Jubilar, se ha presentado el sello conmemorativo que la Santa Sede le ha dedicado en una fec",
-      "date": "Sat, 24 Oct 2026 18:40:13 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "La Fundación Siglo afirma que ofreció fechas alternativas a la compañía tras suspender su función sobre Lorca",
-      "link": "https://www.abc.es/espana/castilla-leon/fundacion-siglo-afirma-ofrecio-fechas-alternativas-compania-20261024183551-nt.html",
-      "desc": "La Fundación Siglo para el Turismo y las Artes ha explicado que la suspensión de la función de la compañía Proyecto 43-2 , prevista para este sábado en la Sala Experimental del Centro Cultural Miguel Delibes, responde a la ejecución de obras «inaplazables» que",
-      "date": "Sat, 24 Oct 2026 18:36:26 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Investigan el impacto de la vacuna frente al VRS en la reducción de hospitalizaciones en mayores de 60 años",
-      "link": "https://www.abc.es/espana/comunidad-valenciana/investigan-impacto-vacuna-frente-vrs-reduccion-hospitalizaciones-20261024183220-nt.html",
-      "desc": "La Conselleria de Sanidad ha puesto en marcha el estudio 'BronquiVal', un ensayo clínico liderado por el Área de Investigación en Vacunas de la Fundación Fisabio, que tiene como objetivo evaluar el impacto de la vacunación frente al Virus Respiratorio Sincitia",
-      "date": "Sat, 24 Oct 2026 18:32:20 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Archivada la causa contra el alcalde de Pereruela (Zamora) por presunta malversación",
-      "link": "https://www.abc.es/espana/castilla-leon/archivada-causa-alcalde-pereruela-zamora-presunta-malversacion-20261024181306-nt.html",
-      "desc": "El Tribunal de Instancia de Zamora, número 3 de la Sección Civil y de Instrucción, ha acordado archivar la causa penal seguida contra el alcalde de Pereruela, David Lagarejos, por presuntos delitos de malversación de caudales públicos y tráfico de influencias,",
-      "date": "Sat, 24 Oct 2026 18:13:07 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "La policía francesa logra controlar la protesta",
-      "link": "https://www.lavanguardia.com/internacional/20261024/11667249/policia-francesa-logra-controlar-protesta.html",
-      "desc": "Solo incidentes limitados perturban unas manifestaciones en general pacíficas y entre medidas de seguridad excepcionales",
-      "date": "24 Oct 2026 18:10:53 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "Detenido en Milán el presunto cerebro de las protestas juveniles en Italia",
-      "link": "https://www.lavanguardia.com/internacional/20261024/11667247/detenido-milan-presunto-cerebro-protestas-juveniles-italia.html",
-      "desc": "El politólogo de origen marroquí está siendo investigado por incitación a delinquir en una jornada de máxima vigilancia policial",
-      "date": "24 Oct 2026 17:23:39 +0200",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
       "caso": "other"
     }
   ]
