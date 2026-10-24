@@ -1,7 +1,87 @@
 {
-  "updated": "2026-10-23T22:50:35Z",
+  "updated": "2026-10-24T02:59:31Z",
   "count": 24,
   "items": [
+    {
+      "title": "Albares y Bolaños se enfrentan a multa e inhabilitación por posible desobediencia",
+      "link": "https://www.abc.es/espana/sala-tercera-amenaza-pasar-segunda-posible-desobediencia-20261024022139-nt.html",
+      "desc": "Si bien la multa con la que amenaza la Sala Tercera del Supremo a Félix Bolaños y José Manuel Albares por su negativa a identificar nominalmente a los 163.000 beneficiados por la 'ley de nietos' no tendría naturaleza penal ni constituiría una sanción por un de",
+      "date": "Sat, 24 Oct 2026 02:21:39 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "La Moncloa descarga en los cónsules la identificación de los 'nietos' que exige el Supremo",
+      "link": "https://www.abc.es/espana/moncloa-descarga-consules-responsabilidad-remitir-informacion-ley-20261024022109-nt.html",
+      "desc": "Se le acaba la paciencia. La Sala Tercera del Tribunal Supremo (TS) ha dado cinco días a los ministros de Justicia y Exteriores , Félix Bolaños y José Manuel Albares, para que entreguen a la Junta Electoral Central la relación nominal de los 163.000 supuestos ",
+      "date": "Sat, 24 Oct 2026 02:21:09 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Los grandes centros de okupas dan logística a la acampada de Puerta del Sol",
+      "link": "https://www.abc.es/espana/madrid/grandes-centros-okupas-dan-logistica-acampada-puerta-20261023020714-nt.html",
+      "desc": "Los principales centros okupados de Madrid están teniendo un papel fundamental en el apoyo humano y también logístico para los acampados en la Puerta del Sol. Sectores radicales y anarquistas del movimiento okupa, como ya ocurrió tras la eclosión inicial del 1",
+      "date": "Sat, 24 Oct 2026 02:07:14 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "El Gobierno avisa a la Policía minutos antes de las manifestaciones",
+      "link": "https://www.abc.es/espana/gobierno-informa-policia-manifestaciones-solo-minutos-antelacion-20261024020659-nt.html",
+      "desc": "La falta de órdenes del Gobierno a los policías en las manifestaciones ha tomado un cariz preocupante para la seguridad de los propios agentes. Los miembros de la Unidad de Intervención Policial (UIP) de la Policía Nacional fueron avisados con solo 15 minutos ",
+      "date": "Sat, 24 Oct 2026 02:06:59 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "El PSOE intenta montar una campaña contra Feijóo cuestionando su feminismo",
+      "link": "https://www.abc.es/espana/psoe-monta-campana-feijoo-cuestionando-feminismo-20261024020639-nt.html",
+      "desc": "Alberto Núñez Feijóo se exponía este viernes a una entrevista en la 'Ser' y algunos de los titulares que le dejó a Aimar Bretos se han utilizado rápidamente por el Gobierno y el PSOE para armar una campaña contra él, cuestionando su feminismo y los «recortes» ",
+      "date": "Sat, 24 Oct 2026 02:06:39 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "El Gregorio Marañón alerta de una estafa telefónica que suplanta a médicos: «Su familiar necesita una operación»",
+      "link": "https://www.abc.es/espana/madrid/gregorio-maranon-alerta-estafa-telefonica-suplanta-medicos-20261023014331-nt.html",
+      "desc": "El personal médico del Hospital Gregorio Marañón está preocupado por la reactivación de una estafa telefónica que juega con el miedo y la angustia de las familias para conseguir dinero. Los delincuentes se hacen pasar por profesionales sanitarios y llaman, esp",
+      "date": "Sat, 24 Oct 2026 01:43:31 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Francisca Valenzuela: «He sentido duda, culpa y vergüenza haciendo este disco»",
+      "link": "https://www.abc.es/espana/madrid/francisca-valenzuela-sentido-duda-culpa-verguenza-haciendo-20261023014316-nt.html",
+      "desc": "¿Puedo escribir sobre esto honestamente? La primera pregunta que se hizo Francisca Valenzuela cuando se planteó componer un repertorio sobre la maternidad, acabó siendo también el primer verso de una de sus canciones más crudas y a la vez divertidas: 'Debería ",
+      "date": "Sat, 24 Oct 2026 01:43:16 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Los municipios asolados por la DANA que quieren beber del Canal de Isabel II: «El agua sale con color a óxido»",
+      "link": "https://www.abc.es/espana/madrid/municipios-asolados-dana-quieren-beber-canal-isabel-20261022014136-nt.html",
+      "desc": "«Siempre tenemos un poco de miedo por si podemos beber el agua o no», resume Mirella, vecina de Aldea del Fresno. Desde la DANA de 2023 abrir el grifo de su casa no siempre garantiza poder beber un vaso de agua. Cuando llueve, cuenta, el líquido sale con «colo",
+      "date": "Sat, 24 Oct 2026 01:41:36 +0200",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
     {
       "title": "La aldea gala",
       "link": "https://www.lavanguardia.com/opinion/20261024/11666798/aldea-gala.html",
@@ -157,86 +237,6 @@
       "link": "https://www.abc.es/espana/andalucia/juanma-moreno-pp-debe-aspirar-gobernar-espana-20261023204314-nts.html",
       "desc": "El presidente de la Junta de Andalucía y del PP-A, Juanma Moreno, defiende que su partido debe tener como «objetivo irrenunciable» el de aspirar a «gobernar en solitario». Es una meta que debe seguir en el horizonte, según ha expresado desde Barcelona. Allí ha",
       "date": "Fri, 23 Oct 2026 20:43:15 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "La Junta de Castilla-La Mancha apaga servicios web por una alerta crítica de ciberseguridad",
-      "link": "https://www.abc.es/espana/castilla-la-mancha/junta-castillala-mancha-apaga-servicios-web-alerta-20261023203057-nt.html",
-      "desc": "La Junta de Comunidades de Castilla-La Mancha está apagando de manera progresiva y temporal los servicios web afectados por una vulnerabilidad informática de nivel crítico para evitar su exposición a posibles ataques mientras trabaja en su actualización y recu",
-      "date": "Fri, 23 Oct 2026 20:30:57 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Dolores Redondo estrena en Córdoba su nueva novela: «El primer encuentro con los lectores tiene mucho significado»",
-      "link": "https://www.abc.es/espana/andalucia/cordoba/dolores-redondo-estrena-cordoba-nueva-novela-primer-20261023202134-nts.html",
-      "desc": "Faltan diez minutos para que la escritora Dolores Redondo , una autora de impacto en todo el mundo después de su aclamada 'Trilogía del Baztán' pero también por sus obras posteriores, hable ante los cordobeses en la inauguración de la LI feria del Libro , y a ",
-      "date": "Fri, 23 Oct 2026 20:21:35 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Muere ahogado un niño de un año en una piscina y salvan a su hermano en Valencia",
-      "link": "https://www.abc.es/espana/comunidad-valenciana/muere-ahogado-nino-ano-piscina-salvan-hermano-20261023202022-nt.html",
-      "desc": "Un niño de 20 meses de edad ha muerto este viernes en una piscina particular en la localidad de Tous (Valencia), mientras que su hemano, de tres años, ha podido ser reanimado por los servicios sanitarios. Según ha detallado el Centro de Información y Coordinac",
-      "date": "Fri, 23 Oct 2026 20:20:22 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Detenidos en Cuenca y Ciudad Real dos implicados en un tiroteo con cuatro heridos en Jaén",
-      "link": "https://www.abc.es/espana/castilla-la-mancha/detenidos-cuenca-ciudad-real-dos-implicados-tiroteo-20261023200835-nt.html",
-      "desc": "La Guardia Civil ha detenido en la localidad conquense de Motilla del Palancar (Cuenca) y en el municipio ciudadrealeño de Chillón a dos de las siete personas presuntamente implicadas en el tiroteo ocurrido el pasado mes de mayo en Huelma (Jaén), en el que cua",
-      "date": "Fri, 23 Oct 2026 20:08:36 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Feijóo convierte la reconstrucción de Valencia en bandera para dejar atrás a Sánchez",
-      "link": "https://www.abc.es/espana/comunidad-valenciana/feijoo-convierte-reconstruccion-valencia-bandera-dejar-atras-20261023195331-nt.html",
-      "desc": "El presidente del PP, Alberto Núñez Feijóo, ha convertido la bandera de la reconstrucción tras la dana en Valencia en una de sus máximas credenciales para poner fin al Gobierno de Pedro Sánchez. El líder popular ha reivindicado a la Comunidad Valenciana como l",
-      "date": "Fri, 23 Oct 2026 20:00:54 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "El Córdoba CF busca celebrar San Rafael con un triunfo de prestigio ante el Eibar",
-      "link": "https://www.abc.es/espana/andalucia/cordoba/cordoba-cf/cordoba-busca-celebrar-san-rafael-triunfo-prestigio-20261023200004-nts.html",
-      "desc": "San Rafael cambiará este sábado parte de los tradicionales peroles por el fútbol. La festividad del custodio de Córdoba tendrá una cita especial en El Arcángel cuando el Córdoba CF reciba al Eibar (14.00 horas) con el propósito de brindar una nueva alegría a s",
-      "date": "Fri, 23 Oct 2026 20:00:04 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Atropello mortal en Cerro Muriano: ATME advierte de que los accidentes con vehículos militares son «bastante habituales»",
-      "link": "https://www.abc.es/espana/andalucia/cordoba/atropello-mortal-cerro-muriano-atme-advierte-accidentes-20261023195951-nts.html",
-      "desc": "La muerte del joven soldado Sergio Ajenjo tras ser atropellado por un vehículo todoterreno Vamtac en la sede de la BRI X de Cerro Muriano ha vuelto a poner el foco sobre la base cordobesa, donde otros dos militares fallecieron ahogados en diciembre de 2023. El",
-      "date": "Fri, 23 Oct 2026 19:59:51 +0200",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "La declaración de bienes de los diputados del Parlamento de Andalucía sigue sin publicarse",
-      "link": "https://www.abc.es/espana/andalucia/declaracion-bienes-diputados-parlamento-andaluz-sigue-publicarse-20261023194917-nts.html",
-      "desc": "Más de cuatro meses después de la constitución del Parlamento de Andalucía, el pasado 11 de junio, las declaraciones de actividades, bienes, intereses y retribuciones de los 109 diputados autonómicos siguen sin ser públicas. Se trata de una información que hab",
-      "date": "Fri, 23 Oct 2026 19:49:17 +0200",
       "source": "ABC",
       "color": "#c0392b",
       "feedId": "ABC",
