@@ -1,7 +1,237 @@
 {
-  "updated": "2026-10-25T18:40:40Z",
+  "updated": "2026-10-25T22:14:28Z",
   "count": 24,
   "items": [
+    {
+      "title": "Hallan un cadáver flotando en el Guadalquivir a la altura del zoológico de Córdoba",
+      "link": "https://www.abc.es/espana/andalucia/cordoba/hallan-cadaver-flotando-guadalquivir-altura-zoologico-cordoba-20261025221417-nts.html",
+      "desc": "Un ciudadano ha localizado este domingo el cadáver de un hombre en la orilla del río Guadalquivir, en la zona del Naranjal de Almagro, a la altura del zoológico de Córdoba. El hallazgo se ha producido pasadas las 18.00 horas, lo que ha movilizado a efectivos d",
+      "date": "Sun, 25 Oct 2026 22:14:17 +0100",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "El clásico | Segunda parte: el Barça trata de igualar el duelo ante el Real Madrid tras el gol de Mbappé (0-1)",
+      "link": "https://www.lavanguardia.com/deportes/futbol/20261025/11667648/barcelona-real-madrid-clasico-laliga-ea-sports-ultima-hora-resultado-partido-futbol-hoy-en-directo.html",
+      "desc": "",
+      "date": "25 Oct 2026 22:04:31 +0100",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
+    {
+      "title": "El movimiento estudiantil derrota a Vucic en las elecciones generales de Serbia",
+      "link": "https://www.lavanguardia.com/internacional/20261025/11667785/movimiento-estudiantil-derrota-vucic-elecciones-generales-serbia.html",
+      "desc": "El dirigente serbio reconoce su derrota en unos comicios marcados por la alta participación",
+      "date": "25 Oct 2026 21:49:54 +0100",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
+    {
+      "title": "Espart se lesiona en el clásico y agrava los problemas en defensa del Barça",
+      "link": "https://www.lavanguardia.com/deportes/fc-barcelona/20261025/11667781/espart-lesionado-clasico-problemas-defensa-barca.html",
+      "desc": "El joven lateral tuvo que retirarse antes de la media hora del clásico y se suma a las bajas de Eric Garcia, Koundé y Christensen",
+      "date": "25 Oct 2026 21:44:59 +0100",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
+    {
+      "title": "Susana Camarero encabeza la lista del PP al Senado por Valencia para el 29N",
+      "link": "https://www.abc.es/espana/comunidad-valenciana/susana-camarero-encabeza-lista-pp-senado-valencia-20261025214450-nt.html",
+      "desc": "La vicepresidenta primera de la Generalitat, Susana Camarero, encabezará la lista del PP al Senado por la provincia de Valencia para las elecciones generales del 29 de noviembre. Le seguirán el actuar senador Luis Santamaría y la alcaldesa de Vallanca, Ruth Sá",
+      "date": "Sun, 25 Oct 2026 21:44:51 +0100",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Un juez prorroga el horario de votación de las elecciones presidenciales en Brasil",
+      "link": "https://www.lavanguardia.com/internacional/20261025/11667777/juez-prorroga-horario-votacion-elecciones-presidenciales-brasil.html",
+      "desc": "La autoridad electoral ‌del ‌país ‌anunció que suspendía el recuento de ​los sufragios hasta que se cumpla el horario ampliado de la votación",
+      "date": "25 Oct 2026 21:22:34 +0100",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
+    {
+      "title": "2-1: Sufrida victoria de un Talavera que sigue con la flecha ascendente",
+      "link": "https://www.abc.es/espana/castilla-la-mancha/toledo/deportes/sufrida-victoria-talavera-sigue-flecha-ascendente-20261025211638-nt.html",
+      "desc": "Sigue la marcha triunfal del CF Talavera desde la llegada de Pedro Díaz al banquillo del municipal de El Prado. Este domingo por la tarde, el equipo talaverano derrotó por 2-1 al Salamanca UDS de forma un tanto sufrida, pero que se antoja como justa por lo pre",
+      "date": "Sun, 25 Oct 2026 21:16:38 +0100",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "2-0: Cómodo triunfo del Toledo ante un Almansa inofensivo",
+      "link": "https://www.abc.es/espana/castilla-la-mancha/toledo/deportes/comodo-triunfo-toledo-ante-almansa-inofensivo-20261025211113-nt.html",
+      "desc": "El CD Toledo se muestra intratable en el Salto del Caballo, un escenario donde este domingo por la tarde se impuso por 2-0 a la UD Almansa . Esta victoria ubica ya a la escuadra verde en la segunda posición de la tabla a solo dos puntos del líder, el Manchego ",
+      "date": "Sun, 25 Oct 2026 21:11:14 +0100",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Velázquez llama a los toledanos a acudir «en masa» el 29N: «España se la juega»",
+      "link": "https://www.abc.es/espana/castilla-la-mancha/toledo/velazquez-llama-toledanos-acudir-masa-29n-espana-20261025210809-nt.html",
+      "desc": "El presidente provincial del PP y cabeza de lista al Congreso por Toledo, Carlos Velázquez, ha llamado este domingo a los toledanos a acudir «en masa» a las urnas en las elecciones generales del próximo 29 de noviembre, una cita ante la que ha asegurado que «E",
+      "date": "Sun, 25 Oct 2026 21:08:09 +0100",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "El Córdoba CF mira hacia arriba tras la buena racha: más cerca del play off que del descenso",
+      "link": "https://www.abc.es/espana/andalucia/cordoba/cordoba-cf/cordoba-mira-arriba-tras-buena-racha-cerca-20261025205632-nts.html",
+      "desc": "El Córdoba CF comienza a cambiar las preocupaciones por la ilusión después de encadenar dos victorias consecutivas por primera vez esta temporada. Los triunfos ante el Leganés (0-1) y el Eibar (2-0) han permitido a los pupilos de Iván Ania alcanzar los quince ",
+      "date": "Sun, 25 Oct 2026 20:56:33 +0100",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "2-0: Llegó la primera victoria para un Albacete Balompié que fue un huracán",
+      "link": "https://www.abc.es/espana/castilla-la-mancha/toledo/deportes/llego-primera-victoria-albacete-balompie-huracan-20261025205613-nt.html",
+      "desc": "Con la jornada 11 del campeonato en juego este fin de semana, llegó la primera victoria del Albacete Balompié . ¡Ya era hora! La escuadra manchega se impuso por 2-0 a un CD Eldense que llevó a cabo un flojo primer tiempo, que fue aprovechado por un «Alba» hura",
+      "date": "Sun, 25 Oct 2026 20:56:13 +0100",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Manuel Quintana revoluciona Montoro y desata el revuelo: salida a hombros y cuatro orejas para el novillero cordobés",
+      "link": "https://www.abc.es/espana/andalucia/cordoba/manuel-quintana-revoluciona-montoro-desata-revuelo-salida-20261025205527-nts.html",
+      "desc": "Un año más, la plaza de toros de Montoro ponía fin a la temporada taurina en la provincia cordobesa. En esta ocasión no fue con motivo de su feria y fiestas como suele ser habitual, pero igualmente el festejo sirvió para poner el epílogo a la temporada taurina",
+      "date": "Sun, 25 Oct 2026 20:55:28 +0100",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Y Toledo abrió su Puerta Santa para dar inicio al primer Año Jubilar de su historia",
+      "link": "https://www.abc.es/espana/castilla-la-mancha/toledo/toledo-abrio-puerta-santa-dar-inicio-primer-20261025204201-nt.html",
+      "desc": "El 25 de octubre de 2026 quedó marcado en el calendario histórico de la ciudad de Toledo. La Catedral de Toledo llevaba ocho siglos contemplando ceremonias, celebraciones y acontecimientos que forman parte de su propia historia, pero este domingo   tenía por d",
+      "date": "Sun, 25 Oct 2026 20:42:02 +0100",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Talavera reúne por primera vez dos Campeonatos de España de motocross en un fin de semana",
+      "link": "https://www.abc.es/espana/castilla-la-mancha/toledo/talavera/talavera-reune-primera-vez-dos-campeonatos-espana-20261025204032-nt.html",
+      "desc": "Talavera de la Reina ha convertido este fin de semana el circuito Cerro Negro en el centro del motocross nacional con una Gran Final que tiene un carácter especial: por primera vez, el motocross español reúne dos Campeonatos de España, con todas sus categorías",
+      "date": "Sun, 25 Oct 2026 20:40:32 +0100",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Los acampados de Sol retiran algunas tiendas mientras debaten poner fin a la protesta",
+      "link": "https://www.abc.es/espana/madrid/acampados-sol-retiran-tiendas-debaten-poner-fin-20261025203200-nt.html",
+      "desc": "Comienza lo que parece ser el principio del fin de la acampada en la Puerta del Sol. Mientras que las tiendas de campaña que se extendieron por las calles de Preciados y Arenal ya han desaparecido, algunos manifestantes han comenzado a recoger sus pertenencias",
+      "date": "Sun, 25 Oct 2026 20:32:01 +0100",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Muere un ciclista tras caer y ser atropellado por un turismo en Hontoba (Guadalajara)",
+      "link": "https://www.abc.es/espana/castilla-la-mancha/toledo/muere-ciclista-tras-caer-atropellado-turismo-hontoba-20261025202748-nt.html",
+      "desc": "Un ciclista de unos 50 años ha fallecido este domingo en la localidad guadalajareña de Hontoba después de sufrir una caída y ser posteriormente atropellado por un turismo. El accidente se ha producido en el kilómetro 2 de la carretera GU-215. El Servicio de Em",
+      "date": "Sun, 25 Oct 2026 20:27:48 +0100",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Una cadena humana salva a una mujer arrastrada por las olas en la playa de Riazor",
+      "link": "https://www.abc.es/espana/galicia/cadena-humana-salva-mujer-arrastrada-olas-playa-20261025202350-nt.html",
+      "desc": "Escena impactante en la costa gallega. Una decena de ciudadanos improvisaron este domingo el rescate de una mujer arrastrada por el mar en la playa de Riazor, en La Coruña, que acabó necesitando asistencia sanitaria. El 112 Galicia tuvo constancia de los hecho",
+      "date": "Sun, 25 Oct 2026 20:23:50 +0100",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Córdoba ya mira a la Navidad mientras el calor se resiste a dar tregua: empieza el montaje del alumbrado",
+      "link": "https://www.abc.es/espana/andalucia/cordoba/cordoba-mira-navidad-calor-resiste-dar-tregua-20261025201246-nts.html",
+      "desc": "A dos meses de la Nochebuena, Córdoba empieza a engalanar sus calles con los adornos navideños, aunque todavía queda todo el mes de noviembre, que ni siquiera ha asomado en el calendario. Mientras los cordobeses aún están liados con el cambio de armario, el Ay",
+      "date": "Sun, 25 Oct 2026 20:12:46 +0100",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Karina Sainz Borgo rescata «una historia universal de la enfermedad mental» en su nuevo libro 'Nazarena'",
+      "link": "https://www.abc.es/espana/andalucia/cordoba/karina-sainz-borgo-rescata-historia-universal-salud-20261025201129-nts.html",
+      "desc": "La salud mental es una realidad que durante mucho tiempo ha permanecido eclipsada y que, en los últimos años, intenta hacerse un hueco para recibir la atención que merece. La periodista y escritora Karina Sainz Borgo la sitúa en el centro de su nueva novela, '",
+      "date": "Sun, 25 Oct 2026 20:11:30 +0100",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Los comerciantes de Sol tapian sus escaparates por miedo a posibles saqueos: «Vieron merodear a personas vestidas de negro»",
+      "link": "https://www.abc.es/espana/madrid/comerciantes-sol-tapian-escaparates-miedo-posibles-saqueos-20261025200033-nt.html",
+      "desc": "Aunque en el centro de Madrid se respiraba tranquilidad y la jornada se desarrollaba como un domingo cualquiera –a pesar de la anomalía de las tiendas de campaña en una de las plaza más emblemáticas del país– los negocios de las calles aledañas a la Puerta del",
+      "date": "Sun, 25 Oct 2026 20:00:33 +0100",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "El Córdoba Patrimonio muere en la orilla ante el Jimbee Cartagena tras un cruel desenlace (2-3)",
+      "link": "https://www.abc.es/espana/andalucia/cordoba/cordoba-patrimonio-muere-orilla-ante-jimbee-cartagena-20261025195733-nts.html",
+      "desc": "El Córdoba Patrimonio de la Humaniadad regresó del parón de selecciones con una cruel derrota ante Jimbee Cartagena en Vista Alegre (2-3). Pese a que el partido comenzó con el primer golpe cartagenero, la escuadra blanquiverde supo retener la batuta del encuen",
+      "date": "Sun, 25 Oct 2026 19:57:34 +0100",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Detenidos dos encapuchados que amenazaron de muerte con armas blancas a otro en Valladolid",
+      "link": "https://www.abc.es/espana/castilla-leon/detenidos-dos-encapuchados-amenazaron-muerte-armas-blancas-20261025194336-nt.html",
+      "desc": "Encapuchados y provistos de armas blancas a la vez que proferían amenazas, incluso de muerte. Así abordaba un grupo de personas a otras con la que al parecer ya habían tenido algún encontronazo previo. Esta vez, intentaron agredir a la víctima y a su acompañan",
+      "date": "Sun, 25 Oct 2026 19:43:37 +0100",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "El PP premia a alcaldes de la dana con puestos de salida en las listas del 29N",
+      "link": "https://www.abc.es/espana/comunidad-valenciana/pp-premia-alcaldes-dana-puestos-salida-listas-20261025194044-nt.html",
+      "desc": "El alcalde de Utiel y diputado provincial, Ricardo Gabaldón , seguirá a María José Catalá en las listas del Partido Popular por Valencia al Congreso de los Diputados de cara a las elecciones generales del 29 de noviembre. La formación ha decidido premiar a var",
+      "date": "Sun, 25 Oct 2026 19:41:59 +0100",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
     {
       "title": "Silvia Rey bate el récord de España sub-23 de medio maratón en Valencia",
       "link": "https://www.abc.es/espana/castilla-la-mancha/toledo/deportes/silvia-rey-bate-record-espana-sub23-medio-20261025191034-nt.html",
@@ -10,236 +240,6 @@
       "source": "ABC",
       "color": "#c0392b",
       "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "María Prieto, directiva de aseguradora: «Si cancelas tu viaje para votar el 29-N de forma presencial, el seguro no te cubre en ningún caso»",
-      "link": "https://www.abc.es/espana/andalucia/maria-prieto-directiva-aseguradora-cancelas-viaje-votar-20261025190936-nts.html",
-      "desc": "Es posible que, ante el poco margen de tiempo con el que se anunciaron las elecciones generales del próximo 29 de noviembre, este día te pille fuera de viaje o disfrutando de unas vacaciones que contrataste hace meses. Siempre puedes optar por el voto por corr",
-      "date": "Sun, 25 Oct 2026 19:09:36 +0100",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Preguntan a Juan Roig por la posibilidad de que la Maratón de Valencia se celebre dos días consecutivos y esta es su respuesta: «A los valencianos ya les damos bastante dolor de cabeza»",
-      "link": "https://www.abc.es/espana/comunidad-valenciana/preguntan-juan-roig-posibilidad-maraton-valencia-celebre-20261025185154-nt.html",
-      "desc": "Este domingo 25 de octubre se ha celebrado el Medio Maratón Valencia Trinidad Alfonso Zurich 2026 . Desde las 8.25 horas, miles de corredores han tomado las calles de la ciudad para enfrentarse a los 21 kilómetros de recorrido . Más de 25.700 personas han comp",
-      "date": "Sun, 25 Oct 2026 18:51:55 +0100",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Segovia celebra su patrón entre música, tradición, devoción y una multitudinaria participación",
-      "link": "https://www.abc.es/espana/castilla-leon/segovia-celebra-patron-musica-tradicion-devocion-multitudinaria-20261025185150-nt.html",
-      "desc": "El 25 de octubre es una de esas fechas marcadas en rojo en la tradición y las fiestas de Segovia. Es San Frutos, patrón de la ciudad. Un día en el que segovianos han vuelto a salir a las calles para celebrarlo y disfrutar de los actos programados por el Ayunta",
-      "date": "Sun, 25 Oct 2026 18:51:51 +0100",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Fifa y Tisalema se llevan su peso en chocolate y vino en el Cross de Quintanar",
-      "link": "https://www.abc.es/espana/castilla-la-mancha/toledo/deportes/fifa-tisalema-llevan-peso-chocolate-vino-cross-20261025184915-nt.html",
-      "desc": "Más de un millar de atletas abrieron este domingo la temporada de cross de Castilla-La Mancha en Quintanar de la Orden, en una jornada poco otoñal, con temperaturas por encima de los 20 grados y un circuito de Alto Losar completamente seco. Allí, entre las cas",
-      "date": "Sun, 25 Oct 2026 18:49:15 +0100",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "«Los jóvenes franceses están pidiendo igualdad. No creen en el milagro de la meritocracia»",
-      "link": "https://www.abc.es/espana/castilla-leon/jovenes-franceses-pidiendo-igualdad-creen-milagro-meritocracia-20261025184524-nt.html",
-      "desc": "«Francia se enfrenta a una crisis social que la política parece incapaz de resolver, con las elecciones a seis meses vistas». Con estas palabras resumía el sociólogo y periodista Guillaume Erner hace unos días en este periódico la situación que atraviesa el pa",
-      "date": "Sun, 25 Oct 2026 18:45:24 +0100",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "La tercera edición de la feria 'Sabor a Córdoba' cierra sus puertas tras «superar todas las expectativas» de participación",
-      "link": "https://www.abc.es/espana/andalucia/cordoba/tercera-edicion-feria-sabor-cordoba-cierra-puertas-20261025184115-nts.html",
-      "desc": "La Feria Alimentaria de la Provincia 'Sabor a Córdoba' ha clausurado este domingo con gran éxito su tercera edición «consolidándose en su ubicación actual como el escenario de referencia para la promoción , puesta en valor y comercialización del sector agroali",
-      "date": "Sun, 25 Oct 2026 18:41:16 +0100",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "La Carrera de la Mujer vuelve a vestir de rosa las calles de León",
-      "link": "https://www.abc.es/espana/castilla-leon/carrera-mujer-vuelve-vestir-rosa-calles-leon-20261025183429-nt.html",
-      "desc": "La lucha contra el cáncer de mama se trasladaba este domingo un año más a las calles de León escenificada en los miles de asistentes a la Carrera de la Mujer Almom-Drasanvi, que celebraba su duodécima edición con miles de asistentes. La marea rosa volvía a rec",
-      "date": "Sun, 25 Oct 2026 18:34:29 +0100",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Consuegra despide su Fiesta de la Rosa del Azafrán entre monda, folclore y turistas",
-      "link": "https://www.abc.es/espana/castilla-la-mancha/toledo/pueblos/consuegra-despide-fiesta-rosa-azafran-monda-folclore-20261025182614-nt.html",
-      "desc": "Consuegra despidió este domingo su Fiesta de la Rosa del Azafrán con la misma intensidad festiva y cultural que había marcado todo el fin de semana y con una masiva presencia de turistas. La monda de la flor que da nombre a la celebración y el folclore volvier",
-      "date": "Sun, 25 Oct 2026 18:26:14 +0100",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Al menos 41 heridos, 20 de ellos graves, tras caer un autobús por un terraplén de 20 metros en Cataluña",
-      "link": "https://www.abc.es/espana/cataluna/heridos-graves-tras-caer-autobus-barranco-metros-20261025181253-nt.html",
-      "desc": "Un autobús que transportaba un centenar de personas ha colisionado esta tarde contra un vehículo y se ha precipitado por un terraplén de 20 metros en la carretera BV-5114, a su paso en el municipio de Fogars de Montclús (Barcelona), en el parque natural del Mo",
-      "date": "Sun, 25 Oct 2026 18:12:53 +0100",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Al menos 20 heridos graves al caer un autobús en Fogars de Montclús (Barcelona)",
-      "link": "https://www.lavanguardia.com/local/barcelona/20261025/11667725/20-heridos-graves-caer-autobus-terraplen-veinte-metros-fogars-montclus-barcelona.html",
-      "desc": "El SEM ha atendido a una cuarentena de pasajeros",
-      "date": "25 Oct 2026 18:08:20 +0100",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "Dimite el delegado del Gobierno en Madrid tras quedar fuera de las listas del PSOE para el 29-N",
-      "link": "https://www.abc.es/espana/madrid/dimite-delegado-gobierno-madrid-tras-quedar-listas-20261025180625-nt.html",
-      "desc": "El delegado del Gobierno en la Comunidad de Madrid, Francisco Martín Aguirre, ha presentado su dimisión este domingo tras quedarse fuera de las listas del PSOE al Congreso y al Senado para las elecciones del próximo 29 de noviembre, según ha adelantado 'El Pai",
-      "date": "Sun, 25 Oct 2026 18:06:25 +0100",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Le Pen promete restablecer el orden en Francia",
-      "link": "https://www.lavanguardia.com/internacional/20261025/11667714/le-pen-promete-restablecer-orden-francia.html",
-      "desc": "La candidata presidencial de la extrema derecha arranca su campaña ante 8.500 simpatizantes en Orleans",
-      "date": "25 Oct 2026 18:01:26 +0100",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "Ready To lleva la cuarta y quinta gama al debate profesional de la restauración",
-      "link": "https://www.abc.es/espana/cataluna/ready-lleva-cuarta-quinta-gama-debate-profesional-20261025175751-nt.html",
-      "desc": "El hotel Hyatt Regency Barcelona Tower, junto al hospital de Bellvitge, acogerá este lunes, 26 de octubre, la primera edición de Ready To, una jornada profesional dedicada a las soluciones de cuarta y quinta gama para la restauración, consistente en platos ela",
-      "date": "Sun, 25 Oct 2026 17:57:51 +0100",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Trump culpa a la inmigración de los disturbios en Barcelona: “Son gente que odia a España“",
-      "link": "https://www.lavanguardia.com/internacional/20261025/11667718/trump-culpa-inmigracion-disturbios-barcelona-son-gente-odia-espana.html",
-      "desc": "En gira de campaña para intentar revertir los malos datos que las encuestas auguran a los republicanos, destacó la buena situación de EE.UU en asuntos de seguridad y migratorios, gracias a su gestión",
-      "date": "25 Oct 2026 17:53:00 +0100",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "Los comerciantes de Barcelona, entre los destrozos y el temor a nuevos saqueos: «Todo indica que se pueden repetir»",
-      "link": "https://www.abc.es/espana/cataluna/comerciantes-barcelona-destrozos-temor-nuevos-saqueos-indica-20261025174611-nt.html",
-      "desc": "Calles destrozadas, barricadas en llamas y comercios saqueados. Barcelona vivió este sábado una noche de terror en la que cientos de jóvenes trataron de reproducir las protestas estudiantiles que desde hace semanas sacuden Francia y acabaron protagonizando gra",
-      "date": "Sun, 25 Oct 2026 17:46:12 +0100",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Arrancan las obras de Alovera Beach, la playa de Madrid que abrirá en el verano de 2028",
-      "link": "https://www.abc.es/espana/castilla-la-mancha/arrancan-obras-alovera-beach-playa-madrid-abrira-20261025174103-nt.html",
-      "desc": "Guadalajara tendrá playa. No habrá que buscarla en el mapa siguiendo la línea de ninguna costa ni esperar, claro, a que el mar llegue algún día hasta una provincia de secano. Estará en Alovera, en pleno Corredor del Henares, y será una playa construida alreded",
-      "date": "Sun, 25 Oct 2026 17:41:04 +0100",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Woody Aragón predice seis noticias que aparecerán en ABC Toledo el próximo 29 de octubre",
-      "link": "https://www.abc.es/espana/castilla-la-mancha/toledo/woody-aragon-predice-seis-noticias-apareceran-abc-20261025173849-nt.html",
-      "desc": "El mago toledano internacional Woody Aragón se ha propuesto conocer las noticias que dos periódicos de Castilla-La Mancha publicarán el próximo 29 de octubre como reto para inaugurar el 20º Festival Internacional de Magia Toledo Ilusión , que comienza ese día.",
-      "date": "Sun, 25 Oct 2026 17:38:49 +0100",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Bar Bauma, un chaflán para mirar Barcelona mientras se comparten platillos de raíz catalana",
-      "link": "https://www.abc.es/espana/cataluna/bar-bauma-chaflan-mirar-barcelona-comparten-platillos-20261025172024-nt.html",
-      "desc": "A pocos pasos de la Casa de Casa Terradas, conocida popularmente como Casa de les Punxes (de los Pinchos, en catalán) del arquitecto modernista Josep Puig i Cadafalch; Bar Bauma ocupa uno de esos chaflanes del Eixample por los que Barcelona parece pasar a toda",
-      "date": "Sun, 25 Oct 2026 17:20:25 +0100",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "El PSOE denuncia la «debilidad» de Núñez para mantener los equilibrios de poder en el PP",
-      "link": "https://www.abc.es/espana/castilla-la-mancha/psoe-denuncia-debilidad-nunez-mantener-equilibrios-poder-20261025171134-nt.html",
-      "desc": "El PSOE de Castilla-La Mancha ha denunciado este domingo la «debilidad» del presidente regional del PP, Paco Núñez, dentro de su propio partido y a la hora de defender los intereses de la comunidad autónoma, y ha advertido de que su proyecto político depende d",
-      "date": "Sun, 25 Oct 2026 17:12:23 +0100",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "La palabra imaginada (55): Paseando con Monet en su jardín",
-      "link": "https://www.abc.es/espana/castilla-la-mancha/palabra-imaginada-paseando-monet-jardin-20261025171027-nt.html",
-      "desc": "Mujer sentada bajo los sauces Esta calmada música de Jarrett en Colonia se mueve por la hierba. Algunas mariquitas ensayan su rojo en tu falda; no insisten en las espinas de sufrir, contrastan sus lunares con la seda. Sabrías abrir las heridas de la furia pero",
-      "date": "Sun, 25 Oct 2026 17:10:27 +0100",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Landaluce entrega el bastón de la Ciudad al Cristo de Medinaceli y se despide de la Alcaldía de Algeciras",
-      "link": "https://www.abc.es/espana/andalucia/cadiz/landaluce-entrega-baston-ciudad-medinaceli-despide-alcaldia-20261025165833-nts.html",
-      "desc": "Dimisión ante el Cristo de Medinaceli. El alcalde de Algeciras, José Ignacio Landaluce , se ha postrado este domingo ante la imagen del Medinaceli a la que le ha hecho entrega del bastón de mando de la ciudad que recibió en las últimas elecciones municipales d",
-      "date": "Sun, 25 Oct 2026 16:58:33 +0100",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Dos muertos y tres heridos en un accidente de tráfico en la N-340 en Villarreal",
-      "link": "https://www.abc.es/espana/comunidad-valenciana/dos-muertos-tres-heridos-accidente-trafico-n340-20261025162831-nt.html",
-      "desc": "Dos personas, una mujer de 77 años y un hombre de 45, han fallecido y otras tres han resultado heridas en un accidente de tráfico entre tres vehículos ocurrido este domingo en la N-340, en término de Villarreal (Castellón). El Centro de Información y Coordinac",
-      "date": "Sun, 25 Oct 2026 16:28:32 +0100",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Un regreso bajo presión: los cinco problemas que debe resolver Mourinho en su visita al Camp Nou",
-      "link": "https://www.lavanguardia.com/deportes/real-madrid/20261025/11663451/mourinho-camp-nou-problemas-clasico.html",
-      "desc": "La ausencia del sancionado Vinícius, los seis puntos de desventaja o un Barça inmaculado en la Liga",
-      "date": "25 Oct 2026 16:00:00 +0100",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
       "caso": "other"
     }
   ]
