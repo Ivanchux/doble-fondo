@@ -1,245 +1,245 @@
 {
-  "updated": "2026-10-27T09:31:51Z",
+  "updated": "2026-10-27T15:40:21Z",
   "count": 24,
   "items": [
     {
-      "title": "Collboni propone añadir el nombre de Pasqual Maragall a la futura estación de La Sagrera",
-      "link": "https://www.lavanguardia.com/local/barcelona/20261027/11669134/collboni-propone-anadir-nombre-pasqual-maragall-futura-estacion-sagrera.html",
-      "desc": "La familia del exalcalde ha acogido con satisfacción la propuesta",
-      "date": "27 Oct 2026 10:15:19 +0100",
+      "title": "Un aviso para atender a una mujer con convulsiones destapa un punto de venta de droga en Valencia",
+      "link": "https://www.abc.es/espana/comunidad-valenciana/aviso-atender-mujer-convulsiones-destapa-punto-venta-20261027160610-nt.html",
+      "desc": "La Policía Local de Valencia ha detenido a tres personas por un presunto delito contra la salud pública después de que una intervención para socorrer a una mujer de 29 años con convulsiones y en estado ebrio permitiera descubrir un posible punto de distribució",
+      "date": "Tue, 27 Oct 2026 16:06:11 +0100",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Albert Moya, propietario de una floristería afectada por los saqueos en Barcelona: «Esto es violencia gratuita, es destrozar por vicio»",
+      "link": "https://www.abc.es/espana/cataluna/albert-moya-propietario-floristeria-afectada-saqueos-barcelona-20261027160319-nt.html",
+      "desc": "Barcelona todavía se recupera de los graves disturbios del pasado sábado, que dejaron 128 detenidos, 23 comercios vandalizados y numerosos destrozos en el centro de la ciudad. Entre los afectados figuran varios floristas de la plaza de Cataluña, cuyos negocios",
+      "date": "Tue, 27 Oct 2026 16:03:19 +0100",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Los Ribereños advierten que el 29N no debe ser excusa para «prolongar el bloqueo de las reglas de explotación»",
+      "link": "https://www.abc.es/espana/castilla-la-mancha/riberenos-advierten-29n-debe-excusa-prolongar-bloqueo-20261027160048-nt.html",
+      "desc": "La Asociación de Municipios Ribereños de los Embalses de Entrepeñas y Buendía lamenta la aprobación de dos nuevos trasvases de 27 hectómetros cúbicos cada uno por parte de la Comisión Central de Explotación del Acueducto Tajo-Segura, «manteniendo una vez más e",
+      "date": "Tue, 27 Oct 2026 16:00:49 +0100",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Más de 500 tractores tomarán este miércoles las calles de Madrid: cortes de tráfico y alternativas",
+      "link": "https://www.abc.es/espana/madrid/madrid-sufrira-cortes-trafico-miercoles-nueva-tractorada-20261027160038-nt.html",
+      "desc": "Madrid volverá a recibir este miércoles una tractorada que provocará importantes afecciones al tráfico desde primera hora de la mañana. Las primeras llegadas de los tractores se producirán desde las 6.30 horas, aunque la entrada en al capital de los vehículos ",
+      "date": "Tue, 27 Oct 2026 16:00:38 +0100",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "La Policía salva a una mujer que estaba en las vías cuando iba a llegar un tren en Orense",
+      "link": "https://www.abc.es/espana/galicia/policia-salva-mujer-vias-iba-llegar-tren-20261027155717-nt.html",
+      "desc": "La Policía Local de Orense ha salvado a una mujer que se encontraba en las vías del tren, en las inmediaciones del viaducto que comunica los barrios de As Lagoas y A Ponte, cuando estaba prevista la llegada de un convoy a la estación ferroviaria de la ciudad. ",
+      "date": "Tue, 27 Oct 2026 15:57:17 +0100",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "El pueblo de Córdoba donde probar el «mejor jamón del mundo»: tres días de degustación en la gran fiesta del ibérico",
+      "link": "https://www.abc.es/espana/andalucia/cordoba/pueblo-cordoba-probar-mejor-jamon-mundo-tres-20261027155600-nts.html",
+      "desc": "La 26 Feria del Jamón de Bellota 100% Ibérico Denominación de Origen Protegida Los Pedroches se presenta con buenas perspectivas para la montanera y con la dehesa encaminándose hacia una de las épocas más esperadas del año. El campo se prepara para el ciclo qu",
+      "date": "Tue, 27 Oct 2026 15:56:01 +0100",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "La UE pide aumentar los efectivos de Frontex y crear una unidad de respuesta rápida tras la crisis de Ceuta",
+      "link": "https://www.abc.es/espana/ue-pide-aumentar-efectivos-frontex-crear-unidad-20261027154529-nt.html",
+      "desc": "La Comisión Europea ha presentado este martes una propuesta para dotar de más poderes y recursos a la guardia europea de fronteras y costas (Frontex), con el objetivo de potenciar su papel en las expulsiones de migrantes llegados de manera irregular a la Unión",
+      "date": "Tue, 27 Oct 2026 15:45:29 +0100",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Un detenido en una operación antiterrorista de la Guardia Civil en la provincia de Barcelona",
+      "link": "https://www.abc.es/espana/cataluna/detenido-operacion-antiterrorista-guardia-civil-provincia-barcelona-20261027153115-nt.html",
+      "desc": "La Guardia Civil ha detenido este martes a un individuo en Vilanova i la Geltrú (Barcelona), en el marco de una operación antiterrorista que han liderado las Unidades Centrales Especiales (UCE), es decir, los Servicios de Información del Instituto Armado. Segú",
+      "date": "Tue, 27 Oct 2026 15:31:45 +0100",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Camarero brinda su experiencia a un futuro Gobierno de Feijóo: «Es un aval»",
+      "link": "https://www.abc.es/espana/comunidad-valenciana/camarero-brinda-experiencia-futuro-gobierno-feijoo-aval-20261027152838-nt.html",
+      "desc": "A los pies de las Torres de Serranos, el PP ha presentado este martes a sus candidatos al Congreso y al Senado por la provincia de Valencia para las generales del 29 de noviembre. Un «equipazo», según el líder provincial, Vicent Mompó, integrado por «personas ",
+      "date": "Tue, 27 Oct 2026 15:30:00 +0100",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Muere un motorista en un accidente de tráfico en la provincia de Salamanca",
+      "link": "https://www.abc.es/espana/castilla-leon/muere-motorista-accidente-trafico-provincia-salamanca-20261027152531-nt.html",
+      "desc": "Un motorista de unos 65 años fallecía en torno al mediodía de este martes tras salirse de la vía mientras circulaba por una carretera secundaria que discurre entre los municipios salmantinos de La Calzada de Béjar y Montemayor del Río. La llamada de alerta sob",
+      "date": "Tue, 27 Oct 2026 15:25:32 +0100",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "La policía federal investiga si Flávio Bolsonaro ha huido de Brasil tras perder el fuero",
+      "link": "https://www.lavanguardia.com/internacional/20261027/11669018/flavio-bolsonaro-presidenciable-favorito-presunto-delincuente-48-horas.html",
+      "desc": "El derrotado ultraconservador ya no tiene pasaporte; se han reabierto dos causas sobre corrupción y blanqueo que pesaban sobre él",
+      "date": "27 Oct 2026 15:23:26 +0100",
       "source": "La Vanguardia",
       "color": "#8e44ad",
       "feedId": "LaVanguardia",
       "caso": "other"
     },
     {
-      "title": "Tráfico denso en las rondas y 7 km de colas en la C-58, entre el Nus de la Trinitat y Ripollet",
-      "link": "https://www.lavanguardia.com/local/catalunya/20261027/11668227/trafico-carreteras-cortes-trenes-rodalies-accesos-barcelona-cataluna-martes-27-octubre-en-directo.html",
-      "desc": "Sigue en directo, minuto a minuto, toda la última hora del estado del tráfico y los transportes en Catalunya",
-      "date": "27 Oct 2026 10:13:39 +0100",
+      "title": "El 80% de los delitos sexuales en la región son agresiones a menores que se producen «en el ámbito familiar»",
+      "link": "https://www.abc.es/espana/castilla-la-mancha/delitos-sexuales-region-agresiones-menores-producen-ambito-20261027152028-nt.html",
+      "desc": "La Fiscalía de Castilla-La Mancha incrementó un 10% su actividad en 2025 respecto al año anterior, con una plantilla de prácticamente 100 fiscales y «sin retrasos» en la tramitación de sus asuntos. Su fiscal superior, Emilio Fernández, ha destacado este martes",
+      "date": "Tue, 27 Oct 2026 15:20:29 +0100",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Patrimonio Nacional y FAE se unen para restaurar seis «excepcionales» tapices del Monasterio de las Huelgas",
+      "link": "https://www.abc.es/espana/castilla-leon/patrimonio-nacional-fae-unen-restaurar-seis-excepcionales-20261027151209-nt.html",
+      "desc": "Patrimonio Nacional y la Confederación de Asociaciones Empresariales de Burgos (FAE) han firmado un convenio para impulsar la restauración de parte de las doce colgaduras «históricas» de la Serie de los Emperadores, también conocida como Serie Roja, que se con",
+      "date": "Tue, 27 Oct 2026 15:12:10 +0100",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Dos años y medio de cárcel para el dueño del 'criadero de los horrores' de Burgos",
+      "link": "https://www.abc.es/espana/castilla-leon/dos-anos-medio-carcel-dueno-criadero-horrores-20261027150634-nt.html",
+      "desc": "En «condiciones deplorables», sin comida ni agua, beberos hechos con bidones que «cortaban» a los animales al beber y se volcaban, tampoco tenían alojamiento ni lazareto para los enfermos, ni los gestantes ni los cachorros, con canes muertos e incluso signos d",
+      "date": "Tue, 27 Oct 2026 15:09:02 +0100",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Guerra de cifras entre Reyes Maroto y Almeida por la inversión en vivienda en Madrid de Sánchez",
+      "link": "https://www.abc.es/espana/madrid/almeida-desmonta-defensa-reyes-maroto-sobre-inversion-20261027150702-nt.html",
+      "desc": "El PSOE ha querido convertir el Pleno municipal celebrado este martes en Cibeles, el penúltimo antes de las elecciones del 29N, en un debate sobre vivienda, con una propuesta para movilizar viviendas vacías de la Empresa Municipal de la Vivienda y Suelo de Mad",
+      "date": "Tue, 27 Oct 2026 15:07:03 +0100",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Page celebra el cambio en el decreto de centros de datos y ve nuevas oportunidades para Talavera",
+      "link": "https://www.abc.es/espana/castilla-la-mancha/toledo/talavera/page-celebra-cambio-decreto-centros-datos-nuevas-20261027150522-nt.html",
+      "desc": "El presidente de Castilla-La Mancha, Emiliano García-Page, ha celebrado el cambio de criterio del Gobierno de España sobre la regulación de los centros de datos , al considerar que permite mantener abiertas las posibilidades de atraer nuevas inversiones tecnol",
+      "date": "Tue, 27 Oct 2026 15:05:22 +0100",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "La oposición ve en el nuevo conselleiro un «apéndice de Industria» que «no inspira mucha confianza»",
+      "link": "https://www.abc.es/espana/galicia/ponton-carga-cambios-xunta-medio-ambiente-apendice-20261027145853-nt.html",
+      "desc": "La oposición ha dejado claro su rechazo ante la remodelación del Gobierno gallego hecha efectiva este martes, que ha situado a Nicolás Vázquez al frente de Medio Ambiente e Cambio Climático y ha trasladado a Ángeles Vázquez a Política Social e Igualdade. Espec",
+      "date": "Tue, 27 Oct 2026 14:58:53 +0100",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "El Gobierno declara zona catastrófica Madrigueras y la Dehesa Boyal de Puertollano",
+      "link": "https://www.abc.es/espana/castilla-la-mancha/gobierno-declara-zona-catastrofica-madrigueras-dehesa-boyal-20261027145349-nt.html",
+      "desc": "El Gobierno ha incluido la localidad albaceteña de Madrigueras y la Dehesa Boyal de Puertollano entre las zonas afectadas gravemente por una emergencia de protección civil, lo que tradicionalmente se conoce como zona catastrófica, por la riada del pasado 2 de ",
+      "date": "Tue, 27 Oct 2026 14:53:50 +0100",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "El refugio de Alexia Putellas cerca de Barcelona: un pueblo de origen medieval con masías, arte callejero y fiestas populares",
+      "link": "https://www.abc.es/espana/cataluna/refugio-alexia-putellas-cerca-barcelona-pueblo-origen-20261027144827-nt.html",
+      "desc": "Alexia Putellas ganó este lunes el Balón de Oro. La jugadora del London City Lionesses y la Selección Española escribió su nombre en dorado en la historia del fútbol femenino coronándose como la mejor futbolista del año por tercera vez . Ya fue premiada en 202",
+      "date": "Tue, 27 Oct 2026 14:48:27 +0100",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "El Rey, entre 'aurreskus' en el País Vasco: premios de Investigación 2026 y visita a la Corporación Mondragón",
+      "link": "https://www.abc.es/espana/casa-real/rey-aurreskus-pais-vasco-premios-investigacion-2026-20261027144619-nt.html",
+      "desc": "Su Majestad el Rey ha presidido este martes en Vitoria la entrega de los Premios Nacionales de Investigación 2026, que reconocen el mérito de aquellos investigadores españoles y edad máxima de 40 años que estén realizando una labor destacada en campos científi",
+      "date": "Tue, 27 Oct 2026 14:46:19 +0100",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Madrid abre el plazo para solicitar el cheque bebé: requisitos y cómo solicitar hasta 1.000 euros por hijo",
+      "link": "https://www.abc.es/espana/madrid/madrid-abre-plazo-solicitar-cheque-bebe-requisitos-20261027144333-nt.html",
+      "desc": "Crear una familia en las grandes ciudades se ha convertido para muchos jóvenes en una auténtica carrera de obstáculos financieros. Entre la cesta de la compra, los primeros enseres del bebé y los gastos cotidianos, los primeros meses de crianza aprietan con fu",
+      "date": "Tue, 27 Oct 2026 14:43:33 +0100",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "El Gobierno acusa a PP y Vox de aprovechar los disturbios para agitar la campaña: “No lo vamos a permitir”",
+      "link": "https://www.lavanguardia.com/politica/20261027/11669411/gobierno-acusa-pp-vox-aprovechar-disturbios-agitar-campana-permitir.html",
+      "desc": "La portavoz de Ejecutivo, Elma Saiz, tacha de “barbaridad e irresponsabilidad” que Feijóo acuse a Sánchez de instigar los episodios de violencia en Barcelona y Bilbao",
+      "date": "27 Oct 2026 14:33:43 +0100",
       "source": "La Vanguardia",
       "color": "#8e44ad",
       "feedId": "LaVanguardia",
       "caso": "other"
     },
     {
-      "title": "Joyas, armas de fuego, 12.560 euros y lotería: el 'botín' recuperado tras esclarecer una oleada de robos en Palencia",
-      "link": "https://www.abc.es/espana/castilla-leon/joyas-armas-fuego-12560-euros-loteria-botin-20261027101251-nt.html",
-      "desc": "Agentes de la Guardia Civil han esclarecido seis robos con fuerza en el interior de viviendas habitadas en las localidades de Venta de Baños, Villamuriel de Cerrato y Villalobón (Palencia), en el marco de la operación Pallantia-AMG. Los hechos se produjeron en",
-      "date": "Tue, 27 Oct 2026 10:12:51 +0100",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Abanca gana 579,1 millones hasta septiembre, un 13,6% menos",
-      "link": "https://www.abc.es/espana/galicia/abanca-gana-5791-millones-septiembre-136-20261027101224-nt.html",
-      "desc": "Abanca registró un beneficio después de impuestos de 579,1 millones de euros entre enero y septiembre de este año, lo que supone un 13,6% menos respecto al mismo periodo del año pasado debido al incremento de la tasa fiscal efectiva provocado por el menor uso ",
-      "date": "Tue, 27 Oct 2026 10:12:24 +0100",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "La Policía Nacional confirma la caída en Marruecos del mayor capo del hachís, adelantada por ABC",
-      "link": "https://www.abc.es/espana/policia-nacional-confirma-caida-marruecos-mayor-capo-20261027101126-nt.html",
-      "desc": "La Policía Nacional ha confirmado oficialmente este martes la detención en Marruecos del líder de una de las mayores organizaciones criminales dedicadas al tráfico de hachís en España, tal y como adelantó en exclusiva ABC hace unas semanas . El principal respo",
-      "date": "Tue, 27 Oct 2026 10:11:27 +0100",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Dos detenidos por robar 120 barandillas «de gran valor sentimental» en lápidas del cementerio de Almodóvar del Río",
-      "link": "https://www.abc.es/espana/andalucia/cordoba/dos-detenidos-robar-120-barandillas-lapidas-cementerio-20261027100823-nts.html",
-      "desc": "La Guardia Civil ha detenido a dos personas por el robar 120 barandillas ornamentales de las lápidas del cementerio de Almodóvar del Río (Córdoba). Los hechos tuvieron una importante repercusión social entre los vecinos, debido al valor sentimental de los obje",
-      "date": "Tue, 27 Oct 2026 10:08:23 +0100",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "La Diputación ofrece a Siniestro Total tocar en Vigo sin soportar a Abel Caballero como telonero",
-      "link": "https://www.abc.es/espana/galicia/diputacion-ofrece-siniestro-total-tocar-vigo-soportar-20261027100452-nt.html",
-      "desc": "En 2022, Siniestro Total se despidió de los escenarios. A muchos sorprendió que el histórico grupo vigués lo hiciera con dos conciertos en Madrid y no en la ciudad olívica. El periodista Fernando González, más conocido como Gonzo, explicó recientemente que la ",
-      "date": "Tue, 27 Oct 2026 10:04:52 +0100",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Israel acude a las urnas en unas elecciones decisivas",
-      "link": "https://www.lavanguardia.com/internacional/20261027/11669121/israel-acude-urnas-elecciones-decisivas.html",
-      "desc": "La oposición promete un cambio histórico y los socios de Netanyahu advierten de un desastre si pierde el poder",
-      "date": "27 Oct 2026 10:02:53 +0100",
+      "title": "El juez Calama rechaza el intento de Zapatero de preguntar a Arabia Saudí sobre sus joyas",
+      "link": "https://www.lavanguardia.com/politica/20261027/11669393/calama-rechaza-intento-zapatero-preguntar-arabia-saudi-sobre-joyas.html",
+      "desc": "El magistrado reprocha al expresidente que se quedara las joyas de gran valor y no fueran entregadas a Patrimonio",
+      "date": "27 Oct 2026 14:15:51 +0100",
       "source": "La Vanguardia",
       "color": "#8e44ad",
       "feedId": "LaVanguardia",
-      "caso": "other"
+      "caso": "zap"
     },
     {
-      "title": "La concentración de gases que calientan el clima batieron récords otra vez en 2025",
-      "link": "https://www.lavanguardia.com/natural/20261027/11669063/concentracion-gases-calientan-clima-batieron-records-vez-2025.html",
-      "desc": "La Organización Meteorológica Mundial prevé nuevos aumentos de temperaturas en el planeta a largo plazo",
-      "date": "27 Oct 2026 10:00:00 +0100",
+      "title": "Enrique Vila-Matas gana el Nacional de las Letras",
+      "link": "https://www.lavanguardia.com/cultura/20261027/11669284/enrique-vila-matas-gana-nacional-letras.html",
+      "desc": "El barcelonés, candidato al Nobel, reconocido por toda su trayectoria",
+      "date": "27 Oct 2026 13:53:15 +0100",
       "source": "La Vanguardia",
       "color": "#8e44ad",
       "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "Cuatro detenidos por dos presuntos casos de empadronamiento ficticio en Palencia",
-      "link": "https://www.abc.es/espana/castilla-leon/cuatro-detenidos-dos-presuntos-casos-empadronamiento-ficticio-20261027095628-nt.html",
-      "desc": "Agentes de la Policía Nacional de la Comisaría Provincial de Palencia han detenido a cuatro personas en el marco de dos investigaciones desarrolladas por la Brigada Provincial de Extranjería y Fronteras por su presunta implicación en delitos de falsedad docume",
-      "date": "Tue, 27 Oct 2026 09:56:29 +0100",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Feijóo promete recuperar el agravente de la «cara tapada» para los disturbios que retiraron PSOE y Podemos",
-      "link": "https://www.abc.es/espana/feijoo-promete-recuperar-agravente-cara-tapada-disturbios-20261027094732-nt.html",
-      "desc": "Primera promesa del presidente del Partido Popular frente alos disturbios que durante la última semana ha sacudido la geografía española desde La Coruña a Barcelona, en varios casos, a imitación de lo que ocurre en Francia. Alberto Núñez Feijóo prometió este m",
-      "date": "Tue, 27 Oct 2026 09:47:32 +0100",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Los Obispos del Sur reclaman en Córdoba «más vivienda pública» ante el «principal factor de empobrecimiento familiar»",
-      "link": "https://www.abc.es/espana/andalucia/cordoba/obispos-sur-reclaman-cordoba-vivienda-publica-ante-20261027094409-nts.html",
-      "desc": "El Seminario Mayor de San Pelagio de Córdoba ha acogido este lunes la asamblea número 163 de los Obispos del Sur , integrada por las diócesis de Granada, Sevilla, Almería, Asidonia-Jerez, Cádiz y Ceuta, Córdoba, Guadix, Huelva, Jaén y Málaga. En el encuentro, ",
-      "date": "Tue, 27 Oct 2026 09:44:09 +0100",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Polémica por el uso de una pistola táser de la Policía Nacional contra un hombre en Ciudad Jardín en Córdoba",
-      "link": "https://www.abc.es/espana/andalucia/cordoba/polemica-uso-pistola-taser-policia-nacional-hombre-20261027094321-nts.html",
-      "desc": "Un vídeo de una intervención de la Policía Nacional de Córdoba en el barrio de Ciudad Jardín ha generado polémica en las redes sociales. Las imágenes, difundidas a través de X, muestran a dos agentes junto a un hombre con el que mantienen una conversación y, p",
-      "date": "Tue, 27 Oct 2026 09:43:21 +0100",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Luis Campos y Marisol Collado, cabezas de lista al Congreso de Unidad del Pueblo Canario",
-      "link": "https://www.abc.es/espana/canarias/luis-campos-marisol-collado-cabezas-lista-congreso-20261027093406-nt.html",
-      "desc": "Unidad del Pueblo Canario (UPC) , la marca que conforman Nueva Canarias-Bloque Canarista, Podemos, Izquierda Unida y Movimiento Sumar, ha registrado este lunes sus candidaturas al Congreso de los Diputados en las juntas electorales provinciales de Las Palmas y",
-      "date": "Tue, 27 Oct 2026 09:34:50 +0100",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "'Buscasetas' celebra su 25 aniversario con 149 establecimientos participantes",
-      "link": "https://www.abc.es/espana/castilla-leon/buscasetas-celebra-aniversario-149-establecimientos-participantes-20261027093056-nt.html",
-      "desc": "El consejero de Agricultura, Ganadería, Medio Rural y Política Ambiental, Joaquín Antonio Pino, participaba ayer en el Museo Provincial del vino de Peñafiel (Valladolid) en la presentación oficial de las Jornadas Gastronómico-Micológicas Buscasetas – Tierra de",
-      "date": "Tue, 27 Oct 2026 09:30:57 +0100",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Un aviso de bomba obliga a activar un operativo especial en un avión de Vueling en Gran Canaria",
-      "link": "https://www.abc.es/espana/canarias/aviso-bomba-obliga-activar-operativo-especial-avion-20261027092115-nt.html",
-      "desc": "El aeropuerto de Gran Canaria se vio obligado anoche a activar un operativo especial de seguridad tras recibir una aviso de bomba en un avión de la compañía Vueling. Todo quedó en un susto, si bien durante varias horas el pasaje del Vueling VY3008 procedente d",
-      "date": "Tue, 27 Oct 2026 09:21:16 +0100",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Un flojo tercer trimestre registra un aumento del paro de 95.900 personas",
-      "link": "https://www.lavanguardia.com/economia/20261027/11669087/flojo-tercer-trimestre-registra-aumento-paro-95-900-personas.html",
-      "desc": "La creación de ocupación se queda en 73.600 nuevos empleos, una cifra inferior a años anteriores en esta época y protagonizada por los trabajadores extranjeros",
-      "date": "27 Oct 2026 09:17:54 +0100",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "Los Franco subastan 689 lotes del Pazo de Meirás desde 20 euros: de retratos del dictador a una foto de Juan Carlos I",
-      "link": "https://www.abc.es/espana/galicia/franco-subastan-689-lotes-pazo-meiras-euros-20261027085950-nt.html",
-      "desc": "Un total de 689 lotes de objetos retirados por los Franco del Pazo de Meirás el pasado julio saldrán a subasta este martes, 27 de octubre, con precios de salida desde los 20 hasta los 5.000 euros. Entre ellos, se encuentran varios retratos del dictador, una fo",
-      "date": "Tue, 27 Oct 2026 08:59:50 +0100",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "El Supremo envía a Algeciras una denuncia contra Landaluce por presunto delito sexual al dejar de ser aforado",
-      "link": "https://www.abc.es/espana/andalucia/cadiz/supremo-envia-algeciras-denuncia-landaluce-presunto-delito-20261027085921-nts.html",
-      "desc": "El Tribunal Supremo ha remitido a los juzgado de Algeciras una denuncia por presunto delito sexual contra el exalcalde de la ciudad José Ignacio Landaluce, que ya tampoco es senador después del adelanto electoral y, por tanto, no tiene aforamiento. A través de",
-      "date": "Tue, 27 Oct 2026 08:59:21 +0100",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "China suspende las emisiones de LaLiga tras la polémica de Mbappé y su 'meme' del “dictador”",
-      "link": "https://www.lavanguardia.com/deportes/futbol/20261027/11669052/empresas-chinas-rescinden-contratos-mbappe-reirse-meme-dictador-chino.html",
-      "desc": "Empresas chinas rescinden sus contratos con el futbolista del Madrid: “las palabras y los actos que hieren los sentimientos del pueblo chino serán rechazados”, advierte el Ministerio de Exteriores del país",
-      "date": "27 Oct 2026 08:46:11 +0100",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "Muere el conductor de un tráiler tras volcar e incendiarse el camión en Villena",
-      "link": "https://www.abc.es/espana/comunidad-valenciana/alicante/muere-conductor-trailer-tras-volcar-incendiarse-camion-20261027083958-nt.html",
-      "desc": "El conductor de un camión tráiler ha muerto en la madrugada de este martes 27 de octubre tras sufrir un accidente en la autovía A-33, a un kilómetro del centro penitenciario de Villena, Alicante. El vehículo ha quedado volcado lateralmente y se ha incendiado c",
-      "date": "Tue, 27 Oct 2026 08:42:01 +0100",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Telegram elimina los grupos de Blocus donde se organizaban los disturbios",
-      "link": "https://www.abc.es/espana/telegram-elimina-grupos-blocus-organizaban-disturbios-20261027083433-nt.html",
-      "desc": "Telegram ha comenzado a eliminar los grupos de Blocus donde se organizaban los disturbios violentos que amenazan a Barcelona, Madrid y otras ciudades españolas. Los administradores de estos foros recibieron varias advertencias para borrar el contenido y al no ",
-      "date": "Tue, 27 Oct 2026 08:34:33 +0100",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Un estudio del Hospital La Fe permite detectar bacterias en heridas crónicas antes de que aparezcan signos de infección",
-      "link": "https://www.abc.es/espana/comunidad-valenciana/estudio-hospital-permite-detectar-bacterias-heridas-cronicas-20261027082800-nt.html",
-      "desc": "Un estudio liderado por profesionales de Enfermería del Grupo de Investigación en Dermatología y Regeneración Tisular del Instituto de Investigación Sanitaria La Fe ( IIS La Fe ) ha demostrado la utilidad de la imagen por fluorescencia para detectar de forma p",
-      "date": "Tue, 27 Oct 2026 08:28:00 +0100",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Conectar territorios: las infraestructuras como compromiso electoral",
-      "link": "https://www.abc.es/espana/castilla-leon/conectar-territorios-infraestructuras-compromiso-electoral-20261026082645-nt.html",
-      "desc": "Las infraestructuras constituyen uno de los pilares fundamentales del desarrollo económico, de la cohesión territorial y del bienestar social. En vísperas de unas elecciones, los partidos políticos deberían superar las promesas genéricas y presentar propuestas",
-      "date": "Tue, 27 Oct 2026 08:26:45 +0100",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
       "caso": "other"
     }
   ]
