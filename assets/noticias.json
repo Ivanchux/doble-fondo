@@ -1,7 +1,187 @@
 {
-  "updated": "2026-10-27T20:22:32Z",
+  "updated": "2026-10-28T00:54:25Z",
   "count": 24,
   "items": [
+    {
+      "title": "La Ertzaintza retiró su dispositivo en dos horas clave para los disturbios de Bilbao",
+      "link": "https://www.abc.es/espana/pais-vasco/ertzaintza-retiro-dispositivo-dos-horas-clave-disturbios-20261028013125-nt.html",
+      "desc": "El lunes, el barrio de Deusto en Bilbao estuvo huérfano de Seguridad mientras una amalgama de individuos vinculados a la izquierda aberzale radical se congregaba para impedir el acto de Vito Quiles. El dispositivo de la Ertzaintza, que sí se desplegó durante l",
+      "date": "Wed, 28 Oct 2026 01:31:25 +0100",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Los testigos denuncian ante la juez Tardón el papel cómplice de Marruecos en la invasión",
+      "link": "https://www.abc.es/espana/testigos-denuncian-ante-juez-tardon-papel-complice-20261028012831-nt.html",
+      "desc": "El papel de Marruecos como facilitador de la invasión de Ceuta por parte de casi 100.000 personas, lo que ha supuesto el colapso de los servicios sociales y la seguridad de la ciudad autónoma, cobra cada vez más importancia en las declaraciones que van sucedié",
+      "date": "Wed, 28 Oct 2026 01:28:31 +0100",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Interior retira ochenta antidisturbios de Ceuta en los últimos días",
+      "link": "https://www.abc.es/espana/interior-retira-ochenta-antidisturbios-ceuta-reforzar-seguridad-20261028012810-nt.html",
+      "desc": "El Ministerio del Interior reduce la presencia de agentes de los antidisturbios en Ceuta tras las diferentes convocatorias del movimiento 'Blocus' que amenazan a las principales ciudades de España, según informan fuentes policiales a ABC. El refuerzo de la seg",
+      "date": "Wed, 28 Oct 2026 01:28:10 +0100",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "El juez Vilaplana investiga los 85 millones que el Gobierno andaluz del PSOE pagó por comprar inmuebles que ya eran suyos",
+      "link": "https://www.abc.es/espana/andalucia/juez-vilaplana-investiga-millones-pago-gobierno-andaluz-20261028012554-nts.html",
+      "desc": "La Junta de Andalucía desembolsó 85 millones de euros para adquirir parcelas e instalaciones industriales que, en la práctica, ya eran suyas. Las operaciones de compraventa fueron realizadas entre los años 2008 y 2010, bajo los gobiernos del PSOE, a través de ",
+      "date": "Wed, 28 Oct 2026 01:25:54 +0100",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Cayetano González: «Bildu no ha pedido perdón a los padres de niños asesinados por ETA. Es una falta de catadura moral»",
+      "link": "https://www.abc.es/espana/cayetano-gonzalez-bildu-pedido-perdon-padres-ninos-20261027012427-nt.html",
+      "desc": "Cayetano González (León, 1954) reconoce que jamás olvidará la angustia que sintió al pasar menos de diez minutos en el zulo en el que José Antonio Ortega Lara estuvo secuestrado más de quinientos días. «No seas idiota», se decía a si mismo aquella mañana mient",
+      "date": "Wed, 28 Oct 2026 01:24:27 +0100",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Lugares de no hacer nada",
+      "link": "https://www.abc.es/espana/madrid/angel-antonio-herrera-lugares-20261027010045-nt.html",
+      "desc": "Voy viendo, alcalde, que Madrid ha perdido muchos sitios donde no hacer nada. Parece un recurso de bobada, eso de un sitio donde no hacer nada, pero quizá estamos ante una de las pérdidas más serias de una ciudad insomne que prospera con el acelerador pisado. ",
+      "date": "Wed, 28 Oct 2026 01:00:45 +0100",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Ayuso eleva la inversión en Educación y Sanidad a su máximo histórico y rebaja seis impuestos más",
+      "link": "https://www.abc.es/espana/madrid/ayuso-eleva-inversion-educacion-sanidad-maximo-historico-20261027010041-nt.html",
+      "desc": "La presidenta de la Comunidad de Madrid, Isabel Díaz Ayuso, lleva este miércoles al consejo de Gobierno los últimos presupuestos de este mandato. Y un año más, vuelven a crecer. Tras su paso por el órgano ejecutivo, la consejera de Economía, Rocío Albert, remi",
+      "date": "Wed, 28 Oct 2026 01:00:41 +0100",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "El Cajasol Ángel Ximénez deja escapar su ventaja y se despide de la Copa del Rey ante el Benidorm (32-30)",
+      "link": "https://www.abc.es/espana/andalucia/cordoba/cajasol-angel-ximenez-deja-escapar-ventaja-despide-20261028004716-nts.html",
+      "desc": "El Cajasol Ángel Ximénez no pudo prolongar sus buenas sensaciones ligueras ante Granollers al tener que despedirse de la Copa del Rey en primera ronda en su compromiso frente al Benidorm, equipo de Segunda División (32-30. Los pupilos de Toni Malla comenzaron ",
+      "date": "Wed, 28 Oct 2026 00:47:16 +0100",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Iván Ania defiende su actuación en la polémica expulsión ante el Atlético Paso: «El balón estaba fuera; no quería cortar ninguna contra»",
+      "link": "https://www.abc.es/espana/andalucia/cordoba/cordoba-cf/ivan-ania-defiende-actuacion-polemica-expulsion-ante-20261028001858-nts.html",
+      "desc": "El Córdoba CF volvió a fracasar en la Copa del Rey con una actuación impropia de un equipo profesional el Atlético Paso (3-1), un rival dos categorías inferior que aprovechó las numerosas carencias blanquiverdes. Ni la ventaja al descanso ni la superioridad en",
+      "date": "Wed, 28 Oct 2026 00:21:47 +0100",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "De presidente a fugado",
+      "link": "https://www.lavanguardia.com/opinion/20261028/11669671/presidente-fugado.html",
+      "desc": "La fuga de Bolsonaro hace inevitable la reflexión sobre la importante votación del domingo",
+      "date": "28 Oct 2026 00:05:00 +0100",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
+    {
+      "title": "Las notas de los jugadores del Córdoba CF ante el Atlético Paso en Copa del Rey: aprobados y suspensos",
+      "link": "https://www.abc.es/espana/andalucia/cordoba/cordoba-cf/notas-jugadores-cordoba-ante-atletico-paso-copa-20261027234839-nts.html",
+      "desc": "El Córdoba CF volvió a despedirse de la Copa del Rey a las primeras de cambio tras caer derrotado ante el Atlético Paso (3-1), un rival de Segunda Federación que aprovechó las numerosas carencias blanquiverdes. Los pupilos de Iván Ania firmaron una primera mit",
+      "date": "Tue, 27 Oct 2026 23:48:40 +0100",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "El Córdoba CF naufraga y firma otro fracaso en Copa del Rey ante el Atlético Paso (3-1)",
+      "link": "https://www.abc.es/espana/andalucia/cordoba/cordoba-cf/cordoba-firma-naufragio-copa-rey-consuma-fracaso-20261027231644-nts.html",
+      "desc": "El Córdoba CF consumó su enésimo fiasco en la Copa del Rey tras despedirse a las primeras de cambio ante un Atlético Paso que castigó la falta de ambición blanquiverde (3-1). El conjunto canario saltó al césped dispuesto a imponer su ritmo, aunque el cuadro co",
+      "date": "Tue, 27 Oct 2026 23:16:44 +0100",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Cruel derrota en el minuto 93 del Ciudad de Lucena en la Copa del Rey",
+      "link": "https://www.abc.es/espana/andalucia/cordoba/cruel-derrota-minuto-ciudad-lucena-copa-rey-20261027224323-nts.html",
+      "desc": "El Ciudad de Lucena no pudo superar al Rayo Majadahonda en la ronda de sesentaycuatroavos de final de la Copa del Rey . Fue una derrota cruel de los lucentinos, que cayeron 0-1 con un tanto en el 93 de Del Pozo. Los de Cobos fueron muy superiores a su rival en",
+      "date": "Tue, 27 Oct 2026 22:43:24 +0100",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Velázquez reivindica a los 104 alcaldes toledanos del PP como «aval» para gobernar España",
+      "link": "https://www.abc.es/espana/castilla-la-mancha/toledo/pueblos/velazquez-reivindica-104-alcaldes-toledanos-pp-aval-20261027214737-nt.html",
+      "desc": "El presidente provincial del PP de Toledo y cabeza de lista al Congreso, Carlos Velázquez, ha reivindicado a los 104 alcaldes populares de la provincia como el «principal aval» de un partido que aspira a gobernar España después de las elecciones generales del ",
+      "date": "Tue, 27 Oct 2026 21:47:38 +0100",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Una sesentena de identificados y cuatro detenidos en Barcelona tras una convocatoria de Blocus",
+      "link": "https://www.lavanguardia.com/local/barcelona/20261027/11669652/sesentena-identificados-cuatro-detenidos-plaza-espanya-convocatoria-blocus.html",
+      "desc": "Los arrestados en plaza Espanya están relacionados con delitos contra la salud pública, una orden de detención pendiente, dos robos y un hurto de uso de vehículo",
+      "date": "27 Oct 2026 21:46:11 +0100",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
+    {
+      "title": "Un abogado ligado al PP de Madrid denuncia un robo de documentación sobre disputas de afiliados",
+      "link": "https://www.abc.es/espana/abogado-ligado-pp-madrid-denuncia-robo-documentacion-20261027214016-nt.html",
+      "desc": "Un despacho profesional de un abogado vinculado al PP de Madrid ha sido objeto de un robo durante el fin de semana, según consta en un atestado de la Policía Nacional (Comisaría de Madrid-Chamberí). Los autores habrían accedido al interior sin forzar las cerra",
+      "date": "Tue, 27 Oct 2026 21:40:17 +0100",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Condenados cuatro miembros de una misma familia por traficar con drogas en Noia",
+      "link": "https://www.abc.es/espana/galicia/condenados-cuatro-miembros-familia-traficar-drogas-noia-20261027213000-nt.html",
+      "desc": "El Tribunal Superior de Xustiza de Galicia (TSXG) ha confirmado las condenas de dos años y medio de prisión impuestas a cuatro miembros de una misma familia por traficar con drogas en Noia (La Coruña). El alto tribunal gallego ha desestimado los recursos prese",
+      "date": "Tue, 27 Oct 2026 21:30:00 +0100",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Núñez pide a los votantes socialistas de la región que apoyen a Feijóo para rebajar la tensión en las calles",
+      "link": "https://www.abc.es/espana/castilla-la-mancha/nunez-pide-votantes-socialistas-region-apoyen-feijoo-20261027212839-nt.html",
+      "desc": "El presidente del PP de Castilla-La Mancha, Paco Núñez, ha pedido a quienes han votado al PSOE en anteriores elecciones que respalden a Alberto Núñez Feijóo el próximo 29 de noviembre para contribuir, según ha defendido, a rebajar la tensión y el enfrentamient",
+      "date": "Tue, 27 Oct 2026 21:28:40 +0100",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
     {
       "title": "La Policía aporta a la juez Tardón vídeos de la inacción de los gendarmes marroquíes durante la invasión a Ceuta",
       "link": "https://www.abc.es/espana/policia-aporta-juez-tardon-videos-inaccion-gendarmes-20261027211426-nt.html",
@@ -11,6 +191,16 @@
       "color": "#c0392b",
       "feedId": "ABC",
       "caso": "gen"
+    },
+    {
+      "title": "Los sondeos dan una ligera ventaja al bloque de la oposición en Israel",
+      "link": "https://www.lavanguardia.com/internacional/20261027/11669639/ninguno-dos-bloques-clara-mayoria-israel-sondeos-pie-urna.html",
+      "desc": "",
+      "date": "27 Oct 2026 21:09:13 +0100",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
     },
     {
       "title": "El Bono Activa Comercio se lanza este miércoles: cómo adquirirlo y dónde utilizarlo",
@@ -43,200 +233,10 @@
       "caso": "other"
     },
     {
-      "title": "Los titulares de la Paz de Córdoba se trasladarán al Instituto de Patrimonio para un estudio",
-      "link": "https://www.abc.es/espana/andalucia/cordoba/semana-santa/titulares-paz-cordoba-trasladaran-instituto-patrimonio-estudio-20261027204617-nts.html",
-      "desc": "Nuestro Padre Jesús de la Humildad y Paciencia y María Santísima de la Paz y Esperanza viajarán a Sevilla dentro de pocas fechas para someterse a un estudio sobre su estado de conservación en las dependencias del Instituto Andaluz del Patrimonio Histórico ( IA",
-      "date": "Tue, 27 Oct 2026 20:46:17 +0100",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Los ángeles de la guarda de la plaza de la Luna: dos policías salvan la vida a un bebé de cuatro meses que no respiraba",
-      "link": "https://www.abc.es/espana/madrid/angeles-guarda-plaza-luna-dos-policias-salvan-20261027204336-nt.html",
-      "desc": "Una intervención al límite para salvar la vida de un bebe de cuatro meses que ninguno de los implicados olvidará jamás. Así fue el servicio que vivieron el 29 de septiembre los agentes de la Policía Nacional Fran y César, adscritos al Grupo Operativo de Respue",
-      "date": "Tue, 27 Oct 2026 20:43:36 +0100",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Abascal anuncia una querella contra el subdelegado del Gobierno en Zamora por «actos de intimidación» durante su mitin",
-      "link": "https://www.abc.es/espana/castilla-leon/abascal-anuncia-querella-subdelegado-gobierno-zamora-actos-20261027203917-nt.html",
-      "desc": "El presidente nacional de Vox, Santiago Abascal, ha anunciado en Zamora que este miércoles pondrá una querella contra el subdelegado del Gobierno en la provincia, Ángel Blanco García, por «estar detrás de los actos de intimidación» durante el mitin que ha prot",
-      "date": "Tue, 27 Oct 2026 20:41:16 +0100",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Page reivindica la cultura como «refugio de humanidad» frente a la inteligencia artificial",
-      "link": "https://www.abc.es/espana/castilla-la-mancha/page-reivindica-cultura-refugio-humanidad-frente-inteligencia-20261027204006-nt.html",
-      "desc": "Ante el avance de la inteligencia artificial y la robótica, el presidente de Castilla-La Mancha, Emiliano García-Page, ha reivindicado este martes la cultura como un «refugio de humanidad» durante la entrega de las Medallas al Mérito Cultural de la Junta de Co",
-      "date": "Tue, 27 Oct 2026 20:40:06 +0100",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Abascal anuncia una querella contra el subdelegado del Gobierno en Zamora por los «actos de intimidación» durante su mitin",
-      "link": "https://www.abc.es/espana/castilla-leon/abascal-anuncia-querella-subdelegado-gobierno-zamora-actos-20261027203458-nt.html",
-      "desc": "El presidente nacional de Vox, Santiago Abascal, ha anunciado en Zamora que este miércoles pondrá una querella contra el subdelegado del Gobierno en la provincia, Ángel Blanco García, por «estar detrás de los a ctos de intimidación» durante el mitin que ha pro",
-      "date": "Tue, 27 Oct 2026 20:34:58 +0100",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Viladecans The Style Outlets ampliará con 30 nuevas tiendas y una inversión de 30 millones",
-      "link": "https://www.abc.es/espana/cataluna/viladecans-the-style-outlets-ampliara-nuevas-tiendas-20261027203352-nt.html",
-      "desc": "Viladecans The Style Outlets ampliará sus instalaciones con unos 6.000 metros cuadrados y 30 nuevas tiendas. La inversión prevista asciende a 30 millones de euros y permitirá que el centro alcance aproximadamente los 26.000 metros cuadrados de superficie comer",
-      "date": "Tue, 27 Oct 2026 20:33:53 +0100",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "El acuerdo con Frente Amplio al Senado deja fuera a Tierraseca y a los alcaldes de  Cañete, Carrizosa y Consuegra",
-      "link": "https://www.abc.es/espana/castilla-la-mancha/toledo/acuerdo-frente-amplio-senado-deja-tierraseca-alcaldes-20261027202644-nt.html",
-      "desc": "Izquierda Unida (IU) ha copado las candidaturas de Frente Amplio en Castilla-La Mancha para las elecciones generales del próximo 29 de noviembre y ha dejado fuera a Sumar, que no contará con representantes en ninguna de las cinco listas al Congreso ni en los p",
-      "date": "Tue, 27 Oct 2026 20:26:45 +0100",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "​Un excargo de la Gendarmería y dos inmigrantes sitúan a altos mandos marroquíes en la frontera durante la invasión a Ceuta",
-      "link": "https://www.abc.es/espana/excargo-gendarmeria-dos-inmigrantes-situan-altos-mandos-20261027201247-nt.html",
-      "desc": "​La titular del Juzgado Central de Instrucción número 3 de la Audiencia Nacional, María Tardón, interrogará por videoconferencia a tres ciudadanos marroquíes cuyos testimonios abren una vía clave en la causa que investiga el salto masivo a Ceuta del pasado ver",
-      "date": "Tue, 27 Oct 2026 20:12:48 +0100",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "gen"
-    },
-    {
-      "title": "La Base Logística de Córdoba se topa con un segundo freno: la adjudicación de la dirección de la obra, suspendida",
-      "link": "https://www.abc.es/espana/andalucia/cordoba/base-logistica-cordoba-topa-segundo-freno-adjudicacion-20261027194845-nts.html",
-      "desc": "Nuevo contratiempo para el inicio de las obras de la Base Logística de Córdoba . A la paralización de la adjudicación de los trabajos propiamente dichos, ahora se suma que también queda en pausa uno de los lotes del contrato para la dirección de obra y la gest",
-      "date": "Tue, 27 Oct 2026 19:48:45 +0100",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "El sindicato mayoritario de Mossos reclama más medios para los antidisturbios tras las algaradas de Blocus",
-      "link": "https://www.abc.es/espana/cataluna/sindicato-mayoritario-mossos-reclama-medios-antidisturbios-tras-20261027194523-nt.html",
-      "desc": "Los disturbios del pasado sábado en Barcelona se saldaron no sólo con una treintena de comercios saqueados o vandalizados, sino con 14 agentes de los Mossos d'Esquadra heridos. De ellos, cuatro de baja, y uno tras recibir un fuerte impacto en la cabeza. Las co",
-      "date": "Tue, 27 Oct 2026 19:45:24 +0100",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "El Festival de Piano Rafael Orozco hace sonar en Córdoba sus primeras notas: éstos son los conciertos esta semana",
-      "link": "https://www.abc.es/espana/andalucia/cordoba/festival-piano-rafael-orozco-sonar-cordoba-primeras-20261027194440-nts.html",
-      "desc": "Tras un prefestival cargado de emociones, con el recital de la taiwanesa Tzu-Yu Yang en Cabra y un maratón en el hospital Reina Sofía en el que han participado 42 jóvenes pianistas de la ciudad, llega la hora del Festival de Piano Rafael Orozco propiamente dic",
-      "date": "Tue, 27 Oct 2026 19:44:40 +0100",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Matías Prats y su familia visitan Villa del Río para inaugurar los estudios de la radio municipal: «Hay mucho de nuestro padre en este pueblo»",
-      "link": "https://www.abc.es/espana/andalucia/cordoba/matias-prats-familia-visitan-villa-rio-inaugurar-20261027194429-nts.html",
-      "desc": "Villa del Río ha inaugurado este lunes las renovadas instalaciones de Matías Prats Radio, la emisora municipal que lleva el nombre del histórico periodista villarrense. El acto ha reunido a dos generaciones de profesionales de la comunicación de la familia Pra",
-      "date": "Tue, 27 Oct 2026 19:44:30 +0100",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Las familias de los dos andaluces presos en Guinea Ecuatorial convocan una protesta en Córdoba",
-      "link": "https://www.abc.es/espana/andalucia/cordoba/familias-dos-andaluces-presos-guinea-ecuatorial-convocan-20261027194423-nts.html",
-      "desc": "Las familias de los dos andaluces detenidos y encarcelados desde enero de 2025 en Guinea Ecuatorial, David Rodríguez Ballesta (natural de Granada) y Javier Marañón Montero (cordobés de Peñarroya-Pueblonuevo), han convocado una manifestación para el sábado, 31 ",
-      "date": "Tue, 27 Oct 2026 19:44:23 +0100",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "La juez rechaza citar a la investigadora del accidente de Adamuz que denunció cambios en informes técnicos por sus superiores",
-      "link": "https://www.abc.es/espana/andalucia/cordoba/provincia/juez-rechaza-citar-investigadora-accidente-adamuz-denuncio-20261027193826-nts.html",
-      "desc": "La jueza de Montoro (Córdoba) que investiga el trágico accidente ferroviario de Adamuz, que costó la vida a 46 personas el pasado 18 de enero, ha rechazado que declare como testigo de Isabel López López, una investigadora adscrita a la antigua Comisión de Inve",
-      "date": "Tue, 27 Oct 2026 19:38:27 +0100",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "El alcalde de Almuñécar, sobre la presa de Rules: «Sólo sirve para hacer surf»",
-      "link": "https://www.abc.es/espana/andalucia/malaga/alcalde-almunecar-sobre-presa-rules-solo-sirve-20261027192642-nts.html",
-      "desc": "La presa de Rules, una infraestructura que tardó veinticinco años en construirse, sigue sin cumplir la función para la que fue concebida. «Solo sirve para hacer surf», ha expresado Juan José Ruiz Joya, alcalde de Almuñécar, en el Foro ABC «Mediterráneo andaluz",
-      "date": "Tue, 27 Oct 2026 19:26:42 +0100",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "La sindicalista que denunció a Paco de la Rosa por acoso, cabeza de lista de Podemos en Toledo",
-      "link": "https://www.abc.es/espana/castilla-la-mancha/toledo/sindicalista-denuncio-paco-rosa-acoso-cabeza-lista-20261027192514-nt.html",
-      "desc": "Podemos ha confirmado a María Ángeles Castellanos, exsecretaria de Políticas Sociales, Agenda 2030 y Empleo de Comisiones Obreras de Castilla-La Mancha, como número uno de su candidatura al Congreso de los Diputados por la provincia de Toledo para las eleccion",
-      "date": "Tue, 27 Oct 2026 19:25:15 +0100",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
       "title": "El Consorci d'Educació de Barcelona ofrece apoyo psicosocial y policial a los centros educativos",
       "link": "https://www.lavanguardia.com/local/20261027/11669581/consorci-d-educacio-barcelona-ofrece-apoyo-psicosocial-policial-centros-educativos.html",
       "desc": "La entidad, que ha enviado un comunicado a los institutos, sostiene que es práctica habitual recordar los recursos existentes a los centros",
       "date": "27 Oct 2026 18:46:16 +0100",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "Servicios mínimos altos en hospitales y del 25% en los CAP por la huelga de médicos de mañana",
-      "link": "https://www.lavanguardia.com/vida/20261027/11669587/servicios-minimos-altos-hospitales-25-cap-huelga-medicos-manana.html",
-      "desc": "Como en Catalunya, también hay convocadas jornadas de paros en Madrid desde mañana al sábado",
-      "date": "27 Oct 2026 18:43:03 +0100",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "China saca la tarjeta roja a Mbappé",
-      "link": "https://www.lavanguardia.com/deportes/20261027/11669546/china-le-saca-tarjeta-roja-mbappe.html",
-      "desc": "El jugador ha presentado sus disculpas, como ha hecho la Liga, ante la avalancha de boicots comerciales",
-      "date": "27 Oct 2026 17:43:34 +0100",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "China reeduca a Mbappé",
-      "link": "https://www.lavanguardia.com/opinion/20261027/11669478/china-reeduca-mbappe.html",
-      "desc": "Mao Zedong es sagrado en China: propició catástrofes, pero unificó un país roto y humillado",
-      "date": "27 Oct 2026 17:21:05 +0100",
       "source": "La Vanguardia",
       "color": "#8e44ad",
       "feedId": "LaVanguardia",
