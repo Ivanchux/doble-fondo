@@ -1,7 +1,197 @@
 {
-  "updated": "2026-11-02T19:56:20Z",
+  "updated": "2026-11-03T01:59:42Z",
   "count": 24,
   "items": [
+    {
+      "title": "Cuatro heridos en una colisión múltiple en la N-320 en Guadalajara",
+      "link": "https://www.abc.es/espana/castilla-la-mancha/cuatro-heridos-colision-multiple-n320-guadalajara-20261103015637-nt.html",
+      "desc": "Cuatro personas han resultado heridas este lunes en una colisión múltiple en la N-320, en Guadalajara, en la que se han visto implicados cuatro turismos. El accidente se produjo a las siete menos cuarto de la tarde y, como consecuencia del impacto, fue necesar",
+      "date": "Tue, 03 Nov 2026 01:56:38 +0100",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Identificadas las 69 víctimas de la tragedia ferroviaria de Urda",
+      "link": "https://www.abc.es/espana/castilla-la-mancha/toledo/identificadas-victimas-tragedia-ferroviaria-urda-20261103013744-nt.html",
+      "desc": "Las 69 personas fallecidas en el accidente ferroviario de Urda (Toledo) han sido ya identificadas y sus identidades comunicadas a todas las familias, cinco días después de la tragedia. El Centro Integrado de Datos (CID) ha dado por concluidas las labores de id",
+      "date": "Tue, 03 Nov 2026 01:37:44 +0100",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "La juez del accidente de Urda aprende de Adamuz para que Adif no contamine el escenario",
+      "link": "https://www.abc.es/espana/juez-accidente-urda-aprende-adamuz-adif-contamine-20261103012906-nt.html",
+      "desc": "Cristina Pastor Recover, la magistrada que investiga el accidente de Adamuz y Aristea Afroditi Ortiz Tiliakou, la juez que instruye la tragedia de Urda compartieron promoción en la Escuela Judicial . La titular de Orgaz (Toledo) decretó ya unas primeras medida",
+      "date": "Tue, 03 Nov 2026 01:29:06 +0100",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "La izquierda agita la huelga en las universidades públicas ocho meses después de un acuerdo «histórico»",
+      "link": "https://www.abc.es/espana/madrid/izquierda-agita-huelga-universidades-publicas-ocho-meses-20261102011223-nt.html",
+      "desc": "Hace apenas ochos meses, la Comunidad de Madrid y las seis universidades públicas madrileñas celebraban un «hito histórico», un acuerdo que, según reconocieron todas las partes, marcaba un antes y un después, un punto de no retorno para reconocer un nuevo mode",
+      "date": "Tue, 03 Nov 2026 01:12:23 +0100",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Las jeringuillas vuelven a Lavapiés: «Se pinchan delante de casa y ni los taxis quieren entrar de noche»",
+      "link": "https://www.abc.es/espana/madrid/vecinos-lavapies-hartos-vuelto-jeringuillas-calles-taxis-20261030011213-nt.html",
+      "desc": "Lavapiés como ejemplo del fracaso . O, al menos, de advertencia sobre lo que puede ir a peor si todas las administraciones y organismos implicados no se ponen a trabajar juntos de una vez y a remar en la misma dirección. Ese es el diagnóstico y el tratamiento ",
+      "date": "Tue, 03 Nov 2026 01:12:13 +0100",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "El PP impondrá criterios técnicos para elegir a los gestores de Adif y despolitizar su cúpula",
+      "link": "https://www.abc.es/espana/pp-impondra-criterios-tecnicos-elegir-gestores-adif-20261102011035-nt.html",
+      "desc": "El PP revisará la fórmula de elección y contratación de las empresas públicas para asegurar que sus gestores no sean elegidos en función de su afinidad política, sino atendiendo a criterios de «experiencia, mérito y capacidad». Así figura en el programa electo",
+      "date": "Tue, 03 Nov 2026 01:10:35 +0100",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Interior dice ahora a la juez que recibió alertas de entradas masivas en Ceuta, pero en agosto",
+      "link": "https://www.abc.es/espana/interior-dice-juez-recibio-alertas-entradas-masivas-20261103011023-nt.html",
+      "desc": "El Ministerio del Interior sostiene ante la juez de la Audiencia Nacional que investiga la entrada masiva en Ceuta, María Tardón, que recibió cuatro avisos de sus organismos instalados en Marruecos sobre posibles entradas irregulares masivas en la ciudad autón",
+      "date": "Tue, 03 Nov 2026 01:10:23 +0100",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "gen"
+    },
+    {
+      "title": "Puente planteará endurecer ahora los protocolos de comunicación entre los maquinistas y el centro de control",
+      "link": "https://www.abc.es/espana/puente-planteara-endurecer-protocolos-comunicacion-maquinistas-centro-20261102011013-nt.html",
+      "desc": "El ministrio de Transportes, Óscar Puente, comparecerá este martes ante la Diputación Permanente del Congreso para dar más detalles a los grupos parlamentarios sobre el trágico accidente ferroviario de Urda (Toledo) que acabó con la vida de 69 personas por aho",
+      "date": "Tue, 03 Nov 2026 01:10:13 +0100",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "El informe de Yanes sobre las joyas de Zapatero le deja al borde de la imputación",
+      "link": "https://www.abc.es/espana/informe-yanes-sobre-joyas-zapatero-deja-borde-20261103011004-nt.html",
+      "desc": "El futuro judicial de Zapatero se complica. El expresidente del Gobierno se encuentra al borde de la imputación por malversación, un nuevo delito en su contra, después de que la joyería Yanes entregase la pasada semana al juez de la Audiencia Nacional que le i",
+      "date": "Tue, 03 Nov 2026 01:10:04 +0100",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "zap"
+    },
+    {
+      "title": "El modelismo ferroviario hace parada en la Casa de Campo",
+      "link": "https://www.abc.es/espana/madrid/modelismo-ferroviario-parada-casa-campo-20261102010149-nt.html",
+      "desc": "Los amantes del modelismo, los trenes y las maquetas tienen una cita los próximos 6 (de las 17 a las 20 horas), 7 (de 10 a 20 horas) y 8 de noviembre (de 10 a 14 horas), en un fin de semana en el que Madrid se convertirá en la capital del tren en miniatura con",
+      "date": "Tue, 03 Nov 2026 01:01:49 +0100",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Suben un 30 por ciento los conflictos entre alumnos y profesores en las aulas",
+      "link": "https://www.abc.es/espana/castilla-leon/suben-ciento-conflictos-alumnos-profesores-aulas-20261020002519-nt.html",
+      "desc": "Comportamientos de alumnos que «afectan directamente» y «gravemente» al profesorado u otro personal del centro entre los que pueden estar las faltas de respeto, insultos y otras agresiones verbales, daños a sus bienes, robos o los ataques físicos. El apartado ",
+      "date": "Tue, 03 Nov 2026 00:25:19 +0100",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "XXX Cumbre Iberoamericana: marcada por el accidente de Urda y la polarización entre la neoderecha y el socialismo fallido",
+      "link": "https://www.abc.es/espana/xxx-cumbre-iberoamericana-marcada-accidente-urda-polarizacion-20261102233348-nt.html",
+      "desc": "El puzle de la agenda de la XXX Cumbre Iberoamericana de Jefes de Estado y de Gobierno, que se celebra en Madrid este miércoles 4 y jueves 5, comenzó a resolverse esta tarde-noche del lunes (apenas 48 horas antes) cuando el Gobierno envió, al fin, una agenda d",
+      "date": "Mon, 02 Nov 2026 23:33:48 +0100",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Incendio forestal en el término almeriense de Velefique",
+      "link": "https://www.abc.es/espana/andalucia/incendio-forestal-termino-almeriense-velefique-20261102225749-nts.html",
+      "desc": "Efectivos del Plan Infoca han reducido a cuatro grupos de bomberos forestales, un técnico de operaciones y una autobomba para combatir el incendio forestal declarado este lunes en el término municipal de Velefique (Almería), cuyo aviso se ha recibido a las 14,",
+      "date": "Mon, 02 Nov 2026 22:57:49 +0100",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Identificados los 69 fallecidos en el accidente ferroviario de Urda",
+      "link": "https://www.lavanguardia.com/vida/20261102/11674507/identificados-69-fallecidos-accidente-ferroviario-urda.html",
+      "desc": "Según el balance provisional, 54 de las personas fallecidas son de nacionalidad española y 15 son ciudadanos extranjeros",
+      "date": "02 Nov 2026 22:38:23 +0100",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
+    {
+      "title": "El sorteo de la Bono Loto deja un premio de 56.000 euros en Baena",
+      "link": "https://www.abc.es/espana/andalucia/cordoba/sorteo-bono-loto-deja-premio-56000-euros-20261102221326-nts.html",
+      "desc": "El sorteo de la Bono Loto ha vuelto a sonreír a Córdoba con un premio en Baena. No se han registrado acertantes de primera categoría, es decir, que hayan conseguido los seis números, pero sí de segunda, que son cinco aciertos y el complementario. Y uno de los ",
+      "date": "Mon, 02 Nov 2026 22:13:26 +0100",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Puente permitió al presidente de Renfe colonizar el operador con políticos de Más Madrid y el 'lobby' del autobús",
+      "link": "https://www.abc.es/espana/puente-permitio-presidente-renfe-colonizar-operador-politicos-20261102214018-nt.html",
+      "desc": "La colonización de los dos puntales públicos del sector ferroviario, Adif y Renfe, está dejando al descubierto la politización de las dos corporaciones estatales, donde se ha vaciado la capacitación técnica de sus estructuras de dirección, en favor de perfiles",
+      "date": "Mon, 02 Nov 2026 21:40:18 +0100",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "La UAB y la APIEC ponen en marcha la segunda microcredencial de Periodismo Económico",
+      "link": "https://www.abc.es/espana/cataluna/uab-apiec-ponen-marcha-segunda-microcredencial-periodismo-20261102211944-nt.html",
+      "desc": "La Universidad Autónoma de Barcelona (UAB) y la Asociación de Periodistas de Información Económica de Cataluña (APIEC) han iniciado este lunes, 2 de noviembre, la segunda edición de la microcredencial «Periodismo Económico en Tiempos de Incertidumbre» . Se tra",
+      "date": "Mon, 02 Nov 2026 21:19:45 +0100",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Trump cierra su campaña para las legislativas: “Son las más importantes de nuestras vidas”",
+      "link": "https://www.lavanguardia.com/internacional/20261102/11674481/trump-cierra-campana-legislativas-son-mas-importantes-vidas.html",
+      "desc": "El presidente alerta que los demócratas han presentado los “candidatos más extremistas y peligrosos de la historia”",
+      "date": "02 Nov 2026 21:03:55 +0100",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
+    {
+      "title": "Dimite el jefe de gabinete de Illa, investigado por presuntas irregularidades durante su etapa como alcalde",
+      "link": "https://www.abc.es/espana/cataluna/dimite-jefe-gabinete-illa-investigado-presuntas-irregularidades-20261102205307-nt.html",
+      "desc": "El jefe de gabinete de Salvador Illa, Eduard Rivas, ha dimitido de su cargo, siete meses después de que se conociera que está siendo investigado por presuntas irregularidades en una fundación durante su etapa como alcalde de Esparraguera (Barcelona). A Rivas l",
+      "date": "Mon, 02 Nov 2026 20:53:07 +0100",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
     {
       "title": "Identificado tras dejar inconsciente de una patada a un menor en Vilagarcía",
       "link": "https://www.abc.es/espana/galicia/identificado-tras-dejar-inconsciente-patada-menor-vilagarcia-20261102203736-nt.html",
@@ -43,200 +233,10 @@
       "caso": "other"
     },
     {
-      "title": "Las retenciones complican el tráfico en varias carreteras de Castilla y León en el retorno del puente de Todos los Santos",
-      "link": "https://www.abc.es/espana/castilla-leon/retenciones-complican-trafico-varias-carreteras-castilla-leon-20261102195857-nt.html",
-      "desc": "La operación retorno en Castilla y León registraba este domingi varios kilómetros de retenciones en algunas vías de alta capacidad. Principalmente, en la Autovía del Noroeste (A-6), a su paso por Ávila, en la Autovía de Pinares (A-601), entre Valladolid y Sego",
-      "date": "Mon, 02 Nov 2026 19:58:57 +0100",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Martín Sanz y Juan Carlos Soler presentan un libro con vivencias de personas y sus mascotas a través de Cruz Roja",
-      "link": "https://www.abc.es/espana/comunidad-valenciana/alicante/martin-sanz-juan-carlos-soler-presentan-libro-20261103195402-nt.html",
-      "desc": "El escritor y periodista Martín Sanz Moros y el fotógrafo Juan Carlos Soler Pascual -que publica a diario en ABC - presentarán el próximo 5 de noviembre en la sede provincial de Cruz Roja en Alicante su nuevo libro, 'Compañeros de vida', una obra que recorre d",
-      "date": "Mon, 02 Nov 2026 19:58:52 +0100",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Los perdedores en una vía del tren",
-      "link": "https://www.abc.es/espana/castilla-la-mancha/toledo/fernando-novalbos-perdedores-via-tren-20261102195356-nt.html",
-      "desc": "Justo en el segundo aniversario de la Dana valenciana, aún sin vislumbrar soluciones y lejos de convencimientos políticos, una parte del parlamento español sigue rechazando leyes elementales para la evolución social y la modernización de las infraestructuras, ",
-      "date": "Mon, 02 Nov 2026 19:53:56 +0100",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "El turismo de cercanía protagoniza en Córdoba un puente de Todos los Santos inusual para el comercio",
-      "link": "https://www.abc.es/espana/andalucia/cordoba/turismo-cercania-protagoniza-cordoba-puente-santos-inusual-20261102195337-nts.html",
-      "desc": "La temperatura ha sido ideal en estos días para dar un paseo por el entorno de la Judería y el entorno de la Mezquita-Catedral. Aunque el bullicio habitual, más aún en una fecha como ésta, ha resultado menor que en otras ocasiones. El puente de Todos los Santo",
-      "date": "Mon, 02 Nov 2026 19:53:37 +0100",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Adilson Mendes sigue dando pasos firmes en su recuperación con el Córdoba CF",
-      "link": "https://www.abc.es/espana/andalucia/cordoba/cordoba-cf/adilson-mendes-sigue-dando-pasos-firmes-recuperacion-20261102195324-nts.html",
-      "desc": "La enfermería del Córdoba CF sigue sin presentar novedades, aunque entre las numerosas ausencias que condicionan los planes de Iván Ania también hay espacio para las noticias esperanzadoras. Adilson sigue avanzando en su proceso de recuperación después de vari",
-      "date": "Mon, 02 Nov 2026 19:53:24 +0100",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "La Semana Santa de Córdoba 2027 cierra su configuración con nuevo orden el Domingo de Ramos y Lunes Santo",
-      "link": "https://www.abc.es/espana/andalucia/cordoba/semana-santa-cordoba-2027-cierra-configuracion-nuevo-20261102195303-nts.html",
-      "desc": "El orden de la carrera oficial para la Semana Santa de Córdoba 2027 ya se ha cerrado. La Agrupación de Cofradías ha avanzado ya la nueva configuración, que a los cambios ya conocidos en el Jueves Santo y Martes Santo suma en el Domingo de Ramos y Lunes. Así, e",
-      "date": "Mon, 02 Nov 2026 19:53:03 +0100",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "El descaro de 'The Book of Mormon' atrae al público de Valencia",
-      "link": "https://www.abc.es/espana/comunidad-valenciana/descaro-the-book-mormon-atrae-publico-valencia-20261102194851-nt.html",
-      "desc": "Tras más de mil representaciones y medio millón de espectadores en sus tres temporadas en Madrid, la irreverente comedia musical 'The Book of Mormon' inicia su gira por España el 7 de noviembre en el Teatro Olympia de Valencia. El espacio cultural ha ampliado ",
-      "date": "Mon, 02 Nov 2026 19:48:51 +0100",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Paco, podemos cenar sin hablarnos",
-      "link": "https://www.abc.es/espana/cataluna/paco-podemos-cenar-hablarnos-20261102194357-nt.html",
-      "desc": "Paco, me parece que he encontrado una solución para por lo menos no molestar a nuestros amigos. Podemos ir los dos a las cenas o a los almuerzos y no hablarnos directamente. A lo sumo, si me lo permites, puedo decir «pues yo estoy de acuerdo con Paco» si comen",
-      "date": "Mon, 02 Nov 2026 19:43:57 +0100",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
       "title": "Al menos 24 muertos en un ataque ruso contra una escuela en Zaporiyia",
       "link": "https://www.lavanguardia.com/internacional/20261102/11674443/18-muertos-ataque-ruso-escuela-zaporiyia-zelenski.html",
       "desc": "“Los ataques fueron dirigidos contra una escuela utilizada para propósitos humanitarios, la gente recibía allí ayuda humanitaria”, denuncia Zelenski",
       "date": "02 Nov 2026 19:40:35 +0100",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "Los 'Bukaneros' del Rayo, camilleros en la tragedia de Urda",
-      "link": "https://www.abc.es/espana/castilla-la-mancha/toledo/pueblos/bukaneros-rayo-camilleros-tragedia-urda-20261102192836-nt.html",
-      "desc": "La solidaridad que despertó la tragedia ferroviaria de Urda no se limitó a los vecinos del municipio, que se volcaron desde los primeros momentos con las víctimas y los equipos de emergencia. Entre quienes se ofrecieron a ayudar estuvieron también los 'Bukaner",
-      "date": "Mon, 02 Nov 2026 19:30:05 +0100",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "La Policía confirma la detención de dos menores de edad vinculadas a Blocus por promover actos violentos y saqueos en Barcelona",
-      "link": "https://www.abc.es/espana/cataluna/policia-confirma-detencion-dos-menores-edad-vinculadas-20261102192515-nt.html",
-      "desc": "La Policía Nacional ha realizado dos detenciones más tras los actos vandálicos acaecidos en Barcelona el pasado 24 de octubre. Se trata de dos jóvenes menores de edad vinculadas a los canales de Blocus. La función principal de las dos chicas era ser administra",
-      "date": "Mon, 02 Nov 2026 19:25:15 +0100",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "La música lleva compañía y dignidad a los internos de Ocaña I (Toledo)",
-      "link": "https://www.abc.es/espana/castilla-la-mancha/toledo/musica-lleva-compania-dignidad-internos-ocana-toledo-20261102191119-nt.html",
-      "desc": "La música ha vuelto a abrir un espacio de encuentro en el Centro Penitenciario Ocaña I. El grupo musical SOMOS ha ofrecido una actuación para las personas privadas de libertad, en una iniciativa promovida por el Secretariado Diocesano de Pastoral Penitenciaria",
-      "date": "Mon, 02 Nov 2026 19:11:20 +0100",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "El colegio Montecastelo de Vigo llora la muerte de un antiguo profesor en el accidente de Toledo",
-      "link": "https://www.abc.es/espana/galicia/colegio-montecastelo-vigo-llora-muerte-antiguo-profesor-20261102190218-nt.html",
-      "desc": "El Colegio Montecastelo de Vigo ha lamentado en las últimas horas el fallecimiento de Carlos Ortiz, quien fue profesor en el centro educativo y perdió la vida en el accidente ferroviario ocurrido en Urda (Toledo) el pasado miércoles, provocando 69 muertes. En ",
-      "date": "Mon, 02 Nov 2026 19:02:18 +0100",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "La Guardia Civil concluye la retirada de los últimos vagones y habilita un punto para dejar flores por las víctimas",
-      "link": "https://www.abc.es/espana/castilla-la-mancha/toledo/guardia-civil-concluye-retirada-ultimos-vagones-habilita-20261102185935-nt.html",
-      "desc": "Los equipos de emergencias han terminado este lunes de retirar los vagones que permanecían en las vías tras el accidente ferroviario del pasado 28 de octubre en Urda (Toledo) . Los restos de los trenes serán trasladados previsiblemente este martes en transport",
-      "date": "Mon, 02 Nov 2026 18:59:36 +0100",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Detenidas dos menores de edad por promover los saqueos de Blocus en Barcelona el 24 de octubre",
-      "link": "https://www.lavanguardia.com/local/catalunya/20261102/11674415/detenidas-dos-menores-edad-promover-saqueos-blocus-barcelona-24-octubre.html",
-      "desc": "Las jóvenes, de 14 y 17 años,&nbsp;eran administradoras de diferentes grupos de comunicación que se crearon para facilitar la coordinación de los participantes en los disturbios",
-      "date": "02 Nov 2026 18:56:25 +0100",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "Abel Caballero arremete otra vez contra el PP: la Diputación «estafa» a Vigo",
-      "link": "https://www.abc.es/espana/galicia/abel-caballero-arremete-vez-pp-diputacion-estafa-20261102184501-nt.html",
-      "desc": "El alcalde de Vigo, Abel Caballero, ha afirmado este lunes que la Diputación de Pontevedra «estafa» a la ciudad, y ha tildado de «mentira» las inversiones anunciadas en los presupuestos provinciales por la vicepresidenta de la institución, Luisa Sánchez, que c",
-      "date": "Mon, 02 Nov 2026 18:45:02 +0100",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Les Arts se estrena en el género chico con 'La verbena de la Paloma' y un homenaje al Apolo",
-      "link": "https://www.abc.es/espana/comunidad-valenciana/arts-estrena-genero-chico-verbena-paloma-homenaje-20261102184148-nt.html",
-      "desc": "El Palau de Les Arts Reina Sofía de Valencia ha presentado este lunes su estreno en el género chico, con 'La verbena de la Paloma', de Tomás Bretón, y un prólogo cómico-lírico en homenaje al Teatro Apolo de Madrid, que presentó este sainete lírico en 1894. Dos",
-      "date": "Mon, 02 Nov 2026 18:41:48 +0100",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "El maestro pastelero Raúl Asencio, Premio Gastro Cinema de la Diputación de Alicante",
-      "link": "https://www.abc.es/espana/comunidad-valenciana/alicante/maestro-pastelero-raul-asencio-premio-gastro-cinema-20261102182616-nt.html",
-      "desc": "Raúl Asencio será distinguido este año con el Premio Gastro Cinema, un reconocimiento a una trayectoria profesional caracterizada por «la creatividad, la apuesta por la calidad del producto y la defensa de la tradición gastronómica vinculada al territorio», ta",
-      "date": "Mon, 02 Nov 2026 18:26:16 +0100",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Ferrol entra en el mapa de la Memoria Democrática por su lucha antifranquista",
-      "link": "https://www.abc.es/espana/galicia/ferrol-entra-mapa-memoria-democratica-lucha-antifranquista-20261102181627-nt.html",
-      "desc": "El Boletín Oficial del Estado (BOE) publicó este lunes la resolución por la que se declara la ciudad de Ferrol como Lugar de Memoria Democrática. El documento reconoce que la ciudad «reúne numerosos espacios vinculados a la defensa de la legalidad republicana,",
-      "date": "Mon, 02 Nov 2026 18:16:27 +0100",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "La unión del tranvía quitará al coche un carril en la entrada a Barcelona por la Diagonal",
-      "link": "https://www.lavanguardia.com/local/barcelona/20261102/11674388/union-tranvia-quitara-coche-carril-entrada-barcelona-diagonal.html",
-      "desc": "Todo el tráfico privado que llega por la B-23 se derivará al lateral de la avenida",
-      "date": "02 Nov 2026 18:04:58 +0100",
       "source": "La Vanguardia",
       "color": "#8e44ad",
       "feedId": "LaVanguardia",
