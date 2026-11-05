@@ -1,246 +1,46 @@
 {
-  "updated": "2026-11-05T09:03:02Z",
-  "count": 24,
+  "updated": "2026-11-05T17:48:43Z",
+  "count": 4,
   "items": [
     {
-      "title": "El asesino de un hombre en Vallecas escondía 44 navajas automáticas en su casa",
-      "link": "https://www.abc.es/espana/madrid/asesino-hombre-vallecas-escondia-navajas-automaticas-casa-20261105094940-nt.html",
-      "desc": "El Grupo VI de Homicidios de la Jefatura Superior de Policía de Madrid ha detenido al presunto autor de la muerte de un hombre el pasado septiembre en el distrito de Puente de Vallecas. Tras un mes y medio de investigaciones, el sujeto, un español de 18 años, ",
-      "date": "Thu, 05 Nov 2026 09:49:40 +0100",
+      "title": "Sánchez, ante el resurgir del 'caso Koldo': «No es nada nuevo y no tienen nada que ver conmigo»",
+      "link": "https://www.abc.es/espana/sanchez-ante-resurgir-koldo-nuevo-ver-conmigo-20261105182625-nt.html",
+      "desc": "En el calendario de hitos en campaña que Pedro Sánchez había diseñado cuando convocó el adelanto electoral del 29 de noviembre estaba la XXX Cumbre Iberoamericana pero no la dimisión de un ministro como Óscar Puente. El cónclave internacional, en el que el pre",
+      "date": "Thu, 05 Nov 2026 18:26:25 +0100",
       "source": "ABC",
       "color": "#c0392b",
       "feedId": "ABC",
-      "caso": "other"
+      "caso": "gen"
     },
     {
-      "title": "Detenidas dos personas en Huesca por tener a casi 200 trabajadores temporeros afincados en condiciones precarias",
-      "link": "https://www.abc.es/espana/aragon/detenidas-dos-personas-huesca-tener-200-trabajadores-20261105094904-nt.html",
-      "desc": "La Guardia Civil ha detenido a dos personas e investigado a otra persona más y a tres empresas frutícolas de la comarca del Bajo Cinca (Huesca) y tres empresas de trabajo temporal de las provincias de Castellón, Barcelona y Madrid por tener a cerca de 200 trab",
-      "date": "Thu, 05 Nov 2026 09:49:04 +0100",
+      "title": "Susto en el Centro de Córdoba: un autobús de Aucorsa y un turismo chocan",
+      "link": "https://www.abc.es/espana/andalucia/cordoba/susto-centro-cordoba-autobus-aucorsa-turismo-chocan-20261105171659-nts.html",
+      "desc": "Susto en el Centro de Códoba este jueves por el choque entre un turismo y un vehículo de Aucorsa (empresa municipal de autobuses). Según se ha informado desde la Policía Local, el suceso se ha producido a primera hora de este 5 de noviembre. En concreto, ha si",
+      "date": "Thu, 05 Nov 2026 17:17:00 +0100",
       "source": "ABC",
       "color": "#c0392b",
       "feedId": "ABC",
-      "caso": "other"
+      "caso": "gen"
     },
     {
-      "title": "Clavijo se declara «decepcionado» y pide «una respuesta de Estado al drama humanitario» de la inmigración",
-      "link": "https://www.abc.es/espana/canarias/clavijo-declara-decepcionado-pide-respuesta-estado-drama-20261105094730-nt.html",
-      "desc": "El presidente del Gobierno de Canarias, Fernando clavijo, ha vuelto a pedir «una respuesta de Estado » e insiste en la responsabilidad del Gobierno de España en la crisis migratoria que afecta al archipiélago. «Canarias no necesita balances de gestión, necesit",
-      "date": "Thu, 05 Nov 2026 09:47:31 +0100",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "El Rey arranca la Cumbre llamando al diálogo entre diferentes: «Estamos preparados si nos ceñimos a la partitura»",
-      "link": "https://www.abc.es/espana/rey-arranca-cumbre-llamando-dialogo-diferentes-preparados-20261105094444-nt.html",
-      "desc": "En un escenario privilegiado, la Galería de Colecciones Reales, ha arrancado este jueves oficialmente la XXX Cumbre Iberoamericana. El Rey ha sido el encargado de abrir la Sesión Plenaria con un llamamiento al diálogo. «Estamos preparados si nos ceñimos a la p",
-      "date": "Thu, 05 Nov 2026 09:44:44 +0100",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Frío saludo entre Pedro Sánchez y Milei en su encuentro en la XXX Cumbre Iberoamericana tras sus encontronazos",
-      "link": "https://www.abc.es/espana/frio-saludo-pedro-sanchez-milei-encuentro-xxx-20261105094230-nt.html",
-      "desc": "El español Pedro Sánchez y el argentino Javier Milei protagonizaron este jueves un frío saludo con motivo de la Cumbre Iberoamericana celebrada en Madrid, en su primer encuentro cara a cara y tras la polémica por los insultos del presidente de Argentina al jef",
-      "date": "Thu, 05 Nov 2026 09:42:30 +0100",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Las ayudas al estudio universitario para el el curso 2026-2027 se podrán pedir desde este viernes",
-      "link": "https://www.abc.es/espana/castilla-leon/ayudas-estudio-universitario-curso-20262027-podran-pedir-20261105093630-nt.html",
-      "desc": "La Consejería de Industria, Universidades, Empleo y Comercio ha convocado las ayudas en régimen de concurrencia competitiva al estudio al alumnado que curse estudios universitarios en Castilla y León durante el curso 2026-2027 que se podrán solicitar durante 2",
-      "date": "Thu, 05 Nov 2026 09:36:31 +0100",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Detenido por robar a un matrimonio de 86 años y propinar un puñetazo a uno de ellos en Valencia",
-      "link": "https://www.abc.es/espana/comunidad-valenciana/detenido-robar-matrimonio-anos-propinar-punetazo-valencia-20261105093258-nt.html",
-      "desc": "La Guardia Civil ha detenido a un hombre de 25 años por asaltar la vivienda de una pareja de ancianos para cometer un robo con violencia en la localidad de Rotglà i Corberà (Valencia). El autor de los hechos accedió al interior de la casa con el rostro cubiert",
-      "date": "Thu, 05 Nov 2026 09:32:58 +0100",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Juanma Moreno, contundente: «El que se tendría que ir es el señor Sánchez»",
-      "link": "https://www.abc.es/espana/andalucia/juanma-moreno-contundente-senor-sanchez-20261105092230-nts.html",
-      "desc": "El presidente de la Junta de Andalucía, Juanma Moreno (PP), se ha mostrado contundente la noche de este miércoles al hablar sobre las responsabilidades del deterioro de la red ferroviaria nacional: «El que se tendría que ir es el señor Sánchez» . El líder anda",
-      "date": "Thu, 05 Nov 2026 09:22:30 +0100",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Sanidad amplía hasta 29 las enfermedades que criba con la prueba del talón desde enero en Castilla y León",
-      "link": "https://www.abc.es/espana/castilla-leon/sanidad-amplia-enfermedades-criba-prueba-talon-enero-20261105091757-nt.html",
-      "desc": "La prueba del talón ampliará de 20 a 29 las enfermedades congénitas incluidas en el programa de cribado neonatal de Castilla y León a partir del 1 de enero de 2027. La Consejería de Sanidad y Bienestar Social actualizó el listado mediante una orden publicada e",
-      "date": "Thu, 05 Nov 2026 09:17:57 +0100",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Dos nuevas altas reducen a 20 los hospitalizados por el accidente ferroviario de Urda",
-      "link": "https://www.abc.es/espana/castilla-la-mancha/toledo/dos-nuevas-altas-reducen-hospitalizados-accidente-ferroviario-20261105091559-nt.html",
-      "desc": "El número de personas hospitalizadas en Castilla-La Mancha por el accidente ferroviario ocurrido en la localidad toledana de Urda se ha reducido a 20 después de que se hayan registrado dos nuevas altas médicas. De los pacientes que permanecen ingresados, cuatr",
-      "date": "Thu, 05 Nov 2026 09:16:00 +0100",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Madrid acoge la Cumbre Iberoamericana",
-      "link": "https://www.lavanguardia.com/politica/20261105/11676613/sanchez-mantiene-encuentro-diferentes-lideres-cumbre-iberoamericana.html",
-      "desc": "El acto se realizará en la Galería de las Colecciones Reales, en Madrid",
-      "date": "05 Nov 2026 09:09:57 +0100",
+      "title": "Koldo García insiste en que el PP le ofreció dinero",
+      "link": "https://www.lavanguardia.com/politica/20261105/11676780/koldo-garcia-carcel-condena-firme-busca-resarcirse-psoe.html",
+      "desc": "El exasesor del exministro José Luis Ábalos sostiene que le han ofrecido mentir a cambio de no entrar en la cárcel”",
+      "date": "05 Nov 2026 12:43:12 +0100",
       "source": "La Vanguardia",
       "color": "#8e44ad",
       "feedId": "LaVanguardia",
-      "caso": "other"
+      "caso": "gen"
     },
     {
-      "title": "Un futbolista veterano agarra por la cabeza a un árbitro de 18 años y lo tira al suelo en Vilagarcía",
-      "link": "https://www.abc.es/espana/galicia/futbolista-veterano-agarra-cabeza-arbitro-anos-tira-20261105090724-nt.html",
-      "desc": "Un árbitro de 18 años fue agredido el pasado fin de semana por un jugador durante un partido de fútbol de veteranos disputado en Vilagarcía de Arousa (Pontevedra). El Ayuntamiento de la localidad ha condenado lo sucedido y ha recordado, a través de una publica",
-      "date": "Thu, 05 Nov 2026 09:07:24 +0100",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Los ganaderos de lidia reivindican en Toledo el valor económico y social de su actividad",
-      "link": "https://www.abc.es/espana/castilla-la-mancha/toledo/ganaderos-lidia-reivindican-toledo-valor-economico-social-20261105085930-nt.html",
-      "desc": "Los ganaderos de lidia han reivindicado en Toledo el valor económico y social de su actividad y la necesidad de contar con un modelo económico que reconozca el trabajo de quienes se dedican al mundo agrícola y ganadero. Joaquín Moreno Silva y Álvaro Martínez C",
-      "date": "Thu, 05 Nov 2026 08:59:30 +0100",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Barcelona suspende 24 días de empleo y sueldo a un guardia urbano que se negó a atender en catalán a una mujer",
-      "link": "https://www.abc.es/espana/cataluna/barcelona-suspende-dias-empleo-sueldo-guardia-urbano-20261105085156-nt.html",
-      "desc": "El Ayuntamiento de Barcelona ha sancionado con 24 días de suspensión de empleo y sueldo a un agente de la Guardia Urbana que se negó a hablar en catalán a una ciudadana durante una intervención policial y que calificó de «fascista» y «totalitaria» su insistenc",
-      "date": "Thu, 05 Nov 2026 08:51:57 +0100",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "El fabricante de chicles de Mercadona pulveriza su facturación tras vender 70 millones de unidades",
-      "link": "https://www.abc.es/espana/comunidad-valenciana/fabricante-chicles-mercadona-pulveriza-facturacion-tras-vender-20261105084311-nt.html",
-      "desc": "Chickles Gum, proveedor de chicles de Mercadona , ha cosechado una facturación récord de 54,2 millones de euros en 2025, un 3% más que el ejercicio precedente que le consolida como empresa de referencia del segmento nacional. Asimismo, ha incrementado un 6,9% ",
-      "date": "Thu, 05 Nov 2026 08:43:12 +0100",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Sigue en directo la sesión plenaria de la XXX Cumbre Iberoamericana, presidida por el Rey Felipe VI y con la intervención de Sánchez",
-      "link": "https://www.abc.es/espana/sigue-directo-sesion-plenaria-xxx-cumbre-iberoamericana-20261105084201-nt.html",
-      "desc": "La XXX Cumbre Iberoamericana de Jefas y Jefes de Estado y de Gobierno, que reúne a los 22 países de la Comunidad Iberoamericana, se celebra en Madrid el 4 y 5 de noviembre de 2026. Entre los mandatarios presentes se encuentran el rey Felipe VI, el presidente d",
-      "date": "Thu, 05 Nov 2026 08:42:01 +0100",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "El reencuentro pendiente de María con Eduardo, el ganadero que la puso a salvo tras el accidente de Urda",
-      "link": "https://www.abc.es/espana/castilla-la-mancha/toledo/eduardo-maria-dos-vidas-unidas-siempre-accidente-20261104082424-nt.html",
-      "desc": "Hay encuentros que nacen de las circunstancias más dramáticas y que terminan convirtiéndose en historias de solidaridad y esperanza. Es lo que les ocurrió a Eduardo Martín-Peñato y María Peinado , cuyos caminos se cruzaron durante el accidente ferroviario de U",
-      "date": "Thu, 05 Nov 2026 08:24:24 +0100",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Manipulación de la opinión pública",
-      "link": "https://www.abc.es/espana/castilla-leon/manipulacion-opinion-publica-20261104081848-nt.html",
-      "desc": "La figura del asesor, cuando nuestra democracia gozaba de vigor y juventud, era la de un personaje observador, estudioso, con ciertas capacidades de medición demoscópica, buen escritor y un temple a prueba de bombas. No ha habido jamás en un equipo de un líder",
-      "date": "Thu, 05 Nov 2026 08:18:48 +0100",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Trabajo fija un aumento del 5,3% del SMI, hasta 1.286 euros al mes",
-      "link": "https://www.lavanguardia.com/economia/20261105/11676571/trabajo-fija-aumento-5-3-smi-1-286-euros-mes.html",
-      "desc": "El ministerio acelera los procedimientos para aprobar la subida antes de las elecciones",
-      "date": "05 Nov 2026 08:15:16 +0100",
+      "title": "La UCO registra la casa de Ábalos en una operación por blanqueo del caso Koldo con seis detenidos",
+      "link": "https://www.lavanguardia.com/politica/20261105/11676658/uco-despliega-nuevo-operativo-pieza-secreta-caso-koldo.html",
+      "desc": "La nueva operación se enmarca en una nueva pieza secreta abierta por el instructor Ismael Moreno tras recibir el miércoles un nuevo atestado de la Guardia Civil con presuntas nuevas irregularidades",
+      "date": "05 Nov 2026 10:15:01 +0100",
       "source": "La Vanguardia",
       "color": "#8e44ad",
       "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "Xunta y Gobierno sellan este jueves dos nuevas transferencias a Galicia: permisos de trabajo a extranjeros y aeródromos",
-      "link": "https://www.abc.es/espana/galicia/xunta-gobierno-sellan-jueves-dos-nuevas-transferencias-20261105080842-nt.html",
-      "desc": "Dirigentes de la Xunta y del Gobierno central cerrarán este jueves la transferencia a Galicia de dos nuevas competencias: la de autorizaciones iniciales de trabajo a personas extranjeros y la de aeródromos y helipuertos no considerados de interés general (que ",
-      "date": "Thu, 05 Nov 2026 08:08:42 +0100",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Las trabas del Gobierno amenazan los proyectos de Inteligencia Artificial en Andalucía",
-      "link": "https://www.abc.es/espana/andalucia/trabas-gobierno-amenazan-proyectos-inteligencia-artificial-andalucia-20261105171341-nts.html",
-      "desc": "Igual que Pedro Sánchez popularizó recientemente aquel dicho tan español de hacer de la necesidad, virtud, Andalucía corre el riesgo de hacer de su virtud, necesidad. Este juego de palabras, inversión retórica para contrastar ambos conceptos, explica de manera",
-      "date": "Thu, 05 Nov 2026 07:29:18 +0100",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Óscar Puente abandona el Ministerio dejando un rastro interminable de incumplimientos con Andalucía",
-      "link": "https://www.abc.es/espana/andalucia/oscar-puente-abandona-ministerio-dejando-rastro-interminable-20261105070910-nts.html",
-      "desc": "Óscar Puente dimite. El motivo es que un ministro de Transportes no puede asumir dos accidentes mortales y trágicos en menos de un año: Adamuz y Urda (46 y 69 fallecidos). Pero Andalucía ya contaba con razones de sobra diez meses antes del dramático episodio d",
-      "date": "Thu, 05 Nov 2026 07:09:10 +0100",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "¿Cómo podrá Trump sortear su derrota electoral?",
-      "link": "https://www.lavanguardia.com/internacional/elecciones-eeuu/20261105/11676018/como-podra-trump-sortear-derrota-electoral.html",
-      "desc": "El presidente de EE. UU. puede preparar un cambio de estrategia política para evitar un bloqueo a los dos años de mandato que le quedan en la Casa Blanca con un acercamiento a los demócratas y un alejamiento de los conflictos bélicos y ciertas medidas económic",
-      "date": "05 Nov 2026 06:00:00 +0100",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "Los hispanos que llevaron a Trump al poder le dan la espalda dos años después",
-      "link": "https://www.lavanguardia.com/internacional/20261105/11676245/hispanos-llevaron-trump-le-dan-espalda-dos-anos.html",
-      "desc": "La sangría republicana se extiende a todos los grupos de la población, pero es pronunciada en el sector que más crece en EE.UU.",
-      "date": "05 Nov 2026 06:00:00 +0100",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
-      "caso": "other"
+      "caso": "gen"
     }
   ]
 }
