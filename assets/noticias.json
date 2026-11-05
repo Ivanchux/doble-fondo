@@ -1,46 +1,246 @@
 {
-  "updated": "2026-11-05T17:48:43Z",
-  "count": 4,
+  "updated": "2026-11-05T23:10:26Z",
+  "count": 24,
   "items": [
     {
-      "title": "Sánchez, ante el resurgir del 'caso Koldo': «No es nada nuevo y no tienen nada que ver conmigo»",
-      "link": "https://www.abc.es/espana/sanchez-ante-resurgir-koldo-nuevo-ver-conmigo-20261105182625-nt.html",
-      "desc": "En el calendario de hitos en campaña que Pedro Sánchez había diseñado cuando convocó el adelanto electoral del 29 de noviembre estaba la XXX Cumbre Iberoamericana pero no la dimisión de un ministro como Óscar Puente. El cónclave internacional, en el que el pre",
-      "date": "Thu, 05 Nov 2026 18:26:25 +0100",
+      "title": "El Ayuntamiento de Córdoba inicia la restauración del Triunfo de San Rafael situado junto a la iglesia de San Pedro",
+      "link": "https://www.abc.es/espana/andalucia/cordoba/ayuntamiento-cordoba-inicia-restauracion-triunfo-san-rafael-20261105234207-nts.html",
+      "desc": "El Ayuntamiento de Córdoba , a través de la Delegación de Cultura, ha iniciado el proceso de restauración del Triunfo de San Rafael ubicado en la Plaza de Aguayos, junto a la iglesia de San Pedro , una iniciativa que forma parte del proyecto de mejora y conser",
+      "date": "Thu, 05 Nov 2026 23:42:30 +0100",
       "source": "ABC",
       "color": "#c0392b",
       "feedId": "ABC",
-      "caso": "gen"
+      "caso": "other"
     },
     {
-      "title": "Susto en el Centro de Córdoba: un autobús de Aucorsa y un turismo chocan",
-      "link": "https://www.abc.es/espana/andalucia/cordoba/susto-centro-cordoba-autobus-aucorsa-turismo-chocan-20261105171659-nts.html",
-      "desc": "Susto en el Centro de Códoba este jueves por el choque entre un turismo y un vehículo de Aucorsa (empresa municipal de autobuses). Según se ha informado desde la Policía Local, el suceso se ha producido a primera hora de este 5 de noviembre. En concreto, ha si",
-      "date": "Thu, 05 Nov 2026 17:17:00 +0100",
+      "title": "«Córdoba ha pasado de mirar de reojo a la tecnología a liderarla»",
+      "link": "https://www.abc.es/espana/andalucia/cordoba/cordoba-pasado-mirar-reojo-tecnologia-liderarla-empresas-20261105231105-nts.html",
+      "desc": "El tejido empresarial de Córdoba se enfrenta a varios problemas estructurales que condicionan el momento de transformación que atraviesa la economía provincial, con la reindustrialización como uno de los principales caminos de crecimiento. En este proceso, la ",
+      "date": "Thu, 05 Nov 2026 23:11:49 +0100",
       "source": "ABC",
       "color": "#c0392b",
       "feedId": "ABC",
-      "caso": "gen"
+      "caso": "other"
     },
     {
-      "title": "Koldo García insiste en que el PP le ofreció dinero",
-      "link": "https://www.lavanguardia.com/politica/20261105/11676780/koldo-garcia-carcel-condena-firme-busca-resarcirse-psoe.html",
-      "desc": "El exasesor del exministro José Luis Ábalos sostiene que le han ofrecido mentir a cambio de no entrar en la cárcel”",
-      "date": "05 Nov 2026 12:43:12 +0100",
+      "title": "Los regantes de Albatana siguen sin una solución tras más de 20 años de espera",
+      "link": "https://www.abc.es/espana/castilla-la-mancha/regantes-albatana-siguen-solucion-tras-anos-espera-20261105223308-nt.html",
+      "desc": "Más de veinte años después de que las administraciones aprobaran un proyecto para transformar 1.470 hectáreas en regadío en la localidad albaceteña de Albatana (Albacete), los agricultores siguen sin poder desarrollar la iniciativa en las condiciones previstas",
+      "date": "Thu, 05 Nov 2026 22:33:08 +0100",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "La Espada Toledana reúne este fin de semana a 1.200 atletas entre marcha y cross",
+      "link": "https://www.abc.es/espana/castilla-la-mancha/toledo/deportes/espada-toledana-reune-fin-semana-1200-atletas-20261105222856-nt.html",
+      "desc": "Toledo volverá a convertirse este fin de semana en escenario de dos de sus citas más tradicionales con el atletismo. La Espada Toledana, organizada por el Club Atletismo Toledo, reunirá a cerca de 1.200 participantes entre la Marcha Atlética del sábado y el Cr",
+      "date": "Thu, 05 Nov 2026 22:28:56 +0100",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Sanidad pondrá en marcha un nuevo plan para reducir las listas de espera tras su subida por las huelgas",
+      "link": "https://www.abc.es/espana/castilla-leon/sanidad-pondra-marcha-nuevo-plan-reducir-listas-20261105221000-nt.html",
+      "desc": "Con un volumen total de 6.882 millones de euros , la nueva macroconsejería de Sanidad y Bienestar Social «pasa a gestionar prácticamente la mitad del presupuesto» de la Junta de Castilla y León para 2017. Un «desafío» y a la vez «un nuevo impulso al nuevo mode",
+      "date": "Thu, 05 Nov 2026 22:10:00 +0100",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Corvillo confesó a Aldama que Sánchez durmió en su casa en la campaña de las primarias del PSOE",
+      "link": "https://www.abc.es/espana/sanchez-alojo-casa-corvillo-primarias-2016-20261106214520-nt.html",
+      "desc": "Cristian Corvillo no era un desconocido en Ferraz en 2016. Meses después de ser derrocado Pedro Sánchez por el Comité Federal del PSOE, en octubre de ese año, se celebró un acto en un pueblo de la campiña cordobesa, Pedro-Abad, donde empezó a edificarse la est",
+      "date": "Thu, 05 Nov 2026 21:45:20 +0100",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Juzgan a un joven por intentar matar a dos hermanos tras meses de amenazas por celos en Pontevedra",
+      "link": "https://www.abc.es/espana/galicia/juzgan-joven-intentar-matar-dos-hermanos-tras-20261105213000-nt.html",
+      "desc": "La Audiencia Provincial de Pontevedra ha acogido este jueves la primera sesión del juicio contra Carlos S.C., conocido como 'Minibull', acusado de intentar asesinar a dos hermanos durante una pelea en el casco histórico de la ciudad, en febrero de 2025. La Fis",
+      "date": "Thu, 05 Nov 2026 21:30:00 +0100",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Moreno defiende el debate de Presupuestos el 11N: «Los políticos no tenemos derecho a huelga»",
+      "link": "https://www.abc.es/espana/andalucia/moreno-defiende-debate-presupuestos-11n-politicos-derecho-20261105212615-nts.html",
+      "desc": "El presidente de la Junta de Andalucía, Juanma Moreno, ha defendido este jueves que se celebre el debate de totalidad del proyecto de Ley del Presupuesto de la Comunidad Autónoma para 2027 el próximo día 11 de noviembre, aunque coincida con la huelga general c",
+      "date": "Thu, 05 Nov 2026 21:28:15 +0100",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Newsom conmuta las 548 condenas a muerte en California por cadena perpetua",
+      "link": "https://www.lavanguardia.com/internacional/20261105/11677314/newsom-conmuta-548-condenas-muerte-california-cadena-perpetua.html",
+      "desc": "El gobernador, y posible aspirante demócrata a la presidencia en el 2028, considera la pena capital de “éticamente inaceptable”, en un estado que no ha ejecutado a nadie desde el 2006",
+      "date": "05 Nov 2026 21:27:30 +0100",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
+    {
+      "title": "Abascal carga contra Sánchez tras las detenciones del caso Koldo: “está pringado hasta el chófer”",
+      "link": "https://www.lavanguardia.com/politica/20261105/11677278/abascal-carga-sanchez-detenciones-caso-koldo-esta-pringado-chofer.html",
+      "desc": "El líder de Vox asegura que la “corrupción mata” y ha exigido su dimisión: “lo queremos sentado en el banquillo dando explicaciones”",
+      "date": "05 Nov 2026 21:06:38 +0100",
       "source": "La Vanguardia",
       "color": "#8e44ad",
       "feedId": "LaVanguardia",
       "caso": "gen"
     },
     {
-      "title": "La UCO registra la casa de Ábalos en una operación por blanqueo del caso Koldo con seis detenidos",
-      "link": "https://www.lavanguardia.com/politica/20261105/11676658/uco-despliega-nuevo-operativo-pieza-secreta-caso-koldo.html",
-      "desc": "La nueva operación se enmarca en una nueva pieza secreta abierta por el instructor Ismael Moreno tras recibir el miércoles un nuevo atestado de la Guardia Civil con presuntas nuevas irregularidades",
-      "date": "05 Nov 2026 10:15:01 +0100",
+      "title": "Abascal: «En la mafia que nos gobierna está pringado hasta el chófer»",
+      "link": "https://www.abc.es/espana/aragon/abascal-mafia-gobierna-pringado-chofer-20261105210428-nt.html",
+      "desc": "La carrera hacia el 29N trajo a Alberto Núñez Feijóo a Zaragoza, en plena celebración de las fiestas del Pilar, y el mismo día dio un mitin en Huesca; también esa semana festiva en la capital del Ebro, Pedro Sánchez se puso el cachirulo al cuello y llenó el mi",
+      "date": "Thu, 05 Nov 2026 21:04:29 +0100",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "'El cielo en mis manos': La pintura Zen de José Antonio Alarcón",
+      "link": "https://www.abc.es/espana/castilla-la-mancha/cielo-manos-pintura-zen-jose-antonio-alarcon-20261105210000-nt.html",
+      "desc": "Bajo el lema de «El cielo en mis manos (Luz cósmica)» se ha inaugurado en La Roda una muestra con más de medio centenar de cuadros de José Antonio Alarcón, un variado y colorista recorrido paisajista donde el foco que propone el pintor para la mirada del espec",
+      "date": "Thu, 05 Nov 2026 21:00:01 +0100",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "PP y Vox acusan a Page de incumplir sus promesas con Talavera y el PSOE culpa al Ayuntamiento",
+      "link": "https://www.abc.es/espana/castilla-la-mancha/toledo/talavera/pp-vox-acusan-page-incumplir-promesas-talavera-20261105200121-nt.html",
+      "desc": "Las inversiones pendientes y los compromisos adquiridos con Talavera de la Reina y su comarca han enfrentado este jueves al PSOE, PP y Vox en las Cortes de Castilla-La Mancha. Los socialistas han acusado al Gobierno municipal, integrado por PP y Vox, de bloque",
+      "date": "Thu, 05 Nov 2026 20:40:39 +0100",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Paula Sevilla, Susanna Griso, José Mota y Samantha Vallejo, premiados por la DOP La Mancha",
+      "link": "https://www.abc.es/espana/castilla-la-mancha/paula-sevilla-susanna-griso-jose-mota-samantha-20261105202804-nt.html",
+      "desc": "La atleta Paula Sevilla, la periodista Susanna Griso, el humorista José Mota y la cocinera Samantha Vallejo-Nágera han sido algunos de los ganadores de los Premios Solidarios 2026 de la Denominación de Origen La Mancha , que se han entregado este jueves en el ",
+      "date": "Thu, 05 Nov 2026 20:28:04 +0100",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Fin a las huelgas médicas en Aragón: Gobierno y sindicatos llegan a un acuerdo",
+      "link": "https://www.abc.es/espana/aragon/fin-huelgas-medicas-aragon-gobierno-sindicatos-llegan-20261105202448-nt.html",
+      "desc": "El Gobierno de Aragón , a través del Servicio Aragonés de Salud, y los sindicatos CESM Aragón y FASAMET han alcanzado un acuerdo para reforzar la atención al paciente y mejorar las condiciones profesionales del personal médico y facultativo. Se desarrollará en",
+      "date": "Thu, 05 Nov 2026 20:24:49 +0100",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Talavera acoge del 13 al 15 de noviembre la V Feria Con Gusto con medio centenar de expositores",
+      "link": "https://www.abc.es/espana/castilla-la-mancha/toledo/talavera/talavera-acoge-noviembre-feria-gusto-medio-centenar-20261105200903-nt.html",
+      "desc": "Talavera de la Reina (Toledo) acoge del 13 al 15 de noviembre la quinta edición de la Feria de Alimentación Con Gusto, un evento que contará con venta directa, catas, degustaciones y música en directo, además del concurso solidario de cortadores de jamón a ben",
+      "date": "Thu, 05 Nov 2026 20:23:55 +0100",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Sánchez no acudirá al funeral por las víctimas de Urda: delega en Cuerpo y Tolón la representación del Gobierno",
+      "link": "https://www.abc.es/espana/sanchez-acudira-funeral-victimas-urda-delega-cuerpo-20261105202201-nt.html",
+      "desc": "Pedro Sánchez no asistirá al funeral por las víctimas del accidente ferroviario de Urda que se celebrará el próximo 10 de noviembre en la Catedral de Toledo. La ausencia, confirmada por fuentes gubernamentales, se daba por hecha, porque el presidente del Gobie",
+      "date": "Thu, 05 Nov 2026 20:22:01 +0100",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Primavera de 2027, el despegue internacional definitivo del aeropuerto de Zaragoza",
+      "link": "https://www.abc.es/espana/aragon/primavera-2027-despegue-internacional-definitivo-aeropuerto-zaragoza-20261105201535-nt.html",
+      "desc": "Primavera de 2027. Es la fecha tan anhelada por ciudadanos aragoneses como por instituciones responsables del turismo en la región. A partir del próximo abril, el aeropuerto de Zaragoza va a duplicar el número de destinos disponibles gracias a los resultados d",
+      "date": "Thu, 05 Nov 2026 20:15:36 +0100",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Córdoba se prepara para la llegada de una borrasca atlántica: la Aemet prevé lluvia durante toda la semana",
+      "link": "https://www.abc.es/espana/andalucia/cordoba/cordoba-prepara-llegada-borrasca-atlantica-aemet-preve-20261105200925-nts.html",
+      "desc": "Córdoba apura los últimos días de estabilidad meteorológica antes de que una nueva borrasca atlántica vuelva a cambiar el tiempo. Según las previsiones de la Agencia Estatal de Meteorología (Aemet), la capital disfrutará hasta entonces de jornadas con cielos p",
+      "date": "Thu, 05 Nov 2026 20:09:25 +0100",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Cinco años de cárcel y más de 1,5 millones de euros por defraudar a la Seguridad Social con una trama hostelera en Córdoba",
+      "link": "https://www.abc.es/espana/andalucia/cordoba/cinco-anos-carcel-millones-euros-defraudar-seguridad-20261105200812-nts.html",
+      "desc": "La Sección Tercera de la Audiencia Provincial de Córdoba ha dictado sentencia sobre una compleja causa por delitos contra la Seguridad Social y frustración de la ejecución, condenando a dos de los implicados y absolviendo a los otros dos. El tribunal impone al",
+      "date": "Thu, 05 Nov 2026 20:08:12 +0100",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "La robótica industrial abre nuevas oportunidades laborales en Puente Genil a través de la FP",
+      "link": "https://www.abc.es/espana/andalucia/cordoba/robotica-industrial-abre-nuevas-oportunidades-laborales-puente-20261105200743-nts.html",
+      "desc": "El Instituto de Educación Secundaria Ingeniero Juan de la Cierva de Puente Genil ha reforzado su apuesta por la Formación Profesional , vinculada a las nuevas tecnologías y al desarrollo industrial, con la puesta en marcha, por primera vez, del ciclo formativo",
+      "date": "Thu, 05 Nov 2026 20:07:43 +0100",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Alicante planta su imagen en el epicentro mundial de los estrenos de cine, Leicester Square en Londres",
+      "link": "https://www.abc.es/espana/comunidad-valenciana/alicante/alicante-planta-imagen-epicentro-mundial-estrenos-cine-20261105200607-nt.html",
+      "desc": "Alicante ha plantado su imagen promocional para el turismo en Leicester Square Londres, considerado un epicentro mundial de los estrenos de cine, donde estrellas del celuloide recorren la alfombra roja. Y un punto de tránsito de millones de personas cada año, ",
+      "date": "Thu, 05 Nov 2026 20:06:08 +0100",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Hegseth está en la cuerda floja tras la gran derrota de Trump en las elecciones legislativas",
+      "link": "https://www.lavanguardia.com/internacional/20261105/11677146/hegseth-esta-cuerda-floja-gran-derrota-trump-elecciones-legislativas.html",
+      "desc": "El presidente califica de buen trabajo la tarea del secretario de Defensa, pero las miradas apuntan al jefe del Pentagono por el desaguisado de la guerra de Irán, excusa de la Casa Blanca para justificar el tsunami demócrata&nbsp;",
+      "date": "05 Nov 2026 18:02:46 +0100",
       "source": "La Vanguardia",
       "color": "#8e44ad",
       "feedId": "LaVanguardia",
-      "caso": "gen"
+      "caso": "other"
+    },
+    {
+      "title": "Zelenski pide apoyo a los países iberoamericanos y Sánchez avisa: “Mañana podríamos ser nosotros”",
+      "link": "https://www.lavanguardia.com/politica/20261105/11677127/zelenski-pide-apoyo-paises-iberoamericanos-sanchez-avisa-manana.html",
+      "desc": "El presidente ucraniano solicita ayuda urgente en materia energética para evitar un apagón total por los ataques de Rusia",
+      "date": "05 Nov 2026 17:40:27 +0100",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
     }
   ]
 }
