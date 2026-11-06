@@ -1,7 +1,137 @@
 {
-  "updated": "2026-11-05T23:10:26Z",
+  "updated": "2026-11-06T04:48:00Z",
   "count": 24,
   "items": [
+    {
+      "title": "Encuestas elecciones generales en Baleares: resultados de PP, PSOE y Vox y ganador según los sondeos el 29N",
+      "link": "https://www.abc.es/espana/baleares/encuestas-elecciones-generales-baleares-resultados-pp-psoe-20261106051500-nt.html",
+      "desc": "Ya estamos en noviembre, lo que significa que nos encontramos en mes electoral, pues el día 29 se celebran los comicios generales convocados por Pedro Sánchez en octubre. Como consecuencia, los principales partidos ya preparan sus estrategias para obtener el r",
+      "date": "Fri, 06 Nov 2026 05:15:00 +0100",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "El gigante estadounidense del comercio llega a Torrejón de Ardoz: Costco invertirá 80 millones y dará empleo a 200 personas",
+      "link": "https://www.abc.es/espana/madrid/gigante-estadounidense-comercio-llega-torrejon-ardoz-costco-20261106050000-nt.html",
+      "desc": "La cadena estadounidense Costco Wholesale Corporation , a través de su filial española Costco Wholesale España, va a abrir su tercera tienda en la Comunidad de Madrid. Tras Getafe y Las Rozas, han adquirido suelo en Torrejón de Ardoz. Se trata de una inversión",
+      "date": "Fri, 06 Nov 2026 05:00:19 +0100",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Mercadona anuncia el cierre de un supermercado por no cumplir los requisitos de su nuevo modelo",
+      "link": "https://www.abc.es/espana/comunidad-valenciana/mercadona-anuncia-cierre-supermercado-cumplir-requisitos-nuevo-20261106050000-nt.html",
+      "desc": "Mercadona ha confirmado el cierre del supermercado ubicado en el barrio de Rekalde, en Bilbao, por no cumplir los estándares que requiere la compañía valenciana para adaptar todos sus establecimientos al nuevo modelo de 'Tienda 9'. Su proyecto más ambicioso qu",
+      "date": "Fri, 06 Nov 2026 05:00:03 +0100",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Primera demanda contra la Comisión Europa por no poner plazo a la reforma del CGPJ",
+      "link": "https://www.abc.es/espana/primera-demanda-comision-europa-poner-plazo-reforma-20261105020745-nt.html",
+      "desc": "La plataforma Por una Justicia Independendiente ha interpuesto ante el Tribunal General de la Unión Europea (TGUE) un recurso por omisión contra la Comisión Europea. Se trata de la primera demanda que, amparada en el artículo 265 del Tratado de Funcionamiento ",
+      "date": "Fri, 06 Nov 2026 02:07:45 +0100",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "El exchófer de Sánchez, investigado por blanquear dinero de obra pública",
+      "link": "https://www.abc.es/espana/miembros-clan-primarias-sanchez-investigando-blanquear-dinero-20261106012254-nt.html",
+      "desc": "El principal detenido en la operación de la UCO sobre los presuntos amaños de obra pública no es un humilde chófer ni un personaje secundario. Amigo personal de José Luis Ábalos, Koldo García y Víctor de Aldama, la tesis principal de los investigadores es que ",
+      "date": "Fri, 06 Nov 2026 01:22:54 +0100",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "gen"
+    },
+    {
+      "title": "La Agencia de Seguridad ya alertó de «prácticas inadecuadas» y fallos en las órdenes meses antes de la tragedia de Urda",
+      "link": "https://www.abc.es/espana/tecnicos-seguridad-alertaron-practicas-inadecuadas-fallos-ordenes-20261103011949-nt.html",
+      "desc": "La Agencia Estatal de Seguridad Ferroviaria (AESF) denunció en uno de sus informes de este año que los técnicos habían detectado «prácticas inadecuadas» y graves distorsiones en la cadena de mando que ponían en riesgo la vida de los viajeros. Este documento, f",
+      "date": "Fri, 06 Nov 2026 01:19:49 +0100",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Moncloa, molesta por la filtración de los wasaps entre Puente y Sánchez",
+      "link": "https://www.abc.es/espana/moncloa-molesta-filtracion-wasaps-puente-sanchez-20261105011943-nt.html",
+      "desc": "La filtración de los mensajes entre el exministro de Transportes Óscar Puente y el presidente Pedro Sánchez, a cuenta de como se gestionó su salida del Gobierno, ha generado un importante malestar en el Palacio de La Moncloa. Este miércoles, minutos después de",
+      "date": "Fri, 06 Nov 2026 01:19:43 +0100",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Puente no dejará ni la Secretaría General del PSOE en Valladolid ni la Ejecutiva Federal",
+      "link": "https://www.abc.es/espana/puente-dejara-secretaria-general-castilla-leon-ejecutiva-20261106011928-nt.html",
+      "desc": "La dimisión de Óscar Puente como ministro de Transportes y su renuncia a encabezar la candidatura del PSOE al Congreso por Valladolid no implican su retirada de la estructura orgánica del partido. El exministro mantendrá intactas, al menos por el momento, sus ",
+      "date": "Fri, 06 Nov 2026 01:19:28 +0100",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Los brindis al sol de la izquierda: impuesto a ultrarricos y 1.800 euros de salario mínimo",
+      "link": "https://www.abc.es/espana/brindis-sol-izquierda-impuestos-ultrarricos-1800-smi-20261106011852-nt.html",
+      "desc": "En un lapso de apenas tres horas, separadas por una distancia física de cinco kilómetros —mucho mayor en lo emocional—, las candidatas a presidir el Gobierno de Frente Amplio, Ada Colau , y Podemos, Irene Montero, desplegaron este jueves en Madrid su agenda id",
+      "date": "Fri, 06 Nov 2026 01:18:52 +0100",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Salvaje ataque con 12 cuchilladas a un chino en Vallecas, que salva la vida gracias a la Policía",
+      "link": "https://www.abc.es/espana/madrid/salvaje-ataque-cuchilladas-chino-vallecas-salva-vida-20261105011453-nt.html",
+      "desc": "La Policía Nacional busca al autor o autores del salvaje acuchillamiento a un ciudadano chino de 51 años la madrugada de este jueves en el distrito de Puente de Vallecas. Fue la rápida actuación del Grupo de Atención al Ciudadano (GAC), de la Brigada de Seguri",
+      "date": "Fri, 06 Nov 2026 01:14:53 +0100",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Robert & Robert blues",
+      "link": "https://www.lavanguardia.com/opinion/20261106/11676779/robert-robert-blues.html",
+      "desc": "Dylan parece un adolescente al que han pillado copiando, León XIV, el profesor que riñe",
+      "date": "06 Nov 2026 00:30:00 +0100",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
+    {
+      "title": "Y ahora, la corrupción",
+      "link": "https://www.lavanguardia.com/opinion/20261106/11677344/corrupcion.html",
+      "desc": "La actualidad electoral es una montaña rusa con cambios de guion inesperados",
+      "date": "06 Nov 2026 00:05:00 +0100",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
+    {
+      "title": "California rechaza en referéndum el impuesto al patrimonio de los ultrarricos",
+      "link": "https://www.lavanguardia.com/internacional/20261106/11677254/california-rechaza-referendum-impuesto-patrimonio-ultrarricos.html",
+      "desc": "Nevada, Virginia y Misuri aprueban aumentar las protecciones al derecho al aborto",
+      "date": "06 Nov 2026 00:05:00 +0100",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
     {
       "title": "El Ayuntamiento de Córdoba inicia la restauración del Triunfo de San Rafael situado junto a la iglesia de San Pedro",
       "link": "https://www.abc.es/espana/andalucia/cordoba/ayuntamiento-cordoba-inicia-restauracion-triunfo-san-rafael-20261105234207-nts.html",
@@ -93,16 +223,6 @@
       "caso": "other"
     },
     {
-      "title": "Abascal carga contra Sánchez tras las detenciones del caso Koldo: “está pringado hasta el chófer”",
-      "link": "https://www.lavanguardia.com/politica/20261105/11677278/abascal-carga-sanchez-detenciones-caso-koldo-esta-pringado-chofer.html",
-      "desc": "El líder de Vox asegura que la “corrupción mata” y ha exigido su dimisión: “lo queremos sentado en el banquillo dando explicaciones”",
-      "date": "05 Nov 2026 21:06:38 +0100",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
-      "caso": "gen"
-    },
-    {
       "title": "Abascal: «En la mafia que nos gobierna está pringado hasta el chófer»",
       "link": "https://www.abc.es/espana/aragon/abascal-mafia-gobierna-pringado-chofer-20261105210428-nt.html",
       "desc": "La carrera hacia el 29N trajo a Alberto Núñez Feijóo a Zaragoza, en plena celebración de las fiestas del Pilar, y el mismo día dio un mitin en Huesca; también esa semana festiva en la capital del Ebro, Pedro Sánchez se puso el cachirulo al cuello y llenó el mi",
@@ -120,126 +240,6 @@
       "source": "ABC",
       "color": "#c0392b",
       "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "PP y Vox acusan a Page de incumplir sus promesas con Talavera y el PSOE culpa al Ayuntamiento",
-      "link": "https://www.abc.es/espana/castilla-la-mancha/toledo/talavera/pp-vox-acusan-page-incumplir-promesas-talavera-20261105200121-nt.html",
-      "desc": "Las inversiones pendientes y los compromisos adquiridos con Talavera de la Reina y su comarca han enfrentado este jueves al PSOE, PP y Vox en las Cortes de Castilla-La Mancha. Los socialistas han acusado al Gobierno municipal, integrado por PP y Vox, de bloque",
-      "date": "Thu, 05 Nov 2026 20:40:39 +0100",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Paula Sevilla, Susanna Griso, José Mota y Samantha Vallejo, premiados por la DOP La Mancha",
-      "link": "https://www.abc.es/espana/castilla-la-mancha/paula-sevilla-susanna-griso-jose-mota-samantha-20261105202804-nt.html",
-      "desc": "La atleta Paula Sevilla, la periodista Susanna Griso, el humorista José Mota y la cocinera Samantha Vallejo-Nágera han sido algunos de los ganadores de los Premios Solidarios 2026 de la Denominación de Origen La Mancha , que se han entregado este jueves en el ",
-      "date": "Thu, 05 Nov 2026 20:28:04 +0100",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Fin a las huelgas médicas en Aragón: Gobierno y sindicatos llegan a un acuerdo",
-      "link": "https://www.abc.es/espana/aragon/fin-huelgas-medicas-aragon-gobierno-sindicatos-llegan-20261105202448-nt.html",
-      "desc": "El Gobierno de Aragón , a través del Servicio Aragonés de Salud, y los sindicatos CESM Aragón y FASAMET han alcanzado un acuerdo para reforzar la atención al paciente y mejorar las condiciones profesionales del personal médico y facultativo. Se desarrollará en",
-      "date": "Thu, 05 Nov 2026 20:24:49 +0100",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Talavera acoge del 13 al 15 de noviembre la V Feria Con Gusto con medio centenar de expositores",
-      "link": "https://www.abc.es/espana/castilla-la-mancha/toledo/talavera/talavera-acoge-noviembre-feria-gusto-medio-centenar-20261105200903-nt.html",
-      "desc": "Talavera de la Reina (Toledo) acoge del 13 al 15 de noviembre la quinta edición de la Feria de Alimentación Con Gusto, un evento que contará con venta directa, catas, degustaciones y música en directo, además del concurso solidario de cortadores de jamón a ben",
-      "date": "Thu, 05 Nov 2026 20:23:55 +0100",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Sánchez no acudirá al funeral por las víctimas de Urda: delega en Cuerpo y Tolón la representación del Gobierno",
-      "link": "https://www.abc.es/espana/sanchez-acudira-funeral-victimas-urda-delega-cuerpo-20261105202201-nt.html",
-      "desc": "Pedro Sánchez no asistirá al funeral por las víctimas del accidente ferroviario de Urda que se celebrará el próximo 10 de noviembre en la Catedral de Toledo. La ausencia, confirmada por fuentes gubernamentales, se daba por hecha, porque el presidente del Gobie",
-      "date": "Thu, 05 Nov 2026 20:22:01 +0100",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Primavera de 2027, el despegue internacional definitivo del aeropuerto de Zaragoza",
-      "link": "https://www.abc.es/espana/aragon/primavera-2027-despegue-internacional-definitivo-aeropuerto-zaragoza-20261105201535-nt.html",
-      "desc": "Primavera de 2027. Es la fecha tan anhelada por ciudadanos aragoneses como por instituciones responsables del turismo en la región. A partir del próximo abril, el aeropuerto de Zaragoza va a duplicar el número de destinos disponibles gracias a los resultados d",
-      "date": "Thu, 05 Nov 2026 20:15:36 +0100",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Córdoba se prepara para la llegada de una borrasca atlántica: la Aemet prevé lluvia durante toda la semana",
-      "link": "https://www.abc.es/espana/andalucia/cordoba/cordoba-prepara-llegada-borrasca-atlantica-aemet-preve-20261105200925-nts.html",
-      "desc": "Córdoba apura los últimos días de estabilidad meteorológica antes de que una nueva borrasca atlántica vuelva a cambiar el tiempo. Según las previsiones de la Agencia Estatal de Meteorología (Aemet), la capital disfrutará hasta entonces de jornadas con cielos p",
-      "date": "Thu, 05 Nov 2026 20:09:25 +0100",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Cinco años de cárcel y más de 1,5 millones de euros por defraudar a la Seguridad Social con una trama hostelera en Córdoba",
-      "link": "https://www.abc.es/espana/andalucia/cordoba/cinco-anos-carcel-millones-euros-defraudar-seguridad-20261105200812-nts.html",
-      "desc": "La Sección Tercera de la Audiencia Provincial de Córdoba ha dictado sentencia sobre una compleja causa por delitos contra la Seguridad Social y frustración de la ejecución, condenando a dos de los implicados y absolviendo a los otros dos. El tribunal impone al",
-      "date": "Thu, 05 Nov 2026 20:08:12 +0100",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "La robótica industrial abre nuevas oportunidades laborales en Puente Genil a través de la FP",
-      "link": "https://www.abc.es/espana/andalucia/cordoba/robotica-industrial-abre-nuevas-oportunidades-laborales-puente-20261105200743-nts.html",
-      "desc": "El Instituto de Educación Secundaria Ingeniero Juan de la Cierva de Puente Genil ha reforzado su apuesta por la Formación Profesional , vinculada a las nuevas tecnologías y al desarrollo industrial, con la puesta en marcha, por primera vez, del ciclo formativo",
-      "date": "Thu, 05 Nov 2026 20:07:43 +0100",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Alicante planta su imagen en el epicentro mundial de los estrenos de cine, Leicester Square en Londres",
-      "link": "https://www.abc.es/espana/comunidad-valenciana/alicante/alicante-planta-imagen-epicentro-mundial-estrenos-cine-20261105200607-nt.html",
-      "desc": "Alicante ha plantado su imagen promocional para el turismo en Leicester Square Londres, considerado un epicentro mundial de los estrenos de cine, donde estrellas del celuloide recorren la alfombra roja. Y un punto de tránsito de millones de personas cada año, ",
-      "date": "Thu, 05 Nov 2026 20:06:08 +0100",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Hegseth está en la cuerda floja tras la gran derrota de Trump en las elecciones legislativas",
-      "link": "https://www.lavanguardia.com/internacional/20261105/11677146/hegseth-esta-cuerda-floja-gran-derrota-trump-elecciones-legislativas.html",
-      "desc": "El presidente califica de buen trabajo la tarea del secretario de Defensa, pero las miradas apuntan al jefe del Pentagono por el desaguisado de la guerra de Irán, excusa de la Casa Blanca para justificar el tsunami demócrata&nbsp;",
-      "date": "05 Nov 2026 18:02:46 +0100",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "Zelenski pide apoyo a los países iberoamericanos y Sánchez avisa: “Mañana podríamos ser nosotros”",
-      "link": "https://www.lavanguardia.com/politica/20261105/11677127/zelenski-pide-apoyo-paises-iberoamericanos-sanchez-avisa-manana.html",
-      "desc": "El presidente ucraniano solicita ayuda urgente en materia energética para evitar un apagón total por los ataques de Rusia",
-      "date": "05 Nov 2026 17:40:27 +0100",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
       "caso": "other"
     }
   ]
