@@ -1,7 +1,127 @@
 {
-  "updated": "2026-11-08T21:35:47Z",
+  "updated": "2026-11-09T01:22:20Z",
   "count": 24,
   "items": [
+    {
+      "title": "Tensión en el PSOE porque la corrupción entra en campaña: «Justo cuando levantábamos cabeza»",
+      "link": "https://www.abc.es/espana/tension-psoe-corrupcion-entra-campana-justo-levantabamos-20261108012034-nt.html",
+      "desc": "Y a 23 días de colocar las urnas la corrupción entró en campaña. Este era un escenario temido para el Gobierno que, hasta el accidente de Urda, se felicitaba de haber conseguido imponer marcos favorables en los primeros compases de la contienda tras el adelant",
+      "date": "Mon, 09 Nov 2026 01:20:34 +0100",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "La deslealtad institucional y el pulso del Gobierno a la justicia",
+      "link": "https://www.abc.es/espana/deslealtad-institucional-pulso-gobierno-justicia-20261109012029-nt.html",
+      "desc": "Hubo un tiempo, no tan lejano, en el que la relación entre el Poder Ejecutivo y el Poder Judicial se regía por un principio no escrito pero escrupulosamente respetado: la deferencia institucional. Los requerimientos de los tribunales al Gobierno se tramitaban ",
+      "date": "Mon, 09 Nov 2026 01:20:29 +0100",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "El PP se compromete a aumentar la presencia militar en Ceuta y Melilla",
+      "link": "https://www.abc.es/espana/pp-compromete-aumentar-presencia-militar-ceuta-melilla-20261110012024-nt.html",
+      "desc": "Aunque la actualidad avanza a ritmo vertiginoso y nuevos acontecimientos —especialmente el trágico accidente ferroviario de Urda— han dejado en segundo plano el asalto masivo a la frontera de Ceuta los últimos días de julio, miles de inmigrantes siguen deambul",
+      "date": "Mon, 09 Nov 2026 01:20:24 +0100",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "«La escalada de armamento de Marruecos es notoria y nos debería preocupar»",
+      "link": "https://www.abc.es/espana/escalada-armamento-marruecos-notoria-deberia-preocupar-20261109012017-nt.html",
+      "desc": "Juan José Fernández —Juanjo para todo el mundo— es ingeniero y lo lleva muy a gala. Sin embargo, con solo 21 años publicó su primer artículo y no ha parado desde entonces. Empezó movido por su pasión por la aviación, la militar en particular, y de ahí se zambu",
+      "date": "Mon, 09 Nov 2026 01:20:17 +0100",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Un chivatazo propició la paliza a diez militares en Berriozar durante el Mundial",
+      "link": "https://www.abc.es/espana/navarra/chivatazo-entramado-proetarra-propicio-apalizamiento-diez-militares-20261108011729-nt.html",
+      "desc": "Vecinos de Berriozar (Navarra) alertaron de la presencia de un grupo de militares del Ejército de Tierra, que veían la final del último Mundial en un bar del municipio, antes de ser apalizados por un grupo de diecinueve encapuchados. La investigación de Guardi",
+      "date": "Mon, 09 Nov 2026 01:17:29 +0100",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Dimisiones y ceses: de los errores de gestión a las crisis políticas que sacuden al Govern de Illa a mitad de mandato",
+      "link": "https://www.abc.es/espana/cataluna/dimisiones-ceses-errores-gestion-crisis-politicas-sacuden-20261109011130-nt.html",
+      "desc": "Salvador Illa llegó a la Generalitat de Cataluña en 2024 haciendo de la buena gestión una de sus señas de identidad. Al año, reivindicó el buen gobierno como aval. Y a mitad de su mandato insistió en esta línea de gerente correcto. Sin embargo, el Govern acumu",
+      "date": "Mon, 09 Nov 2026 01:11:30 +0100",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "«A Sergio lo mataron de la forma más cruel, le tocó a él pero podían haber muerto muchos más»",
+      "link": "https://www.abc.es/espana/madrid/sergio-mataron-forma-cruel-toco-haber-muerto-20261105011027-nt.html",
+      "desc": "A la familia de Sergio Domínguez la vida le dio un vuelco la madrugada del 1 de junio de 2024: aquel día, Cristian René, un tipo conflictivo con 14 antecedentes en su historial delictivo, se cruzó en el camino de este joven de 24 años, vecino de San Sebastián ",
+      "date": "Mon, 09 Nov 2026 01:10:27 +0100",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "La huelga 'examina' a la delegada del Gobierno en Madrid y pone a prueba la distensión con la Comunidad",
+      "link": "https://www.abc.es/espana/madrid/huelga-examina-delegada-gobierno-madrid-pone-prueba-20261107010040-nt.html",
+      "desc": "Después de tres años y medio de choque político permanente entre el Gobierno de Isabel Díaz Ayuso y el anterior delegado de Pedro Sánchez en Madrid, la llegada de su sucesora, Pilar Trinidad, se ha recibido como un remanso de paz. Al menos, de momento. La prim",
+      "date": "Mon, 09 Nov 2026 01:00:40 +0100",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Trenes, vivienda e inmigración centran un debate electoral en Cataluña que orilla el modelo territorial",
+      "link": "https://www.abc.es/espana/cataluna/trenes-vivienda-inmigracion-centran-debate-electoral-cataluna-20261108001116-nt.html",
+      "desc": "La crisis ferroviaria, las dificultades para acceder a una vivienda y la posibilidad de un futuro Gobierno del PP y Vox centraron este domingo el primer debate electoral en Cataluña de cara a las elecciones generales del 29 de noviembre. Los seis candidatos tr",
+      "date": "Mon, 09 Nov 2026 00:11:16 +0100",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Gana quien más lo desea",
+      "link": "https://www.lavanguardia.com/deportes/fc-barcelona/20261108/11679398/gana-mas-desea.html",
+      "desc": "",
+      "date": "08 Nov 2026 23:37:37 +0100",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
+    {
+      "title": "Fermín acaba con el fantasma del Metropolitano",
+      "link": "https://www.lavanguardia.com/deportes/fc-barcelona/20261108/11679385/fermin-acaba-fantasma-metropolitano.html",
+      "desc": "Dos goles del andaluz ante un Atlético que fue de más a menos consolidan al Barça como líder de la Liga, con el Real Madrid ya por detrás a tres puntos",
+      "date": "08 Nov 2026 22:58:24 +0100",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
+    {
+      "title": "La acampada por la vivienda de Vigo iniciará el 15 de noviembre, Pontevedra lo hará el día 11 y Santiago resiste",
+      "link": "https://www.abc.es/espana/galicia/acampada-vivienda-vigo-iniciara-noviembre-pontevedra-hara-20261108224939-nt.html",
+      "desc": "La acampada por la vivienda de Vigo, asentada desde el 12 de octubre en la Alameda, ha decidido en asamblea iniciar un proceso progresivo de retirada de tiendas el próximo domingo, 15 de noviembre . Este se desarrollará a lo largo de la semana siguiente y sus ",
+      "date": "Sun, 08 Nov 2026 22:49:40 +0100",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
     {
       "title": "Las lluvias intensas obligan a activar la fase de preemergencia en Andalucía",
       "link": "https://www.abc.es/espana/andalucia/lluvias-intensas-obligan-activar-fase-preemergencia-andalucia-20261108221548-nts.html",
@@ -10,6 +130,16 @@
       "source": "ABC",
       "color": "#c0392b",
       "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Nvidia abre una investigación a su director ejecutivo por una relación con una espía china",
+      "link": "https://www.lavanguardia.com/economia/20261108/11679382/nvidia-abre-investigacion-director-ejecutivo-relacion-espia-china.html",
+      "desc": "Washington estaría al corriente de la intención de Pekín de hacerse con la tecnología de los chips estadounidenses",
+      "date": "08 Nov 2026 21:58:36 +0100",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
       "caso": "other"
     },
     {
@@ -103,140 +233,10 @@
       "caso": "other"
     },
     {
-      "title": "¡Salva Joan Garcia el segundo! (1-0) | Atlético y Barça se juegan el liderato en el Metropolitano",
-      "link": "https://www.lavanguardia.com/deportes/futbol/20261108/11679150/atletico-de-madrid-barcelona-laliga-ea-sports-partido-futbol-hoy-en-directo.html",
-      "desc": "Sigue el directo del Atlético de Madrid - Barcelona, correspondiente a la 12ª jornada de La Liga EA Sports",
-      "date": "08 Nov 2026 19:29:50 +0100",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "Las escuelas de arte de Castilla-La Mancha conmemoran la Transición con la figura del modisto Manuel Piña",
-      "link": "https://www.abc.es/espana/castilla-la-mancha/toledo/escuelas-arte-castillala-mancha-conmemoran-transicion-figura-20261108192714-nt.html",
-      "desc": "El legado de Manuel Piña, una de las figuras más representativas de la moda española contemporánea , será objeto de reflexión y creación artística por parte de más de 200 estudiantes de las siete escuelas de arte de Castilla-La Mancha, a través del proyecto 'M",
-      "date": "Sun, 08 Nov 2026 19:27:14 +0100",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Solo queda la carretera: ¿cuándo se reabrirá la línea de AVE Córdoba-Madrid?",
-      "link": "https://www.abc.es/espana/andalucia/cordoba/solo-queda-carretera-reabrira-linea-ave-cordobamadrid-20261108190920-nts.html",
-      "desc": "El desmantelamiento de los convoyes accidentados el pasado 28 de octubre en Urda (Toledo) ha permitido iniciar la fase de reconstrucción, pero el horizonte para recuperar la normalidad en la alta velocidad entre Madrid y Andalucía sigue rodeado de incógnitas. ",
-      "date": "Sun, 08 Nov 2026 19:09:21 +0100",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Fallece el empresario Agustín Tello, referente del sector de la automoción en Cuenca",
-      "link": "https://www.abc.es/espana/castilla-la-mancha/fallece-empresario-agustin-tello-referente-sector-automocion-20261108190730-nt.html",
-      "desc": "El fallecimiento de Agustín Tello, uno de los empresarios de referencia del sector de la automoción en la provincia de Cuenca, ha causado pesar en el mundo empresarial conquense. Vinculado durante años al asociacionismo empresarial, Tello no solo desarrolló su",
-      "date": "Sun, 08 Nov 2026 19:07:30 +0100",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
       "title": "La caja negra del Iryo revela que el choque movió la cola del tren a 47 km/h",
       "link": "https://www.lavanguardia.com/vida/20261108/11679339/caja-negra-iryo-revela-choque-movio-cola-tren-47-km-h.html",
       "desc": "La maquinista se intentó poner en contacto con el jefe de tripulantes del tren, que no le respondía. Seis minutos después, todavía no lo hacía",
       "date": "08 Nov 2026 19:01:15 +0100",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "El choque entre dos vehículos militares de noche causó la muerte del soldado de la BRI X de Córdoba en Zaragoza",
-      "link": "https://www.abc.es/espana/andalucia/cordoba/choque-dos-vehiculos-militares-noche-causo-muerte-20261108185554-nts.html",
-      "desc": "La muerte del soldado F.J.G.J ., destinado en el Grupo de Artillería de Campaña X de la Brigada cordobesa 'Guzmán el Bueno' X., este sábado, en el Centro de Adiestramiento (CENAD) de San Gregorio (Zaragoza), se produjo tras una brutal colisión entre dos vehícu",
-      "date": "Sun, 08 Nov 2026 18:55:55 +0100",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "La trufa blanca de Alba, protagonista otoñal en el restaurante Bottega Bernacca",
-      "link": "https://www.abc.es/espana/cataluna/trufa-blanca-alba-protagonista-otonal-restaurante-bottega-20261108183744-nt.html",
-      "desc": "La trufa blanca de Alba, el diamante de la gastronomía italiano, llega a la mesa como una invitada excepcional, dada su breve temporada, aroma delicado y un ritual que forma parte de la experiencia. Bottega Bernacca la incorpora hasta diciembre a cinco platos ",
-      "date": "Sun, 08 Nov 2026 18:37:45 +0100",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Cien años entre pupitres y recuerdos: el colegio San Gumersindo, memoria viva de Consuegra",
-      "link": "https://www.abc.es/espana/castilla-la-mancha/toledo/pueblos/cien-anos-pupitres-recuerdos-colegio-san-gumersindo-20261108181506-nt.html",
-      "desc": "Hay edificios que guardan mucho más que paredes, pupitres y pizarras. Entre sus muros permanecen los recuerdos de la infancia, las primeras amistades, las lecciones de los maestros y las historias de quienes un día cruzaron sus puertas para aprender a leer y e",
-      "date": "Sun, 08 Nov 2026 18:16:50 +0100",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Piden 8 años de cárcel para un hombre acusado de violar a otro que quedó semiinconsciente tras consumir una bebida a la que el acusado lo invitó",
-      "link": "https://www.abc.es/espana/galicia/piden-anos-carcel-hombre-acusado-violar-quedo-20261108180349-nt.html",
-      "desc": "La Audiencia Provincial de La Coruña juzgará el próximo martes, día 10, a un hombre acusado de agredir sexualmente a otro varón que conoció en un establecimiento comercial de A Grela, y que estaba «semiinconsciente» tras consumir una bebida a la que el procesa",
-      "date": "Sun, 08 Nov 2026 18:03:50 +0100",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Misa en la catedral y dulces para celebrar la Almudena con amenaza de lluvia en Madrid",
-      "link": "https://www.abc.es/espana/madrid/misa-catedral-dulces-celebrar-almudena-amenaza-lluvia-20261108172650-nt.html",
-      "desc": "Madrid celebrará, con amenaza de lluvias, este lunes el día de su patrona, la Virgen de la Almudena , con misa en la catedral homónima y dulces en forma de corona. El arzobispo de Madrid, José Cobo, presidirá la misa, que arrancará a las 11 horas. El lema eleg",
-      "date": "Sun, 08 Nov 2026 17:51:42 +0100",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Un incendio en el salón de un bajo mata a un hombre de 60 años y hiere a otras 11 personas en Guadarrama",
-      "link": "https://www.abc.es/espana/madrid/incendio-salon-bajo-mata-hombre-anos-hiere-20261108175116-nt.html",
-      "desc": "Un hombre de 60 años ha fallecido la mañana de este domingo por inhalación de humo durante un incendio que ha tenido lugar en un bloque de viviendas en el municipio madrileño de Guadarrama, ha informado 112 Comunidad de Madrid. El suceso también ha dejado heri",
-      "date": "Sun, 08 Nov 2026 17:51:17 +0100",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Cinco detenidos por una riña tumultuaria por un balonazo a un coche de unos niños",
-      "link": "https://www.abc.es/espana/comunidad-valenciana/cinco-detenidos-rina-tumultuaria-balonazo-coche-ninos-20261108174728-nt.html",
-      "desc": "Agentes de la Policía Nacional han detenido a seis implicados en una riña tumultuaria -al parecer- originada por una discusión cuando unos niños jugaban a la pelota en la calle y dieron un balonazo a un coche, en el barrio de Beteró de la ciudad de Valencia, s",
-      "date": "Sun, 08 Nov 2026 17:47:29 +0100",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Laporta: “El tema Julián ya está aclarado”",
-      "link": "https://www.lavanguardia.com/deportes/fc-barcelona/20261108/11679283/laporta-tema-julian-esta-aclarado.html",
-      "desc": "El presidente blaugrana encabeza la expedición del FC Barcelona en la comida de directivas previa al Atlético-Barça de esta noche",
-      "date": "08 Nov 2026 15:41:29 +0100",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "Feijóo pide en Málaga un “apoyo fuerte” para un “cambio claro y rotundo”",
-      "link": "https://www.lavanguardia.com/politica/20261108/11679252/feijoo-pide-malaga-apoyo-fuerte-cambio-claro-rotundo.html",
-      "desc": "El líder del PP promete no indultar a ningún político condenado por corrupción&nbsp;",
-      "date": "08 Nov 2026 13:54:54 +0100",
       "source": "La Vanguardia",
       "color": "#8e44ad",
       "feedId": "LaVanguardia",
