@@ -1,55 +1,235 @@
 {
-  "updated": "2026-11-09T20:21:16Z",
+  "updated": "2026-11-10T03:56:04Z",
   "count": 24,
   "items": [
     {
-      "title": "Okuda llenará de color cinco municipios de Castilla-La Mancha para recordar la Transición",
-      "link": "https://www.abc.es/espana/castilla-la-mancha/okuda-llenara-color-cinco-municipios-castillala-mancha-20261109205701-nt.html",
-      "desc": "Cinco grandes murales transformarán espacios públicos de Castilla-La Mancha para conmemorar el 50 aniversario de la Transición. El artista urbano Okuda San Miguel dirigirá este proyecto, en el que participarán otros cuatro creadores y que llevará el arte conte",
-      "date": "Mon, 09 Nov 2026 20:57:01 +0100",
+      "title": "Optar entre «los nuestros» y los mejores",
+      "link": "https://www.abc.es/espana/cataluna/sergi-doria-optar-nuartocestros-mejores-20261110023652-nt.html",
+      "desc": "Hace veinte años, en una de sus novelas más críticas y, paradójicamente, menos conocidas, 'Mauricio o las elecciones primarias', Eduardo Mendoza lanzaba una mirada pesimista sobre la clase política de los ochenta. La denominada «cultura del pelotazo» plasmada ",
+      "date": "Tue, 10 Nov 2026 02:36:52 +0100",
       "source": "ABC",
       "color": "#c0392b",
       "feedId": "ABC",
       "caso": "other"
     },
     {
-      "title": "Feijóo: «Vamos a cambiar un Gobierno que sirve a Sánchez por otro que sirva a España»",
-      "link": "https://www.abc.es/espana/baleares/feijoo-vamos-cambiar-gobierno-sirve-sanchez-sirva-20261109204124-nt.html",
-      "desc": "Ante unas 3.000 personas congregadas en el Pueblo Español de Palma, Alberto Núñez Feijóo ha situado la inmigración, la seguridad ciudadana y la vivienda como tres de los principales ejes de su proyecto político, al tiempo que ha apelado directamente a los vota",
-      "date": "Mon, 09 Nov 2026 20:41:25 +0100",
+      "title": "Rufián situaría a ERC en 12 escaños el 29N y Vox se quedaría a solo uno del PP en Cataluña",
+      "link": "https://www.abc.es/espana/cataluna/rufian-situaria-erc-escanos-29n-vox-quedaria-20261110023040-nt.html",
+      "desc": "La apuesta de la dirección de ERC por Gabriel Rufián, como candidato del partido por Barcelona en las elecciones del 29 de noviembre, repitiendo el liderazgo de 2023 y a pesar de las discrepancias con él en asuntos clave, podría ser la gran ganadora de la noch",
+      "date": "Tue, 10 Nov 2026 02:30:40 +0100",
       "source": "ABC",
       "color": "#c0392b",
       "feedId": "ABC",
       "caso": "other"
     },
     {
-      "title": "Abascal hoy en 'La Revuelta', última hora en directo: a qué hora empieza la entrevista y qué se sabe del público",
-      "link": "https://www.lavanguardia.com/politica/20261109/11680253/entrevista-santiago-abascal-la-revuelta-david-broncano-ultima-hora-hoy-en-directo.html",
-      "desc": "Sigue la última hora de la entrevista a Santiago Abascal Conde en el programa La Revuelta, que iniciará a las las 21:45 horas en La 1 de TVE",
-      "date": "09 Nov 2026 20:36:27 +0100",
+      "title": "El PP encabeza 31 circunscripciones y empata en nueve con el PSOE, que solo lidera dos",
+      "link": "https://www.abc.es/espana/pp-encabeza-circunscripciones-empata-nueve-psoe-solo-20261109023029-nt.html",
+      "desc": "España se tiñe de azul. Si no hay un vuelco electoral, ese podría ser el titular adelantado de las crónicas del 29N. La victoria del PP, que según el barómetro de GAD3 para ABC se sitúa en 136 escaños, uno menos de los que tenía hasta ahora en el Congreso, y c",
+      "date": "Tue, 10 Nov 2026 02:30:29 +0100",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "La dana no pasa factura al PP en la provincia de Valencia ante el 29N",
+      "link": "https://www.abc.es/espana/comunidad-valenciana/dana-pasa-factura-pp-provincia-valencia-20261110023023-nt.html",
+      "desc": "El PP volvería a ganar las elecciones generales del 29 de noviembre en la provincia de Valencia sin acusar un gran desgaste por su gestión de la dana que arrasó parte de este territorio el 29 de octubre de 2024, con 234 muertos. La fallida respuesta ante las i",
+      "date": "Tue, 10 Nov 2026 02:30:23 +0100",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Bildu doblaría en escaños al PNV el 29N, que perdería su grupo en el Congreso",
+      "link": "https://www.abc.es/espana/pais-vasco/bildu-doblaria-escanos-pnv-29n-perderia-grupo-20261110023010-nt.html",
+      "desc": "Las elecciones del 29N serán el primer 'round' del combate a tres asaltos que libran las dos familias del nacionalismo en el País Vasco. Primero generales, en mayo del año que viene forales y municipales y en 2028 unas autonómicas que podrían llevar por primer",
+      "date": "Tue, 10 Nov 2026 02:30:10 +0100",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Frente Amplio marca 15 provincias en rojo para dar un vuelco a las encuestas el 29N",
+      "link": "https://www.abc.es/espana/frente-amplio-marca-provincias-rojo-dar-vuelco-20261109022354-nt.html",
+      "desc": "Con un jersey verde y unos pantalones vaqueros, un 'look' de persona normal —público objetivo de Frente Amplio el 29N—, el ministro de Derechos Sociales, Pablo Bustinduy, desgranó este lunes en Madrid, pese a ser festivo local, las líneas maestras de la coalic",
+      "date": "Tue, 10 Nov 2026 02:23:54 +0100",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Investigan una denuncia de agresión sexual a una mujer de 36 años en un parque de Carabanchel",
+      "link": "https://www.abc.es/espana/madrid/investigan-denuncia-agresion-sexual-mujer-anos-parque-20261109021820-nt.html",
+      "desc": "La Unidad de Atención a la Familia y Mujer (UFAM) de la Policía Nacional investiga una denuncia de agresión sexual a una mujer de 36 años este sábado en el parque la Emperatriz María de Austria del distrito de Carabanchel. Los vecinos de esta zona de la capita",
+      "date": "Tue, 10 Nov 2026 02:18:20 +0100",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "La Comunidad dará ayudas de hasta 4.000 euros para terapia de atención temprana hasta los 12 años a partir de 2027",
+      "link": "https://www.abc.es/espana/madrid/comunidad-dara-ayudas-4000-euros-terapia-atencion-20261109021809-nt.html",
+      "desc": "Las familias podrán recibir desde el primer trimestre de 2027 una ayuda directa de hasta 4.000 euros anuales para niños de entre 6 y 12 años con discapacidad (física o intelectual) o dependencia reconocida que necesiten continuar con su tratamiento o terapia e",
+      "date": "Tue, 10 Nov 2026 02:18:09 +0100",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "La transformación de edificios en hoteles o viviendas expulsa a las oficinas del centro de Madrid",
+      "link": "https://www.abc.es/espana/madrid/transformacion-edificios-hoteles-viviendas-expulsa-oficinas-centro-20261104012710-nt.html",
+      "desc": "Del edificio de oficinas del número 43 de la calle de Alberto Alcocer al complejo ubicado en el número 22 de Recoletos, pasando por los juzgados de lo Mercantil de Gran Vía, 52. Madrid ha registrado en el primer semestre de 2026 hasta 13 proyectos de cambios d",
+      "date": "Tue, 10 Nov 2026 01:27:10 +0100",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "El PP propone ampliar las competencias de la Audiencia Nacional frente al crimen organizado",
+      "link": "https://www.abc.es/espana/pp-propone-ampliar-competencias-audiencia-nacional-frente-20261110012000-nt.html",
+      "desc": "El Partido Popular tiene previsto poner en marcha un plan de choque para sacar a los tribunales de su colapso endémico y dotarlos de herramientas para combatir la criminalidad del siglo XXI. En su programa electoral, al que ha tenido acceso ABC, Génova diseña ",
+      "date": "Tue, 10 Nov 2026 01:20:00 +0100",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "gen"
+    },
+    {
+      "title": "Feijóo someterá al Congreso las decisiones en política exterior que afecten a la soberanía y las fronteras",
+      "link": "https://www.abc.es/espana/feijoo-sometera-congreso-decisiones-politica-exterior-afecten-20261109011947-nt.html",
+      "desc": "Con la expectativa de poder llegar al Gobierno tras las elecciones del 29 de noviembre , muchas miradas se centran en la política exterior de Alberto Núñez Feijoo en un mundo cada vez más inestable y el tablero geopolítico en agitación permanente. El PP presen",
+      "date": "Tue, 10 Nov 2026 01:19:47 +0100",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "El PP quitará la nacionalidad a los extranjeros que tengan una condena firme por delitos muy graves",
+      "link": "https://www.abc.es/espana/pp-regula-primera-vez-perdida-nacionalidad-extranjeros-20261110011930-nt.html",
+      "desc": "El PP regulará por primera vez las condiciones de pérdida de nacionalidad para quienes no sean españoles de origen –y hayan obtenido el pasaporte–. Esta circunstancia podrá darse cuando «exista condena firme» por determinados delitos graves «contra la vida, la",
+      "date": "Tue, 10 Nov 2026 01:19:30 +0100",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "El Supremo confirma el fraude electoral: sólo 901 de los 163.000 'nietos' cumplen los requisitos",
+      "link": "https://www.abc.es/espana/supremo-confirma-fraude-electoral-solo-901-163000-20261109011924-nt.html",
+      "desc": "Lo que en septiembre eran sospechas de fraude electoral hoy son directamente certezas. El Tribunal Supremo ya no tiene ninguna duda de que contar en el censo exterior con los 163.000 beneficiados de la 'ley de nietos' causaría un daño irreversible a la «veraci",
+      "date": "Tue, 10 Nov 2026 01:19:24 +0100",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Madrid encadena dieciocho años al frente del índice de libertad económica y Andalucía afianza su mejora",
+      "link": "https://www.abc.es/espana/cataluna/madrid-encadena-dieciocho-anos-frente-indice-libertad-20261109011908-nt.html",
+      "desc": "Ninguna comunidad autónoma ha desbancado a Madrid del primer puesto del Índice de Libertad Económica en España desde que se publicó por primera hace 18 años. Además de las cinco ediciones anteriores (2008, 2011, 2013, 2015 y 2022), la región vuelve a encabezar",
+      "date": "Tue, 10 Nov 2026 01:19:08 +0100",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Una comisaria política de Adif relegó la seguridad en la circulación en contra de la UE",
+      "link": "https://www.abc.es/espana/comisaria-politica-adif-relego-seguridad-circulacion-ue-20261109011847-nt.html",
+      "desc": "El Consejo de Ministros pretende aprobar este martes un cambio en la estructura de dirección de Adif, según avanzan fuentes gubernamentales y del gestor ferroviario a ABC. El vicepresidente económico, Carlos Cuerpo, que asume las funciones de ministro de Trans",
+      "date": "Tue, 10 Nov 2026 01:18:47 +0100",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Broncano se estrella en la entrevista a Abascal en La Revuelta",
+      "link": "https://www.abc.es/espana/broncano-estrella-abascal-20261109005520-nt.html",
+      "desc": "El de este lunes no fue un programa más de «La Revuelta». Santiago Abascal acudió a la televisión pública para ser entrevistado por David Broncano en su plató. En un principio, el presidente de Vox se encontraba en 'territorio comanche', pero el cambio de regi",
+      "date": "Tue, 10 Nov 2026 00:56:35 +0100",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Una revuelta a medida para Abascal",
+      "link": "https://www.lavanguardia.com/politica/20261110/11680342/revuelta-medida.html",
+      "desc": "Santiago Abascal logró alejar a imagen oscura que transmite a&nbsp;a sectores de la sociedad",
+      "date": "10 Nov 2026 00:10:23 +0100",
       "source": "La Vanguardia",
       "color": "#8e44ad",
       "feedId": "LaVanguardia",
       "caso": "other"
     },
     {
-      "title": "Álvarez de Toledo: «Nunca la ignorancia se había convertido en un arma política como ahora»",
-      "link": "https://www.abc.es/espana/castilla-la-mancha/toledo/alvarez-toledo-nunca-ignorancia-convertido-arma-politica-20261109203324-nt.html",
-      "desc": "La diputada nacional del Partido Popular Cayetana Álvarez de Toledo ha denunciado « la destrucción de la figura del experto » en el contexto político actual, afirmando que la ignorancia «nunca se había convertido en un arma política como ahora», lo que ha cons",
-      "date": "Mon, 09 Nov 2026 20:33:24 +0100",
+      "title": "Page: «Incluso en las tragedias tenemos que encontrar los mejores argumentos para sentir lo que somos como pueblo»",
+      "link": "https://www.abc.es/espana/castilla-la-mancha/toledo/page-incluso-tragedias-encontrar-mejores-argumentos-sentir-20261109222728-nt.html",
+      "desc": "El presidente de Castilla-La Mancha, Emiliano García-Page, ha apelado a la unidad de los españoles ante el funeral por las 69 víctimas mortales del accidente ferroviario de Urda, que se celebrará este martes en la Catedral de Toledo, presidido por los Reyes de",
+      "date": "Mon, 09 Nov 2026 22:27:28 +0100",
       "source": "ABC",
       "color": "#c0392b",
       "feedId": "ABC",
       "caso": "other"
     },
     {
-      "title": "La FAPA Gabriel Miró entrega sus premios anuales en un congreso formativo para las familias",
-      "link": "https://www.abc.es/espana/comunidad-valenciana/alicante/fapa-gabriel-miro-entrega-premios-anuales-congreso-20261108202507-nt.html",
-      "desc": "La federación de familias provincial FAPA Gabriel Miró de Alicante ha celebrado su 47 Congreso Anual con la entrega de sus premios y una sesión formativa para la comunidad educativa, que ha contado con la presencia de Joaquín Marzá Mercé, director del Colegio ",
-      "date": "Mon, 09 Nov 2026 20:25:07 +0100",
+      "title": "Los bomberos de Córdoba rescatan a un niño de tres años atrapado en su balcón",
+      "link": "https://www.abc.es/espana/andalucia/cordoba/bomberos-cordoba-rescatan-nino-tres-anos-atrapado-20261109222311-nts.html",
+      "desc": "El Servicio de Protección, Extinción de Incendios y Salvamento del Ayuntamiento de Córdoba (Speis) ha acudido en la tarde de este lunes a la avenida de Cádiz para rescatar a un menor de tres años que había quedado en un balcón del que no podía salir. Como prec",
+      "date": "Mon, 09 Nov 2026 22:23:11 +0100",
       "source": "ABC",
       "color": "#c0392b",
       "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "La Real Academia de Gastronomía pide al nuevo Gobierno una norma de protección e impulso al sector",
+      "link": "https://www.abc.es/espana/castilla-la-mancha/toledo/real-academia-gastronomia-pide-nuevo-gobierno-norma-20261109220416-nt.html",
+      "desc": "La gastronomía se reivindica. No quiere ser considerada como un sector sino como un ecosistema con efectos transversales en la economía, la educación o la cultura, para lo que pedirá al nuevo Gobierno de España que salga de las urnas el 29 de noviembre una nor",
+      "date": "Mon, 09 Nov 2026 22:04:17 +0100",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Juanma Moreno, en el funeral por las víctimas de Urda en la Catedral de Sevilla: «Que no vuelva a suceder»",
+      "link": "https://www.abc.es/espana/andalucia/juanma-moreno-funeral-catedral-sevilla-victimas-urda-20261109213306-nts.html",
+      "desc": "«Que no vuelva a ocurrir». El presidente de la Junta de Andalucía, Juanma Moreno , ha destacado este lunes a las puertas de la Catedral de Sevilla y minutos antes de la celebración de la misa funeral que ha acogido en memoria de las víctimas del grave accident",
+      "date": "Mon, 09 Nov 2026 21:33:07 +0100",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "El Premio Vanguardia de la Ciencia reconoce la inmunoterapia del cáncer",
+      "link": "https://www.lavanguardia.com/ciencia/20261109/11679827/premio-vanguardia-ciencia-reconoce-inmunoterapia-cancer.html",
+      "desc": "El galardón distingue también las investigaciones sobre los cambios del cerebro durante el embarazo y la conexión entre los incendios y el océano",
+      "date": "09 Nov 2026 20:55:01 +0100",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
+    {
+      "title": "Un congresista republicano presenta una resolución para iniciar un 'impeachment' contra Hegseth",
+      "link": "https://www.lavanguardia.com/internacional/20261109/11680320/congresista-republicano-presenta-resolucion-iniciar-impeachment-hegseth.html",
+      "desc": "El congresista díscolo presenta ocho artículos para ejecutar el juicio político, un mecanismo que requiere la aprobación de las dos cámaras del Congreso",
+      "date": "09 Nov 2026 20:48:55 +0100",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
       "caso": "other"
     },
     {
@@ -60,186 +240,6 @@
       "source": "La Vanguardia",
       "color": "#8e44ad",
       "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "La resiliencia no puede medirse solo en puntos de PIB",
-      "link": "https://www.abc.es/espana/cataluna/resiliencia-puede-medirse-solo-puntos-pib-20261109201809-nt.html",
-      "desc": "La economía española volverá a crecer por encima de la europea. CaixaBank Research prevé un avance del PIB del 2% en 2027, después del 2,6% estimado para este año, frente al 1,4% que pronostica para la eurozona. El informe identifica varios apoyos en el consum",
-      "date": "Mon, 09 Nov 2026 20:18:09 +0100",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Repartirse el muerto sale caro a cuatro funerarias gallegas: multadas por pactar los traslados de cadáveres",
-      "link": "https://www.abc.es/espana/galicia/repartirse-muerto-sale-caro-cuatro-funerarias-gallegas-20261109201541-nt.html",
-      "desc": "La Comisión Galega da Competencia ha impuesto multas por un total de 407.690 euros a cuatro empresas funerarias por repartirse el servicio de transporte de cadáveres hacia el Instituto de Medicina Legal de Galicia (Imelga) en las áreas de Vigo y Pontevedra. La",
-      "date": "Mon, 09 Nov 2026 20:15:42 +0100",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Rodalies se acomoda en el caos e insta al viajero a “buscar alternativas” en una semana difícil",
-      "link": "https://www.lavanguardia.com/local/barcelona/20261109/11680292/rodalies-acomoda-caos-insta-viajero-buscar-alternativas-semana-dificil.html",
-      "desc": "El operador apela a la “responsabilidad” de la plantilla al tiempo que impone horarios de difícil cumplimiento",
-      "date": "09 Nov 2026 20:10:18 +0100",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "El Córdoba CF crece desde atrás: tres porterías a cero y una diferencia de goles equilibrada",
-      "link": "https://www.abc.es/espana/andalucia/cordoba/cordoba-cf/cordoba-crece-atras-tres-porterias-cero-diferencia-20261109200206-nts.html",
-      "desc": "El Córdoba CF ha encontrado en las últimas jornadas una mayor regularidad en sus registros defensivos para despejar las dudas iniciales. Después de un comienzo marcado por la fragilidad, el conjunto de Iván Ania ha conseguido mantener su portería a cero en tre",
-      "date": "Mon, 09 Nov 2026 20:02:06 +0100",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "La Diputación de Córdoba prepara sus Jornadas de Patrimonio Barroco: conciertos, conferencias y visitas guiadas",
-      "link": "https://www.abc.es/espana/andalucia/cordoba/diputacion-cordoba-prepara-jornadas-patrimonio-barroco-conciertos-20261109200150-nts.html",
-      "desc": "La Diputación de Córdoba vuelve a organizar las Jornadas de Patrimonio Barroco entre el 16 y el 21 de noviembre. Como en ediciones anteriores, el programa de esta sexta edición propone un recorrido completo por el universo artístico, histórico y simbólico del ",
-      "date": "Mon, 09 Nov 2026 20:01:50 +0100",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "ATME, tras la muerte de un soldado de Córdoba en Zaragoza: «La moral de los compañeros de la BRI X está muy tocada»",
-      "link": "https://www.abc.es/espana/andalucia/cordoba/atme-tras-muerte-soldado-cordoba-zaragoza-moral-20261109200144-nts.html",
-      "desc": "El fatídico accidente registrado este sábado en el Centro de Adiestramiento (CENAD) de San Gregorio (Zaragoza), que se saldó con la muerte del soldado F.J.G.J., destinado en el Grupo de Artillería de Campaña X de la Brigada cordobesa 'Guzmán el Bueno' X , ha d",
-      "date": "Mon, 09 Nov 2026 20:01:44 +0100",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "La borrasca Bruna deja en Córdoba menos de ocho litros por metro cuadrado en 24 horas",
-      "link": "https://www.abc.es/espana/andalucia/cordoba/borrasca-bruna-deja-cordoba-ocho-litros-metro-20261109200131-nts.html",
-      "desc": "La borrasca Bruna no va a crear estragos en la ciudad de Córdoba. La llegada de las lluvias no ha sido espectacular y entre la noche del domingo y la del lunes las precipitaciones no han llegado a los ocho litros por metro cuadrado. A pesar de las previsiones ",
-      "date": "Mon, 09 Nov 2026 20:01:31 +0100",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Cazorla se impone a Olvera y representará a Andalucía en el gran alumbrado navideño de Ferrero Rocher",
-      "link": "https://www.abc.es/espana/andalucia/jaen/cazorla-impone-olvera-representara-andalucia-gran-alumbrado-20261109195842-nts.html",
-      "desc": "Cazorla (Jaén) ha salido victoriosa en el duelo navideño frente a Olvera (Cádiz) tras el cierre de las votaciones este pasado domingo, 8 de noviembre . Con este resultado, el municipio se asegura su plaza en la siguiente fase de la nueva edición de 'Juntos Bri",
-      "date": "Mon, 09 Nov 2026 19:58:43 +0100",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "El PP acepta que la Academia de Televisión organice los debates electorales tras la propuesta del PSOE",
-      "link": "https://www.abc.es/espana/pp-acepta-academia-television-organice-debates-electorales-20261109195130-nt.html",
-      "desc": "Después de varios días con los debates electorales en el aire y a falta de menos de tres semanas para que los españoles acudan a las urnas el próximo 29 de noviembre, por fin los dos principales partidos han llegado a un acuerdo sobre dónde celebrar estos encu",
-      "date": "Mon, 09 Nov 2026 19:51:30 +0100",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Evacuan a 958 personas de un barco de pasajeros en Grecia tras una amenaza de bomba",
-      "link": "https://www.lavanguardia.com/internacional/20261109/11680284/evacuan-958-personas-barco-pasajeros-grecia-amenaza-bomba.html",
-      "desc": "Un desconocido ha llamado a un pasajero advirtiendo de que un artefacto estaba a punto de explotar",
-      "date": "09 Nov 2026 19:51:11 +0100",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "Dalí necesitaba invitación escrita para visitar a Gala en este pueblo: un castillo con elefantes y alta costura",
-      "link": "https://www.abc.es/espana/cataluna/dali-necesitaba-invitacion-escrita-visitar-gala-pueblo-20261109194519-nt.html",
-      "desc": "Salvador Dalí podía permitirse prácticamente cualquier extravagancia, pero había un lugar al que ni siquiera él podía entrar sin permiso. Se trataba de un castillo medieval situado en un pequeño pueblo de Gerona, que el pintor regaló a su esposa Gala y donde e",
-      "date": "Mon, 09 Nov 2026 19:45:20 +0100",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Una explosión en un barco causa un incendio y acaba hundido en el mar en Denia",
-      "link": "https://www.abc.es/espana/comunidad-valenciana/alicante/explosion-barco-causa-incendio-acaba-hundido-mar-20261109194309-nt.html",
-      "desc": "Un barco de tipo catamarán ha acabado hundido en el mar en el puerto de Denia este lunes a causa de un incendio que lo ha destruido por completo, provocado por una explosión, según testigos presenciales. El Consorcio de Bomberos provincial de Alicante ha recib",
-      "date": "Mon, 09 Nov 2026 19:43:09 +0100",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Un trabajador de 26 años, herido al caer desde el tejado de una nave industrial en Talavera",
-      "link": "https://www.abc.es/espana/castilla-la-mancha/toledo/talavera/trabajador-anos-herido-caer-tejado-nave-industrial-20261109194039-nt.html",
-      "desc": "Un trabajador de 26 años ha resultado herido este lunes tras precipitarse desde el tejado de una nave industrial de Talavera de la Reina situada en la calle Federica Montseny. El joven ha tenido que ser trasladado en una UVI al hospital Nuestra Señora del Prad",
-      "date": "Mon, 09 Nov 2026 19:40:40 +0100",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "La Junta de Andalucía quiere tramitar el decreto contra las agresiones a los sanitarios antes de 2027",
-      "link": "https://www.abc.es/espana/andalucia/junta-andalucia-quiere-tramitar-decreto-agresiones-sanitarios-20261109193022-nts.html",
-      "desc": "La Junta de Andalucía quiere tramitar el Decreto ley contra las agresiones a sanitarios antes de que finalice 2026. El vicepresidente primero y consejero de Presidencia, Sanidad y Emergencias, Antonio Sanz , se ha reunido este lunes con los miembros del Observ",
-      "date": "Mon, 09 Nov 2026 19:30:22 +0100",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Stellantis Vigo suspende la producción del Peugeot 2008 por falta de piezas",
-      "link": "https://www.abc.es/espana/galicia/stellantis-vigo-suspende-produccion-peugeot-2008-falta-20261109192910-nt.html",
-      "desc": "Stellantis Vigo suspenderá esta semana varios turnos de su sistema 1, el que fabrica el Peugeot 2008, debido a dificultades de aprovisionamiento de componentes. La compañía ha informado a los trabajadores de la afectación del parón, que se prolongará gran part",
-      "date": "Mon, 09 Nov 2026 19:29:11 +0100",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "El PP acepta que los debates electorales sean organizados por la Academia de Televisión",
-      "link": "https://www.lavanguardia.com/politica/20261109/11680272/pp-acepta-debates-electorales-sean-organizados-academia-television.html",
-      "desc": "Los populares renuncian a que se celebren en los principales grupos mediáticos privados, pero exigen la participación en el diseño de las direcciones de campaña de los diferentes partidos políticos",
-      "date": "09 Nov 2026 19:28:16 +0100",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "Suspenden las clases en 32 municipios del sur de Ávila, en alerta roja por la borrasca",
-      "link": "https://www.abc.es/espana/castilla-leon/lluvias-vuelven-intensidad-castilla-leon-borrasca-bruna-20261109192031-nt.html",
-      "desc": "Hacía tiempo que no era necesario sacar los paraguas y los charcos cubrían de forma tan generalizada en Castilla y León, pero la borrasca Bruna demostraba que la alerta meteorológica activada era fundada. Y es que no sólo cubría el cielo, sino que comenzaba a ",
-      "date": "Mon, 09 Nov 2026 19:20:31 +0100",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "El BNG se autoproclama garantía para dar a los gallegos una «vida digna»",
-      "link": "https://www.abc.es/espana/galicia/bng-autoproclama-garantia-dar-gallegos-vida-digna-20261109190708-nt.html",
-      "desc": "La portavoz nacional del BNG, Ana Pontón, llama a revertir la actual situación de «normalización» de la precariedad, resultado de una distribución de la riqueza «cada vez más desigual». Para ello, apeló a apoyar al BNG en las próximas elecciones generales, una",
-      "date": "Mon, 09 Nov 2026 19:07:08 +0100",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
       "caso": "other"
     }
   ]
