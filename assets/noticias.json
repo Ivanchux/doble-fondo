@@ -1,12 +1,192 @@
 {
-  "updated": "2026-11-11T23:57:34Z",
+  "updated": "2026-11-12T06:10:46Z",
   "count": 24,
   "items": [
     {
-      "title": "Otra oleada de disturbios empaña una desigual jornada de huelga",
-      "link": "https://www.lavanguardia.com/local/barcelona/20261111/11681937/oleada-disturbios-empana-desigual-jornada-huelga.html",
-      "desc": "Las grandes dificultades para desplazarse lograron ralentizar el pulso de Barcelona",
-      "date": "11 Nov 2026 22:29:07 +0100",
+      "title": "“Basura sindical” y algunas cosas más",
+      "link": "https://www.lavanguardia.com/politica/20261112/11681941/basura-sindical-cosas-mas.html",
+      "desc": "",
+      "date": "12 Nov 2026 06:00:00 +0100",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
+    {
+      "title": "El Congreso aprueba hoy el decreto de vivienda cuya derogación provocó el adelanto electoral",
+      "link": "https://www.lavanguardia.com/politica/20261112/11681894/congreso-aprueba-hoy-decreto-vivienda-cuya-derogacion-provoco-29-n.html",
+      "desc": "Sánchez busca encarrilar la campaña con la convalidación de esta iniciativa",
+      "date": "12 Nov 2026 06:00:00 +0100",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
+    {
+      "title": "Complejidad política",
+      "link": "https://www.lavanguardia.com/economia/20261112/11681887/complejidad-politica.html",
+      "desc": "",
+      "date": "12 Nov 2026 06:00:00 +0100",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
+    {
+      "title": "Mal humor",
+      "link": "https://www.lavanguardia.com/politica/20261112/11681909/mal-humor.html",
+      "desc": "",
+      "date": "12 Nov 2026 06:00:00 +0100",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
+    {
+      "title": "Fiesta del Orujo de Potes 2026: programa completo, desfile y actuaciones de este evento declarado de Interés Turístico Nacional",
+      "link": "https://www.abc.es/espana/cantabria/fiesta-orujo-potes-2026-programa-completo-desfile-20261112051500-nt.html",
+      "desc": "Cada noviembre, las calles empedradas de Potes se transforman en el escenario de una de las citas gastronómicas y culturales más emblemáticas del norte de España. La Fiesta del Orujo , reconocida como Fiesta de Interés Turístico Nacional , vuelve a reunir en 2",
+      "date": "Thu, 12 Nov 2026 05:15:00 +0100",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Encuestas elecciones generales 29N: resultados de PSOE, PP, Vox y Frente Amplio y ganador según los sondeos",
+      "link": "https://www.abc.es/espana/encuestas-elecciones-generales-29n-resultados-psoe-pp-20261112050000-nt.html",
+      "desc": "Quedan apenas unas horas para que la campaña de las elecciones generales del 29N arranque oficialmente en España y todos los ojos están puestos en el baile de sillones en las encuestas electorales . A 16 días de la cita con las urnas, en la que están llamadas ",
+      "date": "Thu, 12 Nov 2026 05:00:07 +0100",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Feijóo abre su campaña en Cataluña centrado en la inmigración y la okupación",
+      "link": "https://www.abc.es/espana/cataluna/feijoo-abre-campana-cataluna-centrado-inmigracion-okupacion-20261111020522-nt.html",
+      "desc": "Cataluña, otra vez Cataluña. Si el 6 de julio de 2023 Alberto Núñez Feijóo se presentó en Castelldefels para arrancar la campaña electoral de aquel año, hoy, tres años y poco más de cuatro meses después, será Badalona la ciudad elegida para iniciar su camino a",
+      "date": "Thu, 12 Nov 2026 02:05:22 +0100",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Pinchazo de la huelga política convocada para resucitar a Sánchez",
+      "link": "https://www.abc.es/espana/pincha-huelga-general-convocada-resucitar-sanchez-20261111013653-nt.html",
+      "desc": "La huelga general no logró este miércoles el seguimiento que esperaban los sindicatos. Tras una mañana de piquetes y concentraciones poco relevantes, la jornada solo cobró fuerza por la tarde con la marcha por la vivienda, que la lluvia torrencial no consiguió",
+      "date": "Thu, 12 Nov 2026 01:36:53 +0100",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Puigdemont ultima su retorno para el 12 de diciembre",
+      "link": "https://www.abc.es/espana/cataluna/puigdemont-ultima-retorno-diciembre-20261111013624-nt.html",
+      "desc": "Carles Puigdemont tiene una espina clavada: no haber podido dirigirse a los representantes de los catalanes en el Parlamento de Cataluña tras la aplicación del 155 en el año 2017. Desde entonces, el expresidente de la Generalitat, que fijó su residencia en Wat",
+      "date": "Thu, 12 Nov 2026 01:36:24 +0100",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "El cónsul que más ha acelerado las nacionalizaciones fue asistente de la esposa de Zapatero",
+      "link": "https://www.abc.es/espana/consul-acelerado-nacionalizaciones-asistente-personal-esposa-zapatero-20261019013618-nt.html",
+      "desc": "El consulado de Rosario (Argentina) está en el punto de mira por ser el organismo diplomático que más ha acelerado las nacionalizaciones de supuestos nietos del exilio a raíz de la instrucción firmada por Sofía Puente. Se da la circunstancia de que en esta ofi",
+      "date": "Thu, 12 Nov 2026 01:36:18 +0100",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "zap"
+    },
+    {
+      "title": "Sánchez abre campaña en Sevilla ante el peligro de perder el último bastión histórico del PSOE",
+      "link": "https://www.abc.es/espana/sanchez-abre-campana-sevilla-ante-peligro-perder-20261112013554-nt.html",
+      "desc": "Un granero de voto con fisuras. Pedro Sánchez abre este jueves la campaña electoral en un territorio hasta ahora fetiche y que se torna providencial de cara al próximo 29 de noviembre. Sevilla es el último bastión histórico y está en peligro. En el PSOE son pl",
+      "date": "Thu, 12 Nov 2026 01:35:54 +0100",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "La estrategia mediática de Feijóo: «Buscar votos en todas partes»",
+      "link": "https://www.abc.es/espana/estrategia-mediatica-feijoo-buscar-votos-partes-20261112013535-nt.html",
+      "desc": "El líder del PP mantiene una intensa gira de entrevistas en medios de comunicación. Ha pasado por prácticamente todas las radios, televisiones, ha visitado programas de entretenimiento –anoche estuvo en 'El Hormiguero'– e incluso se ha dejado ver en medios dep",
+      "date": "Thu, 12 Nov 2026 01:35:35 +0100",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Excachorros de Bildu apalizaron a los militares en Berriozar durante el Mundial",
+      "link": "https://www.abc.es/espana/navarra/cachorros-bildu-apalizaron-militares-berriozar-mundial-20261108012850-nt.html",
+      "desc": "Entre los 19 encapuchados que, el pasado 19 de julio durante la final del Mundial, apalizaron a diez militares del Ejército de Tierra en Berriozar (Navarra) había antiguos cachorros de EH Bildu. Al menos dos de los ocho individuos identificados y detenidos has",
+      "date": "Thu, 12 Nov 2026 01:28:50 +0100",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "María Lejárraga, escritora en la Sombra",
+      "link": "https://www.abc.es/espana/madrid/maria-lejarraga-escritora-sombra-20261111011727-nt.html",
+      "desc": "María Lejárraga es una de esas personas que no nacieron en el momento adecuado. Su talento, su inquietud y su forma de mirar el mundo no se permitía en las costumbres de su tiempo. Nació en La Rioja en 1874, aunque desde niña su vida se hizo en Carabanchel , e",
+      "date": "Thu, 12 Nov 2026 01:17:27 +0100",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "«Sabemos dónde vives. Fuck patria»: la amenaza de bandas latinas acaba con un menor herido y dos detenidos",
+      "link": "https://www.abc.es/espana/madrid/sabemos-vives-fuck-patria-amenaza-bandas-latinas-20261111011712-nt.html",
+      "desc": "Un encontronazo, supuestamente por una chica, ha desembocado en una reyerta entre pandilleros, con un menor peruano de 14 años herido y otros dos detenidos. La escaramuza se venía larvando desde tiempo atrás, con notas amenazantes incluidas en la vivienda de u",
+      "date": "Thu, 12 Nov 2026 01:17:12 +0100",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Nvidia prepara el despido de Jensen Huang al descubrirse que tenía otra amante, además de la espía china",
+      "link": "https://www.lavanguardia.com/economia/20261112/11682155/nvidia-prepara-despido-jensen-huang-descubrirse-tenia-amante-espia.html",
+      "desc": "The Wall Street Journal explica que el consejo de administración iba a relevar a su jefe tras su relación con una topo china, mientras que The New York Times desvela que el fundador y jefe mantenía otra relación íntima con una ejecutiva de la compañía",
+      "date": "12 Nov 2026 01:04:43 +0100",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
+    {
+      "title": "Impacto desigual de la huelga pero con notable movilización",
+      "link": "https://www.lavanguardia.com/economia/20261112/11681919/huelga-tuvo-impacto-limitado-centros-trabajo-gran-movilizacion-calle.html",
+      "desc": "Para los sindicatos, la protesta&nbsp; superó expectativas mientras que&nbsp; la CEOE la califica de “fracaso”",
+      "date": "12 Nov 2026 00:05:00 +0100",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
+    {
+      "title": "Más protestas que paro",
+      "link": "https://www.lavanguardia.com/opinion/20261112/11681966/mas-protestas-paro.html",
+      "desc": "El objetivo de los organizadores de la huelga se ha cumplido pero el problema sigue ahí y la solución no se vislumbra a corto plazo",
+      "date": "12 Nov 2026 00:05:00 +0100",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
+    {
+      "title": "Feijóo se examina en 'El Hormiguero'",
+      "link": "https://www.lavanguardia.com/politica/20261111/11681968/feijoo-examina-hormiguero.html",
+      "desc": "",
+      "date": "11 Nov 2026 23:44:13 +0100",
       "source": "La Vanguardia",
       "color": "#8e44ad",
       "feedId": "LaVanguardia",
@@ -43,200 +223,20 @@
       "caso": "other"
     },
     {
+      "title": "Abascal entona el “visca Catalunya” en busca de triplicar escaños",
+      "link": "https://www.lavanguardia.com/politica/20261111/11681824/abascal-entona-visca-catalunya-busca-triplicar-escanos.html",
+      "desc": "El candidato pide aparcar las diferencias del ´procés´ para hacer frente al “invasor” que busca imponer el islamismo radical",
+      "date": "11 Nov 2026 21:20:37 +0100",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
+    {
       "title": "Canarias sale masivamente a las calles por el acceso a la vivienda y salarios dignos",
       "link": "https://www.abc.es/espana/canarias/canarias-sale-masivamente-calles-acceso-vivienda-salarios-20261111211302-nt.html",
       "desc": "La jornada de Huelga General en Canarias toma su recta final con multitudinarias manifestaciones en las capitales de las islas, donde varios miles de personas han tomado las calles superando las expectativas de los sindicatos convocantes. Con un circuito por e",
       "date": "Wed, 11 Nov 2026 21:13:03 +0100",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Agreden a dos miembros del PP vasco en Barakaldo durante la huelga general",
-      "link": "https://www.abc.es/espana/pais-vasco/agreden-dos-miembros-pp-vasco-barakaldo-huelga-20261111211258-nt.html",
-      "desc": "Dos miembros del Partido Popular del País Vasco han sido agredidos durante una marcha convocada con motivo de la huelga general en el municipio vizcaíno de Barkaldo. La sede del PP en esta localidad de la margen izquierda de la ría bilbaína ha sido vandalizada",
-      "date": "Wed, 11 Nov 2026 21:12:58 +0100",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Resignación en Piedralaves por el desalojo debido al «riesgo» que presenta su presa: «Ya no sabes a qué más te vas a enfrentar»",
-      "link": "https://www.abc.es/espana/castilla-leon/resignacion-piedralaves-desalojo-debido-riesgo-presenta-presa-20261111210725-nt.html",
-      "desc": "«Es como una pista de patinaje. Resbala todo». Javier Izquierdo lo sabe bien. Trabaja y vive del campo. En concreto, de la ganadería que comparte con sus tíos en Piedralaves , al sur de la provincia de Ávila. La misma zona que en verano sufrió el incendio de B",
-      "date": "Wed, 11 Nov 2026 21:07:25 +0100",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Núñez sostiene que Feijóo devolverá a España «la decencia, el respeto a la ley y el sentido común»",
-      "link": "https://www.abc.es/espana/castilla-la-mancha/nunez-sostiene-feijoo-devolvera-espana-decencia-respeto-20261111205901-nt.html",
-      "desc": "El presidente del Partido Popular de Castilla-La Mancha, Paco Núñez, ha defendido que Alberto Núñez Feijóo liderará un Gobierno de «reconstrucción nacional» que devolverá a España la decencia, el respeto a la ley y el sentido común. Así lo ha afirmado durante ",
-      "date": "Wed, 11 Nov 2026 20:59:02 +0100",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Heridas graves dos menores al ser atropelladas por un vehículo en Getafe",
-      "link": "https://www.abc.es/espana/madrid/heridas-graves-dos-menores-atropelladas-vehiculo-getafe-20261111205841-nt.html",
-      "desc": "Dos menores de 15 y 13 años han resultado heridas potencialmente graves al ser atropelladas por un vehículo este miércoles en el cruce de las calles San Sebastián y la avenida Juan de la Cierva en Getafe. La primera llamada al Centro de Emergencias 112 de la C",
-      "date": "Wed, 11 Nov 2026 20:58:41 +0100",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Los altercados empañan la jornada de huelga en Barcelona",
-      "link": "https://www.lavanguardia.com/fotos/20261111/11681920/altercados-empanan-jornada-huelga-barcelona.html",
-      "desc": "Varias personas con la cara tapada protagonizan episodios violentos, enfrentamientos contra la policía y el destrozo de varios locales y escaparates",
-      "date": "11 Nov 2026 20:57:00 +0100",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "“Salarios de aquí, precios de Dinamarca”",
-      "link": "https://www.lavanguardia.com/economia/20261111/11681917/salarios-precios-dinamarca.html",
-      "desc": "La marcha por la vivienda en Barcelona capitaliza una huelga general de baja intensidad",
-      "date": "11 Nov 2026 20:52:25 +0100",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "Nicolás: «Los trabajadores no entienden la huelga y no quieren perder el ingreso del día»",
-      "link": "https://www.abc.es/espana/castilla-la-mancha/cecam-huelga-politica-cuenta-respaldo-trabajadores-20261111204049-nt.html",
-      "desc": "La participación en la huelga general en el sector privado no ha alcanzado el 5% en Castilla-La Mancha, según los datos trasladados desde la Confederación Regional de Empresarios de Castilla-La Mancha (Cecam) , quien ha considerado que el seguimiento está sien",
-      "date": "Wed, 11 Nov 2026 20:40:49 +0100",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Más de 100.000 personas recorren Madrid pese a la lluvia para pedir soluciones al problema de la vivienda",
-      "link": "https://www.lavanguardia.com/economia/20261111/11681915/mas-100-000-personas-recorren-madrid-pese-lluvia-pedir-soluciones-problema-vivienda.html",
-      "desc": "Los líderes de CC.OO. y UGT no lideran la gran manifestación del 11 de noviembre",
-      "date": "11 Nov 2026 20:34:56 +0100",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "Los sindicatos desafían a la lluvia en Toledo al grito de «casas para vivir y no para especular»",
-      "link": "https://www.abc.es/espana/castilla-la-mancha/toledo/sindicatos-desafian-lluvia-toledo-grito-casas-vivir-20261111203120-nt.html",
-      "desc": "Sin miedo a la lluvia. Cientos de personas, -4.000 según los sindicatos y 1.800 según la Delegación del Gobierno-, han salido a la calle en Toledo, a pesar del mal tiempo, para exigir viviendas dignas, subidas salariales y un control del precio de la vida , un",
-      "date": "Wed, 11 Nov 2026 20:31:20 +0100",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Marta Bosquet, elegida como la primera mujer Defensora del Pueblo Andaluz con los votos de PP-A y Vox",
-      "link": "https://www.abc.es/espana/andalucia/marta-bosquet-elegida-primera-mujer-defensora-pueblo-20261111201358-nts.html",
-      "desc": "La que fuera presidenta del Parlamento andaluz en la XI Legislatura y diputada de Ciudadanos (CS) por Almería Marta Bosquet ha sido elegida este miércoles, 11 de noviembre, como nueva Defensora del Pueblo Andaluz -la primera mujer que alcanza dicha responsabil",
-      "date": "Wed, 11 Nov 2026 20:16:06 +0100",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Otra oleada de disturbios sacude el centro de Barcelona tras la manifestación por la huelga general",
-      "link": "https://www.abc.es/espana/cataluna/disturbios-barcelona-tras-manifestacion-huelga-general-mossos-20261111200654-nt.html",
-      "desc": "Faltan escasos minutos para la medianoche, y varios agentes de la Guardia Urbana custodian la tienda Geox de la Gran Vía. El escaparate, destrozado. Vidrios en la acera. Sólo unos metros más allá, boquetes en los de H&amp;M, con las protecciones de madera arra",
-      "date": "Wed, 11 Nov 2026 20:06:55 +0100",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Cientos de personas desafían al temporal y salen a la calle en la huelga general en Málaga",
-      "link": "https://www.abc.es/espana/andalucia/malaga/cientos-personas-desafian-temporal-salen-calle-huelga-20261111195653-nts.html",
-      "desc": "La mañana ha empezado en calle Larios, y ha empezado con mucho ruido. A golpe de tambor, los piquetes de Comisiones Obreras, CGT y UGT han recorrido el corazón de la capital. Han entrado en las tiendas, se han asomado a los bares y han repetido el mismo mensaj",
-      "date": "Wed, 11 Nov 2026 19:56:53 +0100",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Muere una persona en Arteixo tras ser alcanzada por una máquina agrícola",
-      "link": "https://www.abc.es/espana/galicia/muere-persona-arteixo-tras-alcanzada-maquina-agricola-20261111195128-nt.html",
-      "desc": "Una persona ha fallecido este miércoles en Arteixo (La Coruña) tras ser alcanzada por una máquina agrícola mientras trabajaba con ella en una finca de un familiar. Según ha informado el 112 Galicia, en torno a las 16.00 horas la Central recibió un aviso de Urg",
-      "date": "Wed, 11 Nov 2026 19:51:29 +0100",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Cierre de parques y instalaciones deportivas exteriores por el viento",
-      "link": "https://www.abc.es/espana/castilla-leon/cierre-parques-instalaciones-deportivas-exteriores-viento-20261111194835-nt.html",
-      "desc": "Tras la lluvia, o más junto a las precipitaciones, el viento. Charles toma el relevo a la borrasca Bruna y lo hace activando las alertas por la potencia que puede alcanzar Eolo a la hora de soplar. Motivo por el que ayuntamiento como el de Valladolid o Ávila p",
-      "date": "Wed, 11 Nov 2026 19:48:35 +0100",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "La huelga pincha en Madrid pese al intento de boicot de los piquetes al comercio del centro",
-      "link": "https://www.abc.es/espana/madrid/huelga-pincha-madrid-pese-intento-boicot-piquetes-20261111194607-nt.html",
-      "desc": "Llegó el 11 de noviembre, pero en Madrid dejó más ruido que otra cosa. El de los piquetes informativos , que se esforzaron, sobre todo, en impedir que el comercio y demás negocios del sector servicios subieran sus persianas, con bastante poco éxito. El seguimi",
-      "date": "Wed, 11 Nov 2026 19:46:07 +0100",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "La huelga recoge un malestar de fondo, pero dividido por la polarización política",
-      "link": "https://www.lavanguardia.com/politica/20261111/11681895/huelga-recoge-malestar-fondo-dividido-polarizacion-politica.html",
-      "desc": "La huelga del 11-N tiene paralelismos con la de 2012, en la que ya aparecía la vivienda",
-      "date": "11 Nov 2026 19:43:26 +0100",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "Seguimiento tibio de la huelga en Galicia: sin detenidos y con «escasos incidentes»",
-      "link": "https://www.abc.es/espana/galicia/seguimiento-tibio-huelga-galicia-detenidos-escasos-incidentes-20261111194049-nt.html",
-      "desc": "Catorce años después de la última convocatoria de huelga general, Galicia afrontó este 11 de noviembre con una jornada de paros resumida en un seguimiento tibio y desigual . La patronal en la Comunidad describió la respuesta de los trabajadores como «baja», re",
-      "date": "Wed, 11 Nov 2026 19:40:49 +0100",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Levantan la suspensión de clases y consultas en 31 pueblos del sur de Ávila, pero Piedralaves sigue evacuado",
-      "link": "https://www.abc.es/espana/castilla-leon/levantan-suspension-clases-consultas-pueblos-sur-avila-20261111193248-nt.html",
-      "desc": "La actividad lectiva y sanitaria volverá desde este jueves a 31 de los 32 pueblos del sur de Ávila en los que lleva suspendida desde que se acordó su suspensión en la tarde-noche del lunes vista la evolución de las intensas precipitaciones y las previsiones de",
-      "date": "Wed, 11 Nov 2026 19:32:48 +0100",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Un sindicalista resume la huelga en Andalucía: «Esto ya no es lo que era»",
-      "link": "https://www.abc.es/espana/andalucia/sindicalista-resume-huelga-andalucia-era-20261111183517-nts.html",
-      "desc": "«Las huelgas generales ya no son lo que eran, te lo digo yo que he estado toda la vida en un sindicato». El comentario se lo hacía un veterano sindicalista a otro a primera hora de la mañana, cuando la jornada de protestas estaba comenzando. El paro convocado ",
-      "date": "Wed, 11 Nov 2026 19:15:48 +0100",
       "source": "ABC",
       "color": "#c0392b",
       "feedId": "ABC",
