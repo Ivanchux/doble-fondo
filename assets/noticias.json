@@ -1,35 +1,235 @@
 {
-  "updated": "2026-11-22T13:56:22Z",
+  "updated": "2026-11-22T20:34:46Z",
   "count": 24,
   "items": [
     {
-      "title": "Alberto Núñez Feijóo, sobre la estrategia electoral del PSOE: «Quieren que te olvides de que tienen más imputados que diputados»",
-      "link": "https://www.abc.es/espana/alberto-nunez-feijoo-sobre-estrategia-electoral-psoe-20261122145334-nt.html",
-      "desc": "Después de ser el foco central en Valencia, con uno de los mítines más multitudinarios de esta campaña , el candidato del PP, Alberto Núñez Feijóo, continuó su recorrido electoral con un acto en Murcia. Los populares contaron con sus principales representantes",
-      "date": "Sun, 22 Nov 2026 14:53:34 +0100",
+      "title": "Rueda encara la última semana de campaña pidiendo llenar las urnas con «sentidiño a la gallega»",
+      "link": "https://www.abc.es/espana/galicia/rueda-encara-ultima-semana-campana-pidiendo-llenar-20261122212229-nt.html",
+      "desc": "Alfonso Rueda ha encarado este domingo la última semana de campaña con un mensaje dirigido a los votantes del Partido Popular: no dar por hecho el resultado y concentrar el apoyo en Alberto Núñez Feijóo. El presidente del PPdeG reclama un último esfuerzo de mo",
+      "date": "Sun, 22 Nov 2026 21:22:29 +0100",
       "source": "ABC",
       "color": "#c0392b",
       "feedId": "ABC",
       "caso": "other"
     },
     {
-      "title": "Rufián reprocha a Sánchez que se dejara «avasallar» por Feijóo y se reivindica dentro de ERC",
-      "link": "https://www.abc.es/espana/cataluna/rufian-reprocha-sanchez-dejara-avasallar-feijoo-reivindica-20261122144616-nt.html",
-      "desc": "Gabriel Rufián, candidato de ERC el 29N, se ha sumado este domingo a las críticas de la izquierda a Pedro Sánchez por su actuación en el cara a cara electoral con Alberto Núñez Feijóo. Como hiciera el sábado Ada Colau en el mitin central de Frente Amplio, el c",
-      "date": "Sun, 22 Nov 2026 14:46:16 +0100",
+      "title": "Falsa alarma por una posible bomba frente al Parlamento de Galicia",
+      "link": "https://www.abc.es/espana/galicia/falsa-alarma-posible-bomba-frente-parlamento-galicia-20261122211636-nt.html",
+      "desc": "Una mochila abandonada en las inmediaciones del Parlamento de Galicia, en Santiago de Compostela, provocó este domingo un despliegue policial ante la sospecha de que pudiera contener un artefacto explosivo. La intervención obligó a acordonar la zona y cortar p",
+      "date": "Sun, 22 Nov 2026 21:16:36 +0100",
       "source": "ABC",
       "color": "#c0392b",
       "feedId": "ABC",
       "caso": "other"
     },
     {
-      "title": "Jiménez de Rada, el arzobispo impulsor de la Catedral de Toledo, sigue esperando un homenaje",
-      "link": "https://www.abc.es/espana/castilla-la-mancha/jimenez-rada-arzobispo-impulsor-catedral-toledo-sigue-20261122141332-nt.html",
-      "desc": "El historiador Miguel Ángel Dionisio ha propuesto este domingo que Toledo honre la memoria del arzobispo Rodrigo Jiménez de Rada, impulsor de la construcción de la Catedral Primada, dedicándole una calle, una plaza o incluso un monumento. La sugerencia ha cerr",
-      "date": "Sun, 22 Nov 2026 14:13:33 +0100",
+      "title": "Velázquez acusa al PSOE de no destinar fondos europeos para garantizar el agua en Los Montes de Toledo",
+      "link": "https://www.abc.es/espana/castilla-la-mancha/toledo/pueblos/velazquez-acusa-psoe-destinar-fondos-europeos-garantizar-20261122210008-nt.html",
+      "desc": "El presidente provincial del PP de Toledo, alcalde de la capital regional y cabeza de lista al Congreso de los Diputados, Carlos Velázquez, ha reprochado a los gobiernos socialistas no haber aprovechado los fondos europeos para ejecutar las infraestructuras ne",
+      "date": "Sun, 22 Nov 2026 21:10:34 +0100",
       "source": "ABC",
       "color": "#c0392b",
       "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "El Arcángel no perdona a Jacobo González: un regreso entre silbidos y un ambiente hostil",
+      "link": "https://www.abc.es/espana/andalucia/cordoba/cordoba-cf/arcangel-perdona-jacobo-gonzalez-regreso-silbidos-ambiente-20261122204101-nts.html",
+      "desc": "El regreso de Jacobo González a El Arcángel estuvo lejos de ser el reencuentro que cualquier futbolista desearía con su antigua afición. El atacante del Real Oviedo volvió a pisar el césped cordobesista después de dos temporadas defendiendo la camiseta del Cór",
+      "date": "Sun, 22 Nov 2026 20:41:01 +0100",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "El Talavera remonta en el descuento y el Guadalajara golea al Atlético Albacete",
+      "link": "https://www.abc.es/espana/castilla-la-mancha/toledo/deportes/talavera-remonta-descuento-guadalajara-golea-atletico-albacete-20261122203723-nt.html",
+      "desc": "El CF Talavera protagonizó una remontada agónica ante el Atlético Tordesillas (2-1), mientras que el Deportivo Guadalajara firmó la goleada de la jornada al imponerse por 0-4 al Atlético Albacete. Fueron las dos victorias castellanomanchegas de la duodécima jo",
+      "date": "Sun, 22 Nov 2026 20:37:23 +0100",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Besteiro reivindica los derechos sociales frente a una «España en blanco y negro»",
+      "link": "https://www.abc.es/espana/galicia/besteiro-reivindica-derechos-sociales-frente-espana-blanco-20261122203335-nt.html",
+      "desc": "El secretario xeral del PSdeG, José Ramón Gómez Besteiro, reivindicó este domingo la defensa de los derechos y las libertades como uno de los ejes de las elecciones generales del 29 de noviembre. Desde Padrón, evocó el «yo soy libre» que Rosalía de Castro escr",
+      "date": "Sun, 22 Nov 2026 20:33:35 +0100",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "El bar de Madrid donde Pedro Sánchez ha grabado su entrevista con Gonzo para 'Salvados' en La Sexta: dónde está y cuál es",
+      "link": "https://www.abc.es/espana/madrid/bar-madrid-pedro-sanchez-grabado-entrevista-gonzo-20261122203000-nt.html",
+      "desc": "Cuando falta justo una semana para las elecciones generales , Pedro Sánchez vuelve a uno de los lugares que marcaron un antes y un después en su trayectoria política para una nueva entrega de 'Salvados'. Diez años después de sentarse frente a Jordi Évole para ",
+      "date": "Sun, 22 Nov 2026 20:30:00 +0100",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "La lluvia amenaza otra vez a Córdoba esta semana: así será el tiempo en los últimos días de noviembre",
+      "link": "https://www.abc.es/espana/andalucia/cordoba/lluvia-amenaza-vez-cordoba-semana-tiempo-ultimos-20261122201451-nts.html",
+      "desc": "El mes de noviembre encara su recta final en Córdoba con una previsión meteorológica marcada por los cambios. La semana que comienza estará protagonizada por una combinación de sol, nubes y algunos episodios de lluvia que podrían aparecer en distintos momentos",
+      "date": "Sun, 22 Nov 2026 20:14:51 +0100",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "El Cajasol Coto Córdoba recupera el pulso ante Fibwi Mallorca y da un gran paso para salir de la zona de peligro (68-83)",
+      "link": "https://www.abc.es/espana/andalucia/cordoba/cajasol-coto-cordoba-recupera-pulso-ante-fibwi-20261122201446-nts.html",
+      "desc": "El Cajasol Coto Córdoba cumplió en su prueba de fuego ante Fibwi Mallorca , colista de Primera FEB, en el que era un duelo directo para despegar de los puestos de descenso. El conjunto blanquiverde finalmente pudo finalmente poner fin a su racha de cuatro derr",
+      "date": "Sun, 22 Nov 2026 20:14:46 +0100",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "COP31: la derrota del último refugio del multilateralismo",
+      "link": "https://www.lavanguardia.com/natural/20261122/11690583/cop31-derrota-europa-campo-contrario.html",
+      "desc": "",
+      "date": "22 Nov 2026 20:02:35 +0100",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
+    {
+      "title": "El incendio de un edificio en Manresa (Barcelona) deja 15 heridos, uno grave, y una cuarentena de evacuados",
+      "link": "https://www.abc.es/espana/cataluna/incendio-edificio-manresa-barcelona-deja-heridos-cuarentena-20261122195944-nt.html",
+      "desc": "El incendio de un edificio en la calle Viladordis en Manresa (Barcelona), que ya ha sido controlado, ha dejado a 15 personas heridas, una de ellas en estado grave, 8 en estado menos grave y 6 en estado leve, y ha obligado a evacuar a una cuarentena de vecinos ",
+      "date": "Sun, 22 Nov 2026 19:59:45 +0100",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Cascajares dona 150 pavos al Vaticano para que personas vulnerables «puedan tener una Navidad más feliz»",
+      "link": "https://www.abc.es/espana/castilla-leon/cascajares-dona-150-pavos-vaticano-personas-vulnerables-20261122194505-nt.html",
+      "desc": "Desde la dehesa salmantina, donde son criados a bellota, hasta el Vaticano, pasando por la planta de Cascajares en Dueñas (Palencia) para intentar que familias vulnerables «puedan tener una Navidad más bonita y feliz». Es el viaje solidario que han hecho 150 p",
+      "date": "Sun, 22 Nov 2026 19:46:33 +0100",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Chamorro (Vox) defiende la prioridad nacional, la remigración y la bajada de impuestos en Ciudad Real",
+      "link": "https://www.abc.es/espana/castilla-la-mancha/chamorro-vox-defiende-prioridad-nacional-remigracion-bajada-20261122194347-nt.html",
+      "desc": "El diputado y candidato de Vox al Congreso por Ciudad Real, Ricardo Chamorro, ha defendido este domingo la prioridad nacional, la desregulación y la remigración como algunos de los principales ejes del programa de su formación para las elecciones generales del",
+      "date": "Sun, 22 Nov 2026 19:43:48 +0100",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Al menos un muerto y dos heridos en la explosión de una vivienda en Rudilla (Teruel)",
+      "link": "https://www.abc.es/espana/aragon/muerto-dos-heridos-explosion-vivienda-rudilla-teruel-20261122194138-nt.html",
+      "desc": "Una persona ha muerto y otras dos han resultado heridas en una explosión registrada este domingo en la localidad turolense de Rudilla, perteneciente al municipio de Huesa del Común, según ha informado la Diputación Provincial (DPT). Los bomberos de la DPT han ",
+      "date": "Sun, 22 Nov 2026 19:42:12 +0100",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Posible ataque de Ucrania contra un buque de guerra ruso en un puerto de Libia",
+      "link": "https://www.lavanguardia.com/internacional/20261122/11690571/posible-ataque-ucrania-buque-guerra-ruso-puerto-libia.html",
+      "desc": "Funcionarios libios aseguran que los drones eran ucranianos y fueron lanzados desde una base en el oeste del país magrebí",
+      "date": "22 Nov 2026 19:33:17 +0100",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
+      "caso": "other"
+    },
+    {
+      "title": "Nueva ley de educación digital gallega: «No es en la escuela donde los niños están una hora haciendo scroll en Tiktok»",
+      "link": "https://www.abc.es/espana/galicia/nueva-ley-educacion-digital-gallega-escuela-ninos-20261119191427-nt.html",
+      "desc": "Hace más de una década, las nuevas tecnologías entraron en las escuelas por la puerta grande. Poco se sabía del impacto negativo de las pantallas en el proceso de aprendizaje y nada se intuía de lo que las redes sociales y su empleo -masivo, un 96% de los niño",
+      "date": "Sun, 22 Nov 2026 19:14:27 +0100",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Ansiedad, estrés e incertidumbre: las preocupaciones que más pesan entre los universitarios",
+      "link": "https://www.abc.es/espana/galicia/ansiedad-estres-incertidumbre-preocupaciones-pesan-universitarios-20261121191359-nt.html",
+      "desc": "La pandemia queda bien atrás en las aulas universitarias: ya no hay clases a distancia de seguridad ni el temor a asistir para luego contagiar al entorno familiar. Pero aquellos problemas tuvieron entonces un impacto crítico en la salud psicológica de los estu",
+      "date": "Sun, 22 Nov 2026 19:13:59 +0100",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Pontón llama al voto reclamando «menos gasto militar y más gasto social»",
+      "link": "https://www.abc.es/espana/galicia/ponton-llama-voto-reclamando-gasto-militar-gasto-20261122190541-nt.html",
+      "desc": "La portavoz nacional del BNG, Ana Pontón, ha llamado este domingo a concentrar el voto gallego en su formación para reforzar la representación de Galicia en Madrid y defender «una vida digna» ante las elecciones generales del 29 de noviembre. La dirigente tras",
+      "date": "Sun, 22 Nov 2026 19:05:41 +0100",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Mañueco se suma «como un afiliado más» para hacer campaña con el PP de Salamanca buscando el «voto a voto»",
+      "link": "https://www.abc.es/espana/castilla-leon/manueco-suma-afiliado-campana-pp-salamanca-buscando-20261122190208-nt.html",
+      "desc": "«Como un afiliado más» del Partido Popular de Salamanca, su tierra, el presidente de la formación en Castilla y León, Alfonso Fernández Mañueco, se sumaba en la mañana de este domingo, el último antes de las elecciones del generales del 29 de noviembre, a hace",
+      "date": "Sun, 22 Nov 2026 19:02:09 +0100",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "El patrimonio inmobiliario de Pedro Sánchez: dos viviendas, dos plazas de aparcamiento y 6.622 euros anuales por alquilar inmuebles",
+      "link": "https://www.abc.es/espana/patrimonio-inmobiliario-pedro-sanchez-dos-viviendas-dos-20261122190000-nt.html",
+      "desc": "La vivienda en España lleva meses en el ojo del huracán, más aún después de que el fracaso del Gobierno para aprobar los decretos Maricarmen precipitara el adelanto electoral anunciado por Pedro Sánchez a principios de octubre. Ahora, a solo una semana de las ",
+      "date": "Sun, 22 Nov 2026 19:00:01 +0100",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "Bailad, malditos",
+      "link": "https://www.abc.es/espana/bailad-malditos-20261122185656-nt.html",
+      "desc": "Hay un vídeo de esos en los que Sánchez baila. Tras él hay una pared bolivariana de camisetas que dicen «fuerza». Los militantes se agitan enloquecidamente. Bailan sobre las tumbas de los muertos de Urda y sobre la separación de poderes y sobre la dignidad de ",
+      "date": "Sun, 22 Nov 2026 18:56:56 +0100",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "La Copa del Mundo de España podrá visitarse gratis este lunes y martes en Toledo",
+      "link": "https://www.abc.es/espana/castilla-la-mancha/toledo/copa-mundo-espana-podra-visitarse-gratis-lunes-20261122183427-nt.html",
+      "desc": "La Copa del Mundo conquistada por la selección española absoluta masculina de fútbol podrá visitarse este lunes y martes en Toledo . El trofeo estará expuesto en el Palacio de Fuensalida , sede de la Presidencia de Castilla-La Mancha , donde el presidente regi",
+      "date": "Sun, 22 Nov 2026 18:34:27 +0100",
+      "source": "ABC",
+      "color": "#c0392b",
+      "feedId": "ABC",
+      "caso": "other"
+    },
+    {
+      "title": "ERC pide aglutinar el voto progresista: “Votar PSC es votar Adif, Renfe y el desastre de Rodalies”",
+      "link": "https://www.lavanguardia.com/politica/20261122/11690472/erc-pide-aglutinar-voto-progresista-votar-psc-votar-adif-renfe-desastre-rodalies.html",
+      "desc": "Rufián cita a Pasqual Maragall para interpelar al “votante socialista, catalanista y progresista” y promete “una izquierda que no se deje avasallar, a diferencia de Sánchez” ante el PP y Vox",
+      "date": "22 Nov 2026 15:44:38 +0100",
+      "source": "La Vanguardia",
+      "color": "#8e44ad",
+      "feedId": "LaVanguardia",
       "caso": "other"
     },
     {
@@ -40,206 +240,6 @@
       "source": "La Vanguardia",
       "color": "#8e44ad",
       "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "Feijóo insiste en la prudencia tras ganar a Sánchez en el debate: “España no puede permitirse lo que ocurrió en 2023”",
-      "link": "https://www.lavanguardia.com/politica/20261122/11690458/feijoo-insiste-prudencia-ganar-sanchez-debate-espana-permitirse-ocurrio-2023.html",
-      "desc": "El lider del PP recuerda que ya saben lo que es vencer en un debate y en unas elecciones y no formar gobierno y señala que los socialistas “están muertos de miedo” porque una “mayoría de españoles quiere cambio”",
-      "date": "22 Nov 2026 14:01:42 +0100",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "Centenares de viajeros atrapados en la T4 de Barajas por una avería del tren que une con la Terminal Satélite",
-      "link": "https://www.abc.es/espana/madrid/centenares-viajeros-atrapados-averia-tren-une-terminal-20261122134839-nt.html",
-      "desc": "«Debido a una incidencia técnica en el tren que comunica la T4 y T4 Satélite operado por Alstom, el servicio se está prestando con autobuses. Se recomienda a los pasajeros que tengan que realizar un vuelo internacional en T4S que acudan con antelación al aerop",
-      "date": "Sun, 22 Nov 2026 13:48:39 +0100",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Núñez promete que Feijóo será «el presidente del mundo rural» y anuncia 40.000 millones para un Plan Nacional de Aguas",
-      "link": "https://www.abc.es/espana/castilla-la-mancha/nunez-promete-feijoo-presidente-mundo-rural-anuncia-20261122134835-nt.html",
-      "desc": "El presidente del Partido Popular de Castilla-La Mancha, Paco Núñez , ha defendido que Alberto Núñez Feijóo será «el presidente del mundo rural» y ha asegurado que su proyecto político apuesta por el desarrollo de los municipios, la agricultura y la ganadería.",
-      "date": "Sun, 22 Nov 2026 13:48:36 +0100",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Investigan la aparición de una persona muerta en una calle de Burela",
-      "link": "https://www.abc.es/espana/galicia/investigan-aparicion-persona-muerta-calle-burela-20261122134521-nt.html",
-      "desc": "La aparición del cuerpo sin vida de una persona en plena vía pública en Burela (Lugo) ha motivado la apertura de una investigación judicial para esclarecer las circunstancias del fallecimiento. El cadáver fue localizado durante la mañana de este domingo en la ",
-      "date": "Sun, 22 Nov 2026 13:45:21 +0100",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Última hora de la campaña electoral, en directo: noticias de las elecciones generales 29N hoy",
-      "link": "https://www.abc.es/espana/ganador-debate-cara-cara-sanchez-feijoo-directo-20261120074658-di.html",
-      "desc": "Último domingo antes de las elecciones del 29 de noviembre. Los candidatos continúan celebrando mítines por todo el territorial nacional. El barómetro de GAD3 para ABC consolida una holgada mayoría absoluta para el bloque de derechas con 194 escaños. Aunque el",
-      "date": "Sun, 22 Nov 2026 13:41:44 +0100",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "La Junta firmará convenios con los cazadores para poner criaderos que permitan recuperar la liebre autóctona",
-      "link": "https://www.abc.es/espana/castilla-leon/junta-firmara-convenios-cazadores-poner-criaderos-permitan-20261122133010-nt.html",
-      "desc": "El consejero de Agricultura, Ganadería, Medio Rural y Política Ambiental, Joaquín Antonio Pino, anunciaba este domingo la firma de convenios con las federaciones y asociaciones de cazadores de cada uno de los pueblos de la Comunidad para «montar una serie de c",
-      "date": "Sun, 22 Nov 2026 13:30:11 +0100",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Sánchez se conjura contra el 'sorpasso' de Vox al PSOE en Murcia",
-      "link": "https://www.abc.es/espana/sanchez-conjura-sorpasso-vox-psoe-murcia-20261122131843-nt.html",
-      "desc": "Pedro Sánchez se ha reservado el último domingo de campaña, una semana antes de que los españoles acudan a votar a las urnas, para un emplazamiento poco habitual: Murcia. Una comunidad que podría englobarse dentro de los territorios hostiles, dominados por la ",
-      "date": "Sun, 22 Nov 2026 13:19:28 +0100",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Catalá, sobre la «metáfora» de Morant de abofetear a Feijóo: «Son el partido del odio»",
-      "link": "https://www.abc.es/espana/comunidad-valenciana/catala-sobre-metafora-morant-abofetear-feijoo-partido-20261122131045-nt.html",
-      "desc": "La alcaldesa de Valencia y cabeza de lista del Partido Popular al Congreso, María José Catalá, ha denunciado las declaraciones de la ministra de Ciencia, Innovación y Universidades, Diana Morant, en un mitin del PSOE en Ontinyent, donde aseguró sobre el debate",
-      "date": "Sun, 22 Nov 2026 13:15:29 +0100",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Pujol pide el voto para Nogueras en el mitin central de Junts: “Han hecho buen trabajo y lo seguirán haciendo”",
-      "link": "https://www.lavanguardia.com/politica/20261122/11690402/pujol-pide-voto-nogueras-mitin-central-junts-han-hecho-buen-trabajo-seguiran-haciendo.html",
-      "desc": "El expresidente de la Generalitat iba a participar por primera vez en un mitin electoral de Junts de forma presencial, pero al final ha grabado un vídeo de apoyo a la líder posconvergente por motivos de salud&nbsp;",
-      "date": "22 Nov 2026 13:15:17 +0100",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "Junts exhibe músculo convergente en su mitin central y pide salir a la ofensiva por Catalunya",
-      "link": "https://www.lavanguardia.com/politica/20261122/11690422/junts-exhibe-musculo-convergente-mitin-central-pide-salir-ofensiva-catalunya.html",
-      "desc": "Miriam Nogueras ha contado con la intervención de tres expresidentes de la Generalitat, Jordi Pujol, Artur Mas y Carles Puigdemont y sostiene que el día 29 “o se vota Catalunya o se vota España”",
-      "date": "22 Nov 2026 13:10:52 +0100",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "Más de 500 personas participan en Toledo en la Carrera y Marcha Solidaria por la Diabetes",
-      "link": "https://www.abc.es/espana/castilla-la-mancha/toledo/500-personas-participan-toledo-carrera-marcha-solidaria-20261122130706-nt.html",
-      "desc": "Más de 500 personas han participado este domingo en Toledo en la X Carrera y XI Marcha Solidaria por la Diabetes , una cita que ha regresado al Paseo de la Vega tras su remodelación y que ha vuelto a completar todas sus inscripciones. El alcalde de Toledo, Car",
-      "date": "Sun, 22 Nov 2026 13:07:07 +0100",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Castilla y León suma 1.620 donantes de médula ósea inscritos en 2026, el doble que el año pasado",
-      "link": "https://www.abc.es/espana/castilla-leon/castilla-leon-suma-1620-donantes-medula-osea-20261122130452-nt.html",
-      "desc": "Castilla y León cuenta con 1.620 donantes inscritos en el Registro Español de Donantes de Médula Ósea (Redmo), gestionado por la Fundación Josep Carreras, hasta noviembre del año 2026, lo que duplica la cifra del año 2025 en la que hubo 813. En un comunicado r",
-      "date": "Sun, 22 Nov 2026 13:04:52 +0100",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Córdoba CF - Real Oviedo en directo: resumen, goles y minuto a minuto del partido de Segunda División 2026-2027",
-      "link": "https://www.abc.es/espana/andalucia/cordoba/cordoba-cf/cordoba-real-oviedo-directo-resumen-goles-minuto-20261122130150-dis.html",
-      "desc": "El Córdoba CF quiere aprovechar el impulso de El Arcángel para seguir ganando terreno en la pelea por el play off. El conjunto blanquiverde recibe este domingo al Real Oviedo (14.00 horas) con cinco jornadas consecutivas sin perder y la posibilidad de encadena",
-      "date": "Sun, 22 Nov 2026 13:01:50 +0100",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Indignación por la detención de dos personas por agentes del ICE en el aeropuerto de Seattle",
-      "link": "https://www.lavanguardia.com/internacional/20261122/11690432/detencion-dos-pasajeros-agentes-ice-encapuchados-aeropuerto-seattle-desata-indignacion.html",
-      "desc": "El gobernador de Washington denuncia los métodos de la agencia migratoria, mientras la aerolínea investiga si se respetaron los protocolos de seguridad",
-      "date": "22 Nov 2026 12:56:03 +0100",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "Las nubes no empañan las ganas de marchar contra el cáncer en Salamanca",
-      "link": "https://www.abc.es/espana/castilla-leon/nubes-empanan-ganas-marchar-cancer-salamanca-20261122125428-nt.html",
-      "desc": "Las nubes con que amanecía el domingo en Salamanca no empañaban las ganas de la ciudadanía de participar en XII Marcha contra el Cáncer, organizada por la Asociación Española Contra el Cáncer (AECC), por una buena causa, como lo es favorecer la investigación d",
-      "date": "Sun, 22 Nov 2026 12:54:28 +0100",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Pedro Sánchez vuelve a Andalucía para activar el antiguo granero socialista tras las críticas por su baile en Sevilla",
-      "link": "https://www.abc.es/espana/andalucia/cordoba/pedro-sanchez-vuelve-andalucia-activar-voto-antiguo-20261122124053-nts.html",
-      "desc": "Con la campaña entrando en su última semana y las encuestas, salvo el CIS de José Félix Tezanos, pronosticando una mayoría absoluta para el bloque de la derecha, Pedro Sánchez vuelve a pisar suelo andaluz este lunes en Córdoba. Arropado por su coordinadora de ",
-      "date": "Sun, 22 Nov 2026 12:40:53 +0100",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "La cuchara vuelve a mandar en Molino de Pez",
-      "link": "https://www.abc.es/espana/cataluna/cuchara-vuelve-mandar-molino-pez-20261122123807-nt.html",
-      "desc": "La llegada del frío devuelve a la cuchara el protagonismo en Molino de Pez. Las lentejas de la abuela y el cocido madrileño de los jueves , servido en tres vuelcos, encabezan una carta que reivindica los guisos lentos y las recetas de siempre. La propuesta de ",
-      "date": "Sun, 22 Nov 2026 12:38:07 +0100",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "Los criminólogos madrileños analizan la irrupción de la IA para prevenir delitos, la atención a las víctimas y la seguridad",
-      "link": "https://www.abc.es/espana/madrid/criminologos-madrilenos-analizan-irrupcion-ia-prevenir-delitos-20261122123518-nt.html",
-      "desc": "El Colegio Profesional de la Criminología de Madrid (CPCM) celebrará los próximos 25, 26 y 27 de noviembre el III Congreso de Criminología de la Comunidad de Madrid, que reunirá en la capital a profesionales, docentes, investigadores, estudiantes, periodistas ",
-      "date": "Sun, 22 Nov 2026 12:35:18 +0100",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
-      "caso": "other"
-    },
-    {
-      "title": "El Villarreal sorprende al Barça con dos goles en seis minutos y Lamine Yamal falla un penalti (0-2)",
-      "link": "https://www.lavanguardia.com/deportes/futbol/20261122/11690368/barcelona-villarreal-laliga-ea-sports-partido-futbol-hoy-en-directo.html",
-      "desc": "",
-      "date": "22 Nov 2026 12:30:07 +0100",
-      "source": "La Vanguardia",
-      "color": "#8e44ad",
-      "feedId": "LaVanguardia",
-      "caso": "other"
-    },
-    {
-      "title": "Seis meses de cárcel por insultar a un hombre magrebí en un local de apuestas: «Vuélvete a tu país»",
-      "link": "https://www.abc.es/espana/comunidad-valenciana/seis-meses-carcel-insultar-hombre-magrebi-local-20261122122817-nt.html",
-      "desc": "La sección quinta de la Audiencia Provincial de Valencia ha condenado a un hombre a seis meses de prisión por humillar e insultar a otro, de origen magrebí, por su condición de extranjero, en un local de apuestas de Sagunto: «Moro de mierda, hueles mal», le es",
-      "date": "Sun, 22 Nov 2026 12:28:17 +0100",
-      "source": "ABC",
-      "color": "#c0392b",
-      "feedId": "ABC",
       "caso": "other"
     }
   ]
